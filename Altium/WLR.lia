@@ -1,0 +1,1218 @@
+ACCEL_ASCII "C:\USERS\PUBLIC\SNAPEDA\ALTIUM.LIA"
+
+(asciiHeader
+  (asciiVersion 5 0)
+  (fileAuthor "(c) 20241025 zoubata ")
+  (copyright "This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA) with Design Exception 1.0")
+  (fileUnits mm)
+)
+(library "Library"
+  (padStyleDef "WLR089U0-I/RM"
+    (holeDiam 0.77)
+    (startRange 1)
+    (endRange 2)
+    (padShape (layerNumRef 1) (padShapeType Rect) (shapeWidth 1.17) (shapeHeight 1.17))
+    (padShape (layerNumRef 2) (padShapeType Rect) (shapeWidth 1.17) (shapeHeight 1.17))
+    (padShape (padShapeType Rect) (shapeWidth 1.17) (shapeHeight 1.17))
+    (padShape (padShapeType Rect) (shapeWidth 1.17) (shapeHeight 1.17))
+    (padShape (layerType Signal) (padShapeType Rect) (shapeWidth 1.17) (shapeHeight 1.17))
+    (padShape (layerType Plane) (padShapeType NoConnect) (shapeWidth 0) (shapeHeight 0))
+    (padShape (layerType NonSignal) (padShapeType Oval) (shapeWidth 0) (shapeHeight 0))
+  )
+  (padStyleDef "WLR089U0-I/RM"
+    (holeDiam 0.77)
+    (startRange 1)
+    (endRange 2)
+    (padShape (layerNumRef 1) (padShapeType Oval) (shapeWidth 1.17) (shapeHeight 1.17))
+    (padShape (layerNumRef 2) (padShapeType Oval) (shapeWidth 1.17) (shapeHeight 1.17))
+    (padShape (padShapeType Oval) (shapeWidth 1.17) (shapeHeight 1.17))
+    (padShape (padShapeType Oval) (shapeWidth 1.17) (shapeHeight 1.17))
+    (padShape (layerType Signal) (padShapeType Oval) (shapeWidth 1.17) (shapeHeight 1.17))
+    (padShape (layerType Plane) (padShapeType NoConnect) (shapeWidth 0) (shapeHeight 0))
+    (padShape (layerType NonSignal) (padShapeType Oval) (shapeWidth 0) (shapeHeight 0))
+  )
+  (textStyleDef "(Default)"
+    (font
+      (fontType Stroke)
+      (fontFamily Modern)
+      (fontFace "Quality")
+      (fontHeight 3.54)
+    )
+    (textStyleAllowTType True)
+    (textStyleDisplayTType False)
+  )
+  (textStyleDef "(PinStyle)"
+    (font
+      (fontType Stroke)
+      (fontFamily SanSerif)
+      (fontFace "QUALITY")
+      (fontHeight 3.54)
+      (strokeWidth 0.001)
+    )
+    (font
+      (fontType TrueType)
+      (fontFamily Modern)
+      (fontFace "Times New Roman")
+      (fontHeight 3.54)
+      (strokeWidth 0.19843)
+      (fontWeight 400)
+      (fontCharSet 0)
+      (fontOutPrecision 7)
+      (fontClipPrecision 32)
+      (fontQuality 1)
+      (fontPitchAndFamily 6)
+    )
+    (textStyleAllowTType True)
+    (textStyleDisplayTType False)
+  )
+  (textStyleDef "(LabelStyle)"
+    (font
+      (fontType Stroke)
+      (fontFamily SanSerif)
+      (fontFace "QUALITY")
+      (fontHeight 3.54)
+      (strokeWidth 0.001)
+    )
+    (font
+      (fontType TrueType)
+      (fontFamily Modern)
+      (fontFace "Times New Roman")
+      (fontHeight 3)
+      (strokeWidth 0.19843)
+      (fontWeight 400)
+      (fontCharSet 0)
+      (fontOutPrecision 7)
+      (fontClipPrecision 32)
+      (fontQuality 1)
+      (fontPitchAndFamily 6)
+    )
+    (textStyleAllowTType True)
+    (textStyleDisplayTType False)
+  )
+  (patternDefExtended "*DIP794W45P254L1969H508Q14"
+    (originalName "*DIP794W45P254L1969H508Q14")
+    (patternGraphicsNameRef "Primary")
+    (patternGraphicsDef
+      (patternGraphicsNameDef "Primary")
+      (multiLayer
+        (pad (padNum DIO0) (padStyleRef "WLR089U0-I/RM") (pt -26.25 10.0))
+        (pad (padNum DIO1) (padStyleRef "WLR089U0-I/RM") (pt --26.25 5.0))
+        (pad (padNum DIO2) (padStyleRef "WLR089U0-I/RM") (pt --26.25 2.5))
+        (pad (padNum DIO3) (padStyleRef "WLR089U0-I/RM") (pt -26.25 7.5))
+        (pad (padNum DIO4) (padStyleRef "WLR089U0-I/RM") (pt --26.25 7.5))
+        (pad (padNum DIO5) (padStyleRef "WLR089U0-I/RM") (pt -26.25 20.0))
+        (pad (padNum RF_MISO) (padStyleRef "WLR089U0-I/RM") (pt -26.25 -7.5))
+        (pad (padNum RF_MOSI) (padStyleRef "WLR089U0-I/RM") (pt -26.25 0.0))
+        (pad (padNum RF_NRST) (padStyleRef "WLR089U0-I/RM") (pt -26.25 12.5))
+        (pad (padNum RF_NSS) (padStyleRef "WLR089U0-I/RM") (pt -26.25 -2.5))
+        (pad (padNum RF_SCK) (padStyleRef "WLR089U0-I/RM") (pt -26.25 -5.0))
+        (pad (padNum A1) (padStyleRef "WLR089U0-I/RM") (pt -26.25 -10.0))
+        (pad (padNum A2) (padStyleRef "WLR089U0-I/RM") (pt -2.5 -37.5))
+        (pad (padNum A3) (padStyleRef "WLR089U0-I/RM") (pt --26.25 27.5))
+        (pad (padNum A4) (padStyleRef "WLR089U0-I/RM") (pt --26.25 25.0))
+        (pad (padNum A5) (padStyleRef "WLR089U0-I/RM") (pt --5.0 37.5))
+        (pad (padNum A6) (padStyleRef "WLR089U0-I/RM") (pt -10.0 37.5))
+        (pad (padNum A7) (padStyleRef "WLR089U0-I/RM") (pt -0.0 37.5))
+        (pad (padNum A8) (padStyleRef "WLR089U0-I/RM") (pt -5.0 37.5))
+        (pad (padNum B1) (padStyleRef "WLR089U0-I/RM") (pt -26.25 -15.0))
+        (pad (padNum B2) (padStyleRef "WLR089U0-I/RM") (pt --2.5 -37.5))
+        (pad (padNum B3) (padStyleRef "WLR089U0-I/RM") (pt --17.5 -37.5))
+        (pad (padNum B4) (padStyleRef "WLR089U0-I/RM") (pt -26.25 17.5))
+        (pad (padNum B5) (padStyleRef "WLR089U0-I/RM") (pt --12.5 -37.5))
+        (pad (padNum B6) (padStyleRef "WLR089U0-I/RM") (pt --26.25 30.0))
+        (pad (padNum B7) (padStyleRef "WLR089U0-I/RM") (pt --10.0 -37.5))
+        (pad (padNum B8) (padStyleRef "WLR089U0-I/RM") (pt --26.25 -22.5))
+        (pad (padNum C1) (padStyleRef "WLR089U0-I/RM") (pt -2.5 37.5))
+        (pad (padNum C2) (padStyleRef "WLR089U0-I/RM") (pt --10.0 37.5))
+        (pad (padNum C3) (padStyleRef "WLR089U0-I/RM") (pt -26.25 15.0))
+        (pad (padNum C4) (padStyleRef "WLR089U0-I/RM") (pt --26.25 20.0))
+        (pad (padNum C5) (padStyleRef "WLR089U0-I/RM") (pt -26.25 27.5))
+        (pad (padNum C6) (padStyleRef "WLR089U0-I/RM") (pt -26.25 30.0))
+        (pad (padNum C7) (padStyleRef "WLR089U0-I/RM") (pt -26.25 2.5))
+        (pad (padNum C8) (padStyleRef "WLR089U0-I/RM") (pt --26.25 -25.0))
+        (pad (padNum D1) (padStyleRef "WLR089U0-I/RM") (pt -26.25 -30.0))
+        (pad (padNum D2) (padStyleRef "WLR089U0-I/RM") (pt -26.25 32.5))
+        (pad (padNum D3) (padStyleRef "WLR089U0-I/RM") (pt --26.25 22.5))
+        (pad (padNum D4) (padStyleRef "WLR089U0-I/RM") (pt --7.5 -37.5))
+        (pad (padNum D5) (padStyleRef "WLR089U0-I/RM") (pt -26.25 25.0))
+        (pad (padNum D6) (padStyleRef "WLR089U0-I/RM") (pt --5.0 -37.5))
+        (pad (padNum D7) (padStyleRef "WLR089U0-I/RM") (pt --26.25 -20.0))
+        (pad (padNum D8) (padStyleRef "WLR089U0-I/RM") (pt --26.25 -17.5))
+        (pad (padNum E1) (padStyleRef "WLR089U0-I/RM") (pt -0.0 -37.5))
+        (pad (padNum E2) (padStyleRef "WLR089U0-I/RM") (pt --15.0 -37.5))
+        (pad (padNum E3) (padStyleRef "WLR089U0-I/RM") (pt --26.25 17.5))
+        (pad (padNum E4) (padStyleRef "WLR089U0-I/RM") (pt --26.25 -27.5))
+        (pad (padNum E5) (padStyleRef "WLR089U0-I/RM") (pt -26.25 5.0))
+        (pad (padNum E6) (padStyleRef "WLR089U0-I/RM") (pt --26.25 -10.0))
+        (pad (padNum E7) (padStyleRef "WLR089U0-I/RM") (pt --26.25 -12.5))
+        (pad (padNum E8) (padStyleRef "WLR089U0-I/RM") (pt --26.25 -15.0))
+        (pad (padNum F1) (padStyleRef "WLR089U0-I/RM") (pt -26.25 22.5))
+        (pad (padNum F2) (padStyleRef "WLR089U0-I/RM") (pt -5.0 -37.5))
+        (pad (padNum F3) (padStyleRef "WLR089U0-I/RM") (pt --26.25 15.0))
+        (pad (padNum F4) (padStyleRef "WLR089U0-I/RM") (pt --26.25 12.5))
+        (pad (padNum F5) (padStyleRef "WLR089U0-I/RM") (pt --26.25 10.0))
+        (pad (padNum F6) (padStyleRef "WLR089U0-I/RM") (pt --26.25 0.0))
+        (pad (padNum F7) (padStyleRef "WLR089U0-I/RM") (pt --26.25 -7.5))
+        (pad (padNum F8) (padStyleRef "WLR089U0-I/RM") (pt --26.25 -2.5))
+        (pad (padNum G1) (padStyleRef "WLR089U0-I/RM") (pt -26.25 -17.5))
+        (pad (padNum G2) (padStyleRef "WLR089U0-I/RM") (pt -7.5 -37.5))
+        (pad (padNum G3) (padStyleRef "WLR089U0-I/RM") (pt -26.25 -25.0))
+        (pad (padNum G4) (padStyleRef "WLR089U0-I/RM") (pt -7.5 37.5))
+        (pad (padNum G5) (padStyleRef "WLR089U0-I/RM") (pt -10.0 -37.5))
+        (pad (padNum G6) (padStyleRef "WLR089U0-I/RM") (pt -12.5 -37.5))
+        (pad (padNum G7) (padStyleRef "WLR089U0-I/RM") (pt -15.0 -37.5))
+        (pad (padNum G8) (padStyleRef "WLR089U0-I/RM") (pt --26.25 -5.0))
+        (pad (padNum H1) (padStyleRef "WLR089U0-I/RM") (pt -26.25 -12.5))
+        (pad (padNum H2) (padStyleRef "WLR089U0-I/RM") (pt -26.25 -27.5))
+        (pad (padNum H3) (padStyleRef "WLR089U0-I/RM") (pt --7.5 37.5))
+        (pad (padNum H4) (padStyleRef "WLR089U0-I/RM") (pt --26.25 32.5))
+        (pad (padNum H5) (padStyleRef "WLR089U0-I/RM") (pt -17.5 -37.5))
+        (pad (padNum H6) (padStyleRef "WLR089U0-I/RM") (pt -26.25 -20.0))
+        (pad (padNum H7) (padStyleRef "WLR089U0-I/RM") (pt -26.25 -22.5))
+        (pad (padNum H8) (padStyleRef "WLR089U0-I/RM") (pt --2.5 37.5))
+      )
+      (layerContents (layerNumRef 21)
+        (line (pt 4.805 10.095) (pt -4.805 10.095) (width 0.05))
+        (line (pt 4.805 -10.095) (pt -4.805 -10.095) (width 0.05))
+        (line (pt 4.805 10.095) (pt 4.805 -10.095) (width 0.05))
+        (line (pt -4.805 10.095) (pt -4.805 -10.095) (width 0.05))
+      )
+      (layerContents (layerNumRef 6)
+        (arc (pt -5.055 7.62) (radius 0.1) (startAngle 0) (sweepAngle 360) (width 0.2))
+        (line (pt -3.3 8.525) (pt -3.3 9.845) (width 0.127))
+        (line (pt -3.3 9.845) (pt 3.3 9.845) (width 0.127))
+        (line (pt 3.3 9.845) (pt 3.3 8.525) (width 0.127))
+        (line (pt 3.3 -8.525) (pt 3.3 -9.845) (width 0.127))
+        (line (pt 3.3 -9.845) (pt -3.3 -9.845) (width 0.127))
+        (line (pt -3.3 -9.845) (pt -3.3 -8.525) (width 0.127))
+      )
+      (layerContents (layerNumRef 20)
+        (arc (pt -5.055 7.62) (radius 0.1) (startAngle 0) (sweepAngle 360) (width 0.2))
+        (line (pt -3.3 9.845) (pt 3.3 9.845) (width 0.127))
+        (line (pt -3.3 -9.845) (pt 3.3 -9.845) (width 0.127))
+        (line (pt -3.3 9.845) (pt -3.3 -9.845) (width 0.127))
+        (line (pt 3.3 9.845) (pt 3.3 -9.845) (width 0.127))
+        (attr "Type" "" (pt -4 -10.5) (justify UpperLeft) (isVisible True) (textStyleRef "(PinStyle)"))
+        (attr "RefDes" "" (pt -4 10.5) (justify LowerLeft) (isVisible True) (textStyleRef "(PinStyle)"))
+      )
+      (layerContents (layerNumRef 20)
+        (arc (pt -5.055 7.62) (radius 0.1) (startAngle 0) (sweepAngle 360) (width 0.2))
+        (line (pt -3.3 9.845) (pt 3.3 9.845) (width 0.127))
+        (line (pt -3.3 -9.845) (pt 3.3 -9.845) (width 0.127))
+        (line (pt -3.3 9.845) (pt -3.3 -9.845) (width 0.127))
+        (line (pt 3.3 9.845) (pt 3.3 -9.845) (width 0.127))
+        (attr "Type" "" (pt -4 -10.5) (justify UpperLeft) (isVisible True) (textStyleRef "(PinStyle)"))
+        (attr "RefDes" "" (pt -4 10.5) (justify LowerLeft) (isVisible True) (textStyleRef "(PinStyle)"))
+      )
+    )
+  )
+  (symbolDef "WLR089U0-I/RM"
+    (originalName "WLR089U0-I/RM")
+    (pin (pinNum DIO0) (pt 26.25 10.0) (rotation 180) (isFlipped False) (pinLength 5.08)
+      (pinDisplay (dispPinDes True) (dispPinName True))
+      (pinDes
+        (text (pt 0 0) "PB16" (textStyleRef "(PinStyle)"))
+      )
+      (pinName
+        (text (pt 0 0) "PB16" (textStyleRef "(PinStyle)"))
+      )
+    )
+
+    (pin (pinNum DIO1) (pt -26.25 5.0) (rotation 0) (isFlipped False) (pinLength 5.08)
+      (pinDisplay (dispPinDes True) (dispPinName True))
+      (pinDes
+        (text (pt 0 0) "PA11" (textStyleRef "(PinStyle)"))
+      )
+      (pinName
+        (text (pt 0 0) "PA11" (textStyleRef "(PinStyle)"))
+      )
+    )
+
+    (pin (pinNum DIO2) (pt -26.25 2.5) (rotation 0) (isFlipped False) (pinLength 5.08)
+      (pinDisplay (dispPinDes True) (dispPinName True))
+      (pinDes
+        (text (pt 0 0) "PA12" (textStyleRef "(PinStyle)"))
+      )
+      (pinName
+        (text (pt 0 0) "PA12" (textStyleRef "(PinStyle)"))
+      )
+    )
+
+    (pin (pinNum DIO3) (pt 26.25 7.5) (rotation 180) (isFlipped False) (pinLength 5.08)
+      (pinDisplay (dispPinDes True) (dispPinName True))
+      (pinDes
+        (text (pt 0 0) "PB17" (textStyleRef "(PinStyle)"))
+      )
+      (pinName
+        (text (pt 0 0) "PB17" (textStyleRef "(PinStyle)"))
+      )
+    )
+
+    (pin (pinNum DIO4) (pt -26.25 7.5) (rotation 0) (isFlipped False) (pinLength 5.08)
+      (pinDisplay (dispPinDes True) (dispPinName True))
+      (pinDes
+        (text (pt 0 0) "PA10" (textStyleRef "(PinStyle)"))
+      )
+      (pinName
+        (text (pt 0 0) "PA10" (textStyleRef "(PinStyle)"))
+      )
+    )
+
+    (pin (pinNum DIO5) (pt 26.25 20.0) (rotation 180) (isFlipped False) (pinLength 5.08)
+      (pinDisplay (dispPinDes True) (dispPinName True))
+      (pinDes
+        (text (pt 0 0) "PB00" (textStyleRef "(PinStyle)"))
+      )
+      (pinName
+        (text (pt 0 0) "PB00" (textStyleRef "(PinStyle)"))
+      )
+    )
+
+    (pin (pinNum RF_MISO) (pt 26.25 -7.5) (rotation 180) (isFlipped False) (pinLength 5.08)
+      (pinDisplay (dispPinDes True) (dispPinName True))
+      (pinDes
+        (text (pt 0 0) "PC19" (textStyleRef "(PinStyle)"))
+      )
+      (pinName
+        (text (pt 0 0) "PC19" (textStyleRef "(PinStyle)"))
+      )
+    )
+
+    (pin (pinNum RF_MOSI) (pt 26.25 0.0) (rotation 180) (isFlipped False) (pinLength 5.08)
+      (pinDisplay (dispPinDes True) (dispPinName True))
+      (pinDes
+        (text (pt 0 0) "PB30" (textStyleRef "(PinStyle)"))
+      )
+      (pinName
+        (text (pt 0 0) "PB30" (textStyleRef "(PinStyle)"))
+      )
+    )
+
+    (pin (pinNum RF_NRST) (pt 26.25 12.5) (rotation 180) (isFlipped False) (pinLength 5.08)
+      (pinDisplay (dispPinDes True) (dispPinName True))
+      (pinDes
+        (text (pt 0 0) "PB15" (textStyleRef "(PinStyle)"))
+      )
+      (pinName
+        (text (pt 0 0) "PB15" (textStyleRef "(PinStyle)"))
+      )
+    )
+
+    (pin (pinNum RF_NSS) (pt 26.25 -2.5) (rotation 180) (isFlipped False) (pinLength 5.08)
+      (pinDisplay (dispPinDes True) (dispPinName True))
+      (pinDes
+        (text (pt 0 0) "PB31" (textStyleRef "(PinStyle)"))
+      )
+      (pinName
+        (text (pt 0 0) "PB31" (textStyleRef "(PinStyle)"))
+      )
+    )
+
+    (pin (pinNum RF_SCK) (pt 26.25 -5.0) (rotation 180) (isFlipped False) (pinLength 5.08)
+      (pinDisplay (dispPinDes True) (dispPinName True))
+      (pinDes
+        (text (pt 0 0) "PC18" (textStyleRef "(PinStyle)"))
+      )
+      (pinName
+        (text (pt 0 0) "PC18" (textStyleRef "(PinStyle)"))
+      )
+    )
+
+    (pin (pinNum A1) (pt 26.25 -10.0) (rotation 180) (isFlipped False) (pinLength 5.08)
+      (pinDisplay (dispPinDes True) (dispPinName True))
+      (pinDes
+        (text (pt 0 0) "RFI_HF" (textStyleRef "(PinStyle)"))
+      )
+      (pinName
+        (text (pt 0 0) "RFI_HF" (textStyleRef "(PinStyle)"))
+      )
+    )
+
+    (pin (pinNum A2) (pt 2.5 -37.5) (rotation 90) (isFlipped False) (pinLength 5.08)
+      (pinDisplay (dispPinDes True) (dispPinName True))
+      (pinDes
+        (text (pt 0 0) "GND_RF" (textStyleRef "(PinStyle)"))
+      )
+      (pinName
+        (text (pt 0 0) "GND_RF" (textStyleRef "(PinStyle)"))
+      )
+    )
+
+    (pin (pinNum A3) (pt -26.25 27.5) (rotation 0) (isFlipped False) (pinLength 5.08)
+      (pinDisplay (dispPinDes True) (dispPinName True))
+      (pinDes
+        (text (pt 0 0) "PA00" (textStyleRef "(PinStyle)"))
+      )
+      (pinName
+        (text (pt 0 0) "PA00" (textStyleRef "(PinStyle)"))
+      )
+    )
+
+    (pin (pinNum A4) (pt -26.25 25.0) (rotation 0) (isFlipped False) (pinLength 5.08)
+      (pinDisplay (dispPinDes True) (dispPinName True))
+      (pinDes
+        (text (pt 0 0) "PA01" (textStyleRef "(PinStyle)"))
+      )
+      (pinName
+        (text (pt 0 0) "PA01" (textStyleRef "(PinStyle)"))
+      )
+    )
+
+    (pin (pinNum A5) (pt -5.0 37.5) (rotation 270) (isFlipped False) (pinLength 5.08)
+      (pinDisplay (dispPinDes True) (dispPinName True))
+      (pinDes
+        (text (pt 0 0) "VDDCORE" (textStyleRef "(PinStyle)"))
+      )
+      (pinName
+        (text (pt 0 0) "VDDCORE" (textStyleRef "(PinStyle)"))
+      )
+    )
+
+    (pin (pinNum A6) (pt 10.0 37.5) (rotation 270) (isFlipped False) (pinLength 5.08)
+      (pinDisplay (dispPinDes True) (dispPinName True))
+      (pinDes
+        (text (pt 0 0) "VSW" (textStyleRef "(PinStyle)"))
+      )
+      (pinName
+        (text (pt 0 0) "VSW" (textStyleRef "(PinStyle)"))
+      )
+    )
+
+    (pin (pinNum A7) (pt 0.0 37.5) (rotation 270) (isFlipped False) (pinLength 5.08)
+      (pinDisplay (dispPinDes True) (dispPinName True))
+      (pinDes
+        (text (pt 0 0) "VDDIN" (textStyleRef "(PinStyle)"))
+      )
+      (pinName
+        (text (pt 0 0) "VDDIN" (textStyleRef "(PinStyle)"))
+      )
+    )
+
+    (pin (pinNum A8) (pt 5.0 37.5) (rotation 270) (isFlipped False) (pinLength 5.08)
+      (pinDisplay (dispPinDes True) (dispPinName True))
+      (pinDes
+        (text (pt 0 0) "VDDIO" (textStyleRef "(PinStyle)"))
+      )
+      (pinName
+        (text (pt 0 0) "VDDIO" (textStyleRef "(PinStyle)"))
+      )
+    )
+
+    (pin (pinNum B1) (pt 26.25 -15.0) (rotation 180) (isFlipped False) (pinLength 5.08)
+      (pinDisplay (dispPinDes True) (dispPinName True))
+      (pinDes
+        (text (pt 0 0) "RFO_HF" (textStyleRef "(PinStyle)"))
+      )
+      (pinName
+        (text (pt 0 0) "RFO_HF" (textStyleRef "(PinStyle)"))
+      )
+    )
+
+    (pin (pinNum B2) (pt -2.5 -37.5) (rotation 90) (isFlipped False) (pinLength 5.08)
+      (pinDisplay (dispPinDes True) (dispPinName True))
+      (pinDes
+        (text (pt 0 0) "GND_HF" (textStyleRef "(PinStyle)"))
+      )
+      (pinName
+        (text (pt 0 0) "GND_HF" (textStyleRef "(PinStyle)"))
+      )
+    )
+
+    (pin (pinNum B3) (pt -17.5 -37.5) (rotation 90) (isFlipped False) (pinLength 5.08)
+      (pinDisplay (dispPinDes True) (dispPinName True))
+      (pinDes
+        (text (pt 0 0) "GNDANA" (textStyleRef "(PinStyle)"))
+      )
+      (pinName
+        (text (pt 0 0) "GNDANA" (textStyleRef "(PinStyle)"))
+      )
+    )
+
+    (pin (pinNum B4) (pt 26.25 17.5) (rotation 180) (isFlipped False) (pinLength 5.08)
+      (pinDisplay (dispPinDes True) (dispPinName True))
+      (pinDes
+        (text (pt 0 0) "PB02" (textStyleRef "(PinStyle)"))
+      )
+      (pinName
+        (text (pt 0 0) "PB02" (textStyleRef "(PinStyle)"))
+      )
+    )
+
+    (pin (pinNum B5) (pt -12.5 -37.5) (rotation 90) (isFlipped False) (pinLength 5.08)
+      (pinDisplay (dispPinDes True) (dispPinName True))
+      (pinDes
+        (text (pt 0 0) "GNDIO" (textStyleRef "(PinStyle)"))
+      )
+      (pinName
+        (text (pt 0 0) "GNDIO" (textStyleRef "(PinStyle)"))
+      )
+    )
+
+    (pin (pinNum B6) (pt -26.25 30.0) (rotation 0) (isFlipped False) (pinLength 5.08)
+      (pinDisplay (dispPinDes True) (dispPinName True))
+      (pinDes
+        (text (pt 0 0) "RESET_N" (textStyleRef "(PinStyle)"))
+      )
+      (pinName
+        (text (pt 0 0) "RESET_N" (textStyleRef "(PinStyle)"))
+      )
+    )
+
+    (pin (pinNum B7) (pt -10.0 -37.5) (rotation 90) (isFlipped False) (pinLength 5.08)
+      (pinDisplay (dispPinDes True) (dispPinName True))
+      (pinDes
+        (text (pt 0 0) "GNDIO" (textStyleRef "(PinStyle)"))
+      )
+      (pinName
+        (text (pt 0 0) "GNDIO" (textStyleRef "(PinStyle)"))
+      )
+    )
+
+    (pin (pinNum B8) (pt -26.25 -22.5) (rotation 0) (isFlipped False) (pinLength 5.08)
+      (pinDisplay (dispPinDes True) (dispPinName True))
+      (pinDes
+        (text (pt 0 0) "PA24" (textStyleRef "(PinStyle)"))
+      )
+      (pinName
+        (text (pt 0 0) "PA24" (textStyleRef "(PinStyle)"))
+      )
+    )
+
+    (pin (pinNum C1) (pt 2.5 37.5) (rotation 270) (isFlipped False) (pinLength 5.08)
+      (pinDisplay (dispPinDes True) (dispPinName True))
+      (pinDes
+        (text (pt 0 0) "VDDIN_RF" (textStyleRef "(PinStyle)"))
+      )
+      (pinName
+        (text (pt 0 0) "VDDIN_RF" (textStyleRef "(PinStyle)"))
+      )
+    )
+
+    (pin (pinNum C2) (pt -10.0 37.5) (rotation 270) (isFlipped False) (pinLength 5.08)
+      (pinDisplay (dispPinDes True) (dispPinName True))
+      (pinDes
+        (text (pt 0 0) "VDDANA" (textStyleRef "(PinStyle)"))
+      )
+      (pinName
+        (text (pt 0 0) "VDDANA" (textStyleRef "(PinStyle)"))
+      )
+    )
+
+    (pin (pinNum C3) (pt 26.25 15.0) (rotation 180) (isFlipped False) (pinLength 5.08)
+      (pinDisplay (dispPinDes True) (dispPinName True))
+      (pinDes
+        (text (pt 0 0) "PB03" (textStyleRef "(PinStyle)"))
+      )
+      (pinName
+        (text (pt 0 0) "PB03" (textStyleRef "(PinStyle)"))
+      )
+    )
+
+    (pin (pinNum C4) (pt -26.25 20.0) (rotation 0) (isFlipped False) (pinLength 5.08)
+      (pinDisplay (dispPinDes True) (dispPinName True))
+      (pinDes
+        (text (pt 0 0) "PA05" (textStyleRef "(PinStyle)"))
+      )
+      (pinName
+        (text (pt 0 0) "PA05" (textStyleRef "(PinStyle)"))
+      )
+    )
+
+    (pin (pinNum C5) (pt 26.25 27.5) (rotation 180) (isFlipped False) (pinLength 5.08)
+      (pinDisplay (dispPinDes True) (dispPinName True))
+      (pinDes
+        (text (pt 0 0) "PA30" (textStyleRef "(PinStyle)"))
+      )
+      (pinName
+        (text (pt 0 0) "PA30" (textStyleRef "(PinStyle)"))
+      )
+    )
+
+    (pin (pinNum C6) (pt 26.25 30.0) (rotation 180) (isFlipped False) (pinLength 5.08)
+      (pinDisplay (dispPinDes True) (dispPinName True))
+      (pinDes
+        (text (pt 0 0) "PA28" (textStyleRef "(PinStyle)"))
+      )
+      (pinName
+        (text (pt 0 0) "PA28" (textStyleRef "(PinStyle)"))
+      )
+    )
+
+    (pin (pinNum C7) (pt 26.25 2.5) (rotation 180) (isFlipped False) (pinLength 5.08)
+      (pinDisplay (dispPinDes True) (dispPinName True))
+      (pinDes
+        (text (pt 0 0) "PB23" (textStyleRef "(PinStyle)"))
+      )
+      (pinName
+        (text (pt 0 0) "PB23" (textStyleRef "(PinStyle)"))
+      )
+    )
+
+    (pin (pinNum C8) (pt -26.25 -25.0) (rotation 0) (isFlipped False) (pinLength 5.08)
+      (pinDisplay (dispPinDes True) (dispPinName True))
+      (pinDes
+        (text (pt 0 0) "PA25" (textStyleRef "(PinStyle)"))
+      )
+      (pinName
+        (text (pt 0 0) "PA25" (textStyleRef "(PinStyle)"))
+      )
+    )
+
+    (pin (pinNum D1) (pt 26.25 -30.0) (rotation 180) (isFlipped False) (pinLength 5.08)
+      (pinDisplay (dispPinDes True) (dispPinName True))
+      (pinDes
+        (text (pt 0 0) "VRPA_RF" (textStyleRef "(PinStyle)"))
+      )
+      (pinName
+        (text (pt 0 0) "VRPA_RF" (textStyleRef "(PinStyle)"))
+      )
+    )
+
+    (pin (pinNum D2) (pt 26.25 32.5) (rotation 180) (isFlipped False) (pinLength 5.08)
+      (pinDisplay (dispPinDes True) (dispPinName True))
+      (pinDes
+        (text (pt 0 0) "RXTX_RF" (textStyleRef "(PinStyle)"))
+      )
+      (pinName
+        (text (pt 0 0) "RXTX_RF" (textStyleRef "(PinStyle)"))
+      )
+    )
+
+    (pin (pinNum D3) (pt -26.25 22.5) (rotation 0) (isFlipped False) (pinLength 5.08)
+      (pinDisplay (dispPinDes True) (dispPinName True))
+      (pinDes
+        (text (pt 0 0) "PA04" (textStyleRef "(PinStyle)"))
+      )
+      (pinName
+        (text (pt 0 0) "PA04" (textStyleRef "(PinStyle)"))
+      )
+    )
+
+    (pin (pinNum D4) (pt -7.5 -37.5) (rotation 90) (isFlipped False) (pinLength 5.08)
+      (pinDisplay (dispPinDes True) (dispPinName True))
+      (pinDes
+        (text (pt 0 0) "GNDIO" (textStyleRef "(PinStyle)"))
+      )
+      (pinName
+        (text (pt 0 0) "GNDIO" (textStyleRef "(PinStyle)"))
+      )
+    )
+
+    (pin (pinNum D5) (pt 26.25 25.0) (rotation 180) (isFlipped False) (pinLength 5.08)
+      (pinDisplay (dispPinDes True) (dispPinName True))
+      (pinDes
+        (text (pt 0 0) "PA31" (textStyleRef "(PinStyle)"))
+      )
+      (pinName
+        (text (pt 0 0) "PA31" (textStyleRef "(PinStyle)"))
+      )
+    )
+
+    (pin (pinNum D6) (pt -5.0 -37.5) (rotation 90) (isFlipped False) (pinLength 5.08)
+      (pinDisplay (dispPinDes True) (dispPinName True))
+      (pinDes
+        (text (pt 0 0) "GNDIO" (textStyleRef "(PinStyle)"))
+      )
+      (pinName
+        (text (pt 0 0) "GNDIO" (textStyleRef "(PinStyle)"))
+      )
+    )
+
+    (pin (pinNum D7) (pt -26.25 -20.0) (rotation 0) (isFlipped False) (pinLength 5.08)
+      (pinDisplay (dispPinDes True) (dispPinName True))
+      (pinDes
+        (text (pt 0 0) "PA23" (textStyleRef "(PinStyle)"))
+      )
+      (pinName
+        (text (pt 0 0) "PA23" (textStyleRef "(PinStyle)"))
+      )
+    )
+
+    (pin (pinNum D8) (pt -26.25 -17.5) (rotation 0) (isFlipped False) (pinLength 5.08)
+      (pinDisplay (dispPinDes True) (dispPinName True))
+      (pinDes
+        (text (pt 0 0) "PA22" (textStyleRef "(PinStyle)"))
+      )
+      (pinName
+        (text (pt 0 0) "PA22" (textStyleRef "(PinStyle)"))
+      )
+    )
+
+    (pin (pinNum E1) (pt 0.0 -37.5) (rotation 90) (isFlipped False) (pinLength 5.08)
+      (pinDisplay (dispPinDes True) (dispPinName True))
+      (pinDes
+        (text (pt 0 0) "GND_PA" (textStyleRef "(PinStyle)"))
+      )
+      (pinName
+        (text (pt 0 0) "GND_PA" (textStyleRef "(PinStyle)"))
+      )
+    )
+
+    (pin (pinNum E2) (pt -15.0 -37.5) (rotation 90) (isFlipped False) (pinLength 5.08)
+      (pinDisplay (dispPinDes True) (dispPinName True))
+      (pinDes
+        (text (pt 0 0) "GNDANA" (textStyleRef "(PinStyle)"))
+      )
+      (pinName
+        (text (pt 0 0) "GNDANA" (textStyleRef "(PinStyle)"))
+      )
+    )
+
+    (pin (pinNum E3) (pt -26.25 17.5) (rotation 0) (isFlipped False) (pinLength 5.08)
+      (pinDisplay (dispPinDes True) (dispPinName True))
+      (pinDes
+        (text (pt 0 0) "PA06" (textStyleRef "(PinStyle)"))
+      )
+      (pinName
+        (text (pt 0 0) "PA06" (textStyleRef "(PinStyle)"))
+      )
+    )
+
+    (pin (pinNum E4) (pt -26.25 -27.5) (rotation 0) (isFlipped False) (pinLength 5.08)
+      (pinDisplay (dispPinDes True) (dispPinName True))
+      (pinDes
+        (text (pt 0 0) "PA27" (textStyleRef "(PinStyle)"))
+      )
+      (pinName
+        (text (pt 0 0) "PA27" (textStyleRef "(PinStyle)"))
+      )
+    )
+
+    (pin (pinNum E5) (pt 26.25 5.0) (rotation 180) (isFlipped False) (pinLength 5.08)
+      (pinDisplay (dispPinDes True) (dispPinName True))
+      (pinDes
+        (text (pt 0 0) "PB22" (textStyleRef "(PinStyle)"))
+      )
+      (pinName
+        (text (pt 0 0) "PB22" (textStyleRef "(PinStyle)"))
+      )
+    )
+
+    (pin (pinNum E6) (pt -26.25 -10.0) (rotation 0) (isFlipped False) (pinLength 5.08)
+      (pinDisplay (dispPinDes True) (dispPinName True))
+      (pinDes
+        (text (pt 0 0) "PA17" (textStyleRef "(PinStyle)"))
+      )
+      (pinName
+        (text (pt 0 0) "PA17" (textStyleRef "(PinStyle)"))
+      )
+    )
+
+    (pin (pinNum E7) (pt -26.25 -12.5) (rotation 0) (isFlipped False) (pinLength 5.08)
+      (pinDisplay (dispPinDes True) (dispPinName True))
+      (pinDes
+        (text (pt 0 0) "PA18" (textStyleRef "(PinStyle)"))
+      )
+      (pinName
+        (text (pt 0 0) "PA18" (textStyleRef "(PinStyle)"))
+      )
+    )
+
+    (pin (pinNum E8) (pt -26.25 -15.0) (rotation 0) (isFlipped False) (pinLength 5.08)
+      (pinDisplay (dispPinDes True) (dispPinName True))
+      (pinDes
+        (text (pt 0 0) "PA19" (textStyleRef "(PinStyle)"))
+      )
+      (pinName
+        (text (pt 0 0) "PA19" (textStyleRef "(PinStyle)"))
+      )
+    )
+
+    (pin (pinNum F1) (pt 26.25 22.5) (rotation 180) (isFlipped False) (pinLength 5.08)
+      (pinDisplay (dispPinDes True) (dispPinName True))
+      (pinDes
+        (text (pt 0 0) "PA_BOOST" (textStyleRef "(PinStyle)"))
+      )
+      (pinName
+        (text (pt 0 0) "PA_BOOST" (textStyleRef "(PinStyle)"))
+      )
+    )
+
+    (pin (pinNum F2) (pt 5.0 -37.5) (rotation 90) (isFlipped False) (pinLength 5.08)
+      (pinDisplay (dispPinDes True) (dispPinName True))
+      (pinDes
+        (text (pt 0 0) "GND_RF" (textStyleRef "(PinStyle)"))
+      )
+      (pinName
+        (text (pt 0 0) "GND_RF" (textStyleRef "(PinStyle)"))
+      )
+    )
+
+    (pin (pinNum F3) (pt -26.25 15.0) (rotation 0) (isFlipped False) (pinLength 5.08)
+      (pinDisplay (dispPinDes True) (dispPinName True))
+      (pinDes
+        (text (pt 0 0) "PA07" (textStyleRef "(PinStyle)"))
+      )
+      (pinName
+        (text (pt 0 0) "PA07" (textStyleRef "(PinStyle)"))
+      )
+    )
+
+    (pin (pinNum F4) (pt -26.25 12.5) (rotation 0) (isFlipped False) (pinLength 5.08)
+      (pinDisplay (dispPinDes True) (dispPinName True))
+      (pinDes
+        (text (pt 0 0) "PA08" (textStyleRef "(PinStyle)"))
+      )
+      (pinName
+        (text (pt 0 0) "PA08" (textStyleRef "(PinStyle)"))
+      )
+    )
+
+    (pin (pinNum F5) (pt -26.25 10.0) (rotation 0) (isFlipped False) (pinLength 5.08)
+      (pinDisplay (dispPinDes True) (dispPinName True))
+      (pinDes
+        (text (pt 0 0) "PA09" (textStyleRef "(PinStyle)"))
+      )
+      (pinName
+        (text (pt 0 0) "PA09" (textStyleRef "(PinStyle)"))
+      )
+    )
+
+    (pin (pinNum F6) (pt -26.25 0.0) (rotation 0) (isFlipped False) (pinLength 5.08)
+      (pinDisplay (dispPinDes True) (dispPinName True))
+      (pinDes
+        (text (pt 0 0) "PA13" (textStyleRef "(PinStyle)"))
+      )
+      (pinName
+        (text (pt 0 0) "PA13" (textStyleRef "(PinStyle)"))
+      )
+    )
+
+    (pin (pinNum F7) (pt -26.25 -7.5) (rotation 0) (isFlipped False) (pinLength 5.08)
+      (pinDisplay (dispPinDes True) (dispPinName True))
+      (pinDes
+        (text (pt 0 0) "PA16" (textStyleRef "(PinStyle)"))
+      )
+      (pinName
+        (text (pt 0 0) "PA16" (textStyleRef "(PinStyle)"))
+      )
+    )
+
+    (pin (pinNum F8) (pt -26.25 -2.5) (rotation 0) (isFlipped False) (pinLength 5.08)
+      (pinDisplay (dispPinDes True) (dispPinName True))
+      (pinDes
+        (text (pt 0 0) "PA14" (textStyleRef "(PinStyle)"))
+      )
+      (pinName
+        (text (pt 0 0) "PA14" (textStyleRef "(PinStyle)"))
+      )
+    )
+
+    (pin (pinNum G1) (pt 26.25 -17.5) (rotation 180) (isFlipped False) (pinLength 5.08)
+      (pinDisplay (dispPinDes True) (dispPinName True))
+      (pinDes
+        (text (pt 0 0) "RFO_LF" (textStyleRef "(PinStyle)"))
+      )
+      (pinName
+        (text (pt 0 0) "RFO_LF" (textStyleRef "(PinStyle)"))
+      )
+    )
+
+    (pin (pinNum G2) (pt 7.5 -37.5) (rotation 90) (isFlipped False) (pinLength 5.08)
+      (pinDisplay (dispPinDes True) (dispPinName True))
+      (pinDes
+        (text (pt 0 0) "GND_RF" (textStyleRef "(PinStyle)"))
+      )
+      (pinName
+        (text (pt 0 0) "GND_RF" (textStyleRef "(PinStyle)"))
+      )
+    )
+
+    (pin (pinNum G3) (pt 26.25 -25.0) (rotation 180) (isFlipped False) (pinLength 5.08)
+      (pinDisplay (dispPinDes True) (dispPinName True))
+      (pinDes
+        (text (pt 0 0) "SCAN_MODE" (textStyleRef "(PinStyle)"))
+      )
+      (pinName
+        (text (pt 0 0) "SCAN_MODE" (textStyleRef "(PinStyle)"))
+      )
+    )
+
+    (pin (pinNum G4) (pt 7.5 37.5) (rotation 270) (isFlipped False) (pinLength 5.08)
+      (pinDisplay (dispPinDes True) (dispPinName True))
+      (pinDes
+        (text (pt 0 0) "VDDIO" (textStyleRef "(PinStyle)"))
+      )
+      (pinName
+        (text (pt 0 0) "VDDIO" (textStyleRef "(PinStyle)"))
+      )
+    )
+
+    (pin (pinNum G5) (pt 10.0 -37.5) (rotation 90) (isFlipped False) (pinLength 5.08)
+      (pinDisplay (dispPinDes True) (dispPinName True))
+      (pinDes
+        (text (pt 0 0) "GND_RF" (textStyleRef "(PinStyle)"))
+      )
+      (pinName
+        (text (pt 0 0) "GND_RF" (textStyleRef "(PinStyle)"))
+      )
+    )
+
+    (pin (pinNum G6) (pt 12.5 -37.5) (rotation 90) (isFlipped False) (pinLength 5.08)
+      (pinDisplay (dispPinDes True) (dispPinName True))
+      (pinDes
+        (text (pt 0 0) "GND_RF" (textStyleRef "(PinStyle)"))
+      )
+      (pinName
+        (text (pt 0 0) "GND_RF" (textStyleRef "(PinStyle)"))
+      )
+    )
+
+    (pin (pinNum G7) (pt 15.0 -37.5) (rotation 90) (isFlipped False) (pinLength 5.08)
+      (pinDisplay (dispPinDes True) (dispPinName True))
+      (pinDes
+        (text (pt 0 0) "GND_RF" (textStyleRef "(PinStyle)"))
+      )
+      (pinName
+        (text (pt 0 0) "GND_RF" (textStyleRef "(PinStyle)"))
+      )
+    )
+
+    (pin (pinNum G8) (pt -26.25 -5.0) (rotation 0) (isFlipped False) (pinLength 5.08)
+      (pinDisplay (dispPinDes True) (dispPinName True))
+      (pinDes
+        (text (pt 0 0) "PA15" (textStyleRef "(PinStyle)"))
+      )
+      (pinName
+        (text (pt 0 0) "PA15" (textStyleRef "(PinStyle)"))
+      )
+    )
+
+    (pin (pinNum H1) (pt 26.25 -12.5) (rotation 180) (isFlipped False) (pinLength 5.08)
+      (pinDisplay (dispPinDes True) (dispPinName True))
+      (pinDes
+        (text (pt 0 0) "RFI_RF" (textStyleRef "(PinStyle)"))
+      )
+      (pinName
+        (text (pt 0 0) "RFI_RF" (textStyleRef "(PinStyle)"))
+      )
+    )
+
+    (pin (pinNum H2) (pt 26.25 -27.5) (rotation 180) (isFlipped False) (pinLength 5.08)
+      (pinDisplay (dispPinDes True) (dispPinName True))
+      (pinDes
+        (text (pt 0 0) "VRANA_RF" (textStyleRef "(PinStyle)"))
+      )
+      (pinName
+        (text (pt 0 0) "VRANA_RF" (textStyleRef "(PinStyle)"))
+      )
+    )
+
+    (pin (pinNum H3) (pt -7.5 37.5) (rotation 270) (isFlipped False) (pinLength 5.08)
+      (pinDisplay (dispPinDes True) (dispPinName True))
+      (pinDes
+        (text (pt 0 0) "VDDANA_RF" (textStyleRef "(PinStyle)"))
+      )
+      (pinName
+        (text (pt 0 0) "VDDANA_RF" (textStyleRef "(PinStyle)"))
+      )
+    )
+
+    (pin (pinNum H4) (pt -26.25 32.5) (rotation 0) (isFlipped False) (pinLength 5.08)
+      (pinDisplay (dispPinDes True) (dispPinName True))
+      (pinDes
+        (text (pt 0 0) "VRDIG_RF" (textStyleRef "(PinStyle)"))
+      )
+      (pinName
+        (text (pt 0 0) "VRDIG_RF" (textStyleRef "(PinStyle)"))
+      )
+    )
+
+    (pin (pinNum H5) (pt 17.5 -37.5) (rotation 90) (isFlipped False) (pinLength 5.08)
+      (pinDisplay (dispPinDes True) (dispPinName True))
+      (pinDes
+        (text (pt 0 0) "GND_RF" (textStyleRef "(PinStyle)"))
+      )
+      (pinName
+        (text (pt 0 0) "GND_RF" (textStyleRef "(PinStyle)"))
+      )
+    )
+
+    (pin (pinNum H6) (pt 26.25 -20.0) (rotation 180) (isFlipped False) (pinLength 5.08)
+      (pinDisplay (dispPinDes True) (dispPinName True))
+      (pinDes
+        (text (pt 0 0) "RF_XTA" (textStyleRef "(PinStyle)"))
+      )
+      (pinName
+        (text (pt 0 0) "RF_XTA" (textStyleRef "(PinStyle)"))
+      )
+    )
+
+    (pin (pinNum H7) (pt 26.25 -22.5) (rotation 180) (isFlipped False) (pinLength 5.08)
+      (pinDisplay (dispPinDes True) (dispPinName True))
+      (pinDes
+        (text (pt 0 0) "RF_XTB" (textStyleRef "(PinStyle)"))
+      )
+      (pinName
+        (text (pt 0 0) "RF_XTB" (textStyleRef "(PinStyle)"))
+      )
+    )
+
+    (pin (pinNum H8) (pt -2.5 37.5) (rotation 270) (isFlipped False) (pinLength 5.08)
+      (pinDisplay (dispPinDes True) (dispPinName True))
+      (pinDes
+        (text (pt 0 0) "VDDDIG_RF" (textStyleRef "(PinStyle)"))
+      )
+      (pinName
+        (text (pt 0 0) "VDDDIG_RF" (textStyleRef "(PinStyle)"))
+      )
+    )
+
+    (line (pt -12.7 17.78) (pt 12.7 17.78) (width 0.254))
+    (line (pt 12.7 17.78) (pt 12.7 -17.78) (width 0.254))
+    (line (pt 12.7 -17.78) (pt -12.7 -17.78) (width 0.254))
+    (line (pt -12.7 -17.78) (pt -12.7 17.78) (width 0.254))
+    (attr "Series" "WLR089" (pt -12.7 18.78) (justify LowerLeft) (isVisible True) (textStyleRef "(PinStyle)"))
+    (attr "Footprint" "BGA64" (pt -12.7 18.78) (justify LowerLeft) (isVisible True) (textStyleRef "(PinStyle)"))
+    (attr "MP" "WLR089U0-I/RM" (pt -12.7 18.78) (justify LowerLeft) (isVisible True) (textStyleRef "(PinStyle)"))
+    (attr "Architecture" "CORTEX-M0PLUS" (pt -12.7 18.78) (justify LowerLeft) (isVisible True) (textStyleRef "(PinStyle)"))
+    (attr "PINOUT" "WLR089" (pt -12.7 18.78) (justify LowerLeft) (isVisible True) (textStyleRef "(PinStyle)"))
+    (attr "Reference" "U" (pt -12.7 18.78) (justify LowerLeft) (isVisible True) (textStyleRef "(PinStyle)"))
+    (attr "Value" "WLR089U0-I/RM" (pt -12.7 18.78) (justify LowerLeft) (isVisible True) (textStyleRef "(PinStyle)"))
+    (attr "Family" "WLR" (pt -12.7 18.78) (justify LowerLeft) (isVisible True) (textStyleRef "(PinStyle)"))
+    (attr "MF" "Microchip" (pt -12.7 18.78) (justify LowerLeft) (isVisible True) (textStyleRef "(PinStyle)"))
+    (attr "Name" "WLR089U0" (pt -12.7 18.78) (justify LowerLeft) (isVisible True) (textStyleRef "(PinStyle)"))
+  )
+  (compDef "WLR089U0-I/RM"
+    (originalName "WLR089U0-I/RM")
+    (compHeader
+      (sourceLibrary "")
+      (compType Normal)
+      (numPins 75)
+      (numParts 1)
+      (composition Homogeneous)
+      (alts (ieeeAlt False) (deMorganAlt False))
+      (refDesPrefix "U")
+    )
+    (compPin "DIO0" (pinName "PB16") (partNum 1) (symPinNum 1) (gateEq 0) (pinEq 0) (pinType Input))
+    (compPin "DIO1" (pinName "PA11") (partNum 1) (symPinNum 2) (gateEq 0) (pinEq 0) (pinType Input))
+    (compPin "DIO2" (pinName "PA12") (partNum 1) (symPinNum 3) (gateEq 0) (pinEq 0) (pinType Input))
+    (compPin "DIO3" (pinName "PB17") (partNum 1) (symPinNum 4) (gateEq 0) (pinEq 0) (pinType Input))
+    (compPin "DIO4" (pinName "PA10") (partNum 1) (symPinNum 5) (gateEq 0) (pinEq 0) (pinType Input))
+    (compPin "DIO5" (pinName "PB00") (partNum 1) (symPinNum 6) (gateEq 0) (pinEq 0) (pinType Input))
+    (compPin "RF_MISO" (pinName "PC19") (partNum 1) (symPinNum 7) (gateEq 0) (pinEq 0) (pinType Input))
+    (compPin "RF_MOSI" (pinName "PB30") (partNum 1) (symPinNum 8) (gateEq 0) (pinEq 0) (pinType Input))
+    (compPin "RF_NRST" (pinName "PB15") (partNum 1) (symPinNum 9) (gateEq 0) (pinEq 0) (pinType Input))
+    (compPin "RF_NSS" (pinName "PB31") (partNum 1) (symPinNum 10) (gateEq 0) (pinEq 0) (pinType Input))
+    (compPin "RF_SCK" (pinName "PC18") (partNum 1) (symPinNum 11) (gateEq 0) (pinEq 0) (pinType Input))
+    (compPin "A1" (pinName "RFI_HF") (partNum 1) (symPinNum 12) (gateEq 0) (pinEq 0) (pinType Input))
+    (compPin "A2" (pinName "GND_RF") (partNum 1) (symPinNum 13) (gateEq 0) (pinEq 0) (pinType Input))
+    (compPin "A3" (pinName "PA00") (partNum 1) (symPinNum 14) (gateEq 0) (pinEq 0) (pinType Input))
+    (compPin "A4" (pinName "PA01") (partNum 1) (symPinNum 15) (gateEq 0) (pinEq 0) (pinType Input))
+    (compPin "A5" (pinName "VDDCORE") (partNum 1) (symPinNum 16) (gateEq 0) (pinEq 0) (pinType Input))
+    (compPin "A6" (pinName "VSW") (partNum 1) (symPinNum 17) (gateEq 0) (pinEq 0) (pinType Input))
+    (compPin "A7" (pinName "VDDIN") (partNum 1) (symPinNum 18) (gateEq 0) (pinEq 0) (pinType Input))
+    (compPin "A8" (pinName "VDDIO") (partNum 1) (symPinNum 19) (gateEq 0) (pinEq 0) (pinType Input))
+    (compPin "B1" (pinName "RFO_HF") (partNum 1) (symPinNum 20) (gateEq 0) (pinEq 0) (pinType Input))
+    (compPin "B2" (pinName "GND_HF") (partNum 1) (symPinNum 21) (gateEq 0) (pinEq 0) (pinType Input))
+    (compPin "B3" (pinName "GNDANA") (partNum 1) (symPinNum 22) (gateEq 0) (pinEq 0) (pinType Input))
+    (compPin "B4" (pinName "PB02") (partNum 1) (symPinNum 23) (gateEq 0) (pinEq 0) (pinType Input))
+    (compPin "B5" (pinName "GNDIO") (partNum 1) (symPinNum 24) (gateEq 0) (pinEq 0) (pinType Input))
+    (compPin "B6" (pinName "RESET_N") (partNum 1) (symPinNum 25) (gateEq 0) (pinEq 0) (pinType Input))
+    (compPin "B7" (pinName "GNDIO") (partNum 1) (symPinNum 26) (gateEq 0) (pinEq 0) (pinType Input))
+    (compPin "B8" (pinName "PA24") (partNum 1) (symPinNum 27) (gateEq 0) (pinEq 0) (pinType Input))
+    (compPin "C1" (pinName "VDDIN_RF") (partNum 1) (symPinNum 28) (gateEq 0) (pinEq 0) (pinType Input))
+    (compPin "C2" (pinName "VDDANA") (partNum 1) (symPinNum 29) (gateEq 0) (pinEq 0) (pinType Input))
+    (compPin "C3" (pinName "PB03") (partNum 1) (symPinNum 30) (gateEq 0) (pinEq 0) (pinType Input))
+    (compPin "C4" (pinName "PA05") (partNum 1) (symPinNum 31) (gateEq 0) (pinEq 0) (pinType Input))
+    (compPin "C5" (pinName "PA30") (partNum 1) (symPinNum 32) (gateEq 0) (pinEq 0) (pinType Input))
+    (compPin "C6" (pinName "PA28") (partNum 1) (symPinNum 33) (gateEq 0) (pinEq 0) (pinType Input))
+    (compPin "C7" (pinName "PB23") (partNum 1) (symPinNum 34) (gateEq 0) (pinEq 0) (pinType Input))
+    (compPin "C8" (pinName "PA25") (partNum 1) (symPinNum 35) (gateEq 0) (pinEq 0) (pinType Input))
+    (compPin "D1" (pinName "VRPA_RF") (partNum 1) (symPinNum 36) (gateEq 0) (pinEq 0) (pinType Input))
+    (compPin "D2" (pinName "RXTX_RF") (partNum 1) (symPinNum 37) (gateEq 0) (pinEq 0) (pinType Input))
+    (compPin "D3" (pinName "PA04") (partNum 1) (symPinNum 38) (gateEq 0) (pinEq 0) (pinType Input))
+    (compPin "D4" (pinName "GNDIO") (partNum 1) (symPinNum 39) (gateEq 0) (pinEq 0) (pinType Input))
+    (compPin "D5" (pinName "PA31") (partNum 1) (symPinNum 40) (gateEq 0) (pinEq 0) (pinType Input))
+    (compPin "D6" (pinName "GNDIO") (partNum 1) (symPinNum 41) (gateEq 0) (pinEq 0) (pinType Input))
+    (compPin "D7" (pinName "PA23") (partNum 1) (symPinNum 42) (gateEq 0) (pinEq 0) (pinType Input))
+    (compPin "D8" (pinName "PA22") (partNum 1) (symPinNum 43) (gateEq 0) (pinEq 0) (pinType Input))
+    (compPin "E1" (pinName "GND_PA") (partNum 1) (symPinNum 44) (gateEq 0) (pinEq 0) (pinType Input))
+    (compPin "E2" (pinName "GNDANA") (partNum 1) (symPinNum 45) (gateEq 0) (pinEq 0) (pinType Input))
+    (compPin "E3" (pinName "PA06") (partNum 1) (symPinNum 46) (gateEq 0) (pinEq 0) (pinType Input))
+    (compPin "E4" (pinName "PA27") (partNum 1) (symPinNum 47) (gateEq 0) (pinEq 0) (pinType Input))
+    (compPin "E5" (pinName "PB22") (partNum 1) (symPinNum 48) (gateEq 0) (pinEq 0) (pinType Input))
+    (compPin "E6" (pinName "PA17") (partNum 1) (symPinNum 49) (gateEq 0) (pinEq 0) (pinType Input))
+    (compPin "E7" (pinName "PA18") (partNum 1) (symPinNum 50) (gateEq 0) (pinEq 0) (pinType Input))
+    (compPin "E8" (pinName "PA19") (partNum 1) (symPinNum 51) (gateEq 0) (pinEq 0) (pinType Input))
+    (compPin "F1" (pinName "PA_BOOST") (partNum 1) (symPinNum 52) (gateEq 0) (pinEq 0) (pinType Input))
+    (compPin "F2" (pinName "GND_RF") (partNum 1) (symPinNum 53) (gateEq 0) (pinEq 0) (pinType Input))
+    (compPin "F3" (pinName "PA07") (partNum 1) (symPinNum 54) (gateEq 0) (pinEq 0) (pinType Input))
+    (compPin "F4" (pinName "PA08") (partNum 1) (symPinNum 55) (gateEq 0) (pinEq 0) (pinType Input))
+    (compPin "F5" (pinName "PA09") (partNum 1) (symPinNum 56) (gateEq 0) (pinEq 0) (pinType Input))
+    (compPin "F6" (pinName "PA13") (partNum 1) (symPinNum 57) (gateEq 0) (pinEq 0) (pinType Input))
+    (compPin "F7" (pinName "PA16") (partNum 1) (symPinNum 58) (gateEq 0) (pinEq 0) (pinType Input))
+    (compPin "F8" (pinName "PA14") (partNum 1) (symPinNum 59) (gateEq 0) (pinEq 0) (pinType Input))
+    (compPin "G1" (pinName "RFO_LF") (partNum 1) (symPinNum 60) (gateEq 0) (pinEq 0) (pinType Input))
+    (compPin "G2" (pinName "GND_RF") (partNum 1) (symPinNum 61) (gateEq 0) (pinEq 0) (pinType Input))
+    (compPin "G3" (pinName "SCAN_MODE") (partNum 1) (symPinNum 62) (gateEq 0) (pinEq 0) (pinType Input))
+    (compPin "G4" (pinName "VDDIO") (partNum 1) (symPinNum 63) (gateEq 0) (pinEq 0) (pinType Input))
+    (compPin "G5" (pinName "GND_RF") (partNum 1) (symPinNum 64) (gateEq 0) (pinEq 0) (pinType Input))
+    (compPin "G6" (pinName "GND_RF") (partNum 1) (symPinNum 65) (gateEq 0) (pinEq 0) (pinType Input))
+    (compPin "G7" (pinName "GND_RF") (partNum 1) (symPinNum 66) (gateEq 0) (pinEq 0) (pinType Input))
+    (compPin "G8" (pinName "PA15") (partNum 1) (symPinNum 67) (gateEq 0) (pinEq 0) (pinType Input))
+    (compPin "H1" (pinName "RFI_RF") (partNum 1) (symPinNum 68) (gateEq 0) (pinEq 0) (pinType Input))
+    (compPin "H2" (pinName "VRANA_RF") (partNum 1) (symPinNum 69) (gateEq 0) (pinEq 0) (pinType Input))
+    (compPin "H3" (pinName "VDDANA_RF") (partNum 1) (symPinNum 70) (gateEq 0) (pinEq 0) (pinType Input))
+    (compPin "H4" (pinName "VRDIG_RF") (partNum 1) (symPinNum 71) (gateEq 0) (pinEq 0) (pinType Input))
+    (compPin "H5" (pinName "GND_RF") (partNum 1) (symPinNum 72) (gateEq 0) (pinEq 0) (pinType Input))
+    (compPin "H6" (pinName "RF_XTA") (partNum 1) (symPinNum 73) (gateEq 0) (pinEq 0) (pinType Input))
+    (compPin "H7" (pinName "RF_XTB") (partNum 1) (symPinNum 74) (gateEq 0) (pinEq 0) (pinType Input))
+    (compPin "H8" (pinName "VDDDIG_RF") (partNum 1) (symPinNum 75) (gateEq 0) (pinEq 0) (pinType Input))
+    (attachedSymbol (partNum 1) (altType Normal) (symbolName "WLR089U0-I/RM"))
+    (attachedPattern (patternNum 1) (patternName "*DIP794W45P254L1969H508Q14") (numPads 75)
+      (padPinMap
+        (padNum 1)
+        (compPinRef "1")
+        (padNum 2)
+        (compPinRef "2")
+        (padNum 3)
+        (compPinRef "3")
+        (padNum 4)
+        (compPinRef "4")
+        (padNum 5)
+        (compPinRef "5")
+        (padNum 6)
+        (compPinRef "6")
+        (padNum 7)
+        (compPinRef "7")
+        (padNum 8)
+        (compPinRef "8")
+        (padNum 9)
+        (compPinRef "9")
+        (padNum 10)
+        (compPinRef "10")
+        (padNum 11)
+        (compPinRef "11")
+        (padNum 12)
+        (compPinRef "12")
+        (padNum 13)
+        (compPinRef "13")
+        (padNum 14)
+        (compPinRef "14")
+        (padNum 15)
+        (compPinRef "15")
+        (padNum 16)
+        (compPinRef "16")
+        (padNum 17)
+        (compPinRef "17")
+        (padNum 18)
+        (compPinRef "18")
+        (padNum 19)
+        (compPinRef "19")
+        (padNum 20)
+        (compPinRef "20")
+        (padNum 21)
+        (compPinRef "21")
+        (padNum 22)
+        (compPinRef "22")
+        (padNum 23)
+        (compPinRef "23")
+        (padNum 24)
+        (compPinRef "24")
+        (padNum 25)
+        (compPinRef "25")
+        (padNum 26)
+        (compPinRef "26")
+        (padNum 27)
+        (compPinRef "27")
+        (padNum 28)
+        (compPinRef "28")
+        (padNum 29)
+        (compPinRef "29")
+        (padNum 30)
+        (compPinRef "30")
+        (padNum 31)
+        (compPinRef "31")
+        (padNum 32)
+        (compPinRef "32")
+        (padNum 33)
+        (compPinRef "33")
+        (padNum 34)
+        (compPinRef "34")
+        (padNum 35)
+        (compPinRef "35")
+        (padNum 36)
+        (compPinRef "36")
+        (padNum 37)
+        (compPinRef "37")
+        (padNum 38)
+        (compPinRef "38")
+        (padNum 39)
+        (compPinRef "39")
+        (padNum 40)
+        (compPinRef "40")
+        (padNum 41)
+        (compPinRef "41")
+        (padNum 42)
+        (compPinRef "42")
+        (padNum 43)
+        (compPinRef "43")
+        (padNum 44)
+        (compPinRef "44")
+        (padNum 45)
+        (compPinRef "45")
+        (padNum 46)
+        (compPinRef "46")
+        (padNum 47)
+        (compPinRef "47")
+        (padNum 48)
+        (compPinRef "48")
+        (padNum 49)
+        (compPinRef "49")
+        (padNum 50)
+        (compPinRef "50")
+        (padNum 51)
+        (compPinRef "51")
+        (padNum 52)
+        (compPinRef "52")
+        (padNum 53)
+        (compPinRef "53")
+        (padNum 54)
+        (compPinRef "54")
+        (padNum 55)
+        (compPinRef "55")
+        (padNum 56)
+        (compPinRef "56")
+        (padNum 57)
+        (compPinRef "57")
+        (padNum 58)
+        (compPinRef "58")
+        (padNum 59)
+        (compPinRef "59")
+        (padNum 60)
+        (compPinRef "60")
+        (padNum 61)
+        (compPinRef "61")
+        (padNum 62)
+        (compPinRef "62")
+        (padNum 63)
+        (compPinRef "63")
+        (padNum 64)
+        (compPinRef "64")
+        (padNum 65)
+        (compPinRef "65")
+        (padNum 66)
+        (compPinRef "66")
+        (padNum 67)
+        (compPinRef "67")
+        (padNum 68)
+        (compPinRef "68")
+        (padNum 69)
+        (compPinRef "69")
+        (padNum 70)
+        (compPinRef "70")
+        (padNum 71)
+        (compPinRef "71")
+        (padNum 72)
+        (compPinRef "72")
+        (padNum 73)
+        (compPinRef "73")
+        (padNum 74)
+        (compPinRef "74")
+        (padNum 75)
+        (compPinRef "75")
+      )
+    )
+  )
+)
