@@ -1,0 +1,1746 @@
+# AVR
+## AVR128DA28
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA7
+	- 2 PC0
+	- 3 PC1
+	- 4 PC2
+	- 5 PC3
+	- 6 PD0
+	- 7 PD1
+	- 8 PD2
+	- 9 PD3
+	- 10 PD4
+	- 11 PD5
+	- 12 PD6
+	- 13 PD7
+	- 14 AVDD
+	- 15 AGND
+	- 16 PF0
+	- 17 PF1
+	- 18 PF6
+	- 19 UPDI
+	- 20 VDD0
+	- 21 GND0
+	- 22 PA0
+	- 23 PA1
+	- 24 PA2
+	- 25 PA3
+	- 26 PA4
+	- 27 PA5
+	- 28 PA6
+## AVR128DA32
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA3
+	- 2 PA4
+	- 3 PA5
+	- 4 PA6
+	- 5 PA7
+	- 6 PC0
+	- 7 PC1
+	- 8 PC2
+	- 9 PC3
+	- 10 PD0
+	- 11 PD1
+	- 12 PD2
+	- 13 PD3
+	- 14 PD4
+	- 15 PD5
+	- 16 PD6
+	- 17 PD7
+	- 18 AVDD
+	- 19 AGND
+	- 20 PF0
+	- 21 PF1
+	- 22 PF2
+	- 23 PF3
+	- 24 PF4
+	- 25 PF5
+	- 26 PF6
+	- 27 UPDI
+	- 28 VDD0
+	- 29 GND0
+	- 30 PA0
+	- 31 PA1
+	- 32 PA2
+## AVR128DA48
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA5
+	- 2 PA6
+	- 3 PA7
+	- 4 PB0
+	- 5 PB1
+	- 6 PB2
+	- 7 PB3
+	- 8 PB4
+	- 9 PB5
+	- 10 PC0
+	- 11 PC1
+	- 12 PC2
+	- 13 PC3
+	- 14 VDD0
+	- 15 GND0
+	- 16 PC4
+	- 17 PC5
+	- 18 PC6
+	- 19 PC7
+	- 20 PD0
+	- 21 PD1
+	- 22 PD2
+	- 23 PD3
+	- 24 PD4
+	- 25 PD5
+	- 26 PD6
+	- 27 PD7
+	- 28 AVDD
+	- 29 AGND
+	- 30 PE0
+	- 31 PE1
+	- 32 PE2
+	- 33 PE3
+	- 34 PF0
+	- 35 PF1
+	- 36 PF2
+	- 37 PF3
+	- 38 PF4
+	- 39 PF5
+	- 40 PF6
+	- 41 UPDI
+	- 42 VDD1
+	- 43 GND1
+	- 44 PA0
+	- 45 PA1
+	- 46 PA2
+	- 47 PA3
+	- 48 PA4
+## AVR128DA64
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA3
+	- 2 PA4
+	- 3 PA5
+	- 4 PA6
+	- 5 PA7
+	- 6 VDD0
+	- 7 GND0
+	- 8 PB0
+	- 9 PB1
+	- 10 PB2
+	- 11 PB3
+	- 12 PB4
+	- 13 PB5
+	- 14 PB6
+	- 15 PB7
+	- 16 PC0
+	- 17 PC1
+	- 18 PC2
+	- 19 PC3
+	- 20 VDD1
+	- 21 GND1
+	- 22 PC4
+	- 23 PC5
+	- 24 PC6
+	- 25 PC7
+	- 26 PD0
+	- 27 PD1
+	- 28 PD2
+	- 29 PD3
+	- 30 PD4
+	- 31 PD5
+	- 32 PD6
+	- 33 PD7
+	- 34 AVDD
+	- 35 AGND
+	- 36 PE0
+	- 37 PE1
+	- 38 PE2
+	- 39 PE3
+	- 40 PE4
+	- 41 PE5
+	- 42 PE6
+	- 43 PE7
+	- 44 PF0
+	- 45 PF1
+	- 46 PF2
+	- 47 PF3
+	- 48 PF4
+	- 49 PF5
+	- 50 PF6
+	- 51 UPDI
+	- 52 PG0
+	- 53 PG1
+	- 54 PG2
+	- 55 PG3
+	- 56 VDD2
+	- 57 GND2
+	- 58 PG4
+	- 59 PG5
+	- 60 PG6
+	- 61 PG7
+	- 62 PA0
+	- 63 PA1
+	- 64 PA2
+## AVR128DB28
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA7
+	- 2 PC0
+	- 3 PC1
+	- 4 PC2
+	- 5 PC3
+	- 6 VDDIO2
+	- 7 PD1
+	- 8 PD2
+	- 9 PD3
+	- 10 PD4
+	- 11 PD5
+	- 12 PD6
+	- 13 PD7
+	- 14 AVDD
+	- 15 AGND
+	- 16 PF0
+	- 17 PF1
+	- 18 PF6
+	- 19 UPDI
+	- 20 VDD0
+	- 21 GND0
+	- 22 PA0
+	- 23 PA1
+	- 24 PA2
+	- 25 PA3
+	- 26 PA4
+	- 27 PA5
+	- 28 PA6
+## AVR128DB32
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA3
+	- 2 PA4
+	- 3 PA5
+	- 4 PA6
+	- 5 PA7
+	- 6 PC0
+	- 7 PC1
+	- 8 PC2
+	- 9 PC3
+	- 10 VDDIO2
+	- 11 PD1
+	- 12 PD2
+	- 13 PD3
+	- 14 PD4
+	- 15 PD5
+	- 16 PD6
+	- 17 PD7
+	- 18 AVDD
+	- 19 AGND
+	- 20 PF0
+	- 21 PF1
+	- 22 PF2
+	- 23 PF3
+	- 24 PF4
+	- 25 PF5
+	- 26 PF6
+	- 27 UPDI
+	- 28 VDD0
+	- 29 GND0
+	- 30 PA0
+	- 31 PA1
+	- 32 PA2
+## AVR128DB48
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA5
+	- 2 PA6
+	- 3 PA7
+	- 4 PB0
+	- 5 PB1
+	- 6 PB2
+	- 7 PB3
+	- 8 PB4
+	- 9 PB5
+	- 10 PC0
+	- 11 PC1
+	- 12 PC2
+	- 13 PC3
+	- 14 VDDIO2
+	- 15 GND0
+	- 16 PC4
+	- 17 PC5
+	- 18 PC6
+	- 19 PC7
+	- 20 PD0
+	- 21 PD1
+	- 22 PD2
+	- 23 PD3
+	- 24 PD4
+	- 25 PD5
+	- 26 PD6
+	- 27 PD7
+	- 28 AVDD
+	- 29 AGND
+	- 30 PE0
+	- 31 PE1
+	- 32 PE2
+	- 33 PE3
+	- 34 PF0
+	- 35 PF1
+	- 36 PF2
+	- 37 PF3
+	- 38 PF4
+	- 39 PF5
+	- 40 PF6
+	- 41 UPDI
+	- 43 GND2
+	- 44 PA0
+	- 45 PA1
+	- 46 PA2
+	- 47 PA3
+	- 48 PA4
+## AVR128DB64
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA3
+	- 2 PA4
+	- 3 PA5
+	- 4 PA6
+	- 5 PA7
+	- 6 VDD0
+	- 7 GND0
+	- 8 PB0
+	- 9 PB1
+	- 10 PB2
+	- 11 PB3
+	- 12 PB4
+	- 13 PB5
+	- 14 PB6
+	- 15 PB7
+	- 16 PC0
+	- 17 PC1
+	- 18 PC2
+	- 19 PC3
+	- 20 VDDIO2
+	- 21 GND1
+	- 22 PC4
+	- 23 PC5
+	- 24 PC6
+	- 25 PC7
+	- 26 PD0
+	- 27 PD1
+	- 28 PD2
+	- 29 PD3
+	- 30 PD4
+	- 31 PD5
+	- 32 PD6
+	- 33 PD7
+	- 34 AVDD
+	- 35 AGND
+	- 36 PE0
+	- 37 PE1
+	- 38 PE2
+	- 39 PE3
+	- 40 PE4
+	- 41 PE5
+	- 42 PE6
+	- 43 PE7
+	- 44 PF0
+	- 45 PF1
+	- 46 PF2
+	- 47 PF3
+	- 48 PF4
+	- 49 PF5
+	- 50 PF6
+	- 51 UPDI
+	- 52 PG0
+	- 53 PG1
+	- 54 PG2
+	- 55 PG3
+	- 56 VDD2
+	- 57 GND2
+	- 58 PG4
+	- 59 PG5
+	- 60 PG6
+	- 61 PG7
+	- 62 PA0
+	- 63 PA1
+	- 64 PA2
+## AVR16DD14
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 AGND
+	- 2 PF6
+	- 3 PF7
+	- 4 PA0
+	- 5 PA1
+	- 6 PC1
+	- 7 PC2
+	- 8 PC3
+	- 9 VDDIO2
+	- 10 PD4
+	- 11 PD5
+	- 12 PD6
+	- 13 PD7
+	- 14 AVDD
+## AVR16DD20
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA4
+	- 2 PA5
+	- 3 PA6
+	- 4 PA7
+	- 5 PC1
+	- 6 PC2
+	- 7 PC3
+	- 8 VDDIO2
+	- 9 PD4
+	- 10 PD5
+	- 11 PD6
+	- 12 PD7
+	- 13 AVDD
+	- 14 AGND
+	- 15 PF6
+	- 16 PF7
+	- 17 PA0
+	- 18 PA1
+	- 19 PA2
+	- 20 PA3
+## AVR16DD28
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA7
+	- 2 PC0
+	- 3 PC1
+	- 4 PC2
+	- 5 PC3
+	- 6 VDDIO2
+	- 7 PD1
+	- 8 PD2
+	- 9 PD3
+	- 10 PD4
+	- 11 PD5
+	- 12 PD6
+	- 13 PD7
+	- 14 AVDD
+	- 15 AGND
+	- 16 PF0
+	- 17 PF1
+	- 18 PF6
+	- 19 PF7
+	- 20 VDD0
+	- 21 GND0
+	- 22 PA0
+	- 23 PA1
+	- 24 PA2
+	- 25 PA3
+	- 26 PA4
+	- 27 PA5
+	- 28 PA6
+## AVR16DD32
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA3
+	- 2 PA4
+	- 3 PA5
+	- 4 PA6
+	- 5 PA7
+	- 6 PC0
+	- 7 PC1
+	- 8 PC2
+	- 9 PC3
+	- 10 VDDIO2
+	- 11 PD1
+	- 12 PD2
+	- 13 PD3
+	- 14 PD4
+	- 15 PD5
+	- 16 PD6
+	- 17 PD7
+	- 18 AVDD
+	- 19 AGND
+	- 20 PF0
+	- 21 PF1
+	- 22 PF2
+	- 23 PF3
+	- 24 PF4
+	- 25 PF5
+	- 26 PF6
+	- 27 PF7
+	- 28 VDD0
+	- 29 GND0
+	- 30 PA0
+	- 31 PA1
+	- 32 PA2
+## AVR16EA28
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA7
+	- 2 PC0
+	- 3 PC1
+	- 4 PC2
+	- 5 PC3
+	- 6 PD0
+	- 7 PD1
+	- 8 PD2
+	- 9 PD3
+	- 10 PD4
+	- 11 PD5
+	- 12 PD6
+	- 13 PD7
+	- 14 VDD
+	- 15 GND
+	- 16 PF0
+	- 17 PF1
+	- 18 PF6
+	- 19 PF7
+	- 20 VDD1
+	- 21 GND1
+	- 22 PA0
+	- 23 PA1
+	- 24 PA2
+	- 25 PA3
+	- 26 PA4
+	- 27 PA5
+	- 28 PA6
+## AVR16EA32
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA3
+	- 2 PA4
+	- 3 PA5
+	- 4 PA6
+	- 5 PA7
+	- 6 PC0
+	- 7 PC1
+	- 8 PC2
+	- 9 PC3
+	- 10 PD0
+	- 11 PD1
+	- 12 PD2
+	- 13 PD3
+	- 14 PD4
+	- 15 PD5
+	- 16 PD6
+	- 17 PD7
+	- 18 VDD
+	- 19 GND
+	- 20 PF0
+	- 21 PF1
+	- 22 PF2
+	- 23 PF3
+	- 24 PF4
+	- 25 PF5
+	- 26 PF6
+	- 27 PF7
+	- 28 VDD1
+	- 29 GND1
+	- 30 PA0
+	- 31 PA1
+	- 32 PA2
+## AVR16EA48
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA5
+	- 2 PA6
+	- 3 PA7
+	- 4 PB0
+	- 5 PB1
+	- 6 PB2
+	- 7 PB3
+	- 8 PB4
+	- 9 PB5
+	- 10 PC0
+	- 11 PC1
+	- 12 PC2
+	- 13 PC3
+	- 14 VDD2
+	- 15 GND2
+	- 16 PC4
+	- 17 PC5
+	- 18 PC6
+	- 19 PC7
+	- 20 PD0
+	- 21 PD1
+	- 22 PD2
+	- 23 PD3
+	- 24 PD4
+	- 25 PD5
+	- 26 PD6
+	- 27 PD7
+	- 28 VDD
+	- 29 GND
+	- 30 PE0
+	- 31 PE1
+	- 32 PE2
+	- 33 PE3
+	- 34 PF0
+	- 35 PF1
+	- 36 PF2
+	- 37 PF3
+	- 38 PF4
+	- 39 PF5
+	- 40 PF6
+	- 41 PF7
+	- 42 VDD1
+	- 43 GND1
+	- 44 PA0
+	- 45 PA1
+	- 46 PA2
+	- 47 PA3
+	- 48 PA4
+## AVR32DB28
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA7
+	- 2 PC0
+	- 3 PC1
+	- 4 PC2
+	- 5 PC3
+	- 6 VDDIO2
+	- 7 PD1
+	- 8 PD2
+	- 9 PD3
+	- 10 PD4
+	- 11 PD5
+	- 12 PD6
+	- 13 PD7
+	- 14 AVDD
+	- 15 AGND
+	- 16 PF0
+	- 17 PF1
+	- 18 PF6
+	- 19 UPDI
+	- 20 VDD0
+	- 21 GND0
+	- 22 PA0
+	- 23 PA1
+	- 24 PA2
+	- 25 PA3
+	- 26 PA4
+	- 27 PA5
+	- 28 PA6
+## AVR32DB32
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA3
+	- 2 PA4
+	- 3 PA5
+	- 4 PA6
+	- 5 PA7
+	- 6 PC0
+	- 7 PC1
+	- 8 PC2
+	- 9 PC3
+	- 10 VDDIO2
+	- 11 PD1
+	- 12 PD2
+	- 13 PD3
+	- 14 PD4
+	- 15 PD5
+	- 16 PD6
+	- 17 PD7
+	- 18 AVDD
+	- 19 AGND
+	- 20 PF0
+	- 21 PF1
+	- 22 PF2
+	- 23 PF3
+	- 24 PF4
+	- 25 PF5
+	- 26 PF6
+	- 27 UPDI
+	- 28 VDD0
+	- 29 GND0
+	- 30 PA0
+	- 31 PA1
+	- 32 PA2
+## AVR32DB48
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA5
+	- 2 PA6
+	- 3 PA7
+	- 4 PB0
+	- 5 PB1
+	- 6 PB2
+	- 7 PB3
+	- 8 PB4
+	- 9 PB5
+	- 10 PC0
+	- 11 PC1
+	- 12 PC2
+	- 13 PC3
+	- 14 VDDIO2
+	- 15 GND0
+	- 16 PC4
+	- 17 PC5
+	- 18 PC6
+	- 19 PC7
+	- 20 PD0
+	- 21 PD1
+	- 22 PD2
+	- 23 PD3
+	- 24 PD4
+	- 25 PD5
+	- 26 PD6
+	- 27 PD7
+	- 28 AVDD
+	- 29 AGND
+	- 30 PE0
+	- 31 PE1
+	- 32 PE2
+	- 33 PE3
+	- 34 PF0
+	- 35 PF1
+	- 36 PF2
+	- 37 PF3
+	- 38 PF4
+	- 39 PF5
+	- 40 PF6
+	- 41 UPDI
+	- 43 GND2
+	- 44 PA0
+	- 45 PA1
+	- 46 PA2
+	- 47 PA3
+	- 48 PA4
+## AVR32DD14
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 AGND
+	- 2 PF6
+	- 3 PF7
+	- 4 PA0
+	- 5 PA1
+	- 6 PC1
+	- 7 PC2
+	- 8 PC3
+	- 9 VDDIO2
+	- 10 PD4
+	- 11 PD5
+	- 12 PD6
+	- 13 PD7
+	- 14 AVDD
+## AVR32DD20
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA4
+	- 2 PA5
+	- 3 PA6
+	- 4 PA7
+	- 5 PC1
+	- 6 PC2
+	- 7 PC3
+	- 8 VDDIO2
+	- 9 PD4
+	- 10 PD5
+	- 11 PD6
+	- 12 PD7
+	- 13 AVDD
+	- 14 AGND
+	- 15 PF6
+	- 16 PF7
+	- 17 PA0
+	- 18 PA1
+	- 19 PA2
+	- 20 PA3
+## AVR32DD28
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA7
+	- 2 PC0
+	- 3 PC1
+	- 4 PC2
+	- 5 PC3
+	- 6 VDDIO2
+	- 7 PD1
+	- 8 PD2
+	- 9 PD3
+	- 10 PD4
+	- 11 PD5
+	- 12 PD6
+	- 13 PD7
+	- 14 AVDD
+	- 15 AGND
+	- 16 PF0
+	- 17 PF1
+	- 18 PF6
+	- 19 PF7
+	- 20 VDD0
+	- 21 GND0
+	- 22 PA0
+	- 23 PA1
+	- 24 PA2
+	- 25 PA3
+	- 26 PA4
+	- 27 PA5
+	- 28 PA6
+## AVR32DD32
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA3
+	- 2 PA4
+	- 3 PA5
+	- 4 PA6
+	- 5 PA7
+	- 6 PC0
+	- 7 PC1
+	- 8 PC2
+	- 9 PC3
+	- 10 VDDIO2
+	- 11 PD1
+	- 12 PD2
+	- 13 PD3
+	- 14 PD4
+	- 15 PD5
+	- 16 PD6
+	- 17 PD7
+	- 18 AVDD
+	- 19 AGND
+	- 20 PF0
+	- 21 PF1
+	- 22 PF2
+	- 23 PF3
+	- 24 PF4
+	- 25 PF5
+	- 26 PF6
+	- 27 PF7
+	- 28 VDD0
+	- 29 GND0
+	- 30 PA0
+	- 31 PA1
+	- 32 PA2
+## AVR32EA28
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA7
+	- 2 PC0
+	- 3 PC1
+	- 4 PC2
+	- 5 PC3
+	- 6 PD0
+	- 7 PD1
+	- 8 PD2
+	- 9 PD3
+	- 10 PD4
+	- 11 PD5
+	- 12 PD6
+	- 13 PD7
+	- 14 VDD
+	- 15 GND
+	- 16 PF0
+	- 17 PF1
+	- 18 PF6
+	- 19 PF7
+	- 20 VDD1
+	- 21 GND1
+	- 22 PA0
+	- 23 PA1
+	- 24 PA2
+	- 25 PA3
+	- 26 PA4
+	- 27 PA5
+	- 28 PA6
+## AVR32EA32
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA3
+	- 2 PA4
+	- 3 PA5
+	- 4 PA6
+	- 5 PA7
+	- 6 PC0
+	- 7 PC1
+	- 8 PC2
+	- 9 PC3
+	- 10 PD0
+	- 11 PD1
+	- 12 PD2
+	- 13 PD3
+	- 14 PD4
+	- 15 PD5
+	- 16 PD6
+	- 17 PD7
+	- 18 VDD
+	- 19 GND
+	- 20 PF0
+	- 21 PF1
+	- 22 PF2
+	- 23 PF3
+	- 24 PF4
+	- 25 PF5
+	- 26 PF6
+	- 27 PF7
+	- 28 VDD1
+	- 29 GND1
+	- 30 PA0
+	- 31 PA1
+	- 32 PA2
+## AVR32EA48
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA5
+	- 2 PA6
+	- 3 PA7
+	- 4 PB0
+	- 5 PB1
+	- 6 PB2
+	- 7 PB3
+	- 8 PB4
+	- 9 PB5
+	- 10 PC0
+	- 11 PC1
+	- 12 PC2
+	- 13 PC3
+	- 14 VDD2
+	- 15 GND2
+	- 16 PC4
+	- 17 PC5
+	- 18 PC6
+	- 19 PC7
+	- 20 PD0
+	- 21 PD1
+	- 22 PD2
+	- 23 PD3
+	- 24 PD4
+	- 25 PD5
+	- 26 PD6
+	- 27 PD7
+	- 28 VDD
+	- 29 GND
+	- 30 PE0
+	- 31 PE1
+	- 32 PE2
+	- 33 PE3
+	- 34 PF0
+	- 35 PF1
+	- 36 PF2
+	- 37 PF3
+	- 38 PF4
+	- 39 PF5
+	- 40 PF6
+	- 41 PF7
+	- 42 VDD1
+	- 43 GND1
+	- 44 PA0
+	- 45 PA1
+	- 46 PA2
+	- 47 PA3
+	- 48 PA4
+## AVR64DA28
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA7
+	- 2 PC0
+	- 3 PC1
+	- 4 PC2
+	- 5 PC3
+	- 6 PD0
+	- 7 PD1
+	- 8 PD2
+	- 9 PD3
+	- 10 PD4
+	- 11 PD5
+	- 12 PD6
+	- 13 PD7
+	- 14 AVDD
+	- 15 AGND
+	- 16 PF0
+	- 17 PF1
+	- 18 PF6
+	- 19 UPDI
+	- 20 VDD0
+	- 21 GND0
+	- 22 PA0
+	- 23 PA1
+	- 24 PA2
+	- 25 PA3
+	- 26 PA4
+	- 27 PA5
+	- 28 PA6
+## AVR64DA32
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA3
+	- 2 PA4
+	- 3 PA5
+	- 4 PA6
+	- 5 PA7
+	- 6 PC0
+	- 7 PC1
+	- 8 PC2
+	- 9 PC3
+	- 10 PD0
+	- 11 PD1
+	- 12 PD2
+	- 13 PD3
+	- 14 PD4
+	- 15 PD5
+	- 16 PD6
+	- 17 PD7
+	- 18 AVDD
+	- 19 AGND
+	- 20 PF0
+	- 21 PF1
+	- 22 PF2
+	- 23 PF3
+	- 24 PF4
+	- 25 PF5
+	- 26 PF6
+	- 27 UPDI
+	- 28 VDD0
+	- 29 GND0
+	- 30 PA0
+	- 31 PA1
+	- 32 PA2
+## AVR64DA48
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA5
+	- 2 PA6
+	- 3 PA7
+	- 4 PB0
+	- 5 PB1
+	- 6 PB2
+	- 7 PB3
+	- 8 PB4
+	- 9 PB5
+	- 10 PC0
+	- 11 PC1
+	- 12 PC2
+	- 13 PC3
+	- 14 VDD0
+	- 15 GND0
+	- 16 PC4
+	- 17 PC5
+	- 18 PC6
+	- 19 PC7
+	- 20 PD0
+	- 21 PD1
+	- 22 PD2
+	- 23 PD3
+	- 24 PD4
+	- 25 PD5
+	- 26 PD6
+	- 27 PD7
+	- 28 AVDD
+	- 29 AGND
+	- 30 PE0
+	- 31 PE1
+	- 32 PE2
+	- 33 PE3
+	- 34 PF0
+	- 35 PF1
+	- 36 PF2
+	- 37 PF3
+	- 38 PF4
+	- 39 PF5
+	- 40 PF6
+	- 41 UPDI
+	- 42 VDD1
+	- 43 GND1
+	- 44 PA0
+	- 45 PA1
+	- 46 PA2
+	- 47 PA3
+	- 48 PA4
+## AVR64DA64
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA3
+	- 2 PA4
+	- 3 PA5
+	- 4 PA6
+	- 5 PA7
+	- 6 VDD0
+	- 7 GND0
+	- 8 PB0
+	- 9 PB1
+	- 10 PB2
+	- 11 PB3
+	- 12 PB4
+	- 13 PB5
+	- 14 PB6
+	- 15 PB7
+	- 16 PC0
+	- 17 PC1
+	- 18 PC2
+	- 19 PC3
+	- 20 VDD1
+	- 21 GND1
+	- 22 PC4
+	- 23 PC5
+	- 24 PC6
+	- 25 PC7
+	- 26 PD0
+	- 27 PD1
+	- 28 PD2
+	- 29 PD3
+	- 30 PD4
+	- 31 PD5
+	- 32 PD6
+	- 33 PD7
+	- 34 AVDD
+	- 35 AGND
+	- 36 PE0
+	- 37 PE1
+	- 38 PE2
+	- 39 PE3
+	- 40 PE4
+	- 41 PE5
+	- 42 PE6
+	- 43 PE7
+	- 44 PF0
+	- 45 PF1
+	- 46 PF2
+	- 47 PF3
+	- 48 PF4
+	- 49 PF5
+	- 50 PF6
+	- 51 UPDI
+	- 52 PG0
+	- 53 PG1
+	- 54 PG2
+	- 55 PG3
+	- 56 VDD2
+	- 57 GND2
+	- 58 PG4
+	- 59 PG5
+	- 60 PG6
+	- 61 PG7
+	- 62 PA0
+	- 63 PA1
+	- 64 PA2
+## AVR64DB28
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA7
+	- 2 PC0
+	- 3 PC1
+	- 4 PC2
+	- 5 PC3
+	- 6 VDDIO2
+	- 7 PD1
+	- 8 PD2
+	- 9 PD3
+	- 10 PD4
+	- 11 PD5
+	- 12 PD6
+	- 13 PD7
+	- 14 AVDD
+	- 15 AGND
+	- 16 PF0
+	- 17 PF1
+	- 18 PF6
+	- 19 UPDI
+	- 20 VDD0
+	- 21 GND0
+	- 22 PA0
+	- 23 PA1
+	- 24 PA2
+	- 25 PA3
+	- 26 PA4
+	- 27 PA5
+	- 28 PA6
+## AVR64DB32
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA3
+	- 2 PA4
+	- 3 PA5
+	- 4 PA6
+	- 5 PA7
+	- 6 PC0
+	- 7 PC1
+	- 8 PC2
+	- 9 PC3
+	- 10 VDDIO2
+	- 11 PD1
+	- 12 PD2
+	- 13 PD3
+	- 14 PD4
+	- 15 PD5
+	- 16 PD6
+	- 17 PD7
+	- 18 AVDD
+	- 19 AGND
+	- 20 PF0
+	- 21 PF1
+	- 22 PF2
+	- 23 PF3
+	- 24 PF4
+	- 25 PF5
+	- 26 PF6
+	- 27 UPDI
+	- 28 VDD0
+	- 29 GND0
+	- 30 PA0
+	- 31 PA1
+	- 32 PA2
+## AVR64DB48
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA5
+	- 2 PA6
+	- 3 PA7
+	- 4 PB0
+	- 5 PB1
+	- 6 PB2
+	- 7 PB3
+	- 8 PB4
+	- 9 PB5
+	- 10 PC0
+	- 11 PC1
+	- 12 PC2
+	- 13 PC3
+	- 14 VDDIO2
+	- 15 GND0
+	- 16 PC4
+	- 17 PC5
+	- 18 PC6
+	- 19 PC7
+	- 20 PD0
+	- 21 PD1
+	- 22 PD2
+	- 23 PD3
+	- 24 PD4
+	- 25 PD5
+	- 26 PD6
+	- 27 PD7
+	- 28 AVDD
+	- 29 AGND
+	- 30 PE0
+	- 31 PE1
+	- 32 PE2
+	- 33 PE3
+	- 34 PF0
+	- 35 PF1
+	- 36 PF2
+	- 37 PF3
+	- 38 PF4
+	- 39 PF5
+	- 40 PF6
+	- 41 UPDI
+	- 43 GND2
+	- 44 PA0
+	- 45 PA1
+	- 46 PA2
+	- 47 PA3
+	- 48 PA4
+## AVR64DB64
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA3
+	- 2 PA4
+	- 3 PA5
+	- 4 PA6
+	- 5 PA7
+	- 6 VDD0
+	- 7 GND0
+	- 8 PB0
+	- 9 PB1
+	- 10 PB2
+	- 11 PB3
+	- 12 PB4
+	- 13 PB5
+	- 14 PB6
+	- 15 PB7
+	- 16 PC0
+	- 17 PC1
+	- 18 PC2
+	- 19 PC3
+	- 20 VDDIO2
+	- 21 GND1
+	- 22 PC4
+	- 23 PC5
+	- 24 PC6
+	- 25 PC7
+	- 26 PD0
+	- 27 PD1
+	- 28 PD2
+	- 29 PD3
+	- 30 PD4
+	- 31 PD5
+	- 32 PD6
+	- 33 PD7
+	- 34 AVDD
+	- 35 AGND
+	- 36 PE0
+	- 37 PE1
+	- 38 PE2
+	- 39 PE3
+	- 40 PE4
+	- 41 PE5
+	- 42 PE6
+	- 43 PE7
+	- 44 PF0
+	- 45 PF1
+	- 46 PF2
+	- 47 PF3
+	- 48 PF4
+	- 49 PF5
+	- 50 PF6
+	- 51 UPDI
+	- 52 PG0
+	- 53 PG1
+	- 54 PG2
+	- 55 PG3
+	- 56 VDD2
+	- 57 GND2
+	- 58 PG4
+	- 59 PG5
+	- 60 PG6
+	- 61 PG7
+	- 62 PA0
+	- 63 PA1
+	- 64 PA2
+## AVR64DD14
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 AGND
+	- 2 PF6
+	- 3 PF7
+	- 4 PA0
+	- 5 PA1
+	- 6 PC1
+	- 7 PC2
+	- 8 PC3
+	- 9 VDDIO2
+	- 10 PD4
+	- 11 PD5
+	- 12 PD6
+	- 13 PD7
+	- 14 AVDD
+## AVR64DD20
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA4
+	- 2 PA5
+	- 3 PA6
+	- 4 PA7
+	- 5 PC1
+	- 6 PC2
+	- 7 PC3
+	- 8 VDDIO2
+	- 9 PD4
+	- 10 PD5
+	- 11 PD6
+	- 12 PD7
+	- 13 AVDD
+	- 14 AGND
+	- 15 PF6
+	- 16 PF7
+	- 17 PA0
+	- 18 PA1
+	- 19 PA2
+	- 20 PA3
+## AVR64DD28
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA7
+	- 2 PC0
+	- 3 PC1
+	- 4 PC2
+	- 5 PC3
+	- 6 VDDIO2
+	- 7 PD1
+	- 8 PD2
+	- 9 PD3
+	- 10 PD4
+	- 11 PD5
+	- 12 PD6
+	- 13 PD7
+	- 14 AVDD
+	- 15 AGND
+	- 16 PF0
+	- 17 PF1
+	- 18 PF6
+	- 19 PF7
+	- 20 VDD0
+	- 21 GND0
+	- 22 PA0
+	- 23 PA1
+	- 24 PA2
+	- 25 PA3
+	- 26 PA4
+	- 27 PA5
+	- 28 PA6
+## AVR64DD32
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA3
+	- 2 PA4
+	- 3 PA5
+	- 4 PA6
+	- 5 PA7
+	- 6 PC0
+	- 7 PC1
+	- 8 PC2
+	- 9 PC3
+	- 10 VDDIO2
+	- 11 PD1
+	- 12 PD2
+	- 13 PD3
+	- 14 PD4
+	- 15 PD5
+	- 16 PD6
+	- 17 PD7
+	- 18 AVDD
+	- 19 AGND
+	- 20 PF0
+	- 21 PF1
+	- 22 PF2
+	- 23 PF3
+	- 24 PF4
+	- 25 PF5
+	- 26 PF6
+	- 27 PF7
+	- 28 VDD0
+	- 29 GND0
+	- 30 PA0
+	- 31 PA1
+	- 32 PA2
+## AVR64DU28-SSOP/SPDIP
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA7
+	- 2 VUSB
+	- 3 DM
+	- 4 DP
+	- 5 PC3
+	- 6 PD0
+	- 7 PD1
+	- 8 PD2
+	- 9 PD3
+	- 10 PD4
+	- 11 PD5
+	- 12 PD6
+	- 13 PD7
+	- 14 VDD1
+	- 15 GND1
+	- 16 PF0
+	- 17 PF1
+	- 18 PF6
+	- 19 PF7
+	- 20 VDD0
+	- 21 GND0
+	- 22 PA0
+	- 23 PA1
+	- 24 PA2
+	- 25 PA3
+	- 26 PA4
+	- 27 PA5
+	- 28 PA6
+## AVR64DU28-VQFN
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA3
+	- 2 PA4
+	- 3 PA5
+	- 4 PA6
+	- 5 PA7
+	- 6 VUSB
+	- 7 DM
+	- 8 DP
+	- 9 PC3
+	- 10 PD0
+	- 11 PD1
+	- 12 PD2
+	- 13 PD3
+	- 14 PD4
+	- 15 PD5
+	- 16 PD6
+	- 17 PD7
+	- 18 VDD1
+	- 19 GND1
+	- 20 PF0
+	- 21 PF1
+	- 22 PF6
+	- 23 PF7
+	- 24 VDD0
+	- 25 GND0
+	- 26 PA0
+	- 27 PA1
+	- 28 PA2
+## AVR64DU32-VQFN/TQFP
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA3
+	- 2 PA4
+	- 3 PA5
+	- 4 PA6
+	- 5 PA7
+	- 6 VUSB
+	- 7 DM
+	- 8 DP
+	- 9 PC3
+	- 10 PD0
+	- 11 PD1
+	- 12 PD2
+	- 13 PD3
+	- 14 PD4
+	- 15 PD5
+	- 16 PD6
+	- 17 PD7
+	- 18 VDD1
+	- 19 GND1
+	- 20 PF0
+	- 21 PF1
+	- 22 PF2
+	- 23 PF3
+	- 24 PF4
+	- 25 PF5
+	- 26 PF6
+	- 27 PF7
+	- 28 VDD0
+	- 29 GND0
+	- 30 PA0
+	- 31 PA1
+	- 32 PA2
+## AVR64EA28
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA7
+	- 2 PC0
+	- 3 PC1
+	- 4 PC2
+	- 5 PC3
+	- 6 PD0
+	- 7 PD1
+	- 8 PD2
+	- 9 PD3
+	- 10 PD4
+	- 11 PD5
+	- 12 PD6
+	- 13 PD7
+	- 14 VDD
+	- 15 GND
+	- 16 PF0
+	- 17 PF1
+	- 18 PF6
+	- 19 PF7
+	- 20 VDD1
+	- 21 GND1
+	- 22 PA0
+	- 23 PA1
+	- 24 PA2
+	- 25 PA3
+	- 26 PA4
+	- 27 PA5
+	- 28 PA6
+## AVR64EA32
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA3
+	- 2 PA4
+	- 3 PA5
+	- 4 PA6
+	- 5 PA7
+	- 6 PC0
+	- 7 PC1
+	- 8 PC2
+	- 9 PC3
+	- 10 PD0
+	- 11 PD1
+	- 12 PD2
+	- 13 PD3
+	- 14 PD4
+	- 15 PD5
+	- 16 PD6
+	- 17 PD7
+	- 18 VDD
+	- 19 GND
+	- 20 PF0
+	- 21 PF1
+	- 22 PF2
+	- 23 PF3
+	- 24 PF4
+	- 25 PF5
+	- 26 PF6
+	- 27 PF7
+	- 28 VDD1
+	- 29 GND1
+	- 30 PA0
+	- 31 PA1
+	- 32 PA2
+## AVR64EA48
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA5
+	- 2 PA6
+	- 3 PA7
+	- 4 PB0
+	- 5 PB1
+	- 6 PB2
+	- 7 PB3
+	- 8 PB4
+	- 9 PB5
+	- 10 PC0
+	- 11 PC1
+	- 12 PC2
+	- 13 PC3
+	- 14 VDD2
+	- 15 GND2
+	- 16 PC4
+	- 17 PC5
+	- 18 PC6
+	- 19 PC7
+	- 20 PD0
+	- 21 PD1
+	- 22 PD2
+	- 23 PD3
+	- 24 PD4
+	- 25 PD5
+	- 26 PD6
+	- 27 PD7
+	- 28 VDD
+	- 29 GND
+	- 30 PE0
+	- 31 PE1
+	- 32 PE2
+	- 33 PE3
+	- 34 PF0
+	- 35 PF1
+	- 36 PF2
+	- 37 PF3
+	- 38 PF4
+	- 39 PF5
+	- 40 PF6
+	- 41 PF7
+	- 42 VDD1
+	- 43 GND1
+	- 44 PA0
+	- 45 PA1
+	- 46 PA2
+	- 47 PA3
+	- 48 PA4

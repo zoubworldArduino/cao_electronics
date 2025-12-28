@@ -23,11 +23,11 @@ today foot print isn't supported because I haven't build that database forr that
 below you will see format supported :
 
 ## Kicad
-[see for supported list](part-list.rm)
+[see for supported list](part-list.md)
 ## Altium
-[see for supported list](part-list.rm)
+[see for supported list](part-list.md)
 ## Proteus
-[see for supported list](part-list.rm)
+[see for supported list](part-list.md)
 # road map
 Q4-2024 a first beta realease with a large list of symbol working with Kicad.(without footprint)
 xx-xxxx try to support last MCU introduced by microchip within the quarter that follow the support of MPlab.

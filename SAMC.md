@@ -1,0 +1,9521 @@
+# SAMC
+## SAMC20E15A-AN
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA00
+	- 2 PA01
+	- 3 PA02
+	- 4 PA03
+	- 5 PA04
+	- 6 PA05
+	- 7 PA06
+	- 8 PA07
+	- 9 VDDANA
+	- 10 GNDIO
+	- 11 PA08
+	- 12 PA09
+	- 13 PA10
+	- 14 PA11
+	- 15 PA14
+	- 16 PA15
+	- 17 PA16
+	- 18 PA17
+	- 19 PA18
+	- 20 PA19
+	- 21 PA22
+	- 22 PA23
+	- 23 PA24
+	- 24 PA25
+	- 25 PA27
+	- 26 RESET_N
+	- 27 PA28
+	- 28 GNDIO
+	- 29 VDDCORE
+	- 30 VDDIN
+	- 31 PA30
+	- 32 PA31
+## SAMC20E15A-AU
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA00
+	- 2 PA01
+	- 3 PA02
+	- 4 PA03
+	- 5 PA04
+	- 6 PA05
+	- 7 PA06
+	- 8 PA07
+	- 9 VDDANA
+	- 10 GNDIO
+	- 11 PA08
+	- 12 PA09
+	- 13 PA10
+	- 14 PA11
+	- 15 PA14
+	- 16 PA15
+	- 17 PA16
+	- 18 PA17
+	- 19 PA18
+	- 20 PA19
+	- 21 PA22
+	- 22 PA23
+	- 23 PA24
+	- 24 PA25
+	- 25 PA27
+	- 26 RESET_N
+	- 27 PA28
+	- 28 GNDIO
+	- 29 VDDCORE
+	- 30 VDDIN
+	- 31 PA30
+	- 32 PA31
+## SAMC20E15A-AZ
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA00
+	- 2 PA01
+	- 3 PA02
+	- 4 PA03
+	- 5 PA04
+	- 6 PA05
+	- 7 PA06
+	- 8 PA07
+	- 9 VDDANA
+	- 10 GNDIO
+	- 11 PA08
+	- 12 PA09
+	- 13 PA10
+	- 14 PA11
+	- 15 PA14
+	- 16 PA15
+	- 17 PA16
+	- 18 PA17
+	- 19 PA18
+	- 20 PA19
+	- 21 PA22
+	- 22 PA23
+	- 23 PA24
+	- 24 PA25
+	- 25 PA27
+	- 26 RESET_N
+	- 27 PA28
+	- 28 GNDIO
+	- 29 VDDCORE
+	- 30 VDDIN
+	- 31 PA30
+	- 32 PA31
+## SAMC20E15A-MN
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA00
+	- 2 PA01
+	- 3 PA02
+	- 4 PA03
+	- 5 PA04
+	- 6 PA05
+	- 7 PA06
+	- 8 PA07
+	- 9 VDDANA
+	- 10 GNDIO
+	- 11 PA08
+	- 12 PA09
+	- 13 PA10
+	- 14 PA11
+	- 15 PA14
+	- 16 PA15
+	- 17 PA16
+	- 18 PA17
+	- 19 PA18
+	- 20 PA19
+	- 21 PA22
+	- 22 PA23
+	- 23 PA24
+	- 24 PA25
+	- 25 PA27
+	- 26 RESET_N
+	- 27 PA28
+	- 28 GNDIO
+	- 29 VDDCORE
+	- 30 VDDIN
+	- 31 PA30
+	- 32 PA31
+## SAMC20E15A-MU
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA00
+	- 2 PA01
+	- 3 PA02
+	- 4 PA03
+	- 5 PA04
+	- 6 PA05
+	- 7 PA06
+	- 8 PA07
+	- 9 VDDANA
+	- 10 GNDIO
+	- 11 PA08
+	- 12 PA09
+	- 13 PA10
+	- 14 PA11
+	- 15 PA14
+	- 16 PA15
+	- 17 PA16
+	- 18 PA17
+	- 19 PA18
+	- 20 PA19
+	- 21 PA22
+	- 22 PA23
+	- 23 PA24
+	- 24 PA25
+	- 25 PA27
+	- 26 RESET_N
+	- 27 PA28
+	- 28 GNDIO
+	- 29 VDDCORE
+	- 30 VDDIN
+	- 31 PA30
+	- 32 PA31
+## SAMC20E15A-MZ
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA00
+	- 2 PA01
+	- 3 PA02
+	- 4 PA03
+	- 5 PA04
+	- 6 PA05
+	- 7 PA06
+	- 8 PA07
+	- 9 VDDANA
+	- 10 GNDIO
+	- 11 PA08
+	- 12 PA09
+	- 13 PA10
+	- 14 PA11
+	- 15 PA14
+	- 16 PA15
+	- 17 PA16
+	- 18 PA17
+	- 19 PA18
+	- 20 PA19
+	- 21 PA22
+	- 22 PA23
+	- 23 PA24
+	- 24 PA25
+	- 25 PA27
+	- 26 RESET_N
+	- 27 PA28
+	- 28 GNDIO
+	- 29 VDDCORE
+	- 30 VDDIN
+	- 31 PA30
+	- 32 PA31
+## SAMC20E16A-AN
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA00
+	- 2 PA01
+	- 3 PA02
+	- 4 PA03
+	- 5 PA04
+	- 6 PA05
+	- 7 PA06
+	- 8 PA07
+	- 9 VDDANA
+	- 10 GNDIO
+	- 11 PA08
+	- 12 PA09
+	- 13 PA10
+	- 14 PA11
+	- 15 PA14
+	- 16 PA15
+	- 17 PA16
+	- 18 PA17
+	- 19 PA18
+	- 20 PA19
+	- 21 PA22
+	- 22 PA23
+	- 23 PA24
+	- 24 PA25
+	- 25 PA27
+	- 26 RESET_N
+	- 27 PA28
+	- 28 GNDIO
+	- 29 VDDCORE
+	- 30 VDDIN
+	- 31 PA30
+	- 32 PA31
+## SAMC20E16A-AU
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA00
+	- 2 PA01
+	- 3 PA02
+	- 4 PA03
+	- 5 PA04
+	- 6 PA05
+	- 7 PA06
+	- 8 PA07
+	- 9 VDDANA
+	- 10 GNDIO
+	- 11 PA08
+	- 12 PA09
+	- 13 PA10
+	- 14 PA11
+	- 15 PA14
+	- 16 PA15
+	- 17 PA16
+	- 18 PA17
+	- 19 PA18
+	- 20 PA19
+	- 21 PA22
+	- 22 PA23
+	- 23 PA24
+	- 24 PA25
+	- 25 PA27
+	- 26 RESET_N
+	- 27 PA28
+	- 28 GNDIO
+	- 29 VDDCORE
+	- 30 VDDIN
+	- 31 PA30
+	- 32 PA31
+## SAMC20E16A-AZ
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA00
+	- 2 PA01
+	- 3 PA02
+	- 4 PA03
+	- 5 PA04
+	- 6 PA05
+	- 7 PA06
+	- 8 PA07
+	- 9 VDDANA
+	- 10 GNDIO
+	- 11 PA08
+	- 12 PA09
+	- 13 PA10
+	- 14 PA11
+	- 15 PA14
+	- 16 PA15
+	- 17 PA16
+	- 18 PA17
+	- 19 PA18
+	- 20 PA19
+	- 21 PA22
+	- 22 PA23
+	- 23 PA24
+	- 24 PA25
+	- 25 PA27
+	- 26 RESET_N
+	- 27 PA28
+	- 28 GNDIO
+	- 29 VDDCORE
+	- 30 VDDIN
+	- 31 PA30
+	- 32 PA31
+## SAMC20E16A-MN
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA00
+	- 2 PA01
+	- 3 PA02
+	- 4 PA03
+	- 5 PA04
+	- 6 PA05
+	- 7 PA06
+	- 8 PA07
+	- 9 VDDANA
+	- 10 GNDIO
+	- 11 PA08
+	- 12 PA09
+	- 13 PA10
+	- 14 PA11
+	- 15 PA14
+	- 16 PA15
+	- 17 PA16
+	- 18 PA17
+	- 19 PA18
+	- 20 PA19
+	- 21 PA22
+	- 22 PA23
+	- 23 PA24
+	- 24 PA25
+	- 25 PA27
+	- 26 RESET_N
+	- 27 PA28
+	- 28 GNDIO
+	- 29 VDDCORE
+	- 30 VDDIN
+	- 31 PA30
+	- 32 PA31
+## SAMC20E16A-MU
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA00
+	- 2 PA01
+	- 3 PA02
+	- 4 PA03
+	- 5 PA04
+	- 6 PA05
+	- 7 PA06
+	- 8 PA07
+	- 9 VDDANA
+	- 10 GNDIO
+	- 11 PA08
+	- 12 PA09
+	- 13 PA10
+	- 14 PA11
+	- 15 PA14
+	- 16 PA15
+	- 17 PA16
+	- 18 PA17
+	- 19 PA18
+	- 20 PA19
+	- 21 PA22
+	- 22 PA23
+	- 23 PA24
+	- 24 PA25
+	- 25 PA27
+	- 26 RESET_N
+	- 27 PA28
+	- 28 GNDIO
+	- 29 VDDCORE
+	- 30 VDDIN
+	- 31 PA30
+	- 32 PA31
+## SAMC20E16A-MZ
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA00
+	- 2 PA01
+	- 3 PA02
+	- 4 PA03
+	- 5 PA04
+	- 6 PA05
+	- 7 PA06
+	- 8 PA07
+	- 9 VDDANA
+	- 10 GNDIO
+	- 11 PA08
+	- 12 PA09
+	- 13 PA10
+	- 14 PA11
+	- 15 PA14
+	- 16 PA15
+	- 17 PA16
+	- 18 PA17
+	- 19 PA18
+	- 20 PA19
+	- 21 PA22
+	- 22 PA23
+	- 23 PA24
+	- 24 PA25
+	- 25 PA27
+	- 26 RESET_N
+	- 27 PA28
+	- 28 GNDIO
+	- 29 VDDCORE
+	- 30 VDDIN
+	- 31 PA30
+	- 32 PA31
+## SAMC20E17A-AN
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA00
+	- 2 PA01
+	- 3 PA02
+	- 4 PA03
+	- 5 PA04
+	- 6 PA05
+	- 7 PA06
+	- 8 PA07
+	- 9 VDDANA
+	- 10 GNDIO
+	- 11 PA08
+	- 12 PA09
+	- 13 PA10
+	- 14 PA11
+	- 15 PA14
+	- 16 PA15
+	- 17 PA16
+	- 18 PA17
+	- 19 PA18
+	- 20 PA19
+	- 21 PA22
+	- 22 PA23
+	- 23 PA24
+	- 24 PA25
+	- 25 PA27
+	- 26 RESET_N
+	- 27 PA28
+	- 28 GNDIO
+	- 29 VDDCORE
+	- 30 VDDIN
+	- 31 PA30
+	- 32 PA31
+## SAMC20E17A-AU
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA00
+	- 2 PA01
+	- 3 PA02
+	- 4 PA03
+	- 5 PA04
+	- 6 PA05
+	- 7 PA06
+	- 8 PA07
+	- 9 VDDANA
+	- 10 GNDIO
+	- 11 PA08
+	- 12 PA09
+	- 13 PA10
+	- 14 PA11
+	- 15 PA14
+	- 16 PA15
+	- 17 PA16
+	- 18 PA17
+	- 19 PA18
+	- 20 PA19
+	- 21 PA22
+	- 22 PA23
+	- 23 PA24
+	- 24 PA25
+	- 25 PA27
+	- 26 RESET_N
+	- 27 PA28
+	- 28 GNDIO
+	- 29 VDDCORE
+	- 30 VDDIN
+	- 31 PA30
+	- 32 PA31
+## SAMC20E17A-AZ
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA00
+	- 2 PA01
+	- 3 PA02
+	- 4 PA03
+	- 5 PA04
+	- 6 PA05
+	- 7 PA06
+	- 8 PA07
+	- 9 VDDANA
+	- 10 GNDIO
+	- 11 PA08
+	- 12 PA09
+	- 13 PA10
+	- 14 PA11
+	- 15 PA14
+	- 16 PA15
+	- 17 PA16
+	- 18 PA17
+	- 19 PA18
+	- 20 PA19
+	- 21 PA22
+	- 22 PA23
+	- 23 PA24
+	- 24 PA25
+	- 25 PA27
+	- 26 RESET_N
+	- 27 PA28
+	- 28 GNDIO
+	- 29 VDDCORE
+	- 30 VDDIN
+	- 31 PA30
+	- 32 PA31
+## SAMC20E17A-MN
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA00
+	- 2 PA01
+	- 3 PA02
+	- 4 PA03
+	- 5 PA04
+	- 6 PA05
+	- 7 PA06
+	- 8 PA07
+	- 9 VDDANA
+	- 10 GNDIO
+	- 11 PA08
+	- 12 PA09
+	- 13 PA10
+	- 14 PA11
+	- 15 PA14
+	- 16 PA15
+	- 17 PA16
+	- 18 PA17
+	- 19 PA18
+	- 20 PA19
+	- 21 PA22
+	- 22 PA23
+	- 23 PA24
+	- 24 PA25
+	- 25 PA27
+	- 26 RESET_N
+	- 27 PA28
+	- 28 GNDIO
+	- 29 VDDCORE
+	- 30 VDDIN
+	- 31 PA30
+	- 32 PA31
+## SAMC20E17A-MU
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA00
+	- 2 PA01
+	- 3 PA02
+	- 4 PA03
+	- 5 PA04
+	- 6 PA05
+	- 7 PA06
+	- 8 PA07
+	- 9 VDDANA
+	- 10 GNDIO
+	- 11 PA08
+	- 12 PA09
+	- 13 PA10
+	- 14 PA11
+	- 15 PA14
+	- 16 PA15
+	- 17 PA16
+	- 18 PA17
+	- 19 PA18
+	- 20 PA19
+	- 21 PA22
+	- 22 PA23
+	- 23 PA24
+	- 24 PA25
+	- 25 PA27
+	- 26 RESET_N
+	- 27 PA28
+	- 28 GNDIO
+	- 29 VDDCORE
+	- 30 VDDIN
+	- 31 PA30
+	- 32 PA31
+## SAMC20E17A-MZ
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA00
+	- 2 PA01
+	- 3 PA02
+	- 4 PA03
+	- 5 PA04
+	- 6 PA05
+	- 7 PA06
+	- 8 PA07
+	- 9 VDDANA
+	- 10 GNDIO
+	- 11 PA08
+	- 12 PA09
+	- 13 PA10
+	- 14 PA11
+	- 15 PA14
+	- 16 PA15
+	- 17 PA16
+	- 18 PA17
+	- 19 PA18
+	- 20 PA19
+	- 21 PA22
+	- 22 PA23
+	- 23 PA24
+	- 24 PA25
+	- 25 PA27
+	- 26 RESET_N
+	- 27 PA28
+	- 28 GNDIO
+	- 29 VDDCORE
+	- 30 VDDIN
+	- 31 PA30
+	- 32 PA31
+## SAMC20E18A-AN
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA00
+	- 2 PA01
+	- 3 PA02
+	- 4 PA03
+	- 5 PA04
+	- 6 PA05
+	- 7 PA06
+	- 8 PA07
+	- 9 VDDANA
+	- 10 GNDIO
+	- 11 PA08
+	- 12 PA09
+	- 13 PA10
+	- 14 PA11
+	- 15 PA14
+	- 16 PA15
+	- 17 PA16
+	- 18 PA17
+	- 19 PA18
+	- 20 PA19
+	- 21 PA22
+	- 22 PA23
+	- 23 PA24
+	- 24 PA25
+	- 25 PA27
+	- 26 RESET_N
+	- 27 PA28
+	- 28 GNDIO
+	- 29 VDDCORE
+	- 30 VDDIN
+	- 31 PA30
+	- 32 PA31
+## SAMC20E18A-AU
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA00
+	- 2 PA01
+	- 3 PA02
+	- 4 PA03
+	- 5 PA04
+	- 6 PA05
+	- 7 PA06
+	- 8 PA07
+	- 9 VDDANA
+	- 10 GNDIO
+	- 11 PA08
+	- 12 PA09
+	- 13 PA10
+	- 14 PA11
+	- 15 PA14
+	- 16 PA15
+	- 17 PA16
+	- 18 PA17
+	- 19 PA18
+	- 20 PA19
+	- 21 PA22
+	- 22 PA23
+	- 23 PA24
+	- 24 PA25
+	- 25 PA27
+	- 26 RESET_N
+	- 27 PA28
+	- 28 GNDIO
+	- 29 VDDCORE
+	- 30 VDDIN
+	- 31 PA30
+	- 32 PA31
+## SAMC20E18A-AZ
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA00
+	- 2 PA01
+	- 3 PA02
+	- 4 PA03
+	- 5 PA04
+	- 6 PA05
+	- 7 PA06
+	- 8 PA07
+	- 9 VDDANA
+	- 10 GNDIO
+	- 11 PA08
+	- 12 PA09
+	- 13 PA10
+	- 14 PA11
+	- 15 PA14
+	- 16 PA15
+	- 17 PA16
+	- 18 PA17
+	- 19 PA18
+	- 20 PA19
+	- 21 PA22
+	- 22 PA23
+	- 23 PA24
+	- 24 PA25
+	- 25 PA27
+	- 26 RESET_N
+	- 27 PA28
+	- 28 GNDIO
+	- 29 VDDCORE
+	- 30 VDDIN
+	- 31 PA30
+	- 32 PA31
+## SAMC20E18A-MN
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA00
+	- 2 PA01
+	- 3 PA02
+	- 4 PA03
+	- 5 PA04
+	- 6 PA05
+	- 7 PA06
+	- 8 PA07
+	- 9 VDDANA
+	- 10 GNDIO
+	- 11 PA08
+	- 12 PA09
+	- 13 PA10
+	- 14 PA11
+	- 15 PA14
+	- 16 PA15
+	- 17 PA16
+	- 18 PA17
+	- 19 PA18
+	- 20 PA19
+	- 21 PA22
+	- 22 PA23
+	- 23 PA24
+	- 24 PA25
+	- 25 PA27
+	- 26 RESET_N
+	- 27 PA28
+	- 28 GNDIO
+	- 29 VDDCORE
+	- 30 VDDIN
+	- 31 PA30
+	- 32 PA31
+## SAMC20E18A-MU
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA00
+	- 2 PA01
+	- 3 PA02
+	- 4 PA03
+	- 5 PA04
+	- 6 PA05
+	- 7 PA06
+	- 8 PA07
+	- 9 VDDANA
+	- 10 GNDIO
+	- 11 PA08
+	- 12 PA09
+	- 13 PA10
+	- 14 PA11
+	- 15 PA14
+	- 16 PA15
+	- 17 PA16
+	- 18 PA17
+	- 19 PA18
+	- 20 PA19
+	- 21 PA22
+	- 22 PA23
+	- 23 PA24
+	- 24 PA25
+	- 25 PA27
+	- 26 RESET_N
+	- 27 PA28
+	- 28 GNDIO
+	- 29 VDDCORE
+	- 30 VDDIN
+	- 31 PA30
+	- 32 PA31
+## SAMC20E18A-MZ
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA00
+	- 2 PA01
+	- 3 PA02
+	- 4 PA03
+	- 5 PA04
+	- 6 PA05
+	- 7 PA06
+	- 8 PA07
+	- 9 VDDANA
+	- 10 GNDIO
+	- 11 PA08
+	- 12 PA09
+	- 13 PA10
+	- 14 PA11
+	- 15 PA14
+	- 16 PA15
+	- 17 PA16
+	- 18 PA17
+	- 19 PA18
+	- 20 PA19
+	- 21 PA22
+	- 22 PA23
+	- 23 PA24
+	- 24 PA25
+	- 25 PA27
+	- 26 RESET_N
+	- 27 PA28
+	- 28 GNDIO
+	- 29 VDDCORE
+	- 30 VDDIN
+	- 31 PA30
+	- 32 PA31
+## SAMC20G15A-AN
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA00
+	- 2 PA01
+	- 3 PA02
+	- 4 PA03
+	- 5 GNDANA
+	- 6 VDDANA
+	- 7 PB08
+	- 8 PB09
+	- 9 PA04
+	- 10 PA05
+	- 11 PA06
+	- 12 PA07
+	- 13 PA08
+	- 14 PA09
+	- 15 PA10
+	- 16 PA11
+	- 17 VDDIO
+	- 18 GNDIO
+	- 19 PB10
+	- 20 PB11
+	- 21 PA12
+	- 22 PA13
+	- 23 PA14
+	- 24 PA15
+	- 25 PA16
+	- 26 PA17
+	- 27 PA18
+	- 28 PA19
+	- 29 PA20
+	- 30 PA21
+	- 31 PA22
+	- 32 PA23
+	- 33 PA24
+	- 34 PA25
+	- 35 GNDIO
+	- 36 VDDIO
+	- 37 PB22
+	- 38 PB23
+	- 39 PA27
+	- 40 RESET_N
+	- 41 PA28
+	- 42 GNDIO
+	- 43 VDDCORE
+	- 44 VDDIN
+	- 45 PA30
+	- 46 PA31
+	- 47 PB02
+	- 48 PB03
+## SAMC20G15A-AU
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA00
+	- 2 PA01
+	- 3 PA02
+	- 4 PA03
+	- 5 GNDANA
+	- 6 VDDANA
+	- 7 PB08
+	- 8 PB09
+	- 9 PA04
+	- 10 PA05
+	- 11 PA06
+	- 12 PA07
+	- 13 PA08
+	- 14 PA09
+	- 15 PA10
+	- 16 PA11
+	- 17 VDDIO
+	- 18 GNDIO
+	- 19 PB10
+	- 20 PB11
+	- 21 PA12
+	- 22 PA13
+	- 23 PA14
+	- 24 PA15
+	- 25 PA16
+	- 26 PA17
+	- 27 PA18
+	- 28 PA19
+	- 29 PA20
+	- 30 PA21
+	- 31 PA22
+	- 32 PA23
+	- 33 PA24
+	- 34 PA25
+	- 35 GNDIO
+	- 36 VDDIO
+	- 37 PB22
+	- 38 PB23
+	- 39 PA27
+	- 40 RESET_N
+	- 41 PA28
+	- 42 GNDIO
+	- 43 VDDCORE
+	- 44 VDDIN
+	- 45 PA30
+	- 46 PA31
+	- 47 PB02
+	- 48 PB03
+## SAMC20G15A-AZ
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA00
+	- 2 PA01
+	- 3 PA02
+	- 4 PA03
+	- 5 GNDANA
+	- 6 VDDANA
+	- 7 PB08
+	- 8 PB09
+	- 9 PA04
+	- 10 PA05
+	- 11 PA06
+	- 12 PA07
+	- 13 PA08
+	- 14 PA09
+	- 15 PA10
+	- 16 PA11
+	- 17 VDDIO
+	- 18 GNDIO
+	- 19 PB10
+	- 20 PB11
+	- 21 PA12
+	- 22 PA13
+	- 23 PA14
+	- 24 PA15
+	- 25 PA16
+	- 26 PA17
+	- 27 PA18
+	- 28 PA19
+	- 29 PA20
+	- 30 PA21
+	- 31 PA22
+	- 32 PA23
+	- 33 PA24
+	- 34 PA25
+	- 35 GNDIO
+	- 36 VDDIO
+	- 37 PB22
+	- 38 PB23
+	- 39 PA27
+	- 40 RESET_N
+	- 41 PA28
+	- 42 GNDIO
+	- 43 VDDCORE
+	- 44 VDDIN
+	- 45 PA30
+	- 46 PA31
+	- 47 PB02
+	- 48 PB03
+## SAMC20G15A-MN
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA00
+	- 2 PA01
+	- 3 PA02
+	- 4 PA03
+	- 5 GNDANA
+	- 6 VDDANA
+	- 7 PB08
+	- 8 PB09
+	- 9 PA04
+	- 10 PA05
+	- 11 PA06
+	- 12 PA07
+	- 13 PA08
+	- 14 PA09
+	- 15 PA10
+	- 16 PA11
+	- 17 VDDIO
+	- 18 GNDIO
+	- 19 PB10
+	- 20 PB11
+	- 21 PA12
+	- 22 PA13
+	- 23 PA14
+	- 24 PA15
+	- 25 PA16
+	- 26 PA17
+	- 27 PA18
+	- 28 PA19
+	- 29 PA20
+	- 30 PA21
+	- 31 PA22
+	- 32 PA23
+	- 33 PA24
+	- 34 PA25
+	- 35 GNDIO
+	- 36 VDDIO
+	- 37 PB22
+	- 38 PB23
+	- 39 PA27
+	- 40 RESET_N
+	- 41 PA28
+	- 42 GNDIO
+	- 43 VDDCORE
+	- 44 VDDIN
+	- 45 PA30
+	- 46 PA31
+	- 47 PB02
+	- 48 PB03
+## SAMC20G15A-MU
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA00
+	- 2 PA01
+	- 3 PA02
+	- 4 PA03
+	- 5 GNDANA
+	- 6 VDDANA
+	- 7 PB08
+	- 8 PB09
+	- 9 PA04
+	- 10 PA05
+	- 11 PA06
+	- 12 PA07
+	- 13 PA08
+	- 14 PA09
+	- 15 PA10
+	- 16 PA11
+	- 17 VDDIO
+	- 18 GNDIO
+	- 19 PB10
+	- 20 PB11
+	- 21 PA12
+	- 22 PA13
+	- 23 PA14
+	- 24 PA15
+	- 25 PA16
+	- 26 PA17
+	- 27 PA18
+	- 28 PA19
+	- 29 PA20
+	- 30 PA21
+	- 31 PA22
+	- 32 PA23
+	- 33 PA24
+	- 34 PA25
+	- 35 GNDIO
+	- 36 VDDIO
+	- 37 PB22
+	- 38 PB23
+	- 39 PA27
+	- 40 RESET_N
+	- 41 PA28
+	- 42 GNDIO
+	- 43 VDDCORE
+	- 44 VDDIN
+	- 45 PA30
+	- 46 PA31
+	- 47 PB02
+	- 48 PB03
+## SAMC20G15A-MZ
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA00
+	- 2 PA01
+	- 3 PA02
+	- 4 PA03
+	- 5 GNDANA
+	- 6 VDDANA
+	- 7 PB08
+	- 8 PB09
+	- 9 PA04
+	- 10 PA05
+	- 11 PA06
+	- 12 PA07
+	- 13 PA08
+	- 14 PA09
+	- 15 PA10
+	- 16 PA11
+	- 17 VDDIO
+	- 18 GNDIO
+	- 19 PB10
+	- 20 PB11
+	- 21 PA12
+	- 22 PA13
+	- 23 PA14
+	- 24 PA15
+	- 25 PA16
+	- 26 PA17
+	- 27 PA18
+	- 28 PA19
+	- 29 PA20
+	- 30 PA21
+	- 31 PA22
+	- 32 PA23
+	- 33 PA24
+	- 34 PA25
+	- 35 GNDIO
+	- 36 VDDIO
+	- 37 PB22
+	- 38 PB23
+	- 39 PA27
+	- 40 RESET_N
+	- 41 PA28
+	- 42 GNDIO
+	- 43 VDDCORE
+	- 44 VDDIN
+	- 45 PA30
+	- 46 PA31
+	- 47 PB02
+	- 48 PB03
+## SAMC20G16A-AN
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA00
+	- 2 PA01
+	- 3 PA02
+	- 4 PA03
+	- 5 GNDANA
+	- 6 VDDANA
+	- 7 PB08
+	- 8 PB09
+	- 9 PA04
+	- 10 PA05
+	- 11 PA06
+	- 12 PA07
+	- 13 PA08
+	- 14 PA09
+	- 15 PA10
+	- 16 PA11
+	- 17 VDDIO
+	- 18 GNDIO
+	- 19 PB10
+	- 20 PB11
+	- 21 PA12
+	- 22 PA13
+	- 23 PA14
+	- 24 PA15
+	- 25 PA16
+	- 26 PA17
+	- 27 PA18
+	- 28 PA19
+	- 29 PA20
+	- 30 PA21
+	- 31 PA22
+	- 32 PA23
+	- 33 PA24
+	- 34 PA25
+	- 35 GNDIO
+	- 36 VDDIO
+	- 37 PB22
+	- 38 PB23
+	- 39 PA27
+	- 40 RESET_N
+	- 41 PA28
+	- 42 GNDIO
+	- 43 VDDCORE
+	- 44 VDDIN
+	- 45 PA30
+	- 46 PA31
+	- 47 PB02
+	- 48 PB03
+## SAMC20G16A-AU
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA00
+	- 2 PA01
+	- 3 PA02
+	- 4 PA03
+	- 5 GNDANA
+	- 6 VDDANA
+	- 7 PB08
+	- 8 PB09
+	- 9 PA04
+	- 10 PA05
+	- 11 PA06
+	- 12 PA07
+	- 13 PA08
+	- 14 PA09
+	- 15 PA10
+	- 16 PA11
+	- 17 VDDIO
+	- 18 GNDIO
+	- 19 PB10
+	- 20 PB11
+	- 21 PA12
+	- 22 PA13
+	- 23 PA14
+	- 24 PA15
+	- 25 PA16
+	- 26 PA17
+	- 27 PA18
+	- 28 PA19
+	- 29 PA20
+	- 30 PA21
+	- 31 PA22
+	- 32 PA23
+	- 33 PA24
+	- 34 PA25
+	- 35 GNDIO
+	- 36 VDDIO
+	- 37 PB22
+	- 38 PB23
+	- 39 PA27
+	- 40 RESET_N
+	- 41 PA28
+	- 42 GNDIO
+	- 43 VDDCORE
+	- 44 VDDIN
+	- 45 PA30
+	- 46 PA31
+	- 47 PB02
+	- 48 PB03
+## SAMC20G16A-AZ
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA00
+	- 2 PA01
+	- 3 PA02
+	- 4 PA03
+	- 5 GNDANA
+	- 6 VDDANA
+	- 7 PB08
+	- 8 PB09
+	- 9 PA04
+	- 10 PA05
+	- 11 PA06
+	- 12 PA07
+	- 13 PA08
+	- 14 PA09
+	- 15 PA10
+	- 16 PA11
+	- 17 VDDIO
+	- 18 GNDIO
+	- 19 PB10
+	- 20 PB11
+	- 21 PA12
+	- 22 PA13
+	- 23 PA14
+	- 24 PA15
+	- 25 PA16
+	- 26 PA17
+	- 27 PA18
+	- 28 PA19
+	- 29 PA20
+	- 30 PA21
+	- 31 PA22
+	- 32 PA23
+	- 33 PA24
+	- 34 PA25
+	- 35 GNDIO
+	- 36 VDDIO
+	- 37 PB22
+	- 38 PB23
+	- 39 PA27
+	- 40 RESET_N
+	- 41 PA28
+	- 42 GNDIO
+	- 43 VDDCORE
+	- 44 VDDIN
+	- 45 PA30
+	- 46 PA31
+	- 47 PB02
+	- 48 PB03
+## SAMC20G16A-MN
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA00
+	- 2 PA01
+	- 3 PA02
+	- 4 PA03
+	- 5 GNDANA
+	- 6 VDDANA
+	- 7 PB08
+	- 8 PB09
+	- 9 PA04
+	- 10 PA05
+	- 11 PA06
+	- 12 PA07
+	- 13 PA08
+	- 14 PA09
+	- 15 PA10
+	- 16 PA11
+	- 17 VDDIO
+	- 18 GNDIO
+	- 19 PB10
+	- 20 PB11
+	- 21 PA12
+	- 22 PA13
+	- 23 PA14
+	- 24 PA15
+	- 25 PA16
+	- 26 PA17
+	- 27 PA18
+	- 28 PA19
+	- 29 PA20
+	- 30 PA21
+	- 31 PA22
+	- 32 PA23
+	- 33 PA24
+	- 34 PA25
+	- 35 GNDIO
+	- 36 VDDIO
+	- 37 PB22
+	- 38 PB23
+	- 39 PA27
+	- 40 RESET_N
+	- 41 PA28
+	- 42 GNDIO
+	- 43 VDDCORE
+	- 44 VDDIN
+	- 45 PA30
+	- 46 PA31
+	- 47 PB02
+	- 48 PB03
+## SAMC20G16A-MU
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA00
+	- 2 PA01
+	- 3 PA02
+	- 4 PA03
+	- 5 GNDANA
+	- 6 VDDANA
+	- 7 PB08
+	- 8 PB09
+	- 9 PA04
+	- 10 PA05
+	- 11 PA06
+	- 12 PA07
+	- 13 PA08
+	- 14 PA09
+	- 15 PA10
+	- 16 PA11
+	- 17 VDDIO
+	- 18 GNDIO
+	- 19 PB10
+	- 20 PB11
+	- 21 PA12
+	- 22 PA13
+	- 23 PA14
+	- 24 PA15
+	- 25 PA16
+	- 26 PA17
+	- 27 PA18
+	- 28 PA19
+	- 29 PA20
+	- 30 PA21
+	- 31 PA22
+	- 32 PA23
+	- 33 PA24
+	- 34 PA25
+	- 35 GNDIO
+	- 36 VDDIO
+	- 37 PB22
+	- 38 PB23
+	- 39 PA27
+	- 40 RESET_N
+	- 41 PA28
+	- 42 GNDIO
+	- 43 VDDCORE
+	- 44 VDDIN
+	- 45 PA30
+	- 46 PA31
+	- 47 PB02
+	- 48 PB03
+## SAMC20G16A-MZ
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA00
+	- 2 PA01
+	- 3 PA02
+	- 4 PA03
+	- 5 GNDANA
+	- 6 VDDANA
+	- 7 PB08
+	- 8 PB09
+	- 9 PA04
+	- 10 PA05
+	- 11 PA06
+	- 12 PA07
+	- 13 PA08
+	- 14 PA09
+	- 15 PA10
+	- 16 PA11
+	- 17 VDDIO
+	- 18 GNDIO
+	- 19 PB10
+	- 20 PB11
+	- 21 PA12
+	- 22 PA13
+	- 23 PA14
+	- 24 PA15
+	- 25 PA16
+	- 26 PA17
+	- 27 PA18
+	- 28 PA19
+	- 29 PA20
+	- 30 PA21
+	- 31 PA22
+	- 32 PA23
+	- 33 PA24
+	- 34 PA25
+	- 35 GNDIO
+	- 36 VDDIO
+	- 37 PB22
+	- 38 PB23
+	- 39 PA27
+	- 40 RESET_N
+	- 41 PA28
+	- 42 GNDIO
+	- 43 VDDCORE
+	- 44 VDDIN
+	- 45 PA30
+	- 46 PA31
+	- 47 PB02
+	- 48 PB03
+## SAMC20G17A-AN
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA00
+	- 2 PA01
+	- 3 PA02
+	- 4 PA03
+	- 5 GNDANA
+	- 6 VDDANA
+	- 7 PB08
+	- 8 PB09
+	- 9 PA04
+	- 10 PA05
+	- 11 PA06
+	- 12 PA07
+	- 13 PA08
+	- 14 PA09
+	- 15 PA10
+	- 16 PA11
+	- 17 VDDIO
+	- 18 GNDIO
+	- 19 PB10
+	- 20 PB11
+	- 21 PA12
+	- 22 PA13
+	- 23 PA14
+	- 24 PA15
+	- 25 PA16
+	- 26 PA17
+	- 27 PA18
+	- 28 PA19
+	- 29 PA20
+	- 30 PA21
+	- 31 PA22
+	- 32 PA23
+	- 33 PA24
+	- 34 PA25
+	- 35 GNDIO
+	- 36 VDDIO
+	- 37 PB22
+	- 38 PB23
+	- 39 PA27
+	- 40 RESET_N
+	- 41 PA28
+	- 42 GNDIO
+	- 43 VDDCORE
+	- 44 VDDIN
+	- 45 PA30
+	- 46 PA31
+	- 47 PB02
+	- 48 PB03
+## SAMC20G17A-AU
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA00
+	- 2 PA01
+	- 3 PA02
+	- 4 PA03
+	- 5 GNDANA
+	- 6 VDDANA
+	- 7 PB08
+	- 8 PB09
+	- 9 PA04
+	- 10 PA05
+	- 11 PA06
+	- 12 PA07
+	- 13 PA08
+	- 14 PA09
+	- 15 PA10
+	- 16 PA11
+	- 17 VDDIO
+	- 18 GNDIO
+	- 19 PB10
+	- 20 PB11
+	- 21 PA12
+	- 22 PA13
+	- 23 PA14
+	- 24 PA15
+	- 25 PA16
+	- 26 PA17
+	- 27 PA18
+	- 28 PA19
+	- 29 PA20
+	- 30 PA21
+	- 31 PA22
+	- 32 PA23
+	- 33 PA24
+	- 34 PA25
+	- 35 GNDIO
+	- 36 VDDIO
+	- 37 PB22
+	- 38 PB23
+	- 39 PA27
+	- 40 RESET_N
+	- 41 PA28
+	- 42 GNDIO
+	- 43 VDDCORE
+	- 44 VDDIN
+	- 45 PA30
+	- 46 PA31
+	- 47 PB02
+	- 48 PB03
+## SAMC20G17A-AZ
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA00
+	- 2 PA01
+	- 3 PA02
+	- 4 PA03
+	- 5 GNDANA
+	- 6 VDDANA
+	- 7 PB08
+	- 8 PB09
+	- 9 PA04
+	- 10 PA05
+	- 11 PA06
+	- 12 PA07
+	- 13 PA08
+	- 14 PA09
+	- 15 PA10
+	- 16 PA11
+	- 17 VDDIO
+	- 18 GNDIO
+	- 19 PB10
+	- 20 PB11
+	- 21 PA12
+	- 22 PA13
+	- 23 PA14
+	- 24 PA15
+	- 25 PA16
+	- 26 PA17
+	- 27 PA18
+	- 28 PA19
+	- 29 PA20
+	- 30 PA21
+	- 31 PA22
+	- 32 PA23
+	- 33 PA24
+	- 34 PA25
+	- 35 GNDIO
+	- 36 VDDIO
+	- 37 PB22
+	- 38 PB23
+	- 39 PA27
+	- 40 RESET_N
+	- 41 PA28
+	- 42 GNDIO
+	- 43 VDDCORE
+	- 44 VDDIN
+	- 45 PA30
+	- 46 PA31
+	- 47 PB02
+	- 48 PB03
+## SAMC20G17A-MN
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA00
+	- 2 PA01
+	- 3 PA02
+	- 4 PA03
+	- 5 GNDANA
+	- 6 VDDANA
+	- 7 PB08
+	- 8 PB09
+	- 9 PA04
+	- 10 PA05
+	- 11 PA06
+	- 12 PA07
+	- 13 PA08
+	- 14 PA09
+	- 15 PA10
+	- 16 PA11
+	- 17 VDDIO
+	- 18 GNDIO
+	- 19 PB10
+	- 20 PB11
+	- 21 PA12
+	- 22 PA13
+	- 23 PA14
+	- 24 PA15
+	- 25 PA16
+	- 26 PA17
+	- 27 PA18
+	- 28 PA19
+	- 29 PA20
+	- 30 PA21
+	- 31 PA22
+	- 32 PA23
+	- 33 PA24
+	- 34 PA25
+	- 35 GNDIO
+	- 36 VDDIO
+	- 37 PB22
+	- 38 PB23
+	- 39 PA27
+	- 40 RESET_N
+	- 41 PA28
+	- 42 GNDIO
+	- 43 VDDCORE
+	- 44 VDDIN
+	- 45 PA30
+	- 46 PA31
+	- 47 PB02
+	- 48 PB03
+## SAMC20G17A-MU
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA00
+	- 2 PA01
+	- 3 PA02
+	- 4 PA03
+	- 5 GNDANA
+	- 6 VDDANA
+	- 7 PB08
+	- 8 PB09
+	- 9 PA04
+	- 10 PA05
+	- 11 PA06
+	- 12 PA07
+	- 13 PA08
+	- 14 PA09
+	- 15 PA10
+	- 16 PA11
+	- 17 VDDIO
+	- 18 GNDIO
+	- 19 PB10
+	- 20 PB11
+	- 21 PA12
+	- 22 PA13
+	- 23 PA14
+	- 24 PA15
+	- 25 PA16
+	- 26 PA17
+	- 27 PA18
+	- 28 PA19
+	- 29 PA20
+	- 30 PA21
+	- 31 PA22
+	- 32 PA23
+	- 33 PA24
+	- 34 PA25
+	- 35 GNDIO
+	- 36 VDDIO
+	- 37 PB22
+	- 38 PB23
+	- 39 PA27
+	- 40 RESET_N
+	- 41 PA28
+	- 42 GNDIO
+	- 43 VDDCORE
+	- 44 VDDIN
+	- 45 PA30
+	- 46 PA31
+	- 47 PB02
+	- 48 PB03
+## SAMC20G17A-MZ
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA00
+	- 2 PA01
+	- 3 PA02
+	- 4 PA03
+	- 5 GNDANA
+	- 6 VDDANA
+	- 7 PB08
+	- 8 PB09
+	- 9 PA04
+	- 10 PA05
+	- 11 PA06
+	- 12 PA07
+	- 13 PA08
+	- 14 PA09
+	- 15 PA10
+	- 16 PA11
+	- 17 VDDIO
+	- 18 GNDIO
+	- 19 PB10
+	- 20 PB11
+	- 21 PA12
+	- 22 PA13
+	- 23 PA14
+	- 24 PA15
+	- 25 PA16
+	- 26 PA17
+	- 27 PA18
+	- 28 PA19
+	- 29 PA20
+	- 30 PA21
+	- 31 PA22
+	- 32 PA23
+	- 33 PA24
+	- 34 PA25
+	- 35 GNDIO
+	- 36 VDDIO
+	- 37 PB22
+	- 38 PB23
+	- 39 PA27
+	- 40 RESET_N
+	- 41 PA28
+	- 42 GNDIO
+	- 43 VDDCORE
+	- 44 VDDIN
+	- 45 PA30
+	- 46 PA31
+	- 47 PB02
+	- 48 PB03
+## SAMC20G18A-AN
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA00
+	- 2 PA01
+	- 3 PA02
+	- 4 PA03
+	- 5 GNDANA
+	- 6 VDDANA
+	- 7 PB08
+	- 8 PB09
+	- 9 PA04
+	- 10 PA05
+	- 11 PA06
+	- 12 PA07
+	- 13 PA08
+	- 14 PA09
+	- 15 PA10
+	- 16 PA11
+	- 17 VDDIO
+	- 18 GNDIO
+	- 19 PB10
+	- 20 PB11
+	- 21 PA12
+	- 22 PA13
+	- 23 PA14
+	- 24 PA15
+	- 25 PA16
+	- 26 PA17
+	- 27 PA18
+	- 28 PA19
+	- 29 PA20
+	- 30 PA21
+	- 31 PA22
+	- 32 PA23
+	- 33 PA24
+	- 34 PA25
+	- 35 GNDIO
+	- 36 VDDIO
+	- 37 PB22
+	- 38 PB23
+	- 39 PA27
+	- 40 RESET_N
+	- 41 PA28
+	- 42 GNDIO
+	- 43 VDDCORE
+	- 44 VDDIN
+	- 45 PA30
+	- 46 PA31
+	- 47 PB02
+	- 48 PB03
+## SAMC20G18A-AU
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA00
+	- 2 PA01
+	- 3 PA02
+	- 4 PA03
+	- 5 GNDANA
+	- 6 VDDANA
+	- 7 PB08
+	- 8 PB09
+	- 9 PA04
+	- 10 PA05
+	- 11 PA06
+	- 12 PA07
+	- 13 PA08
+	- 14 PA09
+	- 15 PA10
+	- 16 PA11
+	- 17 VDDIO
+	- 18 GNDIO
+	- 19 PB10
+	- 20 PB11
+	- 21 PA12
+	- 22 PA13
+	- 23 PA14
+	- 24 PA15
+	- 25 PA16
+	- 26 PA17
+	- 27 PA18
+	- 28 PA19
+	- 29 PA20
+	- 30 PA21
+	- 31 PA22
+	- 32 PA23
+	- 33 PA24
+	- 34 PA25
+	- 35 GNDIO
+	- 36 VDDIO
+	- 37 PB22
+	- 38 PB23
+	- 39 PA27
+	- 40 RESET_N
+	- 41 PA28
+	- 42 GNDIO
+	- 43 VDDCORE
+	- 44 VDDIN
+	- 45 PA30
+	- 46 PA31
+	- 47 PB02
+	- 48 PB03
+## SAMC20G18A-AZ
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA00
+	- 2 PA01
+	- 3 PA02
+	- 4 PA03
+	- 5 GNDANA
+	- 6 VDDANA
+	- 7 PB08
+	- 8 PB09
+	- 9 PA04
+	- 10 PA05
+	- 11 PA06
+	- 12 PA07
+	- 13 PA08
+	- 14 PA09
+	- 15 PA10
+	- 16 PA11
+	- 17 VDDIO
+	- 18 GNDIO
+	- 19 PB10
+	- 20 PB11
+	- 21 PA12
+	- 22 PA13
+	- 23 PA14
+	- 24 PA15
+	- 25 PA16
+	- 26 PA17
+	- 27 PA18
+	- 28 PA19
+	- 29 PA20
+	- 30 PA21
+	- 31 PA22
+	- 32 PA23
+	- 33 PA24
+	- 34 PA25
+	- 35 GNDIO
+	- 36 VDDIO
+	- 37 PB22
+	- 38 PB23
+	- 39 PA27
+	- 40 RESET_N
+	- 41 PA28
+	- 42 GNDIO
+	- 43 VDDCORE
+	- 44 VDDIN
+	- 45 PA30
+	- 46 PA31
+	- 47 PB02
+	- 48 PB03
+## SAMC20G18A-MN
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA00
+	- 2 PA01
+	- 3 PA02
+	- 4 PA03
+	- 5 GNDANA
+	- 6 VDDANA
+	- 7 PB08
+	- 8 PB09
+	- 9 PA04
+	- 10 PA05
+	- 11 PA06
+	- 12 PA07
+	- 13 PA08
+	- 14 PA09
+	- 15 PA10
+	- 16 PA11
+	- 17 VDDIO
+	- 18 GNDIO
+	- 19 PB10
+	- 20 PB11
+	- 21 PA12
+	- 22 PA13
+	- 23 PA14
+	- 24 PA15
+	- 25 PA16
+	- 26 PA17
+	- 27 PA18
+	- 28 PA19
+	- 29 PA20
+	- 30 PA21
+	- 31 PA22
+	- 32 PA23
+	- 33 PA24
+	- 34 PA25
+	- 35 GNDIO
+	- 36 VDDIO
+	- 37 PB22
+	- 38 PB23
+	- 39 PA27
+	- 40 RESET_N
+	- 41 PA28
+	- 42 GNDIO
+	- 43 VDDCORE
+	- 44 VDDIN
+	- 45 PA30
+	- 46 PA31
+	- 47 PB02
+	- 48 PB03
+## SAMC20G18A-MU
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA00
+	- 2 PA01
+	- 3 PA02
+	- 4 PA03
+	- 5 GNDANA
+	- 6 VDDANA
+	- 7 PB08
+	- 8 PB09
+	- 9 PA04
+	- 10 PA05
+	- 11 PA06
+	- 12 PA07
+	- 13 PA08
+	- 14 PA09
+	- 15 PA10
+	- 16 PA11
+	- 17 VDDIO
+	- 18 GNDIO
+	- 19 PB10
+	- 20 PB11
+	- 21 PA12
+	- 22 PA13
+	- 23 PA14
+	- 24 PA15
+	- 25 PA16
+	- 26 PA17
+	- 27 PA18
+	- 28 PA19
+	- 29 PA20
+	- 30 PA21
+	- 31 PA22
+	- 32 PA23
+	- 33 PA24
+	- 34 PA25
+	- 35 GNDIO
+	- 36 VDDIO
+	- 37 PB22
+	- 38 PB23
+	- 39 PA27
+	- 40 RESET_N
+	- 41 PA28
+	- 42 GNDIO
+	- 43 VDDCORE
+	- 44 VDDIN
+	- 45 PA30
+	- 46 PA31
+	- 47 PB02
+	- 48 PB03
+## SAMC20G18A-MZ
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA00
+	- 2 PA01
+	- 3 PA02
+	- 4 PA03
+	- 5 GNDANA
+	- 6 VDDANA
+	- 7 PB08
+	- 8 PB09
+	- 9 PA04
+	- 10 PA05
+	- 11 PA06
+	- 12 PA07
+	- 13 PA08
+	- 14 PA09
+	- 15 PA10
+	- 16 PA11
+	- 17 VDDIO
+	- 18 GNDIO
+	- 19 PB10
+	- 20 PB11
+	- 21 PA12
+	- 22 PA13
+	- 23 PA14
+	- 24 PA15
+	- 25 PA16
+	- 26 PA17
+	- 27 PA18
+	- 28 PA19
+	- 29 PA20
+	- 30 PA21
+	- 31 PA22
+	- 32 PA23
+	- 33 PA24
+	- 34 PA25
+	- 35 GNDIO
+	- 36 VDDIO
+	- 37 PB22
+	- 38 PB23
+	- 39 PA27
+	- 40 RESET_N
+	- 41 PA28
+	- 42 GNDIO
+	- 43 VDDCORE
+	- 44 VDDIN
+	- 45 PA30
+	- 46 PA31
+	- 47 PB02
+	- 48 PB03
+## SAMC20J15A-AN
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA00
+	- 2 PA01
+	- 3 PA02
+	- 4 PA03
+	- 5 PB04
+	- 6 PB05
+	- 7 GNDANA
+	- 8 VDDANA
+	- 9 PB06
+	- 10 PB07
+	- 11 PB08
+	- 12 PB09
+	- 13 PA04
+	- 14 PA05
+	- 15 PA06
+	- 16 PA07
+	- 17 PA08
+	- 18 PA09
+	- 19 PA10
+	- 20 PA11
+	- 21 VDDIO
+	- 22 GNDIO
+	- 23 PB10
+	- 24 PB11
+	- 25 PB12
+	- 26 PB13
+	- 27 PB14
+	- 28 PB15
+	- 29 PA12
+	- 30 PA13
+	- 31 PA14
+	- 32 PA15
+	- 33 GNDIO
+	- 34 VDDIO
+	- 35 PA16
+	- 36 PA17
+	- 37 PA18
+	- 38 PA19
+	- 39 PB16
+	- 40 PB17
+	- 41 PA20
+	- 42 PA21
+	- 43 PA22
+	- 44 PA23
+	- 45 PA24
+	- 46 PA25
+	- 47 GNDIO
+	- 48 VDDIO
+	- 49 PB22
+	- 50 PB23
+	- 51 PA27
+	- 52 RESET_N
+	- 53 PA28
+	- 54 GNDIO
+	- 55 VDDCORE
+	- 56 VDDIN
+	- 57 PA30
+	- 58 PA31
+	- 59 PB30
+	- 60 PB31
+	- 61 PB00
+	- 62 PB01
+	- 63 PB02
+	- 64 PB03
+## SAMC20J15A-AU
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA00
+	- 2 PA01
+	- 3 PA02
+	- 4 PA03
+	- 5 PB04
+	- 6 PB05
+	- 7 GNDANA
+	- 8 VDDANA
+	- 9 PB06
+	- 10 PB07
+	- 11 PB08
+	- 12 PB09
+	- 13 PA04
+	- 14 PA05
+	- 15 PA06
+	- 16 PA07
+	- 17 PA08
+	- 18 PA09
+	- 19 PA10
+	- 20 PA11
+	- 21 VDDIO
+	- 22 GNDIO
+	- 23 PB10
+	- 24 PB11
+	- 25 PB12
+	- 26 PB13
+	- 27 PB14
+	- 28 PB15
+	- 29 PA12
+	- 30 PA13
+	- 31 PA14
+	- 32 PA15
+	- 33 GNDIO
+	- 34 VDDIO
+	- 35 PA16
+	- 36 PA17
+	- 37 PA18
+	- 38 PA19
+	- 39 PB16
+	- 40 PB17
+	- 41 PA20
+	- 42 PA21
+	- 43 PA22
+	- 44 PA23
+	- 45 PA24
+	- 46 PA25
+	- 47 GNDIO
+	- 48 VDDIO
+	- 49 PB22
+	- 50 PB23
+	- 51 PA27
+	- 52 RESET_N
+	- 53 PA28
+	- 54 GNDIO
+	- 55 VDDCORE
+	- 56 VDDIN
+	- 57 PA30
+	- 58 PA31
+	- 59 PB30
+	- 60 PB31
+	- 61 PB00
+	- 62 PB01
+	- 63 PB02
+	- 64 PB03
+## SAMC20J15A-AZ
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA00
+	- 2 PA01
+	- 3 PA02
+	- 4 PA03
+	- 5 PB04
+	- 6 PB05
+	- 7 GNDANA
+	- 8 VDDANA
+	- 9 PB06
+	- 10 PB07
+	- 11 PB08
+	- 12 PB09
+	- 13 PA04
+	- 14 PA05
+	- 15 PA06
+	- 16 PA07
+	- 17 PA08
+	- 18 PA09
+	- 19 PA10
+	- 20 PA11
+	- 21 VDDIO
+	- 22 GNDIO
+	- 23 PB10
+	- 24 PB11
+	- 25 PB12
+	- 26 PB13
+	- 27 PB14
+	- 28 PB15
+	- 29 PA12
+	- 30 PA13
+	- 31 PA14
+	- 32 PA15
+	- 33 GNDIO
+	- 34 VDDIO
+	- 35 PA16
+	- 36 PA17
+	- 37 PA18
+	- 38 PA19
+	- 39 PB16
+	- 40 PB17
+	- 41 PA20
+	- 42 PA21
+	- 43 PA22
+	- 44 PA23
+	- 45 PA24
+	- 46 PA25
+	- 47 GNDIO
+	- 48 VDDIO
+	- 49 PB22
+	- 50 PB23
+	- 51 PA27
+	- 52 RESET_N
+	- 53 PA28
+	- 54 GNDIO
+	- 55 VDDCORE
+	- 56 VDDIN
+	- 57 PA30
+	- 58 PA31
+	- 59 PB30
+	- 60 PB31
+	- 61 PB00
+	- 62 PB01
+	- 63 PB02
+	- 64 PB03
+## SAMC20J15A-MN
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA00
+	- 2 PA01
+	- 3 PA02
+	- 4 PA03
+	- 5 PB04
+	- 6 PB05
+	- 7 GNDANA
+	- 8 VDDANA
+	- 9 PB06
+	- 10 PB07
+	- 11 PB08
+	- 12 PB09
+	- 13 PA04
+	- 14 PA05
+	- 15 PA06
+	- 16 PA07
+	- 17 PA08
+	- 18 PA09
+	- 19 PA10
+	- 20 PA11
+	- 21 VDDIO
+	- 22 GNDIO
+	- 23 PB10
+	- 24 PB11
+	- 25 PB12
+	- 26 PB13
+	- 27 PB14
+	- 28 PB15
+	- 29 PA12
+	- 30 PA13
+	- 31 PA14
+	- 32 PA15
+	- 33 GNDIO
+	- 34 VDDIO
+	- 35 PA16
+	- 36 PA17
+	- 37 PA18
+	- 38 PA19
+	- 39 PB16
+	- 40 PB17
+	- 41 PA20
+	- 42 PA21
+	- 43 PA22
+	- 44 PA23
+	- 45 PA24
+	- 46 PA25
+	- 47 GNDIO
+	- 48 VDDIO
+	- 49 PB22
+	- 50 PB23
+	- 51 PA27
+	- 52 RESET_N
+	- 53 PA28
+	- 54 GNDIO
+	- 55 VDDCORE
+	- 56 VDDIN
+	- 57 PA30
+	- 58 PA31
+	- 59 PB30
+	- 60 PB31
+	- 61 PB00
+	- 62 PB01
+	- 63 PB02
+	- 64 PB03
+## SAMC20J15A-MU
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA00
+	- 2 PA01
+	- 3 PA02
+	- 4 PA03
+	- 5 PB04
+	- 6 PB05
+	- 7 GNDANA
+	- 8 VDDANA
+	- 9 PB06
+	- 10 PB07
+	- 11 PB08
+	- 12 PB09
+	- 13 PA04
+	- 14 PA05
+	- 15 PA06
+	- 16 PA07
+	- 17 PA08
+	- 18 PA09
+	- 19 PA10
+	- 20 PA11
+	- 21 VDDIO
+	- 22 GNDIO
+	- 23 PB10
+	- 24 PB11
+	- 25 PB12
+	- 26 PB13
+	- 27 PB14
+	- 28 PB15
+	- 29 PA12
+	- 30 PA13
+	- 31 PA14
+	- 32 PA15
+	- 33 GNDIO
+	- 34 VDDIO
+	- 35 PA16
+	- 36 PA17
+	- 37 PA18
+	- 38 PA19
+	- 39 PB16
+	- 40 PB17
+	- 41 PA20
+	- 42 PA21
+	- 43 PA22
+	- 44 PA23
+	- 45 PA24
+	- 46 PA25
+	- 47 GNDIO
+	- 48 VDDIO
+	- 49 PB22
+	- 50 PB23
+	- 51 PA27
+	- 52 RESET_N
+	- 53 PA28
+	- 54 GNDIO
+	- 55 VDDCORE
+	- 56 VDDIN
+	- 57 PA30
+	- 58 PA31
+	- 59 PB30
+	- 60 PB31
+	- 61 PB00
+	- 62 PB01
+	- 63 PB02
+	- 64 PB03
+## SAMC20J15A-MZ
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA00
+	- 2 PA01
+	- 3 PA02
+	- 4 PA03
+	- 5 PB04
+	- 6 PB05
+	- 7 GNDANA
+	- 8 VDDANA
+	- 9 PB06
+	- 10 PB07
+	- 11 PB08
+	- 12 PB09
+	- 13 PA04
+	- 14 PA05
+	- 15 PA06
+	- 16 PA07
+	- 17 PA08
+	- 18 PA09
+	- 19 PA10
+	- 20 PA11
+	- 21 VDDIO
+	- 22 GNDIO
+	- 23 PB10
+	- 24 PB11
+	- 25 PB12
+	- 26 PB13
+	- 27 PB14
+	- 28 PB15
+	- 29 PA12
+	- 30 PA13
+	- 31 PA14
+	- 32 PA15
+	- 33 GNDIO
+	- 34 VDDIO
+	- 35 PA16
+	- 36 PA17
+	- 37 PA18
+	- 38 PA19
+	- 39 PB16
+	- 40 PB17
+	- 41 PA20
+	- 42 PA21
+	- 43 PA22
+	- 44 PA23
+	- 45 PA24
+	- 46 PA25
+	- 47 GNDIO
+	- 48 VDDIO
+	- 49 PB22
+	- 50 PB23
+	- 51 PA27
+	- 52 RESET_N
+	- 53 PA28
+	- 54 GNDIO
+	- 55 VDDCORE
+	- 56 VDDIN
+	- 57 PA30
+	- 58 PA31
+	- 59 PB30
+	- 60 PB31
+	- 61 PB00
+	- 62 PB01
+	- 63 PB02
+	- 64 PB03
+## SAMC20J16A-AN
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA00
+	- 2 PA01
+	- 3 PA02
+	- 4 PA03
+	- 5 PB04
+	- 6 PB05
+	- 7 GNDANA
+	- 8 VDDANA
+	- 9 PB06
+	- 10 PB07
+	- 11 PB08
+	- 12 PB09
+	- 13 PA04
+	- 14 PA05
+	- 15 PA06
+	- 16 PA07
+	- 17 PA08
+	- 18 PA09
+	- 19 PA10
+	- 20 PA11
+	- 21 VDDIO
+	- 22 GNDIO
+	- 23 PB10
+	- 24 PB11
+	- 25 PB12
+	- 26 PB13
+	- 27 PB14
+	- 28 PB15
+	- 29 PA12
+	- 30 PA13
+	- 31 PA14
+	- 32 PA15
+	- 33 GNDIO
+	- 34 VDDIO
+	- 35 PA16
+	- 36 PA17
+	- 37 PA18
+	- 38 PA19
+	- 39 PB16
+	- 40 PB17
+	- 41 PA20
+	- 42 PA21
+	- 43 PA22
+	- 44 PA23
+	- 45 PA24
+	- 46 PA25
+	- 47 GNDIO
+	- 48 VDDIO
+	- 49 PB22
+	- 50 PB23
+	- 51 PA27
+	- 52 RESET_N
+	- 53 PA28
+	- 54 GNDIO
+	- 55 VDDCORE
+	- 56 VDDIN
+	- 57 PA30
+	- 58 PA31
+	- 59 PB30
+	- 60 PB31
+	- 61 PB00
+	- 62 PB01
+	- 63 PB02
+	- 64 PB03
+## SAMC20J16A-AU
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA00
+	- 2 PA01
+	- 3 PA02
+	- 4 PA03
+	- 5 PB04
+	- 6 PB05
+	- 7 GNDANA
+	- 8 VDDANA
+	- 9 PB06
+	- 10 PB07
+	- 11 PB08
+	- 12 PB09
+	- 13 PA04
+	- 14 PA05
+	- 15 PA06
+	- 16 PA07
+	- 17 PA08
+	- 18 PA09
+	- 19 PA10
+	- 20 PA11
+	- 21 VDDIO
+	- 22 GNDIO
+	- 23 PB10
+	- 24 PB11
+	- 25 PB12
+	- 26 PB13
+	- 27 PB14
+	- 28 PB15
+	- 29 PA12
+	- 30 PA13
+	- 31 PA14
+	- 32 PA15
+	- 33 GNDIO
+	- 34 VDDIO
+	- 35 PA16
+	- 36 PA17
+	- 37 PA18
+	- 38 PA19
+	- 39 PB16
+	- 40 PB17
+	- 41 PA20
+	- 42 PA21
+	- 43 PA22
+	- 44 PA23
+	- 45 PA24
+	- 46 PA25
+	- 47 GNDIO
+	- 48 VDDIO
+	- 49 PB22
+	- 50 PB23
+	- 51 PA27
+	- 52 RESET_N
+	- 53 PA28
+	- 54 GNDIO
+	- 55 VDDCORE
+	- 56 VDDIN
+	- 57 PA30
+	- 58 PA31
+	- 59 PB30
+	- 60 PB31
+	- 61 PB00
+	- 62 PB01
+	- 63 PB02
+	- 64 PB03
+## SAMC20J16A-AZ
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA00
+	- 2 PA01
+	- 3 PA02
+	- 4 PA03
+	- 5 PB04
+	- 6 PB05
+	- 7 GNDANA
+	- 8 VDDANA
+	- 9 PB06
+	- 10 PB07
+	- 11 PB08
+	- 12 PB09
+	- 13 PA04
+	- 14 PA05
+	- 15 PA06
+	- 16 PA07
+	- 17 PA08
+	- 18 PA09
+	- 19 PA10
+	- 20 PA11
+	- 21 VDDIO
+	- 22 GNDIO
+	- 23 PB10
+	- 24 PB11
+	- 25 PB12
+	- 26 PB13
+	- 27 PB14
+	- 28 PB15
+	- 29 PA12
+	- 30 PA13
+	- 31 PA14
+	- 32 PA15
+	- 33 GNDIO
+	- 34 VDDIO
+	- 35 PA16
+	- 36 PA17
+	- 37 PA18
+	- 38 PA19
+	- 39 PB16
+	- 40 PB17
+	- 41 PA20
+	- 42 PA21
+	- 43 PA22
+	- 44 PA23
+	- 45 PA24
+	- 46 PA25
+	- 47 GNDIO
+	- 48 VDDIO
+	- 49 PB22
+	- 50 PB23
+	- 51 PA27
+	- 52 RESET_N
+	- 53 PA28
+	- 54 GNDIO
+	- 55 VDDCORE
+	- 56 VDDIN
+	- 57 PA30
+	- 58 PA31
+	- 59 PB30
+	- 60 PB31
+	- 61 PB00
+	- 62 PB01
+	- 63 PB02
+	- 64 PB03
+## SAMC20J16A-MN
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA00
+	- 2 PA01
+	- 3 PA02
+	- 4 PA03
+	- 5 PB04
+	- 6 PB05
+	- 7 GNDANA
+	- 8 VDDANA
+	- 9 PB06
+	- 10 PB07
+	- 11 PB08
+	- 12 PB09
+	- 13 PA04
+	- 14 PA05
+	- 15 PA06
+	- 16 PA07
+	- 17 PA08
+	- 18 PA09
+	- 19 PA10
+	- 20 PA11
+	- 21 VDDIO
+	- 22 GNDIO
+	- 23 PB10
+	- 24 PB11
+	- 25 PB12
+	- 26 PB13
+	- 27 PB14
+	- 28 PB15
+	- 29 PA12
+	- 30 PA13
+	- 31 PA14
+	- 32 PA15
+	- 33 GNDIO
+	- 34 VDDIO
+	- 35 PA16
+	- 36 PA17
+	- 37 PA18
+	- 38 PA19
+	- 39 PB16
+	- 40 PB17
+	- 41 PA20
+	- 42 PA21
+	- 43 PA22
+	- 44 PA23
+	- 45 PA24
+	- 46 PA25
+	- 47 GNDIO
+	- 48 VDDIO
+	- 49 PB22
+	- 50 PB23
+	- 51 PA27
+	- 52 RESET_N
+	- 53 PA28
+	- 54 GNDIO
+	- 55 VDDCORE
+	- 56 VDDIN
+	- 57 PA30
+	- 58 PA31
+	- 59 PB30
+	- 60 PB31
+	- 61 PB00
+	- 62 PB01
+	- 63 PB02
+	- 64 PB03
+## SAMC20J16A-MU
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA00
+	- 2 PA01
+	- 3 PA02
+	- 4 PA03
+	- 5 PB04
+	- 6 PB05
+	- 7 GNDANA
+	- 8 VDDANA
+	- 9 PB06
+	- 10 PB07
+	- 11 PB08
+	- 12 PB09
+	- 13 PA04
+	- 14 PA05
+	- 15 PA06
+	- 16 PA07
+	- 17 PA08
+	- 18 PA09
+	- 19 PA10
+	- 20 PA11
+	- 21 VDDIO
+	- 22 GNDIO
+	- 23 PB10
+	- 24 PB11
+	- 25 PB12
+	- 26 PB13
+	- 27 PB14
+	- 28 PB15
+	- 29 PA12
+	- 30 PA13
+	- 31 PA14
+	- 32 PA15
+	- 33 GNDIO
+	- 34 VDDIO
+	- 35 PA16
+	- 36 PA17
+	- 37 PA18
+	- 38 PA19
+	- 39 PB16
+	- 40 PB17
+	- 41 PA20
+	- 42 PA21
+	- 43 PA22
+	- 44 PA23
+	- 45 PA24
+	- 46 PA25
+	- 47 GNDIO
+	- 48 VDDIO
+	- 49 PB22
+	- 50 PB23
+	- 51 PA27
+	- 52 RESET_N
+	- 53 PA28
+	- 54 GNDIO
+	- 55 VDDCORE
+	- 56 VDDIN
+	- 57 PA30
+	- 58 PA31
+	- 59 PB30
+	- 60 PB31
+	- 61 PB00
+	- 62 PB01
+	- 63 PB02
+	- 64 PB03
+## SAMC20J16A-MZ
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA00
+	- 2 PA01
+	- 3 PA02
+	- 4 PA03
+	- 5 PB04
+	- 6 PB05
+	- 7 GNDANA
+	- 8 VDDANA
+	- 9 PB06
+	- 10 PB07
+	- 11 PB08
+	- 12 PB09
+	- 13 PA04
+	- 14 PA05
+	- 15 PA06
+	- 16 PA07
+	- 17 PA08
+	- 18 PA09
+	- 19 PA10
+	- 20 PA11
+	- 21 VDDIO
+	- 22 GNDIO
+	- 23 PB10
+	- 24 PB11
+	- 25 PB12
+	- 26 PB13
+	- 27 PB14
+	- 28 PB15
+	- 29 PA12
+	- 30 PA13
+	- 31 PA14
+	- 32 PA15
+	- 33 GNDIO
+	- 34 VDDIO
+	- 35 PA16
+	- 36 PA17
+	- 37 PA18
+	- 38 PA19
+	- 39 PB16
+	- 40 PB17
+	- 41 PA20
+	- 42 PA21
+	- 43 PA22
+	- 44 PA23
+	- 45 PA24
+	- 46 PA25
+	- 47 GNDIO
+	- 48 VDDIO
+	- 49 PB22
+	- 50 PB23
+	- 51 PA27
+	- 52 RESET_N
+	- 53 PA28
+	- 54 GNDIO
+	- 55 VDDCORE
+	- 56 VDDIN
+	- 57 PA30
+	- 58 PA31
+	- 59 PB30
+	- 60 PB31
+	- 61 PB00
+	- 62 PB01
+	- 63 PB02
+	- 64 PB03
+## SAMC20J17A-AN
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA00
+	- 2 PA01
+	- 3 PA02
+	- 4 PA03
+	- 5 PB04
+	- 6 PB05
+	- 7 GNDANA
+	- 8 VDDANA
+	- 9 PB06
+	- 10 PB07
+	- 11 PB08
+	- 12 PB09
+	- 13 PA04
+	- 14 PA05
+	- 15 PA06
+	- 16 PA07
+	- 17 PA08
+	- 18 PA09
+	- 19 PA10
+	- 20 PA11
+	- 21 VDDIO
+	- 22 GNDIO
+	- 23 PB10
+	- 24 PB11
+	- 25 PB12
+	- 26 PB13
+	- 27 PB14
+	- 28 PB15
+	- 29 PA12
+	- 30 PA13
+	- 31 PA14
+	- 32 PA15
+	- 33 GNDIO
+	- 34 VDDIO
+	- 35 PA16
+	- 36 PA17
+	- 37 PA18
+	- 38 PA19
+	- 39 PB16
+	- 40 PB17
+	- 41 PA20
+	- 42 PA21
+	- 43 PA22
+	- 44 PA23
+	- 45 PA24
+	- 46 PA25
+	- 47 GNDIO
+	- 48 VDDIO
+	- 49 PB22
+	- 50 PB23
+	- 51 PA27
+	- 52 RESET_N
+	- 53 PA28
+	- 54 GNDIO
+	- 55 VDDCORE
+	- 56 VDDIN
+	- 57 PA30
+	- 58 PA31
+	- 59 PB30
+	- 60 PB31
+	- 61 PB00
+	- 62 PB01
+	- 63 PB02
+	- 64 PB03
+## SAMC20J17A-AU
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA00
+	- 2 PA01
+	- 3 PA02
+	- 4 PA03
+	- 5 PB04
+	- 6 PB05
+	- 7 GNDANA
+	- 8 VDDANA
+	- 9 PB06
+	- 10 PB07
+	- 11 PB08
+	- 12 PB09
+	- 13 PA04
+	- 14 PA05
+	- 15 PA06
+	- 16 PA07
+	- 17 PA08
+	- 18 PA09
+	- 19 PA10
+	- 20 PA11
+	- 21 VDDIO
+	- 22 GNDIO
+	- 23 PB10
+	- 24 PB11
+	- 25 PB12
+	- 26 PB13
+	- 27 PB14
+	- 28 PB15
+	- 29 PA12
+	- 30 PA13
+	- 31 PA14
+	- 32 PA15
+	- 33 GNDIO
+	- 34 VDDIO
+	- 35 PA16
+	- 36 PA17
+	- 37 PA18
+	- 38 PA19
+	- 39 PB16
+	- 40 PB17
+	- 41 PA20
+	- 42 PA21
+	- 43 PA22
+	- 44 PA23
+	- 45 PA24
+	- 46 PA25
+	- 47 GNDIO
+	- 48 VDDIO
+	- 49 PB22
+	- 50 PB23
+	- 51 PA27
+	- 52 RESET_N
+	- 53 PA28
+	- 54 GNDIO
+	- 55 VDDCORE
+	- 56 VDDIN
+	- 57 PA30
+	- 58 PA31
+	- 59 PB30
+	- 60 PB31
+	- 61 PB00
+	- 62 PB01
+	- 63 PB02
+	- 64 PB03
+## SAMC20J17A-AZ
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA00
+	- 2 PA01
+	- 3 PA02
+	- 4 PA03
+	- 5 PB04
+	- 6 PB05
+	- 7 GNDANA
+	- 8 VDDANA
+	- 9 PB06
+	- 10 PB07
+	- 11 PB08
+	- 12 PB09
+	- 13 PA04
+	- 14 PA05
+	- 15 PA06
+	- 16 PA07
+	- 17 PA08
+	- 18 PA09
+	- 19 PA10
+	- 20 PA11
+	- 21 VDDIO
+	- 22 GNDIO
+	- 23 PB10
+	- 24 PB11
+	- 25 PB12
+	- 26 PB13
+	- 27 PB14
+	- 28 PB15
+	- 29 PA12
+	- 30 PA13
+	- 31 PA14
+	- 32 PA15
+	- 33 GNDIO
+	- 34 VDDIO
+	- 35 PA16
+	- 36 PA17
+	- 37 PA18
+	- 38 PA19
+	- 39 PB16
+	- 40 PB17
+	- 41 PA20
+	- 42 PA21
+	- 43 PA22
+	- 44 PA23
+	- 45 PA24
+	- 46 PA25
+	- 47 GNDIO
+	- 48 VDDIO
+	- 49 PB22
+	- 50 PB23
+	- 51 PA27
+	- 52 RESET_N
+	- 53 PA28
+	- 54 GNDIO
+	- 55 VDDCORE
+	- 56 VDDIN
+	- 57 PA30
+	- 58 PA31
+	- 59 PB30
+	- 60 PB31
+	- 61 PB00
+	- 62 PB01
+	- 63 PB02
+	- 64 PB03
+## SAMC20J17A-MN
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA00
+	- 2 PA01
+	- 3 PA02
+	- 4 PA03
+	- 5 PB04
+	- 6 PB05
+	- 7 GNDANA
+	- 8 VDDANA
+	- 9 PB06
+	- 10 PB07
+	- 11 PB08
+	- 12 PB09
+	- 13 PA04
+	- 14 PA05
+	- 15 PA06
+	- 16 PA07
+	- 17 PA08
+	- 18 PA09
+	- 19 PA10
+	- 20 PA11
+	- 21 VDDIO
+	- 22 GNDIO
+	- 23 PB10
+	- 24 PB11
+	- 25 PB12
+	- 26 PB13
+	- 27 PB14
+	- 28 PB15
+	- 29 PA12
+	- 30 PA13
+	- 31 PA14
+	- 32 PA15
+	- 33 GNDIO
+	- 34 VDDIO
+	- 35 PA16
+	- 36 PA17
+	- 37 PA18
+	- 38 PA19
+	- 39 PB16
+	- 40 PB17
+	- 41 PA20
+	- 42 PA21
+	- 43 PA22
+	- 44 PA23
+	- 45 PA24
+	- 46 PA25
+	- 47 GNDIO
+	- 48 VDDIO
+	- 49 PB22
+	- 50 PB23
+	- 51 PA27
+	- 52 RESET_N
+	- 53 PA28
+	- 54 GNDIO
+	- 55 VDDCORE
+	- 56 VDDIN
+	- 57 PA30
+	- 58 PA31
+	- 59 PB30
+	- 60 PB31
+	- 61 PB00
+	- 62 PB01
+	- 63 PB02
+	- 64 PB03
+## SAMC20J17A-MU
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA00
+	- 2 PA01
+	- 3 PA02
+	- 4 PA03
+	- 5 PB04
+	- 6 PB05
+	- 7 GNDANA
+	- 8 VDDANA
+	- 9 PB06
+	- 10 PB07
+	- 11 PB08
+	- 12 PB09
+	- 13 PA04
+	- 14 PA05
+	- 15 PA06
+	- 16 PA07
+	- 17 PA08
+	- 18 PA09
+	- 19 PA10
+	- 20 PA11
+	- 21 VDDIO
+	- 22 GNDIO
+	- 23 PB10
+	- 24 PB11
+	- 25 PB12
+	- 26 PB13
+	- 27 PB14
+	- 28 PB15
+	- 29 PA12
+	- 30 PA13
+	- 31 PA14
+	- 32 PA15
+	- 33 GNDIO
+	- 34 VDDIO
+	- 35 PA16
+	- 36 PA17
+	- 37 PA18
+	- 38 PA19
+	- 39 PB16
+	- 40 PB17
+	- 41 PA20
+	- 42 PA21
+	- 43 PA22
+	- 44 PA23
+	- 45 PA24
+	- 46 PA25
+	- 47 GNDIO
+	- 48 VDDIO
+	- 49 PB22
+	- 50 PB23
+	- 51 PA27
+	- 52 RESET_N
+	- 53 PA28
+	- 54 GNDIO
+	- 55 VDDCORE
+	- 56 VDDIN
+	- 57 PA30
+	- 58 PA31
+	- 59 PB30
+	- 60 PB31
+	- 61 PB00
+	- 62 PB01
+	- 63 PB02
+	- 64 PB03
+## SAMC20J17A-MZ
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA00
+	- 2 PA01
+	- 3 PA02
+	- 4 PA03
+	- 5 PB04
+	- 6 PB05
+	- 7 GNDANA
+	- 8 VDDANA
+	- 9 PB06
+	- 10 PB07
+	- 11 PB08
+	- 12 PB09
+	- 13 PA04
+	- 14 PA05
+	- 15 PA06
+	- 16 PA07
+	- 17 PA08
+	- 18 PA09
+	- 19 PA10
+	- 20 PA11
+	- 21 VDDIO
+	- 22 GNDIO
+	- 23 PB10
+	- 24 PB11
+	- 25 PB12
+	- 26 PB13
+	- 27 PB14
+	- 28 PB15
+	- 29 PA12
+	- 30 PA13
+	- 31 PA14
+	- 32 PA15
+	- 33 GNDIO
+	- 34 VDDIO
+	- 35 PA16
+	- 36 PA17
+	- 37 PA18
+	- 38 PA19
+	- 39 PB16
+	- 40 PB17
+	- 41 PA20
+	- 42 PA21
+	- 43 PA22
+	- 44 PA23
+	- 45 PA24
+	- 46 PA25
+	- 47 GNDIO
+	- 48 VDDIO
+	- 49 PB22
+	- 50 PB23
+	- 51 PA27
+	- 52 RESET_N
+	- 53 PA28
+	- 54 GNDIO
+	- 55 VDDCORE
+	- 56 VDDIN
+	- 57 PA30
+	- 58 PA31
+	- 59 PB30
+	- 60 PB31
+	- 61 PB00
+	- 62 PB01
+	- 63 PB02
+	- 64 PB03
+## SAMC20J17A-UU
+### Description : 
+null
+null
+### Package : 
+null
+	- A1 PA00
+	- A2 PA01
+	- A3 PA03
+	- A4 PB08
+	- A5 PB09
+	- A6 PA04
+	- A7 PA06
+	- B1 PB01
+	- B2 PB02
+	- B3 PA02
+	- B4 PA09
+	- B5 PA05
+	- B6 PA07
+	- B7 PA08
+	- C1 PA31
+	- C2 PB00
+	- C3 PB03
+	- C4 VDDANA
+	- C5 VDDIO
+	- C6 PA10
+	- C7 PA11
+	- D1 PA30
+	- D2 VDDIN
+	- D3 GNDANA
+	- D4 GNDIO
+	- D5 PB12
+	- D6 PB11
+	- D7 PB10
+	- E1 VDDCORE
+	- E2 GNDIO
+	- E3 VDDIO
+	- E4 GNDIO
+	- E5 PB15
+	- E6 PB14
+	- E7 PB13
+	- F1 RESET_N
+	- F2 PA28
+	- F3 PA23
+	- F4 VDDIO
+	- F5 GNDIO
+	- F6 PA13
+	- F7 PA12
+	- G1 PB23
+	- G2 PA27
+	- G3 PA24
+	- G4 PA20
+	- G5 PA18
+	- G6 PA14
+	- G7 PA15
+	- H1 PB22
+	- H2 PA25
+	- H3 PA22
+	- H4 PA21
+	- H5 PA19
+	- H6 PA17
+	- H7 PA16
+## SAMC20J18A-AN
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA00
+	- 2 PA01
+	- 3 PA02
+	- 4 PA03
+	- 5 PB04
+	- 6 PB05
+	- 7 GNDANA
+	- 8 VDDANA
+	- 9 PB06
+	- 10 PB07
+	- 11 PB08
+	- 12 PB09
+	- 13 PA04
+	- 14 PA05
+	- 15 PA06
+	- 16 PA07
+	- 17 PA08
+	- 18 PA09
+	- 19 PA10
+	- 20 PA11
+	- 21 VDDIO
+	- 22 GNDIO
+	- 23 PB10
+	- 24 PB11
+	- 25 PB12
+	- 26 PB13
+	- 27 PB14
+	- 28 PB15
+	- 29 PA12
+	- 30 PA13
+	- 31 PA14
+	- 32 PA15
+	- 33 GNDIO
+	- 34 VDDIO
+	- 35 PA16
+	- 36 PA17
+	- 37 PA18
+	- 38 PA19
+	- 39 PB16
+	- 40 PB17
+	- 41 PA20
+	- 42 PA21
+	- 43 PA22
+	- 44 PA23
+	- 45 PA24
+	- 46 PA25
+	- 47 GNDIO
+	- 48 VDDIO
+	- 49 PB22
+	- 50 PB23
+	- 51 PA27
+	- 52 RESET_N
+	- 53 PA28
+	- 54 GNDIO
+	- 55 VDDCORE
+	- 56 VDDIN
+	- 57 PA30
+	- 58 PA31
+	- 59 PB30
+	- 60 PB31
+	- 61 PB00
+	- 62 PB01
+	- 63 PB02
+	- 64 PB03
+## SAMC20J18A-AU
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA00
+	- 2 PA01
+	- 3 PA02
+	- 4 PA03
+	- 5 PB04
+	- 6 PB05
+	- 7 GNDANA
+	- 8 VDDANA
+	- 9 PB06
+	- 10 PB07
+	- 11 PB08
+	- 12 PB09
+	- 13 PA04
+	- 14 PA05
+	- 15 PA06
+	- 16 PA07
+	- 17 PA08
+	- 18 PA09
+	- 19 PA10
+	- 20 PA11
+	- 21 VDDIO
+	- 22 GNDIO
+	- 23 PB10
+	- 24 PB11
+	- 25 PB12
+	- 26 PB13
+	- 27 PB14
+	- 28 PB15
+	- 29 PA12
+	- 30 PA13
+	- 31 PA14
+	- 32 PA15
+	- 33 GNDIO
+	- 34 VDDIO
+	- 35 PA16
+	- 36 PA17
+	- 37 PA18
+	- 38 PA19
+	- 39 PB16
+	- 40 PB17
+	- 41 PA20
+	- 42 PA21
+	- 43 PA22
+	- 44 PA23
+	- 45 PA24
+	- 46 PA25
+	- 47 GNDIO
+	- 48 VDDIO
+	- 49 PB22
+	- 50 PB23
+	- 51 PA27
+	- 52 RESET_N
+	- 53 PA28
+	- 54 GNDIO
+	- 55 VDDCORE
+	- 56 VDDIN
+	- 57 PA30
+	- 58 PA31
+	- 59 PB30
+	- 60 PB31
+	- 61 PB00
+	- 62 PB01
+	- 63 PB02
+	- 64 PB03
+## SAMC20J18A-AZ
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA00
+	- 2 PA01
+	- 3 PA02
+	- 4 PA03
+	- 5 PB04
+	- 6 PB05
+	- 7 GNDANA
+	- 8 VDDANA
+	- 9 PB06
+	- 10 PB07
+	- 11 PB08
+	- 12 PB09
+	- 13 PA04
+	- 14 PA05
+	- 15 PA06
+	- 16 PA07
+	- 17 PA08
+	- 18 PA09
+	- 19 PA10
+	- 20 PA11
+	- 21 VDDIO
+	- 22 GNDIO
+	- 23 PB10
+	- 24 PB11
+	- 25 PB12
+	- 26 PB13
+	- 27 PB14
+	- 28 PB15
+	- 29 PA12
+	- 30 PA13
+	- 31 PA14
+	- 32 PA15
+	- 33 GNDIO
+	- 34 VDDIO
+	- 35 PA16
+	- 36 PA17
+	- 37 PA18
+	- 38 PA19
+	- 39 PB16
+	- 40 PB17
+	- 41 PA20
+	- 42 PA21
+	- 43 PA22
+	- 44 PA23
+	- 45 PA24
+	- 46 PA25
+	- 47 GNDIO
+	- 48 VDDIO
+	- 49 PB22
+	- 50 PB23
+	- 51 PA27
+	- 52 RESET_N
+	- 53 PA28
+	- 54 GNDIO
+	- 55 VDDCORE
+	- 56 VDDIN
+	- 57 PA30
+	- 58 PA31
+	- 59 PB30
+	- 60 PB31
+	- 61 PB00
+	- 62 PB01
+	- 63 PB02
+	- 64 PB03
+## SAMC20J18A-MN
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA00
+	- 2 PA01
+	- 3 PA02
+	- 4 PA03
+	- 5 PB04
+	- 6 PB05
+	- 7 GNDANA
+	- 8 VDDANA
+	- 9 PB06
+	- 10 PB07
+	- 11 PB08
+	- 12 PB09
+	- 13 PA04
+	- 14 PA05
+	- 15 PA06
+	- 16 PA07
+	- 17 PA08
+	- 18 PA09
+	- 19 PA10
+	- 20 PA11
+	- 21 VDDIO
+	- 22 GNDIO
+	- 23 PB10
+	- 24 PB11
+	- 25 PB12
+	- 26 PB13
+	- 27 PB14
+	- 28 PB15
+	- 29 PA12
+	- 30 PA13
+	- 31 PA14
+	- 32 PA15
+	- 33 GNDIO
+	- 34 VDDIO
+	- 35 PA16
+	- 36 PA17
+	- 37 PA18
+	- 38 PA19
+	- 39 PB16
+	- 40 PB17
+	- 41 PA20
+	- 42 PA21
+	- 43 PA22
+	- 44 PA23
+	- 45 PA24
+	- 46 PA25
+	- 47 GNDIO
+	- 48 VDDIO
+	- 49 PB22
+	- 50 PB23
+	- 51 PA27
+	- 52 RESET_N
+	- 53 PA28
+	- 54 GNDIO
+	- 55 VDDCORE
+	- 56 VDDIN
+	- 57 PA30
+	- 58 PA31
+	- 59 PB30
+	- 60 PB31
+	- 61 PB00
+	- 62 PB01
+	- 63 PB02
+	- 64 PB03
+## SAMC20J18A-MU
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA00
+	- 2 PA01
+	- 3 PA02
+	- 4 PA03
+	- 5 PB04
+	- 6 PB05
+	- 7 GNDANA
+	- 8 VDDANA
+	- 9 PB06
+	- 10 PB07
+	- 11 PB08
+	- 12 PB09
+	- 13 PA04
+	- 14 PA05
+	- 15 PA06
+	- 16 PA07
+	- 17 PA08
+	- 18 PA09
+	- 19 PA10
+	- 20 PA11
+	- 21 VDDIO
+	- 22 GNDIO
+	- 23 PB10
+	- 24 PB11
+	- 25 PB12
+	- 26 PB13
+	- 27 PB14
+	- 28 PB15
+	- 29 PA12
+	- 30 PA13
+	- 31 PA14
+	- 32 PA15
+	- 33 GNDIO
+	- 34 VDDIO
+	- 35 PA16
+	- 36 PA17
+	- 37 PA18
+	- 38 PA19
+	- 39 PB16
+	- 40 PB17
+	- 41 PA20
+	- 42 PA21
+	- 43 PA22
+	- 44 PA23
+	- 45 PA24
+	- 46 PA25
+	- 47 GNDIO
+	- 48 VDDIO
+	- 49 PB22
+	- 50 PB23
+	- 51 PA27
+	- 52 RESET_N
+	- 53 PA28
+	- 54 GNDIO
+	- 55 VDDCORE
+	- 56 VDDIN
+	- 57 PA30
+	- 58 PA31
+	- 59 PB30
+	- 60 PB31
+	- 61 PB00
+	- 62 PB01
+	- 63 PB02
+	- 64 PB03
+## SAMC20J18A-MZ
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA00
+	- 2 PA01
+	- 3 PA02
+	- 4 PA03
+	- 5 PB04
+	- 6 PB05
+	- 7 GNDANA
+	- 8 VDDANA
+	- 9 PB06
+	- 10 PB07
+	- 11 PB08
+	- 12 PB09
+	- 13 PA04
+	- 14 PA05
+	- 15 PA06
+	- 16 PA07
+	- 17 PA08
+	- 18 PA09
+	- 19 PA10
+	- 20 PA11
+	- 21 VDDIO
+	- 22 GNDIO
+	- 23 PB10
+	- 24 PB11
+	- 25 PB12
+	- 26 PB13
+	- 27 PB14
+	- 28 PB15
+	- 29 PA12
+	- 30 PA13
+	- 31 PA14
+	- 32 PA15
+	- 33 GNDIO
+	- 34 VDDIO
+	- 35 PA16
+	- 36 PA17
+	- 37 PA18
+	- 38 PA19
+	- 39 PB16
+	- 40 PB17
+	- 41 PA20
+	- 42 PA21
+	- 43 PA22
+	- 44 PA23
+	- 45 PA24
+	- 46 PA25
+	- 47 GNDIO
+	- 48 VDDIO
+	- 49 PB22
+	- 50 PB23
+	- 51 PA27
+	- 52 RESET_N
+	- 53 PA28
+	- 54 GNDIO
+	- 55 VDDCORE
+	- 56 VDDIN
+	- 57 PA30
+	- 58 PA31
+	- 59 PB30
+	- 60 PB31
+	- 61 PB00
+	- 62 PB01
+	- 63 PB02
+	- 64 PB03
+## SAMC20J18A-UU
+### Description : 
+null
+null
+### Package : 
+null
+	- A1 PA00
+	- A2 PA01
+	- A3 PA03
+	- A4 PB08
+	- A5 PB09
+	- A6 PA04
+	- A7 PA06
+	- B1 PB01
+	- B2 PB02
+	- B3 PA02
+	- B4 PA09
+	- B5 PA05
+	- B6 PA07
+	- B7 PA08
+	- C1 PA31
+	- C2 PB00
+	- C3 PB03
+	- C4 VDDANA
+	- C5 VDDIO
+	- C6 PA10
+	- C7 PA11
+	- D1 PA30
+	- D2 VDDIN
+	- D3 GNDANA
+	- D4 GNDIO
+	- D5 PB12
+	- D6 PB11
+	- D7 PB10
+	- E1 VDDCORE
+	- E2 GNDIO
+	- E3 VDDIO
+	- E4 GNDIO
+	- E5 PB15
+	- E6 PB14
+	- E7 PB13
+	- F1 RESET_N
+	- F2 PA28
+	- F3 PA23
+	- F4 VDDIO
+	- F5 GNDIO
+	- F6 PA13
+	- F7 PA12
+	- G1 PB23
+	- G2 PA27
+	- G3 PA24
+	- G4 PA20
+	- G5 PA18
+	- G6 PA14
+	- G7 PA15
+	- H1 PB22
+	- H2 PA25
+	- H3 PA22
+	- H4 PA21
+	- H5 PA19
+	- H6 PA17
+	- H7 PA16
+## SAMC20N17A-AN
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA00
+	- 2 PA01
+	- 3 PC00
+	- 4 PC01
+	- 5 PC02
+	- 6 PC03
+	- 7 PA02
+	- 8 PA03
+	- 9 PB04
+	- 10 PB05
+	- 11 GNDANA
+	- 12 VDDANA
+	- 13 PB06
+	- 14 PB07
+	- 15 PB08
+	- 16 PB09
+	- 17 PA04
+	- 18 PA05
+	- 19 PA06
+	- 20 PA07
+	- 21 PC05
+	- 22 PC06
+	- 23 PC07
+	- 24 GNDIO
+	- 25 VDDIO
+	- 26 PA08
+	- 27 PA09
+	- 28 PA10
+	- 29 PA11
+	- 30 PB10
+	- 31 PB11
+	- 32 PB12
+	- 33 PB13
+	- 34 PB14
+	- 35 PB15
+	- 36 VDDIO
+	- 37 GNDIO
+	- 38 PC08
+	- 39 PC09
+	- 40 PC10
+	- 41 PC11
+	- 42 PC12
+	- 43 PC13
+	- 44 PC14
+	- 45 PC15
+	- 46 PA12
+	- 47 PA13
+	- 48 PA14
+	- 49 PA15
+	- 50 GNDIO
+	- 51 VDDIO
+	- 52 PA16
+	- 53 PA17
+	- 54 PA18
+	- 55 PA19
+	- 56 PC16
+	- 57 PC17
+	- 58 PC18
+	- 59 PC19
+	- 60 PC20
+	- 61 PC21
+	- 62 GNDIO
+	- 63 VDDIO
+	- 64 PB16
+	- 65 PB17
+	- 66 PB18
+	- 67 PB19
+	- 68 PB20
+	- 69 PB21
+	- 70 PA20
+	- 71 PA21
+	- 72 PA22
+	- 73 PA23
+	- 74 PA24
+	- 75 PA25
+	- 76 GNDIO
+	- 77 VDDIO
+	- 78 PB22
+	- 79 PB23
+	- 80 PB24
+	- 81 PB25
+	- 82 PC24
+	- 83 PC25
+	- 84 PC26
+	- 85 PC27
+	- 86 PC28
+	- 87 PA27
+	- 88 RESET_N
+	- 89 PA28
+	- 90 GNDIO
+	- 91 VDDCORE
+	- 92 VDDIN
+	- 93 PA30
+	- 94 PA31
+	- 95 PB30
+	- 96 PB31
+	- 97 PB00
+	- 98 PB01
+	- 99 PB02
+	- 100 PB03
+## SAMC20N17A-MN
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA00
+	- 2 PA01
+	- 3 PC00
+	- 4 PC01
+	- 5 PC02
+	- 6 PC03
+	- 7 PA02
+	- 8 PA03
+	- 9 PB04
+	- 10 PB05
+	- 11 GNDANA
+	- 12 VDDANA
+	- 13 PB06
+	- 14 PB07
+	- 15 PB08
+	- 16 PB09
+	- 17 PA04
+	- 18 PA05
+	- 19 PA06
+	- 20 PA07
+	- 21 PC05
+	- 22 PC06
+	- 23 PC07
+	- 24 GNDIO
+	- 25 VDDIO
+	- 26 PA08
+	- 27 PA09
+	- 28 PA10
+	- 29 PA11
+	- 30 PB10
+	- 31 PB11
+	- 32 PB12
+	- 33 PB13
+	- 34 PB14
+	- 35 PB15
+	- 36 VDDIO
+	- 37 GNDIO
+	- 38 PC08
+	- 39 PC09
+	- 40 PC10
+	- 41 PC11
+	- 42 PC12
+	- 43 PC13
+	- 44 PC14
+	- 45 PC15
+	- 46 PA12
+	- 47 PA13
+	- 48 PA14
+	- 49 PA15
+	- 50 GNDIO
+	- 51 VDDIO
+	- 52 PA16
+	- 53 PA17
+	- 54 PA18
+	- 55 PA19
+	- 56 PC16
+	- 57 PC17
+	- 58 PC18
+	- 59 PC19
+	- 60 PC20
+	- 61 PC21
+	- 62 GNDIO
+	- 63 VDDIO
+	- 64 PB16
+	- 65 PB17
+	- 66 PB18
+	- 67 PB19
+	- 68 PB20
+	- 69 PB21
+	- 70 PA20
+	- 71 PA21
+	- 72 PA22
+	- 73 PA23
+	- 74 PA24
+	- 75 PA25
+	- 76 GNDIO
+	- 77 VDDIO
+	- 78 PB22
+	- 79 PB23
+	- 80 PB24
+	- 81 PB25
+	- 82 PC24
+	- 83 PC25
+	- 84 PC26
+	- 85 PC27
+	- 86 PC28
+	- 87 PA27
+	- 88 RESET_N
+	- 89 PA28
+	- 90 GNDIO
+	- 91 VDDCORE
+	- 92 VDDIN
+	- 93 PA30
+	- 94 PA31
+	- 95 PB30
+	- 96 PB31
+	- 97 PB00
+	- 98 PB01
+	- 99 PB02
+	- 100 PB03
+## SAMC20N18A-AN
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA00
+	- 2 PA01
+	- 3 PC00
+	- 4 PC01
+	- 5 PC02
+	- 6 PC03
+	- 7 PA02
+	- 8 PA03
+	- 9 PB04
+	- 10 PB05
+	- 11 GNDANA
+	- 12 VDDANA
+	- 13 PB06
+	- 14 PB07
+	- 15 PB08
+	- 16 PB09
+	- 17 PA04
+	- 18 PA05
+	- 19 PA06
+	- 20 PA07
+	- 21 PC05
+	- 22 PC06
+	- 23 PC07
+	- 24 GNDIO
+	- 25 VDDIO
+	- 26 PA08
+	- 27 PA09
+	- 28 PA10
+	- 29 PA11
+	- 30 PB10
+	- 31 PB11
+	- 32 PB12
+	- 33 PB13
+	- 34 PB14
+	- 35 PB15
+	- 36 VDDIO
+	- 37 GNDIO
+	- 38 PC08
+	- 39 PC09
+	- 40 PC10
+	- 41 PC11
+	- 42 PC12
+	- 43 PC13
+	- 44 PC14
+	- 45 PC15
+	- 46 PA12
+	- 47 PA13
+	- 48 PA14
+	- 49 PA15
+	- 50 GNDIO
+	- 51 VDDIO
+	- 52 PA16
+	- 53 PA17
+	- 54 PA18
+	- 55 PA19
+	- 56 PC16
+	- 57 PC17
+	- 58 PC18
+	- 59 PC19
+	- 60 PC20
+	- 61 PC21
+	- 62 GNDIO
+	- 63 VDDIO
+	- 64 PB16
+	- 65 PB17
+	- 66 PB18
+	- 67 PB19
+	- 68 PB20
+	- 69 PB21
+	- 70 PA20
+	- 71 PA21
+	- 72 PA22
+	- 73 PA23
+	- 74 PA24
+	- 75 PA25
+	- 76 GNDIO
+	- 77 VDDIO
+	- 78 PB22
+	- 79 PB23
+	- 80 PB24
+	- 81 PB25
+	- 82 PC24
+	- 83 PC25
+	- 84 PC26
+	- 85 PC27
+	- 86 PC28
+	- 87 PA27
+	- 88 RESET_N
+	- 89 PA28
+	- 90 GNDIO
+	- 91 VDDCORE
+	- 92 VDDIN
+	- 93 PA30
+	- 94 PA31
+	- 95 PB30
+	- 96 PB31
+	- 97 PB00
+	- 98 PB01
+	- 99 PB02
+	- 100 PB03
+## SAMC20N18A-MN
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA00
+	- 2 PA01
+	- 3 PC00
+	- 4 PC01
+	- 5 PC02
+	- 6 PC03
+	- 7 PA02
+	- 8 PA03
+	- 9 PB04
+	- 10 PB05
+	- 11 GNDANA
+	- 12 VDDANA
+	- 13 PB06
+	- 14 PB07
+	- 15 PB08
+	- 16 PB09
+	- 17 PA04
+	- 18 PA05
+	- 19 PA06
+	- 20 PA07
+	- 21 PC05
+	- 22 PC06
+	- 23 PC07
+	- 24 GNDIO
+	- 25 VDDIO
+	- 26 PA08
+	- 27 PA09
+	- 28 PA10
+	- 29 PA11
+	- 30 PB10
+	- 31 PB11
+	- 32 PB12
+	- 33 PB13
+	- 34 PB14
+	- 35 PB15
+	- 36 VDDIO
+	- 37 GNDIO
+	- 38 PC08
+	- 39 PC09
+	- 40 PC10
+	- 41 PC11
+	- 42 PC12
+	- 43 PC13
+	- 44 PC14
+	- 45 PC15
+	- 46 PA12
+	- 47 PA13
+	- 48 PA14
+	- 49 PA15
+	- 50 GNDIO
+	- 51 VDDIO
+	- 52 PA16
+	- 53 PA17
+	- 54 PA18
+	- 55 PA19
+	- 56 PC16
+	- 57 PC17
+	- 58 PC18
+	- 59 PC19
+	- 60 PC20
+	- 61 PC21
+	- 62 GNDIO
+	- 63 VDDIO
+	- 64 PB16
+	- 65 PB17
+	- 66 PB18
+	- 67 PB19
+	- 68 PB20
+	- 69 PB21
+	- 70 PA20
+	- 71 PA21
+	- 72 PA22
+	- 73 PA23
+	- 74 PA24
+	- 75 PA25
+	- 76 GNDIO
+	- 77 VDDIO
+	- 78 PB22
+	- 79 PB23
+	- 80 PB24
+	- 81 PB25
+	- 82 PC24
+	- 83 PC25
+	- 84 PC26
+	- 85 PC27
+	- 86 PC28
+	- 87 PA27
+	- 88 RESET_N
+	- 89 PA28
+	- 90 GNDIO
+	- 91 VDDCORE
+	- 92 VDDIN
+	- 93 PA30
+	- 94 PA31
+	- 95 PB30
+	- 96 PB31
+	- 97 PB00
+	- 98 PB01
+	- 99 PB02
+	- 100 PB03
+## SAMC21E15A-AN
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA00
+	- 2 PA01
+	- 3 PA02
+	- 4 PA03
+	- 5 PA04
+	- 6 PA05
+	- 7 PA06
+	- 8 PA07
+	- 9 VDDANA
+	- 10 GNDIO
+	- 11 PA08
+	- 12 PA09
+	- 13 PA10
+	- 14 PA11
+	- 15 PA14
+	- 16 PA15
+	- 17 PA16
+	- 18 PA17
+	- 19 PA18
+	- 20 PA19
+	- 21 PA22
+	- 22 PA23
+	- 23 PA24
+	- 24 PA25
+	- 25 PA27
+	- 26 RESET_N
+	- 27 PA28
+	- 28 GNDIO
+	- 29 VDDCORE
+	- 30 VDDIN
+	- 31 PA30
+	- 32 PA31
+## SAMC21E15A-AU
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA00
+	- 2 PA01
+	- 3 PA02
+	- 4 PA03
+	- 5 PA04
+	- 6 PA05
+	- 7 PA06
+	- 8 PA07
+	- 9 VDDANA
+	- 10 GNDIO
+	- 11 PA08
+	- 12 PA09
+	- 13 PA10
+	- 14 PA11
+	- 15 PA14
+	- 16 PA15
+	- 17 PA16
+	- 18 PA17
+	- 19 PA18
+	- 20 PA19
+	- 21 PA22
+	- 22 PA23
+	- 23 PA24
+	- 24 PA25
+	- 25 PA27
+	- 26 RESET_N
+	- 27 PA28
+	- 28 GNDIO
+	- 29 VDDCORE
+	- 30 VDDIN
+	- 31 PA30
+	- 32 PA31
+## SAMC21E15A-AZ
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA00
+	- 2 PA01
+	- 3 PA02
+	- 4 PA03
+	- 5 PA04
+	- 6 PA05
+	- 7 PA06
+	- 8 PA07
+	- 9 VDDANA
+	- 10 GNDIO
+	- 11 PA08
+	- 12 PA09
+	- 13 PA10
+	- 14 PA11
+	- 15 PA14
+	- 16 PA15
+	- 17 PA16
+	- 18 PA17
+	- 19 PA18
+	- 20 PA19
+	- 21 PA22
+	- 22 PA23
+	- 23 PA24
+	- 24 PA25
+	- 25 PA27
+	- 26 RESET_N
+	- 27 PA28
+	- 28 GNDIO
+	- 29 VDDCORE
+	- 30 VDDIN
+	- 31 PA30
+	- 32 PA31
+## SAMC21E15A-MN
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA00
+	- 2 PA01
+	- 3 PA02
+	- 4 PA03
+	- 5 PA04
+	- 6 PA05
+	- 7 PA06
+	- 8 PA07
+	- 9 VDDANA
+	- 10 GNDIO
+	- 11 PA08
+	- 12 PA09
+	- 13 PA10
+	- 14 PA11
+	- 15 PA14
+	- 16 PA15
+	- 17 PA16
+	- 18 PA17
+	- 19 PA18
+	- 20 PA19
+	- 21 PA22
+	- 22 PA23
+	- 23 PA24
+	- 24 PA25
+	- 25 PA27
+	- 26 RESET_N
+	- 27 PA28
+	- 28 GNDIO
+	- 29 VDDCORE
+	- 30 VDDIN
+	- 31 PA30
+	- 32 PA31
+## SAMC21E15A-MU
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA00
+	- 2 PA01
+	- 3 PA02
+	- 4 PA03
+	- 5 PA04
+	- 6 PA05
+	- 7 PA06
+	- 8 PA07
+	- 9 VDDANA
+	- 10 GNDIO
+	- 11 PA08
+	- 12 PA09
+	- 13 PA10
+	- 14 PA11
+	- 15 PA14
+	- 16 PA15
+	- 17 PA16
+	- 18 PA17
+	- 19 PA18
+	- 20 PA19
+	- 21 PA22
+	- 22 PA23
+	- 23 PA24
+	- 24 PA25
+	- 25 PA27
+	- 26 RESET_N
+	- 27 PA28
+	- 28 GNDIO
+	- 29 VDDCORE
+	- 30 VDDIN
+	- 31 PA30
+	- 32 PA31
+## SAMC21E15A-MZ
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA00
+	- 2 PA01
+	- 3 PA02
+	- 4 PA03
+	- 5 PA04
+	- 6 PA05
+	- 7 PA06
+	- 8 PA07
+	- 9 VDDANA
+	- 10 GNDIO
+	- 11 PA08
+	- 12 PA09
+	- 13 PA10
+	- 14 PA11
+	- 15 PA14
+	- 16 PA15
+	- 17 PA16
+	- 18 PA17
+	- 19 PA18
+	- 20 PA19
+	- 21 PA22
+	- 22 PA23
+	- 23 PA24
+	- 24 PA25
+	- 25 PA27
+	- 26 RESET_N
+	- 27 PA28
+	- 28 GNDIO
+	- 29 VDDCORE
+	- 30 VDDIN
+	- 31 PA30
+	- 32 PA31
+## SAMC21E16A-AN
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA00
+	- 2 PA01
+	- 3 PA02
+	- 4 PA03
+	- 5 PA04
+	- 6 PA05
+	- 7 PA06
+	- 8 PA07
+	- 9 VDDANA
+	- 10 GNDIO
+	- 11 PA08
+	- 12 PA09
+	- 13 PA10
+	- 14 PA11
+	- 15 PA14
+	- 16 PA15
+	- 17 PA16
+	- 18 PA17
+	- 19 PA18
+	- 20 PA19
+	- 21 PA22
+	- 22 PA23
+	- 23 PA24
+	- 24 PA25
+	- 25 PA27
+	- 26 RESET_N
+	- 27 PA28
+	- 28 GNDIO
+	- 29 VDDCORE
+	- 30 VDDIN
+	- 31 PA30
+	- 32 PA31
+## SAMC21E16A-AU
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA00
+	- 2 PA01
+	- 3 PA02
+	- 4 PA03
+	- 5 PA04
+	- 6 PA05
+	- 7 PA06
+	- 8 PA07
+	- 9 VDDANA
+	- 10 GNDIO
+	- 11 PA08
+	- 12 PA09
+	- 13 PA10
+	- 14 PA11
+	- 15 PA14
+	- 16 PA15
+	- 17 PA16
+	- 18 PA17
+	- 19 PA18
+	- 20 PA19
+	- 21 PA22
+	- 22 PA23
+	- 23 PA24
+	- 24 PA25
+	- 25 PA27
+	- 26 RESET_N
+	- 27 PA28
+	- 28 GNDIO
+	- 29 VDDCORE
+	- 30 VDDIN
+	- 31 PA30
+	- 32 PA31
+## SAMC21E16A-AZ
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA00
+	- 2 PA01
+	- 3 PA02
+	- 4 PA03
+	- 5 PA04
+	- 6 PA05
+	- 7 PA06
+	- 8 PA07
+	- 9 VDDANA
+	- 10 GNDIO
+	- 11 PA08
+	- 12 PA09
+	- 13 PA10
+	- 14 PA11
+	- 15 PA14
+	- 16 PA15
+	- 17 PA16
+	- 18 PA17
+	- 19 PA18
+	- 20 PA19
+	- 21 PA22
+	- 22 PA23
+	- 23 PA24
+	- 24 PA25
+	- 25 PA27
+	- 26 RESET_N
+	- 27 PA28
+	- 28 GNDIO
+	- 29 VDDCORE
+	- 30 VDDIN
+	- 31 PA30
+	- 32 PA31
+## SAMC21E16A-MN
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA00
+	- 2 PA01
+	- 3 PA02
+	- 4 PA03
+	- 5 PA04
+	- 6 PA05
+	- 7 PA06
+	- 8 PA07
+	- 9 VDDANA
+	- 10 GNDIO
+	- 11 PA08
+	- 12 PA09
+	- 13 PA10
+	- 14 PA11
+	- 15 PA14
+	- 16 PA15
+	- 17 PA16
+	- 18 PA17
+	- 19 PA18
+	- 20 PA19
+	- 21 PA22
+	- 22 PA23
+	- 23 PA24
+	- 24 PA25
+	- 25 PA27
+	- 26 RESET_N
+	- 27 PA28
+	- 28 GNDIO
+	- 29 VDDCORE
+	- 30 VDDIN
+	- 31 PA30
+	- 32 PA31
+## SAMC21E16A-MU
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA00
+	- 2 PA01
+	- 3 PA02
+	- 4 PA03
+	- 5 PA04
+	- 6 PA05
+	- 7 PA06
+	- 8 PA07
+	- 9 VDDANA
+	- 10 GNDIO
+	- 11 PA08
+	- 12 PA09
+	- 13 PA10
+	- 14 PA11
+	- 15 PA14
+	- 16 PA15
+	- 17 PA16
+	- 18 PA17
+	- 19 PA18
+	- 20 PA19
+	- 21 PA22
+	- 22 PA23
+	- 23 PA24
+	- 24 PA25
+	- 25 PA27
+	- 26 RESET_N
+	- 27 PA28
+	- 28 GNDIO
+	- 29 VDDCORE
+	- 30 VDDIN
+	- 31 PA30
+	- 32 PA31
+## SAMC21E16A-MZ
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA00
+	- 2 PA01
+	- 3 PA02
+	- 4 PA03
+	- 5 PA04
+	- 6 PA05
+	- 7 PA06
+	- 8 PA07
+	- 9 VDDANA
+	- 10 GNDIO
+	- 11 PA08
+	- 12 PA09
+	- 13 PA10
+	- 14 PA11
+	- 15 PA14
+	- 16 PA15
+	- 17 PA16
+	- 18 PA17
+	- 19 PA18
+	- 20 PA19
+	- 21 PA22
+	- 22 PA23
+	- 23 PA24
+	- 24 PA25
+	- 25 PA27
+	- 26 RESET_N
+	- 27 PA28
+	- 28 GNDIO
+	- 29 VDDCORE
+	- 30 VDDIN
+	- 31 PA30
+	- 32 PA31
+## SAMC21E17A-AN
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA00
+	- 2 PA01
+	- 3 PA02
+	- 4 PA03
+	- 5 PA04
+	- 6 PA05
+	- 7 PA06
+	- 8 PA07
+	- 9 VDDANA
+	- 10 GNDIO
+	- 11 PA08
+	- 12 PA09
+	- 13 PA10
+	- 14 PA11
+	- 15 PA14
+	- 16 PA15
+	- 17 PA16
+	- 18 PA17
+	- 19 PA18
+	- 20 PA19
+	- 21 PA22
+	- 22 PA23
+	- 23 PA24
+	- 24 PA25
+	- 25 PA27
+	- 26 RESET_N
+	- 27 PA28
+	- 28 GNDIO
+	- 29 VDDCORE
+	- 30 VDDIN
+	- 31 PA30
+	- 32 PA31
+## SAMC21E17A-AU
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA00
+	- 2 PA01
+	- 3 PA02
+	- 4 PA03
+	- 5 PA04
+	- 6 PA05
+	- 7 PA06
+	- 8 PA07
+	- 9 VDDANA
+	- 10 GNDIO
+	- 11 PA08
+	- 12 PA09
+	- 13 PA10
+	- 14 PA11
+	- 15 PA14
+	- 16 PA15
+	- 17 PA16
+	- 18 PA17
+	- 19 PA18
+	- 20 PA19
+	- 21 PA22
+	- 22 PA23
+	- 23 PA24
+	- 24 PA25
+	- 25 PA27
+	- 26 RESET_N
+	- 27 PA28
+	- 28 GNDIO
+	- 29 VDDCORE
+	- 30 VDDIN
+	- 31 PA30
+	- 32 PA31
+## SAMC21E17A-AZ
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA00
+	- 2 PA01
+	- 3 PA02
+	- 4 PA03
+	- 5 PA04
+	- 6 PA05
+	- 7 PA06
+	- 8 PA07
+	- 9 VDDANA
+	- 10 GNDIO
+	- 11 PA08
+	- 12 PA09
+	- 13 PA10
+	- 14 PA11
+	- 15 PA14
+	- 16 PA15
+	- 17 PA16
+	- 18 PA17
+	- 19 PA18
+	- 20 PA19
+	- 21 PA22
+	- 22 PA23
+	- 23 PA24
+	- 24 PA25
+	- 25 PA27
+	- 26 RESET_N
+	- 27 PA28
+	- 28 GNDIO
+	- 29 VDDCORE
+	- 30 VDDIN
+	- 31 PA30
+	- 32 PA31
+## SAMC21E17A-MN
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA00
+	- 2 PA01
+	- 3 PA02
+	- 4 PA03
+	- 5 PA04
+	- 6 PA05
+	- 7 PA06
+	- 8 PA07
+	- 9 VDDANA
+	- 10 GNDIO
+	- 11 PA08
+	- 12 PA09
+	- 13 PA10
+	- 14 PA11
+	- 15 PA14
+	- 16 PA15
+	- 17 PA16
+	- 18 PA17
+	- 19 PA18
+	- 20 PA19
+	- 21 PA22
+	- 22 PA23
+	- 23 PA24
+	- 24 PA25
+	- 25 PA27
+	- 26 RESET_N
+	- 27 PA28
+	- 28 GNDIO
+	- 29 VDDCORE
+	- 30 VDDIN
+	- 31 PA30
+	- 32 PA31
+## SAMC21E17A-MU
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA00
+	- 2 PA01
+	- 3 PA02
+	- 4 PA03
+	- 5 PA04
+	- 6 PA05
+	- 7 PA06
+	- 8 PA07
+	- 9 VDDANA
+	- 10 GNDIO
+	- 11 PA08
+	- 12 PA09
+	- 13 PA10
+	- 14 PA11
+	- 15 PA14
+	- 16 PA15
+	- 17 PA16
+	- 18 PA17
+	- 19 PA18
+	- 20 PA19
+	- 21 PA22
+	- 22 PA23
+	- 23 PA24
+	- 24 PA25
+	- 25 PA27
+	- 26 RESET_N
+	- 27 PA28
+	- 28 GNDIO
+	- 29 VDDCORE
+	- 30 VDDIN
+	- 31 PA30
+	- 32 PA31
+## SAMC21E17A-MZ
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA00
+	- 2 PA01
+	- 3 PA02
+	- 4 PA03
+	- 5 PA04
+	- 6 PA05
+	- 7 PA06
+	- 8 PA07
+	- 9 VDDANA
+	- 10 GNDIO
+	- 11 PA08
+	- 12 PA09
+	- 13 PA10
+	- 14 PA11
+	- 15 PA14
+	- 16 PA15
+	- 17 PA16
+	- 18 PA17
+	- 19 PA18
+	- 20 PA19
+	- 21 PA22
+	- 22 PA23
+	- 23 PA24
+	- 24 PA25
+	- 25 PA27
+	- 26 RESET_N
+	- 27 PA28
+	- 28 GNDIO
+	- 29 VDDCORE
+	- 30 VDDIN
+	- 31 PA30
+	- 32 PA31
+## SAMC21E18A-AN
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA00
+	- 2 PA01
+	- 3 PA02
+	- 4 PA03
+	- 5 PA04
+	- 6 PA05
+	- 7 PA06
+	- 8 PA07
+	- 9 VDDANA
+	- 10 GNDIO
+	- 11 PA08
+	- 12 PA09
+	- 13 PA10
+	- 14 PA11
+	- 15 PA14
+	- 16 PA15
+	- 17 PA16
+	- 18 PA17
+	- 19 PA18
+	- 20 PA19
+	- 21 PA22
+	- 22 PA23
+	- 23 PA24
+	- 24 PA25
+	- 25 PA27
+	- 26 RESET_N
+	- 27 PA28
+	- 28 GNDIO
+	- 29 VDDCORE
+	- 30 VDDIN
+	- 31 PA30
+	- 32 PA31
+## SAMC21E18A-AU
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA00
+	- 2 PA01
+	- 3 PA02
+	- 4 PA03
+	- 5 PA04
+	- 6 PA05
+	- 7 PA06
+	- 8 PA07
+	- 9 VDDANA
+	- 10 GNDIO
+	- 11 PA08
+	- 12 PA09
+	- 13 PA10
+	- 14 PA11
+	- 15 PA14
+	- 16 PA15
+	- 17 PA16
+	- 18 PA17
+	- 19 PA18
+	- 20 PA19
+	- 21 PA22
+	- 22 PA23
+	- 23 PA24
+	- 24 PA25
+	- 25 PA27
+	- 26 RESET_N
+	- 27 PA28
+	- 28 GNDIO
+	- 29 VDDCORE
+	- 30 VDDIN
+	- 31 PA30
+	- 32 PA31
+## SAMC21E18A-AU64
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA00
+	- 2 PA01
+	- 3 PA02
+	- 4 PA03
+	- 5 PA04
+	- 6 PA05
+	- 7 PA06
+	- 8 PA07
+	- 9 VDDANA
+	- 10 GNDIO
+	- 11 PA08
+	- 12 PA09
+	- 13 PA10
+	- 14 PA11
+	- 15 PA14
+	- 16 PA15
+	- 17 PA16
+	- 18 PA17
+	- 19 PA18
+	- 20 PA19
+	- 21 PA22
+	- 22 PA23
+	- 23 PA24
+	- 24 PA25
+	- 25 PA27
+	- 26 RESET_N
+	- 27 PA28
+	- 28 GNDIO
+	- 29 VDDCORE
+	- 30 VDDIN
+	- 31 PA30
+	- 32 PA31
+## SAMC21E18A-AUT64
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA00
+	- 2 PA01
+	- 3 PA02
+	- 4 PA03
+	- 5 PA04
+	- 6 PA05
+	- 7 PA06
+	- 8 PA07
+	- 9 VDDANA
+	- 10 GNDIO
+	- 11 PA08
+	- 12 PA09
+	- 13 PA10
+	- 14 PA11
+	- 15 PA14
+	- 16 PA15
+	- 17 PA16
+	- 18 PA17
+	- 19 PA18
+	- 20 PA19
+	- 21 PA22
+	- 22 PA23
+	- 23 PA24
+	- 24 PA25
+	- 25 PA27
+	- 26 RESET_N
+	- 27 PA28
+	- 28 GNDIO
+	- 29 VDDCORE
+	- 30 VDDIN
+	- 31 PA30
+	- 32 PA31
+## SAMC21E18A-AZ
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA00
+	- 2 PA01
+	- 3 PA02
+	- 4 PA03
+	- 5 PA04
+	- 6 PA05
+	- 7 PA06
+	- 8 PA07
+	- 9 VDDANA
+	- 10 GNDIO
+	- 11 PA08
+	- 12 PA09
+	- 13 PA10
+	- 14 PA11
+	- 15 PA14
+	- 16 PA15
+	- 17 PA16
+	- 18 PA17
+	- 19 PA18
+	- 20 PA19
+	- 21 PA22
+	- 22 PA23
+	- 23 PA24
+	- 24 PA25
+	- 25 PA27
+	- 26 RESET_N
+	- 27 PA28
+	- 28 GNDIO
+	- 29 VDDCORE
+	- 30 VDDIN
+	- 31 PA30
+	- 32 PA31
+## SAMC21E18A-MN
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA00
+	- 2 PA01
+	- 3 PA02
+	- 4 PA03
+	- 5 PA04
+	- 6 PA05
+	- 7 PA06
+	- 8 PA07
+	- 9 VDDANA
+	- 10 GNDIO
+	- 11 PA08
+	- 12 PA09
+	- 13 PA10
+	- 14 PA11
+	- 15 PA14
+	- 16 PA15
+	- 17 PA16
+	- 18 PA17
+	- 19 PA18
+	- 20 PA19
+	- 21 PA22
+	- 22 PA23
+	- 23 PA24
+	- 24 PA25
+	- 25 PA27
+	- 26 RESET_N
+	- 27 PA28
+	- 28 GNDIO
+	- 29 VDDCORE
+	- 30 VDDIN
+	- 31 PA30
+	- 32 PA31
+## SAMC21E18A-MU
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA00
+	- 2 PA01
+	- 3 PA02
+	- 4 PA03
+	- 5 PA04
+	- 6 PA05
+	- 7 PA06
+	- 8 PA07
+	- 9 VDDANA
+	- 10 GNDIO
+	- 11 PA08
+	- 12 PA09
+	- 13 PA10
+	- 14 PA11
+	- 15 PA14
+	- 16 PA15
+	- 17 PA16
+	- 18 PA17
+	- 19 PA18
+	- 20 PA19
+	- 21 PA22
+	- 22 PA23
+	- 23 PA24
+	- 24 PA25
+	- 25 PA27
+	- 26 RESET_N
+	- 27 PA28
+	- 28 GNDIO
+	- 29 VDDCORE
+	- 30 VDDIN
+	- 31 PA30
+	- 32 PA31
+## SAMC21E18A-MU64
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA00
+	- 2 PA01
+	- 3 PA02
+	- 4 PA03
+	- 5 PA04
+	- 6 PA05
+	- 7 PA06
+	- 8 PA07
+	- 9 VDDANA
+	- 10 GNDIO
+	- 11 PA08
+	- 12 PA09
+	- 13 PA10
+	- 14 PA11
+	- 15 PA14
+	- 16 PA15
+	- 17 PA16
+	- 18 PA17
+	- 19 PA18
+	- 20 PA19
+	- 21 PA22
+	- 22 PA23
+	- 23 PA24
+	- 24 PA25
+	- 25 PA27
+	- 26 RESET_N
+	- 27 PA28
+	- 28 GNDIO
+	- 29 VDDCORE
+	- 30 VDDIN
+	- 31 PA30
+	- 32 PA31
+## SAMC21E18A-MUT64
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA00
+	- 2 PA01
+	- 3 PA02
+	- 4 PA03
+	- 5 PA04
+	- 6 PA05
+	- 7 PA06
+	- 8 PA07
+	- 9 VDDANA
+	- 10 GNDIO
+	- 11 PA08
+	- 12 PA09
+	- 13 PA10
+	- 14 PA11
+	- 15 PA14
+	- 16 PA15
+	- 17 PA16
+	- 18 PA17
+	- 19 PA18
+	- 20 PA19
+	- 21 PA22
+	- 22 PA23
+	- 23 PA24
+	- 24 PA25
+	- 25 PA27
+	- 26 RESET_N
+	- 27 PA28
+	- 28 GNDIO
+	- 29 VDDCORE
+	- 30 VDDIN
+	- 31 PA30
+	- 32 PA31
+## SAMC21E18A-MZ
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA00
+	- 2 PA01
+	- 3 PA02
+	- 4 PA03
+	- 5 PA04
+	- 6 PA05
+	- 7 PA06
+	- 8 PA07
+	- 9 VDDANA
+	- 10 GNDIO
+	- 11 PA08
+	- 12 PA09
+	- 13 PA10
+	- 14 PA11
+	- 15 PA14
+	- 16 PA15
+	- 17 PA16
+	- 18 PA17
+	- 19 PA18
+	- 20 PA19
+	- 21 PA22
+	- 22 PA23
+	- 23 PA24
+	- 24 PA25
+	- 25 PA27
+	- 26 RESET_N
+	- 27 PA28
+	- 28 GNDIO
+	- 29 VDDCORE
+	- 30 VDDIN
+	- 31 PA30
+	- 32 PA31
+## SAMC21G15A-AN
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA00
+	- 2 PA01
+	- 3 PA02
+	- 4 PA03
+	- 5 GNDANA
+	- 6 VDDANA
+	- 7 PB08
+	- 8 PB09
+	- 9 PA04
+	- 10 PA05
+	- 11 PA06
+	- 12 PA07
+	- 13 PA08
+	- 14 PA09
+	- 15 PA10
+	- 16 PA11
+	- 17 VDDIO
+	- 18 GNDIO
+	- 19 PB10
+	- 20 PB11
+	- 21 PA12
+	- 22 PA13
+	- 23 PA14
+	- 24 PA15
+	- 25 PA16
+	- 26 PA17
+	- 27 PA18
+	- 28 PA19
+	- 29 PA20
+	- 30 PA21
+	- 31 PA22
+	- 32 PA23
+	- 33 PA24
+	- 34 PA25
+	- 35 GNDIO
+	- 36 VDDIO
+	- 37 PB22
+	- 38 PB23
+	- 39 PA27
+	- 40 RESET_N
+	- 41 PA28
+	- 42 GNDIO
+	- 43 VDDCORE
+	- 44 VDDIN
+	- 45 PA30
+	- 46 PA31
+	- 47 PB02
+	- 48 PB03
+## SAMC21G15A-AU
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA00
+	- 2 PA01
+	- 3 PA02
+	- 4 PA03
+	- 5 GNDANA
+	- 6 VDDANA
+	- 7 PB08
+	- 8 PB09
+	- 9 PA04
+	- 10 PA05
+	- 11 PA06
+	- 12 PA07
+	- 13 PA08
+	- 14 PA09
+	- 15 PA10
+	- 16 PA11
+	- 17 VDDIO
+	- 18 GNDIO
+	- 19 PB10
+	- 20 PB11
+	- 21 PA12
+	- 22 PA13
+	- 23 PA14
+	- 24 PA15
+	- 25 PA16
+	- 26 PA17
+	- 27 PA18
+	- 28 PA19
+	- 29 PA20
+	- 30 PA21
+	- 31 PA22
+	- 32 PA23
+	- 33 PA24
+	- 34 PA25
+	- 35 GNDIO
+	- 36 VDDIO
+	- 37 PB22
+	- 38 PB23
+	- 39 PA27
+	- 40 RESET_N
+	- 41 PA28
+	- 42 GNDIO
+	- 43 VDDCORE
+	- 44 VDDIN
+	- 45 PA30
+	- 46 PA31
+	- 47 PB02
+	- 48 PB03
+## SAMC21G15A-AZ
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA00
+	- 2 PA01
+	- 3 PA02
+	- 4 PA03
+	- 5 GNDANA
+	- 6 VDDANA
+	- 7 PB08
+	- 8 PB09
+	- 9 PA04
+	- 10 PA05
+	- 11 PA06
+	- 12 PA07
+	- 13 PA08
+	- 14 PA09
+	- 15 PA10
+	- 16 PA11
+	- 17 VDDIO
+	- 18 GNDIO
+	- 19 PB10
+	- 20 PB11
+	- 21 PA12
+	- 22 PA13
+	- 23 PA14
+	- 24 PA15
+	- 25 PA16
+	- 26 PA17
+	- 27 PA18
+	- 28 PA19
+	- 29 PA20
+	- 30 PA21
+	- 31 PA22
+	- 32 PA23
+	- 33 PA24
+	- 34 PA25
+	- 35 GNDIO
+	- 36 VDDIO
+	- 37 PB22
+	- 38 PB23
+	- 39 PA27
+	- 40 RESET_N
+	- 41 PA28
+	- 42 GNDIO
+	- 43 VDDCORE
+	- 44 VDDIN
+	- 45 PA30
+	- 46 PA31
+	- 47 PB02
+	- 48 PB03
+## SAMC21G15A-MN
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA00
+	- 2 PA01
+	- 3 PA02
+	- 4 PA03
+	- 5 GNDANA
+	- 6 VDDANA
+	- 7 PB08
+	- 8 PB09
+	- 9 PA04
+	- 10 PA05
+	- 11 PA06
+	- 12 PA07
+	- 13 PA08
+	- 14 PA09
+	- 15 PA10
+	- 16 PA11
+	- 17 VDDIO
+	- 18 GNDIO
+	- 19 PB10
+	- 20 PB11
+	- 21 PA12
+	- 22 PA13
+	- 23 PA14
+	- 24 PA15
+	- 25 PA16
+	- 26 PA17
+	- 27 PA18
+	- 28 PA19
+	- 29 PA20
+	- 30 PA21
+	- 31 PA22
+	- 32 PA23
+	- 33 PA24
+	- 34 PA25
+	- 35 GNDIO
+	- 36 VDDIO
+	- 37 PB22
+	- 38 PB23
+	- 39 PA27
+	- 40 RESET_N
+	- 41 PA28
+	- 42 GNDIO
+	- 43 VDDCORE
+	- 44 VDDIN
+	- 45 PA30
+	- 46 PA31
+	- 47 PB02
+	- 48 PB03
+## SAMC21G15A-MU
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA00
+	- 2 PA01
+	- 3 PA02
+	- 4 PA03
+	- 5 GNDANA
+	- 6 VDDANA
+	- 7 PB08
+	- 8 PB09
+	- 9 PA04
+	- 10 PA05
+	- 11 PA06
+	- 12 PA07
+	- 13 PA08
+	- 14 PA09
+	- 15 PA10
+	- 16 PA11
+	- 17 VDDIO
+	- 18 GNDIO
+	- 19 PB10
+	- 20 PB11
+	- 21 PA12
+	- 22 PA13
+	- 23 PA14
+	- 24 PA15
+	- 25 PA16
+	- 26 PA17
+	- 27 PA18
+	- 28 PA19
+	- 29 PA20
+	- 30 PA21
+	- 31 PA22
+	- 32 PA23
+	- 33 PA24
+	- 34 PA25
+	- 35 GNDIO
+	- 36 VDDIO
+	- 37 PB22
+	- 38 PB23
+	- 39 PA27
+	- 40 RESET_N
+	- 41 PA28
+	- 42 GNDIO
+	- 43 VDDCORE
+	- 44 VDDIN
+	- 45 PA30
+	- 46 PA31
+	- 47 PB02
+	- 48 PB03
+## SAMC21G15A-MZ
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA00
+	- 2 PA01
+	- 3 PA02
+	- 4 PA03
+	- 5 GNDANA
+	- 6 VDDANA
+	- 7 PB08
+	- 8 PB09
+	- 9 PA04
+	- 10 PA05
+	- 11 PA06
+	- 12 PA07
+	- 13 PA08
+	- 14 PA09
+	- 15 PA10
+	- 16 PA11
+	- 17 VDDIO
+	- 18 GNDIO
+	- 19 PB10
+	- 20 PB11
+	- 21 PA12
+	- 22 PA13
+	- 23 PA14
+	- 24 PA15
+	- 25 PA16
+	- 26 PA17
+	- 27 PA18
+	- 28 PA19
+	- 29 PA20
+	- 30 PA21
+	- 31 PA22
+	- 32 PA23
+	- 33 PA24
+	- 34 PA25
+	- 35 GNDIO
+	- 36 VDDIO
+	- 37 PB22
+	- 38 PB23
+	- 39 PA27
+	- 40 RESET_N
+	- 41 PA28
+	- 42 GNDIO
+	- 43 VDDCORE
+	- 44 VDDIN
+	- 45 PA30
+	- 46 PA31
+	- 47 PB02
+	- 48 PB03
+## SAMC21G16A-AN
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA00
+	- 2 PA01
+	- 3 PA02
+	- 4 PA03
+	- 5 GNDANA
+	- 6 VDDANA
+	- 7 PB08
+	- 8 PB09
+	- 9 PA04
+	- 10 PA05
+	- 11 PA06
+	- 12 PA07
+	- 13 PA08
+	- 14 PA09
+	- 15 PA10
+	- 16 PA11
+	- 17 VDDIO
+	- 18 GNDIO
+	- 19 PB10
+	- 20 PB11
+	- 21 PA12
+	- 22 PA13
+	- 23 PA14
+	- 24 PA15
+	- 25 PA16
+	- 26 PA17
+	- 27 PA18
+	- 28 PA19
+	- 29 PA20
+	- 30 PA21
+	- 31 PA22
+	- 32 PA23
+	- 33 PA24
+	- 34 PA25
+	- 35 GNDIO
+	- 36 VDDIO
+	- 37 PB22
+	- 38 PB23
+	- 39 PA27
+	- 40 RESET_N
+	- 41 PA28
+	- 42 GNDIO
+	- 43 VDDCORE
+	- 44 VDDIN
+	- 45 PA30
+	- 46 PA31
+	- 47 PB02
+	- 48 PB03
+## SAMC21G16A-AU
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA00
+	- 2 PA01
+	- 3 PA02
+	- 4 PA03
+	- 5 GNDANA
+	- 6 VDDANA
+	- 7 PB08
+	- 8 PB09
+	- 9 PA04
+	- 10 PA05
+	- 11 PA06
+	- 12 PA07
+	- 13 PA08
+	- 14 PA09
+	- 15 PA10
+	- 16 PA11
+	- 17 VDDIO
+	- 18 GNDIO
+	- 19 PB10
+	- 20 PB11
+	- 21 PA12
+	- 22 PA13
+	- 23 PA14
+	- 24 PA15
+	- 25 PA16
+	- 26 PA17
+	- 27 PA18
+	- 28 PA19
+	- 29 PA20
+	- 30 PA21
+	- 31 PA22
+	- 32 PA23
+	- 33 PA24
+	- 34 PA25
+	- 35 GNDIO
+	- 36 VDDIO
+	- 37 PB22
+	- 38 PB23
+	- 39 PA27
+	- 40 RESET_N
+	- 41 PA28
+	- 42 GNDIO
+	- 43 VDDCORE
+	- 44 VDDIN
+	- 45 PA30
+	- 46 PA31
+	- 47 PB02
+	- 48 PB03
+## SAMC21G16A-AZ
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA00
+	- 2 PA01
+	- 3 PA02
+	- 4 PA03
+	- 5 GNDANA
+	- 6 VDDANA
+	- 7 PB08
+	- 8 PB09
+	- 9 PA04
+	- 10 PA05
+	- 11 PA06
+	- 12 PA07
+	- 13 PA08
+	- 14 PA09
+	- 15 PA10
+	- 16 PA11
+	- 17 VDDIO
+	- 18 GNDIO
+	- 19 PB10
+	- 20 PB11
+	- 21 PA12
+	- 22 PA13
+	- 23 PA14
+	- 24 PA15
+	- 25 PA16
+	- 26 PA17
+	- 27 PA18
+	- 28 PA19
+	- 29 PA20
+	- 30 PA21
+	- 31 PA22
+	- 32 PA23
+	- 33 PA24
+	- 34 PA25
+	- 35 GNDIO
+	- 36 VDDIO
+	- 37 PB22
+	- 38 PB23
+	- 39 PA27
+	- 40 RESET_N
+	- 41 PA28
+	- 42 GNDIO
+	- 43 VDDCORE
+	- 44 VDDIN
+	- 45 PA30
+	- 46 PA31
+	- 47 PB02
+	- 48 PB03
+## SAMC21G16A-MN
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA00
+	- 2 PA01
+	- 3 PA02
+	- 4 PA03
+	- 5 GNDANA
+	- 6 VDDANA
+	- 7 PB08
+	- 8 PB09
+	- 9 PA04
+	- 10 PA05
+	- 11 PA06
+	- 12 PA07
+	- 13 PA08
+	- 14 PA09
+	- 15 PA10
+	- 16 PA11
+	- 17 VDDIO
+	- 18 GNDIO
+	- 19 PB10
+	- 20 PB11
+	- 21 PA12
+	- 22 PA13
+	- 23 PA14
+	- 24 PA15
+	- 25 PA16
+	- 26 PA17
+	- 27 PA18
+	- 28 PA19
+	- 29 PA20
+	- 30 PA21
+	- 31 PA22
+	- 32 PA23
+	- 33 PA24
+	- 34 PA25
+	- 35 GNDIO
+	- 36 VDDIO
+	- 37 PB22
+	- 38 PB23
+	- 39 PA27
+	- 40 RESET_N
+	- 41 PA28
+	- 42 GNDIO
+	- 43 VDDCORE
+	- 44 VDDIN
+	- 45 PA30
+	- 46 PA31
+	- 47 PB02
+	- 48 PB03
+## SAMC21G16A-MU
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA00
+	- 2 PA01
+	- 3 PA02
+	- 4 PA03
+	- 5 GNDANA
+	- 6 VDDANA
+	- 7 PB08
+	- 8 PB09
+	- 9 PA04
+	- 10 PA05
+	- 11 PA06
+	- 12 PA07
+	- 13 PA08
+	- 14 PA09
+	- 15 PA10
+	- 16 PA11
+	- 17 VDDIO
+	- 18 GNDIO
+	- 19 PB10
+	- 20 PB11
+	- 21 PA12
+	- 22 PA13
+	- 23 PA14
+	- 24 PA15
+	- 25 PA16
+	- 26 PA17
+	- 27 PA18
+	- 28 PA19
+	- 29 PA20
+	- 30 PA21
+	- 31 PA22
+	- 32 PA23
+	- 33 PA24
+	- 34 PA25
+	- 35 GNDIO
+	- 36 VDDIO
+	- 37 PB22
+	- 38 PB23
+	- 39 PA27
+	- 40 RESET_N
+	- 41 PA28
+	- 42 GNDIO
+	- 43 VDDCORE
+	- 44 VDDIN
+	- 45 PA30
+	- 46 PA31
+	- 47 PB02
+	- 48 PB03
+## SAMC21G16A-MZ
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA00
+	- 2 PA01
+	- 3 PA02
+	- 4 PA03
+	- 5 GNDANA
+	- 6 VDDANA
+	- 7 PB08
+	- 8 PB09
+	- 9 PA04
+	- 10 PA05
+	- 11 PA06
+	- 12 PA07
+	- 13 PA08
+	- 14 PA09
+	- 15 PA10
+	- 16 PA11
+	- 17 VDDIO
+	- 18 GNDIO
+	- 19 PB10
+	- 20 PB11
+	- 21 PA12
+	- 22 PA13
+	- 23 PA14
+	- 24 PA15
+	- 25 PA16
+	- 26 PA17
+	- 27 PA18
+	- 28 PA19
+	- 29 PA20
+	- 30 PA21
+	- 31 PA22
+	- 32 PA23
+	- 33 PA24
+	- 34 PA25
+	- 35 GNDIO
+	- 36 VDDIO
+	- 37 PB22
+	- 38 PB23
+	- 39 PA27
+	- 40 RESET_N
+	- 41 PA28
+	- 42 GNDIO
+	- 43 VDDCORE
+	- 44 VDDIN
+	- 45 PA30
+	- 46 PA31
+	- 47 PB02
+	- 48 PB03
+## SAMC21G17A-AN
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA00
+	- 2 PA01
+	- 3 PA02
+	- 4 PA03
+	- 5 GNDANA
+	- 6 VDDANA
+	- 7 PB08
+	- 8 PB09
+	- 9 PA04
+	- 10 PA05
+	- 11 PA06
+	- 12 PA07
+	- 13 PA08
+	- 14 PA09
+	- 15 PA10
+	- 16 PA11
+	- 17 VDDIO
+	- 18 GNDIO
+	- 19 PB10
+	- 20 PB11
+	- 21 PA12
+	- 22 PA13
+	- 23 PA14
+	- 24 PA15
+	- 25 PA16
+	- 26 PA17
+	- 27 PA18
+	- 28 PA19
+	- 29 PA20
+	- 30 PA21
+	- 31 PA22
+	- 32 PA23
+	- 33 PA24
+	- 34 PA25
+	- 35 GNDIO
+	- 36 VDDIO
+	- 37 PB22
+	- 38 PB23
+	- 39 PA27
+	- 40 RESET_N
+	- 41 PA28
+	- 42 GNDIO
+	- 43 VDDCORE
+	- 44 VDDIN
+	- 45 PA30
+	- 46 PA31
+	- 47 PB02
+	- 48 PB03
+## SAMC21G17A-AU
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA00
+	- 2 PA01
+	- 3 PA02
+	- 4 PA03
+	- 5 GNDANA
+	- 6 VDDANA
+	- 7 PB08
+	- 8 PB09
+	- 9 PA04
+	- 10 PA05
+	- 11 PA06
+	- 12 PA07
+	- 13 PA08
+	- 14 PA09
+	- 15 PA10
+	- 16 PA11
+	- 17 VDDIO
+	- 18 GNDIO
+	- 19 PB10
+	- 20 PB11
+	- 21 PA12
+	- 22 PA13
+	- 23 PA14
+	- 24 PA15
+	- 25 PA16
+	- 26 PA17
+	- 27 PA18
+	- 28 PA19
+	- 29 PA20
+	- 30 PA21
+	- 31 PA22
+	- 32 PA23
+	- 33 PA24
+	- 34 PA25
+	- 35 GNDIO
+	- 36 VDDIO
+	- 37 PB22
+	- 38 PB23
+	- 39 PA27
+	- 40 RESET_N
+	- 41 PA28
+	- 42 GNDIO
+	- 43 VDDCORE
+	- 44 VDDIN
+	- 45 PA30
+	- 46 PA31
+	- 47 PB02
+	- 48 PB03
+## SAMC21G17A-AZ
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA00
+	- 2 PA01
+	- 3 PA02
+	- 4 PA03
+	- 5 GNDANA
+	- 6 VDDANA
+	- 7 PB08
+	- 8 PB09
+	- 9 PA04
+	- 10 PA05
+	- 11 PA06
+	- 12 PA07
+	- 13 PA08
+	- 14 PA09
+	- 15 PA10
+	- 16 PA11
+	- 17 VDDIO
+	- 18 GNDIO
+	- 19 PB10
+	- 20 PB11
+	- 21 PA12
+	- 22 PA13
+	- 23 PA14
+	- 24 PA15
+	- 25 PA16
+	- 26 PA17
+	- 27 PA18
+	- 28 PA19
+	- 29 PA20
+	- 30 PA21
+	- 31 PA22
+	- 32 PA23
+	- 33 PA24
+	- 34 PA25
+	- 35 GNDIO
+	- 36 VDDIO
+	- 37 PB22
+	- 38 PB23
+	- 39 PA27
+	- 40 RESET_N
+	- 41 PA28
+	- 42 GNDIO
+	- 43 VDDCORE
+	- 44 VDDIN
+	- 45 PA30
+	- 46 PA31
+	- 47 PB02
+	- 48 PB03
+## SAMC21G17A-MN
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA00
+	- 2 PA01
+	- 3 PA02
+	- 4 PA03
+	- 5 GNDANA
+	- 6 VDDANA
+	- 7 PB08
+	- 8 PB09
+	- 9 PA04
+	- 10 PA05
+	- 11 PA06
+	- 12 PA07
+	- 13 PA08
+	- 14 PA09
+	- 15 PA10
+	- 16 PA11
+	- 17 VDDIO
+	- 18 GNDIO
+	- 19 PB10
+	- 20 PB11
+	- 21 PA12
+	- 22 PA13
+	- 23 PA14
+	- 24 PA15
+	- 25 PA16
+	- 26 PA17
+	- 27 PA18
+	- 28 PA19
+	- 29 PA20
+	- 30 PA21
+	- 31 PA22
+	- 32 PA23
+	- 33 PA24
+	- 34 PA25
+	- 35 GNDIO
+	- 36 VDDIO
+	- 37 PB22
+	- 38 PB23
+	- 39 PA27
+	- 40 RESET_N
+	- 41 PA28
+	- 42 GNDIO
+	- 43 VDDCORE
+	- 44 VDDIN
+	- 45 PA30
+	- 46 PA31
+	- 47 PB02
+	- 48 PB03
+## SAMC21G17A-MU
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA00
+	- 2 PA01
+	- 3 PA02
+	- 4 PA03
+	- 5 GNDANA
+	- 6 VDDANA
+	- 7 PB08
+	- 8 PB09
+	- 9 PA04
+	- 10 PA05
+	- 11 PA06
+	- 12 PA07
+	- 13 PA08
+	- 14 PA09
+	- 15 PA10
+	- 16 PA11
+	- 17 VDDIO
+	- 18 GNDIO
+	- 19 PB10
+	- 20 PB11
+	- 21 PA12
+	- 22 PA13
+	- 23 PA14
+	- 24 PA15
+	- 25 PA16
+	- 26 PA17
+	- 27 PA18
+	- 28 PA19
+	- 29 PA20
+	- 30 PA21
+	- 31 PA22
+	- 32 PA23
+	- 33 PA24
+	- 34 PA25
+	- 35 GNDIO
+	- 36 VDDIO
+	- 37 PB22
+	- 38 PB23
+	- 39 PA27
+	- 40 RESET_N
+	- 41 PA28
+	- 42 GNDIO
+	- 43 VDDCORE
+	- 44 VDDIN
+	- 45 PA30
+	- 46 PA31
+	- 47 PB02
+	- 48 PB03
+## SAMC21G17A-MZ
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA00
+	- 2 PA01
+	- 3 PA02
+	- 4 PA03
+	- 5 GNDANA
+	- 6 VDDANA
+	- 7 PB08
+	- 8 PB09
+	- 9 PA04
+	- 10 PA05
+	- 11 PA06
+	- 12 PA07
+	- 13 PA08
+	- 14 PA09
+	- 15 PA10
+	- 16 PA11
+	- 17 VDDIO
+	- 18 GNDIO
+	- 19 PB10
+	- 20 PB11
+	- 21 PA12
+	- 22 PA13
+	- 23 PA14
+	- 24 PA15
+	- 25 PA16
+	- 26 PA17
+	- 27 PA18
+	- 28 PA19
+	- 29 PA20
+	- 30 PA21
+	- 31 PA22
+	- 32 PA23
+	- 33 PA24
+	- 34 PA25
+	- 35 GNDIO
+	- 36 VDDIO
+	- 37 PB22
+	- 38 PB23
+	- 39 PA27
+	- 40 RESET_N
+	- 41 PA28
+	- 42 GNDIO
+	- 43 VDDCORE
+	- 44 VDDIN
+	- 45 PA30
+	- 46 PA31
+	- 47 PB02
+	- 48 PB03
+## SAMC21G18A-AN
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA00
+	- 2 PA01
+	- 3 PA02
+	- 4 PA03
+	- 5 GNDANA
+	- 6 VDDANA
+	- 7 PB08
+	- 8 PB09
+	- 9 PA04
+	- 10 PA05
+	- 11 PA06
+	- 12 PA07
+	- 13 PA08
+	- 14 PA09
+	- 15 PA10
+	- 16 PA11
+	- 17 VDDIO
+	- 18 GNDIO
+	- 19 PB10
+	- 20 PB11
+	- 21 PA12
+	- 22 PA13
+	- 23 PA14
+	- 24 PA15
+	- 25 PA16
+	- 26 PA17
+	- 27 PA18
+	- 28 PA19
+	- 29 PA20
+	- 30 PA21
+	- 31 PA22
+	- 32 PA23
+	- 33 PA24
+	- 34 PA25
+	- 35 GNDIO
+	- 36 VDDIO
+	- 37 PB22
+	- 38 PB23
+	- 39 PA27
+	- 40 RESET_N
+	- 41 PA28
+	- 42 GNDIO
+	- 43 VDDCORE
+	- 44 VDDIN
+	- 45 PA30
+	- 46 PA31
+	- 47 PB02
+	- 48 PB03
+## SAMC21G18A-AU
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA00
+	- 2 PA01
+	- 3 PA02
+	- 4 PA03
+	- 5 GNDANA
+	- 6 VDDANA
+	- 7 PB08
+	- 8 PB09
+	- 9 PA04
+	- 10 PA05
+	- 11 PA06
+	- 12 PA07
+	- 13 PA08
+	- 14 PA09
+	- 15 PA10
+	- 16 PA11
+	- 17 VDDIO
+	- 18 GNDIO
+	- 19 PB10
+	- 20 PB11
+	- 21 PA12
+	- 22 PA13
+	- 23 PA14
+	- 24 PA15
+	- 25 PA16
+	- 26 PA17
+	- 27 PA18
+	- 28 PA19
+	- 29 PA20
+	- 30 PA21
+	- 31 PA22
+	- 32 PA23
+	- 33 PA24
+	- 34 PA25
+	- 35 GNDIO
+	- 36 VDDIO
+	- 37 PB22
+	- 38 PB23
+	- 39 PA27
+	- 40 RESET_N
+	- 41 PA28
+	- 42 GNDIO
+	- 43 VDDCORE
+	- 44 VDDIN
+	- 45 PA30
+	- 46 PA31
+	- 47 PB02
+	- 48 PB03
+## SAMC21G18A-AU64
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA00
+	- 2 PA01
+	- 3 PA02
+	- 4 PA03
+	- 5 GNDANA
+	- 6 VDDANA
+	- 7 PB08
+	- 8 PB09
+	- 9 PA04
+	- 10 PA05
+	- 11 PA06
+	- 12 PA07
+	- 13 PA08
+	- 14 PA09
+	- 15 PA10
+	- 16 PA11
+	- 17 VDDIO
+	- 18 GNDIO
+	- 19 PB10
+	- 20 PB11
+	- 21 PA12
+	- 22 PA13
+	- 23 PA14
+	- 24 PA15
+	- 25 PA16
+	- 26 PA17
+	- 27 PA18
+	- 28 PA19
+	- 29 PA20
+	- 30 PA21
+	- 31 PA22
+	- 32 PA23
+	- 33 PA24
+	- 34 PA25
+	- 35 GNDIO
+	- 36 VDDIO
+	- 37 PB22
+	- 38 PB23
+	- 39 PA27
+	- 40 RESET_N
+	- 41 PA28
+	- 42 GNDIO
+	- 43 VDDCORE
+	- 44 VDDIN
+	- 45 PA30
+	- 46 PA31
+	- 47 PB02
+	- 48 PB03
+## SAMC21G18A-AUT64
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA00
+	- 2 PA01
+	- 3 PA02
+	- 4 PA03
+	- 5 GNDANA
+	- 6 VDDANA
+	- 7 PB08
+	- 8 PB09
+	- 9 PA04
+	- 10 PA05
+	- 11 PA06
+	- 12 PA07
+	- 13 PA08
+	- 14 PA09
+	- 15 PA10
+	- 16 PA11
+	- 17 VDDIO
+	- 18 GNDIO
+	- 19 PB10
+	- 20 PB11
+	- 21 PA12
+	- 22 PA13
+	- 23 PA14
+	- 24 PA15
+	- 25 PA16
+	- 26 PA17
+	- 27 PA18
+	- 28 PA19
+	- 29 PA20
+	- 30 PA21
+	- 31 PA22
+	- 32 PA23
+	- 33 PA24
+	- 34 PA25
+	- 35 GNDIO
+	- 36 VDDIO
+	- 37 PB22
+	- 38 PB23
+	- 39 PA27
+	- 40 RESET_N
+	- 41 PA28
+	- 42 GNDIO
+	- 43 VDDCORE
+	- 44 VDDIN
+	- 45 PA30
+	- 46 PA31
+	- 47 PB02
+	- 48 PB03
+## SAMC21G18A-AZ
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA00
+	- 2 PA01
+	- 3 PA02
+	- 4 PA03
+	- 5 GNDANA
+	- 6 VDDANA
+	- 7 PB08
+	- 8 PB09
+	- 9 PA04
+	- 10 PA05
+	- 11 PA06
+	- 12 PA07
+	- 13 PA08
+	- 14 PA09
+	- 15 PA10
+	- 16 PA11
+	- 17 VDDIO
+	- 18 GNDIO
+	- 19 PB10
+	- 20 PB11
+	- 21 PA12
+	- 22 PA13
+	- 23 PA14
+	- 24 PA15
+	- 25 PA16
+	- 26 PA17
+	- 27 PA18
+	- 28 PA19
+	- 29 PA20
+	- 30 PA21
+	- 31 PA22
+	- 32 PA23
+	- 33 PA24
+	- 34 PA25
+	- 35 GNDIO
+	- 36 VDDIO
+	- 37 PB22
+	- 38 PB23
+	- 39 PA27
+	- 40 RESET_N
+	- 41 PA28
+	- 42 GNDIO
+	- 43 VDDCORE
+	- 44 VDDIN
+	- 45 PA30
+	- 46 PA31
+	- 47 PB02
+	- 48 PB03
+## SAMC21G18A-MN
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA00
+	- 2 PA01
+	- 3 PA02
+	- 4 PA03
+	- 5 GNDANA
+	- 6 VDDANA
+	- 7 PB08
+	- 8 PB09
+	- 9 PA04
+	- 10 PA05
+	- 11 PA06
+	- 12 PA07
+	- 13 PA08
+	- 14 PA09
+	- 15 PA10
+	- 16 PA11
+	- 17 VDDIO
+	- 18 GNDIO
+	- 19 PB10
+	- 20 PB11
+	- 21 PA12
+	- 22 PA13
+	- 23 PA14
+	- 24 PA15
+	- 25 PA16
+	- 26 PA17
+	- 27 PA18
+	- 28 PA19
+	- 29 PA20
+	- 30 PA21
+	- 31 PA22
+	- 32 PA23
+	- 33 PA24
+	- 34 PA25
+	- 35 GNDIO
+	- 36 VDDIO
+	- 37 PB22
+	- 38 PB23
+	- 39 PA27
+	- 40 RESET_N
+	- 41 PA28
+	- 42 GNDIO
+	- 43 VDDCORE
+	- 44 VDDIN
+	- 45 PA30
+	- 46 PA31
+	- 47 PB02
+	- 48 PB03
+## SAMC21G18A-MU
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA00
+	- 2 PA01
+	- 3 PA02
+	- 4 PA03
+	- 5 GNDANA
+	- 6 VDDANA
+	- 7 PB08
+	- 8 PB09
+	- 9 PA04
+	- 10 PA05
+	- 11 PA06
+	- 12 PA07
+	- 13 PA08
+	- 14 PA09
+	- 15 PA10
+	- 16 PA11
+	- 17 VDDIO
+	- 18 GNDIO
+	- 19 PB10
+	- 20 PB11
+	- 21 PA12
+	- 22 PA13
+	- 23 PA14
+	- 24 PA15
+	- 25 PA16
+	- 26 PA17
+	- 27 PA18
+	- 28 PA19
+	- 29 PA20
+	- 30 PA21
+	- 31 PA22
+	- 32 PA23
+	- 33 PA24
+	- 34 PA25
+	- 35 GNDIO
+	- 36 VDDIO
+	- 37 PB22
+	- 38 PB23
+	- 39 PA27
+	- 40 RESET_N
+	- 41 PA28
+	- 42 GNDIO
+	- 43 VDDCORE
+	- 44 VDDIN
+	- 45 PA30
+	- 46 PA31
+	- 47 PB02
+	- 48 PB03
+## SAMC21G18A-MU64
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA00
+	- 2 PA01
+	- 3 PA02
+	- 4 PA03
+	- 5 GNDANA
+	- 6 VDDANA
+	- 7 PB08
+	- 8 PB09
+	- 9 PA04
+	- 10 PA05
+	- 11 PA06
+	- 12 PA07
+	- 13 PA08
+	- 14 PA09
+	- 15 PA10
+	- 16 PA11
+	- 17 VDDIO
+	- 18 GNDIO
+	- 19 PB10
+	- 20 PB11
+	- 21 PA12
+	- 22 PA13
+	- 23 PA14
+	- 24 PA15
+	- 25 PA16
+	- 26 PA17
+	- 27 PA18
+	- 28 PA19
+	- 29 PA20
+	- 30 PA21
+	- 31 PA22
+	- 32 PA23
+	- 33 PA24
+	- 34 PA25
+	- 35 GNDIO
+	- 36 VDDIO
+	- 37 PB22
+	- 38 PB23
+	- 39 PA27
+	- 40 RESET_N
+	- 41 PA28
+	- 42 GNDIO
+	- 43 VDDCORE
+	- 44 VDDIN
+	- 45 PA30
+	- 46 PA31
+	- 47 PB02
+	- 48 PB03
+## SAMC21G18A-MUT64
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA00
+	- 2 PA01
+	- 3 PA02
+	- 4 PA03
+	- 5 GNDANA
+	- 6 VDDANA
+	- 7 PB08
+	- 8 PB09
+	- 9 PA04
+	- 10 PA05
+	- 11 PA06
+	- 12 PA07
+	- 13 PA08
+	- 14 PA09
+	- 15 PA10
+	- 16 PA11
+	- 17 VDDIO
+	- 18 GNDIO
+	- 19 PB10
+	- 20 PB11
+	- 21 PA12
+	- 22 PA13
+	- 23 PA14
+	- 24 PA15
+	- 25 PA16
+	- 26 PA17
+	- 27 PA18
+	- 28 PA19
+	- 29 PA20
+	- 30 PA21
+	- 31 PA22
+	- 32 PA23
+	- 33 PA24
+	- 34 PA25
+	- 35 GNDIO
+	- 36 VDDIO
+	- 37 PB22
+	- 38 PB23
+	- 39 PA27
+	- 40 RESET_N
+	- 41 PA28
+	- 42 GNDIO
+	- 43 VDDCORE
+	- 44 VDDIN
+	- 45 PA30
+	- 46 PA31
+	- 47 PB02
+	- 48 PB03
+## SAMC21G18A-MZ
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA00
+	- 2 PA01
+	- 3 PA02
+	- 4 PA03
+	- 5 GNDANA
+	- 6 VDDANA
+	- 7 PB08
+	- 8 PB09
+	- 9 PA04
+	- 10 PA05
+	- 11 PA06
+	- 12 PA07
+	- 13 PA08
+	- 14 PA09
+	- 15 PA10
+	- 16 PA11
+	- 17 VDDIO
+	- 18 GNDIO
+	- 19 PB10
+	- 20 PB11
+	- 21 PA12
+	- 22 PA13
+	- 23 PA14
+	- 24 PA15
+	- 25 PA16
+	- 26 PA17
+	- 27 PA18
+	- 28 PA19
+	- 29 PA20
+	- 30 PA21
+	- 31 PA22
+	- 32 PA23
+	- 33 PA24
+	- 34 PA25
+	- 35 GNDIO
+	- 36 VDDIO
+	- 37 PB22
+	- 38 PB23
+	- 39 PA27
+	- 40 RESET_N
+	- 41 PA28
+	- 42 GNDIO
+	- 43 VDDCORE
+	- 44 VDDIN
+	- 45 PA30
+	- 46 PA31
+	- 47 PB02
+	- 48 PB03
+## SAMC21J15A-AN
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA00
+	- 2 PA01
+	- 3 PA02
+	- 4 PA03
+	- 5 PB04
+	- 6 PB05
+	- 7 GNDANA
+	- 8 VDDANA
+	- 9 PB06
+	- 10 PB07
+	- 11 PB08
+	- 12 PB09
+	- 13 PA04
+	- 14 PA05
+	- 15 PA06
+	- 16 PA07
+	- 17 PA08
+	- 18 PA09
+	- 19 PA10
+	- 20 PA11
+	- 21 VDDIO
+	- 22 GNDIO
+	- 23 PB10
+	- 24 PB11
+	- 25 PB12
+	- 26 PB13
+	- 27 PB14
+	- 28 PB15
+	- 29 PA12
+	- 30 PA13
+	- 31 PA14
+	- 32 PA15
+	- 33 GNDIO
+	- 34 VDDIO
+	- 35 PA16
+	- 36 PA17
+	- 37 PA18
+	- 38 PA19
+	- 39 PB16
+	- 40 PB17
+	- 41 PA20
+	- 42 PA21
+	- 43 PA22
+	- 44 PA23
+	- 45 PA24
+	- 46 PA25
+	- 47 GNDIO
+	- 48 VDDIO
+	- 49 PB22
+	- 50 PB23
+	- 51 PA27
+	- 52 RESET_N
+	- 53 PA28
+	- 54 GNDIO
+	- 55 VDDCORE
+	- 56 VDDIN
+	- 57 PA30
+	- 58 PA31
+	- 59 PB30
+	- 60 PB31
+	- 61 PB00
+	- 62 PB01
+	- 63 PB02
+	- 64 PB03
+## SAMC21J15A-AU
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA00
+	- 2 PA01
+	- 3 PA02
+	- 4 PA03
+	- 5 PB04
+	- 6 PB05
+	- 7 GNDANA
+	- 8 VDDANA
+	- 9 PB06
+	- 10 PB07
+	- 11 PB08
+	- 12 PB09
+	- 13 PA04
+	- 14 PA05
+	- 15 PA06
+	- 16 PA07
+	- 17 PA08
+	- 18 PA09
+	- 19 PA10
+	- 20 PA11
+	- 21 VDDIO
+	- 22 GNDIO
+	- 23 PB10
+	- 24 PB11
+	- 25 PB12
+	- 26 PB13
+	- 27 PB14
+	- 28 PB15
+	- 29 PA12
+	- 30 PA13
+	- 31 PA14
+	- 32 PA15
+	- 33 GNDIO
+	- 34 VDDIO
+	- 35 PA16
+	- 36 PA17
+	- 37 PA18
+	- 38 PA19
+	- 39 PB16
+	- 40 PB17
+	- 41 PA20
+	- 42 PA21
+	- 43 PA22
+	- 44 PA23
+	- 45 PA24
+	- 46 PA25
+	- 47 GNDIO
+	- 48 VDDIO
+	- 49 PB22
+	- 50 PB23
+	- 51 PA27
+	- 52 RESET_N
+	- 53 PA28
+	- 54 GNDIO
+	- 55 VDDCORE
+	- 56 VDDIN
+	- 57 PA30
+	- 58 PA31
+	- 59 PB30
+	- 60 PB31
+	- 61 PB00
+	- 62 PB01
+	- 63 PB02
+	- 64 PB03
+## SAMC21J15A-AZ
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA00
+	- 2 PA01
+	- 3 PA02
+	- 4 PA03
+	- 5 PB04
+	- 6 PB05
+	- 7 GNDANA
+	- 8 VDDANA
+	- 9 PB06
+	- 10 PB07
+	- 11 PB08
+	- 12 PB09
+	- 13 PA04
+	- 14 PA05
+	- 15 PA06
+	- 16 PA07
+	- 17 PA08
+	- 18 PA09
+	- 19 PA10
+	- 20 PA11
+	- 21 VDDIO
+	- 22 GNDIO
+	- 23 PB10
+	- 24 PB11
+	- 25 PB12
+	- 26 PB13
+	- 27 PB14
+	- 28 PB15
+	- 29 PA12
+	- 30 PA13
+	- 31 PA14
+	- 32 PA15
+	- 33 GNDIO
+	- 34 VDDIO
+	- 35 PA16
+	- 36 PA17
+	- 37 PA18
+	- 38 PA19
+	- 39 PB16
+	- 40 PB17
+	- 41 PA20
+	- 42 PA21
+	- 43 PA22
+	- 44 PA23
+	- 45 PA24
+	- 46 PA25
+	- 47 GNDIO
+	- 48 VDDIO
+	- 49 PB22
+	- 50 PB23
+	- 51 PA27
+	- 52 RESET_N
+	- 53 PA28
+	- 54 GNDIO
+	- 55 VDDCORE
+	- 56 VDDIN
+	- 57 PA30
+	- 58 PA31
+	- 59 PB30
+	- 60 PB31
+	- 61 PB00
+	- 62 PB01
+	- 63 PB02
+	- 64 PB03
+## SAMC21J15A-MN
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA00
+	- 2 PA01
+	- 3 PA02
+	- 4 PA03
+	- 5 PB04
+	- 6 PB05
+	- 7 GNDANA
+	- 8 VDDANA
+	- 9 PB06
+	- 10 PB07
+	- 11 PB08
+	- 12 PB09
+	- 13 PA04
+	- 14 PA05
+	- 15 PA06
+	- 16 PA07
+	- 17 PA08
+	- 18 PA09
+	- 19 PA10
+	- 20 PA11
+	- 21 VDDIO
+	- 22 GNDIO
+	- 23 PB10
+	- 24 PB11
+	- 25 PB12
+	- 26 PB13
+	- 27 PB14
+	- 28 PB15
+	- 29 PA12
+	- 30 PA13
+	- 31 PA14
+	- 32 PA15
+	- 33 GNDIO
+	- 34 VDDIO
+	- 35 PA16
+	- 36 PA17
+	- 37 PA18
+	- 38 PA19
+	- 39 PB16
+	- 40 PB17
+	- 41 PA20
+	- 42 PA21
+	- 43 PA22
+	- 44 PA23
+	- 45 PA24
+	- 46 PA25
+	- 47 GNDIO
+	- 48 VDDIO
+	- 49 PB22
+	- 50 PB23
+	- 51 PA27
+	- 52 RESET_N
+	- 53 PA28
+	- 54 GNDIO
+	- 55 VDDCORE
+	- 56 VDDIN
+	- 57 PA30
+	- 58 PA31
+	- 59 PB30
+	- 60 PB31
+	- 61 PB00
+	- 62 PB01
+	- 63 PB02
+	- 64 PB03
+## SAMC21J15A-MU
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA00
+	- 2 PA01
+	- 3 PA02
+	- 4 PA03
+	- 5 PB04
+	- 6 PB05
+	- 7 GNDANA
+	- 8 VDDANA
+	- 9 PB06
+	- 10 PB07
+	- 11 PB08
+	- 12 PB09
+	- 13 PA04
+	- 14 PA05
+	- 15 PA06
+	- 16 PA07
+	- 17 PA08
+	- 18 PA09
+	- 19 PA10
+	- 20 PA11
+	- 21 VDDIO
+	- 22 GNDIO
+	- 23 PB10
+	- 24 PB11
+	- 25 PB12
+	- 26 PB13
+	- 27 PB14
+	- 28 PB15
+	- 29 PA12
+	- 30 PA13
+	- 31 PA14
+	- 32 PA15
+	- 33 GNDIO
+	- 34 VDDIO
+	- 35 PA16
+	- 36 PA17
+	- 37 PA18
+	- 38 PA19
+	- 39 PB16
+	- 40 PB17
+	- 41 PA20
+	- 42 PA21
+	- 43 PA22
+	- 44 PA23
+	- 45 PA24
+	- 46 PA25
+	- 47 GNDIO
+	- 48 VDDIO
+	- 49 PB22
+	- 50 PB23
+	- 51 PA27
+	- 52 RESET_N
+	- 53 PA28
+	- 54 GNDIO
+	- 55 VDDCORE
+	- 56 VDDIN
+	- 57 PA30
+	- 58 PA31
+	- 59 PB30
+	- 60 PB31
+	- 61 PB00
+	- 62 PB01
+	- 63 PB02
+	- 64 PB03
+## SAMC21J15A-MZ
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA00
+	- 2 PA01
+	- 3 PA02
+	- 4 PA03
+	- 5 PB04
+	- 6 PB05
+	- 7 GNDANA
+	- 8 VDDANA
+	- 9 PB06
+	- 10 PB07
+	- 11 PB08
+	- 12 PB09
+	- 13 PA04
+	- 14 PA05
+	- 15 PA06
+	- 16 PA07
+	- 17 PA08
+	- 18 PA09
+	- 19 PA10
+	- 20 PA11
+	- 21 VDDIO
+	- 22 GNDIO
+	- 23 PB10
+	- 24 PB11
+	- 25 PB12
+	- 26 PB13
+	- 27 PB14
+	- 28 PB15
+	- 29 PA12
+	- 30 PA13
+	- 31 PA14
+	- 32 PA15
+	- 33 GNDIO
+	- 34 VDDIO
+	- 35 PA16
+	- 36 PA17
+	- 37 PA18
+	- 38 PA19
+	- 39 PB16
+	- 40 PB17
+	- 41 PA20
+	- 42 PA21
+	- 43 PA22
+	- 44 PA23
+	- 45 PA24
+	- 46 PA25
+	- 47 GNDIO
+	- 48 VDDIO
+	- 49 PB22
+	- 50 PB23
+	- 51 PA27
+	- 52 RESET_N
+	- 53 PA28
+	- 54 GNDIO
+	- 55 VDDCORE
+	- 56 VDDIN
+	- 57 PA30
+	- 58 PA31
+	- 59 PB30
+	- 60 PB31
+	- 61 PB00
+	- 62 PB01
+	- 63 PB02
+	- 64 PB03
+## SAMC21J16A-AN
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA00
+	- 2 PA01
+	- 3 PA02
+	- 4 PA03
+	- 5 PB04
+	- 6 PB05
+	- 7 GNDANA
+	- 8 VDDANA
+	- 9 PB06
+	- 10 PB07
+	- 11 PB08
+	- 12 PB09
+	- 13 PA04
+	- 14 PA05
+	- 15 PA06
+	- 16 PA07
+	- 17 PA08
+	- 18 PA09
+	- 19 PA10
+	- 20 PA11
+	- 21 VDDIO
+	- 22 GNDIO
+	- 23 PB10
+	- 24 PB11
+	- 25 PB12
+	- 26 PB13
+	- 27 PB14
+	- 28 PB15
+	- 29 PA12
+	- 30 PA13
+	- 31 PA14
+	- 32 PA15
+	- 33 GNDIO
+	- 34 VDDIO
+	- 35 PA16
+	- 36 PA17
+	- 37 PA18
+	- 38 PA19
+	- 39 PB16
+	- 40 PB17
+	- 41 PA20
+	- 42 PA21
+	- 43 PA22
+	- 44 PA23
+	- 45 PA24
+	- 46 PA25
+	- 47 GNDIO
+	- 48 VDDIO
+	- 49 PB22
+	- 50 PB23
+	- 51 PA27
+	- 52 RESET_N
+	- 53 PA28
+	- 54 GNDIO
+	- 55 VDDCORE
+	- 56 VDDIN
+	- 57 PA30
+	- 58 PA31
+	- 59 PB30
+	- 60 PB31
+	- 61 PB00
+	- 62 PB01
+	- 63 PB02
+	- 64 PB03
+## SAMC21J16A-AU
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA00
+	- 2 PA01
+	- 3 PA02
+	- 4 PA03
+	- 5 PB04
+	- 6 PB05
+	- 7 GNDANA
+	- 8 VDDANA
+	- 9 PB06
+	- 10 PB07
+	- 11 PB08
+	- 12 PB09
+	- 13 PA04
+	- 14 PA05
+	- 15 PA06
+	- 16 PA07
+	- 17 PA08
+	- 18 PA09
+	- 19 PA10
+	- 20 PA11
+	- 21 VDDIO
+	- 22 GNDIO
+	- 23 PB10
+	- 24 PB11
+	- 25 PB12
+	- 26 PB13
+	- 27 PB14
+	- 28 PB15
+	- 29 PA12
+	- 30 PA13
+	- 31 PA14
+	- 32 PA15
+	- 33 GNDIO
+	- 34 VDDIO
+	- 35 PA16
+	- 36 PA17
+	- 37 PA18
+	- 38 PA19
+	- 39 PB16
+	- 40 PB17
+	- 41 PA20
+	- 42 PA21
+	- 43 PA22
+	- 44 PA23
+	- 45 PA24
+	- 46 PA25
+	- 47 GNDIO
+	- 48 VDDIO
+	- 49 PB22
+	- 50 PB23
+	- 51 PA27
+	- 52 RESET_N
+	- 53 PA28
+	- 54 GNDIO
+	- 55 VDDCORE
+	- 56 VDDIN
+	- 57 PA30
+	- 58 PA31
+	- 59 PB30
+	- 60 PB31
+	- 61 PB00
+	- 62 PB01
+	- 63 PB02
+	- 64 PB03
+## SAMC21J16A-AZ
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA00
+	- 2 PA01
+	- 3 PA02
+	- 4 PA03
+	- 5 PB04
+	- 6 PB05
+	- 7 GNDANA
+	- 8 VDDANA
+	- 9 PB06
+	- 10 PB07
+	- 11 PB08
+	- 12 PB09
+	- 13 PA04
+	- 14 PA05
+	- 15 PA06
+	- 16 PA07
+	- 17 PA08
+	- 18 PA09
+	- 19 PA10
+	- 20 PA11
+	- 21 VDDIO
+	- 22 GNDIO
+	- 23 PB10
+	- 24 PB11
+	- 25 PB12
+	- 26 PB13
+	- 27 PB14
+	- 28 PB15
+	- 29 PA12
+	- 30 PA13
+	- 31 PA14
+	- 32 PA15
+	- 33 GNDIO
+	- 34 VDDIO
+	- 35 PA16
+	- 36 PA17
+	- 37 PA18
+	- 38 PA19
+	- 39 PB16
+	- 40 PB17
+	- 41 PA20
+	- 42 PA21
+	- 43 PA22
+	- 44 PA23
+	- 45 PA24
+	- 46 PA25
+	- 47 GNDIO
+	- 48 VDDIO
+	- 49 PB22
+	- 50 PB23
+	- 51 PA27
+	- 52 RESET_N
+	- 53 PA28
+	- 54 GNDIO
+	- 55 VDDCORE
+	- 56 VDDIN
+	- 57 PA30
+	- 58 PA31
+	- 59 PB30
+	- 60 PB31
+	- 61 PB00
+	- 62 PB01
+	- 63 PB02
+	- 64 PB03
+## SAMC21J16A-MN
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA00
+	- 2 PA01
+	- 3 PA02
+	- 4 PA03
+	- 5 PB04
+	- 6 PB05
+	- 7 GNDANA
+	- 8 VDDANA
+	- 9 PB06
+	- 10 PB07
+	- 11 PB08
+	- 12 PB09
+	- 13 PA04
+	- 14 PA05
+	- 15 PA06
+	- 16 PA07
+	- 17 PA08
+	- 18 PA09
+	- 19 PA10
+	- 20 PA11
+	- 21 VDDIO
+	- 22 GNDIO
+	- 23 PB10
+	- 24 PB11
+	- 25 PB12
+	- 26 PB13
+	- 27 PB14
+	- 28 PB15
+	- 29 PA12
+	- 30 PA13
+	- 31 PA14
+	- 32 PA15
+	- 33 GNDIO
+	- 34 VDDIO
+	- 35 PA16
+	- 36 PA17
+	- 37 PA18
+	- 38 PA19
+	- 39 PB16
+	- 40 PB17
+	- 41 PA20
+	- 42 PA21
+	- 43 PA22
+	- 44 PA23
+	- 45 PA24
+	- 46 PA25
+	- 47 GNDIO
+	- 48 VDDIO
+	- 49 PB22
+	- 50 PB23
+	- 51 PA27
+	- 52 RESET_N
+	- 53 PA28
+	- 54 GNDIO
+	- 55 VDDCORE
+	- 56 VDDIN
+	- 57 PA30
+	- 58 PA31
+	- 59 PB30
+	- 60 PB31
+	- 61 PB00
+	- 62 PB01
+	- 63 PB02
+	- 64 PB03
+## SAMC21J16A-MU
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA00
+	- 2 PA01
+	- 3 PA02
+	- 4 PA03
+	- 5 PB04
+	- 6 PB05
+	- 7 GNDANA
+	- 8 VDDANA
+	- 9 PB06
+	- 10 PB07
+	- 11 PB08
+	- 12 PB09
+	- 13 PA04
+	- 14 PA05
+	- 15 PA06
+	- 16 PA07
+	- 17 PA08
+	- 18 PA09
+	- 19 PA10
+	- 20 PA11
+	- 21 VDDIO
+	- 22 GNDIO
+	- 23 PB10
+	- 24 PB11
+	- 25 PB12
+	- 26 PB13
+	- 27 PB14
+	- 28 PB15
+	- 29 PA12
+	- 30 PA13
+	- 31 PA14
+	- 32 PA15
+	- 33 GNDIO
+	- 34 VDDIO
+	- 35 PA16
+	- 36 PA17
+	- 37 PA18
+	- 38 PA19
+	- 39 PB16
+	- 40 PB17
+	- 41 PA20
+	- 42 PA21
+	- 43 PA22
+	- 44 PA23
+	- 45 PA24
+	- 46 PA25
+	- 47 GNDIO
+	- 48 VDDIO
+	- 49 PB22
+	- 50 PB23
+	- 51 PA27
+	- 52 RESET_N
+	- 53 PA28
+	- 54 GNDIO
+	- 55 VDDCORE
+	- 56 VDDIN
+	- 57 PA30
+	- 58 PA31
+	- 59 PB30
+	- 60 PB31
+	- 61 PB00
+	- 62 PB01
+	- 63 PB02
+	- 64 PB03
+## SAMC21J16A-MZ
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA00
+	- 2 PA01
+	- 3 PA02
+	- 4 PA03
+	- 5 PB04
+	- 6 PB05
+	- 7 GNDANA
+	- 8 VDDANA
+	- 9 PB06
+	- 10 PB07
+	- 11 PB08
+	- 12 PB09
+	- 13 PA04
+	- 14 PA05
+	- 15 PA06
+	- 16 PA07
+	- 17 PA08
+	- 18 PA09
+	- 19 PA10
+	- 20 PA11
+	- 21 VDDIO
+	- 22 GNDIO
+	- 23 PB10
+	- 24 PB11
+	- 25 PB12
+	- 26 PB13
+	- 27 PB14
+	- 28 PB15
+	- 29 PA12
+	- 30 PA13
+	- 31 PA14
+	- 32 PA15
+	- 33 GNDIO
+	- 34 VDDIO
+	- 35 PA16
+	- 36 PA17
+	- 37 PA18
+	- 38 PA19
+	- 39 PB16
+	- 40 PB17
+	- 41 PA20
+	- 42 PA21
+	- 43 PA22
+	- 44 PA23
+	- 45 PA24
+	- 46 PA25
+	- 47 GNDIO
+	- 48 VDDIO
+	- 49 PB22
+	- 50 PB23
+	- 51 PA27
+	- 52 RESET_N
+	- 53 PA28
+	- 54 GNDIO
+	- 55 VDDCORE
+	- 56 VDDIN
+	- 57 PA30
+	- 58 PA31
+	- 59 PB30
+	- 60 PB31
+	- 61 PB00
+	- 62 PB01
+	- 63 PB02
+	- 64 PB03
+## SAMC21J17A-AN
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA00
+	- 2 PA01
+	- 3 PA02
+	- 4 PA03
+	- 5 PB04
+	- 6 PB05
+	- 7 GNDANA
+	- 8 VDDANA
+	- 9 PB06
+	- 10 PB07
+	- 11 PB08
+	- 12 PB09
+	- 13 PA04
+	- 14 PA05
+	- 15 PA06
+	- 16 PA07
+	- 17 PA08
+	- 18 PA09
+	- 19 PA10
+	- 20 PA11
+	- 21 VDDIO
+	- 22 GNDIO
+	- 23 PB10
+	- 24 PB11
+	- 25 PB12
+	- 26 PB13
+	- 27 PB14
+	- 28 PB15
+	- 29 PA12
+	- 30 PA13
+	- 31 PA14
+	- 32 PA15
+	- 33 GNDIO
+	- 34 VDDIO
+	- 35 PA16
+	- 36 PA17
+	- 37 PA18
+	- 38 PA19
+	- 39 PB16
+	- 40 PB17
+	- 41 PA20
+	- 42 PA21
+	- 43 PA22
+	- 44 PA23
+	- 45 PA24
+	- 46 PA25
+	- 47 GNDIO
+	- 48 VDDIO
+	- 49 PB22
+	- 50 PB23
+	- 51 PA27
+	- 52 RESET_N
+	- 53 PA28
+	- 54 GNDIO
+	- 55 VDDCORE
+	- 56 VDDIN
+	- 57 PA30
+	- 58 PA31
+	- 59 PB30
+	- 60 PB31
+	- 61 PB00
+	- 62 PB01
+	- 63 PB02
+	- 64 PB03
+## SAMC21J17A-AU
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA00
+	- 2 PA01
+	- 3 PA02
+	- 4 PA03
+	- 5 PB04
+	- 6 PB05
+	- 7 GNDANA
+	- 8 VDDANA
+	- 9 PB06
+	- 10 PB07
+	- 11 PB08
+	- 12 PB09
+	- 13 PA04
+	- 14 PA05
+	- 15 PA06
+	- 16 PA07
+	- 17 PA08
+	- 18 PA09
+	- 19 PA10
+	- 20 PA11
+	- 21 VDDIO
+	- 22 GNDIO
+	- 23 PB10
+	- 24 PB11
+	- 25 PB12
+	- 26 PB13
+	- 27 PB14
+	- 28 PB15
+	- 29 PA12
+	- 30 PA13
+	- 31 PA14
+	- 32 PA15
+	- 33 GNDIO
+	- 34 VDDIO
+	- 35 PA16
+	- 36 PA17
+	- 37 PA18
+	- 38 PA19
+	- 39 PB16
+	- 40 PB17
+	- 41 PA20
+	- 42 PA21
+	- 43 PA22
+	- 44 PA23
+	- 45 PA24
+	- 46 PA25
+	- 47 GNDIO
+	- 48 VDDIO
+	- 49 PB22
+	- 50 PB23
+	- 51 PA27
+	- 52 RESET_N
+	- 53 PA28
+	- 54 GNDIO
+	- 55 VDDCORE
+	- 56 VDDIN
+	- 57 PA30
+	- 58 PA31
+	- 59 PB30
+	- 60 PB31
+	- 61 PB00
+	- 62 PB01
+	- 63 PB02
+	- 64 PB03
+## SAMC21J17A-AZ
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA00
+	- 2 PA01
+	- 3 PA02
+	- 4 PA03
+	- 5 PB04
+	- 6 PB05
+	- 7 GNDANA
+	- 8 VDDANA
+	- 9 PB06
+	- 10 PB07
+	- 11 PB08
+	- 12 PB09
+	- 13 PA04
+	- 14 PA05
+	- 15 PA06
+	- 16 PA07
+	- 17 PA08
+	- 18 PA09
+	- 19 PA10
+	- 20 PA11
+	- 21 VDDIO
+	- 22 GNDIO
+	- 23 PB10
+	- 24 PB11
+	- 25 PB12
+	- 26 PB13
+	- 27 PB14
+	- 28 PB15
+	- 29 PA12
+	- 30 PA13
+	- 31 PA14
+	- 32 PA15
+	- 33 GNDIO
+	- 34 VDDIO
+	- 35 PA16
+	- 36 PA17
+	- 37 PA18
+	- 38 PA19
+	- 39 PB16
+	- 40 PB17
+	- 41 PA20
+	- 42 PA21
+	- 43 PA22
+	- 44 PA23
+	- 45 PA24
+	- 46 PA25
+	- 47 GNDIO
+	- 48 VDDIO
+	- 49 PB22
+	- 50 PB23
+	- 51 PA27
+	- 52 RESET_N
+	- 53 PA28
+	- 54 GNDIO
+	- 55 VDDCORE
+	- 56 VDDIN
+	- 57 PA30
+	- 58 PA31
+	- 59 PB30
+	- 60 PB31
+	- 61 PB00
+	- 62 PB01
+	- 63 PB02
+	- 64 PB03
+## SAMC21J17A-MN
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA00
+	- 2 PA01
+	- 3 PA02
+	- 4 PA03
+	- 5 PB04
+	- 6 PB05
+	- 7 GNDANA
+	- 8 VDDANA
+	- 9 PB06
+	- 10 PB07
+	- 11 PB08
+	- 12 PB09
+	- 13 PA04
+	- 14 PA05
+	- 15 PA06
+	- 16 PA07
+	- 17 PA08
+	- 18 PA09
+	- 19 PA10
+	- 20 PA11
+	- 21 VDDIO
+	- 22 GNDIO
+	- 23 PB10
+	- 24 PB11
+	- 25 PB12
+	- 26 PB13
+	- 27 PB14
+	- 28 PB15
+	- 29 PA12
+	- 30 PA13
+	- 31 PA14
+	- 32 PA15
+	- 33 GNDIO
+	- 34 VDDIO
+	- 35 PA16
+	- 36 PA17
+	- 37 PA18
+	- 38 PA19
+	- 39 PB16
+	- 40 PB17
+	- 41 PA20
+	- 42 PA21
+	- 43 PA22
+	- 44 PA23
+	- 45 PA24
+	- 46 PA25
+	- 47 GNDIO
+	- 48 VDDIO
+	- 49 PB22
+	- 50 PB23
+	- 51 PA27
+	- 52 RESET_N
+	- 53 PA28
+	- 54 GNDIO
+	- 55 VDDCORE
+	- 56 VDDIN
+	- 57 PA30
+	- 58 PA31
+	- 59 PB30
+	- 60 PB31
+	- 61 PB00
+	- 62 PB01
+	- 63 PB02
+	- 64 PB03
+## SAMC21J17A-MU
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA00
+	- 2 PA01
+	- 3 PA02
+	- 4 PA03
+	- 5 PB04
+	- 6 PB05
+	- 7 GNDANA
+	- 8 VDDANA
+	- 9 PB06
+	- 10 PB07
+	- 11 PB08
+	- 12 PB09
+	- 13 PA04
+	- 14 PA05
+	- 15 PA06
+	- 16 PA07
+	- 17 PA08
+	- 18 PA09
+	- 19 PA10
+	- 20 PA11
+	- 21 VDDIO
+	- 22 GNDIO
+	- 23 PB10
+	- 24 PB11
+	- 25 PB12
+	- 26 PB13
+	- 27 PB14
+	- 28 PB15
+	- 29 PA12
+	- 30 PA13
+	- 31 PA14
+	- 32 PA15
+	- 33 GNDIO
+	- 34 VDDIO
+	- 35 PA16
+	- 36 PA17
+	- 37 PA18
+	- 38 PA19
+	- 39 PB16
+	- 40 PB17
+	- 41 PA20
+	- 42 PA21
+	- 43 PA22
+	- 44 PA23
+	- 45 PA24
+	- 46 PA25
+	- 47 GNDIO
+	- 48 VDDIO
+	- 49 PB22
+	- 50 PB23
+	- 51 PA27
+	- 52 RESET_N
+	- 53 PA28
+	- 54 GNDIO
+	- 55 VDDCORE
+	- 56 VDDIN
+	- 57 PA30
+	- 58 PA31
+	- 59 PB30
+	- 60 PB31
+	- 61 PB00
+	- 62 PB01
+	- 63 PB02
+	- 64 PB03
+## SAMC21J17A-MZ
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA00
+	- 2 PA01
+	- 3 PA02
+	- 4 PA03
+	- 5 PB04
+	- 6 PB05
+	- 7 GNDANA
+	- 8 VDDANA
+	- 9 PB06
+	- 10 PB07
+	- 11 PB08
+	- 12 PB09
+	- 13 PA04
+	- 14 PA05
+	- 15 PA06
+	- 16 PA07
+	- 17 PA08
+	- 18 PA09
+	- 19 PA10
+	- 20 PA11
+	- 21 VDDIO
+	- 22 GNDIO
+	- 23 PB10
+	- 24 PB11
+	- 25 PB12
+	- 26 PB13
+	- 27 PB14
+	- 28 PB15
+	- 29 PA12
+	- 30 PA13
+	- 31 PA14
+	- 32 PA15
+	- 33 GNDIO
+	- 34 VDDIO
+	- 35 PA16
+	- 36 PA17
+	- 37 PA18
+	- 38 PA19
+	- 39 PB16
+	- 40 PB17
+	- 41 PA20
+	- 42 PA21
+	- 43 PA22
+	- 44 PA23
+	- 45 PA24
+	- 46 PA25
+	- 47 GNDIO
+	- 48 VDDIO
+	- 49 PB22
+	- 50 PB23
+	- 51 PA27
+	- 52 RESET_N
+	- 53 PA28
+	- 54 GNDIO
+	- 55 VDDCORE
+	- 56 VDDIN
+	- 57 PA30
+	- 58 PA31
+	- 59 PB30
+	- 60 PB31
+	- 61 PB00
+	- 62 PB01
+	- 63 PB02
+	- 64 PB03
+## SAMC21J17A-UU
+### Description : 
+null
+null
+### Package : 
+null
+	- A1 PA00
+	- A2 PA01
+	- A3 PA03
+	- A4 PB08
+	- A5 PB09
+	- A6 PA04
+	- A7 PA06
+	- B1 PB01
+	- B2 PB02
+	- B3 PA02
+	- B4 PA09
+	- B5 PA05
+	- B6 PA07
+	- B7 PA08
+	- C1 PA31
+	- C2 PB00
+	- C3 PB03
+	- C4 VDDANA
+	- C5 VDDIO
+	- C6 PA10
+	- C7 PA11
+	- D1 PA30
+	- D2 VDDIN
+	- D3 GNDANA
+	- D4 GNDIO
+	- D5 PB12
+	- D6 PB11
+	- D7 PB10
+	- E1 VDDCORE
+	- E2 GNDIO
+	- E3 VDDIO
+	- E4 GNDIO
+	- E5 PB15
+	- E6 PB14
+	- E7 PB13
+	- F1 RESET_N
+	- F2 PA28
+	- F3 PA23
+	- F4 VDDIO
+	- F5 GNDIO
+	- F6 PA13
+	- F7 PA12
+	- G1 PB23
+	- G2 PA27
+	- G3 PA24
+	- G4 PA20
+	- G5 PA18
+	- G6 PA14
+	- G7 PA15
+	- H1 PB22
+	- H2 PA25
+	- H3 PA22
+	- H4 PA21
+	- H5 PA19
+	- H6 PA17
+	- H7 PA16
+## SAMC21J18A-AN
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA00
+	- 2 PA01
+	- 3 PA02
+	- 4 PA03
+	- 5 PB04
+	- 6 PB05
+	- 7 GNDANA
+	- 8 VDDANA
+	- 9 PB06
+	- 10 PB07
+	- 11 PB08
+	- 12 PB09
+	- 13 PA04
+	- 14 PA05
+	- 15 PA06
+	- 16 PA07
+	- 17 PA08
+	- 18 PA09
+	- 19 PA10
+	- 20 PA11
+	- 21 VDDIO
+	- 22 GNDIO
+	- 23 PB10
+	- 24 PB11
+	- 25 PB12
+	- 26 PB13
+	- 27 PB14
+	- 28 PB15
+	- 29 PA12
+	- 30 PA13
+	- 31 PA14
+	- 32 PA15
+	- 33 GNDIO
+	- 34 VDDIO
+	- 35 PA16
+	- 36 PA17
+	- 37 PA18
+	- 38 PA19
+	- 39 PB16
+	- 40 PB17
+	- 41 PA20
+	- 42 PA21
+	- 43 PA22
+	- 44 PA23
+	- 45 PA24
+	- 46 PA25
+	- 47 GNDIO
+	- 48 VDDIO
+	- 49 PB22
+	- 50 PB23
+	- 51 PA27
+	- 52 RESET_N
+	- 53 PA28
+	- 54 GNDIO
+	- 55 VDDCORE
+	- 56 VDDIN
+	- 57 PA30
+	- 58 PA31
+	- 59 PB30
+	- 60 PB31
+	- 61 PB00
+	- 62 PB01
+	- 63 PB02
+	- 64 PB03
+## SAMC21J18A-AU
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA00
+	- 2 PA01
+	- 3 PA02
+	- 4 PA03
+	- 5 PB04
+	- 6 PB05
+	- 7 GNDANA
+	- 8 VDDANA
+	- 9 PB06
+	- 10 PB07
+	- 11 PB08
+	- 12 PB09
+	- 13 PA04
+	- 14 PA05
+	- 15 PA06
+	- 16 PA07
+	- 17 PA08
+	- 18 PA09
+	- 19 PA10
+	- 20 PA11
+	- 21 VDDIO
+	- 22 GNDIO
+	- 23 PB10
+	- 24 PB11
+	- 25 PB12
+	- 26 PB13
+	- 27 PB14
+	- 28 PB15
+	- 29 PA12
+	- 30 PA13
+	- 31 PA14
+	- 32 PA15
+	- 33 GNDIO
+	- 34 VDDIO
+	- 35 PA16
+	- 36 PA17
+	- 37 PA18
+	- 38 PA19
+	- 39 PB16
+	- 40 PB17
+	- 41 PA20
+	- 42 PA21
+	- 43 PA22
+	- 44 PA23
+	- 45 PA24
+	- 46 PA25
+	- 47 GNDIO
+	- 48 VDDIO
+	- 49 PB22
+	- 50 PB23
+	- 51 PA27
+	- 52 RESET_N
+	- 53 PA28
+	- 54 GNDIO
+	- 55 VDDCORE
+	- 56 VDDIN
+	- 57 PA30
+	- 58 PA31
+	- 59 PB30
+	- 60 PB31
+	- 61 PB00
+	- 62 PB01
+	- 63 PB02
+	- 64 PB03
+## SAMC21J18A-AU64
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA00
+	- 2 PA01
+	- 3 PA02
+	- 4 PA03
+	- 5 PB04
+	- 6 PB05
+	- 7 GNDANA
+	- 8 VDDANA
+	- 9 PB06
+	- 10 PB07
+	- 11 PB08
+	- 12 PB09
+	- 13 PA04
+	- 14 PA05
+	- 15 PA06
+	- 16 PA07
+	- 17 PA08
+	- 18 PA09
+	- 19 PA10
+	- 20 PA11
+	- 21 VDDIO
+	- 22 GNDIO
+	- 23 PB10
+	- 24 PB11
+	- 25 PB12
+	- 26 PB13
+	- 27 PB14
+	- 28 PB15
+	- 29 PA12
+	- 30 PA13
+	- 31 PA14
+	- 32 PA15
+	- 33 GNDIO
+	- 34 VDDIO
+	- 35 PA16
+	- 36 PA17
+	- 37 PA18
+	- 38 PA19
+	- 39 PB16
+	- 40 PB17
+	- 41 PA20
+	- 42 PA21
+	- 43 PA22
+	- 44 PA23
+	- 45 PA24
+	- 46 PA25
+	- 47 GNDIO
+	- 48 VDDIO
+	- 49 PB22
+	- 50 PB23
+	- 51 PA27
+	- 52 RESET_N
+	- 53 PA28
+	- 54 GNDIO
+	- 55 VDDCORE
+	- 56 VDDIN
+	- 57 PA30
+	- 58 PA31
+	- 59 PB30
+	- 60 PB31
+	- 61 PB00
+	- 62 PB01
+	- 63 PB02
+	- 64 PB03
+## SAMC21J18A-AUT64
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA00
+	- 2 PA01
+	- 3 PA02
+	- 4 PA03
+	- 5 PB04
+	- 6 PB05
+	- 7 GNDANA
+	- 8 VDDANA
+	- 9 PB06
+	- 10 PB07
+	- 11 PB08
+	- 12 PB09
+	- 13 PA04
+	- 14 PA05
+	- 15 PA06
+	- 16 PA07
+	- 17 PA08
+	- 18 PA09
+	- 19 PA10
+	- 20 PA11
+	- 21 VDDIO
+	- 22 GNDIO
+	- 23 PB10
+	- 24 PB11
+	- 25 PB12
+	- 26 PB13
+	- 27 PB14
+	- 28 PB15
+	- 29 PA12
+	- 30 PA13
+	- 31 PA14
+	- 32 PA15
+	- 33 GNDIO
+	- 34 VDDIO
+	- 35 PA16
+	- 36 PA17
+	- 37 PA18
+	- 38 PA19
+	- 39 PB16
+	- 40 PB17
+	- 41 PA20
+	- 42 PA21
+	- 43 PA22
+	- 44 PA23
+	- 45 PA24
+	- 46 PA25
+	- 47 GNDIO
+	- 48 VDDIO
+	- 49 PB22
+	- 50 PB23
+	- 51 PA27
+	- 52 RESET_N
+	- 53 PA28
+	- 54 GNDIO
+	- 55 VDDCORE
+	- 56 VDDIN
+	- 57 PA30
+	- 58 PA31
+	- 59 PB30
+	- 60 PB31
+	- 61 PB00
+	- 62 PB01
+	- 63 PB02
+	- 64 PB03
+## SAMC21J18A-AZ
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA00
+	- 2 PA01
+	- 3 PA02
+	- 4 PA03
+	- 5 PB04
+	- 6 PB05
+	- 7 GNDANA
+	- 8 VDDANA
+	- 9 PB06
+	- 10 PB07
+	- 11 PB08
+	- 12 PB09
+	- 13 PA04
+	- 14 PA05
+	- 15 PA06
+	- 16 PA07
+	- 17 PA08
+	- 18 PA09
+	- 19 PA10
+	- 20 PA11
+	- 21 VDDIO
+	- 22 GNDIO
+	- 23 PB10
+	- 24 PB11
+	- 25 PB12
+	- 26 PB13
+	- 27 PB14
+	- 28 PB15
+	- 29 PA12
+	- 30 PA13
+	- 31 PA14
+	- 32 PA15
+	- 33 GNDIO
+	- 34 VDDIO
+	- 35 PA16
+	- 36 PA17
+	- 37 PA18
+	- 38 PA19
+	- 39 PB16
+	- 40 PB17
+	- 41 PA20
+	- 42 PA21
+	- 43 PA22
+	- 44 PA23
+	- 45 PA24
+	- 46 PA25
+	- 47 GNDIO
+	- 48 VDDIO
+	- 49 PB22
+	- 50 PB23
+	- 51 PA27
+	- 52 RESET_N
+	- 53 PA28
+	- 54 GNDIO
+	- 55 VDDCORE
+	- 56 VDDIN
+	- 57 PA30
+	- 58 PA31
+	- 59 PB30
+	- 60 PB31
+	- 61 PB00
+	- 62 PB01
+	- 63 PB02
+	- 64 PB03
+## SAMC21J18A-MN
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA00
+	- 2 PA01
+	- 3 PA02
+	- 4 PA03
+	- 5 PB04
+	- 6 PB05
+	- 7 GNDANA
+	- 8 VDDANA
+	- 9 PB06
+	- 10 PB07
+	- 11 PB08
+	- 12 PB09
+	- 13 PA04
+	- 14 PA05
+	- 15 PA06
+	- 16 PA07
+	- 17 PA08
+	- 18 PA09
+	- 19 PA10
+	- 20 PA11
+	- 21 VDDIO
+	- 22 GNDIO
+	- 23 PB10
+	- 24 PB11
+	- 25 PB12
+	- 26 PB13
+	- 27 PB14
+	- 28 PB15
+	- 29 PA12
+	- 30 PA13
+	- 31 PA14
+	- 32 PA15
+	- 33 GNDIO
+	- 34 VDDIO
+	- 35 PA16
+	- 36 PA17
+	- 37 PA18
+	- 38 PA19
+	- 39 PB16
+	- 40 PB17
+	- 41 PA20
+	- 42 PA21
+	- 43 PA22
+	- 44 PA23
+	- 45 PA24
+	- 46 PA25
+	- 47 GNDIO
+	- 48 VDDIO
+	- 49 PB22
+	- 50 PB23
+	- 51 PA27
+	- 52 RESET_N
+	- 53 PA28
+	- 54 GNDIO
+	- 55 VDDCORE
+	- 56 VDDIN
+	- 57 PA30
+	- 58 PA31
+	- 59 PB30
+	- 60 PB31
+	- 61 PB00
+	- 62 PB01
+	- 63 PB02
+	- 64 PB03
+## SAMC21J18A-MU
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA00
+	- 2 PA01
+	- 3 PA02
+	- 4 PA03
+	- 5 PB04
+	- 6 PB05
+	- 7 GNDANA
+	- 8 VDDANA
+	- 9 PB06
+	- 10 PB07
+	- 11 PB08
+	- 12 PB09
+	- 13 PA04
+	- 14 PA05
+	- 15 PA06
+	- 16 PA07
+	- 17 PA08
+	- 18 PA09
+	- 19 PA10
+	- 20 PA11
+	- 21 VDDIO
+	- 22 GNDIO
+	- 23 PB10
+	- 24 PB11
+	- 25 PB12
+	- 26 PB13
+	- 27 PB14
+	- 28 PB15
+	- 29 PA12
+	- 30 PA13
+	- 31 PA14
+	- 32 PA15
+	- 33 GNDIO
+	- 34 VDDIO
+	- 35 PA16
+	- 36 PA17
+	- 37 PA18
+	- 38 PA19
+	- 39 PB16
+	- 40 PB17
+	- 41 PA20
+	- 42 PA21
+	- 43 PA22
+	- 44 PA23
+	- 45 PA24
+	- 46 PA25
+	- 47 GNDIO
+	- 48 VDDIO
+	- 49 PB22
+	- 50 PB23
+	- 51 PA27
+	- 52 RESET_N
+	- 53 PA28
+	- 54 GNDIO
+	- 55 VDDCORE
+	- 56 VDDIN
+	- 57 PA30
+	- 58 PA31
+	- 59 PB30
+	- 60 PB31
+	- 61 PB00
+	- 62 PB01
+	- 63 PB02
+	- 64 PB03
+## SAMC21J18A-MU64
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA00
+	- 2 PA01
+	- 3 PA02
+	- 4 PA03
+	- 5 PB04
+	- 6 PB05
+	- 7 GNDANA
+	- 8 VDDANA
+	- 9 PB06
+	- 10 PB07
+	- 11 PB08
+	- 12 PB09
+	- 13 PA04
+	- 14 PA05
+	- 15 PA06
+	- 16 PA07
+	- 17 PA08
+	- 18 PA09
+	- 19 PA10
+	- 20 PA11
+	- 21 VDDIO
+	- 22 GNDIO
+	- 23 PB10
+	- 24 PB11
+	- 25 PB12
+	- 26 PB13
+	- 27 PB14
+	- 28 PB15
+	- 29 PA12
+	- 30 PA13
+	- 31 PA14
+	- 32 PA15
+	- 33 GNDIO
+	- 34 VDDIO
+	- 35 PA16
+	- 36 PA17
+	- 37 PA18
+	- 38 PA19
+	- 39 PB16
+	- 40 PB17
+	- 41 PA20
+	- 42 PA21
+	- 43 PA22
+	- 44 PA23
+	- 45 PA24
+	- 46 PA25
+	- 47 GNDIO
+	- 48 VDDIO
+	- 49 PB22
+	- 50 PB23
+	- 51 PA27
+	- 52 RESET_N
+	- 53 PA28
+	- 54 GNDIO
+	- 55 VDDCORE
+	- 56 VDDIN
+	- 57 PA30
+	- 58 PA31
+	- 59 PB30
+	- 60 PB31
+	- 61 PB00
+	- 62 PB01
+	- 63 PB02
+	- 64 PB03
+## SAMC21J18A-MUT64
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA00
+	- 2 PA01
+	- 3 PA02
+	- 4 PA03
+	- 5 PB04
+	- 6 PB05
+	- 7 GNDANA
+	- 8 VDDANA
+	- 9 PB06
+	- 10 PB07
+	- 11 PB08
+	- 12 PB09
+	- 13 PA04
+	- 14 PA05
+	- 15 PA06
+	- 16 PA07
+	- 17 PA08
+	- 18 PA09
+	- 19 PA10
+	- 20 PA11
+	- 21 VDDIO
+	- 22 GNDIO
+	- 23 PB10
+	- 24 PB11
+	- 25 PB12
+	- 26 PB13
+	- 27 PB14
+	- 28 PB15
+	- 29 PA12
+	- 30 PA13
+	- 31 PA14
+	- 32 PA15
+	- 33 GNDIO
+	- 34 VDDIO
+	- 35 PA16
+	- 36 PA17
+	- 37 PA18
+	- 38 PA19
+	- 39 PB16
+	- 40 PB17
+	- 41 PA20
+	- 42 PA21
+	- 43 PA22
+	- 44 PA23
+	- 45 PA24
+	- 46 PA25
+	- 47 GNDIO
+	- 48 VDDIO
+	- 49 PB22
+	- 50 PB23
+	- 51 PA27
+	- 52 RESET_N
+	- 53 PA28
+	- 54 GNDIO
+	- 55 VDDCORE
+	- 56 VDDIN
+	- 57 PA30
+	- 58 PA31
+	- 59 PB30
+	- 60 PB31
+	- 61 PB00
+	- 62 PB01
+	- 63 PB02
+	- 64 PB03
+## SAMC21J18A-MZ
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA00
+	- 2 PA01
+	- 3 PA02
+	- 4 PA03
+	- 5 PB04
+	- 6 PB05
+	- 7 GNDANA
+	- 8 VDDANA
+	- 9 PB06
+	- 10 PB07
+	- 11 PB08
+	- 12 PB09
+	- 13 PA04
+	- 14 PA05
+	- 15 PA06
+	- 16 PA07
+	- 17 PA08
+	- 18 PA09
+	- 19 PA10
+	- 20 PA11
+	- 21 VDDIO
+	- 22 GNDIO
+	- 23 PB10
+	- 24 PB11
+	- 25 PB12
+	- 26 PB13
+	- 27 PB14
+	- 28 PB15
+	- 29 PA12
+	- 30 PA13
+	- 31 PA14
+	- 32 PA15
+	- 33 GNDIO
+	- 34 VDDIO
+	- 35 PA16
+	- 36 PA17
+	- 37 PA18
+	- 38 PA19
+	- 39 PB16
+	- 40 PB17
+	- 41 PA20
+	- 42 PA21
+	- 43 PA22
+	- 44 PA23
+	- 45 PA24
+	- 46 PA25
+	- 47 GNDIO
+	- 48 VDDIO
+	- 49 PB22
+	- 50 PB23
+	- 51 PA27
+	- 52 RESET_N
+	- 53 PA28
+	- 54 GNDIO
+	- 55 VDDCORE
+	- 56 VDDIN
+	- 57 PA30
+	- 58 PA31
+	- 59 PB30
+	- 60 PB31
+	- 61 PB00
+	- 62 PB01
+	- 63 PB02
+	- 64 PB03
+## SAMC21J18A-UU
+### Description : 
+null
+null
+### Package : 
+null
+	- A1 PA00
+	- A2 PA01
+	- A3 PA03
+	- A4 PB08
+	- A5 PB09
+	- A6 PA04
+	- A7 PA06
+	- B1 PB01
+	- B2 PB02
+	- B3 PA02
+	- B4 PA09
+	- B5 PA05
+	- B6 PA07
+	- B7 PA08
+	- C1 PA31
+	- C2 PB00
+	- C3 PB03
+	- C4 VDDANA
+	- C5 VDDIO
+	- C6 PA10
+	- C7 PA11
+	- D1 PA30
+	- D2 VDDIN
+	- D3 GNDANA
+	- D4 GNDIO
+	- D5 PB12
+	- D6 PB11
+	- D7 PB10
+	- E1 VDDCORE
+	- E2 GNDIO
+	- E3 VDDIO
+	- E4 GNDIO
+	- E5 PB15
+	- E6 PB14
+	- E7 PB13
+	- F1 RESET_N
+	- F2 PA28
+	- F3 PA23
+	- F4 VDDIO
+	- F5 GNDIO
+	- F6 PA13
+	- F7 PA12
+	- G1 PB23
+	- G2 PA27
+	- G3 PA24
+	- G4 PA20
+	- G5 PA18
+	- G6 PA14
+	- G7 PA15
+	- H1 PB22
+	- H2 PA25
+	- H3 PA22
+	- H4 PA21
+	- H5 PA19
+	- H6 PA17
+	- H7 PA16
+## SAMC21N17A-AN
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA00
+	- 2 PA01
+	- 3 PC00
+	- 4 PC01
+	- 5 PC02
+	- 6 PC03
+	- 7 PA02
+	- 8 PA03
+	- 9 PB04
+	- 10 PB05
+	- 11 GNDANA
+	- 12 VDDANA
+	- 13 PB06
+	- 14 PB07
+	- 15 PB08
+	- 16 PB09
+	- 17 PA04
+	- 18 PA05
+	- 19 PA06
+	- 20 PA07
+	- 21 PC05
+	- 22 PC06
+	- 23 PC07
+	- 24 GNDIO
+	- 25 VDDIO
+	- 26 PA08
+	- 27 PA09
+	- 28 PA10
+	- 29 PA11
+	- 30 PB10
+	- 31 PB11
+	- 32 PB12
+	- 33 PB13
+	- 34 PB14
+	- 35 PB15
+	- 36 VDDIO
+	- 37 GNDIO
+	- 38 PC08
+	- 39 PC09
+	- 40 PC10
+	- 41 PC11
+	- 42 PC12
+	- 43 PC13
+	- 44 PC14
+	- 45 PC15
+	- 46 PA12
+	- 47 PA13
+	- 48 PA14
+	- 49 PA15
+	- 50 GNDIO
+	- 51 VDDIO
+	- 52 PA16
+	- 53 PA17
+	- 54 PA18
+	- 55 PA19
+	- 56 PC16
+	- 57 PC17
+	- 58 PC18
+	- 59 PC19
+	- 60 PC20
+	- 61 PC21
+	- 62 GNDIO
+	- 63 VDDIO
+	- 64 PB16
+	- 65 PB17
+	- 66 PB18
+	- 67 PB19
+	- 68 PB20
+	- 69 PB21
+	- 70 PA20
+	- 71 PA21
+	- 72 PA22
+	- 73 PA23
+	- 74 PA24
+	- 75 PA25
+	- 76 GNDIO
+	- 77 VDDIO
+	- 78 PB22
+	- 79 PB23
+	- 80 PB24
+	- 81 PB25
+	- 82 PC24
+	- 83 PC25
+	- 84 PC26
+	- 85 PC27
+	- 86 PC28
+	- 87 PA27
+	- 88 RESET_N
+	- 89 PA28
+	- 90 GNDIO
+	- 91 VDDCORE
+	- 92 VDDIN
+	- 93 PA30
+	- 94 PA31
+	- 95 PB30
+	- 96 PB31
+	- 97 PB00
+	- 98 PB01
+	- 99 PB02
+	- 100 PB03
+## SAMC21N17A-MN
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA00
+	- 2 PA01
+	- 3 PC00
+	- 4 PC01
+	- 5 PC02
+	- 6 PC03
+	- 7 PA02
+	- 8 PA03
+	- 9 PB04
+	- 10 PB05
+	- 11 GNDANA
+	- 12 VDDANA
+	- 13 PB06
+	- 14 PB07
+	- 15 PB08
+	- 16 PB09
+	- 17 PA04
+	- 18 PA05
+	- 19 PA06
+	- 20 PA07
+	- 21 PC05
+	- 22 PC06
+	- 23 PC07
+	- 24 GNDIO
+	- 25 VDDIO
+	- 26 PA08
+	- 27 PA09
+	- 28 PA10
+	- 29 PA11
+	- 30 PB10
+	- 31 PB11
+	- 32 PB12
+	- 33 PB13
+	- 34 PB14
+	- 35 PB15
+	- 36 VDDIO
+	- 37 GNDIO
+	- 38 PC08
+	- 39 PC09
+	- 40 PC10
+	- 41 PC11
+	- 42 PC12
+	- 43 PC13
+	- 44 PC14
+	- 45 PC15
+	- 46 PA12
+	- 47 PA13
+	- 48 PA14
+	- 49 PA15
+	- 50 GNDIO
+	- 51 VDDIO
+	- 52 PA16
+	- 53 PA17
+	- 54 PA18
+	- 55 PA19
+	- 56 PC16
+	- 57 PC17
+	- 58 PC18
+	- 59 PC19
+	- 60 PC20
+	- 61 PC21
+	- 62 GNDIO
+	- 63 VDDIO
+	- 64 PB16
+	- 65 PB17
+	- 66 PB18
+	- 67 PB19
+	- 68 PB20
+	- 69 PB21
+	- 70 PA20
+	- 71 PA21
+	- 72 PA22
+	- 73 PA23
+	- 74 PA24
+	- 75 PA25
+	- 76 GNDIO
+	- 77 VDDIO
+	- 78 PB22
+	- 79 PB23
+	- 80 PB24
+	- 81 PB25
+	- 82 PC24
+	- 83 PC25
+	- 84 PC26
+	- 85 PC27
+	- 86 PC28
+	- 87 PA27
+	- 88 RESET_N
+	- 89 PA28
+	- 90 GNDIO
+	- 91 VDDCORE
+	- 92 VDDIN
+	- 93 PA30
+	- 94 PA31
+	- 95 PB30
+	- 96 PB31
+	- 97 PB00
+	- 98 PB01
+	- 99 PB02
+	- 100 PB03
+## SAMC21N18A-AN
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA00
+	- 2 PA01
+	- 3 PC00
+	- 4 PC01
+	- 5 PC02
+	- 6 PC03
+	- 7 PA02
+	- 8 PA03
+	- 9 PB04
+	- 10 PB05
+	- 11 GNDANA
+	- 12 VDDANA
+	- 13 PB06
+	- 14 PB07
+	- 15 PB08
+	- 16 PB09
+	- 17 PA04
+	- 18 PA05
+	- 19 PA06
+	- 20 PA07
+	- 21 PC05
+	- 22 PC06
+	- 23 PC07
+	- 24 GNDIO
+	- 25 VDDIO
+	- 26 PA08
+	- 27 PA09
+	- 28 PA10
+	- 29 PA11
+	- 30 PB10
+	- 31 PB11
+	- 32 PB12
+	- 33 PB13
+	- 34 PB14
+	- 35 PB15
+	- 36 VDDIO
+	- 37 GNDIO
+	- 38 PC08
+	- 39 PC09
+	- 40 PC10
+	- 41 PC11
+	- 42 PC12
+	- 43 PC13
+	- 44 PC14
+	- 45 PC15
+	- 46 PA12
+	- 47 PA13
+	- 48 PA14
+	- 49 PA15
+	- 50 GNDIO
+	- 51 VDDIO
+	- 52 PA16
+	- 53 PA17
+	- 54 PA18
+	- 55 PA19
+	- 56 PC16
+	- 57 PC17
+	- 58 PC18
+	- 59 PC19
+	- 60 PC20
+	- 61 PC21
+	- 62 GNDIO
+	- 63 VDDIO
+	- 64 PB16
+	- 65 PB17
+	- 66 PB18
+	- 67 PB19
+	- 68 PB20
+	- 69 PB21
+	- 70 PA20
+	- 71 PA21
+	- 72 PA22
+	- 73 PA23
+	- 74 PA24
+	- 75 PA25
+	- 76 GNDIO
+	- 77 VDDIO
+	- 78 PB22
+	- 79 PB23
+	- 80 PB24
+	- 81 PB25
+	- 82 PC24
+	- 83 PC25
+	- 84 PC26
+	- 85 PC27
+	- 86 PC28
+	- 87 PA27
+	- 88 RESET_N
+	- 89 PA28
+	- 90 GNDIO
+	- 91 VDDCORE
+	- 92 VDDIN
+	- 93 PA30
+	- 94 PA31
+	- 95 PB30
+	- 96 PB31
+	- 97 PB00
+	- 98 PB01
+	- 99 PB02
+	- 100 PB03
+## SAMC21N18A-MN
+### Description : 
+null
+null
+### Package : 
+null
+	- 1 PA00
+	- 2 PA01
+	- 3 PC00
+	- 4 PC01
+	- 5 PC02
+	- 6 PC03
+	- 7 PA02
+	- 8 PA03
+	- 9 PB04
+	- 10 PB05
+	- 11 GNDANA
+	- 12 VDDANA
+	- 13 PB06
+	- 14 PB07
+	- 15 PB08
+	- 16 PB09
+	- 17 PA04
+	- 18 PA05
+	- 19 PA06
+	- 20 PA07
+	- 21 PC05
+	- 22 PC06
+	- 23 PC07
+	- 24 GNDIO
+	- 25 VDDIO
+	- 26 PA08
+	- 27 PA09
+	- 28 PA10
+	- 29 PA11
+	- 30 PB10
+	- 31 PB11
+	- 32 PB12
+	- 33 PB13
+	- 34 PB14
+	- 35 PB15
+	- 36 VDDIO
+	- 37 GNDIO
+	- 38 PC08
+	- 39 PC09
+	- 40 PC10
+	- 41 PC11
+	- 42 PC12
+	- 43 PC13
+	- 44 PC14
+	- 45 PC15
+	- 46 PA12
+	- 47 PA13
+	- 48 PA14
+	- 49 PA15
+	- 50 GNDIO
+	- 51 VDDIO
+	- 52 PA16
+	- 53 PA17
+	- 54 PA18
+	- 55 PA19
+	- 56 PC16
+	- 57 PC17
+	- 58 PC18
+	- 59 PC19
+	- 60 PC20
+	- 61 PC21
+	- 62 GNDIO
+	- 63 VDDIO
+	- 64 PB16
+	- 65 PB17
+	- 66 PB18
+	- 67 PB19
+	- 68 PB20
+	- 69 PB21
+	- 70 PA20
+	- 71 PA21
+	- 72 PA22
+	- 73 PA23
+	- 74 PA24
+	- 75 PA25
+	- 76 GNDIO
+	- 77 VDDIO
+	- 78 PB22
+	- 79 PB23
+	- 80 PB24
+	- 81 PB25
+	- 82 PC24
+	- 83 PC25
+	- 84 PC26
+	- 85 PC27
+	- 86 PC28
+	- 87 PA27
+	- 88 RESET_N
+	- 89 PA28
+	- 90 GNDIO
+	- 91 VDDCORE
+	- 92 VDDIN
+	- 93 PA30
+	- 94 PA31
+	- 95 PB30
+	- 96 PB31
+	- 97 PB00
+	- 98 PB01
+	- 99 PB02
+	- 100 PB03
