@@ -8,23 +8,23 @@
   (vendor "Labcenter Electronics")
   (version 1 0)
   (library
-    (part "SAM9X60D1G-CU"
+    (part "SAM9X60D5M-CU"
       (family "null")
       (package "null")
       (description "null")
       (attribute "Series" "SAM9X")
       (attribute "Footprint" "BGA233")
-      (attribute "MP" "SAM9X60D1G-CU")
+      (attribute "MP" "SAM9X60D5M-CU")
       (attribute "Architecture" "ARM926EJ-S")
       (attribute "PINOUT" "BGA233")
       (attribute "Reference" "U")
-      (attribute "Value" "SAM9X60D1G-CU")
+      (attribute "Value" "SAM9X60D5M-CU")
       (attribute "Family" "SAM9")
       (attribute "MF" "Microchip")
-      (attribute "Name" "SAM9X60D1G")
+      (attribute "Name" "SAM9X60D5M")
       (gate
         (swap 1)
-        (symbol "SAM9X60D1G-CU")
+        (symbol "SAM9X60D5M-CU")
         (pin "PA0" L2 (type IO))
         (pin "PA1" L3 (type IO))
         (pin "PA2" K2 (type IO))
@@ -260,7 +260,7 @@
         (pin "DDRM_VSS" A17 (type PS))
       )
     )
-    (symbol "SAM9X60D1G-CU"
+    (symbol "SAM9X60D5M-CU"
       (units THOU)
       (graphic
         (stroke 1)
@@ -2444,23 +2444,23 @@ null
   (vendor "Labcenter Electronics")
   (version 1 0)
   (library
-    (part "SAM9X60D5M-CU"
+    (part "SAM9X60D1G-CU"
       (family "null")
       (package "null")
       (description "null")
       (attribute "Series" "SAM9X")
       (attribute "Footprint" "BGA233")
-      (attribute "MP" "SAM9X60D5M-CU")
+      (attribute "MP" "SAM9X60D1G-CU")
       (attribute "Architecture" "ARM926EJ-S")
       (attribute "PINOUT" "BGA233")
       (attribute "Reference" "U")
-      (attribute "Value" "SAM9X60D5M-CU")
+      (attribute "Value" "SAM9X60D1G-CU")
       (attribute "Family" "SAM9")
       (attribute "MF" "Microchip")
-      (attribute "Name" "SAM9X60D5M")
+      (attribute "Name" "SAM9X60D1G")
       (gate
         (swap 1)
-        (symbol "SAM9X60D5M-CU")
+        (symbol "SAM9X60D1G-CU")
         (pin "PA0" L2 (type IO))
         (pin "PA1" L3 (type IO))
         (pin "PA2" K2 (type IO))
@@ -2696,7 +2696,7 @@ null
         (pin "DDRM_VSS" A17 (type PS))
       )
     )
-    (symbol "SAM9X60D5M-CU"
+    (symbol "SAM9X60D1G-CU"
       (units THOU)
       (graphic
         (stroke 1)
@@ -16365,23 +16365,23 @@ null
   (vendor "Labcenter Electronics")
   (version 1 0)
   (library
-    (part "SAM9X75D2G-CU"
+    (part "SAM9X75D1G-CU"
       (family "null")
       (package "null")
       (description "null")
       (attribute "Series" "SAM9X7")
       (attribute "Footprint" "BGA243")
-      (attribute "MP" "SAM9X75D2G-CU")
+      (attribute "MP" "SAM9X75D1G-CU")
       (attribute "Architecture" "ARM926EJ-S")
       (attribute "PINOUT" "BGA243")
       (attribute "Reference" "U")
-      (attribute "Value" "SAM9X75D2G-CU")
+      (attribute "Value" "SAM9X75D1G-CU")
       (attribute "Family" "SAM9")
       (attribute "MF" "Microchip")
-      (attribute "Name" "SAM9X75D2G")
+      (attribute "Name" "SAM9X75D1G")
       (gate
         (swap 1)
-        (symbol "SAM9X75D2G-CU")
+        (symbol "SAM9X75D1G-CU")
         (pin "GND" A1 (type PS))
         (pin "PC30" A2 (type IO))
         (pin "PC2" A3 (type IO))
@@ -16627,7 +16627,7 @@ null
         (pin "GND" U17 (type PS))
       )
     )
-    (symbol "SAM9X75D2G-CU"
+    (symbol "SAM9X75D1G-CU"
       (units THOU)
       (graphic
         (stroke 1)
@@ -21189,23 +21189,23 @@ null
   (vendor "Labcenter Electronics")
   (version 1 0)
   (library
-    (part "SAM9X75D1G-CU"
+    (part "SAM9X75D2G-CU"
       (family "null")
       (package "null")
       (description "null")
       (attribute "Series" "SAM9X7")
       (attribute "Footprint" "BGA243")
-      (attribute "MP" "SAM9X75D1G-CU")
+      (attribute "MP" "SAM9X75D2G-CU")
       (attribute "Architecture" "ARM926EJ-S")
       (attribute "PINOUT" "BGA243")
       (attribute "Reference" "U")
-      (attribute "Value" "SAM9X75D1G-CU")
+      (attribute "Value" "SAM9X75D2G-CU")
       (attribute "Family" "SAM9")
       (attribute "MF" "Microchip")
-      (attribute "Name" "SAM9X75D1G")
+      (attribute "Name" "SAM9X75D2G")
       (gate
         (swap 1)
-        (symbol "SAM9X75D1G-CU")
+        (symbol "SAM9X75D2G-CU")
         (pin "GND" A1 (type PS))
         (pin "PC30" A2 (type IO))
         (pin "PC2" A3 (type IO))
@@ -21451,7 +21451,7 @@ null
         (pin "GND" U17 (type PS))
       )
     )
-    (symbol "SAM9X75D1G-CU"
+    (symbol "SAM9X75D2G-CU"
       (units THOU)
       (graphic
         (stroke 1)

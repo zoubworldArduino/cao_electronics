@@ -946,6 +946,242 @@
 		(symbol "PIC32MK0512GPK100_1_1"
 		)
 	)
+(symbol "PIC32MK1024GPD064"
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Series" "PIC32MK"
+			(at -12.7 5.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Footprint" "TQFP64"
+			(at -12.7 7.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "MP" "PIC32MK1024GPD064"
+			(at -12.7 10.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Architecture" "MIPS"
+			(at -12.7 12.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "PINOUT" "TQFP64_QFN64"
+			(at -12.7 15.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Reference" "U"
+			(at -12.7 17.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "PIC32MK1024GPD064"
+			(at -12.7 20.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Family" "PIC32MK"
+			(at -12.7 22.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "MF" "Microchip"
+			(at -12.7 25.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Name" "PIC32MK1024GPD064"
+			(at -12.7 27.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(symbol "PIC32MK1024GPD064_0_1"
+			(rectangle
+				(start -7.62 5.08)
+				(end 7.62 -5.08)
+				(stroke
+					(width 0.254)
+					(type default)
+				)
+				(fill
+					(type background)
+				)
+			)
+		)
+		(symbol "PIC32MK1024GPD064_1_1"
+		)
+	)
+(symbol "PIC32MK1024GPD064"
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Series" "PIC32MK"
+			(at -12.7 5.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Footprint" "QFN64"
+			(at -12.7 7.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "MP" "PIC32MK1024GPD064"
+			(at -12.7 10.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Architecture" "MIPS"
+			(at -12.7 12.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "PINOUT" "TQFP64_QFN64"
+			(at -12.7 15.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Reference" "U"
+			(at -12.7 17.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "PIC32MK1024GPD064"
+			(at -12.7 20.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Family" "PIC32MK"
+			(at -12.7 22.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "MF" "Microchip"
+			(at -12.7 25.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Name" "PIC32MK1024GPD064"
+			(at -12.7 27.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(symbol "PIC32MK1024GPD064_0_1"
+			(rectangle
+				(start -7.62 5.08)
+				(end 7.62 -5.08)
+				(stroke
+					(width 0.254)
+					(type default)
+				)
+				(fill
+					(type background)
+				)
+			)
+		)
+		(symbol "PIC32MK1024GPD064_1_1"
+		)
+	)
 (symbol "PIC32MK0256MCJ064"
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1298,242 +1534,6 @@
 			)
 		)
 		(symbol "PIC32MK0512MCM100_1_1"
-		)
-	)
-(symbol "PIC32MK1024GPD064"
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(property "Series" "PIC32MK"
-			(at -12.7 5.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Footprint" "TQFP64"
-			(at -12.7 7.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "MP" "PIC32MK1024GPD064"
-			(at -12.7 10.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Architecture" "MIPS"
-			(at -12.7 12.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "PINOUT" "TQFP64_QFN64"
-			(at -12.7 15.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Reference" "U"
-			(at -12.7 17.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "PIC32MK1024GPD064"
-			(at -12.7 20.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Family" "PIC32MK"
-			(at -12.7 22.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "MF" "Microchip"
-			(at -12.7 25.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Name" "PIC32MK1024GPD064"
-			(at -12.7 27.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(symbol "PIC32MK1024GPD064_0_1"
-			(rectangle
-				(start -7.62 5.08)
-				(end 7.62 -5.08)
-				(stroke
-					(width 0.254)
-					(type default)
-				)
-				(fill
-					(type background)
-				)
-			)
-		)
-		(symbol "PIC32MK1024GPD064_1_1"
-		)
-	)
-(symbol "PIC32MK1024GPD064"
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(property "Series" "PIC32MK"
-			(at -12.7 5.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Footprint" "QFN64"
-			(at -12.7 7.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "MP" "PIC32MK1024GPD064"
-			(at -12.7 10.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Architecture" "MIPS"
-			(at -12.7 12.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "PINOUT" "TQFP64_QFN64"
-			(at -12.7 15.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Reference" "U"
-			(at -12.7 17.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "PIC32MK1024GPD064"
-			(at -12.7 20.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Family" "PIC32MK"
-			(at -12.7 22.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "MF" "Microchip"
-			(at -12.7 25.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Name" "PIC32MK1024GPD064"
-			(at -12.7 27.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(symbol "PIC32MK1024GPD064_0_1"
-			(rectangle
-				(start -7.62 5.08)
-				(end 7.62 -5.08)
-				(stroke
-					(width 0.254)
-					(type default)
-				)
-				(fill
-					(type background)
-				)
-			)
-		)
-		(symbol "PIC32MK1024GPD064_1_1"
 		)
 	)
 (symbol "PIC32MK0512GPG064"
@@ -2598,242 +2598,6 @@
 		(symbol "PIC32MK0512MCF064_1_1"
 		)
 	)
-(symbol "PIC32MK1024GPE100"
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(property "Series" "PIC32MK"
-			(at -12.7 5.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Footprint" "TQFP100"
-			(at -12.7 7.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "MP" "PIC32MK1024GPE100"
-			(at -12.7 10.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Architecture" "MIPS"
-			(at -12.7 12.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "PINOUT" "TQFP100"
-			(at -12.7 15.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Reference" "U"
-			(at -12.7 17.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "PIC32MK1024GPE100"
-			(at -12.7 20.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Family" "PIC32MK"
-			(at -12.7 22.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "MF" "Microchip"
-			(at -12.7 25.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Name" "PIC32MK1024GPE100"
-			(at -12.7 27.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(symbol "PIC32MK1024GPE100_0_1"
-			(rectangle
-				(start -7.62 5.08)
-				(end 7.62 -5.08)
-				(stroke
-					(width 0.254)
-					(type default)
-				)
-				(fill
-					(type background)
-				)
-			)
-		)
-		(symbol "PIC32MK1024GPE100_1_1"
-		)
-	)
-(symbol "PIC32MK0512GPD100"
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(property "Series" "PIC32MK"
-			(at -12.7 5.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Footprint" "TQFP100"
-			(at -12.7 7.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "MP" "PIC32MK0512GPD100"
-			(at -12.7 10.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Architecture" "MIPS"
-			(at -12.7 12.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "PINOUT" "TQFP100"
-			(at -12.7 15.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Reference" "U"
-			(at -12.7 17.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "PIC32MK0512GPD100"
-			(at -12.7 20.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Family" "PIC32MK"
-			(at -12.7 22.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "MF" "Microchip"
-			(at -12.7 25.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Name" "PIC32MK0512GPD100"
-			(at -12.7 27.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(symbol "PIC32MK0512GPD100_0_1"
-			(rectangle
-				(start -7.62 5.08)
-				(end 7.62 -5.08)
-				(stroke
-					(width 0.254)
-					(type default)
-				)
-				(fill
-					(type background)
-				)
-			)
-		)
-		(symbol "PIC32MK0512GPD100_1_1"
-		)
-	)
 (symbol "PIC32MK1024GPD100"
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2952,242 +2716,6 @@
 		(symbol "PIC32MK1024GPD100_1_1"
 		)
 	)
-(symbol "PIC32MK0256MCJ048"
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(property "Series" "PIC32MK"
-			(at -12.7 5.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Footprint" "TQFP48"
-			(at -12.7 7.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "MP" "PIC32MK0256MCJ048"
-			(at -12.7 10.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Architecture" "MIPS"
-			(at -12.7 12.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "PINOUT" "TQFP48"
-			(at -12.7 15.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Reference" "U"
-			(at -12.7 17.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "PIC32MK0256MCJ048"
-			(at -12.7 20.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Family" "PIC32MK"
-			(at -12.7 22.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "MF" "Microchip"
-			(at -12.7 25.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Name" "PIC32MK0256MCJ048"
-			(at -12.7 27.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(symbol "PIC32MK0256MCJ048_0_1"
-			(rectangle
-				(start -7.62 5.08)
-				(end 7.62 -5.08)
-				(stroke
-					(width 0.254)
-					(type default)
-				)
-				(fill
-					(type background)
-				)
-			)
-		)
-		(symbol "PIC32MK0256MCJ048_1_1"
-		)
-	)
-(symbol "PIC32MK0256MCJ048"
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(property "Series" "PIC32MK"
-			(at -12.7 5.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Footprint" "QFN48"
-			(at -12.7 7.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "MP" "PIC32MK0256MCJ048"
-			(at -12.7 10.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Architecture" "MIPS"
-			(at -12.7 12.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "PINOUT" "QFN48"
-			(at -12.7 15.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Reference" "U"
-			(at -12.7 17.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "PIC32MK0256MCJ048"
-			(at -12.7 20.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Family" "PIC32MK"
-			(at -12.7 22.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "MF" "Microchip"
-			(at -12.7 25.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Name" "PIC32MK0256MCJ048"
-			(at -12.7 27.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(symbol "PIC32MK0256MCJ048_0_1"
-			(rectangle
-				(start -7.62 5.08)
-				(end 7.62 -5.08)
-				(stroke
-					(width 0.254)
-					(type default)
-				)
-				(fill
-					(type background)
-				)
-			)
-		)
-		(symbol "PIC32MK0256MCJ048_1_1"
-		)
-	)
 (symbol "PIC32MK0256GPG064"
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3424,833 +2952,7 @@
 		(symbol "PIC32MK0256GPG064_1_1"
 		)
 	)
-(symbol "PIC32MK1024MCM064"
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(property "Series" "PIC32MK"
-			(at -12.7 5.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Footprint" "TQFP64"
-			(at -12.7 7.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "MP" "PIC32MK1024MCM064"
-			(at -12.7 10.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Architecture" "MIPS"
-			(at -12.7 12.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "PINOUT" "TQFP64"
-			(at -12.7 15.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Reference" "U"
-			(at -12.7 17.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "PIC32MK1024MCM064"
-			(at -12.7 20.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Family" "PIC32MK"
-			(at -12.7 22.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "MF" "Microchip"
-			(at -12.7 25.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Name" "PIC32MK1024MCM064"
-			(at -12.7 27.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(symbol "PIC32MK1024MCM064_0_1"
-			(rectangle
-				(start -7.62 5.08)
-				(end 7.62 -5.08)
-				(stroke
-					(width 0.254)
-					(type default)
-				)
-				(fill
-					(type background)
-				)
-			)
-		)
-		(symbol "PIC32MK1024MCM064_1_1"
-		)
-	)
-(symbol "PIC32MK1024MCM064"
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(property "Series" "PIC32MK"
-			(at -12.7 5.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Footprint" "QFN64"
-			(at -12.7 7.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "MP" "PIC32MK1024MCM064"
-			(at -12.7 10.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Architecture" "MIPS"
-			(at -12.7 12.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "PINOUT" "QFN64"
-			(at -12.7 15.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Reference" "U"
-			(at -12.7 17.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "PIC32MK1024MCM064"
-			(at -12.7 20.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Family" "PIC32MK"
-			(at -12.7 22.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "MF" "Microchip"
-			(at -12.7 25.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Name" "PIC32MK1024MCM064"
-			(at -12.7 27.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(symbol "PIC32MK1024MCM064_0_1"
-			(rectangle
-				(start -7.62 5.08)
-				(end 7.62 -5.08)
-				(stroke
-					(width 0.254)
-					(type default)
-				)
-				(fill
-					(type background)
-				)
-			)
-		)
-		(symbol "PIC32MK1024MCM064_1_1"
-		)
-	)
-(symbol "PIC32MK0512GPK064"
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(property "Series" "PIC32MK"
-			(at -12.7 5.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Footprint" "TQFP64"
-			(at -12.7 7.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "MP" "PIC32MK0512GPK064"
-			(at -12.7 10.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Architecture" "MIPS"
-			(at -12.7 12.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "PINOUT" "TQFP64"
-			(at -12.7 15.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Reference" "U"
-			(at -12.7 17.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "PIC32MK0512GPK064"
-			(at -12.7 20.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Family" "PIC32MK"
-			(at -12.7 22.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "MF" "Microchip"
-			(at -12.7 25.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Name" "PIC32MK0512GPK064"
-			(at -12.7 27.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(symbol "PIC32MK0512GPK064_0_1"
-			(rectangle
-				(start -7.62 5.08)
-				(end 7.62 -5.08)
-				(stroke
-					(width 0.254)
-					(type default)
-				)
-				(fill
-					(type background)
-				)
-			)
-		)
-		(symbol "PIC32MK0512GPK064_1_1"
-		)
-	)
-(symbol "PIC32MK0512GPK064"
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(property "Series" "PIC32MK"
-			(at -12.7 5.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Footprint" "QFN64"
-			(at -12.7 7.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "MP" "PIC32MK0512GPK064"
-			(at -12.7 10.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Architecture" "MIPS"
-			(at -12.7 12.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "PINOUT" "QFN64"
-			(at -12.7 15.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Reference" "U"
-			(at -12.7 17.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "PIC32MK0512GPK064"
-			(at -12.7 20.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Family" "PIC32MK"
-			(at -12.7 22.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "MF" "Microchip"
-			(at -12.7 25.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Name" "PIC32MK0512GPK064"
-			(at -12.7 27.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(symbol "PIC32MK0512GPK064_0_1"
-			(rectangle
-				(start -7.62 5.08)
-				(end 7.62 -5.08)
-				(stroke
-					(width 0.254)
-					(type default)
-				)
-				(fill
-					(type background)
-				)
-			)
-		)
-		(symbol "PIC32MK0512GPK064_1_1"
-		)
-	)
-(symbol "PIC32MK0128MCA028"
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(property "Series" "PIC32MK"
-			(at -12.7 5.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Footprint" "SSOP28"
-			(at -12.7 7.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "MP" "PIC32MK0128MCA028"
-			(at -12.7 10.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Architecture" "MIPS"
-			(at -12.7 12.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "PINOUT" "SSOP28"
-			(at -12.7 15.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Reference" "U"
-			(at -12.7 17.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "PIC32MK0128MCA028"
-			(at -12.7 20.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Family" "PIC32MK"
-			(at -12.7 22.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "MF" "Microchip"
-			(at -12.7 25.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Name" "PIC32MK0128MCA028"
-			(at -12.7 27.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(symbol "PIC32MK0128MCA028_0_1"
-			(rectangle
-				(start -7.62 5.08)
-				(end 7.62 -5.08)
-				(stroke
-					(width 0.254)
-					(type default)
-				)
-				(fill
-					(type background)
-				)
-			)
-		)
-		(symbol "PIC32MK0128MCA028_1_1"
-		)
-	)
-(symbol "PIC32MK0512GPE064"
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(property "Series" "PIC32MK"
-			(at -12.7 5.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Footprint" "TQFP64"
-			(at -12.7 7.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "MP" "PIC32MK0512GPE064"
-			(at -12.7 10.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Architecture" "MIPS"
-			(at -12.7 12.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "PINOUT" "TQFP64_QFN64"
-			(at -12.7 15.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Reference" "U"
-			(at -12.7 17.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "PIC32MK0512GPE064"
-			(at -12.7 20.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Family" "PIC32MK"
-			(at -12.7 22.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "MF" "Microchip"
-			(at -12.7 25.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Name" "PIC32MK0512GPE064"
-			(at -12.7 27.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(symbol "PIC32MK0512GPE064_0_1"
-			(rectangle
-				(start -7.62 5.08)
-				(end 7.62 -5.08)
-				(stroke
-					(width 0.254)
-					(type default)
-				)
-				(fill
-					(type background)
-				)
-			)
-		)
-		(symbol "PIC32MK0512GPE064_1_1"
-		)
-	)
-(symbol "PIC32MK0512GPE064"
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(property "Series" "PIC32MK"
-			(at -12.7 5.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Footprint" "QFN64"
-			(at -12.7 7.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "MP" "PIC32MK0512GPE064"
-			(at -12.7 10.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Architecture" "MIPS"
-			(at -12.7 12.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "PINOUT" "TQFP64_QFN64"
-			(at -12.7 15.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Reference" "U"
-			(at -12.7 17.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "PIC32MK0512GPE064"
-			(at -12.7 20.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Family" "PIC32MK"
-			(at -12.7 22.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "MF" "Microchip"
-			(at -12.7 25.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Name" "PIC32MK0512GPE064"
-			(at -12.7 27.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(symbol "PIC32MK0512GPE064_0_1"
-			(rectangle
-				(start -7.62 5.08)
-				(end 7.62 -5.08)
-				(stroke
-					(width 0.254)
-					(type default)
-				)
-				(fill
-					(type background)
-				)
-			)
-		)
-		(symbol "PIC32MK0512GPE064_1_1"
-		)
-	)
-(symbol "PIC32MK1024GPK100"
+(symbol "PIC32MK1024GPE100"
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -4274,7 +2976,7 @@
 				(justify left)
 			)
 		)
-		(property "MP" "PIC32MK1024GPK100"
+		(property "MP" "PIC32MK1024GPE100"
 			(at -12.7 10.08 0)
 			(effects
 				(font
@@ -4313,7 +3015,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "PIC32MK1024GPK100"
+		(property "Value" "PIC32MK1024GPE100"
 			(at -12.7 20.08 0)
 			(effects
 				(font
@@ -4342,7 +3044,7 @@
 				(justify left)
 			)
 		)
-		(property "Name" "PIC32MK1024GPK100"
+		(property "Name" "PIC32MK1024GPE100"
 			(at -12.7 27.58 0)
 			(effects
 				(font
@@ -4352,7 +3054,7 @@
 				(justify left)
 			)
 		)
-		(symbol "PIC32MK1024GPK100_0_1"
+		(symbol "PIC32MK1024GPE100_0_1"
 			(rectangle
 				(start -7.62 5.08)
 				(end 7.62 -5.08)
@@ -4365,7 +3067,243 @@
 				)
 			)
 		)
-		(symbol "PIC32MK1024GPK100_1_1"
+		(symbol "PIC32MK1024GPE100_1_1"
+		)
+	)
+(symbol "PIC32MK1024MCM064"
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Series" "PIC32MK"
+			(at -12.7 5.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Footprint" "TQFP64"
+			(at -12.7 7.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "MP" "PIC32MK1024MCM064"
+			(at -12.7 10.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Architecture" "MIPS"
+			(at -12.7 12.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "PINOUT" "TQFP64"
+			(at -12.7 15.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Reference" "U"
+			(at -12.7 17.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "PIC32MK1024MCM064"
+			(at -12.7 20.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Family" "PIC32MK"
+			(at -12.7 22.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "MF" "Microchip"
+			(at -12.7 25.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Name" "PIC32MK1024MCM064"
+			(at -12.7 27.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(symbol "PIC32MK1024MCM064_0_1"
+			(rectangle
+				(start -7.62 5.08)
+				(end 7.62 -5.08)
+				(stroke
+					(width 0.254)
+					(type default)
+				)
+				(fill
+					(type background)
+				)
+			)
+		)
+		(symbol "PIC32MK1024MCM064_1_1"
+		)
+	)
+(symbol "PIC32MK1024MCM064"
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Series" "PIC32MK"
+			(at -12.7 5.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Footprint" "QFN64"
+			(at -12.7 7.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "MP" "PIC32MK1024MCM064"
+			(at -12.7 10.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Architecture" "MIPS"
+			(at -12.7 12.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "PINOUT" "QFN64"
+			(at -12.7 15.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Reference" "U"
+			(at -12.7 17.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "PIC32MK1024MCM064"
+			(at -12.7 20.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Family" "PIC32MK"
+			(at -12.7 22.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "MF" "Microchip"
+			(at -12.7 25.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Name" "PIC32MK1024MCM064"
+			(at -12.7 27.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(symbol "PIC32MK1024MCM064_0_1"
+			(rectangle
+				(start -7.62 5.08)
+				(end 7.62 -5.08)
+				(stroke
+					(width 0.254)
+					(type default)
+				)
+				(fill
+					(type background)
+				)
+			)
+		)
+		(symbol "PIC32MK1024MCM064_1_1"
 		)
 	)
 (symbol "PIC32MK1024MCF100"
@@ -4486,243 +3424,7 @@
 		(symbol "PIC32MK1024MCF100_1_1"
 		)
 	)
-(symbol "PIC32MK0512GPG048"
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(property "Series" "PIC32MK"
-			(at -12.7 5.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Footprint" "TQFP48"
-			(at -12.7 7.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "MP" "PIC32MK0512GPG048"
-			(at -12.7 10.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Architecture" "MIPS"
-			(at -12.7 12.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "PINOUT" "TQFP48"
-			(at -12.7 15.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Reference" "U"
-			(at -12.7 17.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "PIC32MK0512GPG048"
-			(at -12.7 20.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Family" "PIC32MK"
-			(at -12.7 22.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "MF" "Microchip"
-			(at -12.7 25.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Name" "PIC32MK0512GPG048"
-			(at -12.7 27.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(symbol "PIC32MK0512GPG048_0_1"
-			(rectangle
-				(start -7.62 5.08)
-				(end 7.62 -5.08)
-				(stroke
-					(width 0.254)
-					(type default)
-				)
-				(fill
-					(type background)
-				)
-			)
-		)
-		(symbol "PIC32MK0512GPG048_1_1"
-		)
-	)
-(symbol "PIC32MK0512GPG048"
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(property "Series" "PIC32MK"
-			(at -12.7 5.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Footprint" "QFN48"
-			(at -12.7 7.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "MP" "PIC32MK0512GPG048"
-			(at -12.7 10.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Architecture" "MIPS"
-			(at -12.7 12.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "PINOUT" "QFN48"
-			(at -12.7 15.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Reference" "U"
-			(at -12.7 17.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "PIC32MK0512GPG048"
-			(at -12.7 20.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Family" "PIC32MK"
-			(at -12.7 22.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "MF" "Microchip"
-			(at -12.7 25.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Name" "PIC32MK0512GPG048"
-			(at -12.7 27.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(symbol "PIC32MK0512GPG048_0_1"
-			(rectangle
-				(start -7.62 5.08)
-				(end 7.62 -5.08)
-				(stroke
-					(width 0.254)
-					(type default)
-				)
-				(fill
-					(type background)
-				)
-			)
-		)
-		(symbol "PIC32MK0512GPG048_1_1"
-		)
-	)
-(symbol "PIC32MK1024MCF064"
+(symbol "PIC32MK0512GPE064"
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -4746,7 +3448,7 @@
 				(justify left)
 			)
 		)
-		(property "MP" "PIC32MK1024MCF064"
+		(property "MP" "PIC32MK0512GPE064"
 			(at -12.7 10.08 0)
 			(effects
 				(font
@@ -4785,7 +3487,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "PIC32MK1024MCF064"
+		(property "Value" "PIC32MK0512GPE064"
 			(at -12.7 20.08 0)
 			(effects
 				(font
@@ -4814,7 +3516,7 @@
 				(justify left)
 			)
 		)
-		(property "Name" "PIC32MK1024MCF064"
+		(property "Name" "PIC32MK0512GPE064"
 			(at -12.7 27.58 0)
 			(effects
 				(font
@@ -4824,7 +3526,7 @@
 				(justify left)
 			)
 		)
-		(symbol "PIC32MK1024MCF064_0_1"
+		(symbol "PIC32MK0512GPE064_0_1"
 			(rectangle
 				(start -7.62 5.08)
 				(end 7.62 -5.08)
@@ -4837,10 +3539,10 @@
 				)
 			)
 		)
-		(symbol "PIC32MK1024MCF064_1_1"
+		(symbol "PIC32MK0512GPE064_1_1"
 		)
 	)
-(symbol "PIC32MK1024MCF064"
+(symbol "PIC32MK0512GPE064"
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -4864,7 +3566,7 @@
 				(justify left)
 			)
 		)
-		(property "MP" "PIC32MK1024MCF064"
+		(property "MP" "PIC32MK0512GPE064"
 			(at -12.7 10.08 0)
 			(effects
 				(font
@@ -4903,7 +3605,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "PIC32MK1024MCF064"
+		(property "Value" "PIC32MK0512GPE064"
 			(at -12.7 20.08 0)
 			(effects
 				(font
@@ -4932,7 +3634,7 @@
 				(justify left)
 			)
 		)
-		(property "Name" "PIC32MK1024MCF064"
+		(property "Name" "PIC32MK0512GPE064"
 			(at -12.7 27.58 0)
 			(effects
 				(font
@@ -4942,7 +3644,7 @@
 				(justify left)
 			)
 		)
-		(symbol "PIC32MK1024MCF064_0_1"
+		(symbol "PIC32MK0512GPE064_0_1"
 			(rectangle
 				(start -7.62 5.08)
 				(end 7.62 -5.08)
@@ -4955,243 +3657,7 @@
 				)
 			)
 		)
-		(symbol "PIC32MK1024MCF064_1_1"
-		)
-	)
-(symbol "PIC32MK0512MCM064"
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(property "Series" "PIC32MK"
-			(at -12.7 5.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Footprint" "TQFP64"
-			(at -12.7 7.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "MP" "PIC32MK0512MCM064"
-			(at -12.7 10.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Architecture" "MIPS"
-			(at -12.7 12.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "PINOUT" "TQFP64"
-			(at -12.7 15.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Reference" "U"
-			(at -12.7 17.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "PIC32MK0512MCM064"
-			(at -12.7 20.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Family" "PIC32MK"
-			(at -12.7 22.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "MF" "Microchip"
-			(at -12.7 25.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Name" "PIC32MK0512MCM064"
-			(at -12.7 27.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(symbol "PIC32MK0512MCM064_0_1"
-			(rectangle
-				(start -7.62 5.08)
-				(end 7.62 -5.08)
-				(stroke
-					(width 0.254)
-					(type default)
-				)
-				(fill
-					(type background)
-				)
-			)
-		)
-		(symbol "PIC32MK0512MCM064_1_1"
-		)
-	)
-(symbol "PIC32MK0512MCM064"
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(property "Series" "PIC32MK"
-			(at -12.7 5.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Footprint" "QFN64"
-			(at -12.7 7.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "MP" "PIC32MK0512MCM064"
-			(at -12.7 10.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Architecture" "MIPS"
-			(at -12.7 12.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "PINOUT" "QFN64"
-			(at -12.7 15.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Reference" "U"
-			(at -12.7 17.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "PIC32MK0512MCM064"
-			(at -12.7 20.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Family" "PIC32MK"
-			(at -12.7 22.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "MF" "Microchip"
-			(at -12.7 25.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Name" "PIC32MK0512MCM064"
-			(at -12.7 27.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(symbol "PIC32MK0512MCM064_0_1"
-			(rectangle
-				(start -7.62 5.08)
-				(end 7.62 -5.08)
-				(stroke
-					(width 0.254)
-					(type default)
-				)
-				(fill
-					(type background)
-				)
-			)
-		)
-		(symbol "PIC32MK0512MCM064_1_1"
+		(symbol "PIC32MK0512GPE064_1_1"
 		)
 	)
 (symbol "PIC32MK0512MCF100"
@@ -5430,6 +3896,1068 @@
 		(symbol "PIC32MK1024MCM100_1_1"
 		)
 	)
+(symbol "PIC32MK0128MCA028"
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Series" "PIC32MK"
+			(at -12.7 5.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Footprint" "SSOP28"
+			(at -12.7 7.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "MP" "PIC32MK0128MCA028"
+			(at -12.7 10.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Architecture" "MIPS"
+			(at -12.7 12.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "PINOUT" "SSOP28"
+			(at -12.7 15.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Reference" "U"
+			(at -12.7 17.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "PIC32MK0128MCA028"
+			(at -12.7 20.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Family" "PIC32MK"
+			(at -12.7 22.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "MF" "Microchip"
+			(at -12.7 25.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Name" "PIC32MK0128MCA028"
+			(at -12.7 27.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(symbol "PIC32MK0128MCA028_0_1"
+			(rectangle
+				(start -7.62 5.08)
+				(end 7.62 -5.08)
+				(stroke
+					(width 0.254)
+					(type default)
+				)
+				(fill
+					(type background)
+				)
+			)
+		)
+		(symbol "PIC32MK0128MCA028_1_1"
+		)
+	)
+(symbol "PIC32MK0256MCJ048"
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Series" "PIC32MK"
+			(at -12.7 5.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Footprint" "TQFP48"
+			(at -12.7 7.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "MP" "PIC32MK0256MCJ048"
+			(at -12.7 10.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Architecture" "MIPS"
+			(at -12.7 12.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "PINOUT" "TQFP48"
+			(at -12.7 15.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Reference" "U"
+			(at -12.7 17.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "PIC32MK0256MCJ048"
+			(at -12.7 20.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Family" "PIC32MK"
+			(at -12.7 22.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "MF" "Microchip"
+			(at -12.7 25.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Name" "PIC32MK0256MCJ048"
+			(at -12.7 27.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(symbol "PIC32MK0256MCJ048_0_1"
+			(rectangle
+				(start -7.62 5.08)
+				(end 7.62 -5.08)
+				(stroke
+					(width 0.254)
+					(type default)
+				)
+				(fill
+					(type background)
+				)
+			)
+		)
+		(symbol "PIC32MK0256MCJ048_1_1"
+		)
+	)
+(symbol "PIC32MK0256MCJ048"
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Series" "PIC32MK"
+			(at -12.7 5.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Footprint" "QFN48"
+			(at -12.7 7.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "MP" "PIC32MK0256MCJ048"
+			(at -12.7 10.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Architecture" "MIPS"
+			(at -12.7 12.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "PINOUT" "QFN48"
+			(at -12.7 15.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Reference" "U"
+			(at -12.7 17.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "PIC32MK0256MCJ048"
+			(at -12.7 20.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Family" "PIC32MK"
+			(at -12.7 22.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "MF" "Microchip"
+			(at -12.7 25.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Name" "PIC32MK0256MCJ048"
+			(at -12.7 27.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(symbol "PIC32MK0256MCJ048_0_1"
+			(rectangle
+				(start -7.62 5.08)
+				(end 7.62 -5.08)
+				(stroke
+					(width 0.254)
+					(type default)
+				)
+				(fill
+					(type background)
+				)
+			)
+		)
+		(symbol "PIC32MK0256MCJ048_1_1"
+		)
+	)
+(symbol "PIC32MK0512GPK064"
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Series" "PIC32MK"
+			(at -12.7 5.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Footprint" "TQFP64"
+			(at -12.7 7.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "MP" "PIC32MK0512GPK064"
+			(at -12.7 10.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Architecture" "MIPS"
+			(at -12.7 12.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "PINOUT" "TQFP64"
+			(at -12.7 15.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Reference" "U"
+			(at -12.7 17.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "PIC32MK0512GPK064"
+			(at -12.7 20.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Family" "PIC32MK"
+			(at -12.7 22.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "MF" "Microchip"
+			(at -12.7 25.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Name" "PIC32MK0512GPK064"
+			(at -12.7 27.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(symbol "PIC32MK0512GPK064_0_1"
+			(rectangle
+				(start -7.62 5.08)
+				(end 7.62 -5.08)
+				(stroke
+					(width 0.254)
+					(type default)
+				)
+				(fill
+					(type background)
+				)
+			)
+		)
+		(symbol "PIC32MK0512GPK064_1_1"
+		)
+	)
+(symbol "PIC32MK0512GPK064"
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Series" "PIC32MK"
+			(at -12.7 5.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Footprint" "QFN64"
+			(at -12.7 7.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "MP" "PIC32MK0512GPK064"
+			(at -12.7 10.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Architecture" "MIPS"
+			(at -12.7 12.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "PINOUT" "QFN64"
+			(at -12.7 15.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Reference" "U"
+			(at -12.7 17.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "PIC32MK0512GPK064"
+			(at -12.7 20.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Family" "PIC32MK"
+			(at -12.7 22.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "MF" "Microchip"
+			(at -12.7 25.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Name" "PIC32MK0512GPK064"
+			(at -12.7 27.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(symbol "PIC32MK0512GPK064_0_1"
+			(rectangle
+				(start -7.62 5.08)
+				(end 7.62 -5.08)
+				(stroke
+					(width 0.254)
+					(type default)
+				)
+				(fill
+					(type background)
+				)
+			)
+		)
+		(symbol "PIC32MK0512GPK064_1_1"
+		)
+	)
+(symbol "PIC32MK0512MCM064"
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Series" "PIC32MK"
+			(at -12.7 5.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Footprint" "TQFP64"
+			(at -12.7 7.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "MP" "PIC32MK0512MCM064"
+			(at -12.7 10.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Architecture" "MIPS"
+			(at -12.7 12.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "PINOUT" "TQFP64"
+			(at -12.7 15.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Reference" "U"
+			(at -12.7 17.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "PIC32MK0512MCM064"
+			(at -12.7 20.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Family" "PIC32MK"
+			(at -12.7 22.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "MF" "Microchip"
+			(at -12.7 25.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Name" "PIC32MK0512MCM064"
+			(at -12.7 27.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(symbol "PIC32MK0512MCM064_0_1"
+			(rectangle
+				(start -7.62 5.08)
+				(end 7.62 -5.08)
+				(stroke
+					(width 0.254)
+					(type default)
+				)
+				(fill
+					(type background)
+				)
+			)
+		)
+		(symbol "PIC32MK0512MCM064_1_1"
+		)
+	)
+(symbol "PIC32MK0512MCM064"
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Series" "PIC32MK"
+			(at -12.7 5.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Footprint" "QFN64"
+			(at -12.7 7.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "MP" "PIC32MK0512MCM064"
+			(at -12.7 10.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Architecture" "MIPS"
+			(at -12.7 12.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "PINOUT" "QFN64"
+			(at -12.7 15.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Reference" "U"
+			(at -12.7 17.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "PIC32MK0512MCM064"
+			(at -12.7 20.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Family" "PIC32MK"
+			(at -12.7 22.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "MF" "Microchip"
+			(at -12.7 25.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Name" "PIC32MK0512MCM064"
+			(at -12.7 27.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(symbol "PIC32MK0512MCM064_0_1"
+			(rectangle
+				(start -7.62 5.08)
+				(end 7.62 -5.08)
+				(stroke
+					(width 0.254)
+					(type default)
+				)
+				(fill
+					(type background)
+				)
+			)
+		)
+		(symbol "PIC32MK0512MCM064_1_1"
+		)
+	)
+(symbol "PIC32MK1024MCF064"
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Series" "PIC32MK"
+			(at -12.7 5.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Footprint" "TQFP64"
+			(at -12.7 7.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "MP" "PIC32MK1024MCF064"
+			(at -12.7 10.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Architecture" "MIPS"
+			(at -12.7 12.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "PINOUT" "TQFP64_QFN64"
+			(at -12.7 15.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Reference" "U"
+			(at -12.7 17.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "PIC32MK1024MCF064"
+			(at -12.7 20.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Family" "PIC32MK"
+			(at -12.7 22.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "MF" "Microchip"
+			(at -12.7 25.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Name" "PIC32MK1024MCF064"
+			(at -12.7 27.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(symbol "PIC32MK1024MCF064_0_1"
+			(rectangle
+				(start -7.62 5.08)
+				(end 7.62 -5.08)
+				(stroke
+					(width 0.254)
+					(type default)
+				)
+				(fill
+					(type background)
+				)
+			)
+		)
+		(symbol "PIC32MK1024MCF064_1_1"
+		)
+	)
+(symbol "PIC32MK1024MCF064"
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Series" "PIC32MK"
+			(at -12.7 5.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Footprint" "QFN64"
+			(at -12.7 7.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "MP" "PIC32MK1024MCF064"
+			(at -12.7 10.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Architecture" "MIPS"
+			(at -12.7 12.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "PINOUT" "TQFP64_QFN64"
+			(at -12.7 15.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Reference" "U"
+			(at -12.7 17.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "PIC32MK1024MCF064"
+			(at -12.7 20.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Family" "PIC32MK"
+			(at -12.7 22.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "MF" "Microchip"
+			(at -12.7 25.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Name" "PIC32MK1024MCF064"
+			(at -12.7 27.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(symbol "PIC32MK1024MCF064_0_1"
+			(rectangle
+				(start -7.62 5.08)
+				(end 7.62 -5.08)
+				(stroke
+					(width 0.254)
+					(type default)
+				)
+				(fill
+					(type background)
+				)
+			)
+		)
+		(symbol "PIC32MK1024MCF064_1_1"
+		)
+	)
 (symbol "PIC32MK0512MCJ064"
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5666,6 +5194,360 @@
 		(symbol "PIC32MK0512MCJ064_1_1"
 		)
 	)
+(symbol "PIC32MK1024GPK100"
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Series" "PIC32MK"
+			(at -12.7 5.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Footprint" "TQFP100"
+			(at -12.7 7.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "MP" "PIC32MK1024GPK100"
+			(at -12.7 10.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Architecture" "MIPS"
+			(at -12.7 12.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "PINOUT" "TQFP100"
+			(at -12.7 15.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Reference" "U"
+			(at -12.7 17.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "PIC32MK1024GPK100"
+			(at -12.7 20.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Family" "PIC32MK"
+			(at -12.7 22.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "MF" "Microchip"
+			(at -12.7 25.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Name" "PIC32MK1024GPK100"
+			(at -12.7 27.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(symbol "PIC32MK1024GPK100_0_1"
+			(rectangle
+				(start -7.62 5.08)
+				(end 7.62 -5.08)
+				(stroke
+					(width 0.254)
+					(type default)
+				)
+				(fill
+					(type background)
+				)
+			)
+		)
+		(symbol "PIC32MK1024GPK100_1_1"
+		)
+	)
+(symbol "PIC32MK0512GPG048"
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Series" "PIC32MK"
+			(at -12.7 5.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Footprint" "TQFP48"
+			(at -12.7 7.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "MP" "PIC32MK0512GPG048"
+			(at -12.7 10.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Architecture" "MIPS"
+			(at -12.7 12.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "PINOUT" "TQFP48"
+			(at -12.7 15.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Reference" "U"
+			(at -12.7 17.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "PIC32MK0512GPG048"
+			(at -12.7 20.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Family" "PIC32MK"
+			(at -12.7 22.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "MF" "Microchip"
+			(at -12.7 25.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Name" "PIC32MK0512GPG048"
+			(at -12.7 27.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(symbol "PIC32MK0512GPG048_0_1"
+			(rectangle
+				(start -7.62 5.08)
+				(end 7.62 -5.08)
+				(stroke
+					(width 0.254)
+					(type default)
+				)
+				(fill
+					(type background)
+				)
+			)
+		)
+		(symbol "PIC32MK0512GPG048_1_1"
+		)
+	)
+(symbol "PIC32MK0512GPG048"
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Series" "PIC32MK"
+			(at -12.7 5.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Footprint" "QFN48"
+			(at -12.7 7.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "MP" "PIC32MK0512GPG048"
+			(at -12.7 10.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Architecture" "MIPS"
+			(at -12.7 12.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "PINOUT" "QFN48"
+			(at -12.7 15.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Reference" "U"
+			(at -12.7 17.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "PIC32MK0512GPG048"
+			(at -12.7 20.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Family" "PIC32MK"
+			(at -12.7 22.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "MF" "Microchip"
+			(at -12.7 25.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Name" "PIC32MK0512GPG048"
+			(at -12.7 27.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(symbol "PIC32MK0512GPG048_0_1"
+			(rectangle
+				(start -7.62 5.08)
+				(end 7.62 -5.08)
+				(stroke
+					(width 0.254)
+					(type default)
+				)
+				(fill
+					(type background)
+				)
+			)
+		)
+		(symbol "PIC32MK0512GPG048_1_1"
+		)
+	)
 (symbol "PIC32MK1024GPE064"
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5900,6 +5782,124 @@
 			)
 		)
 		(symbol "PIC32MK1024GPE064_1_1"
+		)
+	)
+(symbol "PIC32MK0512GPD100"
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Series" "PIC32MK"
+			(at -12.7 5.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Footprint" "TQFP100"
+			(at -12.7 7.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "MP" "PIC32MK0512GPD100"
+			(at -12.7 10.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Architecture" "MIPS"
+			(at -12.7 12.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "PINOUT" "TQFP100"
+			(at -12.7 15.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Reference" "U"
+			(at -12.7 17.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "PIC32MK0512GPD100"
+			(at -12.7 20.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Family" "PIC32MK"
+			(at -12.7 22.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "MF" "Microchip"
+			(at -12.7 25.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Name" "PIC32MK0512GPD100"
+			(at -12.7 27.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(symbol "PIC32MK0512GPD100_0_1"
+			(rectangle
+				(start -7.62 5.08)
+				(end 7.62 -5.08)
+				(stroke
+					(width 0.254)
+					(type default)
+				)
+				(fill
+					(type background)
+				)
+			)
+		)
+		(symbol "PIC32MK0512GPD100_1_1"
 		)
 	)
 )

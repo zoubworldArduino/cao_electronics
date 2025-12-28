@@ -480,242 +480,6 @@
   (vendor "Labcenter Electronics")
   (version 1 0)
   (library
-    (part "PIC32MM0032GPL036"
-      (family "null")
-      (package "null")
-      (description "null")
-      (attribute "Series" "PIC32MM")
-      (attribute "Footprint" "VQFN36")
-      (attribute "MP" "PIC32MM0032GPL036")
-      (attribute "Architecture" "MIPS")
-      (attribute "PINOUT" "VQFN36")
-      (attribute "Reference" "U")
-      (attribute "Value" "PIC32MM0032GPL036")
-      (attribute "Family" "PIC32MM1324")
-      (attribute "MF" "Microchip")
-      (attribute "Name" "PIC32MM0032GPL036")
-      (gate
-        (swap 1)
-        (symbol "PIC32MM0032GPL036")
-      )
-    )
-    (symbol "PIC32MM0032GPL036"
-      (units THOU)
-      (graphic
-        (stroke 1)
-        (path (pt -500.0 500.0) (pt 500.0 500.0) (pt 500.0 -500.0) (pt -500.0 -500.0) (pt -500.0 500.0) (closed))
-      )
-    )
-    (symbol "PIN_R0_U_L200"
-      (units THOU)
-      (graphic
-        (stroke 6.5)
-        (path (pt 0.0 0.0) (pt 200.0 0.0))
-      )
-    )
-    (symbol "PIN_R180_U_L200"
-      (units THOU)
-      (graphic
-        (stroke 6.5)
-        (path (pt 0.0 0.0) (pt -200.0 0.0))
-      )
-    )
-    (symbol "PIN_R90_U_L200"
-      (units THOU)
-      (graphic
-        (stroke 6.5)
-        (path (pt 0.0 0.0) (pt 0.0 200.0))
-      )
-    )
-    (symbol "PIN_R270_U_L200"
-      (units THOU)
-      (graphic
-        (stroke 6.5)
-        (path (pt 0.0 0.0) (pt 0.0 -200.0))
-      )
-    )
-  (package "SOIC127P599X1758N"
-      (units THOU)
-      (layer TSLK
-        (graphic
-          (stroke 7.87)
-          (circle (pt -162.99 90.75) (pt -155.12 90.75))
-        )
-        (graphic
-          (stroke 5.0)
-          (path (pt -76.77 99.41) (pt 76.77 99.41))
-        )
-        (graphic
-          (stroke 5.0)
-          (path (pt -76.77 -99.41) (pt 76.77 -99.41))
-        )
-      )
-      (layer TASM
-        (graphic
-          (stroke 7.87)
-          (circle (pt -162.99 90.75) (pt -155.12 90.75))
-        )
-        (graphic
-          (stroke 5.0)
-          (path (pt -76.77 96.56) (pt 76.77 96.56))
-        )
-        (graphic
-          (stroke 5.0)
-          (path (pt -76.77 -96.56) (pt 76.77 -96.56))
-        )
-        (graphic
-          (stroke 5.0)
-          (path (pt -76.77 96.56) (pt -76.77 -96.56))
-        )
-        (graphic
-          (stroke 5.0)
-          (path (pt 76.77 96.56) (pt 76.77 -96.56))
-        )
-      )
-      (layer OCCA
-        (graphic
-          (stroke 1.97)
-          (path (pt -145.87 106.4) (pt 145.87 106.4))
-        )
-        (graphic
-          (stroke 1.97)
-          (path (pt -145.87 -106.4) (pt 145.87 -106.4))
-        )
-        (graphic
-          (stroke 1.97)
-          (path (pt -145.87 106.4) (pt -145.87 -106.4))
-        )
-        (graphic
-          (stroke 1.97)
-          (path (pt 145.87 106.4) (pt 145.87 -106.4))
-        )
-      )
-    )
-  )
-);Proteus Design Interchange Format
-
-(PDIF
-  (vendor "Labcenter Electronics")
-  (version 1 0)
-  (library
-    (part "PIC32MM0032GPL036"
-      (family "null")
-      (package "null")
-      (description "null")
-      (attribute "Series" "PIC32MM")
-      (attribute "Footprint" "UQFN40")
-      (attribute "MP" "PIC32MM0032GPL036")
-      (attribute "Architecture" "MIPS")
-      (attribute "PINOUT" "UQFN40")
-      (attribute "Reference" "U")
-      (attribute "Value" "PIC32MM0032GPL036")
-      (attribute "Family" "PIC32MM1324")
-      (attribute "MF" "Microchip")
-      (attribute "Name" "PIC32MM0032GPL036")
-      (gate
-        (swap 1)
-        (symbol "PIC32MM0032GPL036")
-      )
-    )
-    (symbol "PIC32MM0032GPL036"
-      (units THOU)
-      (graphic
-        (stroke 1)
-        (path (pt -500.0 500.0) (pt 500.0 500.0) (pt 500.0 -500.0) (pt -500.0 -500.0) (pt -500.0 500.0) (closed))
-      )
-    )
-    (symbol "PIN_R0_U_L200"
-      (units THOU)
-      (graphic
-        (stroke 6.5)
-        (path (pt 0.0 0.0) (pt 200.0 0.0))
-      )
-    )
-    (symbol "PIN_R180_U_L200"
-      (units THOU)
-      (graphic
-        (stroke 6.5)
-        (path (pt 0.0 0.0) (pt -200.0 0.0))
-      )
-    )
-    (symbol "PIN_R90_U_L200"
-      (units THOU)
-      (graphic
-        (stroke 6.5)
-        (path (pt 0.0 0.0) (pt 0.0 200.0))
-      )
-    )
-    (symbol "PIN_R270_U_L200"
-      (units THOU)
-      (graphic
-        (stroke 6.5)
-        (path (pt 0.0 0.0) (pt 0.0 -200.0))
-      )
-    )
-  (package "SOIC127P599X1758N"
-      (units THOU)
-      (layer TSLK
-        (graphic
-          (stroke 7.87)
-          (circle (pt -162.99 90.75) (pt -155.12 90.75))
-        )
-        (graphic
-          (stroke 5.0)
-          (path (pt -76.77 99.41) (pt 76.77 99.41))
-        )
-        (graphic
-          (stroke 5.0)
-          (path (pt -76.77 -99.41) (pt 76.77 -99.41))
-        )
-      )
-      (layer TASM
-        (graphic
-          (stroke 7.87)
-          (circle (pt -162.99 90.75) (pt -155.12 90.75))
-        )
-        (graphic
-          (stroke 5.0)
-          (path (pt -76.77 96.56) (pt 76.77 96.56))
-        )
-        (graphic
-          (stroke 5.0)
-          (path (pt -76.77 -96.56) (pt 76.77 -96.56))
-        )
-        (graphic
-          (stroke 5.0)
-          (path (pt -76.77 96.56) (pt -76.77 -96.56))
-        )
-        (graphic
-          (stroke 5.0)
-          (path (pt 76.77 96.56) (pt 76.77 -96.56))
-        )
-      )
-      (layer OCCA
-        (graphic
-          (stroke 1.97)
-          (path (pt -145.87 106.4) (pt 145.87 106.4))
-        )
-        (graphic
-          (stroke 1.97)
-          (path (pt -145.87 -106.4) (pt 145.87 -106.4))
-        )
-        (graphic
-          (stroke 1.97)
-          (path (pt -145.87 106.4) (pt -145.87 -106.4))
-        )
-        (graphic
-          (stroke 1.97)
-          (path (pt 145.87 106.4) (pt 145.87 -106.4))
-        )
-      )
-    )
-  )
-);Proteus Design Interchange Format
-
-(PDIF
-  (vendor "Labcenter Electronics")
-  (version 1 0)
-  (library
     (part "PIC32MM0064GPL020"
       (family "null")
       (package "null")
@@ -854,6 +618,242 @@
       )
     )
     (symbol "PIC32MM0064GPL020"
+      (units THOU)
+      (graphic
+        (stroke 1)
+        (path (pt -500.0 500.0) (pt 500.0 500.0) (pt 500.0 -500.0) (pt -500.0 -500.0) (pt -500.0 500.0) (closed))
+      )
+    )
+    (symbol "PIN_R0_U_L200"
+      (units THOU)
+      (graphic
+        (stroke 6.5)
+        (path (pt 0.0 0.0) (pt 200.0 0.0))
+      )
+    )
+    (symbol "PIN_R180_U_L200"
+      (units THOU)
+      (graphic
+        (stroke 6.5)
+        (path (pt 0.0 0.0) (pt -200.0 0.0))
+      )
+    )
+    (symbol "PIN_R90_U_L200"
+      (units THOU)
+      (graphic
+        (stroke 6.5)
+        (path (pt 0.0 0.0) (pt 0.0 200.0))
+      )
+    )
+    (symbol "PIN_R270_U_L200"
+      (units THOU)
+      (graphic
+        (stroke 6.5)
+        (path (pt 0.0 0.0) (pt 0.0 -200.0))
+      )
+    )
+  (package "SOIC127P599X1758N"
+      (units THOU)
+      (layer TSLK
+        (graphic
+          (stroke 7.87)
+          (circle (pt -162.99 90.75) (pt -155.12 90.75))
+        )
+        (graphic
+          (stroke 5.0)
+          (path (pt -76.77 99.41) (pt 76.77 99.41))
+        )
+        (graphic
+          (stroke 5.0)
+          (path (pt -76.77 -99.41) (pt 76.77 -99.41))
+        )
+      )
+      (layer TASM
+        (graphic
+          (stroke 7.87)
+          (circle (pt -162.99 90.75) (pt -155.12 90.75))
+        )
+        (graphic
+          (stroke 5.0)
+          (path (pt -76.77 96.56) (pt 76.77 96.56))
+        )
+        (graphic
+          (stroke 5.0)
+          (path (pt -76.77 -96.56) (pt 76.77 -96.56))
+        )
+        (graphic
+          (stroke 5.0)
+          (path (pt -76.77 96.56) (pt -76.77 -96.56))
+        )
+        (graphic
+          (stroke 5.0)
+          (path (pt 76.77 96.56) (pt 76.77 -96.56))
+        )
+      )
+      (layer OCCA
+        (graphic
+          (stroke 1.97)
+          (path (pt -145.87 106.4) (pt 145.87 106.4))
+        )
+        (graphic
+          (stroke 1.97)
+          (path (pt -145.87 -106.4) (pt 145.87 -106.4))
+        )
+        (graphic
+          (stroke 1.97)
+          (path (pt -145.87 106.4) (pt -145.87 -106.4))
+        )
+        (graphic
+          (stroke 1.97)
+          (path (pt 145.87 106.4) (pt 145.87 -106.4))
+        )
+      )
+    )
+  )
+);Proteus Design Interchange Format
+
+(PDIF
+  (vendor "Labcenter Electronics")
+  (version 1 0)
+  (library
+    (part "PIC32MM0032GPL036"
+      (family "null")
+      (package "null")
+      (description "null")
+      (attribute "Series" "PIC32MM")
+      (attribute "Footprint" "VQFN36")
+      (attribute "MP" "PIC32MM0032GPL036")
+      (attribute "Architecture" "MIPS")
+      (attribute "PINOUT" "VQFN36")
+      (attribute "Reference" "U")
+      (attribute "Value" "PIC32MM0032GPL036")
+      (attribute "Family" "PIC32MM1324")
+      (attribute "MF" "Microchip")
+      (attribute "Name" "PIC32MM0032GPL036")
+      (gate
+        (swap 1)
+        (symbol "PIC32MM0032GPL036")
+      )
+    )
+    (symbol "PIC32MM0032GPL036"
+      (units THOU)
+      (graphic
+        (stroke 1)
+        (path (pt -500.0 500.0) (pt 500.0 500.0) (pt 500.0 -500.0) (pt -500.0 -500.0) (pt -500.0 500.0) (closed))
+      )
+    )
+    (symbol "PIN_R0_U_L200"
+      (units THOU)
+      (graphic
+        (stroke 6.5)
+        (path (pt 0.0 0.0) (pt 200.0 0.0))
+      )
+    )
+    (symbol "PIN_R180_U_L200"
+      (units THOU)
+      (graphic
+        (stroke 6.5)
+        (path (pt 0.0 0.0) (pt -200.0 0.0))
+      )
+    )
+    (symbol "PIN_R90_U_L200"
+      (units THOU)
+      (graphic
+        (stroke 6.5)
+        (path (pt 0.0 0.0) (pt 0.0 200.0))
+      )
+    )
+    (symbol "PIN_R270_U_L200"
+      (units THOU)
+      (graphic
+        (stroke 6.5)
+        (path (pt 0.0 0.0) (pt 0.0 -200.0))
+      )
+    )
+  (package "SOIC127P599X1758N"
+      (units THOU)
+      (layer TSLK
+        (graphic
+          (stroke 7.87)
+          (circle (pt -162.99 90.75) (pt -155.12 90.75))
+        )
+        (graphic
+          (stroke 5.0)
+          (path (pt -76.77 99.41) (pt 76.77 99.41))
+        )
+        (graphic
+          (stroke 5.0)
+          (path (pt -76.77 -99.41) (pt 76.77 -99.41))
+        )
+      )
+      (layer TASM
+        (graphic
+          (stroke 7.87)
+          (circle (pt -162.99 90.75) (pt -155.12 90.75))
+        )
+        (graphic
+          (stroke 5.0)
+          (path (pt -76.77 96.56) (pt 76.77 96.56))
+        )
+        (graphic
+          (stroke 5.0)
+          (path (pt -76.77 -96.56) (pt 76.77 -96.56))
+        )
+        (graphic
+          (stroke 5.0)
+          (path (pt -76.77 96.56) (pt -76.77 -96.56))
+        )
+        (graphic
+          (stroke 5.0)
+          (path (pt 76.77 96.56) (pt 76.77 -96.56))
+        )
+      )
+      (layer OCCA
+        (graphic
+          (stroke 1.97)
+          (path (pt -145.87 106.4) (pt 145.87 106.4))
+        )
+        (graphic
+          (stroke 1.97)
+          (path (pt -145.87 -106.4) (pt 145.87 -106.4))
+        )
+        (graphic
+          (stroke 1.97)
+          (path (pt -145.87 106.4) (pt -145.87 -106.4))
+        )
+        (graphic
+          (stroke 1.97)
+          (path (pt 145.87 106.4) (pt 145.87 -106.4))
+        )
+      )
+    )
+  )
+);Proteus Design Interchange Format
+
+(PDIF
+  (vendor "Labcenter Electronics")
+  (version 1 0)
+  (library
+    (part "PIC32MM0032GPL036"
+      (family "null")
+      (package "null")
+      (description "null")
+      (attribute "Series" "PIC32MM")
+      (attribute "Footprint" "UQFN40")
+      (attribute "MP" "PIC32MM0032GPL036")
+      (attribute "Architecture" "MIPS")
+      (attribute "PINOUT" "UQFN40")
+      (attribute "Reference" "U")
+      (attribute "Value" "PIC32MM0032GPL036")
+      (attribute "Family" "PIC32MM1324")
+      (attribute "MF" "Microchip")
+      (attribute "Name" "PIC32MM0032GPL036")
+      (gate
+        (swap 1)
+        (symbol "PIC32MM0032GPL036")
+      )
+    )
+    (symbol "PIC32MM0032GPL036"
       (units THOU)
       (graphic
         (stroke 1)
@@ -1424,26 +1424,26 @@
   (vendor "Labcenter Electronics")
   (version 1 0)
   (library
-    (part "PIC32MM0064GPL036"
+    (part "PIC32MM0032GPL028"
       (family "null")
       (package "null")
       (description "null")
       (attribute "Series" "PIC32MM")
-      (attribute "Footprint" "VQFN36")
-      (attribute "MP" "PIC32MM0064GPL036")
+      (attribute "Footprint" "SSOP28")
+      (attribute "MP" "PIC32MM0032GPL028")
       (attribute "Architecture" "MIPS")
-      (attribute "PINOUT" "VQFN36")
+      (attribute "PINOUT" "SSOP28")
       (attribute "Reference" "U")
-      (attribute "Value" "PIC32MM0064GPL036")
+      (attribute "Value" "PIC32MM0032GPL028")
       (attribute "Family" "PIC32MM1324")
       (attribute "MF" "Microchip")
-      (attribute "Name" "PIC32MM0064GPL036")
+      (attribute "Name" "PIC32MM0032GPL028")
       (gate
         (swap 1)
-        (symbol "PIC32MM0064GPL036")
+        (symbol "PIC32MM0032GPL028")
       )
     )
-    (symbol "PIC32MM0064GPL036"
+    (symbol "PIC32MM0032GPL028"
       (units THOU)
       (graphic
         (stroke 1)
@@ -1542,26 +1542,26 @@
   (vendor "Labcenter Electronics")
   (version 1 0)
   (library
-    (part "PIC32MM0064GPL036"
+    (part "PIC32MM0032GPL028"
       (family "null")
       (package "null")
       (description "null")
       (attribute "Series" "PIC32MM")
-      (attribute "Footprint" "UQFN40")
-      (attribute "MP" "PIC32MM0064GPL036")
+      (attribute "Footprint" "QFN28")
+      (attribute "MP" "PIC32MM0032GPL028")
       (attribute "Architecture" "MIPS")
-      (attribute "PINOUT" "UQFN40")
+      (attribute "PINOUT" "QFN28")
       (attribute "Reference" "U")
-      (attribute "Value" "PIC32MM0064GPL036")
+      (attribute "Value" "PIC32MM0032GPL028")
       (attribute "Family" "PIC32MM1324")
       (attribute "MF" "Microchip")
-      (attribute "Name" "PIC32MM0064GPL036")
+      (attribute "Name" "PIC32MM0032GPL028")
       (gate
         (swap 1)
-        (symbol "PIC32MM0064GPL036")
+        (symbol "PIC32MM0032GPL028")
       )
     )
-    (symbol "PIC32MM0064GPL036"
+    (symbol "PIC32MM0032GPL028"
       (units THOU)
       (graphic
         (stroke 1)
@@ -1896,26 +1896,26 @@
   (vendor "Labcenter Electronics")
   (version 1 0)
   (library
-    (part "PIC32MM0032GPL028"
+    (part "PIC32MM0064GPL036"
       (family "null")
       (package "null")
       (description "null")
       (attribute "Series" "PIC32MM")
-      (attribute "Footprint" "SSOP28")
-      (attribute "MP" "PIC32MM0032GPL028")
+      (attribute "Footprint" "VQFN36")
+      (attribute "MP" "PIC32MM0064GPL036")
       (attribute "Architecture" "MIPS")
-      (attribute "PINOUT" "SSOP28")
+      (attribute "PINOUT" "VQFN36")
       (attribute "Reference" "U")
-      (attribute "Value" "PIC32MM0032GPL028")
+      (attribute "Value" "PIC32MM0064GPL036")
       (attribute "Family" "PIC32MM1324")
       (attribute "MF" "Microchip")
-      (attribute "Name" "PIC32MM0032GPL028")
+      (attribute "Name" "PIC32MM0064GPL036")
       (gate
         (swap 1)
-        (symbol "PIC32MM0032GPL028")
+        (symbol "PIC32MM0064GPL036")
       )
     )
-    (symbol "PIC32MM0032GPL028"
+    (symbol "PIC32MM0064GPL036"
       (units THOU)
       (graphic
         (stroke 1)
@@ -2014,26 +2014,26 @@
   (vendor "Labcenter Electronics")
   (version 1 0)
   (library
-    (part "PIC32MM0032GPL028"
+    (part "PIC32MM0064GPL036"
       (family "null")
       (package "null")
       (description "null")
       (attribute "Series" "PIC32MM")
-      (attribute "Footprint" "QFN28")
-      (attribute "MP" "PIC32MM0032GPL028")
+      (attribute "Footprint" "UQFN40")
+      (attribute "MP" "PIC32MM0064GPL036")
       (attribute "Architecture" "MIPS")
-      (attribute "PINOUT" "QFN28")
+      (attribute "PINOUT" "UQFN40")
       (attribute "Reference" "U")
-      (attribute "Value" "PIC32MM0032GPL028")
+      (attribute "Value" "PIC32MM0064GPL036")
       (attribute "Family" "PIC32MM1324")
       (attribute "MF" "Microchip")
-      (attribute "Name" "PIC32MM0032GPL028")
+      (attribute "Name" "PIC32MM0064GPL036")
       (gate
         (swap 1)
-        (symbol "PIC32MM0032GPL028")
+        (symbol "PIC32MM0064GPL036")
       )
     )
-    (symbol "PIC32MM0032GPL028"
+    (symbol "PIC32MM0064GPL036"
       (units THOU)
       (graphic
         (stroke 1)

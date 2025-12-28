@@ -1323,23 +1323,23 @@ null
   (vendor "Labcenter Electronics")
   (version 1 0)
   (library
-    (part "LAN9255ZMX019"
+    (part "LAN9255ZMX018"
       (family "null")
       (package "null")
       (description "null")
       (attribute "Series" "LAN9255ZMX")
       (attribute "Footprint" "TQFP128")
-      (attribute "MP" "LAN9255ZMX019")
+      (attribute "MP" "LAN9255ZMX018")
       (attribute "Architecture" "CORTEX-M4")
       (attribute "PINOUT" "TQFP128")
       (attribute "Reference" "U")
-      (attribute "Value" "LAN9255ZMX019")
+      (attribute "Value" "LAN9255ZMX018")
       (attribute "Family" "LAN9255")
       (attribute "MF" "Microchip")
-      (attribute "Name" "LAN9255ZMX019")
+      (attribute "Name" "LAN9255ZMX018")
       (gate
         (swap 1)
-        (symbol "LAN9255ZMX019")
+        (symbol "LAN9255ZMX018")
         (pin "OSCO" 1 (type PS))
         (pin "PB03" 2 (type IO))
         (pin "PA00" 3 (type IO))
@@ -1447,7 +1447,7 @@ null
         (pin "RXNA" 105 (type IP))
         (pin "RXPA" 106 (type IP))
         (pin "PA27" 107 (type IO))
-        (pin "RESET_N" 108 (type IP))
+        (pin "RESETN" 108 (type OP))
         (pin "VDDCORE" 109 (type PP))
         (pin "VDD12TX1" 110 (type PP))
         (pin "RBIAS" 111 (type PS))
@@ -1470,7 +1470,7 @@ null
         (pin "OSCI" 128 (type PS))
       )
     )
-    (symbol "LAN9255ZMX019"
+    (symbol "LAN9255ZMX018"
       (units THOU)
       (graphic
         (stroke 1)
@@ -1699,11 +1699,10 @@ null
 
 null
       (terminal
-        (body (symbol "PIN_R0_U_L200") (pt -700.0 -100.0) (rot 0) (mir 0) (visible true))
-        (name (pt 239.37 0.0) (rot 0) (just MIDDLE LEFT) (visible true))
-        (number (pt -39.37 0.0) (rot 0) (just MIDDLE LEFT) (visible true))
+        (body (symbol "PIN_R180_U_L200") (pt 700.0 0.0) (rot 0) (mir 0) (visible true))
+        (name (pt -239.37 0.0) (rot 0) (just MIDDLE RIGHT) (visible true))
+        (number (pt -39.37 0.0) (rot 0) (just MIDDLE RIGHT) (visible true))
       )
-
       (terminal
         (body (symbol "PIN_R270_U_L200") (pt 1300.0 -700.0) (rot 0) (mir 0) (visible true))
         (name (pt -239.37 0.0) (rot 0) (just MIDDLE RIGHT) (visible true))
@@ -1735,13 +1734,13 @@ null
         (number (pt -39.37 0.0) (rot 0) (just MIDDLE RIGHT) (visible true))
       )
       (terminal
-        (body (symbol "PIN_R0_U_L200") (pt -700.0 -200.0) (rot 0) (mir 0) (visible true))
+        (body (symbol "PIN_R0_U_L200") (pt -700.0 -100.0) (rot 0) (mir 0) (visible true))
         (name (pt 239.37 0.0) (rot 0) (just MIDDLE LEFT) (visible true))
         (number (pt -39.37 0.0) (rot 0) (just MIDDLE LEFT) (visible true))
       )
 
       (terminal
-        (body (symbol "PIN_R0_U_L200") (pt -700.0 -300.0) (rot 0) (mir 0) (visible true))
+        (body (symbol "PIN_R0_U_L200") (pt -700.0 -200.0) (rot 0) (mir 0) (visible true))
         (name (pt 239.37 0.0) (rot 0) (just MIDDLE LEFT) (visible true))
         (number (pt -39.37 0.0) (rot 0) (just MIDDLE LEFT) (visible true))
       )
@@ -1752,12 +1751,12 @@ null
         (number (pt -39.37 0.0) (rot 0) (just MIDDLE RIGHT) (visible true))
       )
       (terminal
-        (body (symbol "PIN_R180_U_L200") (pt 700.0 0.0) (rot 0) (mir 0) (visible true))
+        (body (symbol "PIN_R180_U_L200") (pt 700.0 -100.0) (rot 0) (mir 0) (visible true))
         (name (pt -239.37 0.0) (rot 0) (just MIDDLE RIGHT) (visible true))
         (number (pt -39.37 0.0) (rot 0) (just MIDDLE RIGHT) (visible true))
       )
       (terminal
-        (body (symbol "PIN_R180_U_L200") (pt 700.0 -100.0) (rot 0) (mir 0) (visible true))
+        (body (symbol "PIN_R180_U_L200") (pt 700.0 -200.0) (rot 0) (mir 0) (visible true))
         (name (pt -239.37 0.0) (rot 0) (just MIDDLE RIGHT) (visible true))
         (number (pt -39.37 0.0) (rot 0) (just MIDDLE RIGHT) (visible true))
       )
@@ -2639,23 +2638,23 @@ null
   (vendor "Labcenter Electronics")
   (version 1 0)
   (library
-    (part "LAN9255ZMX018"
+    (part "LAN9255ZMX019"
       (family "null")
       (package "null")
       (description "null")
       (attribute "Series" "LAN9255ZMX")
       (attribute "Footprint" "TQFP128")
-      (attribute "MP" "LAN9255ZMX018")
+      (attribute "MP" "LAN9255ZMX019")
       (attribute "Architecture" "CORTEX-M4")
       (attribute "PINOUT" "TQFP128")
       (attribute "Reference" "U")
-      (attribute "Value" "LAN9255ZMX018")
+      (attribute "Value" "LAN9255ZMX019")
       (attribute "Family" "LAN9255")
       (attribute "MF" "Microchip")
-      (attribute "Name" "LAN9255ZMX018")
+      (attribute "Name" "LAN9255ZMX019")
       (gate
         (swap 1)
-        (symbol "LAN9255ZMX018")
+        (symbol "LAN9255ZMX019")
         (pin "OSCO" 1 (type PS))
         (pin "PB03" 2 (type IO))
         (pin "PA00" 3 (type IO))
@@ -2763,7 +2762,7 @@ null
         (pin "RXNA" 105 (type IP))
         (pin "RXPA" 106 (type IP))
         (pin "PA27" 107 (type IO))
-        (pin "RESETN" 108 (type OP))
+        (pin "RESET_N" 108 (type IP))
         (pin "VDDCORE" 109 (type PP))
         (pin "VDD12TX1" 110 (type PP))
         (pin "RBIAS" 111 (type PS))
@@ -2786,7 +2785,7 @@ null
         (pin "OSCI" 128 (type PS))
       )
     )
-    (symbol "LAN9255ZMX018"
+    (symbol "LAN9255ZMX019"
       (units THOU)
       (graphic
         (stroke 1)
@@ -3015,10 +3014,11 @@ null
 
 null
       (terminal
-        (body (symbol "PIN_R180_U_L200") (pt 700.0 0.0) (rot 0) (mir 0) (visible true))
-        (name (pt -239.37 0.0) (rot 0) (just MIDDLE RIGHT) (visible true))
-        (number (pt -39.37 0.0) (rot 0) (just MIDDLE RIGHT) (visible true))
+        (body (symbol "PIN_R0_U_L200") (pt -700.0 -100.0) (rot 0) (mir 0) (visible true))
+        (name (pt 239.37 0.0) (rot 0) (just MIDDLE LEFT) (visible true))
+        (number (pt -39.37 0.0) (rot 0) (just MIDDLE LEFT) (visible true))
       )
+
       (terminal
         (body (symbol "PIN_R270_U_L200") (pt 1300.0 -700.0) (rot 0) (mir 0) (visible true))
         (name (pt -239.37 0.0) (rot 0) (just MIDDLE RIGHT) (visible true))
@@ -3050,13 +3050,13 @@ null
         (number (pt -39.37 0.0) (rot 0) (just MIDDLE RIGHT) (visible true))
       )
       (terminal
-        (body (symbol "PIN_R0_U_L200") (pt -700.0 -100.0) (rot 0) (mir 0) (visible true))
+        (body (symbol "PIN_R0_U_L200") (pt -700.0 -200.0) (rot 0) (mir 0) (visible true))
         (name (pt 239.37 0.0) (rot 0) (just MIDDLE LEFT) (visible true))
         (number (pt -39.37 0.0) (rot 0) (just MIDDLE LEFT) (visible true))
       )
 
       (terminal
-        (body (symbol "PIN_R0_U_L200") (pt -700.0 -200.0) (rot 0) (mir 0) (visible true))
+        (body (symbol "PIN_R0_U_L200") (pt -700.0 -300.0) (rot 0) (mir 0) (visible true))
         (name (pt 239.37 0.0) (rot 0) (just MIDDLE LEFT) (visible true))
         (number (pt -39.37 0.0) (rot 0) (just MIDDLE LEFT) (visible true))
       )
@@ -3067,12 +3067,12 @@ null
         (number (pt -39.37 0.0) (rot 0) (just MIDDLE RIGHT) (visible true))
       )
       (terminal
-        (body (symbol "PIN_R180_U_L200") (pt 700.0 -100.0) (rot 0) (mir 0) (visible true))
+        (body (symbol "PIN_R180_U_L200") (pt 700.0 0.0) (rot 0) (mir 0) (visible true))
         (name (pt -239.37 0.0) (rot 0) (just MIDDLE RIGHT) (visible true))
         (number (pt -39.37 0.0) (rot 0) (just MIDDLE RIGHT) (visible true))
       )
       (terminal
-        (body (symbol "PIN_R180_U_L200") (pt 700.0 -200.0) (rot 0) (mir 0) (visible true))
+        (body (symbol "PIN_R180_U_L200") (pt 700.0 -100.0) (rot 0) (mir 0) (visible true))
         (name (pt -239.37 0.0) (rot 0) (just MIDDLE RIGHT) (visible true))
         (number (pt -39.37 0.0) (rot 0) (just MIDDLE RIGHT) (visible true))
       )

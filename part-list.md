@@ -42,10 +42,12 @@ List of supported device by Familly :
     - [AVR64DU32-VQFN/TQFP](AVR.md)
     - [AVR64EA28](AVR.md)
     - [AVR64EA32](AVR.md)
-    - [AVR64EA48](AVR.md)- AVR DA
+    - [AVR64EA48](AVR.md)
+- AVR DA
     - [AVR32DA28](AVR DA.md)
     - [AVR32DA32](AVR DA.md)
-    - [AVR32DA48](AVR DA.md)- AVR MEGA
+    - [AVR32DA48](AVR DA.md)
+- AVR MEGA
     - [ATmega1608-AFR](AVR MEGA.md)
     - [ATmega1608-MFR](AVR MEGA.md)
     - [ATmega1608-XFR](AVR MEGA.md)
@@ -65,7 +67,8 @@ List of supported device by Familly :
     - [ATmega808-MFR](AVR MEGA.md)
     - [ATmega808-XFR](AVR MEGA.md)
     - [ATmega809-AFR](AVR MEGA.md)
-    - [ATmega809-MFR](AVR MEGA.md)- AVR TINY
+    - [ATmega809-MFR](AVR MEGA.md)
+- AVR TINY
     - [ATtiny1604-SSFR](AVR TINY.md)
     - [ATtiny1604-SSNR](AVR TINY.md)
     - [ATtiny1606-MFR](AVR TINY.md)
@@ -132,7 +135,8 @@ List of supported device by Familly :
     - [ATtiny816-SNR](AVR TINY.md)
     - [ATtiny817-MFR](AVR TINY.md)
     - [ATtiny817-MNR](AVR TINY.md)
-    - [ATtiny817-MNRES](AVR TINY.md)- AVR XMEGA
+    - [ATtiny817-MNRES](AVR TINY.md)
+- AVR XMEGA
     - [ATXMEGA128A1-AU](AVR XMEGA.md)
     - [ATXMEGA128A1-CU](AVR XMEGA.md)
     - [ATXMEGA128A3-AU](AVR XMEGA.md)
@@ -298,20 +302,24 @@ List of supported device by Familly :
     - [ATxmega8E5-M4N](AVR XMEGA.md)
     - [ATxmega8E5-M4U](AVR XMEGA.md)
     - [ATxmega8E5-MN](AVR XMEGA.md)
-    - [ATxmega8E5-MU](AVR XMEGA.md)- AVREB
+    - [ATxmega8E5-MU](AVR XMEGA.md)
+- AVREB
     - [AVR16EB14-SOIC/TSSOP](AVREB.md)
     - [AVR16EB20-SSOP](AVREB.md)
     - [AVR16EB20-VQFN](AVREB.md)
     - [AVR16EB28-SSOP/SPDIP](AVREB.md)
     - [AVR16EB28-VQFN](AVREB.md)
-    - [AVR16EB32-VQFN/TQFP](AVREB.md)- CEC173X
+    - [AVR16EB32-VQFN/TQFP](AVREB.md)
+- CEC173X
     - [CEC1734-S0-I/2HW](CEC173X.md)
     - [CEC1734-S0-I/2ZW](CEC173X.md)
     - [CEC1736-S0-I/2HW](CEC173X.md)
-    - [CEC1736-S0-I/2ZW](CEC173X.md)- LAN9255
+    - [CEC1736-S0-I/2ZW](CEC173X.md)
+- LAN9255
     - [LAN9255ZMX018](LAN9255.md)
     - [LAN9255ZMX019](LAN9255.md)
-    - [LAN9255ZMX020](LAN9255.md)- PIC32C
+    - [LAN9255ZMX020](LAN9255.md)
+- PIC32C
     - [PIC32CZ2051CA80100-E/7YX](PIC32C.md)
     - [PIC32CZ2051CA80100-E/BAD](PIC32C.md)
     - [PIC32CZ2051CA80100-I/7YX](PIC32C.md)
@@ -515,7 +523,8 @@ List of supported device by Familly :
     - [PIC32CZ8110CA90176-V/BAD](PIC32C.md)
     - [PIC32CZ8110CA90208-E/BAD](PIC32C.md)
     - [PIC32CZ8110CA90208-I/BAD](PIC32C.md)
-    - [PIC32CZ8110CA90208-V/BAD](PIC32C.md)- PIC32CM
+    - [PIC32CZ8110CA90208-V/BAD](PIC32C.md)
+- PIC32CM
     - [PIC32CM1216LE00032-I/PT](PIC32CM.md)
     - [PIC32CM1216LE00032-I/RTB](PIC32CM.md)
     - [PIC32CM1216LE00048-I/U5B](PIC32CM.md)
@@ -595,7 +604,8 @@ List of supported device by Familly :
     - [PIC32CM5164LS60048-I/U5B](PIC32CM.md)
     - [PIC32CM5164LS60064-I/5LX](PIC32CM.md)
     - [PIC32CM5164LS60064-I/PT](PIC32CM.md)
-    - [PIC32CM5164LS60100-I/PF](PIC32CM.md)- PIC32CMMC
+    - [PIC32CM5164LS60100-I/PF](PIC32CM.md)
+- PIC32CMMC
     - [PIC32CM1216MC00032-E/PT](PIC32CMMC.md)
     - [PIC32CM1216MC00032-E/RTB](PIC32CMMC.md)
     - [PIC32CM1216MC00032-I/PT](PIC32CMMC.md)
@@ -611,7 +621,8 @@ List of supported device by Familly :
     - [PIC32CM6408MC00048-E/U5B](PIC32CMMC.md)
     - [PIC32CM6408MC00048-E/Y8](PIC32CMMC.md)
     - [PIC32CM6408MC00048-I/U5B](PIC32CMMC.md)
-    - [PIC32CM6408MC00048-I/Y8](PIC32CMMC.md)- PIC32CX
+    - [PIC32CM6408MC00048-I/Y8](PIC32CMMC.md)
+- PIC32CX
     - [PIC32CX1012BZ24032](PIC32CX.md)
     - [PIC32CX1012BZ25048](PIC32CX.md)
     - [PIC32CX1025SG41100-E/E5X](PIC32CX.md)
@@ -631,7 +642,8 @@ List of supported device by Familly :
     - [PIC32CX1025SG61128-E/XCB](PIC32CX.md)
     - [PIC32CX1025SG61128-I/XCB](PIC32CX.md)
     - [PIC32CX5109BZ31032-I/M](PIC32CX.md)
-    - [PIC32CX5109BZ31048-I/M](PIC32CX.md)- PIC32CXMT
+    - [PIC32CX5109BZ31048-I/M](PIC32CX.md)
+- PIC32CXMT
     - [PIC32CX1025MTC128-AU](PIC32CXMT.md)
     - [PIC32CX1025MTC128-AU](PIC32CXMT.md)
     - [PIC32CX1025MTG128-AU](PIC32CXMT.md)
@@ -648,7 +660,8 @@ List of supported device by Familly :
     - [PIC32CX5112MTC128-AU](PIC32CXMT.md)
     - [PIC32CX5112MTG128-AU](PIC32CXMT.md)
     - [PIC32CX5112MTSH128-AU](PIC32CXMT.md)
-    - [PIC32CX5112MTSH128-AU](PIC32CXMT.md)- PIC32MK
+    - [PIC32CX5112MTSH128-AU](PIC32CXMT.md)
+- PIC32MK
     - [PIC32MK0128MCA028](PIC32MK.md)
     - [PIC32MK0128MCA032](PIC32MK.md)
     - [PIC32MK0128MCA048](PIC32MK.md)
@@ -698,7 +711,8 @@ List of supported device by Familly :
     - [PIC32MK1024MCF100](PIC32MK.md)
     - [PIC32MK1024MCM064](PIC32MK.md)
     - [PIC32MK1024MCM064](PIC32MK.md)
-    - [PIC32MK1024MCM100](PIC32MK.md)- PIC32MM1324
+    - [PIC32MK1024MCM100](PIC32MK.md)
+- PIC32MM1324
     - [PIC32MM0016GPL020](PIC32MM1324.md)
     - [PIC32MM0016GPL020](PIC32MM1324.md)
     - [PIC32MM0016GPL028](PIC32MM1324.md)
@@ -716,7 +730,8 @@ List of supported device by Familly :
     - [PIC32MM0064GPL028](PIC32MM1324.md)
     - [PIC32MM0064GPL028](PIC32MM1324.md)
     - [PIC32MM0064GPL036](PIC32MM1324.md)
-    - [PIC32MM0064GPL036](PIC32MM1324.md)- PIC32MM1387
+    - [PIC32MM0064GPL036](PIC32MM1324.md)
+- PIC32MM1387
     - [PIC32MM0064GPM028](PIC32MM1387.md)
     - [PIC32MM0064GPM028](PIC32MM1387.md)
     - [PIC32MM0064GPM036](PIC32MM1387.md)
@@ -740,7 +755,8 @@ List of supported device by Familly :
     - [PIC32MM0256GPM048](PIC32MM1387.md)
     - [PIC32MM0256GPM048](PIC32MM1387.md)
     - [PIC32MM0256GPM064](PIC32MM1387.md)
-    - [PIC32MM0256GPM064](PIC32MM1387.md)- PIC32MX
+    - [PIC32MM0256GPM064](PIC32MM1387.md)
+- PIC32MX
     - [PIC32MX110F016B](PIC32MX.md)
     - [PIC32MX110F016B](PIC32MX.md)
     - [PIC32MX110F016B](PIC32MX.md)
@@ -1000,7 +1016,8 @@ List of supported device by Familly :
     - [PIC32MX795F512H](PIC32MX.md)
     - [PIC32MX795F512L](PIC32MX.md)
     - [PIC32MX795F512L](PIC32MX.md)
-    - [PIC32MX795F512L](PIC32MX.md)- PIC32MZDA
+    - [PIC32MX795F512L](PIC32MX.md)
+- PIC32MZDA
     - [PIC32MZ1025DAA169](PIC32MZDA.md)
     - [PIC32MZ1025DAA176](PIC32MZDA.md)
     - [PIC32MZ1025DAA288](PIC32MZDA.md)
@@ -1072,7 +1089,8 @@ List of supported device by Familly :
     - [PIC32MZ2064DAR169](PIC32MZDA.md)
     - [PIC32MZ2064DAR176](PIC32MZDA.md)
     - [PIC32MZ2064DAS169](PIC32MZDA.md)
-    - [PIC32MZ2064DAS176](PIC32MZDA.md)- PIC32MZEF
+    - [PIC32MZ2064DAS176](PIC32MZDA.md)
+- PIC32MZEF
     - [PIC32MZ0512EFE064](PIC32MZEF.md)
     - [PIC32MZ0512EFE064](PIC32MZEF.md)
     - [PIC32MZ0512EFE100](PIC32MZEF.md)
@@ -1156,10 +1174,12 @@ List of supported device by Familly :
     - [PIC32MZ2048EFM124](PIC32MZEF.md)
     - [PIC32MZ2048EFM144](PIC32MZEF.md)
     - [PIC32MZ2048EFM144](PIC32MZEF.md)
-    - [PIC32MZ2048EFM144](PIC32MZEF.md)- PIC32MZW
+    - [PIC32MZ2048EFM144](PIC32MZEF.md)
+- PIC32MZW
     - [PIC32MZ1025W104132](PIC32MZW.md)
     - [PIC32MZ2051W104132](PIC32MZW.md)
-    - [WFI32E01](PIC32MZW.md)- SAM9
+    - [WFI32E01](PIC32MZW.md)
+- SAM9
     - [SAM9X60-CU](SAM9.md)
     - [SAM9X60D1G-CU](SAM9.md)
     - [SAM9X60D5M-CU](SAM9.md)
@@ -1169,7 +1189,8 @@ List of supported device by Familly :
     - [SAM9X75-CU](SAM9.md)
     - [SAM9X75D1G-CU](SAM9.md)
     - [SAM9X75D2G-CU](SAM9.md)
-    - [SAM9X75D5M-CU](SAM9.md)- SAMA
+    - [SAM9X75D5M-CU](SAM9.md)
+- SAMA
     - [ATSAMA5D29-CN](SAMA.md)
     - [ATSAMA5D29-CNR](SAMA.md)
     - [ATSAMA5D29-CNRVAO](SAMA.md)
@@ -1178,7 +1199,8 @@ List of supported device by Familly :
     - [SAMA7G54-CU](SAMA.md)
     - [SAMA7G54D1-GU](SAMA.md)
     - [SAMA7G54D2-GU](SAMA.md)
-    - [SAMA7G54D4-GU](SAMA.md)- SAMA5
+    - [SAMA7G54D4-GU](SAMA.md)
+- SAMA5
     - [ATSAMA5D21C-CU](SAMA5.md)
     - [ATSAMA5D21C-CUR](SAMA5.md)
     - [ATSAMA5D225CD1M-CU](SAMA5.md)
@@ -1210,7 +1232,8 @@ List of supported device by Familly :
     - [ATSAMA5D28C-CUR](SAMA5.md)
     - [ATSAMA5D28CD1G-CU](SAMA5.md)
     - [ATSAMA5D28CLD1G-CU](SAMA5.md)
-    - [ATSAMA5D28CLD2G-CU](SAMA5.md)- SAMC
+    - [ATSAMA5D28CLD2G-CU](SAMA5.md)
+- SAMC
     - [SAMC20E15A-AN](SAMC.md)
     - [SAMC20E15A-AU](SAMC.md)
     - [SAMC20E15A-AZ](SAMC.md)
@@ -1378,7 +1401,8 @@ List of supported device by Familly :
     - [SAMC21N17A-AN](SAMC.md)
     - [SAMC21N17A-MN](SAMC.md)
     - [SAMC21N18A-AN](SAMC.md)
-    - [SAMC21N18A-MN](SAMC.md)- SAMD
+    - [SAMC21N18A-MN](SAMC.md)
+- SAMD
     - [SAMD09C13A-SSU](SAMD.md)
     - [SAMD09D14A-MU](SAMD.md)
     - [SAMD10C13A-SSU](SAMD.md)
@@ -1728,7 +1752,8 @@ List of supported device by Familly :
     - [SAMDA1J15B-AB](SAMD.md)
     - [SAMDA1J15B-MB](SAMD.md)
     - [SAMDA1J16B-AB](SAMD.md)
-    - [SAMDA1J16B-MB](SAMD.md)- SAME
+    - [SAMDA1J16B-MB](SAMD.md)
+- SAME
     - [ATSAME70J19B-AN](SAME.md)
     - [ATSAME70J20B-AN](SAME.md)
     - [ATSAME70J21B-AN](SAME.md)
@@ -1818,7 +1843,8 @@ List of supported device by Familly :
     - [SAME54P20A-AZ](SAME.md)
     - [SAME54P20A-CTF](SAME.md)
     - [SAME54P20A-CTU](SAME.md)
-    - [SAME54P20A-CTZ](SAME.md)- SAMG
+    - [SAME54P20A-CTZ](SAME.md)
+- SAMG
     - [ATSAMG51G18-XX](SAMG.md)
     - [ATSAMG51N18-AU](SAMG.md)
     - [ATSAMG53G19-XX](SAMG.md)
@@ -1830,7 +1856,8 @@ List of supported device by Familly :
     - [ATSAMG55J19A-AU](SAMG.md)
     - [ATSAMG55J19A-AUT](SAMG.md)
     - [ATSAMG55J19A-MU](SAMG.md)
-    - [ATSAMG55J19A-MUT](SAMG.md)- SAMH
+    - [ATSAMG55J19A-MUT](SAMG.md)
+- SAMH
     - [ATSAMHA0E14A-MZ-B](SAMH.md)
     - [ATSAMHA0E15A-MZ-B](SAMH.md)
     - [ATSAMHA0E16A-MZ-B](SAMH.md)
@@ -1847,7 +1874,8 @@ List of supported device by Familly :
     - [SAMHA1G15A-MB-B](SAMH.md)
     - [SAMHA1G16A-MB](SAMH.md)
     - [SAMHA1G16A-MB-B](SAMH.md)
-    - [SAMHA1G17A-MB-B](SAMH.md)- SAML
+    - [SAMHA1G17A-MB-B](SAMH.md)
+- SAML
     - [ATSAML10D14A-MF](SAML.md)
     - [ATSAML10D14A-MU](SAML.md)
     - [ATSAML10D14A-YF](SAML.md)
@@ -1983,7 +2011,8 @@ List of supported device by Familly :
     - [SAML22N17A-CFU](SAML.md)
     - [SAML22N18A-AN](SAML.md)
     - [SAML22N18A-AU](SAML.md)
-    - [SAML22N18A-CFU](SAML.md)- SAMR
+    - [SAML22N18A-CFU](SAML.md)
+- SAMR
     - [SAMR21E16A-MF](SAMR.md)
     - [SAMR21E16A-MU](SAMR.md)
     - [SAMR21E17A-MF](SAMR.md)
@@ -2004,11 +2033,13 @@ List of supported device by Familly :
     - [SAMR34J18B-CU](SAMR.md)
     - [SAMR35J16B-CU](SAMR.md)
     - [SAMR35J17B-CU](SAMR.md)
-    - [SAMR35J18B-CU](SAMR.md)- SAMRH
+    - [SAMR35J18B-CU](SAMR.md)
+- SAMRH
     - [ATSAMRH71F20C-7GB-E](SAMRH.md)
     - [ATSAMRH71F20C-7GB-MQ](SAMRH.md)
     - [ATSAMRH71F20C-7GB-SV](SAMRH.md)
-    - [SAMRH707F18A-DRB-E](SAMRH.md)- SAMS
+    - [SAMRH707F18A-DRB-E](SAMRH.md)
+- SAMS
     - [ATSAMS70J19B-AN](SAMS.md)
     - [ATSAMS70J19B-MN](SAMS.md)
     - [ATSAMS70J20B-AN](SAMS.md)
@@ -2032,7 +2063,8 @@ List of supported device by Familly :
     - [ATSAMS70Q20B-CN](SAMS.md)
     - [ATSAMS70Q21B-AN](SAMS.md)
     - [ATSAMS70Q21B-CFN](SAMS.md)
-    - [ATSAMS70Q21B-CN](SAMS.md)- SAMV
+    - [ATSAMS70Q21B-CN](SAMS.md)
+- SAMV
     - [ATSAMV70J19B-AAB](SAMV.md)
     - [ATSAMV70J20B-AAB](SAMV.md)
     - [ATSAMV70N19B-AAB](SAMV.md)
@@ -2059,12 +2091,16 @@ List of supported device by Familly :
     - [ATSAMV71Q21B-AAB](SAMV.md)
     - [ATSAMV71Q21B-CB](SAMV.md)
     - [ATSAMV71Q21B-DHB](SAMV.md)
-    - [ATSAMV71Q21B-H8X](SAMV.md)- WBZ3
+    - [ATSAMV71Q21B-H8X](SAMV.md)
+- WBZ3
     - [WBZ350](WBZ3.md)
-    - [WBZ351](WBZ3.md)- WBZ45
+    - [WBZ351](WBZ3.md)
+- WBZ45
     - [WBZ450](WBZ45.md)
-    - [WBZ451](WBZ45.md)- WLR
-    - [WLR089U0-I/RM](WLR.md)- megaAVR
+    - [WBZ451](WBZ45.md)
+- WLR
+    - [WLR089U0-I/RM](WLR.md)
+- megaAVR
     - [AT90CAN128-16AI](megaAVR.md)
     - [AT90CAN128-16AU](megaAVR.md)
     - [AT90CAN128-16MI](megaAVR.md)
@@ -2422,7 +2458,8 @@ List of supported device by Familly :
     - [ATmega8L-8PN](megaAVR.md)
     - [ATmega8L-8PU](megaAVR.md)
     - [ATmega8U2-AU](megaAVR.md)
-    - [ATmega8U2-MU](megaAVR.md)- tinyAVR
+    - [ATmega8U2-MU](megaAVR.md)
+- tinyAVR
     - [ATtiny10-MAHR](tinyAVR.md)
     - [ATtiny10-TS8R](tinyAVR.md)
     - [ATtiny10-TSHR](tinyAVR.md)
@@ -2570,7 +2607,8 @@ List of supported device by Familly :
     - [ATtiny88-PU](tinyAVR.md)
     - [ATtiny9-MAHR](tinyAVR.md)
     - [ATtiny9-TS8R](tinyAVR.md)
-    - [ATtiny9-TSHR](tinyAVR.md)- tinyAVR 2
+    - [ATtiny9-TSHR](tinyAVR.md)
+- tinyAVR 2
     - [ATtiny1624](tinyAVR 2.md)
     - [ATtiny1626](tinyAVR 2.md)
     - [ATtiny1627](tinyAVR 2.md)
@@ -2583,3 +2621,4 @@ List of supported device by Familly :
     - [ATtiny824](tinyAVR 2.md)
     - [ATtiny826](tinyAVR 2.md)
     - [ATtiny827](tinyAVR 2.md)
+Last Update : Mon Dec 29 00:48:08 CET 2025

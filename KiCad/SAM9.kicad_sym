@@ -2,7 +2,7 @@
 	(version 20251229)
 	(generator "kicad_symbol_editor")
 	(generator_version "8.0")
-(symbol "SAM9X60D1G-CU"
+(symbol "SAM9X60D5M-CU"
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -26,7 +26,7 @@
 				(justify left)
 			)
 		)
-		(property "MP" "SAM9X60D1G-CU"
+		(property "MP" "SAM9X60D5M-CU"
 			(at -106.68 95.17 0)
 			(effects
 				(font
@@ -65,7 +65,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SAM9X60D1G-CU"
+		(property "Value" "SAM9X60D5M-CU"
 			(at -106.68 105.17 0)
 			(effects
 				(font
@@ -94,7 +94,7 @@
 				(justify left)
 			)
 		)
-		(property "Name" "SAM9X60D1G"
+		(property "Name" "SAM9X60D5M"
 			(at -106.68 112.67 0)
 			(effects
 				(font
@@ -104,7 +104,7 @@
 				(justify left)
 			)
 		)
-		(symbol "SAM9X60D1G-CU_0_1"
+		(symbol "SAM9X60D5M-CU_0_1"
 			(rectangle
 				(start -101.60000000000001 90.17)
 				(end 101.60000000000001 -90.17)
@@ -117,7 +117,7 @@
 				)
 			)
 		)
-		(symbol "SAM9X60D1G-CU_1_1"
+		(symbol "SAM9X60D5M-CU_1_1"
 			(pin bidirectional line
 				(at -104.14000000000001 64.76999999999995 0.0)
 				(length 2.54)
@@ -4547,7 +4547,7 @@
 
 		)
 	)
-(symbol "SAM9X60D5M-CU"
+(symbol "SAM9X60D1G-CU"
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -4571,7 +4571,7 @@
 				(justify left)
 			)
 		)
-		(property "MP" "SAM9X60D5M-CU"
+		(property "MP" "SAM9X60D1G-CU"
 			(at -106.68 95.17 0)
 			(effects
 				(font
@@ -4610,7 +4610,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SAM9X60D5M-CU"
+		(property "Value" "SAM9X60D1G-CU"
 			(at -106.68 105.17 0)
 			(effects
 				(font
@@ -4639,7 +4639,7 @@
 				(justify left)
 			)
 		)
-		(property "Name" "SAM9X60D5M"
+		(property "Name" "SAM9X60D1G"
 			(at -106.68 112.67 0)
 			(effects
 				(font
@@ -4649,7 +4649,7 @@
 				(justify left)
 			)
 		)
-		(symbol "SAM9X60D5M-CU_0_1"
+		(symbol "SAM9X60D1G-CU_0_1"
 			(rectangle
 				(start -101.60000000000001 90.17)
 				(end 101.60000000000001 -90.17)
@@ -4662,7 +4662,7 @@
 				)
 			)
 		)
-		(symbol "SAM9X60D5M-CU_1_1"
+		(symbol "SAM9X60D1G-CU_1_1"
 			(pin bidirectional line
 				(at -104.14000000000001 64.76999999999995 0.0)
 				(length 2.54)
@@ -31266,7 +31266,7 @@
 
 		)
 	)
-(symbol "SAM9X75D2G-CU"
+(symbol "SAM9X75D1G-CU"
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -31290,7 +31290,7 @@
 				(justify left)
 			)
 		)
-		(property "MP" "SAM9X75D2G-CU"
+		(property "MP" "SAM9X75D1G-CU"
 			(at -97.79 100.25 0)
 			(effects
 				(font
@@ -31329,7 +31329,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SAM9X75D2G-CU"
+		(property "Value" "SAM9X75D1G-CU"
 			(at -97.79 110.25 0)
 			(effects
 				(font
@@ -31358,7 +31358,7 @@
 				(justify left)
 			)
 		)
-		(property "Name" "SAM9X75D2G"
+		(property "Name" "SAM9X75D1G"
 			(at -97.79 117.75 0)
 			(effects
 				(font
@@ -31368,7 +31368,7 @@
 				(justify left)
 			)
 		)
-		(symbol "SAM9X75D2G-CU_0_1"
+		(symbol "SAM9X75D1G-CU_0_1"
 			(rectangle
 				(start -92.71000000000001 95.25)
 				(end 92.71000000000001 -95.25)
@@ -31381,7 +31381,7 @@
 				)
 			)
 		)
-		(symbol "SAM9X75D2G-CU_1_1"
+		(symbol "SAM9X75D1G-CU_1_1"
 			(pin passive non_logic
 				(at -80.06000000000004 -97.79 90.0)
 				(length 2.54)
@@ -40470,7 +40470,7 @@
 
 		)
 	)
-(symbol "SAM9X75D1G-CU"
+(symbol "SAM9X75D2G-CU"
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -40494,7 +40494,7 @@
 				(justify left)
 			)
 		)
-		(property "MP" "SAM9X75D1G-CU"
+		(property "MP" "SAM9X75D2G-CU"
 			(at -97.79 100.25 0)
 			(effects
 				(font
@@ -40533,7 +40533,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SAM9X75D1G-CU"
+		(property "Value" "SAM9X75D2G-CU"
 			(at -97.79 110.25 0)
 			(effects
 				(font
@@ -40562,7 +40562,7 @@
 				(justify left)
 			)
 		)
-		(property "Name" "SAM9X75D1G"
+		(property "Name" "SAM9X75D2G"
 			(at -97.79 117.75 0)
 			(effects
 				(font
@@ -40572,7 +40572,7 @@
 				(justify left)
 			)
 		)
-		(symbol "SAM9X75D1G-CU_0_1"
+		(symbol "SAM9X75D2G-CU_0_1"
 			(rectangle
 				(start -92.71000000000001 95.25)
 				(end 92.71000000000001 -95.25)
@@ -40585,7 +40585,7 @@
 				)
 			)
 		)
-		(symbol "SAM9X75D1G-CU_1_1"
+		(symbol "SAM9X75D2G-CU_1_1"
 			(pin passive non_logic
 				(at -80.06000000000004 -97.79 90.0)
 				(length 2.54)
