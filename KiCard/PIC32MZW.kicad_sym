@@ -1,5 +1,5 @@
 (kicad_symbol_lib
-	(version 20241025)
+	(version 20251228)
 	(generator "kicad_symbol_editor")
 	(generator_version "8.0")
 (symbol "PIC32MZ2051W104132"
@@ -7,7 +7,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(property "Series" "PIC32MZW"
-			(at -12.5 5.0 0)
+			(at -12.7 5.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17,7 +17,7 @@
 			)
 		)
 		(property "Footprint" "DQFN132"
-			(at -12.5 7.5 0)
+			(at -12.7 7.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27,7 +27,7 @@
 			)
 		)
 		(property "MP" "PIC32MZ2051W104132"
-			(at -12.5 10.0 0)
+			(at -12.7 10.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37,7 +37,7 @@
 			)
 		)
 		(property "Architecture" "MIPS"
-			(at -12.5 12.5 0)
+			(at -12.7 12.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -47,7 +47,7 @@
 			)
 		)
 		(property "PINOUT" "DQFN132"
-			(at -12.5 15.0 0)
+			(at -12.7 15.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -57,7 +57,7 @@
 			)
 		)
 		(property "Reference" "U"
-			(at -12.5 17.5 0)
+			(at -12.7 17.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -66,7 +66,7 @@
 			)
 		)
 		(property "Value" "PIC32MZ2051W104132"
-			(at -12.5 20.0 0)
+			(at -12.7 20.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -75,7 +75,7 @@
 			)
 		)
 		(property "Family" "PIC32MZW"
-			(at -12.5 22.5 0)
+			(at -12.7 22.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -85,7 +85,7 @@
 			)
 		)
 		(property "MF" "Microchip"
-			(at -12.5 25.0 0)
+			(at -12.7 25.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -95,7 +95,7 @@
 			)
 		)
 		(property "Name" "PIC32MZ2051W104132"
-			(at -12.5 27.5 0)
+			(at -12.7 27.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -106,8 +106,8 @@
 		)
 		(symbol "PIC32MZ2051W104132_0_1"
 			(rectangle
-				(start -7.5 5.0)
-				(end 7.5 -5.0)
+				(start -7.62 5.08)
+				(end 7.62 -5.08)
 				(stroke
 					(width 0.254)
 					(type default)
@@ -125,7 +125,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(property "Series" "PIC32MZW"
-			(at -12.5 5.0 0)
+			(at -12.7 5.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -135,7 +135,7 @@
 			)
 		)
 		(property "Footprint" "WFI32E01_64pin"
-			(at -12.5 7.5 0)
+			(at -12.7 7.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -145,7 +145,7 @@
 			)
 		)
 		(property "MP" "WFI32E01"
-			(at -12.5 10.0 0)
+			(at -12.7 10.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -155,7 +155,7 @@
 			)
 		)
 		(property "Architecture" "MIPS"
-			(at -12.5 12.5 0)
+			(at -12.7 12.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -165,7 +165,7 @@
 			)
 		)
 		(property "PINOUT" "WFI32E01_64pin"
-			(at -12.5 15.0 0)
+			(at -12.7 15.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -175,7 +175,7 @@
 			)
 		)
 		(property "Reference" "U"
-			(at -12.5 17.5 0)
+			(at -12.7 17.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -184,7 +184,7 @@
 			)
 		)
 		(property "Value" "WFI32E01"
-			(at -12.5 20.0 0)
+			(at -12.7 20.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -193,7 +193,7 @@
 			)
 		)
 		(property "Family" "PIC32MZW"
-			(at -12.5 22.5 0)
+			(at -12.7 22.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -203,7 +203,7 @@
 			)
 		)
 		(property "MF" "Microchip"
-			(at -12.5 25.0 0)
+			(at -12.7 25.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -213,7 +213,7 @@
 			)
 		)
 		(property "Name" "WFI32E01"
-			(at -12.5 27.5 0)
+			(at -12.7 27.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -224,8 +224,8 @@
 		)
 		(symbol "WFI32E01_0_1"
 			(rectangle
-				(start -7.5 5.0)
-				(end 7.5 -5.0)
+				(start -7.62 5.08)
+				(end 7.62 -5.08)
 				(stroke
 					(width 0.254)
 					(type default)
@@ -243,7 +243,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(property "Series" "PIC32MZW"
-			(at -12.5 5.0 0)
+			(at -12.7 5.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -253,7 +253,7 @@
 			)
 		)
 		(property "Footprint" "DQFN132"
-			(at -12.5 7.5 0)
+			(at -12.7 7.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -263,7 +263,7 @@
 			)
 		)
 		(property "MP" "PIC32MZ1025W104132"
-			(at -12.5 10.0 0)
+			(at -12.7 10.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -273,7 +273,7 @@
 			)
 		)
 		(property "Architecture" "MIPS"
-			(at -12.5 12.5 0)
+			(at -12.7 12.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -283,7 +283,7 @@
 			)
 		)
 		(property "PINOUT" "DQFN132"
-			(at -12.5 15.0 0)
+			(at -12.7 15.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -293,7 +293,7 @@
 			)
 		)
 		(property "Reference" "U"
-			(at -12.5 17.5 0)
+			(at -12.7 17.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -302,7 +302,7 @@
 			)
 		)
 		(property "Value" "PIC32MZ1025W104132"
-			(at -12.5 20.0 0)
+			(at -12.7 20.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -311,7 +311,7 @@
 			)
 		)
 		(property "Family" "PIC32MZW"
-			(at -12.5 22.5 0)
+			(at -12.7 22.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -321,7 +321,7 @@
 			)
 		)
 		(property "MF" "Microchip"
-			(at -12.5 25.0 0)
+			(at -12.7 25.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -331,7 +331,7 @@
 			)
 		)
 		(property "Name" "PIC32MZ1025W104132"
-			(at -12.5 27.5 0)
+			(at -12.7 27.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -342,8 +342,8 @@
 		)
 		(symbol "PIC32MZ1025W104132_0_1"
 			(rectangle
-				(start -7.5 5.0)
-				(end 7.5 -5.0)
+				(start -7.62 5.08)
+				(end 7.62 -5.08)
 				(stroke
 					(width 0.254)
 					(type default)

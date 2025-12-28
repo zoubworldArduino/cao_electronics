@@ -1,5 +1,5 @@
 (kicad_symbol_lib
-	(version 20241025)
+	(version 20251228)
 	(generator "kicad_symbol_editor")
 	(generator_version "8.0")
 (symbol "WBZ450"
@@ -7,7 +7,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(property "Series" "BZ45"
-			(at -25.0 16.25 0)
+			(at -25.4 16.509999999999998 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17,7 +17,7 @@
 			)
 		)
 		(property "Footprint" "LGA30"
-			(at -25.0 18.75 0)
+			(at -25.4 19.009999999999998 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27,7 +27,7 @@
 			)
 		)
 		(property "MP" "WBZ450"
-			(at -25.0 21.25 0)
+			(at -25.4 21.509999999999998 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37,7 +37,7 @@
 			)
 		)
 		(property "Architecture" "CORTEX-M4"
-			(at -25.0 23.75 0)
+			(at -25.4 24.009999999999998 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -47,7 +47,7 @@
 			)
 		)
 		(property "PINOUT" "LGA30"
-			(at -25.0 26.25 0)
+			(at -25.4 26.509999999999998 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -57,7 +57,7 @@
 			)
 		)
 		(property "Reference" "U"
-			(at -25.0 28.75 0)
+			(at -25.4 29.009999999999998 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -66,7 +66,7 @@
 			)
 		)
 		(property "Value" "WBZ450"
-			(at -25.0 31.25 0)
+			(at -25.4 31.509999999999998 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -75,7 +75,7 @@
 			)
 		)
 		(property "Family" "WBZ45"
-			(at -25.0 33.75 0)
+			(at -25.4 34.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -85,7 +85,7 @@
 			)
 		)
 		(property "MF" "Microchip"
-			(at -25.0 36.25 0)
+			(at -25.4 36.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -95,7 +95,7 @@
 			)
 		)
 		(property "Name" "WBZ450"
-			(at -25.0 38.75 0)
+			(at -25.4 39.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -106,8 +106,8 @@
 		)
 		(symbol "WBZ450_0_1"
 			(rectangle
-				(start -20.0 16.25)
-				(end 20.0 -16.25)
+				(start -20.32 16.509999999999998)
+				(end 20.32 -16.509999999999998)
 				(stroke
 					(width 0.254)
 					(type default)
@@ -118,8 +118,8 @@
 			)
 		)
 		(symbol "WBZ450_1_1"
-			(pin passive line
-				(at 0.0 -18.79 90.0)
+			(pin passive non_logic
+				(at -0.1999999999999993 -19.049999999999997 90.0)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -137,8 +137,8 @@
 				)
 			)
 
-			(pin bidirectional line
-				(at -22.54 11.25 0.0)
+			(pin bidirectional inverted
+				(at -22.86 11.429999999999998 0.0)
 				(length 2.54)
 				(name "NMCLR"
 					(effects
@@ -157,7 +157,7 @@
 			)
 
 			(pin bidirectional line
-				(at 22.54 8.75 180.0)
+				(at 22.86 8.889999999999997 180.0)
 				(length 2.54)
 				(name "PB00"
 					(effects
@@ -175,8 +175,8 @@
 				)
 			)
 
-			(pin power_in line
-				(at -2.5 18.79 270.0)
+			(pin power_in non_logic
+				(at -2.54 19.049999999999997 270.0)
 				(length 2.54)
 				(name "AVDD"
 					(effects
@@ -194,8 +194,8 @@
 				)
 			)
 
-			(pin passive line
-				(at 2.5 -18.79 90.0)
+			(pin passive non_logic
+				(at 2.3400000000000007 -19.049999999999997 90.0)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -214,7 +214,7 @@
 			)
 
 			(pin bidirectional line
-				(at -22.54 6.25 0.0)
+				(at -22.86 6.349999999999997 0.0)
 				(length 2.54)
 				(name "PA04"
 					(effects
@@ -233,7 +233,7 @@
 			)
 
 			(pin bidirectional line
-				(at -22.54 8.75 0.0)
+				(at -22.86 8.889999999999997 0.0)
 				(length 2.54)
 				(name "PA03"
 					(effects
@@ -251,8 +251,8 @@
 				)
 			)
 
-			(pin passive line
-				(at 5.0 -18.79 90.0)
+			(pin passive non_logic
+				(at 4.880000000000001 -19.049999999999997 90.0)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -271,7 +271,7 @@
 			)
 
 			(pin bidirectional line
-				(at 22.54 1.25 180.0)
+				(at 22.86 1.269999999999997 180.0)
 				(length 2.54)
 				(name "PB05"
 					(effects
@@ -290,7 +290,7 @@
 			)
 
 			(pin bidirectional line
-				(at 22.54 6.25 180.0)
+				(at 22.86 6.349999999999997 180.0)
 				(length 2.54)
 				(name "PB01"
 					(effects
@@ -309,7 +309,7 @@
 			)
 
 			(pin bidirectional line
-				(at 22.54 3.75 180.0)
+				(at 22.86 3.809999999999997 180.0)
 				(length 2.54)
 				(name "PB04"
 					(effects
@@ -328,7 +328,7 @@
 			)
 
 			(pin bidirectional line
-				(at 22.54 -1.25 180.0)
+				(at 22.86 -1.2700000000000031 180.0)
 				(length 2.54)
 				(name "PB06"
 					(effects
@@ -347,7 +347,7 @@
 			)
 
 			(pin bidirectional line
-				(at 22.54 -6.25 180.0)
+				(at 22.86 -6.350000000000003 180.0)
 				(length 2.54)
 				(name "PB08"
 					(effects
@@ -366,7 +366,7 @@
 			)
 
 			(pin bidirectional line
-				(at 22.54 -8.75 180.0)
+				(at 22.86 -8.890000000000004 180.0)
 				(length 2.54)
 				(name "PB09"
 					(effects
@@ -385,7 +385,7 @@
 			)
 
 			(pin bidirectional line
-				(at 22.54 -3.75 180.0)
+				(at 22.86 -3.810000000000003 180.0)
 				(length 2.54)
 				(name "PB07"
 					(effects
@@ -403,8 +403,8 @@
 				)
 			)
 
-			(pin power_in line
-				(at 0.0 18.79 270.0)
+			(pin power_in non_logic
+				(at 0.0 19.049999999999997 270.0)
 				(length 2.54)
 				(name "VDD"
 					(effects
@@ -422,8 +422,8 @@
 				)
 			)
 
-			(pin power_in line
-				(at 2.5 18.79 270.0)
+			(pin power_in non_logic
+				(at 2.54 19.049999999999997 270.0)
 				(length 2.54)
 				(name "VDD"
 					(effects
@@ -441,8 +441,8 @@
 				)
 			)
 
-			(pin passive line
-				(at 7.5 -18.79 90.0)
+			(pin passive non_logic
+				(at 7.420000000000001 -19.049999999999997 90.0)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -461,7 +461,7 @@
 			)
 
 			(pin bidirectional line
-				(at -22.54 3.75 0.0)
+				(at -22.86 3.809999999999997 0.0)
 				(length 2.54)
 				(name "PA05"
 					(effects
@@ -480,7 +480,7 @@
 			)
 
 			(pin bidirectional line
-				(at -22.54 1.25 0.0)
+				(at -22.86 1.269999999999997 0.0)
 				(length 2.54)
 				(name "PA06"
 					(effects
@@ -498,8 +498,8 @@
 				)
 			)
 
-			(pin passive line
-				(at 10.0 -18.79 90.0)
+			(pin passive non_logic
+				(at 9.96 -19.049999999999997 90.0)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -518,7 +518,7 @@
 			)
 
 			(pin bidirectional line
-				(at -22.54 -6.25 0.0)
+				(at -22.86 -6.350000000000003 0.0)
 				(length 2.54)
 				(name "PA09"
 					(effects
@@ -537,7 +537,7 @@
 			)
 
 			(pin bidirectional line
-				(at 22.54 11.25 180.0)
+				(at 22.86 11.429999999999998 180.0)
 				(length 2.54)
 				(name "PA10"
 					(effects
@@ -556,7 +556,7 @@
 			)
 
 			(pin bidirectional line
-				(at -22.54 -3.75 0.0)
+				(at -22.86 -3.810000000000003 0.0)
 				(length 2.54)
 				(name "PA08"
 					(effects
@@ -575,7 +575,7 @@
 			)
 
 			(pin bidirectional line
-				(at -22.54 -1.25 0.0)
+				(at -22.86 -1.2700000000000031 0.0)
 				(length 2.54)
 				(name "PA07"
 					(effects
@@ -593,8 +593,8 @@
 				)
 			)
 
-			(pin no_connect line
-				(at -2.5 -18.79 90.0)
+			(pin no_connect non_logic
+				(at -2.7399999999999993 -19.049999999999997 90.0)
 				(length 2.54)
 				(name "NC"
 					(effects
@@ -612,8 +612,8 @@
 				)
 			)
 
-			(pin passive line
-				(at 12.5 -18.79 90.0)
+			(pin passive non_logic
+				(at 12.5 -19.049999999999997 90.0)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -631,8 +631,8 @@
 				)
 			)
 
-			(pin no_connect line
-				(at -5.0 -18.79 90.0)
+			(pin no_connect non_logic
+				(at -5.279999999999999 -19.049999999999997 90.0)
 				(length 2.54)
 				(name "NC"
 					(effects
@@ -650,8 +650,8 @@
 				)
 			)
 
-			(pin no_connect line
-				(at -7.5 -18.79 90.0)
+			(pin no_connect non_logic
+				(at -7.819999999999999 -19.049999999999997 90.0)
 				(length 2.54)
 				(name "NC"
 					(effects
@@ -669,8 +669,8 @@
 				)
 			)
 
-			(pin no_connect line
-				(at -10.0 -18.79 90.0)
+			(pin no_connect non_logic
+				(at -10.36 -19.049999999999997 90.0)
 				(length 2.54)
 				(name "NC"
 					(effects
@@ -695,7 +695,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(property "Series" "BZ45"
-			(at -20.0 23.75 0)
+			(at -20.32 24.130000000000003 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -705,7 +705,7 @@
 			)
 		)
 		(property "Footprint" "LGA39"
-			(at -20.0 26.25 0)
+			(at -20.32 26.630000000000003 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -715,7 +715,7 @@
 			)
 		)
 		(property "MP" "WBZ451"
-			(at -20.0 28.75 0)
+			(at -20.32 29.130000000000003 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -725,7 +725,7 @@
 			)
 		)
 		(property "Architecture" "CORTEX-M4"
-			(at -20.0 31.25 0)
+			(at -20.32 31.630000000000003 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -735,7 +735,7 @@
 			)
 		)
 		(property "PINOUT" "LGA39"
-			(at -20.0 33.75 0)
+			(at -20.32 34.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -745,7 +745,7 @@
 			)
 		)
 		(property "Reference" "U"
-			(at -20.0 36.25 0)
+			(at -20.32 36.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -754,7 +754,7 @@
 			)
 		)
 		(property "Value" "WBZ451"
-			(at -20.0 38.75 0)
+			(at -20.32 39.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -763,7 +763,7 @@
 			)
 		)
 		(property "Family" "WBZ45"
-			(at -20.0 41.25 0)
+			(at -20.32 41.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -773,7 +773,7 @@
 			)
 		)
 		(property "MF" "Microchip"
-			(at -20.0 43.75 0)
+			(at -20.32 44.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -783,7 +783,7 @@
 			)
 		)
 		(property "Name" "WBZ451"
-			(at -20.0 46.25 0)
+			(at -20.32 46.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -794,8 +794,8 @@
 		)
 		(symbol "WBZ451_0_1"
 			(rectangle
-				(start -15.0 23.75)
-				(end 15.0 -23.75)
+				(start -15.24 24.130000000000003)
+				(end 15.24 -24.130000000000003)
 				(stroke
 					(width 0.254)
 					(type default)
@@ -806,8 +806,8 @@
 			)
 		)
 		(symbol "WBZ451_1_1"
-			(pin passive line
-				(at -5.0 -26.29 90.0)
+			(pin passive non_logic
+				(at -5.2 -26.67 90.0)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -825,8 +825,8 @@
 				)
 			)
 
-			(pin passive line
-				(at -2.5 -26.29 90.0)
+			(pin passive non_logic
+				(at -2.66 -26.67 90.0)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -844,8 +844,8 @@
 				)
 			)
 
-			(pin bidirectional line
-				(at -17.54 18.75 0.0)
+			(pin bidirectional inverted
+				(at -17.78 19.050000000000004 0.0)
 				(length 2.54)
 				(name "NMCLR"
 					(effects
@@ -864,7 +864,7 @@
 			)
 
 			(pin bidirectional line
-				(at 17.54 13.75 180.0)
+				(at 17.78 13.970000000000006 180.0)
 				(length 2.54)
 				(name "PB00"
 					(effects
@@ -883,7 +883,7 @@
 			)
 
 			(pin bidirectional line
-				(at 17.54 6.25 180.0)
+				(at 17.78 6.350000000000008 180.0)
 				(length 2.54)
 				(name "PB03"
 					(effects
@@ -902,7 +902,7 @@
 			)
 
 			(pin bidirectional line
-				(at 17.54 1.25 180.0)
+				(at 17.78 1.2700000000000076 180.0)
 				(length 2.54)
 				(name "PB05"
 					(effects
@@ -920,8 +920,8 @@
 				)
 			)
 
-			(pin power_in line
-				(at -2.5 26.29 270.0)
+			(pin power_in non_logic
+				(at -2.54 26.67 270.0)
 				(length 2.54)
 				(name "AVDD"
 					(effects
@@ -939,8 +939,8 @@
 				)
 			)
 
-			(pin passive line
-				(at 0.0 -26.29 90.0)
+			(pin passive non_logic
+				(at -0.1200000000000001 -26.67 90.0)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -959,7 +959,7 @@
 			)
 
 			(pin bidirectional line
-				(at -17.54 -11.25 0.0)
+				(at -17.78 -11.429999999999993 0.0)
 				(length 2.54)
 				(name "PA11"
 					(effects
@@ -978,7 +978,7 @@
 			)
 
 			(pin bidirectional line
-				(at -17.54 -13.75 0.0)
+				(at -17.78 -13.969999999999992 0.0)
 				(length 2.54)
 				(name "PA12"
 					(effects
@@ -996,8 +996,8 @@
 				)
 			)
 
-			(pin passive line
-				(at 2.5 -26.29 90.0)
+			(pin passive non_logic
+				(at 2.42 -26.67 90.0)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -1016,7 +1016,7 @@
 			)
 
 			(pin bidirectional line
-				(at 17.54 -1.25 180.0)
+				(at 17.78 -1.2699999999999925 180.0)
 				(length 2.54)
 				(name "PB06"
 					(effects
@@ -1035,7 +1035,7 @@
 			)
 
 			(pin bidirectional line
-				(at 17.54 -3.75 180.0)
+				(at 17.78 -3.8099999999999925 180.0)
 				(length 2.54)
 				(name "PB07"
 					(effects
@@ -1054,7 +1054,7 @@
 			)
 
 			(pin bidirectional line
-				(at 17.54 -6.25 180.0)
+				(at 17.78 -6.3499999999999925 180.0)
 				(length 2.54)
 				(name "PB08"
 					(effects
@@ -1073,7 +1073,7 @@
 			)
 
 			(pin bidirectional line
-				(at 17.54 -8.75 180.0)
+				(at 17.78 -8.889999999999993 180.0)
 				(length 2.54)
 				(name "PB09"
 					(effects
@@ -1092,7 +1092,7 @@
 			)
 
 			(pin bidirectional line
-				(at -17.54 6.25 0.0)
+				(at -17.78 6.350000000000008 0.0)
 				(length 2.54)
 				(name "PA04"
 					(effects
@@ -1111,7 +1111,7 @@
 			)
 
 			(pin bidirectional line
-				(at 17.54 -11.25 180.0)
+				(at 17.78 -11.429999999999993 180.0)
 				(length 2.54)
 				(name "PB10"
 					(effects
@@ -1130,7 +1130,7 @@
 			)
 
 			(pin bidirectional line
-				(at 17.54 -13.75 180.0)
+				(at 17.78 -13.969999999999992 180.0)
 				(length 2.54)
 				(name "PB11"
 					(effects
@@ -1148,8 +1148,8 @@
 				)
 			)
 
-			(pin passive line
-				(at 5.0 -26.29 90.0)
+			(pin passive non_logic
+				(at 4.96 -26.67 90.0)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -1168,7 +1168,7 @@
 			)
 
 			(pin bidirectional line
-				(at -17.54 16.25 0.0)
+				(at -17.78 16.510000000000005 0.0)
 				(length 2.54)
 				(name "PA00"
 					(effects
@@ -1187,7 +1187,7 @@
 			)
 
 			(pin bidirectional line
-				(at -17.54 13.75 0.0)
+				(at -17.78 13.970000000000006 0.0)
 				(length 2.54)
 				(name "PA01"
 					(effects
@@ -1206,7 +1206,7 @@
 			)
 
 			(pin bidirectional line
-				(at 17.54 -16.25 180.0)
+				(at 17.78 -16.50999999999999 180.0)
 				(length 2.54)
 				(name "PB12"
 					(effects
@@ -1225,7 +1225,7 @@
 			)
 
 			(pin bidirectional line
-				(at 17.54 -18.75 180.0)
+				(at 17.78 -19.04999999999999 180.0)
 				(length 2.54)
 				(name "PB13"
 					(effects
@@ -1244,7 +1244,7 @@
 			)
 
 			(pin bidirectional line
-				(at -17.54 3.75 0.0)
+				(at -17.78 3.8100000000000076 0.0)
 				(length 2.54)
 				(name "PA05"
 					(effects
@@ -1263,7 +1263,7 @@
 			)
 
 			(pin bidirectional line
-				(at -17.54 1.25 0.0)
+				(at -17.78 1.2700000000000076 0.0)
 				(length 2.54)
 				(name "PA06"
 					(effects
@@ -1281,8 +1281,8 @@
 				)
 			)
 
-			(pin passive line
-				(at 7.5 -26.29 90.0)
+			(pin passive non_logic
+				(at 7.5 -26.67 90.0)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -1300,8 +1300,8 @@
 				)
 			)
 
-			(pin power_in line
-				(at 0.0 26.29 270.0)
+			(pin power_in non_logic
+				(at 0.0 26.67 270.0)
 				(length 2.54)
 				(name "VDD"
 					(effects
@@ -1319,8 +1319,8 @@
 				)
 			)
 
-			(pin power_in line
-				(at 2.5 26.29 270.0)
+			(pin power_in non_logic
+				(at 2.54 26.67 270.0)
 				(length 2.54)
 				(name "VDD"
 					(effects
@@ -1339,7 +1339,7 @@
 			)
 
 			(pin bidirectional line
-				(at -17.54 -3.75 0.0)
+				(at -17.78 -3.8099999999999925 0.0)
 				(length 2.54)
 				(name "PA08"
 					(effects
@@ -1358,7 +1358,7 @@
 			)
 
 			(pin bidirectional line
-				(at -17.54 -6.25 0.0)
+				(at -17.78 -6.3499999999999925 0.0)
 				(length 2.54)
 				(name "PA09"
 					(effects
@@ -1377,7 +1377,7 @@
 			)
 
 			(pin bidirectional line
-				(at -17.54 -1.25 0.0)
+				(at -17.78 -1.2699999999999925 0.0)
 				(length 2.54)
 				(name "PA07"
 					(effects
@@ -1396,7 +1396,7 @@
 			)
 
 			(pin bidirectional line
-				(at -17.54 -8.75 0.0)
+				(at -17.78 -8.889999999999993 0.0)
 				(length 2.54)
 				(name "PA10"
 					(effects
@@ -1415,7 +1415,7 @@
 			)
 
 			(pin bidirectional line
-				(at 17.54 18.75 180.0)
+				(at 17.78 19.050000000000004 180.0)
 				(length 2.54)
 				(name "PA13"
 					(effects
@@ -1434,7 +1434,7 @@
 			)
 
 			(pin bidirectional line
-				(at 17.54 16.25 180.0)
+				(at 17.78 16.510000000000005 180.0)
 				(length 2.54)
 				(name "PA14"
 					(effects
@@ -1453,7 +1453,7 @@
 			)
 
 			(pin bidirectional line
-				(at -17.54 11.25 0.0)
+				(at -17.78 11.430000000000007 0.0)
 				(length 2.54)
 				(name "PA02"
 					(effects
@@ -1472,7 +1472,7 @@
 			)
 
 			(pin bidirectional line
-				(at -17.54 8.75 0.0)
+				(at -17.78 8.890000000000008 0.0)
 				(length 2.54)
 				(name "PA03"
 					(effects
@@ -1491,7 +1491,7 @@
 			)
 
 			(pin bidirectional line
-				(at 17.54 8.75 180.0)
+				(at 17.78 8.890000000000008 180.0)
 				(length 2.54)
 				(name "PB02"
 					(effects
@@ -1510,7 +1510,7 @@
 			)
 
 			(pin bidirectional line
-				(at 17.54 11.25 180.0)
+				(at 17.78 11.430000000000007 180.0)
 				(length 2.54)
 				(name "PB01"
 					(effects
@@ -1529,7 +1529,7 @@
 			)
 
 			(pin bidirectional line
-				(at 17.54 3.75 180.0)
+				(at 17.78 3.8100000000000076 180.0)
 				(length 2.54)
 				(name "PB04"
 					(effects

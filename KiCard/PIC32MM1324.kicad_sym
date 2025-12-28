@@ -1,721 +1,13 @@
 (kicad_symbol_lib
-	(version 20241025)
+	(version 20251228)
 	(generator "kicad_symbol_editor")
 	(generator_version "8.0")
-(symbol "PIC32MM0016GPL036"
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(property "Series" "PIC32MM"
-			(at -12.5 5.0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Footprint" "VQFN36"
-			(at -12.5 7.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "MP" "PIC32MM0016GPL036"
-			(at -12.5 10.0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Architecture" "MIPS"
-			(at -12.5 12.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "PINOUT" "VQFN36"
-			(at -12.5 15.0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Reference" "U"
-			(at -12.5 17.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "PIC32MM0016GPL036"
-			(at -12.5 20.0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Family" "PIC32MM1324"
-			(at -12.5 22.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "MF" "Microchip"
-			(at -12.5 25.0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Name" "PIC32MM0016GPL036"
-			(at -12.5 27.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(symbol "PIC32MM0016GPL036_0_1"
-			(rectangle
-				(start -7.5 5.0)
-				(end 7.5 -5.0)
-				(stroke
-					(width 0.254)
-					(type default)
-				)
-				(fill
-					(type background)
-				)
-			)
-		)
-		(symbol "PIC32MM0016GPL036_1_1"
-		)
-	)
-(symbol "PIC32MM0016GPL036"
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(property "Series" "PIC32MM"
-			(at -12.5 5.0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Footprint" "UQFN40"
-			(at -12.5 7.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "MP" "PIC32MM0016GPL036"
-			(at -12.5 10.0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Architecture" "MIPS"
-			(at -12.5 12.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "PINOUT" "UQFN40"
-			(at -12.5 15.0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Reference" "U"
-			(at -12.5 17.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "PIC32MM0016GPL036"
-			(at -12.5 20.0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Family" "PIC32MM1324"
-			(at -12.5 22.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "MF" "Microchip"
-			(at -12.5 25.0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Name" "PIC32MM0016GPL036"
-			(at -12.5 27.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(symbol "PIC32MM0016GPL036_0_1"
-			(rectangle
-				(start -7.5 5.0)
-				(end 7.5 -5.0)
-				(stroke
-					(width 0.254)
-					(type default)
-				)
-				(fill
-					(type background)
-				)
-			)
-		)
-		(symbol "PIC32MM0016GPL036_1_1"
-		)
-	)
-(symbol "PIC32MM0032GPL020"
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(property "Series" "PIC32MM"
-			(at -12.5 5.0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Footprint" "SSOP20"
-			(at -12.5 7.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "MP" "PIC32MM0032GPL020"
-			(at -12.5 10.0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Architecture" "MIPS"
-			(at -12.5 12.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "PINOUT" "SSOP20"
-			(at -12.5 15.0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Reference" "U"
-			(at -12.5 17.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "PIC32MM0032GPL020"
-			(at -12.5 20.0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Family" "PIC32MM1324"
-			(at -12.5 22.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "MF" "Microchip"
-			(at -12.5 25.0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Name" "PIC32MM0032GPL020"
-			(at -12.5 27.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(symbol "PIC32MM0032GPL020_0_1"
-			(rectangle
-				(start -7.5 5.0)
-				(end 7.5 -5.0)
-				(stroke
-					(width 0.254)
-					(type default)
-				)
-				(fill
-					(type background)
-				)
-			)
-		)
-		(symbol "PIC32MM0032GPL020_1_1"
-		)
-	)
-(symbol "PIC32MM0032GPL020"
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(property "Series" "PIC32MM"
-			(at -12.5 5.0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Footprint" "QFN20"
-			(at -12.5 7.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "MP" "PIC32MM0032GPL020"
-			(at -12.5 10.0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Architecture" "MIPS"
-			(at -12.5 12.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "PINOUT" "QFN20"
-			(at -12.5 15.0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Reference" "U"
-			(at -12.5 17.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "PIC32MM0032GPL020"
-			(at -12.5 20.0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Family" "PIC32MM1324"
-			(at -12.5 22.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "MF" "Microchip"
-			(at -12.5 25.0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Name" "PIC32MM0032GPL020"
-			(at -12.5 27.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(symbol "PIC32MM0032GPL020_0_1"
-			(rectangle
-				(start -7.5 5.0)
-				(end 7.5 -5.0)
-				(stroke
-					(width 0.254)
-					(type default)
-				)
-				(fill
-					(type background)
-				)
-			)
-		)
-		(symbol "PIC32MM0032GPL020_1_1"
-		)
-	)
-(symbol "PIC32MM0064GPL020"
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(property "Series" "PIC32MM"
-			(at -12.5 5.0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Footprint" "SSOP20"
-			(at -12.5 7.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "MP" "PIC32MM0064GPL020"
-			(at -12.5 10.0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Architecture" "MIPS"
-			(at -12.5 12.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "PINOUT" "SSOP20"
-			(at -12.5 15.0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Reference" "U"
-			(at -12.5 17.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "PIC32MM0064GPL020"
-			(at -12.5 20.0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Family" "PIC32MM1324"
-			(at -12.5 22.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "MF" "Microchip"
-			(at -12.5 25.0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Name" "PIC32MM0064GPL020"
-			(at -12.5 27.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(symbol "PIC32MM0064GPL020_0_1"
-			(rectangle
-				(start -7.5 5.0)
-				(end 7.5 -5.0)
-				(stroke
-					(width 0.254)
-					(type default)
-				)
-				(fill
-					(type background)
-				)
-			)
-		)
-		(symbol "PIC32MM0064GPL020_1_1"
-		)
-	)
-(symbol "PIC32MM0064GPL020"
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(property "Series" "PIC32MM"
-			(at -12.5 5.0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Footprint" "QFN20"
-			(at -12.5 7.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "MP" "PIC32MM0064GPL020"
-			(at -12.5 10.0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Architecture" "MIPS"
-			(at -12.5 12.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "PINOUT" "QFN20"
-			(at -12.5 15.0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Reference" "U"
-			(at -12.5 17.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "PIC32MM0064GPL020"
-			(at -12.5 20.0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Family" "PIC32MM1324"
-			(at -12.5 22.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "MF" "Microchip"
-			(at -12.5 25.0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Name" "PIC32MM0064GPL020"
-			(at -12.5 27.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(symbol "PIC32MM0064GPL020_0_1"
-			(rectangle
-				(start -7.5 5.0)
-				(end 7.5 -5.0)
-				(stroke
-					(width 0.254)
-					(type default)
-				)
-				(fill
-					(type background)
-				)
-			)
-		)
-		(symbol "PIC32MM0064GPL020_1_1"
-		)
-	)
 (symbol "PIC32MM0032GPL036"
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(property "Series" "PIC32MM"
-			(at -12.5 5.0 0)
+			(at -12.7 5.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -725,7 +17,7 @@
 			)
 		)
 		(property "Footprint" "VQFN36"
-			(at -12.5 7.5 0)
+			(at -12.7 7.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -735,7 +27,7 @@
 			)
 		)
 		(property "MP" "PIC32MM0032GPL036"
-			(at -12.5 10.0 0)
+			(at -12.7 10.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -745,7 +37,7 @@
 			)
 		)
 		(property "Architecture" "MIPS"
-			(at -12.5 12.5 0)
+			(at -12.7 12.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -755,7 +47,7 @@
 			)
 		)
 		(property "PINOUT" "VQFN36"
-			(at -12.5 15.0 0)
+			(at -12.7 15.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -765,7 +57,7 @@
 			)
 		)
 		(property "Reference" "U"
-			(at -12.5 17.5 0)
+			(at -12.7 17.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -774,7 +66,7 @@
 			)
 		)
 		(property "Value" "PIC32MM0032GPL036"
-			(at -12.5 20.0 0)
+			(at -12.7 20.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -783,7 +75,7 @@
 			)
 		)
 		(property "Family" "PIC32MM1324"
-			(at -12.5 22.5 0)
+			(at -12.7 22.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -793,7 +85,7 @@
 			)
 		)
 		(property "MF" "Microchip"
-			(at -12.5 25.0 0)
+			(at -12.7 25.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -803,7 +95,7 @@
 			)
 		)
 		(property "Name" "PIC32MM0032GPL036"
-			(at -12.5 27.5 0)
+			(at -12.7 27.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -814,8 +106,8 @@
 		)
 		(symbol "PIC32MM0032GPL036_0_1"
 			(rectangle
-				(start -7.5 5.0)
-				(end 7.5 -5.0)
+				(start -7.62 5.08)
+				(end 7.62 -5.08)
 				(stroke
 					(width 0.254)
 					(type default)
@@ -833,7 +125,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(property "Series" "PIC32MM"
-			(at -12.5 5.0 0)
+			(at -12.7 5.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -843,7 +135,7 @@
 			)
 		)
 		(property "Footprint" "UQFN40"
-			(at -12.5 7.5 0)
+			(at -12.7 7.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -853,7 +145,7 @@
 			)
 		)
 		(property "MP" "PIC32MM0032GPL036"
-			(at -12.5 10.0 0)
+			(at -12.7 10.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -863,7 +155,7 @@
 			)
 		)
 		(property "Architecture" "MIPS"
-			(at -12.5 12.5 0)
+			(at -12.7 12.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -873,7 +165,7 @@
 			)
 		)
 		(property "PINOUT" "UQFN40"
-			(at -12.5 15.0 0)
+			(at -12.7 15.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -883,7 +175,7 @@
 			)
 		)
 		(property "Reference" "U"
-			(at -12.5 17.5 0)
+			(at -12.7 17.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -892,7 +184,7 @@
 			)
 		)
 		(property "Value" "PIC32MM0032GPL036"
-			(at -12.5 20.0 0)
+			(at -12.7 20.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -901,7 +193,7 @@
 			)
 		)
 		(property "Family" "PIC32MM1324"
-			(at -12.5 22.5 0)
+			(at -12.7 22.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -911,7 +203,7 @@
 			)
 		)
 		(property "MF" "Microchip"
-			(at -12.5 25.0 0)
+			(at -12.7 25.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -921,7 +213,7 @@
 			)
 		)
 		(property "Name" "PIC32MM0032GPL036"
-			(at -12.5 27.5 0)
+			(at -12.7 27.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -932,8 +224,8 @@
 		)
 		(symbol "PIC32MM0032GPL036_0_1"
 			(rectangle
-				(start -7.5 5.0)
-				(end 7.5 -5.0)
+				(start -7.62 5.08)
+				(end 7.62 -5.08)
 				(stroke
 					(width 0.254)
 					(type default)
@@ -946,956 +238,12 @@
 		(symbol "PIC32MM0032GPL036_1_1"
 		)
 	)
-(symbol "PIC32MM0016GPL028"
+(symbol "PIC32MM0016GPL036"
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(property "Series" "PIC32MM"
-			(at -12.5 5.0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Footprint" "SSOP28"
-			(at -12.5 7.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "MP" "PIC32MM0016GPL028"
-			(at -12.5 10.0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Architecture" "MIPS"
-			(at -12.5 12.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "PINOUT" "SSOP28"
-			(at -12.5 15.0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Reference" "U"
-			(at -12.5 17.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "PIC32MM0016GPL028"
-			(at -12.5 20.0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Family" "PIC32MM1324"
-			(at -12.5 22.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "MF" "Microchip"
-			(at -12.5 25.0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Name" "PIC32MM0016GPL028"
-			(at -12.5 27.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(symbol "PIC32MM0016GPL028_0_1"
-			(rectangle
-				(start -7.5 5.0)
-				(end 7.5 -5.0)
-				(stroke
-					(width 0.254)
-					(type default)
-				)
-				(fill
-					(type background)
-				)
-			)
-		)
-		(symbol "PIC32MM0016GPL028_1_1"
-		)
-	)
-(symbol "PIC32MM0016GPL028"
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(property "Series" "PIC32MM"
-			(at -12.5 5.0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Footprint" "QFN28"
-			(at -12.5 7.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "MP" "PIC32MM0016GPL028"
-			(at -12.5 10.0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Architecture" "MIPS"
-			(at -12.5 12.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "PINOUT" "QFN28"
-			(at -12.5 15.0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Reference" "U"
-			(at -12.5 17.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "PIC32MM0016GPL028"
-			(at -12.5 20.0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Family" "PIC32MM1324"
-			(at -12.5 22.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "MF" "Microchip"
-			(at -12.5 25.0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Name" "PIC32MM0016GPL028"
-			(at -12.5 27.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(symbol "PIC32MM0016GPL028_0_1"
-			(rectangle
-				(start -7.5 5.0)
-				(end 7.5 -5.0)
-				(stroke
-					(width 0.254)
-					(type default)
-				)
-				(fill
-					(type background)
-				)
-			)
-		)
-		(symbol "PIC32MM0016GPL028_1_1"
-		)
-	)
-(symbol "PIC32MM0064GPL028"
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(property "Series" "PIC32MM"
-			(at -12.5 5.0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Footprint" "SSOP28"
-			(at -12.5 7.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "MP" "PIC32MM0064GPL028"
-			(at -12.5 10.0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Architecture" "MIPS"
-			(at -12.5 12.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "PINOUT" "SSOP28"
-			(at -12.5 15.0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Reference" "U"
-			(at -12.5 17.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "PIC32MM0064GPL028"
-			(at -12.5 20.0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Family" "PIC32MM1324"
-			(at -12.5 22.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "MF" "Microchip"
-			(at -12.5 25.0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Name" "PIC32MM0064GPL028"
-			(at -12.5 27.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(symbol "PIC32MM0064GPL028_0_1"
-			(rectangle
-				(start -7.5 5.0)
-				(end 7.5 -5.0)
-				(stroke
-					(width 0.254)
-					(type default)
-				)
-				(fill
-					(type background)
-				)
-			)
-		)
-		(symbol "PIC32MM0064GPL028_1_1"
-		)
-	)
-(symbol "PIC32MM0064GPL028"
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(property "Series" "PIC32MM"
-			(at -12.5 5.0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Footprint" "QFN28"
-			(at -12.5 7.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "MP" "PIC32MM0064GPL028"
-			(at -12.5 10.0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Architecture" "MIPS"
-			(at -12.5 12.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "PINOUT" "QFN28"
-			(at -12.5 15.0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Reference" "U"
-			(at -12.5 17.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "PIC32MM0064GPL028"
-			(at -12.5 20.0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Family" "PIC32MM1324"
-			(at -12.5 22.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "MF" "Microchip"
-			(at -12.5 25.0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Name" "PIC32MM0064GPL028"
-			(at -12.5 27.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(symbol "PIC32MM0064GPL028_0_1"
-			(rectangle
-				(start -7.5 5.0)
-				(end 7.5 -5.0)
-				(stroke
-					(width 0.254)
-					(type default)
-				)
-				(fill
-					(type background)
-				)
-			)
-		)
-		(symbol "PIC32MM0064GPL028_1_1"
-		)
-	)
-(symbol "PIC32MM0032GPL028"
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(property "Series" "PIC32MM"
-			(at -12.5 5.0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Footprint" "SSOP28"
-			(at -12.5 7.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "MP" "PIC32MM0032GPL028"
-			(at -12.5 10.0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Architecture" "MIPS"
-			(at -12.5 12.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "PINOUT" "SSOP28"
-			(at -12.5 15.0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Reference" "U"
-			(at -12.5 17.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "PIC32MM0032GPL028"
-			(at -12.5 20.0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Family" "PIC32MM1324"
-			(at -12.5 22.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "MF" "Microchip"
-			(at -12.5 25.0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Name" "PIC32MM0032GPL028"
-			(at -12.5 27.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(symbol "PIC32MM0032GPL028_0_1"
-			(rectangle
-				(start -7.5 5.0)
-				(end 7.5 -5.0)
-				(stroke
-					(width 0.254)
-					(type default)
-				)
-				(fill
-					(type background)
-				)
-			)
-		)
-		(symbol "PIC32MM0032GPL028_1_1"
-		)
-	)
-(symbol "PIC32MM0032GPL028"
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(property "Series" "PIC32MM"
-			(at -12.5 5.0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Footprint" "QFN28"
-			(at -12.5 7.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "MP" "PIC32MM0032GPL028"
-			(at -12.5 10.0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Architecture" "MIPS"
-			(at -12.5 12.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "PINOUT" "QFN28"
-			(at -12.5 15.0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Reference" "U"
-			(at -12.5 17.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "PIC32MM0032GPL028"
-			(at -12.5 20.0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Family" "PIC32MM1324"
-			(at -12.5 22.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "MF" "Microchip"
-			(at -12.5 25.0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Name" "PIC32MM0032GPL028"
-			(at -12.5 27.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(symbol "PIC32MM0032GPL028_0_1"
-			(rectangle
-				(start -7.5 5.0)
-				(end 7.5 -5.0)
-				(stroke
-					(width 0.254)
-					(type default)
-				)
-				(fill
-					(type background)
-				)
-			)
-		)
-		(symbol "PIC32MM0032GPL028_1_1"
-		)
-	)
-(symbol "PIC32MM0016GPL020"
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(property "Series" "PIC32MM"
-			(at -12.5 5.0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Footprint" "SSOP20"
-			(at -12.5 7.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "MP" "PIC32MM0016GPL020"
-			(at -12.5 10.0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Architecture" "MIPS"
-			(at -12.5 12.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "PINOUT" "SSOP20"
-			(at -12.5 15.0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Reference" "U"
-			(at -12.5 17.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "PIC32MM0016GPL020"
-			(at -12.5 20.0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Family" "PIC32MM1324"
-			(at -12.5 22.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "MF" "Microchip"
-			(at -12.5 25.0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Name" "PIC32MM0016GPL020"
-			(at -12.5 27.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(symbol "PIC32MM0016GPL020_0_1"
-			(rectangle
-				(start -7.5 5.0)
-				(end 7.5 -5.0)
-				(stroke
-					(width 0.254)
-					(type default)
-				)
-				(fill
-					(type background)
-				)
-			)
-		)
-		(symbol "PIC32MM0016GPL020_1_1"
-		)
-	)
-(symbol "PIC32MM0016GPL020"
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(property "Series" "PIC32MM"
-			(at -12.5 5.0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Footprint" "QFN20"
-			(at -12.5 7.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "MP" "PIC32MM0016GPL020"
-			(at -12.5 10.0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Architecture" "MIPS"
-			(at -12.5 12.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "PINOUT" "QFN20"
-			(at -12.5 15.0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Reference" "U"
-			(at -12.5 17.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "PIC32MM0016GPL020"
-			(at -12.5 20.0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Family" "PIC32MM1324"
-			(at -12.5 22.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "MF" "Microchip"
-			(at -12.5 25.0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Name" "PIC32MM0016GPL020"
-			(at -12.5 27.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(symbol "PIC32MM0016GPL020_0_1"
-			(rectangle
-				(start -7.5 5.0)
-				(end 7.5 -5.0)
-				(stroke
-					(width 0.254)
-					(type default)
-				)
-				(fill
-					(type background)
-				)
-			)
-		)
-		(symbol "PIC32MM0016GPL020_1_1"
-		)
-	)
-(symbol "PIC32MM0064GPL036"
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(property "Series" "PIC32MM"
-			(at -12.5 5.0 0)
+			(at -12.7 5.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1905,7 +253,7 @@
 			)
 		)
 		(property "Footprint" "VQFN36"
-			(at -12.5 7.5 0)
+			(at -12.7 7.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1914,8 +262,8 @@
 				(justify left)
 			)
 		)
-		(property "MP" "PIC32MM0064GPL036"
-			(at -12.5 10.0 0)
+		(property "MP" "PIC32MM0016GPL036"
+			(at -12.7 10.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1925,7 +273,7 @@
 			)
 		)
 		(property "Architecture" "MIPS"
-			(at -12.5 12.5 0)
+			(at -12.7 12.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1935,7 +283,7 @@
 			)
 		)
 		(property "PINOUT" "VQFN36"
-			(at -12.5 15.0 0)
+			(at -12.7 15.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1945,7 +293,7 @@
 			)
 		)
 		(property "Reference" "U"
-			(at -12.5 17.5 0)
+			(at -12.7 17.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1953,8 +301,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "PIC32MM0064GPL036"
-			(at -12.5 20.0 0)
+		(property "Value" "PIC32MM0016GPL036"
+			(at -12.7 20.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1963,7 +311,7 @@
 			)
 		)
 		(property "Family" "PIC32MM1324"
-			(at -12.5 22.5 0)
+			(at -12.7 22.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1973,7 +321,1423 @@
 			)
 		)
 		(property "MF" "Microchip"
-			(at -12.5 25.0 0)
+			(at -12.7 25.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Name" "PIC32MM0016GPL036"
+			(at -12.7 27.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(symbol "PIC32MM0016GPL036_0_1"
+			(rectangle
+				(start -7.62 5.08)
+				(end 7.62 -5.08)
+				(stroke
+					(width 0.254)
+					(type default)
+				)
+				(fill
+					(type background)
+				)
+			)
+		)
+		(symbol "PIC32MM0016GPL036_1_1"
+		)
+	)
+(symbol "PIC32MM0016GPL036"
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Series" "PIC32MM"
+			(at -12.7 5.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Footprint" "UQFN40"
+			(at -12.7 7.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "MP" "PIC32MM0016GPL036"
+			(at -12.7 10.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Architecture" "MIPS"
+			(at -12.7 12.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "PINOUT" "UQFN40"
+			(at -12.7 15.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Reference" "U"
+			(at -12.7 17.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "PIC32MM0016GPL036"
+			(at -12.7 20.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Family" "PIC32MM1324"
+			(at -12.7 22.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "MF" "Microchip"
+			(at -12.7 25.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Name" "PIC32MM0016GPL036"
+			(at -12.7 27.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(symbol "PIC32MM0016GPL036_0_1"
+			(rectangle
+				(start -7.62 5.08)
+				(end 7.62 -5.08)
+				(stroke
+					(width 0.254)
+					(type default)
+				)
+				(fill
+					(type background)
+				)
+			)
+		)
+		(symbol "PIC32MM0016GPL036_1_1"
+		)
+	)
+(symbol "PIC32MM0032GPL020"
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Series" "PIC32MM"
+			(at -12.7 5.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Footprint" "SSOP20"
+			(at -12.7 7.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "MP" "PIC32MM0032GPL020"
+			(at -12.7 10.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Architecture" "MIPS"
+			(at -12.7 12.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "PINOUT" "SSOP20"
+			(at -12.7 15.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Reference" "U"
+			(at -12.7 17.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "PIC32MM0032GPL020"
+			(at -12.7 20.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Family" "PIC32MM1324"
+			(at -12.7 22.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "MF" "Microchip"
+			(at -12.7 25.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Name" "PIC32MM0032GPL020"
+			(at -12.7 27.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(symbol "PIC32MM0032GPL020_0_1"
+			(rectangle
+				(start -7.62 5.08)
+				(end 7.62 -5.08)
+				(stroke
+					(width 0.254)
+					(type default)
+				)
+				(fill
+					(type background)
+				)
+			)
+		)
+		(symbol "PIC32MM0032GPL020_1_1"
+		)
+	)
+(symbol "PIC32MM0032GPL020"
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Series" "PIC32MM"
+			(at -12.7 5.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Footprint" "QFN20"
+			(at -12.7 7.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "MP" "PIC32MM0032GPL020"
+			(at -12.7 10.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Architecture" "MIPS"
+			(at -12.7 12.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "PINOUT" "QFN20"
+			(at -12.7 15.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Reference" "U"
+			(at -12.7 17.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "PIC32MM0032GPL020"
+			(at -12.7 20.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Family" "PIC32MM1324"
+			(at -12.7 22.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "MF" "Microchip"
+			(at -12.7 25.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Name" "PIC32MM0032GPL020"
+			(at -12.7 27.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(symbol "PIC32MM0032GPL020_0_1"
+			(rectangle
+				(start -7.62 5.08)
+				(end 7.62 -5.08)
+				(stroke
+					(width 0.254)
+					(type default)
+				)
+				(fill
+					(type background)
+				)
+			)
+		)
+		(symbol "PIC32MM0032GPL020_1_1"
+		)
+	)
+(symbol "PIC32MM0064GPL020"
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Series" "PIC32MM"
+			(at -12.7 5.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Footprint" "SSOP20"
+			(at -12.7 7.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "MP" "PIC32MM0064GPL020"
+			(at -12.7 10.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Architecture" "MIPS"
+			(at -12.7 12.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "PINOUT" "SSOP20"
+			(at -12.7 15.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Reference" "U"
+			(at -12.7 17.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "PIC32MM0064GPL020"
+			(at -12.7 20.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Family" "PIC32MM1324"
+			(at -12.7 22.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "MF" "Microchip"
+			(at -12.7 25.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Name" "PIC32MM0064GPL020"
+			(at -12.7 27.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(symbol "PIC32MM0064GPL020_0_1"
+			(rectangle
+				(start -7.62 5.08)
+				(end 7.62 -5.08)
+				(stroke
+					(width 0.254)
+					(type default)
+				)
+				(fill
+					(type background)
+				)
+			)
+		)
+		(symbol "PIC32MM0064GPL020_1_1"
+		)
+	)
+(symbol "PIC32MM0064GPL020"
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Series" "PIC32MM"
+			(at -12.7 5.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Footprint" "QFN20"
+			(at -12.7 7.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "MP" "PIC32MM0064GPL020"
+			(at -12.7 10.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Architecture" "MIPS"
+			(at -12.7 12.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "PINOUT" "QFN20"
+			(at -12.7 15.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Reference" "U"
+			(at -12.7 17.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "PIC32MM0064GPL020"
+			(at -12.7 20.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Family" "PIC32MM1324"
+			(at -12.7 22.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "MF" "Microchip"
+			(at -12.7 25.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Name" "PIC32MM0064GPL020"
+			(at -12.7 27.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(symbol "PIC32MM0064GPL020_0_1"
+			(rectangle
+				(start -7.62 5.08)
+				(end 7.62 -5.08)
+				(stroke
+					(width 0.254)
+					(type default)
+				)
+				(fill
+					(type background)
+				)
+			)
+		)
+		(symbol "PIC32MM0064GPL020_1_1"
+		)
+	)
+(symbol "PIC32MM0016GPL028"
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Series" "PIC32MM"
+			(at -12.7 5.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Footprint" "SSOP28"
+			(at -12.7 7.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "MP" "PIC32MM0016GPL028"
+			(at -12.7 10.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Architecture" "MIPS"
+			(at -12.7 12.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "PINOUT" "SSOP28"
+			(at -12.7 15.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Reference" "U"
+			(at -12.7 17.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "PIC32MM0016GPL028"
+			(at -12.7 20.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Family" "PIC32MM1324"
+			(at -12.7 22.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "MF" "Microchip"
+			(at -12.7 25.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Name" "PIC32MM0016GPL028"
+			(at -12.7 27.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(symbol "PIC32MM0016GPL028_0_1"
+			(rectangle
+				(start -7.62 5.08)
+				(end 7.62 -5.08)
+				(stroke
+					(width 0.254)
+					(type default)
+				)
+				(fill
+					(type background)
+				)
+			)
+		)
+		(symbol "PIC32MM0016GPL028_1_1"
+		)
+	)
+(symbol "PIC32MM0016GPL028"
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Series" "PIC32MM"
+			(at -12.7 5.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Footprint" "QFN28"
+			(at -12.7 7.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "MP" "PIC32MM0016GPL028"
+			(at -12.7 10.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Architecture" "MIPS"
+			(at -12.7 12.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "PINOUT" "QFN28"
+			(at -12.7 15.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Reference" "U"
+			(at -12.7 17.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "PIC32MM0016GPL028"
+			(at -12.7 20.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Family" "PIC32MM1324"
+			(at -12.7 22.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "MF" "Microchip"
+			(at -12.7 25.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Name" "PIC32MM0016GPL028"
+			(at -12.7 27.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(symbol "PIC32MM0016GPL028_0_1"
+			(rectangle
+				(start -7.62 5.08)
+				(end 7.62 -5.08)
+				(stroke
+					(width 0.254)
+					(type default)
+				)
+				(fill
+					(type background)
+				)
+			)
+		)
+		(symbol "PIC32MM0016GPL028_1_1"
+		)
+	)
+(symbol "PIC32MM0064GPL028"
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Series" "PIC32MM"
+			(at -12.7 5.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Footprint" "SSOP28"
+			(at -12.7 7.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "MP" "PIC32MM0064GPL028"
+			(at -12.7 10.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Architecture" "MIPS"
+			(at -12.7 12.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "PINOUT" "SSOP28"
+			(at -12.7 15.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Reference" "U"
+			(at -12.7 17.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "PIC32MM0064GPL028"
+			(at -12.7 20.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Family" "PIC32MM1324"
+			(at -12.7 22.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "MF" "Microchip"
+			(at -12.7 25.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Name" "PIC32MM0064GPL028"
+			(at -12.7 27.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(symbol "PIC32MM0064GPL028_0_1"
+			(rectangle
+				(start -7.62 5.08)
+				(end 7.62 -5.08)
+				(stroke
+					(width 0.254)
+					(type default)
+				)
+				(fill
+					(type background)
+				)
+			)
+		)
+		(symbol "PIC32MM0064GPL028_1_1"
+		)
+	)
+(symbol "PIC32MM0064GPL028"
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Series" "PIC32MM"
+			(at -12.7 5.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Footprint" "QFN28"
+			(at -12.7 7.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "MP" "PIC32MM0064GPL028"
+			(at -12.7 10.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Architecture" "MIPS"
+			(at -12.7 12.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "PINOUT" "QFN28"
+			(at -12.7 15.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Reference" "U"
+			(at -12.7 17.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "PIC32MM0064GPL028"
+			(at -12.7 20.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Family" "PIC32MM1324"
+			(at -12.7 22.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "MF" "Microchip"
+			(at -12.7 25.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Name" "PIC32MM0064GPL028"
+			(at -12.7 27.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(symbol "PIC32MM0064GPL028_0_1"
+			(rectangle
+				(start -7.62 5.08)
+				(end 7.62 -5.08)
+				(stroke
+					(width 0.254)
+					(type default)
+				)
+				(fill
+					(type background)
+				)
+			)
+		)
+		(symbol "PIC32MM0064GPL028_1_1"
+		)
+	)
+(symbol "PIC32MM0032GPL028"
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Series" "PIC32MM"
+			(at -12.7 5.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Footprint" "SSOP28"
+			(at -12.7 7.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "MP" "PIC32MM0032GPL028"
+			(at -12.7 10.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Architecture" "MIPS"
+			(at -12.7 12.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "PINOUT" "SSOP28"
+			(at -12.7 15.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Reference" "U"
+			(at -12.7 17.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "PIC32MM0032GPL028"
+			(at -12.7 20.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Family" "PIC32MM1324"
+			(at -12.7 22.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "MF" "Microchip"
+			(at -12.7 25.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Name" "PIC32MM0032GPL028"
+			(at -12.7 27.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(symbol "PIC32MM0032GPL028_0_1"
+			(rectangle
+				(start -7.62 5.08)
+				(end 7.62 -5.08)
+				(stroke
+					(width 0.254)
+					(type default)
+				)
+				(fill
+					(type background)
+				)
+			)
+		)
+		(symbol "PIC32MM0032GPL028_1_1"
+		)
+	)
+(symbol "PIC32MM0032GPL028"
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Series" "PIC32MM"
+			(at -12.7 5.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Footprint" "QFN28"
+			(at -12.7 7.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "MP" "PIC32MM0032GPL028"
+			(at -12.7 10.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Architecture" "MIPS"
+			(at -12.7 12.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "PINOUT" "QFN28"
+			(at -12.7 15.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Reference" "U"
+			(at -12.7 17.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "PIC32MM0032GPL028"
+			(at -12.7 20.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Family" "PIC32MM1324"
+			(at -12.7 22.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "MF" "Microchip"
+			(at -12.7 25.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Name" "PIC32MM0032GPL028"
+			(at -12.7 27.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(symbol "PIC32MM0032GPL028_0_1"
+			(rectangle
+				(start -7.62 5.08)
+				(end 7.62 -5.08)
+				(stroke
+					(width 0.254)
+					(type default)
+				)
+				(fill
+					(type background)
+				)
+			)
+		)
+		(symbol "PIC32MM0032GPL028_1_1"
+		)
+	)
+(symbol "PIC32MM0064GPL036"
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Series" "PIC32MM"
+			(at -12.7 5.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Footprint" "VQFN36"
+			(at -12.7 7.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "MP" "PIC32MM0064GPL036"
+			(at -12.7 10.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Architecture" "MIPS"
+			(at -12.7 12.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "PINOUT" "VQFN36"
+			(at -12.7 15.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Reference" "U"
+			(at -12.7 17.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "PIC32MM0064GPL036"
+			(at -12.7 20.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Family" "PIC32MM1324"
+			(at -12.7 22.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "MF" "Microchip"
+			(at -12.7 25.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1983,7 +1747,7 @@
 			)
 		)
 		(property "Name" "PIC32MM0064GPL036"
-			(at -12.5 27.5 0)
+			(at -12.7 27.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1994,8 +1758,8 @@
 		)
 		(symbol "PIC32MM0064GPL036_0_1"
 			(rectangle
-				(start -7.5 5.0)
-				(end 7.5 -5.0)
+				(start -7.62 5.08)
+				(end 7.62 -5.08)
 				(stroke
 					(width 0.254)
 					(type default)
@@ -2013,7 +1777,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(property "Series" "PIC32MM"
-			(at -12.5 5.0 0)
+			(at -12.7 5.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2023,7 +1787,7 @@
 			)
 		)
 		(property "Footprint" "UQFN40"
-			(at -12.5 7.5 0)
+			(at -12.7 7.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2033,7 +1797,7 @@
 			)
 		)
 		(property "MP" "PIC32MM0064GPL036"
-			(at -12.5 10.0 0)
+			(at -12.7 10.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2043,7 +1807,7 @@
 			)
 		)
 		(property "Architecture" "MIPS"
-			(at -12.5 12.5 0)
+			(at -12.7 12.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2053,7 +1817,7 @@
 			)
 		)
 		(property "PINOUT" "UQFN40"
-			(at -12.5 15.0 0)
+			(at -12.7 15.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2063,7 +1827,7 @@
 			)
 		)
 		(property "Reference" "U"
-			(at -12.5 17.5 0)
+			(at -12.7 17.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2072,7 +1836,7 @@
 			)
 		)
 		(property "Value" "PIC32MM0064GPL036"
-			(at -12.5 20.0 0)
+			(at -12.7 20.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2081,7 +1845,7 @@
 			)
 		)
 		(property "Family" "PIC32MM1324"
-			(at -12.5 22.5 0)
+			(at -12.7 22.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2091,7 +1855,7 @@
 			)
 		)
 		(property "MF" "Microchip"
-			(at -12.5 25.0 0)
+			(at -12.7 25.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2101,7 +1865,7 @@
 			)
 		)
 		(property "Name" "PIC32MM0064GPL036"
-			(at -12.5 27.5 0)
+			(at -12.7 27.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2112,8 +1876,8 @@
 		)
 		(symbol "PIC32MM0064GPL036_0_1"
 			(rectangle
-				(start -7.5 5.0)
-				(end 7.5 -5.0)
+				(start -7.62 5.08)
+				(end 7.62 -5.08)
 				(stroke
 					(width 0.254)
 					(type default)
@@ -2124,6 +1888,242 @@
 			)
 		)
 		(symbol "PIC32MM0064GPL036_1_1"
+		)
+	)
+(symbol "PIC32MM0016GPL020"
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Series" "PIC32MM"
+			(at -12.7 5.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Footprint" "SSOP20"
+			(at -12.7 7.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "MP" "PIC32MM0016GPL020"
+			(at -12.7 10.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Architecture" "MIPS"
+			(at -12.7 12.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "PINOUT" "SSOP20"
+			(at -12.7 15.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Reference" "U"
+			(at -12.7 17.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "PIC32MM0016GPL020"
+			(at -12.7 20.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Family" "PIC32MM1324"
+			(at -12.7 22.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "MF" "Microchip"
+			(at -12.7 25.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Name" "PIC32MM0016GPL020"
+			(at -12.7 27.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(symbol "PIC32MM0016GPL020_0_1"
+			(rectangle
+				(start -7.62 5.08)
+				(end 7.62 -5.08)
+				(stroke
+					(width 0.254)
+					(type default)
+				)
+				(fill
+					(type background)
+				)
+			)
+		)
+		(symbol "PIC32MM0016GPL020_1_1"
+		)
+	)
+(symbol "PIC32MM0016GPL020"
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Series" "PIC32MM"
+			(at -12.7 5.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Footprint" "QFN20"
+			(at -12.7 7.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "MP" "PIC32MM0016GPL020"
+			(at -12.7 10.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Architecture" "MIPS"
+			(at -12.7 12.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "PINOUT" "QFN20"
+			(at -12.7 15.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Reference" "U"
+			(at -12.7 17.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "PIC32MM0016GPL020"
+			(at -12.7 20.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Family" "PIC32MM1324"
+			(at -12.7 22.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "MF" "Microchip"
+			(at -12.7 25.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Name" "PIC32MM0016GPL020"
+			(at -12.7 27.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(symbol "PIC32MM0016GPL020_0_1"
+			(rectangle
+				(start -7.62 5.08)
+				(end 7.62 -5.08)
+				(stroke
+					(width 0.254)
+					(type default)
+				)
+				(fill
+					(type background)
+				)
+			)
+		)
+		(symbol "PIC32MM0016GPL020_1_1"
 		)
 	)
 )

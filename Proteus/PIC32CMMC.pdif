@@ -1,5 +1,5 @@
 (kicad_symbol_lib
-	(version 20241025)
+	(version 20251228)
 	(generator "kicad_symbol_editor")
 	(generator_version "8.0")
 ;Proteus Design Interchange Format
@@ -3776,1602 +3776,6 @@ null
   (vendor "Labcenter Electronics")
   (version 1 0)
   (library
-    (part "PIC32CM1216MC00032-I/PT"
-      (family "null")
-      (package "null")
-      (description "null")
-      (attribute "Series" "PIC32CMMC00")
-      (attribute "Footprint" "TQFP32")
-      (attribute "MP" "PIC32CM1216MC00032-I/PT")
-      (attribute "Architecture" "CORTEX-M0PLUS")
-      (attribute "PINOUT" "CMMC32")
-      (attribute "Reference" "U")
-      (attribute "Value" "PIC32CM1216MC00032-I/PT")
-      (attribute "Family" "PIC32CMMC")
-      (attribute "MF" "Microchip")
-      (attribute "Name" "PIC32CM1216MC00032")
-      (gate
-        (swap 1)
-        (symbol "PIC32CM1216MC00032-I/PT")
-        (pin "PA00" 1 (type IO))
-        (pin "PA01" 2 (type IO))
-        (pin "PA02" 3 (type IO))
-        (pin "PA03" 4 (type IO))
-        (pin "PA04" 5 (type IO))
-        (pin "PA05" 6 (type IO))
-        (pin "PA06" 7 (type IO))
-        (pin "PA07" 8 (type IO))
-        (pin "VDDANA" 9 (type PP))
-        (pin "GNDIO" 10 (type PS))
-        (pin "PA08" 11 (type IO))
-        (pin "PA09" 12 (type IO))
-        (pin "PA10" 13 (type IO))
-        (pin "PA11" 14 (type IO))
-        (pin "PA14" 15 (type IO))
-        (pin "PA15" 16 (type IO))
-        (pin "PA16" 17 (type IO))
-        (pin "PA17" 18 (type IO))
-        (pin "PA18" 19 (type IO))
-        (pin "PA19" 20 (type IO))
-        (pin "PA22" 21 (type IO))
-        (pin "PA23" 22 (type IO))
-        (pin "PA24" 23 (type IO))
-        (pin "PA25" 24 (type IO))
-        (pin "PA27" 25 (type IO))
-        (pin "RESET_N" 26 (type IP))
-        (pin "PA28" 27 (type IO))
-        (pin "GNDIO" 28 (type PS))
-        (pin "VDDCORE" 29 (type PP))
-        (pin "VDDIN" 30 (type PP))
-        (pin "PA30" 31 (type IO))
-        (pin "PA31" 32 (type IO))
-      )
-    )
-    (symbol "PIC32CM1216MC00032-I/PT"
-      (units THOU)
-      (graphic
-        (stroke 1)
-        (path (pt -500.0 500.0) (pt 500.0 500.0) (pt 500.0 -500.0) (pt -500.0 -500.0) (pt -500.0 500.0) (closed))
-      )
-null
-null
-null
-null
-null
-null
-null
-null
-      (terminal
-        (body (symbol "PIN_R270_U_L200") (pt -200.0 -700.0) (rot 0) (mir 0) (visible true))
-        (name (pt -239.37 0.0) (rot 0) (just MIDDLE RIGHT) (visible true))
-        (number (pt -39.37 0.0) (rot 0) (just MIDDLE RIGHT) (visible true))
-      )
-      (terminal
-        (body (symbol "PIN_R90_U_L200") (pt  -200.0 700.0) (rot 0) (mir 0) (visible true))
-        (name (pt 239.37 0.0) (rot 0) (just MIDDLE RIGHT) (visible true))
-        (number (pt 39.37 0.0) (rot 0) (just MIDDLE RIGHT) (visible true))
-      )
-null
-null
-null
-null
-null
-null
-null
-null
-null
-null
-null
-null
-null
-null
-null
-      (terminal
-        (body (symbol "PIN_R0_U_L200") (pt -700.0 200.0) (rot 0) (mir 0) (visible true))
-        (name (pt 239.37 0.0) (rot 0) (just MIDDLE LEFT) (visible true))
-        (number (pt -39.37 0.0) (rot 0) (just MIDDLE LEFT) (visible true))
-      )
-
-null
-      (terminal
-        (body (symbol "PIN_R90_U_L200") (pt  -100.0 700.0) (rot 0) (mir 0) (visible true))
-        (name (pt 239.37 0.0) (rot 0) (just MIDDLE RIGHT) (visible true))
-        (number (pt 39.37 0.0) (rot 0) (just MIDDLE RIGHT) (visible true))
-      )
-      (terminal
-        (body (symbol "PIN_R270_U_L200") (pt -100.0 -700.0) (rot 0) (mir 0) (visible true))
-        (name (pt -239.37 0.0) (rot 0) (just MIDDLE RIGHT) (visible true))
-        (number (pt -39.37 0.0) (rot 0) (just MIDDLE RIGHT) (visible true))
-      )
-      (terminal
-        (body (symbol "PIN_R270_U_L200") (pt 0.0 -700.0) (rot 0) (mir 0) (visible true))
-        (name (pt -239.37 0.0) (rot 0) (just MIDDLE RIGHT) (visible true))
-        (number (pt -39.37 0.0) (rot 0) (just MIDDLE RIGHT) (visible true))
-      )
-null
-null
-    )
-    (symbol "PIN_R0_U_L200"
-      (units THOU)
-      (graphic
-        (stroke 6.5)
-        (path (pt 0.0 0.0) (pt 200.0 0.0))
-      )
-    )
-    (symbol "PIN_R180_U_L200"
-      (units THOU)
-      (graphic
-        (stroke 6.5)
-        (path (pt 0.0 0.0) (pt -200.0 0.0))
-      )
-    )
-    (symbol "PIN_R90_U_L200"
-      (units THOU)
-      (graphic
-        (stroke 6.5)
-        (path (pt 0.0 0.0) (pt 0.0 200.0))
-      )
-    )
-    (symbol "PIN_R270_U_L200"
-      (units THOU)
-      (graphic
-        (stroke 6.5)
-        (path (pt 0.0 0.0) (pt 0.0 -200.0))
-      )
-    )
-  (package "SOIC127P599X1758N"
-      (units THOU)
-      (layer TSLK
-        (graphic
-          (stroke 7.87)
-          (circle (pt -162.99 90.75) (pt -155.12 90.75))
-        )
-        (graphic
-          (stroke 5.0)
-          (path (pt -76.77 99.41) (pt 76.77 99.41))
-        )
-        (graphic
-          (stroke 5.0)
-          (path (pt -76.77 -99.41) (pt 76.77 -99.41))
-        )
-      )
-      (layer TASM
-        (graphic
-          (stroke 7.87)
-          (circle (pt -162.99 90.75) (pt -155.12 90.75))
-        )
-        (graphic
-          (stroke 5.0)
-          (path (pt -76.77 96.56) (pt 76.77 96.56))
-        )
-        (graphic
-          (stroke 5.0)
-          (path (pt -76.77 -96.56) (pt 76.77 -96.56))
-        )
-        (graphic
-          (stroke 5.0)
-          (path (pt -76.77 96.56) (pt -76.77 -96.56))
-        )
-        (graphic
-          (stroke 5.0)
-          (path (pt 76.77 96.56) (pt 76.77 -96.56))
-        )
-      )
-      (layer OCCA
-        (graphic
-          (stroke 1.97)
-          (path (pt -145.87 106.4) (pt 145.87 106.4))
-        )
-        (graphic
-          (stroke 1.97)
-          (path (pt -145.87 -106.4) (pt 145.87 -106.4))
-        )
-        (graphic
-          (stroke 1.97)
-          (path (pt -145.87 106.4) (pt -145.87 -106.4))
-        )
-        (graphic
-          (stroke 1.97)
-          (path (pt 145.87 106.4) (pt 145.87 -106.4))
-        )
-      )
-      (leg 1 (pt -97.24 75.0) (padstack 1))
-      (leg 2 (pt -97.24 25.0) (padstack 2))
-      (leg 3 (pt -97.24 -25.0) (padstack 3))
-      (leg 4 (pt -97.24 -75.0) (padstack 4))
-      (leg 5 (pt -97.24 -125.0) (padstack 5))
-      (leg 6 (pt -97.24 -175.0) (padstack 6))
-      (leg 7 (pt -97.24 -225.0) (padstack 7))
-      (leg 8 (pt -97.24 -275.0) (padstack 8))
-      (leg 9 (pt -97.24 -325.0) (padstack 9))
-      (leg 10 (pt -97.24 -375.0) (padstack 10))
-      (leg 11 (pt -97.24 -425.0) (padstack 11))
-      (leg 12 (pt -97.24 -475.0) (padstack 12))
-      (leg 13 (pt -97.24 -525.0) (padstack 13))
-      (leg 14 (pt -97.24 -575.0) (padstack 14))
-      (leg 15 (pt -97.24 -625.0) (padstack 15))
-      (leg 16 (pt -97.24 -675.0) (padstack 16))
-      (leg 17 (pt 97.24 -75.0) (padstack 17))
-      (leg 18 (pt 97.24 -25.0) (padstack 18))
-      (leg 19 (pt 97.24 25.0) (padstack 19))
-      (leg 20 (pt 97.24 75.0) (padstack 20))
-      (leg 21 (pt 97.24 125.0) (padstack 21))
-      (leg 22 (pt 97.24 175.0) (padstack 22))
-      (leg 23 (pt 97.24 225.0) (padstack 23))
-      (leg 24 (pt 97.24 275.0) (padstack 24))
-      (leg 25 (pt 97.24 325.0) (padstack 25))
-      (leg 26 (pt 97.24 375.0) (padstack 26))
-      (leg 27 (pt 97.24 425.0) (padstack 27))
-      (leg 28 (pt 97.24 475.0) (padstack 28))
-      (leg 29 (pt 97.24 525.0) (padstack 29))
-      (leg 30 (pt 97.24 575.0) (padstack 30))
-      (leg 31 (pt 97.24 625.0) (padstack 31))
-      (leg 32 (pt 97.24 675.0) (padstack 32))
-      (padstack 1
-        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
-      )
-      (padstack 2
-        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
-      )
-      (padstack 3
-        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
-      )
-      (padstack 4
-        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
-      )
-      (padstack 5
-        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
-      )
-      (padstack 6
-        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
-      )
-      (padstack 7
-        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
-      )
-      (padstack 8
-        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
-      )
-      (padstack 9
-        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
-      )
-      (padstack 10
-        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
-      )
-      (padstack 11
-        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
-      )
-      (padstack 12
-        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
-      )
-      (padstack 13
-        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
-      )
-      (padstack 14
-        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
-      )
-      (padstack 15
-        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
-      )
-      (padstack 16
-        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
-      )
-      (padstack 17
-        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
-      )
-      (padstack 18
-        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
-      )
-      (padstack 19
-        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
-      )
-      (padstack 20
-        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
-      )
-      (padstack 21
-        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
-      )
-      (padstack 22
-        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
-      )
-      (padstack 23
-        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
-      )
-      (padstack 24
-        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
-      )
-      (padstack 25
-        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
-      )
-      (padstack 26
-        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
-      )
-      (padstack 27
-        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
-      )
-      (padstack 28
-        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
-      )
-      (padstack 29
-        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
-      )
-      (padstack 30
-        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
-      )
-      (padstack 31
-        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
-      )
-      (padstack 32
-        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
-      )
-    )
-  )
-);Proteus Design Interchange Format
-
-(PDIF
-  (vendor "Labcenter Electronics")
-  (version 1 0)
-  (library
-    (part "PIC32CM1216MC00032-E/PT"
-      (family "null")
-      (package "null")
-      (description "null")
-      (attribute "Series" "PIC32CMMC00")
-      (attribute "Footprint" "TQFP32")
-      (attribute "MP" "PIC32CM1216MC00032-E/PT")
-      (attribute "Architecture" "CORTEX-M0PLUS")
-      (attribute "PINOUT" "CMMC32")
-      (attribute "Reference" "U")
-      (attribute "Value" "PIC32CM1216MC00032-E/PT")
-      (attribute "Family" "PIC32CMMC")
-      (attribute "MF" "Microchip")
-      (attribute "Name" "PIC32CM1216MC00032")
-      (gate
-        (swap 1)
-        (symbol "PIC32CM1216MC00032-E/PT")
-        (pin "PA00" 1 (type IO))
-        (pin "PA01" 2 (type IO))
-        (pin "PA02" 3 (type IO))
-        (pin "PA03" 4 (type IO))
-        (pin "PA04" 5 (type IO))
-        (pin "PA05" 6 (type IO))
-        (pin "PA06" 7 (type IO))
-        (pin "PA07" 8 (type IO))
-        (pin "VDDANA" 9 (type PP))
-        (pin "GNDIO" 10 (type PS))
-        (pin "PA08" 11 (type IO))
-        (pin "PA09" 12 (type IO))
-        (pin "PA10" 13 (type IO))
-        (pin "PA11" 14 (type IO))
-        (pin "PA14" 15 (type IO))
-        (pin "PA15" 16 (type IO))
-        (pin "PA16" 17 (type IO))
-        (pin "PA17" 18 (type IO))
-        (pin "PA18" 19 (type IO))
-        (pin "PA19" 20 (type IO))
-        (pin "PA22" 21 (type IO))
-        (pin "PA23" 22 (type IO))
-        (pin "PA24" 23 (type IO))
-        (pin "PA25" 24 (type IO))
-        (pin "PA27" 25 (type IO))
-        (pin "RESET_N" 26 (type IP))
-        (pin "PA28" 27 (type IO))
-        (pin "GNDIO" 28 (type PS))
-        (pin "VDDCORE" 29 (type PP))
-        (pin "VDDIN" 30 (type PP))
-        (pin "PA30" 31 (type IO))
-        (pin "PA31" 32 (type IO))
-      )
-    )
-    (symbol "PIC32CM1216MC00032-E/PT"
-      (units THOU)
-      (graphic
-        (stroke 1)
-        (path (pt -500.0 500.0) (pt 500.0 500.0) (pt 500.0 -500.0) (pt -500.0 -500.0) (pt -500.0 500.0) (closed))
-      )
-null
-null
-null
-null
-null
-null
-null
-null
-      (terminal
-        (body (symbol "PIN_R270_U_L200") (pt -200.0 -700.0) (rot 0) (mir 0) (visible true))
-        (name (pt -239.37 0.0) (rot 0) (just MIDDLE RIGHT) (visible true))
-        (number (pt -39.37 0.0) (rot 0) (just MIDDLE RIGHT) (visible true))
-      )
-      (terminal
-        (body (symbol "PIN_R90_U_L200") (pt  -200.0 700.0) (rot 0) (mir 0) (visible true))
-        (name (pt 239.37 0.0) (rot 0) (just MIDDLE RIGHT) (visible true))
-        (number (pt 39.37 0.0) (rot 0) (just MIDDLE RIGHT) (visible true))
-      )
-null
-null
-null
-null
-null
-null
-null
-null
-null
-null
-null
-null
-null
-null
-null
-      (terminal
-        (body (symbol "PIN_R0_U_L200") (pt -700.0 200.0) (rot 0) (mir 0) (visible true))
-        (name (pt 239.37 0.0) (rot 0) (just MIDDLE LEFT) (visible true))
-        (number (pt -39.37 0.0) (rot 0) (just MIDDLE LEFT) (visible true))
-      )
-
-null
-      (terminal
-        (body (symbol "PIN_R90_U_L200") (pt  -100.0 700.0) (rot 0) (mir 0) (visible true))
-        (name (pt 239.37 0.0) (rot 0) (just MIDDLE RIGHT) (visible true))
-        (number (pt 39.37 0.0) (rot 0) (just MIDDLE RIGHT) (visible true))
-      )
-      (terminal
-        (body (symbol "PIN_R270_U_L200") (pt -100.0 -700.0) (rot 0) (mir 0) (visible true))
-        (name (pt -239.37 0.0) (rot 0) (just MIDDLE RIGHT) (visible true))
-        (number (pt -39.37 0.0) (rot 0) (just MIDDLE RIGHT) (visible true))
-      )
-      (terminal
-        (body (symbol "PIN_R270_U_L200") (pt 0.0 -700.0) (rot 0) (mir 0) (visible true))
-        (name (pt -239.37 0.0) (rot 0) (just MIDDLE RIGHT) (visible true))
-        (number (pt -39.37 0.0) (rot 0) (just MIDDLE RIGHT) (visible true))
-      )
-null
-null
-    )
-    (symbol "PIN_R0_U_L200"
-      (units THOU)
-      (graphic
-        (stroke 6.5)
-        (path (pt 0.0 0.0) (pt 200.0 0.0))
-      )
-    )
-    (symbol "PIN_R180_U_L200"
-      (units THOU)
-      (graphic
-        (stroke 6.5)
-        (path (pt 0.0 0.0) (pt -200.0 0.0))
-      )
-    )
-    (symbol "PIN_R90_U_L200"
-      (units THOU)
-      (graphic
-        (stroke 6.5)
-        (path (pt 0.0 0.0) (pt 0.0 200.0))
-      )
-    )
-    (symbol "PIN_R270_U_L200"
-      (units THOU)
-      (graphic
-        (stroke 6.5)
-        (path (pt 0.0 0.0) (pt 0.0 -200.0))
-      )
-    )
-  (package "SOIC127P599X1758N"
-      (units THOU)
-      (layer TSLK
-        (graphic
-          (stroke 7.87)
-          (circle (pt -162.99 90.75) (pt -155.12 90.75))
-        )
-        (graphic
-          (stroke 5.0)
-          (path (pt -76.77 99.41) (pt 76.77 99.41))
-        )
-        (graphic
-          (stroke 5.0)
-          (path (pt -76.77 -99.41) (pt 76.77 -99.41))
-        )
-      )
-      (layer TASM
-        (graphic
-          (stroke 7.87)
-          (circle (pt -162.99 90.75) (pt -155.12 90.75))
-        )
-        (graphic
-          (stroke 5.0)
-          (path (pt -76.77 96.56) (pt 76.77 96.56))
-        )
-        (graphic
-          (stroke 5.0)
-          (path (pt -76.77 -96.56) (pt 76.77 -96.56))
-        )
-        (graphic
-          (stroke 5.0)
-          (path (pt -76.77 96.56) (pt -76.77 -96.56))
-        )
-        (graphic
-          (stroke 5.0)
-          (path (pt 76.77 96.56) (pt 76.77 -96.56))
-        )
-      )
-      (layer OCCA
-        (graphic
-          (stroke 1.97)
-          (path (pt -145.87 106.4) (pt 145.87 106.4))
-        )
-        (graphic
-          (stroke 1.97)
-          (path (pt -145.87 -106.4) (pt 145.87 -106.4))
-        )
-        (graphic
-          (stroke 1.97)
-          (path (pt -145.87 106.4) (pt -145.87 -106.4))
-        )
-        (graphic
-          (stroke 1.97)
-          (path (pt 145.87 106.4) (pt 145.87 -106.4))
-        )
-      )
-      (leg 1 (pt -97.24 75.0) (padstack 1))
-      (leg 2 (pt -97.24 25.0) (padstack 2))
-      (leg 3 (pt -97.24 -25.0) (padstack 3))
-      (leg 4 (pt -97.24 -75.0) (padstack 4))
-      (leg 5 (pt -97.24 -125.0) (padstack 5))
-      (leg 6 (pt -97.24 -175.0) (padstack 6))
-      (leg 7 (pt -97.24 -225.0) (padstack 7))
-      (leg 8 (pt -97.24 -275.0) (padstack 8))
-      (leg 9 (pt -97.24 -325.0) (padstack 9))
-      (leg 10 (pt -97.24 -375.0) (padstack 10))
-      (leg 11 (pt -97.24 -425.0) (padstack 11))
-      (leg 12 (pt -97.24 -475.0) (padstack 12))
-      (leg 13 (pt -97.24 -525.0) (padstack 13))
-      (leg 14 (pt -97.24 -575.0) (padstack 14))
-      (leg 15 (pt -97.24 -625.0) (padstack 15))
-      (leg 16 (pt -97.24 -675.0) (padstack 16))
-      (leg 17 (pt 97.24 -75.0) (padstack 17))
-      (leg 18 (pt 97.24 -25.0) (padstack 18))
-      (leg 19 (pt 97.24 25.0) (padstack 19))
-      (leg 20 (pt 97.24 75.0) (padstack 20))
-      (leg 21 (pt 97.24 125.0) (padstack 21))
-      (leg 22 (pt 97.24 175.0) (padstack 22))
-      (leg 23 (pt 97.24 225.0) (padstack 23))
-      (leg 24 (pt 97.24 275.0) (padstack 24))
-      (leg 25 (pt 97.24 325.0) (padstack 25))
-      (leg 26 (pt 97.24 375.0) (padstack 26))
-      (leg 27 (pt 97.24 425.0) (padstack 27))
-      (leg 28 (pt 97.24 475.0) (padstack 28))
-      (leg 29 (pt 97.24 525.0) (padstack 29))
-      (leg 30 (pt 97.24 575.0) (padstack 30))
-      (leg 31 (pt 97.24 625.0) (padstack 31))
-      (leg 32 (pt 97.24 675.0) (padstack 32))
-      (padstack 1
-        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
-      )
-      (padstack 2
-        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
-      )
-      (padstack 3
-        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
-      )
-      (padstack 4
-        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
-      )
-      (padstack 5
-        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
-      )
-      (padstack 6
-        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
-      )
-      (padstack 7
-        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
-      )
-      (padstack 8
-        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
-      )
-      (padstack 9
-        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
-      )
-      (padstack 10
-        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
-      )
-      (padstack 11
-        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
-      )
-      (padstack 12
-        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
-      )
-      (padstack 13
-        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
-      )
-      (padstack 14
-        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
-      )
-      (padstack 15
-        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
-      )
-      (padstack 16
-        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
-      )
-      (padstack 17
-        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
-      )
-      (padstack 18
-        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
-      )
-      (padstack 19
-        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
-      )
-      (padstack 20
-        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
-      )
-      (padstack 21
-        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
-      )
-      (padstack 22
-        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
-      )
-      (padstack 23
-        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
-      )
-      (padstack 24
-        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
-      )
-      (padstack 25
-        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
-      )
-      (padstack 26
-        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
-      )
-      (padstack 27
-        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
-      )
-      (padstack 28
-        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
-      )
-      (padstack 29
-        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
-      )
-      (padstack 30
-        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
-      )
-      (padstack 31
-        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
-      )
-      (padstack 32
-        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
-      )
-    )
-  )
-);Proteus Design Interchange Format
-
-(PDIF
-  (vendor "Labcenter Electronics")
-  (version 1 0)
-  (library
-    (part "PIC32CM1216MC00032-I/RTB"
-      (family "null")
-      (package "null")
-      (description "null")
-      (attribute "Series" "PIC32CMMC00")
-      (attribute "Footprint" "QFN32")
-      (attribute "MP" "PIC32CM1216MC00032-I/RTB")
-      (attribute "Architecture" "CORTEX-M0PLUS")
-      (attribute "PINOUT" "CMMC32")
-      (attribute "Reference" "U")
-      (attribute "Value" "PIC32CM1216MC00032-I/RTB")
-      (attribute "Family" "PIC32CMMC")
-      (attribute "MF" "Microchip")
-      (attribute "Name" "PIC32CM1216MC00032")
-      (gate
-        (swap 1)
-        (symbol "PIC32CM1216MC00032-I/RTB")
-        (pin "PA00" 1 (type IO))
-        (pin "PA01" 2 (type IO))
-        (pin "PA02" 3 (type IO))
-        (pin "PA03" 4 (type IO))
-        (pin "PA04" 5 (type IO))
-        (pin "PA05" 6 (type IO))
-        (pin "PA06" 7 (type IO))
-        (pin "PA07" 8 (type IO))
-        (pin "VDDANA" 9 (type PP))
-        (pin "GNDIO" 10 (type PS))
-        (pin "PA08" 11 (type IO))
-        (pin "PA09" 12 (type IO))
-        (pin "PA10" 13 (type IO))
-        (pin "PA11" 14 (type IO))
-        (pin "PA14" 15 (type IO))
-        (pin "PA15" 16 (type IO))
-        (pin "PA16" 17 (type IO))
-        (pin "PA17" 18 (type IO))
-        (pin "PA18" 19 (type IO))
-        (pin "PA19" 20 (type IO))
-        (pin "PA22" 21 (type IO))
-        (pin "PA23" 22 (type IO))
-        (pin "PA24" 23 (type IO))
-        (pin "PA25" 24 (type IO))
-        (pin "PA27" 25 (type IO))
-        (pin "RESET_N" 26 (type IP))
-        (pin "PA28" 27 (type IO))
-        (pin "GNDIO" 28 (type PS))
-        (pin "VDDCORE" 29 (type PP))
-        (pin "VDDIN" 30 (type PP))
-        (pin "PA30" 31 (type IO))
-        (pin "PA31" 32 (type IO))
-      )
-    )
-    (symbol "PIC32CM1216MC00032-I/RTB"
-      (units THOU)
-      (graphic
-        (stroke 1)
-        (path (pt -500.0 500.0) (pt 500.0 500.0) (pt 500.0 -500.0) (pt -500.0 -500.0) (pt -500.0 500.0) (closed))
-      )
-null
-null
-null
-null
-null
-null
-null
-null
-      (terminal
-        (body (symbol "PIN_R270_U_L200") (pt -200.0 -700.0) (rot 0) (mir 0) (visible true))
-        (name (pt -239.37 0.0) (rot 0) (just MIDDLE RIGHT) (visible true))
-        (number (pt -39.37 0.0) (rot 0) (just MIDDLE RIGHT) (visible true))
-      )
-      (terminal
-        (body (symbol "PIN_R90_U_L200") (pt  -200.0 700.0) (rot 0) (mir 0) (visible true))
-        (name (pt 239.37 0.0) (rot 0) (just MIDDLE RIGHT) (visible true))
-        (number (pt 39.37 0.0) (rot 0) (just MIDDLE RIGHT) (visible true))
-      )
-null
-null
-null
-null
-null
-null
-null
-null
-null
-null
-null
-null
-null
-null
-null
-      (terminal
-        (body (symbol "PIN_R0_U_L200") (pt -700.0 200.0) (rot 0) (mir 0) (visible true))
-        (name (pt 239.37 0.0) (rot 0) (just MIDDLE LEFT) (visible true))
-        (number (pt -39.37 0.0) (rot 0) (just MIDDLE LEFT) (visible true))
-      )
-
-null
-      (terminal
-        (body (symbol "PIN_R90_U_L200") (pt  -100.0 700.0) (rot 0) (mir 0) (visible true))
-        (name (pt 239.37 0.0) (rot 0) (just MIDDLE RIGHT) (visible true))
-        (number (pt 39.37 0.0) (rot 0) (just MIDDLE RIGHT) (visible true))
-      )
-      (terminal
-        (body (symbol "PIN_R270_U_L200") (pt -100.0 -700.0) (rot 0) (mir 0) (visible true))
-        (name (pt -239.37 0.0) (rot 0) (just MIDDLE RIGHT) (visible true))
-        (number (pt -39.37 0.0) (rot 0) (just MIDDLE RIGHT) (visible true))
-      )
-      (terminal
-        (body (symbol "PIN_R270_U_L200") (pt 0.0 -700.0) (rot 0) (mir 0) (visible true))
-        (name (pt -239.37 0.0) (rot 0) (just MIDDLE RIGHT) (visible true))
-        (number (pt -39.37 0.0) (rot 0) (just MIDDLE RIGHT) (visible true))
-      )
-null
-null
-    )
-    (symbol "PIN_R0_U_L200"
-      (units THOU)
-      (graphic
-        (stroke 6.5)
-        (path (pt 0.0 0.0) (pt 200.0 0.0))
-      )
-    )
-    (symbol "PIN_R180_U_L200"
-      (units THOU)
-      (graphic
-        (stroke 6.5)
-        (path (pt 0.0 0.0) (pt -200.0 0.0))
-      )
-    )
-    (symbol "PIN_R90_U_L200"
-      (units THOU)
-      (graphic
-        (stroke 6.5)
-        (path (pt 0.0 0.0) (pt 0.0 200.0))
-      )
-    )
-    (symbol "PIN_R270_U_L200"
-      (units THOU)
-      (graphic
-        (stroke 6.5)
-        (path (pt 0.0 0.0) (pt 0.0 -200.0))
-      )
-    )
-  (package "SOIC127P599X1758N"
-      (units THOU)
-      (layer TSLK
-        (graphic
-          (stroke 7.87)
-          (circle (pt -162.99 90.75) (pt -155.12 90.75))
-        )
-        (graphic
-          (stroke 5.0)
-          (path (pt -76.77 99.41) (pt 76.77 99.41))
-        )
-        (graphic
-          (stroke 5.0)
-          (path (pt -76.77 -99.41) (pt 76.77 -99.41))
-        )
-      )
-      (layer TASM
-        (graphic
-          (stroke 7.87)
-          (circle (pt -162.99 90.75) (pt -155.12 90.75))
-        )
-        (graphic
-          (stroke 5.0)
-          (path (pt -76.77 96.56) (pt 76.77 96.56))
-        )
-        (graphic
-          (stroke 5.0)
-          (path (pt -76.77 -96.56) (pt 76.77 -96.56))
-        )
-        (graphic
-          (stroke 5.0)
-          (path (pt -76.77 96.56) (pt -76.77 -96.56))
-        )
-        (graphic
-          (stroke 5.0)
-          (path (pt 76.77 96.56) (pt 76.77 -96.56))
-        )
-      )
-      (layer OCCA
-        (graphic
-          (stroke 1.97)
-          (path (pt -145.87 106.4) (pt 145.87 106.4))
-        )
-        (graphic
-          (stroke 1.97)
-          (path (pt -145.87 -106.4) (pt 145.87 -106.4))
-        )
-        (graphic
-          (stroke 1.97)
-          (path (pt -145.87 106.4) (pt -145.87 -106.4))
-        )
-        (graphic
-          (stroke 1.97)
-          (path (pt 145.87 106.4) (pt 145.87 -106.4))
-        )
-      )
-      (leg 1 (pt -97.24 75.0) (padstack 1))
-      (leg 2 (pt -97.24 25.0) (padstack 2))
-      (leg 3 (pt -97.24 -25.0) (padstack 3))
-      (leg 4 (pt -97.24 -75.0) (padstack 4))
-      (leg 5 (pt -97.24 -125.0) (padstack 5))
-      (leg 6 (pt -97.24 -175.0) (padstack 6))
-      (leg 7 (pt -97.24 -225.0) (padstack 7))
-      (leg 8 (pt -97.24 -275.0) (padstack 8))
-      (leg 9 (pt -97.24 -325.0) (padstack 9))
-      (leg 10 (pt -97.24 -375.0) (padstack 10))
-      (leg 11 (pt -97.24 -425.0) (padstack 11))
-      (leg 12 (pt -97.24 -475.0) (padstack 12))
-      (leg 13 (pt -97.24 -525.0) (padstack 13))
-      (leg 14 (pt -97.24 -575.0) (padstack 14))
-      (leg 15 (pt -97.24 -625.0) (padstack 15))
-      (leg 16 (pt -97.24 -675.0) (padstack 16))
-      (leg 17 (pt 97.24 -75.0) (padstack 17))
-      (leg 18 (pt 97.24 -25.0) (padstack 18))
-      (leg 19 (pt 97.24 25.0) (padstack 19))
-      (leg 20 (pt 97.24 75.0) (padstack 20))
-      (leg 21 (pt 97.24 125.0) (padstack 21))
-      (leg 22 (pt 97.24 175.0) (padstack 22))
-      (leg 23 (pt 97.24 225.0) (padstack 23))
-      (leg 24 (pt 97.24 275.0) (padstack 24))
-      (leg 25 (pt 97.24 325.0) (padstack 25))
-      (leg 26 (pt 97.24 375.0) (padstack 26))
-      (leg 27 (pt 97.24 425.0) (padstack 27))
-      (leg 28 (pt 97.24 475.0) (padstack 28))
-      (leg 29 (pt 97.24 525.0) (padstack 29))
-      (leg 30 (pt 97.24 575.0) (padstack 30))
-      (leg 31 (pt 97.24 625.0) (padstack 31))
-      (leg 32 (pt 97.24 675.0) (padstack 32))
-      (padstack 1
-        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
-      )
-      (padstack 2
-        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
-      )
-      (padstack 3
-        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
-      )
-      (padstack 4
-        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
-      )
-      (padstack 5
-        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
-      )
-      (padstack 6
-        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
-      )
-      (padstack 7
-        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
-      )
-      (padstack 8
-        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
-      )
-      (padstack 9
-        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
-      )
-      (padstack 10
-        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
-      )
-      (padstack 11
-        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
-      )
-      (padstack 12
-        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
-      )
-      (padstack 13
-        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
-      )
-      (padstack 14
-        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
-      )
-      (padstack 15
-        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
-      )
-      (padstack 16
-        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
-      )
-      (padstack 17
-        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
-      )
-      (padstack 18
-        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
-      )
-      (padstack 19
-        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
-      )
-      (padstack 20
-        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
-      )
-      (padstack 21
-        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
-      )
-      (padstack 22
-        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
-      )
-      (padstack 23
-        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
-      )
-      (padstack 24
-        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
-      )
-      (padstack 25
-        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
-      )
-      (padstack 26
-        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
-      )
-      (padstack 27
-        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
-      )
-      (padstack 28
-        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
-      )
-      (padstack 29
-        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
-      )
-      (padstack 30
-        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
-      )
-      (padstack 31
-        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
-      )
-      (padstack 32
-        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
-      )
-    )
-  )
-);Proteus Design Interchange Format
-
-(PDIF
-  (vendor "Labcenter Electronics")
-  (version 1 0)
-  (library
-    (part "PIC32CM1216MC00032-E/RTB"
-      (family "null")
-      (package "null")
-      (description "null")
-      (attribute "Series" "PIC32CMMC00")
-      (attribute "Footprint" "QFN32")
-      (attribute "MP" "PIC32CM1216MC00032-E/RTB")
-      (attribute "Architecture" "CORTEX-M0PLUS")
-      (attribute "PINOUT" "CMMC32")
-      (attribute "Reference" "U")
-      (attribute "Value" "PIC32CM1216MC00032-E/RTB")
-      (attribute "Family" "PIC32CMMC")
-      (attribute "MF" "Microchip")
-      (attribute "Name" "PIC32CM1216MC00032")
-      (gate
-        (swap 1)
-        (symbol "PIC32CM1216MC00032-E/RTB")
-        (pin "PA00" 1 (type IO))
-        (pin "PA01" 2 (type IO))
-        (pin "PA02" 3 (type IO))
-        (pin "PA03" 4 (type IO))
-        (pin "PA04" 5 (type IO))
-        (pin "PA05" 6 (type IO))
-        (pin "PA06" 7 (type IO))
-        (pin "PA07" 8 (type IO))
-        (pin "VDDANA" 9 (type PP))
-        (pin "GNDIO" 10 (type PS))
-        (pin "PA08" 11 (type IO))
-        (pin "PA09" 12 (type IO))
-        (pin "PA10" 13 (type IO))
-        (pin "PA11" 14 (type IO))
-        (pin "PA14" 15 (type IO))
-        (pin "PA15" 16 (type IO))
-        (pin "PA16" 17 (type IO))
-        (pin "PA17" 18 (type IO))
-        (pin "PA18" 19 (type IO))
-        (pin "PA19" 20 (type IO))
-        (pin "PA22" 21 (type IO))
-        (pin "PA23" 22 (type IO))
-        (pin "PA24" 23 (type IO))
-        (pin "PA25" 24 (type IO))
-        (pin "PA27" 25 (type IO))
-        (pin "RESET_N" 26 (type IP))
-        (pin "PA28" 27 (type IO))
-        (pin "GNDIO" 28 (type PS))
-        (pin "VDDCORE" 29 (type PP))
-        (pin "VDDIN" 30 (type PP))
-        (pin "PA30" 31 (type IO))
-        (pin "PA31" 32 (type IO))
-      )
-    )
-    (symbol "PIC32CM1216MC00032-E/RTB"
-      (units THOU)
-      (graphic
-        (stroke 1)
-        (path (pt -500.0 500.0) (pt 500.0 500.0) (pt 500.0 -500.0) (pt -500.0 -500.0) (pt -500.0 500.0) (closed))
-      )
-null
-null
-null
-null
-null
-null
-null
-null
-      (terminal
-        (body (symbol "PIN_R270_U_L200") (pt -200.0 -700.0) (rot 0) (mir 0) (visible true))
-        (name (pt -239.37 0.0) (rot 0) (just MIDDLE RIGHT) (visible true))
-        (number (pt -39.37 0.0) (rot 0) (just MIDDLE RIGHT) (visible true))
-      )
-      (terminal
-        (body (symbol "PIN_R90_U_L200") (pt  -200.0 700.0) (rot 0) (mir 0) (visible true))
-        (name (pt 239.37 0.0) (rot 0) (just MIDDLE RIGHT) (visible true))
-        (number (pt 39.37 0.0) (rot 0) (just MIDDLE RIGHT) (visible true))
-      )
-null
-null
-null
-null
-null
-null
-null
-null
-null
-null
-null
-null
-null
-null
-null
-      (terminal
-        (body (symbol "PIN_R0_U_L200") (pt -700.0 200.0) (rot 0) (mir 0) (visible true))
-        (name (pt 239.37 0.0) (rot 0) (just MIDDLE LEFT) (visible true))
-        (number (pt -39.37 0.0) (rot 0) (just MIDDLE LEFT) (visible true))
-      )
-
-null
-      (terminal
-        (body (symbol "PIN_R90_U_L200") (pt  -100.0 700.0) (rot 0) (mir 0) (visible true))
-        (name (pt 239.37 0.0) (rot 0) (just MIDDLE RIGHT) (visible true))
-        (number (pt 39.37 0.0) (rot 0) (just MIDDLE RIGHT) (visible true))
-      )
-      (terminal
-        (body (symbol "PIN_R270_U_L200") (pt -100.0 -700.0) (rot 0) (mir 0) (visible true))
-        (name (pt -239.37 0.0) (rot 0) (just MIDDLE RIGHT) (visible true))
-        (number (pt -39.37 0.0) (rot 0) (just MIDDLE RIGHT) (visible true))
-      )
-      (terminal
-        (body (symbol "PIN_R270_U_L200") (pt 0.0 -700.0) (rot 0) (mir 0) (visible true))
-        (name (pt -239.37 0.0) (rot 0) (just MIDDLE RIGHT) (visible true))
-        (number (pt -39.37 0.0) (rot 0) (just MIDDLE RIGHT) (visible true))
-      )
-null
-null
-    )
-    (symbol "PIN_R0_U_L200"
-      (units THOU)
-      (graphic
-        (stroke 6.5)
-        (path (pt 0.0 0.0) (pt 200.0 0.0))
-      )
-    )
-    (symbol "PIN_R180_U_L200"
-      (units THOU)
-      (graphic
-        (stroke 6.5)
-        (path (pt 0.0 0.0) (pt -200.0 0.0))
-      )
-    )
-    (symbol "PIN_R90_U_L200"
-      (units THOU)
-      (graphic
-        (stroke 6.5)
-        (path (pt 0.0 0.0) (pt 0.0 200.0))
-      )
-    )
-    (symbol "PIN_R270_U_L200"
-      (units THOU)
-      (graphic
-        (stroke 6.5)
-        (path (pt 0.0 0.0) (pt 0.0 -200.0))
-      )
-    )
-  (package "SOIC127P599X1758N"
-      (units THOU)
-      (layer TSLK
-        (graphic
-          (stroke 7.87)
-          (circle (pt -162.99 90.75) (pt -155.12 90.75))
-        )
-        (graphic
-          (stroke 5.0)
-          (path (pt -76.77 99.41) (pt 76.77 99.41))
-        )
-        (graphic
-          (stroke 5.0)
-          (path (pt -76.77 -99.41) (pt 76.77 -99.41))
-        )
-      )
-      (layer TASM
-        (graphic
-          (stroke 7.87)
-          (circle (pt -162.99 90.75) (pt -155.12 90.75))
-        )
-        (graphic
-          (stroke 5.0)
-          (path (pt -76.77 96.56) (pt 76.77 96.56))
-        )
-        (graphic
-          (stroke 5.0)
-          (path (pt -76.77 -96.56) (pt 76.77 -96.56))
-        )
-        (graphic
-          (stroke 5.0)
-          (path (pt -76.77 96.56) (pt -76.77 -96.56))
-        )
-        (graphic
-          (stroke 5.0)
-          (path (pt 76.77 96.56) (pt 76.77 -96.56))
-        )
-      )
-      (layer OCCA
-        (graphic
-          (stroke 1.97)
-          (path (pt -145.87 106.4) (pt 145.87 106.4))
-        )
-        (graphic
-          (stroke 1.97)
-          (path (pt -145.87 -106.4) (pt 145.87 -106.4))
-        )
-        (graphic
-          (stroke 1.97)
-          (path (pt -145.87 106.4) (pt -145.87 -106.4))
-        )
-        (graphic
-          (stroke 1.97)
-          (path (pt 145.87 106.4) (pt 145.87 -106.4))
-        )
-      )
-      (leg 1 (pt -97.24 75.0) (padstack 1))
-      (leg 2 (pt -97.24 25.0) (padstack 2))
-      (leg 3 (pt -97.24 -25.0) (padstack 3))
-      (leg 4 (pt -97.24 -75.0) (padstack 4))
-      (leg 5 (pt -97.24 -125.0) (padstack 5))
-      (leg 6 (pt -97.24 -175.0) (padstack 6))
-      (leg 7 (pt -97.24 -225.0) (padstack 7))
-      (leg 8 (pt -97.24 -275.0) (padstack 8))
-      (leg 9 (pt -97.24 -325.0) (padstack 9))
-      (leg 10 (pt -97.24 -375.0) (padstack 10))
-      (leg 11 (pt -97.24 -425.0) (padstack 11))
-      (leg 12 (pt -97.24 -475.0) (padstack 12))
-      (leg 13 (pt -97.24 -525.0) (padstack 13))
-      (leg 14 (pt -97.24 -575.0) (padstack 14))
-      (leg 15 (pt -97.24 -625.0) (padstack 15))
-      (leg 16 (pt -97.24 -675.0) (padstack 16))
-      (leg 17 (pt 97.24 -75.0) (padstack 17))
-      (leg 18 (pt 97.24 -25.0) (padstack 18))
-      (leg 19 (pt 97.24 25.0) (padstack 19))
-      (leg 20 (pt 97.24 75.0) (padstack 20))
-      (leg 21 (pt 97.24 125.0) (padstack 21))
-      (leg 22 (pt 97.24 175.0) (padstack 22))
-      (leg 23 (pt 97.24 225.0) (padstack 23))
-      (leg 24 (pt 97.24 275.0) (padstack 24))
-      (leg 25 (pt 97.24 325.0) (padstack 25))
-      (leg 26 (pt 97.24 375.0) (padstack 26))
-      (leg 27 (pt 97.24 425.0) (padstack 27))
-      (leg 28 (pt 97.24 475.0) (padstack 28))
-      (leg 29 (pt 97.24 525.0) (padstack 29))
-      (leg 30 (pt 97.24 575.0) (padstack 30))
-      (leg 31 (pt 97.24 625.0) (padstack 31))
-      (leg 32 (pt 97.24 675.0) (padstack 32))
-      (padstack 1
-        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
-      )
-      (padstack 2
-        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
-      )
-      (padstack 3
-        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
-      )
-      (padstack 4
-        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
-      )
-      (padstack 5
-        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
-      )
-      (padstack 6
-        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
-      )
-      (padstack 7
-        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
-      )
-      (padstack 8
-        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
-      )
-      (padstack 9
-        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
-      )
-      (padstack 10
-        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
-      )
-      (padstack 11
-        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
-      )
-      (padstack 12
-        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
-      )
-      (padstack 13
-        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
-      )
-      (padstack 14
-        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
-      )
-      (padstack 15
-        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
-      )
-      (padstack 16
-        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
-      )
-      (padstack 17
-        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
-      )
-      (padstack 18
-        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
-      )
-      (padstack 19
-        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
-      )
-      (padstack 20
-        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
-      )
-      (padstack 21
-        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
-      )
-      (padstack 22
-        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
-      )
-      (padstack 23
-        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
-      )
-      (padstack 24
-        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
-      )
-      (padstack 25
-        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
-      )
-      (padstack 26
-        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
-      )
-      (padstack 27
-        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
-      )
-      (padstack 28
-        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
-      )
-      (padstack 29
-        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
-      )
-      (padstack 30
-        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
-      )
-      (padstack 31
-        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
-      )
-      (padstack 32
-        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
-        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
-      )
-    )
-  )
-);Proteus Design Interchange Format
-
-(PDIF
-  (vendor "Labcenter Electronics")
-  (version 1 0)
-  (library
     (part "PIC32CM6408MC00048-I/Y8"
       (family "null")
       (package "null")
@@ -7532,6 +5936,1602 @@ null
         (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
       )
       (padstack 48
+        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
+      )
+    )
+  )
+);Proteus Design Interchange Format
+
+(PDIF
+  (vendor "Labcenter Electronics")
+  (version 1 0)
+  (library
+    (part "PIC32CM1216MC00032-I/PT"
+      (family "null")
+      (package "null")
+      (description "null")
+      (attribute "Series" "PIC32CMMC00")
+      (attribute "Footprint" "TQFP32")
+      (attribute "MP" "PIC32CM1216MC00032-I/PT")
+      (attribute "Architecture" "CORTEX-M0PLUS")
+      (attribute "PINOUT" "CMMC32")
+      (attribute "Reference" "U")
+      (attribute "Value" "PIC32CM1216MC00032-I/PT")
+      (attribute "Family" "PIC32CMMC")
+      (attribute "MF" "Microchip")
+      (attribute "Name" "PIC32CM1216MC00032")
+      (gate
+        (swap 1)
+        (symbol "PIC32CM1216MC00032-I/PT")
+        (pin "PA00" 1 (type IO))
+        (pin "PA01" 2 (type IO))
+        (pin "PA02" 3 (type IO))
+        (pin "PA03" 4 (type IO))
+        (pin "PA04" 5 (type IO))
+        (pin "PA05" 6 (type IO))
+        (pin "PA06" 7 (type IO))
+        (pin "PA07" 8 (type IO))
+        (pin "VDDANA" 9 (type PP))
+        (pin "GNDIO" 10 (type PS))
+        (pin "PA08" 11 (type IO))
+        (pin "PA09" 12 (type IO))
+        (pin "PA10" 13 (type IO))
+        (pin "PA11" 14 (type IO))
+        (pin "PA14" 15 (type IO))
+        (pin "PA15" 16 (type IO))
+        (pin "PA16" 17 (type IO))
+        (pin "PA17" 18 (type IO))
+        (pin "PA18" 19 (type IO))
+        (pin "PA19" 20 (type IO))
+        (pin "PA22" 21 (type IO))
+        (pin "PA23" 22 (type IO))
+        (pin "PA24" 23 (type IO))
+        (pin "PA25" 24 (type IO))
+        (pin "PA27" 25 (type IO))
+        (pin "RESET_N" 26 (type IP))
+        (pin "PA28" 27 (type IO))
+        (pin "GNDIO" 28 (type PS))
+        (pin "VDDCORE" 29 (type PP))
+        (pin "VDDIN" 30 (type PP))
+        (pin "PA30" 31 (type IO))
+        (pin "PA31" 32 (type IO))
+      )
+    )
+    (symbol "PIC32CM1216MC00032-I/PT"
+      (units THOU)
+      (graphic
+        (stroke 1)
+        (path (pt -500.0 500.0) (pt 500.0 500.0) (pt 500.0 -500.0) (pt -500.0 -500.0) (pt -500.0 500.0) (closed))
+      )
+null
+null
+null
+null
+null
+null
+null
+null
+      (terminal
+        (body (symbol "PIN_R270_U_L200") (pt -200.0 -700.0) (rot 0) (mir 0) (visible true))
+        (name (pt -239.37 0.0) (rot 0) (just MIDDLE RIGHT) (visible true))
+        (number (pt -39.37 0.0) (rot 0) (just MIDDLE RIGHT) (visible true))
+      )
+      (terminal
+        (body (symbol "PIN_R90_U_L200") (pt  -200.0 700.0) (rot 0) (mir 0) (visible true))
+        (name (pt 239.37 0.0) (rot 0) (just MIDDLE RIGHT) (visible true))
+        (number (pt 39.37 0.0) (rot 0) (just MIDDLE RIGHT) (visible true))
+      )
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+      (terminal
+        (body (symbol "PIN_R0_U_L200") (pt -700.0 200.0) (rot 0) (mir 0) (visible true))
+        (name (pt 239.37 0.0) (rot 0) (just MIDDLE LEFT) (visible true))
+        (number (pt -39.37 0.0) (rot 0) (just MIDDLE LEFT) (visible true))
+      )
+
+null
+      (terminal
+        (body (symbol "PIN_R90_U_L200") (pt  -100.0 700.0) (rot 0) (mir 0) (visible true))
+        (name (pt 239.37 0.0) (rot 0) (just MIDDLE RIGHT) (visible true))
+        (number (pt 39.37 0.0) (rot 0) (just MIDDLE RIGHT) (visible true))
+      )
+      (terminal
+        (body (symbol "PIN_R270_U_L200") (pt -100.0 -700.0) (rot 0) (mir 0) (visible true))
+        (name (pt -239.37 0.0) (rot 0) (just MIDDLE RIGHT) (visible true))
+        (number (pt -39.37 0.0) (rot 0) (just MIDDLE RIGHT) (visible true))
+      )
+      (terminal
+        (body (symbol "PIN_R270_U_L200") (pt 0.0 -700.0) (rot 0) (mir 0) (visible true))
+        (name (pt -239.37 0.0) (rot 0) (just MIDDLE RIGHT) (visible true))
+        (number (pt -39.37 0.0) (rot 0) (just MIDDLE RIGHT) (visible true))
+      )
+null
+null
+    )
+    (symbol "PIN_R0_U_L200"
+      (units THOU)
+      (graphic
+        (stroke 6.5)
+        (path (pt 0.0 0.0) (pt 200.0 0.0))
+      )
+    )
+    (symbol "PIN_R180_U_L200"
+      (units THOU)
+      (graphic
+        (stroke 6.5)
+        (path (pt 0.0 0.0) (pt -200.0 0.0))
+      )
+    )
+    (symbol "PIN_R90_U_L200"
+      (units THOU)
+      (graphic
+        (stroke 6.5)
+        (path (pt 0.0 0.0) (pt 0.0 200.0))
+      )
+    )
+    (symbol "PIN_R270_U_L200"
+      (units THOU)
+      (graphic
+        (stroke 6.5)
+        (path (pt 0.0 0.0) (pt 0.0 -200.0))
+      )
+    )
+  (package "SOIC127P599X1758N"
+      (units THOU)
+      (layer TSLK
+        (graphic
+          (stroke 7.87)
+          (circle (pt -162.99 90.75) (pt -155.12 90.75))
+        )
+        (graphic
+          (stroke 5.0)
+          (path (pt -76.77 99.41) (pt 76.77 99.41))
+        )
+        (graphic
+          (stroke 5.0)
+          (path (pt -76.77 -99.41) (pt 76.77 -99.41))
+        )
+      )
+      (layer TASM
+        (graphic
+          (stroke 7.87)
+          (circle (pt -162.99 90.75) (pt -155.12 90.75))
+        )
+        (graphic
+          (stroke 5.0)
+          (path (pt -76.77 96.56) (pt 76.77 96.56))
+        )
+        (graphic
+          (stroke 5.0)
+          (path (pt -76.77 -96.56) (pt 76.77 -96.56))
+        )
+        (graphic
+          (stroke 5.0)
+          (path (pt -76.77 96.56) (pt -76.77 -96.56))
+        )
+        (graphic
+          (stroke 5.0)
+          (path (pt 76.77 96.56) (pt 76.77 -96.56))
+        )
+      )
+      (layer OCCA
+        (graphic
+          (stroke 1.97)
+          (path (pt -145.87 106.4) (pt 145.87 106.4))
+        )
+        (graphic
+          (stroke 1.97)
+          (path (pt -145.87 -106.4) (pt 145.87 -106.4))
+        )
+        (graphic
+          (stroke 1.97)
+          (path (pt -145.87 106.4) (pt -145.87 -106.4))
+        )
+        (graphic
+          (stroke 1.97)
+          (path (pt 145.87 106.4) (pt 145.87 -106.4))
+        )
+      )
+      (leg 1 (pt -97.24 75.0) (padstack 1))
+      (leg 2 (pt -97.24 25.0) (padstack 2))
+      (leg 3 (pt -97.24 -25.0) (padstack 3))
+      (leg 4 (pt -97.24 -75.0) (padstack 4))
+      (leg 5 (pt -97.24 -125.0) (padstack 5))
+      (leg 6 (pt -97.24 -175.0) (padstack 6))
+      (leg 7 (pt -97.24 -225.0) (padstack 7))
+      (leg 8 (pt -97.24 -275.0) (padstack 8))
+      (leg 9 (pt -97.24 -325.0) (padstack 9))
+      (leg 10 (pt -97.24 -375.0) (padstack 10))
+      (leg 11 (pt -97.24 -425.0) (padstack 11))
+      (leg 12 (pt -97.24 -475.0) (padstack 12))
+      (leg 13 (pt -97.24 -525.0) (padstack 13))
+      (leg 14 (pt -97.24 -575.0) (padstack 14))
+      (leg 15 (pt -97.24 -625.0) (padstack 15))
+      (leg 16 (pt -97.24 -675.0) (padstack 16))
+      (leg 17 (pt 97.24 -75.0) (padstack 17))
+      (leg 18 (pt 97.24 -25.0) (padstack 18))
+      (leg 19 (pt 97.24 25.0) (padstack 19))
+      (leg 20 (pt 97.24 75.0) (padstack 20))
+      (leg 21 (pt 97.24 125.0) (padstack 21))
+      (leg 22 (pt 97.24 175.0) (padstack 22))
+      (leg 23 (pt 97.24 225.0) (padstack 23))
+      (leg 24 (pt 97.24 275.0) (padstack 24))
+      (leg 25 (pt 97.24 325.0) (padstack 25))
+      (leg 26 (pt 97.24 375.0) (padstack 26))
+      (leg 27 (pt 97.24 425.0) (padstack 27))
+      (leg 28 (pt 97.24 475.0) (padstack 28))
+      (leg 29 (pt 97.24 525.0) (padstack 29))
+      (leg 30 (pt 97.24 575.0) (padstack 30))
+      (leg 31 (pt 97.24 625.0) (padstack 31))
+      (leg 32 (pt 97.24 675.0) (padstack 32))
+      (padstack 1
+        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
+      )
+      (padstack 2
+        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
+      )
+      (padstack 3
+        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
+      )
+      (padstack 4
+        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
+      )
+      (padstack 5
+        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
+      )
+      (padstack 6
+        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
+      )
+      (padstack 7
+        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
+      )
+      (padstack 8
+        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
+      )
+      (padstack 9
+        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
+      )
+      (padstack 10
+        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
+      )
+      (padstack 11
+        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
+      )
+      (padstack 12
+        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
+      )
+      (padstack 13
+        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
+      )
+      (padstack 14
+        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
+      )
+      (padstack 15
+        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
+      )
+      (padstack 16
+        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
+      )
+      (padstack 17
+        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
+      )
+      (padstack 18
+        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
+      )
+      (padstack 19
+        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
+      )
+      (padstack 20
+        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
+      )
+      (padstack 21
+        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
+      )
+      (padstack 22
+        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
+      )
+      (padstack 23
+        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
+      )
+      (padstack 24
+        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
+      )
+      (padstack 25
+        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
+      )
+      (padstack 26
+        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
+      )
+      (padstack 27
+        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
+      )
+      (padstack 28
+        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
+      )
+      (padstack 29
+        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
+      )
+      (padstack 30
+        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
+      )
+      (padstack 31
+        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
+      )
+      (padstack 32
+        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
+      )
+    )
+  )
+);Proteus Design Interchange Format
+
+(PDIF
+  (vendor "Labcenter Electronics")
+  (version 1 0)
+  (library
+    (part "PIC32CM1216MC00032-E/PT"
+      (family "null")
+      (package "null")
+      (description "null")
+      (attribute "Series" "PIC32CMMC00")
+      (attribute "Footprint" "TQFP32")
+      (attribute "MP" "PIC32CM1216MC00032-E/PT")
+      (attribute "Architecture" "CORTEX-M0PLUS")
+      (attribute "PINOUT" "CMMC32")
+      (attribute "Reference" "U")
+      (attribute "Value" "PIC32CM1216MC00032-E/PT")
+      (attribute "Family" "PIC32CMMC")
+      (attribute "MF" "Microchip")
+      (attribute "Name" "PIC32CM1216MC00032")
+      (gate
+        (swap 1)
+        (symbol "PIC32CM1216MC00032-E/PT")
+        (pin "PA00" 1 (type IO))
+        (pin "PA01" 2 (type IO))
+        (pin "PA02" 3 (type IO))
+        (pin "PA03" 4 (type IO))
+        (pin "PA04" 5 (type IO))
+        (pin "PA05" 6 (type IO))
+        (pin "PA06" 7 (type IO))
+        (pin "PA07" 8 (type IO))
+        (pin "VDDANA" 9 (type PP))
+        (pin "GNDIO" 10 (type PS))
+        (pin "PA08" 11 (type IO))
+        (pin "PA09" 12 (type IO))
+        (pin "PA10" 13 (type IO))
+        (pin "PA11" 14 (type IO))
+        (pin "PA14" 15 (type IO))
+        (pin "PA15" 16 (type IO))
+        (pin "PA16" 17 (type IO))
+        (pin "PA17" 18 (type IO))
+        (pin "PA18" 19 (type IO))
+        (pin "PA19" 20 (type IO))
+        (pin "PA22" 21 (type IO))
+        (pin "PA23" 22 (type IO))
+        (pin "PA24" 23 (type IO))
+        (pin "PA25" 24 (type IO))
+        (pin "PA27" 25 (type IO))
+        (pin "RESET_N" 26 (type IP))
+        (pin "PA28" 27 (type IO))
+        (pin "GNDIO" 28 (type PS))
+        (pin "VDDCORE" 29 (type PP))
+        (pin "VDDIN" 30 (type PP))
+        (pin "PA30" 31 (type IO))
+        (pin "PA31" 32 (type IO))
+      )
+    )
+    (symbol "PIC32CM1216MC00032-E/PT"
+      (units THOU)
+      (graphic
+        (stroke 1)
+        (path (pt -500.0 500.0) (pt 500.0 500.0) (pt 500.0 -500.0) (pt -500.0 -500.0) (pt -500.0 500.0) (closed))
+      )
+null
+null
+null
+null
+null
+null
+null
+null
+      (terminal
+        (body (symbol "PIN_R270_U_L200") (pt -200.0 -700.0) (rot 0) (mir 0) (visible true))
+        (name (pt -239.37 0.0) (rot 0) (just MIDDLE RIGHT) (visible true))
+        (number (pt -39.37 0.0) (rot 0) (just MIDDLE RIGHT) (visible true))
+      )
+      (terminal
+        (body (symbol "PIN_R90_U_L200") (pt  -200.0 700.0) (rot 0) (mir 0) (visible true))
+        (name (pt 239.37 0.0) (rot 0) (just MIDDLE RIGHT) (visible true))
+        (number (pt 39.37 0.0) (rot 0) (just MIDDLE RIGHT) (visible true))
+      )
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+      (terminal
+        (body (symbol "PIN_R0_U_L200") (pt -700.0 200.0) (rot 0) (mir 0) (visible true))
+        (name (pt 239.37 0.0) (rot 0) (just MIDDLE LEFT) (visible true))
+        (number (pt -39.37 0.0) (rot 0) (just MIDDLE LEFT) (visible true))
+      )
+
+null
+      (terminal
+        (body (symbol "PIN_R90_U_L200") (pt  -100.0 700.0) (rot 0) (mir 0) (visible true))
+        (name (pt 239.37 0.0) (rot 0) (just MIDDLE RIGHT) (visible true))
+        (number (pt 39.37 0.0) (rot 0) (just MIDDLE RIGHT) (visible true))
+      )
+      (terminal
+        (body (symbol "PIN_R270_U_L200") (pt -100.0 -700.0) (rot 0) (mir 0) (visible true))
+        (name (pt -239.37 0.0) (rot 0) (just MIDDLE RIGHT) (visible true))
+        (number (pt -39.37 0.0) (rot 0) (just MIDDLE RIGHT) (visible true))
+      )
+      (terminal
+        (body (symbol "PIN_R270_U_L200") (pt 0.0 -700.0) (rot 0) (mir 0) (visible true))
+        (name (pt -239.37 0.0) (rot 0) (just MIDDLE RIGHT) (visible true))
+        (number (pt -39.37 0.0) (rot 0) (just MIDDLE RIGHT) (visible true))
+      )
+null
+null
+    )
+    (symbol "PIN_R0_U_L200"
+      (units THOU)
+      (graphic
+        (stroke 6.5)
+        (path (pt 0.0 0.0) (pt 200.0 0.0))
+      )
+    )
+    (symbol "PIN_R180_U_L200"
+      (units THOU)
+      (graphic
+        (stroke 6.5)
+        (path (pt 0.0 0.0) (pt -200.0 0.0))
+      )
+    )
+    (symbol "PIN_R90_U_L200"
+      (units THOU)
+      (graphic
+        (stroke 6.5)
+        (path (pt 0.0 0.0) (pt 0.0 200.0))
+      )
+    )
+    (symbol "PIN_R270_U_L200"
+      (units THOU)
+      (graphic
+        (stroke 6.5)
+        (path (pt 0.0 0.0) (pt 0.0 -200.0))
+      )
+    )
+  (package "SOIC127P599X1758N"
+      (units THOU)
+      (layer TSLK
+        (graphic
+          (stroke 7.87)
+          (circle (pt -162.99 90.75) (pt -155.12 90.75))
+        )
+        (graphic
+          (stroke 5.0)
+          (path (pt -76.77 99.41) (pt 76.77 99.41))
+        )
+        (graphic
+          (stroke 5.0)
+          (path (pt -76.77 -99.41) (pt 76.77 -99.41))
+        )
+      )
+      (layer TASM
+        (graphic
+          (stroke 7.87)
+          (circle (pt -162.99 90.75) (pt -155.12 90.75))
+        )
+        (graphic
+          (stroke 5.0)
+          (path (pt -76.77 96.56) (pt 76.77 96.56))
+        )
+        (graphic
+          (stroke 5.0)
+          (path (pt -76.77 -96.56) (pt 76.77 -96.56))
+        )
+        (graphic
+          (stroke 5.0)
+          (path (pt -76.77 96.56) (pt -76.77 -96.56))
+        )
+        (graphic
+          (stroke 5.0)
+          (path (pt 76.77 96.56) (pt 76.77 -96.56))
+        )
+      )
+      (layer OCCA
+        (graphic
+          (stroke 1.97)
+          (path (pt -145.87 106.4) (pt 145.87 106.4))
+        )
+        (graphic
+          (stroke 1.97)
+          (path (pt -145.87 -106.4) (pt 145.87 -106.4))
+        )
+        (graphic
+          (stroke 1.97)
+          (path (pt -145.87 106.4) (pt -145.87 -106.4))
+        )
+        (graphic
+          (stroke 1.97)
+          (path (pt 145.87 106.4) (pt 145.87 -106.4))
+        )
+      )
+      (leg 1 (pt -97.24 75.0) (padstack 1))
+      (leg 2 (pt -97.24 25.0) (padstack 2))
+      (leg 3 (pt -97.24 -25.0) (padstack 3))
+      (leg 4 (pt -97.24 -75.0) (padstack 4))
+      (leg 5 (pt -97.24 -125.0) (padstack 5))
+      (leg 6 (pt -97.24 -175.0) (padstack 6))
+      (leg 7 (pt -97.24 -225.0) (padstack 7))
+      (leg 8 (pt -97.24 -275.0) (padstack 8))
+      (leg 9 (pt -97.24 -325.0) (padstack 9))
+      (leg 10 (pt -97.24 -375.0) (padstack 10))
+      (leg 11 (pt -97.24 -425.0) (padstack 11))
+      (leg 12 (pt -97.24 -475.0) (padstack 12))
+      (leg 13 (pt -97.24 -525.0) (padstack 13))
+      (leg 14 (pt -97.24 -575.0) (padstack 14))
+      (leg 15 (pt -97.24 -625.0) (padstack 15))
+      (leg 16 (pt -97.24 -675.0) (padstack 16))
+      (leg 17 (pt 97.24 -75.0) (padstack 17))
+      (leg 18 (pt 97.24 -25.0) (padstack 18))
+      (leg 19 (pt 97.24 25.0) (padstack 19))
+      (leg 20 (pt 97.24 75.0) (padstack 20))
+      (leg 21 (pt 97.24 125.0) (padstack 21))
+      (leg 22 (pt 97.24 175.0) (padstack 22))
+      (leg 23 (pt 97.24 225.0) (padstack 23))
+      (leg 24 (pt 97.24 275.0) (padstack 24))
+      (leg 25 (pt 97.24 325.0) (padstack 25))
+      (leg 26 (pt 97.24 375.0) (padstack 26))
+      (leg 27 (pt 97.24 425.0) (padstack 27))
+      (leg 28 (pt 97.24 475.0) (padstack 28))
+      (leg 29 (pt 97.24 525.0) (padstack 29))
+      (leg 30 (pt 97.24 575.0) (padstack 30))
+      (leg 31 (pt 97.24 625.0) (padstack 31))
+      (leg 32 (pt 97.24 675.0) (padstack 32))
+      (padstack 1
+        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
+      )
+      (padstack 2
+        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
+      )
+      (padstack 3
+        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
+      )
+      (padstack 4
+        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
+      )
+      (padstack 5
+        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
+      )
+      (padstack 6
+        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
+      )
+      (padstack 7
+        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
+      )
+      (padstack 8
+        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
+      )
+      (padstack 9
+        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
+      )
+      (padstack 10
+        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
+      )
+      (padstack 11
+        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
+      )
+      (padstack 12
+        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
+      )
+      (padstack 13
+        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
+      )
+      (padstack 14
+        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
+      )
+      (padstack 15
+        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
+      )
+      (padstack 16
+        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
+      )
+      (padstack 17
+        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
+      )
+      (padstack 18
+        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
+      )
+      (padstack 19
+        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
+      )
+      (padstack 20
+        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
+      )
+      (padstack 21
+        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
+      )
+      (padstack 22
+        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
+      )
+      (padstack 23
+        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
+      )
+      (padstack 24
+        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
+      )
+      (padstack 25
+        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
+      )
+      (padstack 26
+        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
+      )
+      (padstack 27
+        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
+      )
+      (padstack 28
+        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
+      )
+      (padstack 29
+        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
+      )
+      (padstack 30
+        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
+      )
+      (padstack 31
+        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
+      )
+      (padstack 32
+        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
+      )
+    )
+  )
+);Proteus Design Interchange Format
+
+(PDIF
+  (vendor "Labcenter Electronics")
+  (version 1 0)
+  (library
+    (part "PIC32CM1216MC00032-I/RTB"
+      (family "null")
+      (package "null")
+      (description "null")
+      (attribute "Series" "PIC32CMMC00")
+      (attribute "Footprint" "QFN32")
+      (attribute "MP" "PIC32CM1216MC00032-I/RTB")
+      (attribute "Architecture" "CORTEX-M0PLUS")
+      (attribute "PINOUT" "CMMC32")
+      (attribute "Reference" "U")
+      (attribute "Value" "PIC32CM1216MC00032-I/RTB")
+      (attribute "Family" "PIC32CMMC")
+      (attribute "MF" "Microchip")
+      (attribute "Name" "PIC32CM1216MC00032")
+      (gate
+        (swap 1)
+        (symbol "PIC32CM1216MC00032-I/RTB")
+        (pin "PA00" 1 (type IO))
+        (pin "PA01" 2 (type IO))
+        (pin "PA02" 3 (type IO))
+        (pin "PA03" 4 (type IO))
+        (pin "PA04" 5 (type IO))
+        (pin "PA05" 6 (type IO))
+        (pin "PA06" 7 (type IO))
+        (pin "PA07" 8 (type IO))
+        (pin "VDDANA" 9 (type PP))
+        (pin "GNDIO" 10 (type PS))
+        (pin "PA08" 11 (type IO))
+        (pin "PA09" 12 (type IO))
+        (pin "PA10" 13 (type IO))
+        (pin "PA11" 14 (type IO))
+        (pin "PA14" 15 (type IO))
+        (pin "PA15" 16 (type IO))
+        (pin "PA16" 17 (type IO))
+        (pin "PA17" 18 (type IO))
+        (pin "PA18" 19 (type IO))
+        (pin "PA19" 20 (type IO))
+        (pin "PA22" 21 (type IO))
+        (pin "PA23" 22 (type IO))
+        (pin "PA24" 23 (type IO))
+        (pin "PA25" 24 (type IO))
+        (pin "PA27" 25 (type IO))
+        (pin "RESET_N" 26 (type IP))
+        (pin "PA28" 27 (type IO))
+        (pin "GNDIO" 28 (type PS))
+        (pin "VDDCORE" 29 (type PP))
+        (pin "VDDIN" 30 (type PP))
+        (pin "PA30" 31 (type IO))
+        (pin "PA31" 32 (type IO))
+      )
+    )
+    (symbol "PIC32CM1216MC00032-I/RTB"
+      (units THOU)
+      (graphic
+        (stroke 1)
+        (path (pt -500.0 500.0) (pt 500.0 500.0) (pt 500.0 -500.0) (pt -500.0 -500.0) (pt -500.0 500.0) (closed))
+      )
+null
+null
+null
+null
+null
+null
+null
+null
+      (terminal
+        (body (symbol "PIN_R270_U_L200") (pt -200.0 -700.0) (rot 0) (mir 0) (visible true))
+        (name (pt -239.37 0.0) (rot 0) (just MIDDLE RIGHT) (visible true))
+        (number (pt -39.37 0.0) (rot 0) (just MIDDLE RIGHT) (visible true))
+      )
+      (terminal
+        (body (symbol "PIN_R90_U_L200") (pt  -200.0 700.0) (rot 0) (mir 0) (visible true))
+        (name (pt 239.37 0.0) (rot 0) (just MIDDLE RIGHT) (visible true))
+        (number (pt 39.37 0.0) (rot 0) (just MIDDLE RIGHT) (visible true))
+      )
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+      (terminal
+        (body (symbol "PIN_R0_U_L200") (pt -700.0 200.0) (rot 0) (mir 0) (visible true))
+        (name (pt 239.37 0.0) (rot 0) (just MIDDLE LEFT) (visible true))
+        (number (pt -39.37 0.0) (rot 0) (just MIDDLE LEFT) (visible true))
+      )
+
+null
+      (terminal
+        (body (symbol "PIN_R90_U_L200") (pt  -100.0 700.0) (rot 0) (mir 0) (visible true))
+        (name (pt 239.37 0.0) (rot 0) (just MIDDLE RIGHT) (visible true))
+        (number (pt 39.37 0.0) (rot 0) (just MIDDLE RIGHT) (visible true))
+      )
+      (terminal
+        (body (symbol "PIN_R270_U_L200") (pt -100.0 -700.0) (rot 0) (mir 0) (visible true))
+        (name (pt -239.37 0.0) (rot 0) (just MIDDLE RIGHT) (visible true))
+        (number (pt -39.37 0.0) (rot 0) (just MIDDLE RIGHT) (visible true))
+      )
+      (terminal
+        (body (symbol "PIN_R270_U_L200") (pt 0.0 -700.0) (rot 0) (mir 0) (visible true))
+        (name (pt -239.37 0.0) (rot 0) (just MIDDLE RIGHT) (visible true))
+        (number (pt -39.37 0.0) (rot 0) (just MIDDLE RIGHT) (visible true))
+      )
+null
+null
+    )
+    (symbol "PIN_R0_U_L200"
+      (units THOU)
+      (graphic
+        (stroke 6.5)
+        (path (pt 0.0 0.0) (pt 200.0 0.0))
+      )
+    )
+    (symbol "PIN_R180_U_L200"
+      (units THOU)
+      (graphic
+        (stroke 6.5)
+        (path (pt 0.0 0.0) (pt -200.0 0.0))
+      )
+    )
+    (symbol "PIN_R90_U_L200"
+      (units THOU)
+      (graphic
+        (stroke 6.5)
+        (path (pt 0.0 0.0) (pt 0.0 200.0))
+      )
+    )
+    (symbol "PIN_R270_U_L200"
+      (units THOU)
+      (graphic
+        (stroke 6.5)
+        (path (pt 0.0 0.0) (pt 0.0 -200.0))
+      )
+    )
+  (package "SOIC127P599X1758N"
+      (units THOU)
+      (layer TSLK
+        (graphic
+          (stroke 7.87)
+          (circle (pt -162.99 90.75) (pt -155.12 90.75))
+        )
+        (graphic
+          (stroke 5.0)
+          (path (pt -76.77 99.41) (pt 76.77 99.41))
+        )
+        (graphic
+          (stroke 5.0)
+          (path (pt -76.77 -99.41) (pt 76.77 -99.41))
+        )
+      )
+      (layer TASM
+        (graphic
+          (stroke 7.87)
+          (circle (pt -162.99 90.75) (pt -155.12 90.75))
+        )
+        (graphic
+          (stroke 5.0)
+          (path (pt -76.77 96.56) (pt 76.77 96.56))
+        )
+        (graphic
+          (stroke 5.0)
+          (path (pt -76.77 -96.56) (pt 76.77 -96.56))
+        )
+        (graphic
+          (stroke 5.0)
+          (path (pt -76.77 96.56) (pt -76.77 -96.56))
+        )
+        (graphic
+          (stroke 5.0)
+          (path (pt 76.77 96.56) (pt 76.77 -96.56))
+        )
+      )
+      (layer OCCA
+        (graphic
+          (stroke 1.97)
+          (path (pt -145.87 106.4) (pt 145.87 106.4))
+        )
+        (graphic
+          (stroke 1.97)
+          (path (pt -145.87 -106.4) (pt 145.87 -106.4))
+        )
+        (graphic
+          (stroke 1.97)
+          (path (pt -145.87 106.4) (pt -145.87 -106.4))
+        )
+        (graphic
+          (stroke 1.97)
+          (path (pt 145.87 106.4) (pt 145.87 -106.4))
+        )
+      )
+      (leg 1 (pt -97.24 75.0) (padstack 1))
+      (leg 2 (pt -97.24 25.0) (padstack 2))
+      (leg 3 (pt -97.24 -25.0) (padstack 3))
+      (leg 4 (pt -97.24 -75.0) (padstack 4))
+      (leg 5 (pt -97.24 -125.0) (padstack 5))
+      (leg 6 (pt -97.24 -175.0) (padstack 6))
+      (leg 7 (pt -97.24 -225.0) (padstack 7))
+      (leg 8 (pt -97.24 -275.0) (padstack 8))
+      (leg 9 (pt -97.24 -325.0) (padstack 9))
+      (leg 10 (pt -97.24 -375.0) (padstack 10))
+      (leg 11 (pt -97.24 -425.0) (padstack 11))
+      (leg 12 (pt -97.24 -475.0) (padstack 12))
+      (leg 13 (pt -97.24 -525.0) (padstack 13))
+      (leg 14 (pt -97.24 -575.0) (padstack 14))
+      (leg 15 (pt -97.24 -625.0) (padstack 15))
+      (leg 16 (pt -97.24 -675.0) (padstack 16))
+      (leg 17 (pt 97.24 -75.0) (padstack 17))
+      (leg 18 (pt 97.24 -25.0) (padstack 18))
+      (leg 19 (pt 97.24 25.0) (padstack 19))
+      (leg 20 (pt 97.24 75.0) (padstack 20))
+      (leg 21 (pt 97.24 125.0) (padstack 21))
+      (leg 22 (pt 97.24 175.0) (padstack 22))
+      (leg 23 (pt 97.24 225.0) (padstack 23))
+      (leg 24 (pt 97.24 275.0) (padstack 24))
+      (leg 25 (pt 97.24 325.0) (padstack 25))
+      (leg 26 (pt 97.24 375.0) (padstack 26))
+      (leg 27 (pt 97.24 425.0) (padstack 27))
+      (leg 28 (pt 97.24 475.0) (padstack 28))
+      (leg 29 (pt 97.24 525.0) (padstack 29))
+      (leg 30 (pt 97.24 575.0) (padstack 30))
+      (leg 31 (pt 97.24 625.0) (padstack 31))
+      (leg 32 (pt 97.24 675.0) (padstack 32))
+      (padstack 1
+        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
+      )
+      (padstack 2
+        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
+      )
+      (padstack 3
+        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
+      )
+      (padstack 4
+        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
+      )
+      (padstack 5
+        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
+      )
+      (padstack 6
+        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
+      )
+      (padstack 7
+        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
+      )
+      (padstack 8
+        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
+      )
+      (padstack 9
+        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
+      )
+      (padstack 10
+        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
+      )
+      (padstack 11
+        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
+      )
+      (padstack 12
+        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
+      )
+      (padstack 13
+        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
+      )
+      (padstack 14
+        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
+      )
+      (padstack 15
+        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
+      )
+      (padstack 16
+        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
+      )
+      (padstack 17
+        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
+      )
+      (padstack 18
+        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
+      )
+      (padstack 19
+        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
+      )
+      (padstack 20
+        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
+      )
+      (padstack 21
+        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
+      )
+      (padstack 22
+        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
+      )
+      (padstack 23
+        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
+      )
+      (padstack 24
+        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
+      )
+      (padstack 25
+        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
+      )
+      (padstack 26
+        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
+      )
+      (padstack 27
+        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
+      )
+      (padstack 28
+        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
+      )
+      (padstack 29
+        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
+      )
+      (padstack 30
+        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
+      )
+      (padstack 31
+        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
+      )
+      (padstack 32
+        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
+      )
+    )
+  )
+);Proteus Design Interchange Format
+
+(PDIF
+  (vendor "Labcenter Electronics")
+  (version 1 0)
+  (library
+    (part "PIC32CM1216MC00032-E/RTB"
+      (family "null")
+      (package "null")
+      (description "null")
+      (attribute "Series" "PIC32CMMC00")
+      (attribute "Footprint" "QFN32")
+      (attribute "MP" "PIC32CM1216MC00032-E/RTB")
+      (attribute "Architecture" "CORTEX-M0PLUS")
+      (attribute "PINOUT" "CMMC32")
+      (attribute "Reference" "U")
+      (attribute "Value" "PIC32CM1216MC00032-E/RTB")
+      (attribute "Family" "PIC32CMMC")
+      (attribute "MF" "Microchip")
+      (attribute "Name" "PIC32CM1216MC00032")
+      (gate
+        (swap 1)
+        (symbol "PIC32CM1216MC00032-E/RTB")
+        (pin "PA00" 1 (type IO))
+        (pin "PA01" 2 (type IO))
+        (pin "PA02" 3 (type IO))
+        (pin "PA03" 4 (type IO))
+        (pin "PA04" 5 (type IO))
+        (pin "PA05" 6 (type IO))
+        (pin "PA06" 7 (type IO))
+        (pin "PA07" 8 (type IO))
+        (pin "VDDANA" 9 (type PP))
+        (pin "GNDIO" 10 (type PS))
+        (pin "PA08" 11 (type IO))
+        (pin "PA09" 12 (type IO))
+        (pin "PA10" 13 (type IO))
+        (pin "PA11" 14 (type IO))
+        (pin "PA14" 15 (type IO))
+        (pin "PA15" 16 (type IO))
+        (pin "PA16" 17 (type IO))
+        (pin "PA17" 18 (type IO))
+        (pin "PA18" 19 (type IO))
+        (pin "PA19" 20 (type IO))
+        (pin "PA22" 21 (type IO))
+        (pin "PA23" 22 (type IO))
+        (pin "PA24" 23 (type IO))
+        (pin "PA25" 24 (type IO))
+        (pin "PA27" 25 (type IO))
+        (pin "RESET_N" 26 (type IP))
+        (pin "PA28" 27 (type IO))
+        (pin "GNDIO" 28 (type PS))
+        (pin "VDDCORE" 29 (type PP))
+        (pin "VDDIN" 30 (type PP))
+        (pin "PA30" 31 (type IO))
+        (pin "PA31" 32 (type IO))
+      )
+    )
+    (symbol "PIC32CM1216MC00032-E/RTB"
+      (units THOU)
+      (graphic
+        (stroke 1)
+        (path (pt -500.0 500.0) (pt 500.0 500.0) (pt 500.0 -500.0) (pt -500.0 -500.0) (pt -500.0 500.0) (closed))
+      )
+null
+null
+null
+null
+null
+null
+null
+null
+      (terminal
+        (body (symbol "PIN_R270_U_L200") (pt -200.0 -700.0) (rot 0) (mir 0) (visible true))
+        (name (pt -239.37 0.0) (rot 0) (just MIDDLE RIGHT) (visible true))
+        (number (pt -39.37 0.0) (rot 0) (just MIDDLE RIGHT) (visible true))
+      )
+      (terminal
+        (body (symbol "PIN_R90_U_L200") (pt  -200.0 700.0) (rot 0) (mir 0) (visible true))
+        (name (pt 239.37 0.0) (rot 0) (just MIDDLE RIGHT) (visible true))
+        (number (pt 39.37 0.0) (rot 0) (just MIDDLE RIGHT) (visible true))
+      )
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+      (terminal
+        (body (symbol "PIN_R0_U_L200") (pt -700.0 200.0) (rot 0) (mir 0) (visible true))
+        (name (pt 239.37 0.0) (rot 0) (just MIDDLE LEFT) (visible true))
+        (number (pt -39.37 0.0) (rot 0) (just MIDDLE LEFT) (visible true))
+      )
+
+null
+      (terminal
+        (body (symbol "PIN_R90_U_L200") (pt  -100.0 700.0) (rot 0) (mir 0) (visible true))
+        (name (pt 239.37 0.0) (rot 0) (just MIDDLE RIGHT) (visible true))
+        (number (pt 39.37 0.0) (rot 0) (just MIDDLE RIGHT) (visible true))
+      )
+      (terminal
+        (body (symbol "PIN_R270_U_L200") (pt -100.0 -700.0) (rot 0) (mir 0) (visible true))
+        (name (pt -239.37 0.0) (rot 0) (just MIDDLE RIGHT) (visible true))
+        (number (pt -39.37 0.0) (rot 0) (just MIDDLE RIGHT) (visible true))
+      )
+      (terminal
+        (body (symbol "PIN_R270_U_L200") (pt 0.0 -700.0) (rot 0) (mir 0) (visible true))
+        (name (pt -239.37 0.0) (rot 0) (just MIDDLE RIGHT) (visible true))
+        (number (pt -39.37 0.0) (rot 0) (just MIDDLE RIGHT) (visible true))
+      )
+null
+null
+    )
+    (symbol "PIN_R0_U_L200"
+      (units THOU)
+      (graphic
+        (stroke 6.5)
+        (path (pt 0.0 0.0) (pt 200.0 0.0))
+      )
+    )
+    (symbol "PIN_R180_U_L200"
+      (units THOU)
+      (graphic
+        (stroke 6.5)
+        (path (pt 0.0 0.0) (pt -200.0 0.0))
+      )
+    )
+    (symbol "PIN_R90_U_L200"
+      (units THOU)
+      (graphic
+        (stroke 6.5)
+        (path (pt 0.0 0.0) (pt 0.0 200.0))
+      )
+    )
+    (symbol "PIN_R270_U_L200"
+      (units THOU)
+      (graphic
+        (stroke 6.5)
+        (path (pt 0.0 0.0) (pt 0.0 -200.0))
+      )
+    )
+  (package "SOIC127P599X1758N"
+      (units THOU)
+      (layer TSLK
+        (graphic
+          (stroke 7.87)
+          (circle (pt -162.99 90.75) (pt -155.12 90.75))
+        )
+        (graphic
+          (stroke 5.0)
+          (path (pt -76.77 99.41) (pt 76.77 99.41))
+        )
+        (graphic
+          (stroke 5.0)
+          (path (pt -76.77 -99.41) (pt 76.77 -99.41))
+        )
+      )
+      (layer TASM
+        (graphic
+          (stroke 7.87)
+          (circle (pt -162.99 90.75) (pt -155.12 90.75))
+        )
+        (graphic
+          (stroke 5.0)
+          (path (pt -76.77 96.56) (pt 76.77 96.56))
+        )
+        (graphic
+          (stroke 5.0)
+          (path (pt -76.77 -96.56) (pt 76.77 -96.56))
+        )
+        (graphic
+          (stroke 5.0)
+          (path (pt -76.77 96.56) (pt -76.77 -96.56))
+        )
+        (graphic
+          (stroke 5.0)
+          (path (pt 76.77 96.56) (pt 76.77 -96.56))
+        )
+      )
+      (layer OCCA
+        (graphic
+          (stroke 1.97)
+          (path (pt -145.87 106.4) (pt 145.87 106.4))
+        )
+        (graphic
+          (stroke 1.97)
+          (path (pt -145.87 -106.4) (pt 145.87 -106.4))
+        )
+        (graphic
+          (stroke 1.97)
+          (path (pt -145.87 106.4) (pt -145.87 -106.4))
+        )
+        (graphic
+          (stroke 1.97)
+          (path (pt 145.87 106.4) (pt 145.87 -106.4))
+        )
+      )
+      (leg 1 (pt -97.24 75.0) (padstack 1))
+      (leg 2 (pt -97.24 25.0) (padstack 2))
+      (leg 3 (pt -97.24 -25.0) (padstack 3))
+      (leg 4 (pt -97.24 -75.0) (padstack 4))
+      (leg 5 (pt -97.24 -125.0) (padstack 5))
+      (leg 6 (pt -97.24 -175.0) (padstack 6))
+      (leg 7 (pt -97.24 -225.0) (padstack 7))
+      (leg 8 (pt -97.24 -275.0) (padstack 8))
+      (leg 9 (pt -97.24 -325.0) (padstack 9))
+      (leg 10 (pt -97.24 -375.0) (padstack 10))
+      (leg 11 (pt -97.24 -425.0) (padstack 11))
+      (leg 12 (pt -97.24 -475.0) (padstack 12))
+      (leg 13 (pt -97.24 -525.0) (padstack 13))
+      (leg 14 (pt -97.24 -575.0) (padstack 14))
+      (leg 15 (pt -97.24 -625.0) (padstack 15))
+      (leg 16 (pt -97.24 -675.0) (padstack 16))
+      (leg 17 (pt 97.24 -75.0) (padstack 17))
+      (leg 18 (pt 97.24 -25.0) (padstack 18))
+      (leg 19 (pt 97.24 25.0) (padstack 19))
+      (leg 20 (pt 97.24 75.0) (padstack 20))
+      (leg 21 (pt 97.24 125.0) (padstack 21))
+      (leg 22 (pt 97.24 175.0) (padstack 22))
+      (leg 23 (pt 97.24 225.0) (padstack 23))
+      (leg 24 (pt 97.24 275.0) (padstack 24))
+      (leg 25 (pt 97.24 325.0) (padstack 25))
+      (leg 26 (pt 97.24 375.0) (padstack 26))
+      (leg 27 (pt 97.24 425.0) (padstack 27))
+      (leg 28 (pt 97.24 475.0) (padstack 28))
+      (leg 29 (pt 97.24 525.0) (padstack 29))
+      (leg 30 (pt 97.24 575.0) (padstack 30))
+      (leg 31 (pt 97.24 625.0) (padstack 31))
+      (leg 32 (pt 97.24 675.0) (padstack 32))
+      (padstack 1
+        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
+      )
+      (padstack 2
+        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
+      )
+      (padstack 3
+        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
+      )
+      (padstack 4
+        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
+      )
+      (padstack 5
+        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
+      )
+      (padstack 6
+        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
+      )
+      (padstack 7
+        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
+      )
+      (padstack 8
+        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
+      )
+      (padstack 9
+        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
+      )
+      (padstack 10
+        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
+      )
+      (padstack 11
+        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
+      )
+      (padstack 12
+        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
+      )
+      (padstack 13
+        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
+      )
+      (padstack 14
+        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
+      )
+      (padstack 15
+        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
+      )
+      (padstack 16
+        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
+      )
+      (padstack 17
+        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
+      )
+      (padstack 18
+        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
+      )
+      (padstack 19
+        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
+      )
+      (padstack 20
+        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
+      )
+      (padstack 21
+        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
+      )
+      (padstack 22
+        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
+      )
+      (padstack 23
+        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
+      )
+      (padstack 24
+        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
+      )
+      (padstack 25
+        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
+      )
+      (padstack 26
+        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
+      )
+      (padstack 27
+        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
+      )
+      (padstack 28
+        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
+      )
+      (padstack 29
+        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
+      )
+      (padstack 30
+        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
+      )
+      (padstack 31
+        (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
+        (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
+      )
+      (padstack 32
         (pad (layer TCOP) (rectf 23.62 77.56 0 2.95 0))
         (pad (layer TRES) (rectf 23.62 77.56 0 2.95 0))
         (pad (layer TPST) (rectf 23.62 77.56 0 2.95 0))
