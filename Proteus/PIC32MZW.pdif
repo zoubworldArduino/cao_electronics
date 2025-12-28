@@ -126,26 +126,26 @@
   (vendor "Labcenter Electronics")
   (version 1 0)
   (library
-    (part "PIC32MZ1025W104132"
+    (part "WFI32E01"
       (family "null")
       (package "null")
       (description "null")
       (attribute "Series" "PIC32MZW")
-      (attribute "Footprint" "DQFN132")
-      (attribute "MP" "PIC32MZ1025W104132")
+      (attribute "Footprint" "WFI32E01_64pin")
+      (attribute "MP" "WFI32E01")
       (attribute "Architecture" "MIPS")
-      (attribute "PINOUT" "DQFN132")
+      (attribute "PINOUT" "WFI32E01_64pin")
       (attribute "Reference" "U")
-      (attribute "Value" "PIC32MZ1025W104132")
+      (attribute "Value" "WFI32E01")
       (attribute "Family" "PIC32MZW")
       (attribute "MF" "Microchip")
-      (attribute "Name" "PIC32MZ1025W104132")
+      (attribute "Name" "WFI32E01")
       (gate
         (swap 1)
-        (symbol "PIC32MZ1025W104132")
+        (symbol "WFI32E01")
       )
     )
-    (symbol "PIC32MZ1025W104132"
+    (symbol "WFI32E01"
       (units THOU)
       (graphic
         (stroke 1)
@@ -244,26 +244,26 @@
   (vendor "Labcenter Electronics")
   (version 1 0)
   (library
-    (part "WFI32E01"
+    (part "PIC32MZ1025W104132"
       (family "null")
       (package "null")
       (description "null")
       (attribute "Series" "PIC32MZW")
-      (attribute "Footprint" "WFI32E01_64pin")
-      (attribute "MP" "WFI32E01")
+      (attribute "Footprint" "DQFN132")
+      (attribute "MP" "PIC32MZ1025W104132")
       (attribute "Architecture" "MIPS")
-      (attribute "PINOUT" "WFI32E01_64pin")
+      (attribute "PINOUT" "DQFN132")
       (attribute "Reference" "U")
-      (attribute "Value" "WFI32E01")
+      (attribute "Value" "PIC32MZ1025W104132")
       (attribute "Family" "PIC32MZW")
       (attribute "MF" "Microchip")
-      (attribute "Name" "WFI32E01")
+      (attribute "Name" "PIC32MZ1025W104132")
       (gate
         (swap 1)
-        (symbol "WFI32E01")
+        (symbol "PIC32MZ1025W104132")
       )
     )
-    (symbol "WFI32E01"
+    (symbol "PIC32MZ1025W104132"
       (units THOU)
       (graphic
         (stroke 1)

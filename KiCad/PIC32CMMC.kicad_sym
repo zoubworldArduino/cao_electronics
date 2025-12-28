@@ -2,12 +2,12 @@
 	(version 20251229)
 	(generator "kicad_symbol_editor")
 	(generator_version "8.0")
-(symbol "PIC32CM1216MC00032-I/PT"
+(symbol "PIC32CM1216MC00048-I/Y8"
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(property "Series" "PIC32CMMC00"
-			(at -16.509999999999998 22.86 0)
+			(at -19.049999999999997 30.479999999999997 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16,8 +16,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TQFP32"
-			(at -16.509999999999998 25.36 0)
+		(property "Footprint" "TQFP48"
+			(at -19.049999999999997 32.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26,8 +26,8 @@
 				(justify left)
 			)
 		)
-		(property "MP" "PIC32CM1216MC00032-I/PT"
-			(at -16.509999999999998 27.86 0)
+		(property "MP" "PIC32CM1216MC00048-I/Y8"
+			(at -19.049999999999997 35.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37,7 +37,7 @@
 			)
 		)
 		(property "Architecture" "CORTEX-M0PLUS"
-			(at -16.509999999999998 30.36 0)
+			(at -19.049999999999997 37.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -46,8 +46,8 @@
 				(justify left)
 			)
 		)
-		(property "PINOUT" "CMMC32"
-			(at -16.509999999999998 32.86 0)
+		(property "PINOUT" "CMMC48"
+			(at -19.049999999999997 40.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -57,7 +57,7 @@
 			)
 		)
 		(property "Reference" "U"
-			(at -16.509999999999998 35.36 0)
+			(at -19.049999999999997 42.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -65,8 +65,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "PIC32CM1216MC00032-I/PT"
-			(at -16.509999999999998 37.86 0)
+		(property "Value" "PIC32CM1216MC00048-I/Y8"
+			(at -19.049999999999997 45.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -75,7 +75,7 @@
 			)
 		)
 		(property "Family" "PIC32CMMC"
-			(at -16.509999999999998 40.36 0)
+			(at -19.049999999999997 47.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -85,7 +85,7 @@
 			)
 		)
 		(property "MF" "Microchip"
-			(at -16.509999999999998 42.86 0)
+			(at -19.049999999999997 50.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -94,8 +94,8 @@
 				(justify left)
 			)
 		)
-		(property "Name" "PIC32CM1216MC00032"
-			(at -16.509999999999998 45.36 0)
+		(property "Name" "PIC32CM1216MC00048"
+			(at -19.049999999999997 52.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -104,10 +104,10 @@
 				(justify left)
 			)
 		)
-		(symbol "PIC32CM1216MC00032-I/PT_0_1"
+		(symbol "PIC32CM1216MC00048-I/Y8_0_1"
 			(rectangle
-				(start -11.43 22.86)
-				(end 11.43 -22.86)
+				(start -13.969999999999999 30.479999999999997)
+				(end 13.969999999999999 -30.479999999999997)
 				(stroke
 					(width 0.254)
 					(type default)
@@ -117,9 +117,9 @@
 				)
 			)
 		)
-		(symbol "PIC32CM1216MC00032-I/PT_1_1"
+		(symbol "PIC32CM1216MC00048-I/Y8_1_1"
 			(pin bidirectional line
-				(at -13.969999999999999 15.240000000000002 0.0)
+				(at -16.509999999999998 22.86 0.0)
 				(length 2.54)
 				(name "PA00"
 					(effects
@@ -138,7 +138,7 @@
 			)
 
 			(pin bidirectional line
-				(at -13.969999999999999 12.700000000000003 0.0)
+				(at -16.509999999999998 20.32 0.0)
 				(length 2.54)
 				(name "PA01"
 					(effects
@@ -157,7 +157,7 @@
 			)
 
 			(pin bidirectional line
-				(at -13.969999999999999 10.160000000000004 0.0)
+				(at -16.509999999999998 17.78 0.0)
 				(length 2.54)
 				(name "PA02"
 					(effects
@@ -176,7 +176,7 @@
 			)
 
 			(pin bidirectional line
-				(at -13.969999999999999 7.620000000000004 0.0)
+				(at -16.509999999999998 15.240000000000002 0.0)
 				(length 2.54)
 				(name "PA03"
 					(effects
@@ -194,10 +194,10 @@
 				)
 			)
 
-			(pin bidirectional line
-				(at -13.969999999999999 5.080000000000004 0.0)
+			(pin passive non_logic
+				(at -2.62 -33.019999999999996 90.0)
 				(length 2.54)
-				(name "PA04"
+				(name "GNDANA"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -213,10 +213,10 @@
 				)
 			)
 
-			(pin bidirectional line
-				(at -13.969999999999999 2.5400000000000036 0.0)
+			(pin power_in non_logic
+				(at -5.08 33.019999999999996 270.0)
 				(length 2.54)
-				(name "PA05"
+				(name "VDDANA"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -233,9 +233,9 @@
 			)
 
 			(pin bidirectional line
-				(at -13.969999999999999 3.552713678800501E-15 0.0)
+				(at 16.509999999999998 -10.159999999999997 180.0)
 				(length 2.54)
-				(name "PA06"
+				(name "PB08"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -252,9 +252,9 @@
 			)
 
 			(pin bidirectional line
-				(at -13.969999999999999 -2.5399999999999965 0.0)
+				(at 16.509999999999998 -12.699999999999996 180.0)
 				(length 2.54)
-				(name "PA07"
+				(name "PB09"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -270,10 +270,10 @@
 				)
 			)
 
-			(pin power_in non_logic
-				(at -2.54 25.4 270.0)
+			(pin bidirectional line
+				(at -16.509999999999998 12.700000000000003 0.0)
 				(length 2.54)
-				(name "VDDANA"
+				(name "PA04"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -289,10 +289,10 @@
 				)
 			)
 
-			(pin passive non_logic
-				(at -0.040000000000000036 -25.4 90.0)
+			(pin bidirectional line
+				(at -16.509999999999998 10.160000000000004 0.0)
 				(length 2.54)
-				(name "GNDIO"
+				(name "PA05"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -309,9 +309,9 @@
 			)
 
 			(pin bidirectional line
-				(at -13.969999999999999 -5.0799999999999965 0.0)
+				(at -16.509999999999998 7.620000000000004 0.0)
 				(length 2.54)
-				(name "PA08"
+				(name "PA06"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -328,9 +328,9 @@
 			)
 
 			(pin bidirectional line
-				(at -13.969999999999999 -7.6199999999999966 0.0)
+				(at -16.509999999999998 5.080000000000004 0.0)
 				(length 2.54)
-				(name "PA09"
+				(name "PA07"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -347,9 +347,9 @@
 			)
 
 			(pin bidirectional line
-				(at -13.969999999999999 -10.159999999999997 0.0)
+				(at -16.509999999999998 2.5400000000000036 0.0)
 				(length 2.54)
-				(name "PA10"
+				(name "PA08"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -366,9 +366,9 @@
 			)
 
 			(pin bidirectional line
-				(at -13.969999999999999 -12.699999999999996 0.0)
+				(at -16.509999999999998 3.552713678800501E-15 0.0)
 				(length 2.54)
-				(name "PA11"
+				(name "PA09"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -385,9 +385,9 @@
 			)
 
 			(pin bidirectional line
-				(at 13.969999999999999 17.78 180.0)
+				(at -16.509999999999998 -2.5399999999999965 0.0)
 				(length 2.54)
-				(name "PA14"
+				(name "PA10"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -404,9 +404,9 @@
 			)
 
 			(pin bidirectional line
-				(at 13.969999999999999 15.240000000000002 180.0)
+				(at -16.509999999999998 -5.0799999999999965 0.0)
 				(length 2.54)
-				(name "PA15"
+				(name "PA11"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -422,10 +422,10 @@
 				)
 			)
 
-			(pin bidirectional line
-				(at 13.969999999999999 12.700000000000003 180.0)
+			(pin power_in non_logic
+				(at 2.54 33.019999999999996 270.0)
 				(length 2.54)
-				(name "PA16"
+				(name "VDDIO"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -441,10 +441,10 @@
 				)
 			)
 
-			(pin bidirectional line
-				(at 13.969999999999999 10.160000000000004 180.0)
+			(pin passive non_logic
+				(at -0.08000000000000007 -33.019999999999996 90.0)
 				(length 2.54)
-				(name "PA17"
+				(name "GNDIO"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -461,9 +461,9 @@
 			)
 
 			(pin bidirectional line
-				(at 13.969999999999999 7.620000000000004 180.0)
+				(at 16.509999999999998 -15.239999999999995 180.0)
 				(length 2.54)
-				(name "PA18"
+				(name "PB10"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -480,9 +480,9 @@
 			)
 
 			(pin bidirectional line
-				(at 13.969999999999999 5.080000000000004 180.0)
+				(at 16.509999999999998 -17.779999999999994 180.0)
 				(length 2.54)
-				(name "PA19"
+				(name "PB11"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -499,9 +499,9 @@
 			)
 
 			(pin bidirectional line
-				(at 13.969999999999999 2.5400000000000036 180.0)
+				(at -16.509999999999998 -7.6199999999999966 0.0)
 				(length 2.54)
-				(name "PA22"
+				(name "PA12"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -518,9 +518,9 @@
 			)
 
 			(pin bidirectional line
-				(at 13.969999999999999 3.552713678800501E-15 180.0)
+				(at -16.509999999999998 -10.159999999999997 0.0)
 				(length 2.54)
-				(name "PA23"
+				(name "PA13"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -537,9 +537,9 @@
 			)
 
 			(pin bidirectional line
-				(at 13.969999999999999 -2.5399999999999965 180.0)
+				(at -16.509999999999998 -12.699999999999996 0.0)
 				(length 2.54)
-				(name "PA24"
+				(name "PA14"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -556,9 +556,9 @@
 			)
 
 			(pin bidirectional line
-				(at 13.969999999999999 -5.0799999999999965 180.0)
+				(at -16.509999999999998 -15.239999999999995 0.0)
 				(length 2.54)
-				(name "PA25"
+				(name "PA15"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -575,9 +575,9 @@
 			)
 
 			(pin bidirectional line
-				(at 13.969999999999999 -7.6199999999999966 180.0)
+				(at -16.509999999999998 -17.779999999999994 0.0)
 				(length 2.54)
-				(name "PA27"
+				(name "PA16"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -593,10 +593,10 @@
 				)
 			)
 
-			(pin input line
-				(at -13.969999999999999 17.78 0.0)
+			(pin bidirectional line
+				(at -16.509999999999998 -20.319999999999993 0.0)
 				(length 2.54)
-				(name "RESET_N"
+				(name "PA17"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -613,9 +613,9 @@
 			)
 
 			(pin bidirectional line
-				(at 13.969999999999999 -10.159999999999997 180.0)
+				(at 16.509999999999998 25.4 180.0)
 				(length 2.54)
-				(name "PA28"
+				(name "PA18"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -631,10 +631,10 @@
 				)
 			)
 
-			(pin passive non_logic
-				(at 2.5 -25.4 90.0)
+			(pin bidirectional line
+				(at 16.509999999999998 22.86 180.0)
 				(length 2.54)
-				(name "GNDIO"
+				(name "PA19"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -650,10 +650,10 @@
 				)
 			)
 
-			(pin power_in non_logic
-				(at 0.0 25.4 270.0)
+			(pin bidirectional line
+				(at 16.509999999999998 20.32 180.0)
 				(length 2.54)
-				(name "VDDCORE"
+				(name "PA20"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -669,10 +669,10 @@
 				)
 			)
 
-			(pin power_in non_logic
-				(at 2.54 25.4 270.0)
+			(pin bidirectional line
+				(at 16.509999999999998 17.78 180.0)
 				(length 2.54)
-				(name "VDDIN"
+				(name "PA21"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -689,9 +689,9 @@
 			)
 
 			(pin bidirectional line
-				(at 13.969999999999999 -12.699999999999996 180.0)
+				(at 16.509999999999998 15.240000000000002 180.0)
 				(length 2.54)
-				(name "PA30"
+				(name "PA22"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -708,7 +708,273 @@
 			)
 
 			(pin bidirectional line
-				(at 13.969999999999999 -15.239999999999995 180.0)
+				(at 16.509999999999998 12.700000000000003 180.0)
+				(length 2.54)
+				(name "PA23"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "32"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+
+			(pin bidirectional line
+				(at 16.509999999999998 10.160000000000004 180.0)
+				(length 2.54)
+				(name "PA24"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "33"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+
+			(pin bidirectional line
+				(at 16.509999999999998 7.620000000000004 180.0)
+				(length 2.54)
+				(name "PA25"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "34"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+
+			(pin passive non_logic
+				(at 2.46 -33.019999999999996 90.0)
+				(length 2.54)
+				(name "GNDIO"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "35"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+
+			(pin power_in non_logic
+				(at 5.08 33.019999999999996 270.0)
+				(length 2.54)
+				(name "VDDIO"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "36"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+
+			(pin bidirectional line
+				(at 16.509999999999998 -20.319999999999993 180.0)
+				(length 2.54)
+				(name "PB22"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "37"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+
+			(pin bidirectional line
+				(at 16.509999999999998 -22.859999999999992 180.0)
+				(length 2.54)
+				(name "PB23"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "38"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+
+			(pin bidirectional line
+				(at 16.509999999999998 5.080000000000004 180.0)
+				(length 2.54)
+				(name "PA27"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "39"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+
+			(pin input line
+				(at -16.509999999999998 25.4 0.0)
+				(length 2.54)
+				(name "RESET_N"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "40"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+
+			(pin bidirectional line
+				(at 16.509999999999998 2.5400000000000036 180.0)
+				(length 2.54)
+				(name "PA28"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "41"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+
+			(pin passive non_logic
+				(at 5.0 -33.019999999999996 90.0)
+				(length 2.54)
+				(name "GNDIO"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "42"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+
+			(pin power_in non_logic
+				(at -2.54 33.019999999999996 270.0)
+				(length 2.54)
+				(name "VDDCORE"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "43"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+
+			(pin power_in non_logic
+				(at 0.0 33.019999999999996 270.0)
+				(length 2.54)
+				(name "VDDIN"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "44"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+
+			(pin bidirectional line
+				(at 16.509999999999998 3.552713678800501E-15 180.0)
+				(length 2.54)
+				(name "PA30"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "45"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+
+			(pin bidirectional line
+				(at 16.509999999999998 -2.5399999999999965 180.0)
 				(length 2.54)
 				(name "PA31"
 					(effects
@@ -717,7 +983,45 @@
 						)
 					)
 				)
-				(number "32"
+				(number "46"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+
+			(pin bidirectional line
+				(at 16.509999999999998 -5.0799999999999965 180.0)
+				(length 2.54)
+				(name "PB02"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "47"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+
+			(pin bidirectional line
+				(at 16.509999999999998 -7.6199999999999966 180.0)
+				(length 2.54)
+				(name "PB03"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "48"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -728,12 +1032,12 @@
 
 		)
 	)
-(symbol "PIC32CM1216MC00032-E/PT"
+(symbol "PIC32CM1216MC00048-E/Y8"
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(property "Series" "PIC32CMMC00"
-			(at -16.509999999999998 22.86 0)
+			(at -19.049999999999997 30.479999999999997 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -742,8 +1046,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TQFP32"
-			(at -16.509999999999998 25.36 0)
+		(property "Footprint" "TQFP48"
+			(at -19.049999999999997 32.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -752,8 +1056,8 @@
 				(justify left)
 			)
 		)
-		(property "MP" "PIC32CM1216MC00032-E/PT"
-			(at -16.509999999999998 27.86 0)
+		(property "MP" "PIC32CM1216MC00048-E/Y8"
+			(at -19.049999999999997 35.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -763,7 +1067,7 @@
 			)
 		)
 		(property "Architecture" "CORTEX-M0PLUS"
-			(at -16.509999999999998 30.36 0)
+			(at -19.049999999999997 37.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -772,8 +1076,8 @@
 				(justify left)
 			)
 		)
-		(property "PINOUT" "CMMC32"
-			(at -16.509999999999998 32.86 0)
+		(property "PINOUT" "CMMC48"
+			(at -19.049999999999997 40.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -783,7 +1087,7 @@
 			)
 		)
 		(property "Reference" "U"
-			(at -16.509999999999998 35.36 0)
+			(at -19.049999999999997 42.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -791,8 +1095,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "PIC32CM1216MC00032-E/PT"
-			(at -16.509999999999998 37.86 0)
+		(property "Value" "PIC32CM1216MC00048-E/Y8"
+			(at -19.049999999999997 45.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -801,7 +1105,7 @@
 			)
 		)
 		(property "Family" "PIC32CMMC"
-			(at -16.509999999999998 40.36 0)
+			(at -19.049999999999997 47.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -811,7 +1115,7 @@
 			)
 		)
 		(property "MF" "Microchip"
-			(at -16.509999999999998 42.86 0)
+			(at -19.049999999999997 50.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -820,8 +1124,8 @@
 				(justify left)
 			)
 		)
-		(property "Name" "PIC32CM1216MC00032"
-			(at -16.509999999999998 45.36 0)
+		(property "Name" "PIC32CM1216MC00048"
+			(at -19.049999999999997 52.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -830,10 +1134,10 @@
 				(justify left)
 			)
 		)
-		(symbol "PIC32CM1216MC00032-E/PT_0_1"
+		(symbol "PIC32CM1216MC00048-E/Y8_0_1"
 			(rectangle
-				(start -11.43 22.86)
-				(end 11.43 -22.86)
+				(start -13.969999999999999 30.479999999999997)
+				(end 13.969999999999999 -30.479999999999997)
 				(stroke
 					(width 0.254)
 					(type default)
@@ -843,9 +1147,9 @@
 				)
 			)
 		)
-		(symbol "PIC32CM1216MC00032-E/PT_1_1"
+		(symbol "PIC32CM1216MC00048-E/Y8_1_1"
 			(pin bidirectional line
-				(at -13.969999999999999 15.240000000000002 0.0)
+				(at -16.509999999999998 22.86 0.0)
 				(length 2.54)
 				(name "PA00"
 					(effects
@@ -864,7 +1168,7 @@
 			)
 
 			(pin bidirectional line
-				(at -13.969999999999999 12.700000000000003 0.0)
+				(at -16.509999999999998 20.32 0.0)
 				(length 2.54)
 				(name "PA01"
 					(effects
@@ -883,7 +1187,7 @@
 			)
 
 			(pin bidirectional line
-				(at -13.969999999999999 10.160000000000004 0.0)
+				(at -16.509999999999998 17.78 0.0)
 				(length 2.54)
 				(name "PA02"
 					(effects
@@ -902,7 +1206,7 @@
 			)
 
 			(pin bidirectional line
-				(at -13.969999999999999 7.620000000000004 0.0)
+				(at -16.509999999999998 15.240000000000002 0.0)
 				(length 2.54)
 				(name "PA03"
 					(effects
@@ -920,10 +1224,10 @@
 				)
 			)
 
-			(pin bidirectional line
-				(at -13.969999999999999 5.080000000000004 0.0)
+			(pin passive non_logic
+				(at -2.62 -33.019999999999996 90.0)
 				(length 2.54)
-				(name "PA04"
+				(name "GNDANA"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -939,10 +1243,10 @@
 				)
 			)
 
-			(pin bidirectional line
-				(at -13.969999999999999 2.5400000000000036 0.0)
+			(pin power_in non_logic
+				(at -5.08 33.019999999999996 270.0)
 				(length 2.54)
-				(name "PA05"
+				(name "VDDANA"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -959,9 +1263,9 @@
 			)
 
 			(pin bidirectional line
-				(at -13.969999999999999 3.552713678800501E-15 0.0)
+				(at 16.509999999999998 -10.159999999999997 180.0)
 				(length 2.54)
-				(name "PA06"
+				(name "PB08"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -978,9 +1282,9 @@
 			)
 
 			(pin bidirectional line
-				(at -13.969999999999999 -2.5399999999999965 0.0)
+				(at 16.509999999999998 -12.699999999999996 180.0)
 				(length 2.54)
-				(name "PA07"
+				(name "PB09"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -996,10 +1300,10 @@
 				)
 			)
 
-			(pin power_in non_logic
-				(at -2.54 25.4 270.0)
+			(pin bidirectional line
+				(at -16.509999999999998 12.700000000000003 0.0)
 				(length 2.54)
-				(name "VDDANA"
+				(name "PA04"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1015,10 +1319,10 @@
 				)
 			)
 
-			(pin passive non_logic
-				(at -0.040000000000000036 -25.4 90.0)
+			(pin bidirectional line
+				(at -16.509999999999998 10.160000000000004 0.0)
 				(length 2.54)
-				(name "GNDIO"
+				(name "PA05"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1035,9 +1339,9 @@
 			)
 
 			(pin bidirectional line
-				(at -13.969999999999999 -5.0799999999999965 0.0)
+				(at -16.509999999999998 7.620000000000004 0.0)
 				(length 2.54)
-				(name "PA08"
+				(name "PA06"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1054,9 +1358,9 @@
 			)
 
 			(pin bidirectional line
-				(at -13.969999999999999 -7.6199999999999966 0.0)
+				(at -16.509999999999998 5.080000000000004 0.0)
 				(length 2.54)
-				(name "PA09"
+				(name "PA07"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1073,9 +1377,9 @@
 			)
 
 			(pin bidirectional line
-				(at -13.969999999999999 -10.159999999999997 0.0)
+				(at -16.509999999999998 2.5400000000000036 0.0)
 				(length 2.54)
-				(name "PA10"
+				(name "PA08"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1092,9 +1396,9 @@
 			)
 
 			(pin bidirectional line
-				(at -13.969999999999999 -12.699999999999996 0.0)
+				(at -16.509999999999998 3.552713678800501E-15 0.0)
 				(length 2.54)
-				(name "PA11"
+				(name "PA09"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1111,9 +1415,9 @@
 			)
 
 			(pin bidirectional line
-				(at 13.969999999999999 17.78 180.0)
+				(at -16.509999999999998 -2.5399999999999965 0.0)
 				(length 2.54)
-				(name "PA14"
+				(name "PA10"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1130,9 +1434,9 @@
 			)
 
 			(pin bidirectional line
-				(at 13.969999999999999 15.240000000000002 180.0)
+				(at -16.509999999999998 -5.0799999999999965 0.0)
 				(length 2.54)
-				(name "PA15"
+				(name "PA11"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1148,10 +1452,10 @@
 				)
 			)
 
-			(pin bidirectional line
-				(at 13.969999999999999 12.700000000000003 180.0)
+			(pin power_in non_logic
+				(at 2.54 33.019999999999996 270.0)
 				(length 2.54)
-				(name "PA16"
+				(name "VDDIO"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1167,10 +1471,10 @@
 				)
 			)
 
-			(pin bidirectional line
-				(at 13.969999999999999 10.160000000000004 180.0)
+			(pin passive non_logic
+				(at -0.08000000000000007 -33.019999999999996 90.0)
 				(length 2.54)
-				(name "PA17"
+				(name "GNDIO"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1187,9 +1491,9 @@
 			)
 
 			(pin bidirectional line
-				(at 13.969999999999999 7.620000000000004 180.0)
+				(at 16.509999999999998 -15.239999999999995 180.0)
 				(length 2.54)
-				(name "PA18"
+				(name "PB10"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1206,9 +1510,9 @@
 			)
 
 			(pin bidirectional line
-				(at 13.969999999999999 5.080000000000004 180.0)
+				(at 16.509999999999998 -17.779999999999994 180.0)
 				(length 2.54)
-				(name "PA19"
+				(name "PB11"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1225,9 +1529,9 @@
 			)
 
 			(pin bidirectional line
-				(at 13.969999999999999 2.5400000000000036 180.0)
+				(at -16.509999999999998 -7.6199999999999966 0.0)
 				(length 2.54)
-				(name "PA22"
+				(name "PA12"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1244,9 +1548,9 @@
 			)
 
 			(pin bidirectional line
-				(at 13.969999999999999 3.552713678800501E-15 180.0)
+				(at -16.509999999999998 -10.159999999999997 0.0)
 				(length 2.54)
-				(name "PA23"
+				(name "PA13"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1263,9 +1567,9 @@
 			)
 
 			(pin bidirectional line
-				(at 13.969999999999999 -2.5399999999999965 180.0)
+				(at -16.509999999999998 -12.699999999999996 0.0)
 				(length 2.54)
-				(name "PA24"
+				(name "PA14"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1282,9 +1586,9 @@
 			)
 
 			(pin bidirectional line
-				(at 13.969999999999999 -5.0799999999999965 180.0)
+				(at -16.509999999999998 -15.239999999999995 0.0)
 				(length 2.54)
-				(name "PA25"
+				(name "PA15"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1301,9 +1605,9 @@
 			)
 
 			(pin bidirectional line
-				(at 13.969999999999999 -7.6199999999999966 180.0)
+				(at -16.509999999999998 -17.779999999999994 0.0)
 				(length 2.54)
-				(name "PA27"
+				(name "PA16"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1319,10 +1623,10 @@
 				)
 			)
 
-			(pin input line
-				(at -13.969999999999999 17.78 0.0)
+			(pin bidirectional line
+				(at -16.509999999999998 -20.319999999999993 0.0)
 				(length 2.54)
-				(name "RESET_N"
+				(name "PA17"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1339,9 +1643,9 @@
 			)
 
 			(pin bidirectional line
-				(at 13.969999999999999 -10.159999999999997 180.0)
+				(at 16.509999999999998 25.4 180.0)
 				(length 2.54)
-				(name "PA28"
+				(name "PA18"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1357,10 +1661,10 @@
 				)
 			)
 
-			(pin passive non_logic
-				(at 2.5 -25.4 90.0)
+			(pin bidirectional line
+				(at 16.509999999999998 22.86 180.0)
 				(length 2.54)
-				(name "GNDIO"
+				(name "PA19"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1376,10 +1680,10 @@
 				)
 			)
 
-			(pin power_in non_logic
-				(at 0.0 25.4 270.0)
+			(pin bidirectional line
+				(at 16.509999999999998 20.32 180.0)
 				(length 2.54)
-				(name "VDDCORE"
+				(name "PA20"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1395,10 +1699,10 @@
 				)
 			)
 
-			(pin power_in non_logic
-				(at 2.54 25.4 270.0)
+			(pin bidirectional line
+				(at 16.509999999999998 17.78 180.0)
 				(length 2.54)
-				(name "VDDIN"
+				(name "PA21"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1415,9 +1719,9 @@
 			)
 
 			(pin bidirectional line
-				(at 13.969999999999999 -12.699999999999996 180.0)
+				(at 16.509999999999998 15.240000000000002 180.0)
 				(length 2.54)
-				(name "PA30"
+				(name "PA22"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1434,7 +1738,273 @@
 			)
 
 			(pin bidirectional line
-				(at 13.969999999999999 -15.239999999999995 180.0)
+				(at 16.509999999999998 12.700000000000003 180.0)
+				(length 2.54)
+				(name "PA23"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "32"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+
+			(pin bidirectional line
+				(at 16.509999999999998 10.160000000000004 180.0)
+				(length 2.54)
+				(name "PA24"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "33"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+
+			(pin bidirectional line
+				(at 16.509999999999998 7.620000000000004 180.0)
+				(length 2.54)
+				(name "PA25"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "34"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+
+			(pin passive non_logic
+				(at 2.46 -33.019999999999996 90.0)
+				(length 2.54)
+				(name "GNDIO"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "35"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+
+			(pin power_in non_logic
+				(at 5.08 33.019999999999996 270.0)
+				(length 2.54)
+				(name "VDDIO"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "36"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+
+			(pin bidirectional line
+				(at 16.509999999999998 -20.319999999999993 180.0)
+				(length 2.54)
+				(name "PB22"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "37"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+
+			(pin bidirectional line
+				(at 16.509999999999998 -22.859999999999992 180.0)
+				(length 2.54)
+				(name "PB23"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "38"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+
+			(pin bidirectional line
+				(at 16.509999999999998 5.080000000000004 180.0)
+				(length 2.54)
+				(name "PA27"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "39"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+
+			(pin input line
+				(at -16.509999999999998 25.4 0.0)
+				(length 2.54)
+				(name "RESET_N"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "40"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+
+			(pin bidirectional line
+				(at 16.509999999999998 2.5400000000000036 180.0)
+				(length 2.54)
+				(name "PA28"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "41"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+
+			(pin passive non_logic
+				(at 5.0 -33.019999999999996 90.0)
+				(length 2.54)
+				(name "GNDIO"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "42"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+
+			(pin power_in non_logic
+				(at -2.54 33.019999999999996 270.0)
+				(length 2.54)
+				(name "VDDCORE"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "43"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+
+			(pin power_in non_logic
+				(at 0.0 33.019999999999996 270.0)
+				(length 2.54)
+				(name "VDDIN"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "44"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+
+			(pin bidirectional line
+				(at 16.509999999999998 3.552713678800501E-15 180.0)
+				(length 2.54)
+				(name "PA30"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "45"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+
+			(pin bidirectional line
+				(at 16.509999999999998 -2.5399999999999965 180.0)
 				(length 2.54)
 				(name "PA31"
 					(effects
@@ -1443,7 +2013,45 @@
 						)
 					)
 				)
-				(number "32"
+				(number "46"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+
+			(pin bidirectional line
+				(at 16.509999999999998 -5.0799999999999965 180.0)
+				(length 2.54)
+				(name "PB02"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "47"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+
+			(pin bidirectional line
+				(at 16.509999999999998 -7.6199999999999966 180.0)
+				(length 2.54)
+				(name "PB03"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "48"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1454,12 +2062,12 @@
 
 		)
 	)
-(symbol "PIC32CM1216MC00032-I/RTB"
+(symbol "PIC32CM1216MC00048-I/U5B"
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(property "Series" "PIC32CMMC00"
-			(at -16.509999999999998 22.86 0)
+			(at -19.049999999999997 30.479999999999997 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1468,8 +2076,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "QFN32"
-			(at -16.509999999999998 25.36 0)
+		(property "Footprint" "QFN48"
+			(at -19.049999999999997 32.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1478,8 +2086,8 @@
 				(justify left)
 			)
 		)
-		(property "MP" "PIC32CM1216MC00032-I/RTB"
-			(at -16.509999999999998 27.86 0)
+		(property "MP" "PIC32CM1216MC00048-I/U5B"
+			(at -19.049999999999997 35.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1489,7 +2097,7 @@
 			)
 		)
 		(property "Architecture" "CORTEX-M0PLUS"
-			(at -16.509999999999998 30.36 0)
+			(at -19.049999999999997 37.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1498,8 +2106,8 @@
 				(justify left)
 			)
 		)
-		(property "PINOUT" "CMMC32"
-			(at -16.509999999999998 32.86 0)
+		(property "PINOUT" "CMMC48"
+			(at -19.049999999999997 40.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1509,7 +2117,7 @@
 			)
 		)
 		(property "Reference" "U"
-			(at -16.509999999999998 35.36 0)
+			(at -19.049999999999997 42.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1517,8 +2125,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "PIC32CM1216MC00032-I/RTB"
-			(at -16.509999999999998 37.86 0)
+		(property "Value" "PIC32CM1216MC00048-I/U5B"
+			(at -19.049999999999997 45.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1527,7 +2135,7 @@
 			)
 		)
 		(property "Family" "PIC32CMMC"
-			(at -16.509999999999998 40.36 0)
+			(at -19.049999999999997 47.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1537,7 +2145,7 @@
 			)
 		)
 		(property "MF" "Microchip"
-			(at -16.509999999999998 42.86 0)
+			(at -19.049999999999997 50.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1546,8 +2154,8 @@
 				(justify left)
 			)
 		)
-		(property "Name" "PIC32CM1216MC00032"
-			(at -16.509999999999998 45.36 0)
+		(property "Name" "PIC32CM1216MC00048"
+			(at -19.049999999999997 52.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1556,10 +2164,10 @@
 				(justify left)
 			)
 		)
-		(symbol "PIC32CM1216MC00032-I/RTB_0_1"
+		(symbol "PIC32CM1216MC00048-I/U5B_0_1"
 			(rectangle
-				(start -11.43 22.86)
-				(end 11.43 -22.86)
+				(start -13.969999999999999 30.479999999999997)
+				(end 13.969999999999999 -30.479999999999997)
 				(stroke
 					(width 0.254)
 					(type default)
@@ -1569,9 +2177,9 @@
 				)
 			)
 		)
-		(symbol "PIC32CM1216MC00032-I/RTB_1_1"
+		(symbol "PIC32CM1216MC00048-I/U5B_1_1"
 			(pin bidirectional line
-				(at -13.969999999999999 15.240000000000002 0.0)
+				(at -16.509999999999998 22.86 0.0)
 				(length 2.54)
 				(name "PA00"
 					(effects
@@ -1590,7 +2198,7 @@
 			)
 
 			(pin bidirectional line
-				(at -13.969999999999999 12.700000000000003 0.0)
+				(at -16.509999999999998 20.32 0.0)
 				(length 2.54)
 				(name "PA01"
 					(effects
@@ -1609,7 +2217,7 @@
 			)
 
 			(pin bidirectional line
-				(at -13.969999999999999 10.160000000000004 0.0)
+				(at -16.509999999999998 17.78 0.0)
 				(length 2.54)
 				(name "PA02"
 					(effects
@@ -1628,7 +2236,7 @@
 			)
 
 			(pin bidirectional line
-				(at -13.969999999999999 7.620000000000004 0.0)
+				(at -16.509999999999998 15.240000000000002 0.0)
 				(length 2.54)
 				(name "PA03"
 					(effects
@@ -1646,10 +2254,10 @@
 				)
 			)
 
-			(pin bidirectional line
-				(at -13.969999999999999 5.080000000000004 0.0)
+			(pin passive non_logic
+				(at -2.62 -33.019999999999996 90.0)
 				(length 2.54)
-				(name "PA04"
+				(name "GNDANA"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1665,10 +2273,10 @@
 				)
 			)
 
-			(pin bidirectional line
-				(at -13.969999999999999 2.5400000000000036 0.0)
+			(pin power_in non_logic
+				(at -5.08 33.019999999999996 270.0)
 				(length 2.54)
-				(name "PA05"
+				(name "VDDANA"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1685,9 +2293,9 @@
 			)
 
 			(pin bidirectional line
-				(at -13.969999999999999 3.552713678800501E-15 0.0)
+				(at 16.509999999999998 -10.159999999999997 180.0)
 				(length 2.54)
-				(name "PA06"
+				(name "PB08"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1704,9 +2312,9 @@
 			)
 
 			(pin bidirectional line
-				(at -13.969999999999999 -2.5399999999999965 0.0)
+				(at 16.509999999999998 -12.699999999999996 180.0)
 				(length 2.54)
-				(name "PA07"
+				(name "PB09"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1722,10 +2330,10 @@
 				)
 			)
 
-			(pin power_in non_logic
-				(at -2.54 25.4 270.0)
+			(pin bidirectional line
+				(at -16.509999999999998 12.700000000000003 0.0)
 				(length 2.54)
-				(name "VDDANA"
+				(name "PA04"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1741,10 +2349,10 @@
 				)
 			)
 
-			(pin passive non_logic
-				(at -0.040000000000000036 -25.4 90.0)
+			(pin bidirectional line
+				(at -16.509999999999998 10.160000000000004 0.0)
 				(length 2.54)
-				(name "GNDIO"
+				(name "PA05"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1761,9 +2369,9 @@
 			)
 
 			(pin bidirectional line
-				(at -13.969999999999999 -5.0799999999999965 0.0)
+				(at -16.509999999999998 7.620000000000004 0.0)
 				(length 2.54)
-				(name "PA08"
+				(name "PA06"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1780,9 +2388,9 @@
 			)
 
 			(pin bidirectional line
-				(at -13.969999999999999 -7.6199999999999966 0.0)
+				(at -16.509999999999998 5.080000000000004 0.0)
 				(length 2.54)
-				(name "PA09"
+				(name "PA07"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1799,9 +2407,9 @@
 			)
 
 			(pin bidirectional line
-				(at -13.969999999999999 -10.159999999999997 0.0)
+				(at -16.509999999999998 2.5400000000000036 0.0)
 				(length 2.54)
-				(name "PA10"
+				(name "PA08"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1818,9 +2426,9 @@
 			)
 
 			(pin bidirectional line
-				(at -13.969999999999999 -12.699999999999996 0.0)
+				(at -16.509999999999998 3.552713678800501E-15 0.0)
 				(length 2.54)
-				(name "PA11"
+				(name "PA09"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1837,9 +2445,9 @@
 			)
 
 			(pin bidirectional line
-				(at 13.969999999999999 17.78 180.0)
+				(at -16.509999999999998 -2.5399999999999965 0.0)
 				(length 2.54)
-				(name "PA14"
+				(name "PA10"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1856,9 +2464,9 @@
 			)
 
 			(pin bidirectional line
-				(at 13.969999999999999 15.240000000000002 180.0)
+				(at -16.509999999999998 -5.0799999999999965 0.0)
 				(length 2.54)
-				(name "PA15"
+				(name "PA11"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1874,10 +2482,10 @@
 				)
 			)
 
-			(pin bidirectional line
-				(at 13.969999999999999 12.700000000000003 180.0)
+			(pin power_in non_logic
+				(at 2.54 33.019999999999996 270.0)
 				(length 2.54)
-				(name "PA16"
+				(name "VDDIO"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1893,10 +2501,10 @@
 				)
 			)
 
-			(pin bidirectional line
-				(at 13.969999999999999 10.160000000000004 180.0)
+			(pin passive non_logic
+				(at -0.08000000000000007 -33.019999999999996 90.0)
 				(length 2.54)
-				(name "PA17"
+				(name "GNDIO"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1913,9 +2521,9 @@
 			)
 
 			(pin bidirectional line
-				(at 13.969999999999999 7.620000000000004 180.0)
+				(at 16.509999999999998 -15.239999999999995 180.0)
 				(length 2.54)
-				(name "PA18"
+				(name "PB10"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1932,9 +2540,9 @@
 			)
 
 			(pin bidirectional line
-				(at 13.969999999999999 5.080000000000004 180.0)
+				(at 16.509999999999998 -17.779999999999994 180.0)
 				(length 2.54)
-				(name "PA19"
+				(name "PB11"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1951,9 +2559,9 @@
 			)
 
 			(pin bidirectional line
-				(at 13.969999999999999 2.5400000000000036 180.0)
+				(at -16.509999999999998 -7.6199999999999966 0.0)
 				(length 2.54)
-				(name "PA22"
+				(name "PA12"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1970,9 +2578,9 @@
 			)
 
 			(pin bidirectional line
-				(at 13.969999999999999 3.552713678800501E-15 180.0)
+				(at -16.509999999999998 -10.159999999999997 0.0)
 				(length 2.54)
-				(name "PA23"
+				(name "PA13"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1989,9 +2597,9 @@
 			)
 
 			(pin bidirectional line
-				(at 13.969999999999999 -2.5399999999999965 180.0)
+				(at -16.509999999999998 -12.699999999999996 0.0)
 				(length 2.54)
-				(name "PA24"
+				(name "PA14"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -2008,9 +2616,9 @@
 			)
 
 			(pin bidirectional line
-				(at 13.969999999999999 -5.0799999999999965 180.0)
+				(at -16.509999999999998 -15.239999999999995 0.0)
 				(length 2.54)
-				(name "PA25"
+				(name "PA15"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -2027,9 +2635,9 @@
 			)
 
 			(pin bidirectional line
-				(at 13.969999999999999 -7.6199999999999966 180.0)
+				(at -16.509999999999998 -17.779999999999994 0.0)
 				(length 2.54)
-				(name "PA27"
+				(name "PA16"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -2045,10 +2653,10 @@
 				)
 			)
 
-			(pin input line
-				(at -13.969999999999999 17.78 0.0)
+			(pin bidirectional line
+				(at -16.509999999999998 -20.319999999999993 0.0)
 				(length 2.54)
-				(name "RESET_N"
+				(name "PA17"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -2065,9 +2673,9 @@
 			)
 
 			(pin bidirectional line
-				(at 13.969999999999999 -10.159999999999997 180.0)
+				(at 16.509999999999998 25.4 180.0)
 				(length 2.54)
-				(name "PA28"
+				(name "PA18"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -2083,10 +2691,10 @@
 				)
 			)
 
-			(pin passive non_logic
-				(at 2.5 -25.4 90.0)
+			(pin bidirectional line
+				(at 16.509999999999998 22.86 180.0)
 				(length 2.54)
-				(name "GNDIO"
+				(name "PA19"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -2102,10 +2710,10 @@
 				)
 			)
 
-			(pin power_in non_logic
-				(at 0.0 25.4 270.0)
+			(pin bidirectional line
+				(at 16.509999999999998 20.32 180.0)
 				(length 2.54)
-				(name "VDDCORE"
+				(name "PA20"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -2121,10 +2729,10 @@
 				)
 			)
 
-			(pin power_in non_logic
-				(at 2.54 25.4 270.0)
+			(pin bidirectional line
+				(at 16.509999999999998 17.78 180.0)
 				(length 2.54)
-				(name "VDDIN"
+				(name "PA21"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -2141,9 +2749,9 @@
 			)
 
 			(pin bidirectional line
-				(at 13.969999999999999 -12.699999999999996 180.0)
+				(at 16.509999999999998 15.240000000000002 180.0)
 				(length 2.54)
-				(name "PA30"
+				(name "PA22"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -2160,7 +2768,273 @@
 			)
 
 			(pin bidirectional line
-				(at 13.969999999999999 -15.239999999999995 180.0)
+				(at 16.509999999999998 12.700000000000003 180.0)
+				(length 2.54)
+				(name "PA23"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "32"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+
+			(pin bidirectional line
+				(at 16.509999999999998 10.160000000000004 180.0)
+				(length 2.54)
+				(name "PA24"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "33"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+
+			(pin bidirectional line
+				(at 16.509999999999998 7.620000000000004 180.0)
+				(length 2.54)
+				(name "PA25"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "34"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+
+			(pin passive non_logic
+				(at 2.46 -33.019999999999996 90.0)
+				(length 2.54)
+				(name "GNDIO"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "35"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+
+			(pin power_in non_logic
+				(at 5.08 33.019999999999996 270.0)
+				(length 2.54)
+				(name "VDDIO"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "36"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+
+			(pin bidirectional line
+				(at 16.509999999999998 -20.319999999999993 180.0)
+				(length 2.54)
+				(name "PB22"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "37"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+
+			(pin bidirectional line
+				(at 16.509999999999998 -22.859999999999992 180.0)
+				(length 2.54)
+				(name "PB23"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "38"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+
+			(pin bidirectional line
+				(at 16.509999999999998 5.080000000000004 180.0)
+				(length 2.54)
+				(name "PA27"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "39"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+
+			(pin input line
+				(at -16.509999999999998 25.4 0.0)
+				(length 2.54)
+				(name "RESET_N"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "40"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+
+			(pin bidirectional line
+				(at 16.509999999999998 2.5400000000000036 180.0)
+				(length 2.54)
+				(name "PA28"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "41"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+
+			(pin passive non_logic
+				(at 5.0 -33.019999999999996 90.0)
+				(length 2.54)
+				(name "GNDIO"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "42"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+
+			(pin power_in non_logic
+				(at -2.54 33.019999999999996 270.0)
+				(length 2.54)
+				(name "VDDCORE"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "43"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+
+			(pin power_in non_logic
+				(at 0.0 33.019999999999996 270.0)
+				(length 2.54)
+				(name "VDDIN"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "44"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+
+			(pin bidirectional line
+				(at 16.509999999999998 3.552713678800501E-15 180.0)
+				(length 2.54)
+				(name "PA30"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "45"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+
+			(pin bidirectional line
+				(at 16.509999999999998 -2.5399999999999965 180.0)
 				(length 2.54)
 				(name "PA31"
 					(effects
@@ -2169,7 +3043,45 @@
 						)
 					)
 				)
-				(number "32"
+				(number "46"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+
+			(pin bidirectional line
+				(at 16.509999999999998 -5.0799999999999965 180.0)
+				(length 2.54)
+				(name "PB02"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "47"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+
+			(pin bidirectional line
+				(at 16.509999999999998 -7.6199999999999966 180.0)
+				(length 2.54)
+				(name "PB03"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "48"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -2180,12 +3092,12 @@
 
 		)
 	)
-(symbol "PIC32CM1216MC00032-E/RTB"
+(symbol "PIC32CM1216MC00048-E/U5B"
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(property "Series" "PIC32CMMC00"
-			(at -16.509999999999998 22.86 0)
+			(at -19.049999999999997 30.479999999999997 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2194,8 +3106,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "QFN32"
-			(at -16.509999999999998 25.36 0)
+		(property "Footprint" "QFN48"
+			(at -19.049999999999997 32.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2204,8 +3116,8 @@
 				(justify left)
 			)
 		)
-		(property "MP" "PIC32CM1216MC00032-E/RTB"
-			(at -16.509999999999998 27.86 0)
+		(property "MP" "PIC32CM1216MC00048-E/U5B"
+			(at -19.049999999999997 35.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2215,7 +3127,7 @@
 			)
 		)
 		(property "Architecture" "CORTEX-M0PLUS"
-			(at -16.509999999999998 30.36 0)
+			(at -19.049999999999997 37.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2224,8 +3136,8 @@
 				(justify left)
 			)
 		)
-		(property "PINOUT" "CMMC32"
-			(at -16.509999999999998 32.86 0)
+		(property "PINOUT" "CMMC48"
+			(at -19.049999999999997 40.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2235,7 +3147,7 @@
 			)
 		)
 		(property "Reference" "U"
-			(at -16.509999999999998 35.36 0)
+			(at -19.049999999999997 42.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2243,8 +3155,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "PIC32CM1216MC00032-E/RTB"
-			(at -16.509999999999998 37.86 0)
+		(property "Value" "PIC32CM1216MC00048-E/U5B"
+			(at -19.049999999999997 45.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2253,7 +3165,7 @@
 			)
 		)
 		(property "Family" "PIC32CMMC"
-			(at -16.509999999999998 40.36 0)
+			(at -19.049999999999997 47.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2263,7 +3175,7 @@
 			)
 		)
 		(property "MF" "Microchip"
-			(at -16.509999999999998 42.86 0)
+			(at -19.049999999999997 50.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2272,8 +3184,8 @@
 				(justify left)
 			)
 		)
-		(property "Name" "PIC32CM1216MC00032"
-			(at -16.509999999999998 45.36 0)
+		(property "Name" "PIC32CM1216MC00048"
+			(at -19.049999999999997 52.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2282,10 +3194,10 @@
 				(justify left)
 			)
 		)
-		(symbol "PIC32CM1216MC00032-E/RTB_0_1"
+		(symbol "PIC32CM1216MC00048-E/U5B_0_1"
 			(rectangle
-				(start -11.43 22.86)
-				(end 11.43 -22.86)
+				(start -13.969999999999999 30.479999999999997)
+				(end 13.969999999999999 -30.479999999999997)
 				(stroke
 					(width 0.254)
 					(type default)
@@ -2295,9 +3207,9 @@
 				)
 			)
 		)
-		(symbol "PIC32CM1216MC00032-E/RTB_1_1"
+		(symbol "PIC32CM1216MC00048-E/U5B_1_1"
 			(pin bidirectional line
-				(at -13.969999999999999 15.240000000000002 0.0)
+				(at -16.509999999999998 22.86 0.0)
 				(length 2.54)
 				(name "PA00"
 					(effects
@@ -2316,7 +3228,7 @@
 			)
 
 			(pin bidirectional line
-				(at -13.969999999999999 12.700000000000003 0.0)
+				(at -16.509999999999998 20.32 0.0)
 				(length 2.54)
 				(name "PA01"
 					(effects
@@ -2335,7 +3247,7 @@
 			)
 
 			(pin bidirectional line
-				(at -13.969999999999999 10.160000000000004 0.0)
+				(at -16.509999999999998 17.78 0.0)
 				(length 2.54)
 				(name "PA02"
 					(effects
@@ -2354,7 +3266,7 @@
 			)
 
 			(pin bidirectional line
-				(at -13.969999999999999 7.620000000000004 0.0)
+				(at -16.509999999999998 15.240000000000002 0.0)
 				(length 2.54)
 				(name "PA03"
 					(effects
@@ -2372,10 +3284,10 @@
 				)
 			)
 
-			(pin bidirectional line
-				(at -13.969999999999999 5.080000000000004 0.0)
+			(pin passive non_logic
+				(at -2.62 -33.019999999999996 90.0)
 				(length 2.54)
-				(name "PA04"
+				(name "GNDANA"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -2391,10 +3303,10 @@
 				)
 			)
 
-			(pin bidirectional line
-				(at -13.969999999999999 2.5400000000000036 0.0)
+			(pin power_in non_logic
+				(at -5.08 33.019999999999996 270.0)
 				(length 2.54)
-				(name "PA05"
+				(name "VDDANA"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -2411,9 +3323,9 @@
 			)
 
 			(pin bidirectional line
-				(at -13.969999999999999 3.552713678800501E-15 0.0)
+				(at 16.509999999999998 -10.159999999999997 180.0)
 				(length 2.54)
-				(name "PA06"
+				(name "PB08"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -2430,9 +3342,9 @@
 			)
 
 			(pin bidirectional line
-				(at -13.969999999999999 -2.5399999999999965 0.0)
+				(at 16.509999999999998 -12.699999999999996 180.0)
 				(length 2.54)
-				(name "PA07"
+				(name "PB09"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -2448,10 +3360,10 @@
 				)
 			)
 
-			(pin power_in non_logic
-				(at -2.54 25.4 270.0)
+			(pin bidirectional line
+				(at -16.509999999999998 12.700000000000003 0.0)
 				(length 2.54)
-				(name "VDDANA"
+				(name "PA04"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -2467,10 +3379,10 @@
 				)
 			)
 
-			(pin passive non_logic
-				(at -0.040000000000000036 -25.4 90.0)
+			(pin bidirectional line
+				(at -16.509999999999998 10.160000000000004 0.0)
 				(length 2.54)
-				(name "GNDIO"
+				(name "PA05"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -2487,9 +3399,9 @@
 			)
 
 			(pin bidirectional line
-				(at -13.969999999999999 -5.0799999999999965 0.0)
+				(at -16.509999999999998 7.620000000000004 0.0)
 				(length 2.54)
-				(name "PA08"
+				(name "PA06"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -2506,9 +3418,9 @@
 			)
 
 			(pin bidirectional line
-				(at -13.969999999999999 -7.6199999999999966 0.0)
+				(at -16.509999999999998 5.080000000000004 0.0)
 				(length 2.54)
-				(name "PA09"
+				(name "PA07"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -2525,9 +3437,9 @@
 			)
 
 			(pin bidirectional line
-				(at -13.969999999999999 -10.159999999999997 0.0)
+				(at -16.509999999999998 2.5400000000000036 0.0)
 				(length 2.54)
-				(name "PA10"
+				(name "PA08"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -2544,9 +3456,9 @@
 			)
 
 			(pin bidirectional line
-				(at -13.969999999999999 -12.699999999999996 0.0)
+				(at -16.509999999999998 3.552713678800501E-15 0.0)
 				(length 2.54)
-				(name "PA11"
+				(name "PA09"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -2563,9 +3475,9 @@
 			)
 
 			(pin bidirectional line
-				(at 13.969999999999999 17.78 180.0)
+				(at -16.509999999999998 -2.5399999999999965 0.0)
 				(length 2.54)
-				(name "PA14"
+				(name "PA10"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -2582,9 +3494,9 @@
 			)
 
 			(pin bidirectional line
-				(at 13.969999999999999 15.240000000000002 180.0)
+				(at -16.509999999999998 -5.0799999999999965 0.0)
 				(length 2.54)
-				(name "PA15"
+				(name "PA11"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -2600,10 +3512,10 @@
 				)
 			)
 
-			(pin bidirectional line
-				(at 13.969999999999999 12.700000000000003 180.0)
+			(pin power_in non_logic
+				(at 2.54 33.019999999999996 270.0)
 				(length 2.54)
-				(name "PA16"
+				(name "VDDIO"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -2619,10 +3531,10 @@
 				)
 			)
 
-			(pin bidirectional line
-				(at 13.969999999999999 10.160000000000004 180.0)
+			(pin passive non_logic
+				(at -0.08000000000000007 -33.019999999999996 90.0)
 				(length 2.54)
-				(name "PA17"
+				(name "GNDIO"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -2639,9 +3551,9 @@
 			)
 
 			(pin bidirectional line
-				(at 13.969999999999999 7.620000000000004 180.0)
+				(at 16.509999999999998 -15.239999999999995 180.0)
 				(length 2.54)
-				(name "PA18"
+				(name "PB10"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -2658,9 +3570,9 @@
 			)
 
 			(pin bidirectional line
-				(at 13.969999999999999 5.080000000000004 180.0)
+				(at 16.509999999999998 -17.779999999999994 180.0)
 				(length 2.54)
-				(name "PA19"
+				(name "PB11"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -2677,9 +3589,9 @@
 			)
 
 			(pin bidirectional line
-				(at 13.969999999999999 2.5400000000000036 180.0)
+				(at -16.509999999999998 -7.6199999999999966 0.0)
 				(length 2.54)
-				(name "PA22"
+				(name "PA12"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -2696,9 +3608,9 @@
 			)
 
 			(pin bidirectional line
-				(at 13.969999999999999 3.552713678800501E-15 180.0)
+				(at -16.509999999999998 -10.159999999999997 0.0)
 				(length 2.54)
-				(name "PA23"
+				(name "PA13"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -2715,9 +3627,9 @@
 			)
 
 			(pin bidirectional line
-				(at 13.969999999999999 -2.5399999999999965 180.0)
+				(at -16.509999999999998 -12.699999999999996 0.0)
 				(length 2.54)
-				(name "PA24"
+				(name "PA14"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -2734,9 +3646,9 @@
 			)
 
 			(pin bidirectional line
-				(at 13.969999999999999 -5.0799999999999965 180.0)
+				(at -16.509999999999998 -15.239999999999995 0.0)
 				(length 2.54)
-				(name "PA25"
+				(name "PA15"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -2753,9 +3665,9 @@
 			)
 
 			(pin bidirectional line
-				(at 13.969999999999999 -7.6199999999999966 180.0)
+				(at -16.509999999999998 -17.779999999999994 0.0)
 				(length 2.54)
-				(name "PA27"
+				(name "PA16"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -2771,10 +3683,10 @@
 				)
 			)
 
-			(pin input line
-				(at -13.969999999999999 17.78 0.0)
+			(pin bidirectional line
+				(at -16.509999999999998 -20.319999999999993 0.0)
 				(length 2.54)
-				(name "RESET_N"
+				(name "PA17"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -2791,9 +3703,9 @@
 			)
 
 			(pin bidirectional line
-				(at 13.969999999999999 -10.159999999999997 180.0)
+				(at 16.509999999999998 25.4 180.0)
 				(length 2.54)
-				(name "PA28"
+				(name "PA18"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -2809,10 +3721,10 @@
 				)
 			)
 
-			(pin passive non_logic
-				(at 2.5 -25.4 90.0)
+			(pin bidirectional line
+				(at 16.509999999999998 22.86 180.0)
 				(length 2.54)
-				(name "GNDIO"
+				(name "PA19"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -2828,10 +3740,10 @@
 				)
 			)
 
-			(pin power_in non_logic
-				(at 0.0 25.4 270.0)
+			(pin bidirectional line
+				(at 16.509999999999998 20.32 180.0)
 				(length 2.54)
-				(name "VDDCORE"
+				(name "PA20"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -2847,10 +3759,10 @@
 				)
 			)
 
-			(pin power_in non_logic
-				(at 2.54 25.4 270.0)
+			(pin bidirectional line
+				(at 16.509999999999998 17.78 180.0)
 				(length 2.54)
-				(name "VDDIN"
+				(name "PA21"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -2867,9 +3779,9 @@
 			)
 
 			(pin bidirectional line
-				(at 13.969999999999999 -12.699999999999996 180.0)
+				(at 16.509999999999998 15.240000000000002 180.0)
 				(length 2.54)
-				(name "PA30"
+				(name "PA22"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -2886,7 +3798,273 @@
 			)
 
 			(pin bidirectional line
-				(at 13.969999999999999 -15.239999999999995 180.0)
+				(at 16.509999999999998 12.700000000000003 180.0)
+				(length 2.54)
+				(name "PA23"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "32"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+
+			(pin bidirectional line
+				(at 16.509999999999998 10.160000000000004 180.0)
+				(length 2.54)
+				(name "PA24"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "33"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+
+			(pin bidirectional line
+				(at 16.509999999999998 7.620000000000004 180.0)
+				(length 2.54)
+				(name "PA25"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "34"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+
+			(pin passive non_logic
+				(at 2.46 -33.019999999999996 90.0)
+				(length 2.54)
+				(name "GNDIO"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "35"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+
+			(pin power_in non_logic
+				(at 5.08 33.019999999999996 270.0)
+				(length 2.54)
+				(name "VDDIO"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "36"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+
+			(pin bidirectional line
+				(at 16.509999999999998 -20.319999999999993 180.0)
+				(length 2.54)
+				(name "PB22"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "37"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+
+			(pin bidirectional line
+				(at 16.509999999999998 -22.859999999999992 180.0)
+				(length 2.54)
+				(name "PB23"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "38"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+
+			(pin bidirectional line
+				(at 16.509999999999998 5.080000000000004 180.0)
+				(length 2.54)
+				(name "PA27"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "39"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+
+			(pin input line
+				(at -16.509999999999998 25.4 0.0)
+				(length 2.54)
+				(name "RESET_N"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "40"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+
+			(pin bidirectional line
+				(at 16.509999999999998 2.5400000000000036 180.0)
+				(length 2.54)
+				(name "PA28"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "41"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+
+			(pin passive non_logic
+				(at 5.0 -33.019999999999996 90.0)
+				(length 2.54)
+				(name "GNDIO"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "42"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+
+			(pin power_in non_logic
+				(at -2.54 33.019999999999996 270.0)
+				(length 2.54)
+				(name "VDDCORE"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "43"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+
+			(pin power_in non_logic
+				(at 0.0 33.019999999999996 270.0)
+				(length 2.54)
+				(name "VDDIN"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "44"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+
+			(pin bidirectional line
+				(at 16.509999999999998 3.552713678800501E-15 180.0)
+				(length 2.54)
+				(name "PA30"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "45"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+
+			(pin bidirectional line
+				(at 16.509999999999998 -2.5399999999999965 180.0)
 				(length 2.54)
 				(name "PA31"
 					(effects
@@ -2895,7 +4073,45 @@
 						)
 					)
 				)
-				(number "32"
+				(number "46"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+
+			(pin bidirectional line
+				(at 16.509999999999998 -5.0799999999999965 180.0)
+				(length 2.54)
+				(name "PB02"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "47"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+
+			(pin bidirectional line
+				(at 16.509999999999998 -7.6199999999999966 180.0)
+				(length 2.54)
+				(name "PB03"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "48"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -9930,12 +11146,12 @@
 
 		)
 	)
-(symbol "PIC32CM1216MC00048-I/Y8"
+(symbol "PIC32CM1216MC00032-I/PT"
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(property "Series" "PIC32CMMC00"
-			(at -19.049999999999997 30.479999999999997 0)
+			(at -16.509999999999998 22.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9944,8 +11160,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TQFP48"
-			(at -19.049999999999997 32.98 0)
+		(property "Footprint" "TQFP32"
+			(at -16.509999999999998 25.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9954,8 +11170,8 @@
 				(justify left)
 			)
 		)
-		(property "MP" "PIC32CM1216MC00048-I/Y8"
-			(at -19.049999999999997 35.48 0)
+		(property "MP" "PIC32CM1216MC00032-I/PT"
+			(at -16.509999999999998 27.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9965,7 +11181,7 @@
 			)
 		)
 		(property "Architecture" "CORTEX-M0PLUS"
-			(at -19.049999999999997 37.98 0)
+			(at -16.509999999999998 30.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9974,8 +11190,8 @@
 				(justify left)
 			)
 		)
-		(property "PINOUT" "CMMC48"
-			(at -19.049999999999997 40.48 0)
+		(property "PINOUT" "CMMC32"
+			(at -16.509999999999998 32.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9985,7 +11201,7 @@
 			)
 		)
 		(property "Reference" "U"
-			(at -19.049999999999997 42.98 0)
+			(at -16.509999999999998 35.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9993,8 +11209,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "PIC32CM1216MC00048-I/Y8"
-			(at -19.049999999999997 45.48 0)
+		(property "Value" "PIC32CM1216MC00032-I/PT"
+			(at -16.509999999999998 37.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10003,7 +11219,7 @@
 			)
 		)
 		(property "Family" "PIC32CMMC"
-			(at -19.049999999999997 47.98 0)
+			(at -16.509999999999998 40.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10013,7 +11229,7 @@
 			)
 		)
 		(property "MF" "Microchip"
-			(at -19.049999999999997 50.48 0)
+			(at -16.509999999999998 42.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10022,8 +11238,8 @@
 				(justify left)
 			)
 		)
-		(property "Name" "PIC32CM1216MC00048"
-			(at -19.049999999999997 52.98 0)
+		(property "Name" "PIC32CM1216MC00032"
+			(at -16.509999999999998 45.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10032,10 +11248,10 @@
 				(justify left)
 			)
 		)
-		(symbol "PIC32CM1216MC00048-I/Y8_0_1"
+		(symbol "PIC32CM1216MC00032-I/PT_0_1"
 			(rectangle
-				(start -13.969999999999999 30.479999999999997)
-				(end 13.969999999999999 -30.479999999999997)
+				(start -11.43 22.86)
+				(end 11.43 -22.86)
 				(stroke
 					(width 0.254)
 					(type default)
@@ -10045,9 +11261,9 @@
 				)
 			)
 		)
-		(symbol "PIC32CM1216MC00048-I/Y8_1_1"
+		(symbol "PIC32CM1216MC00032-I/PT_1_1"
 			(pin bidirectional line
-				(at -16.509999999999998 22.86 0.0)
+				(at -13.969999999999999 15.240000000000002 0.0)
 				(length 2.54)
 				(name "PA00"
 					(effects
@@ -10066,7 +11282,7 @@
 			)
 
 			(pin bidirectional line
-				(at -16.509999999999998 20.32 0.0)
+				(at -13.969999999999999 12.700000000000003 0.0)
 				(length 2.54)
 				(name "PA01"
 					(effects
@@ -10085,7 +11301,7 @@
 			)
 
 			(pin bidirectional line
-				(at -16.509999999999998 17.78 0.0)
+				(at -13.969999999999999 10.160000000000004 0.0)
 				(length 2.54)
 				(name "PA02"
 					(effects
@@ -10104,7 +11320,7 @@
 			)
 
 			(pin bidirectional line
-				(at -16.509999999999998 15.240000000000002 0.0)
+				(at -13.969999999999999 7.620000000000004 0.0)
 				(length 2.54)
 				(name "PA03"
 					(effects
@@ -10122,10 +11338,10 @@
 				)
 			)
 
-			(pin passive non_logic
-				(at -2.62 -33.019999999999996 90.0)
+			(pin bidirectional line
+				(at -13.969999999999999 5.080000000000004 0.0)
 				(length 2.54)
-				(name "GNDANA"
+				(name "PA04"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -10141,10 +11357,10 @@
 				)
 			)
 
-			(pin power_in non_logic
-				(at -5.08 33.019999999999996 270.0)
+			(pin bidirectional line
+				(at -13.969999999999999 2.5400000000000036 0.0)
 				(length 2.54)
-				(name "VDDANA"
+				(name "PA05"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -10161,9 +11377,9 @@
 			)
 
 			(pin bidirectional line
-				(at 16.509999999999998 -10.159999999999997 180.0)
+				(at -13.969999999999999 3.552713678800501E-15 0.0)
 				(length 2.54)
-				(name "PB08"
+				(name "PA06"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -10180,9 +11396,9 @@
 			)
 
 			(pin bidirectional line
-				(at 16.509999999999998 -12.699999999999996 180.0)
+				(at -13.969999999999999 -2.5399999999999965 0.0)
 				(length 2.54)
-				(name "PB09"
+				(name "PA07"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -10198,10 +11414,10 @@
 				)
 			)
 
-			(pin bidirectional line
-				(at -16.509999999999998 12.700000000000003 0.0)
+			(pin power_in non_logic
+				(at -2.54 25.4 270.0)
 				(length 2.54)
-				(name "PA04"
+				(name "VDDANA"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -10217,10 +11433,10 @@
 				)
 			)
 
-			(pin bidirectional line
-				(at -16.509999999999998 10.160000000000004 0.0)
+			(pin passive non_logic
+				(at -0.040000000000000036 -25.4 90.0)
 				(length 2.54)
-				(name "PA05"
+				(name "GNDIO"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -10237,9 +11453,9 @@
 			)
 
 			(pin bidirectional line
-				(at -16.509999999999998 7.620000000000004 0.0)
+				(at -13.969999999999999 -5.0799999999999965 0.0)
 				(length 2.54)
-				(name "PA06"
+				(name "PA08"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -10256,9 +11472,9 @@
 			)
 
 			(pin bidirectional line
-				(at -16.509999999999998 5.080000000000004 0.0)
+				(at -13.969999999999999 -7.6199999999999966 0.0)
 				(length 2.54)
-				(name "PA07"
+				(name "PA09"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -10275,9 +11491,9 @@
 			)
 
 			(pin bidirectional line
-				(at -16.509999999999998 2.5400000000000036 0.0)
+				(at -13.969999999999999 -10.159999999999997 0.0)
 				(length 2.54)
-				(name "PA08"
+				(name "PA10"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -10294,9 +11510,9 @@
 			)
 
 			(pin bidirectional line
-				(at -16.509999999999998 3.552713678800501E-15 0.0)
+				(at -13.969999999999999 -12.699999999999996 0.0)
 				(length 2.54)
-				(name "PA09"
+				(name "PA11"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -10313,9 +11529,9 @@
 			)
 
 			(pin bidirectional line
-				(at -16.509999999999998 -2.5399999999999965 0.0)
+				(at 13.969999999999999 17.78 180.0)
 				(length 2.54)
-				(name "PA10"
+				(name "PA14"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -10332,9 +11548,9 @@
 			)
 
 			(pin bidirectional line
-				(at -16.509999999999998 -5.0799999999999965 0.0)
+				(at 13.969999999999999 15.240000000000002 180.0)
 				(length 2.54)
-				(name "PA11"
+				(name "PA15"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -10350,10 +11566,10 @@
 				)
 			)
 
-			(pin power_in non_logic
-				(at 2.54 33.019999999999996 270.0)
+			(pin bidirectional line
+				(at 13.969999999999999 12.700000000000003 180.0)
 				(length 2.54)
-				(name "VDDIO"
+				(name "PA16"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -10369,10 +11585,10 @@
 				)
 			)
 
-			(pin passive non_logic
-				(at -0.08000000000000007 -33.019999999999996 90.0)
+			(pin bidirectional line
+				(at 13.969999999999999 10.160000000000004 180.0)
 				(length 2.54)
-				(name "GNDIO"
+				(name "PA17"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -10389,9 +11605,9 @@
 			)
 
 			(pin bidirectional line
-				(at 16.509999999999998 -15.239999999999995 180.0)
+				(at 13.969999999999999 7.620000000000004 180.0)
 				(length 2.54)
-				(name "PB10"
+				(name "PA18"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -10408,9 +11624,9 @@
 			)
 
 			(pin bidirectional line
-				(at 16.509999999999998 -17.779999999999994 180.0)
+				(at 13.969999999999999 5.080000000000004 180.0)
 				(length 2.54)
-				(name "PB11"
+				(name "PA19"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -10427,9 +11643,9 @@
 			)
 
 			(pin bidirectional line
-				(at -16.509999999999998 -7.6199999999999966 0.0)
+				(at 13.969999999999999 2.5400000000000036 180.0)
 				(length 2.54)
-				(name "PA12"
+				(name "PA22"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -10446,9 +11662,9 @@
 			)
 
 			(pin bidirectional line
-				(at -16.509999999999998 -10.159999999999997 0.0)
+				(at 13.969999999999999 3.552713678800501E-15 180.0)
 				(length 2.54)
-				(name "PA13"
+				(name "PA23"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -10465,9 +11681,9 @@
 			)
 
 			(pin bidirectional line
-				(at -16.509999999999998 -12.699999999999996 0.0)
+				(at 13.969999999999999 -2.5399999999999965 180.0)
 				(length 2.54)
-				(name "PA14"
+				(name "PA24"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -10484,9 +11700,9 @@
 			)
 
 			(pin bidirectional line
-				(at -16.509999999999998 -15.239999999999995 0.0)
+				(at 13.969999999999999 -5.0799999999999965 180.0)
 				(length 2.54)
-				(name "PA15"
+				(name "PA25"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -10503,9 +11719,9 @@
 			)
 
 			(pin bidirectional line
-				(at -16.509999999999998 -17.779999999999994 0.0)
+				(at 13.969999999999999 -7.6199999999999966 180.0)
 				(length 2.54)
-				(name "PA16"
+				(name "PA27"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -10521,10 +11737,10 @@
 				)
 			)
 
-			(pin bidirectional line
-				(at -16.509999999999998 -20.319999999999993 0.0)
+			(pin input line
+				(at -13.969999999999999 17.78 0.0)
 				(length 2.54)
-				(name "PA17"
+				(name "RESET_N"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -10541,9 +11757,9 @@
 			)
 
 			(pin bidirectional line
-				(at 16.509999999999998 25.4 180.0)
+				(at 13.969999999999999 -10.159999999999997 180.0)
 				(length 2.54)
-				(name "PA18"
+				(name "PA28"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -10559,10 +11775,10 @@
 				)
 			)
 
-			(pin bidirectional line
-				(at 16.509999999999998 22.86 180.0)
+			(pin passive non_logic
+				(at 2.5 -25.4 90.0)
 				(length 2.54)
-				(name "PA19"
+				(name "GNDIO"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -10578,10 +11794,10 @@
 				)
 			)
 
-			(pin bidirectional line
-				(at 16.509999999999998 20.32 180.0)
+			(pin power_in non_logic
+				(at 0.0 25.4 270.0)
 				(length 2.54)
-				(name "PA20"
+				(name "VDDCORE"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -10597,10 +11813,10 @@
 				)
 			)
 
-			(pin bidirectional line
-				(at 16.509999999999998 17.78 180.0)
+			(pin power_in non_logic
+				(at 2.54 25.4 270.0)
 				(length 2.54)
-				(name "PA21"
+				(name "VDDIN"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -10617,9 +11833,9 @@
 			)
 
 			(pin bidirectional line
-				(at 16.509999999999998 15.240000000000002 180.0)
+				(at 13.969999999999999 -12.699999999999996 180.0)
 				(length 2.54)
-				(name "PA22"
+				(name "PA30"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -10636,273 +11852,7 @@
 			)
 
 			(pin bidirectional line
-				(at 16.509999999999998 12.700000000000003 180.0)
-				(length 2.54)
-				(name "PA23"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "32"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-
-			(pin bidirectional line
-				(at 16.509999999999998 10.160000000000004 180.0)
-				(length 2.54)
-				(name "PA24"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "33"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-
-			(pin bidirectional line
-				(at 16.509999999999998 7.620000000000004 180.0)
-				(length 2.54)
-				(name "PA25"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "34"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-
-			(pin passive non_logic
-				(at 2.46 -33.019999999999996 90.0)
-				(length 2.54)
-				(name "GNDIO"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "35"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-
-			(pin power_in non_logic
-				(at 5.08 33.019999999999996 270.0)
-				(length 2.54)
-				(name "VDDIO"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "36"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-
-			(pin bidirectional line
-				(at 16.509999999999998 -20.319999999999993 180.0)
-				(length 2.54)
-				(name "PB22"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "37"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-
-			(pin bidirectional line
-				(at 16.509999999999998 -22.859999999999992 180.0)
-				(length 2.54)
-				(name "PB23"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "38"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-
-			(pin bidirectional line
-				(at 16.509999999999998 5.080000000000004 180.0)
-				(length 2.54)
-				(name "PA27"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "39"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-
-			(pin input line
-				(at -16.509999999999998 25.4 0.0)
-				(length 2.54)
-				(name "RESET_N"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "40"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-
-			(pin bidirectional line
-				(at 16.509999999999998 2.5400000000000036 180.0)
-				(length 2.54)
-				(name "PA28"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "41"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-
-			(pin passive non_logic
-				(at 5.0 -33.019999999999996 90.0)
-				(length 2.54)
-				(name "GNDIO"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "42"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-
-			(pin power_in non_logic
-				(at -2.54 33.019999999999996 270.0)
-				(length 2.54)
-				(name "VDDCORE"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "43"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-
-			(pin power_in non_logic
-				(at 0.0 33.019999999999996 270.0)
-				(length 2.54)
-				(name "VDDIN"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "44"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-
-			(pin bidirectional line
-				(at 16.509999999999998 3.552713678800501E-15 180.0)
-				(length 2.54)
-				(name "PA30"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "45"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-
-			(pin bidirectional line
-				(at 16.509999999999998 -2.5399999999999965 180.0)
+				(at 13.969999999999999 -15.239999999999995 180.0)
 				(length 2.54)
 				(name "PA31"
 					(effects
@@ -10911,45 +11861,7 @@
 						)
 					)
 				)
-				(number "46"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-
-			(pin bidirectional line
-				(at 16.509999999999998 -5.0799999999999965 180.0)
-				(length 2.54)
-				(name "PB02"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "47"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-
-			(pin bidirectional line
-				(at 16.509999999999998 -7.6199999999999966 180.0)
-				(length 2.54)
-				(name "PB03"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "48"
+				(number "32"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -10960,12 +11872,12 @@
 
 		)
 	)
-(symbol "PIC32CM1216MC00048-E/Y8"
+(symbol "PIC32CM1216MC00032-E/PT"
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(property "Series" "PIC32CMMC00"
-			(at -19.049999999999997 30.479999999999997 0)
+			(at -16.509999999999998 22.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10974,8 +11886,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TQFP48"
-			(at -19.049999999999997 32.98 0)
+		(property "Footprint" "TQFP32"
+			(at -16.509999999999998 25.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10984,8 +11896,8 @@
 				(justify left)
 			)
 		)
-		(property "MP" "PIC32CM1216MC00048-E/Y8"
-			(at -19.049999999999997 35.48 0)
+		(property "MP" "PIC32CM1216MC00032-E/PT"
+			(at -16.509999999999998 27.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10995,7 +11907,7 @@
 			)
 		)
 		(property "Architecture" "CORTEX-M0PLUS"
-			(at -19.049999999999997 37.98 0)
+			(at -16.509999999999998 30.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11004,8 +11916,8 @@
 				(justify left)
 			)
 		)
-		(property "PINOUT" "CMMC48"
-			(at -19.049999999999997 40.48 0)
+		(property "PINOUT" "CMMC32"
+			(at -16.509999999999998 32.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11015,7 +11927,7 @@
 			)
 		)
 		(property "Reference" "U"
-			(at -19.049999999999997 42.98 0)
+			(at -16.509999999999998 35.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11023,8 +11935,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "PIC32CM1216MC00048-E/Y8"
-			(at -19.049999999999997 45.48 0)
+		(property "Value" "PIC32CM1216MC00032-E/PT"
+			(at -16.509999999999998 37.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11033,7 +11945,7 @@
 			)
 		)
 		(property "Family" "PIC32CMMC"
-			(at -19.049999999999997 47.98 0)
+			(at -16.509999999999998 40.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11043,7 +11955,7 @@
 			)
 		)
 		(property "MF" "Microchip"
-			(at -19.049999999999997 50.48 0)
+			(at -16.509999999999998 42.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11052,8 +11964,8 @@
 				(justify left)
 			)
 		)
-		(property "Name" "PIC32CM1216MC00048"
-			(at -19.049999999999997 52.98 0)
+		(property "Name" "PIC32CM1216MC00032"
+			(at -16.509999999999998 45.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11062,10 +11974,10 @@
 				(justify left)
 			)
 		)
-		(symbol "PIC32CM1216MC00048-E/Y8_0_1"
+		(symbol "PIC32CM1216MC00032-E/PT_0_1"
 			(rectangle
-				(start -13.969999999999999 30.479999999999997)
-				(end 13.969999999999999 -30.479999999999997)
+				(start -11.43 22.86)
+				(end 11.43 -22.86)
 				(stroke
 					(width 0.254)
 					(type default)
@@ -11075,9 +11987,9 @@
 				)
 			)
 		)
-		(symbol "PIC32CM1216MC00048-E/Y8_1_1"
+		(symbol "PIC32CM1216MC00032-E/PT_1_1"
 			(pin bidirectional line
-				(at -16.509999999999998 22.86 0.0)
+				(at -13.969999999999999 15.240000000000002 0.0)
 				(length 2.54)
 				(name "PA00"
 					(effects
@@ -11096,7 +12008,7 @@
 			)
 
 			(pin bidirectional line
-				(at -16.509999999999998 20.32 0.0)
+				(at -13.969999999999999 12.700000000000003 0.0)
 				(length 2.54)
 				(name "PA01"
 					(effects
@@ -11115,7 +12027,7 @@
 			)
 
 			(pin bidirectional line
-				(at -16.509999999999998 17.78 0.0)
+				(at -13.969999999999999 10.160000000000004 0.0)
 				(length 2.54)
 				(name "PA02"
 					(effects
@@ -11134,7 +12046,7 @@
 			)
 
 			(pin bidirectional line
-				(at -16.509999999999998 15.240000000000002 0.0)
+				(at -13.969999999999999 7.620000000000004 0.0)
 				(length 2.54)
 				(name "PA03"
 					(effects
@@ -11152,10 +12064,10 @@
 				)
 			)
 
-			(pin passive non_logic
-				(at -2.62 -33.019999999999996 90.0)
+			(pin bidirectional line
+				(at -13.969999999999999 5.080000000000004 0.0)
 				(length 2.54)
-				(name "GNDANA"
+				(name "PA04"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -11171,10 +12083,10 @@
 				)
 			)
 
-			(pin power_in non_logic
-				(at -5.08 33.019999999999996 270.0)
+			(pin bidirectional line
+				(at -13.969999999999999 2.5400000000000036 0.0)
 				(length 2.54)
-				(name "VDDANA"
+				(name "PA05"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -11191,9 +12103,9 @@
 			)
 
 			(pin bidirectional line
-				(at 16.509999999999998 -10.159999999999997 180.0)
+				(at -13.969999999999999 3.552713678800501E-15 0.0)
 				(length 2.54)
-				(name "PB08"
+				(name "PA06"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -11210,9 +12122,9 @@
 			)
 
 			(pin bidirectional line
-				(at 16.509999999999998 -12.699999999999996 180.0)
+				(at -13.969999999999999 -2.5399999999999965 0.0)
 				(length 2.54)
-				(name "PB09"
+				(name "PA07"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -11228,10 +12140,10 @@
 				)
 			)
 
-			(pin bidirectional line
-				(at -16.509999999999998 12.700000000000003 0.0)
+			(pin power_in non_logic
+				(at -2.54 25.4 270.0)
 				(length 2.54)
-				(name "PA04"
+				(name "VDDANA"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -11247,10 +12159,10 @@
 				)
 			)
 
-			(pin bidirectional line
-				(at -16.509999999999998 10.160000000000004 0.0)
+			(pin passive non_logic
+				(at -0.040000000000000036 -25.4 90.0)
 				(length 2.54)
-				(name "PA05"
+				(name "GNDIO"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -11267,9 +12179,9 @@
 			)
 
 			(pin bidirectional line
-				(at -16.509999999999998 7.620000000000004 0.0)
+				(at -13.969999999999999 -5.0799999999999965 0.0)
 				(length 2.54)
-				(name "PA06"
+				(name "PA08"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -11286,9 +12198,9 @@
 			)
 
 			(pin bidirectional line
-				(at -16.509999999999998 5.080000000000004 0.0)
+				(at -13.969999999999999 -7.6199999999999966 0.0)
 				(length 2.54)
-				(name "PA07"
+				(name "PA09"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -11305,9 +12217,9 @@
 			)
 
 			(pin bidirectional line
-				(at -16.509999999999998 2.5400000000000036 0.0)
+				(at -13.969999999999999 -10.159999999999997 0.0)
 				(length 2.54)
-				(name "PA08"
+				(name "PA10"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -11324,9 +12236,9 @@
 			)
 
 			(pin bidirectional line
-				(at -16.509999999999998 3.552713678800501E-15 0.0)
+				(at -13.969999999999999 -12.699999999999996 0.0)
 				(length 2.54)
-				(name "PA09"
+				(name "PA11"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -11343,9 +12255,9 @@
 			)
 
 			(pin bidirectional line
-				(at -16.509999999999998 -2.5399999999999965 0.0)
+				(at 13.969999999999999 17.78 180.0)
 				(length 2.54)
-				(name "PA10"
+				(name "PA14"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -11362,9 +12274,9 @@
 			)
 
 			(pin bidirectional line
-				(at -16.509999999999998 -5.0799999999999965 0.0)
+				(at 13.969999999999999 15.240000000000002 180.0)
 				(length 2.54)
-				(name "PA11"
+				(name "PA15"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -11380,10 +12292,10 @@
 				)
 			)
 
-			(pin power_in non_logic
-				(at 2.54 33.019999999999996 270.0)
+			(pin bidirectional line
+				(at 13.969999999999999 12.700000000000003 180.0)
 				(length 2.54)
-				(name "VDDIO"
+				(name "PA16"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -11399,10 +12311,10 @@
 				)
 			)
 
-			(pin passive non_logic
-				(at -0.08000000000000007 -33.019999999999996 90.0)
+			(pin bidirectional line
+				(at 13.969999999999999 10.160000000000004 180.0)
 				(length 2.54)
-				(name "GNDIO"
+				(name "PA17"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -11419,9 +12331,9 @@
 			)
 
 			(pin bidirectional line
-				(at 16.509999999999998 -15.239999999999995 180.0)
+				(at 13.969999999999999 7.620000000000004 180.0)
 				(length 2.54)
-				(name "PB10"
+				(name "PA18"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -11438,9 +12350,9 @@
 			)
 
 			(pin bidirectional line
-				(at 16.509999999999998 -17.779999999999994 180.0)
+				(at 13.969999999999999 5.080000000000004 180.0)
 				(length 2.54)
-				(name "PB11"
+				(name "PA19"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -11457,9 +12369,9 @@
 			)
 
 			(pin bidirectional line
-				(at -16.509999999999998 -7.6199999999999966 0.0)
+				(at 13.969999999999999 2.5400000000000036 180.0)
 				(length 2.54)
-				(name "PA12"
+				(name "PA22"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -11476,9 +12388,9 @@
 			)
 
 			(pin bidirectional line
-				(at -16.509999999999998 -10.159999999999997 0.0)
+				(at 13.969999999999999 3.552713678800501E-15 180.0)
 				(length 2.54)
-				(name "PA13"
+				(name "PA23"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -11495,9 +12407,9 @@
 			)
 
 			(pin bidirectional line
-				(at -16.509999999999998 -12.699999999999996 0.0)
+				(at 13.969999999999999 -2.5399999999999965 180.0)
 				(length 2.54)
-				(name "PA14"
+				(name "PA24"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -11514,9 +12426,9 @@
 			)
 
 			(pin bidirectional line
-				(at -16.509999999999998 -15.239999999999995 0.0)
+				(at 13.969999999999999 -5.0799999999999965 180.0)
 				(length 2.54)
-				(name "PA15"
+				(name "PA25"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -11533,9 +12445,9 @@
 			)
 
 			(pin bidirectional line
-				(at -16.509999999999998 -17.779999999999994 0.0)
+				(at 13.969999999999999 -7.6199999999999966 180.0)
 				(length 2.54)
-				(name "PA16"
+				(name "PA27"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -11551,10 +12463,10 @@
 				)
 			)
 
-			(pin bidirectional line
-				(at -16.509999999999998 -20.319999999999993 0.0)
+			(pin input line
+				(at -13.969999999999999 17.78 0.0)
 				(length 2.54)
-				(name "PA17"
+				(name "RESET_N"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -11571,9 +12483,9 @@
 			)
 
 			(pin bidirectional line
-				(at 16.509999999999998 25.4 180.0)
+				(at 13.969999999999999 -10.159999999999997 180.0)
 				(length 2.54)
-				(name "PA18"
+				(name "PA28"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -11589,10 +12501,10 @@
 				)
 			)
 
-			(pin bidirectional line
-				(at 16.509999999999998 22.86 180.0)
+			(pin passive non_logic
+				(at 2.5 -25.4 90.0)
 				(length 2.54)
-				(name "PA19"
+				(name "GNDIO"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -11608,10 +12520,10 @@
 				)
 			)
 
-			(pin bidirectional line
-				(at 16.509999999999998 20.32 180.0)
+			(pin power_in non_logic
+				(at 0.0 25.4 270.0)
 				(length 2.54)
-				(name "PA20"
+				(name "VDDCORE"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -11627,10 +12539,10 @@
 				)
 			)
 
-			(pin bidirectional line
-				(at 16.509999999999998 17.78 180.0)
+			(pin power_in non_logic
+				(at 2.54 25.4 270.0)
 				(length 2.54)
-				(name "PA21"
+				(name "VDDIN"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -11647,9 +12559,9 @@
 			)
 
 			(pin bidirectional line
-				(at 16.509999999999998 15.240000000000002 180.0)
+				(at 13.969999999999999 -12.699999999999996 180.0)
 				(length 2.54)
-				(name "PA22"
+				(name "PA30"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -11666,273 +12578,7 @@
 			)
 
 			(pin bidirectional line
-				(at 16.509999999999998 12.700000000000003 180.0)
-				(length 2.54)
-				(name "PA23"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "32"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-
-			(pin bidirectional line
-				(at 16.509999999999998 10.160000000000004 180.0)
-				(length 2.54)
-				(name "PA24"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "33"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-
-			(pin bidirectional line
-				(at 16.509999999999998 7.620000000000004 180.0)
-				(length 2.54)
-				(name "PA25"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "34"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-
-			(pin passive non_logic
-				(at 2.46 -33.019999999999996 90.0)
-				(length 2.54)
-				(name "GNDIO"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "35"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-
-			(pin power_in non_logic
-				(at 5.08 33.019999999999996 270.0)
-				(length 2.54)
-				(name "VDDIO"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "36"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-
-			(pin bidirectional line
-				(at 16.509999999999998 -20.319999999999993 180.0)
-				(length 2.54)
-				(name "PB22"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "37"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-
-			(pin bidirectional line
-				(at 16.509999999999998 -22.859999999999992 180.0)
-				(length 2.54)
-				(name "PB23"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "38"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-
-			(pin bidirectional line
-				(at 16.509999999999998 5.080000000000004 180.0)
-				(length 2.54)
-				(name "PA27"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "39"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-
-			(pin input line
-				(at -16.509999999999998 25.4 0.0)
-				(length 2.54)
-				(name "RESET_N"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "40"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-
-			(pin bidirectional line
-				(at 16.509999999999998 2.5400000000000036 180.0)
-				(length 2.54)
-				(name "PA28"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "41"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-
-			(pin passive non_logic
-				(at 5.0 -33.019999999999996 90.0)
-				(length 2.54)
-				(name "GNDIO"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "42"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-
-			(pin power_in non_logic
-				(at -2.54 33.019999999999996 270.0)
-				(length 2.54)
-				(name "VDDCORE"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "43"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-
-			(pin power_in non_logic
-				(at 0.0 33.019999999999996 270.0)
-				(length 2.54)
-				(name "VDDIN"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "44"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-
-			(pin bidirectional line
-				(at 16.509999999999998 3.552713678800501E-15 180.0)
-				(length 2.54)
-				(name "PA30"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "45"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-
-			(pin bidirectional line
-				(at 16.509999999999998 -2.5399999999999965 180.0)
+				(at 13.969999999999999 -15.239999999999995 180.0)
 				(length 2.54)
 				(name "PA31"
 					(effects
@@ -11941,45 +12587,7 @@
 						)
 					)
 				)
-				(number "46"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-
-			(pin bidirectional line
-				(at 16.509999999999998 -5.0799999999999965 180.0)
-				(length 2.54)
-				(name "PB02"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "47"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-
-			(pin bidirectional line
-				(at 16.509999999999998 -7.6199999999999966 180.0)
-				(length 2.54)
-				(name "PB03"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "48"
+				(number "32"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -11990,12 +12598,12 @@
 
 		)
 	)
-(symbol "PIC32CM1216MC00048-I/U5B"
+(symbol "PIC32CM1216MC00032-I/RTB"
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(property "Series" "PIC32CMMC00"
-			(at -19.049999999999997 30.479999999999997 0)
+			(at -16.509999999999998 22.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12004,8 +12612,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "QFN48"
-			(at -19.049999999999997 32.98 0)
+		(property "Footprint" "QFN32"
+			(at -16.509999999999998 25.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12014,8 +12622,8 @@
 				(justify left)
 			)
 		)
-		(property "MP" "PIC32CM1216MC00048-I/U5B"
-			(at -19.049999999999997 35.48 0)
+		(property "MP" "PIC32CM1216MC00032-I/RTB"
+			(at -16.509999999999998 27.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12025,7 +12633,7 @@
 			)
 		)
 		(property "Architecture" "CORTEX-M0PLUS"
-			(at -19.049999999999997 37.98 0)
+			(at -16.509999999999998 30.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12034,8 +12642,8 @@
 				(justify left)
 			)
 		)
-		(property "PINOUT" "CMMC48"
-			(at -19.049999999999997 40.48 0)
+		(property "PINOUT" "CMMC32"
+			(at -16.509999999999998 32.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12045,7 +12653,7 @@
 			)
 		)
 		(property "Reference" "U"
-			(at -19.049999999999997 42.98 0)
+			(at -16.509999999999998 35.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12053,8 +12661,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "PIC32CM1216MC00048-I/U5B"
-			(at -19.049999999999997 45.48 0)
+		(property "Value" "PIC32CM1216MC00032-I/RTB"
+			(at -16.509999999999998 37.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12063,7 +12671,7 @@
 			)
 		)
 		(property "Family" "PIC32CMMC"
-			(at -19.049999999999997 47.98 0)
+			(at -16.509999999999998 40.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12073,7 +12681,7 @@
 			)
 		)
 		(property "MF" "Microchip"
-			(at -19.049999999999997 50.48 0)
+			(at -16.509999999999998 42.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12082,8 +12690,8 @@
 				(justify left)
 			)
 		)
-		(property "Name" "PIC32CM1216MC00048"
-			(at -19.049999999999997 52.98 0)
+		(property "Name" "PIC32CM1216MC00032"
+			(at -16.509999999999998 45.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12092,10 +12700,10 @@
 				(justify left)
 			)
 		)
-		(symbol "PIC32CM1216MC00048-I/U5B_0_1"
+		(symbol "PIC32CM1216MC00032-I/RTB_0_1"
 			(rectangle
-				(start -13.969999999999999 30.479999999999997)
-				(end 13.969999999999999 -30.479999999999997)
+				(start -11.43 22.86)
+				(end 11.43 -22.86)
 				(stroke
 					(width 0.254)
 					(type default)
@@ -12105,9 +12713,9 @@
 				)
 			)
 		)
-		(symbol "PIC32CM1216MC00048-I/U5B_1_1"
+		(symbol "PIC32CM1216MC00032-I/RTB_1_1"
 			(pin bidirectional line
-				(at -16.509999999999998 22.86 0.0)
+				(at -13.969999999999999 15.240000000000002 0.0)
 				(length 2.54)
 				(name "PA00"
 					(effects
@@ -12126,7 +12734,7 @@
 			)
 
 			(pin bidirectional line
-				(at -16.509999999999998 20.32 0.0)
+				(at -13.969999999999999 12.700000000000003 0.0)
 				(length 2.54)
 				(name "PA01"
 					(effects
@@ -12145,7 +12753,7 @@
 			)
 
 			(pin bidirectional line
-				(at -16.509999999999998 17.78 0.0)
+				(at -13.969999999999999 10.160000000000004 0.0)
 				(length 2.54)
 				(name "PA02"
 					(effects
@@ -12164,7 +12772,7 @@
 			)
 
 			(pin bidirectional line
-				(at -16.509999999999998 15.240000000000002 0.0)
+				(at -13.969999999999999 7.620000000000004 0.0)
 				(length 2.54)
 				(name "PA03"
 					(effects
@@ -12182,10 +12790,10 @@
 				)
 			)
 
-			(pin passive non_logic
-				(at -2.62 -33.019999999999996 90.0)
+			(pin bidirectional line
+				(at -13.969999999999999 5.080000000000004 0.0)
 				(length 2.54)
-				(name "GNDANA"
+				(name "PA04"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -12201,10 +12809,10 @@
 				)
 			)
 
-			(pin power_in non_logic
-				(at -5.08 33.019999999999996 270.0)
+			(pin bidirectional line
+				(at -13.969999999999999 2.5400000000000036 0.0)
 				(length 2.54)
-				(name "VDDANA"
+				(name "PA05"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -12221,9 +12829,9 @@
 			)
 
 			(pin bidirectional line
-				(at 16.509999999999998 -10.159999999999997 180.0)
+				(at -13.969999999999999 3.552713678800501E-15 0.0)
 				(length 2.54)
-				(name "PB08"
+				(name "PA06"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -12240,9 +12848,9 @@
 			)
 
 			(pin bidirectional line
-				(at 16.509999999999998 -12.699999999999996 180.0)
+				(at -13.969999999999999 -2.5399999999999965 0.0)
 				(length 2.54)
-				(name "PB09"
+				(name "PA07"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -12258,10 +12866,10 @@
 				)
 			)
 
-			(pin bidirectional line
-				(at -16.509999999999998 12.700000000000003 0.0)
+			(pin power_in non_logic
+				(at -2.54 25.4 270.0)
 				(length 2.54)
-				(name "PA04"
+				(name "VDDANA"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -12277,10 +12885,10 @@
 				)
 			)
 
-			(pin bidirectional line
-				(at -16.509999999999998 10.160000000000004 0.0)
+			(pin passive non_logic
+				(at -0.040000000000000036 -25.4 90.0)
 				(length 2.54)
-				(name "PA05"
+				(name "GNDIO"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -12297,9 +12905,9 @@
 			)
 
 			(pin bidirectional line
-				(at -16.509999999999998 7.620000000000004 0.0)
+				(at -13.969999999999999 -5.0799999999999965 0.0)
 				(length 2.54)
-				(name "PA06"
+				(name "PA08"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -12316,9 +12924,9 @@
 			)
 
 			(pin bidirectional line
-				(at -16.509999999999998 5.080000000000004 0.0)
+				(at -13.969999999999999 -7.6199999999999966 0.0)
 				(length 2.54)
-				(name "PA07"
+				(name "PA09"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -12335,9 +12943,9 @@
 			)
 
 			(pin bidirectional line
-				(at -16.509999999999998 2.5400000000000036 0.0)
+				(at -13.969999999999999 -10.159999999999997 0.0)
 				(length 2.54)
-				(name "PA08"
+				(name "PA10"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -12354,9 +12962,9 @@
 			)
 
 			(pin bidirectional line
-				(at -16.509999999999998 3.552713678800501E-15 0.0)
+				(at -13.969999999999999 -12.699999999999996 0.0)
 				(length 2.54)
-				(name "PA09"
+				(name "PA11"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -12373,9 +12981,9 @@
 			)
 
 			(pin bidirectional line
-				(at -16.509999999999998 -2.5399999999999965 0.0)
+				(at 13.969999999999999 17.78 180.0)
 				(length 2.54)
-				(name "PA10"
+				(name "PA14"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -12392,9 +13000,9 @@
 			)
 
 			(pin bidirectional line
-				(at -16.509999999999998 -5.0799999999999965 0.0)
+				(at 13.969999999999999 15.240000000000002 180.0)
 				(length 2.54)
-				(name "PA11"
+				(name "PA15"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -12410,10 +13018,10 @@
 				)
 			)
 
-			(pin power_in non_logic
-				(at 2.54 33.019999999999996 270.0)
+			(pin bidirectional line
+				(at 13.969999999999999 12.700000000000003 180.0)
 				(length 2.54)
-				(name "VDDIO"
+				(name "PA16"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -12429,10 +13037,10 @@
 				)
 			)
 
-			(pin passive non_logic
-				(at -0.08000000000000007 -33.019999999999996 90.0)
+			(pin bidirectional line
+				(at 13.969999999999999 10.160000000000004 180.0)
 				(length 2.54)
-				(name "GNDIO"
+				(name "PA17"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -12449,9 +13057,9 @@
 			)
 
 			(pin bidirectional line
-				(at 16.509999999999998 -15.239999999999995 180.0)
+				(at 13.969999999999999 7.620000000000004 180.0)
 				(length 2.54)
-				(name "PB10"
+				(name "PA18"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -12468,9 +13076,9 @@
 			)
 
 			(pin bidirectional line
-				(at 16.509999999999998 -17.779999999999994 180.0)
+				(at 13.969999999999999 5.080000000000004 180.0)
 				(length 2.54)
-				(name "PB11"
+				(name "PA19"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -12487,9 +13095,9 @@
 			)
 
 			(pin bidirectional line
-				(at -16.509999999999998 -7.6199999999999966 0.0)
+				(at 13.969999999999999 2.5400000000000036 180.0)
 				(length 2.54)
-				(name "PA12"
+				(name "PA22"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -12506,9 +13114,9 @@
 			)
 
 			(pin bidirectional line
-				(at -16.509999999999998 -10.159999999999997 0.0)
+				(at 13.969999999999999 3.552713678800501E-15 180.0)
 				(length 2.54)
-				(name "PA13"
+				(name "PA23"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -12525,9 +13133,9 @@
 			)
 
 			(pin bidirectional line
-				(at -16.509999999999998 -12.699999999999996 0.0)
+				(at 13.969999999999999 -2.5399999999999965 180.0)
 				(length 2.54)
-				(name "PA14"
+				(name "PA24"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -12544,9 +13152,9 @@
 			)
 
 			(pin bidirectional line
-				(at -16.509999999999998 -15.239999999999995 0.0)
+				(at 13.969999999999999 -5.0799999999999965 180.0)
 				(length 2.54)
-				(name "PA15"
+				(name "PA25"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -12563,9 +13171,9 @@
 			)
 
 			(pin bidirectional line
-				(at -16.509999999999998 -17.779999999999994 0.0)
+				(at 13.969999999999999 -7.6199999999999966 180.0)
 				(length 2.54)
-				(name "PA16"
+				(name "PA27"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -12581,10 +13189,10 @@
 				)
 			)
 
-			(pin bidirectional line
-				(at -16.509999999999998 -20.319999999999993 0.0)
+			(pin input line
+				(at -13.969999999999999 17.78 0.0)
 				(length 2.54)
-				(name "PA17"
+				(name "RESET_N"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -12601,9 +13209,9 @@
 			)
 
 			(pin bidirectional line
-				(at 16.509999999999998 25.4 180.0)
+				(at 13.969999999999999 -10.159999999999997 180.0)
 				(length 2.54)
-				(name "PA18"
+				(name "PA28"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -12619,10 +13227,10 @@
 				)
 			)
 
-			(pin bidirectional line
-				(at 16.509999999999998 22.86 180.0)
+			(pin passive non_logic
+				(at 2.5 -25.4 90.0)
 				(length 2.54)
-				(name "PA19"
+				(name "GNDIO"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -12638,10 +13246,10 @@
 				)
 			)
 
-			(pin bidirectional line
-				(at 16.509999999999998 20.32 180.0)
+			(pin power_in non_logic
+				(at 0.0 25.4 270.0)
 				(length 2.54)
-				(name "PA20"
+				(name "VDDCORE"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -12657,10 +13265,10 @@
 				)
 			)
 
-			(pin bidirectional line
-				(at 16.509999999999998 17.78 180.0)
+			(pin power_in non_logic
+				(at 2.54 25.4 270.0)
 				(length 2.54)
-				(name "PA21"
+				(name "VDDIN"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -12677,9 +13285,9 @@
 			)
 
 			(pin bidirectional line
-				(at 16.509999999999998 15.240000000000002 180.0)
+				(at 13.969999999999999 -12.699999999999996 180.0)
 				(length 2.54)
-				(name "PA22"
+				(name "PA30"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -12696,273 +13304,7 @@
 			)
 
 			(pin bidirectional line
-				(at 16.509999999999998 12.700000000000003 180.0)
-				(length 2.54)
-				(name "PA23"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "32"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-
-			(pin bidirectional line
-				(at 16.509999999999998 10.160000000000004 180.0)
-				(length 2.54)
-				(name "PA24"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "33"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-
-			(pin bidirectional line
-				(at 16.509999999999998 7.620000000000004 180.0)
-				(length 2.54)
-				(name "PA25"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "34"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-
-			(pin passive non_logic
-				(at 2.46 -33.019999999999996 90.0)
-				(length 2.54)
-				(name "GNDIO"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "35"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-
-			(pin power_in non_logic
-				(at 5.08 33.019999999999996 270.0)
-				(length 2.54)
-				(name "VDDIO"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "36"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-
-			(pin bidirectional line
-				(at 16.509999999999998 -20.319999999999993 180.0)
-				(length 2.54)
-				(name "PB22"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "37"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-
-			(pin bidirectional line
-				(at 16.509999999999998 -22.859999999999992 180.0)
-				(length 2.54)
-				(name "PB23"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "38"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-
-			(pin bidirectional line
-				(at 16.509999999999998 5.080000000000004 180.0)
-				(length 2.54)
-				(name "PA27"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "39"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-
-			(pin input line
-				(at -16.509999999999998 25.4 0.0)
-				(length 2.54)
-				(name "RESET_N"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "40"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-
-			(pin bidirectional line
-				(at 16.509999999999998 2.5400000000000036 180.0)
-				(length 2.54)
-				(name "PA28"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "41"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-
-			(pin passive non_logic
-				(at 5.0 -33.019999999999996 90.0)
-				(length 2.54)
-				(name "GNDIO"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "42"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-
-			(pin power_in non_logic
-				(at -2.54 33.019999999999996 270.0)
-				(length 2.54)
-				(name "VDDCORE"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "43"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-
-			(pin power_in non_logic
-				(at 0.0 33.019999999999996 270.0)
-				(length 2.54)
-				(name "VDDIN"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "44"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-
-			(pin bidirectional line
-				(at 16.509999999999998 3.552713678800501E-15 180.0)
-				(length 2.54)
-				(name "PA30"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "45"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-
-			(pin bidirectional line
-				(at 16.509999999999998 -2.5399999999999965 180.0)
+				(at 13.969999999999999 -15.239999999999995 180.0)
 				(length 2.54)
 				(name "PA31"
 					(effects
@@ -12971,45 +13313,7 @@
 						)
 					)
 				)
-				(number "46"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-
-			(pin bidirectional line
-				(at 16.509999999999998 -5.0799999999999965 180.0)
-				(length 2.54)
-				(name "PB02"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "47"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-
-			(pin bidirectional line
-				(at 16.509999999999998 -7.6199999999999966 180.0)
-				(length 2.54)
-				(name "PB03"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "48"
+				(number "32"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -13020,12 +13324,12 @@
 
 		)
 	)
-(symbol "PIC32CM1216MC00048-E/U5B"
+(symbol "PIC32CM1216MC00032-E/RTB"
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(property "Series" "PIC32CMMC00"
-			(at -19.049999999999997 30.479999999999997 0)
+			(at -16.509999999999998 22.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13034,8 +13338,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "QFN48"
-			(at -19.049999999999997 32.98 0)
+		(property "Footprint" "QFN32"
+			(at -16.509999999999998 25.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13044,8 +13348,8 @@
 				(justify left)
 			)
 		)
-		(property "MP" "PIC32CM1216MC00048-E/U5B"
-			(at -19.049999999999997 35.48 0)
+		(property "MP" "PIC32CM1216MC00032-E/RTB"
+			(at -16.509999999999998 27.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13055,7 +13359,7 @@
 			)
 		)
 		(property "Architecture" "CORTEX-M0PLUS"
-			(at -19.049999999999997 37.98 0)
+			(at -16.509999999999998 30.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13064,8 +13368,8 @@
 				(justify left)
 			)
 		)
-		(property "PINOUT" "CMMC48"
-			(at -19.049999999999997 40.48 0)
+		(property "PINOUT" "CMMC32"
+			(at -16.509999999999998 32.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13075,7 +13379,7 @@
 			)
 		)
 		(property "Reference" "U"
-			(at -19.049999999999997 42.98 0)
+			(at -16.509999999999998 35.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13083,8 +13387,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "PIC32CM1216MC00048-E/U5B"
-			(at -19.049999999999997 45.48 0)
+		(property "Value" "PIC32CM1216MC00032-E/RTB"
+			(at -16.509999999999998 37.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13093,7 +13397,7 @@
 			)
 		)
 		(property "Family" "PIC32CMMC"
-			(at -19.049999999999997 47.98 0)
+			(at -16.509999999999998 40.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13103,7 +13407,7 @@
 			)
 		)
 		(property "MF" "Microchip"
-			(at -19.049999999999997 50.48 0)
+			(at -16.509999999999998 42.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13112,8 +13416,8 @@
 				(justify left)
 			)
 		)
-		(property "Name" "PIC32CM1216MC00048"
-			(at -19.049999999999997 52.98 0)
+		(property "Name" "PIC32CM1216MC00032"
+			(at -16.509999999999998 45.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13122,10 +13426,10 @@
 				(justify left)
 			)
 		)
-		(symbol "PIC32CM1216MC00048-E/U5B_0_1"
+		(symbol "PIC32CM1216MC00032-E/RTB_0_1"
 			(rectangle
-				(start -13.969999999999999 30.479999999999997)
-				(end 13.969999999999999 -30.479999999999997)
+				(start -11.43 22.86)
+				(end 11.43 -22.86)
 				(stroke
 					(width 0.254)
 					(type default)
@@ -13135,9 +13439,9 @@
 				)
 			)
 		)
-		(symbol "PIC32CM1216MC00048-E/U5B_1_1"
+		(symbol "PIC32CM1216MC00032-E/RTB_1_1"
 			(pin bidirectional line
-				(at -16.509999999999998 22.86 0.0)
+				(at -13.969999999999999 15.240000000000002 0.0)
 				(length 2.54)
 				(name "PA00"
 					(effects
@@ -13156,7 +13460,7 @@
 			)
 
 			(pin bidirectional line
-				(at -16.509999999999998 20.32 0.0)
+				(at -13.969999999999999 12.700000000000003 0.0)
 				(length 2.54)
 				(name "PA01"
 					(effects
@@ -13175,7 +13479,7 @@
 			)
 
 			(pin bidirectional line
-				(at -16.509999999999998 17.78 0.0)
+				(at -13.969999999999999 10.160000000000004 0.0)
 				(length 2.54)
 				(name "PA02"
 					(effects
@@ -13194,7 +13498,7 @@
 			)
 
 			(pin bidirectional line
-				(at -16.509999999999998 15.240000000000002 0.0)
+				(at -13.969999999999999 7.620000000000004 0.0)
 				(length 2.54)
 				(name "PA03"
 					(effects
@@ -13212,10 +13516,10 @@
 				)
 			)
 
-			(pin passive non_logic
-				(at -2.62 -33.019999999999996 90.0)
+			(pin bidirectional line
+				(at -13.969999999999999 5.080000000000004 0.0)
 				(length 2.54)
-				(name "GNDANA"
+				(name "PA04"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -13231,10 +13535,10 @@
 				)
 			)
 
-			(pin power_in non_logic
-				(at -5.08 33.019999999999996 270.0)
+			(pin bidirectional line
+				(at -13.969999999999999 2.5400000000000036 0.0)
 				(length 2.54)
-				(name "VDDANA"
+				(name "PA05"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -13251,9 +13555,9 @@
 			)
 
 			(pin bidirectional line
-				(at 16.509999999999998 -10.159999999999997 180.0)
+				(at -13.969999999999999 3.552713678800501E-15 0.0)
 				(length 2.54)
-				(name "PB08"
+				(name "PA06"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -13270,9 +13574,9 @@
 			)
 
 			(pin bidirectional line
-				(at 16.509999999999998 -12.699999999999996 180.0)
+				(at -13.969999999999999 -2.5399999999999965 0.0)
 				(length 2.54)
-				(name "PB09"
+				(name "PA07"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -13288,10 +13592,10 @@
 				)
 			)
 
-			(pin bidirectional line
-				(at -16.509999999999998 12.700000000000003 0.0)
+			(pin power_in non_logic
+				(at -2.54 25.4 270.0)
 				(length 2.54)
-				(name "PA04"
+				(name "VDDANA"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -13307,10 +13611,10 @@
 				)
 			)
 
-			(pin bidirectional line
-				(at -16.509999999999998 10.160000000000004 0.0)
+			(pin passive non_logic
+				(at -0.040000000000000036 -25.4 90.0)
 				(length 2.54)
-				(name "PA05"
+				(name "GNDIO"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -13327,9 +13631,9 @@
 			)
 
 			(pin bidirectional line
-				(at -16.509999999999998 7.620000000000004 0.0)
+				(at -13.969999999999999 -5.0799999999999965 0.0)
 				(length 2.54)
-				(name "PA06"
+				(name "PA08"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -13346,9 +13650,9 @@
 			)
 
 			(pin bidirectional line
-				(at -16.509999999999998 5.080000000000004 0.0)
+				(at -13.969999999999999 -7.6199999999999966 0.0)
 				(length 2.54)
-				(name "PA07"
+				(name "PA09"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -13365,9 +13669,9 @@
 			)
 
 			(pin bidirectional line
-				(at -16.509999999999998 2.5400000000000036 0.0)
+				(at -13.969999999999999 -10.159999999999997 0.0)
 				(length 2.54)
-				(name "PA08"
+				(name "PA10"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -13384,9 +13688,9 @@
 			)
 
 			(pin bidirectional line
-				(at -16.509999999999998 3.552713678800501E-15 0.0)
+				(at -13.969999999999999 -12.699999999999996 0.0)
 				(length 2.54)
-				(name "PA09"
+				(name "PA11"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -13403,9 +13707,9 @@
 			)
 
 			(pin bidirectional line
-				(at -16.509999999999998 -2.5399999999999965 0.0)
+				(at 13.969999999999999 17.78 180.0)
 				(length 2.54)
-				(name "PA10"
+				(name "PA14"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -13422,9 +13726,9 @@
 			)
 
 			(pin bidirectional line
-				(at -16.509999999999998 -5.0799999999999965 0.0)
+				(at 13.969999999999999 15.240000000000002 180.0)
 				(length 2.54)
-				(name "PA11"
+				(name "PA15"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -13440,10 +13744,10 @@
 				)
 			)
 
-			(pin power_in non_logic
-				(at 2.54 33.019999999999996 270.0)
+			(pin bidirectional line
+				(at 13.969999999999999 12.700000000000003 180.0)
 				(length 2.54)
-				(name "VDDIO"
+				(name "PA16"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -13459,10 +13763,10 @@
 				)
 			)
 
-			(pin passive non_logic
-				(at -0.08000000000000007 -33.019999999999996 90.0)
+			(pin bidirectional line
+				(at 13.969999999999999 10.160000000000004 180.0)
 				(length 2.54)
-				(name "GNDIO"
+				(name "PA17"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -13479,9 +13783,9 @@
 			)
 
 			(pin bidirectional line
-				(at 16.509999999999998 -15.239999999999995 180.0)
+				(at 13.969999999999999 7.620000000000004 180.0)
 				(length 2.54)
-				(name "PB10"
+				(name "PA18"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -13498,9 +13802,9 @@
 			)
 
 			(pin bidirectional line
-				(at 16.509999999999998 -17.779999999999994 180.0)
+				(at 13.969999999999999 5.080000000000004 180.0)
 				(length 2.54)
-				(name "PB11"
+				(name "PA19"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -13517,9 +13821,9 @@
 			)
 
 			(pin bidirectional line
-				(at -16.509999999999998 -7.6199999999999966 0.0)
+				(at 13.969999999999999 2.5400000000000036 180.0)
 				(length 2.54)
-				(name "PA12"
+				(name "PA22"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -13536,9 +13840,9 @@
 			)
 
 			(pin bidirectional line
-				(at -16.509999999999998 -10.159999999999997 0.0)
+				(at 13.969999999999999 3.552713678800501E-15 180.0)
 				(length 2.54)
-				(name "PA13"
+				(name "PA23"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -13555,9 +13859,9 @@
 			)
 
 			(pin bidirectional line
-				(at -16.509999999999998 -12.699999999999996 0.0)
+				(at 13.969999999999999 -2.5399999999999965 180.0)
 				(length 2.54)
-				(name "PA14"
+				(name "PA24"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -13574,9 +13878,9 @@
 			)
 
 			(pin bidirectional line
-				(at -16.509999999999998 -15.239999999999995 0.0)
+				(at 13.969999999999999 -5.0799999999999965 180.0)
 				(length 2.54)
-				(name "PA15"
+				(name "PA25"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -13593,9 +13897,9 @@
 			)
 
 			(pin bidirectional line
-				(at -16.509999999999998 -17.779999999999994 0.0)
+				(at 13.969999999999999 -7.6199999999999966 180.0)
 				(length 2.54)
-				(name "PA16"
+				(name "PA27"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -13611,10 +13915,10 @@
 				)
 			)
 
-			(pin bidirectional line
-				(at -16.509999999999998 -20.319999999999993 0.0)
+			(pin input line
+				(at -13.969999999999999 17.78 0.0)
 				(length 2.54)
-				(name "PA17"
+				(name "RESET_N"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -13631,9 +13935,9 @@
 			)
 
 			(pin bidirectional line
-				(at 16.509999999999998 25.4 180.0)
+				(at 13.969999999999999 -10.159999999999997 180.0)
 				(length 2.54)
-				(name "PA18"
+				(name "PA28"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -13649,10 +13953,10 @@
 				)
 			)
 
-			(pin bidirectional line
-				(at 16.509999999999998 22.86 180.0)
+			(pin passive non_logic
+				(at 2.5 -25.4 90.0)
 				(length 2.54)
-				(name "PA19"
+				(name "GNDIO"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -13668,10 +13972,10 @@
 				)
 			)
 
-			(pin bidirectional line
-				(at 16.509999999999998 20.32 180.0)
+			(pin power_in non_logic
+				(at 0.0 25.4 270.0)
 				(length 2.54)
-				(name "PA20"
+				(name "VDDCORE"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -13687,10 +13991,10 @@
 				)
 			)
 
-			(pin bidirectional line
-				(at 16.509999999999998 17.78 180.0)
+			(pin power_in non_logic
+				(at 2.54 25.4 270.0)
 				(length 2.54)
-				(name "PA21"
+				(name "VDDIN"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -13707,9 +14011,9 @@
 			)
 
 			(pin bidirectional line
-				(at 16.509999999999998 15.240000000000002 180.0)
+				(at 13.969999999999999 -12.699999999999996 180.0)
 				(length 2.54)
-				(name "PA22"
+				(name "PA30"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -13726,273 +14030,7 @@
 			)
 
 			(pin bidirectional line
-				(at 16.509999999999998 12.700000000000003 180.0)
-				(length 2.54)
-				(name "PA23"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "32"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-
-			(pin bidirectional line
-				(at 16.509999999999998 10.160000000000004 180.0)
-				(length 2.54)
-				(name "PA24"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "33"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-
-			(pin bidirectional line
-				(at 16.509999999999998 7.620000000000004 180.0)
-				(length 2.54)
-				(name "PA25"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "34"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-
-			(pin passive non_logic
-				(at 2.46 -33.019999999999996 90.0)
-				(length 2.54)
-				(name "GNDIO"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "35"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-
-			(pin power_in non_logic
-				(at 5.08 33.019999999999996 270.0)
-				(length 2.54)
-				(name "VDDIO"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "36"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-
-			(pin bidirectional line
-				(at 16.509999999999998 -20.319999999999993 180.0)
-				(length 2.54)
-				(name "PB22"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "37"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-
-			(pin bidirectional line
-				(at 16.509999999999998 -22.859999999999992 180.0)
-				(length 2.54)
-				(name "PB23"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "38"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-
-			(pin bidirectional line
-				(at 16.509999999999998 5.080000000000004 180.0)
-				(length 2.54)
-				(name "PA27"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "39"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-
-			(pin input line
-				(at -16.509999999999998 25.4 0.0)
-				(length 2.54)
-				(name "RESET_N"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "40"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-
-			(pin bidirectional line
-				(at 16.509999999999998 2.5400000000000036 180.0)
-				(length 2.54)
-				(name "PA28"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "41"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-
-			(pin passive non_logic
-				(at 5.0 -33.019999999999996 90.0)
-				(length 2.54)
-				(name "GNDIO"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "42"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-
-			(pin power_in non_logic
-				(at -2.54 33.019999999999996 270.0)
-				(length 2.54)
-				(name "VDDCORE"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "43"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-
-			(pin power_in non_logic
-				(at 0.0 33.019999999999996 270.0)
-				(length 2.54)
-				(name "VDDIN"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "44"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-
-			(pin bidirectional line
-				(at 16.509999999999998 3.552713678800501E-15 180.0)
-				(length 2.54)
-				(name "PA30"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "45"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-
-			(pin bidirectional line
-				(at 16.509999999999998 -2.5399999999999965 180.0)
+				(at 13.969999999999999 -15.239999999999995 180.0)
 				(length 2.54)
 				(name "PA31"
 					(effects
@@ -14001,45 +14039,7 @@
 						)
 					)
 				)
-				(number "46"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-
-			(pin bidirectional line
-				(at 16.509999999999998 -5.0799999999999965 180.0)
-				(length 2.54)
-				(name "PB02"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "47"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-
-			(pin bidirectional line
-				(at 16.509999999999998 -7.6199999999999966 180.0)
-				(length 2.54)
-				(name "PB03"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "48"
+				(number "32"
 					(effects
 						(font
 							(size 1.27 1.27)
