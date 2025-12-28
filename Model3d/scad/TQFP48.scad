@@ -1,0 +1,62 @@
+L1 = 1.0 ;
+e = 0.5 ;
+A1 = 0.15 ;
+D1 = 7.0 ;
+D = 9.0 ;
+A = 1.2 ;
+b = 0.27 ;
+c = 0.16 ;
+L = 0.75 ;
+N = 48.0 ;
+E = 9.0 ;
+A3 = 1.05 ;
+E1 = 7.0 ;
+$fn =64;
+
+//body
+color("black")
+translate([D/2-D1/2,E/2-E1/2,A1])
+cube([D1,E1,A-A1], center=false);
+
+// pad
+for (i = [-N/4/2 : 1 : N/4/2-1])
+color("grey")
+translate([D/2-b/2+e/2+e*i,0,0])
+{
+cube([b,L,c], center=false);
+    translate([0,L,0])
+cube([b,L1-L,A/2], center=false);
+}
+for (i = [-N/4/2 : 1 : N/4/2-1])
+color("grey")
+translate([D/2-b/2+e/2+e*i,E-L,0])
+{cube([b,L,c], center=false);
+    translate([0,-(L1-L),0])
+cube([b,L1-L,A/2], center=false);
+}
+
+for (i = [-N/4/2 : 1 : N/4/2-1])
+color("grey")
+translate([0,E/2-b/2+e/2+e*i,0])
+{cube([L,b,c], center=false);
+    translate([L,0,0])
+cube([L1-L,b,A/2], center=false);
+}
+
+for (i = [-N/4/2 : 1 : N/4/2-1])
+color("grey")
+translate([D-L,E/2-b/2+e/2+e*i,0])
+{cube([L,b,c], center=false);
+    translate([-(L1-L),0,0])
+cube([L1-L,b,A/2], center=false);
+}
+/*
+//expose pad
+color("grey")
+translate([D/2-D2/2,E/2-E2/2,0])
+cube([D2,E2,A3], center=false);
+*/
+color("white")
+translate([D/2-D1/2+0.5,E/2-E1/2+0.5,c])
+cylinder(A-c/2,r=0.25,center=false);
+

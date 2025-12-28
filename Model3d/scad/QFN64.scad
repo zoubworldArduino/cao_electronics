@@ -1,0 +1,53 @@
+D3 = 0.085 ;
+e = 0.5 ;
+b = 0.3 ;
+E2 = 5.5 ;
+A = 1.0 ;
+E = 9.0 ;
+L = 0.5 ;
+A3 = 0.203 ;
+D = 9.0 ;
+A4 = 0.19 ;
+K = 1.4 ;
+A1 = 0.05 ;
+N = 64.0 ;
+D2 = 5.5 ;
+$fn =64;
+
+//body
+color("black")
+translate([0,0,A1])
+cube([D,E,A-A1], center=false);
+
+// pad
+for (i = [-N/4/2 : 1 : N/4/2-1])
+color("grey")
+translate([D/2-b/2+e/2+e*i,0,0])
+cube([b,L,A3], center=false);
+
+for (i = [-N/4/2 : 1 : N/4/2-1])
+color("grey")
+translate([D/2-b/2+e/2+e*i,E-L,0])
+cube([b,L,A3], center=false);
+
+
+for (i = [-N/4/2 : 1 : N/4/2-1])
+color("grey")
+translate([0,E/2-b/2+e/2+e*i,0])
+cube([L,b,A3], center=false);
+
+
+
+for (i = [-N/4/2 : 1 : N/4/2-1])
+color("grey")
+translate([D-L,E/2-b/2+e/2+e*i,0])
+cube([L,b,A3], center=false);
+
+//expose pad
+color("grey")
+translate([D/2-D2/2,E/2-E2/2,0])
+cube([D2,E2,A3], center=false);
+
+color("white")
+translate([0.5,0.5,A3])
+cylinder(A-A3/2,r=0.25,center=false);
