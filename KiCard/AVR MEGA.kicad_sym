@@ -1,5 +1,5 @@
 (kicad_symbol_lib
-	(version 20251228)
+	(version 20251229)
 	(generator "kicad_symbol_editor")
 	(generator_version "8.0")
 (symbol "ATmega4808-AFR"
@@ -4206,7 +4206,7 @@
 
 		)
 	)
-(symbol "ATmega4809-AFR"
+(symbol "ATmega3209-AFR"
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -4230,7 +4230,7 @@
 				(justify left)
 			)
 		)
-		(property "MP" "ATmega4809-AFR"
+		(property "MP" "ATmega3209-AFR"
 			(at -16.509999999999998 36.75 0)
 			(effects
 				(font
@@ -4269,7 +4269,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "ATmega4809-AFR"
+		(property "Value" "ATmega3209-AFR"
 			(at -16.509999999999998 46.75 0)
 			(effects
 				(font
@@ -4298,7 +4298,7 @@
 				(justify left)
 			)
 		)
-		(property "Name" "ATmega4809"
+		(property "Name" "ATmega3209"
 			(at -16.509999999999998 54.25 0)
 			(effects
 				(font
@@ -4308,7 +4308,7 @@
 				(justify left)
 			)
 		)
-		(symbol "ATmega4809-AFR_0_1"
+		(symbol "ATmega3209-AFR_0_1"
 			(rectangle
 				(start -11.43 31.75)
 				(end 11.43 -31.75)
@@ -4321,7 +4321,7 @@
 				)
 			)
 		)
-		(symbol "ATmega4809-AFR_1_1"
+		(symbol "ATmega3209-AFR_1_1"
 			(pin bidirectional line
 				(at -13.969999999999999 13.970000000000006 0.0)
 				(length 2.54)
@@ -5236,7 +5236,7 @@
 
 		)
 	)
-(symbol "ATmega4809-MFR"
+(symbol "ATmega3209-MFR"
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -5260,7 +5260,7 @@
 				(justify left)
 			)
 		)
-		(property "MP" "ATmega4809-MFR"
+		(property "MP" "ATmega3209-MFR"
 			(at -16.509999999999998 36.75 0)
 			(effects
 				(font
@@ -5299,7 +5299,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "ATmega4809-MFR"
+		(property "Value" "ATmega3209-MFR"
 			(at -16.509999999999998 46.75 0)
 			(effects
 				(font
@@ -5328,7 +5328,7 @@
 				(justify left)
 			)
 		)
-		(property "Name" "ATmega4809"
+		(property "Name" "ATmega3209"
 			(at -16.509999999999998 54.25 0)
 			(effects
 				(font
@@ -5338,7 +5338,7 @@
 				(justify left)
 			)
 		)
-		(symbol "ATmega4809-MFR_0_1"
+		(symbol "ATmega3209-MFR_0_1"
 			(rectangle
 				(start -11.43 31.75)
 				(end 11.43 -31.75)
@@ -5351,7 +5351,7 @@
 				)
 			)
 		)
-		(symbol "ATmega4809-MFR_1_1"
+		(symbol "ATmega3209-MFR_1_1"
 			(pin bidirectional line
 				(at -13.969999999999999 13.970000000000006 0.0)
 				(length 2.54)
@@ -8326,7 +8326,7 @@
 
 		)
 	)
-(symbol "ATmega3209-AFR"
+(symbol "ATmega4809-AFR"
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -8350,7 +8350,7 @@
 				(justify left)
 			)
 		)
-		(property "MP" "ATmega3209-AFR"
+		(property "MP" "ATmega4809-AFR"
 			(at -16.509999999999998 36.75 0)
 			(effects
 				(font
@@ -8389,7 +8389,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "ATmega3209-AFR"
+		(property "Value" "ATmega4809-AFR"
 			(at -16.509999999999998 46.75 0)
 			(effects
 				(font
@@ -8418,7 +8418,7 @@
 				(justify left)
 			)
 		)
-		(property "Name" "ATmega3209"
+		(property "Name" "ATmega4809"
 			(at -16.509999999999998 54.25 0)
 			(effects
 				(font
@@ -8428,7 +8428,7 @@
 				(justify left)
 			)
 		)
-		(symbol "ATmega3209-AFR_0_1"
+		(symbol "ATmega4809-AFR_0_1"
 			(rectangle
 				(start -11.43 31.75)
 				(end 11.43 -31.75)
@@ -8441,7 +8441,7 @@
 				)
 			)
 		)
-		(symbol "ATmega3209-AFR_1_1"
+		(symbol "ATmega4809-AFR_1_1"
 			(pin bidirectional line
 				(at -13.969999999999999 13.970000000000006 0.0)
 				(length 2.54)
@@ -9356,7 +9356,7 @@
 
 		)
 	)
-(symbol "ATmega3209-MFR"
+(symbol "ATmega4809-MFR"
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -9380,7 +9380,7 @@
 				(justify left)
 			)
 		)
-		(property "MP" "ATmega3209-MFR"
+		(property "MP" "ATmega4809-MFR"
 			(at -16.509999999999998 36.75 0)
 			(effects
 				(font
@@ -9419,7 +9419,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "ATmega3209-MFR"
+		(property "Value" "ATmega4809-MFR"
 			(at -16.509999999999998 46.75 0)
 			(effects
 				(font
@@ -9448,7 +9448,7 @@
 				(justify left)
 			)
 		)
-		(property "Name" "ATmega3209"
+		(property "Name" "ATmega4809"
 			(at -16.509999999999998 54.25 0)
 			(effects
 				(font
@@ -9458,7 +9458,7 @@
 				(justify left)
 			)
 		)
-		(symbol "ATmega3209-MFR_0_1"
+		(symbol "ATmega4809-MFR_0_1"
 			(rectangle
 				(start -11.43 31.75)
 				(end 11.43 -31.75)
@@ -9471,7 +9471,7 @@
 				)
 			)
 		)
-		(symbol "ATmega3209-MFR_1_1"
+		(symbol "ATmega4809-MFR_1_1"
 			(pin bidirectional line
 				(at -13.969999999999999 13.970000000000006 0.0)
 				(length 2.54)

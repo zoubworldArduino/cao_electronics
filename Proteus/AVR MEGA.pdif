@@ -1,5 +1,5 @@
 (kicad_symbol_lib
-	(version 20251228)
+	(version 20251229)
 	(generator "kicad_symbol_editor")
 	(generator_version "8.0")
 ;Proteus Design Interchange Format
@@ -2284,23 +2284,23 @@ null
   (vendor "Labcenter Electronics")
   (version 1 0)
   (library
-    (part "ATmega4809-AFR"
+    (part "ATmega3209-AFR"
       (family "null")
       (package "null")
       (description "null")
       (attribute "Series" "")
       (attribute "Footprint" "TQFP48")
-      (attribute "MP" "ATmega4809-AFR")
+      (attribute "MP" "ATmega3209-AFR")
       (attribute "Architecture" "AVR8X")
       (attribute "PINOUT" "QFP48")
       (attribute "Reference" "U")
-      (attribute "Value" "ATmega4809-AFR")
+      (attribute "Value" "ATmega3209-AFR")
       (attribute "Family" "AVR MEGA")
       (attribute "MF" "Microchip")
-      (attribute "Name" "ATmega4809")
+      (attribute "Name" "ATmega3209")
       (gate
         (swap 1)
-        (symbol "ATmega4809-AFR")
+        (symbol "ATmega3209-AFR")
         (pin "PA5" 1 (type IO))
         (pin "PA6" 2 (type IO))
         (pin "PA7" 3 (type IO))
@@ -2351,7 +2351,7 @@ null
         (pin "PA4" 48 (type IO))
       )
     )
-    (symbol "ATmega4809-AFR"
+    (symbol "ATmega3209-AFR"
       (units THOU)
       (graphic
         (stroke 1)
@@ -2810,23 +2810,23 @@ null
   (vendor "Labcenter Electronics")
   (version 1 0)
   (library
-    (part "ATmega4809-MFR"
+    (part "ATmega3209-MFR"
       (family "null")
       (package "null")
       (description "null")
       (attribute "Series" "")
       (attribute "Footprint" "UQFN48")
-      (attribute "MP" "ATmega4809-MFR")
+      (attribute "MP" "ATmega3209-MFR")
       (attribute "Architecture" "AVR8X")
       (attribute "PINOUT" "QFN48")
       (attribute "Reference" "U")
-      (attribute "Value" "ATmega4809-MFR")
+      (attribute "Value" "ATmega3209-MFR")
       (attribute "Family" "AVR MEGA")
       (attribute "MF" "Microchip")
-      (attribute "Name" "ATmega4809")
+      (attribute "Name" "ATmega3209")
       (gate
         (swap 1)
-        (symbol "ATmega4809-MFR")
+        (symbol "ATmega3209-MFR")
         (pin "PA5" 1 (type IO))
         (pin "PA6" 2 (type IO))
         (pin "PA7" 3 (type IO))
@@ -2877,7 +2877,7 @@ null
         (pin "PA4" 48 (type IO))
       )
     )
-    (symbol "ATmega4809-MFR"
+    (symbol "ATmega3209-MFR"
       (units THOU)
       (graphic
         (stroke 1)
@@ -4388,23 +4388,23 @@ null
   (vendor "Labcenter Electronics")
   (version 1 0)
   (library
-    (part "ATmega3209-AFR"
+    (part "ATmega4809-AFR"
       (family "null")
       (package "null")
       (description "null")
       (attribute "Series" "")
       (attribute "Footprint" "TQFP48")
-      (attribute "MP" "ATmega3209-AFR")
+      (attribute "MP" "ATmega4809-AFR")
       (attribute "Architecture" "AVR8X")
       (attribute "PINOUT" "QFP48")
       (attribute "Reference" "U")
-      (attribute "Value" "ATmega3209-AFR")
+      (attribute "Value" "ATmega4809-AFR")
       (attribute "Family" "AVR MEGA")
       (attribute "MF" "Microchip")
-      (attribute "Name" "ATmega3209")
+      (attribute "Name" "ATmega4809")
       (gate
         (swap 1)
-        (symbol "ATmega3209-AFR")
+        (symbol "ATmega4809-AFR")
         (pin "PA5" 1 (type IO))
         (pin "PA6" 2 (type IO))
         (pin "PA7" 3 (type IO))
@@ -4455,7 +4455,7 @@ null
         (pin "PA4" 48 (type IO))
       )
     )
-    (symbol "ATmega3209-AFR"
+    (symbol "ATmega4809-AFR"
       (units THOU)
       (graphic
         (stroke 1)
@@ -4914,23 +4914,23 @@ null
   (vendor "Labcenter Electronics")
   (version 1 0)
   (library
-    (part "ATmega3209-MFR"
+    (part "ATmega4809-MFR"
       (family "null")
       (package "null")
       (description "null")
       (attribute "Series" "")
       (attribute "Footprint" "UQFN48")
-      (attribute "MP" "ATmega3209-MFR")
+      (attribute "MP" "ATmega4809-MFR")
       (attribute "Architecture" "AVR8X")
       (attribute "PINOUT" "QFN48")
       (attribute "Reference" "U")
-      (attribute "Value" "ATmega3209-MFR")
+      (attribute "Value" "ATmega4809-MFR")
       (attribute "Family" "AVR MEGA")
       (attribute "MF" "Microchip")
-      (attribute "Name" "ATmega3209")
+      (attribute "Name" "ATmega4809")
       (gate
         (swap 1)
-        (symbol "ATmega3209-MFR")
+        (symbol "ATmega4809-MFR")
         (pin "PA5" 1 (type IO))
         (pin "PA6" 2 (type IO))
         (pin "PA7" 3 (type IO))
@@ -4981,7 +4981,7 @@ null
         (pin "PA4" 48 (type IO))
       )
     )
-    (symbol "ATmega3209-MFR"
+    (symbol "ATmega4809-MFR"
       (units THOU)
       (graphic
         (stroke 1)
