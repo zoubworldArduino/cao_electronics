@@ -120,124 +120,6 @@
 		(symbol "PIC32MZ2064DAH176_1_1"
 		)
 	)
-(symbol "PIC32MZ2064DAS176"
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(property "Series" "PIC32MZ"
-			(at -12.7 5.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Footprint" "LQFP176"
-			(at -12.7 7.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "MP" "PIC32MZ2064DAS176"
-			(at -12.7 10.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Architecture" "MIPS"
-			(at -12.7 12.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "PINOUT" "LQFP176"
-			(at -12.7 15.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Reference" "U"
-			(at -12.7 17.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "PIC32MZ2064DAS176"
-			(at -12.7 20.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Family" "PIC32MZDA"
-			(at -12.7 22.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "MF" "Microchip"
-			(at -12.7 25.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Name" "PIC32MZ2064DAS176"
-			(at -12.7 27.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(symbol "PIC32MZ2064DAS176_0_1"
-			(rectangle
-				(start -7.62 5.08)
-				(end 7.62 -5.08)
-				(stroke
-					(width 0.254)
-					(type default)
-				)
-				(fill
-					(type background)
-				)
-			)
-		)
-		(symbol "PIC32MZ2064DAS176_1_1"
-		)
-	)
 (symbol "PIC32MZ2064DAA288"
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -354,6 +236,124 @@
 			)
 		)
 		(symbol "PIC32MZ2064DAA288_1_1"
+		)
+	)
+(symbol "PIC32MZ2064DAS176"
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Series" "PIC32MZ"
+			(at -12.7 5.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Footprint" "LQFP176"
+			(at -12.7 7.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "MP" "PIC32MZ2064DAS176"
+			(at -12.7 10.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Architecture" "MIPS"
+			(at -12.7 12.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "PINOUT" "LQFP176"
+			(at -12.7 15.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Reference" "U"
+			(at -12.7 17.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "PIC32MZ2064DAS176"
+			(at -12.7 20.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Family" "PIC32MZDA"
+			(at -12.7 22.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "MF" "Microchip"
+			(at -12.7 25.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Name" "PIC32MZ2064DAS176"
+			(at -12.7 27.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(symbol "PIC32MZ2064DAS176_0_1"
+			(rectangle
+				(start -7.62 5.08)
+				(end 7.62 -5.08)
+				(stroke
+					(width 0.254)
+					(type default)
+				)
+				(fill
+					(type background)
+				)
+			)
+		)
+		(symbol "PIC32MZ2064DAS176_1_1"
 		)
 	)
 (symbol "PIC32MZ2064DAR176"
@@ -474,7 +474,7 @@
 		(symbol "PIC32MZ2064DAR176_1_1"
 		)
 	)
-(symbol "PIC32MZ1025DAK176"
+(symbol "PIC32MZ2064DAG169"
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -488,7 +488,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "LQFP176"
+		(property "Footprint" "LFBGA169"
 			(at -12.7 7.58 0)
 			(effects
 				(font
@@ -498,7 +498,7 @@
 				(justify left)
 			)
 		)
-		(property "MP" "PIC32MZ1025DAK176"
+		(property "MP" "PIC32MZ2064DAG169"
 			(at -12.7 10.08 0)
 			(effects
 				(font
@@ -518,7 +518,7 @@
 				(justify left)
 			)
 		)
-		(property "PINOUT" "LQFP176"
+		(property "PINOUT" "LFBGA169"
 			(at -12.7 15.08 0)
 			(effects
 				(font
@@ -537,7 +537,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "PIC32MZ1025DAK176"
+		(property "Value" "PIC32MZ2064DAG169"
 			(at -12.7 20.08 0)
 			(effects
 				(font
@@ -566,7 +566,7 @@
 				(justify left)
 			)
 		)
-		(property "Name" "PIC32MZ1025DAK176"
+		(property "Name" "PIC32MZ2064DAG169"
 			(at -12.7 27.58 0)
 			(effects
 				(font
@@ -576,7 +576,7 @@
 				(justify left)
 			)
 		)
-		(symbol "PIC32MZ1025DAK176_0_1"
+		(symbol "PIC32MZ2064DAG169_0_1"
 			(rectangle
 				(start -7.62 5.08)
 				(end 7.62 -5.08)
@@ -589,7 +589,7 @@
 				)
 			)
 		)
-		(symbol "PIC32MZ1025DAK176_1_1"
+		(symbol "PIC32MZ2064DAG169_1_1"
 		)
 	)
 (symbol "PIC32MZ1064DAA176"
@@ -710,125 +710,7 @@
 		(symbol "PIC32MZ1064DAA176_1_1"
 		)
 	)
-(symbol "PIC32MZ2064DAG169"
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(property "Series" "PIC32MZ"
-			(at -12.7 5.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Footprint" "LFBGA169"
-			(at -12.7 7.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "MP" "PIC32MZ2064DAG169"
-			(at -12.7 10.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Architecture" "MIPS"
-			(at -12.7 12.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "PINOUT" "LFBGA169"
-			(at -12.7 15.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Reference" "U"
-			(at -12.7 17.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "PIC32MZ2064DAG169"
-			(at -12.7 20.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Family" "PIC32MZDA"
-			(at -12.7 22.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "MF" "Microchip"
-			(at -12.7 25.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Name" "PIC32MZ2064DAG169"
-			(at -12.7 27.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(symbol "PIC32MZ2064DAG169_0_1"
-			(rectangle
-				(start -7.62 5.08)
-				(end 7.62 -5.08)
-				(stroke
-					(width 0.254)
-					(type default)
-				)
-				(fill
-					(type background)
-				)
-			)
-		)
-		(symbol "PIC32MZ2064DAG169_1_1"
-		)
-	)
-(symbol "PIC32MZ1064DAH176"
+(symbol "PIC32MZ1025DAK176"
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -852,7 +734,7 @@
 				(justify left)
 			)
 		)
-		(property "MP" "PIC32MZ1064DAH176"
+		(property "MP" "PIC32MZ1025DAK176"
 			(at -12.7 10.08 0)
 			(effects
 				(font
@@ -891,7 +773,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "PIC32MZ1064DAH176"
+		(property "Value" "PIC32MZ1025DAK176"
 			(at -12.7 20.08 0)
 			(effects
 				(font
@@ -920,7 +802,7 @@
 				(justify left)
 			)
 		)
-		(property "Name" "PIC32MZ1064DAH176"
+		(property "Name" "PIC32MZ1025DAK176"
 			(at -12.7 27.58 0)
 			(effects
 				(font
@@ -930,7 +812,7 @@
 				(justify left)
 			)
 		)
-		(symbol "PIC32MZ1064DAH176_0_1"
+		(symbol "PIC32MZ1025DAK176_0_1"
 			(rectangle
 				(start -7.62 5.08)
 				(end 7.62 -5.08)
@@ -943,10 +825,10 @@
 				)
 			)
 		)
-		(symbol "PIC32MZ1064DAH176_1_1"
+		(symbol "PIC32MZ1025DAK176_1_1"
 		)
 	)
-(symbol "PIC32MZ2025DAG169"
+(symbol "PIC32MZ1064DAH169"
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -970,7 +852,7 @@
 				(justify left)
 			)
 		)
-		(property "MP" "PIC32MZ2025DAG169"
+		(property "MP" "PIC32MZ1064DAH169"
 			(at -12.7 10.08 0)
 			(effects
 				(font
@@ -1009,7 +891,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "PIC32MZ2025DAG169"
+		(property "Value" "PIC32MZ1064DAH169"
 			(at -12.7 20.08 0)
 			(effects
 				(font
@@ -1038,7 +920,7 @@
 				(justify left)
 			)
 		)
-		(property "Name" "PIC32MZ2025DAG169"
+		(property "Name" "PIC32MZ1064DAH169"
 			(at -12.7 27.58 0)
 			(effects
 				(font
@@ -1048,7 +930,7 @@
 				(justify left)
 			)
 		)
-		(symbol "PIC32MZ2025DAG169_0_1"
+		(symbol "PIC32MZ1064DAH169_0_1"
 			(rectangle
 				(start -7.62 5.08)
 				(end 7.62 -5.08)
@@ -1061,7 +943,7 @@
 				)
 			)
 		)
-		(symbol "PIC32MZ2025DAG169_1_1"
+		(symbol "PIC32MZ1064DAH169_1_1"
 		)
 	)
 (symbol "PIC32MZ1064DAK169"
@@ -1182,7 +1064,7 @@
 		(symbol "PIC32MZ1064DAK169_1_1"
 		)
 	)
-(symbol "PIC32MZ1064DAH169"
+(symbol "PIC32MZ1064DAR169"
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -1206,7 +1088,7 @@
 				(justify left)
 			)
 		)
-		(property "MP" "PIC32MZ1064DAH169"
+		(property "MP" "PIC32MZ1064DAR169"
 			(at -12.7 10.08 0)
 			(effects
 				(font
@@ -1245,7 +1127,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "PIC32MZ1064DAH169"
+		(property "Value" "PIC32MZ1064DAR169"
 			(at -12.7 20.08 0)
 			(effects
 				(font
@@ -1274,7 +1156,7 @@
 				(justify left)
 			)
 		)
-		(property "Name" "PIC32MZ1064DAH169"
+		(property "Name" "PIC32MZ1064DAR169"
 			(at -12.7 27.58 0)
 			(effects
 				(font
@@ -1284,7 +1166,7 @@
 				(justify left)
 			)
 		)
-		(symbol "PIC32MZ1064DAH169_0_1"
+		(symbol "PIC32MZ1064DAR169_0_1"
 			(rectangle
 				(start -7.62 5.08)
 				(end 7.62 -5.08)
@@ -1297,7 +1179,125 @@
 				)
 			)
 		)
-		(symbol "PIC32MZ1064DAH169_1_1"
+		(symbol "PIC32MZ1064DAR169_1_1"
+		)
+	)
+(symbol "PIC32MZ2025DAG169"
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Series" "PIC32MZ"
+			(at -12.7 5.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Footprint" "LFBGA169"
+			(at -12.7 7.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "MP" "PIC32MZ2025DAG169"
+			(at -12.7 10.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Architecture" "MIPS"
+			(at -12.7 12.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "PINOUT" "LFBGA169"
+			(at -12.7 15.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Reference" "U"
+			(at -12.7 17.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "PIC32MZ2025DAG169"
+			(at -12.7 20.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Family" "PIC32MZDA"
+			(at -12.7 22.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "MF" "Microchip"
+			(at -12.7 25.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Name" "PIC32MZ2025DAG169"
+			(at -12.7 27.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(symbol "PIC32MZ2025DAG169_0_1"
+			(rectangle
+				(start -7.62 5.08)
+				(end 7.62 -5.08)
+				(stroke
+					(width 0.254)
+					(type default)
+				)
+				(fill
+					(type background)
+				)
+			)
+		)
+		(symbol "PIC32MZ2025DAG169_1_1"
 		)
 	)
 (symbol "PIC32MZ1025DAS176"
@@ -1654,360 +1654,6 @@
 		(symbol "PIC32MZ1025DAL176_1_1"
 		)
 	)
-(symbol "PIC32MZ1025DAB288"
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(property "Series" "PIC32MZ"
-			(at -12.7 5.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Footprint" "LFBGA288"
-			(at -12.7 7.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "MP" "PIC32MZ1025DAB288"
-			(at -12.7 10.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Architecture" "MIPS"
-			(at -12.7 12.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "PINOUT" "LFBGA288"
-			(at -12.7 15.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Reference" "U"
-			(at -12.7 17.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "PIC32MZ1025DAB288"
-			(at -12.7 20.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Family" "PIC32MZDA"
-			(at -12.7 22.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "MF" "Microchip"
-			(at -12.7 25.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Name" "PIC32MZ1025DAB288"
-			(at -12.7 27.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(symbol "PIC32MZ1025DAB288_0_1"
-			(rectangle
-				(start -7.62 5.08)
-				(end 7.62 -5.08)
-				(stroke
-					(width 0.254)
-					(type default)
-				)
-				(fill
-					(type background)
-				)
-			)
-		)
-		(symbol "PIC32MZ1025DAB288_1_1"
-		)
-	)
-(symbol "PIC32MZ1064DAR169"
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(property "Series" "PIC32MZ"
-			(at -12.7 5.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Footprint" "LFBGA169"
-			(at -12.7 7.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "MP" "PIC32MZ1064DAR169"
-			(at -12.7 10.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Architecture" "MIPS"
-			(at -12.7 12.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "PINOUT" "LFBGA169"
-			(at -12.7 15.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Reference" "U"
-			(at -12.7 17.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "PIC32MZ1064DAR169"
-			(at -12.7 20.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Family" "PIC32MZDA"
-			(at -12.7 22.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "MF" "Microchip"
-			(at -12.7 25.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Name" "PIC32MZ1064DAR169"
-			(at -12.7 27.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(symbol "PIC32MZ1064DAR169_0_1"
-			(rectangle
-				(start -7.62 5.08)
-				(end 7.62 -5.08)
-				(stroke
-					(width 0.254)
-					(type default)
-				)
-				(fill
-					(type background)
-				)
-			)
-		)
-		(symbol "PIC32MZ1064DAR169_1_1"
-		)
-	)
-(symbol "PIC32MZ1025DAH169"
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(property "Series" "PIC32MZ"
-			(at -12.7 5.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Footprint" "LFBGA169"
-			(at -12.7 7.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "MP" "PIC32MZ1025DAH169"
-			(at -12.7 10.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Architecture" "MIPS"
-			(at -12.7 12.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "PINOUT" "LFBGA169"
-			(at -12.7 15.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Reference" "U"
-			(at -12.7 17.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "PIC32MZ1025DAH169"
-			(at -12.7 20.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Family" "PIC32MZDA"
-			(at -12.7 22.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "MF" "Microchip"
-			(at -12.7 25.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Name" "PIC32MZ1025DAH169"
-			(at -12.7 27.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(symbol "PIC32MZ1025DAH169_0_1"
-			(rectangle
-				(start -7.62 5.08)
-				(end 7.62 -5.08)
-				(stroke
-					(width 0.254)
-					(type default)
-				)
-				(fill
-					(type background)
-				)
-			)
-		)
-		(symbol "PIC32MZ1025DAH169_1_1"
-		)
-	)
 (symbol "PIC32MZ1025DAB176"
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2124,124 +1770,6 @@
 			)
 		)
 		(symbol "PIC32MZ1025DAB176_1_1"
-		)
-	)
-(symbol "PIC32MZ2025DAR176"
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(property "Series" "PIC32MZ"
-			(at -12.7 5.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Footprint" "LQFP176"
-			(at -12.7 7.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "MP" "PIC32MZ2025DAR176"
-			(at -12.7 10.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Architecture" "MIPS"
-			(at -12.7 12.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "PINOUT" "LQFP176"
-			(at -12.7 15.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Reference" "U"
-			(at -12.7 17.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "PIC32MZ2025DAR176"
-			(at -12.7 20.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Family" "PIC32MZDA"
-			(at -12.7 22.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "MF" "Microchip"
-			(at -12.7 25.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Name" "PIC32MZ2025DAR176"
-			(at -12.7 27.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(symbol "PIC32MZ2025DAR176_0_1"
-			(rectangle
-				(start -7.62 5.08)
-				(end 7.62 -5.08)
-				(stroke
-					(width 0.254)
-					(type default)
-				)
-				(fill
-					(type background)
-				)
-			)
-		)
-		(symbol "PIC32MZ2025DAR176_1_1"
 		)
 	)
 (symbol "PIC32MZ2025DAR169"
@@ -2362,6 +1890,360 @@
 		(symbol "PIC32MZ2025DAR169_1_1"
 		)
 	)
+(symbol "PIC32MZ1064DAH176"
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Series" "PIC32MZ"
+			(at -12.7 5.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Footprint" "LQFP176"
+			(at -12.7 7.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "MP" "PIC32MZ1064DAH176"
+			(at -12.7 10.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Architecture" "MIPS"
+			(at -12.7 12.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "PINOUT" "LQFP176"
+			(at -12.7 15.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Reference" "U"
+			(at -12.7 17.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "PIC32MZ1064DAH176"
+			(at -12.7 20.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Family" "PIC32MZDA"
+			(at -12.7 22.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "MF" "Microchip"
+			(at -12.7 25.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Name" "PIC32MZ1064DAH176"
+			(at -12.7 27.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(symbol "PIC32MZ1064DAH176_0_1"
+			(rectangle
+				(start -7.62 5.08)
+				(end 7.62 -5.08)
+				(stroke
+					(width 0.254)
+					(type default)
+				)
+				(fill
+					(type background)
+				)
+			)
+		)
+		(symbol "PIC32MZ1064DAH176_1_1"
+		)
+	)
+(symbol "PIC32MZ1025DAH169"
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Series" "PIC32MZ"
+			(at -12.7 5.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Footprint" "LFBGA169"
+			(at -12.7 7.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "MP" "PIC32MZ1025DAH169"
+			(at -12.7 10.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Architecture" "MIPS"
+			(at -12.7 12.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "PINOUT" "LFBGA169"
+			(at -12.7 15.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Reference" "U"
+			(at -12.7 17.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "PIC32MZ1025DAH169"
+			(at -12.7 20.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Family" "PIC32MZDA"
+			(at -12.7 22.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "MF" "Microchip"
+			(at -12.7 25.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Name" "PIC32MZ1025DAH169"
+			(at -12.7 27.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(symbol "PIC32MZ1025DAH169_0_1"
+			(rectangle
+				(start -7.62 5.08)
+				(end 7.62 -5.08)
+				(stroke
+					(width 0.254)
+					(type default)
+				)
+				(fill
+					(type background)
+				)
+			)
+		)
+		(symbol "PIC32MZ1025DAH169_1_1"
+		)
+	)
+(symbol "PIC32MZ2025DAR176"
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Series" "PIC32MZ"
+			(at -12.7 5.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Footprint" "LQFP176"
+			(at -12.7 7.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "MP" "PIC32MZ2025DAR176"
+			(at -12.7 10.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Architecture" "MIPS"
+			(at -12.7 12.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "PINOUT" "LQFP176"
+			(at -12.7 15.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Reference" "U"
+			(at -12.7 17.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "PIC32MZ2025DAR176"
+			(at -12.7 20.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Family" "PIC32MZDA"
+			(at -12.7 22.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "MF" "Microchip"
+			(at -12.7 25.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Name" "PIC32MZ2025DAR176"
+			(at -12.7 27.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(symbol "PIC32MZ2025DAR176_0_1"
+			(rectangle
+				(start -7.62 5.08)
+				(end 7.62 -5.08)
+				(stroke
+					(width 0.254)
+					(type default)
+				)
+				(fill
+					(type background)
+				)
+			)
+		)
+		(symbol "PIC32MZ2025DAR176_1_1"
+		)
+	)
 (symbol "PIC32MZ2064DAG176"
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2480,7 +2362,7 @@
 		(symbol "PIC32MZ2064DAG176_1_1"
 		)
 	)
-(symbol "PIC32MZ2025DAB169"
+(symbol "PIC32MZ1064DAR176"
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -2494,7 +2376,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "LFBGA169"
+		(property "Footprint" "LQFP176"
 			(at -12.7 7.58 0)
 			(effects
 				(font
@@ -2504,7 +2386,7 @@
 				(justify left)
 			)
 		)
-		(property "MP" "PIC32MZ2025DAB169"
+		(property "MP" "PIC32MZ1064DAR176"
 			(at -12.7 10.08 0)
 			(effects
 				(font
@@ -2524,7 +2406,7 @@
 				(justify left)
 			)
 		)
-		(property "PINOUT" "LFBGA169"
+		(property "PINOUT" "LQFP176"
 			(at -12.7 15.08 0)
 			(effects
 				(font
@@ -2543,7 +2425,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "PIC32MZ2025DAB169"
+		(property "Value" "PIC32MZ1064DAR176"
 			(at -12.7 20.08 0)
 			(effects
 				(font
@@ -2572,7 +2454,7 @@
 				(justify left)
 			)
 		)
-		(property "Name" "PIC32MZ2025DAB169"
+		(property "Name" "PIC32MZ1064DAR176"
 			(at -12.7 27.58 0)
 			(effects
 				(font
@@ -2582,7 +2464,7 @@
 				(justify left)
 			)
 		)
-		(symbol "PIC32MZ2025DAB169_0_1"
+		(symbol "PIC32MZ1064DAR176_0_1"
 			(rectangle
 				(start -7.62 5.08)
 				(end 7.62 -5.08)
@@ -2595,125 +2477,7 @@
 				)
 			)
 		)
-		(symbol "PIC32MZ2025DAB169_1_1"
-		)
-	)
-(symbol "PIC32MZ1064DAS169"
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(property "Series" "PIC32MZ"
-			(at -12.7 5.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Footprint" "LFBGA169"
-			(at -12.7 7.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "MP" "PIC32MZ1064DAS169"
-			(at -12.7 10.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Architecture" "MIPS"
-			(at -12.7 12.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "PINOUT" "LFBGA169"
-			(at -12.7 15.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Reference" "U"
-			(at -12.7 17.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "PIC32MZ1064DAS169"
-			(at -12.7 20.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Family" "PIC32MZDA"
-			(at -12.7 22.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "MF" "Microchip"
-			(at -12.7 25.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Name" "PIC32MZ1064DAS169"
-			(at -12.7 27.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(symbol "PIC32MZ1064DAS169_0_1"
-			(rectangle
-				(start -7.62 5.08)
-				(end 7.62 -5.08)
-				(stroke
-					(width 0.254)
-					(type default)
-				)
-				(fill
-					(type background)
-				)
-			)
-		)
-		(symbol "PIC32MZ1064DAS169_1_1"
+		(symbol "PIC32MZ1064DAR176_1_1"
 		)
 	)
 (symbol "PIC32MZ2064DAK176"
@@ -2834,7 +2598,7 @@
 		(symbol "PIC32MZ2064DAK176_1_1"
 		)
 	)
-(symbol "PIC32MZ2025DAA288"
+(symbol "PIC32MZ1025DAA176"
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -2848,7 +2612,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "LFBGA288"
+		(property "Footprint" "LQFP176"
 			(at -12.7 7.58 0)
 			(effects
 				(font
@@ -2858,7 +2622,7 @@
 				(justify left)
 			)
 		)
-		(property "MP" "PIC32MZ2025DAA288"
+		(property "MP" "PIC32MZ1025DAA176"
 			(at -12.7 10.08 0)
 			(effects
 				(font
@@ -2878,7 +2642,7 @@
 				(justify left)
 			)
 		)
-		(property "PINOUT" "LFBGA288"
+		(property "PINOUT" "LQFP176"
 			(at -12.7 15.08 0)
 			(effects
 				(font
@@ -2897,7 +2661,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "PIC32MZ2025DAA288"
+		(property "Value" "PIC32MZ1025DAA176"
 			(at -12.7 20.08 0)
 			(effects
 				(font
@@ -2926,7 +2690,7 @@
 				(justify left)
 			)
 		)
-		(property "Name" "PIC32MZ2025DAA288"
+		(property "Name" "PIC32MZ1025DAA176"
 			(at -12.7 27.58 0)
 			(effects
 				(font
@@ -2936,7 +2700,7 @@
 				(justify left)
 			)
 		)
-		(symbol "PIC32MZ2025DAA288_0_1"
+		(symbol "PIC32MZ1025DAA176_0_1"
 			(rectangle
 				(start -7.62 5.08)
 				(end 7.62 -5.08)
@@ -2949,10 +2713,10 @@
 				)
 			)
 		)
-		(symbol "PIC32MZ2025DAA288_1_1"
+		(symbol "PIC32MZ1025DAA176_1_1"
 		)
 	)
-(symbol "PIC32MZ1025DAA169"
+(symbol "PIC32MZ2025DAB169"
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -2976,7 +2740,7 @@
 				(justify left)
 			)
 		)
-		(property "MP" "PIC32MZ1025DAA169"
+		(property "MP" "PIC32MZ2025DAB169"
 			(at -12.7 10.08 0)
 			(effects
 				(font
@@ -3015,7 +2779,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "PIC32MZ1025DAA169"
+		(property "Value" "PIC32MZ2025DAB169"
 			(at -12.7 20.08 0)
 			(effects
 				(font
@@ -3044,7 +2808,7 @@
 				(justify left)
 			)
 		)
-		(property "Name" "PIC32MZ1025DAA169"
+		(property "Name" "PIC32MZ2025DAB169"
 			(at -12.7 27.58 0)
 			(effects
 				(font
@@ -3054,7 +2818,7 @@
 				(justify left)
 			)
 		)
-		(symbol "PIC32MZ1025DAA169_0_1"
+		(symbol "PIC32MZ2025DAB169_0_1"
 			(rectangle
 				(start -7.62 5.08)
 				(end 7.62 -5.08)
@@ -3067,7 +2831,243 @@
 				)
 			)
 		)
-		(symbol "PIC32MZ1025DAA169_1_1"
+		(symbol "PIC32MZ2025DAB169_1_1"
+		)
+	)
+(symbol "PIC32MZ1025DAB288"
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Series" "PIC32MZ"
+			(at -12.7 5.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Footprint" "LFBGA288"
+			(at -12.7 7.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "MP" "PIC32MZ1025DAB288"
+			(at -12.7 10.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Architecture" "MIPS"
+			(at -12.7 12.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "PINOUT" "LFBGA288"
+			(at -12.7 15.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Reference" "U"
+			(at -12.7 17.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "PIC32MZ1025DAB288"
+			(at -12.7 20.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Family" "PIC32MZDA"
+			(at -12.7 22.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "MF" "Microchip"
+			(at -12.7 25.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Name" "PIC32MZ1025DAB288"
+			(at -12.7 27.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(symbol "PIC32MZ1025DAB288_0_1"
+			(rectangle
+				(start -7.62 5.08)
+				(end 7.62 -5.08)
+				(stroke
+					(width 0.254)
+					(type default)
+				)
+				(fill
+					(type background)
+				)
+			)
+		)
+		(symbol "PIC32MZ1025DAB288_1_1"
+		)
+	)
+(symbol "PIC32MZ1064DAS169"
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Series" "PIC32MZ"
+			(at -12.7 5.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Footprint" "LFBGA169"
+			(at -12.7 7.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "MP" "PIC32MZ1064DAS169"
+			(at -12.7 10.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Architecture" "MIPS"
+			(at -12.7 12.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "PINOUT" "LFBGA169"
+			(at -12.7 15.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Reference" "U"
+			(at -12.7 17.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "PIC32MZ1064DAS169"
+			(at -12.7 20.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Family" "PIC32MZDA"
+			(at -12.7 22.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "MF" "Microchip"
+			(at -12.7 25.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Name" "PIC32MZ1064DAS169"
+			(at -12.7 27.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(symbol "PIC32MZ1064DAS169_0_1"
+			(rectangle
+				(start -7.62 5.08)
+				(end 7.62 -5.08)
+				(stroke
+					(width 0.254)
+					(type default)
+				)
+				(fill
+					(type background)
+				)
+			)
+		)
+		(symbol "PIC32MZ1064DAS169_1_1"
 		)
 	)
 (symbol "PIC32MZ1025DAK169"
@@ -3306,7 +3306,7 @@
 		(symbol "PIC32MZ2064DAL169_1_1"
 		)
 	)
-(symbol "PIC32MZ2025DAK176"
+(symbol "PIC32MZ2025DAG176"
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -3330,7 +3330,7 @@
 				(justify left)
 			)
 		)
-		(property "MP" "PIC32MZ2025DAK176"
+		(property "MP" "PIC32MZ2025DAG176"
 			(at -12.7 10.08 0)
 			(effects
 				(font
@@ -3369,7 +3369,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "PIC32MZ2025DAK176"
+		(property "Value" "PIC32MZ2025DAG176"
 			(at -12.7 20.08 0)
 			(effects
 				(font
@@ -3398,7 +3398,7 @@
 				(justify left)
 			)
 		)
-		(property "Name" "PIC32MZ2025DAK176"
+		(property "Name" "PIC32MZ2025DAG176"
 			(at -12.7 27.58 0)
 			(effects
 				(font
@@ -3408,7 +3408,7 @@
 				(justify left)
 			)
 		)
-		(symbol "PIC32MZ2025DAK176_0_1"
+		(symbol "PIC32MZ2025DAG176_0_1"
 			(rectangle
 				(start -7.62 5.08)
 				(end 7.62 -5.08)
@@ -3421,7 +3421,243 @@
 				)
 			)
 		)
-		(symbol "PIC32MZ2025DAK176_1_1"
+		(symbol "PIC32MZ2025DAG176_1_1"
+		)
+	)
+(symbol "PIC32MZ2025DAA288"
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Series" "PIC32MZ"
+			(at -12.7 5.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Footprint" "LFBGA288"
+			(at -12.7 7.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "MP" "PIC32MZ2025DAA288"
+			(at -12.7 10.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Architecture" "MIPS"
+			(at -12.7 12.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "PINOUT" "LFBGA288"
+			(at -12.7 15.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Reference" "U"
+			(at -12.7 17.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "PIC32MZ2025DAA288"
+			(at -12.7 20.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Family" "PIC32MZDA"
+			(at -12.7 22.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "MF" "Microchip"
+			(at -12.7 25.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Name" "PIC32MZ2025DAA288"
+			(at -12.7 27.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(symbol "PIC32MZ2025DAA288_0_1"
+			(rectangle
+				(start -7.62 5.08)
+				(end 7.62 -5.08)
+				(stroke
+					(width 0.254)
+					(type default)
+				)
+				(fill
+					(type background)
+				)
+			)
+		)
+		(symbol "PIC32MZ2025DAA288_1_1"
+		)
+	)
+(symbol "PIC32MZ1025DAA169"
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Series" "PIC32MZ"
+			(at -12.7 5.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Footprint" "LFBGA169"
+			(at -12.7 7.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "MP" "PIC32MZ1025DAA169"
+			(at -12.7 10.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Architecture" "MIPS"
+			(at -12.7 12.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "PINOUT" "LFBGA169"
+			(at -12.7 15.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Reference" "U"
+			(at -12.7 17.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "PIC32MZ1025DAA169"
+			(at -12.7 20.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Family" "PIC32MZDA"
+			(at -12.7 22.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "MF" "Microchip"
+			(at -12.7 25.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Name" "PIC32MZ1025DAA169"
+			(at -12.7 27.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(symbol "PIC32MZ1025DAA169_0_1"
+			(rectangle
+				(start -7.62 5.08)
+				(end 7.62 -5.08)
+				(stroke
+					(width 0.254)
+					(type default)
+				)
+				(fill
+					(type background)
+				)
+			)
+		)
+		(symbol "PIC32MZ1025DAA169_1_1"
 		)
 	)
 (symbol "PIC32MZ1064DAB288"
@@ -3542,6 +3778,242 @@
 		(symbol "PIC32MZ1064DAB288_1_1"
 		)
 	)
+(symbol "PIC32MZ2025DAK176"
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Series" "PIC32MZ"
+			(at -12.7 5.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Footprint" "LQFP176"
+			(at -12.7 7.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "MP" "PIC32MZ2025DAK176"
+			(at -12.7 10.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Architecture" "MIPS"
+			(at -12.7 12.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "PINOUT" "LQFP176"
+			(at -12.7 15.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Reference" "U"
+			(at -12.7 17.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "PIC32MZ2025DAK176"
+			(at -12.7 20.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Family" "PIC32MZDA"
+			(at -12.7 22.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "MF" "Microchip"
+			(at -12.7 25.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Name" "PIC32MZ2025DAK176"
+			(at -12.7 27.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(symbol "PIC32MZ2025DAK176_0_1"
+			(rectangle
+				(start -7.62 5.08)
+				(end 7.62 -5.08)
+				(stroke
+					(width 0.254)
+					(type default)
+				)
+				(fill
+					(type background)
+				)
+			)
+		)
+		(symbol "PIC32MZ2025DAK176_1_1"
+		)
+	)
+(symbol "PIC32MZ1064DAL176"
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Series" "PIC32MZ"
+			(at -12.7 5.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Footprint" "LQFP176"
+			(at -12.7 7.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "MP" "PIC32MZ1064DAL176"
+			(at -12.7 10.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Architecture" "MIPS"
+			(at -12.7 12.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "PINOUT" "LQFP176"
+			(at -12.7 15.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Reference" "U"
+			(at -12.7 17.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "PIC32MZ1064DAL176"
+			(at -12.7 20.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Family" "PIC32MZDA"
+			(at -12.7 22.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "MF" "Microchip"
+			(at -12.7 25.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Name" "PIC32MZ1064DAL176"
+			(at -12.7 27.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(symbol "PIC32MZ1064DAL176_0_1"
+			(rectangle
+				(start -7.62 5.08)
+				(end 7.62 -5.08)
+				(stroke
+					(width 0.254)
+					(type default)
+				)
+				(fill
+					(type background)
+				)
+			)
+		)
+		(symbol "PIC32MZ1064DAL176_1_1"
+		)
+	)
 (symbol "PIC32MZ2025DAH169"
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3660,124 +4132,6 @@
 		(symbol "PIC32MZ2025DAH169_1_1"
 		)
 	)
-(symbol "PIC32MZ2025DAB176"
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(property "Series" "PIC32MZ"
-			(at -12.7 5.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Footprint" "LQFP176"
-			(at -12.7 7.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "MP" "PIC32MZ2025DAB176"
-			(at -12.7 10.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Architecture" "MIPS"
-			(at -12.7 12.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "PINOUT" "LQFP176"
-			(at -12.7 15.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Reference" "U"
-			(at -12.7 17.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "PIC32MZ2025DAB176"
-			(at -12.7 20.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Family" "PIC32MZDA"
-			(at -12.7 22.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "MF" "Microchip"
-			(at -12.7 25.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Name" "PIC32MZ2025DAB176"
-			(at -12.7 27.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(symbol "PIC32MZ2025DAB176_0_1"
-			(rectangle
-				(start -7.62 5.08)
-				(end 7.62 -5.08)
-				(stroke
-					(width 0.254)
-					(type default)
-				)
-				(fill
-					(type background)
-				)
-			)
-		)
-		(symbol "PIC32MZ2025DAB176_1_1"
-		)
-	)
 (symbol "PIC32MZ2025DAH176"
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3894,124 +4248,6 @@
 			)
 		)
 		(symbol "PIC32MZ2025DAH176_1_1"
-		)
-	)
-(symbol "PIC32MZ2025DAL169"
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(property "Series" "PIC32MZ"
-			(at -12.7 5.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Footprint" "LFBGA169"
-			(at -12.7 7.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "MP" "PIC32MZ2025DAL169"
-			(at -12.7 10.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Architecture" "MIPS"
-			(at -12.7 12.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "PINOUT" "LFBGA169"
-			(at -12.7 15.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Reference" "U"
-			(at -12.7 17.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "PIC32MZ2025DAL169"
-			(at -12.7 20.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Family" "PIC32MZDA"
-			(at -12.7 22.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "MF" "Microchip"
-			(at -12.7 25.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Name" "PIC32MZ2025DAL169"
-			(at -12.7 27.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(symbol "PIC32MZ2025DAL169_0_1"
-			(rectangle
-				(start -7.62 5.08)
-				(end 7.62 -5.08)
-				(stroke
-					(width 0.254)
-					(type default)
-				)
-				(fill
-					(type background)
-				)
-			)
-		)
-		(symbol "PIC32MZ2025DAL169_1_1"
 		)
 	)
 (symbol "PIC32MZ2064DAS169"
@@ -4250,832 +4486,6 @@
 		(symbol "PIC32MZ2025DAS169_1_1"
 		)
 	)
-(symbol "PIC32MZ1025DAH176"
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(property "Series" "PIC32MZ"
-			(at -12.7 5.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Footprint" "LQFP176"
-			(at -12.7 7.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "MP" "PIC32MZ1025DAH176"
-			(at -12.7 10.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Architecture" "MIPS"
-			(at -12.7 12.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "PINOUT" "LQFP176"
-			(at -12.7 15.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Reference" "U"
-			(at -12.7 17.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "PIC32MZ1025DAH176"
-			(at -12.7 20.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Family" "PIC32MZDA"
-			(at -12.7 22.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "MF" "Microchip"
-			(at -12.7 25.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Name" "PIC32MZ1025DAH176"
-			(at -12.7 27.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(symbol "PIC32MZ1025DAH176_0_1"
-			(rectangle
-				(start -7.62 5.08)
-				(end 7.62 -5.08)
-				(stroke
-					(width 0.254)
-					(type default)
-				)
-				(fill
-					(type background)
-				)
-			)
-		)
-		(symbol "PIC32MZ1025DAH176_1_1"
-		)
-	)
-(symbol "PIC32MZ1064DAK176"
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(property "Series" "PIC32MZ"
-			(at -12.7 5.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Footprint" "LQFP176"
-			(at -12.7 7.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "MP" "PIC32MZ1064DAK176"
-			(at -12.7 10.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Architecture" "MIPS"
-			(at -12.7 12.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "PINOUT" "LQFP176"
-			(at -12.7 15.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Reference" "U"
-			(at -12.7 17.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "PIC32MZ1064DAK176"
-			(at -12.7 20.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Family" "PIC32MZDA"
-			(at -12.7 22.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "MF" "Microchip"
-			(at -12.7 25.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Name" "PIC32MZ1064DAK176"
-			(at -12.7 27.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(symbol "PIC32MZ1064DAK176_0_1"
-			(rectangle
-				(start -7.62 5.08)
-				(end 7.62 -5.08)
-				(stroke
-					(width 0.254)
-					(type default)
-				)
-				(fill
-					(type background)
-				)
-			)
-		)
-		(symbol "PIC32MZ1064DAK176_1_1"
-		)
-	)
-(symbol "PIC32MZ2025DAB288"
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(property "Series" "PIC32MZ"
-			(at -12.7 5.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Footprint" "LFBGA288"
-			(at -12.7 7.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "MP" "PIC32MZ2025DAB288"
-			(at -12.7 10.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Architecture" "MIPS"
-			(at -12.7 12.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "PINOUT" "LFBGA288"
-			(at -12.7 15.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Reference" "U"
-			(at -12.7 17.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "PIC32MZ2025DAB288"
-			(at -12.7 20.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Family" "PIC32MZDA"
-			(at -12.7 22.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "MF" "Microchip"
-			(at -12.7 25.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Name" "PIC32MZ2025DAB288"
-			(at -12.7 27.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(symbol "PIC32MZ2025DAB288_0_1"
-			(rectangle
-				(start -7.62 5.08)
-				(end 7.62 -5.08)
-				(stroke
-					(width 0.254)
-					(type default)
-				)
-				(fill
-					(type background)
-				)
-			)
-		)
-		(symbol "PIC32MZ2025DAB288_1_1"
-		)
-	)
-(symbol "PIC32MZ1064DAA288"
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(property "Series" "PIC32MZ"
-			(at -12.7 5.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Footprint" "LFBGA288"
-			(at -12.7 7.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "MP" "PIC32MZ1064DAA288"
-			(at -12.7 10.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Architecture" "MIPS"
-			(at -12.7 12.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "PINOUT" "LFBGA288"
-			(at -12.7 15.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Reference" "U"
-			(at -12.7 17.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "PIC32MZ1064DAA288"
-			(at -12.7 20.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Family" "PIC32MZDA"
-			(at -12.7 22.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "MF" "Microchip"
-			(at -12.7 25.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Name" "PIC32MZ1064DAA288"
-			(at -12.7 27.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(symbol "PIC32MZ1064DAA288_0_1"
-			(rectangle
-				(start -7.62 5.08)
-				(end 7.62 -5.08)
-				(stroke
-					(width 0.254)
-					(type default)
-				)
-				(fill
-					(type background)
-				)
-			)
-		)
-		(symbol "PIC32MZ1064DAA288_1_1"
-		)
-	)
-(symbol "PIC32MZ2025DAS176"
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(property "Series" "PIC32MZ"
-			(at -12.7 5.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Footprint" "LQFP176"
-			(at -12.7 7.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "MP" "PIC32MZ2025DAS176"
-			(at -12.7 10.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Architecture" "MIPS"
-			(at -12.7 12.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "PINOUT" "LQFP176"
-			(at -12.7 15.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Reference" "U"
-			(at -12.7 17.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "PIC32MZ2025DAS176"
-			(at -12.7 20.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Family" "PIC32MZDA"
-			(at -12.7 22.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "MF" "Microchip"
-			(at -12.7 25.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Name" "PIC32MZ2025DAS176"
-			(at -12.7 27.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(symbol "PIC32MZ2025DAS176_0_1"
-			(rectangle
-				(start -7.62 5.08)
-				(end 7.62 -5.08)
-				(stroke
-					(width 0.254)
-					(type default)
-				)
-				(fill
-					(type background)
-				)
-			)
-		)
-		(symbol "PIC32MZ2025DAS176_1_1"
-		)
-	)
-(symbol "PIC32MZ1025DAA176"
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(property "Series" "PIC32MZ"
-			(at -12.7 5.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Footprint" "LQFP176"
-			(at -12.7 7.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "MP" "PIC32MZ1025DAA176"
-			(at -12.7 10.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Architecture" "MIPS"
-			(at -12.7 12.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "PINOUT" "LQFP176"
-			(at -12.7 15.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Reference" "U"
-			(at -12.7 17.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "PIC32MZ1025DAA176"
-			(at -12.7 20.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Family" "PIC32MZDA"
-			(at -12.7 22.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "MF" "Microchip"
-			(at -12.7 25.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Name" "PIC32MZ1025DAA176"
-			(at -12.7 27.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(symbol "PIC32MZ1025DAA176_0_1"
-			(rectangle
-				(start -7.62 5.08)
-				(end 7.62 -5.08)
-				(stroke
-					(width 0.254)
-					(type default)
-				)
-				(fill
-					(type background)
-				)
-			)
-		)
-		(symbol "PIC32MZ1025DAA176_1_1"
-		)
-	)
-(symbol "PIC32MZ2064DAH169"
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(property "Series" "PIC32MZ"
-			(at -12.7 5.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Footprint" "LFBGA169"
-			(at -12.7 7.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "MP" "PIC32MZ2064DAH169"
-			(at -12.7 10.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Architecture" "MIPS"
-			(at -12.7 12.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "PINOUT" "LFBGA169"
-			(at -12.7 15.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Reference" "U"
-			(at -12.7 17.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "PIC32MZ2064DAH169"
-			(at -12.7 20.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Family" "PIC32MZDA"
-			(at -12.7 22.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "MF" "Microchip"
-			(at -12.7 25.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Name" "PIC32MZ2064DAH169"
-			(at -12.7 27.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(symbol "PIC32MZ2064DAH169_0_1"
-			(rectangle
-				(start -7.62 5.08)
-				(end 7.62 -5.08)
-				(stroke
-					(width 0.254)
-					(type default)
-				)
-				(fill
-					(type background)
-				)
-			)
-		)
-		(symbol "PIC32MZ2064DAH169_1_1"
-		)
-	)
 (symbol "PIC32MZ2064DAB176"
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5192,1658 +4602,6 @@
 			)
 		)
 		(symbol "PIC32MZ2064DAB176_1_1"
-		)
-	)
-(symbol "PIC32MZ1064DAR176"
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(property "Series" "PIC32MZ"
-			(at -12.7 5.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Footprint" "LQFP176"
-			(at -12.7 7.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "MP" "PIC32MZ1064DAR176"
-			(at -12.7 10.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Architecture" "MIPS"
-			(at -12.7 12.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "PINOUT" "LQFP176"
-			(at -12.7 15.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Reference" "U"
-			(at -12.7 17.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "PIC32MZ1064DAR176"
-			(at -12.7 20.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Family" "PIC32MZDA"
-			(at -12.7 22.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "MF" "Microchip"
-			(at -12.7 25.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Name" "PIC32MZ1064DAR176"
-			(at -12.7 27.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(symbol "PIC32MZ1064DAR176_0_1"
-			(rectangle
-				(start -7.62 5.08)
-				(end 7.62 -5.08)
-				(stroke
-					(width 0.254)
-					(type default)
-				)
-				(fill
-					(type background)
-				)
-			)
-		)
-		(symbol "PIC32MZ1064DAR176_1_1"
-		)
-	)
-(symbol "PIC32MZ1025DAR169"
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(property "Series" "PIC32MZ"
-			(at -12.7 5.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Footprint" "LFBGA169"
-			(at -12.7 7.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "MP" "PIC32MZ1025DAR169"
-			(at -12.7 10.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Architecture" "MIPS"
-			(at -12.7 12.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "PINOUT" "LFBGA169"
-			(at -12.7 15.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Reference" "U"
-			(at -12.7 17.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "PIC32MZ1025DAR169"
-			(at -12.7 20.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Family" "PIC32MZDA"
-			(at -12.7 22.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "MF" "Microchip"
-			(at -12.7 25.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Name" "PIC32MZ1025DAR169"
-			(at -12.7 27.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(symbol "PIC32MZ1025DAR169_0_1"
-			(rectangle
-				(start -7.62 5.08)
-				(end 7.62 -5.08)
-				(stroke
-					(width 0.254)
-					(type default)
-				)
-				(fill
-					(type background)
-				)
-			)
-		)
-		(symbol "PIC32MZ1025DAR169_1_1"
-		)
-	)
-(symbol "PIC32MZ1064DAB169"
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(property "Series" "PIC32MZ"
-			(at -12.7 5.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Footprint" "LFBGA169"
-			(at -12.7 7.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "MP" "PIC32MZ1064DAB169"
-			(at -12.7 10.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Architecture" "MIPS"
-			(at -12.7 12.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "PINOUT" "LFBGA169"
-			(at -12.7 15.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Reference" "U"
-			(at -12.7 17.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "PIC32MZ1064DAB169"
-			(at -12.7 20.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Family" "PIC32MZDA"
-			(at -12.7 22.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "MF" "Microchip"
-			(at -12.7 25.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Name" "PIC32MZ1064DAB169"
-			(at -12.7 27.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(symbol "PIC32MZ1064DAB169_0_1"
-			(rectangle
-				(start -7.62 5.08)
-				(end 7.62 -5.08)
-				(stroke
-					(width 0.254)
-					(type default)
-				)
-				(fill
-					(type background)
-				)
-			)
-		)
-		(symbol "PIC32MZ1064DAB169_1_1"
-		)
-	)
-(symbol "PIC32MZ1025DAL169"
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(property "Series" "PIC32MZ"
-			(at -12.7 5.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Footprint" "LFBGA169"
-			(at -12.7 7.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "MP" "PIC32MZ1025DAL169"
-			(at -12.7 10.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Architecture" "MIPS"
-			(at -12.7 12.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "PINOUT" "LFBGA169"
-			(at -12.7 15.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Reference" "U"
-			(at -12.7 17.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "PIC32MZ1025DAL169"
-			(at -12.7 20.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Family" "PIC32MZDA"
-			(at -12.7 22.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "MF" "Microchip"
-			(at -12.7 25.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Name" "PIC32MZ1025DAL169"
-			(at -12.7 27.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(symbol "PIC32MZ1025DAL169_0_1"
-			(rectangle
-				(start -7.62 5.08)
-				(end 7.62 -5.08)
-				(stroke
-					(width 0.254)
-					(type default)
-				)
-				(fill
-					(type background)
-				)
-			)
-		)
-		(symbol "PIC32MZ1025DAL169_1_1"
-		)
-	)
-(symbol "PIC32MZ1025DAG176"
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(property "Series" "PIC32MZ"
-			(at -12.7 5.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Footprint" "LQFP176"
-			(at -12.7 7.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "MP" "PIC32MZ1025DAG176"
-			(at -12.7 10.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Architecture" "MIPS"
-			(at -12.7 12.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "PINOUT" "LQFP176"
-			(at -12.7 15.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Reference" "U"
-			(at -12.7 17.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "PIC32MZ1025DAG176"
-			(at -12.7 20.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Family" "PIC32MZDA"
-			(at -12.7 22.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "MF" "Microchip"
-			(at -12.7 25.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Name" "PIC32MZ1025DAG176"
-			(at -12.7 27.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(symbol "PIC32MZ1025DAG176_0_1"
-			(rectangle
-				(start -7.62 5.08)
-				(end 7.62 -5.08)
-				(stroke
-					(width 0.254)
-					(type default)
-				)
-				(fill
-					(type background)
-				)
-			)
-		)
-		(symbol "PIC32MZ1025DAG176_1_1"
-		)
-	)
-(symbol "PIC32MZ1064DAB176"
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(property "Series" "PIC32MZ"
-			(at -12.7 5.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Footprint" "LQFP176"
-			(at -12.7 7.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "MP" "PIC32MZ1064DAB176"
-			(at -12.7 10.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Architecture" "MIPS"
-			(at -12.7 12.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "PINOUT" "LQFP176"
-			(at -12.7 15.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Reference" "U"
-			(at -12.7 17.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "PIC32MZ1064DAB176"
-			(at -12.7 20.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Family" "PIC32MZDA"
-			(at -12.7 22.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "MF" "Microchip"
-			(at -12.7 25.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Name" "PIC32MZ1064DAB176"
-			(at -12.7 27.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(symbol "PIC32MZ1064DAB176_0_1"
-			(rectangle
-				(start -7.62 5.08)
-				(end 7.62 -5.08)
-				(stroke
-					(width 0.254)
-					(type default)
-				)
-				(fill
-					(type background)
-				)
-			)
-		)
-		(symbol "PIC32MZ1064DAB176_1_1"
-		)
-	)
-(symbol "PIC32MZ2025DAG176"
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(property "Series" "PIC32MZ"
-			(at -12.7 5.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Footprint" "LQFP176"
-			(at -12.7 7.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "MP" "PIC32MZ2025DAG176"
-			(at -12.7 10.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Architecture" "MIPS"
-			(at -12.7 12.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "PINOUT" "LQFP176"
-			(at -12.7 15.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Reference" "U"
-			(at -12.7 17.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "PIC32MZ2025DAG176"
-			(at -12.7 20.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Family" "PIC32MZDA"
-			(at -12.7 22.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "MF" "Microchip"
-			(at -12.7 25.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Name" "PIC32MZ2025DAG176"
-			(at -12.7 27.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(symbol "PIC32MZ2025DAG176_0_1"
-			(rectangle
-				(start -7.62 5.08)
-				(end 7.62 -5.08)
-				(stroke
-					(width 0.254)
-					(type default)
-				)
-				(fill
-					(type background)
-				)
-			)
-		)
-		(symbol "PIC32MZ2025DAG176_1_1"
-		)
-	)
-(symbol "PIC32MZ2025DAA176"
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(property "Series" "PIC32MZ"
-			(at -12.7 5.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Footprint" "LQFP176"
-			(at -12.7 7.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "MP" "PIC32MZ2025DAA176"
-			(at -12.7 10.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Architecture" "MIPS"
-			(at -12.7 12.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "PINOUT" "LQFP176"
-			(at -12.7 15.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Reference" "U"
-			(at -12.7 17.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "PIC32MZ2025DAA176"
-			(at -12.7 20.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Family" "PIC32MZDA"
-			(at -12.7 22.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "MF" "Microchip"
-			(at -12.7 25.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Name" "PIC32MZ2025DAA176"
-			(at -12.7 27.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(symbol "PIC32MZ2025DAA176_0_1"
-			(rectangle
-				(start -7.62 5.08)
-				(end 7.62 -5.08)
-				(stroke
-					(width 0.254)
-					(type default)
-				)
-				(fill
-					(type background)
-				)
-			)
-		)
-		(symbol "PIC32MZ2025DAA176_1_1"
-		)
-	)
-(symbol "PIC32MZ2025DAK169"
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(property "Series" "PIC32MZ"
-			(at -12.7 5.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Footprint" "LFBGA169"
-			(at -12.7 7.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "MP" "PIC32MZ2025DAK169"
-			(at -12.7 10.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Architecture" "MIPS"
-			(at -12.7 12.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "PINOUT" "LFBGA169"
-			(at -12.7 15.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Reference" "U"
-			(at -12.7 17.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "PIC32MZ2025DAK169"
-			(at -12.7 20.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Family" "PIC32MZDA"
-			(at -12.7 22.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "MF" "Microchip"
-			(at -12.7 25.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Name" "PIC32MZ2025DAK169"
-			(at -12.7 27.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(symbol "PIC32MZ2025DAK169_0_1"
-			(rectangle
-				(start -7.62 5.08)
-				(end 7.62 -5.08)
-				(stroke
-					(width 0.254)
-					(type default)
-				)
-				(fill
-					(type background)
-				)
-			)
-		)
-		(symbol "PIC32MZ2025DAK169_1_1"
-		)
-	)
-(symbol "PIC32MZ2064DAR169"
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(property "Series" "PIC32MZ"
-			(at -12.7 5.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Footprint" "LFBGA169"
-			(at -12.7 7.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "MP" "PIC32MZ2064DAR169"
-			(at -12.7 10.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Architecture" "MIPS"
-			(at -12.7 12.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "PINOUT" "LFBGA169"
-			(at -12.7 15.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Reference" "U"
-			(at -12.7 17.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "PIC32MZ2064DAR169"
-			(at -12.7 20.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Family" "PIC32MZDA"
-			(at -12.7 22.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "MF" "Microchip"
-			(at -12.7 25.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Name" "PIC32MZ2064DAR169"
-			(at -12.7 27.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(symbol "PIC32MZ2064DAR169_0_1"
-			(rectangle
-				(start -7.62 5.08)
-				(end 7.62 -5.08)
-				(stroke
-					(width 0.254)
-					(type default)
-				)
-				(fill
-					(type background)
-				)
-			)
-		)
-		(symbol "PIC32MZ2064DAR169_1_1"
-		)
-	)
-(symbol "PIC32MZ2064DAL176"
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(property "Series" "PIC32MZ"
-			(at -12.7 5.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Footprint" "LQFP176"
-			(at -12.7 7.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "MP" "PIC32MZ2064DAL176"
-			(at -12.7 10.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Architecture" "MIPS"
-			(at -12.7 12.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "PINOUT" "LQFP176"
-			(at -12.7 15.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Reference" "U"
-			(at -12.7 17.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "PIC32MZ2064DAL176"
-			(at -12.7 20.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Family" "PIC32MZDA"
-			(at -12.7 22.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "MF" "Microchip"
-			(at -12.7 25.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Name" "PIC32MZ2064DAL176"
-			(at -12.7 27.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(symbol "PIC32MZ2064DAL176_0_1"
-			(rectangle
-				(start -7.62 5.08)
-				(end 7.62 -5.08)
-				(stroke
-					(width 0.254)
-					(type default)
-				)
-				(fill
-					(type background)
-				)
-			)
-		)
-		(symbol "PIC32MZ2064DAL176_1_1"
-		)
-	)
-(symbol "PIC32MZ1025DAG169"
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(property "Series" "PIC32MZ"
-			(at -12.7 5.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Footprint" "LFBGA169"
-			(at -12.7 7.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "MP" "PIC32MZ1025DAG169"
-			(at -12.7 10.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Architecture" "MIPS"
-			(at -12.7 12.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "PINOUT" "LFBGA169"
-			(at -12.7 15.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Reference" "U"
-			(at -12.7 17.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "PIC32MZ1025DAG169"
-			(at -12.7 20.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Family" "PIC32MZDA"
-			(at -12.7 22.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "MF" "Microchip"
-			(at -12.7 25.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Name" "PIC32MZ1025DAG169"
-			(at -12.7 27.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(symbol "PIC32MZ1025DAG169_0_1"
-			(rectangle
-				(start -7.62 5.08)
-				(end 7.62 -5.08)
-				(stroke
-					(width 0.254)
-					(type default)
-				)
-				(fill
-					(type background)
-				)
-			)
-		)
-		(symbol "PIC32MZ1025DAG169_1_1"
-		)
-	)
-(symbol "PIC32MZ1064DAA169"
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(property "Series" "PIC32MZ"
-			(at -12.7 5.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Footprint" "LFBGA169"
-			(at -12.7 7.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "MP" "PIC32MZ1064DAA169"
-			(at -12.7 10.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Architecture" "MIPS"
-			(at -12.7 12.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "PINOUT" "LFBGA169"
-			(at -12.7 15.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Reference" "U"
-			(at -12.7 17.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "PIC32MZ1064DAA169"
-			(at -12.7 20.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Family" "PIC32MZDA"
-			(at -12.7 22.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "MF" "Microchip"
-			(at -12.7 25.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Name" "PIC32MZ1064DAA169"
-			(at -12.7 27.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(symbol "PIC32MZ1064DAA169_0_1"
-			(rectangle
-				(start -7.62 5.08)
-				(end 7.62 -5.08)
-				(stroke
-					(width 0.254)
-					(type default)
-				)
-				(fill
-					(type background)
-				)
-			)
-		)
-		(symbol "PIC32MZ1064DAA169_1_1"
-		)
-	)
-(symbol "PIC32MZ2025DAA169"
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(property "Series" "PIC32MZ"
-			(at -12.7 5.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Footprint" "LFBGA169"
-			(at -12.7 7.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "MP" "PIC32MZ2025DAA169"
-			(at -12.7 10.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Architecture" "MIPS"
-			(at -12.7 12.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "PINOUT" "LFBGA169"
-			(at -12.7 15.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Reference" "U"
-			(at -12.7 17.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "PIC32MZ2025DAA169"
-			(at -12.7 20.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Family" "PIC32MZDA"
-			(at -12.7 22.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "MF" "Microchip"
-			(at -12.7 25.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Name" "PIC32MZ2025DAA169"
-			(at -12.7 27.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(symbol "PIC32MZ2025DAA169_0_1"
-			(rectangle
-				(start -7.62 5.08)
-				(end 7.62 -5.08)
-				(stroke
-					(width 0.254)
-					(type default)
-				)
-				(fill
-					(type background)
-				)
-			)
-		)
-		(symbol "PIC32MZ2025DAA169_1_1"
 		)
 	)
 (symbol "PIC32MZ1025DAB169"
@@ -6964,125 +4722,7 @@
 		(symbol "PIC32MZ1025DAB169_1_1"
 		)
 	)
-(symbol "PIC32MZ1025DAA288"
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(property "Series" "PIC32MZ"
-			(at -12.7 5.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Footprint" "LFBGA288"
-			(at -12.7 7.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "MP" "PIC32MZ1025DAA288"
-			(at -12.7 10.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Architecture" "MIPS"
-			(at -12.7 12.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "PINOUT" "LFBGA288"
-			(at -12.7 15.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Reference" "U"
-			(at -12.7 17.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "PIC32MZ1025DAA288"
-			(at -12.7 20.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Family" "PIC32MZDA"
-			(at -12.7 22.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "MF" "Microchip"
-			(at -12.7 25.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Name" "PIC32MZ1025DAA288"
-			(at -12.7 27.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(symbol "PIC32MZ1025DAA288_0_1"
-			(rectangle
-				(start -7.62 5.08)
-				(end 7.62 -5.08)
-				(stroke
-					(width 0.254)
-					(type default)
-				)
-				(fill
-					(type background)
-				)
-			)
-		)
-		(symbol "PIC32MZ1025DAA288_1_1"
-		)
-	)
-(symbol "PIC32MZ1064DAL176"
+(symbol "PIC32MZ2025DAS176"
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -7106,7 +4746,7 @@
 				(justify left)
 			)
 		)
-		(property "MP" "PIC32MZ1064DAL176"
+		(property "MP" "PIC32MZ2025DAS176"
 			(at -12.7 10.08 0)
 			(effects
 				(font
@@ -7145,7 +4785,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "PIC32MZ1064DAL176"
+		(property "Value" "PIC32MZ2025DAS176"
 			(at -12.7 20.08 0)
 			(effects
 				(font
@@ -7174,7 +4814,7 @@
 				(justify left)
 			)
 		)
-		(property "Name" "PIC32MZ1064DAL176"
+		(property "Name" "PIC32MZ2025DAS176"
 			(at -12.7 27.58 0)
 			(effects
 				(font
@@ -7184,7 +4824,7 @@
 				(justify left)
 			)
 		)
-		(symbol "PIC32MZ1064DAL176_0_1"
+		(symbol "PIC32MZ2025DAS176_0_1"
 			(rectangle
 				(start -7.62 5.08)
 				(end 7.62 -5.08)
@@ -7197,7 +4837,1659 @@
 				)
 			)
 		)
-		(symbol "PIC32MZ1064DAL176_1_1"
+		(symbol "PIC32MZ2025DAS176_1_1"
+		)
+	)
+(symbol "PIC32MZ1064DAK176"
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Series" "PIC32MZ"
+			(at -12.7 5.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Footprint" "LQFP176"
+			(at -12.7 7.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "MP" "PIC32MZ1064DAK176"
+			(at -12.7 10.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Architecture" "MIPS"
+			(at -12.7 12.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "PINOUT" "LQFP176"
+			(at -12.7 15.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Reference" "U"
+			(at -12.7 17.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "PIC32MZ1064DAK176"
+			(at -12.7 20.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Family" "PIC32MZDA"
+			(at -12.7 22.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "MF" "Microchip"
+			(at -12.7 25.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Name" "PIC32MZ1064DAK176"
+			(at -12.7 27.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(symbol "PIC32MZ1064DAK176_0_1"
+			(rectangle
+				(start -7.62 5.08)
+				(end 7.62 -5.08)
+				(stroke
+					(width 0.254)
+					(type default)
+				)
+				(fill
+					(type background)
+				)
+			)
+		)
+		(symbol "PIC32MZ1064DAK176_1_1"
+		)
+	)
+(symbol "PIC32MZ2025DAB176"
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Series" "PIC32MZ"
+			(at -12.7 5.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Footprint" "LQFP176"
+			(at -12.7 7.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "MP" "PIC32MZ2025DAB176"
+			(at -12.7 10.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Architecture" "MIPS"
+			(at -12.7 12.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "PINOUT" "LQFP176"
+			(at -12.7 15.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Reference" "U"
+			(at -12.7 17.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "PIC32MZ2025DAB176"
+			(at -12.7 20.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Family" "PIC32MZDA"
+			(at -12.7 22.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "MF" "Microchip"
+			(at -12.7 25.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Name" "PIC32MZ2025DAB176"
+			(at -12.7 27.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(symbol "PIC32MZ2025DAB176_0_1"
+			(rectangle
+				(start -7.62 5.08)
+				(end 7.62 -5.08)
+				(stroke
+					(width 0.254)
+					(type default)
+				)
+				(fill
+					(type background)
+				)
+			)
+		)
+		(symbol "PIC32MZ2025DAB176_1_1"
+		)
+	)
+(symbol "PIC32MZ1064DAB176"
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Series" "PIC32MZ"
+			(at -12.7 5.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Footprint" "LQFP176"
+			(at -12.7 7.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "MP" "PIC32MZ1064DAB176"
+			(at -12.7 10.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Architecture" "MIPS"
+			(at -12.7 12.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "PINOUT" "LQFP176"
+			(at -12.7 15.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Reference" "U"
+			(at -12.7 17.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "PIC32MZ1064DAB176"
+			(at -12.7 20.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Family" "PIC32MZDA"
+			(at -12.7 22.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "MF" "Microchip"
+			(at -12.7 25.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Name" "PIC32MZ1064DAB176"
+			(at -12.7 27.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(symbol "PIC32MZ1064DAB176_0_1"
+			(rectangle
+				(start -7.62 5.08)
+				(end 7.62 -5.08)
+				(stroke
+					(width 0.254)
+					(type default)
+				)
+				(fill
+					(type background)
+				)
+			)
+		)
+		(symbol "PIC32MZ1064DAB176_1_1"
+		)
+	)
+(symbol "PIC32MZ1064DAA169"
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Series" "PIC32MZ"
+			(at -12.7 5.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Footprint" "LFBGA169"
+			(at -12.7 7.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "MP" "PIC32MZ1064DAA169"
+			(at -12.7 10.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Architecture" "MIPS"
+			(at -12.7 12.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "PINOUT" "LFBGA169"
+			(at -12.7 15.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Reference" "U"
+			(at -12.7 17.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "PIC32MZ1064DAA169"
+			(at -12.7 20.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Family" "PIC32MZDA"
+			(at -12.7 22.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "MF" "Microchip"
+			(at -12.7 25.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Name" "PIC32MZ1064DAA169"
+			(at -12.7 27.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(symbol "PIC32MZ1064DAA169_0_1"
+			(rectangle
+				(start -7.62 5.08)
+				(end 7.62 -5.08)
+				(stroke
+					(width 0.254)
+					(type default)
+				)
+				(fill
+					(type background)
+				)
+			)
+		)
+		(symbol "PIC32MZ1064DAA169_1_1"
+		)
+	)
+(symbol "PIC32MZ2025DAK169"
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Series" "PIC32MZ"
+			(at -12.7 5.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Footprint" "LFBGA169"
+			(at -12.7 7.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "MP" "PIC32MZ2025DAK169"
+			(at -12.7 10.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Architecture" "MIPS"
+			(at -12.7 12.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "PINOUT" "LFBGA169"
+			(at -12.7 15.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Reference" "U"
+			(at -12.7 17.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "PIC32MZ2025DAK169"
+			(at -12.7 20.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Family" "PIC32MZDA"
+			(at -12.7 22.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "MF" "Microchip"
+			(at -12.7 25.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Name" "PIC32MZ2025DAK169"
+			(at -12.7 27.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(symbol "PIC32MZ2025DAK169_0_1"
+			(rectangle
+				(start -7.62 5.08)
+				(end 7.62 -5.08)
+				(stroke
+					(width 0.254)
+					(type default)
+				)
+				(fill
+					(type background)
+				)
+			)
+		)
+		(symbol "PIC32MZ2025DAK169_1_1"
+		)
+	)
+(symbol "PIC32MZ2025DAL169"
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Series" "PIC32MZ"
+			(at -12.7 5.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Footprint" "LFBGA169"
+			(at -12.7 7.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "MP" "PIC32MZ2025DAL169"
+			(at -12.7 10.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Architecture" "MIPS"
+			(at -12.7 12.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "PINOUT" "LFBGA169"
+			(at -12.7 15.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Reference" "U"
+			(at -12.7 17.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "PIC32MZ2025DAL169"
+			(at -12.7 20.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Family" "PIC32MZDA"
+			(at -12.7 22.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "MF" "Microchip"
+			(at -12.7 25.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Name" "PIC32MZ2025DAL169"
+			(at -12.7 27.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(symbol "PIC32MZ2025DAL169_0_1"
+			(rectangle
+				(start -7.62 5.08)
+				(end 7.62 -5.08)
+				(stroke
+					(width 0.254)
+					(type default)
+				)
+				(fill
+					(type background)
+				)
+			)
+		)
+		(symbol "PIC32MZ2025DAL169_1_1"
+		)
+	)
+(symbol "PIC32MZ2064DAA169"
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Series" "PIC32MZ"
+			(at -12.7 5.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Footprint" "LFBGA169"
+			(at -12.7 7.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "MP" "PIC32MZ2064DAA169"
+			(at -12.7 10.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Architecture" "MIPS"
+			(at -12.7 12.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "PINOUT" "LFBGA169"
+			(at -12.7 15.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Reference" "U"
+			(at -12.7 17.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "PIC32MZ2064DAA169"
+			(at -12.7 20.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Family" "PIC32MZDA"
+			(at -12.7 22.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "MF" "Microchip"
+			(at -12.7 25.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Name" "PIC32MZ2064DAA169"
+			(at -12.7 27.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(symbol "PIC32MZ2064DAA169_0_1"
+			(rectangle
+				(start -7.62 5.08)
+				(end 7.62 -5.08)
+				(stroke
+					(width 0.254)
+					(type default)
+				)
+				(fill
+					(type background)
+				)
+			)
+		)
+		(symbol "PIC32MZ2064DAA169_1_1"
+		)
+	)
+(symbol "PIC32MZ1025DAH176"
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Series" "PIC32MZ"
+			(at -12.7 5.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Footprint" "LQFP176"
+			(at -12.7 7.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "MP" "PIC32MZ1025DAH176"
+			(at -12.7 10.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Architecture" "MIPS"
+			(at -12.7 12.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "PINOUT" "LQFP176"
+			(at -12.7 15.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Reference" "U"
+			(at -12.7 17.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "PIC32MZ1025DAH176"
+			(at -12.7 20.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Family" "PIC32MZDA"
+			(at -12.7 22.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "MF" "Microchip"
+			(at -12.7 25.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Name" "PIC32MZ1025DAH176"
+			(at -12.7 27.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(symbol "PIC32MZ1025DAH176_0_1"
+			(rectangle
+				(start -7.62 5.08)
+				(end 7.62 -5.08)
+				(stroke
+					(width 0.254)
+					(type default)
+				)
+				(fill
+					(type background)
+				)
+			)
+		)
+		(symbol "PIC32MZ1025DAH176_1_1"
+		)
+	)
+(symbol "PIC32MZ1064DAA288"
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Series" "PIC32MZ"
+			(at -12.7 5.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Footprint" "LFBGA288"
+			(at -12.7 7.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "MP" "PIC32MZ1064DAA288"
+			(at -12.7 10.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Architecture" "MIPS"
+			(at -12.7 12.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "PINOUT" "LFBGA288"
+			(at -12.7 15.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Reference" "U"
+			(at -12.7 17.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "PIC32MZ1064DAA288"
+			(at -12.7 20.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Family" "PIC32MZDA"
+			(at -12.7 22.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "MF" "Microchip"
+			(at -12.7 25.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Name" "PIC32MZ1064DAA288"
+			(at -12.7 27.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(symbol "PIC32MZ1064DAA288_0_1"
+			(rectangle
+				(start -7.62 5.08)
+				(end 7.62 -5.08)
+				(stroke
+					(width 0.254)
+					(type default)
+				)
+				(fill
+					(type background)
+				)
+			)
+		)
+		(symbol "PIC32MZ1064DAA288_1_1"
+		)
+	)
+(symbol "PIC32MZ1025DAG176"
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Series" "PIC32MZ"
+			(at -12.7 5.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Footprint" "LQFP176"
+			(at -12.7 7.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "MP" "PIC32MZ1025DAG176"
+			(at -12.7 10.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Architecture" "MIPS"
+			(at -12.7 12.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "PINOUT" "LQFP176"
+			(at -12.7 15.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Reference" "U"
+			(at -12.7 17.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "PIC32MZ1025DAG176"
+			(at -12.7 20.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Family" "PIC32MZDA"
+			(at -12.7 22.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "MF" "Microchip"
+			(at -12.7 25.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Name" "PIC32MZ1025DAG176"
+			(at -12.7 27.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(symbol "PIC32MZ1025DAG176_0_1"
+			(rectangle
+				(start -7.62 5.08)
+				(end 7.62 -5.08)
+				(stroke
+					(width 0.254)
+					(type default)
+				)
+				(fill
+					(type background)
+				)
+			)
+		)
+		(symbol "PIC32MZ1025DAG176_1_1"
+		)
+	)
+(symbol "PIC32MZ2025DAB288"
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Series" "PIC32MZ"
+			(at -12.7 5.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Footprint" "LFBGA288"
+			(at -12.7 7.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "MP" "PIC32MZ2025DAB288"
+			(at -12.7 10.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Architecture" "MIPS"
+			(at -12.7 12.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "PINOUT" "LFBGA288"
+			(at -12.7 15.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Reference" "U"
+			(at -12.7 17.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "PIC32MZ2025DAB288"
+			(at -12.7 20.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Family" "PIC32MZDA"
+			(at -12.7 22.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "MF" "Microchip"
+			(at -12.7 25.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Name" "PIC32MZ2025DAB288"
+			(at -12.7 27.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(symbol "PIC32MZ2025DAB288_0_1"
+			(rectangle
+				(start -7.62 5.08)
+				(end 7.62 -5.08)
+				(stroke
+					(width 0.254)
+					(type default)
+				)
+				(fill
+					(type background)
+				)
+			)
+		)
+		(symbol "PIC32MZ2025DAB288_1_1"
+		)
+	)
+(symbol "PIC32MZ2064DAH169"
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Series" "PIC32MZ"
+			(at -12.7 5.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Footprint" "LFBGA169"
+			(at -12.7 7.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "MP" "PIC32MZ2064DAH169"
+			(at -12.7 10.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Architecture" "MIPS"
+			(at -12.7 12.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "PINOUT" "LFBGA169"
+			(at -12.7 15.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Reference" "U"
+			(at -12.7 17.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "PIC32MZ2064DAH169"
+			(at -12.7 20.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Family" "PIC32MZDA"
+			(at -12.7 22.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "MF" "Microchip"
+			(at -12.7 25.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Name" "PIC32MZ2064DAH169"
+			(at -12.7 27.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(symbol "PIC32MZ2064DAH169_0_1"
+			(rectangle
+				(start -7.62 5.08)
+				(end 7.62 -5.08)
+				(stroke
+					(width 0.254)
+					(type default)
+				)
+				(fill
+					(type background)
+				)
+			)
+		)
+		(symbol "PIC32MZ2064DAH169_1_1"
+		)
+	)
+(symbol "PIC32MZ2025DAA176"
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Series" "PIC32MZ"
+			(at -12.7 5.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Footprint" "LQFP176"
+			(at -12.7 7.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "MP" "PIC32MZ2025DAA176"
+			(at -12.7 10.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Architecture" "MIPS"
+			(at -12.7 12.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "PINOUT" "LQFP176"
+			(at -12.7 15.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Reference" "U"
+			(at -12.7 17.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "PIC32MZ2025DAA176"
+			(at -12.7 20.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Family" "PIC32MZDA"
+			(at -12.7 22.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "MF" "Microchip"
+			(at -12.7 25.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Name" "PIC32MZ2025DAA176"
+			(at -12.7 27.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(symbol "PIC32MZ2025DAA176_0_1"
+			(rectangle
+				(start -7.62 5.08)
+				(end 7.62 -5.08)
+				(stroke
+					(width 0.254)
+					(type default)
+				)
+				(fill
+					(type background)
+				)
+			)
+		)
+		(symbol "PIC32MZ2025DAA176_1_1"
+		)
+	)
+(symbol "PIC32MZ1025DAR169"
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Series" "PIC32MZ"
+			(at -12.7 5.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Footprint" "LFBGA169"
+			(at -12.7 7.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "MP" "PIC32MZ1025DAR169"
+			(at -12.7 10.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Architecture" "MIPS"
+			(at -12.7 12.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "PINOUT" "LFBGA169"
+			(at -12.7 15.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Reference" "U"
+			(at -12.7 17.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "PIC32MZ1025DAR169"
+			(at -12.7 20.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Family" "PIC32MZDA"
+			(at -12.7 22.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "MF" "Microchip"
+			(at -12.7 25.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Name" "PIC32MZ1025DAR169"
+			(at -12.7 27.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(symbol "PIC32MZ1025DAR169_0_1"
+			(rectangle
+				(start -7.62 5.08)
+				(end 7.62 -5.08)
+				(stroke
+					(width 0.254)
+					(type default)
+				)
+				(fill
+					(type background)
+				)
+			)
+		)
+		(symbol "PIC32MZ1025DAR169_1_1"
 		)
 	)
 (symbol "PIC32MZ2064DAK169"
@@ -7318,7 +6610,7 @@
 		(symbol "PIC32MZ2064DAK169_1_1"
 		)
 	)
-(symbol "PIC32MZ1064DAS176"
+(symbol "PIC32MZ2064DAL176"
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -7342,7 +6634,7 @@
 				(justify left)
 			)
 		)
-		(property "MP" "PIC32MZ1064DAS176"
+		(property "MP" "PIC32MZ2064DAL176"
 			(at -12.7 10.08 0)
 			(effects
 				(font
@@ -7381,7 +6673,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "PIC32MZ1064DAS176"
+		(property "Value" "PIC32MZ2064DAL176"
 			(at -12.7 20.08 0)
 			(effects
 				(font
@@ -7410,7 +6702,7 @@
 				(justify left)
 			)
 		)
-		(property "Name" "PIC32MZ1064DAS176"
+		(property "Name" "PIC32MZ2064DAL176"
 			(at -12.7 27.58 0)
 			(effects
 				(font
@@ -7420,7 +6712,7 @@
 				(justify left)
 			)
 		)
-		(symbol "PIC32MZ1064DAS176_0_1"
+		(symbol "PIC32MZ2064DAL176_0_1"
 			(rectangle
 				(start -7.62 5.08)
 				(end 7.62 -5.08)
@@ -7433,7 +6725,479 @@
 				)
 			)
 		)
-		(symbol "PIC32MZ1064DAS176_1_1"
+		(symbol "PIC32MZ2064DAL176_1_1"
+		)
+	)
+(symbol "PIC32MZ1025DAL169"
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Series" "PIC32MZ"
+			(at -12.7 5.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Footprint" "LFBGA169"
+			(at -12.7 7.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "MP" "PIC32MZ1025DAL169"
+			(at -12.7 10.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Architecture" "MIPS"
+			(at -12.7 12.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "PINOUT" "LFBGA169"
+			(at -12.7 15.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Reference" "U"
+			(at -12.7 17.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "PIC32MZ1025DAL169"
+			(at -12.7 20.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Family" "PIC32MZDA"
+			(at -12.7 22.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "MF" "Microchip"
+			(at -12.7 25.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Name" "PIC32MZ1025DAL169"
+			(at -12.7 27.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(symbol "PIC32MZ1025DAL169_0_1"
+			(rectangle
+				(start -7.62 5.08)
+				(end 7.62 -5.08)
+				(stroke
+					(width 0.254)
+					(type default)
+				)
+				(fill
+					(type background)
+				)
+			)
+		)
+		(symbol "PIC32MZ1025DAL169_1_1"
+		)
+	)
+(symbol "PIC32MZ2064DAR169"
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Series" "PIC32MZ"
+			(at -12.7 5.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Footprint" "LFBGA169"
+			(at -12.7 7.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "MP" "PIC32MZ2064DAR169"
+			(at -12.7 10.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Architecture" "MIPS"
+			(at -12.7 12.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "PINOUT" "LFBGA169"
+			(at -12.7 15.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Reference" "U"
+			(at -12.7 17.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "PIC32MZ2064DAR169"
+			(at -12.7 20.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Family" "PIC32MZDA"
+			(at -12.7 22.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "MF" "Microchip"
+			(at -12.7 25.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Name" "PIC32MZ2064DAR169"
+			(at -12.7 27.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(symbol "PIC32MZ2064DAR169_0_1"
+			(rectangle
+				(start -7.62 5.08)
+				(end 7.62 -5.08)
+				(stroke
+					(width 0.254)
+					(type default)
+				)
+				(fill
+					(type background)
+				)
+			)
+		)
+		(symbol "PIC32MZ2064DAR169_1_1"
+		)
+	)
+(symbol "PIC32MZ1064DAB169"
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Series" "PIC32MZ"
+			(at -12.7 5.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Footprint" "LFBGA169"
+			(at -12.7 7.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "MP" "PIC32MZ1064DAB169"
+			(at -12.7 10.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Architecture" "MIPS"
+			(at -12.7 12.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "PINOUT" "LFBGA169"
+			(at -12.7 15.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Reference" "U"
+			(at -12.7 17.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "PIC32MZ1064DAB169"
+			(at -12.7 20.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Family" "PIC32MZDA"
+			(at -12.7 22.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "MF" "Microchip"
+			(at -12.7 25.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Name" "PIC32MZ1064DAB169"
+			(at -12.7 27.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(symbol "PIC32MZ1064DAB169_0_1"
+			(rectangle
+				(start -7.62 5.08)
+				(end 7.62 -5.08)
+				(stroke
+					(width 0.254)
+					(type default)
+				)
+				(fill
+					(type background)
+				)
+			)
+		)
+		(symbol "PIC32MZ1064DAB169_1_1"
+		)
+	)
+(symbol "PIC32MZ1025DAA288"
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Series" "PIC32MZ"
+			(at -12.7 5.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Footprint" "LFBGA288"
+			(at -12.7 7.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "MP" "PIC32MZ1025DAA288"
+			(at -12.7 10.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Architecture" "MIPS"
+			(at -12.7 12.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "PINOUT" "LFBGA288"
+			(at -12.7 15.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Reference" "U"
+			(at -12.7 17.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "PIC32MZ1025DAA288"
+			(at -12.7 20.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Family" "PIC32MZDA"
+			(at -12.7 22.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "MF" "Microchip"
+			(at -12.7 25.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Name" "PIC32MZ1025DAA288"
+			(at -12.7 27.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(symbol "PIC32MZ1025DAA288_0_1"
+			(rectangle
+				(start -7.62 5.08)
+				(end 7.62 -5.08)
+				(stroke
+					(width 0.254)
+					(type default)
+				)
+				(fill
+					(type background)
+				)
+			)
+		)
+		(symbol "PIC32MZ1025DAA288_1_1"
 		)
 	)
 (symbol "PIC32MZ2025DAL176"
@@ -7672,6 +7436,478 @@
 		(symbol "PIC32MZ1064DAG169_1_1"
 		)
 	)
+(symbol "PIC32MZ1064DAS176"
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Series" "PIC32MZ"
+			(at -12.7 5.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Footprint" "LQFP176"
+			(at -12.7 7.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "MP" "PIC32MZ1064DAS176"
+			(at -12.7 10.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Architecture" "MIPS"
+			(at -12.7 12.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "PINOUT" "LQFP176"
+			(at -12.7 15.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Reference" "U"
+			(at -12.7 17.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "PIC32MZ1064DAS176"
+			(at -12.7 20.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Family" "PIC32MZDA"
+			(at -12.7 22.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "MF" "Microchip"
+			(at -12.7 25.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Name" "PIC32MZ1064DAS176"
+			(at -12.7 27.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(symbol "PIC32MZ1064DAS176_0_1"
+			(rectangle
+				(start -7.62 5.08)
+				(end 7.62 -5.08)
+				(stroke
+					(width 0.254)
+					(type default)
+				)
+				(fill
+					(type background)
+				)
+			)
+		)
+		(symbol "PIC32MZ1064DAS176_1_1"
+		)
+	)
+(symbol "PIC32MZ2025DAA169"
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Series" "PIC32MZ"
+			(at -12.7 5.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Footprint" "LFBGA169"
+			(at -12.7 7.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "MP" "PIC32MZ2025DAA169"
+			(at -12.7 10.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Architecture" "MIPS"
+			(at -12.7 12.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "PINOUT" "LFBGA169"
+			(at -12.7 15.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Reference" "U"
+			(at -12.7 17.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "PIC32MZ2025DAA169"
+			(at -12.7 20.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Family" "PIC32MZDA"
+			(at -12.7 22.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "MF" "Microchip"
+			(at -12.7 25.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Name" "PIC32MZ2025DAA169"
+			(at -12.7 27.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(symbol "PIC32MZ2025DAA169_0_1"
+			(rectangle
+				(start -7.62 5.08)
+				(end 7.62 -5.08)
+				(stroke
+					(width 0.254)
+					(type default)
+				)
+				(fill
+					(type background)
+				)
+			)
+		)
+		(symbol "PIC32MZ2025DAA169_1_1"
+		)
+	)
+(symbol "PIC32MZ2064DAB288"
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Series" "PIC32MZ"
+			(at -12.7 5.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Footprint" "LFBGA288"
+			(at -12.7 7.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "MP" "PIC32MZ2064DAB288"
+			(at -12.7 10.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Architecture" "MIPS"
+			(at -12.7 12.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "PINOUT" "LFBGA288"
+			(at -12.7 15.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Reference" "U"
+			(at -12.7 17.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "PIC32MZ2064DAB288"
+			(at -12.7 20.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Family" "PIC32MZDA"
+			(at -12.7 22.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "MF" "Microchip"
+			(at -12.7 25.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Name" "PIC32MZ2064DAB288"
+			(at -12.7 27.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(symbol "PIC32MZ2064DAB288_0_1"
+			(rectangle
+				(start -7.62 5.08)
+				(end 7.62 -5.08)
+				(stroke
+					(width 0.254)
+					(type default)
+				)
+				(fill
+					(type background)
+				)
+			)
+		)
+		(symbol "PIC32MZ2064DAB288_1_1"
+		)
+	)
+(symbol "PIC32MZ1025DAG169"
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Series" "PIC32MZ"
+			(at -12.7 5.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Footprint" "LFBGA169"
+			(at -12.7 7.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "MP" "PIC32MZ1025DAG169"
+			(at -12.7 10.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Architecture" "MIPS"
+			(at -12.7 12.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "PINOUT" "LFBGA169"
+			(at -12.7 15.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Reference" "U"
+			(at -12.7 17.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "PIC32MZ1025DAG169"
+			(at -12.7 20.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Family" "PIC32MZDA"
+			(at -12.7 22.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "MF" "Microchip"
+			(at -12.7 25.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Name" "PIC32MZ1025DAG169"
+			(at -12.7 27.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(symbol "PIC32MZ1025DAG169_0_1"
+			(rectangle
+				(start -7.62 5.08)
+				(end 7.62 -5.08)
+				(stroke
+					(width 0.254)
+					(type default)
+				)
+				(fill
+					(type background)
+				)
+			)
+		)
+		(symbol "PIC32MZ1025DAG169_1_1"
+		)
+	)
 (symbol "PIC32MZ1064DAL169"
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7908,124 +8144,6 @@
 		(symbol "PIC32MZ2064DAA176_1_1"
 		)
 	)
-(symbol "PIC32MZ2064DAB288"
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(property "Series" "PIC32MZ"
-			(at -12.7 5.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Footprint" "LFBGA288"
-			(at -12.7 7.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "MP" "PIC32MZ2064DAB288"
-			(at -12.7 10.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Architecture" "MIPS"
-			(at -12.7 12.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "PINOUT" "LFBGA288"
-			(at -12.7 15.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Reference" "U"
-			(at -12.7 17.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "PIC32MZ2064DAB288"
-			(at -12.7 20.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Family" "PIC32MZDA"
-			(at -12.7 22.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "MF" "Microchip"
-			(at -12.7 25.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Name" "PIC32MZ2064DAB288"
-			(at -12.7 27.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(symbol "PIC32MZ2064DAB288_0_1"
-			(rectangle
-				(start -7.62 5.08)
-				(end 7.62 -5.08)
-				(stroke
-					(width 0.254)
-					(type default)
-				)
-				(fill
-					(type background)
-				)
-			)
-		)
-		(symbol "PIC32MZ2064DAB288_1_1"
-		)
-	)
 (symbol "PIC32MZ1025DAS169"
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8142,124 +8260,6 @@
 			)
 		)
 		(symbol "PIC32MZ1025DAS169_1_1"
-		)
-	)
-(symbol "PIC32MZ2064DAA169"
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(property "Series" "PIC32MZ"
-			(at -12.7 5.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Footprint" "LFBGA169"
-			(at -12.7 7.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "MP" "PIC32MZ2064DAA169"
-			(at -12.7 10.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Architecture" "MIPS"
-			(at -12.7 12.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "PINOUT" "LFBGA169"
-			(at -12.7 15.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Reference" "U"
-			(at -12.7 17.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "PIC32MZ2064DAA169"
-			(at -12.7 20.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Family" "PIC32MZDA"
-			(at -12.7 22.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "MF" "Microchip"
-			(at -12.7 25.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Name" "PIC32MZ2064DAA169"
-			(at -12.7 27.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(symbol "PIC32MZ2064DAA169_0_1"
-			(rectangle
-				(start -7.62 5.08)
-				(end 7.62 -5.08)
-				(stroke
-					(width 0.254)
-					(type default)
-				)
-				(fill
-					(type background)
-				)
-			)
-		)
-		(symbol "PIC32MZ2064DAA169_1_1"
 		)
 	)
 (symbol "PIC32MZ1064DAG176"
