@@ -1,5 +1,5 @@
 (kicad_symbol_lib
-	(version 20251229)
+	(version 20260125)
 	(generator "kicad_symbol_editor")
 	(generator_version "8.0")
 ;Proteus Design Interchange Format
@@ -18,6 +18,7 @@
       (attribute "Architecture" "MIPS")
       (attribute "PINOUT" "DQFN132")
       (attribute "Reference" "U")
+      (attribute "Documentation" "https://www.microchip.com/en-us/search?q=PIC32MZ2051W104132")
       (attribute "Value" "PIC32MZ2051W104132")
       (attribute "Family" "PIC32MZW")
       (attribute "MF" "Microchip")
@@ -136,6 +137,7 @@
       (attribute "Architecture" "MIPS")
       (attribute "PINOUT" "WFI32E01_64pin")
       (attribute "Reference" "U")
+      (attribute "Documentation" "https://www.microchip.com/en-us/search?q=WFI32E01")
       (attribute "Value" "WFI32E01")
       (attribute "Family" "PIC32MZW")
       (attribute "MF" "Microchip")
@@ -254,6 +256,7 @@
       (attribute "Architecture" "MIPS")
       (attribute "PINOUT" "DQFN132")
       (attribute "Reference" "U")
+      (attribute "Documentation" "https://www.microchip.com/en-us/search?q=PIC32MZ1025W104132")
       (attribute "Value" "PIC32MZ1025W104132")
       (attribute "Family" "PIC32MZW")
       (attribute "MF" "Microchip")

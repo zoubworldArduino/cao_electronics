@@ -1,872 +1,1040 @@
 # SAMG
 ## ATSAMG51G18-XX
+
 ### Description : 
+
+- Series : SAMG51
+- Footprint : WLCSP49
+- MP : ATSAMG51G18-XX
+- Architecture : CORTEX-M4
+- PINOUT : WLCSP49
+- Reference : U
+- Documentation : https://www.microchip.com/en-us/search?q=ATSAMG51G18-XX
+- Value : ATSAMG51G18-XX
+- Family : SAMG
+- MF : Microchip
+- Name : ATSAMG51G18
 
 ### Package : 
 
-- C7 : PA0
-- D5 : PA1
-- B4 : PA2
-- C6 : PA3
-- C5 : PA4
-- D6 : PA5
-- G7 : PA6
-- E7 : PA7
-- F7 : PA8
-- A1 : PA9
-- E5 : PA10
-- C2 : PA11
-- C3 : PA12
-- D1 : PA13
-- E4 : PA14
-- G6 : PA15
-- F6 : PA16
-- F3 : PA17
-- E3 : PA18
-- F2 : PA19
-- F1 : PA20
-- F4 : PA21
-- G5 : PA22
-- F5 : PA23
-- A3 : PA24
-- E2 : PB0
-- D3 : PB1
-- E1 : PB2
-- D2 : PB3
-- A6 : PB4
-- B2 : PB5
-- C4 : PB6
-- B3 : PB7
-- A4 : PB8
-- A5 : PB9
-- D4 : PB10
-- B1 : PB11
-- B7 : PB12
-- G2 : VDDOUT
-- B6 : NRST
-- E6 : TST
-- G4 : VDDIO
-- G1 : VDDIO
-- A7 : VDDIO
-- B5 : JTAGSEL
-- C1 : VDDCORE
-- D7 : VDDCORE
-- A2 : GND
-- G3 : GND
+Pin count : 49
+- C7 : PA0,  of Type IO, alternates : [SUPC WKUP_0, TC0 TIOA_0, PIOA P_0]
+- D5 : PA1,  of Type IO, alternates : [SUPC WKUP_1, PIOA P_1, TC0 TIOB_0]
+- B4 : PA2,  of Type IO, alternates : [SUPC WKUP_2, TC0 TCLK_0, PIOA P_2]
+- C6 : PA3,  of Type IO, alternates : [TWI0 TWD_0, PIOA P_3]
+- C5 : PA4,  of Type IO, alternates : [TWI0 TWCK_0, PIOA P_4]
+- D6 : PA5,  of Type IO, alternates : [SUPC WKUP_4, USART RXD_, PIOA P_5]
+- G7 : PA6,  of Type IO, alternates : [PIOA P_6, USART TXD_, PMC PCK_0]
+- E7 : PA7,  of Type IO, alternates : [PIOA P_7]
+- F7 : PA8,  of Type IO, alternates : [ADC ADTRG_, PIOA P_8, SUPC WKUP_5]
+- A1 : PA9,  of Type IO, alternates : [PIOA P_9, SPI NPCS_1, UART0 URXD_0, SUPC WKUP_6]
+- E5 : PA10,  of Type IO, alternates : [UART0 UTXD_0, PIOA P_10]
+- C2 : PA11,  of Type IO, alternates : [SPI NPCS_0, PIOA P_11, SUPC WKUP_7]
+- C3 : PA12,  of Type IO, alternates : [SPI MISO_, PIOA P_12]
+- D1 : PA13,  of Type IO, alternates : [SPI MOSI_, PIOA P_13]
+- E4 : PA14,  of Type IO, alternates : [SPI SPCK_, SUPC WKUP_8, PIOA P_14]
+- G6 : PA15,  of Type IO, alternates : [PIOA P_15, USART SCK_, USART RTS_]
+- F6 : PA16,  of Type IO, alternates : [PIOA P_16, TC0 TIOB_1, USART CTS_]
+- F3 : PA17,  of Type IO, alternates : [PMC PCK_1, PIOA P_17, ADC AD_0]
+- E3 : PA18,  of Type IO, alternates : [PMC PCK_2, PIOA P_18, ADC AD_1]
+- F2 : PA19,  of Type IO, alternates : [TC0 TCLK_1, PIOA P_19, ADC AD_2]
+- F1 : PA20,  of Type IO, alternates : [PIOA P_20, TC0 TCLK_2, ADC AD_3]
+- F4 : PA21,  of Type IO, alternates : [PMC PCK_1, PIOA P_21, SUPC WKUP_9, TC0 TIOA_2]
+- G5 : PA22,  of Type IO, alternates : [SUPC WKUP_10, TC0 TIOB_2, PIOA P_22]
+- F5 : PA23,  of Type IO, alternates : [SUPC WKUP_3, TC0 TIOA_1, PIOA P_23]
+- A3 : PA24,  of Type IO, alternates : [SUPC WKUP_11, PIOA P_24]
+- E2 : PB0,  of Type IO, alternates : [ADC AD_4, TWI2 TWD_2, PIOB P_32]
+- D3 : PB1,  of Type IO, alternates : [ADC AD_5, TWI2 TWCK_2, PIOB P_33]
+- E1 : PB2,  of Type IO, alternates : [ADC AD_6, SUPC WKUP_12, SPI NPCS_1, PIOB P_34, UART1 URXD_1, ADC WKUP_12]
+- D2 : PB3,  of Type IO, alternates : [SUPC WKUP_13, ADC AD_7, PMC PCK_2, UART1 UTXD_1, PIOB P_35, ADC WKUP_13]
+- A6 : PB4,  of Type IO, alternates : [ICE TDI_, PIOB P_36]
+- B2 : PB5,  of Type IO, alternates : [ICE TDO_, PIOB P_37, ICE TRACESWO_]
+- C4 : PB6,  of Type IO, alternates : [ICE SWDIO_, ICE TMS_, PIOB P_38]
+- B3 : PB7,  of Type IO, alternates : [PIOB P_39, ICE TCK_, ICE SWDCLK_]
+- A4 : PB8,  of Type IO, alternates : [PIOB P_40, TWI1 TWD_1, SUPC WKUP_14]
+- A5 : PB9,  of Type IO, alternates : [TWI1 TWCK_1, PIOB P_41, SUPC WKUP_15]
+- D4 : PB10,  of Type IO, alternates : [TWI1 TWD_1, TWI2 TWD_2, PIOB P_42]
+- B1 : PB11,  of Type IO, alternates : [TWI2 TWCK_2, TWI1 TWCK_1, PIOB P_43]
+- B7 : PB12,  of Type IO, alternates : [PIOB P_44, EFC ERASE_]
+- G2 : VDDOUT,  of Type PP
+- B6 : NRST,  of Type IP
+- E6 : TST,  of Type IO
+- G4 : VDDIO,  of Type PP
+- G1 : VDDIO,  of Type PP
+- A7 : VDDIO,  of Type PP
+- B5 : JTAGSEL,  of Type OP
+- C1 : VDDCORE,  of Type PP
+- D7 : VDDCORE,  of Type PP
+- A2 : GND,  of Type PS
+- G3 : GND,  of Type PS
 ## ATSAMG51N18-AU
+
 ### Description : 
+
+- Series : SAMG51
+- Footprint : LQFP100
+- MP : ATSAMG51N18-AU
+- Architecture : CORTEX-M4
+- PINOUT : LQFP100
+- Reference : U
+- Documentation : https://www.microchip.com/en-us/search?q=ATSAMG51N18-AU
+- Value : ATSAMG51N18-AU
+- Family : SAMG
+- MF : Microchip
+- Name : ATSAMG51N18
 
 ### Package : 
 
-- 11 : PA0
-- 12 : PA1
-- 90 : PA2
-- 10 : PA3
-- 9 : PA4
-- 13 : PA5
-- 28 : PA6
-- 18 : PA7
-- 19 : PA8
-- 79 : PA9
-- 72 : PA10
-- 65 : PA11
-- 64 : PA12
-- 63 : PA13
-- 62 : PA14
-- 31 : PA15
-- 30 : PA16
-- 53 : PA17
-- 54 : PA18
-- 55 : PA19
-- 56 : PA20
-- 36 : PA21
-- 35 : PA22
-- 32 : PA23
-- 86 : PA24
-- 57 : PB0
-- 58 : PB1
-- 59 : PB2
-- 60 : PB3
-- 80 : PB5
-- 84 : PB6
-- 91 : PB4
-- 85 : PB7
-- 87 : PB8
-- 88 : PB9
-- 68 : PB10
-- 69 : PB11
-- 8 : PB12
-- 1 : NC
-- 2 : NC
-- 3 : NC
-- 4 : NC
-- 5 : VDDIO
-- 6 : VDDIO
-- 7 : NRST
-- 14 : VDDIO
-- 15 : VDDCORE
-- 16 : VDDCORE
-- 17 : TEST
-- 20 : GND
-- 21 : NC
-- 22 : NC
-- 23 : NC
-- 24 : NC
-- 25 : NC
-- 26 : NC
-- 27 : NC
-- 29 : VDDIO
-- 33 : NC
-- 34 : NC
-- 37 : VDDIO
-- 38 : VDDIO
-- 39 : GND
-- 40 : GND
-- 41 : GND
-- 42 : GND
-- 43 : GND
-- 44 : VDDOUT
-- 45 : VDDOUT
-- 46 : VDDIO
-- 47 : VDDIO
-- 48 : VDDIO
-- 49 : NC
-- 50 : NC
-- 51 : NC
-- 52 : NC
-- 61 : VDDIO
-- 66 : VDDCORE
-- 67 : VDDCORE
-- 70 : GND
-- 71 : GND
-- 73 : NC
-- 74 : NC
-- 75 : NC
-- 76 : NC
-- 77 : NC
-- 78 : NC
-- 81 : GND
-- 82 : GND
-- 83 : GND
-- 89 : VDDIO
-- 92 : NC
-- 93 : JTAGSEL
-- 94 : VDDIO
-- 95 : VDDIO
-- 96 : NC
-- 97 : NC
-- 98 : NC
-- 99 : NC
-- 100 : NC
+Pin count : 100
+- 11 : PA0,  of Type IO, alternates : [SUPC WKUP_0, TC0 TIOA_0, PIOA P_0]
+- 12 : PA1,  of Type IO, alternates : [SUPC WKUP_1, PIOA P_1, TC0 TIOB_0]
+- 90 : PA2,  of Type IO, alternates : [SUPC WKUP_2, TC0 TCLK_0, PIOA P_2]
+- 10 : PA3,  of Type IO, alternates : [TWI0 TWD_0, PIOA P_3]
+- 9 : PA4,  of Type IO, alternates : [TWI0 TWCK_0, PIOA P_4]
+- 13 : PA5,  of Type IO, alternates : [SUPC WKUP_4, USART RXD_, PIOA P_5]
+- 28 : PA6,  of Type IO, alternates : [PIOA P_6, USART TXD_, PMC PCK_0]
+- 18 : PA7,  of Type IO, alternates : [PIOA P_7]
+- 19 : PA8,  of Type IO, alternates : [ADC ADTRG_, PIOA P_8, SUPC WKUP_5]
+- 79 : PA9,  of Type IO, alternates : [PIOA P_9, SPI NPCS_1, UART0 URXD_0, SUPC WKUP_6]
+- 72 : PA10,  of Type IO, alternates : [UART0 UTXD_0, PIOA P_10]
+- 65 : PA11,  of Type IO, alternates : [SPI NPCS_0, PIOA P_11, SUPC WKUP_7]
+- 64 : PA12,  of Type IO, alternates : [SPI MISO_, PIOA P_12]
+- 63 : PA13,  of Type IO, alternates : [SPI MOSI_, PIOA P_13]
+- 62 : PA14,  of Type IO, alternates : [SPI SPCK_, SUPC WKUP_8, PIOA P_14]
+- 31 : PA15,  of Type IO, alternates : [PIOA P_15, USART SCK_, USART RTS_]
+- 30 : PA16,  of Type IO, alternates : [PIOA P_16, TC0 TIOB_1, USART CTS_]
+- 53 : PA17,  of Type IO, alternates : [PMC PCK_1, PIOA P_17, ADC AD_0]
+- 54 : PA18,  of Type IO, alternates : [PMC PCK_2, PIOA P_18, ADC AD_1]
+- 55 : PA19,  of Type IO, alternates : [TC0 TCLK_1, PIOA P_19, ADC AD_2]
+- 56 : PA20,  of Type IO, alternates : [PIOA P_20, TC0 TCLK_2, ADC AD_3]
+- 36 : PA21,  of Type IO, alternates : [PMC PCK_1, PIOA P_21, SUPC WKUP_9, TC0 TIOA_2]
+- 35 : PA22,  of Type IO, alternates : [SUPC WKUP_10, TC0 TIOB_2, PIOA P_22]
+- 32 : PA23,  of Type IO, alternates : [SUPC WKUP_3, TC0 TIOA_1, PIOA P_23]
+- 86 : PA24,  of Type IO, alternates : [SUPC WKUP_11, PIOA P_24]
+- 57 : PB0,  of Type IO, alternates : [ADC AD_4, TWI2 TWD_2, PIOB P_32]
+- 58 : PB1,  of Type IO, alternates : [ADC AD_5, TWI2 TWCK_2, PIOB P_33]
+- 59 : PB2,  of Type IO, alternates : [ADC AD_6, SUPC WKUP_12, SPI NPCS_1, PIOB P_34, UART1 URXD_1, ADC WKUP_12]
+- 60 : PB3,  of Type IO, alternates : [SUPC WKUP_13, ADC AD_7, PMC PCK_2, UART1 UTXD_1, PIOB P_35, ADC WKUP_13]
+- 80 : PB5,  of Type IO, alternates : [ICE TDO_, PIOB P_37, ICE TRACESWO_]
+- 84 : PB6,  of Type IO, alternates : [ICE SWDIO_, ICE TMS_, PIOB P_38]
+- 91 : PB4,  of Type IO, alternates : [ICE TDI_, PIOB P_36]
+- 85 : PB7,  of Type IO, alternates : [PIOB P_39, ICE TCK_, ICE SWDCLK_]
+- 87 : PB8,  of Type IO, alternates : [PIOB P_40, TWI1 TWD_1, SUPC WKUP_14]
+- 88 : PB9,  of Type IO, alternates : [TWI1 TWCK_1, PIOB P_41, SUPC WKUP_15]
+- 68 : PB10,  of Type IO, alternates : [TWI1 TWD_1, TWI2 TWD_2, PIOB P_42]
+- 69 : PB11,  of Type IO, alternates : [TWI2 TWCK_2, TWI1 TWCK_1, PIOB P_43]
+- 8 : PB12,  of Type IO, alternates : [PIOB P_44, EFC ERASE_]
+- 1 : NC,  of Type NC
+- 2 : NC,  of Type NC
+- 3 : NC,  of Type NC
+- 4 : NC,  of Type NC
+- 5 : VDDIO,  of Type PP
+- 6 : VDDIO,  of Type PP
+- 7 : NRST,  of Type IP
+- 14 : VDDIO,  of Type PP
+- 15 : VDDCORE,  of Type PP
+- 16 : VDDCORE,  of Type PP
+- 17 : TEST,  of Type IO
+- 20 : GND,  of Type PS
+- 21 : NC,  of Type NC
+- 22 : NC,  of Type NC
+- 23 : NC,  of Type NC
+- 24 : NC,  of Type NC
+- 25 : NC,  of Type NC
+- 26 : NC,  of Type NC
+- 27 : NC,  of Type NC
+- 29 : VDDIO,  of Type PP
+- 33 : NC,  of Type NC
+- 34 : NC,  of Type NC
+- 37 : VDDIO,  of Type PP
+- 38 : VDDIO,  of Type PP
+- 39 : GND,  of Type PS
+- 40 : GND,  of Type PS
+- 41 : GND,  of Type PS
+- 42 : GND,  of Type PS
+- 43 : GND,  of Type PS
+- 44 : VDDOUT,  of Type PP
+- 45 : VDDOUT,  of Type PP
+- 46 : VDDIO,  of Type PP
+- 47 : VDDIO,  of Type PP
+- 48 : VDDIO,  of Type PP
+- 49 : NC,  of Type NC
+- 50 : NC,  of Type NC
+- 51 : NC,  of Type NC
+- 52 : NC,  of Type NC
+- 61 : VDDIO,  of Type PP
+- 66 : VDDCORE,  of Type PP
+- 67 : VDDCORE,  of Type PP
+- 70 : GND,  of Type PS
+- 71 : GND,  of Type PS
+- 73 : NC,  of Type NC
+- 74 : NC,  of Type NC
+- 75 : NC,  of Type NC
+- 76 : NC,  of Type NC
+- 77 : NC,  of Type NC
+- 78 : NC,  of Type NC
+- 81 : GND,  of Type PS
+- 82 : GND,  of Type PS
+- 83 : GND,  of Type PS
+- 89 : VDDIO,  of Type PP
+- 92 : NC,  of Type NC
+- 93 : JTAGSEL,  of Type OP
+- 94 : VDDIO,  of Type PP
+- 95 : VDDIO,  of Type PP
+- 96 : NC,  of Type NC
+- 97 : NC,  of Type NC
+- 98 : NC,  of Type NC
+- 99 : NC,  of Type NC
+- 100 : NC,  of Type NC
 ## ATSAMG53G19-XX
+
 ### Description : 
+
+- Series : SAMG53
+- Footprint : WLCSP49
+- MP : ATSAMG53G19-XX
+- Architecture : CORTEX-M4
+- PINOUT : WLCSP49
+- Reference : U
+- Documentation : https://www.microchip.com/en-us/search?q=ATSAMG53G19-XX
+- Value : ATSAMG53G19-XX
+- Family : SAMG
+- MF : Microchip
+- Name : ATSAMG53G19
 
 ### Package : 
 
-- C7 : PA0
-- D5 : PA1
-- B4 : PA2
-- C6 : PA3
-- C5 : PA4
-- D6 : PA5
-- G7 : PA6
-- E7 : PA7
-- F7 : PA8
-- A1 : PA9
-- E5 : PA10
-- C2 : PA11
-- C3 : PA12
-- D1 : PA13
-- E4 : PA14
-- G6 : PA15
-- F6 : PA16
-- F3 : PA17
-- E3 : PA18
-- F2 : PA19
-- F1 : PA20
-- F4 : PA21
-- G5 : PA22
-- F5 : PA23
-- A3 : PA24
-- E2 : PB0
-- D3 : PB1
-- E1 : PB2
-- D2 : PB3
-- A6 : PB4
-- B2 : PB5
-- C4 : PB6
-- B3 : PB7
-- A4 : PB8
-- A5 : PB9
-- D4 : PB10
-- B1 : PB11
-- B7 : PB12
-- G2 : VDDOUT
-- B6 : NRST
-- E6 : TST
-- G4 : VDDIO
-- G1 : VDDIO
-- A7 : VDDIO
-- B5 : JTAGSEL
-- C1 : VDDCORE
-- D7 : VDDCORE
-- A2 : GND
-- G3 : GND
+Pin count : 49
+- C7 : PA0,  of Type IO, alternates : [I2SC0 I2SC0_CK_, SUPC WKUP_0, TC0 TIOA_0, PIOA P_0]
+- D5 : PA1,  of Type IO, alternates : [SUPC WKUP_1, I2SC0 I2SC0_WS_, PIOA P_1, TC0 TIOB_0]
+- B4 : PA2,  of Type IO, alternates : [SUPC WKUP_2, TC0 TCLK_0, I2SC0 I2SC0_DI_0, PIOA P_2]
+- C6 : PA3,  of Type IO, alternates : [TWI0 TWD_0, PIOA P_3, I2SC0 I2SC0_DO_0]
+- C5 : PA4,  of Type IO, alternates : [TWI0 TWCK_0, PIOA P_4, I2SC0 I2SC0_MCK_]
+- D6 : PA5,  of Type IO, alternates : [SUPC WKUP_4, USART RXD_, PIOA P_5, SPI NPCS_1]
+- G7 : PA6,  of Type IO, alternates : [PIOA P_6, USART TXD_, PMC PCK_0]
+- E7 : PA7,  of Type IO, alternates : [PIOA P_7]
+- F7 : PA8,  of Type IO, alternates : [ADC ADTRG_, PIOA P_8, SUPC WKUP_5]
+- A1 : PA9,  of Type IO, alternates : [PIOA P_9, PDMIC0 PDMIC0_DAT_, UART0 URXD_0, SUPC WKUP_6]
+- E5 : PA10,  of Type IO, alternates : [UART0 UTXD_0, PIOA P_10, PDMIC0 PDMIC0_CLK_]
+- C2 : PA11,  of Type IO, alternates : [SPI NPCS_0, PIOA P_11]
+- C3 : PA12,  of Type IO, alternates : [SPI MISO_, PIOA P_12]
+- D1 : PA13,  of Type IO, alternates : [SPI MOSI_, PIOA P_13]
+- E4 : PA14,  of Type IO, alternates : [SPI SPCK_, SUPC WKUP_8, PIOA P_14]
+- G6 : PA15,  of Type IO, alternates : [PIOA P_15, USART SCK_, USART RTS_]
+- F6 : PA16,  of Type IO, alternates : [PIOA P_16, TC0 TIOB_1, SUPC WKUP_7, USART CTS_]
+- F3 : PA17,  of Type IO, alternates : [PMC PCK_1, PIOA P_17, I2SC0 I2SC0_DO_0, ADC AD_0]
+- E3 : PA18,  of Type IO, alternates : [PMC PCK_2, PIOA P_18, ADC AD_1, I2SC0 I2SC0_MCK_]
+- F2 : PA19,  of Type IO, alternates : [TC0 TCLK_1, PIOA P_19, ADC AD_2, I2SC1 I2SC1_CK_]
+- F1 : PA20,  of Type IO, alternates : [I2SC1 I2SC1_WS_, PIOA P_20, TC0 TCLK_2, ADC AD_3]
+- F4 : PA21,  of Type IO, alternates : [PMC PCK_1, PIOA P_21, SUPC WKUP_9, TC0 TIOA_2]
+- G5 : PA22,  of Type IO, alternates : [I2SC1 I2SC1_DI_0, SUPC WKUP_10, TC0 TIOB_2, PIOA P_22]
+- F5 : PA23,  of Type IO, alternates : [SUPC WKUP_3, TC0 TIOA_1, I2SC1 I2SC1_DO_0, PIOA P_23]
+- A3 : PA24,  of Type IO, alternates : [I2SC1 I2SC1_MCK_, SUPC WKUP_11, PIOA P_24]
+- E2 : PB0,  of Type IO, alternates : [ADC AD_4, TWI2 TWD_2, PIOB P_32]
+- D3 : PB1,  of Type IO, alternates : [ADC AD_5, TWI2 TWCK_2, PIOB P_33]
+- E1 : PB2,  of Type IO, alternates : [ADC AD_6, SUPC WKUP_12, SPI NPCS_1, PIOB P_34, UART1 URXD_1, ADC WKUP_12]
+- D2 : PB3,  of Type IO, alternates : [SUPC WKUP_13, ADC AD_7, PMC PCK_2, UART1 UTXD_1, PIOB P_35, ADC WKUP_13]
+- A6 : PB4,  of Type IO, alternates : [ICE TDI_, PIOB P_36]
+- B2 : PB5,  of Type IO, alternates : [ICE TDO_, PIOB P_37, ICE TRACESWO_]
+- C4 : PB6,  of Type IO, alternates : [ICE SWDIO_, ICE TMS_, PIOB P_38]
+- B3 : PB7,  of Type IO, alternates : [PIOB P_39, ICE TCK_, ICE SWDCLK_]
+- A4 : PB8,  of Type IO, alternates : [PIOB P_40, TWI1 TWD_1, SUPC WKUP_14]
+- A5 : PB9,  of Type IO, alternates : [TWI1 TWCK_1, PIOB P_41, SUPC WKUP_15]
+- D4 : PB10,  of Type IO, alternates : [TWI1 TWD_1, TWI2 TWD_2, PIOB P_42]
+- B1 : PB11,  of Type IO, alternates : [TWI2 TWCK_2, TWI1 TWCK_1, PIOB P_43]
+- B7 : PB12,  of Type IO, alternates : [PIOB P_44, EFC ERASE_]
+- G2 : VDDOUT,  of Type PP
+- B6 : NRST,  of Type IP
+- E6 : TST,  of Type IO
+- G4 : VDDIO,  of Type PP
+- G1 : VDDIO,  of Type PP
+- A7 : VDDIO,  of Type PP
+- B5 : JTAGSEL,  of Type OP
+- C1 : VDDCORE,  of Type PP
+- D7 : VDDCORE,  of Type PP
+- A2 : GND,  of Type PS
+- G3 : GND,  of Type PS
 ## ATSAMG53N19-AU
+
 ### Description : 
+
+- Series : SAMG53
+- Footprint : LQFP100
+- MP : ATSAMG53N19-AU
+- Architecture : CORTEX-M4
+- PINOUT : LQFP100
+- Reference : U
+- Documentation : https://www.microchip.com/en-us/search?q=ATSAMG53N19-AU
+- Value : ATSAMG53N19-AU
+- Family : SAMG
+- MF : Microchip
+- Name : ATSAMG53N19
 
 ### Package : 
 
-- 11 : PA0
-- 12 : PA1
-- 90 : PA2
-- 10 : PA3
-- 9 : PA4
-- 13 : PA5
-- 28 : PA6
-- 18 : PA7
-- 19 : PA8
-- 79 : PA9
-- 72 : PA10
-- 65 : PA11
-- 64 : PA12
-- 63 : PA13
-- 62 : PA14
-- 31 : PA15
-- 30 : PA16
-- 53 : PA17
-- 54 : PA18
-- 55 : PA19
-- 56 : PA20
-- 36 : PA21
-- 35 : PA22
-- 32 : PA23
-- 86 : PA24
-- 57 : PB0
-- 58 : PB1
-- 59 : PB2
-- 60 : PB3
-- 80 : PB5
-- 84 : PB6
-- 91 : PB4
-- 85 : PB7
-- 87 : PB8
-- 88 : PB9
-- 68 : PB10
-- 69 : PB11
-- 8 : PB12
-- 1 : NC
-- 2 : NC
-- 3 : NC
-- 4 : NC
-- 5 : VDDIO
-- 6 : VDDIO
-- 7 : NRST
-- 14 : VDDIO
-- 15 : VDDCORE
-- 16 : VDDCORE
-- 17 : TEST
-- 20 : GND
-- 21 : NC
-- 22 : NC
-- 23 : NC
-- 24 : NC
-- 25 : NC
-- 26 : NC
-- 27 : NC
-- 29 : VDDIO
-- 33 : NC
-- 34 : NC
-- 37 : VDDIO
-- 38 : VDDIO
-- 39 : GND
-- 40 : GND
-- 41 : GND
-- 42 : GND
-- 43 : GND
-- 44 : VDDOUT
-- 45 : VDDOUT
-- 46 : VDDIO
-- 47 : VDDIO
-- 48 : VDDIO
-- 49 : NC
-- 50 : NC
-- 51 : NC
-- 52 : NC
-- 61 : VDDIO
-- 66 : VDDCORE
-- 67 : VDDCORE
-- 70 : GND
-- 71 : GND
-- 73 : NC
-- 74 : NC
-- 75 : NC
-- 76 : NC
-- 77 : NC
-- 78 : NC
-- 81 : GND
-- 82 : GND
-- 83 : GND
-- 89 : VDDIO
-- 92 : NC
-- 93 : JTAGSEL
-- 94 : VDDIO
-- 95 : VDDIO
-- 96 : NC
-- 97 : NC
-- 98 : NC
-- 99 : NC
-- 100 : NC
+Pin count : 100
+- 11 : PA0,  of Type IO, alternates : [I2SC0 I2SC0_CK_, SUPC WKUP_0, TC0 TIOA_0, PIOA P_0]
+- 12 : PA1,  of Type IO, alternates : [SUPC WKUP_1, I2SC0 I2SC0_WS_, PIOA P_1, TC0 TIOB_0]
+- 90 : PA2,  of Type IO, alternates : [SUPC WKUP_2, TC0 TCLK_0, I2SC0 I2SC0_DI_0, PIOA P_2]
+- 10 : PA3,  of Type IO, alternates : [TWI0 TWD_0, PIOA P_3, I2SC0 I2SC0_DO_0]
+- 9 : PA4,  of Type IO, alternates : [TWI0 TWCK_0, PIOA P_4, I2SC0 I2SC0_MCK_]
+- 13 : PA5,  of Type IO, alternates : [SUPC WKUP_4, USART RXD_, PIOA P_5, SPI NPCS_1]
+- 28 : PA6,  of Type IO, alternates : [PIOA P_6, USART TXD_, PMC PCK_0]
+- 18 : PA7,  of Type IO, alternates : [PIOA P_7]
+- 19 : PA8,  of Type IO, alternates : [ADC ADTRG_, PIOA P_8, SUPC WKUP_5]
+- 79 : PA9,  of Type IO, alternates : [PIOA P_9, PDMIC0 PDMIC0_DAT_, UART0 URXD_0, SUPC WKUP_6]
+- 72 : PA10,  of Type IO, alternates : [UART0 UTXD_0, PIOA P_10, PDMIC0 PDMIC0_CLK_]
+- 65 : PA11,  of Type IO, alternates : [SPI NPCS_0, PIOA P_11]
+- 64 : PA12,  of Type IO, alternates : [SPI MISO_, PIOA P_12]
+- 63 : PA13,  of Type IO, alternates : [SPI MOSI_, PIOA P_13]
+- 62 : PA14,  of Type IO, alternates : [SPI SPCK_, SUPC WKUP_8, PIOA P_14]
+- 31 : PA15,  of Type IO, alternates : [PIOA P_15, USART SCK_, USART RTS_]
+- 30 : PA16,  of Type IO, alternates : [PIOA P_16, TC0 TIOB_1, SUPC WKUP_7, USART CTS_]
+- 53 : PA17,  of Type IO, alternates : [PMC PCK_1, PIOA P_17, I2SC0 I2SC0_DO_0, ADC AD_0]
+- 54 : PA18,  of Type IO, alternates : [PMC PCK_2, PIOA P_18, ADC AD_1, I2SC0 I2SC0_MCK_]
+- 55 : PA19,  of Type IO, alternates : [TC0 TCLK_1, PIOA P_19, ADC AD_2, I2SC1 I2SC1_CK_]
+- 56 : PA20,  of Type IO, alternates : [I2SC1 I2SC1_WS_, PIOA P_20, TC0 TCLK_2, ADC AD_3]
+- 36 : PA21,  of Type IO, alternates : [PMC PCK_1, PIOA P_21, SUPC WKUP_9, TC0 TIOA_2]
+- 35 : PA22,  of Type IO, alternates : [I2SC1 I2SC1_DI_0, SUPC WKUP_10, TC0 TIOB_2, PIOA P_22]
+- 32 : PA23,  of Type IO, alternates : [SUPC WKUP_3, TC0 TIOA_1, I2SC1 I2SC1_DO_0, PIOA P_23]
+- 86 : PA24,  of Type IO, alternates : [I2SC1 I2SC1_MCK_, SUPC WKUP_11, PIOA P_24]
+- 57 : PB0,  of Type IO, alternates : [ADC AD_4, TWI2 TWD_2, PIOB P_32]
+- 58 : PB1,  of Type IO, alternates : [ADC AD_5, TWI2 TWCK_2, PIOB P_33]
+- 59 : PB2,  of Type IO, alternates : [ADC AD_6, SUPC WKUP_12, SPI NPCS_1, PIOB P_34, UART1 URXD_1, ADC WKUP_12]
+- 60 : PB3,  of Type IO, alternates : [SUPC WKUP_13, ADC AD_7, PMC PCK_2, UART1 UTXD_1, PIOB P_35, ADC WKUP_13]
+- 80 : PB5,  of Type IO, alternates : [ICE TDO_, PIOB P_37, ICE TRACESWO_]
+- 84 : PB6,  of Type IO, alternates : [ICE SWDIO_, ICE TMS_, PIOB P_38]
+- 91 : PB4,  of Type IO, alternates : [ICE TDI_, PIOB P_36]
+- 85 : PB7,  of Type IO, alternates : [PIOB P_39, ICE TCK_, ICE SWDCLK_]
+- 87 : PB8,  of Type IO, alternates : [PIOB P_40, TWI1 TWD_1, SUPC WKUP_14]
+- 88 : PB9,  of Type IO, alternates : [TWI1 TWCK_1, PIOB P_41, SUPC WKUP_15]
+- 68 : PB10,  of Type IO, alternates : [TWI1 TWD_1, TWI2 TWD_2, PIOB P_42]
+- 69 : PB11,  of Type IO, alternates : [TWI2 TWCK_2, TWI1 TWCK_1, PIOB P_43]
+- 8 : PB12,  of Type IO, alternates : [PIOB P_44, EFC ERASE_]
+- 1 : NC,  of Type NC
+- 2 : NC,  of Type NC
+- 3 : NC,  of Type NC
+- 4 : NC,  of Type NC
+- 5 : VDDIO,  of Type PP
+- 6 : VDDIO,  of Type PP
+- 7 : NRST,  of Type IP
+- 14 : VDDIO,  of Type PP
+- 15 : VDDCORE,  of Type PP
+- 16 : VDDCORE,  of Type PP
+- 17 : TEST,  of Type IO
+- 20 : GND,  of Type PS
+- 21 : NC,  of Type NC
+- 22 : NC,  of Type NC
+- 23 : NC,  of Type NC
+- 24 : NC,  of Type NC
+- 25 : NC,  of Type NC
+- 26 : NC,  of Type NC
+- 27 : NC,  of Type NC
+- 29 : VDDIO,  of Type PP
+- 33 : NC,  of Type NC
+- 34 : NC,  of Type NC
+- 37 : VDDIO,  of Type PP
+- 38 : VDDIO,  of Type PP
+- 39 : GND,  of Type PS
+- 40 : GND,  of Type PS
+- 41 : GND,  of Type PS
+- 42 : GND,  of Type PS
+- 43 : GND,  of Type PS
+- 44 : VDDOUT,  of Type PP
+- 45 : VDDOUT,  of Type PP
+- 46 : VDDIO,  of Type PP
+- 47 : VDDIO,  of Type PP
+- 48 : VDDIO,  of Type PP
+- 49 : NC,  of Type NC
+- 50 : NC,  of Type NC
+- 51 : NC,  of Type NC
+- 52 : NC,  of Type NC
+- 61 : VDDIO,  of Type PP
+- 66 : VDDCORE,  of Type PP
+- 67 : VDDCORE,  of Type PP
+- 70 : GND,  of Type PS
+- 71 : GND,  of Type PS
+- 73 : NC,  of Type NC
+- 74 : NC,  of Type NC
+- 75 : NC,  of Type NC
+- 76 : NC,  of Type NC
+- 77 : NC,  of Type NC
+- 78 : NC,  of Type NC
+- 81 : GND,  of Type PS
+- 82 : GND,  of Type PS
+- 83 : GND,  of Type PS
+- 89 : VDDIO,  of Type PP
+- 92 : NC,  of Type NC
+- 93 : JTAGSEL,  of Type OP
+- 94 : VDDIO,  of Type PP
+- 95 : VDDIO,  of Type PP
+- 96 : NC,  of Type NC
+- 97 : NC,  of Type NC
+- 98 : NC,  of Type NC
+- 99 : NC,  of Type NC
+- 100 : NC,  of Type NC
 ## ATSAMG54G19-XX
+
 ### Description : 
+
+- Series : SAMG54
+- Footprint : WLCSP49
+- MP : ATSAMG54G19-XX
+- Architecture : CORTEX-M4
+- PINOUT : WLCSP49
+- Reference : U
+- Documentation : https://www.microchip.com/en-us/search?q=ATSAMG54G19-XX
+- Value : ATSAMG54G19-XX
+- Family : SAMG
+- MF : Microchip
+- Name : ATSAMG54G19
 
 ### Package : 
 
-- C7 : PA0
-- D5 : PA1
-- B4 : PA2
-- C6 : PA3
-- C5 : PA4
-- D6 : PA5
-- G7 : PA6
-- E7 : PA7
-- F7 : PA8
-- A1 : PA9
-- E5 : PA10
-- C2 : PA11
-- C3 : PA12
-- D1 : PA13
-- E4 : PA14
-- G6 : PA15
-- F6 : PA16
-- F3 : PA17
-- E3 : PA18
-- F2 : PA19
-- F1 : PA20
-- F4 : PA21
-- G5 : PA22
-- F5 : PA23
-- A3 : PA24
-- E2 : PB0
-- D3 : PB1
-- E1 : PB2
-- D2 : PB3
-- A6 : PB4
-- B2 : PB5
-- C4 : PB6
-- B3 : PB7
-- A4 : PB8
-- A5 : PB9
-- D4 : PB10
-- B1 : PB11
-- B7 : PB12
-- G2 : VDDOUT
-- B6 : NRST
-- E6 : TST
-- G4 : VDDIO
-- G1 : VDDIO
-- A7 : VDDIO
-- B5 : JTAGSEL
-- C1 : VDDCORE
-- D7 : VDDCORE
-- A2 : GND
-- G3 : GND
+Pin count : 49
+- C7 : PA0,  of Type IO, alternates : [I2SC0 I2SC0_CK_, SUPC WKUP_0, TC0 TIOA_0, PIOA P_0]
+- D5 : PA1,  of Type IO, alternates : [SUPC WKUP_1, I2SC0 I2SC0_WS_, PIOA P_1, TC0 TIOB_0]
+- B4 : PA2,  of Type IO, alternates : [SUPC WKUP_2, TC0 TCLK_0, I2SC0 I2SC0_DI_0, PIOA P_2]
+- C6 : PA3,  of Type IO, alternates : [TWI0 TWD_0, PIOA P_3, I2SC0 I2SC0_DO_0]
+- C5 : PA4,  of Type IO, alternates : [TWI0 TWCK_0, PIOA P_4, I2SC0 I2SC0_MCK_]
+- D6 : PA5,  of Type IO, alternates : [SUPC WKUP_4, USART RXD_, PIOA P_5, SPI NPCS_1]
+- G7 : PA6,  of Type IO, alternates : [PIOA P_6, USART TXD_, PMC PCK_0]
+- E7 : PA7,  of Type IO, alternates : [PIOA P_7]
+- F7 : PA8,  of Type IO, alternates : [ADC ADTRG_, PIOA P_8, SUPC WKUP_5]
+- A1 : PA9,  of Type IO, alternates : [PIOA P_9, PDMIC0 PDMIC0_DAT_, UART0 URXD_0, SUPC WKUP_6]
+- E5 : PA10,  of Type IO, alternates : [UART0 UTXD_0, PIOA P_10, PDMIC0 PDMIC0_CLK_]
+- C2 : PA11,  of Type IO, alternates : [SPI NPCS_0, PIOA P_11]
+- C3 : PA12,  of Type IO, alternates : [SPI MISO_, PIOA P_12]
+- D1 : PA13,  of Type IO, alternates : [SPI MOSI_, PIOA P_13]
+- E4 : PA14,  of Type IO, alternates : [SPI SPCK_, SUPC WKUP_8, PIOA P_14]
+- G6 : PA15,  of Type IO, alternates : [PIOA P_15, USART SCK_, USART RTS_]
+- F6 : PA16,  of Type IO, alternates : [PIOA P_16, TC0 TIOB_1, SUPC WKUP_7, USART CTS_]
+- F3 : PA17,  of Type IO, alternates : [PMC PCK_1, PIOA P_17, I2SC0 I2SC0_DO_0, ADC AD_0]
+- E3 : PA18,  of Type IO, alternates : [PMC PCK_2, PIOA P_18, ADC AD_1, I2SC0 I2SC0_MCK_]
+- F2 : PA19,  of Type IO, alternates : [TC0 TCLK_1, PIOA P_19, ADC AD_2, I2SC1 I2SC1_CK_]
+- F1 : PA20,  of Type IO, alternates : [I2SC1 I2SC1_WS_, PIOA P_20, TC0 TCLK_2, ADC AD_3]
+- F4 : PA21,  of Type IO, alternates : [PMC PCK_1, PIOA P_21, SUPC WKUP_9, TC0 TIOA_2]
+- G5 : PA22,  of Type IO, alternates : [I2SC1 I2SC1_DI_0, SUPC WKUP_10, TC0 TIOB_2, PIOA P_22]
+- F5 : PA23,  of Type IO, alternates : [SUPC WKUP_3, TC0 TIOA_1, I2SC1 I2SC1_DO_0, PIOA P_23]
+- A3 : PA24,  of Type IO, alternates : [I2SC1 I2SC1_MCK_, SUPC WKUP_11, PIOA P_24]
+- E2 : PB0,  of Type IO, alternates : [ADC AD_4, TWI2 TWD_2, PIOB P_32]
+- D3 : PB1,  of Type IO, alternates : [ADC AD_5, TWI2 TWCK_2, PIOB P_33]
+- E1 : PB2,  of Type IO, alternates : [ADC AD_6, SUPC WKUP_12, SPI NPCS_1, PIOB P_34, UART1 URXD_1, ADC WKUP_12]
+- D2 : PB3,  of Type IO, alternates : [SUPC WKUP_13, ADC AD_7, PMC PCK_2, UART1 UTXD_1, PIOB P_35, ADC WKUP_13]
+- A6 : PB4,  of Type IO, alternates : [ICE TDI_, PIOB P_36]
+- B2 : PB5,  of Type IO, alternates : [ICE TDO_, PIOB P_37, ICE TRACESWO_]
+- C4 : PB6,  of Type IO, alternates : [ICE SWDIO_, ICE TMS_, PIOB P_38]
+- B3 : PB7,  of Type IO, alternates : [PIOB P_39, ICE TCK_, ICE SWDCLK_]
+- A4 : PB8,  of Type IO, alternates : [PIOB P_40, TWI1 TWD_1, SUPC WKUP_14]
+- A5 : PB9,  of Type IO, alternates : [TWI1 TWCK_1, PIOB P_41, SUPC WKUP_15]
+- D4 : PB10,  of Type IO, alternates : [TWI1 TWD_1, TWI2 TWD_2, PIOB P_42]
+- B1 : PB11,  of Type IO, alternates : [TWI2 TWCK_2, TWI1 TWCK_1, PIOB P_43]
+- B7 : PB12,  of Type IO, alternates : [PIOB P_44, EFC ERASE_]
+- G2 : VDDOUT,  of Type PP
+- B6 : NRST,  of Type IP
+- E6 : TST,  of Type IO
+- G4 : VDDIO,  of Type PP
+- G1 : VDDIO,  of Type PP
+- A7 : VDDIO,  of Type PP
+- B5 : JTAGSEL,  of Type OP
+- C1 : VDDCORE,  of Type PP
+- D7 : VDDCORE,  of Type PP
+- A2 : GND,  of Type PS
+- G3 : GND,  of Type PS
 ## ATSAMG54J19-MU
+
 ### Description : 
+
+- Series : SAMG54
+- Footprint : QFN64
+- MP : ATSAMG54J19-MU
+- Architecture : CORTEX-M4
+- PINOUT : QFN64
+- Reference : U
+- Documentation : https://www.microchip.com/en-us/search?q=ATSAMG54J19-MU
+- Value : ATSAMG54J19-MU
+- Family : SAMG
+- MF : Microchip
+- Name : ATSAMG54J19
 
 ### Package : 
 
-- 6 : PA0
-- 7 : PA1
-- 61 : PA2
-- 5 : PA3
-- 4 : PA4
-- 8 : PA5
-- 17 : PA6
-- 11 : PA7
-- 12 : PA8
-- 49 : PA9
-- 48 : PA10
-- 44 : PA11
-- 43 : PA12
-- 42 : PA13
-- 41 : PA14
-- 22 : PA15
-- 18 : PA16
-- 33 : PA17
-- 34 : PA18
-- 35 : PA19
-- 36 : PA20
-- 25 : PA21
-- 24 : PA22
-- 23 : PA23
-- 58 : PA24
-- 56 : PA25
-- 52 : PA26
-- 51 : PA27
-- 21 : PA28
-- 20 : PA29
-- 19 : PA30
-- 16 : PA31
-- 37 : PB0
-- 38 : PB1
-- 39 : PB2
-- 40 : PB3
-- 62 : PB4
-- 50 : PB5
-- 54 : PB6
-- 55 : PB7
-- 59 : PB8
-- 60 : PB9
-- 46 : PB10
-- 47 : PB11
-- 3 : PB12
-- 30 : VDDOUT
-- 2 : NRST
-- 10 : TEST
-- 31 : VDDIO
-- 32 : VDDIO
-- 27 : VDDIO
-- 64 : VDDIO
-- 1 : VDDIO
-- 63 : JTAGSEL
-- 9 : VDDCORE
-- 45 : VDDCORE
-- 53 : GND
-- 13 : GND
-- 29 : GND
+Pin count : 59
+- 6 : PA0,  of Type IO, alternates : [I2SC0 I2SC0_CK_, SUPC WKUP_0, TC0 TIOA_0, PIOA P_0]
+- 7 : PA1,  of Type IO, alternates : [SUPC WKUP_1, I2SC0 I2SC0_WS_, PIOA P_1, TC0 TIOB_0]
+- 61 : PA2,  of Type IO, alternates : [SUPC WKUP_2, TC0 TCLK_0, I2SC0 I2SC0_DI_0, PIOA P_2]
+- 5 : PA3,  of Type IO, alternates : [TWI0 TWD_0, PIOA P_3, I2SC0 I2SC0_DO_0]
+- 4 : PA4,  of Type IO, alternates : [TWI0 TWCK_0, PIOA P_4, I2SC0 I2SC0_MCK_]
+- 8 : PA5,  of Type IO, alternates : [SUPC WKUP_4, USART RXD_, PIOA P_5, SPI NPCS_1]
+- 17 : PA6,  of Type IO, alternates : [PIOA P_6, USART TXD_, PMC PCK_0]
+- 11 : PA7,  of Type IO, alternates : [PIOA P_7]
+- 12 : PA8,  of Type IO, alternates : [ADC ADTRG_, PIOA P_8, SUPC WKUP_5]
+- 49 : PA9,  of Type IO, alternates : [PIOA P_9, PDMIC0 PDMIC0_DAT_, UART0 URXD_0, SUPC WKUP_6]
+- 48 : PA10,  of Type IO, alternates : [UART0 UTXD_0, PIOA P_10, PDMIC0 PDMIC0_CLK_]
+- 44 : PA11,  of Type IO, alternates : [SPI NPCS_0, PIOA P_11]
+- 43 : PA12,  of Type IO, alternates : [SPI MISO_, PIOA P_12]
+- 42 : PA13,  of Type IO, alternates : [SPI MOSI_, PIOA P_13]
+- 41 : PA14,  of Type IO, alternates : [SPI SPCK_, SUPC WKUP_8, PIOA P_14]
+- 22 : PA15,  of Type IO, alternates : [PIOA P_15, USART SCK_, USART RTS_]
+- 18 : PA16,  of Type IO, alternates : [PIOA P_16, TC0 TIOB_1, SUPC WKUP_7, USART CTS_]
+- 33 : PA17,  of Type IO, alternates : [PMC PCK_1, PIOA P_17, I2SC0 I2SC0_DO_0, ADC AD_0]
+- 34 : PA18,  of Type IO, alternates : [PMC PCK_2, PIOA P_18, ADC AD_1, I2SC0 I2SC0_MCK_]
+- 35 : PA19,  of Type IO, alternates : [TC0 TCLK_1, PIOA P_19, ADC AD_2, I2SC1 I2SC1_CK_]
+- 36 : PA20,  of Type IO, alternates : [I2SC1 I2SC1_WS_, PIOA P_20, TC0 TCLK_2, ADC AD_3]
+- 25 : PA21,  of Type IO, alternates : [PMC PCK_1, PIOA P_21, SUPC WKUP_9, TC0 TIOA_2]
+- 24 : PA22,  of Type IO, alternates : [I2SC1 I2SC1_DI_0, SUPC WKUP_10, TC0 TIOB_2, PIOA P_22]
+- 23 : PA23,  of Type IO, alternates : [SUPC WKUP_3, TC0 TIOA_1, I2SC1 I2SC1_DO_0, PIOA P_23]
+- 58 : PA24,  of Type IO, alternates : [I2SC1 I2SC1_MCK_, SUPC WKUP_11, PIOA P_24]
+- 56 : PA25,  of Type IO
+- 52 : PA26,  of Type IO
+- 51 : PA27,  of Type IO
+- 21 : PA28,  of Type IO
+- 20 : PA29,  of Type IO
+- 19 : PA30,  of Type IO
+- 16 : PA31,  of Type IO
+- 37 : PB0,  of Type IO, alternates : [ADC AD_4, TWI2 TWD_2, PIOB P_32]
+- 38 : PB1,  of Type IO, alternates : [ADC AD_5, TWI2 TWCK_2, PIOB P_33]
+- 39 : PB2,  of Type IO, alternates : [ADC AD_6, SUPC WKUP_12, SPI NPCS_1, PIOB P_34, UART1 URXD_1, ADC WKUP_12]
+- 40 : PB3,  of Type IO, alternates : [SUPC WKUP_13, ADC AD_7, PMC PCK_2, UART1 UTXD_1, PIOB P_35, ADC WKUP_13]
+- 62 : PB4,  of Type IO, alternates : [ICE TDI_, PIOB P_36]
+- 50 : PB5,  of Type IO, alternates : [ICE TDO_, PIOB P_37, ICE TRACESWO_]
+- 54 : PB6,  of Type IO, alternates : [ICE SWDIO_, ICE TMS_, PIOB P_38]
+- 55 : PB7,  of Type IO, alternates : [PIOB P_39, ICE TCK_, ICE SWDCLK_]
+- 59 : PB8,  of Type IO, alternates : [PIOB P_40, TWI1 TWD_1, SUPC WKUP_14]
+- 60 : PB9,  of Type IO, alternates : [TWI1 TWCK_1, PIOB P_41, SUPC WKUP_15]
+- 46 : PB10,  of Type IO, alternates : [TWI1 TWD_1, TWI2 TWD_2, PIOB P_42]
+- 47 : PB11,  of Type IO, alternates : [TWI2 TWCK_2, TWI1 TWCK_1, PIOB P_43]
+- 3 : PB12,  of Type IO, alternates : [PIOB P_44, EFC ERASE_]
+- 30 : VDDOUT,  of Type PP
+- 2 : NRST,  of Type IP
+- 10 : TEST,  of Type IO
+- 31 : VDDIO,  of Type PP
+- 32 : VDDIO,  of Type PP
+- 27 : VDDIO,  of Type PP
+- 64 : VDDIO,  of Type PP
+- 1 : VDDIO,  of Type PP
+- 63 : JTAGSEL,  of Type OP
+- 9 : VDDCORE,  of Type PP
+- 45 : VDDCORE,  of Type PP
+- 53 : GND,  of Type PS
+- 13 : GND,  of Type PS
+- 29 : GND,  of Type PS
 ## ATSAMG54N19-AU
+
 ### Description : 
+
+- Series : SAMG54
+- Footprint : LQFP100
+- MP : ATSAMG54N19-AU
+- Architecture : CORTEX-M4
+- PINOUT : LQFP100
+- Reference : U
+- Documentation : https://www.microchip.com/en-us/search?q=ATSAMG54N19-AU
+- Value : ATSAMG54N19-AU
+- Family : SAMG
+- MF : Microchip
+- Name : ATSAMG54N19
 
 ### Package : 
 
-- 11 : PA0
-- 12 : PA1
-- 90 : PA2
-- 10 : PA3
-- 9 : PA4
-- 13 : PA5
-- 28 : PA6
-- 18 : PA7
-- 19 : PA8
-- 79 : PA9
-- 72 : PA10
-- 65 : PA11
-- 64 : PA12
-- 63 : PA13
-- 62 : PA14
-- 31 : PA15
-- 30 : PA16
-- 53 : PA17
-- 54 : PA18
-- 55 : PA19
-- 56 : PA20
-- 36 : PA21
-- 35 : PA22
-- 32 : PA23
-- 86 : PA24
-- 57 : PB0
-- 58 : PB1
-- 59 : PB2
-- 60 : PB3
-- 80 : PB5
-- 84 : PB6
-- 91 : PB4
-- 85 : PB7
-- 87 : PB8
-- 88 : PB9
-- 68 : PB10
-- 69 : PB11
-- 8 : PB12
-- 1 : NC
-- 2 : NC
-- 3 : NC
-- 4 : NC
-- 5 : VDDIO
-- 6 : VDDIO
-- 7 : NRST
-- 14 : VDDIO
-- 15 : VDDCORE
-- 16 : VDDCORE
-- 17 : TEST
-- 20 : GND
-- 21 : NC
-- 22 : NC
-- 23 : NC
-- 24 : NC
-- 25 : NC
-- 26 : NC
-- 27 : NC
-- 29 : VDDIO
-- 33 : NC
-- 34 : NC
-- 37 : VDDIO
-- 38 : VDDIO
-- 39 : GND
-- 40 : GND
-- 41 : GND
-- 42 : GND
-- 43 : GND
-- 44 : VDDOUT
-- 45 : VDDOUT
-- 46 : VDDIO
-- 47 : VDDIO
-- 48 : VDDIO
-- 49 : NC
-- 50 : NC
-- 51 : NC
-- 52 : NC
-- 61 : VDDIO
-- 66 : VDDCORE
-- 67 : VDDCORE
-- 70 : GND
-- 71 : GND
-- 73 : NC
-- 74 : NC
-- 75 : NC
-- 76 : NC
-- 77 : NC
-- 78 : NC
-- 81 : GND
-- 82 : GND
-- 83 : GND
-- 89 : VDDIO
-- 92 : NC
-- 93 : JTAGSEL
-- 94 : VDDIO
-- 95 : VDDIO
-- 96 : NC
-- 97 : NC
-- 98 : NC
-- 99 : NC
-- 100 : NC
+Pin count : 100
+- 11 : PA0,  of Type IO, alternates : [I2SC0 I2SC0_CK_, SUPC WKUP_0, TC0 TIOA_0, PIOA P_0]
+- 12 : PA1,  of Type IO, alternates : [SUPC WKUP_1, I2SC0 I2SC0_WS_, PIOA P_1, TC0 TIOB_0]
+- 90 : PA2,  of Type IO, alternates : [SUPC WKUP_2, TC0 TCLK_0, I2SC0 I2SC0_DI_0, PIOA P_2]
+- 10 : PA3,  of Type IO, alternates : [TWI0 TWD_0, PIOA P_3, I2SC0 I2SC0_DO_0]
+- 9 : PA4,  of Type IO, alternates : [TWI0 TWCK_0, PIOA P_4, I2SC0 I2SC0_MCK_]
+- 13 : PA5,  of Type IO, alternates : [SUPC WKUP_4, USART RXD_, PIOA P_5, SPI NPCS_1]
+- 28 : PA6,  of Type IO, alternates : [PIOA P_6, USART TXD_, PMC PCK_0]
+- 18 : PA7,  of Type IO, alternates : [PIOA P_7]
+- 19 : PA8,  of Type IO, alternates : [ADC ADTRG_, PIOA P_8, SUPC WKUP_5]
+- 79 : PA9,  of Type IO, alternates : [PIOA P_9, PDMIC0 PDMIC0_DAT_, UART0 URXD_0, SUPC WKUP_6]
+- 72 : PA10,  of Type IO, alternates : [UART0 UTXD_0, PIOA P_10, PDMIC0 PDMIC0_CLK_]
+- 65 : PA11,  of Type IO, alternates : [SPI NPCS_0, PIOA P_11]
+- 64 : PA12,  of Type IO, alternates : [SPI MISO_, PIOA P_12]
+- 63 : PA13,  of Type IO, alternates : [SPI MOSI_, PIOA P_13]
+- 62 : PA14,  of Type IO, alternates : [SPI SPCK_, SUPC WKUP_8, PIOA P_14]
+- 31 : PA15,  of Type IO, alternates : [PIOA P_15, USART SCK_, USART RTS_]
+- 30 : PA16,  of Type IO, alternates : [PIOA P_16, TC0 TIOB_1, SUPC WKUP_7, USART CTS_]
+- 53 : PA17,  of Type IO, alternates : [PMC PCK_1, PIOA P_17, I2SC0 I2SC0_DO_0, ADC AD_0]
+- 54 : PA18,  of Type IO, alternates : [PMC PCK_2, PIOA P_18, ADC AD_1, I2SC0 I2SC0_MCK_]
+- 55 : PA19,  of Type IO, alternates : [TC0 TCLK_1, PIOA P_19, ADC AD_2, I2SC1 I2SC1_CK_]
+- 56 : PA20,  of Type IO, alternates : [I2SC1 I2SC1_WS_, PIOA P_20, TC0 TCLK_2, ADC AD_3]
+- 36 : PA21,  of Type IO, alternates : [PMC PCK_1, PIOA P_21, SUPC WKUP_9, TC0 TIOA_2]
+- 35 : PA22,  of Type IO, alternates : [I2SC1 I2SC1_DI_0, SUPC WKUP_10, TC0 TIOB_2, PIOA P_22]
+- 32 : PA23,  of Type IO, alternates : [SUPC WKUP_3, TC0 TIOA_1, I2SC1 I2SC1_DO_0, PIOA P_23]
+- 86 : PA24,  of Type IO, alternates : [I2SC1 I2SC1_MCK_, SUPC WKUP_11, PIOA P_24]
+- 57 : PB0,  of Type IO, alternates : [ADC AD_4, TWI2 TWD_2, PIOB P_32]
+- 58 : PB1,  of Type IO, alternates : [ADC AD_5, TWI2 TWCK_2, PIOB P_33]
+- 59 : PB2,  of Type IO, alternates : [ADC AD_6, SUPC WKUP_12, SPI NPCS_1, PIOB P_34, UART1 URXD_1, ADC WKUP_12]
+- 60 : PB3,  of Type IO, alternates : [SUPC WKUP_13, ADC AD_7, PMC PCK_2, UART1 UTXD_1, PIOB P_35, ADC WKUP_13]
+- 80 : PB5,  of Type IO, alternates : [ICE TDO_, PIOB P_37, ICE TRACESWO_]
+- 84 : PB6,  of Type IO, alternates : [ICE SWDIO_, ICE TMS_, PIOB P_38]
+- 91 : PB4,  of Type IO, alternates : [ICE TDI_, PIOB P_36]
+- 85 : PB7,  of Type IO, alternates : [PIOB P_39, ICE TCK_, ICE SWDCLK_]
+- 87 : PB8,  of Type IO, alternates : [PIOB P_40, TWI1 TWD_1, SUPC WKUP_14]
+- 88 : PB9,  of Type IO, alternates : [TWI1 TWCK_1, PIOB P_41, SUPC WKUP_15]
+- 68 : PB10,  of Type IO, alternates : [TWI1 TWD_1, TWI2 TWD_2, PIOB P_42]
+- 69 : PB11,  of Type IO, alternates : [TWI2 TWCK_2, TWI1 TWCK_1, PIOB P_43]
+- 8 : PB12,  of Type IO, alternates : [PIOB P_44, EFC ERASE_]
+- 1 : NC,  of Type NC
+- 2 : NC,  of Type NC
+- 3 : NC,  of Type NC
+- 4 : NC,  of Type NC
+- 5 : VDDIO,  of Type PP
+- 6 : VDDIO,  of Type PP
+- 7 : NRST,  of Type IP
+- 14 : VDDIO,  of Type PP
+- 15 : VDDCORE,  of Type PP
+- 16 : VDDCORE,  of Type PP
+- 17 : TEST,  of Type IO
+- 20 : GND,  of Type PS
+- 21 : NC,  of Type NC
+- 22 : NC,  of Type NC
+- 23 : NC,  of Type NC
+- 24 : NC,  of Type NC
+- 25 : NC,  of Type NC
+- 26 : NC,  of Type NC
+- 27 : NC,  of Type NC
+- 29 : VDDIO,  of Type PP
+- 33 : NC,  of Type NC
+- 34 : NC,  of Type NC
+- 37 : VDDIO,  of Type PP
+- 38 : VDDIO,  of Type PP
+- 39 : GND,  of Type PS
+- 40 : GND,  of Type PS
+- 41 : GND,  of Type PS
+- 42 : GND,  of Type PS
+- 43 : GND,  of Type PS
+- 44 : VDDOUT,  of Type PP
+- 45 : VDDOUT,  of Type PP
+- 46 : VDDIO,  of Type PP
+- 47 : VDDIO,  of Type PP
+- 48 : VDDIO,  of Type PP
+- 49 : NC,  of Type NC
+- 50 : NC,  of Type NC
+- 51 : NC,  of Type NC
+- 52 : NC,  of Type NC
+- 61 : VDDIO,  of Type PP
+- 66 : VDDCORE,  of Type PP
+- 67 : VDDCORE,  of Type PP
+- 70 : GND,  of Type PS
+- 71 : GND,  of Type PS
+- 73 : NC,  of Type NC
+- 74 : NC,  of Type NC
+- 75 : NC,  of Type NC
+- 76 : NC,  of Type NC
+- 77 : NC,  of Type NC
+- 78 : NC,  of Type NC
+- 81 : GND,  of Type PS
+- 82 : GND,  of Type PS
+- 83 : GND,  of Type PS
+- 89 : VDDIO,  of Type PP
+- 92 : NC,  of Type NC
+- 93 : JTAGSEL,  of Type OP
+- 94 : VDDIO,  of Type PP
+- 95 : VDDIO,  of Type PP
+- 96 : NC,  of Type NC
+- 97 : NC,  of Type NC
+- 98 : NC,  of Type NC
+- 99 : NC,  of Type NC
+- 100 : NC,  of Type NC
 ## ATSAMG55G19A-UUT
+
 ### Description : 
+
+- Series : SAMG55
+- Footprint : WLCSP49
+- MP : ATSAMG55G19A-UUT
+- Architecture : CORTEX-M4
+- PINOUT : WLCSP49
+- Reference : U
+- Documentation : https://www.microchip.com/en-us/search?q=ATSAMG55G19A-UUT
+- Value : ATSAMG55G19A-UUT
+- Family : SAMG
+- MF : Microchip
+- Name : ATSAMG55G19
 
 ### Package : 
 
-- C7 : PA0
-- D5 : PA1
-- B4 : PA2
-- C6 : PA3
-- C5 : PA4
-- D6 : PA5
-- G7 : PA6
-- E7 : PA7
-- F7 : PA8
-- A1 : PA9
-- E5 : PA10
-- C2 : PA11
-- C3 : PA12
-- D1 : PA13
-- E4 : PA14
-- G6 : PA15
-- F6 : PA16
-- F3 : PA17
-- E3 : PA18
-- F2 : PA19
-- F1 : PA20
-- F4 : PA21
-- G5 : PA22
-- F5 : PA23
-- A3 : PA24
-- E2 : PB0
-- D3 : PB1
-- E1 : PB2
-- D2 : PB3
-- A6 : PB4
-- B2 : PB5
-- C4 : PB6
-- B3 : PB7
-- A4 : PB8
-- A5 : PB9
-- D4 : PB10
-- B1 : PB11
-- B7 : PB12
-- G2 : VDDOUT
-- B6 : NRST
-- E6 : TST
-- G4 : VDDIO
-- G1 : VDDIO
-- A7 : VDDIO
-- B5 : JTAGSEL
-- C1 : VDDCORE
-- D7 : VDDCORE
-- A2 : GND
-- G3 : GND
+Pin count : 49
+- C7 : PA0,  of Type IO, alternates : [SUPC WKUP_0, TC0 TIOA_0, I2SC0 I2SCK_0, PIOA P_0]
+- D5 : PA1,  of Type IO, alternates : [SUPC WKUP_1, I2SC0 I2SWS_0, PIOA P_1, TC0 TIOB_0]
+- B4 : PA2,  of Type IO, alternates : [SUPC WKUP_2, TC0 TCLK_0, I2SC0 I2SDI_0, PIOA P_2]
+- C6 : PA3,  of Type IO, alternates : [TWI3 TWD_, SPI3 SPI3_MOSI_, PIOA P_3, SUPC WKUP_9, USART3 TXD_, I2SC0 I2SDO_0]
+- C5 : PA4,  of Type IO, alternates : [TWI3 TWCK_, SPI3 SPI3_MISO_, SUPC WKUP_10, PIOA P_4, USART3 RXD_, I2SC0 I2SMCK_0]
+- D6 : PA5,  of Type IO, alternates : [SUPC WKUP_4, USART2 RXD_, PIOA P_5, SPI5 SPI5_NPCS_1, SPI2 SPI2_MISO_, TWI2 TWCK_, USART5 RTS_]
+- G7 : PA6,  of Type IO, alternates : [PIOA P_6, USART2 TXD_, TWI2 TWD_, SPI2 SPI2_MOSI_, PMC PCK_0]
+- E7 : PA7,  of Type IO, alternates : [PIOA P_7]
+- F7 : PA8,  of Type IO, alternates : [ADC ADTRG_, PIOA P_8, SUPC WKUP_5]
+- A1 : PA9,  of Type IO, alternates : [TWI0 TWCK_, PIOA P_9, PDMIC0 PDMIC0_DAT_, SPI0 SPI0_MISO_, USART0 RXD_, SUPC WKUP_6]
+- E5 : PA10,  of Type IO, alternates : [TWI0 TWD_, USART0 TXD_, PIOA P_10, PDMIC0 PDMIC0_CLK_, SPI0 SPI0_MOSI_]
+- C2 : PA11,  of Type IO, alternates : [USART5 CTS_, SPI5 SPI5_NPCS_0, PIOA P_11]
+- C3 : PA12,  of Type IO, alternates : [SPI5 SPI5_MISO_, USART5 RXD_, PIOA P_12, TWI5 TWCK_]
+- D1 : PA13,  of Type IO, alternates : [TWI5 TWD_, SPI5 SPI5_MOSI_, USART5 TXD_, PIOA P_13]
+- E4 : PA14,  of Type IO, alternates : [USART5 SCK_, SPI5 SPI5_SPCK_, SUPC WKUP_8, PIOA P_14]
+- G6 : PA15,  of Type IO, alternates : [PIOA P_15, SPI2 SPI2_SPCK_, USART2 SCK_, USART2 RTS_, SPI2 SPI2_NPCS_1]
+- F6 : PA16,  of Type IO, alternates : [USART2 CTS_, PIOA P_16, TC0 TIOB_1, SPI2 SPI2_NPCS_0, SUPC WKUP_7]
+- F3 : PA17,  of Type IO, alternates : [PMC PCK_1, PIOA P_17, ADC AD_0, I2SC0 I2SDO_0]
+- E3 : PA18,  of Type IO, alternates : [PMC PCK_2, PIOA P_18, I2SC0 I2SMCK_0, ADC AD_1]
+- F2 : PA19,  of Type IO, alternates : [TC0 TCLK_1, PIOA P_19, I2SC1 I2SCK_1, ADC AD_2]
+- F1 : PA20,  of Type IO, alternates : [I2SC1 I2SWS_1, PIOA P_20, TC0 TCLK_2, ADC AD_3]
+- F4 : PA21,  of Type IO, alternates : [PMC PCK_1, UHP DM_, PIOA P_21, TC0 TIOA_2]
+- G5 : PA22,  of Type IO, alternates : [UHP DP_, TC0 TIOB_2, PIOA P_22, I2SC1 I2SDI_1]
+- F5 : PA23,  of Type IO, alternates : [SUPC WKUP_3, I2SC1 I2SDO_1, TC0 TIOA_1, PIOA P_23]
+- A3 : PA24,  of Type IO, alternates : [SPI2 SPI2_SPCK_, USART2 SCK_, SUPC WKUP_11, I2SC1 I2SMCK_1, PIOA P_24]
+- E2 : PB0,  of Type IO, alternates : [SPI0 SPI0_SPCK_, ADC AD_4, USART0 SCK_, USART6 TXD_, SPI6 SPI6_MOSI_, PIOB P_32, TWI6 TWD_]
+- D3 : PB1,  of Type IO, alternates : [TWI6 TWCK_, SPI4 SPI4_SPCK_, ADC AD_5, USART4 SCK_, USART6 RXD_, SPI6 SPI6_MISO_, PIOB P_33]
+- E1 : PB2,  of Type IO, alternates : [ADC AD_6, SUPC WKUP_12, SPI1 SPI1_MISO_, USART1 RXD_, SPI5 SPI5_NPCS_1, PIOB P_34, TWI1 TWCK_, USART5 RTS_, ADC WKUP_12]
+- D2 : PB3,  of Type IO, alternates : [SUPC WKUP_13, ADC AD_7, PMC PCK_2, USART1 TXD_, SPI1 SPI1_MOSI_, PIOB P_35, TWI1 TWD_, ADC WKUP_13]
+- A6 : PB4,  of Type IO, alternates : [ICE TDI_, PIOB P_36]
+- B2 : PB5,  of Type IO, alternates : [ICE TDO_, PIOB P_37, ICE TRACESWO_]
+- C4 : PB6,  of Type IO, alternates : [ICE SWDIO_, ICE TMS_, PIOB P_38]
+- B3 : PB7,  of Type IO, alternates : [PIOB P_39, ICE TCK_, ICE SWDCLK_]
+- A4 : PB8,  of Type IO, alternates : [USART4 TXD_, PIOB P_40, SPI4 SPI4_NPCS_0, USART4 CTS_, TWI4 TWD_, SPI4 SPI4_MOSI_, SUPC WKUP_14]
+- A5 : PB9,  of Type IO, alternates : [USART4 RXD_, SPI4 SPI4_NPCS_1, TWI4 TWCK_, SPI4 SPI4_MISO_, PIOB P_41, SUPC WKUP_15, USART4 RTS_]
+- D4 : PB10,  of Type IO, alternates : [USART4 TXD_, USART6 TXD_, TWI4 TWD_, PIOB P_42, SPI6 SPI6_MOSI_, SPI4 SPI4_MOSI_, TWI6 TWD_]
+- B1 : PB11,  of Type IO, alternates : [TWI6 TWCK_, USART4 RXD_, TWI4 TWCK_, USART6 RXD_, SPI4 SPI4_MISO_, SPI6 SPI6_MISO_, PIOB P_43]
+- B7 : PB12,  of Type IO, alternates : [PIOB P_44, EFC ERASE_]
+- G2 : VDDOUT,  of Type PP
+- B6 : NRST,  of Type IP
+- E6 : TST,  of Type IO
+- G4 : VDDIO,  of Type PP
+- G1 : VDDIO,  of Type PP
+- A7 : VDDIO,  of Type PP
+- B5 : JTAGSEL,  of Type OP
+- C1 : VDDCORE,  of Type PP
+- D7 : VDDCORE,  of Type PP
+- A2 : GND,  of Type PS
+- G3 : GND,  of Type PS
 ## ATSAMG55J19A-AU
+
 ### Description : 
+
+- Series : SAMG55
+- Footprint : LQFP64
+- MP : ATSAMG55J19A-AU
+- Architecture : CORTEX-M4
+- PINOUT : LQFP64
+- Reference : U
+- Documentation : https://www.microchip.com/en-us/search?q=ATSAMG55J19A-AU
+- Value : ATSAMG55J19A-AU
+- Family : SAMG
+- MF : Microchip
+- Name : ATSAMG55J19
 
 ### Package : 
 
-- 6 : PA0
-- 7 : PA1
-- 61 : PA2
-- 5 : PA3
-- 4 : PA4
-- 8 : PA5
-- 17 : PA6
-- 11 : PA7
-- 12 : PA8
-- 49 : PA9
-- 48 : PA10
-- 44 : PA11
-- 43 : PA12
-- 42 : PA13
-- 41 : PA14
-- 22 : PA15
-- 18 : PA16
-- 33 : PA17
-- 34 : PA18
-- 35 : PA19
-- 36 : PA20
-- 25 : PA21
-- 24 : PA22
-- 23 : PA23
-- 58 : PA24
-- 56 : PA25
-- 52 : PA26
-- 51 : PA27
-- 21 : PA28
-- 20 : PA29
-- 19 : PA30
-- 16 : PA31
-- 37 : PB0
-- 38 : PB1
-- 39 : PB2
-- 40 : PB3
-- 62 : PB4
-- 50 : PB5
-- 54 : PB6
-- 55 : PB7
-- 59 : PB8
-- 60 : PB9
-- 46 : PB10
-- 47 : PB11
-- 3 : PB12
-- 57 : PB13
-- 15 : PB14
-- 14 : PB15
-- 28 : ADVREF
-- 30 : VDDOUT
-- 2 : NRST
-- 10 : TEST
-- 31 : VDDIO
-- 32 : VDDIO
-- 27 : VDDIO
-- 64 : VDDIO
-- 1 : VDDIO
-- 26 : VDDUSB
-- 63 : JTAGSEL
-- 9 : VDDCORE
-- 45 : VDDCORE
-- 53 : GND
-- 13 : GND
-- 29 : GND
+Pin count : 64
+- 6 : PA0,  of Type IO, alternates : [SUPC WKUP_0, TC0 TIOA_0, I2SC0 I2SCK_0, PIOA P_0]
+- 7 : PA1,  of Type IO, alternates : [SUPC WKUP_1, I2SC0 I2SWS_0, PIOA P_1, TC0 TIOB_0]
+- 61 : PA2,  of Type IO, alternates : [SUPC WKUP_2, TC0 TCLK_0, I2SC0 I2SDI_0, PIOA P_2]
+- 5 : PA3,  of Type IO, alternates : [TWI3 TWD_, SPI3 SPI3_MOSI_, PIOA P_3, SUPC WKUP_9, USART3 TXD_, I2SC0 I2SDO_0]
+- 4 : PA4,  of Type IO, alternates : [TWI3 TWCK_, SPI3 SPI3_MISO_, SUPC WKUP_10, PIOA P_4, USART3 RXD_, I2SC0 I2SMCK_0]
+- 8 : PA5,  of Type IO, alternates : [SUPC WKUP_4, USART2 RXD_, PIOA P_5, SPI5 SPI5_NPCS_1, SPI2 SPI2_MISO_, TWI2 TWCK_, USART5 RTS_]
+- 17 : PA6,  of Type IO, alternates : [PIOA P_6, USART2 TXD_, TWI2 TWD_, SPI2 SPI2_MOSI_, PMC PCK_0]
+- 11 : PA7,  of Type IO, alternates : [PIOA P_7]
+- 12 : PA8,  of Type IO, alternates : [ADC ADTRG_, PIOA P_8, SUPC WKUP_5]
+- 49 : PA9,  of Type IO, alternates : [TWI0 TWCK_, PIOA P_9, PDMIC0 PDMIC0_DAT_, SPI0 SPI0_MISO_, USART0 RXD_, SUPC WKUP_6]
+- 48 : PA10,  of Type IO, alternates : [TWI0 TWD_, USART0 TXD_, PIOA P_10, PDMIC0 PDMIC0_CLK_, SPI0 SPI0_MOSI_]
+- 44 : PA11,  of Type IO, alternates : [USART5 CTS_, SPI5 SPI5_NPCS_0, PIOA P_11]
+- 43 : PA12,  of Type IO, alternates : [SPI5 SPI5_MISO_, USART5 RXD_, PIOA P_12, TWI5 TWCK_]
+- 42 : PA13,  of Type IO, alternates : [TWI5 TWD_, SPI5 SPI5_MOSI_, USART5 TXD_, PIOA P_13]
+- 41 : PA14,  of Type IO, alternates : [USART5 SCK_, SPI5 SPI5_SPCK_, SUPC WKUP_8, PIOA P_14]
+- 22 : PA15,  of Type IO, alternates : [PIOA P_15, SPI2 SPI2_SPCK_, USART2 SCK_, USART2 RTS_, SPI2 SPI2_NPCS_1]
+- 18 : PA16,  of Type IO, alternates : [USART2 CTS_, PIOA P_16, TC0 TIOB_1, SPI2 SPI2_NPCS_0, SUPC WKUP_7]
+- 33 : PA17,  of Type IO, alternates : [PMC PCK_1, PIOA P_17, ADC AD_0, I2SC0 I2SDO_0]
+- 34 : PA18,  of Type IO, alternates : [PMC PCK_2, PIOA P_18, I2SC0 I2SMCK_0, ADC AD_1]
+- 35 : PA19,  of Type IO, alternates : [TC0 TCLK_1, PIOA P_19, I2SC1 I2SCK_1, ADC AD_2]
+- 36 : PA20,  of Type IO, alternates : [I2SC1 I2SWS_1, PIOA P_20, TC0 TCLK_2, ADC AD_3]
+- 25 : PA21,  of Type IO, alternates : [PMC PCK_1, UHP DM_, PIOA P_21, TC0 TIOA_2]
+- 24 : PA22,  of Type IO, alternates : [UHP DP_, TC0 TIOB_2, PIOA P_22, I2SC1 I2SDI_1]
+- 23 : PA23,  of Type IO, alternates : [SUPC WKUP_3, I2SC1 I2SDO_1, TC0 TIOA_1, PIOA P_23]
+- 58 : PA24,  of Type IO, alternates : [SPI2 SPI2_SPCK_, USART2 SCK_, SUPC WKUP_11, I2SC1 I2SMCK_1, PIOA P_24]
+- 56 : PA25,  of Type IO, alternates : [SPI0 SPI0_NPCS_0, USART0 CTS_, I2SC1 I2SDO_1, PIOA P_25]
+- 52 : PA26,  of Type IO, alternates : [PIOA P_26, I2SC1 I2SMCK_1, SPI0 SPI0_NPCS_1, USART0 RTS_]
+- 51 : PA27,  of Type IO, alternates : [USART7 RXD_, PIOA P_27, SPI7 SPI7_MISO_, SPI1 SPI1_SPCK_, USART1 SCK_, TWI7 TWCK_]
+- 21 : PA28,  of Type IO, alternates : [PIOA P_28, SPI7 SPI7_MOSI_, SPI1 SPI1_NPCS_0, USART1 CTS_, TWI7 TWD_, USART7 TXD_]
+- 20 : PA29,  of Type IO, alternates : [PIOA P_29, USART1 RTS_, SPI1 SPI1_NPCS_1, SPI7 SPI7_SPCK_, USART7 SCK_]
+- 19 : PA30,  of Type IO, alternates : [PMC PCK_1, USART7 CTS_, SPI7 SPI7_NPCS_0, PIOA P_30]
+- 16 : PA31,  of Type IO, alternates : [PMC PCK_2, USART7 RTS_, SPI7 SPI7_NPCS_1, PIOA P_31]
+- 37 : PB0,  of Type IO, alternates : [SPI0 SPI0_SPCK_, ADC AD_4, USART0 SCK_, USART6 TXD_, SPI6 SPI6_MOSI_, PIOB P_32, TWI6 TWD_]
+- 38 : PB1,  of Type IO, alternates : [TWI6 TWCK_, SPI4 SPI4_SPCK_, ADC AD_5, USART4 SCK_, USART6 RXD_, SPI6 SPI6_MISO_, PIOB P_33]
+- 39 : PB2,  of Type IO, alternates : [ADC AD_6, SUPC WKUP_12, SPI1 SPI1_MISO_, USART1 RXD_, SPI5 SPI5_NPCS_1, PIOB P_34, TWI1 TWCK_, USART5 RTS_, ADC WKUP_12]
+- 40 : PB3,  of Type IO, alternates : [SUPC WKUP_13, ADC AD_7, PMC PCK_2, USART1 TXD_, SPI1 SPI1_MOSI_, PIOB P_35, TWI1 TWD_, ADC WKUP_13]
+- 62 : PB4,  of Type IO, alternates : [ICE TDI_, PIOB P_36]
+- 50 : PB5,  of Type IO, alternates : [ICE TDO_, PIOB P_37, ICE TRACESWO_]
+- 54 : PB6,  of Type IO, alternates : [ICE SWDIO_, ICE TMS_, PIOB P_38]
+- 55 : PB7,  of Type IO, alternates : [PIOB P_39, ICE TCK_, ICE SWDCLK_]
+- 59 : PB8,  of Type IO, alternates : [USART4 TXD_, PIOB P_40, SPI4 SPI4_NPCS_0, USART4 CTS_, TWI4 TWD_, SPI4 SPI4_MOSI_, SUPC WKUP_14]
+- 60 : PB9,  of Type IO, alternates : [USART4 RXD_, SPI4 SPI4_NPCS_1, TWI4 TWCK_, SPI4 SPI4_MISO_, PIOB P_41, SUPC WKUP_15, USART4 RTS_]
+- 46 : PB10,  of Type IO, alternates : [USART4 TXD_, USART6 TXD_, TWI4 TWD_, PIOB P_42, SPI6 SPI6_MOSI_, SPI4 SPI4_MOSI_, TWI6 TWD_]
+- 47 : PB11,  of Type IO, alternates : [TWI6 TWCK_, USART4 RXD_, TWI4 TWCK_, USART6 RXD_, SPI4 SPI4_MISO_, SPI6 SPI6_MISO_, PIOB P_43]
+- 3 : PB12,  of Type IO, alternates : [PIOB P_44, EFC ERASE_]
+- 57 : PB13,  of Type IO, alternates : [SPI6 SPI6_SPCK_, PIOB P_45, SPI3 SPI3_SPCK_, USART6 SCK_, USART3 SCK_]
+- 15 : PB14,  of Type IO, alternates : [SPI3 SPI3_NPCS_0, SPI6 SPI6_NPCS_0, PIOB P_46, USART3 CTS_, USART6 CTS_]
+- 14 : PB15,  of Type IO, alternates : [SPI3 SPI3_NPCS_1, SPI6 SPI6_NPCS_1, USART6 RTS_, PIOB P_47, USART3 RTS_]
+- 28 : ADVREF,  of Type PS
+- 30 : VDDOUT,  of Type PP
+- 2 : NRST,  of Type IP
+- 10 : TEST,  of Type IO
+- 31 : VDDIO,  of Type PP
+- 32 : VDDIO,  of Type PP
+- 27 : VDDIO,  of Type PP
+- 64 : VDDIO,  of Type PP
+- 1 : VDDIO,  of Type PP
+- 26 : VDDUSB,  of Type PP
+- 63 : JTAGSEL,  of Type OP
+- 9 : VDDCORE,  of Type PP
+- 45 : VDDCORE,  of Type PP
+- 53 : GND,  of Type PS
+- 13 : GND,  of Type PS
+- 29 : GND,  of Type PS
 ## ATSAMG55J19A-AUT
+
 ### Description : 
+
+- Series : SAMG55
+- Footprint : LQFP64
+- MP : ATSAMG55J19A-AUT
+- Architecture : CORTEX-M4
+- PINOUT : LQFP64
+- Reference : U
+- Documentation : https://www.microchip.com/en-us/search?q=ATSAMG55J19A-AUT
+- Value : ATSAMG55J19A-AUT
+- Family : SAMG
+- MF : Microchip
+- Name : ATSAMG55J19
 
 ### Package : 
 
-- 6 : PA0
-- 7 : PA1
-- 61 : PA2
-- 5 : PA3
-- 4 : PA4
-- 8 : PA5
-- 17 : PA6
-- 11 : PA7
-- 12 : PA8
-- 49 : PA9
-- 48 : PA10
-- 44 : PA11
-- 43 : PA12
-- 42 : PA13
-- 41 : PA14
-- 22 : PA15
-- 18 : PA16
-- 33 : PA17
-- 34 : PA18
-- 35 : PA19
-- 36 : PA20
-- 25 : PA21
-- 24 : PA22
-- 23 : PA23
-- 58 : PA24
-- 56 : PA25
-- 52 : PA26
-- 51 : PA27
-- 21 : PA28
-- 20 : PA29
-- 19 : PA30
-- 16 : PA31
-- 37 : PB0
-- 38 : PB1
-- 39 : PB2
-- 40 : PB3
-- 62 : PB4
-- 50 : PB5
-- 54 : PB6
-- 55 : PB7
-- 59 : PB8
-- 60 : PB9
-- 46 : PB10
-- 47 : PB11
-- 3 : PB12
-- 57 : PB13
-- 15 : PB14
-- 14 : PB15
-- 28 : ADVREF
-- 30 : VDDOUT
-- 2 : NRST
-- 10 : TEST
-- 31 : VDDIO
-- 32 : VDDIO
-- 27 : VDDIO
-- 64 : VDDIO
-- 1 : VDDIO
-- 26 : VDDUSB
-- 63 : JTAGSEL
-- 9 : VDDCORE
-- 45 : VDDCORE
-- 53 : GND
-- 13 : GND
-- 29 : GND
+Pin count : 64
+- 6 : PA0,  of Type IO, alternates : [SUPC WKUP_0, TC0 TIOA_0, I2SC0 I2SCK_0, PIOA P_0]
+- 7 : PA1,  of Type IO, alternates : [SUPC WKUP_1, I2SC0 I2SWS_0, PIOA P_1, TC0 TIOB_0]
+- 61 : PA2,  of Type IO, alternates : [SUPC WKUP_2, TC0 TCLK_0, I2SC0 I2SDI_0, PIOA P_2]
+- 5 : PA3,  of Type IO, alternates : [TWI3 TWD_, SPI3 SPI3_MOSI_, PIOA P_3, SUPC WKUP_9, USART3 TXD_, I2SC0 I2SDO_0]
+- 4 : PA4,  of Type IO, alternates : [TWI3 TWCK_, SPI3 SPI3_MISO_, SUPC WKUP_10, PIOA P_4, USART3 RXD_, I2SC0 I2SMCK_0]
+- 8 : PA5,  of Type IO, alternates : [SUPC WKUP_4, USART2 RXD_, PIOA P_5, SPI5 SPI5_NPCS_1, SPI2 SPI2_MISO_, TWI2 TWCK_, USART5 RTS_]
+- 17 : PA6,  of Type IO, alternates : [PIOA P_6, USART2 TXD_, TWI2 TWD_, SPI2 SPI2_MOSI_, PMC PCK_0]
+- 11 : PA7,  of Type IO, alternates : [PIOA P_7]
+- 12 : PA8,  of Type IO, alternates : [ADC ADTRG_, PIOA P_8, SUPC WKUP_5]
+- 49 : PA9,  of Type IO, alternates : [TWI0 TWCK_, PIOA P_9, PDMIC0 PDMIC0_DAT_, SPI0 SPI0_MISO_, USART0 RXD_, SUPC WKUP_6]
+- 48 : PA10,  of Type IO, alternates : [TWI0 TWD_, USART0 TXD_, PIOA P_10, PDMIC0 PDMIC0_CLK_, SPI0 SPI0_MOSI_]
+- 44 : PA11,  of Type IO, alternates : [USART5 CTS_, SPI5 SPI5_NPCS_0, PIOA P_11]
+- 43 : PA12,  of Type IO, alternates : [SPI5 SPI5_MISO_, USART5 RXD_, PIOA P_12, TWI5 TWCK_]
+- 42 : PA13,  of Type IO, alternates : [TWI5 TWD_, SPI5 SPI5_MOSI_, USART5 TXD_, PIOA P_13]
+- 41 : PA14,  of Type IO, alternates : [USART5 SCK_, SPI5 SPI5_SPCK_, SUPC WKUP_8, PIOA P_14]
+- 22 : PA15,  of Type IO, alternates : [PIOA P_15, SPI2 SPI2_SPCK_, USART2 SCK_, USART2 RTS_, SPI2 SPI2_NPCS_1]
+- 18 : PA16,  of Type IO, alternates : [USART2 CTS_, PIOA P_16, TC0 TIOB_1, SPI2 SPI2_NPCS_0, SUPC WKUP_7]
+- 33 : PA17,  of Type IO, alternates : [PMC PCK_1, PIOA P_17, ADC AD_0, I2SC0 I2SDO_0]
+- 34 : PA18,  of Type IO, alternates : [PMC PCK_2, PIOA P_18, I2SC0 I2SMCK_0, ADC AD_1]
+- 35 : PA19,  of Type IO, alternates : [TC0 TCLK_1, PIOA P_19, I2SC1 I2SCK_1, ADC AD_2]
+- 36 : PA20,  of Type IO, alternates : [I2SC1 I2SWS_1, PIOA P_20, TC0 TCLK_2, ADC AD_3]
+- 25 : PA21,  of Type IO, alternates : [PMC PCK_1, UHP DM_, PIOA P_21, TC0 TIOA_2]
+- 24 : PA22,  of Type IO, alternates : [UHP DP_, TC0 TIOB_2, PIOA P_22, I2SC1 I2SDI_1]
+- 23 : PA23,  of Type IO, alternates : [SUPC WKUP_3, I2SC1 I2SDO_1, TC0 TIOA_1, PIOA P_23]
+- 58 : PA24,  of Type IO, alternates : [SPI2 SPI2_SPCK_, USART2 SCK_, SUPC WKUP_11, I2SC1 I2SMCK_1, PIOA P_24]
+- 56 : PA25,  of Type IO, alternates : [SPI0 SPI0_NPCS_0, USART0 CTS_, I2SC1 I2SDO_1, PIOA P_25]
+- 52 : PA26,  of Type IO, alternates : [PIOA P_26, I2SC1 I2SMCK_1, SPI0 SPI0_NPCS_1, USART0 RTS_]
+- 51 : PA27,  of Type IO, alternates : [USART7 RXD_, PIOA P_27, SPI7 SPI7_MISO_, SPI1 SPI1_SPCK_, USART1 SCK_, TWI7 TWCK_]
+- 21 : PA28,  of Type IO, alternates : [PIOA P_28, SPI7 SPI7_MOSI_, SPI1 SPI1_NPCS_0, USART1 CTS_, TWI7 TWD_, USART7 TXD_]
+- 20 : PA29,  of Type IO, alternates : [PIOA P_29, USART1 RTS_, SPI1 SPI1_NPCS_1, SPI7 SPI7_SPCK_, USART7 SCK_]
+- 19 : PA30,  of Type IO, alternates : [PMC PCK_1, USART7 CTS_, SPI7 SPI7_NPCS_0, PIOA P_30]
+- 16 : PA31,  of Type IO, alternates : [PMC PCK_2, USART7 RTS_, SPI7 SPI7_NPCS_1, PIOA P_31]
+- 37 : PB0,  of Type IO, alternates : [SPI0 SPI0_SPCK_, ADC AD_4, USART0 SCK_, USART6 TXD_, SPI6 SPI6_MOSI_, PIOB P_32, TWI6 TWD_]
+- 38 : PB1,  of Type IO, alternates : [TWI6 TWCK_, SPI4 SPI4_SPCK_, ADC AD_5, USART4 SCK_, USART6 RXD_, SPI6 SPI6_MISO_, PIOB P_33]
+- 39 : PB2,  of Type IO, alternates : [ADC AD_6, SUPC WKUP_12, SPI1 SPI1_MISO_, USART1 RXD_, SPI5 SPI5_NPCS_1, PIOB P_34, TWI1 TWCK_, USART5 RTS_, ADC WKUP_12]
+- 40 : PB3,  of Type IO, alternates : [SUPC WKUP_13, ADC AD_7, PMC PCK_2, USART1 TXD_, SPI1 SPI1_MOSI_, PIOB P_35, TWI1 TWD_, ADC WKUP_13]
+- 62 : PB4,  of Type IO, alternates : [ICE TDI_, PIOB P_36]
+- 50 : PB5,  of Type IO, alternates : [ICE TDO_, PIOB P_37, ICE TRACESWO_]
+- 54 : PB6,  of Type IO, alternates : [ICE SWDIO_, ICE TMS_, PIOB P_38]
+- 55 : PB7,  of Type IO, alternates : [PIOB P_39, ICE TCK_, ICE SWDCLK_]
+- 59 : PB8,  of Type IO, alternates : [USART4 TXD_, PIOB P_40, SPI4 SPI4_NPCS_0, USART4 CTS_, TWI4 TWD_, SPI4 SPI4_MOSI_, SUPC WKUP_14]
+- 60 : PB9,  of Type IO, alternates : [USART4 RXD_, SPI4 SPI4_NPCS_1, TWI4 TWCK_, SPI4 SPI4_MISO_, PIOB P_41, SUPC WKUP_15, USART4 RTS_]
+- 46 : PB10,  of Type IO, alternates : [USART4 TXD_, USART6 TXD_, TWI4 TWD_, PIOB P_42, SPI6 SPI6_MOSI_, SPI4 SPI4_MOSI_, TWI6 TWD_]
+- 47 : PB11,  of Type IO, alternates : [TWI6 TWCK_, USART4 RXD_, TWI4 TWCK_, USART6 RXD_, SPI4 SPI4_MISO_, SPI6 SPI6_MISO_, PIOB P_43]
+- 3 : PB12,  of Type IO, alternates : [PIOB P_44, EFC ERASE_]
+- 57 : PB13,  of Type IO, alternates : [SPI6 SPI6_SPCK_, PIOB P_45, SPI3 SPI3_SPCK_, USART6 SCK_, USART3 SCK_]
+- 15 : PB14,  of Type IO, alternates : [SPI3 SPI3_NPCS_0, SPI6 SPI6_NPCS_0, PIOB P_46, USART3 CTS_, USART6 CTS_]
+- 14 : PB15,  of Type IO, alternates : [SPI3 SPI3_NPCS_1, SPI6 SPI6_NPCS_1, USART6 RTS_, PIOB P_47, USART3 RTS_]
+- 28 : ADVREF,  of Type PS
+- 30 : VDDOUT,  of Type PP
+- 2 : NRST,  of Type IP
+- 10 : TEST,  of Type IO
+- 31 : VDDIO,  of Type PP
+- 32 : VDDIO,  of Type PP
+- 27 : VDDIO,  of Type PP
+- 64 : VDDIO,  of Type PP
+- 1 : VDDIO,  of Type PP
+- 26 : VDDUSB,  of Type PP
+- 63 : JTAGSEL,  of Type OP
+- 9 : VDDCORE,  of Type PP
+- 45 : VDDCORE,  of Type PP
+- 53 : GND,  of Type PS
+- 13 : GND,  of Type PS
+- 29 : GND,  of Type PS
 ## ATSAMG55J19A-MU
+
 ### Description : 
+
+- Series : SAMG55
+- Footprint : QFN64
+- MP : ATSAMG55J19A-MU
+- Architecture : CORTEX-M4
+- PINOUT : QFN64
+- Reference : U
+- Documentation : https://www.microchip.com/en-us/search?q=ATSAMG55J19A-MU
+- Value : ATSAMG55J19A-MU
+- Family : SAMG
+- MF : Microchip
+- Name : ATSAMG55J19
 
 ### Package : 
 
-- 6 : PA0
-- 7 : PA1
-- 61 : PA2
-- 5 : PA3
-- 4 : PA4
-- 8 : PA5
-- 17 : PA6
-- 11 : PA7
-- 12 : PA8
-- 49 : PA9
-- 48 : PA10
-- 44 : PA11
-- 43 : PA12
-- 42 : PA13
-- 41 : PA14
-- 22 : PA15
-- 18 : PA16
-- 33 : PA17
-- 34 : PA18
-- 35 : PA19
-- 36 : PA20
-- 25 : PA21
-- 24 : PA22
-- 23 : PA23
-- 58 : PA24
-- 56 : PA25
-- 52 : PA26
-- 51 : PA27
-- 21 : PA28
-- 20 : PA29
-- 19 : PA30
-- 16 : PA31
-- 37 : PB0
-- 38 : PB1
-- 39 : PB2
-- 40 : PB3
-- 62 : PB4
-- 50 : PB5
-- 54 : PB6
-- 55 : PB7
-- 59 : PB8
-- 60 : PB9
-- 46 : PB10
-- 47 : PB11
-- 3 : PB12
-- 57 : PB13
-- 15 : PB14
-- 14 : PB15
-- 28 : ADVREF
-- 30 : VDDOUT
-- 2 : NRST
-- 10 : TEST
-- 31 : VDDIO
-- 32 : VDDIO
-- 27 : VDDIO
-- 64 : VDDIO
-- 1 : VDDIO
-- 26 : VDDUSB
-- 63 : JTAGSEL
-- 9 : VDDCORE
-- 45 : VDDCORE
-- 53 : GND
-- 13 : GND
-- 29 : GND
+Pin count : 64
+- 6 : PA0,  of Type IO, alternates : [SUPC WKUP_0, TC0 TIOA_0, I2SC0 I2SCK_0, PIOA P_0]
+- 7 : PA1,  of Type IO, alternates : [SUPC WKUP_1, I2SC0 I2SWS_0, PIOA P_1, TC0 TIOB_0]
+- 61 : PA2,  of Type IO, alternates : [SUPC WKUP_2, TC0 TCLK_0, I2SC0 I2SDI_0, PIOA P_2]
+- 5 : PA3,  of Type IO, alternates : [TWI3 TWD_, SPI3 SPI3_MOSI_, PIOA P_3, SUPC WKUP_9, USART3 TXD_, I2SC0 I2SDO_0]
+- 4 : PA4,  of Type IO, alternates : [TWI3 TWCK_, SPI3 SPI3_MISO_, SUPC WKUP_10, PIOA P_4, USART3 RXD_, I2SC0 I2SMCK_0]
+- 8 : PA5,  of Type IO, alternates : [SUPC WKUP_4, USART2 RXD_, PIOA P_5, SPI5 SPI5_NPCS_1, SPI2 SPI2_MISO_, TWI2 TWCK_, USART5 RTS_]
+- 17 : PA6,  of Type IO, alternates : [PIOA P_6, USART2 TXD_, TWI2 TWD_, SPI2 SPI2_MOSI_, PMC PCK_0]
+- 11 : PA7,  of Type IO, alternates : [PIOA P_7]
+- 12 : PA8,  of Type IO, alternates : [ADC ADTRG_, PIOA P_8, SUPC WKUP_5]
+- 49 : PA9,  of Type IO, alternates : [TWI0 TWCK_, PIOA P_9, PDMIC0 PDMIC0_DAT_, SPI0 SPI0_MISO_, USART0 RXD_, SUPC WKUP_6]
+- 48 : PA10,  of Type IO, alternates : [TWI0 TWD_, USART0 TXD_, PIOA P_10, PDMIC0 PDMIC0_CLK_, SPI0 SPI0_MOSI_]
+- 44 : PA11,  of Type IO, alternates : [USART5 CTS_, SPI5 SPI5_NPCS_0, PIOA P_11]
+- 43 : PA12,  of Type IO, alternates : [SPI5 SPI5_MISO_, USART5 RXD_, PIOA P_12, TWI5 TWCK_]
+- 42 : PA13,  of Type IO, alternates : [TWI5 TWD_, SPI5 SPI5_MOSI_, USART5 TXD_, PIOA P_13]
+- 41 : PA14,  of Type IO, alternates : [USART5 SCK_, SPI5 SPI5_SPCK_, SUPC WKUP_8, PIOA P_14]
+- 22 : PA15,  of Type IO, alternates : [PIOA P_15, SPI2 SPI2_SPCK_, USART2 SCK_, USART2 RTS_, SPI2 SPI2_NPCS_1]
+- 18 : PA16,  of Type IO, alternates : [USART2 CTS_, PIOA P_16, TC0 TIOB_1, SPI2 SPI2_NPCS_0, SUPC WKUP_7]
+- 33 : PA17,  of Type IO, alternates : [PMC PCK_1, PIOA P_17, ADC AD_0, I2SC0 I2SDO_0]
+- 34 : PA18,  of Type IO, alternates : [PMC PCK_2, PIOA P_18, I2SC0 I2SMCK_0, ADC AD_1]
+- 35 : PA19,  of Type IO, alternates : [TC0 TCLK_1, PIOA P_19, I2SC1 I2SCK_1, ADC AD_2]
+- 36 : PA20,  of Type IO, alternates : [I2SC1 I2SWS_1, PIOA P_20, TC0 TCLK_2, ADC AD_3]
+- 25 : PA21,  of Type IO, alternates : [PMC PCK_1, UHP DM_, PIOA P_21, TC0 TIOA_2]
+- 24 : PA22,  of Type IO, alternates : [UHP DP_, TC0 TIOB_2, PIOA P_22, I2SC1 I2SDI_1]
+- 23 : PA23,  of Type IO, alternates : [SUPC WKUP_3, I2SC1 I2SDO_1, TC0 TIOA_1, PIOA P_23]
+- 58 : PA24,  of Type IO, alternates : [SPI2 SPI2_SPCK_, USART2 SCK_, SUPC WKUP_11, I2SC1 I2SMCK_1, PIOA P_24]
+- 56 : PA25,  of Type IO, alternates : [SPI0 SPI0_NPCS_0, USART0 CTS_, I2SC1 I2SDO_1, PIOA P_25]
+- 52 : PA26,  of Type IO, alternates : [PIOA P_26, I2SC1 I2SMCK_1, SPI0 SPI0_NPCS_1, USART0 RTS_]
+- 51 : PA27,  of Type IO, alternates : [USART7 RXD_, PIOA P_27, SPI7 SPI7_MISO_, SPI1 SPI1_SPCK_, USART1 SCK_, TWI7 TWCK_]
+- 21 : PA28,  of Type IO, alternates : [PIOA P_28, SPI7 SPI7_MOSI_, SPI1 SPI1_NPCS_0, USART1 CTS_, TWI7 TWD_, USART7 TXD_]
+- 20 : PA29,  of Type IO, alternates : [PIOA P_29, USART1 RTS_, SPI1 SPI1_NPCS_1, SPI7 SPI7_SPCK_, USART7 SCK_]
+- 19 : PA30,  of Type IO, alternates : [PMC PCK_1, USART7 CTS_, SPI7 SPI7_NPCS_0, PIOA P_30]
+- 16 : PA31,  of Type IO, alternates : [PMC PCK_2, USART7 RTS_, SPI7 SPI7_NPCS_1, PIOA P_31]
+- 37 : PB0,  of Type IO, alternates : [SPI0 SPI0_SPCK_, ADC AD_4, USART0 SCK_, USART6 TXD_, SPI6 SPI6_MOSI_, PIOB P_32, TWI6 TWD_]
+- 38 : PB1,  of Type IO, alternates : [TWI6 TWCK_, SPI4 SPI4_SPCK_, ADC AD_5, USART4 SCK_, USART6 RXD_, SPI6 SPI6_MISO_, PIOB P_33]
+- 39 : PB2,  of Type IO, alternates : [ADC AD_6, SUPC WKUP_12, SPI1 SPI1_MISO_, USART1 RXD_, SPI5 SPI5_NPCS_1, PIOB P_34, TWI1 TWCK_, USART5 RTS_, ADC WKUP_12]
+- 40 : PB3,  of Type IO, alternates : [SUPC WKUP_13, ADC AD_7, PMC PCK_2, USART1 TXD_, SPI1 SPI1_MOSI_, PIOB P_35, TWI1 TWD_, ADC WKUP_13]
+- 62 : PB4,  of Type IO, alternates : [ICE TDI_, PIOB P_36]
+- 50 : PB5,  of Type IO, alternates : [ICE TDO_, PIOB P_37, ICE TRACESWO_]
+- 54 : PB6,  of Type IO, alternates : [ICE SWDIO_, ICE TMS_, PIOB P_38]
+- 55 : PB7,  of Type IO, alternates : [PIOB P_39, ICE TCK_, ICE SWDCLK_]
+- 59 : PB8,  of Type IO, alternates : [USART4 TXD_, PIOB P_40, SPI4 SPI4_NPCS_0, USART4 CTS_, TWI4 TWD_, SPI4 SPI4_MOSI_, SUPC WKUP_14]
+- 60 : PB9,  of Type IO, alternates : [USART4 RXD_, SPI4 SPI4_NPCS_1, TWI4 TWCK_, SPI4 SPI4_MISO_, PIOB P_41, SUPC WKUP_15, USART4 RTS_]
+- 46 : PB10,  of Type IO, alternates : [USART4 TXD_, USART6 TXD_, TWI4 TWD_, PIOB P_42, SPI6 SPI6_MOSI_, SPI4 SPI4_MOSI_, TWI6 TWD_]
+- 47 : PB11,  of Type IO, alternates : [TWI6 TWCK_, USART4 RXD_, TWI4 TWCK_, USART6 RXD_, SPI4 SPI4_MISO_, SPI6 SPI6_MISO_, PIOB P_43]
+- 3 : PB12,  of Type IO, alternates : [PIOB P_44, EFC ERASE_]
+- 57 : PB13,  of Type IO, alternates : [SPI6 SPI6_SPCK_, PIOB P_45, SPI3 SPI3_SPCK_, USART6 SCK_, USART3 SCK_]
+- 15 : PB14,  of Type IO, alternates : [SPI3 SPI3_NPCS_0, SPI6 SPI6_NPCS_0, PIOB P_46, USART3 CTS_, USART6 CTS_]
+- 14 : PB15,  of Type IO, alternates : [SPI3 SPI3_NPCS_1, SPI6 SPI6_NPCS_1, USART6 RTS_, PIOB P_47, USART3 RTS_]
+- 28 : ADVREF,  of Type PS
+- 30 : VDDOUT,  of Type PP
+- 2 : NRST,  of Type IP
+- 10 : TEST,  of Type IO
+- 31 : VDDIO,  of Type PP
+- 32 : VDDIO,  of Type PP
+- 27 : VDDIO,  of Type PP
+- 64 : VDDIO,  of Type PP
+- 1 : VDDIO,  of Type PP
+- 26 : VDDUSB,  of Type PP
+- 63 : JTAGSEL,  of Type OP
+- 9 : VDDCORE,  of Type PP
+- 45 : VDDCORE,  of Type PP
+- 53 : GND,  of Type PS
+- 13 : GND,  of Type PS
+- 29 : GND,  of Type PS
 ## ATSAMG55J19A-MUT
+
 ### Description : 
+
+- Series : SAMG55
+- Footprint : QFN64
+- MP : ATSAMG55J19A-MUT
+- Architecture : CORTEX-M4
+- PINOUT : QFN64
+- Reference : U
+- Documentation : https://www.microchip.com/en-us/search?q=ATSAMG55J19A-MUT
+- Value : ATSAMG55J19A-MUT
+- Family : SAMG
+- MF : Microchip
+- Name : ATSAMG55J19
 
 ### Package : 
 
-- 6 : PA0
-- 7 : PA1
-- 61 : PA2
-- 5 : PA3
-- 4 : PA4
-- 8 : PA5
-- 17 : PA6
-- 11 : PA7
-- 12 : PA8
-- 49 : PA9
-- 48 : PA10
-- 44 : PA11
-- 43 : PA12
-- 42 : PA13
-- 41 : PA14
-- 22 : PA15
-- 18 : PA16
-- 33 : PA17
-- 34 : PA18
-- 35 : PA19
-- 36 : PA20
-- 25 : PA21
-- 24 : PA22
-- 23 : PA23
-- 58 : PA24
-- 56 : PA25
-- 52 : PA26
-- 51 : PA27
-- 21 : PA28
-- 20 : PA29
-- 19 : PA30
-- 16 : PA31
-- 37 : PB0
-- 38 : PB1
-- 39 : PB2
-- 40 : PB3
-- 62 : PB4
-- 50 : PB5
-- 54 : PB6
-- 55 : PB7
-- 59 : PB8
-- 60 : PB9
-- 46 : PB10
-- 47 : PB11
-- 3 : PB12
-- 57 : PB13
-- 15 : PB14
-- 14 : PB15
-- 28 : ADVREF
-- 30 : VDDOUT
-- 2 : NRST
-- 10 : TEST
-- 31 : VDDIO
-- 32 : VDDIO
-- 27 : VDDIO
-- 64 : VDDIO
-- 1 : VDDIO
-- 26 : VDDUSB
-- 63 : JTAGSEL
-- 9 : VDDCORE
-- 45 : VDDCORE
-- 53 : GND
-- 13 : GND
-- 29 : GND
+Pin count : 64
+- 6 : PA0,  of Type IO, alternates : [SUPC WKUP_0, TC0 TIOA_0, I2SC0 I2SCK_0, PIOA P_0]
+- 7 : PA1,  of Type IO, alternates : [SUPC WKUP_1, I2SC0 I2SWS_0, PIOA P_1, TC0 TIOB_0]
+- 61 : PA2,  of Type IO, alternates : [SUPC WKUP_2, TC0 TCLK_0, I2SC0 I2SDI_0, PIOA P_2]
+- 5 : PA3,  of Type IO, alternates : [TWI3 TWD_, SPI3 SPI3_MOSI_, PIOA P_3, SUPC WKUP_9, USART3 TXD_, I2SC0 I2SDO_0]
+- 4 : PA4,  of Type IO, alternates : [TWI3 TWCK_, SPI3 SPI3_MISO_, SUPC WKUP_10, PIOA P_4, USART3 RXD_, I2SC0 I2SMCK_0]
+- 8 : PA5,  of Type IO, alternates : [SUPC WKUP_4, USART2 RXD_, PIOA P_5, SPI5 SPI5_NPCS_1, SPI2 SPI2_MISO_, TWI2 TWCK_, USART5 RTS_]
+- 17 : PA6,  of Type IO, alternates : [PIOA P_6, USART2 TXD_, TWI2 TWD_, SPI2 SPI2_MOSI_, PMC PCK_0]
+- 11 : PA7,  of Type IO, alternates : [PIOA P_7]
+- 12 : PA8,  of Type IO, alternates : [ADC ADTRG_, PIOA P_8, SUPC WKUP_5]
+- 49 : PA9,  of Type IO, alternates : [TWI0 TWCK_, PIOA P_9, PDMIC0 PDMIC0_DAT_, SPI0 SPI0_MISO_, USART0 RXD_, SUPC WKUP_6]
+- 48 : PA10,  of Type IO, alternates : [TWI0 TWD_, USART0 TXD_, PIOA P_10, PDMIC0 PDMIC0_CLK_, SPI0 SPI0_MOSI_]
+- 44 : PA11,  of Type IO, alternates : [USART5 CTS_, SPI5 SPI5_NPCS_0, PIOA P_11]
+- 43 : PA12,  of Type IO, alternates : [SPI5 SPI5_MISO_, USART5 RXD_, PIOA P_12, TWI5 TWCK_]
+- 42 : PA13,  of Type IO, alternates : [TWI5 TWD_, SPI5 SPI5_MOSI_, USART5 TXD_, PIOA P_13]
+- 41 : PA14,  of Type IO, alternates : [USART5 SCK_, SPI5 SPI5_SPCK_, SUPC WKUP_8, PIOA P_14]
+- 22 : PA15,  of Type IO, alternates : [PIOA P_15, SPI2 SPI2_SPCK_, USART2 SCK_, USART2 RTS_, SPI2 SPI2_NPCS_1]
+- 18 : PA16,  of Type IO, alternates : [USART2 CTS_, PIOA P_16, TC0 TIOB_1, SPI2 SPI2_NPCS_0, SUPC WKUP_7]
+- 33 : PA17,  of Type IO, alternates : [PMC PCK_1, PIOA P_17, ADC AD_0, I2SC0 I2SDO_0]
+- 34 : PA18,  of Type IO, alternates : [PMC PCK_2, PIOA P_18, I2SC0 I2SMCK_0, ADC AD_1]
+- 35 : PA19,  of Type IO, alternates : [TC0 TCLK_1, PIOA P_19, I2SC1 I2SCK_1, ADC AD_2]
+- 36 : PA20,  of Type IO, alternates : [I2SC1 I2SWS_1, PIOA P_20, TC0 TCLK_2, ADC AD_3]
+- 25 : PA21,  of Type IO, alternates : [PMC PCK_1, UHP DM_, PIOA P_21, TC0 TIOA_2]
+- 24 : PA22,  of Type IO, alternates : [UHP DP_, TC0 TIOB_2, PIOA P_22, I2SC1 I2SDI_1]
+- 23 : PA23,  of Type IO, alternates : [SUPC WKUP_3, I2SC1 I2SDO_1, TC0 TIOA_1, PIOA P_23]
+- 58 : PA24,  of Type IO, alternates : [SPI2 SPI2_SPCK_, USART2 SCK_, SUPC WKUP_11, I2SC1 I2SMCK_1, PIOA P_24]
+- 56 : PA25,  of Type IO, alternates : [SPI0 SPI0_NPCS_0, USART0 CTS_, I2SC1 I2SDO_1, PIOA P_25]
+- 52 : PA26,  of Type IO, alternates : [PIOA P_26, I2SC1 I2SMCK_1, SPI0 SPI0_NPCS_1, USART0 RTS_]
+- 51 : PA27,  of Type IO, alternates : [USART7 RXD_, PIOA P_27, SPI7 SPI7_MISO_, SPI1 SPI1_SPCK_, USART1 SCK_, TWI7 TWCK_]
+- 21 : PA28,  of Type IO, alternates : [PIOA P_28, SPI7 SPI7_MOSI_, SPI1 SPI1_NPCS_0, USART1 CTS_, TWI7 TWD_, USART7 TXD_]
+- 20 : PA29,  of Type IO, alternates : [PIOA P_29, USART1 RTS_, SPI1 SPI1_NPCS_1, SPI7 SPI7_SPCK_, USART7 SCK_]
+- 19 : PA30,  of Type IO, alternates : [PMC PCK_1, USART7 CTS_, SPI7 SPI7_NPCS_0, PIOA P_30]
+- 16 : PA31,  of Type IO, alternates : [PMC PCK_2, USART7 RTS_, SPI7 SPI7_NPCS_1, PIOA P_31]
+- 37 : PB0,  of Type IO, alternates : [SPI0 SPI0_SPCK_, ADC AD_4, USART0 SCK_, USART6 TXD_, SPI6 SPI6_MOSI_, PIOB P_32, TWI6 TWD_]
+- 38 : PB1,  of Type IO, alternates : [TWI6 TWCK_, SPI4 SPI4_SPCK_, ADC AD_5, USART4 SCK_, USART6 RXD_, SPI6 SPI6_MISO_, PIOB P_33]
+- 39 : PB2,  of Type IO, alternates : [ADC AD_6, SUPC WKUP_12, SPI1 SPI1_MISO_, USART1 RXD_, SPI5 SPI5_NPCS_1, PIOB P_34, TWI1 TWCK_, USART5 RTS_, ADC WKUP_12]
+- 40 : PB3,  of Type IO, alternates : [SUPC WKUP_13, ADC AD_7, PMC PCK_2, USART1 TXD_, SPI1 SPI1_MOSI_, PIOB P_35, TWI1 TWD_, ADC WKUP_13]
+- 62 : PB4,  of Type IO, alternates : [ICE TDI_, PIOB P_36]
+- 50 : PB5,  of Type IO, alternates : [ICE TDO_, PIOB P_37, ICE TRACESWO_]
+- 54 : PB6,  of Type IO, alternates : [ICE SWDIO_, ICE TMS_, PIOB P_38]
+- 55 : PB7,  of Type IO, alternates : [PIOB P_39, ICE TCK_, ICE SWDCLK_]
+- 59 : PB8,  of Type IO, alternates : [USART4 TXD_, PIOB P_40, SPI4 SPI4_NPCS_0, USART4 CTS_, TWI4 TWD_, SPI4 SPI4_MOSI_, SUPC WKUP_14]
+- 60 : PB9,  of Type IO, alternates : [USART4 RXD_, SPI4 SPI4_NPCS_1, TWI4 TWCK_, SPI4 SPI4_MISO_, PIOB P_41, SUPC WKUP_15, USART4 RTS_]
+- 46 : PB10,  of Type IO, alternates : [USART4 TXD_, USART6 TXD_, TWI4 TWD_, PIOB P_42, SPI6 SPI6_MOSI_, SPI4 SPI4_MOSI_, TWI6 TWD_]
+- 47 : PB11,  of Type IO, alternates : [TWI6 TWCK_, USART4 RXD_, TWI4 TWCK_, USART6 RXD_, SPI4 SPI4_MISO_, SPI6 SPI6_MISO_, PIOB P_43]
+- 3 : PB12,  of Type IO, alternates : [PIOB P_44, EFC ERASE_]
+- 57 : PB13,  of Type IO, alternates : [SPI6 SPI6_SPCK_, PIOB P_45, SPI3 SPI3_SPCK_, USART6 SCK_, USART3 SCK_]
+- 15 : PB14,  of Type IO, alternates : [SPI3 SPI3_NPCS_0, SPI6 SPI6_NPCS_0, PIOB P_46, USART3 CTS_, USART6 CTS_]
+- 14 : PB15,  of Type IO, alternates : [SPI3 SPI3_NPCS_1, SPI6 SPI6_NPCS_1, USART6 RTS_, PIOB P_47, USART3 RTS_]
+- 28 : ADVREF,  of Type PS
+- 30 : VDDOUT,  of Type PP
+- 2 : NRST,  of Type IP
+- 10 : TEST,  of Type IO
+- 31 : VDDIO,  of Type PP
+- 32 : VDDIO,  of Type PP
+- 27 : VDDIO,  of Type PP
+- 64 : VDDIO,  of Type PP
+- 1 : VDDIO,  of Type PP
+- 26 : VDDUSB,  of Type PP
+- 63 : JTAGSEL,  of Type OP
+- 9 : VDDCORE,  of Type PP
+- 45 : VDDCORE,  of Type PP
+- 53 : GND,  of Type PS
+- 13 : GND,  of Type PS
+- 29 : GND,  of Type PS

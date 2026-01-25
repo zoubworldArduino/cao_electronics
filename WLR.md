@@ -1,81 +1,95 @@
 # WLR
 ## WLR089U0-I/RM
+
 ### Description : 
+
+- Series : WLR089
+- Footprint : BGA64
+- MP : WLR089U0-I/RM
+- Architecture : CORTEX-M0PLUS
+- PINOUT : WLR089
+- Reference : U
+- Documentation : https://www.microchip.com/en-us/search?q=WLR089U0-I/RM
+- Value : WLR089U0-I/RM
+- Family : WLR
+- MF : Microchip
+- Name : WLR089U0
 
 ### Package : 
 
-- DIO0 : PB16
-- DIO1 : PA11
-- DIO2 : PA12
-- DIO3 : PB17
-- DIO4 : PA10
-- DIO5 : PB00
-- RF_MISO : PC19
-- RF_MOSI : PB30
-- RF_NRST : PB15
-- RF_NSS : PB31
-- RF_SCK : PC18
-- A1 : RFI_HF
-- A2 : GND_RF
-- A3 : PA00
-- A4 : PA01
-- A5 : VDDCORE
-- A6 : VSW
-- A7 : VDDIN
-- A8 : VDDIO
-- B1 : RFO_HF
-- B2 : GND_HF
-- B3 : GNDANA
-- B4 : PB02
-- B5 : GNDIO
-- B6 : RESET_N
-- B7 : GNDIO
-- B8 : PA24
-- C1 : VDDIN_RF
-- C2 : VDDANA
-- C3 : PB03
-- C4 : PA05
-- C5 : PA30
-- C6 : PA28
-- C7 : PB23
-- C8 : PA25
-- D1 : VRPA_RF
-- D2 : RXTX_RF
-- D3 : PA04
-- D4 : GNDIO
-- D5 : PA31
-- D6 : GNDIO
-- D7 : PA23
-- D8 : PA22
-- E1 : GND_PA
-- E2 : GNDANA
-- E3 : PA06
-- E4 : PA27
-- E5 : PB22
-- E6 : PA17
-- E7 : PA18
-- E8 : PA19
-- F1 : PA_BOOST
-- F2 : GND_RF
-- F3 : PA07
-- F4 : PA08
-- F5 : PA09
-- F6 : PA13
-- F7 : PA16
-- F8 : PA14
-- G1 : RFO_LF
-- G2 : GND_RF
-- G3 : SCAN_MODE
-- G4 : VDDIO
-- G5 : GND_RF
-- G6 : GND_RF
-- G7 : GND_RF
-- G8 : PA15
-- H1 : RFI_RF
-- H2 : VRANA_RF
-- H3 : VDDANA_RF
-- H4 : VRDIG_RF
-- H5 : GND_RF
-- H6 : RF_XTA
-- H7 : RF_XTB
-- H8 : VDDDIG_RF
+Pin count : 75
+- DIO0 : PB16,  of Type IO, alternates : [CCL IN_11, SERCOM5 PAD_0, TC2 WO_0, EIC EXTINT_0, TCC0 WO_4, PORT P_48, GCLK IO_2]
+- DIO1 : PA11,  of Type IO, alternates : [PORT P_11, TCC1 WO_1, CCL OUT_1, GCLK IO_5, PTC X_3, TCC0 WO_3, EIC EXTINT_11, PTC Y_9, ADC AIN_19, SERCOM0 PAD_3, SERCOM2 PAD_3]
+- DIO2 : PA12,  of Type IO, alternates : [PORT P_12, SERCOM2 PAD_0, SERCOM4 PAD_0, AC CMP_0, TCC2 WO_0, EIC EXTINT_12, TCC0 WO_6]
+- DIO3 : PB17,  of Type IO, alternates : [CCL OUT_3, SERCOM5 PAD_1, EIC EXTINT_1, TC2 WO_1, TCC0 WO_5, GCLK IO_3, PORT P_49]
+- DIO4 : PA10,  of Type IO, alternates : [SERCOM2 PAD_2, TCC1 WO_0, GCLK IO_4, PORT P_10, PTC X_2, EIC EXTINT_10, TCC0 WO_2, PTC Y_8, CCL IN_5, ADC AIN_18, SERCOM0 PAD_2]
+- DIO5 : PB00,  of Type IO, alternates : [SERCOM5 PAD_2, TC3 WO_0, PORT P_32, SUPC PSOK_, EIC EXTINT_0, ADC AIN_8, CCL IN_1]
+- RF_MISO : PC19,  of Type IO, alternates : [PORT P_83]
+- RF_MOSI : PB30,  of Type IO, alternates : [SERCOM5 PAD_0, TCC1 WO_2, PORT P_62, TCC0 WO_0, EIC EXTINT_14]
+- RF_NRST : PB15,  of Type IO, alternates : [CCL IN_10, TC1 WO_1, PTC X_15, GCLK IO_1, SERCOM4 PAD_3, EIC EXTINT_15, PORT P_47]
+- RF_NSS : PB31,  of Type IO, alternates : [TCC1 WO_3, SERCOM5 PAD_1, PORT P_63, TCC0 WO_1, EIC EXTINT_15]
+- RF_SCK : PC18,  of Type IO, alternates : [PORT P_82]
+- A1 : RFI_HF,  of Type IO
+- A2 : GND_RF,  of Type PS
+- A3 : PA00,  of Type IO, alternates : [OSC32KCTRL XIN32_, PORT P_0]
+- A4 : PA01,  of Type IO, alternates : [PORT P_1, OSC32KCTRL XOUT32_]
+- A5 : VDDCORE,  of Type PP
+- A6 : VSW,  of Type PP
+- A7 : VDDIN,  of Type PP
+- A8 : VDDIO,  of Type PP
+- B1 : RFO_HF,  of Type IO
+- B2 : GND_HF,  of Type PS
+- B3 : GNDANA,  of Type PS
+- B4 : PB02,  of Type IO, alternates : [PORT P_34, SUPC OUT_1, SERCOM5 PAD_0, TC2 WO_0, ADC AIN_10, CCL OUT_0, EIC EXTINT_2]
+- B5 : GNDIO,  of Type PS
+- B6 : RESET_N,  of Type IP, alternates : [PM RESET_N_]
+- B7 : GNDIO,  of Type PS
+- B8 : PA24,  of Type IO, alternates : [SERCOM5 PAD_2, TCC1 WO_2, SERCOM3 PAD_2, CCL IN_8, EIC EXTINT_12, TC1 WO_0, PORT P_24, USB DM_]
+- C1 : VDDIN_RF,  of Type PP
+- C2 : VDDANA,  of Type PP
+- C3 : PB03,  of Type IO, alternates : [SERCOM5 PAD_1, ADC AIN_11, TC2 WO_1, EIC EXTINT_3, SUPC VBAT_, PORT P_35]
+- C4 : PA05,  of Type IO, alternates : [EIC EXTINT_5, PORT P_5, RSTC EXTWAKE_5, AC AIN_1, TCC0 WO_1, CCL IN_1, ADC AIN_5, SERCOM0 PAD_1]
+- C5 : PA30,  of Type IO, alternates : [TCC1 WO_0, EIC EXTINT_10, PORT P_30, SERCOM1 PAD_2, CCL IN_3, GCLK IO_0]
+- C6 : PA28,  of Type IO, alternates : [PORT P_28, EIC EXTINT_8, GCLK IO_0]
+- C7 : PB23,  of Type IO, alternates : [PORT P_55, SERCOM5 PAD_3, TC3 WO_1, EIC EXTINT_7, CCL OUT_0, GCLK IO_1]
+- C8 : PA25,  of Type IO, alternates : [CCL OUT_2, SERCOM5 PAD_3, TCC1 WO_3, USB DP_, TC1 WO_1, SERCOM3 PAD_3, EIC EXTINT_13, PORT P_25]
+- D1 : VRPA_RF,  of Type IO
+- D2 : RXTX_RF,  of Type OP
+- D3 : PA04,  of Type IO, alternates : [RSTC EXTWAKE_4, EIC EXTINT_4, PORT P_4, ADC VREFP_, TCC0 WO_0, AC AIN_0, ADC AIN_4, SERCOM0 PAD_0, CCL IN_0]
+- D4 : GNDIO,  of Type PS
+- D5 : PA31,  of Type IO, alternates : [TCC1 WO_1, CCL OUT_1, PORT P_31, SERCOM1 PAD_3, EIC EXTINT_11]
+- D6 : GNDIO,  of Type PS
+- D7 : PA23,  of Type IO, alternates : [GCLK IO_7, PORT P_23, TC0 WO_1, EIC EXTINT_7, PTC X_11, SERCOM5 PAD_1, USB SOF_1KHZ_, CCL IN_7, SERCOM3 PAD_1, TCC0 WO_5]
+- D8 : PA22,  of Type IO, alternates : [PORT P_22, TC0 WO_0, GCLK IO_6, SERCOM5 PAD_0, EIC EXTINT_6, CCL IN_6, SERCOM3 PAD_0, TCC0 WO_4, PTC X_10]
+- E1 : GND_PA,  of Type PS
+- E2 : GNDANA,  of Type PS
+- E3 : PA06,  of Type IO, alternates : [TCC1 WO_0, EIC EXTINT_6, AC AIN_2, PTC Y_4, RSTC EXTWAKE_6, CCL IN_2, ADC AIN_6, SERCOM0 PAD_2, PORT P_6]
+- E4 : PA27,  of Type IO, alternates : [PORT P_27, EIC EXTINT_15, GCLK IO_0]
+- E5 : PB22,  of Type IO, alternates : [SERCOM5 PAD_2, TC3 WO_0, EIC EXTINT_6, PORT P_54, CCL IN_0, GCLK IO_0]
+- E6 : PA17,  of Type IO, alternates : [EIC EXTINT_1, PTC X_5, SERCOM1 PAD_1, SERCOM3 PAD_1, PORT P_17, GCLK IO_3, TCC0 WO_7, CCL IN_1, TCC2 WO_1]
+- E7 : PA18,  of Type IO, alternates : [AC CMP_0, SERCOM3 PAD_2, EIC EXTINT_2, PTC X_6, SERCOM1 PAD_2, TCC0 WO_2, CCL IN_2, PORT P_18, TC4 WO_0]
+- E8 : PA19,  of Type IO, alternates : [CCL OUT_0, EIC EXTINT_3, PTC X_7, SERCOM1 PAD_3, AC CMP_1, SERCOM3 PAD_3, PORT P_19, TCC0 WO_3, TC4 WO_1]
+- F1 : PA_BOOST,  of Type IO
+- F2 : GND_RF,  of Type PS
+- F3 : PA07,  of Type IO, alternates : [TCC1 WO_1, EIC EXTINT_7, AC AIN_3, CCL OUT_0, RSTC EXTWAKE_7, ADC AIN_7, SERCOM0 PAD_3, PORT P_7]
+- F4 : PA08,  of Type IO, alternates : [PTC X_0, EIC NMI_, SERCOM2 PAD_0, ADC AIN_16, TCC1 WO_2, TCC0 WO_0, PTC Y_6, CCL IN_3, SERCOM0 PAD_0, PORT P_8]
+- F5 : PA09,  of Type IO, alternates : [PORT P_9]
+- F6 : PA13,  of Type IO, alternates : [PORT P_13]
+- F7 : PA16,  of Type IO, alternates : [EIC EXTINT_0, PTC X_4, SERCOM1 PAD_0, SERCOM3 PAD_0, TCC2 WO_0, TCC0 WO_6, GCLK IO_2, PORT P_16, CCL IN_0]
+- F8 : PA14,  of Type IO, alternates : [SERCOM2 PAD_2, EIC EXTINT_14, TCC0 WO_4, SERCOM4 PAD_2, GCLK IO_0, OSCCTRL XIN_, PORT P_14, TC4 WO_0]
+- G1 : RFO_LF,  of Type IO
+- G2 : GND_RF,  of Type PS
+- G3 : SCAN_MODE,  of Type IO
+- G4 : VDDIO,  of Type PP
+- G5 : GND_RF,  of Type PS
+- G6 : GND_RF,  of Type PS
+- G7 : GND_RF,  of Type PS
+- G8 : PA15,  of Type IO, alternates : [OSCCTRL XOUT_, TCC0 WO_5, PORT P_15, GCLK IO_1, SERCOM4 PAD_3, TC4 WO_1, EIC EXTINT_15, SERCOM2 PAD_3]
+- H1 : RFI_RF,  of Type IO
+- H2 : VRANA_RF,  of Type IO
+- H3 : VDDANA_RF,  of Type PP
+- H4 : VRDIG_RF,  of Type IP
+- H5 : GND_RF,  of Type PS
+- H6 : RF_XTA,  of Type IO
+- H7 : RF_XTB,  of Type IO
+- H8 : VDDDIG_RF,  of Type PP

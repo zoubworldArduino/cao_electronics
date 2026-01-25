@@ -1,5 +1,5 @@
 (kicad_symbol_lib
-	(version 20251229)
+	(version 20260125)
 	(generator "kicad_symbol_editor")
 	(generator_version "8.0")
 ;Proteus Design Interchange Format
@@ -18,6 +18,7 @@
       (attribute "Architecture" "AVR8X")
       (attribute "PINOUT" "QFN48")
       (attribute "Reference" "U")
+      (attribute "Documentation" "https://www.microchip.com/en-us/search?q=AVR32DA48")
       (attribute "Value" "AVR32DA48")
       (attribute "Family" "AVR DA")
       (attribute "MF" "Microchip")
@@ -544,6 +545,7 @@ null
       (attribute "Architecture" "AVR8X")
       (attribute "PINOUT" "SOIC28")
       (attribute "Reference" "U")
+      (attribute "Documentation" "https://www.microchip.com/en-us/search?q=AVR32DA28")
       (attribute "Value" "AVR32DA28")
       (attribute "Family" "AVR DA")
       (attribute "MF" "Microchip")
@@ -902,6 +904,7 @@ null
       (attribute "Architecture" "AVR8X")
       (attribute "PINOUT" "QFN32")
       (attribute "Reference" "U")
+      (attribute "Documentation" "https://www.microchip.com/en-us/search?q=AVR32DA32")
       (attribute "Value" "AVR32DA32")
       (attribute "Family" "AVR DA")
       (attribute "MF" "Microchip")

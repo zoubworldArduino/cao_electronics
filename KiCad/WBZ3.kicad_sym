@@ -1,5 +1,5 @@
 (kicad_symbol_lib
-	(version 20251229)
+	(version 20241209)
 	(generator "kicad_symbol_editor")
 	(generator_version "8.0")
 (symbol "WBZ351"
@@ -65,17 +65,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "WBZ351"
+		(property "Documentation" "https://www.microchip.com/en-us/search?q=WBZ351"
 			(at -20.32 39.13 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Family" "WBZ3"
-			(at -20.32 41.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -84,7 +75,16 @@
 				(justify left)
 			)
 		)
-		(property "MF" "Microchip"
+		(property "Value" "WBZ351"
+			(at -20.32 41.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Family" "WBZ3"
 			(at -20.32 44.13 0)
 			(effects
 				(font
@@ -94,8 +94,18 @@
 				(justify left)
 			)
 		)
-		(property "Name" "WBZ351"
+		(property "MF" "Microchip"
 			(at -20.32 46.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Name" "WBZ351"
+			(at -20.32 49.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -119,8 +129,8 @@
 		)
 		(symbol "WBZ351_1_1"
 			(pin passive non_logic
-				(at -5.2 -26.67 90.0)
-				(length 2.54)
+				(at -5.2 -29.209999923706057 90.0)
+				(length 5.08)
 				(name "GND"
 					(effects
 						(font
@@ -138,8 +148,8 @@
 			)
 
 			(pin passive non_logic
-				(at -2.66 -26.67 90.0)
-				(length 2.54)
+				(at -2.66 -29.209999923706057 90.0)
+				(length 5.08)
 				(name "GND"
 					(effects
 						(font
@@ -157,8 +167,8 @@
 			)
 
 			(pin bidirectional inverted
-				(at -17.78 19.050000000000004 0.0)
-				(length 2.54)
+				(at -20.319999923706057 19.050000000000004 0.0)
+				(length 5.08)
 				(name "NMCLR"
 					(effects
 						(font
@@ -176,8 +186,8 @@
 			)
 
 			(pin bidirectional line
-				(at 17.78 13.970000000000006 180.0)
-				(length 2.54)
+				(at 20.319999923706057 13.970000000000006 180.0)
+				(length 5.08)
 				(name "PB0"
 					(effects
 						(font
@@ -195,8 +205,8 @@
 			)
 
 			(pin bidirectional line
-				(at 17.78 -3.8099999999999925 180.0)
-				(length 2.54)
+				(at 20.319999923706057 -3.8099999999999925 180.0)
+				(length 5.08)
 				(name "PB3"
 					(effects
 						(font
@@ -214,8 +224,8 @@
 			)
 
 			(pin bidirectional line
-				(at 17.78 -8.889999999999993 180.0)
-				(length 2.54)
+				(at 20.319999923706057 -8.889999999999993 180.0)
+				(length 5.08)
 				(name "PB5"
 					(effects
 						(font
@@ -233,8 +243,8 @@
 			)
 
 			(pin power_in non_logic
-				(at -2.54 26.67 270.0)
-				(length 2.54)
+				(at -2.54 29.209999923706057 270.0)
+				(length 5.08)
 				(name "AVDD"
 					(effects
 						(font
@@ -252,8 +262,8 @@
 			)
 
 			(pin passive non_logic
-				(at -0.1200000000000001 -26.67 90.0)
-				(length 2.54)
+				(at -0.1200000000000001 -29.209999923706057 90.0)
+				(length 5.08)
 				(name "GND"
 					(effects
 						(font
@@ -271,8 +281,8 @@
 			)
 
 			(pin bidirectional line
-				(at -17.78 8.890000000000008 0.0)
-				(length 2.54)
+				(at -20.319999923706057 8.890000000000008 0.0)
+				(length 5.08)
 				(name "PA11"
 					(effects
 						(font
@@ -290,8 +300,8 @@
 			)
 
 			(pin bidirectional line
-				(at -17.78 6.350000000000008 0.0)
-				(length 2.54)
+				(at -20.319999923706057 6.350000000000008 0.0)
+				(length 5.08)
 				(name "PA12"
 					(effects
 						(font
@@ -309,8 +319,8 @@
 			)
 
 			(pin passive non_logic
-				(at 2.42 -26.67 90.0)
-				(length 2.54)
+				(at 2.42 -29.209999923706057 90.0)
+				(length 5.08)
 				(name "GND"
 					(effects
 						(font
@@ -328,8 +338,8 @@
 			)
 
 			(pin bidirectional line
-				(at 17.78 -11.429999999999993 180.0)
-				(length 2.54)
+				(at 20.319999923706057 -11.429999999999993 180.0)
+				(length 5.08)
 				(name "PB6"
 					(effects
 						(font
@@ -347,8 +357,8 @@
 			)
 
 			(pin bidirectional line
-				(at 17.78 -13.969999999999992 180.0)
-				(length 2.54)
+				(at 20.319999923706057 -13.969999999999992 180.0)
+				(length 5.08)
 				(name "PB7"
 					(effects
 						(font
@@ -366,8 +376,8 @@
 			)
 
 			(pin bidirectional line
-				(at 17.78 -16.50999999999999 180.0)
-				(length 2.54)
+				(at 20.319999923706057 -16.50999999999999 180.0)
+				(length 5.08)
 				(name "PB8"
 					(effects
 						(font
@@ -385,8 +395,8 @@
 			)
 
 			(pin bidirectional line
-				(at 17.78 -19.04999999999999 180.0)
-				(length 2.54)
+				(at 20.319999923706057 -19.04999999999999 180.0)
+				(length 5.08)
 				(name "PB9"
 					(effects
 						(font
@@ -404,8 +414,8 @@
 			)
 
 			(pin bidirectional line
-				(at -17.78 -6.3499999999999925 0.0)
-				(length 2.54)
+				(at -20.319999923706057 -6.3499999999999925 0.0)
+				(length 5.08)
 				(name "PA4"
 					(effects
 						(font
@@ -423,8 +433,8 @@
 			)
 
 			(pin bidirectional line
-				(at 17.78 1.2700000000000076 180.0)
-				(length 2.54)
+				(at 20.319999923706057 1.2700000000000076 180.0)
+				(length 5.08)
 				(name "PB13"
 					(effects
 						(font
@@ -442,8 +452,8 @@
 			)
 
 			(pin bidirectional line
-				(at -17.78 13.970000000000006 0.0)
-				(length 2.54)
+				(at -20.319999923706057 13.970000000000006 0.0)
+				(length 5.08)
 				(name "PA1"
 					(effects
 						(font
@@ -461,8 +471,8 @@
 			)
 
 			(pin passive non_logic
-				(at 4.96 -26.67 90.0)
-				(length 2.54)
+				(at 4.96 -29.209999923706057 90.0)
+				(length 5.08)
 				(name "GND"
 					(effects
 						(font
@@ -480,8 +490,8 @@
 			)
 
 			(pin bidirectional line
-				(at 17.78 6.350000000000008 180.0)
-				(length 2.54)
+				(at 20.319999923706057 6.350000000000008 180.0)
+				(length 5.08)
 				(name "PB11"
 					(effects
 						(font
@@ -499,8 +509,8 @@
 			)
 
 			(pin bidirectional line
-				(at -17.78 -1.2699999999999925 0.0)
-				(length 2.54)
+				(at -20.319999923706057 -1.2699999999999925 0.0)
+				(length 5.08)
 				(name "PA2"
 					(effects
 						(font
@@ -518,8 +528,8 @@
 			)
 
 			(pin bidirectional line
-				(at -17.78 16.510000000000005 0.0)
-				(length 2.54)
+				(at -20.319999923706057 16.510000000000005 0.0)
+				(length 5.08)
 				(name "PA0"
 					(effects
 						(font
@@ -537,8 +547,8 @@
 			)
 
 			(pin bidirectional line
-				(at 17.78 3.8100000000000076 180.0)
-				(length 2.54)
+				(at 20.319999923706057 3.8100000000000076 180.0)
+				(length 5.08)
 				(name "PB12"
 					(effects
 						(font
@@ -556,8 +566,8 @@
 			)
 
 			(pin bidirectional line
-				(at -17.78 -8.889999999999993 0.0)
-				(length 2.54)
+				(at -20.319999923706057 -8.889999999999993 0.0)
+				(length 5.08)
 				(name "PA5"
 					(effects
 						(font
@@ -575,8 +585,8 @@
 			)
 
 			(pin bidirectional line
-				(at -17.78 -11.429999999999993 0.0)
-				(length 2.54)
+				(at -20.319999923706057 -11.429999999999993 0.0)
+				(length 5.08)
 				(name "PA6"
 					(effects
 						(font
@@ -594,8 +604,8 @@
 			)
 
 			(pin passive non_logic
-				(at 7.5 -26.67 90.0)
-				(length 2.54)
+				(at 7.5 -29.209999923706057 90.0)
+				(length 5.08)
 				(name "GND"
 					(effects
 						(font
@@ -613,8 +623,8 @@
 			)
 
 			(pin power_in non_logic
-				(at 0.0 26.67 270.0)
-				(length 2.54)
+				(at 0.0 29.209999923706057 270.0)
+				(length 5.08)
 				(name "VDD"
 					(effects
 						(font
@@ -632,8 +642,8 @@
 			)
 
 			(pin power_in non_logic
-				(at 2.54 26.67 270.0)
-				(length 2.54)
+				(at 2.54 29.209999923706057 270.0)
+				(length 5.08)
 				(name "VDD"
 					(effects
 						(font
@@ -651,8 +661,8 @@
 			)
 
 			(pin bidirectional line
-				(at 17.78 19.050000000000004 180.0)
-				(length 2.54)
+				(at 20.319999923706057 19.050000000000004 180.0)
+				(length 5.08)
 				(name "PA8"
 					(effects
 						(font
@@ -670,8 +680,8 @@
 			)
 
 			(pin bidirectional line
-				(at 17.78 16.510000000000005 180.0)
-				(length 2.54)
+				(at 20.319999923706057 16.510000000000005 180.0)
+				(length 5.08)
 				(name "PA9"
 					(effects
 						(font
@@ -689,8 +699,8 @@
 			)
 
 			(pin bidirectional line
-				(at -17.78 -13.969999999999992 0.0)
-				(length 2.54)
+				(at -20.319999923706057 -13.969999999999992 0.0)
+				(length 5.08)
 				(name "PA7"
 					(effects
 						(font
@@ -708,8 +718,8 @@
 			)
 
 			(pin bidirectional line
-				(at -17.78 11.430000000000007 0.0)
-				(length 2.54)
+				(at -20.319999923706057 11.430000000000007 0.0)
+				(length 5.08)
 				(name "PA10"
 					(effects
 						(font
@@ -727,8 +737,8 @@
 			)
 
 			(pin bidirectional line
-				(at -17.78 3.8100000000000076 0.0)
-				(length 2.54)
+				(at -20.319999923706057 3.8100000000000076 0.0)
+				(length 5.08)
 				(name "PA13"
 					(effects
 						(font
@@ -746,8 +756,8 @@
 			)
 
 			(pin bidirectional line
-				(at -17.78 1.2700000000000076 0.0)
-				(length 2.54)
+				(at -20.319999923706057 1.2700000000000076 0.0)
+				(length 5.08)
 				(name "PA14"
 					(effects
 						(font
@@ -765,8 +775,8 @@
 			)
 
 			(pin bidirectional line
-				(at 17.78 8.890000000000008 180.0)
-				(length 2.54)
+				(at 20.319999923706057 8.890000000000008 180.0)
+				(length 5.08)
 				(name "PB10"
 					(effects
 						(font
@@ -784,8 +794,8 @@
 			)
 
 			(pin bidirectional line
-				(at -17.78 -3.8099999999999925 0.0)
-				(length 2.54)
+				(at -20.319999923706057 -3.8099999999999925 0.0)
+				(length 5.08)
 				(name "PA3"
 					(effects
 						(font
@@ -803,8 +813,8 @@
 			)
 
 			(pin bidirectional line
-				(at 17.78 -1.2699999999999925 180.0)
-				(length 2.54)
+				(at 20.319999923706057 -1.2699999999999925 180.0)
+				(length 5.08)
 				(name "PB2"
 					(effects
 						(font
@@ -822,8 +832,8 @@
 			)
 
 			(pin bidirectional line
-				(at 17.78 11.430000000000007 180.0)
-				(length 2.54)
+				(at 20.319999923706057 11.430000000000007 180.0)
+				(length 5.08)
 				(name "PB1"
 					(effects
 						(font
@@ -841,8 +851,8 @@
 			)
 
 			(pin bidirectional line
-				(at 17.78 -6.3499999999999925 180.0)
-				(length 2.54)
+				(at 20.319999923706057 -6.3499999999999925 180.0)
+				(length 5.08)
 				(name "PB4"
 					(effects
 						(font
@@ -924,17 +934,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "WBZ350"
+		(property "Documentation" "https://www.microchip.com/en-us/search?q=WBZ350"
 			(at -25.4 31.509999999999998 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Family" "WBZ3"
-			(at -25.4 34.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -943,7 +944,16 @@
 				(justify left)
 			)
 		)
-		(property "MF" "Microchip"
+		(property "Value" "WBZ350"
+			(at -25.4 34.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Family" "WBZ3"
 			(at -25.4 36.51 0)
 			(effects
 				(font
@@ -953,8 +963,18 @@
 				(justify left)
 			)
 		)
-		(property "Name" "WBZ350"
+		(property "MF" "Microchip"
 			(at -25.4 39.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Name" "WBZ350"
+			(at -25.4 41.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -978,8 +998,8 @@
 		)
 		(symbol "WBZ350_1_1"
 			(pin passive non_logic
-				(at -0.1999999999999993 -19.049999999999997 90.0)
-				(length 2.54)
+				(at -0.1999999999999993 -21.589999923706053 90.0)
+				(length 5.08)
 				(name "GND"
 					(effects
 						(font
@@ -997,8 +1017,8 @@
 			)
 
 			(pin bidirectional inverted
-				(at -22.86 11.429999999999998 0.0)
-				(length 2.54)
+				(at -25.399999923706055 11.429999999999998 0.0)
+				(length 5.08)
 				(name "NMCLR"
 					(effects
 						(font
@@ -1016,8 +1036,8 @@
 			)
 
 			(pin bidirectional line
-				(at -22.86 -1.2700000000000031 0.0)
-				(length 2.54)
+				(at -25.399999923706055 -1.2700000000000031 0.0)
+				(length 5.08)
 				(name "PA4"
 					(effects
 						(font
@@ -1035,8 +1055,8 @@
 			)
 
 			(pin power_in non_logic
-				(at -2.54 19.049999999999997 270.0)
-				(length 2.54)
+				(at -2.54 21.589999923706053 270.0)
+				(length 5.08)
 				(name "AVDD"
 					(effects
 						(font
@@ -1054,8 +1074,8 @@
 			)
 
 			(pin passive non_logic
-				(at 2.3400000000000007 -19.049999999999997 90.0)
-				(length 2.54)
+				(at 2.3400000000000007 -21.589999923706053 90.0)
+				(length 5.08)
 				(name "GND"
 					(effects
 						(font
@@ -1073,8 +1093,8 @@
 			)
 
 			(pin bidirectional line
-				(at -22.86 6.349999999999997 0.0)
-				(length 2.54)
+				(at -25.399999923706055 6.349999999999997 0.0)
+				(length 5.08)
 				(name "PA11"
 					(effects
 						(font
@@ -1092,8 +1112,8 @@
 			)
 
 			(pin bidirectional line
-				(at -22.86 3.809999999999997 0.0)
-				(length 2.54)
+				(at -25.399999923706055 3.809999999999997 0.0)
+				(length 5.08)
 				(name "PA12"
 					(effects
 						(font
@@ -1111,8 +1131,8 @@
 			)
 
 			(pin passive non_logic
-				(at 4.880000000000001 -19.049999999999997 90.0)
-				(length 2.54)
+				(at 4.880000000000001 -21.589999923706053 90.0)
+				(length 5.08)
 				(name "GND"
 					(effects
 						(font
@@ -1130,8 +1150,8 @@
 			)
 
 			(pin bidirectional line
-				(at 22.86 1.269999999999997 180.0)
-				(length 2.54)
+				(at 25.399999923706055 1.269999999999997 180.0)
+				(length 5.08)
 				(name "PB5"
 					(effects
 						(font
@@ -1149,8 +1169,8 @@
 			)
 
 			(pin bidirectional line
-				(at -22.86 1.269999999999997 0.0)
-				(length 2.54)
+				(at -25.399999923706055 1.269999999999997 0.0)
+				(length 5.08)
 				(name "PA3"
 					(effects
 						(font
@@ -1168,8 +1188,8 @@
 			)
 
 			(pin bidirectional line
-				(at 22.86 3.809999999999997 180.0)
-				(length 2.54)
+				(at 25.399999923706055 3.809999999999997 180.0)
+				(length 5.08)
 				(name "PB4"
 					(effects
 						(font
@@ -1187,8 +1207,8 @@
 			)
 
 			(pin bidirectional line
-				(at 22.86 -1.2700000000000031 180.0)
-				(length 2.54)
+				(at 25.399999923706055 -1.2700000000000031 180.0)
+				(length 5.08)
 				(name "PB6"
 					(effects
 						(font
@@ -1206,8 +1226,8 @@
 			)
 
 			(pin bidirectional line
-				(at 22.86 -6.350000000000003 180.0)
-				(length 2.54)
+				(at 25.399999923706055 -6.350000000000003 180.0)
+				(length 5.08)
 				(name "PB8"
 					(effects
 						(font
@@ -1225,8 +1245,8 @@
 			)
 
 			(pin bidirectional line
-				(at 22.86 -8.890000000000004 180.0)
-				(length 2.54)
+				(at 25.399999923706055 -8.890000000000004 180.0)
+				(length 5.08)
 				(name "PB9"
 					(effects
 						(font
@@ -1244,8 +1264,8 @@
 			)
 
 			(pin bidirectional line
-				(at 22.86 -3.810000000000003 180.0)
-				(length 2.54)
+				(at 25.399999923706055 -3.810000000000003 180.0)
+				(length 5.08)
 				(name "PB7"
 					(effects
 						(font
@@ -1263,8 +1283,8 @@
 			)
 
 			(pin power_in non_logic
-				(at 0.0 19.049999999999997 270.0)
-				(length 2.54)
+				(at 0.0 21.589999923706053 270.0)
+				(length 5.08)
 				(name "VDD"
 					(effects
 						(font
@@ -1282,8 +1302,8 @@
 			)
 
 			(pin power_in non_logic
-				(at 2.54 19.049999999999997 270.0)
-				(length 2.54)
+				(at 2.54 21.589999923706053 270.0)
+				(length 5.08)
 				(name "VDD"
 					(effects
 						(font
@@ -1301,8 +1321,8 @@
 			)
 
 			(pin passive non_logic
-				(at 7.420000000000001 -19.049999999999997 90.0)
-				(length 2.54)
+				(at 7.420000000000001 -21.589999923706053 90.0)
+				(length 5.08)
 				(name "GND"
 					(effects
 						(font
@@ -1320,8 +1340,8 @@
 			)
 
 			(pin bidirectional line
-				(at -22.86 -3.810000000000003 0.0)
-				(length 2.54)
+				(at -25.399999923706055 -3.810000000000003 0.0)
+				(length 5.08)
 				(name "PA5"
 					(effects
 						(font
@@ -1339,8 +1359,8 @@
 			)
 
 			(pin bidirectional line
-				(at -22.86 -6.350000000000003 0.0)
-				(length 2.54)
+				(at -25.399999923706055 -6.350000000000003 0.0)
+				(length 5.08)
 				(name "PA6"
 					(effects
 						(font
@@ -1358,8 +1378,8 @@
 			)
 
 			(pin passive non_logic
-				(at 9.96 -19.049999999999997 90.0)
-				(length 2.54)
+				(at 9.96 -21.589999923706053 90.0)
+				(length 5.08)
 				(name "GND"
 					(effects
 						(font
@@ -1377,8 +1397,8 @@
 			)
 
 			(pin bidirectional line
-				(at 22.86 6.349999999999997 180.0)
-				(length 2.54)
+				(at 25.399999923706055 6.349999999999997 180.0)
+				(length 5.08)
 				(name "PA9"
 					(effects
 						(font
@@ -1396,8 +1416,8 @@
 			)
 
 			(pin bidirectional line
-				(at -22.86 8.889999999999997 0.0)
-				(length 2.54)
+				(at -25.399999923706055 8.889999999999997 0.0)
+				(length 5.08)
 				(name "PA10"
 					(effects
 						(font
@@ -1415,8 +1435,8 @@
 			)
 
 			(pin bidirectional line
-				(at 22.86 8.889999999999997 180.0)
-				(length 2.54)
+				(at 25.399999923706055 8.889999999999997 180.0)
+				(length 5.08)
 				(name "PA8"
 					(effects
 						(font
@@ -1434,8 +1454,8 @@
 			)
 
 			(pin bidirectional line
-				(at 22.86 11.429999999999998 180.0)
-				(length 2.54)
+				(at 25.399999923706055 11.429999999999998 180.0)
+				(length 5.08)
 				(name "PA7"
 					(effects
 						(font
@@ -1453,7 +1473,7 @@
 			)
 
 			(pin no_connect non_logic
-				(at -2.7399999999999993 -19.049999999999997 90.0)
+				(at -2.7399999999999993 -19.049999961853025 90.0)
 				(length 2.54)
 				(name "NC"
 					(effects
@@ -1472,8 +1492,8 @@
 			)
 
 			(pin passive non_logic
-				(at 12.5 -19.049999999999997 90.0)
-				(length 2.54)
+				(at 12.5 -21.589999923706053 90.0)
+				(length 5.08)
 				(name "GND"
 					(effects
 						(font
@@ -1491,7 +1511,7 @@
 			)
 
 			(pin no_connect non_logic
-				(at -5.279999999999999 -19.049999999999997 90.0)
+				(at -5.279999999999999 -19.049999961853025 90.0)
 				(length 2.54)
 				(name "NC"
 					(effects
@@ -1510,7 +1530,7 @@
 			)
 
 			(pin no_connect non_logic
-				(at -7.819999999999999 -19.049999999999997 90.0)
+				(at -7.819999999999999 -19.049999961853025 90.0)
 				(length 2.54)
 				(name "NC"
 					(effects
@@ -1529,7 +1549,7 @@
 			)
 
 			(pin no_connect non_logic
-				(at -10.36 -19.049999999999997 90.0)
+				(at -10.36 -19.049999961853025 90.0)
 				(length 2.54)
 				(name "NC"
 					(effects

@@ -1,5 +1,5 @@
 (kicad_symbol_lib
-	(version 20251229)
+	(version 20260125)
 	(generator "kicad_symbol_editor")
 	(generator_version "8.0")
 ;Proteus Design Interchange Format
@@ -18,6 +18,7 @@
       (attribute "Architecture" "CORTEX-M4")
       (attribute "PINOUT" "LGA39")
       (attribute "Reference" "U")
+      (attribute "Documentation" "https://www.microchip.com/en-us/search?q=WBZ351")
       (attribute "Value" "WBZ351")
       (attribute "Family" "WBZ3")
       (attribute "MF" "Microchip")
@@ -484,6 +485,7 @@ null
       (attribute "Architecture" "CORTEX-M4")
       (attribute "PINOUT" "LGA30")
       (attribute "Reference" "U")
+      (attribute "Documentation" "https://www.microchip.com/en-us/search?q=WBZ350")
       (attribute "Value" "WBZ350")
       (attribute "Family" "WBZ3")
       (attribute "MF" "Microchip")

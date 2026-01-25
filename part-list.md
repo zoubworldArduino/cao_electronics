@@ -652,6 +652,7 @@ List of supported device by Familly :
     - [PIC32CX1025MTSH128-AU](PIC32CXMT.md)
     - [PIC32CX2051MTC128-AU](PIC32CXMT.md)
     - [PIC32CX2051MTC128-AU](PIC32CXMT.md)
+    - [PIC32CX2051MTG128-AU](PIC32CXMT.md)
     - [PIC32CX2051MTG64-MU](PIC32CXMT.md)
     - [PIC32CX2051MTSH128-AU](PIC32CXMT.md)
     - [PIC32CX2051MTSH128-AU](PIC32CXMT.md)
@@ -2620,4 +2621,6 @@ List of supported device by Familly :
     - [ATtiny824](tinyAVR_2.md)
     - [ATtiny826](tinyAVR_2.md)
     - [ATtiny827](tinyAVR_2.md)
-Last Update : Mon Dec 29 00:50:27 CET 2025
+
+
+Last Update : Sun Jan 25 03:12:27 CET 2026

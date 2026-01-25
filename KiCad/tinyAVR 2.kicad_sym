@@ -1,5 +1,5 @@
 (kicad_symbol_lib
-	(version 20251229)
+	(version 20241209)
 	(generator "kicad_symbol_editor")
 	(generator_version "8.0")
 (symbol "ATtiny3224"
@@ -65,17 +65,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "ATtiny3224"
+		(property "Documentation" "https://www.microchip.com/en-us/search?q=ATtiny3224"
 			(at -13.97 27.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Family" "tinyAVR 2"
-			(at -13.97 30.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -84,7 +75,16 @@
 				(justify left)
 			)
 		)
-		(property "MF" "Microchip"
+		(property "Value" "ATtiny3224"
+			(at -13.97 30.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Family" "tinyAVR 2"
 			(at -13.97 32.7 0)
 			(effects
 				(font
@@ -94,8 +94,18 @@
 				(justify left)
 			)
 		)
-		(property "Name" "ATtiny3224"
+		(property "MF" "Microchip"
 			(at -13.97 35.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Name" "ATtiny3224"
+			(at -13.97 37.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -119,8 +129,8 @@
 		)
 		(symbol "ATtiny3224_1_1"
 			(pin power_in non_logic
-				(at 0.0 15.239999999999998 270.0)
-				(length 2.54)
+				(at 0.0 17.779999923706054 270.0)
+				(length 5.08)
 				(name "VCC"
 					(effects
 						(font
@@ -138,8 +148,8 @@
 			)
 
 			(pin bidirectional line
-				(at -11.43 -2.540000000000001 0.0)
-				(length 2.54)
+				(at -13.969999923706055 -2.540000000000001 0.0)
+				(length 5.08)
 				(name "PA4"
 					(effects
 						(font
@@ -157,8 +167,8 @@
 			)
 
 			(pin bidirectional line
-				(at 11.43 7.619999999999999 180.0)
-				(length 2.54)
+				(at 13.969999923706055 7.619999999999999 180.0)
+				(length 5.08)
 				(name "PA5"
 					(effects
 						(font
@@ -176,8 +186,8 @@
 			)
 
 			(pin bidirectional line
-				(at 11.43 5.079999999999999 180.0)
-				(length 2.54)
+				(at 13.969999923706055 5.079999999999999 180.0)
+				(length 5.08)
 				(name "PA6"
 					(effects
 						(font
@@ -195,8 +205,8 @@
 			)
 
 			(pin bidirectional line
-				(at 11.43 2.539999999999999 180.0)
-				(length 2.54)
+				(at 13.969999923706055 2.539999999999999 180.0)
+				(length 5.08)
 				(name "PA7"
 					(effects
 						(font
@@ -214,8 +224,8 @@
 			)
 
 			(pin bidirectional line
-				(at 11.43 -7.620000000000001 180.0)
-				(length 2.54)
+				(at 13.969999923706055 -7.620000000000001 180.0)
+				(length 5.08)
 				(name "PB3"
 					(effects
 						(font
@@ -233,8 +243,8 @@
 			)
 
 			(pin bidirectional line
-				(at 11.43 -5.080000000000001 180.0)
-				(length 2.54)
+				(at 13.969999923706055 -5.080000000000001 180.0)
+				(length 5.08)
 				(name "PB2"
 					(effects
 						(font
@@ -252,8 +262,8 @@
 			)
 
 			(pin bidirectional line
-				(at 11.43 -2.540000000000001 180.0)
-				(length 2.54)
+				(at 13.969999923706055 -2.540000000000001 180.0)
+				(length 5.08)
 				(name "PB1"
 					(effects
 						(font
@@ -271,8 +281,8 @@
 			)
 
 			(pin bidirectional line
-				(at 11.43 -8.881784197001252E-16 180.0)
-				(length 2.54)
+				(at 13.969999923706055 -8.881784197001252E-16 180.0)
+				(length 5.08)
 				(name "PB0"
 					(effects
 						(font
@@ -290,8 +300,8 @@
 			)
 
 			(pin bidirectional line
-				(at -11.43 7.619999999999999 0.0)
-				(length 2.54)
+				(at -13.969999923706055 7.619999999999999 0.0)
+				(length 5.08)
 				(name "PA0"
 					(effects
 						(font
@@ -309,8 +319,8 @@
 			)
 
 			(pin bidirectional line
-				(at -11.43 5.079999999999999 0.0)
-				(length 2.54)
+				(at -13.969999923706055 5.079999999999999 0.0)
+				(length 5.08)
 				(name "PA1"
 					(effects
 						(font
@@ -328,8 +338,8 @@
 			)
 
 			(pin bidirectional line
-				(at -11.43 2.539999999999999 0.0)
-				(length 2.54)
+				(at -13.969999923706055 2.539999999999999 0.0)
+				(length 5.08)
 				(name "PA2"
 					(effects
 						(font
@@ -347,8 +357,8 @@
 			)
 
 			(pin bidirectional line
-				(at -11.43 -8.881784197001252E-16 0.0)
-				(length 2.54)
+				(at -13.969999923706055 -8.881784197001252E-16 0.0)
+				(length 5.08)
 				(name "PA3"
 					(effects
 						(font
@@ -366,8 +376,8 @@
 			)
 
 			(pin passive non_logic
-				(at 0.0 -15.239999999999998 90.0)
-				(length 2.54)
+				(at 0.0 -17.779999923706054 90.0)
+				(length 5.08)
 				(name "GND"
 					(effects
 						(font
@@ -449,17 +459,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "ATtiny826"
+		(property "Documentation" "https://www.microchip.com/en-us/search?q=ATtiny826"
 			(at -13.97 31.509999999999998 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Family" "tinyAVR 2"
-			(at -13.97 34.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -468,7 +469,16 @@
 				(justify left)
 			)
 		)
-		(property "MF" "Microchip"
+		(property "Value" "ATtiny826"
+			(at -13.97 34.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Family" "tinyAVR 2"
 			(at -13.97 36.51 0)
 			(effects
 				(font
@@ -478,8 +488,18 @@
 				(justify left)
 			)
 		)
-		(property "Name" "ATtiny826"
+		(property "MF" "Microchip"
 			(at -13.97 39.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Name" "ATtiny826"
+			(at -13.97 41.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -503,8 +523,8 @@
 		)
 		(symbol "ATtiny826_1_1"
 			(pin bidirectional line
-				(at -11.43 6.349999999999997 0.0)
-				(length 2.54)
+				(at -13.969999923706055 6.349999999999997 0.0)
+				(length 5.08)
 				(name "PA2"
 					(effects
 						(font
@@ -522,8 +542,8 @@
 			)
 
 			(pin bidirectional line
-				(at -11.43 3.809999999999997 0.0)
-				(length 2.54)
+				(at -13.969999923706055 3.809999999999997 0.0)
+				(length 5.08)
 				(name "PA3"
 					(effects
 						(font
@@ -541,8 +561,8 @@
 			)
 
 			(pin passive non_logic
-				(at 0.0 -19.049999999999997 90.0)
-				(length 2.54)
+				(at 0.0 -21.589999923706053 90.0)
+				(length 5.08)
 				(name "GND"
 					(effects
 						(font
@@ -560,8 +580,8 @@
 			)
 
 			(pin power_in non_logic
-				(at 0.0 19.049999999999997 270.0)
-				(length 2.54)
+				(at 0.0 21.589999923706053 270.0)
+				(length 5.08)
 				(name "VCC"
 					(effects
 						(font
@@ -579,8 +599,8 @@
 			)
 
 			(pin bidirectional line
-				(at -11.43 1.269999999999997 0.0)
-				(length 2.54)
+				(at -13.969999923706055 1.269999999999997 0.0)
+				(length 5.08)
 				(name "PA4"
 					(effects
 						(font
@@ -598,8 +618,8 @@
 			)
 
 			(pin bidirectional line
-				(at -11.43 -1.2700000000000031 0.0)
-				(length 2.54)
+				(at -13.969999923706055 -1.2700000000000031 0.0)
+				(length 5.08)
 				(name "PA5"
 					(effects
 						(font
@@ -617,8 +637,8 @@
 			)
 
 			(pin bidirectional line
-				(at -11.43 -3.810000000000003 0.0)
-				(length 2.54)
+				(at -13.969999923706055 -3.810000000000003 0.0)
+				(length 5.08)
 				(name "PA6"
 					(effects
 						(font
@@ -636,8 +656,8 @@
 			)
 
 			(pin bidirectional line
-				(at -11.43 -6.350000000000003 0.0)
-				(length 2.54)
+				(at -13.969999923706055 -6.350000000000003 0.0)
+				(length 5.08)
 				(name "PA7"
 					(effects
 						(font
@@ -655,8 +675,8 @@
 			)
 
 			(pin bidirectional line
-				(at 11.43 -1.2700000000000031 180.0)
-				(length 2.54)
+				(at 13.969999923706055 -1.2700000000000031 180.0)
+				(length 5.08)
 				(name "PB5"
 					(effects
 						(font
@@ -674,8 +694,8 @@
 			)
 
 			(pin bidirectional line
-				(at 11.43 1.269999999999997 180.0)
-				(length 2.54)
+				(at 13.969999923706055 1.269999999999997 180.0)
+				(length 5.08)
 				(name "PB4"
 					(effects
 						(font
@@ -693,8 +713,8 @@
 			)
 
 			(pin bidirectional line
-				(at 11.43 3.809999999999997 180.0)
-				(length 2.54)
+				(at 13.969999923706055 3.809999999999997 180.0)
+				(length 5.08)
 				(name "PB3"
 					(effects
 						(font
@@ -712,8 +732,8 @@
 			)
 
 			(pin bidirectional line
-				(at 11.43 6.349999999999997 180.0)
-				(length 2.54)
+				(at 13.969999923706055 6.349999999999997 180.0)
+				(length 5.08)
 				(name "PB2"
 					(effects
 						(font
@@ -731,8 +751,8 @@
 			)
 
 			(pin bidirectional line
-				(at 11.43 8.889999999999997 180.0)
-				(length 2.54)
+				(at 13.969999923706055 8.889999999999997 180.0)
+				(length 5.08)
 				(name "PB1"
 					(effects
 						(font
@@ -750,8 +770,8 @@
 			)
 
 			(pin bidirectional line
-				(at 11.43 11.429999999999998 180.0)
-				(length 2.54)
+				(at 13.969999923706055 11.429999999999998 180.0)
+				(length 5.08)
 				(name "PB0"
 					(effects
 						(font
@@ -769,8 +789,8 @@
 			)
 
 			(pin bidirectional line
-				(at 11.43 -3.810000000000003 180.0)
-				(length 2.54)
+				(at 13.969999923706055 -3.810000000000003 180.0)
+				(length 5.08)
 				(name "PC0"
 					(effects
 						(font
@@ -788,8 +808,8 @@
 			)
 
 			(pin bidirectional line
-				(at 11.43 -6.350000000000003 180.0)
-				(length 2.54)
+				(at 13.969999923706055 -6.350000000000003 180.0)
+				(length 5.08)
 				(name "PC1"
 					(effects
 						(font
@@ -807,8 +827,8 @@
 			)
 
 			(pin bidirectional line
-				(at 11.43 -8.890000000000004 180.0)
-				(length 2.54)
+				(at 13.969999923706055 -8.890000000000004 180.0)
+				(length 5.08)
 				(name "PC2"
 					(effects
 						(font
@@ -826,8 +846,8 @@
 			)
 
 			(pin bidirectional line
-				(at 11.43 -11.430000000000003 180.0)
-				(length 2.54)
+				(at 13.969999923706055 -11.430000000000003 180.0)
+				(length 5.08)
 				(name "PC3"
 					(effects
 						(font
@@ -845,8 +865,8 @@
 			)
 
 			(pin bidirectional line
-				(at -11.43 11.429999999999998 0.0)
-				(length 2.54)
+				(at -13.969999923706055 11.429999999999998 0.0)
+				(length 5.08)
 				(name "PA0"
 					(effects
 						(font
@@ -864,3110 +884,8 @@
 			)
 
 			(pin bidirectional line
-				(at -11.43 8.889999999999997 0.0)
-				(length 2.54)
-				(name "PA1"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "20"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-
-		)
-	)
-(symbol "ATtiny426"
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(property "Series" ""
-			(at -13.97 16.509999999999998 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Footprint" "VQFN20"
-			(at -13.97 19.009999999999998 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "MP" "ATtiny426"
-			(at -13.97 21.509999999999998 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Architecture" "AVR8X"
-			(at -13.97 24.009999999999998 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "PINOUT" "QFN20"
-			(at -13.97 26.509999999999998 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Reference" "U"
-			(at -13.97 29.009999999999998 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "ATtiny426"
-			(at -13.97 31.509999999999998 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Family" "tinyAVR 2"
-			(at -13.97 34.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "MF" "Microchip"
-			(at -13.97 36.51 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Name" "ATtiny426"
-			(at -13.97 39.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(symbol "ATtiny426_0_1"
-			(rectangle
-				(start -8.89 16.509999999999998)
-				(end 8.89 -16.509999999999998)
-				(stroke
-					(width 0.254)
-					(type default)
-				)
-				(fill
-					(type background)
-				)
-			)
-		)
-		(symbol "ATtiny426_1_1"
-			(pin bidirectional line
-				(at -11.43 6.349999999999997 0.0)
-				(length 2.54)
-				(name "PA2"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "1"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-
-			(pin bidirectional line
-				(at -11.43 3.809999999999997 0.0)
-				(length 2.54)
-				(name "PA3"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "2"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-
-			(pin passive non_logic
-				(at 0.0 -19.049999999999997 90.0)
-				(length 2.54)
-				(name "GND"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "3"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-
-			(pin power_in non_logic
-				(at 0.0 19.049999999999997 270.0)
-				(length 2.54)
-				(name "VCC"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "4"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-
-			(pin bidirectional line
-				(at -11.43 1.269999999999997 0.0)
-				(length 2.54)
-				(name "PA4"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "5"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-
-			(pin bidirectional line
-				(at -11.43 -1.2700000000000031 0.0)
-				(length 2.54)
-				(name "PA5"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "6"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-
-			(pin bidirectional line
-				(at -11.43 -3.810000000000003 0.0)
-				(length 2.54)
-				(name "PA6"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "7"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-
-			(pin bidirectional line
-				(at -11.43 -6.350000000000003 0.0)
-				(length 2.54)
-				(name "PA7"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "8"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-
-			(pin bidirectional line
-				(at 11.43 -1.2700000000000031 180.0)
-				(length 2.54)
-				(name "PB5"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "9"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-
-			(pin bidirectional line
-				(at 11.43 1.269999999999997 180.0)
-				(length 2.54)
-				(name "PB4"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "10"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-
-			(pin bidirectional line
-				(at 11.43 3.809999999999997 180.0)
-				(length 2.54)
-				(name "PB3"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "11"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-
-			(pin bidirectional line
-				(at 11.43 6.349999999999997 180.0)
-				(length 2.54)
-				(name "PB2"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "12"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-
-			(pin bidirectional line
-				(at 11.43 8.889999999999997 180.0)
-				(length 2.54)
-				(name "PB1"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "13"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-
-			(pin bidirectional line
-				(at 11.43 11.429999999999998 180.0)
-				(length 2.54)
-				(name "PB0"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "14"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-
-			(pin bidirectional line
-				(at 11.43 -3.810000000000003 180.0)
-				(length 2.54)
-				(name "PC0"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "15"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-
-			(pin bidirectional line
-				(at 11.43 -6.350000000000003 180.0)
-				(length 2.54)
-				(name "PC1"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "16"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-
-			(pin bidirectional line
-				(at 11.43 -8.890000000000004 180.0)
-				(length 2.54)
-				(name "PC2"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "17"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-
-			(pin bidirectional line
-				(at 11.43 -11.430000000000003 180.0)
-				(length 2.54)
-				(name "PC3"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "18"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-
-			(pin bidirectional line
-				(at -11.43 11.429999999999998 0.0)
-				(length 2.54)
-				(name "PA0"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "19"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-
-			(pin bidirectional line
-				(at -11.43 8.889999999999997 0.0)
-				(length 2.54)
-				(name "PA1"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "20"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-
-		)
-	)
-(symbol "ATtiny3227"
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(property "Series" ""
-			(at -13.97 19.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Footprint" "VQFN24"
-			(at -13.97 21.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "MP" "ATtiny3227"
-			(at -13.97 24.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Architecture" "AVR8X"
-			(at -13.97 26.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "PINOUT" "QFN24"
-			(at -13.97 29.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Reference" "U"
-			(at -13.97 31.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "ATtiny3227"
-			(at -13.97 34.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Family" "tinyAVR 2"
-			(at -13.97 36.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "MF" "Microchip"
-			(at -13.97 39.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Name" "ATtiny3227"
-			(at -13.97 41.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(symbol "ATtiny3227_0_1"
-			(rectangle
-				(start -8.89 19.05)
-				(end 8.89 -19.05)
-				(stroke
-					(width 0.254)
-					(type default)
-				)
-				(fill
-					(type background)
-				)
-			)
-		)
-		(symbol "ATtiny3227_1_1"
-			(pin bidirectional line
-				(at -11.43 8.89 0.0)
-				(length 2.54)
-				(name "PA2"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "1"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-
-			(pin bidirectional line
-				(at -11.43 6.3500000000000005 0.0)
-				(length 2.54)
-				(name "PA3"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "2"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-
-			(pin passive non_logic
-				(at 0.0 -21.59 90.0)
-				(length 2.54)
-				(name "GND1"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "3"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-
-			(pin power_in non_logic
-				(at 0.0 21.59 270.0)
-				(length 2.54)
-				(name "VCC"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "4"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-
-			(pin bidirectional line
-				(at -11.43 3.8100000000000005 0.0)
-				(length 2.54)
-				(name "PA4"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "5"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-
-			(pin bidirectional line
-				(at -11.43 1.2700000000000005 0.0)
-				(length 2.54)
-				(name "PA5"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "6"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-
-			(pin bidirectional line
-				(at -11.43 -1.2699999999999996 0.0)
-				(length 2.54)
-				(name "PA6"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "7"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-
-			(pin bidirectional line
-				(at -11.43 -3.8099999999999996 0.0)
-				(length 2.54)
-				(name "PA7"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "8"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-
-			(pin bidirectional line
-				(at 11.43 1.2700000000000005 180.0)
-				(length 2.54)
-				(name "PB7"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "9"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-
-			(pin bidirectional line
-				(at 11.43 3.8100000000000005 180.0)
-				(length 2.54)
-				(name "PB6"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "10"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-
-			(pin bidirectional line
-				(at 11.43 6.3500000000000005 180.0)
-				(length 2.54)
-				(name "PB5"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "11"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-
-			(pin bidirectional line
-				(at 11.43 8.89 180.0)
-				(length 2.54)
-				(name "PB4"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "12"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-
-			(pin bidirectional line
-				(at 11.43 11.43 180.0)
-				(length 2.54)
-				(name "PB3"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "13"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-
-			(pin bidirectional line
-				(at 11.43 13.97 180.0)
-				(length 2.54)
-				(name "PB2"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "14"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-
-			(pin bidirectional line
-				(at -11.43 -8.89 0.0)
-				(length 2.54)
-				(name "PB1"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "15"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-
-			(pin bidirectional line
-				(at -11.43 -6.35 0.0)
-				(length 2.54)
-				(name "PB0"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "16"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-
-			(pin bidirectional line
-				(at 11.43 -1.2699999999999996 180.0)
-				(length 2.54)
-				(name "PC0"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "17"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-
-			(pin bidirectional line
-				(at 11.43 -3.8099999999999996 180.0)
-				(length 2.54)
-				(name "PC1"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "18"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-
-			(pin bidirectional line
-				(at 11.43 -6.35 180.0)
-				(length 2.54)
-				(name "PC2"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "19"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-
-			(pin bidirectional line
-				(at 11.43 -8.89 180.0)
-				(length 2.54)
-				(name "PC3"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "20"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-
-			(pin bidirectional line
-				(at 11.43 -11.43 180.0)
-				(length 2.54)
-				(name "PC4"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "21"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-
-			(pin bidirectional line
-				(at 11.43 -13.969999999999999 180.0)
-				(length 2.54)
-				(name "PC5"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "22"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-
-			(pin bidirectional line
-				(at -11.43 13.97 0.0)
-				(length 2.54)
-				(name "PA0"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "23"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-
-			(pin bidirectional line
-				(at -11.43 11.43 0.0)
-				(length 2.54)
-				(name "PA1"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "24"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-
-		)
-	)
-(symbol "ATtiny424"
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(property "Series" ""
-			(at -13.97 12.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Footprint" "SOIC14"
-			(at -13.97 15.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "MP" "ATtiny424"
-			(at -13.97 17.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Architecture" "AVR8X"
-			(at -13.97 20.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "PINOUT" "SOIC14"
-			(at -13.97 22.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Reference" "U"
-			(at -13.97 25.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "ATtiny424"
-			(at -13.97 27.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Family" "tinyAVR 2"
-			(at -13.97 30.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "MF" "Microchip"
-			(at -13.97 32.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Name" "ATtiny424"
-			(at -13.97 35.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(symbol "ATtiny424_0_1"
-			(rectangle
-				(start -8.89 12.7)
-				(end 8.89 -12.7)
-				(stroke
-					(width 0.254)
-					(type default)
-				)
-				(fill
-					(type background)
-				)
-			)
-		)
-		(symbol "ATtiny424_1_1"
-			(pin power_in non_logic
-				(at 0.0 15.239999999999998 270.0)
-				(length 2.54)
-				(name "VCC"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "1"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-
-			(pin bidirectional line
-				(at -11.43 -2.540000000000001 0.0)
-				(length 2.54)
-				(name "PA4"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "2"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-
-			(pin bidirectional line
-				(at 11.43 7.619999999999999 180.0)
-				(length 2.54)
-				(name "PA5"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "3"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-
-			(pin bidirectional line
-				(at 11.43 5.079999999999999 180.0)
-				(length 2.54)
-				(name "PA6"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "4"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-
-			(pin bidirectional line
-				(at 11.43 2.539999999999999 180.0)
-				(length 2.54)
-				(name "PA7"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "5"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-
-			(pin bidirectional line
-				(at 11.43 -7.620000000000001 180.0)
-				(length 2.54)
-				(name "PB3"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "6"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-
-			(pin bidirectional line
-				(at 11.43 -5.080000000000001 180.0)
-				(length 2.54)
-				(name "PB2"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "7"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-
-			(pin bidirectional line
-				(at 11.43 -2.540000000000001 180.0)
-				(length 2.54)
-				(name "PB1"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "8"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-
-			(pin bidirectional line
-				(at 11.43 -8.881784197001252E-16 180.0)
-				(length 2.54)
-				(name "PB0"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "9"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-
-			(pin bidirectional line
-				(at -11.43 7.619999999999999 0.0)
-				(length 2.54)
-				(name "PA0"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "10"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-
-			(pin bidirectional line
-				(at -11.43 5.079999999999999 0.0)
-				(length 2.54)
-				(name "PA1"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "11"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-
-			(pin bidirectional line
-				(at -11.43 2.539999999999999 0.0)
-				(length 2.54)
-				(name "PA2"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "12"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-
-			(pin bidirectional line
-				(at -11.43 -8.881784197001252E-16 0.0)
-				(length 2.54)
-				(name "PA3"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "13"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-
-			(pin passive non_logic
-				(at 0.0 -15.239999999999998 90.0)
-				(length 2.54)
-				(name "GND"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "14"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-
-		)
-	)
-(symbol "ATtiny427"
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(property "Series" ""
-			(at -13.97 19.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Footprint" "VQFN24"
-			(at -13.97 21.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "MP" "ATtiny427"
-			(at -13.97 24.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Architecture" "AVR8X"
-			(at -13.97 26.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "PINOUT" "QFN24"
-			(at -13.97 29.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Reference" "U"
-			(at -13.97 31.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "ATtiny427"
-			(at -13.97 34.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Family" "tinyAVR 2"
-			(at -13.97 36.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "MF" "Microchip"
-			(at -13.97 39.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Name" "ATtiny427"
-			(at -13.97 41.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(symbol "ATtiny427_0_1"
-			(rectangle
-				(start -8.89 19.05)
-				(end 8.89 -19.05)
-				(stroke
-					(width 0.254)
-					(type default)
-				)
-				(fill
-					(type background)
-				)
-			)
-		)
-		(symbol "ATtiny427_1_1"
-			(pin bidirectional line
-				(at -11.43 8.89 0.0)
-				(length 2.54)
-				(name "PA2"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "1"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-
-			(pin bidirectional line
-				(at -11.43 6.3500000000000005 0.0)
-				(length 2.54)
-				(name "PA3"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "2"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-
-			(pin passive non_logic
-				(at 0.0 -21.59 90.0)
-				(length 2.54)
-				(name "GND1"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "3"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-
-			(pin power_in non_logic
-				(at 0.0 21.59 270.0)
-				(length 2.54)
-				(name "VCC"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "4"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-
-			(pin bidirectional line
-				(at -11.43 3.8100000000000005 0.0)
-				(length 2.54)
-				(name "PA4"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "5"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-
-			(pin bidirectional line
-				(at -11.43 1.2700000000000005 0.0)
-				(length 2.54)
-				(name "PA5"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "6"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-
-			(pin bidirectional line
-				(at -11.43 -1.2699999999999996 0.0)
-				(length 2.54)
-				(name "PA6"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "7"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-
-			(pin bidirectional line
-				(at -11.43 -3.8099999999999996 0.0)
-				(length 2.54)
-				(name "PA7"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "8"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-
-			(pin bidirectional line
-				(at 11.43 1.2700000000000005 180.0)
-				(length 2.54)
-				(name "PB7"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "9"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-
-			(pin bidirectional line
-				(at 11.43 3.8100000000000005 180.0)
-				(length 2.54)
-				(name "PB6"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "10"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-
-			(pin bidirectional line
-				(at 11.43 6.3500000000000005 180.0)
-				(length 2.54)
-				(name "PB5"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "11"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-
-			(pin bidirectional line
-				(at 11.43 8.89 180.0)
-				(length 2.54)
-				(name "PB4"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "12"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-
-			(pin bidirectional line
-				(at 11.43 11.43 180.0)
-				(length 2.54)
-				(name "PB3"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "13"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-
-			(pin bidirectional line
-				(at 11.43 13.97 180.0)
-				(length 2.54)
-				(name "PB2"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "14"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-
-			(pin bidirectional line
-				(at -11.43 -8.89 0.0)
-				(length 2.54)
-				(name "PB1"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "15"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-
-			(pin bidirectional line
-				(at -11.43 -6.35 0.0)
-				(length 2.54)
-				(name "PB0"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "16"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-
-			(pin bidirectional line
-				(at 11.43 -1.2699999999999996 180.0)
-				(length 2.54)
-				(name "PC0"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "17"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-
-			(pin bidirectional line
-				(at 11.43 -3.8099999999999996 180.0)
-				(length 2.54)
-				(name "PC1"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "18"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-
-			(pin bidirectional line
-				(at 11.43 -6.35 180.0)
-				(length 2.54)
-				(name "PC2"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "19"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-
-			(pin bidirectional line
-				(at 11.43 -8.89 180.0)
-				(length 2.54)
-				(name "PC3"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "20"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-
-			(pin bidirectional line
-				(at 11.43 -11.43 180.0)
-				(length 2.54)
-				(name "PC4"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "21"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-
-			(pin bidirectional line
-				(at 11.43 -13.969999999999999 180.0)
-				(length 2.54)
-				(name "PC5"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "22"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-
-			(pin bidirectional line
-				(at -11.43 13.97 0.0)
-				(length 2.54)
-				(name "PA0"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "23"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-
-			(pin bidirectional line
-				(at -11.43 11.43 0.0)
-				(length 2.54)
-				(name "PA1"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "24"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-
-		)
-	)
-(symbol "ATtiny1627"
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(property "Series" ""
-			(at -13.97 19.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Footprint" "VQFN24"
-			(at -13.97 21.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "MP" "ATtiny1627"
-			(at -13.97 24.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Architecture" "AVR8X"
-			(at -13.97 26.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "PINOUT" "QFN24"
-			(at -13.97 29.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Reference" "U"
-			(at -13.97 31.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "ATtiny1627"
-			(at -13.97 34.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Family" "tinyAVR 2"
-			(at -13.97 36.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "MF" "Microchip"
-			(at -13.97 39.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Name" "ATtiny1627"
-			(at -13.97 41.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(symbol "ATtiny1627_0_1"
-			(rectangle
-				(start -8.89 19.05)
-				(end 8.89 -19.05)
-				(stroke
-					(width 0.254)
-					(type default)
-				)
-				(fill
-					(type background)
-				)
-			)
-		)
-		(symbol "ATtiny1627_1_1"
-			(pin bidirectional line
-				(at -11.43 8.89 0.0)
-				(length 2.54)
-				(name "PA2"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "1"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-
-			(pin bidirectional line
-				(at -11.43 6.3500000000000005 0.0)
-				(length 2.54)
-				(name "PA3"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "2"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-
-			(pin passive non_logic
-				(at 0.0 -21.59 90.0)
-				(length 2.54)
-				(name "GND1"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "3"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-
-			(pin power_in non_logic
-				(at 0.0 21.59 270.0)
-				(length 2.54)
-				(name "VCC"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "4"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-
-			(pin bidirectional line
-				(at -11.43 3.8100000000000005 0.0)
-				(length 2.54)
-				(name "PA4"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "5"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-
-			(pin bidirectional line
-				(at -11.43 1.2700000000000005 0.0)
-				(length 2.54)
-				(name "PA5"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "6"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-
-			(pin bidirectional line
-				(at -11.43 -1.2699999999999996 0.0)
-				(length 2.54)
-				(name "PA6"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "7"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-
-			(pin bidirectional line
-				(at -11.43 -3.8099999999999996 0.0)
-				(length 2.54)
-				(name "PA7"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "8"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-
-			(pin bidirectional line
-				(at 11.43 1.2700000000000005 180.0)
-				(length 2.54)
-				(name "PB7"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "9"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-
-			(pin bidirectional line
-				(at 11.43 3.8100000000000005 180.0)
-				(length 2.54)
-				(name "PB6"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "10"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-
-			(pin bidirectional line
-				(at 11.43 6.3500000000000005 180.0)
-				(length 2.54)
-				(name "PB5"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "11"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-
-			(pin bidirectional line
-				(at 11.43 8.89 180.0)
-				(length 2.54)
-				(name "PB4"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "12"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-
-			(pin bidirectional line
-				(at 11.43 11.43 180.0)
-				(length 2.54)
-				(name "PB3"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "13"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-
-			(pin bidirectional line
-				(at 11.43 13.97 180.0)
-				(length 2.54)
-				(name "PB2"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "14"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-
-			(pin bidirectional line
-				(at -11.43 -8.89 0.0)
-				(length 2.54)
-				(name "PB1"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "15"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-
-			(pin bidirectional line
-				(at -11.43 -6.35 0.0)
-				(length 2.54)
-				(name "PB0"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "16"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-
-			(pin bidirectional line
-				(at 11.43 -1.2699999999999996 180.0)
-				(length 2.54)
-				(name "PC0"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "17"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-
-			(pin bidirectional line
-				(at 11.43 -3.8099999999999996 180.0)
-				(length 2.54)
-				(name "PC1"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "18"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-
-			(pin bidirectional line
-				(at 11.43 -6.35 180.0)
-				(length 2.54)
-				(name "PC2"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "19"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-
-			(pin bidirectional line
-				(at 11.43 -8.89 180.0)
-				(length 2.54)
-				(name "PC3"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "20"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-
-			(pin bidirectional line
-				(at 11.43 -11.43 180.0)
-				(length 2.54)
-				(name "PC4"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "21"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-
-			(pin bidirectional line
-				(at 11.43 -13.969999999999999 180.0)
-				(length 2.54)
-				(name "PC5"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "22"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-
-			(pin bidirectional line
-				(at -11.43 13.97 0.0)
-				(length 2.54)
-				(name "PA0"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "23"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-
-			(pin bidirectional line
-				(at -11.43 11.43 0.0)
-				(length 2.54)
-				(name "PA1"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "24"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-
-		)
-	)
-(symbol "ATtiny1626"
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(property "Series" ""
-			(at -13.97 16.509999999999998 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Footprint" "VQFN20"
-			(at -13.97 19.009999999999998 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "MP" "ATtiny1626"
-			(at -13.97 21.509999999999998 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Architecture" "AVR8X"
-			(at -13.97 24.009999999999998 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "PINOUT" "QFN20"
-			(at -13.97 26.509999999999998 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Reference" "U"
-			(at -13.97 29.009999999999998 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "ATtiny1626"
-			(at -13.97 31.509999999999998 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Family" "tinyAVR 2"
-			(at -13.97 34.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "MF" "Microchip"
-			(at -13.97 36.51 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(property "Name" "ATtiny1626"
-			(at -13.97 39.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-				(justify left)
-			)
-		)
-		(symbol "ATtiny1626_0_1"
-			(rectangle
-				(start -8.89 16.509999999999998)
-				(end 8.89 -16.509999999999998)
-				(stroke
-					(width 0.254)
-					(type default)
-				)
-				(fill
-					(type background)
-				)
-			)
-		)
-		(symbol "ATtiny1626_1_1"
-			(pin bidirectional line
-				(at -11.43 6.349999999999997 0.0)
-				(length 2.54)
-				(name "PA2"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "1"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-
-			(pin bidirectional line
-				(at -11.43 3.809999999999997 0.0)
-				(length 2.54)
-				(name "PA3"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "2"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-
-			(pin passive non_logic
-				(at 0.0 -19.049999999999997 90.0)
-				(length 2.54)
-				(name "GND"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "3"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-
-			(pin power_in non_logic
-				(at 0.0 19.049999999999997 270.0)
-				(length 2.54)
-				(name "VCC"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "4"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-
-			(pin bidirectional line
-				(at -11.43 1.269999999999997 0.0)
-				(length 2.54)
-				(name "PA4"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "5"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-
-			(pin bidirectional line
-				(at -11.43 -1.2700000000000031 0.0)
-				(length 2.54)
-				(name "PA5"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "6"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-
-			(pin bidirectional line
-				(at -11.43 -3.810000000000003 0.0)
-				(length 2.54)
-				(name "PA6"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "7"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-
-			(pin bidirectional line
-				(at -11.43 -6.350000000000003 0.0)
-				(length 2.54)
-				(name "PA7"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "8"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-
-			(pin bidirectional line
-				(at 11.43 -1.2700000000000031 180.0)
-				(length 2.54)
-				(name "PB5"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "9"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-
-			(pin bidirectional line
-				(at 11.43 1.269999999999997 180.0)
-				(length 2.54)
-				(name "PB4"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "10"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-
-			(pin bidirectional line
-				(at 11.43 3.809999999999997 180.0)
-				(length 2.54)
-				(name "PB3"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "11"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-
-			(pin bidirectional line
-				(at 11.43 6.349999999999997 180.0)
-				(length 2.54)
-				(name "PB2"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "12"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-
-			(pin bidirectional line
-				(at 11.43 8.889999999999997 180.0)
-				(length 2.54)
-				(name "PB1"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "13"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-
-			(pin bidirectional line
-				(at 11.43 11.429999999999998 180.0)
-				(length 2.54)
-				(name "PB0"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "14"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-
-			(pin bidirectional line
-				(at 11.43 -3.810000000000003 180.0)
-				(length 2.54)
-				(name "PC0"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "15"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-
-			(pin bidirectional line
-				(at 11.43 -6.350000000000003 180.0)
-				(length 2.54)
-				(name "PC1"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "16"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-
-			(pin bidirectional line
-				(at 11.43 -8.890000000000004 180.0)
-				(length 2.54)
-				(name "PC2"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "17"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-
-			(pin bidirectional line
-				(at 11.43 -11.430000000000003 180.0)
-				(length 2.54)
-				(name "PC3"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "18"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-
-			(pin bidirectional line
-				(at -11.43 11.429999999999998 0.0)
-				(length 2.54)
-				(name "PA0"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "19"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-
-			(pin bidirectional line
-				(at -11.43 8.889999999999997 0.0)
-				(length 2.54)
+				(at -13.969999923706055 8.889999999999997 0.0)
+				(length 5.08)
 				(name "PA1"
 					(effects
 						(font
@@ -4049,17 +967,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "ATtiny827"
+		(property "Documentation" "https://www.microchip.com/en-us/search?q=ATtiny827"
 			(at -13.97 34.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Family" "tinyAVR 2"
-			(at -13.97 36.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4068,7 +977,16 @@
 				(justify left)
 			)
 		)
-		(property "MF" "Microchip"
+		(property "Value" "ATtiny827"
+			(at -13.97 36.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Family" "tinyAVR 2"
 			(at -13.97 39.05 0)
 			(effects
 				(font
@@ -4078,8 +996,18 @@
 				(justify left)
 			)
 		)
-		(property "Name" "ATtiny827"
+		(property "MF" "Microchip"
 			(at -13.97 41.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Name" "ATtiny827"
+			(at -13.97 44.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4103,8 +1031,8 @@
 		)
 		(symbol "ATtiny827_1_1"
 			(pin bidirectional line
-				(at -11.43 8.89 0.0)
-				(length 2.54)
+				(at -13.969999923706055 8.89 0.0)
+				(length 5.08)
 				(name "PA2"
 					(effects
 						(font
@@ -4122,8 +1050,8 @@
 			)
 
 			(pin bidirectional line
-				(at -11.43 6.3500000000000005 0.0)
-				(length 2.54)
+				(at -13.969999923706055 6.3500000000000005 0.0)
+				(length 5.08)
 				(name "PA3"
 					(effects
 						(font
@@ -4141,8 +1069,8 @@
 			)
 
 			(pin passive non_logic
-				(at 0.0 -21.59 90.0)
-				(length 2.54)
+				(at 0.0 -24.129999923706055 90.0)
+				(length 5.08)
 				(name "GND1"
 					(effects
 						(font
@@ -4160,8 +1088,8 @@
 			)
 
 			(pin power_in non_logic
-				(at 0.0 21.59 270.0)
-				(length 2.54)
+				(at 0.0 24.129999923706055 270.0)
+				(length 5.08)
 				(name "VCC"
 					(effects
 						(font
@@ -4179,8 +1107,8 @@
 			)
 
 			(pin bidirectional line
-				(at -11.43 3.8100000000000005 0.0)
-				(length 2.54)
+				(at -13.969999923706055 3.8100000000000005 0.0)
+				(length 5.08)
 				(name "PA4"
 					(effects
 						(font
@@ -4198,8 +1126,8 @@
 			)
 
 			(pin bidirectional line
-				(at -11.43 1.2700000000000005 0.0)
-				(length 2.54)
+				(at -13.969999923706055 1.2700000000000005 0.0)
+				(length 5.08)
 				(name "PA5"
 					(effects
 						(font
@@ -4217,8 +1145,8 @@
 			)
 
 			(pin bidirectional line
-				(at -11.43 -1.2699999999999996 0.0)
-				(length 2.54)
+				(at -13.969999923706055 -1.2699999999999996 0.0)
+				(length 5.08)
 				(name "PA6"
 					(effects
 						(font
@@ -4236,8 +1164,8 @@
 			)
 
 			(pin bidirectional line
-				(at -11.43 -3.8099999999999996 0.0)
-				(length 2.54)
+				(at -13.969999923706055 -3.8099999999999996 0.0)
+				(length 5.08)
 				(name "PA7"
 					(effects
 						(font
@@ -4255,8 +1183,8 @@
 			)
 
 			(pin bidirectional line
-				(at 11.43 1.2700000000000005 180.0)
-				(length 2.54)
+				(at 13.969999923706055 1.2700000000000005 180.0)
+				(length 5.08)
 				(name "PB7"
 					(effects
 						(font
@@ -4274,8 +1202,8 @@
 			)
 
 			(pin bidirectional line
-				(at 11.43 3.8100000000000005 180.0)
-				(length 2.54)
+				(at 13.969999923706055 3.8100000000000005 180.0)
+				(length 5.08)
 				(name "PB6"
 					(effects
 						(font
@@ -4293,8 +1221,8 @@
 			)
 
 			(pin bidirectional line
-				(at 11.43 6.3500000000000005 180.0)
-				(length 2.54)
+				(at 13.969999923706055 6.3500000000000005 180.0)
+				(length 5.08)
 				(name "PB5"
 					(effects
 						(font
@@ -4312,8 +1240,8 @@
 			)
 
 			(pin bidirectional line
-				(at 11.43 8.89 180.0)
-				(length 2.54)
+				(at 13.969999923706055 8.89 180.0)
+				(length 5.08)
 				(name "PB4"
 					(effects
 						(font
@@ -4331,8 +1259,8 @@
 			)
 
 			(pin bidirectional line
-				(at 11.43 11.43 180.0)
-				(length 2.54)
+				(at 13.969999923706055 11.43 180.0)
+				(length 5.08)
 				(name "PB3"
 					(effects
 						(font
@@ -4350,8 +1278,8 @@
 			)
 
 			(pin bidirectional line
-				(at 11.43 13.97 180.0)
-				(length 2.54)
+				(at 13.969999923706055 13.97 180.0)
+				(length 5.08)
 				(name "PB2"
 					(effects
 						(font
@@ -4369,8 +1297,8 @@
 			)
 
 			(pin bidirectional line
-				(at -11.43 -8.89 0.0)
-				(length 2.54)
+				(at -13.969999923706055 -8.89 0.0)
+				(length 5.08)
 				(name "PB1"
 					(effects
 						(font
@@ -4388,8 +1316,8 @@
 			)
 
 			(pin bidirectional line
-				(at -11.43 -6.35 0.0)
-				(length 2.54)
+				(at -13.969999923706055 -6.35 0.0)
+				(length 5.08)
 				(name "PB0"
 					(effects
 						(font
@@ -4407,8 +1335,8 @@
 			)
 
 			(pin bidirectional line
-				(at 11.43 -1.2699999999999996 180.0)
-				(length 2.54)
+				(at 13.969999923706055 -1.2699999999999996 180.0)
+				(length 5.08)
 				(name "PC0"
 					(effects
 						(font
@@ -4426,8 +1354,8 @@
 			)
 
 			(pin bidirectional line
-				(at 11.43 -3.8099999999999996 180.0)
-				(length 2.54)
+				(at 13.969999923706055 -3.8099999999999996 180.0)
+				(length 5.08)
 				(name "PC1"
 					(effects
 						(font
@@ -4445,8 +1373,8 @@
 			)
 
 			(pin bidirectional line
-				(at 11.43 -6.35 180.0)
-				(length 2.54)
+				(at 13.969999923706055 -6.35 180.0)
+				(length 5.08)
 				(name "PC2"
 					(effects
 						(font
@@ -4464,8 +1392,8 @@
 			)
 
 			(pin bidirectional line
-				(at 11.43 -8.89 180.0)
-				(length 2.54)
+				(at 13.969999923706055 -8.89 180.0)
+				(length 5.08)
 				(name "PC3"
 					(effects
 						(font
@@ -4483,8 +1411,8 @@
 			)
 
 			(pin bidirectional line
-				(at 11.43 -11.43 180.0)
-				(length 2.54)
+				(at 13.969999923706055 -11.43 180.0)
+				(length 5.08)
 				(name "PC4"
 					(effects
 						(font
@@ -4502,8 +1430,8 @@
 			)
 
 			(pin bidirectional line
-				(at 11.43 -13.969999999999999 180.0)
-				(length 2.54)
+				(at 13.969999923706055 -13.969999999999999 180.0)
+				(length 5.08)
 				(name "PC5"
 					(effects
 						(font
@@ -4521,8 +1449,8 @@
 			)
 
 			(pin bidirectional line
-				(at -11.43 13.97 0.0)
-				(length 2.54)
+				(at -13.969999923706055 13.97 0.0)
+				(length 5.08)
 				(name "PA0"
 					(effects
 						(font
@@ -4540,8 +1468,8 @@
 			)
 
 			(pin bidirectional line
-				(at -11.43 11.43 0.0)
-				(length 2.54)
+				(at -13.969999923706055 11.43 0.0)
+				(length 5.08)
 				(name "PA1"
 					(effects
 						(font
@@ -4623,17 +1551,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "ATtiny3226"
+		(property "Documentation" "https://www.microchip.com/en-us/search?q=ATtiny3226"
 			(at -13.97 31.509999999999998 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Family" "tinyAVR 2"
-			(at -13.97 34.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4642,7 +1561,16 @@
 				(justify left)
 			)
 		)
-		(property "MF" "Microchip"
+		(property "Value" "ATtiny3226"
+			(at -13.97 34.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Family" "tinyAVR 2"
 			(at -13.97 36.51 0)
 			(effects
 				(font
@@ -4652,8 +1580,18 @@
 				(justify left)
 			)
 		)
-		(property "Name" "ATtiny3226"
+		(property "MF" "Microchip"
 			(at -13.97 39.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Name" "ATtiny3226"
+			(at -13.97 41.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4677,8 +1615,8 @@
 		)
 		(symbol "ATtiny3226_1_1"
 			(pin bidirectional line
-				(at -11.43 6.349999999999997 0.0)
-				(length 2.54)
+				(at -13.969999923706055 6.349999999999997 0.0)
+				(length 5.08)
 				(name "PA2"
 					(effects
 						(font
@@ -4696,8 +1634,8 @@
 			)
 
 			(pin bidirectional line
-				(at -11.43 3.809999999999997 0.0)
-				(length 2.54)
+				(at -13.969999923706055 3.809999999999997 0.0)
+				(length 5.08)
 				(name "PA3"
 					(effects
 						(font
@@ -4715,8 +1653,8 @@
 			)
 
 			(pin passive non_logic
-				(at 0.0 -19.049999999999997 90.0)
-				(length 2.54)
+				(at 0.0 -21.589999923706053 90.0)
+				(length 5.08)
 				(name "GND"
 					(effects
 						(font
@@ -4734,8 +1672,8 @@
 			)
 
 			(pin power_in non_logic
-				(at 0.0 19.049999999999997 270.0)
-				(length 2.54)
+				(at 0.0 21.589999923706053 270.0)
+				(length 5.08)
 				(name "VCC"
 					(effects
 						(font
@@ -4753,8 +1691,8 @@
 			)
 
 			(pin bidirectional line
-				(at -11.43 1.269999999999997 0.0)
-				(length 2.54)
+				(at -13.969999923706055 1.269999999999997 0.0)
+				(length 5.08)
 				(name "PA4"
 					(effects
 						(font
@@ -4772,8 +1710,8 @@
 			)
 
 			(pin bidirectional line
-				(at -11.43 -1.2700000000000031 0.0)
-				(length 2.54)
+				(at -13.969999923706055 -1.2700000000000031 0.0)
+				(length 5.08)
 				(name "PA5"
 					(effects
 						(font
@@ -4791,8 +1729,8 @@
 			)
 
 			(pin bidirectional line
-				(at -11.43 -3.810000000000003 0.0)
-				(length 2.54)
+				(at -13.969999923706055 -3.810000000000003 0.0)
+				(length 5.08)
 				(name "PA6"
 					(effects
 						(font
@@ -4810,8 +1748,8 @@
 			)
 
 			(pin bidirectional line
-				(at -11.43 -6.350000000000003 0.0)
-				(length 2.54)
+				(at -13.969999923706055 -6.350000000000003 0.0)
+				(length 5.08)
 				(name "PA7"
 					(effects
 						(font
@@ -4829,8 +1767,8 @@
 			)
 
 			(pin bidirectional line
-				(at 11.43 -1.2700000000000031 180.0)
-				(length 2.54)
+				(at 13.969999923706055 -1.2700000000000031 180.0)
+				(length 5.08)
 				(name "PB5"
 					(effects
 						(font
@@ -4848,8 +1786,8 @@
 			)
 
 			(pin bidirectional line
-				(at 11.43 1.269999999999997 180.0)
-				(length 2.54)
+				(at 13.969999923706055 1.269999999999997 180.0)
+				(length 5.08)
 				(name "PB4"
 					(effects
 						(font
@@ -4867,8 +1805,8 @@
 			)
 
 			(pin bidirectional line
-				(at 11.43 3.809999999999997 180.0)
-				(length 2.54)
+				(at 13.969999923706055 3.809999999999997 180.0)
+				(length 5.08)
 				(name "PB3"
 					(effects
 						(font
@@ -4886,8 +1824,8 @@
 			)
 
 			(pin bidirectional line
-				(at 11.43 6.349999999999997 180.0)
-				(length 2.54)
+				(at 13.969999923706055 6.349999999999997 180.0)
+				(length 5.08)
 				(name "PB2"
 					(effects
 						(font
@@ -4905,8 +1843,8 @@
 			)
 
 			(pin bidirectional line
-				(at 11.43 8.889999999999997 180.0)
-				(length 2.54)
+				(at 13.969999923706055 8.889999999999997 180.0)
+				(length 5.08)
 				(name "PB1"
 					(effects
 						(font
@@ -4924,8 +1862,8 @@
 			)
 
 			(pin bidirectional line
-				(at 11.43 11.429999999999998 180.0)
-				(length 2.54)
+				(at 13.969999923706055 11.429999999999998 180.0)
+				(length 5.08)
 				(name "PB0"
 					(effects
 						(font
@@ -4943,8 +1881,8 @@
 			)
 
 			(pin bidirectional line
-				(at 11.43 -3.810000000000003 180.0)
-				(length 2.54)
+				(at 13.969999923706055 -3.810000000000003 180.0)
+				(length 5.08)
 				(name "PC0"
 					(effects
 						(font
@@ -4962,8 +1900,8 @@
 			)
 
 			(pin bidirectional line
-				(at 11.43 -6.350000000000003 180.0)
-				(length 2.54)
+				(at 13.969999923706055 -6.350000000000003 180.0)
+				(length 5.08)
 				(name "PC1"
 					(effects
 						(font
@@ -4981,8 +1919,8 @@
 			)
 
 			(pin bidirectional line
-				(at 11.43 -8.890000000000004 180.0)
-				(length 2.54)
+				(at 13.969999923706055 -8.890000000000004 180.0)
+				(length 5.08)
 				(name "PC2"
 					(effects
 						(font
@@ -5000,8 +1938,8 @@
 			)
 
 			(pin bidirectional line
-				(at 11.43 -11.430000000000003 180.0)
-				(length 2.54)
+				(at 13.969999923706055 -11.430000000000003 180.0)
+				(length 5.08)
 				(name "PC3"
 					(effects
 						(font
@@ -5019,8 +1957,8 @@
 			)
 
 			(pin bidirectional line
-				(at -11.43 11.429999999999998 0.0)
-				(length 2.54)
+				(at -13.969999923706055 11.429999999999998 0.0)
+				(length 5.08)
 				(name "PA0"
 					(effects
 						(font
@@ -5038,8 +1976,8 @@
 			)
 
 			(pin bidirectional line
-				(at -11.43 8.889999999999997 0.0)
-				(length 2.54)
+				(at -13.969999923706055 8.889999999999997 0.0)
+				(length 5.08)
 				(name "PA1"
 					(effects
 						(font
@@ -5058,7 +1996,515 @@
 
 		)
 	)
-(symbol "ATtiny824"
+(symbol "ATtiny426"
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Series" ""
+			(at -13.97 16.509999999999998 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Footprint" "VQFN20"
+			(at -13.97 19.009999999999998 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "MP" "ATtiny426"
+			(at -13.97 21.509999999999998 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Architecture" "AVR8X"
+			(at -13.97 24.009999999999998 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "PINOUT" "QFN20"
+			(at -13.97 26.509999999999998 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Reference" "U"
+			(at -13.97 29.009999999999998 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Documentation" "https://www.microchip.com/en-us/search?q=ATtiny426"
+			(at -13.97 31.509999999999998 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Value" "ATtiny426"
+			(at -13.97 34.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Family" "tinyAVR 2"
+			(at -13.97 36.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "MF" "Microchip"
+			(at -13.97 39.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Name" "ATtiny426"
+			(at -13.97 41.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(symbol "ATtiny426_0_1"
+			(rectangle
+				(start -8.89 16.509999999999998)
+				(end 8.89 -16.509999999999998)
+				(stroke
+					(width 0.254)
+					(type default)
+				)
+				(fill
+					(type background)
+				)
+			)
+		)
+		(symbol "ATtiny426_1_1"
+			(pin bidirectional line
+				(at -13.969999923706055 6.349999999999997 0.0)
+				(length 5.08)
+				(name "PA2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+
+			(pin bidirectional line
+				(at -13.969999923706055 3.809999999999997 0.0)
+				(length 5.08)
+				(name "PA3"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+
+			(pin passive non_logic
+				(at 0.0 -21.589999923706053 90.0)
+				(length 5.08)
+				(name "GND"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "3"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+
+			(pin power_in non_logic
+				(at 0.0 21.589999923706053 270.0)
+				(length 5.08)
+				(name "VCC"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "4"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+
+			(pin bidirectional line
+				(at -13.969999923706055 1.269999999999997 0.0)
+				(length 5.08)
+				(name "PA4"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "5"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+
+			(pin bidirectional line
+				(at -13.969999923706055 -1.2700000000000031 0.0)
+				(length 5.08)
+				(name "PA5"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "6"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+
+			(pin bidirectional line
+				(at -13.969999923706055 -3.810000000000003 0.0)
+				(length 5.08)
+				(name "PA6"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "7"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+
+			(pin bidirectional line
+				(at -13.969999923706055 -6.350000000000003 0.0)
+				(length 5.08)
+				(name "PA7"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "8"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+
+			(pin bidirectional line
+				(at 13.969999923706055 -1.2700000000000031 180.0)
+				(length 5.08)
+				(name "PB5"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "9"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+
+			(pin bidirectional line
+				(at 13.969999923706055 1.269999999999997 180.0)
+				(length 5.08)
+				(name "PB4"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "10"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+
+			(pin bidirectional line
+				(at 13.969999923706055 3.809999999999997 180.0)
+				(length 5.08)
+				(name "PB3"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "11"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+
+			(pin bidirectional line
+				(at 13.969999923706055 6.349999999999997 180.0)
+				(length 5.08)
+				(name "PB2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "12"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+
+			(pin bidirectional line
+				(at 13.969999923706055 8.889999999999997 180.0)
+				(length 5.08)
+				(name "PB1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "13"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+
+			(pin bidirectional line
+				(at 13.969999923706055 11.429999999999998 180.0)
+				(length 5.08)
+				(name "PB0"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "14"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+
+			(pin bidirectional line
+				(at 13.969999923706055 -3.810000000000003 180.0)
+				(length 5.08)
+				(name "PC0"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "15"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+
+			(pin bidirectional line
+				(at 13.969999923706055 -6.350000000000003 180.0)
+				(length 5.08)
+				(name "PC1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "16"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+
+			(pin bidirectional line
+				(at 13.969999923706055 -8.890000000000004 180.0)
+				(length 5.08)
+				(name "PC2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "17"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+
+			(pin bidirectional line
+				(at 13.969999923706055 -11.430000000000003 180.0)
+				(length 5.08)
+				(name "PC3"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "18"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+
+			(pin bidirectional line
+				(at -13.969999923706055 11.429999999999998 0.0)
+				(length 5.08)
+				(name "PA0"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "19"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+
+			(pin bidirectional line
+				(at -13.969999923706055 8.889999999999997 0.0)
+				(length 5.08)
+				(name "PA1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "20"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+
+		)
+	)
+(symbol "ATtiny424"
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -5082,7 +2528,7 @@
 				(justify left)
 			)
 		)
-		(property "MP" "ATtiny824"
+		(property "MP" "ATtiny424"
 			(at -13.97 17.7 0)
 			(effects
 				(font
@@ -5121,17 +2567,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "ATtiny824"
+		(property "Documentation" "https://www.microchip.com/en-us/search?q=ATtiny424"
 			(at -13.97 27.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Family" "tinyAVR 2"
-			(at -13.97 30.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5140,7 +2577,16 @@
 				(justify left)
 			)
 		)
-		(property "MF" "Microchip"
+		(property "Value" "ATtiny424"
+			(at -13.97 30.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Family" "tinyAVR 2"
 			(at -13.97 32.7 0)
 			(effects
 				(font
@@ -5150,7 +2596,7 @@
 				(justify left)
 			)
 		)
-		(property "Name" "ATtiny824"
+		(property "MF" "Microchip"
 			(at -13.97 35.2 0)
 			(effects
 				(font
@@ -5160,7 +2606,17 @@
 				(justify left)
 			)
 		)
-		(symbol "ATtiny824_0_1"
+		(property "Name" "ATtiny424"
+			(at -13.97 37.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(symbol "ATtiny424_0_1"
 			(rectangle
 				(start -8.89 12.7)
 				(end 8.89 -12.7)
@@ -5173,10 +2629,10 @@
 				)
 			)
 		)
-		(symbol "ATtiny824_1_1"
+		(symbol "ATtiny424_1_1"
 			(pin power_in non_logic
-				(at 0.0 15.239999999999998 270.0)
-				(length 2.54)
+				(at 0.0 17.779999923706054 270.0)
+				(length 5.08)
 				(name "VCC"
 					(effects
 						(font
@@ -5194,8 +2650,8 @@
 			)
 
 			(pin bidirectional line
-				(at -11.43 -2.540000000000001 0.0)
-				(length 2.54)
+				(at -13.969999923706055 -2.540000000000001 0.0)
+				(length 5.08)
 				(name "PA4"
 					(effects
 						(font
@@ -5213,8 +2669,8 @@
 			)
 
 			(pin bidirectional line
-				(at 11.43 7.619999999999999 180.0)
-				(length 2.54)
+				(at 13.969999923706055 7.619999999999999 180.0)
+				(length 5.08)
 				(name "PA5"
 					(effects
 						(font
@@ -5232,8 +2688,8 @@
 			)
 
 			(pin bidirectional line
-				(at 11.43 5.079999999999999 180.0)
-				(length 2.54)
+				(at 13.969999923706055 5.079999999999999 180.0)
+				(length 5.08)
 				(name "PA6"
 					(effects
 						(font
@@ -5251,8 +2707,8 @@
 			)
 
 			(pin bidirectional line
-				(at 11.43 2.539999999999999 180.0)
-				(length 2.54)
+				(at 13.969999923706055 2.539999999999999 180.0)
+				(length 5.08)
 				(name "PA7"
 					(effects
 						(font
@@ -5270,8 +2726,8 @@
 			)
 
 			(pin bidirectional line
-				(at 11.43 -7.620000000000001 180.0)
-				(length 2.54)
+				(at 13.969999923706055 -7.620000000000001 180.0)
+				(length 5.08)
 				(name "PB3"
 					(effects
 						(font
@@ -5289,8 +2745,8 @@
 			)
 
 			(pin bidirectional line
-				(at 11.43 -5.080000000000001 180.0)
-				(length 2.54)
+				(at 13.969999923706055 -5.080000000000001 180.0)
+				(length 5.08)
 				(name "PB2"
 					(effects
 						(font
@@ -5308,8 +2764,8 @@
 			)
 
 			(pin bidirectional line
-				(at 11.43 -2.540000000000001 180.0)
-				(length 2.54)
+				(at 13.969999923706055 -2.540000000000001 180.0)
+				(length 5.08)
 				(name "PB1"
 					(effects
 						(font
@@ -5327,8 +2783,8 @@
 			)
 
 			(pin bidirectional line
-				(at 11.43 -8.881784197001252E-16 180.0)
-				(length 2.54)
+				(at 13.969999923706055 -8.881784197001252E-16 180.0)
+				(length 5.08)
 				(name "PB0"
 					(effects
 						(font
@@ -5346,8 +2802,8 @@
 			)
 
 			(pin bidirectional line
-				(at -11.43 7.619999999999999 0.0)
-				(length 2.54)
+				(at -13.969999923706055 7.619999999999999 0.0)
+				(length 5.08)
 				(name "PA0"
 					(effects
 						(font
@@ -5365,8 +2821,8 @@
 			)
 
 			(pin bidirectional line
-				(at -11.43 5.079999999999999 0.0)
-				(length 2.54)
+				(at -13.969999923706055 5.079999999999999 0.0)
+				(length 5.08)
 				(name "PA1"
 					(effects
 						(font
@@ -5384,8 +2840,8 @@
 			)
 
 			(pin bidirectional line
-				(at -11.43 2.539999999999999 0.0)
-				(length 2.54)
+				(at -13.969999923706055 2.539999999999999 0.0)
+				(length 5.08)
 				(name "PA2"
 					(effects
 						(font
@@ -5403,8 +2859,8 @@
 			)
 
 			(pin bidirectional line
-				(at -11.43 -8.881784197001252E-16 0.0)
-				(length 2.54)
+				(at -13.969999923706055 -8.881784197001252E-16 0.0)
+				(length 5.08)
 				(name "PA3"
 					(effects
 						(font
@@ -5422,8 +2878,8 @@
 			)
 
 			(pin passive non_logic
-				(at 0.0 -15.239999999999998 90.0)
-				(length 2.54)
+				(at 0.0 -17.779999923706054 90.0)
+				(length 5.08)
 				(name "GND"
 					(effects
 						(font
@@ -5505,17 +2961,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "ATtiny1624"
+		(property "Documentation" "https://www.microchip.com/en-us/search?q=ATtiny1624"
 			(at -13.97 27.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Family" "tinyAVR 2"
-			(at -13.97 30.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5524,7 +2971,16 @@
 				(justify left)
 			)
 		)
-		(property "MF" "Microchip"
+		(property "Value" "ATtiny1624"
+			(at -13.97 30.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Family" "tinyAVR 2"
 			(at -13.97 32.7 0)
 			(effects
 				(font
@@ -5534,8 +2990,18 @@
 				(justify left)
 			)
 		)
-		(property "Name" "ATtiny1624"
+		(property "MF" "Microchip"
 			(at -13.97 35.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Name" "ATtiny1624"
+			(at -13.97 37.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5559,8 +3025,8 @@
 		)
 		(symbol "ATtiny1624_1_1"
 			(pin power_in non_logic
-				(at 0.0 15.239999999999998 270.0)
-				(length 2.54)
+				(at 0.0 17.779999923706054 270.0)
+				(length 5.08)
 				(name "VCC"
 					(effects
 						(font
@@ -5578,8 +3044,8 @@
 			)
 
 			(pin bidirectional line
-				(at -11.43 -2.540000000000001 0.0)
-				(length 2.54)
+				(at -13.969999923706055 -2.540000000000001 0.0)
+				(length 5.08)
 				(name "PA4"
 					(effects
 						(font
@@ -5597,8 +3063,8 @@
 			)
 
 			(pin bidirectional line
-				(at 11.43 7.619999999999999 180.0)
-				(length 2.54)
+				(at 13.969999923706055 7.619999999999999 180.0)
+				(length 5.08)
 				(name "PA5"
 					(effects
 						(font
@@ -5616,8 +3082,8 @@
 			)
 
 			(pin bidirectional line
-				(at 11.43 5.079999999999999 180.0)
-				(length 2.54)
+				(at 13.969999923706055 5.079999999999999 180.0)
+				(length 5.08)
 				(name "PA6"
 					(effects
 						(font
@@ -5635,8 +3101,8 @@
 			)
 
 			(pin bidirectional line
-				(at 11.43 2.539999999999999 180.0)
-				(length 2.54)
+				(at 13.969999923706055 2.539999999999999 180.0)
+				(length 5.08)
 				(name "PA7"
 					(effects
 						(font
@@ -5654,8 +3120,8 @@
 			)
 
 			(pin bidirectional line
-				(at 11.43 -7.620000000000001 180.0)
-				(length 2.54)
+				(at 13.969999923706055 -7.620000000000001 180.0)
+				(length 5.08)
 				(name "PB3"
 					(effects
 						(font
@@ -5673,8 +3139,8 @@
 			)
 
 			(pin bidirectional line
-				(at 11.43 -5.080000000000001 180.0)
-				(length 2.54)
+				(at 13.969999923706055 -5.080000000000001 180.0)
+				(length 5.08)
 				(name "PB2"
 					(effects
 						(font
@@ -5692,8 +3158,8 @@
 			)
 
 			(pin bidirectional line
-				(at 11.43 -2.540000000000001 180.0)
-				(length 2.54)
+				(at 13.969999923706055 -2.540000000000001 180.0)
+				(length 5.08)
 				(name "PB1"
 					(effects
 						(font
@@ -5711,8 +3177,8 @@
 			)
 
 			(pin bidirectional line
-				(at 11.43 -8.881784197001252E-16 180.0)
-				(length 2.54)
+				(at 13.969999923706055 -8.881784197001252E-16 180.0)
+				(length 5.08)
 				(name "PB0"
 					(effects
 						(font
@@ -5730,8 +3196,8 @@
 			)
 
 			(pin bidirectional line
-				(at -11.43 7.619999999999999 0.0)
-				(length 2.54)
+				(at -13.969999923706055 7.619999999999999 0.0)
+				(length 5.08)
 				(name "PA0"
 					(effects
 						(font
@@ -5749,8 +3215,8 @@
 			)
 
 			(pin bidirectional line
-				(at -11.43 5.079999999999999 0.0)
-				(length 2.54)
+				(at -13.969999923706055 5.079999999999999 0.0)
+				(length 5.08)
 				(name "PA1"
 					(effects
 						(font
@@ -5768,8 +3234,8 @@
 			)
 
 			(pin bidirectional line
-				(at -11.43 2.539999999999999 0.0)
-				(length 2.54)
+				(at -13.969999923706055 2.539999999999999 0.0)
+				(length 5.08)
 				(name "PA2"
 					(effects
 						(font
@@ -5787,8 +3253,8 @@
 			)
 
 			(pin bidirectional line
-				(at -11.43 -8.881784197001252E-16 0.0)
-				(length 2.54)
+				(at -13.969999923706055 -8.881784197001252E-16 0.0)
+				(length 5.08)
 				(name "PA3"
 					(effects
 						(font
@@ -5806,8 +3272,8 @@
 			)
 
 			(pin passive non_logic
-				(at 0.0 -15.239999999999998 90.0)
-				(length 2.54)
+				(at 0.0 -17.779999923706054 90.0)
+				(length 5.08)
 				(name "GND"
 					(effects
 						(font
@@ -5816,6 +3282,2660 @@
 					)
 				)
 				(number "14"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+
+		)
+	)
+(symbol "ATtiny3227"
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Series" ""
+			(at -13.97 19.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Footprint" "VQFN24"
+			(at -13.97 21.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "MP" "ATtiny3227"
+			(at -13.97 24.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Architecture" "AVR8X"
+			(at -13.97 26.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "PINOUT" "QFN24"
+			(at -13.97 29.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Reference" "U"
+			(at -13.97 31.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Documentation" "https://www.microchip.com/en-us/search?q=ATtiny3227"
+			(at -13.97 34.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Value" "ATtiny3227"
+			(at -13.97 36.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Family" "tinyAVR 2"
+			(at -13.97 39.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "MF" "Microchip"
+			(at -13.97 41.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Name" "ATtiny3227"
+			(at -13.97 44.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(symbol "ATtiny3227_0_1"
+			(rectangle
+				(start -8.89 19.05)
+				(end 8.89 -19.05)
+				(stroke
+					(width 0.254)
+					(type default)
+				)
+				(fill
+					(type background)
+				)
+			)
+		)
+		(symbol "ATtiny3227_1_1"
+			(pin bidirectional line
+				(at -13.969999923706055 8.89 0.0)
+				(length 5.08)
+				(name "PA2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+
+			(pin bidirectional line
+				(at -13.969999923706055 6.3500000000000005 0.0)
+				(length 5.08)
+				(name "PA3"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+
+			(pin passive non_logic
+				(at 0.0 -24.129999923706055 90.0)
+				(length 5.08)
+				(name "GND1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "3"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+
+			(pin power_in non_logic
+				(at 0.0 24.129999923706055 270.0)
+				(length 5.08)
+				(name "VCC"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "4"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+
+			(pin bidirectional line
+				(at -13.969999923706055 3.8100000000000005 0.0)
+				(length 5.08)
+				(name "PA4"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "5"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+
+			(pin bidirectional line
+				(at -13.969999923706055 1.2700000000000005 0.0)
+				(length 5.08)
+				(name "PA5"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "6"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+
+			(pin bidirectional line
+				(at -13.969999923706055 -1.2699999999999996 0.0)
+				(length 5.08)
+				(name "PA6"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "7"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+
+			(pin bidirectional line
+				(at -13.969999923706055 -3.8099999999999996 0.0)
+				(length 5.08)
+				(name "PA7"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "8"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+
+			(pin bidirectional line
+				(at 13.969999923706055 1.2700000000000005 180.0)
+				(length 5.08)
+				(name "PB7"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "9"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+
+			(pin bidirectional line
+				(at 13.969999923706055 3.8100000000000005 180.0)
+				(length 5.08)
+				(name "PB6"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "10"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+
+			(pin bidirectional line
+				(at 13.969999923706055 6.3500000000000005 180.0)
+				(length 5.08)
+				(name "PB5"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "11"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+
+			(pin bidirectional line
+				(at 13.969999923706055 8.89 180.0)
+				(length 5.08)
+				(name "PB4"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "12"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+
+			(pin bidirectional line
+				(at 13.969999923706055 11.43 180.0)
+				(length 5.08)
+				(name "PB3"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "13"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+
+			(pin bidirectional line
+				(at 13.969999923706055 13.97 180.0)
+				(length 5.08)
+				(name "PB2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "14"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+
+			(pin bidirectional line
+				(at -13.969999923706055 -8.89 0.0)
+				(length 5.08)
+				(name "PB1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "15"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+
+			(pin bidirectional line
+				(at -13.969999923706055 -6.35 0.0)
+				(length 5.08)
+				(name "PB0"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "16"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+
+			(pin bidirectional line
+				(at 13.969999923706055 -1.2699999999999996 180.0)
+				(length 5.08)
+				(name "PC0"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "17"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+
+			(pin bidirectional line
+				(at 13.969999923706055 -3.8099999999999996 180.0)
+				(length 5.08)
+				(name "PC1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "18"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+
+			(pin bidirectional line
+				(at 13.969999923706055 -6.35 180.0)
+				(length 5.08)
+				(name "PC2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "19"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+
+			(pin bidirectional line
+				(at 13.969999923706055 -8.89 180.0)
+				(length 5.08)
+				(name "PC3"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "20"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+
+			(pin bidirectional line
+				(at 13.969999923706055 -11.43 180.0)
+				(length 5.08)
+				(name "PC4"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "21"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+
+			(pin bidirectional line
+				(at 13.969999923706055 -13.969999999999999 180.0)
+				(length 5.08)
+				(name "PC5"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "22"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+
+			(pin bidirectional line
+				(at -13.969999923706055 13.97 0.0)
+				(length 5.08)
+				(name "PA0"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "23"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+
+			(pin bidirectional line
+				(at -13.969999923706055 11.43 0.0)
+				(length 5.08)
+				(name "PA1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "24"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+
+		)
+	)
+(symbol "ATtiny1627"
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Series" ""
+			(at -13.97 19.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Footprint" "VQFN24"
+			(at -13.97 21.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "MP" "ATtiny1627"
+			(at -13.97 24.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Architecture" "AVR8X"
+			(at -13.97 26.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "PINOUT" "QFN24"
+			(at -13.97 29.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Reference" "U"
+			(at -13.97 31.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Documentation" "https://www.microchip.com/en-us/search?q=ATtiny1627"
+			(at -13.97 34.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Value" "ATtiny1627"
+			(at -13.97 36.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Family" "tinyAVR 2"
+			(at -13.97 39.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "MF" "Microchip"
+			(at -13.97 41.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Name" "ATtiny1627"
+			(at -13.97 44.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(symbol "ATtiny1627_0_1"
+			(rectangle
+				(start -8.89 19.05)
+				(end 8.89 -19.05)
+				(stroke
+					(width 0.254)
+					(type default)
+				)
+				(fill
+					(type background)
+				)
+			)
+		)
+		(symbol "ATtiny1627_1_1"
+			(pin bidirectional line
+				(at -13.969999923706055 8.89 0.0)
+				(length 5.08)
+				(name "PA2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+
+			(pin bidirectional line
+				(at -13.969999923706055 6.3500000000000005 0.0)
+				(length 5.08)
+				(name "PA3"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+
+			(pin passive non_logic
+				(at 0.0 -24.129999923706055 90.0)
+				(length 5.08)
+				(name "GND1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "3"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+
+			(pin power_in non_logic
+				(at 0.0 24.129999923706055 270.0)
+				(length 5.08)
+				(name "VCC"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "4"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+
+			(pin bidirectional line
+				(at -13.969999923706055 3.8100000000000005 0.0)
+				(length 5.08)
+				(name "PA4"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "5"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+
+			(pin bidirectional line
+				(at -13.969999923706055 1.2700000000000005 0.0)
+				(length 5.08)
+				(name "PA5"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "6"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+
+			(pin bidirectional line
+				(at -13.969999923706055 -1.2699999999999996 0.0)
+				(length 5.08)
+				(name "PA6"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "7"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+
+			(pin bidirectional line
+				(at -13.969999923706055 -3.8099999999999996 0.0)
+				(length 5.08)
+				(name "PA7"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "8"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+
+			(pin bidirectional line
+				(at 13.969999923706055 1.2700000000000005 180.0)
+				(length 5.08)
+				(name "PB7"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "9"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+
+			(pin bidirectional line
+				(at 13.969999923706055 3.8100000000000005 180.0)
+				(length 5.08)
+				(name "PB6"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "10"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+
+			(pin bidirectional line
+				(at 13.969999923706055 6.3500000000000005 180.0)
+				(length 5.08)
+				(name "PB5"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "11"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+
+			(pin bidirectional line
+				(at 13.969999923706055 8.89 180.0)
+				(length 5.08)
+				(name "PB4"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "12"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+
+			(pin bidirectional line
+				(at 13.969999923706055 11.43 180.0)
+				(length 5.08)
+				(name "PB3"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "13"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+
+			(pin bidirectional line
+				(at 13.969999923706055 13.97 180.0)
+				(length 5.08)
+				(name "PB2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "14"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+
+			(pin bidirectional line
+				(at -13.969999923706055 -8.89 0.0)
+				(length 5.08)
+				(name "PB1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "15"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+
+			(pin bidirectional line
+				(at -13.969999923706055 -6.35 0.0)
+				(length 5.08)
+				(name "PB0"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "16"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+
+			(pin bidirectional line
+				(at 13.969999923706055 -1.2699999999999996 180.0)
+				(length 5.08)
+				(name "PC0"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "17"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+
+			(pin bidirectional line
+				(at 13.969999923706055 -3.8099999999999996 180.0)
+				(length 5.08)
+				(name "PC1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "18"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+
+			(pin bidirectional line
+				(at 13.969999923706055 -6.35 180.0)
+				(length 5.08)
+				(name "PC2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "19"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+
+			(pin bidirectional line
+				(at 13.969999923706055 -8.89 180.0)
+				(length 5.08)
+				(name "PC3"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "20"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+
+			(pin bidirectional line
+				(at 13.969999923706055 -11.43 180.0)
+				(length 5.08)
+				(name "PC4"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "21"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+
+			(pin bidirectional line
+				(at 13.969999923706055 -13.969999999999999 180.0)
+				(length 5.08)
+				(name "PC5"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "22"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+
+			(pin bidirectional line
+				(at -13.969999923706055 13.97 0.0)
+				(length 5.08)
+				(name "PA0"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "23"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+
+			(pin bidirectional line
+				(at -13.969999923706055 11.43 0.0)
+				(length 5.08)
+				(name "PA1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "24"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+
+		)
+	)
+(symbol "ATtiny427"
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Series" ""
+			(at -13.97 19.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Footprint" "VQFN24"
+			(at -13.97 21.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "MP" "ATtiny427"
+			(at -13.97 24.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Architecture" "AVR8X"
+			(at -13.97 26.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "PINOUT" "QFN24"
+			(at -13.97 29.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Reference" "U"
+			(at -13.97 31.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Documentation" "https://www.microchip.com/en-us/search?q=ATtiny427"
+			(at -13.97 34.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Value" "ATtiny427"
+			(at -13.97 36.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Family" "tinyAVR 2"
+			(at -13.97 39.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "MF" "Microchip"
+			(at -13.97 41.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Name" "ATtiny427"
+			(at -13.97 44.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(symbol "ATtiny427_0_1"
+			(rectangle
+				(start -8.89 19.05)
+				(end 8.89 -19.05)
+				(stroke
+					(width 0.254)
+					(type default)
+				)
+				(fill
+					(type background)
+				)
+			)
+		)
+		(symbol "ATtiny427_1_1"
+			(pin bidirectional line
+				(at -13.969999923706055 8.89 0.0)
+				(length 5.08)
+				(name "PA2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+
+			(pin bidirectional line
+				(at -13.969999923706055 6.3500000000000005 0.0)
+				(length 5.08)
+				(name "PA3"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+
+			(pin passive non_logic
+				(at 0.0 -24.129999923706055 90.0)
+				(length 5.08)
+				(name "GND1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "3"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+
+			(pin power_in non_logic
+				(at 0.0 24.129999923706055 270.0)
+				(length 5.08)
+				(name "VCC"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "4"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+
+			(pin bidirectional line
+				(at -13.969999923706055 3.8100000000000005 0.0)
+				(length 5.08)
+				(name "PA4"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "5"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+
+			(pin bidirectional line
+				(at -13.969999923706055 1.2700000000000005 0.0)
+				(length 5.08)
+				(name "PA5"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "6"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+
+			(pin bidirectional line
+				(at -13.969999923706055 -1.2699999999999996 0.0)
+				(length 5.08)
+				(name "PA6"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "7"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+
+			(pin bidirectional line
+				(at -13.969999923706055 -3.8099999999999996 0.0)
+				(length 5.08)
+				(name "PA7"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "8"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+
+			(pin bidirectional line
+				(at 13.969999923706055 1.2700000000000005 180.0)
+				(length 5.08)
+				(name "PB7"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "9"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+
+			(pin bidirectional line
+				(at 13.969999923706055 3.8100000000000005 180.0)
+				(length 5.08)
+				(name "PB6"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "10"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+
+			(pin bidirectional line
+				(at 13.969999923706055 6.3500000000000005 180.0)
+				(length 5.08)
+				(name "PB5"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "11"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+
+			(pin bidirectional line
+				(at 13.969999923706055 8.89 180.0)
+				(length 5.08)
+				(name "PB4"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "12"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+
+			(pin bidirectional line
+				(at 13.969999923706055 11.43 180.0)
+				(length 5.08)
+				(name "PB3"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "13"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+
+			(pin bidirectional line
+				(at 13.969999923706055 13.97 180.0)
+				(length 5.08)
+				(name "PB2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "14"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+
+			(pin bidirectional line
+				(at -13.969999923706055 -8.89 0.0)
+				(length 5.08)
+				(name "PB1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "15"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+
+			(pin bidirectional line
+				(at -13.969999923706055 -6.35 0.0)
+				(length 5.08)
+				(name "PB0"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "16"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+
+			(pin bidirectional line
+				(at 13.969999923706055 -1.2699999999999996 180.0)
+				(length 5.08)
+				(name "PC0"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "17"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+
+			(pin bidirectional line
+				(at 13.969999923706055 -3.8099999999999996 180.0)
+				(length 5.08)
+				(name "PC1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "18"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+
+			(pin bidirectional line
+				(at 13.969999923706055 -6.35 180.0)
+				(length 5.08)
+				(name "PC2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "19"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+
+			(pin bidirectional line
+				(at 13.969999923706055 -8.89 180.0)
+				(length 5.08)
+				(name "PC3"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "20"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+
+			(pin bidirectional line
+				(at 13.969999923706055 -11.43 180.0)
+				(length 5.08)
+				(name "PC4"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "21"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+
+			(pin bidirectional line
+				(at 13.969999923706055 -13.969999999999999 180.0)
+				(length 5.08)
+				(name "PC5"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "22"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+
+			(pin bidirectional line
+				(at -13.969999923706055 13.97 0.0)
+				(length 5.08)
+				(name "PA0"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "23"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+
+			(pin bidirectional line
+				(at -13.969999923706055 11.43 0.0)
+				(length 5.08)
+				(name "PA1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "24"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+
+		)
+	)
+(symbol "ATtiny824"
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Series" ""
+			(at -13.97 12.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Footprint" "SOIC14"
+			(at -13.97 15.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "MP" "ATtiny824"
+			(at -13.97 17.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Architecture" "AVR8X"
+			(at -13.97 20.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "PINOUT" "SOIC14"
+			(at -13.97 22.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Reference" "U"
+			(at -13.97 25.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Documentation" "https://www.microchip.com/en-us/search?q=ATtiny824"
+			(at -13.97 27.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Value" "ATtiny824"
+			(at -13.97 30.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Family" "tinyAVR 2"
+			(at -13.97 32.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "MF" "Microchip"
+			(at -13.97 35.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Name" "ATtiny824"
+			(at -13.97 37.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(symbol "ATtiny824_0_1"
+			(rectangle
+				(start -8.89 12.7)
+				(end 8.89 -12.7)
+				(stroke
+					(width 0.254)
+					(type default)
+				)
+				(fill
+					(type background)
+				)
+			)
+		)
+		(symbol "ATtiny824_1_1"
+			(pin power_in non_logic
+				(at 0.0 17.779999923706054 270.0)
+				(length 5.08)
+				(name "VCC"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+
+			(pin bidirectional line
+				(at -13.969999923706055 -2.540000000000001 0.0)
+				(length 5.08)
+				(name "PA4"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+
+			(pin bidirectional line
+				(at 13.969999923706055 7.619999999999999 180.0)
+				(length 5.08)
+				(name "PA5"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "3"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+
+			(pin bidirectional line
+				(at 13.969999923706055 5.079999999999999 180.0)
+				(length 5.08)
+				(name "PA6"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "4"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+
+			(pin bidirectional line
+				(at 13.969999923706055 2.539999999999999 180.0)
+				(length 5.08)
+				(name "PA7"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "5"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+
+			(pin bidirectional line
+				(at 13.969999923706055 -7.620000000000001 180.0)
+				(length 5.08)
+				(name "PB3"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "6"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+
+			(pin bidirectional line
+				(at 13.969999923706055 -5.080000000000001 180.0)
+				(length 5.08)
+				(name "PB2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "7"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+
+			(pin bidirectional line
+				(at 13.969999923706055 -2.540000000000001 180.0)
+				(length 5.08)
+				(name "PB1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "8"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+
+			(pin bidirectional line
+				(at 13.969999923706055 -8.881784197001252E-16 180.0)
+				(length 5.08)
+				(name "PB0"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "9"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+
+			(pin bidirectional line
+				(at -13.969999923706055 7.619999999999999 0.0)
+				(length 5.08)
+				(name "PA0"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "10"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+
+			(pin bidirectional line
+				(at -13.969999923706055 5.079999999999999 0.0)
+				(length 5.08)
+				(name "PA1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "11"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+
+			(pin bidirectional line
+				(at -13.969999923706055 2.539999999999999 0.0)
+				(length 5.08)
+				(name "PA2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "12"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+
+			(pin bidirectional line
+				(at -13.969999923706055 -8.881784197001252E-16 0.0)
+				(length 5.08)
+				(name "PA3"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "13"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+
+			(pin passive non_logic
+				(at 0.0 -17.779999923706054 90.0)
+				(length 5.08)
+				(name "GND"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "14"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+
+		)
+	)
+(symbol "ATtiny1626"
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Series" ""
+			(at -13.97 16.509999999999998 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Footprint" "VQFN20"
+			(at -13.97 19.009999999999998 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "MP" "ATtiny1626"
+			(at -13.97 21.509999999999998 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Architecture" "AVR8X"
+			(at -13.97 24.009999999999998 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "PINOUT" "QFN20"
+			(at -13.97 26.509999999999998 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Reference" "U"
+			(at -13.97 29.009999999999998 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Documentation" "https://www.microchip.com/en-us/search?q=ATtiny1626"
+			(at -13.97 31.509999999999998 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Value" "ATtiny1626"
+			(at -13.97 34.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Family" "tinyAVR 2"
+			(at -13.97 36.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "MF" "Microchip"
+			(at -13.97 39.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(property "Name" "ATtiny1626"
+			(at -13.97 41.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+				(justify left)
+			)
+		)
+		(symbol "ATtiny1626_0_1"
+			(rectangle
+				(start -8.89 16.509999999999998)
+				(end 8.89 -16.509999999999998)
+				(stroke
+					(width 0.254)
+					(type default)
+				)
+				(fill
+					(type background)
+				)
+			)
+		)
+		(symbol "ATtiny1626_1_1"
+			(pin bidirectional line
+				(at -13.969999923706055 6.349999999999997 0.0)
+				(length 5.08)
+				(name "PA2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+
+			(pin bidirectional line
+				(at -13.969999923706055 3.809999999999997 0.0)
+				(length 5.08)
+				(name "PA3"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+
+			(pin passive non_logic
+				(at 0.0 -21.589999923706053 90.0)
+				(length 5.08)
+				(name "GND"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "3"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+
+			(pin power_in non_logic
+				(at 0.0 21.589999923706053 270.0)
+				(length 5.08)
+				(name "VCC"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "4"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+
+			(pin bidirectional line
+				(at -13.969999923706055 1.269999999999997 0.0)
+				(length 5.08)
+				(name "PA4"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "5"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+
+			(pin bidirectional line
+				(at -13.969999923706055 -1.2700000000000031 0.0)
+				(length 5.08)
+				(name "PA5"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "6"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+
+			(pin bidirectional line
+				(at -13.969999923706055 -3.810000000000003 0.0)
+				(length 5.08)
+				(name "PA6"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "7"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+
+			(pin bidirectional line
+				(at -13.969999923706055 -6.350000000000003 0.0)
+				(length 5.08)
+				(name "PA7"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "8"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+
+			(pin bidirectional line
+				(at 13.969999923706055 -1.2700000000000031 180.0)
+				(length 5.08)
+				(name "PB5"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "9"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+
+			(pin bidirectional line
+				(at 13.969999923706055 1.269999999999997 180.0)
+				(length 5.08)
+				(name "PB4"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "10"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+
+			(pin bidirectional line
+				(at 13.969999923706055 3.809999999999997 180.0)
+				(length 5.08)
+				(name "PB3"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "11"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+
+			(pin bidirectional line
+				(at 13.969999923706055 6.349999999999997 180.0)
+				(length 5.08)
+				(name "PB2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "12"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+
+			(pin bidirectional line
+				(at 13.969999923706055 8.889999999999997 180.0)
+				(length 5.08)
+				(name "PB1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "13"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+
+			(pin bidirectional line
+				(at 13.969999923706055 11.429999999999998 180.0)
+				(length 5.08)
+				(name "PB0"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "14"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+
+			(pin bidirectional line
+				(at 13.969999923706055 -3.810000000000003 180.0)
+				(length 5.08)
+				(name "PC0"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "15"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+
+			(pin bidirectional line
+				(at 13.969999923706055 -6.350000000000003 180.0)
+				(length 5.08)
+				(name "PC1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "16"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+
+			(pin bidirectional line
+				(at 13.969999923706055 -8.890000000000004 180.0)
+				(length 5.08)
+				(name "PC2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "17"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+
+			(pin bidirectional line
+				(at 13.969999923706055 -11.430000000000003 180.0)
+				(length 5.08)
+				(name "PC3"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "18"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+
+			(pin bidirectional line
+				(at -13.969999923706055 11.429999999999998 0.0)
+				(length 5.08)
+				(name "PA0"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "19"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+
+			(pin bidirectional line
+				(at -13.969999923706055 8.889999999999997 0.0)
+				(length 5.08)
+				(name "PA1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "20"
 					(effects
 						(font
 							(size 1.27 1.27)

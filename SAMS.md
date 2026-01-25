@@ -1,2701 +1,3037 @@
 # SAMS
 ## ATSAMS70J19B-AN
+
 ### Description : 
+
+- Series : SAMS70
+- Footprint : LQFP64
+- MP : ATSAMS70J19B-AN
+- Architecture : CORTEX-M7
+- PINOUT : LQFP64
+- Reference : U
+- Documentation : https://www.microchip.com/en-us/search?q=ATSAMS70J19B-AN
+- Value : ATSAMS70J19B-AN
+- Family : SAMS
+- MF : Microchip
+- Name : ATSAMS70J19B
 
 ### Package : 
 
-- 40 : PA3
-- 34 : PA4
-- 32 : PA5
-- 15 : PA7
-- 16 : PA8
-- 33 : PA9
-- 28 : PA10
-- 27 : PA11
-- 29 : PA12
-- 18 : PA13
-- 19 : PA14
-- 12 : PA21
-- 17 : PA22
-- 23 : PA24
-- 30 : PA27
-- 8 : PB0
-- 7 : PB1
-- 9 : PB2
-- 11 : PB3
-- 46 : PB4
-- 47 : PB5
-- 35 : PB6
-- 39 : PB7
-- 62 : PB8
-- 63 : PB9
-- 38 : PB12
-- 1 : PD0
-- 57 : PD1
-- 56 : PD2
-- 55 : PD3
-- 54 : PD4
-- 53 : PD5
-- 51 : PD6
-- 50 : PD7
-- 49 : PD8
-- 48 : PD9
-- 44 : PD10
-- 43 : PD11
-- 41 : PD12
-- 26 : PD21
-- 25 : PD22
-- 22 : PD24
-- 20 : PD25
-- 21 : PD26
-- 2 : PD31
-- 3 : VDDOUT
-- 4 : VDDIN
-- 5 : VREFP
-- 36 : NRST
-- 37 : TST
-- 10 : VDDIO
-- 42 : VDDIO
-- 58 : VDDIO
-- 45 : JTAGSEL
-- 13 : VDDCORE
-- 24 : VDDCORE
-- 61 : VDDCORE
-- 52 : VDDPLL
-- 59 : DM
-- 60 : DP
-- 6 : GND
-- 14 : GND
-- 31 : GND
-- 64 : VDDPLLUSB
+Pin count : 64
+- 40 : PA3,  of Type IO, alternates : [PMC PCK_2, USART1 LONCOL_1, TWIHS0 TWD_0, PIOA PIODC_0, PIOA P_3]
+- 34 : PA4,  of Type IO, alternates : [SUPC WKUP_3, TWIHS0 TWCK_0, TC0 TCLK_0, PIOA PIODC_1, PIOA P_4, UART1 UTXD_1]
+- 32 : PA5,  of Type IO, alternates : [SUPC WKUP_4, PIOA PIODC_2, ISI D_4, PIOA P_5, UART1 URXD_1, PWM1 PWML_3]
+- 15 : PA7,  of Type IO, alternates : [PIOA P_7, PWM0 PWMH_3, PMC XIN32_]
+- 16 : PA8,  of Type IO, alternates : [PIOA P_8, AFEC0 ADTRG_, PMC XOUT32_, PWM1 PWMH_3]
+- 33 : PA9,  of Type IO, alternates : [PWM0 PWMFI_0, PIOA P_9, PIOA PIODC_3, UART0 URXD_0, ISI D_3, SUPC WKUP_6]
+- 28 : PA10,  of Type IO, alternates : [PIOA PIODC_4, UART0 UTXD_0, SSC RD_, PWM0 PWMEXTRG_0, PIOA P_10]
+- 27 : PA11,  of Type IO, alternates : [PIOA PIODC_5, QSPI QCS_, PWM1 PWML_0, PIOA P_11, PWM0 PWMH_0, SUPC WKUP_7]
+- 29 : PA12,  of Type IO, alternates : [PIOA PIODC_6, QSPI QIO_1, PIOA P_12, PWM1 PWMH_0, PWM0 PWMH_1]
+- 18 : PA13,  of Type IO, alternates : [QSPI QIO_0, PWM1 PWML_1, PIOA P_13, PIOA PIODC_7, PWM0 PWMH_2]
+- 19 : PA14,  of Type IO, alternates : [PIOA PIODCEN_1, PWM0 PWMH_3, QSPI QSCK_, PWM1 PWMH_1, SUPC WKUP_8, PIOA P_14]
+- 12 : PA21,  of Type IO, alternates : [AFEC0 AD_1, PIOA PIODCEN_2, PMC PCK_1, USART1 RXD_1, PIOA P_21, PWM1 PWMFI_0]
+- 17 : PA22,  of Type IO, alternates : [PWM0 PWMEXTRG_1, PIOA PIODCCLK_, PIOA P_22, SSC RK_]
+- 23 : PA24,  of Type IO, alternates : [USART1 RTS_1, ISI PCK_, PIOA P_24, PWM0 PWMH_1]
+- 30 : PA27,  of Type IO, alternates : [PIOA P_27, ISI D_7, USART1 DTR_1, TC0 TIOB_2]
+- 8 : PB0,  of Type IO, alternates : [USART0 RXD_0, RTC RTCOUT_0, SSC TF_, AFEC0 AD_10, PWM0 PWMH_0, PIOB P_32]
+- 7 : PB1,  of Type IO, alternates : [RTC RTCOUT_1, USART0 TXD_0, AFEC1 AD_0, SSC TK_, PIOB P_33, PWM0 PWMH_1]
+- 9 : PB2,  of Type IO, alternates : [AFEC0 AD_5, PIOB P_34, USART0 CTS_0]
+- 11 : PB3,  of Type IO, alternates : [AFEC0 AD_2, PMC PCK_2, SUPC WKUP_12, PIOB P_35, USART0 RTS_0, ISI D_2]
+- 46 : PB4,  of Type IO, alternates : [ICE TDI_, USART1 TXD_1, TWIHS1 TWD_1, PIOB P_36, PWM0 PWMH_2]
+- 47 : PB5,  of Type IO, alternates : [SUPC WKUP_13, TWIHS1 TWCK_1, SSC TD_, PWM0 PWML_0, PIOB P_37, ICE TDO_, ICE TRACESWO_]
+- 35 : PB6,  of Type IO, alternates : [ICE SWDIO_, PIOB P_38, ICE TMS_]
+- 39 : PB7,  of Type IO, alternates : [PIOB P_39, ICE TCK_, ICE SWDCLK_]
+- 62 : PB8,  of Type IO, alternates : [PIOB P_40, PMC XOUT_]
+- 63 : PB9,  of Type IO, alternates : [PMC XIN_, PIOB P_41]
+- 38 : PB12,  of Type IO, alternates : [PWM0 PWML_1, PIOB P_44, EFC ERASE_, PMC PCK_0]
+- 1 : PD0,  of Type IO, alternates : [USART0 DCD_0, PIOD P_96, PWM1 PWML_0, DACC DAC_1]
+- 57 : PD1,  of Type IO, alternates : [PIOD P_97, PWM1 PWMH_0, USART0 DTR_0]
+- 56 : PD2,  of Type IO, alternates : [PIOD P_98, PWM1 PWML_1, USART0 DSR_0]
+- 55 : PD3,  of Type IO, alternates : [USART0 RI_0, PIOD P_99, PWM1 PWMH_1]
+- 54 : PD4,  of Type IO, alternates : [PIOD P_100, PWM1 PWML_2, TPIU TRACED_0]
+- 53 : PD5,  of Type IO, alternates : [PIOD P_101, PWM1 PWMH_2, TPIU TRACED_1]
+- 51 : PD6,  of Type IO, alternates : [PWM1 PWML_3, PIOD P_102, TPIU TRACED_2]
+- 50 : PD7,  of Type IO, alternates : [PIOD P_103, TPIU TRACED_3, PWM1 PWMH_3]
+- 49 : PD8,  of Type IO, alternates : [PWM0 PWMFI_1, TPIU TRACECLK_, PIOD P_104]
+- 48 : PD9,  of Type IO, alternates : [AFEC1 ADTRG_, PWM0 PWMFI_2, PIOD P_105]
+- 44 : PD10,  of Type IO, alternates : [SSC TD_, PWM0 PWML_0, PIOD P_106]
+- 43 : PD11,  of Type IO, alternates : [ISI D_5, PWM0 PWMH_0, PIOD P_107]
+- 41 : PD12,  of Type IO, alternates : [PIOD P_108, ISI D_6]
+- 26 : PD21,  of Type IO, alternates : [ISI D_1, TC3 TIOA_11, PWM0 PWMH_1, PIOD P_117]
+- 25 : PD22,  of Type IO, alternates : [ISI D_0, TC3 TIOB_11, PIOD P_118, PWM0 PWMH_2]
+- 22 : PD24,  of Type IO, alternates : [PIOD P_120, TC3 TCLK_11, PWM0 PWML_0, SSC RF_, ISI HSYNC_]
+- 20 : PD25,  of Type IO, alternates : [ISI VSYNC_, PIOD P_121, PWM0 PWML_1, UART2 URXD_2]
+- 21 : PD26,  of Type IO, alternates : [UART2 UTXD_2, SSC TD_, UART1 UTXD_1, PIOD P_122, PWM0 PWML_2]
+- 2 : PD31,  of Type IO, alternates : [PMC PCK_2, QSPI QIO_3, ISI D_11, PIOD P_127]
+- 3 : VDDOUT,  of Type PP
+- 4 : VDDIN,  of Type PP
+- 5 : VREFP,  of Type PS
+- 36 : NRST,  of Type IP
+- 37 : TST,  of Type IO
+- 10 : VDDIO,  of Type PP
+- 42 : VDDIO,  of Type PP
+- 58 : VDDIO,  of Type PP
+- 45 : JTAGSEL,  of Type OP
+- 13 : VDDCORE,  of Type PP
+- 24 : VDDCORE,  of Type PP
+- 61 : VDDCORE,  of Type PP
+- 52 : VDDPLL,  of Type PP
+- 59 : DM,  of Type IO
+- 60 : DP,  of Type IO
+- 6 : GND,  of Type PS
+- 14 : GND,  of Type PS
+- 31 : GND,  of Type PS
+- 64 : VDDPLLUSB,  of Type PP
 ## ATSAMS70J19B-MN
+
 ### Description : 
+
+- Series : SAMS70
+- Footprint : QFN64
+- MP : ATSAMS70J19B-MN
+- Architecture : CORTEX-M7
+- PINOUT : QFN64
+- Reference : U
+- Documentation : https://www.microchip.com/en-us/search?q=ATSAMS70J19B-MN
+- Value : ATSAMS70J19B-MN
+- Family : SAMS
+- MF : Microchip
+- Name : ATSAMS70J19B
 
 ### Package : 
 
-- 40 : PA3
-- 34 : PA4
-- 32 : PA5
-- 15 : PA7
-- 16 : PA8
-- 33 : PA9
-- 28 : PA10
-- 27 : PA11
-- 29 : PA12
-- 18 : PA13
-- 19 : PA14
-- 12 : PA21
-- 17 : PA22
-- 23 : PA24
-- 30 : PA27
-- 8 : PB0
-- 7 : PB1
-- 9 : PB2
-- 11 : PB3
-- 46 : PB4
-- 47 : PB5
-- 35 : PB6
-- 39 : PB7
-- 63 : PB8
-- 64 : PB9
-- 38 : PB12
-- 2 : PD0
-- 57 : PD1
-- 56 : PD2
-- 55 : PD3
-- 54 : PD4
-- 53 : PD5
-- 51 : PD6
-- 50 : PD7
-- 49 : PD8
-- 48 : PD9
-- 44 : PD10
-- 43 : PD11
-- 41 : PD12
-- 26 : PD21
-- 25 : PD22
-- 22 : PD24
-- 20 : PD25
-- 21 : PD26
-- 3 : PD31
-- 4 : VDDOUT
-- 5 : VDDIN
-- 6 : VREFP
-- 36 : NRST
-- 37 : TST
-- 10 : VDDIO
-- 42 : VDDIO
-- 58 : VDDIO
-- 45 : JTAGSEL
-- 13 : VDDCORE
-- 24 : VDDCORE
-- 61 : VDDCORE
-- 52 : VDDPLL
-- 59 : DM
-- 60 : DP
-- 14 : GND
-- 31 : GND
-- 1 : VDDPLLUSB
-- 62 : VBG
+Pin count : 64
+- 40 : PA3,  of Type IO, alternates : [PMC PCK_2, USART1 LONCOL_1, TWIHS0 TWD_0, PIOA PIODC_0, PIOA P_3]
+- 34 : PA4,  of Type IO, alternates : [SUPC WKUP_3, TWIHS0 TWCK_0, TC0 TCLK_0, PIOA PIODC_1, PIOA P_4, UART1 UTXD_1]
+- 32 : PA5,  of Type IO, alternates : [SUPC WKUP_4, PIOA PIODC_2, ISI D_4, PIOA P_5, UART1 URXD_1, PWM1 PWML_3]
+- 15 : PA7,  of Type IO, alternates : [PIOA P_7, PWM0 PWMH_3, PMC XIN32_]
+- 16 : PA8,  of Type IO, alternates : [PIOA P_8, AFEC0 ADTRG_, PMC XOUT32_, PWM1 PWMH_3]
+- 33 : PA9,  of Type IO, alternates : [PWM0 PWMFI_0, PIOA P_9, PIOA PIODC_3, UART0 URXD_0, ISI D_3, SUPC WKUP_6]
+- 28 : PA10,  of Type IO, alternates : [PIOA PIODC_4, UART0 UTXD_0, SSC RD_, PWM0 PWMEXTRG_0, PIOA P_10]
+- 27 : PA11,  of Type IO, alternates : [PIOA PIODC_5, QSPI QCS_, PWM1 PWML_0, PIOA P_11, PWM0 PWMH_0, SUPC WKUP_7]
+- 29 : PA12,  of Type IO, alternates : [PIOA PIODC_6, QSPI QIO_1, PIOA P_12, PWM1 PWMH_0, PWM0 PWMH_1]
+- 18 : PA13,  of Type IO, alternates : [QSPI QIO_0, PWM1 PWML_1, PIOA P_13, PIOA PIODC_7, PWM0 PWMH_2]
+- 19 : PA14,  of Type IO, alternates : [PIOA PIODCEN_1, PWM0 PWMH_3, QSPI QSCK_, PWM1 PWMH_1, SUPC WKUP_8, PIOA P_14]
+- 12 : PA21,  of Type IO, alternates : [AFEC0 AD_1, PIOA PIODCEN_2, PMC PCK_1, USART1 RXD_1, PIOA P_21, PWM1 PWMFI_0]
+- 17 : PA22,  of Type IO, alternates : [PWM0 PWMEXTRG_1, PIOA PIODCCLK_, PIOA P_22, SSC RK_]
+- 23 : PA24,  of Type IO, alternates : [USART1 RTS_1, ISI PCK_, PIOA P_24, PWM0 PWMH_1]
+- 30 : PA27,  of Type IO, alternates : [PIOA P_27, ISI D_7, USART1 DTR_1, TC0 TIOB_2]
+- 8 : PB0,  of Type IO, alternates : [USART0 RXD_0, RTC RTCOUT_0, SSC TF_, AFEC0 AD_10, PWM0 PWMH_0, PIOB P_32]
+- 7 : PB1,  of Type IO, alternates : [RTC RTCOUT_1, USART0 TXD_0, AFEC1 AD_0, SSC TK_, PIOB P_33, PWM0 PWMH_1]
+- 9 : PB2,  of Type IO, alternates : [AFEC0 AD_5, PIOB P_34, USART0 CTS_0]
+- 11 : PB3,  of Type IO, alternates : [AFEC0 AD_2, PMC PCK_2, SUPC WKUP_12, PIOB P_35, USART0 RTS_0, ISI D_2]
+- 46 : PB4,  of Type IO, alternates : [ICE TDI_, USART1 TXD_1, TWIHS1 TWD_1, PIOB P_36, PWM0 PWMH_2]
+- 47 : PB5,  of Type IO, alternates : [SUPC WKUP_13, TWIHS1 TWCK_1, SSC TD_, PWM0 PWML_0, PIOB P_37, ICE TDO_, ICE TRACESWO_]
+- 35 : PB6,  of Type IO, alternates : [ICE SWDIO_, PIOB P_38, ICE TMS_]
+- 39 : PB7,  of Type IO, alternates : [PIOB P_39, ICE TCK_, ICE SWDCLK_]
+- 63 : PB8,  of Type IO, alternates : [PIOB P_40, PMC XOUT_]
+- 64 : PB9,  of Type IO, alternates : [PMC XIN_, PIOB P_41]
+- 38 : PB12,  of Type IO, alternates : [PWM0 PWML_1, PIOB P_44, EFC ERASE_, PMC PCK_0]
+- 2 : PD0,  of Type IO, alternates : [USART0 DCD_0, PIOD P_96, PWM1 PWML_0, DACC DAC_1]
+- 57 : PD1,  of Type IO, alternates : [PIOD P_97, PWM1 PWMH_0, USART0 DTR_0]
+- 56 : PD2,  of Type IO, alternates : [PIOD P_98, PWM1 PWML_1, USART0 DSR_0]
+- 55 : PD3,  of Type IO, alternates : [USART0 RI_0, PIOD P_99, PWM1 PWMH_1]
+- 54 : PD4,  of Type IO, alternates : [PIOD P_100, PWM1 PWML_2, TPIU TRACED_0]
+- 53 : PD5,  of Type IO, alternates : [PIOD P_101, PWM1 PWMH_2, TPIU TRACED_1]
+- 51 : PD6,  of Type IO, alternates : [PWM1 PWML_3, PIOD P_102, TPIU TRACED_2]
+- 50 : PD7,  of Type IO, alternates : [PIOD P_103, TPIU TRACED_3, PWM1 PWMH_3]
+- 49 : PD8,  of Type IO, alternates : [PWM0 PWMFI_1, TPIU TRACECLK_, PIOD P_104]
+- 48 : PD9,  of Type IO, alternates : [AFEC1 ADTRG_, PWM0 PWMFI_2, PIOD P_105]
+- 44 : PD10,  of Type IO, alternates : [SSC TD_, PWM0 PWML_0, PIOD P_106]
+- 43 : PD11,  of Type IO, alternates : [ISI D_5, PWM0 PWMH_0, PIOD P_107]
+- 41 : PD12,  of Type IO, alternates : [PIOD P_108, ISI D_6]
+- 26 : PD21,  of Type IO, alternates : [ISI D_1, TC3 TIOA_11, PWM0 PWMH_1, PIOD P_117]
+- 25 : PD22,  of Type IO, alternates : [ISI D_0, TC3 TIOB_11, PIOD P_118, PWM0 PWMH_2]
+- 22 : PD24,  of Type IO, alternates : [PIOD P_120, TC3 TCLK_11, PWM0 PWML_0, SSC RF_, ISI HSYNC_]
+- 20 : PD25,  of Type IO, alternates : [ISI VSYNC_, PIOD P_121, PWM0 PWML_1, UART2 URXD_2]
+- 21 : PD26,  of Type IO, alternates : [UART2 UTXD_2, SSC TD_, UART1 UTXD_1, PIOD P_122, PWM0 PWML_2]
+- 3 : PD31,  of Type IO, alternates : [PMC PCK_2, QSPI QIO_3, ISI D_11, PIOD P_127]
+- 4 : VDDOUT,  of Type PP
+- 5 : VDDIN,  of Type PP
+- 6 : VREFP,  of Type PS
+- 36 : NRST,  of Type IP
+- 37 : TST,  of Type IO
+- 10 : VDDIO,  of Type PP
+- 42 : VDDIO,  of Type PP
+- 58 : VDDIO,  of Type PP
+- 45 : JTAGSEL,  of Type OP
+- 13 : VDDCORE,  of Type PP
+- 24 : VDDCORE,  of Type PP
+- 61 : VDDCORE,  of Type PP
+- 52 : VDDPLL,  of Type PP
+- 59 : DM,  of Type IO
+- 60 : DP,  of Type IO
+- 14 : GND,  of Type PS
+- 31 : GND,  of Type PS
+- 1 : VDDPLLUSB,  of Type PP
+- 62 : VBG,  of Type IO
 ## ATSAMS70J20B-AN
+
 ### Description : 
+
+- Series : SAMS70
+- Footprint : LQFP64
+- MP : ATSAMS70J20B-AN
+- Architecture : CORTEX-M7
+- PINOUT : LQFP64
+- Reference : U
+- Documentation : https://www.microchip.com/en-us/search?q=ATSAMS70J20B-AN
+- Value : ATSAMS70J20B-AN
+- Family : SAMS
+- MF : Microchip
+- Name : ATSAMS70J20B
 
 ### Package : 
 
-- 40 : PA3
-- 34 : PA4
-- 32 : PA5
-- 15 : PA7
-- 16 : PA8
-- 33 : PA9
-- 28 : PA10
-- 27 : PA11
-- 29 : PA12
-- 18 : PA13
-- 19 : PA14
-- 12 : PA21
-- 17 : PA22
-- 23 : PA24
-- 30 : PA27
-- 8 : PB0
-- 7 : PB1
-- 9 : PB2
-- 11 : PB3
-- 46 : PB4
-- 47 : PB5
-- 35 : PB6
-- 39 : PB7
-- 62 : PB8
-- 63 : PB9
-- 38 : PB12
-- 1 : PD0
-- 57 : PD1
-- 56 : PD2
-- 55 : PD3
-- 54 : PD4
-- 53 : PD5
-- 51 : PD6
-- 50 : PD7
-- 49 : PD8
-- 48 : PD9
-- 44 : PD10
-- 43 : PD11
-- 41 : PD12
-- 26 : PD21
-- 25 : PD22
-- 22 : PD24
-- 20 : PD25
-- 21 : PD26
-- 2 : PD31
-- 3 : VDDOUT
-- 4 : VDDIN
-- 5 : VREFP
-- 36 : NRST
-- 37 : TST
-- 10 : VDDIO
-- 42 : VDDIO
-- 58 : VDDIO
-- 45 : JTAGSEL
-- 13 : VDDCORE
-- 24 : VDDCORE
-- 61 : VDDCORE
-- 52 : VDDPLL
-- 59 : DM
-- 60 : DP
-- 6 : GND
-- 14 : GND
-- 31 : GND
-- 64 : VDDPLLUSB
+Pin count : 64
+- 40 : PA3,  of Type IO, alternates : [PMC PCK_2, USART1 LONCOL_1, TWIHS0 TWD_0, PIOA PIODC_0, PIOA P_3]
+- 34 : PA4,  of Type IO, alternates : [SUPC WKUP_3, TWIHS0 TWCK_0, TC0 TCLK_0, PIOA PIODC_1, PIOA P_4, UART1 UTXD_1]
+- 32 : PA5,  of Type IO, alternates : [SUPC WKUP_4, PIOA PIODC_2, ISI D_4, PIOA P_5, UART1 URXD_1, PWM1 PWML_3]
+- 15 : PA7,  of Type IO, alternates : [PIOA P_7, PWM0 PWMH_3, PMC XIN32_]
+- 16 : PA8,  of Type IO, alternates : [PIOA P_8, AFEC0 ADTRG_, PMC XOUT32_, PWM1 PWMH_3]
+- 33 : PA9,  of Type IO, alternates : [PWM0 PWMFI_0, PIOA P_9, PIOA PIODC_3, UART0 URXD_0, ISI D_3, SUPC WKUP_6]
+- 28 : PA10,  of Type IO, alternates : [PIOA PIODC_4, UART0 UTXD_0, SSC RD_, PWM0 PWMEXTRG_0, PIOA P_10]
+- 27 : PA11,  of Type IO, alternates : [PIOA PIODC_5, QSPI QCS_, PWM1 PWML_0, PIOA P_11, PWM0 PWMH_0, SUPC WKUP_7]
+- 29 : PA12,  of Type IO, alternates : [PIOA PIODC_6, QSPI QIO_1, PIOA P_12, PWM1 PWMH_0, PWM0 PWMH_1]
+- 18 : PA13,  of Type IO, alternates : [QSPI QIO_0, PWM1 PWML_1, PIOA P_13, PIOA PIODC_7, PWM0 PWMH_2]
+- 19 : PA14,  of Type IO, alternates : [PIOA PIODCEN_1, PWM0 PWMH_3, QSPI QSCK_, PWM1 PWMH_1, SUPC WKUP_8, PIOA P_14]
+- 12 : PA21,  of Type IO, alternates : [AFEC0 AD_1, PIOA PIODCEN_2, PMC PCK_1, USART1 RXD_1, PIOA P_21, PWM1 PWMFI_0]
+- 17 : PA22,  of Type IO, alternates : [PWM0 PWMEXTRG_1, PIOA PIODCCLK_, PIOA P_22, SSC RK_]
+- 23 : PA24,  of Type IO, alternates : [USART1 RTS_1, ISI PCK_, PIOA P_24, PWM0 PWMH_1]
+- 30 : PA27,  of Type IO, alternates : [PIOA P_27, ISI D_7, USART1 DTR_1, TC0 TIOB_2]
+- 8 : PB0,  of Type IO, alternates : [USART0 RXD_0, RTC RTCOUT_0, SSC TF_, AFEC0 AD_10, PWM0 PWMH_0, PIOB P_32]
+- 7 : PB1,  of Type IO, alternates : [RTC RTCOUT_1, USART0 TXD_0, AFEC1 AD_0, SSC TK_, PIOB P_33, PWM0 PWMH_1]
+- 9 : PB2,  of Type IO, alternates : [AFEC0 AD_5, PIOB P_34, USART0 CTS_0]
+- 11 : PB3,  of Type IO, alternates : [AFEC0 AD_2, PMC PCK_2, SUPC WKUP_12, PIOB P_35, USART0 RTS_0, ISI D_2]
+- 46 : PB4,  of Type IO, alternates : [ICE TDI_, USART1 TXD_1, TWIHS1 TWD_1, PIOB P_36, PWM0 PWMH_2]
+- 47 : PB5,  of Type IO, alternates : [SUPC WKUP_13, TWIHS1 TWCK_1, SSC TD_, PWM0 PWML_0, PIOB P_37, ICE TDO_, ICE TRACESWO_]
+- 35 : PB6,  of Type IO, alternates : [ICE SWDIO_, PIOB P_38, ICE TMS_]
+- 39 : PB7,  of Type IO, alternates : [PIOB P_39, ICE TCK_, ICE SWDCLK_]
+- 62 : PB8,  of Type IO, alternates : [PIOB P_40, PMC XOUT_]
+- 63 : PB9,  of Type IO, alternates : [PMC XIN_, PIOB P_41]
+- 38 : PB12,  of Type IO, alternates : [PWM0 PWML_1, PIOB P_44, EFC ERASE_, PMC PCK_0]
+- 1 : PD0,  of Type IO, alternates : [USART0 DCD_0, PIOD P_96, PWM1 PWML_0, DACC DAC_1]
+- 57 : PD1,  of Type IO, alternates : [PIOD P_97, PWM1 PWMH_0, USART0 DTR_0]
+- 56 : PD2,  of Type IO, alternates : [PIOD P_98, PWM1 PWML_1, USART0 DSR_0]
+- 55 : PD3,  of Type IO, alternates : [USART0 RI_0, PIOD P_99, PWM1 PWMH_1]
+- 54 : PD4,  of Type IO, alternates : [PIOD P_100, PWM1 PWML_2, TPIU TRACED_0]
+- 53 : PD5,  of Type IO, alternates : [PIOD P_101, PWM1 PWMH_2, TPIU TRACED_1]
+- 51 : PD6,  of Type IO, alternates : [PWM1 PWML_3, PIOD P_102, TPIU TRACED_2]
+- 50 : PD7,  of Type IO, alternates : [PIOD P_103, TPIU TRACED_3, PWM1 PWMH_3]
+- 49 : PD8,  of Type IO, alternates : [PWM0 PWMFI_1, TPIU TRACECLK_, PIOD P_104]
+- 48 : PD9,  of Type IO, alternates : [AFEC1 ADTRG_, PWM0 PWMFI_2, PIOD P_105]
+- 44 : PD10,  of Type IO, alternates : [SSC TD_, PWM0 PWML_0, PIOD P_106]
+- 43 : PD11,  of Type IO, alternates : [ISI D_5, PWM0 PWMH_0, PIOD P_107]
+- 41 : PD12,  of Type IO, alternates : [PIOD P_108, ISI D_6]
+- 26 : PD21,  of Type IO, alternates : [ISI D_1, TC3 TIOA_11, PWM0 PWMH_1, PIOD P_117]
+- 25 : PD22,  of Type IO, alternates : [ISI D_0, TC3 TIOB_11, PIOD P_118, PWM0 PWMH_2]
+- 22 : PD24,  of Type IO, alternates : [PIOD P_120, TC3 TCLK_11, PWM0 PWML_0, SSC RF_, ISI HSYNC_]
+- 20 : PD25,  of Type IO, alternates : [ISI VSYNC_, PIOD P_121, PWM0 PWML_1, UART2 URXD_2]
+- 21 : PD26,  of Type IO, alternates : [UART2 UTXD_2, SSC TD_, UART1 UTXD_1, PIOD P_122, PWM0 PWML_2]
+- 2 : PD31,  of Type IO, alternates : [PMC PCK_2, QSPI QIO_3, ISI D_11, PIOD P_127]
+- 3 : VDDOUT,  of Type PP
+- 4 : VDDIN,  of Type PP
+- 5 : VREFP,  of Type PS
+- 36 : NRST,  of Type IP
+- 37 : TST,  of Type IO
+- 10 : VDDIO,  of Type PP
+- 42 : VDDIO,  of Type PP
+- 58 : VDDIO,  of Type PP
+- 45 : JTAGSEL,  of Type OP
+- 13 : VDDCORE,  of Type PP
+- 24 : VDDCORE,  of Type PP
+- 61 : VDDCORE,  of Type PP
+- 52 : VDDPLL,  of Type PP
+- 59 : DM,  of Type IO
+- 60 : DP,  of Type IO
+- 6 : GND,  of Type PS
+- 14 : GND,  of Type PS
+- 31 : GND,  of Type PS
+- 64 : VDDPLLUSB,  of Type PP
 ## ATSAMS70J20B-MN
+
 ### Description : 
+
+- Series : SAMS70
+- Footprint : QFN64
+- MP : ATSAMS70J20B-MN
+- Architecture : CORTEX-M7
+- PINOUT : QFN64
+- Reference : U
+- Documentation : https://www.microchip.com/en-us/search?q=ATSAMS70J20B-MN
+- Value : ATSAMS70J20B-MN
+- Family : SAMS
+- MF : Microchip
+- Name : ATSAMS70J20B
 
 ### Package : 
 
-- 40 : PA3
-- 34 : PA4
-- 32 : PA5
-- 15 : PA7
-- 16 : PA8
-- 33 : PA9
-- 28 : PA10
-- 27 : PA11
-- 29 : PA12
-- 18 : PA13
-- 19 : PA14
-- 12 : PA21
-- 17 : PA22
-- 23 : PA24
-- 30 : PA27
-- 8 : PB0
-- 7 : PB1
-- 9 : PB2
-- 11 : PB3
-- 46 : PB4
-- 47 : PB5
-- 35 : PB6
-- 39 : PB7
-- 63 : PB8
-- 64 : PB9
-- 38 : PB12
-- 2 : PD0
-- 57 : PD1
-- 56 : PD2
-- 55 : PD3
-- 54 : PD4
-- 53 : PD5
-- 51 : PD6
-- 50 : PD7
-- 49 : PD8
-- 48 : PD9
-- 44 : PD10
-- 43 : PD11
-- 41 : PD12
-- 26 : PD21
-- 25 : PD22
-- 22 : PD24
-- 20 : PD25
-- 21 : PD26
-- 3 : PD31
-- 4 : VDDOUT
-- 5 : VDDIN
-- 6 : VREFP
-- 36 : NRST
-- 37 : TST
-- 10 : VDDIO
-- 42 : VDDIO
-- 58 : VDDIO
-- 45 : JTAGSEL
-- 13 : VDDCORE
-- 24 : VDDCORE
-- 61 : VDDCORE
-- 52 : VDDPLL
-- 59 : DM
-- 60 : DP
-- 14 : GND
-- 31 : GND
-- 1 : VDDPLLUSB
-- 62 : VBG
+Pin count : 64
+- 40 : PA3,  of Type IO, alternates : [PMC PCK_2, USART1 LONCOL_1, TWIHS0 TWD_0, PIOA PIODC_0, PIOA P_3]
+- 34 : PA4,  of Type IO, alternates : [SUPC WKUP_3, TWIHS0 TWCK_0, TC0 TCLK_0, PIOA PIODC_1, PIOA P_4, UART1 UTXD_1]
+- 32 : PA5,  of Type IO, alternates : [SUPC WKUP_4, PIOA PIODC_2, ISI D_4, PIOA P_5, UART1 URXD_1, PWM1 PWML_3]
+- 15 : PA7,  of Type IO, alternates : [PIOA P_7, PWM0 PWMH_3, PMC XIN32_]
+- 16 : PA8,  of Type IO, alternates : [PIOA P_8, AFEC0 ADTRG_, PMC XOUT32_, PWM1 PWMH_3]
+- 33 : PA9,  of Type IO, alternates : [PWM0 PWMFI_0, PIOA P_9, PIOA PIODC_3, UART0 URXD_0, ISI D_3, SUPC WKUP_6]
+- 28 : PA10,  of Type IO, alternates : [PIOA PIODC_4, UART0 UTXD_0, SSC RD_, PWM0 PWMEXTRG_0, PIOA P_10]
+- 27 : PA11,  of Type IO, alternates : [PIOA PIODC_5, QSPI QCS_, PWM1 PWML_0, PIOA P_11, PWM0 PWMH_0, SUPC WKUP_7]
+- 29 : PA12,  of Type IO, alternates : [PIOA PIODC_6, QSPI QIO_1, PIOA P_12, PWM1 PWMH_0, PWM0 PWMH_1]
+- 18 : PA13,  of Type IO, alternates : [QSPI QIO_0, PWM1 PWML_1, PIOA P_13, PIOA PIODC_7, PWM0 PWMH_2]
+- 19 : PA14,  of Type IO, alternates : [PIOA PIODCEN_1, PWM0 PWMH_3, QSPI QSCK_, PWM1 PWMH_1, SUPC WKUP_8, PIOA P_14]
+- 12 : PA21,  of Type IO, alternates : [AFEC0 AD_1, PIOA PIODCEN_2, PMC PCK_1, USART1 RXD_1, PIOA P_21, PWM1 PWMFI_0]
+- 17 : PA22,  of Type IO, alternates : [PWM0 PWMEXTRG_1, PIOA PIODCCLK_, PIOA P_22, SSC RK_]
+- 23 : PA24,  of Type IO, alternates : [USART1 RTS_1, ISI PCK_, PIOA P_24, PWM0 PWMH_1]
+- 30 : PA27,  of Type IO, alternates : [PIOA P_27, ISI D_7, USART1 DTR_1, TC0 TIOB_2]
+- 8 : PB0,  of Type IO, alternates : [USART0 RXD_0, RTC RTCOUT_0, SSC TF_, AFEC0 AD_10, PWM0 PWMH_0, PIOB P_32]
+- 7 : PB1,  of Type IO, alternates : [RTC RTCOUT_1, USART0 TXD_0, AFEC1 AD_0, SSC TK_, PIOB P_33, PWM0 PWMH_1]
+- 9 : PB2,  of Type IO, alternates : [AFEC0 AD_5, PIOB P_34, USART0 CTS_0]
+- 11 : PB3,  of Type IO, alternates : [AFEC0 AD_2, PMC PCK_2, SUPC WKUP_12, PIOB P_35, USART0 RTS_0, ISI D_2]
+- 46 : PB4,  of Type IO, alternates : [ICE TDI_, USART1 TXD_1, TWIHS1 TWD_1, PIOB P_36, PWM0 PWMH_2]
+- 47 : PB5,  of Type IO, alternates : [SUPC WKUP_13, TWIHS1 TWCK_1, SSC TD_, PWM0 PWML_0, PIOB P_37, ICE TDO_, ICE TRACESWO_]
+- 35 : PB6,  of Type IO, alternates : [ICE SWDIO_, PIOB P_38, ICE TMS_]
+- 39 : PB7,  of Type IO, alternates : [PIOB P_39, ICE TCK_, ICE SWDCLK_]
+- 63 : PB8,  of Type IO, alternates : [PIOB P_40, PMC XOUT_]
+- 64 : PB9,  of Type IO, alternates : [PMC XIN_, PIOB P_41]
+- 38 : PB12,  of Type IO, alternates : [PWM0 PWML_1, PIOB P_44, EFC ERASE_, PMC PCK_0]
+- 2 : PD0,  of Type IO, alternates : [USART0 DCD_0, PIOD P_96, PWM1 PWML_0, DACC DAC_1]
+- 57 : PD1,  of Type IO, alternates : [PIOD P_97, PWM1 PWMH_0, USART0 DTR_0]
+- 56 : PD2,  of Type IO, alternates : [PIOD P_98, PWM1 PWML_1, USART0 DSR_0]
+- 55 : PD3,  of Type IO, alternates : [USART0 RI_0, PIOD P_99, PWM1 PWMH_1]
+- 54 : PD4,  of Type IO, alternates : [PIOD P_100, PWM1 PWML_2, TPIU TRACED_0]
+- 53 : PD5,  of Type IO, alternates : [PIOD P_101, PWM1 PWMH_2, TPIU TRACED_1]
+- 51 : PD6,  of Type IO, alternates : [PWM1 PWML_3, PIOD P_102, TPIU TRACED_2]
+- 50 : PD7,  of Type IO, alternates : [PIOD P_103, TPIU TRACED_3, PWM1 PWMH_3]
+- 49 : PD8,  of Type IO, alternates : [PWM0 PWMFI_1, TPIU TRACECLK_, PIOD P_104]
+- 48 : PD9,  of Type IO, alternates : [AFEC1 ADTRG_, PWM0 PWMFI_2, PIOD P_105]
+- 44 : PD10,  of Type IO, alternates : [SSC TD_, PWM0 PWML_0, PIOD P_106]
+- 43 : PD11,  of Type IO, alternates : [ISI D_5, PWM0 PWMH_0, PIOD P_107]
+- 41 : PD12,  of Type IO, alternates : [PIOD P_108, ISI D_6]
+- 26 : PD21,  of Type IO, alternates : [ISI D_1, TC3 TIOA_11, PWM0 PWMH_1, PIOD P_117]
+- 25 : PD22,  of Type IO, alternates : [ISI D_0, TC3 TIOB_11, PIOD P_118, PWM0 PWMH_2]
+- 22 : PD24,  of Type IO, alternates : [PIOD P_120, TC3 TCLK_11, PWM0 PWML_0, SSC RF_, ISI HSYNC_]
+- 20 : PD25,  of Type IO, alternates : [ISI VSYNC_, PIOD P_121, PWM0 PWML_1, UART2 URXD_2]
+- 21 : PD26,  of Type IO, alternates : [UART2 UTXD_2, SSC TD_, UART1 UTXD_1, PIOD P_122, PWM0 PWML_2]
+- 3 : PD31,  of Type IO, alternates : [PMC PCK_2, QSPI QIO_3, ISI D_11, PIOD P_127]
+- 4 : VDDOUT,  of Type PP
+- 5 : VDDIN,  of Type PP
+- 6 : VREFP,  of Type PS
+- 36 : NRST,  of Type IP
+- 37 : TST,  of Type IO
+- 10 : VDDIO,  of Type PP
+- 42 : VDDIO,  of Type PP
+- 58 : VDDIO,  of Type PP
+- 45 : JTAGSEL,  of Type OP
+- 13 : VDDCORE,  of Type PP
+- 24 : VDDCORE,  of Type PP
+- 61 : VDDCORE,  of Type PP
+- 52 : VDDPLL,  of Type PP
+- 59 : DM,  of Type IO
+- 60 : DP,  of Type IO
+- 14 : GND,  of Type PS
+- 31 : GND,  of Type PS
+- 1 : VDDPLLUSB,  of Type PP
+- 62 : VBG,  of Type IO
 ## ATSAMS70J21B-AN
+
 ### Description : 
+
+- Series : SAMS70
+- Footprint : LQFP64
+- MP : ATSAMS70J21B-AN
+- Architecture : CORTEX-M7
+- PINOUT : LQFP64
+- Reference : U
+- Documentation : https://www.microchip.com/en-us/search?q=ATSAMS70J21B-AN
+- Value : ATSAMS70J21B-AN
+- Family : SAMS
+- MF : Microchip
+- Name : ATSAMS70J21B
 
 ### Package : 
 
-- 40 : PA3
-- 34 : PA4
-- 32 : PA5
-- 15 : PA7
-- 16 : PA8
-- 33 : PA9
-- 28 : PA10
-- 27 : PA11
-- 29 : PA12
-- 18 : PA13
-- 19 : PA14
-- 12 : PA21
-- 17 : PA22
-- 23 : PA24
-- 30 : PA27
-- 8 : PB0
-- 7 : PB1
-- 9 : PB2
-- 11 : PB3
-- 46 : PB4
-- 47 : PB5
-- 35 : PB6
-- 39 : PB7
-- 62 : PB8
-- 63 : PB9
-- 38 : PB12
-- 1 : PD0
-- 57 : PD1
-- 56 : PD2
-- 55 : PD3
-- 54 : PD4
-- 53 : PD5
-- 51 : PD6
-- 50 : PD7
-- 49 : PD8
-- 48 : PD9
-- 44 : PD10
-- 43 : PD11
-- 41 : PD12
-- 26 : PD21
-- 25 : PD22
-- 22 : PD24
-- 20 : PD25
-- 21 : PD26
-- 2 : PD31
-- 3 : VDDOUT
-- 4 : VDDIN
-- 5 : VREFP
-- 36 : NRST
-- 37 : TST
-- 10 : VDDIO
-- 42 : VDDIO
-- 58 : VDDIO
-- 45 : JTAGSEL
-- 13 : VDDCORE
-- 24 : VDDCORE
-- 61 : VDDCORE
-- 52 : VDDPLL
-- 59 : DM
-- 60 : DP
-- 6 : GND
-- 14 : GND
-- 31 : GND
-- 64 : VDDPLLUSB
+Pin count : 64
+- 40 : PA3,  of Type IO, alternates : [PMC PCK_2, USART1 LONCOL_1, TWIHS0 TWD_0, PIOA PIODC_0, PIOA P_3]
+- 34 : PA4,  of Type IO, alternates : [SUPC WKUP_3, TWIHS0 TWCK_0, TC0 TCLK_0, PIOA PIODC_1, PIOA P_4, UART1 UTXD_1]
+- 32 : PA5,  of Type IO, alternates : [SUPC WKUP_4, PIOA PIODC_2, ISI D_4, PIOA P_5, UART1 URXD_1, PWM1 PWML_3]
+- 15 : PA7,  of Type IO, alternates : [PIOA P_7, PWM0 PWMH_3, PMC XIN32_]
+- 16 : PA8,  of Type IO, alternates : [PIOA P_8, AFEC0 ADTRG_, PMC XOUT32_, PWM1 PWMH_3]
+- 33 : PA9,  of Type IO, alternates : [PWM0 PWMFI_0, PIOA P_9, PIOA PIODC_3, UART0 URXD_0, ISI D_3, SUPC WKUP_6]
+- 28 : PA10,  of Type IO, alternates : [PIOA PIODC_4, UART0 UTXD_0, SSC RD_, PWM0 PWMEXTRG_0, PIOA P_10]
+- 27 : PA11,  of Type IO, alternates : [PIOA PIODC_5, QSPI QCS_, PWM1 PWML_0, PIOA P_11, PWM0 PWMH_0, SUPC WKUP_7]
+- 29 : PA12,  of Type IO, alternates : [PIOA PIODC_6, QSPI QIO_1, PIOA P_12, PWM1 PWMH_0, PWM0 PWMH_1]
+- 18 : PA13,  of Type IO, alternates : [QSPI QIO_0, PWM1 PWML_1, PIOA P_13, PIOA PIODC_7, PWM0 PWMH_2]
+- 19 : PA14,  of Type IO, alternates : [PIOA PIODCEN_1, PWM0 PWMH_3, QSPI QSCK_, PWM1 PWMH_1, SUPC WKUP_8, PIOA P_14]
+- 12 : PA21,  of Type IO, alternates : [AFEC0 AD_1, PIOA PIODCEN_2, PMC PCK_1, USART1 RXD_1, PIOA P_21, PWM1 PWMFI_0]
+- 17 : PA22,  of Type IO, alternates : [PWM0 PWMEXTRG_1, PIOA PIODCCLK_, PIOA P_22, SSC RK_]
+- 23 : PA24,  of Type IO, alternates : [USART1 RTS_1, ISI PCK_, PIOA P_24, PWM0 PWMH_1]
+- 30 : PA27,  of Type IO, alternates : [PIOA P_27, ISI D_7, USART1 DTR_1, TC0 TIOB_2]
+- 8 : PB0,  of Type IO, alternates : [USART0 RXD_0, RTC RTCOUT_0, SSC TF_, AFEC0 AD_10, PWM0 PWMH_0, PIOB P_32]
+- 7 : PB1,  of Type IO, alternates : [RTC RTCOUT_1, USART0 TXD_0, AFEC1 AD_0, SSC TK_, PIOB P_33, PWM0 PWMH_1]
+- 9 : PB2,  of Type IO, alternates : [AFEC0 AD_5, PIOB P_34, USART0 CTS_0]
+- 11 : PB3,  of Type IO, alternates : [AFEC0 AD_2, PMC PCK_2, SUPC WKUP_12, PIOB P_35, USART0 RTS_0, ISI D_2]
+- 46 : PB4,  of Type IO, alternates : [ICE TDI_, USART1 TXD_1, TWIHS1 TWD_1, PIOB P_36, PWM0 PWMH_2]
+- 47 : PB5,  of Type IO, alternates : [SUPC WKUP_13, TWIHS1 TWCK_1, SSC TD_, PWM0 PWML_0, PIOB P_37, ICE TDO_, ICE TRACESWO_]
+- 35 : PB6,  of Type IO, alternates : [ICE SWDIO_, PIOB P_38, ICE TMS_]
+- 39 : PB7,  of Type IO, alternates : [PIOB P_39, ICE TCK_, ICE SWDCLK_]
+- 62 : PB8,  of Type IO, alternates : [PIOB P_40, PMC XOUT_]
+- 63 : PB9,  of Type IO, alternates : [PMC XIN_, PIOB P_41]
+- 38 : PB12,  of Type IO, alternates : [PWM0 PWML_1, PIOB P_44, EFC ERASE_, PMC PCK_0]
+- 1 : PD0,  of Type IO, alternates : [USART0 DCD_0, PIOD P_96, PWM1 PWML_0, DACC DAC_1]
+- 57 : PD1,  of Type IO, alternates : [PIOD P_97, PWM1 PWMH_0, USART0 DTR_0]
+- 56 : PD2,  of Type IO, alternates : [PIOD P_98, PWM1 PWML_1, USART0 DSR_0]
+- 55 : PD3,  of Type IO, alternates : [USART0 RI_0, PIOD P_99, PWM1 PWMH_1]
+- 54 : PD4,  of Type IO, alternates : [PIOD P_100, PWM1 PWML_2, TPIU TRACED_0]
+- 53 : PD5,  of Type IO, alternates : [PIOD P_101, PWM1 PWMH_2, TPIU TRACED_1]
+- 51 : PD6,  of Type IO, alternates : [PWM1 PWML_3, PIOD P_102, TPIU TRACED_2]
+- 50 : PD7,  of Type IO, alternates : [PIOD P_103, TPIU TRACED_3, PWM1 PWMH_3]
+- 49 : PD8,  of Type IO, alternates : [PWM0 PWMFI_1, TPIU TRACECLK_, PIOD P_104]
+- 48 : PD9,  of Type IO, alternates : [AFEC1 ADTRG_, PWM0 PWMFI_2, PIOD P_105]
+- 44 : PD10,  of Type IO, alternates : [SSC TD_, PWM0 PWML_0, PIOD P_106]
+- 43 : PD11,  of Type IO, alternates : [ISI D_5, PWM0 PWMH_0, PIOD P_107]
+- 41 : PD12,  of Type IO, alternates : [PIOD P_108, ISI D_6]
+- 26 : PD21,  of Type IO, alternates : [ISI D_1, TC3 TIOA_11, PWM0 PWMH_1, PIOD P_117]
+- 25 : PD22,  of Type IO, alternates : [ISI D_0, TC3 TIOB_11, PIOD P_118, PWM0 PWMH_2]
+- 22 : PD24,  of Type IO, alternates : [PIOD P_120, TC3 TCLK_11, PWM0 PWML_0, SSC RF_, ISI HSYNC_]
+- 20 : PD25,  of Type IO, alternates : [ISI VSYNC_, PIOD P_121, PWM0 PWML_1, UART2 URXD_2]
+- 21 : PD26,  of Type IO, alternates : [UART2 UTXD_2, SSC TD_, UART1 UTXD_1, PIOD P_122, PWM0 PWML_2]
+- 2 : PD31,  of Type IO, alternates : [PMC PCK_2, QSPI QIO_3, ISI D_11, PIOD P_127]
+- 3 : VDDOUT,  of Type PP
+- 4 : VDDIN,  of Type PP
+- 5 : VREFP,  of Type PS
+- 36 : NRST,  of Type IP
+- 37 : TST,  of Type IO
+- 10 : VDDIO,  of Type PP
+- 42 : VDDIO,  of Type PP
+- 58 : VDDIO,  of Type PP
+- 45 : JTAGSEL,  of Type OP
+- 13 : VDDCORE,  of Type PP
+- 24 : VDDCORE,  of Type PP
+- 61 : VDDCORE,  of Type PP
+- 52 : VDDPLL,  of Type PP
+- 59 : DM,  of Type IO
+- 60 : DP,  of Type IO
+- 6 : GND,  of Type PS
+- 14 : GND,  of Type PS
+- 31 : GND,  of Type PS
+- 64 : VDDPLLUSB,  of Type PP
 ## ATSAMS70J21B-MN
+
 ### Description : 
+
+- Series : SAMS70
+- Footprint : QFN64
+- MP : ATSAMS70J21B-MN
+- Architecture : CORTEX-M7
+- PINOUT : QFN64
+- Reference : U
+- Documentation : https://www.microchip.com/en-us/search?q=ATSAMS70J21B-MN
+- Value : ATSAMS70J21B-MN
+- Family : SAMS
+- MF : Microchip
+- Name : ATSAMS70J21B
 
 ### Package : 
 
-- 40 : PA3
-- 34 : PA4
-- 32 : PA5
-- 15 : PA7
-- 16 : PA8
-- 33 : PA9
-- 28 : PA10
-- 27 : PA11
-- 29 : PA12
-- 18 : PA13
-- 19 : PA14
-- 12 : PA21
-- 17 : PA22
-- 23 : PA24
-- 30 : PA27
-- 8 : PB0
-- 7 : PB1
-- 9 : PB2
-- 11 : PB3
-- 46 : PB4
-- 47 : PB5
-- 35 : PB6
-- 39 : PB7
-- 63 : PB8
-- 64 : PB9
-- 38 : PB12
-- 2 : PD0
-- 57 : PD1
-- 56 : PD2
-- 55 : PD3
-- 54 : PD4
-- 53 : PD5
-- 51 : PD6
-- 50 : PD7
-- 49 : PD8
-- 48 : PD9
-- 44 : PD10
-- 43 : PD11
-- 41 : PD12
-- 26 : PD21
-- 25 : PD22
-- 22 : PD24
-- 20 : PD25
-- 21 : PD26
-- 3 : PD31
-- 4 : VDDOUT
-- 5 : VDDIN
-- 6 : VREFP
-- 36 : NRST
-- 37 : TST
-- 10 : VDDIO
-- 42 : VDDIO
-- 58 : VDDIO
-- 45 : JTAGSEL
-- 13 : VDDCORE
-- 24 : VDDCORE
-- 61 : VDDCORE
-- 52 : VDDPLL
-- 59 : DM
-- 60 : DP
-- 14 : GND
-- 31 : GND
-- 1 : VDDPLLUSB
-- 62 : VBG
+Pin count : 64
+- 40 : PA3,  of Type IO, alternates : [PMC PCK_2, USART1 LONCOL_1, TWIHS0 TWD_0, PIOA PIODC_0, PIOA P_3]
+- 34 : PA4,  of Type IO, alternates : [SUPC WKUP_3, TWIHS0 TWCK_0, TC0 TCLK_0, PIOA PIODC_1, PIOA P_4, UART1 UTXD_1]
+- 32 : PA5,  of Type IO, alternates : [SUPC WKUP_4, PIOA PIODC_2, ISI D_4, PIOA P_5, UART1 URXD_1, PWM1 PWML_3]
+- 15 : PA7,  of Type IO, alternates : [PIOA P_7, PWM0 PWMH_3, PMC XIN32_]
+- 16 : PA8,  of Type IO, alternates : [PIOA P_8, AFEC0 ADTRG_, PMC XOUT32_, PWM1 PWMH_3]
+- 33 : PA9,  of Type IO, alternates : [PWM0 PWMFI_0, PIOA P_9, PIOA PIODC_3, UART0 URXD_0, ISI D_3, SUPC WKUP_6]
+- 28 : PA10,  of Type IO, alternates : [PIOA PIODC_4, UART0 UTXD_0, SSC RD_, PWM0 PWMEXTRG_0, PIOA P_10]
+- 27 : PA11,  of Type IO, alternates : [PIOA PIODC_5, QSPI QCS_, PWM1 PWML_0, PIOA P_11, PWM0 PWMH_0, SUPC WKUP_7]
+- 29 : PA12,  of Type IO, alternates : [PIOA PIODC_6, QSPI QIO_1, PIOA P_12, PWM1 PWMH_0, PWM0 PWMH_1]
+- 18 : PA13,  of Type IO, alternates : [QSPI QIO_0, PWM1 PWML_1, PIOA P_13, PIOA PIODC_7, PWM0 PWMH_2]
+- 19 : PA14,  of Type IO, alternates : [PIOA PIODCEN_1, PWM0 PWMH_3, QSPI QSCK_, PWM1 PWMH_1, SUPC WKUP_8, PIOA P_14]
+- 12 : PA21,  of Type IO, alternates : [AFEC0 AD_1, PIOA PIODCEN_2, PMC PCK_1, USART1 RXD_1, PIOA P_21, PWM1 PWMFI_0]
+- 17 : PA22,  of Type IO, alternates : [PWM0 PWMEXTRG_1, PIOA PIODCCLK_, PIOA P_22, SSC RK_]
+- 23 : PA24,  of Type IO, alternates : [USART1 RTS_1, ISI PCK_, PIOA P_24, PWM0 PWMH_1]
+- 30 : PA27,  of Type IO, alternates : [PIOA P_27, ISI D_7, USART1 DTR_1, TC0 TIOB_2]
+- 8 : PB0,  of Type IO, alternates : [USART0 RXD_0, RTC RTCOUT_0, SSC TF_, AFEC0 AD_10, PWM0 PWMH_0, PIOB P_32]
+- 7 : PB1,  of Type IO, alternates : [RTC RTCOUT_1, USART0 TXD_0, AFEC1 AD_0, SSC TK_, PIOB P_33, PWM0 PWMH_1]
+- 9 : PB2,  of Type IO, alternates : [AFEC0 AD_5, PIOB P_34, USART0 CTS_0]
+- 11 : PB3,  of Type IO, alternates : [AFEC0 AD_2, PMC PCK_2, SUPC WKUP_12, PIOB P_35, USART0 RTS_0, ISI D_2]
+- 46 : PB4,  of Type IO, alternates : [ICE TDI_, USART1 TXD_1, TWIHS1 TWD_1, PIOB P_36, PWM0 PWMH_2]
+- 47 : PB5,  of Type IO, alternates : [SUPC WKUP_13, TWIHS1 TWCK_1, SSC TD_, PWM0 PWML_0, PIOB P_37, ICE TDO_, ICE TRACESWO_]
+- 35 : PB6,  of Type IO, alternates : [ICE SWDIO_, PIOB P_38, ICE TMS_]
+- 39 : PB7,  of Type IO, alternates : [PIOB P_39, ICE TCK_, ICE SWDCLK_]
+- 63 : PB8,  of Type IO, alternates : [PIOB P_40, PMC XOUT_]
+- 64 : PB9,  of Type IO, alternates : [PMC XIN_, PIOB P_41]
+- 38 : PB12,  of Type IO, alternates : [PWM0 PWML_1, PIOB P_44, EFC ERASE_, PMC PCK_0]
+- 2 : PD0,  of Type IO, alternates : [USART0 DCD_0, PIOD P_96, PWM1 PWML_0, DACC DAC_1]
+- 57 : PD1,  of Type IO, alternates : [PIOD P_97, PWM1 PWMH_0, USART0 DTR_0]
+- 56 : PD2,  of Type IO, alternates : [PIOD P_98, PWM1 PWML_1, USART0 DSR_0]
+- 55 : PD3,  of Type IO, alternates : [USART0 RI_0, PIOD P_99, PWM1 PWMH_1]
+- 54 : PD4,  of Type IO, alternates : [PIOD P_100, PWM1 PWML_2, TPIU TRACED_0]
+- 53 : PD5,  of Type IO, alternates : [PIOD P_101, PWM1 PWMH_2, TPIU TRACED_1]
+- 51 : PD6,  of Type IO, alternates : [PWM1 PWML_3, PIOD P_102, TPIU TRACED_2]
+- 50 : PD7,  of Type IO, alternates : [PIOD P_103, TPIU TRACED_3, PWM1 PWMH_3]
+- 49 : PD8,  of Type IO, alternates : [PWM0 PWMFI_1, TPIU TRACECLK_, PIOD P_104]
+- 48 : PD9,  of Type IO, alternates : [AFEC1 ADTRG_, PWM0 PWMFI_2, PIOD P_105]
+- 44 : PD10,  of Type IO, alternates : [SSC TD_, PWM0 PWML_0, PIOD P_106]
+- 43 : PD11,  of Type IO, alternates : [ISI D_5, PWM0 PWMH_0, PIOD P_107]
+- 41 : PD12,  of Type IO, alternates : [PIOD P_108, ISI D_6]
+- 26 : PD21,  of Type IO, alternates : [ISI D_1, TC3 TIOA_11, PWM0 PWMH_1, PIOD P_117]
+- 25 : PD22,  of Type IO, alternates : [ISI D_0, TC3 TIOB_11, PIOD P_118, PWM0 PWMH_2]
+- 22 : PD24,  of Type IO, alternates : [PIOD P_120, TC3 TCLK_11, PWM0 PWML_0, SSC RF_, ISI HSYNC_]
+- 20 : PD25,  of Type IO, alternates : [ISI VSYNC_, PIOD P_121, PWM0 PWML_1, UART2 URXD_2]
+- 21 : PD26,  of Type IO, alternates : [UART2 UTXD_2, SSC TD_, UART1 UTXD_1, PIOD P_122, PWM0 PWML_2]
+- 3 : PD31,  of Type IO, alternates : [PMC PCK_2, QSPI QIO_3, ISI D_11, PIOD P_127]
+- 4 : VDDOUT,  of Type PP
+- 5 : VDDIN,  of Type PP
+- 6 : VREFP,  of Type PS
+- 36 : NRST,  of Type IP
+- 37 : TST,  of Type IO
+- 10 : VDDIO,  of Type PP
+- 42 : VDDIO,  of Type PP
+- 58 : VDDIO,  of Type PP
+- 45 : JTAGSEL,  of Type OP
+- 13 : VDDCORE,  of Type PP
+- 24 : VDDCORE,  of Type PP
+- 61 : VDDCORE,  of Type PP
+- 52 : VDDPLL,  of Type PP
+- 59 : DM,  of Type IO
+- 60 : DP,  of Type IO
+- 14 : GND,  of Type PS
+- 31 : GND,  of Type PS
+- 1 : VDDPLLUSB,  of Type PP
+- 62 : VBG,  of Type IO
 ## ATSAMS70N19B-AN
+
 ### Description : 
+
+- Series : SAMS70
+- Footprint : LQFP100
+- MP : ATSAMS70N19B-AN
+- Architecture : CORTEX-M7
+- PINOUT : LQFP100
+- Reference : U
+- Documentation : https://www.microchip.com/en-us/search?q=ATSAMS70N19B-AN
+- Value : ATSAMS70N19B-AN
+- Family : SAMS
+- MF : Microchip
+- Name : ATSAMS70N19B
 
 ### Package : 
 
-- 72 : PA0
-- 70 : PA1
-- 66 : PA2
-- 64 : PA3
-- 55 : PA4
-- 52 : PA5
-- 24 : PA7
-- 25 : PA8
-- 54 : PA9
-- 46 : PA10
-- 44 : PA11
-- 48 : PA12
-- 27 : PA13
-- 34 : PA14
-- 33 : PA15
-- 30 : PA16
-- 16 : PA17
-- 15 : PA18
-- 14 : PA19
-- 13 : PA20
-- 21 : PA21
-- 26 : PA22
-- 31 : PA23
-- 38 : PA24
-- 40 : PA25
-- 42 : PA26
-- 50 : PA27
-- 79 : PA28
-- 82 : PA30
-- 83 : PA31
-- 12 : PB0
-- 11 : PB1
-- 17 : PB2
-- 20 : PB3
-- 74 : PB4
-- 77 : PB5
-- 57 : PB6
-- 63 : PB7
-- 98 : PB8
-- 99 : PB9
-- 61 : PB12
-- 100 : PB13
-- 1 : PD0
-- 92 : PD1
-- 91 : PD2
-- 89 : PD3
-- 88 : PD4
-- 87 : PD5
-- 85 : PD6
-- 84 : PD7
-- 80 : PD8
-- 78 : PD9
-- 71 : PD10
-- 69 : PD11
-- 65 : PD12
-- 62 : PD13
-- 59 : PD14
-- 75 : PD15
-- 56 : PD16
-- 53 : PD17
-- 49 : PD18
-- 47 : PD19
-- 45 : PD20
-- 43 : PD21
-- 41 : PD22
-- 37 : PD24
-- 35 : PD25
-- 36 : PD26
-- 32 : PD27
-- 51 : PD28
-- 23 : PD30
-- 2 : PD31
-- 4 : VDDOUT
-- 5 : VDDIN
-- 6 : VREFN
-- 9 : VREFP
-- 58 : NRST
-- 60 : TST
-- 19 : VDDIO
-- 28 : VDDIO
-- 68 : VDDIO
-- 81 : VDDIO
-- 73 : JTAGSEL
-- 18 : VDDCORE
-- 22 : VDDCORE
-- 39 : VDDCORE
-- 76 : VDDCORE
-- 86 : VDDPLL
-- 93 : VDDUTMII
-- 94 : HSDM
-- 95 : HSDP
-- 3 : GND
-- 7 : GND
-- 8 : GND
-- 10 : GND
-- 29 : GND
-- 67 : GND
-- 96 : VDDUTMIC
-- 97 : VBG
-- 90 : VDDPLLUSB
+Pin count : 100
+- 72 : PA0,  of Type IO, alternates : [I2SC0 MCK_, SUPC WKUP_0, TC0 TIOA_0, PIOA P_0, PWM0 PWMH_0]
+- 70 : PA1,  of Type IO, alternates : [I2SC0 CK_, SUPC WKUP_1, PWM0 PWML_0, PIOA P_1, TC0 TIOB_0]
+- 66 : PA2,  of Type IO, alternates : [SUPC WKUP_2, PIOA P_2, PWM0 PWMH_1, DACC DATRG_]
+- 64 : PA3,  of Type IO, alternates : [PMC PCK_2, USART1 LONCOL_1, TWIHS0 TWD_0, PIOA PIODC_0, PIOA P_3]
+- 55 : PA4,  of Type IO, alternates : [SUPC WKUP_3, TWIHS0 TWCK_0, TC0 TCLK_0, PIOA PIODC_1, PIOA P_4, UART1 UTXD_1]
+- 52 : PA5,  of Type IO, alternates : [SUPC WKUP_4, PIOA PIODC_2, ISI D_4, PIOA P_5, UART1 URXD_1, PWM1 PWML_3]
+- 24 : PA7,  of Type IO, alternates : [PIOA P_7, PWM0 PWMH_3, PMC XIN32_]
+- 25 : PA8,  of Type IO, alternates : [PIOA P_8, AFEC0 ADTRG_, PMC XOUT32_, PWM1 PWMH_3]
+- 54 : PA9,  of Type IO, alternates : [PWM0 PWMFI_0, PIOA P_9, PIOA PIODC_3, UART0 URXD_0, ISI D_3, SUPC WKUP_6]
+- 46 : PA10,  of Type IO, alternates : [PIOA PIODC_4, UART0 UTXD_0, SSC RD_, PWM0 PWMEXTRG_0, PIOA P_10]
+- 44 : PA11,  of Type IO, alternates : [PIOA PIODC_5, QSPI QCS_, PWM1 PWML_0, PIOA P_11, PWM0 PWMH_0, SUPC WKUP_7]
+- 48 : PA12,  of Type IO, alternates : [PIOA PIODC_6, QSPI QIO_1, PIOA P_12, PWM1 PWMH_0, PWM0 PWMH_1]
+- 27 : PA13,  of Type IO, alternates : [QSPI QIO_0, PWM1 PWML_1, PIOA P_13, PIOA PIODC_7, PWM0 PWMH_2]
+- 34 : PA14,  of Type IO, alternates : [PIOA PIODCEN_1, PWM0 PWMH_3, QSPI QSCK_, PWM1 PWMH_1, SUPC WKUP_8, PIOA P_14]
+- 33 : PA15,  of Type IO, alternates : [PIOA P_15, PWM0 PWML_3, I2SC0 WS_, TC0 TIOA_1]
+- 30 : PA16,  of Type IO, alternates : [PIOA P_16, I2SC0 DI_0, PWM0 PWML_2, TC0 TIOB_1]
+- 16 : PA17,  of Type IO, alternates : [PMC PCK_1, QSPI QIO_2, PIOA P_17, AFEC0 AD_6, PWM0 PWMH_3]
+- 15 : PA18,  of Type IO, alternates : [PMC PCK_2, PIOA P_18, AFEC0 AD_7, PWM1 PWMEXTRG_1]
+- 14 : PA19,  of Type IO, alternates : [PIOA P_19, AFEC0 AD_8, PWM0 PWML_0, SUPC WKUP_9]
+- 13 : PA20,  of Type IO, alternates : [SUPC WKUP_10, AFEC0 AD_9, PIOA P_20, PWM0 PWML_1]
+- 21 : PA21,  of Type IO, alternates : [AFEC0 AD_1, PIOA PIODCEN_2, PMC PCK_1, USART1 RXD_1, PIOA P_21, PWM1 PWMFI_0]
+- 26 : PA22,  of Type IO, alternates : [PWM0 PWMEXTRG_1, PIOA PIODCCLK_, PIOA P_22, SSC RK_]
+- 31 : PA23,  of Type IO, alternates : [USART1 SCK_1, PWM1 PWML_2, PIOA P_23, PWM0 PWMH_0]
+- 38 : PA24,  of Type IO, alternates : [USART1 RTS_1, ISI PCK_, PIOA P_24, PWM0 PWMH_1]
+- 40 : PA25,  of Type IO, alternates : [USART1 CTS_1, HSMCI MCCK_, PIOA P_25, PWM0 PWMH_2]
+- 42 : PA26,  of Type IO, alternates : [HSMCI MCDA_2, PIOA P_26, USART1 DCD_1, TC0 TIOA_2, PWM1 PWMFI_1]
+- 50 : PA27,  of Type IO, alternates : [HSMCI MCDA_3, PIOA P_27, ISI D_7, USART1 DTR_1, TC0 TIOB_2]
+- 79 : PA28,  of Type IO, alternates : [PIOA P_28, HSMCI MCCDA_, TC0 TCLK_1, USART1 DSR_1, PWM1 PWMFI_2]
+- 82 : PA30,  of Type IO, alternates : [HSMCI MCDA_0, SUPC WKUP_11, I2SC0 DO_0, PWM1 PWMEXTRG_0, PIOA P_30, PWM0 PWML_2]
+- 83 : PA31,  of Type IO, alternates : [PMC PCK_2, HSMCI MCDA_1, PIOA P_31, SPI0 NPCS_1, PWM1 PWMH_2]
+- 12 : PB0,  of Type IO, alternates : [USART0 RXD_0, RTC RTCOUT_0, SSC TF_, AFEC0 AD_10, PWM0 PWMH_0, PIOB P_32]
+- 11 : PB1,  of Type IO, alternates : [RTC RTCOUT_1, USART0 TXD_0, AFEC1 AD_0, SSC TK_, PIOB P_33, PWM0 PWMH_1]
+- 17 : PB2,  of Type IO, alternates : [SPI0 NPCS_0, AFEC0 AD_5, PIOB P_34, USART0 CTS_0]
+- 20 : PB3,  of Type IO, alternates : [AFEC0 AD_2, PMC PCK_2, SUPC WKUP_12, PIOB P_35, USART0 RTS_0, ISI D_2]
+- 74 : PB4,  of Type IO, alternates : [ICE TDI_, USART1 TXD_1, TWIHS1 TWD_1, PIOB P_36, PWM0 PWMH_2]
+- 77 : PB5,  of Type IO, alternates : [SUPC WKUP_13, TWIHS1 TWCK_1, SSC TD_, PWM0 PWML_0, PIOB P_37, ICE TDO_, ICE TRACESWO_]
+- 57 : PB6,  of Type IO, alternates : [ICE SWDIO_, PIOB P_38, ICE TMS_]
+- 63 : PB7,  of Type IO, alternates : [PIOB P_39, ICE TCK_, ICE SWDCLK_]
+- 98 : PB8,  of Type IO, alternates : [PIOB P_40, PMC XOUT_]
+- 99 : PB9,  of Type IO, alternates : [PMC XIN_, PIOB P_41]
+- 61 : PB12,  of Type IO, alternates : [PWM0 PWML_1, PIOB P_44, EFC ERASE_, PMC PCK_0]
+- 100 : PB13,  of Type IO, alternates : [PIOB P_45, USART0 SCK_0, PWM0 PWML_2, DACC DAC_0, PMC PCK_0]
+- 1 : PD0,  of Type IO, alternates : [USART0 DCD_0, PIOD P_96, PWM1 PWML_0, DACC DAC_1]
+- 92 : PD1,  of Type IO, alternates : [PIOD P_97, PWM1 PWMH_0, USART0 DTR_0]
+- 91 : PD2,  of Type IO, alternates : [PIOD P_98, PWM1 PWML_1, USART0 DSR_0]
+- 89 : PD3,  of Type IO, alternates : [USART0 RI_0, PIOD P_99, UART4 UTXD_4, PWM1 PWMH_1]
+- 88 : PD4,  of Type IO, alternates : [USART2 DCD_2, PIOD P_100, PWM1 PWML_2, TPIU TRACED_0]
+- 87 : PD5,  of Type IO, alternates : [PIOD P_101, USART2 DTR_2, PWM1 PWMH_2, TPIU TRACED_1]
+- 85 : PD6,  of Type IO, alternates : [PWM1 PWML_3, PIOD P_102, TPIU TRACED_2, USART2 DSR_2]
+- 84 : PD7,  of Type IO, alternates : [PIOD P_103, USART2 RI_2, TPIU TRACED_3, PWM1 PWMH_3]
+- 80 : PD8,  of Type IO, alternates : [PWM0 PWMFI_1, TPIU TRACECLK_, PIOD P_104]
+- 78 : PD9,  of Type IO, alternates : [AFEC1 ADTRG_, PWM0 PWMFI_2, PIOD P_105]
+- 71 : PD10,  of Type IO, alternates : [SSC TD_, PWM0 PWML_0, PIOD P_106]
+- 69 : PD11,  of Type IO, alternates : [ISI D_5, PWM0 PWMH_0, PIOD P_107]
+- 65 : PD12,  of Type IO, alternates : [PIOD P_108, ISI D_6, SPI0 NPCS_2]
+- 62 : PD13,  of Type IO, alternates : [PIOD P_109]
+- 59 : PD14,  of Type IO, alternates : [PIOD P_110]
+- 75 : PD15,  of Type IO, alternates : [PIOD P_111, USART2 RXD_2]
+- 56 : PD16,  of Type IO, alternates : [USART2 TXD_2, PIOD P_112]
+- 53 : PD17,  of Type IO, alternates : [USART2 SCK_2, PIOD P_113]
+- 49 : PD18,  of Type IO, alternates : [USART2 RTS_2, PIOD P_114, UART4 URXD_4]
+- 47 : PD19,  of Type IO, alternates : [USART2 CTS_2, UART4 UTXD_4, PIOD P_115]
+- 45 : PD20,  of Type IO, alternates : [SPI0 MISO_, PIOD P_116, PWM0 PWMH_0]
+- 43 : PD21,  of Type IO, alternates : [ISI D_1, SPI0 MOSI_, TC3 TIOA_11, PWM0 PWMH_1, PIOD P_117]
+- 41 : PD22,  of Type IO, alternates : [ISI D_0, SPI0 SPCK_, TC3 TIOB_11, PIOD P_118, PWM0 PWMH_2]
+- 37 : PD24,  of Type IO, alternates : [PIOD P_120, TC3 TCLK_11, PWM0 PWML_0, SSC RF_, ISI HSYNC_]
+- 35 : PD25,  of Type IO, alternates : [ISI VSYNC_, PIOD P_121, PWM0 PWML_1, UART2 URXD_2, SPI0 NPCS_1]
+- 36 : PD26,  of Type IO, alternates : [UART2 UTXD_2, SSC TD_, UART1 UTXD_1, PIOD P_122, PWM0 PWML_2]
+- 32 : PD27,  of Type IO, alternates : [ISI D_8, PWM0 PWML_3, PIOD P_123, TWIHS2 TWD_2, SPI0 NPCS_3]
+- 51 : PD28,  of Type IO, alternates : [ISI D_9, TWIHS2 TWCK_2, PIOD P_124, UART3 URXD_3, SUPC WKUP_5]
+- 23 : PD30,  of Type IO, alternates : [UART3 UTXD_3, ISI D_10, PIOD P_126, AFEC0 AD_0]
+- 2 : PD31,  of Type IO, alternates : [PMC PCK_2, QSPI QIO_3, UART3 UTXD_3, ISI D_11, PIOD P_127]
+- 4 : VDDOUT,  of Type PP
+- 5 : VDDIN,  of Type PP
+- 6 : VREFN,  of Type PS
+- 9 : VREFP,  of Type PS
+- 58 : NRST,  of Type IP
+- 60 : TST,  of Type IO
+- 19 : VDDIO,  of Type PP
+- 28 : VDDIO,  of Type PP
+- 68 : VDDIO,  of Type PP
+- 81 : VDDIO,  of Type PP
+- 73 : JTAGSEL,  of Type OP
+- 18 : VDDCORE,  of Type PP
+- 22 : VDDCORE,  of Type PP
+- 39 : VDDCORE,  of Type PP
+- 76 : VDDCORE,  of Type PP
+- 86 : VDDPLL,  of Type PP
+- 93 : VDDUTMII,  of Type PP
+- 94 : HSDM,  of Type IO
+- 95 : HSDP,  of Type IO
+- 3 : GND,  of Type PS
+- 7 : GND,  of Type PS
+- 8 : GND,  of Type PS
+- 10 : GND,  of Type PS
+- 29 : GND,  of Type PS
+- 67 : GND,  of Type PS
+- 96 : VDDUTMIC,  of Type PP
+- 97 : VBG,  of Type IO
+- 90 : VDDPLLUSB,  of Type PP
 ## ATSAMS70N19B-CFN
+
 ### Description : 
+
+- Series : SAMS70
+- Footprint : VFBGA100
+- MP : ATSAMS70N19B-CFN
+- Architecture : CORTEX-M7
+- PINOUT : VFBGA100
+- Reference : U
+- Documentation : https://www.microchip.com/en-us/search?q=ATSAMS70N19B-CFN
+- Value : ATSAMS70N19B-CFN
+- Family : SAMS
+- MF : Microchip
+- Name : ATSAMS70N19B
 
 ### Package : 
 
-- D8 : PA0
-- C10 : PA1
-- D10 : PA2
-- F9 : PA3
-- H10 : PA4
-- H9 : PA5
-- J2 : PA7
-- K2 : PA8
-- J9 : PA9
-- K9 : PA10
-- J8 : PA11
-- K10 : PA12
-- G5 : PA13
-- H6 : PA14
-- J6 : PA15
-- J5 : PA16
-- G1 : PA17
-- G2 : PA18
-- F1 : PA19
-- F2 : PA20
-- J1 : PA21
-- J3 : PA22
-- K5 : PA23
-- K7 : PA24
-- H7 : PA25
-- K8 : PA26
-- H8 : PA27
-- A9 : PA28
-- C7 : PA30
-- A7 : PA31
-- E1 : PB0
-- E2 : PB1
-- H1 : PB2
-- H2 : PB3
-- B9 : PB4
-- C8 : PB5
-- G8 : PB6
-- E9 : PB7
-- A2 : PB8
-- A1 : PB9
-- F8 : PB12
-- B2 : PB13
-- B1 : PD0
-- D3 : PD1
-- E3 : PD2
-- B5 : PD3
-- A5 : PD4
-- D5 : PD5
-- B6 : PD6
-- A8 : PD7
-- B7 : PD8
-- B8 : PD9
-- C9 : PD10
-- D9 : PD11
-- E10 : PD12
-- E8 : PD13
-- F10 : PD14
-- B10 : PD15
-- G9 : PD16
-- J10 : PD17
-- K6 : PD18
-- K4 : PD19
-- K3 : PD20
-- H5 : PD21
-- J4 : PD22
-- G4 : PD24
-- H3 : PD25
-- G3 : PD26
-- H4 : PD27
-- J7 : PD28
-- K1 : PD30
-- C1 : PD31
-- C3 : VDDOUT
-- C2 : VDDIN
-- D2 : VREFN
-- D1 : VREFP
-- G10 : NRST
-- F7 : TST
-- C5 : VDDIO
-- F3 : VDDIO
-- G7 : VDDIO
-- A10 : JTAGSEL
-- C6 : VDDCORE
-- D6 : VDDCORE
-- G6 : VDDCORE
-- D7 : VDDPLL
-- E5 : VDDUTMII
-- A4 : HSDM
-- B4 : HSDP
-- E7 : GND
-- F4 : GND
-- F5 : GND
-- F6 : GND
-- D4 : GNDANA
-- A6 : GNDUTMI
-- C4 : GNDPLLUSB
-- E6 : GNDPLL
-- B3 : VDDUTMIC
-- A3 : VBG
-- E4 : VDDPLLUSB
+Pin count : 100
+- D8 : PA0,  of Type IO, alternates : [I2SC0 MCK_, SUPC WKUP_0, TC0 TIOA_0, PIOA P_0, PWM0 PWMH_0]
+- C10 : PA1,  of Type IO, alternates : [I2SC0 CK_, SUPC WKUP_1, PWM0 PWML_0, PIOA P_1, TC0 TIOB_0]
+- D10 : PA2,  of Type IO, alternates : [SUPC WKUP_2, PIOA P_2, PWM0 PWMH_1, DACC DATRG_]
+- F9 : PA3,  of Type IO, alternates : [PMC PCK_2, USART1 LONCOL_1, TWIHS0 TWD_0, PIOA PIODC_0, PIOA P_3]
+- H10 : PA4,  of Type IO, alternates : [SUPC WKUP_3, TWIHS0 TWCK_0, TC0 TCLK_0, PIOA PIODC_1, PIOA P_4, UART1 UTXD_1]
+- H9 : PA5,  of Type IO, alternates : [SUPC WKUP_4, PIOA PIODC_2, ISI D_4, PIOA P_5, UART1 URXD_1, PWM1 PWML_3]
+- J2 : PA7,  of Type IO, alternates : [PIOA P_7, PWM0 PWMH_3, PMC XIN32_]
+- K2 : PA8,  of Type IO, alternates : [PIOA P_8, AFEC0 ADTRG_, PMC XOUT32_, PWM1 PWMH_3]
+- J9 : PA9,  of Type IO, alternates : [PWM0 PWMFI_0, PIOA P_9, PIOA PIODC_3, UART0 URXD_0, ISI D_3, SUPC WKUP_6]
+- K9 : PA10,  of Type IO, alternates : [PIOA PIODC_4, UART0 UTXD_0, SSC RD_, PWM0 PWMEXTRG_0, PIOA P_10]
+- J8 : PA11,  of Type IO, alternates : [PIOA PIODC_5, QSPI QCS_, PWM1 PWML_0, PIOA P_11, PWM0 PWMH_0, SUPC WKUP_7]
+- K10 : PA12,  of Type IO, alternates : [PIOA PIODC_6, QSPI QIO_1, PIOA P_12, PWM1 PWMH_0, PWM0 PWMH_1]
+- G5 : PA13,  of Type IO, alternates : [QSPI QIO_0, PWM1 PWML_1, PIOA P_13, PIOA PIODC_7, PWM0 PWMH_2]
+- H6 : PA14,  of Type IO, alternates : [PIOA PIODCEN_1, PWM0 PWMH_3, QSPI QSCK_, PWM1 PWMH_1, SUPC WKUP_8, PIOA P_14]
+- J6 : PA15,  of Type IO, alternates : [PIOA P_15, PWM0 PWML_3, I2SC0 WS_, TC0 TIOA_1]
+- J5 : PA16,  of Type IO, alternates : [PIOA P_16, I2SC0 DI_0, PWM0 PWML_2, TC0 TIOB_1]
+- G1 : PA17,  of Type IO, alternates : [PMC PCK_1, QSPI QIO_2, PIOA P_17, AFEC0 AD_6, PWM0 PWMH_3]
+- G2 : PA18,  of Type IO, alternates : [PMC PCK_2, PIOA P_18, AFEC0 AD_7, PWM1 PWMEXTRG_1]
+- F1 : PA19,  of Type IO, alternates : [PIOA P_19, AFEC0 AD_8, PWM0 PWML_0, SUPC WKUP_9]
+- F2 : PA20,  of Type IO, alternates : [SUPC WKUP_10, AFEC0 AD_9, PIOA P_20, PWM0 PWML_1]
+- J1 : PA21,  of Type IO, alternates : [AFEC0 AD_1, PIOA PIODCEN_2, PMC PCK_1, USART1 RXD_1, PIOA P_21, PWM1 PWMFI_0]
+- J3 : PA22,  of Type IO, alternates : [PWM0 PWMEXTRG_1, PIOA PIODCCLK_, PIOA P_22, SSC RK_]
+- K5 : PA23,  of Type IO, alternates : [USART1 SCK_1, PWM1 PWML_2, PIOA P_23, PWM0 PWMH_0]
+- K7 : PA24,  of Type IO, alternates : [USART1 RTS_1, ISI PCK_, PIOA P_24, PWM0 PWMH_1]
+- H7 : PA25,  of Type IO, alternates : [USART1 CTS_1, HSMCI MCCK_, PIOA P_25, PWM0 PWMH_2]
+- K8 : PA26,  of Type IO, alternates : [HSMCI MCDA_2, PIOA P_26, USART1 DCD_1, TC0 TIOA_2, PWM1 PWMFI_1]
+- H8 : PA27,  of Type IO, alternates : [HSMCI MCDA_3, PIOA P_27, ISI D_7, USART1 DTR_1, TC0 TIOB_2]
+- A9 : PA28,  of Type IO, alternates : [PIOA P_28, HSMCI MCCDA_, TC0 TCLK_1, USART1 DSR_1, PWM1 PWMFI_2]
+- C7 : PA30,  of Type IO, alternates : [HSMCI MCDA_0, SUPC WKUP_11, I2SC0 DO_0, PWM1 PWMEXTRG_0, PIOA P_30, PWM0 PWML_2]
+- A7 : PA31,  of Type IO, alternates : [PMC PCK_2, HSMCI MCDA_1, PIOA P_31, SPI0 NPCS_1, PWM1 PWMH_2]
+- E1 : PB0,  of Type IO, alternates : [USART0 RXD_0, RTC RTCOUT_0, SSC TF_, AFEC0 AD_10, PWM0 PWMH_0, PIOB P_32]
+- E2 : PB1,  of Type IO, alternates : [RTC RTCOUT_1, USART0 TXD_0, AFEC1 AD_0, SSC TK_, PIOB P_33, PWM0 PWMH_1]
+- H1 : PB2,  of Type IO, alternates : [SPI0 NPCS_0, AFEC0 AD_5, PIOB P_34, USART0 CTS_0]
+- H2 : PB3,  of Type IO, alternates : [AFEC0 AD_2, PMC PCK_2, SUPC WKUP_12, PIOB P_35, USART0 RTS_0, ISI D_2]
+- B9 : PB4,  of Type IO, alternates : [ICE TDI_, USART1 TXD_1, TWIHS1 TWD_1, PIOB P_36, PWM0 PWMH_2]
+- C8 : PB5,  of Type IO, alternates : [SUPC WKUP_13, TWIHS1 TWCK_1, SSC TD_, PWM0 PWML_0, PIOB P_37, ICE TDO_, ICE TRACESWO_]
+- G8 : PB6,  of Type IO, alternates : [ICE SWDIO_, PIOB P_38, ICE TMS_]
+- E9 : PB7,  of Type IO, alternates : [PIOB P_39, ICE TCK_, ICE SWDCLK_]
+- A2 : PB8,  of Type IO, alternates : [PIOB P_40, PMC XOUT_]
+- A1 : PB9,  of Type IO, alternates : [PMC XIN_, PIOB P_41]
+- F8 : PB12,  of Type IO, alternates : [PWM0 PWML_1, PIOB P_44, EFC ERASE_, PMC PCK_0]
+- B2 : PB13,  of Type IO, alternates : [PIOB P_45, USART0 SCK_0, PWM0 PWML_2, DACC DAC_0, PMC PCK_0]
+- B1 : PD0,  of Type IO, alternates : [USART0 DCD_0, PIOD P_96, PWM1 PWML_0, DACC DAC_1]
+- D3 : PD1,  of Type IO, alternates : [PIOD P_97, PWM1 PWMH_0, USART0 DTR_0]
+- E3 : PD2,  of Type IO, alternates : [PIOD P_98, PWM1 PWML_1, USART0 DSR_0]
+- B5 : PD3,  of Type IO, alternates : [USART0 RI_0, PIOD P_99, UART4 UTXD_4, PWM1 PWMH_1]
+- A5 : PD4,  of Type IO, alternates : [USART2 DCD_2, PIOD P_100, PWM1 PWML_2, TPIU TRACED_0]
+- D5 : PD5,  of Type IO, alternates : [PIOD P_101, USART2 DTR_2, PWM1 PWMH_2, TPIU TRACED_1]
+- B6 : PD6,  of Type IO, alternates : [PWM1 PWML_3, PIOD P_102, TPIU TRACED_2, USART2 DSR_2]
+- A8 : PD7,  of Type IO, alternates : [PIOD P_103, USART2 RI_2, TPIU TRACED_3, PWM1 PWMH_3]
+- B7 : PD8,  of Type IO, alternates : [PWM0 PWMFI_1, TPIU TRACECLK_, PIOD P_104]
+- B8 : PD9,  of Type IO, alternates : [AFEC1 ADTRG_, PWM0 PWMFI_2, PIOD P_105]
+- C9 : PD10,  of Type IO, alternates : [SSC TD_, PWM0 PWML_0, PIOD P_106]
+- D9 : PD11,  of Type IO, alternates : [ISI D_5, PWM0 PWMH_0, PIOD P_107]
+- E10 : PD12,  of Type IO, alternates : [PIOD P_108, ISI D_6, SPI0 NPCS_2]
+- E8 : PD13,  of Type IO, alternates : [PIOD P_109]
+- F10 : PD14,  of Type IO, alternates : [PIOD P_110]
+- B10 : PD15,  of Type IO, alternates : [PIOD P_111, USART2 RXD_2]
+- G9 : PD16,  of Type IO, alternates : [USART2 TXD_2, PIOD P_112]
+- J10 : PD17,  of Type IO, alternates : [USART2 SCK_2, PIOD P_113]
+- K6 : PD18,  of Type IO, alternates : [USART2 RTS_2, PIOD P_114, UART4 URXD_4]
+- K4 : PD19,  of Type IO, alternates : [USART2 CTS_2, UART4 UTXD_4, PIOD P_115]
+- K3 : PD20,  of Type IO, alternates : [SPI0 MISO_, PIOD P_116, PWM0 PWMH_0]
+- H5 : PD21,  of Type IO, alternates : [ISI D_1, SPI0 MOSI_, TC3 TIOA_11, PWM0 PWMH_1, PIOD P_117]
+- J4 : PD22,  of Type IO, alternates : [ISI D_0, SPI0 SPCK_, TC3 TIOB_11, PIOD P_118, PWM0 PWMH_2]
+- G4 : PD24,  of Type IO, alternates : [PIOD P_120, TC3 TCLK_11, PWM0 PWML_0, SSC RF_, ISI HSYNC_]
+- H3 : PD25,  of Type IO, alternates : [ISI VSYNC_, PIOD P_121, PWM0 PWML_1, UART2 URXD_2, SPI0 NPCS_1]
+- G3 : PD26,  of Type IO, alternates : [UART2 UTXD_2, SSC TD_, UART1 UTXD_1, PIOD P_122, PWM0 PWML_2]
+- H4 : PD27,  of Type IO, alternates : [ISI D_8, PWM0 PWML_3, PIOD P_123, TWIHS2 TWD_2, SPI0 NPCS_3]
+- J7 : PD28,  of Type IO, alternates : [ISI D_9, TWIHS2 TWCK_2, PIOD P_124, UART3 URXD_3, SUPC WKUP_5]
+- K1 : PD30,  of Type IO, alternates : [UART3 UTXD_3, ISI D_10, PIOD P_126, AFEC0 AD_0]
+- C1 : PD31,  of Type IO, alternates : [PMC PCK_2, QSPI QIO_3, UART3 UTXD_3, ISI D_11, PIOD P_127]
+- C3 : VDDOUT,  of Type PP
+- C2 : VDDIN,  of Type PP
+- D2 : VREFN,  of Type PS
+- D1 : VREFP,  of Type PS
+- G10 : NRST,  of Type IP
+- F7 : TST,  of Type IO
+- C5 : VDDIO,  of Type PP
+- F3 : VDDIO,  of Type PP
+- G7 : VDDIO,  of Type PP
+- A10 : JTAGSEL,  of Type OP
+- C6 : VDDCORE,  of Type PP
+- D6 : VDDCORE,  of Type PP
+- G6 : VDDCORE,  of Type PP
+- D7 : VDDPLL,  of Type PP
+- E5 : VDDUTMII,  of Type PP
+- A4 : HSDM,  of Type IO
+- B4 : HSDP,  of Type IO
+- E7 : GND,  of Type PS
+- F4 : GND,  of Type PS
+- F5 : GND,  of Type PS
+- F6 : GND,  of Type PS
+- D4 : GNDANA,  of Type PS
+- A6 : GNDUTMI,  of Type PS
+- C4 : GNDPLLUSB,  of Type PS
+- E6 : GNDPLL,  of Type PS
+- B3 : VDDUTMIC,  of Type PP
+- A3 : VBG,  of Type IO
+- E4 : VDDPLLUSB,  of Type PP
 ## ATSAMS70N19B-CN
+
 ### Description : 
+
+- Series : SAMS70
+- Footprint : TFBGA100
+- MP : ATSAMS70N19B-CN
+- Architecture : CORTEX-M7
+- PINOUT : TFBGA100
+- Reference : U
+- Documentation : https://www.microchip.com/en-us/search?q=ATSAMS70N19B-CN
+- Value : ATSAMS70N19B-CN
+- Family : SAMS
+- MF : Microchip
+- Name : ATSAMS70N19B
 
 ### Package : 
 
-- D8 : PA0
-- C10 : PA1
-- D10 : PA2
-- F9 : PA3
-- H10 : PA4
-- H9 : PA5
-- J2 : PA7
-- K2 : PA8
-- J9 : PA9
-- K9 : PA10
-- J8 : PA11
-- K10 : PA12
-- G5 : PA13
-- H6 : PA14
-- J6 : PA15
-- J5 : PA16
-- G1 : PA17
-- G2 : PA18
-- F1 : PA19
-- F2 : PA20
-- J1 : PA21
-- J3 : PA22
-- K5 : PA23
-- K7 : PA24
-- H7 : PA25
-- K8 : PA26
-- H8 : PA27
-- A9 : PA28
-- C7 : PA30
-- A7 : PA31
-- E1 : PB0
-- E2 : PB1
-- H1 : PB2
-- H2 : PB3
-- B9 : PB4
-- C8 : PB5
-- G8 : PB6
-- E9 : PB7
-- A2 : PB8
-- A1 : PB9
-- F8 : PB12
-- B2 : PB13
-- C1 : PD0
-- D2 : PD1
-- E3 : PD2
-- B5 : PD3
-- A5 : PD4
-- D5 : PD5
-- B6 : PD6
-- A6 : PD7
-- B7 : PD8
-- B8 : PD9
-- C9 : PD10
-- D9 : PD11
-- E10 : PD12
-- E8 : PD13
-- F10 : PD14
-- B10 : PD15
-- G9 : PD16
-- J10 : PD17
-- K6 : PD18
-- K4 : PD19
-- K3 : PD20
-- H5 : PD21
-- J4 : PD22
-- G4 : PD24
-- H3 : PD25
-- G3 : PD26
-- H4 : PD27
-- J7 : PD28
-- K1 : PD30
-- B1 : PD31
-- C3 : VDDOUT
-- C2 : VDDIN
-- D3 : VREFN
-- D1 : VREFP
-- G10 : NRST
-- F7 : TST
-- C5 : VDDIO
-- F3 : VDDIO
-- G7 : VDDIO
-- A10 : JTAGSEL
-- C6 : VDDCORE
-- D6 : VDDCORE
-- G6 : VDDCORE
-- D7 : VDDPLL
-- E5 : VDDUTMII
-- A4 : HSDM
-- B4 : HSDP
-- E7 : GND
-- F4 : GND
-- F5 : GND
-- F6 : GND
-- D4 : GNDANA
-- A8 : GNDUTMI
-- C4 : GNDPLLUSB
-- E4 : GNDPLL
-- B3 : VDDUTMIC
-- A3 : VBG
-- E6 : VDDPLLUSB
+Pin count : 100
+- D8 : PA0,  of Type IO, alternates : [I2SC0 MCK_, SUPC WKUP_0, TC0 TIOA_0, PIOA P_0, PWM0 PWMH_0]
+- C10 : PA1,  of Type IO, alternates : [I2SC0 CK_, SUPC WKUP_1, PWM0 PWML_0, PIOA P_1, TC0 TIOB_0]
+- D10 : PA2,  of Type IO, alternates : [SUPC WKUP_2, PIOA P_2, PWM0 PWMH_1, DACC DATRG_]
+- F9 : PA3,  of Type IO, alternates : [PMC PCK_2, USART1 LONCOL_1, TWIHS0 TWD_0, PIOA PIODC_0, PIOA P_3]
+- H10 : PA4,  of Type IO, alternates : [SUPC WKUP_3, TWIHS0 TWCK_0, TC0 TCLK_0, PIOA PIODC_1, PIOA P_4, UART1 UTXD_1]
+- H9 : PA5,  of Type IO, alternates : [SUPC WKUP_4, PIOA PIODC_2, ISI D_4, PIOA P_5, UART1 URXD_1, PWM1 PWML_3]
+- J2 : PA7,  of Type IO, alternates : [PIOA P_7, PWM0 PWMH_3, PMC XIN32_]
+- K2 : PA8,  of Type IO, alternates : [PIOA P_8, AFEC0 ADTRG_, PMC XOUT32_, PWM1 PWMH_3]
+- J9 : PA9,  of Type IO, alternates : [PWM0 PWMFI_0, PIOA P_9, PIOA PIODC_3, UART0 URXD_0, ISI D_3, SUPC WKUP_6]
+- K9 : PA10,  of Type IO, alternates : [PIOA PIODC_4, UART0 UTXD_0, SSC RD_, PWM0 PWMEXTRG_0, PIOA P_10]
+- J8 : PA11,  of Type IO, alternates : [PIOA PIODC_5, QSPI QCS_, PWM1 PWML_0, PIOA P_11, PWM0 PWMH_0, SUPC WKUP_7]
+- K10 : PA12,  of Type IO, alternates : [PIOA PIODC_6, QSPI QIO_1, PIOA P_12, PWM1 PWMH_0, PWM0 PWMH_1]
+- G5 : PA13,  of Type IO, alternates : [QSPI QIO_0, PWM1 PWML_1, PIOA P_13, PIOA PIODC_7, PWM0 PWMH_2]
+- H6 : PA14,  of Type IO, alternates : [PIOA PIODCEN_1, PWM0 PWMH_3, QSPI QSCK_, PWM1 PWMH_1, SUPC WKUP_8, PIOA P_14]
+- J6 : PA15,  of Type IO, alternates : [PIOA P_15, PWM0 PWML_3, I2SC0 WS_, TC0 TIOA_1]
+- J5 : PA16,  of Type IO, alternates : [PIOA P_16, I2SC0 DI_0, PWM0 PWML_2, TC0 TIOB_1]
+- G1 : PA17,  of Type IO, alternates : [PMC PCK_1, QSPI QIO_2, PIOA P_17, AFEC0 AD_6, PWM0 PWMH_3]
+- G2 : PA18,  of Type IO, alternates : [PMC PCK_2, PIOA P_18, AFEC0 AD_7, PWM1 PWMEXTRG_1]
+- F1 : PA19,  of Type IO, alternates : [PIOA P_19, AFEC0 AD_8, PWM0 PWML_0, SUPC WKUP_9]
+- F2 : PA20,  of Type IO, alternates : [SUPC WKUP_10, AFEC0 AD_9, PIOA P_20, PWM0 PWML_1]
+- J1 : PA21,  of Type IO, alternates : [AFEC0 AD_1, PIOA PIODCEN_2, PMC PCK_1, USART1 RXD_1, PIOA P_21, PWM1 PWMFI_0]
+- J3 : PA22,  of Type IO, alternates : [PWM0 PWMEXTRG_1, PIOA PIODCCLK_, PIOA P_22, SSC RK_]
+- K5 : PA23,  of Type IO, alternates : [USART1 SCK_1, PWM1 PWML_2, PIOA P_23, PWM0 PWMH_0]
+- K7 : PA24,  of Type IO, alternates : [USART1 RTS_1, ISI PCK_, PIOA P_24, PWM0 PWMH_1]
+- H7 : PA25,  of Type IO, alternates : [USART1 CTS_1, HSMCI MCCK_, PIOA P_25, PWM0 PWMH_2]
+- K8 : PA26,  of Type IO, alternates : [HSMCI MCDA_2, PIOA P_26, USART1 DCD_1, TC0 TIOA_2, PWM1 PWMFI_1]
+- H8 : PA27,  of Type IO, alternates : [HSMCI MCDA_3, PIOA P_27, ISI D_7, USART1 DTR_1, TC0 TIOB_2]
+- A9 : PA28,  of Type IO, alternates : [PIOA P_28, HSMCI MCCDA_, TC0 TCLK_1, USART1 DSR_1, PWM1 PWMFI_2]
+- C7 : PA30,  of Type IO, alternates : [HSMCI MCDA_0, SUPC WKUP_11, I2SC0 DO_0, PWM1 PWMEXTRG_0, PIOA P_30, PWM0 PWML_2]
+- A7 : PA31,  of Type IO, alternates : [PMC PCK_2, HSMCI MCDA_1, PIOA P_31, SPI0 NPCS_1, PWM1 PWMH_2]
+- E1 : PB0,  of Type IO, alternates : [USART0 RXD_0, RTC RTCOUT_0, SSC TF_, AFEC0 AD_10, PWM0 PWMH_0, PIOB P_32]
+- E2 : PB1,  of Type IO, alternates : [RTC RTCOUT_1, USART0 TXD_0, AFEC1 AD_0, SSC TK_, PIOB P_33, PWM0 PWMH_1]
+- H1 : PB2,  of Type IO, alternates : [SPI0 NPCS_0, AFEC0 AD_5, PIOB P_34, USART0 CTS_0]
+- H2 : PB3,  of Type IO, alternates : [AFEC0 AD_2, PMC PCK_2, SUPC WKUP_12, PIOB P_35, USART0 RTS_0, ISI D_2]
+- B9 : PB4,  of Type IO, alternates : [ICE TDI_, USART1 TXD_1, TWIHS1 TWD_1, PIOB P_36, PWM0 PWMH_2]
+- C8 : PB5,  of Type IO, alternates : [SUPC WKUP_13, TWIHS1 TWCK_1, SSC TD_, PWM0 PWML_0, PIOB P_37, ICE TDO_, ICE TRACESWO_]
+- G8 : PB6,  of Type IO, alternates : [ICE SWDIO_, PIOB P_38, ICE TMS_]
+- E9 : PB7,  of Type IO, alternates : [PIOB P_39, ICE TCK_, ICE SWDCLK_]
+- A2 : PB8,  of Type IO, alternates : [PIOB P_40, PMC XOUT_]
+- A1 : PB9,  of Type IO, alternates : [PMC XIN_, PIOB P_41]
+- F8 : PB12,  of Type IO, alternates : [PWM0 PWML_1, PIOB P_44, EFC ERASE_, PMC PCK_0]
+- B2 : PB13,  of Type IO, alternates : [PIOB P_45, USART0 SCK_0, PWM0 PWML_2, DACC DAC_0, PMC PCK_0]
+- C1 : PD0,  of Type IO, alternates : [USART0 DCD_0, PIOD P_96, PWM1 PWML_0, DACC DAC_1]
+- D2 : PD1,  of Type IO, alternates : [PIOD P_97, PWM1 PWMH_0, USART0 DTR_0]
+- E3 : PD2,  of Type IO, alternates : [PIOD P_98, PWM1 PWML_1, USART0 DSR_0]
+- B5 : PD3,  of Type IO, alternates : [USART0 RI_0, PIOD P_99, UART4 UTXD_4, PWM1 PWMH_1]
+- A5 : PD4,  of Type IO, alternates : [USART2 DCD_2, PIOD P_100, PWM1 PWML_2, TPIU TRACED_0]
+- D5 : PD5,  of Type IO, alternates : [PIOD P_101, USART2 DTR_2, PWM1 PWMH_2, TPIU TRACED_1]
+- B6 : PD6,  of Type IO, alternates : [PWM1 PWML_3, PIOD P_102, TPIU TRACED_2, USART2 DSR_2]
+- A6 : PD7,  of Type IO, alternates : [PIOD P_103, USART2 RI_2, TPIU TRACED_3, PWM1 PWMH_3]
+- B7 : PD8,  of Type IO, alternates : [PWM0 PWMFI_1, TPIU TRACECLK_, PIOD P_104]
+- B8 : PD9,  of Type IO, alternates : [AFEC1 ADTRG_, PWM0 PWMFI_2, PIOD P_105]
+- C9 : PD10,  of Type IO, alternates : [SSC TD_, PWM0 PWML_0, PIOD P_106]
+- D9 : PD11,  of Type IO, alternates : [ISI D_5, PWM0 PWMH_0, PIOD P_107]
+- E10 : PD12,  of Type IO, alternates : [PIOD P_108, ISI D_6, SPI0 NPCS_2]
+- E8 : PD13,  of Type IO, alternates : [PIOD P_109]
+- F10 : PD14,  of Type IO, alternates : [PIOD P_110]
+- B10 : PD15,  of Type IO, alternates : [PIOD P_111, USART2 RXD_2]
+- G9 : PD16,  of Type IO, alternates : [USART2 TXD_2, PIOD P_112]
+- J10 : PD17,  of Type IO, alternates : [USART2 SCK_2, PIOD P_113]
+- K6 : PD18,  of Type IO, alternates : [USART2 RTS_2, PIOD P_114, UART4 URXD_4]
+- K4 : PD19,  of Type IO, alternates : [USART2 CTS_2, UART4 UTXD_4, PIOD P_115]
+- K3 : PD20,  of Type IO, alternates : [SPI0 MISO_, PIOD P_116, PWM0 PWMH_0]
+- H5 : PD21,  of Type IO, alternates : [ISI D_1, SPI0 MOSI_, TC3 TIOA_11, PWM0 PWMH_1, PIOD P_117]
+- J4 : PD22,  of Type IO, alternates : [ISI D_0, SPI0 SPCK_, TC3 TIOB_11, PIOD P_118, PWM0 PWMH_2]
+- G4 : PD24,  of Type IO, alternates : [PIOD P_120, TC3 TCLK_11, PWM0 PWML_0, SSC RF_, ISI HSYNC_]
+- H3 : PD25,  of Type IO, alternates : [ISI VSYNC_, PIOD P_121, PWM0 PWML_1, UART2 URXD_2, SPI0 NPCS_1]
+- G3 : PD26,  of Type IO, alternates : [UART2 UTXD_2, SSC TD_, UART1 UTXD_1, PIOD P_122, PWM0 PWML_2]
+- H4 : PD27,  of Type IO, alternates : [ISI D_8, PWM0 PWML_3, PIOD P_123, TWIHS2 TWD_2, SPI0 NPCS_3]
+- J7 : PD28,  of Type IO, alternates : [ISI D_9, TWIHS2 TWCK_2, PIOD P_124, UART3 URXD_3, SUPC WKUP_5]
+- K1 : PD30,  of Type IO, alternates : [UART3 UTXD_3, ISI D_10, PIOD P_126, AFEC0 AD_0]
+- B1 : PD31,  of Type IO, alternates : [PMC PCK_2, QSPI QIO_3, UART3 UTXD_3, ISI D_11, PIOD P_127]
+- C3 : VDDOUT,  of Type PP
+- C2 : VDDIN,  of Type PP
+- D3 : VREFN,  of Type PS
+- D1 : VREFP,  of Type PS
+- G10 : NRST,  of Type IP
+- F7 : TST,  of Type IO
+- C5 : VDDIO,  of Type PP
+- F3 : VDDIO,  of Type PP
+- G7 : VDDIO,  of Type PP
+- A10 : JTAGSEL,  of Type OP
+- C6 : VDDCORE,  of Type PP
+- D6 : VDDCORE,  of Type PP
+- G6 : VDDCORE,  of Type PP
+- D7 : VDDPLL,  of Type PP
+- E5 : VDDUTMII,  of Type PP
+- A4 : HSDM,  of Type IO
+- B4 : HSDP,  of Type IO
+- E7 : GND,  of Type PS
+- F4 : GND,  of Type PS
+- F5 : GND,  of Type PS
+- F6 : GND,  of Type PS
+- D4 : GNDANA,  of Type PS
+- A8 : GNDUTMI,  of Type PS
+- C4 : GNDPLLUSB,  of Type PS
+- E4 : GNDPLL,  of Type PS
+- B3 : VDDUTMIC,  of Type PP
+- A3 : VBG,  of Type IO
+- E6 : VDDPLLUSB,  of Type PP
 ## ATSAMS70N20B-AN
+
 ### Description : 
+
+- Series : SAMS70
+- Footprint : LQFP100
+- MP : ATSAMS70N20B-AN
+- Architecture : CORTEX-M7
+- PINOUT : LQFP100
+- Reference : U
+- Documentation : https://www.microchip.com/en-us/search?q=ATSAMS70N20B-AN
+- Value : ATSAMS70N20B-AN
+- Family : SAMS
+- MF : Microchip
+- Name : ATSAMS70N20B
 
 ### Package : 
 
-- 72 : PA0
-- 70 : PA1
-- 66 : PA2
-- 64 : PA3
-- 55 : PA4
-- 52 : PA5
-- 24 : PA7
-- 25 : PA8
-- 54 : PA9
-- 46 : PA10
-- 44 : PA11
-- 48 : PA12
-- 27 : PA13
-- 34 : PA14
-- 33 : PA15
-- 30 : PA16
-- 16 : PA17
-- 15 : PA18
-- 14 : PA19
-- 13 : PA20
-- 21 : PA21
-- 26 : PA22
-- 31 : PA23
-- 38 : PA24
-- 40 : PA25
-- 42 : PA26
-- 50 : PA27
-- 79 : PA28
-- 82 : PA30
-- 83 : PA31
-- 12 : PB0
-- 11 : PB1
-- 17 : PB2
-- 20 : PB3
-- 74 : PB4
-- 77 : PB5
-- 57 : PB6
-- 63 : PB7
-- 98 : PB8
-- 99 : PB9
-- 61 : PB12
-- 100 : PB13
-- 1 : PD0
-- 92 : PD1
-- 91 : PD2
-- 89 : PD3
-- 88 : PD4
-- 87 : PD5
-- 85 : PD6
-- 84 : PD7
-- 80 : PD8
-- 78 : PD9
-- 71 : PD10
-- 69 : PD11
-- 65 : PD12
-- 62 : PD13
-- 59 : PD14
-- 75 : PD15
-- 56 : PD16
-- 53 : PD17
-- 49 : PD18
-- 47 : PD19
-- 45 : PD20
-- 43 : PD21
-- 41 : PD22
-- 37 : PD24
-- 35 : PD25
-- 36 : PD26
-- 32 : PD27
-- 51 : PD28
-- 23 : PD30
-- 2 : PD31
-- 4 : VDDOUT
-- 5 : VDDIN
-- 6 : VREFN
-- 9 : VREFP
-- 58 : NRST
-- 60 : TST
-- 19 : VDDIO
-- 28 : VDDIO
-- 68 : VDDIO
-- 81 : VDDIO
-- 73 : JTAGSEL
-- 18 : VDDCORE
-- 22 : VDDCORE
-- 39 : VDDCORE
-- 76 : VDDCORE
-- 86 : VDDPLL
-- 93 : VDDUTMII
-- 94 : HSDM
-- 95 : HSDP
-- 3 : GND
-- 7 : GND
-- 8 : GND
-- 10 : GND
-- 29 : GND
-- 67 : GND
-- 96 : VDDUTMIC
-- 97 : VBG
-- 90 : VDDPLLUSB
+Pin count : 100
+- 72 : PA0,  of Type IO, alternates : [I2SC0 MCK_, SUPC WKUP_0, TC0 TIOA_0, PIOA P_0, PWM0 PWMH_0]
+- 70 : PA1,  of Type IO, alternates : [I2SC0 CK_, SUPC WKUP_1, PWM0 PWML_0, PIOA P_1, TC0 TIOB_0]
+- 66 : PA2,  of Type IO, alternates : [SUPC WKUP_2, PIOA P_2, PWM0 PWMH_1, DACC DATRG_]
+- 64 : PA3,  of Type IO, alternates : [PMC PCK_2, USART1 LONCOL_1, TWIHS0 TWD_0, PIOA PIODC_0, PIOA P_3]
+- 55 : PA4,  of Type IO, alternates : [SUPC WKUP_3, TWIHS0 TWCK_0, TC0 TCLK_0, PIOA PIODC_1, PIOA P_4, UART1 UTXD_1]
+- 52 : PA5,  of Type IO, alternates : [SUPC WKUP_4, PIOA PIODC_2, ISI D_4, PIOA P_5, UART1 URXD_1, PWM1 PWML_3]
+- 24 : PA7,  of Type IO, alternates : [PIOA P_7, PWM0 PWMH_3, PMC XIN32_]
+- 25 : PA8,  of Type IO, alternates : [PIOA P_8, AFEC0 ADTRG_, PMC XOUT32_, PWM1 PWMH_3]
+- 54 : PA9,  of Type IO, alternates : [PWM0 PWMFI_0, PIOA P_9, PIOA PIODC_3, UART0 URXD_0, ISI D_3, SUPC WKUP_6]
+- 46 : PA10,  of Type IO, alternates : [PIOA PIODC_4, UART0 UTXD_0, SSC RD_, PWM0 PWMEXTRG_0, PIOA P_10]
+- 44 : PA11,  of Type IO, alternates : [PIOA PIODC_5, QSPI QCS_, PWM1 PWML_0, PIOA P_11, PWM0 PWMH_0, SUPC WKUP_7]
+- 48 : PA12,  of Type IO, alternates : [PIOA PIODC_6, QSPI QIO_1, PIOA P_12, PWM1 PWMH_0, PWM0 PWMH_1]
+- 27 : PA13,  of Type IO, alternates : [QSPI QIO_0, PWM1 PWML_1, PIOA P_13, PIOA PIODC_7, PWM0 PWMH_2]
+- 34 : PA14,  of Type IO, alternates : [PIOA PIODCEN_1, PWM0 PWMH_3, QSPI QSCK_, PWM1 PWMH_1, SUPC WKUP_8, PIOA P_14]
+- 33 : PA15,  of Type IO, alternates : [PIOA P_15, PWM0 PWML_3, I2SC0 WS_, TC0 TIOA_1]
+- 30 : PA16,  of Type IO, alternates : [PIOA P_16, I2SC0 DI_0, PWM0 PWML_2, TC0 TIOB_1]
+- 16 : PA17,  of Type IO, alternates : [PMC PCK_1, QSPI QIO_2, PIOA P_17, AFEC0 AD_6, PWM0 PWMH_3]
+- 15 : PA18,  of Type IO, alternates : [PMC PCK_2, PIOA P_18, AFEC0 AD_7, PWM1 PWMEXTRG_1]
+- 14 : PA19,  of Type IO, alternates : [PIOA P_19, AFEC0 AD_8, PWM0 PWML_0, SUPC WKUP_9]
+- 13 : PA20,  of Type IO, alternates : [SUPC WKUP_10, AFEC0 AD_9, PIOA P_20, PWM0 PWML_1]
+- 21 : PA21,  of Type IO, alternates : [AFEC0 AD_1, PIOA PIODCEN_2, PMC PCK_1, USART1 RXD_1, PIOA P_21, PWM1 PWMFI_0]
+- 26 : PA22,  of Type IO, alternates : [PWM0 PWMEXTRG_1, PIOA PIODCCLK_, PIOA P_22, SSC RK_]
+- 31 : PA23,  of Type IO, alternates : [USART1 SCK_1, PWM1 PWML_2, PIOA P_23, PWM0 PWMH_0]
+- 38 : PA24,  of Type IO, alternates : [USART1 RTS_1, ISI PCK_, PIOA P_24, PWM0 PWMH_1]
+- 40 : PA25,  of Type IO, alternates : [USART1 CTS_1, HSMCI MCCK_, PIOA P_25, PWM0 PWMH_2]
+- 42 : PA26,  of Type IO, alternates : [HSMCI MCDA_2, PIOA P_26, USART1 DCD_1, TC0 TIOA_2, PWM1 PWMFI_1]
+- 50 : PA27,  of Type IO, alternates : [HSMCI MCDA_3, PIOA P_27, ISI D_7, USART1 DTR_1, TC0 TIOB_2]
+- 79 : PA28,  of Type IO, alternates : [PIOA P_28, HSMCI MCCDA_, TC0 TCLK_1, USART1 DSR_1, PWM1 PWMFI_2]
+- 82 : PA30,  of Type IO, alternates : [HSMCI MCDA_0, SUPC WKUP_11, I2SC0 DO_0, PWM1 PWMEXTRG_0, PIOA P_30, PWM0 PWML_2]
+- 83 : PA31,  of Type IO, alternates : [PMC PCK_2, HSMCI MCDA_1, PIOA P_31, SPI0 NPCS_1, PWM1 PWMH_2]
+- 12 : PB0,  of Type IO, alternates : [USART0 RXD_0, RTC RTCOUT_0, SSC TF_, AFEC0 AD_10, PWM0 PWMH_0, PIOB P_32]
+- 11 : PB1,  of Type IO, alternates : [RTC RTCOUT_1, USART0 TXD_0, AFEC1 AD_0, SSC TK_, PIOB P_33, PWM0 PWMH_1]
+- 17 : PB2,  of Type IO, alternates : [SPI0 NPCS_0, AFEC0 AD_5, PIOB P_34, USART0 CTS_0]
+- 20 : PB3,  of Type IO, alternates : [AFEC0 AD_2, PMC PCK_2, SUPC WKUP_12, PIOB P_35, USART0 RTS_0, ISI D_2]
+- 74 : PB4,  of Type IO, alternates : [ICE TDI_, USART1 TXD_1, TWIHS1 TWD_1, PIOB P_36, PWM0 PWMH_2]
+- 77 : PB5,  of Type IO, alternates : [SUPC WKUP_13, TWIHS1 TWCK_1, SSC TD_, PWM0 PWML_0, PIOB P_37, ICE TDO_, ICE TRACESWO_]
+- 57 : PB6,  of Type IO, alternates : [ICE SWDIO_, PIOB P_38, ICE TMS_]
+- 63 : PB7,  of Type IO, alternates : [PIOB P_39, ICE TCK_, ICE SWDCLK_]
+- 98 : PB8,  of Type IO, alternates : [PIOB P_40, PMC XOUT_]
+- 99 : PB9,  of Type IO, alternates : [PMC XIN_, PIOB P_41]
+- 61 : PB12,  of Type IO, alternates : [PWM0 PWML_1, PIOB P_44, EFC ERASE_, PMC PCK_0]
+- 100 : PB13,  of Type IO, alternates : [PIOB P_45, USART0 SCK_0, PWM0 PWML_2, DACC DAC_0, PMC PCK_0]
+- 1 : PD0,  of Type IO, alternates : [USART0 DCD_0, PIOD P_96, PWM1 PWML_0, DACC DAC_1]
+- 92 : PD1,  of Type IO, alternates : [PIOD P_97, PWM1 PWMH_0, USART0 DTR_0]
+- 91 : PD2,  of Type IO, alternates : [PIOD P_98, PWM1 PWML_1, USART0 DSR_0]
+- 89 : PD3,  of Type IO, alternates : [USART0 RI_0, PIOD P_99, UART4 UTXD_4, PWM1 PWMH_1]
+- 88 : PD4,  of Type IO, alternates : [USART2 DCD_2, PIOD P_100, PWM1 PWML_2, TPIU TRACED_0]
+- 87 : PD5,  of Type IO, alternates : [PIOD P_101, USART2 DTR_2, PWM1 PWMH_2, TPIU TRACED_1]
+- 85 : PD6,  of Type IO, alternates : [PWM1 PWML_3, PIOD P_102, TPIU TRACED_2, USART2 DSR_2]
+- 84 : PD7,  of Type IO, alternates : [PIOD P_103, USART2 RI_2, TPIU TRACED_3, PWM1 PWMH_3]
+- 80 : PD8,  of Type IO, alternates : [PWM0 PWMFI_1, TPIU TRACECLK_, PIOD P_104]
+- 78 : PD9,  of Type IO, alternates : [AFEC1 ADTRG_, PWM0 PWMFI_2, PIOD P_105]
+- 71 : PD10,  of Type IO, alternates : [SSC TD_, PWM0 PWML_0, PIOD P_106]
+- 69 : PD11,  of Type IO, alternates : [ISI D_5, PWM0 PWMH_0, PIOD P_107]
+- 65 : PD12,  of Type IO, alternates : [PIOD P_108, ISI D_6, SPI0 NPCS_2]
+- 62 : PD13,  of Type IO, alternates : [PIOD P_109]
+- 59 : PD14,  of Type IO, alternates : [PIOD P_110]
+- 75 : PD15,  of Type IO, alternates : [PIOD P_111, USART2 RXD_2]
+- 56 : PD16,  of Type IO, alternates : [USART2 TXD_2, PIOD P_112]
+- 53 : PD17,  of Type IO, alternates : [USART2 SCK_2, PIOD P_113]
+- 49 : PD18,  of Type IO, alternates : [USART2 RTS_2, PIOD P_114, UART4 URXD_4]
+- 47 : PD19,  of Type IO, alternates : [USART2 CTS_2, UART4 UTXD_4, PIOD P_115]
+- 45 : PD20,  of Type IO, alternates : [SPI0 MISO_, PIOD P_116, PWM0 PWMH_0]
+- 43 : PD21,  of Type IO, alternates : [ISI D_1, SPI0 MOSI_, TC3 TIOA_11, PWM0 PWMH_1, PIOD P_117]
+- 41 : PD22,  of Type IO, alternates : [ISI D_0, SPI0 SPCK_, TC3 TIOB_11, PIOD P_118, PWM0 PWMH_2]
+- 37 : PD24,  of Type IO, alternates : [PIOD P_120, TC3 TCLK_11, PWM0 PWML_0, SSC RF_, ISI HSYNC_]
+- 35 : PD25,  of Type IO, alternates : [ISI VSYNC_, PIOD P_121, PWM0 PWML_1, UART2 URXD_2, SPI0 NPCS_1]
+- 36 : PD26,  of Type IO, alternates : [UART2 UTXD_2, SSC TD_, UART1 UTXD_1, PIOD P_122, PWM0 PWML_2]
+- 32 : PD27,  of Type IO, alternates : [ISI D_8, PWM0 PWML_3, PIOD P_123, TWIHS2 TWD_2, SPI0 NPCS_3]
+- 51 : PD28,  of Type IO, alternates : [ISI D_9, TWIHS2 TWCK_2, PIOD P_124, UART3 URXD_3, SUPC WKUP_5]
+- 23 : PD30,  of Type IO, alternates : [UART3 UTXD_3, ISI D_10, PIOD P_126, AFEC0 AD_0]
+- 2 : PD31,  of Type IO, alternates : [PMC PCK_2, QSPI QIO_3, UART3 UTXD_3, ISI D_11, PIOD P_127]
+- 4 : VDDOUT,  of Type PP
+- 5 : VDDIN,  of Type PP
+- 6 : VREFN,  of Type PS
+- 9 : VREFP,  of Type PS
+- 58 : NRST,  of Type IP
+- 60 : TST,  of Type IO
+- 19 : VDDIO,  of Type PP
+- 28 : VDDIO,  of Type PP
+- 68 : VDDIO,  of Type PP
+- 81 : VDDIO,  of Type PP
+- 73 : JTAGSEL,  of Type OP
+- 18 : VDDCORE,  of Type PP
+- 22 : VDDCORE,  of Type PP
+- 39 : VDDCORE,  of Type PP
+- 76 : VDDCORE,  of Type PP
+- 86 : VDDPLL,  of Type PP
+- 93 : VDDUTMII,  of Type PP
+- 94 : HSDM,  of Type IO
+- 95 : HSDP,  of Type IO
+- 3 : GND,  of Type PS
+- 7 : GND,  of Type PS
+- 8 : GND,  of Type PS
+- 10 : GND,  of Type PS
+- 29 : GND,  of Type PS
+- 67 : GND,  of Type PS
+- 96 : VDDUTMIC,  of Type PP
+- 97 : VBG,  of Type IO
+- 90 : VDDPLLUSB,  of Type PP
 ## ATSAMS70N20B-CFN
+
 ### Description : 
+
+- Series : SAMS70
+- Footprint : VFBGA100
+- MP : ATSAMS70N20B-CFN
+- Architecture : CORTEX-M7
+- PINOUT : VFBGA100
+- Reference : U
+- Documentation : https://www.microchip.com/en-us/search?q=ATSAMS70N20B-CFN
+- Value : ATSAMS70N20B-CFN
+- Family : SAMS
+- MF : Microchip
+- Name : ATSAMS70N20B
 
 ### Package : 
 
-- D8 : PA0
-- C10 : PA1
-- D10 : PA2
-- F9 : PA3
-- H10 : PA4
-- H9 : PA5
-- J2 : PA7
-- K2 : PA8
-- J9 : PA9
-- K9 : PA10
-- J8 : PA11
-- K10 : PA12
-- G5 : PA13
-- H6 : PA14
-- J6 : PA15
-- J5 : PA16
-- G1 : PA17
-- G2 : PA18
-- F1 : PA19
-- F2 : PA20
-- J1 : PA21
-- J3 : PA22
-- K5 : PA23
-- K7 : PA24
-- H7 : PA25
-- K8 : PA26
-- H8 : PA27
-- A9 : PA28
-- C7 : PA30
-- A7 : PA31
-- E1 : PB0
-- E2 : PB1
-- H1 : PB2
-- H2 : PB3
-- B9 : PB4
-- C8 : PB5
-- G8 : PB6
-- E9 : PB7
-- A2 : PB8
-- A1 : PB9
-- F8 : PB12
-- B2 : PB13
-- B1 : PD0
-- D3 : PD1
-- E3 : PD2
-- B5 : PD3
-- A5 : PD4
-- D5 : PD5
-- B6 : PD6
-- A8 : PD7
-- B7 : PD8
-- B8 : PD9
-- C9 : PD10
-- D9 : PD11
-- E10 : PD12
-- E8 : PD13
-- F10 : PD14
-- B10 : PD15
-- G9 : PD16
-- J10 : PD17
-- K6 : PD18
-- K4 : PD19
-- K3 : PD20
-- H5 : PD21
-- J4 : PD22
-- G4 : PD24
-- H3 : PD25
-- G3 : PD26
-- H4 : PD27
-- J7 : PD28
-- K1 : PD30
-- C1 : PD31
-- C3 : VDDOUT
-- C2 : VDDIN
-- D2 : VREFN
-- D1 : VREFP
-- G10 : NRST
-- F7 : TST
-- C5 : VDDIO
-- F3 : VDDIO
-- G7 : VDDIO
-- A10 : JTAGSEL
-- C6 : VDDCORE
-- D6 : VDDCORE
-- G6 : VDDCORE
-- D7 : VDDPLL
-- E5 : VDDUTMII
-- A4 : HSDM
-- B4 : HSDP
-- E7 : GND
-- F4 : GND
-- F5 : GND
-- F6 : GND
-- D4 : GNDANA
-- A6 : GNDUTMI
-- C4 : GNDPLLUSB
-- E6 : GNDPLL
-- B3 : VDDUTMIC
-- A3 : VBG
-- E4 : VDDPLLUSB
+Pin count : 100
+- D8 : PA0,  of Type IO, alternates : [I2SC0 MCK_, SUPC WKUP_0, TC0 TIOA_0, PIOA P_0, PWM0 PWMH_0]
+- C10 : PA1,  of Type IO, alternates : [I2SC0 CK_, SUPC WKUP_1, PWM0 PWML_0, PIOA P_1, TC0 TIOB_0]
+- D10 : PA2,  of Type IO, alternates : [SUPC WKUP_2, PIOA P_2, PWM0 PWMH_1, DACC DATRG_]
+- F9 : PA3,  of Type IO, alternates : [PMC PCK_2, USART1 LONCOL_1, TWIHS0 TWD_0, PIOA PIODC_0, PIOA P_3]
+- H10 : PA4,  of Type IO, alternates : [SUPC WKUP_3, TWIHS0 TWCK_0, TC0 TCLK_0, PIOA PIODC_1, PIOA P_4, UART1 UTXD_1]
+- H9 : PA5,  of Type IO, alternates : [SUPC WKUP_4, PIOA PIODC_2, ISI D_4, PIOA P_5, UART1 URXD_1, PWM1 PWML_3]
+- J2 : PA7,  of Type IO, alternates : [PIOA P_7, PWM0 PWMH_3, PMC XIN32_]
+- K2 : PA8,  of Type IO, alternates : [PIOA P_8, AFEC0 ADTRG_, PMC XOUT32_, PWM1 PWMH_3]
+- J9 : PA9,  of Type IO, alternates : [PWM0 PWMFI_0, PIOA P_9, PIOA PIODC_3, UART0 URXD_0, ISI D_3, SUPC WKUP_6]
+- K9 : PA10,  of Type IO, alternates : [PIOA PIODC_4, UART0 UTXD_0, SSC RD_, PWM0 PWMEXTRG_0, PIOA P_10]
+- J8 : PA11,  of Type IO, alternates : [PIOA PIODC_5, QSPI QCS_, PWM1 PWML_0, PIOA P_11, PWM0 PWMH_0, SUPC WKUP_7]
+- K10 : PA12,  of Type IO, alternates : [PIOA PIODC_6, QSPI QIO_1, PIOA P_12, PWM1 PWMH_0, PWM0 PWMH_1]
+- G5 : PA13,  of Type IO, alternates : [QSPI QIO_0, PWM1 PWML_1, PIOA P_13, PIOA PIODC_7, PWM0 PWMH_2]
+- H6 : PA14,  of Type IO, alternates : [PIOA PIODCEN_1, PWM0 PWMH_3, QSPI QSCK_, PWM1 PWMH_1, SUPC WKUP_8, PIOA P_14]
+- J6 : PA15,  of Type IO, alternates : [PIOA P_15, PWM0 PWML_3, I2SC0 WS_, TC0 TIOA_1]
+- J5 : PA16,  of Type IO, alternates : [PIOA P_16, I2SC0 DI_0, PWM0 PWML_2, TC0 TIOB_1]
+- G1 : PA17,  of Type IO, alternates : [PMC PCK_1, QSPI QIO_2, PIOA P_17, AFEC0 AD_6, PWM0 PWMH_3]
+- G2 : PA18,  of Type IO, alternates : [PMC PCK_2, PIOA P_18, AFEC0 AD_7, PWM1 PWMEXTRG_1]
+- F1 : PA19,  of Type IO, alternates : [PIOA P_19, AFEC0 AD_8, PWM0 PWML_0, SUPC WKUP_9]
+- F2 : PA20,  of Type IO, alternates : [SUPC WKUP_10, AFEC0 AD_9, PIOA P_20, PWM0 PWML_1]
+- J1 : PA21,  of Type IO, alternates : [AFEC0 AD_1, PIOA PIODCEN_2, PMC PCK_1, USART1 RXD_1, PIOA P_21, PWM1 PWMFI_0]
+- J3 : PA22,  of Type IO, alternates : [PWM0 PWMEXTRG_1, PIOA PIODCCLK_, PIOA P_22, SSC RK_]
+- K5 : PA23,  of Type IO, alternates : [USART1 SCK_1, PWM1 PWML_2, PIOA P_23, PWM0 PWMH_0]
+- K7 : PA24,  of Type IO, alternates : [USART1 RTS_1, ISI PCK_, PIOA P_24, PWM0 PWMH_1]
+- H7 : PA25,  of Type IO, alternates : [USART1 CTS_1, HSMCI MCCK_, PIOA P_25, PWM0 PWMH_2]
+- K8 : PA26,  of Type IO, alternates : [HSMCI MCDA_2, PIOA P_26, USART1 DCD_1, TC0 TIOA_2, PWM1 PWMFI_1]
+- H8 : PA27,  of Type IO, alternates : [HSMCI MCDA_3, PIOA P_27, ISI D_7, USART1 DTR_1, TC0 TIOB_2]
+- A9 : PA28,  of Type IO, alternates : [PIOA P_28, HSMCI MCCDA_, TC0 TCLK_1, USART1 DSR_1, PWM1 PWMFI_2]
+- C7 : PA30,  of Type IO, alternates : [HSMCI MCDA_0, SUPC WKUP_11, I2SC0 DO_0, PWM1 PWMEXTRG_0, PIOA P_30, PWM0 PWML_2]
+- A7 : PA31,  of Type IO, alternates : [PMC PCK_2, HSMCI MCDA_1, PIOA P_31, SPI0 NPCS_1, PWM1 PWMH_2]
+- E1 : PB0,  of Type IO, alternates : [USART0 RXD_0, RTC RTCOUT_0, SSC TF_, AFEC0 AD_10, PWM0 PWMH_0, PIOB P_32]
+- E2 : PB1,  of Type IO, alternates : [RTC RTCOUT_1, USART0 TXD_0, AFEC1 AD_0, SSC TK_, PIOB P_33, PWM0 PWMH_1]
+- H1 : PB2,  of Type IO, alternates : [SPI0 NPCS_0, AFEC0 AD_5, PIOB P_34, USART0 CTS_0]
+- H2 : PB3,  of Type IO, alternates : [AFEC0 AD_2, PMC PCK_2, SUPC WKUP_12, PIOB P_35, USART0 RTS_0, ISI D_2]
+- B9 : PB4,  of Type IO, alternates : [ICE TDI_, USART1 TXD_1, TWIHS1 TWD_1, PIOB P_36, PWM0 PWMH_2]
+- C8 : PB5,  of Type IO, alternates : [SUPC WKUP_13, TWIHS1 TWCK_1, SSC TD_, PWM0 PWML_0, PIOB P_37, ICE TDO_, ICE TRACESWO_]
+- G8 : PB6,  of Type IO, alternates : [ICE SWDIO_, PIOB P_38, ICE TMS_]
+- E9 : PB7,  of Type IO, alternates : [PIOB P_39, ICE TCK_, ICE SWDCLK_]
+- A2 : PB8,  of Type IO, alternates : [PIOB P_40, PMC XOUT_]
+- A1 : PB9,  of Type IO, alternates : [PMC XIN_, PIOB P_41]
+- F8 : PB12,  of Type IO, alternates : [PWM0 PWML_1, PIOB P_44, EFC ERASE_, PMC PCK_0]
+- B2 : PB13,  of Type IO, alternates : [PIOB P_45, USART0 SCK_0, PWM0 PWML_2, DACC DAC_0, PMC PCK_0]
+- B1 : PD0,  of Type IO, alternates : [USART0 DCD_0, PIOD P_96, PWM1 PWML_0, DACC DAC_1]
+- D3 : PD1,  of Type IO, alternates : [PIOD P_97, PWM1 PWMH_0, USART0 DTR_0]
+- E3 : PD2,  of Type IO, alternates : [PIOD P_98, PWM1 PWML_1, USART0 DSR_0]
+- B5 : PD3,  of Type IO, alternates : [USART0 RI_0, PIOD P_99, UART4 UTXD_4, PWM1 PWMH_1]
+- A5 : PD4,  of Type IO, alternates : [USART2 DCD_2, PIOD P_100, PWM1 PWML_2, TPIU TRACED_0]
+- D5 : PD5,  of Type IO, alternates : [PIOD P_101, USART2 DTR_2, PWM1 PWMH_2, TPIU TRACED_1]
+- B6 : PD6,  of Type IO, alternates : [PWM1 PWML_3, PIOD P_102, TPIU TRACED_2, USART2 DSR_2]
+- A8 : PD7,  of Type IO, alternates : [PIOD P_103, USART2 RI_2, TPIU TRACED_3, PWM1 PWMH_3]
+- B7 : PD8,  of Type IO, alternates : [PWM0 PWMFI_1, TPIU TRACECLK_, PIOD P_104]
+- B8 : PD9,  of Type IO, alternates : [AFEC1 ADTRG_, PWM0 PWMFI_2, PIOD P_105]
+- C9 : PD10,  of Type IO, alternates : [SSC TD_, PWM0 PWML_0, PIOD P_106]
+- D9 : PD11,  of Type IO, alternates : [ISI D_5, PWM0 PWMH_0, PIOD P_107]
+- E10 : PD12,  of Type IO, alternates : [PIOD P_108, ISI D_6, SPI0 NPCS_2]
+- E8 : PD13,  of Type IO, alternates : [PIOD P_109]
+- F10 : PD14,  of Type IO, alternates : [PIOD P_110]
+- B10 : PD15,  of Type IO, alternates : [PIOD P_111, USART2 RXD_2]
+- G9 : PD16,  of Type IO, alternates : [USART2 TXD_2, PIOD P_112]
+- J10 : PD17,  of Type IO, alternates : [USART2 SCK_2, PIOD P_113]
+- K6 : PD18,  of Type IO, alternates : [USART2 RTS_2, PIOD P_114, UART4 URXD_4]
+- K4 : PD19,  of Type IO, alternates : [USART2 CTS_2, UART4 UTXD_4, PIOD P_115]
+- K3 : PD20,  of Type IO, alternates : [SPI0 MISO_, PIOD P_116, PWM0 PWMH_0]
+- H5 : PD21,  of Type IO, alternates : [ISI D_1, SPI0 MOSI_, TC3 TIOA_11, PWM0 PWMH_1, PIOD P_117]
+- J4 : PD22,  of Type IO, alternates : [ISI D_0, SPI0 SPCK_, TC3 TIOB_11, PIOD P_118, PWM0 PWMH_2]
+- G4 : PD24,  of Type IO, alternates : [PIOD P_120, TC3 TCLK_11, PWM0 PWML_0, SSC RF_, ISI HSYNC_]
+- H3 : PD25,  of Type IO, alternates : [ISI VSYNC_, PIOD P_121, PWM0 PWML_1, UART2 URXD_2, SPI0 NPCS_1]
+- G3 : PD26,  of Type IO, alternates : [UART2 UTXD_2, SSC TD_, UART1 UTXD_1, PIOD P_122, PWM0 PWML_2]
+- H4 : PD27,  of Type IO, alternates : [ISI D_8, PWM0 PWML_3, PIOD P_123, TWIHS2 TWD_2, SPI0 NPCS_3]
+- J7 : PD28,  of Type IO, alternates : [ISI D_9, TWIHS2 TWCK_2, PIOD P_124, UART3 URXD_3, SUPC WKUP_5]
+- K1 : PD30,  of Type IO, alternates : [UART3 UTXD_3, ISI D_10, PIOD P_126, AFEC0 AD_0]
+- C1 : PD31,  of Type IO, alternates : [PMC PCK_2, QSPI QIO_3, UART3 UTXD_3, ISI D_11, PIOD P_127]
+- C3 : VDDOUT,  of Type PP
+- C2 : VDDIN,  of Type PP
+- D2 : VREFN,  of Type PS
+- D1 : VREFP,  of Type PS
+- G10 : NRST,  of Type IP
+- F7 : TST,  of Type IO
+- C5 : VDDIO,  of Type PP
+- F3 : VDDIO,  of Type PP
+- G7 : VDDIO,  of Type PP
+- A10 : JTAGSEL,  of Type OP
+- C6 : VDDCORE,  of Type PP
+- D6 : VDDCORE,  of Type PP
+- G6 : VDDCORE,  of Type PP
+- D7 : VDDPLL,  of Type PP
+- E5 : VDDUTMII,  of Type PP
+- A4 : HSDM,  of Type IO
+- B4 : HSDP,  of Type IO
+- E7 : GND,  of Type PS
+- F4 : GND,  of Type PS
+- F5 : GND,  of Type PS
+- F6 : GND,  of Type PS
+- D4 : GNDANA,  of Type PS
+- A6 : GNDUTMI,  of Type PS
+- C4 : GNDPLLUSB,  of Type PS
+- E6 : GNDPLL,  of Type PS
+- B3 : VDDUTMIC,  of Type PP
+- A3 : VBG,  of Type IO
+- E4 : VDDPLLUSB,  of Type PP
 ## ATSAMS70N20B-CN
+
 ### Description : 
+
+- Series : SAMS70
+- Footprint : TFBGA100
+- MP : ATSAMS70N20B-CN
+- Architecture : CORTEX-M7
+- PINOUT : TFBGA100
+- Reference : U
+- Documentation : https://www.microchip.com/en-us/search?q=ATSAMS70N20B-CN
+- Value : ATSAMS70N20B-CN
+- Family : SAMS
+- MF : Microchip
+- Name : ATSAMS70N20B
 
 ### Package : 
 
-- D8 : PA0
-- C10 : PA1
-- D10 : PA2
-- F9 : PA3
-- H10 : PA4
-- H9 : PA5
-- J2 : PA7
-- K2 : PA8
-- J9 : PA9
-- K9 : PA10
-- J8 : PA11
-- K10 : PA12
-- G5 : PA13
-- H6 : PA14
-- J6 : PA15
-- J5 : PA16
-- G1 : PA17
-- G2 : PA18
-- F1 : PA19
-- F2 : PA20
-- J1 : PA21
-- J3 : PA22
-- K5 : PA23
-- K7 : PA24
-- H7 : PA25
-- K8 : PA26
-- H8 : PA27
-- A9 : PA28
-- C7 : PA30
-- A7 : PA31
-- E1 : PB0
-- E2 : PB1
-- H1 : PB2
-- H2 : PB3
-- B9 : PB4
-- C8 : PB5
-- G8 : PB6
-- E9 : PB7
-- A2 : PB8
-- A1 : PB9
-- F8 : PB12
-- B2 : PB13
-- C1 : PD0
-- D2 : PD1
-- E3 : PD2
-- B5 : PD3
-- A5 : PD4
-- D5 : PD5
-- B6 : PD6
-- A6 : PD7
-- B7 : PD8
-- B8 : PD9
-- C9 : PD10
-- D9 : PD11
-- E10 : PD12
-- E8 : PD13
-- F10 : PD14
-- B10 : PD15
-- G9 : PD16
-- J10 : PD17
-- K6 : PD18
-- K4 : PD19
-- K3 : PD20
-- H5 : PD21
-- J4 : PD22
-- G4 : PD24
-- H3 : PD25
-- G3 : PD26
-- H4 : PD27
-- J7 : PD28
-- K1 : PD30
-- B1 : PD31
-- C3 : VDDOUT
-- C2 : VDDIN
-- D3 : VREFN
-- D1 : VREFP
-- G10 : NRST
-- F7 : TST
-- C5 : VDDIO
-- F3 : VDDIO
-- G7 : VDDIO
-- A10 : JTAGSEL
-- C6 : VDDCORE
-- D6 : VDDCORE
-- G6 : VDDCORE
-- D7 : VDDPLL
-- E5 : VDDUTMII
-- A4 : HSDM
-- B4 : HSDP
-- E7 : GND
-- F4 : GND
-- F5 : GND
-- F6 : GND
-- D4 : GNDANA
-- A8 : GNDUTMI
-- C4 : GNDPLLUSB
-- E4 : GNDPLL
-- B3 : VDDUTMIC
-- A3 : VBG
-- E6 : VDDPLLUSB
+Pin count : 100
+- D8 : PA0,  of Type IO, alternates : [I2SC0 MCK_, SUPC WKUP_0, TC0 TIOA_0, PIOA P_0, PWM0 PWMH_0]
+- C10 : PA1,  of Type IO, alternates : [I2SC0 CK_, SUPC WKUP_1, PWM0 PWML_0, PIOA P_1, TC0 TIOB_0]
+- D10 : PA2,  of Type IO, alternates : [SUPC WKUP_2, PIOA P_2, PWM0 PWMH_1, DACC DATRG_]
+- F9 : PA3,  of Type IO, alternates : [PMC PCK_2, USART1 LONCOL_1, TWIHS0 TWD_0, PIOA PIODC_0, PIOA P_3]
+- H10 : PA4,  of Type IO, alternates : [SUPC WKUP_3, TWIHS0 TWCK_0, TC0 TCLK_0, PIOA PIODC_1, PIOA P_4, UART1 UTXD_1]
+- H9 : PA5,  of Type IO, alternates : [SUPC WKUP_4, PIOA PIODC_2, ISI D_4, PIOA P_5, UART1 URXD_1, PWM1 PWML_3]
+- J2 : PA7,  of Type IO, alternates : [PIOA P_7, PWM0 PWMH_3, PMC XIN32_]
+- K2 : PA8,  of Type IO, alternates : [PIOA P_8, AFEC0 ADTRG_, PMC XOUT32_, PWM1 PWMH_3]
+- J9 : PA9,  of Type IO, alternates : [PWM0 PWMFI_0, PIOA P_9, PIOA PIODC_3, UART0 URXD_0, ISI D_3, SUPC WKUP_6]
+- K9 : PA10,  of Type IO, alternates : [PIOA PIODC_4, UART0 UTXD_0, SSC RD_, PWM0 PWMEXTRG_0, PIOA P_10]
+- J8 : PA11,  of Type IO, alternates : [PIOA PIODC_5, QSPI QCS_, PWM1 PWML_0, PIOA P_11, PWM0 PWMH_0, SUPC WKUP_7]
+- K10 : PA12,  of Type IO, alternates : [PIOA PIODC_6, QSPI QIO_1, PIOA P_12, PWM1 PWMH_0, PWM0 PWMH_1]
+- G5 : PA13,  of Type IO, alternates : [QSPI QIO_0, PWM1 PWML_1, PIOA P_13, PIOA PIODC_7, PWM0 PWMH_2]
+- H6 : PA14,  of Type IO, alternates : [PIOA PIODCEN_1, PWM0 PWMH_3, QSPI QSCK_, PWM1 PWMH_1, SUPC WKUP_8, PIOA P_14]
+- J6 : PA15,  of Type IO, alternates : [PIOA P_15, PWM0 PWML_3, I2SC0 WS_, TC0 TIOA_1]
+- J5 : PA16,  of Type IO, alternates : [PIOA P_16, I2SC0 DI_0, PWM0 PWML_2, TC0 TIOB_1]
+- G1 : PA17,  of Type IO, alternates : [PMC PCK_1, QSPI QIO_2, PIOA P_17, AFEC0 AD_6, PWM0 PWMH_3]
+- G2 : PA18,  of Type IO, alternates : [PMC PCK_2, PIOA P_18, AFEC0 AD_7, PWM1 PWMEXTRG_1]
+- F1 : PA19,  of Type IO, alternates : [PIOA P_19, AFEC0 AD_8, PWM0 PWML_0, SUPC WKUP_9]
+- F2 : PA20,  of Type IO, alternates : [SUPC WKUP_10, AFEC0 AD_9, PIOA P_20, PWM0 PWML_1]
+- J1 : PA21,  of Type IO, alternates : [AFEC0 AD_1, PIOA PIODCEN_2, PMC PCK_1, USART1 RXD_1, PIOA P_21, PWM1 PWMFI_0]
+- J3 : PA22,  of Type IO, alternates : [PWM0 PWMEXTRG_1, PIOA PIODCCLK_, PIOA P_22, SSC RK_]
+- K5 : PA23,  of Type IO, alternates : [USART1 SCK_1, PWM1 PWML_2, PIOA P_23, PWM0 PWMH_0]
+- K7 : PA24,  of Type IO, alternates : [USART1 RTS_1, ISI PCK_, PIOA P_24, PWM0 PWMH_1]
+- H7 : PA25,  of Type IO, alternates : [USART1 CTS_1, HSMCI MCCK_, PIOA P_25, PWM0 PWMH_2]
+- K8 : PA26,  of Type IO, alternates : [HSMCI MCDA_2, PIOA P_26, USART1 DCD_1, TC0 TIOA_2, PWM1 PWMFI_1]
+- H8 : PA27,  of Type IO, alternates : [HSMCI MCDA_3, PIOA P_27, ISI D_7, USART1 DTR_1, TC0 TIOB_2]
+- A9 : PA28,  of Type IO, alternates : [PIOA P_28, HSMCI MCCDA_, TC0 TCLK_1, USART1 DSR_1, PWM1 PWMFI_2]
+- C7 : PA30,  of Type IO, alternates : [HSMCI MCDA_0, SUPC WKUP_11, I2SC0 DO_0, PWM1 PWMEXTRG_0, PIOA P_30, PWM0 PWML_2]
+- A7 : PA31,  of Type IO, alternates : [PMC PCK_2, HSMCI MCDA_1, PIOA P_31, SPI0 NPCS_1, PWM1 PWMH_2]
+- E1 : PB0,  of Type IO, alternates : [USART0 RXD_0, RTC RTCOUT_0, SSC TF_, AFEC0 AD_10, PWM0 PWMH_0, PIOB P_32]
+- E2 : PB1,  of Type IO, alternates : [RTC RTCOUT_1, USART0 TXD_0, AFEC1 AD_0, SSC TK_, PIOB P_33, PWM0 PWMH_1]
+- H1 : PB2,  of Type IO, alternates : [SPI0 NPCS_0, AFEC0 AD_5, PIOB P_34, USART0 CTS_0]
+- H2 : PB3,  of Type IO, alternates : [AFEC0 AD_2, PMC PCK_2, SUPC WKUP_12, PIOB P_35, USART0 RTS_0, ISI D_2]
+- B9 : PB4,  of Type IO, alternates : [ICE TDI_, USART1 TXD_1, TWIHS1 TWD_1, PIOB P_36, PWM0 PWMH_2]
+- C8 : PB5,  of Type IO, alternates : [SUPC WKUP_13, TWIHS1 TWCK_1, SSC TD_, PWM0 PWML_0, PIOB P_37, ICE TDO_, ICE TRACESWO_]
+- G8 : PB6,  of Type IO, alternates : [ICE SWDIO_, PIOB P_38, ICE TMS_]
+- E9 : PB7,  of Type IO, alternates : [PIOB P_39, ICE TCK_, ICE SWDCLK_]
+- A2 : PB8,  of Type IO, alternates : [PIOB P_40, PMC XOUT_]
+- A1 : PB9,  of Type IO, alternates : [PMC XIN_, PIOB P_41]
+- F8 : PB12,  of Type IO, alternates : [PWM0 PWML_1, PIOB P_44, EFC ERASE_, PMC PCK_0]
+- B2 : PB13,  of Type IO, alternates : [PIOB P_45, USART0 SCK_0, PWM0 PWML_2, DACC DAC_0, PMC PCK_0]
+- C1 : PD0,  of Type IO, alternates : [USART0 DCD_0, PIOD P_96, PWM1 PWML_0, DACC DAC_1]
+- D2 : PD1,  of Type IO, alternates : [PIOD P_97, PWM1 PWMH_0, USART0 DTR_0]
+- E3 : PD2,  of Type IO, alternates : [PIOD P_98, PWM1 PWML_1, USART0 DSR_0]
+- B5 : PD3,  of Type IO, alternates : [USART0 RI_0, PIOD P_99, UART4 UTXD_4, PWM1 PWMH_1]
+- A5 : PD4,  of Type IO, alternates : [USART2 DCD_2, PIOD P_100, PWM1 PWML_2, TPIU TRACED_0]
+- D5 : PD5,  of Type IO, alternates : [PIOD P_101, USART2 DTR_2, PWM1 PWMH_2, TPIU TRACED_1]
+- B6 : PD6,  of Type IO, alternates : [PWM1 PWML_3, PIOD P_102, TPIU TRACED_2, USART2 DSR_2]
+- A6 : PD7,  of Type IO, alternates : [PIOD P_103, USART2 RI_2, TPIU TRACED_3, PWM1 PWMH_3]
+- B7 : PD8,  of Type IO, alternates : [PWM0 PWMFI_1, TPIU TRACECLK_, PIOD P_104]
+- B8 : PD9,  of Type IO, alternates : [AFEC1 ADTRG_, PWM0 PWMFI_2, PIOD P_105]
+- C9 : PD10,  of Type IO, alternates : [SSC TD_, PWM0 PWML_0, PIOD P_106]
+- D9 : PD11,  of Type IO, alternates : [ISI D_5, PWM0 PWMH_0, PIOD P_107]
+- E10 : PD12,  of Type IO, alternates : [PIOD P_108, ISI D_6, SPI0 NPCS_2]
+- E8 : PD13,  of Type IO, alternates : [PIOD P_109]
+- F10 : PD14,  of Type IO, alternates : [PIOD P_110]
+- B10 : PD15,  of Type IO, alternates : [PIOD P_111, USART2 RXD_2]
+- G9 : PD16,  of Type IO, alternates : [USART2 TXD_2, PIOD P_112]
+- J10 : PD17,  of Type IO, alternates : [USART2 SCK_2, PIOD P_113]
+- K6 : PD18,  of Type IO, alternates : [USART2 RTS_2, PIOD P_114, UART4 URXD_4]
+- K4 : PD19,  of Type IO, alternates : [USART2 CTS_2, UART4 UTXD_4, PIOD P_115]
+- K3 : PD20,  of Type IO, alternates : [SPI0 MISO_, PIOD P_116, PWM0 PWMH_0]
+- H5 : PD21,  of Type IO, alternates : [ISI D_1, SPI0 MOSI_, TC3 TIOA_11, PWM0 PWMH_1, PIOD P_117]
+- J4 : PD22,  of Type IO, alternates : [ISI D_0, SPI0 SPCK_, TC3 TIOB_11, PIOD P_118, PWM0 PWMH_2]
+- G4 : PD24,  of Type IO, alternates : [PIOD P_120, TC3 TCLK_11, PWM0 PWML_0, SSC RF_, ISI HSYNC_]
+- H3 : PD25,  of Type IO, alternates : [ISI VSYNC_, PIOD P_121, PWM0 PWML_1, UART2 URXD_2, SPI0 NPCS_1]
+- G3 : PD26,  of Type IO, alternates : [UART2 UTXD_2, SSC TD_, UART1 UTXD_1, PIOD P_122, PWM0 PWML_2]
+- H4 : PD27,  of Type IO, alternates : [ISI D_8, PWM0 PWML_3, PIOD P_123, TWIHS2 TWD_2, SPI0 NPCS_3]
+- J7 : PD28,  of Type IO, alternates : [ISI D_9, TWIHS2 TWCK_2, PIOD P_124, UART3 URXD_3, SUPC WKUP_5]
+- K1 : PD30,  of Type IO, alternates : [UART3 UTXD_3, ISI D_10, PIOD P_126, AFEC0 AD_0]
+- B1 : PD31,  of Type IO, alternates : [PMC PCK_2, QSPI QIO_3, UART3 UTXD_3, ISI D_11, PIOD P_127]
+- C3 : VDDOUT,  of Type PP
+- C2 : VDDIN,  of Type PP
+- D3 : VREFN,  of Type PS
+- D1 : VREFP,  of Type PS
+- G10 : NRST,  of Type IP
+- F7 : TST,  of Type IO
+- C5 : VDDIO,  of Type PP
+- F3 : VDDIO,  of Type PP
+- G7 : VDDIO,  of Type PP
+- A10 : JTAGSEL,  of Type OP
+- C6 : VDDCORE,  of Type PP
+- D6 : VDDCORE,  of Type PP
+- G6 : VDDCORE,  of Type PP
+- D7 : VDDPLL,  of Type PP
+- E5 : VDDUTMII,  of Type PP
+- A4 : HSDM,  of Type IO
+- B4 : HSDP,  of Type IO
+- E7 : GND,  of Type PS
+- F4 : GND,  of Type PS
+- F5 : GND,  of Type PS
+- F6 : GND,  of Type PS
+- D4 : GNDANA,  of Type PS
+- A8 : GNDUTMI,  of Type PS
+- C4 : GNDPLLUSB,  of Type PS
+- E4 : GNDPLL,  of Type PS
+- B3 : VDDUTMIC,  of Type PP
+- A3 : VBG,  of Type IO
+- E6 : VDDPLLUSB,  of Type PP
 ## ATSAMS70N21B-AN
+
 ### Description : 
+
+- Series : SAMS70
+- Footprint : LQFP100
+- MP : ATSAMS70N21B-AN
+- Architecture : CORTEX-M7
+- PINOUT : LQFP100
+- Reference : U
+- Documentation : https://www.microchip.com/en-us/search?q=ATSAMS70N21B-AN
+- Value : ATSAMS70N21B-AN
+- Family : SAMS
+- MF : Microchip
+- Name : ATSAMS70N21B
 
 ### Package : 
 
-- 72 : PA0
-- 70 : PA1
-- 66 : PA2
-- 64 : PA3
-- 55 : PA4
-- 52 : PA5
-- 24 : PA7
-- 25 : PA8
-- 54 : PA9
-- 46 : PA10
-- 44 : PA11
-- 48 : PA12
-- 27 : PA13
-- 34 : PA14
-- 33 : PA15
-- 30 : PA16
-- 16 : PA17
-- 15 : PA18
-- 14 : PA19
-- 13 : PA20
-- 21 : PA21
-- 26 : PA22
-- 31 : PA23
-- 38 : PA24
-- 40 : PA25
-- 42 : PA26
-- 50 : PA27
-- 79 : PA28
-- 82 : PA30
-- 83 : PA31
-- 12 : PB0
-- 11 : PB1
-- 17 : PB2
-- 20 : PB3
-- 74 : PB4
-- 77 : PB5
-- 57 : PB6
-- 63 : PB7
-- 98 : PB8
-- 99 : PB9
-- 61 : PB12
-- 100 : PB13
-- 1 : PD0
-- 92 : PD1
-- 91 : PD2
-- 89 : PD3
-- 88 : PD4
-- 87 : PD5
-- 85 : PD6
-- 84 : PD7
-- 80 : PD8
-- 78 : PD9
-- 71 : PD10
-- 69 : PD11
-- 65 : PD12
-- 62 : PD13
-- 59 : PD14
-- 75 : PD15
-- 56 : PD16
-- 53 : PD17
-- 49 : PD18
-- 47 : PD19
-- 45 : PD20
-- 43 : PD21
-- 41 : PD22
-- 37 : PD24
-- 35 : PD25
-- 36 : PD26
-- 32 : PD27
-- 51 : PD28
-- 23 : PD30
-- 2 : PD31
-- 4 : VDDOUT
-- 5 : VDDIN
-- 6 : VREFN
-- 9 : VREFP
-- 58 : NRST
-- 60 : TST
-- 19 : VDDIO
-- 28 : VDDIO
-- 68 : VDDIO
-- 81 : VDDIO
-- 73 : JTAGSEL
-- 18 : VDDCORE
-- 22 : VDDCORE
-- 39 : VDDCORE
-- 76 : VDDCORE
-- 86 : VDDPLL
-- 93 : VDDUTMII
-- 94 : HSDM
-- 95 : HSDP
-- 3 : GND
-- 7 : GND
-- 8 : GND
-- 10 : GND
-- 29 : GND
-- 67 : GND
-- 96 : VDDUTMIC
-- 97 : VBG
-- 90 : VDDPLLUSB
+Pin count : 100
+- 72 : PA0,  of Type IO, alternates : [I2SC0 MCK_, SUPC WKUP_0, TC0 TIOA_0, PIOA P_0, PWM0 PWMH_0]
+- 70 : PA1,  of Type IO, alternates : [I2SC0 CK_, SUPC WKUP_1, PWM0 PWML_0, PIOA P_1, TC0 TIOB_0]
+- 66 : PA2,  of Type IO, alternates : [SUPC WKUP_2, PIOA P_2, PWM0 PWMH_1, DACC DATRG_]
+- 64 : PA3,  of Type IO, alternates : [PMC PCK_2, USART1 LONCOL_1, TWIHS0 TWD_0, PIOA PIODC_0, PIOA P_3]
+- 55 : PA4,  of Type IO, alternates : [SUPC WKUP_3, TWIHS0 TWCK_0, TC0 TCLK_0, PIOA PIODC_1, PIOA P_4, UART1 UTXD_1]
+- 52 : PA5,  of Type IO, alternates : [SUPC WKUP_4, PIOA PIODC_2, ISI D_4, PIOA P_5, UART1 URXD_1, PWM1 PWML_3]
+- 24 : PA7,  of Type IO, alternates : [PIOA P_7, PWM0 PWMH_3, PMC XIN32_]
+- 25 : PA8,  of Type IO, alternates : [PIOA P_8, AFEC0 ADTRG_, PMC XOUT32_, PWM1 PWMH_3]
+- 54 : PA9,  of Type IO, alternates : [PWM0 PWMFI_0, PIOA P_9, PIOA PIODC_3, UART0 URXD_0, ISI D_3, SUPC WKUP_6]
+- 46 : PA10,  of Type IO, alternates : [PIOA PIODC_4, UART0 UTXD_0, SSC RD_, PWM0 PWMEXTRG_0, PIOA P_10]
+- 44 : PA11,  of Type IO, alternates : [PIOA PIODC_5, QSPI QCS_, PWM1 PWML_0, PIOA P_11, PWM0 PWMH_0, SUPC WKUP_7]
+- 48 : PA12,  of Type IO, alternates : [PIOA PIODC_6, QSPI QIO_1, PIOA P_12, PWM1 PWMH_0, PWM0 PWMH_1]
+- 27 : PA13,  of Type IO, alternates : [QSPI QIO_0, PWM1 PWML_1, PIOA P_13, PIOA PIODC_7, PWM0 PWMH_2]
+- 34 : PA14,  of Type IO, alternates : [PIOA PIODCEN_1, PWM0 PWMH_3, QSPI QSCK_, PWM1 PWMH_1, SUPC WKUP_8, PIOA P_14]
+- 33 : PA15,  of Type IO, alternates : [PIOA P_15, PWM0 PWML_3, I2SC0 WS_, TC0 TIOA_1]
+- 30 : PA16,  of Type IO, alternates : [PIOA P_16, I2SC0 DI_0, PWM0 PWML_2, TC0 TIOB_1]
+- 16 : PA17,  of Type IO, alternates : [PMC PCK_1, QSPI QIO_2, PIOA P_17, AFEC0 AD_6, PWM0 PWMH_3]
+- 15 : PA18,  of Type IO, alternates : [PMC PCK_2, PIOA P_18, AFEC0 AD_7, PWM1 PWMEXTRG_1]
+- 14 : PA19,  of Type IO, alternates : [PIOA P_19, AFEC0 AD_8, PWM0 PWML_0, SUPC WKUP_9]
+- 13 : PA20,  of Type IO, alternates : [SUPC WKUP_10, AFEC0 AD_9, PIOA P_20, PWM0 PWML_1]
+- 21 : PA21,  of Type IO, alternates : [AFEC0 AD_1, PIOA PIODCEN_2, PMC PCK_1, USART1 RXD_1, PIOA P_21, PWM1 PWMFI_0]
+- 26 : PA22,  of Type IO, alternates : [PWM0 PWMEXTRG_1, PIOA PIODCCLK_, PIOA P_22, SSC RK_]
+- 31 : PA23,  of Type IO, alternates : [USART1 SCK_1, PWM1 PWML_2, PIOA P_23, PWM0 PWMH_0]
+- 38 : PA24,  of Type IO, alternates : [USART1 RTS_1, ISI PCK_, PIOA P_24, PWM0 PWMH_1]
+- 40 : PA25,  of Type IO, alternates : [USART1 CTS_1, HSMCI MCCK_, PIOA P_25, PWM0 PWMH_2]
+- 42 : PA26,  of Type IO, alternates : [HSMCI MCDA_2, PIOA P_26, USART1 DCD_1, TC0 TIOA_2, PWM1 PWMFI_1]
+- 50 : PA27,  of Type IO, alternates : [HSMCI MCDA_3, PIOA P_27, ISI D_7, USART1 DTR_1, TC0 TIOB_2]
+- 79 : PA28,  of Type IO, alternates : [PIOA P_28, HSMCI MCCDA_, TC0 TCLK_1, USART1 DSR_1, PWM1 PWMFI_2]
+- 82 : PA30,  of Type IO, alternates : [HSMCI MCDA_0, SUPC WKUP_11, I2SC0 DO_0, PWM1 PWMEXTRG_0, PIOA P_30, PWM0 PWML_2]
+- 83 : PA31,  of Type IO, alternates : [PMC PCK_2, HSMCI MCDA_1, PIOA P_31, SPI0 NPCS_1, PWM1 PWMH_2]
+- 12 : PB0,  of Type IO, alternates : [USART0 RXD_0, RTC RTCOUT_0, SSC TF_, AFEC0 AD_10, PWM0 PWMH_0, PIOB P_32]
+- 11 : PB1,  of Type IO, alternates : [RTC RTCOUT_1, USART0 TXD_0, AFEC1 AD_0, SSC TK_, PIOB P_33, PWM0 PWMH_1]
+- 17 : PB2,  of Type IO, alternates : [SPI0 NPCS_0, AFEC0 AD_5, PIOB P_34, USART0 CTS_0]
+- 20 : PB3,  of Type IO, alternates : [AFEC0 AD_2, PMC PCK_2, SUPC WKUP_12, PIOB P_35, USART0 RTS_0, ISI D_2]
+- 74 : PB4,  of Type IO, alternates : [ICE TDI_, USART1 TXD_1, TWIHS1 TWD_1, PIOB P_36, PWM0 PWMH_2]
+- 77 : PB5,  of Type IO, alternates : [SUPC WKUP_13, TWIHS1 TWCK_1, SSC TD_, PWM0 PWML_0, PIOB P_37, ICE TDO_, ICE TRACESWO_]
+- 57 : PB6,  of Type IO, alternates : [ICE SWDIO_, PIOB P_38, ICE TMS_]
+- 63 : PB7,  of Type IO, alternates : [PIOB P_39, ICE TCK_, ICE SWDCLK_]
+- 98 : PB8,  of Type IO, alternates : [PIOB P_40, PMC XOUT_]
+- 99 : PB9,  of Type IO, alternates : [PMC XIN_, PIOB P_41]
+- 61 : PB12,  of Type IO, alternates : [PWM0 PWML_1, PIOB P_44, EFC ERASE_, PMC PCK_0]
+- 100 : PB13,  of Type IO, alternates : [PIOB P_45, USART0 SCK_0, PWM0 PWML_2, DACC DAC_0, PMC PCK_0]
+- 1 : PD0,  of Type IO, alternates : [USART0 DCD_0, PIOD P_96, PWM1 PWML_0, DACC DAC_1]
+- 92 : PD1,  of Type IO, alternates : [PIOD P_97, PWM1 PWMH_0, USART0 DTR_0]
+- 91 : PD2,  of Type IO, alternates : [PIOD P_98, PWM1 PWML_1, USART0 DSR_0]
+- 89 : PD3,  of Type IO, alternates : [USART0 RI_0, PIOD P_99, UART4 UTXD_4, PWM1 PWMH_1]
+- 88 : PD4,  of Type IO, alternates : [USART2 DCD_2, PIOD P_100, PWM1 PWML_2, TPIU TRACED_0]
+- 87 : PD5,  of Type IO, alternates : [PIOD P_101, USART2 DTR_2, PWM1 PWMH_2, TPIU TRACED_1]
+- 85 : PD6,  of Type IO, alternates : [PWM1 PWML_3, PIOD P_102, TPIU TRACED_2, USART2 DSR_2]
+- 84 : PD7,  of Type IO, alternates : [PIOD P_103, USART2 RI_2, TPIU TRACED_3, PWM1 PWMH_3]
+- 80 : PD8,  of Type IO, alternates : [PWM0 PWMFI_1, TPIU TRACECLK_, PIOD P_104]
+- 78 : PD9,  of Type IO, alternates : [AFEC1 ADTRG_, PWM0 PWMFI_2, PIOD P_105]
+- 71 : PD10,  of Type IO, alternates : [SSC TD_, PWM0 PWML_0, PIOD P_106]
+- 69 : PD11,  of Type IO, alternates : [ISI D_5, PWM0 PWMH_0, PIOD P_107]
+- 65 : PD12,  of Type IO, alternates : [PIOD P_108, ISI D_6, SPI0 NPCS_2]
+- 62 : PD13,  of Type IO, alternates : [PIOD P_109]
+- 59 : PD14,  of Type IO, alternates : [PIOD P_110]
+- 75 : PD15,  of Type IO, alternates : [PIOD P_111, USART2 RXD_2]
+- 56 : PD16,  of Type IO, alternates : [USART2 TXD_2, PIOD P_112]
+- 53 : PD17,  of Type IO, alternates : [USART2 SCK_2, PIOD P_113]
+- 49 : PD18,  of Type IO, alternates : [USART2 RTS_2, PIOD P_114, UART4 URXD_4]
+- 47 : PD19,  of Type IO, alternates : [USART2 CTS_2, UART4 UTXD_4, PIOD P_115]
+- 45 : PD20,  of Type IO, alternates : [SPI0 MISO_, PIOD P_116, PWM0 PWMH_0]
+- 43 : PD21,  of Type IO, alternates : [ISI D_1, SPI0 MOSI_, TC3 TIOA_11, PWM0 PWMH_1, PIOD P_117]
+- 41 : PD22,  of Type IO, alternates : [ISI D_0, SPI0 SPCK_, TC3 TIOB_11, PIOD P_118, PWM0 PWMH_2]
+- 37 : PD24,  of Type IO, alternates : [PIOD P_120, TC3 TCLK_11, PWM0 PWML_0, SSC RF_, ISI HSYNC_]
+- 35 : PD25,  of Type IO, alternates : [ISI VSYNC_, PIOD P_121, PWM0 PWML_1, UART2 URXD_2, SPI0 NPCS_1]
+- 36 : PD26,  of Type IO, alternates : [UART2 UTXD_2, SSC TD_, UART1 UTXD_1, PIOD P_122, PWM0 PWML_2]
+- 32 : PD27,  of Type IO, alternates : [ISI D_8, PWM0 PWML_3, PIOD P_123, TWIHS2 TWD_2, SPI0 NPCS_3]
+- 51 : PD28,  of Type IO, alternates : [ISI D_9, TWIHS2 TWCK_2, PIOD P_124, UART3 URXD_3, SUPC WKUP_5]
+- 23 : PD30,  of Type IO, alternates : [UART3 UTXD_3, ISI D_10, PIOD P_126, AFEC0 AD_0]
+- 2 : PD31,  of Type IO, alternates : [PMC PCK_2, QSPI QIO_3, UART3 UTXD_3, ISI D_11, PIOD P_127]
+- 4 : VDDOUT,  of Type PP
+- 5 : VDDIN,  of Type PP
+- 6 : VREFN,  of Type PS
+- 9 : VREFP,  of Type PS
+- 58 : NRST,  of Type IP
+- 60 : TST,  of Type IO
+- 19 : VDDIO,  of Type PP
+- 28 : VDDIO,  of Type PP
+- 68 : VDDIO,  of Type PP
+- 81 : VDDIO,  of Type PP
+- 73 : JTAGSEL,  of Type OP
+- 18 : VDDCORE,  of Type PP
+- 22 : VDDCORE,  of Type PP
+- 39 : VDDCORE,  of Type PP
+- 76 : VDDCORE,  of Type PP
+- 86 : VDDPLL,  of Type PP
+- 93 : VDDUTMII,  of Type PP
+- 94 : HSDM,  of Type IO
+- 95 : HSDP,  of Type IO
+- 3 : GND,  of Type PS
+- 7 : GND,  of Type PS
+- 8 : GND,  of Type PS
+- 10 : GND,  of Type PS
+- 29 : GND,  of Type PS
+- 67 : GND,  of Type PS
+- 96 : VDDUTMIC,  of Type PP
+- 97 : VBG,  of Type IO
+- 90 : VDDPLLUSB,  of Type PP
 ## ATSAMS70N21B-CFN
+
 ### Description : 
+
+- Series : SAMS70
+- Footprint : VFBGA100
+- MP : ATSAMS70N21B-CFN
+- Architecture : CORTEX-M7
+- PINOUT : VFBGA100
+- Reference : U
+- Documentation : https://www.microchip.com/en-us/search?q=ATSAMS70N21B-CFN
+- Value : ATSAMS70N21B-CFN
+- Family : SAMS
+- MF : Microchip
+- Name : ATSAMS70N21B
 
 ### Package : 
 
-- D8 : PA0
-- C10 : PA1
-- D10 : PA2
-- F9 : PA3
-- H10 : PA4
-- H9 : PA5
-- J2 : PA7
-- K2 : PA8
-- J9 : PA9
-- K9 : PA10
-- J8 : PA11
-- K10 : PA12
-- G5 : PA13
-- H6 : PA14
-- J6 : PA15
-- J5 : PA16
-- G1 : PA17
-- G2 : PA18
-- F1 : PA19
-- F2 : PA20
-- J1 : PA21
-- J3 : PA22
-- K5 : PA23
-- K7 : PA24
-- H7 : PA25
-- K8 : PA26
-- H8 : PA27
-- A9 : PA28
-- C7 : PA30
-- A7 : PA31
-- E1 : PB0
-- E2 : PB1
-- H1 : PB2
-- H2 : PB3
-- B9 : PB4
-- C8 : PB5
-- G8 : PB6
-- E9 : PB7
-- A2 : PB8
-- A1 : PB9
-- F8 : PB12
-- B2 : PB13
-- B1 : PD0
-- D3 : PD1
-- E3 : PD2
-- B5 : PD3
-- A5 : PD4
-- D5 : PD5
-- B6 : PD6
-- A8 : PD7
-- B7 : PD8
-- B8 : PD9
-- C9 : PD10
-- D9 : PD11
-- E10 : PD12
-- E8 : PD13
-- F10 : PD14
-- B10 : PD15
-- G9 : PD16
-- J10 : PD17
-- K6 : PD18
-- K4 : PD19
-- K3 : PD20
-- H5 : PD21
-- J4 : PD22
-- G4 : PD24
-- H3 : PD25
-- G3 : PD26
-- H4 : PD27
-- J7 : PD28
-- K1 : PD30
-- C1 : PD31
-- C3 : VDDOUT
-- C2 : VDDIN
-- D2 : VREFN
-- D1 : VREFP
-- G10 : NRST
-- F7 : TST
-- C5 : VDDIO
-- F3 : VDDIO
-- G7 : VDDIO
-- A10 : JTAGSEL
-- C6 : VDDCORE
-- D6 : VDDCORE
-- G6 : VDDCORE
-- D7 : VDDPLL
-- E5 : VDDUTMII
-- A4 : HSDM
-- B4 : HSDP
-- E7 : GND
-- F4 : GND
-- F5 : GND
-- F6 : GND
-- D4 : GNDANA
-- A6 : GNDUTMI
-- C4 : GNDPLLUSB
-- E6 : GNDPLL
-- B3 : VDDUTMIC
-- A3 : VBG
-- E4 : VDDPLLUSB
+Pin count : 100
+- D8 : PA0,  of Type IO, alternates : [I2SC0 MCK_, SUPC WKUP_0, TC0 TIOA_0, PIOA P_0, PWM0 PWMH_0]
+- C10 : PA1,  of Type IO, alternates : [I2SC0 CK_, SUPC WKUP_1, PWM0 PWML_0, PIOA P_1, TC0 TIOB_0]
+- D10 : PA2,  of Type IO, alternates : [SUPC WKUP_2, PIOA P_2, PWM0 PWMH_1, DACC DATRG_]
+- F9 : PA3,  of Type IO, alternates : [PMC PCK_2, USART1 LONCOL_1, TWIHS0 TWD_0, PIOA PIODC_0, PIOA P_3]
+- H10 : PA4,  of Type IO, alternates : [SUPC WKUP_3, TWIHS0 TWCK_0, TC0 TCLK_0, PIOA PIODC_1, PIOA P_4, UART1 UTXD_1]
+- H9 : PA5,  of Type IO, alternates : [SUPC WKUP_4, PIOA PIODC_2, ISI D_4, PIOA P_5, UART1 URXD_1, PWM1 PWML_3]
+- J2 : PA7,  of Type IO, alternates : [PIOA P_7, PWM0 PWMH_3, PMC XIN32_]
+- K2 : PA8,  of Type IO, alternates : [PIOA P_8, AFEC0 ADTRG_, PMC XOUT32_, PWM1 PWMH_3]
+- J9 : PA9,  of Type IO, alternates : [PWM0 PWMFI_0, PIOA P_9, PIOA PIODC_3, UART0 URXD_0, ISI D_3, SUPC WKUP_6]
+- K9 : PA10,  of Type IO, alternates : [PIOA PIODC_4, UART0 UTXD_0, SSC RD_, PWM0 PWMEXTRG_0, PIOA P_10]
+- J8 : PA11,  of Type IO, alternates : [PIOA PIODC_5, QSPI QCS_, PWM1 PWML_0, PIOA P_11, PWM0 PWMH_0, SUPC WKUP_7]
+- K10 : PA12,  of Type IO, alternates : [PIOA PIODC_6, QSPI QIO_1, PIOA P_12, PWM1 PWMH_0, PWM0 PWMH_1]
+- G5 : PA13,  of Type IO, alternates : [QSPI QIO_0, PWM1 PWML_1, PIOA P_13, PIOA PIODC_7, PWM0 PWMH_2]
+- H6 : PA14,  of Type IO, alternates : [PIOA PIODCEN_1, PWM0 PWMH_3, QSPI QSCK_, PWM1 PWMH_1, SUPC WKUP_8, PIOA P_14]
+- J6 : PA15,  of Type IO, alternates : [PIOA P_15, PWM0 PWML_3, I2SC0 WS_, TC0 TIOA_1]
+- J5 : PA16,  of Type IO, alternates : [PIOA P_16, I2SC0 DI_0, PWM0 PWML_2, TC0 TIOB_1]
+- G1 : PA17,  of Type IO, alternates : [PMC PCK_1, QSPI QIO_2, PIOA P_17, AFEC0 AD_6, PWM0 PWMH_3]
+- G2 : PA18,  of Type IO, alternates : [PMC PCK_2, PIOA P_18, AFEC0 AD_7, PWM1 PWMEXTRG_1]
+- F1 : PA19,  of Type IO, alternates : [PIOA P_19, AFEC0 AD_8, PWM0 PWML_0, SUPC WKUP_9]
+- F2 : PA20,  of Type IO, alternates : [SUPC WKUP_10, AFEC0 AD_9, PIOA P_20, PWM0 PWML_1]
+- J1 : PA21,  of Type IO, alternates : [AFEC0 AD_1, PIOA PIODCEN_2, PMC PCK_1, USART1 RXD_1, PIOA P_21, PWM1 PWMFI_0]
+- J3 : PA22,  of Type IO, alternates : [PWM0 PWMEXTRG_1, PIOA PIODCCLK_, PIOA P_22, SSC RK_]
+- K5 : PA23,  of Type IO, alternates : [USART1 SCK_1, PWM1 PWML_2, PIOA P_23, PWM0 PWMH_0]
+- K7 : PA24,  of Type IO, alternates : [USART1 RTS_1, ISI PCK_, PIOA P_24, PWM0 PWMH_1]
+- H7 : PA25,  of Type IO, alternates : [USART1 CTS_1, HSMCI MCCK_, PIOA P_25, PWM0 PWMH_2]
+- K8 : PA26,  of Type IO, alternates : [HSMCI MCDA_2, PIOA P_26, USART1 DCD_1, TC0 TIOA_2, PWM1 PWMFI_1]
+- H8 : PA27,  of Type IO, alternates : [HSMCI MCDA_3, PIOA P_27, ISI D_7, USART1 DTR_1, TC0 TIOB_2]
+- A9 : PA28,  of Type IO, alternates : [PIOA P_28, HSMCI MCCDA_, TC0 TCLK_1, USART1 DSR_1, PWM1 PWMFI_2]
+- C7 : PA30,  of Type IO, alternates : [HSMCI MCDA_0, SUPC WKUP_11, I2SC0 DO_0, PWM1 PWMEXTRG_0, PIOA P_30, PWM0 PWML_2]
+- A7 : PA31,  of Type IO, alternates : [PMC PCK_2, HSMCI MCDA_1, PIOA P_31, SPI0 NPCS_1, PWM1 PWMH_2]
+- E1 : PB0,  of Type IO, alternates : [USART0 RXD_0, RTC RTCOUT_0, SSC TF_, AFEC0 AD_10, PWM0 PWMH_0, PIOB P_32]
+- E2 : PB1,  of Type IO, alternates : [RTC RTCOUT_1, USART0 TXD_0, AFEC1 AD_0, SSC TK_, PIOB P_33, PWM0 PWMH_1]
+- H1 : PB2,  of Type IO, alternates : [SPI0 NPCS_0, AFEC0 AD_5, PIOB P_34, USART0 CTS_0]
+- H2 : PB3,  of Type IO, alternates : [AFEC0 AD_2, PMC PCK_2, SUPC WKUP_12, PIOB P_35, USART0 RTS_0, ISI D_2]
+- B9 : PB4,  of Type IO, alternates : [ICE TDI_, USART1 TXD_1, TWIHS1 TWD_1, PIOB P_36, PWM0 PWMH_2]
+- C8 : PB5,  of Type IO, alternates : [SUPC WKUP_13, TWIHS1 TWCK_1, SSC TD_, PWM0 PWML_0, PIOB P_37, ICE TDO_, ICE TRACESWO_]
+- G8 : PB6,  of Type IO, alternates : [ICE SWDIO_, PIOB P_38, ICE TMS_]
+- E9 : PB7,  of Type IO, alternates : [PIOB P_39, ICE TCK_, ICE SWDCLK_]
+- A2 : PB8,  of Type IO, alternates : [PIOB P_40, PMC XOUT_]
+- A1 : PB9,  of Type IO, alternates : [PMC XIN_, PIOB P_41]
+- F8 : PB12,  of Type IO, alternates : [PWM0 PWML_1, PIOB P_44, EFC ERASE_, PMC PCK_0]
+- B2 : PB13,  of Type IO, alternates : [PIOB P_45, USART0 SCK_0, PWM0 PWML_2, DACC DAC_0, PMC PCK_0]
+- B1 : PD0,  of Type IO, alternates : [USART0 DCD_0, PIOD P_96, PWM1 PWML_0, DACC DAC_1]
+- D3 : PD1,  of Type IO, alternates : [PIOD P_97, PWM1 PWMH_0, USART0 DTR_0]
+- E3 : PD2,  of Type IO, alternates : [PIOD P_98, PWM1 PWML_1, USART0 DSR_0]
+- B5 : PD3,  of Type IO, alternates : [USART0 RI_0, PIOD P_99, UART4 UTXD_4, PWM1 PWMH_1]
+- A5 : PD4,  of Type IO, alternates : [USART2 DCD_2, PIOD P_100, PWM1 PWML_2, TPIU TRACED_0]
+- D5 : PD5,  of Type IO, alternates : [PIOD P_101, USART2 DTR_2, PWM1 PWMH_2, TPIU TRACED_1]
+- B6 : PD6,  of Type IO, alternates : [PWM1 PWML_3, PIOD P_102, TPIU TRACED_2, USART2 DSR_2]
+- A8 : PD7,  of Type IO, alternates : [PIOD P_103, USART2 RI_2, TPIU TRACED_3, PWM1 PWMH_3]
+- B7 : PD8,  of Type IO, alternates : [PWM0 PWMFI_1, TPIU TRACECLK_, PIOD P_104]
+- B8 : PD9,  of Type IO, alternates : [AFEC1 ADTRG_, PWM0 PWMFI_2, PIOD P_105]
+- C9 : PD10,  of Type IO, alternates : [SSC TD_, PWM0 PWML_0, PIOD P_106]
+- D9 : PD11,  of Type IO, alternates : [ISI D_5, PWM0 PWMH_0, PIOD P_107]
+- E10 : PD12,  of Type IO, alternates : [PIOD P_108, ISI D_6, SPI0 NPCS_2]
+- E8 : PD13,  of Type IO, alternates : [PIOD P_109]
+- F10 : PD14,  of Type IO, alternates : [PIOD P_110]
+- B10 : PD15,  of Type IO, alternates : [PIOD P_111, USART2 RXD_2]
+- G9 : PD16,  of Type IO, alternates : [USART2 TXD_2, PIOD P_112]
+- J10 : PD17,  of Type IO, alternates : [USART2 SCK_2, PIOD P_113]
+- K6 : PD18,  of Type IO, alternates : [USART2 RTS_2, PIOD P_114, UART4 URXD_4]
+- K4 : PD19,  of Type IO, alternates : [USART2 CTS_2, UART4 UTXD_4, PIOD P_115]
+- K3 : PD20,  of Type IO, alternates : [SPI0 MISO_, PIOD P_116, PWM0 PWMH_0]
+- H5 : PD21,  of Type IO, alternates : [ISI D_1, SPI0 MOSI_, TC3 TIOA_11, PWM0 PWMH_1, PIOD P_117]
+- J4 : PD22,  of Type IO, alternates : [ISI D_0, SPI0 SPCK_, TC3 TIOB_11, PIOD P_118, PWM0 PWMH_2]
+- G4 : PD24,  of Type IO, alternates : [PIOD P_120, TC3 TCLK_11, PWM0 PWML_0, SSC RF_, ISI HSYNC_]
+- H3 : PD25,  of Type IO, alternates : [ISI VSYNC_, PIOD P_121, PWM0 PWML_1, UART2 URXD_2, SPI0 NPCS_1]
+- G3 : PD26,  of Type IO, alternates : [UART2 UTXD_2, SSC TD_, UART1 UTXD_1, PIOD P_122, PWM0 PWML_2]
+- H4 : PD27,  of Type IO, alternates : [ISI D_8, PWM0 PWML_3, PIOD P_123, TWIHS2 TWD_2, SPI0 NPCS_3]
+- J7 : PD28,  of Type IO, alternates : [ISI D_9, TWIHS2 TWCK_2, PIOD P_124, UART3 URXD_3, SUPC WKUP_5]
+- K1 : PD30,  of Type IO, alternates : [UART3 UTXD_3, ISI D_10, PIOD P_126, AFEC0 AD_0]
+- C1 : PD31,  of Type IO, alternates : [PMC PCK_2, QSPI QIO_3, UART3 UTXD_3, ISI D_11, PIOD P_127]
+- C3 : VDDOUT,  of Type PP
+- C2 : VDDIN,  of Type PP
+- D2 : VREFN,  of Type PS
+- D1 : VREFP,  of Type PS
+- G10 : NRST,  of Type IP
+- F7 : TST,  of Type IO
+- C5 : VDDIO,  of Type PP
+- F3 : VDDIO,  of Type PP
+- G7 : VDDIO,  of Type PP
+- A10 : JTAGSEL,  of Type OP
+- C6 : VDDCORE,  of Type PP
+- D6 : VDDCORE,  of Type PP
+- G6 : VDDCORE,  of Type PP
+- D7 : VDDPLL,  of Type PP
+- E5 : VDDUTMII,  of Type PP
+- A4 : HSDM,  of Type IO
+- B4 : HSDP,  of Type IO
+- E7 : GND,  of Type PS
+- F4 : GND,  of Type PS
+- F5 : GND,  of Type PS
+- F6 : GND,  of Type PS
+- D4 : GNDANA,  of Type PS
+- A6 : GNDUTMI,  of Type PS
+- C4 : GNDPLLUSB,  of Type PS
+- E6 : GNDPLL,  of Type PS
+- B3 : VDDUTMIC,  of Type PP
+- A3 : VBG,  of Type IO
+- E4 : VDDPLLUSB,  of Type PP
 ## ATSAMS70N21B-CN
+
 ### Description : 
+
+- Series : SAMS70
+- Footprint : TFBGA100
+- MP : ATSAMS70N21B-CN
+- Architecture : CORTEX-M7
+- PINOUT : TFBGA100
+- Reference : U
+- Documentation : https://www.microchip.com/en-us/search?q=ATSAMS70N21B-CN
+- Value : ATSAMS70N21B-CN
+- Family : SAMS
+- MF : Microchip
+- Name : ATSAMS70N21B
 
 ### Package : 
 
-- D8 : PA0
-- C10 : PA1
-- D10 : PA2
-- F9 : PA3
-- H10 : PA4
-- H9 : PA5
-- J2 : PA7
-- K2 : PA8
-- J9 : PA9
-- K9 : PA10
-- J8 : PA11
-- K10 : PA12
-- G5 : PA13
-- H6 : PA14
-- J6 : PA15
-- J5 : PA16
-- G1 : PA17
-- G2 : PA18
-- F1 : PA19
-- F2 : PA20
-- J1 : PA21
-- J3 : PA22
-- K5 : PA23
-- K7 : PA24
-- H7 : PA25
-- K8 : PA26
-- H8 : PA27
-- A9 : PA28
-- C7 : PA30
-- A7 : PA31
-- E1 : PB0
-- E2 : PB1
-- H1 : PB2
-- H2 : PB3
-- B9 : PB4
-- C8 : PB5
-- G8 : PB6
-- E9 : PB7
-- A2 : PB8
-- A1 : PB9
-- F8 : PB12
-- B2 : PB13
-- C1 : PD0
-- D2 : PD1
-- E3 : PD2
-- B5 : PD3
-- A5 : PD4
-- D5 : PD5
-- B6 : PD6
-- A6 : PD7
-- B7 : PD8
-- B8 : PD9
-- C9 : PD10
-- D9 : PD11
-- E10 : PD12
-- E8 : PD13
-- F10 : PD14
-- B10 : PD15
-- G9 : PD16
-- J10 : PD17
-- K6 : PD18
-- K4 : PD19
-- K3 : PD20
-- H5 : PD21
-- J4 : PD22
-- G4 : PD24
-- H3 : PD25
-- G3 : PD26
-- H4 : PD27
-- J7 : PD28
-- K1 : PD30
-- B1 : PD31
-- C3 : VDDOUT
-- C2 : VDDIN
-- D3 : VREFN
-- D1 : VREFP
-- G10 : NRST
-- F7 : TST
-- C5 : VDDIO
-- F3 : VDDIO
-- G7 : VDDIO
-- A10 : JTAGSEL
-- C6 : VDDCORE
-- D6 : VDDCORE
-- G6 : VDDCORE
-- D7 : VDDPLL
-- E5 : VDDUTMII
-- A4 : HSDM
-- B4 : HSDP
-- E7 : GND
-- F4 : GND
-- F5 : GND
-- F6 : GND
-- D4 : GNDANA
-- A8 : GNDUTMI
-- C4 : GNDPLLUSB
-- E4 : GNDPLL
-- B3 : VDDUTMIC
-- A3 : VBG
-- E6 : VDDPLLUSB
+Pin count : 100
+- D8 : PA0,  of Type IO, alternates : [I2SC0 MCK_, SUPC WKUP_0, TC0 TIOA_0, PIOA P_0, PWM0 PWMH_0]
+- C10 : PA1,  of Type IO, alternates : [I2SC0 CK_, SUPC WKUP_1, PWM0 PWML_0, PIOA P_1, TC0 TIOB_0]
+- D10 : PA2,  of Type IO, alternates : [SUPC WKUP_2, PIOA P_2, PWM0 PWMH_1, DACC DATRG_]
+- F9 : PA3,  of Type IO, alternates : [PMC PCK_2, USART1 LONCOL_1, TWIHS0 TWD_0, PIOA PIODC_0, PIOA P_3]
+- H10 : PA4,  of Type IO, alternates : [SUPC WKUP_3, TWIHS0 TWCK_0, TC0 TCLK_0, PIOA PIODC_1, PIOA P_4, UART1 UTXD_1]
+- H9 : PA5,  of Type IO, alternates : [SUPC WKUP_4, PIOA PIODC_2, ISI D_4, PIOA P_5, UART1 URXD_1, PWM1 PWML_3]
+- J2 : PA7,  of Type IO, alternates : [PIOA P_7, PWM0 PWMH_3, PMC XIN32_]
+- K2 : PA8,  of Type IO, alternates : [PIOA P_8, AFEC0 ADTRG_, PMC XOUT32_, PWM1 PWMH_3]
+- J9 : PA9,  of Type IO, alternates : [PWM0 PWMFI_0, PIOA P_9, PIOA PIODC_3, UART0 URXD_0, ISI D_3, SUPC WKUP_6]
+- K9 : PA10,  of Type IO, alternates : [PIOA PIODC_4, UART0 UTXD_0, SSC RD_, PWM0 PWMEXTRG_0, PIOA P_10]
+- J8 : PA11,  of Type IO, alternates : [PIOA PIODC_5, QSPI QCS_, PWM1 PWML_0, PIOA P_11, PWM0 PWMH_0, SUPC WKUP_7]
+- K10 : PA12,  of Type IO, alternates : [PIOA PIODC_6, QSPI QIO_1, PIOA P_12, PWM1 PWMH_0, PWM0 PWMH_1]
+- G5 : PA13,  of Type IO, alternates : [QSPI QIO_0, PWM1 PWML_1, PIOA P_13, PIOA PIODC_7, PWM0 PWMH_2]
+- H6 : PA14,  of Type IO, alternates : [PIOA PIODCEN_1, PWM0 PWMH_3, QSPI QSCK_, PWM1 PWMH_1, SUPC WKUP_8, PIOA P_14]
+- J6 : PA15,  of Type IO, alternates : [PIOA P_15, PWM0 PWML_3, I2SC0 WS_, TC0 TIOA_1]
+- J5 : PA16,  of Type IO, alternates : [PIOA P_16, I2SC0 DI_0, PWM0 PWML_2, TC0 TIOB_1]
+- G1 : PA17,  of Type IO, alternates : [PMC PCK_1, QSPI QIO_2, PIOA P_17, AFEC0 AD_6, PWM0 PWMH_3]
+- G2 : PA18,  of Type IO, alternates : [PMC PCK_2, PIOA P_18, AFEC0 AD_7, PWM1 PWMEXTRG_1]
+- F1 : PA19,  of Type IO, alternates : [PIOA P_19, AFEC0 AD_8, PWM0 PWML_0, SUPC WKUP_9]
+- F2 : PA20,  of Type IO, alternates : [SUPC WKUP_10, AFEC0 AD_9, PIOA P_20, PWM0 PWML_1]
+- J1 : PA21,  of Type IO, alternates : [AFEC0 AD_1, PIOA PIODCEN_2, PMC PCK_1, USART1 RXD_1, PIOA P_21, PWM1 PWMFI_0]
+- J3 : PA22,  of Type IO, alternates : [PWM0 PWMEXTRG_1, PIOA PIODCCLK_, PIOA P_22, SSC RK_]
+- K5 : PA23,  of Type IO, alternates : [USART1 SCK_1, PWM1 PWML_2, PIOA P_23, PWM0 PWMH_0]
+- K7 : PA24,  of Type IO, alternates : [USART1 RTS_1, ISI PCK_, PIOA P_24, PWM0 PWMH_1]
+- H7 : PA25,  of Type IO, alternates : [USART1 CTS_1, HSMCI MCCK_, PIOA P_25, PWM0 PWMH_2]
+- K8 : PA26,  of Type IO, alternates : [HSMCI MCDA_2, PIOA P_26, USART1 DCD_1, TC0 TIOA_2, PWM1 PWMFI_1]
+- H8 : PA27,  of Type IO, alternates : [HSMCI MCDA_3, PIOA P_27, ISI D_7, USART1 DTR_1, TC0 TIOB_2]
+- A9 : PA28,  of Type IO, alternates : [PIOA P_28, HSMCI MCCDA_, TC0 TCLK_1, USART1 DSR_1, PWM1 PWMFI_2]
+- C7 : PA30,  of Type IO, alternates : [HSMCI MCDA_0, SUPC WKUP_11, I2SC0 DO_0, PWM1 PWMEXTRG_0, PIOA P_30, PWM0 PWML_2]
+- A7 : PA31,  of Type IO, alternates : [PMC PCK_2, HSMCI MCDA_1, PIOA P_31, SPI0 NPCS_1, PWM1 PWMH_2]
+- E1 : PB0,  of Type IO, alternates : [USART0 RXD_0, RTC RTCOUT_0, SSC TF_, AFEC0 AD_10, PWM0 PWMH_0, PIOB P_32]
+- E2 : PB1,  of Type IO, alternates : [RTC RTCOUT_1, USART0 TXD_0, AFEC1 AD_0, SSC TK_, PIOB P_33, PWM0 PWMH_1]
+- H1 : PB2,  of Type IO, alternates : [SPI0 NPCS_0, AFEC0 AD_5, PIOB P_34, USART0 CTS_0]
+- H2 : PB3,  of Type IO, alternates : [AFEC0 AD_2, PMC PCK_2, SUPC WKUP_12, PIOB P_35, USART0 RTS_0, ISI D_2]
+- B9 : PB4,  of Type IO, alternates : [ICE TDI_, USART1 TXD_1, TWIHS1 TWD_1, PIOB P_36, PWM0 PWMH_2]
+- C8 : PB5,  of Type IO, alternates : [SUPC WKUP_13, TWIHS1 TWCK_1, SSC TD_, PWM0 PWML_0, PIOB P_37, ICE TDO_, ICE TRACESWO_]
+- G8 : PB6,  of Type IO, alternates : [ICE SWDIO_, PIOB P_38, ICE TMS_]
+- E9 : PB7,  of Type IO, alternates : [PIOB P_39, ICE TCK_, ICE SWDCLK_]
+- A2 : PB8,  of Type IO, alternates : [PIOB P_40, PMC XOUT_]
+- A1 : PB9,  of Type IO, alternates : [PMC XIN_, PIOB P_41]
+- F8 : PB12,  of Type IO, alternates : [PWM0 PWML_1, PIOB P_44, EFC ERASE_, PMC PCK_0]
+- B2 : PB13,  of Type IO, alternates : [PIOB P_45, USART0 SCK_0, PWM0 PWML_2, DACC DAC_0, PMC PCK_0]
+- C1 : PD0,  of Type IO, alternates : [USART0 DCD_0, PIOD P_96, PWM1 PWML_0, DACC DAC_1]
+- D2 : PD1,  of Type IO, alternates : [PIOD P_97, PWM1 PWMH_0, USART0 DTR_0]
+- E3 : PD2,  of Type IO, alternates : [PIOD P_98, PWM1 PWML_1, USART0 DSR_0]
+- B5 : PD3,  of Type IO, alternates : [USART0 RI_0, PIOD P_99, UART4 UTXD_4, PWM1 PWMH_1]
+- A5 : PD4,  of Type IO, alternates : [USART2 DCD_2, PIOD P_100, PWM1 PWML_2, TPIU TRACED_0]
+- D5 : PD5,  of Type IO, alternates : [PIOD P_101, USART2 DTR_2, PWM1 PWMH_2, TPIU TRACED_1]
+- B6 : PD6,  of Type IO, alternates : [PWM1 PWML_3, PIOD P_102, TPIU TRACED_2, USART2 DSR_2]
+- A6 : PD7,  of Type IO, alternates : [PIOD P_103, USART2 RI_2, TPIU TRACED_3, PWM1 PWMH_3]
+- B7 : PD8,  of Type IO, alternates : [PWM0 PWMFI_1, TPIU TRACECLK_, PIOD P_104]
+- B8 : PD9,  of Type IO, alternates : [AFEC1 ADTRG_, PWM0 PWMFI_2, PIOD P_105]
+- C9 : PD10,  of Type IO, alternates : [SSC TD_, PWM0 PWML_0, PIOD P_106]
+- D9 : PD11,  of Type IO, alternates : [ISI D_5, PWM0 PWMH_0, PIOD P_107]
+- E10 : PD12,  of Type IO, alternates : [PIOD P_108, ISI D_6, SPI0 NPCS_2]
+- E8 : PD13,  of Type IO, alternates : [PIOD P_109]
+- F10 : PD14,  of Type IO, alternates : [PIOD P_110]
+- B10 : PD15,  of Type IO, alternates : [PIOD P_111, USART2 RXD_2]
+- G9 : PD16,  of Type IO, alternates : [USART2 TXD_2, PIOD P_112]
+- J10 : PD17,  of Type IO, alternates : [USART2 SCK_2, PIOD P_113]
+- K6 : PD18,  of Type IO, alternates : [USART2 RTS_2, PIOD P_114, UART4 URXD_4]
+- K4 : PD19,  of Type IO, alternates : [USART2 CTS_2, UART4 UTXD_4, PIOD P_115]
+- K3 : PD20,  of Type IO, alternates : [SPI0 MISO_, PIOD P_116, PWM0 PWMH_0]
+- H5 : PD21,  of Type IO, alternates : [ISI D_1, SPI0 MOSI_, TC3 TIOA_11, PWM0 PWMH_1, PIOD P_117]
+- J4 : PD22,  of Type IO, alternates : [ISI D_0, SPI0 SPCK_, TC3 TIOB_11, PIOD P_118, PWM0 PWMH_2]
+- G4 : PD24,  of Type IO, alternates : [PIOD P_120, TC3 TCLK_11, PWM0 PWML_0, SSC RF_, ISI HSYNC_]
+- H3 : PD25,  of Type IO, alternates : [ISI VSYNC_, PIOD P_121, PWM0 PWML_1, UART2 URXD_2, SPI0 NPCS_1]
+- G3 : PD26,  of Type IO, alternates : [UART2 UTXD_2, SSC TD_, UART1 UTXD_1, PIOD P_122, PWM0 PWML_2]
+- H4 : PD27,  of Type IO, alternates : [ISI D_8, PWM0 PWML_3, PIOD P_123, TWIHS2 TWD_2, SPI0 NPCS_3]
+- J7 : PD28,  of Type IO, alternates : [ISI D_9, TWIHS2 TWCK_2, PIOD P_124, UART3 URXD_3, SUPC WKUP_5]
+- K1 : PD30,  of Type IO, alternates : [UART3 UTXD_3, ISI D_10, PIOD P_126, AFEC0 AD_0]
+- B1 : PD31,  of Type IO, alternates : [PMC PCK_2, QSPI QIO_3, UART3 UTXD_3, ISI D_11, PIOD P_127]
+- C3 : VDDOUT,  of Type PP
+- C2 : VDDIN,  of Type PP
+- D3 : VREFN,  of Type PS
+- D1 : VREFP,  of Type PS
+- G10 : NRST,  of Type IP
+- F7 : TST,  of Type IO
+- C5 : VDDIO,  of Type PP
+- F3 : VDDIO,  of Type PP
+- G7 : VDDIO,  of Type PP
+- A10 : JTAGSEL,  of Type OP
+- C6 : VDDCORE,  of Type PP
+- D6 : VDDCORE,  of Type PP
+- G6 : VDDCORE,  of Type PP
+- D7 : VDDPLL,  of Type PP
+- E5 : VDDUTMII,  of Type PP
+- A4 : HSDM,  of Type IO
+- B4 : HSDP,  of Type IO
+- E7 : GND,  of Type PS
+- F4 : GND,  of Type PS
+- F5 : GND,  of Type PS
+- F6 : GND,  of Type PS
+- D4 : GNDANA,  of Type PS
+- A8 : GNDUTMI,  of Type PS
+- C4 : GNDPLLUSB,  of Type PS
+- E4 : GNDPLL,  of Type PS
+- B3 : VDDUTMIC,  of Type PP
+- A3 : VBG,  of Type IO
+- E6 : VDDPLLUSB,  of Type PP
 ## ATSAMS70Q19B-AN
+
 ### Description : 
+
+- Series : SAMS70
+- Footprint : LQFP144
+- MP : ATSAMS70Q19B-AN
+- Architecture : CORTEX-M7
+- PINOUT : LQFP144
+- Reference : U
+- Documentation : https://www.microchip.com/en-us/search?q=ATSAMS70Q19B-AN
+- Value : ATSAMS70Q19B-AN
+- Family : SAMS
+- MF : Microchip
+- Name : ATSAMS70Q19B
 
 ### Package : 
 
-- 102 : PA0
-- 99 : PA1
-- 93 : PA2
-- 91 : PA3
-- 77 : PA4
-- 73 : PA5
-- 114 : PA6
-- 35 : PA7
-- 36 : PA8
-- 75 : PA9
-- 66 : PA10
-- 64 : PA11
-- 68 : PA12
-- 42 : PA13
-- 51 : PA14
-- 49 : PA15
-- 45 : PA16
-- 25 : PA17
-- 24 : PA18
-- 23 : PA19
-- 22 : PA20
-- 32 : PA21
-- 37 : PA22
-- 46 : PA23
-- 56 : PA24
-- 59 : PA25
-- 62 : PA26
-- 70 : PA27
-- 112 : PA28
-- 129 : PA29
-- 116 : PA30
-- 118 : PA31
-- 21 : PB0
-- 20 : PB1
-- 26 : PB2
-- 31 : PB3
-- 105 : PB4
-- 109 : PB5
-- 79 : PB6
-- 89 : PB7
-- 141 : PB8
-- 142 : PB9
-- 87 : PB12
-- 144 : PB13
-- 11 : PC0
-- 38 : PC1
-- 39 : PC2
-- 40 : PC3
-- 41 : PC4
-- 58 : PC5
-- 54 : PC6
-- 48 : PC7
-- 82 : PC8
-- 86 : PC9
-- 90 : PC10
-- 94 : PC11
-- 17 : PC12
-- 19 : PC13
-- 97 : PC14
-- 18 : PC15
-- 100 : PC16
-- 103 : PC17
-- 111 : PC18
-- 117 : PC19
-- 120 : PC20
-- 122 : PC21
-- 124 : PC22
-- 127 : PC23
-- 130 : PC24
-- 133 : PC25
-- 13 : PC26
-- 12 : PC27
-- 76 : PC28
-- 16 : PC29
-- 15 : PC30
-- 14 : PC31
-- 1 : PD0
-- 132 : PD1
-- 131 : PD2
-- 128 : PD3
-- 126 : PD4
-- 125 : PD5
-- 121 : PD6
-- 119 : PD7
-- 113 : PD8
-- 110 : PD9
-- 101 : PD10
-- 98 : PD11
-- 92 : PD12
-- 88 : PD13
-- 84 : PD14
-- 106 : PD15
-- 78 : PD16
-- 74 : PD17
-- 69 : PD18
-- 67 : PD19
-- 65 : PD20
-- 63 : PD21
-- 60 : PD22
-- 57 : PD23
-- 55 : PD24
-- 52 : PD25
-- 53 : PD26
-- 47 : PD27
-- 71 : PD28
-- 108 : PD29
-- 34 : PD30
-- 2 : PD31
-- 4 : PE0
-- 6 : PE1
-- 7 : PE2
-- 10 : PE3
-- 27 : PE4
-- 28 : PE5
-- 3 : VDDOUT
-- 5 : VDDIN
-- 8 : VREFN
-- 9 : VREFP
-- 83 : NRST
-- 85 : TST
-- 30 : VDDIO
-- 43 : VDDIO
-- 72 : VDDIO
-- 80 : VDDIO
-- 96 : VDDIO
-- 104 : JTAGSEL
-- 29 : VDDCORE
-- 33 : VDDCORE
-- 50 : VDDCORE
-- 81 : VDDCORE
-- 107 : VDDCORE
-- 123 : VDDPLL
-- 134 : VDDUTMII
-- 136 : HSDM
-- 137 : HSDP
-- 44 : GND
-- 61 : GND
-- 95 : GND
-- 115 : GND
-- 135 : GND
-- 138 : GND
-- 139 : VDDUTMIC
-- 140 : VBG
-- 143 : VDDPLLUSB
+Pin count : 144
+- 102 : PA0,  of Type IO, alternates : [I2SC0 MCK_, SUPC WKUP_0, TC0 TIOA_0, EBI A_17, PIOA P_0, PWM0 PWMH_0]
+- 99 : PA1,  of Type IO, alternates : [I2SC0 CK_, SUPC WKUP_1, EBI A_18, PWM0 PWML_0, PIOA P_1, TC0 TIOB_0]
+- 93 : PA2,  of Type IO, alternates : [SUPC WKUP_2, PIOA P_2, PWM0 PWMH_1, DACC DATRG_]
+- 91 : PA3,  of Type IO, alternates : [PMC PCK_2, USART1 LONCOL_1, TWIHS0 TWD_0, PIOA PIODC_0, PIOA P_3]
+- 77 : PA4,  of Type IO, alternates : [SUPC WKUP_3, TWIHS0 TWCK_0, TC0 TCLK_0, PIOA PIODC_1, PIOA P_4, UART1 UTXD_1]
+- 73 : PA5,  of Type IO, alternates : [SUPC WKUP_4, PIOA PIODC_2, ISI D_4, PIOA P_5, UART1 URXD_1, PWM1 PWML_3]
+- 114 : PA6,  of Type IO, alternates : [PIOA P_6, UART1 UTXD_1, PMC PCK_0]
+- 35 : PA7,  of Type IO, alternates : [PIOA P_7, PWM0 PWMH_3, PMC XIN32_]
+- 36 : PA8,  of Type IO, alternates : [PIOA P_8, AFEC0 ADTRG_, PMC XOUT32_, PWM1 PWMH_3]
+- 75 : PA9,  of Type IO, alternates : [PWM0 PWMFI_0, PIOA P_9, PIOA PIODC_3, UART0 URXD_0, ISI D_3, SUPC WKUP_6]
+- 66 : PA10,  of Type IO, alternates : [PIOA PIODC_4, UART0 UTXD_0, SSC RD_, PWM0 PWMEXTRG_0, PIOA P_10]
+- 64 : PA11,  of Type IO, alternates : [PIOA PIODC_5, QSPI QCS_, PWM1 PWML_0, PIOA P_11, PWM0 PWMH_0, SUPC WKUP_7]
+- 68 : PA12,  of Type IO, alternates : [PIOA PIODC_6, QSPI QIO_1, PIOA P_12, PWM1 PWMH_0, PWM0 PWMH_1]
+- 42 : PA13,  of Type IO, alternates : [QSPI QIO_0, PWM1 PWML_1, PIOA P_13, PIOA PIODC_7, PWM0 PWMH_2]
+- 51 : PA14,  of Type IO, alternates : [PIOA PIODCEN_1, PWM0 PWMH_3, QSPI QSCK_, PWM1 PWMH_1, SUPC WKUP_8, PIOA P_14]
+- 49 : PA15,  of Type IO, alternates : [PIOA P_15, EBI D_14, PWM0 PWML_3, I2SC0 WS_, TC0 TIOA_1]
+- 45 : PA16,  of Type IO, alternates : [PIOA P_16, EBI D_15, I2SC0 DI_0, PWM0 PWML_2, TC0 TIOB_1]
+- 25 : PA17,  of Type IO, alternates : [PMC PCK_1, QSPI QIO_2, PIOA P_17, AFEC0 AD_6, PWM0 PWMH_3]
+- 24 : PA18,  of Type IO, alternates : [PMC PCK_2, PIOA P_18, EBI A_14, AFEC0 AD_7, PWM1 PWMEXTRG_1]
+- 23 : PA19,  of Type IO, alternates : [I2SC1 MCK_, PIOA P_19, EBI A_15, AFEC0 AD_8, PWM0 PWML_0, SUPC WKUP_9]
+- 22 : PA20,  of Type IO, alternates : [SUPC WKUP_10, I2SC1 CK_, EBI A_16, AFEC0 AD_9, PIOA P_20, PWM0 PWML_1]
+- 32 : PA21,  of Type IO, alternates : [AFEC0 AD_1, PIOA PIODCEN_2, PMC PCK_1, USART1 RXD_1, PIOA P_21, PWM1 PWMFI_0]
+- 37 : PA22,  of Type IO, alternates : [EBI NCS_2, PWM0 PWMEXTRG_1, PIOA PIODCCLK_, PIOA P_22, SSC RK_]
+- 46 : PA23,  of Type IO, alternates : [EBI A_19, USART1 SCK_1, PWM1 PWML_2, PIOA P_23, PWM0 PWMH_0]
+- 56 : PA24,  of Type IO, alternates : [EBI A_20, USART1 RTS_1, ISI PCK_, PIOA P_24, PWM0 PWMH_1]
+- 59 : PA25,  of Type IO, alternates : [EBI A_23, USART1 CTS_1, HSMCI MCCK_, PIOA P_25, PWM0 PWMH_2]
+- 62 : PA26,  of Type IO, alternates : [HSMCI MCDA_2, PIOA P_26, USART1 DCD_1, TC0 TIOA_2, PWM1 PWMFI_1]
+- 70 : PA27,  of Type IO, alternates : [HSMCI MCDA_3, PIOA P_27, ISI D_7, USART1 DTR_1, TC0 TIOB_2]
+- 112 : PA28,  of Type IO, alternates : [PIOA P_28, HSMCI MCCDA_, TC0 TCLK_1, USART1 DSR_1, PWM1 PWMFI_2]
+- 129 : PA29,  of Type IO, alternates : [PIOA P_29, TC0 TCLK_2, USART1 RI_1]
+- 116 : PA30,  of Type IO, alternates : [HSMCI MCDA_0, SUPC WKUP_11, I2SC0 DO_0, PWM1 PWMEXTRG_0, PIOA P_30, PWM0 PWML_2]
+- 118 : PA31,  of Type IO, alternates : [PMC PCK_2, HSMCI MCDA_1, PIOA P_31, SPI0 NPCS_1, PWM1 PWMH_2]
+- 21 : PB0,  of Type IO, alternates : [USART0 RXD_0, RTC RTCOUT_0, SSC TF_, AFEC0 AD_10, PWM0 PWMH_0, PIOB P_32]
+- 20 : PB1,  of Type IO, alternates : [RTC RTCOUT_1, USART0 TXD_0, AFEC1 AD_0, SSC TK_, PIOB P_33, PWM0 PWMH_1]
+- 26 : PB2,  of Type IO, alternates : [SPI0 NPCS_0, AFEC0 AD_5, PIOB P_34, USART0 CTS_0]
+- 31 : PB3,  of Type IO, alternates : [AFEC0 AD_2, PMC PCK_2, SUPC WKUP_12, PIOB P_35, USART0 RTS_0, ISI D_2]
+- 105 : PB4,  of Type IO, alternates : [ICE TDI_, USART1 TXD_1, TWIHS1 TWD_1, PIOB P_36, PWM0 PWMH_2]
+- 109 : PB5,  of Type IO, alternates : [SUPC WKUP_13, TWIHS1 TWCK_1, SSC TD_, PWM0 PWML_0, PIOB P_37, ICE TDO_, ICE TRACESWO_]
+- 79 : PB6,  of Type IO, alternates : [ICE SWDIO_, PIOB P_38, ICE TMS_]
+- 89 : PB7,  of Type IO, alternates : [PIOB P_39, ICE TCK_, ICE SWDCLK_]
+- 141 : PB8,  of Type IO, alternates : [PIOB P_40, PMC XOUT_]
+- 142 : PB9,  of Type IO, alternates : [PMC XIN_, PIOB P_41]
+- 87 : PB12,  of Type IO, alternates : [PWM0 PWML_1, PIOB P_44, EFC ERASE_, PMC PCK_0]
+- 144 : PB13,  of Type IO, alternates : [PIOB P_45, USART0 SCK_0, PWM0 PWML_2, DACC DAC_0, PMC PCK_0]
+- 11 : PC0,  of Type IO, alternates : [AFEC1 AD_9, PIOC P_64, EBI D_0, PWM0 PWML_0]
+- 38 : PC1,  of Type IO, alternates : [EBI D_1, PIOC P_65, PWM0 PWML_1]
+- 39 : PC2,  of Type IO, alternates : [PIOC P_66, EBI D_2, PWM0 PWML_2]
+- 40 : PC3,  of Type IO, alternates : [PIOC P_67, PWM0 PWML_3, EBI D_3]
+- 41 : PC4,  of Type IO, alternates : [PIOC P_68, EBI D_4]
+- 58 : PC5,  of Type IO, alternates : [EBI D_5, PIOC P_69, TC2 TIOA_6]
+- 54 : PC6,  of Type IO, alternates : [EBI D_6, PIOC P_70, TC2 TIOB_6]
+- 48 : PC7,  of Type IO, alternates : [EBI D_7, TC2 TCLK_6, PIOC P_71]
+- 82 : PC8,  of Type IO, alternates : [EBI NWE_, EBI NWR_0, TC2 TIOA_7, PIOC P_72]
+- 86 : PC9,  of Type IO, alternates : [EBI NANDOE_, TC2 TIOB_7, PIOC P_73]
+- 90 : PC10,  of Type IO, alternates : [TC2 TCLK_7, EBI NANDWE_, PIOC P_74]
+- 94 : PC11,  of Type IO, alternates : [PIOC P_75, EBI NRD_, TC2 TIOA_8]
+- 17 : PC12,  of Type IO, alternates : [EBI NCS_3, PIOC P_76, AFEC1 AD_3, TC2 TIOB_8]
+- 19 : PC13,  of Type IO, alternates : [PIOC P_77, PWM0 PWMH_3, AFEC1 AD_1, EBI NWAIT_]
+- 97 : PC14,  of Type IO, alternates : [PIOC P_78, EBI NCS_0, TC2 TCLK_8]
+- 18 : PC15,  of Type IO, alternates : [EBI NCS_1, PWM0 PWML_3, AFEC1 AD_2, PIOC P_79]
+- 100 : PC16,  of Type IO, alternates : [EBI A_21, PIOC P_80, EBI NANDALE_]
+- 103 : PC17,  of Type IO, alternates : [EBI A_22, PIOC P_81, EBI NANDCLE_]
+- 111 : PC18,  of Type IO, alternates : [EBI NBS_0, PWM0 PWML_1, EBI A_0, PIOC P_82]
+- 117 : PC19,  of Type IO, alternates : [EBI A_1, PIOC P_83, PWM0 PWMH_2]
+- 120 : PC20,  of Type IO, alternates : [EBI A_2, PWM0 PWML_2, PIOC P_84]
+- 122 : PC21,  of Type IO, alternates : [EBI A_3, PWM0 PWMH_3, PIOC P_85]
+- 124 : PC22,  of Type IO, alternates : [EBI A_4, PIOC P_86, PWM0 PWML_3]
+- 127 : PC23,  of Type IO, alternates : [EBI A_5, PIOC P_87, TC1 TIOA_3]
+- 130 : PC24,  of Type IO, alternates : [PIOC P_88, SPI1 SPCK_, EBI A_6, TC1 TIOB_3]
+- 133 : PC25,  of Type IO, alternates : [PIOC P_89, SPI1 NPCS_0, EBI A_7, TC1 TCLK_3]
+- 13 : PC26,  of Type IO, alternates : [AFEC1 AD_7, EBI A_8, SPI1 MISO_, TC1 TIOA_4, PIOC P_90]
+- 12 : PC27,  of Type IO, alternates : [AFEC1 AD_8, EBI A_9, PIOC P_91, TC1 TIOB_4, SPI1 MOSI_]
+- 76 : PC28,  of Type IO, alternates : [SPI1 NPCS_1, EBI A_10, PIOC P_92, TC1 TCLK_4]
+- 16 : PC29,  of Type IO, alternates : [EBI A_11, AFEC1 AD_4, TC1 TIOA_5, PIOC P_93, SPI1 NPCS_2]
+- 15 : PC30,  of Type IO, alternates : [EBI A_12, AFEC1 AD_5, SPI1 NPCS_3, PIOC P_94, TC1 TIOB_5]
+- 14 : PC31,  of Type IO, alternates : [AFEC1 AD_6, EBI A_13, PIOC P_95, TC1 TCLK_5]
+- 1 : PD0,  of Type IO, alternates : [SPI1 NPCS_1, USART0 DCD_0, PIOD P_96, PWM1 PWML_0, DACC DAC_1]
+- 132 : PD1,  of Type IO, alternates : [PIOD P_97, PWM1 PWMH_0, SPI1 NPCS_2, USART0 DTR_0]
+- 131 : PD2,  of Type IO, alternates : [PIOD P_98, PWM1 PWML_1, SPI1 NPCS_3, USART0 DSR_0]
+- 128 : PD3,  of Type IO, alternates : [USART0 RI_0, PIOD P_99, UART4 UTXD_4, PWM1 PWMH_1]
+- 126 : PD4,  of Type IO, alternates : [USART2 DCD_2, PIOD P_100, PWM1 PWML_2, TPIU TRACED_0]
+- 125 : PD5,  of Type IO, alternates : [PIOD P_101, USART2 DTR_2, PWM1 PWMH_2, TPIU TRACED_1]
+- 121 : PD6,  of Type IO, alternates : [PWM1 PWML_3, PIOD P_102, TPIU TRACED_2, USART2 DSR_2]
+- 119 : PD7,  of Type IO, alternates : [PIOD P_103, USART2 RI_2, TPIU TRACED_3, PWM1 PWMH_3]
+- 113 : PD8,  of Type IO, alternates : [PWM0 PWMFI_1, TPIU TRACECLK_, PIOD P_104]
+- 110 : PD9,  of Type IO, alternates : [AFEC1 ADTRG_, PWM0 PWMFI_2, PIOD P_105]
+- 101 : PD10,  of Type IO, alternates : [SSC TD_, PWM0 PWML_0, PIOD P_106]
+- 98 : PD11,  of Type IO, alternates : [ISI D_5, PWM0 PWMH_0, PIOD P_107]
+- 92 : PD12,  of Type IO, alternates : [PIOD P_108, ISI D_6, SPI0 NPCS_2]
+- 88 : PD13,  of Type IO, alternates : [PIOD P_109]
+- 84 : PD14,  of Type IO, alternates : [PIOD P_110]
+- 106 : PD15,  of Type IO, alternates : [EBI NWR_1, EBI NBS_1, PIOD P_111, USART2 RXD_2]
+- 78 : PD16,  of Type IO, alternates : [USART2 TXD_2, PIOD P_112]
+- 74 : PD17,  of Type IO, alternates : [USART2 SCK_2, PIOD P_113]
+- 69 : PD18,  of Type IO, alternates : [EBI NCS_1, USART2 RTS_2, PIOD P_114, UART4 URXD_4]
+- 67 : PD19,  of Type IO, alternates : [EBI NCS_3, USART2 CTS_2, UART4 UTXD_4, PIOD P_115]
+- 65 : PD20,  of Type IO, alternates : [SPI0 MISO_, PIOD P_116, PWM0 PWMH_0]
+- 63 : PD21,  of Type IO, alternates : [ISI D_1, SPI0 MOSI_, TC3 TIOA_11, PWM0 PWMH_1, PIOD P_117]
+- 60 : PD22,  of Type IO, alternates : [ISI D_0, SPI0 SPCK_, TC3 TIOB_11, PIOD P_118, PWM0 PWMH_2]
+- 57 : PD23,  of Type IO, alternates : [PIOD P_119, PWM0 PWMH_3]
+- 55 : PD24,  of Type IO, alternates : [PIOD P_120, TC3 TCLK_11, PWM0 PWML_0, SSC RF_, ISI HSYNC_]
+- 52 : PD25,  of Type IO, alternates : [ISI VSYNC_, PIOD P_121, PWM0 PWML_1, UART2 URXD_2, SPI0 NPCS_1]
+- 53 : PD26,  of Type IO, alternates : [UART2 UTXD_2, SSC TD_, UART1 UTXD_1, PIOD P_122, PWM0 PWML_2]
+- 47 : PD27,  of Type IO, alternates : [ISI D_8, PWM0 PWML_3, PIOD P_123, TWIHS2 TWD_2, SPI0 NPCS_3]
+- 71 : PD28,  of Type IO, alternates : [ISI D_9, TWIHS2 TWCK_2, PIOD P_124, UART3 URXD_3, SUPC WKUP_5]
+- 108 : PD29,  of Type IO, alternates : [PIOD P_125]
+- 34 : PD30,  of Type IO, alternates : [UART3 UTXD_3, ISI D_10, PIOD P_126, AFEC0 AD_0]
+- 2 : PD31,  of Type IO, alternates : [PMC PCK_2, QSPI QIO_3, UART3 UTXD_3, ISI D_11, PIOD P_127]
+- 4 : PE0,  of Type IO, alternates : [I2SC1 WS_, PIOE P_128, EBI D_8, TC3 TIOA_9, AFEC1 AD_11]
+- 6 : PE1,  of Type IO, alternates : [I2SC1 DO_0, EBI D_9, PIOE P_129, TC3 TIOB_9]
+- 7 : PE2,  of Type IO, alternates : [TC3 TCLK_9, I2SC1 DI_0, PIOE P_130, EBI D_10]
+- 10 : PE3,  of Type IO, alternates : [TC3 TIOA_10, AFEC1 AD_10, EBI D_11, PIOE P_131]
+- 27 : PE4,  of Type IO, alternates : [PIOE P_132, EBI D_12, AFEC0 AD_4, TC3 TIOB_10]
+- 28 : PE5,  of Type IO, alternates : [EBI D_13, PIOE P_133, AFEC0 AD_3, TC3 TCLK_10]
+- 3 : VDDOUT,  of Type PP
+- 5 : VDDIN,  of Type PP
+- 8 : VREFN,  of Type PS
+- 9 : VREFP,  of Type PS
+- 83 : NRST,  of Type IP
+- 85 : TST,  of Type IO
+- 30 : VDDIO,  of Type PP
+- 43 : VDDIO,  of Type PP
+- 72 : VDDIO,  of Type PP
+- 80 : VDDIO,  of Type PP
+- 96 : VDDIO,  of Type PP
+- 104 : JTAGSEL,  of Type OP
+- 29 : VDDCORE,  of Type PP
+- 33 : VDDCORE,  of Type PP
+- 50 : VDDCORE,  of Type PP
+- 81 : VDDCORE,  of Type PP
+- 107 : VDDCORE,  of Type PP
+- 123 : VDDPLL,  of Type PP
+- 134 : VDDUTMII,  of Type PP
+- 136 : HSDM,  of Type IO
+- 137 : HSDP,  of Type IO
+- 44 : GND,  of Type PS
+- 61 : GND,  of Type PS
+- 95 : GND,  of Type PS
+- 115 : GND,  of Type PS
+- 135 : GND,  of Type PS
+- 138 : GND,  of Type PS
+- 139 : VDDUTMIC,  of Type PP
+- 140 : VBG,  of Type IO
+- 143 : VDDPLLUSB,  of Type PP
 ## ATSAMS70Q19B-CFN
+
 ### Description : 
+
+- Series : SAMS70
+- Footprint : UFBGA144
+- MP : ATSAMS70Q19B-CFN
+- Architecture : CORTEX-M7
+- PINOUT : UFBGA144
+- Reference : U
+- Documentation : https://www.microchip.com/en-us/search?q=ATSAMS70Q19B-CFN
+- Value : ATSAMS70Q19B-CFN
+- Family : SAMS
+- MF : Microchip
+- Name : ATSAMS70Q19B
 
 ### Package : 
 
-- A1 : PB13
-- A2 : PB9
-- A3 : VBG
-- A4 : HSDP
-- A5 : HSDM
-- A6 : PD2
-- A7 : PA29
-- A8 : PC22
-- A9 : PC21
-- A10 : PD7
-- A11 : PA30
-- A12 : PD8
-- A13 : PD9
-- B1 : PD0
-- B2 : PB8
-- B3 : GNDPLLUSB
-- B4 : VDDUTMII
-- B5 : GNDUTMI
-- B6 : PD1
-- B7 : PD3
-- B8 : PD5
-- B9 : PD6
-- B10 : PC19
-- B11 : PA6
-- B12 : PC18
-- B13 : PD29
-- C1 : VDDIN
-- C2 : PE0
-- C3 : PD31
-- C4 : VDDUTMIC
-- C5 : GND
-- C6 : PC25
-- C7 : PC23
-- C8 : PD4
-- C9 : PC20
-- C10 : PA31
-- C11 : PA28
-- C12 : PB5
-- C13 : PB4
-- D1 : PE2
-- D2 : PE1
-- D3 : GND
-- D4 : VDDPLLUSB
-- D5 : VDDCORE
-- D6 : VDDIO
-- D7 : PC24
-- D8 : VDDPLL
-- D9 : GNDPLL
-- D10 : GND
-- D11 : PD15
-- D12 : JTAGSEL
-- D13 : PD10
-- E1 : VREFP
-- E2 : VREFN
-- E3 : GNDANA
-- E4 : VDDOUT
-- E10 : PC17
-- E11 : PA0
-- E12 : PC16
-- E13 : PD11
-- F1 : PE3
-- F2 : PC0
-- F3 : PC27
-- F4 : PC26
-- F10 : VDDIO
-- F11 : PA1
-- F12 : PC14
-- F13 : PC11
-- G1 : PC29
-- G2 : PC12
-- G3 : PC30
-- G4 : PC31
-- G10 : VDDCORE
-- G11 : PA3
-- G12 : PA2
-- G13 : PD12
-- H1 : PB1
-- H2 : PB0
-- H3 : PC13
-- H4 : PC15
-- H10 : GND
-- H11 : PD13
-- H12 : PC10
-- H13 : PB7
-- J1 : PA20
-- J2 : PA19
-- J3 : PA18
-- J4 : PA17
-- J10 : PB12
-- J11 : PC9
-- J12 : PD14
-- J13 : TST
-- K1 : PB2
-- K2 : PE4
-- K3 : PE5
-- K4 : GND
-- K5 : VDDCORE
-- K6 : VDDIO
-- K7 : PD24
-- K8 : GND
-- K9 : PD20
-- K10 : PD16
-- K11 : PB6
-- K12 : NRST
-- K13 : PC8
-- L1 : PB3
-- L2 : PD30
-- L3 : PC4
-- L4 : PA16
-- L5 : PC7
-- L6 : PD25
-- L7 : PC6
-- L8 : PA25
-- L9 : PD21
-- L10 : PD19
-- L11 : PA9
-- L12 : PA4
-- L13 : PC28
-- M1 : PA21
-- M2 : PA22
-- M3 : PC1
-- M4 : PA13
-- M5 : PD27
-- M6 : PA14
-- M7 : PD26
-- M8 : PC5
-- M9 : PA26
-- M10 : PA10
-- M11 : PD18
-- M12 : PD28
-- M13 : PD17
-- N1 : PA7
-- N2 : PA8
-- N3 : PC2
-- N4 : PC3
-- N5 : PA23
-- N6 : PA15
-- N7 : PD23
-- N8 : PA24
-- N9 : PD22
-- N10 : PA11
-- N11 : PA12
-- N12 : PA27
-- N13 : PA5
+Pin count : 144
+- A1 : PB13,  of Type IO, alternates : [PIOB P_45, USART0 SCK_0, PWM0 PWML_2, DACC DAC_0, PMC PCK_0]
+- A2 : PB9,  of Type IO, alternates : [PMC XIN_, PIOB P_41]
+- A3 : VBG,  of Type IO
+- A4 : HSDP,  of Type IO
+- A5 : HSDM,  of Type IO
+- A6 : PD2,  of Type IO, alternates : [PIOD P_98, PWM1 PWML_1, SPI1 NPCS_3, USART0 DSR_0]
+- A7 : PA29,  of Type IO, alternates : [PIOA P_29, TC0 TCLK_2, USART1 RI_1]
+- A8 : PC22,  of Type IO, alternates : [EBI A_4, PIOC P_86, PWM0 PWML_3]
+- A9 : PC21,  of Type IO, alternates : [EBI A_3, PWM0 PWMH_3, PIOC P_85]
+- A10 : PD7,  of Type IO, alternates : [PIOD P_103, USART2 RI_2, TPIU TRACED_3, PWM1 PWMH_3]
+- A11 : PA30,  of Type IO, alternates : [HSMCI MCDA_0, SUPC WKUP_11, I2SC0 DO_0, PWM1 PWMEXTRG_0, PIOA P_30, PWM0 PWML_2]
+- A12 : PD8,  of Type IO, alternates : [PWM0 PWMFI_1, TPIU TRACECLK_, PIOD P_104]
+- A13 : PD9,  of Type IO, alternates : [AFEC1 ADTRG_, PWM0 PWMFI_2, PIOD P_105]
+- B1 : PD0,  of Type IO, alternates : [SPI1 NPCS_1, USART0 DCD_0, PIOD P_96, PWM1 PWML_0, DACC DAC_1]
+- B2 : PB8,  of Type IO, alternates : [PIOB P_40, PMC XOUT_]
+- B3 : GNDPLLUSB,  of Type PS
+- B4 : VDDUTMII,  of Type PP
+- B5 : GNDUTMI,  of Type PS
+- B6 : PD1,  of Type IO, alternates : [PIOD P_97, PWM1 PWMH_0, SPI1 NPCS_2, USART0 DTR_0]
+- B7 : PD3,  of Type IO, alternates : [USART0 RI_0, PIOD P_99, UART4 UTXD_4, PWM1 PWMH_1]
+- B8 : PD5,  of Type IO, alternates : [PIOD P_101, USART2 DTR_2, PWM1 PWMH_2, TPIU TRACED_1]
+- B9 : PD6,  of Type IO, alternates : [PWM1 PWML_3, PIOD P_102, TPIU TRACED_2, USART2 DSR_2]
+- B10 : PC19,  of Type IO, alternates : [EBI A_1, PIOC P_83, PWM0 PWMH_2]
+- B11 : PA6,  of Type IO, alternates : [PIOA P_6, UART1 UTXD_1, PMC PCK_0]
+- B12 : PC18,  of Type IO, alternates : [EBI NBS_0, PWM0 PWML_1, EBI A_0, PIOC P_82]
+- B13 : PD29,  of Type IO, alternates : [PIOD P_125]
+- C1 : VDDIN,  of Type PP
+- C2 : PE0,  of Type IO, alternates : [I2SC1 WS_, PIOE P_128, EBI D_8, TC3 TIOA_9, AFEC1 AD_11]
+- C3 : PD31,  of Type IO, alternates : [PMC PCK_2, QSPI QIO_3, UART3 UTXD_3, ISI D_11, PIOD P_127]
+- C4 : VDDUTMIC,  of Type PP
+- C5 : GND,  of Type PS
+- C6 : PC25,  of Type IO, alternates : [PIOC P_89, SPI1 NPCS_0, EBI A_7, TC1 TCLK_3]
+- C7 : PC23,  of Type IO, alternates : [EBI A_5, PIOC P_87, TC1 TIOA_3]
+- C8 : PD4,  of Type IO, alternates : [USART2 DCD_2, PIOD P_100, PWM1 PWML_2, TPIU TRACED_0]
+- C9 : PC20,  of Type IO, alternates : [EBI A_2, PWM0 PWML_2, PIOC P_84]
+- C10 : PA31,  of Type IO, alternates : [PMC PCK_2, HSMCI MCDA_1, PIOA P_31, SPI0 NPCS_1, PWM1 PWMH_2]
+- C11 : PA28,  of Type IO, alternates : [PIOA P_28, HSMCI MCCDA_, TC0 TCLK_1, USART1 DSR_1, PWM1 PWMFI_2]
+- C12 : PB5,  of Type IO, alternates : [SUPC WKUP_13, TWIHS1 TWCK_1, SSC TD_, PWM0 PWML_0, PIOB P_37, ICE TDO_, ICE TRACESWO_]
+- C13 : PB4,  of Type IO, alternates : [ICE TDI_, USART1 TXD_1, TWIHS1 TWD_1, PIOB P_36, PWM0 PWMH_2]
+- D1 : PE2,  of Type IO, alternates : [TC3 TCLK_9, I2SC1 DI_0, PIOE P_130, EBI D_10]
+- D2 : PE1,  of Type IO, alternates : [I2SC1 DO_0, EBI D_9, PIOE P_129, TC3 TIOB_9]
+- D3 : GND,  of Type PS
+- D4 : VDDPLLUSB,  of Type PP
+- D5 : VDDCORE,  of Type PP
+- D6 : VDDIO,  of Type PP
+- D7 : PC24,  of Type IO, alternates : [PIOC P_88, SPI1 SPCK_, EBI A_6, TC1 TIOB_3]
+- D8 : VDDPLL,  of Type PP
+- D9 : GNDPLL,  of Type PS
+- D10 : GND,  of Type PS
+- D11 : PD15,  of Type IO, alternates : [EBI NWR_1, EBI NBS_1, PIOD P_111, USART2 RXD_2]
+- D12 : JTAGSEL,  of Type OP
+- D13 : PD10,  of Type IO, alternates : [SSC TD_, PWM0 PWML_0, PIOD P_106]
+- E1 : VREFP,  of Type PS
+- E2 : VREFN,  of Type PS
+- E3 : GNDANA,  of Type PS
+- E4 : VDDOUT,  of Type PP
+- E10 : PC17,  of Type IO, alternates : [EBI A_22, PIOC P_81, EBI NANDCLE_]
+- E11 : PA0,  of Type IO, alternates : [I2SC0 MCK_, SUPC WKUP_0, TC0 TIOA_0, EBI A_17, PIOA P_0, PWM0 PWMH_0]
+- E12 : PC16,  of Type IO, alternates : [EBI A_21, PIOC P_80, EBI NANDALE_]
+- E13 : PD11,  of Type IO, alternates : [ISI D_5, PWM0 PWMH_0, PIOD P_107]
+- F1 : PE3,  of Type IO, alternates : [TC3 TIOA_10, AFEC1 AD_10, EBI D_11, PIOE P_131]
+- F2 : PC0,  of Type IO, alternates : [AFEC1 AD_9, PIOC P_64, EBI D_0, PWM0 PWML_0]
+- F3 : PC27,  of Type IO, alternates : [AFEC1 AD_8, EBI A_9, PIOC P_91, TC1 TIOB_4, SPI1 MOSI_]
+- F4 : PC26,  of Type IO, alternates : [AFEC1 AD_7, EBI A_8, SPI1 MISO_, TC1 TIOA_4, PIOC P_90]
+- F10 : VDDIO,  of Type PP
+- F11 : PA1,  of Type IO, alternates : [I2SC0 CK_, SUPC WKUP_1, EBI A_18, PWM0 PWML_0, PIOA P_1, TC0 TIOB_0]
+- F12 : PC14,  of Type IO, alternates : [PIOC P_78, EBI NCS_0, TC2 TCLK_8]
+- F13 : PC11,  of Type IO, alternates : [PIOC P_75, EBI NRD_, TC2 TIOA_8]
+- G1 : PC29,  of Type IO, alternates : [EBI A_11, AFEC1 AD_4, TC1 TIOA_5, PIOC P_93, SPI1 NPCS_2]
+- G2 : PC12,  of Type IO, alternates : [EBI NCS_3, PIOC P_76, AFEC1 AD_3, TC2 TIOB_8]
+- G3 : PC30,  of Type IO, alternates : [EBI A_12, AFEC1 AD_5, SPI1 NPCS_3, PIOC P_94, TC1 TIOB_5]
+- G4 : PC31,  of Type IO, alternates : [AFEC1 AD_6, EBI A_13, PIOC P_95, TC1 TCLK_5]
+- G10 : VDDCORE,  of Type PP
+- G11 : PA3,  of Type IO, alternates : [PMC PCK_2, USART1 LONCOL_1, TWIHS0 TWD_0, PIOA PIODC_0, PIOA P_3]
+- G12 : PA2,  of Type IO, alternates : [SUPC WKUP_2, PIOA P_2, PWM0 PWMH_1, DACC DATRG_]
+- G13 : PD12,  of Type IO, alternates : [PIOD P_108, ISI D_6, SPI0 NPCS_2]
+- H1 : PB1,  of Type IO, alternates : [RTC RTCOUT_1, USART0 TXD_0, AFEC1 AD_0, SSC TK_, PIOB P_33, PWM0 PWMH_1]
+- H2 : PB0,  of Type IO, alternates : [USART0 RXD_0, RTC RTCOUT_0, SSC TF_, AFEC0 AD_10, PWM0 PWMH_0, PIOB P_32]
+- H3 : PC13,  of Type IO, alternates : [PIOC P_77, PWM0 PWMH_3, AFEC1 AD_1, EBI NWAIT_]
+- H4 : PC15,  of Type IO, alternates : [EBI NCS_1, PWM0 PWML_3, AFEC1 AD_2, PIOC P_79]
+- H10 : GND,  of Type PS
+- H11 : PD13,  of Type IO, alternates : [PIOD P_109]
+- H12 : PC10,  of Type IO, alternates : [TC2 TCLK_7, EBI NANDWE_, PIOC P_74]
+- H13 : PB7,  of Type IO, alternates : [PIOB P_39, ICE TCK_, ICE SWDCLK_]
+- J1 : PA20,  of Type IO, alternates : [SUPC WKUP_10, I2SC1 CK_, EBI A_16, AFEC0 AD_9, PIOA P_20, PWM0 PWML_1]
+- J2 : PA19,  of Type IO, alternates : [I2SC1 MCK_, PIOA P_19, EBI A_15, AFEC0 AD_8, PWM0 PWML_0, SUPC WKUP_9]
+- J3 : PA18,  of Type IO, alternates : [PMC PCK_2, PIOA P_18, EBI A_14, AFEC0 AD_7, PWM1 PWMEXTRG_1]
+- J4 : PA17,  of Type IO, alternates : [PMC PCK_1, QSPI QIO_2, PIOA P_17, AFEC0 AD_6, PWM0 PWMH_3]
+- J10 : PB12,  of Type IO, alternates : [PWM0 PWML_1, PIOB P_44, EFC ERASE_, PMC PCK_0]
+- J11 : PC9,  of Type IO, alternates : [EBI NANDOE_, TC2 TIOB_7, PIOC P_73]
+- J12 : PD14,  of Type IO, alternates : [PIOD P_110]
+- J13 : TST,  of Type IO
+- K1 : PB2,  of Type IO, alternates : [SPI0 NPCS_0, AFEC0 AD_5, PIOB P_34, USART0 CTS_0]
+- K2 : PE4,  of Type IO, alternates : [PIOE P_132, EBI D_12, AFEC0 AD_4, TC3 TIOB_10]
+- K3 : PE5,  of Type IO, alternates : [EBI D_13, PIOE P_133, AFEC0 AD_3, TC3 TCLK_10]
+- K4 : GND,  of Type PS
+- K5 : VDDCORE,  of Type PP
+- K6 : VDDIO,  of Type PP
+- K7 : PD24,  of Type IO, alternates : [PIOD P_120, TC3 TCLK_11, PWM0 PWML_0, SSC RF_, ISI HSYNC_]
+- K8 : GND,  of Type PS
+- K9 : PD20,  of Type IO, alternates : [SPI0 MISO_, PIOD P_116, PWM0 PWMH_0]
+- K10 : PD16,  of Type IO, alternates : [USART2 TXD_2, PIOD P_112]
+- K11 : PB6,  of Type IO, alternates : [ICE SWDIO_, PIOB P_38, ICE TMS_]
+- K12 : NRST,  of Type IP
+- K13 : PC8,  of Type IO, alternates : [EBI NWE_, EBI NWR_0, TC2 TIOA_7, PIOC P_72]
+- L1 : PB3,  of Type IO, alternates : [AFEC0 AD_2, PMC PCK_2, SUPC WKUP_12, PIOB P_35, USART0 RTS_0, ISI D_2]
+- L2 : PD30,  of Type IO, alternates : [UART3 UTXD_3, ISI D_10, PIOD P_126, AFEC0 AD_0]
+- L3 : PC4,  of Type IO, alternates : [PIOC P_68, EBI D_4]
+- L4 : PA16,  of Type IO, alternates : [PIOA P_16, EBI D_15, I2SC0 DI_0, PWM0 PWML_2, TC0 TIOB_1]
+- L5 : PC7,  of Type IO, alternates : [EBI D_7, TC2 TCLK_6, PIOC P_71]
+- L6 : PD25,  of Type IO, alternates : [ISI VSYNC_, PIOD P_121, PWM0 PWML_1, UART2 URXD_2, SPI0 NPCS_1]
+- L7 : PC6,  of Type IO, alternates : [EBI D_6, PIOC P_70, TC2 TIOB_6]
+- L8 : PA25,  of Type IO, alternates : [EBI A_23, USART1 CTS_1, HSMCI MCCK_, PIOA P_25, PWM0 PWMH_2]
+- L9 : PD21,  of Type IO, alternates : [ISI D_1, SPI0 MOSI_, TC3 TIOA_11, PWM0 PWMH_1, PIOD P_117]
+- L10 : PD19,  of Type IO, alternates : [EBI NCS_3, USART2 CTS_2, UART4 UTXD_4, PIOD P_115]
+- L11 : PA9,  of Type IO, alternates : [PWM0 PWMFI_0, PIOA P_9, PIOA PIODC_3, UART0 URXD_0, ISI D_3, SUPC WKUP_6]
+- L12 : PA4,  of Type IO, alternates : [SUPC WKUP_3, TWIHS0 TWCK_0, TC0 TCLK_0, PIOA PIODC_1, PIOA P_4, UART1 UTXD_1]
+- L13 : PC28,  of Type IO, alternates : [SPI1 NPCS_1, EBI A_10, PIOC P_92, TC1 TCLK_4]
+- M1 : PA21,  of Type IO, alternates : [AFEC0 AD_1, PIOA PIODCEN_2, PMC PCK_1, USART1 RXD_1, PIOA P_21, PWM1 PWMFI_0]
+- M2 : PA22,  of Type IO, alternates : [EBI NCS_2, PWM0 PWMEXTRG_1, PIOA PIODCCLK_, PIOA P_22, SSC RK_]
+- M3 : PC1,  of Type IO, alternates : [EBI D_1, PIOC P_65, PWM0 PWML_1]
+- M4 : PA13,  of Type IO, alternates : [QSPI QIO_0, PWM1 PWML_1, PIOA P_13, PIOA PIODC_7, PWM0 PWMH_2]
+- M5 : PD27,  of Type IO, alternates : [ISI D_8, PWM0 PWML_3, PIOD P_123, TWIHS2 TWD_2, SPI0 NPCS_3]
+- M6 : PA14,  of Type IO, alternates : [PIOA PIODCEN_1, PWM0 PWMH_3, QSPI QSCK_, PWM1 PWMH_1, SUPC WKUP_8, PIOA P_14]
+- M7 : PD26,  of Type IO, alternates : [UART2 UTXD_2, SSC TD_, UART1 UTXD_1, PIOD P_122, PWM0 PWML_2]
+- M8 : PC5,  of Type IO, alternates : [EBI D_5, PIOC P_69, TC2 TIOA_6]
+- M9 : PA26,  of Type IO, alternates : [HSMCI MCDA_2, PIOA P_26, USART1 DCD_1, TC0 TIOA_2, PWM1 PWMFI_1]
+- M10 : PA10,  of Type IO, alternates : [PIOA PIODC_4, UART0 UTXD_0, SSC RD_, PWM0 PWMEXTRG_0, PIOA P_10]
+- M11 : PD18,  of Type IO, alternates : [EBI NCS_1, USART2 RTS_2, PIOD P_114, UART4 URXD_4]
+- M12 : PD28,  of Type IO, alternates : [ISI D_9, TWIHS2 TWCK_2, PIOD P_124, UART3 URXD_3, SUPC WKUP_5]
+- M13 : PD17,  of Type IO, alternates : [USART2 SCK_2, PIOD P_113]
+- N1 : PA7,  of Type IO, alternates : [PIOA P_7, PWM0 PWMH_3, PMC XIN32_]
+- N2 : PA8,  of Type IO, alternates : [PIOA P_8, AFEC0 ADTRG_, PMC XOUT32_, PWM1 PWMH_3]
+- N3 : PC2,  of Type IO, alternates : [PIOC P_66, EBI D_2, PWM0 PWML_2]
+- N4 : PC3,  of Type IO, alternates : [PIOC P_67, PWM0 PWML_3, EBI D_3]
+- N5 : PA23,  of Type IO, alternates : [EBI A_19, USART1 SCK_1, PWM1 PWML_2, PIOA P_23, PWM0 PWMH_0]
+- N6 : PA15,  of Type IO, alternates : [PIOA P_15, EBI D_14, PWM0 PWML_3, I2SC0 WS_, TC0 TIOA_1]
+- N7 : PD23,  of Type IO, alternates : [PIOD P_119, PWM0 PWMH_3]
+- N8 : PA24,  of Type IO, alternates : [EBI A_20, USART1 RTS_1, ISI PCK_, PIOA P_24, PWM0 PWMH_1]
+- N9 : PD22,  of Type IO, alternates : [ISI D_0, SPI0 SPCK_, TC3 TIOB_11, PIOD P_118, PWM0 PWMH_2]
+- N10 : PA11,  of Type IO, alternates : [PIOA PIODC_5, QSPI QCS_, PWM1 PWML_0, PIOA P_11, PWM0 PWMH_0, SUPC WKUP_7]
+- N11 : PA12,  of Type IO, alternates : [PIOA PIODC_6, QSPI QIO_1, PIOA P_12, PWM1 PWMH_0, PWM0 PWMH_1]
+- N12 : PA27,  of Type IO, alternates : [HSMCI MCDA_3, PIOA P_27, ISI D_7, USART1 DTR_1, TC0 TIOB_2]
+- N13 : PA5,  of Type IO, alternates : [SUPC WKUP_4, PIOA PIODC_2, ISI D_4, PIOA P_5, UART1 URXD_1, PWM1 PWML_3]
 ## ATSAMS70Q19B-CN
+
 ### Description : 
+
+- Series : SAMS70
+- Footprint : LFBGA144
+- MP : ATSAMS70Q19B-CN
+- Architecture : CORTEX-M7
+- PINOUT : TFBGA_LFBGA_144
+- Reference : U
+- Documentation : https://www.microchip.com/en-us/search?q=ATSAMS70Q19B-CN
+- Value : ATSAMS70Q19B-CN
+- Family : SAMS
+- MF : Microchip
+- Name : ATSAMS70Q19B
 
 ### Package : 
 
-- A1 : PE1
-- A2 : PB9
-- A3 : PB8
-- A4 : HSDP
-- A5 : PD2
-- A6 : PA29
-- A7 : PC21
-- A8 : PD6
-- A9 : PC20
-- A10 : PA30
-- A11 : PD15
-- A12 : PB4
-- B1 : PE2
-- B2 : PB13
-- B3 : VDDUTMIC
-- B4 : HSDM
-- B5 : PD1
-- B6 : PC24
-- B7 : PD3
-- B8 : PD7
-- B9 : PA6
-- B10 : PC18
-- B11 : JTAGSEL
-- B12 : PC17
-- C1 : VDDIN
-- C2 : PE0
-- C3 : VDDOUT
-- C4 : VBG
-- C5 : PC25
-- C6 : PC23
-- C7 : PC22
-- C8 : PA31
-- C9 : PA28
-- C10 : PB5
-- C11 : PA0
-- C12 : PD10
-- D1 : ADVREFP
-- D2 : ADVREFN
-- D3 : PD31
-- D4 : PD0
-- D5 : GNDANA
-- D6 : PD4
-- D7 : PD5
-- D8 : PC19
-- D9 : PD9
-- D10 : PD29
-- D11 : PC16
-- D12 : PA1
-- E1 : PC31
-- E2 : PC27
-- E3 : PE3
-- E4 : PC0
-- E5 : GNDUTMI
-- E6 : GNDPLLUSB
-- E7 : VDDUTMII
-- E8 : VDDCORE
-- E9 : PD8
-- E10 : PC14
-- E11 : PD11
-- E12 : PA2
-- F1 : PC30
-- F2 : PC26
-- F3 : PC29
-- F4 : PC12
-- F5 : GND
-- F6 : GND
-- F7 : GNDPLL
-- F8 : VDDPLLUSB
-- F9 : PB7
-- F10 : PC10
-- F11 : PC11
-- F12 : PA3
-- G1 : PC15
-- G2 : PC13
-- G3 : PB1
-- G4 : GND
-- G5 : GND
-- G6 : GND
-- G7 : GND
-- G8 : VDDIO
-- G9 : PD13
-- G10 : PD12
-- G11 : PC9
-- G12 : PB12
-- H1 : PA19
-- H2 : PA18
-- H3 : PA20
-- H4 : PB0
-- H5 : VDDCORE
-- H6 : VDDIO
-- H7 : VDDIO
-- H8 : VDDCORE
-- H9 : PD21
-- H10 : PD14
-- H11 : TST
-- H12 : NRST
-- J1 : PA17
-- J2 : PB2
-- J3 : PB3
-- J4 : PC1
-- J5 : PC4
-- J6 : PD27
-- J7 : VDDPLL
-- J8 : PA26
-- J9 : PA11
-- J10 : PA27
-- J11 : PB6
-- J12 : PC8
-- K1 : PE4
-- K2 : PA21
-- K3 : PA22
-- K4 : PC2
-- K5 : PA16
-- K6 : PA14
-- K7 : PC6
-- K8 : PA25
-- K9 : PD20
-- K10 : PD28
-- K11 : PD16
-- K12 : PA4
-- L1 : PE5
-- L2 : PA7
-- L3 : PC3
-- L4 : PA23
-- L5 : PA15
-- L6 : PD26
-- L7 : PA24
-- L8 : PC5
-- L9 : PA10
-- L10 : PA12
-- L11 : PD17
-- L12 : PC28
-- M1 : PD30
-- M2 : PA8
-- M3 : PA13
-- M4 : PC7
-- M5 : PD25
-- M6 : PD24
-- M7 : PD23
-- M8 : PD22
-- M9 : PD19
-- M10 : PD18
-- M11 : PA5
-- M12 : PA9
+Pin count : 144
+- A1 : PE1,  of Type IO, alternates : [I2SC1 DO_0, EBI D_9, PIOE P_129, TC3 TIOB_9]
+- A2 : PB9,  of Type IO, alternates : [PMC XIN_, PIOB P_41]
+- A3 : PB8,  of Type IO, alternates : [PIOB P_40, PMC XOUT_]
+- A4 : HSDP,  of Type IO
+- A5 : PD2,  of Type IO, alternates : [PIOD P_98, PWM1 PWML_1, SPI1 NPCS_3, USART0 DSR_0]
+- A6 : PA29,  of Type IO, alternates : [PIOA P_29, TC0 TCLK_2, USART1 RI_1]
+- A7 : PC21,  of Type IO, alternates : [EBI A_3, PWM0 PWMH_3, PIOC P_85]
+- A8 : PD6,  of Type IO, alternates : [PWM1 PWML_3, PIOD P_102, TPIU TRACED_2, USART2 DSR_2]
+- A9 : PC20,  of Type IO, alternates : [EBI A_2, PWM0 PWML_2, PIOC P_84]
+- A10 : PA30,  of Type IO, alternates : [HSMCI MCDA_0, SUPC WKUP_11, I2SC0 DO_0, PWM1 PWMEXTRG_0, PIOA P_30, PWM0 PWML_2]
+- A11 : PD15,  of Type IO, alternates : [EBI NWR_1, EBI NBS_1, PIOD P_111, USART2 RXD_2]
+- A12 : PB4,  of Type IO, alternates : [ICE TDI_, USART1 TXD_1, TWIHS1 TWD_1, PIOB P_36, PWM0 PWMH_2]
+- B1 : PE2,  of Type IO, alternates : [TC3 TCLK_9, I2SC1 DI_0, PIOE P_130, EBI D_10]
+- B2 : PB13,  of Type IO, alternates : [PIOB P_45, USART0 SCK_0, PWM0 PWML_2, DACC DAC_0, PMC PCK_0]
+- B3 : VDDUTMIC,  of Type PP
+- B4 : HSDM,  of Type IO
+- B5 : PD1,  of Type IO, alternates : [PIOD P_97, PWM1 PWMH_0, SPI1 NPCS_2, USART0 DTR_0]
+- B6 : PC24,  of Type IO, alternates : [PIOC P_88, SPI1 SPCK_, EBI A_6, TC1 TIOB_3]
+- B7 : PD3,  of Type IO, alternates : [USART0 RI_0, PIOD P_99, UART4 UTXD_4, PWM1 PWMH_1]
+- B8 : PD7,  of Type IO, alternates : [PIOD P_103, USART2 RI_2, TPIU TRACED_3, PWM1 PWMH_3]
+- B9 : PA6,  of Type IO, alternates : [PIOA P_6, UART1 UTXD_1, PMC PCK_0]
+- B10 : PC18,  of Type IO, alternates : [EBI NBS_0, PWM0 PWML_1, EBI A_0, PIOC P_82]
+- B11 : JTAGSEL,  of Type OP
+- B12 : PC17,  of Type IO, alternates : [EBI A_22, PIOC P_81, EBI NANDCLE_]
+- C1 : VDDIN,  of Type PP
+- C2 : PE0,  of Type IO, alternates : [I2SC1 WS_, PIOE P_128, EBI D_8, TC3 TIOA_9, AFEC1 AD_11]
+- C3 : VDDOUT,  of Type PP
+- C4 : VBG,  of Type IO
+- C5 : PC25,  of Type IO, alternates : [PIOC P_89, SPI1 NPCS_0, EBI A_7, TC1 TCLK_3]
+- C6 : PC23,  of Type IO, alternates : [EBI A_5, PIOC P_87, TC1 TIOA_3]
+- C7 : PC22,  of Type IO, alternates : [EBI A_4, PIOC P_86, PWM0 PWML_3]
+- C8 : PA31,  of Type IO, alternates : [PMC PCK_2, HSMCI MCDA_1, PIOA P_31, SPI0 NPCS_1, PWM1 PWMH_2]
+- C9 : PA28,  of Type IO, alternates : [PIOA P_28, HSMCI MCCDA_, TC0 TCLK_1, USART1 DSR_1, PWM1 PWMFI_2]
+- C10 : PB5,  of Type IO, alternates : [SUPC WKUP_13, TWIHS1 TWCK_1, SSC TD_, PWM0 PWML_0, PIOB P_37, ICE TDO_, ICE TRACESWO_]
+- C11 : PA0,  of Type IO, alternates : [I2SC0 MCK_, SUPC WKUP_0, TC0 TIOA_0, EBI A_17, PIOA P_0, PWM0 PWMH_0]
+- C12 : PD10,  of Type IO, alternates : [SSC TD_, PWM0 PWML_0, PIOD P_106]
+- D1 : ADVREFP,  of Type PS
+- D2 : ADVREFN,  of Type PS
+- D3 : PD31,  of Type IO, alternates : [PMC PCK_2, QSPI QIO_3, UART3 UTXD_3, ISI D_11, PIOD P_127]
+- D4 : PD0,  of Type IO, alternates : [SPI1 NPCS_1, USART0 DCD_0, PIOD P_96, PWM1 PWML_0, DACC DAC_1]
+- D5 : GNDANA,  of Type PS
+- D6 : PD4,  of Type IO, alternates : [USART2 DCD_2, PIOD P_100, PWM1 PWML_2, TPIU TRACED_0]
+- D7 : PD5,  of Type IO, alternates : [PIOD P_101, USART2 DTR_2, PWM1 PWMH_2, TPIU TRACED_1]
+- D8 : PC19,  of Type IO, alternates : [EBI A_1, PIOC P_83, PWM0 PWMH_2]
+- D9 : PD9,  of Type IO, alternates : [AFEC1 ADTRG_, PWM0 PWMFI_2, PIOD P_105]
+- D10 : PD29,  of Type IO, alternates : [PIOD P_125]
+- D11 : PC16,  of Type IO, alternates : [EBI A_21, PIOC P_80, EBI NANDALE_]
+- D12 : PA1,  of Type IO, alternates : [I2SC0 CK_, SUPC WKUP_1, EBI A_18, PWM0 PWML_0, PIOA P_1, TC0 TIOB_0]
+- E1 : PC31,  of Type IO, alternates : [AFEC1 AD_6, EBI A_13, PIOC P_95, TC1 TCLK_5]
+- E2 : PC27,  of Type IO, alternates : [AFEC1 AD_8, EBI A_9, PIOC P_91, TC1 TIOB_4, SPI1 MOSI_]
+- E3 : PE3,  of Type IO, alternates : [TC3 TIOA_10, AFEC1 AD_10, EBI D_11, PIOE P_131]
+- E4 : PC0,  of Type IO, alternates : [AFEC1 AD_9, PIOC P_64, EBI D_0, PWM0 PWML_0]
+- E5 : GNDUTMI,  of Type PS
+- E6 : GNDPLLUSB,  of Type PS
+- E7 : VDDUTMII,  of Type PP
+- E8 : VDDCORE,  of Type PP
+- E9 : PD8,  of Type IO, alternates : [PWM0 PWMFI_1, TPIU TRACECLK_, PIOD P_104]
+- E10 : PC14,  of Type IO, alternates : [PIOC P_78, EBI NCS_0, TC2 TCLK_8]
+- E11 : PD11,  of Type IO, alternates : [ISI D_5, PWM0 PWMH_0, PIOD P_107]
+- E12 : PA2,  of Type IO, alternates : [SUPC WKUP_2, PIOA P_2, PWM0 PWMH_1, DACC DATRG_]
+- F1 : PC30,  of Type IO, alternates : [EBI A_12, AFEC1 AD_5, SPI1 NPCS_3, PIOC P_94, TC1 TIOB_5]
+- F2 : PC26,  of Type IO, alternates : [AFEC1 AD_7, EBI A_8, SPI1 MISO_, TC1 TIOA_4, PIOC P_90]
+- F3 : PC29,  of Type IO, alternates : [EBI A_11, AFEC1 AD_4, TC1 TIOA_5, PIOC P_93, SPI1 NPCS_2]
+- F4 : PC12,  of Type IO, alternates : [EBI NCS_3, PIOC P_76, AFEC1 AD_3, TC2 TIOB_8]
+- F5 : GND,  of Type PS
+- F6 : GND,  of Type PS
+- F7 : GNDPLL,  of Type PS
+- F8 : VDDPLLUSB,  of Type PP
+- F9 : PB7,  of Type IO, alternates : [PIOB P_39, ICE TCK_, ICE SWDCLK_]
+- F10 : PC10,  of Type IO, alternates : [TC2 TCLK_7, EBI NANDWE_, PIOC P_74]
+- F11 : PC11,  of Type IO, alternates : [PIOC P_75, EBI NRD_, TC2 TIOA_8]
+- F12 : PA3,  of Type IO, alternates : [PMC PCK_2, USART1 LONCOL_1, TWIHS0 TWD_0, PIOA PIODC_0, PIOA P_3]
+- G1 : PC15,  of Type IO, alternates : [EBI NCS_1, PWM0 PWML_3, AFEC1 AD_2, PIOC P_79]
+- G2 : PC13,  of Type IO, alternates : [PIOC P_77, PWM0 PWMH_3, AFEC1 AD_1, EBI NWAIT_]
+- G3 : PB1,  of Type IO, alternates : [RTC RTCOUT_1, USART0 TXD_0, AFEC1 AD_0, SSC TK_, PIOB P_33, PWM0 PWMH_1]
+- G4 : GND,  of Type PS
+- G5 : GND,  of Type PS
+- G6 : GND,  of Type PS
+- G7 : GND,  of Type PS
+- G8 : VDDIO,  of Type PP
+- G9 : PD13,  of Type IO, alternates : [PIOD P_109]
+- G10 : PD12,  of Type IO, alternates : [PIOD P_108, ISI D_6, SPI0 NPCS_2]
+- G11 : PC9,  of Type IO, alternates : [EBI NANDOE_, TC2 TIOB_7, PIOC P_73]
+- G12 : PB12,  of Type IO, alternates : [PWM0 PWML_1, PIOB P_44, EFC ERASE_, PMC PCK_0]
+- H1 : PA19,  of Type IO, alternates : [I2SC1 MCK_, PIOA P_19, EBI A_15, AFEC0 AD_8, PWM0 PWML_0, SUPC WKUP_9]
+- H2 : PA18,  of Type IO, alternates : [PMC PCK_2, PIOA P_18, EBI A_14, AFEC0 AD_7, PWM1 PWMEXTRG_1]
+- H3 : PA20,  of Type IO, alternates : [SUPC WKUP_10, I2SC1 CK_, EBI A_16, AFEC0 AD_9, PIOA P_20, PWM0 PWML_1]
+- H4 : PB0,  of Type IO, alternates : [USART0 RXD_0, RTC RTCOUT_0, SSC TF_, AFEC0 AD_10, PWM0 PWMH_0, PIOB P_32]
+- H5 : VDDCORE,  of Type PP
+- H6 : VDDIO,  of Type PP
+- H7 : VDDIO,  of Type PP
+- H8 : VDDCORE,  of Type PP
+- H9 : PD21,  of Type IO, alternates : [ISI D_1, SPI0 MOSI_, TC3 TIOA_11, PWM0 PWMH_1, PIOD P_117]
+- H10 : PD14,  of Type IO, alternates : [PIOD P_110]
+- H11 : TST,  of Type IO
+- H12 : NRST,  of Type IP
+- J1 : PA17,  of Type IO, alternates : [PMC PCK_1, QSPI QIO_2, PIOA P_17, AFEC0 AD_6, PWM0 PWMH_3]
+- J2 : PB2,  of Type IO, alternates : [SPI0 NPCS_0, AFEC0 AD_5, PIOB P_34, USART0 CTS_0]
+- J3 : PB3,  of Type IO, alternates : [AFEC0 AD_2, PMC PCK_2, SUPC WKUP_12, PIOB P_35, USART0 RTS_0, ISI D_2]
+- J4 : PC1,  of Type IO, alternates : [EBI D_1, PIOC P_65, PWM0 PWML_1]
+- J5 : PC4,  of Type IO, alternates : [PIOC P_68, EBI D_4]
+- J6 : PD27,  of Type IO, alternates : [ISI D_8, PWM0 PWML_3, PIOD P_123, TWIHS2 TWD_2, SPI0 NPCS_3]
+- J7 : VDDPLL,  of Type PP
+- J8 : PA26,  of Type IO, alternates : [HSMCI MCDA_2, PIOA P_26, USART1 DCD_1, TC0 TIOA_2, PWM1 PWMFI_1]
+- J9 : PA11,  of Type IO, alternates : [PIOA PIODC_5, QSPI QCS_, PWM1 PWML_0, PIOA P_11, PWM0 PWMH_0, SUPC WKUP_7]
+- J10 : PA27,  of Type IO, alternates : [HSMCI MCDA_3, PIOA P_27, ISI D_7, USART1 DTR_1, TC0 TIOB_2]
+- J11 : PB6,  of Type IO, alternates : [ICE SWDIO_, PIOB P_38, ICE TMS_]
+- J12 : PC8,  of Type IO, alternates : [EBI NWE_, EBI NWR_0, TC2 TIOA_7, PIOC P_72]
+- K1 : PE4,  of Type IO, alternates : [PIOE P_132, EBI D_12, AFEC0 AD_4, TC3 TIOB_10]
+- K2 : PA21,  of Type IO, alternates : [AFEC0 AD_1, PIOA PIODCEN_2, PMC PCK_1, USART1 RXD_1, PIOA P_21, PWM1 PWMFI_0]
+- K3 : PA22,  of Type IO, alternates : [EBI NCS_2, PWM0 PWMEXTRG_1, PIOA PIODCCLK_, PIOA P_22, SSC RK_]
+- K4 : PC2,  of Type IO, alternates : [PIOC P_66, EBI D_2, PWM0 PWML_2]
+- K5 : PA16,  of Type IO, alternates : [PIOA P_16, EBI D_15, I2SC0 DI_0, PWM0 PWML_2, TC0 TIOB_1]
+- K6 : PA14,  of Type IO, alternates : [PIOA PIODCEN_1, PWM0 PWMH_3, QSPI QSCK_, PWM1 PWMH_1, SUPC WKUP_8, PIOA P_14]
+- K7 : PC6,  of Type IO, alternates : [EBI D_6, PIOC P_70, TC2 TIOB_6]
+- K8 : PA25,  of Type IO, alternates : [EBI A_23, USART1 CTS_1, HSMCI MCCK_, PIOA P_25, PWM0 PWMH_2]
+- K9 : PD20,  of Type IO, alternates : [SPI0 MISO_, PIOD P_116, PWM0 PWMH_0]
+- K10 : PD28,  of Type IO, alternates : [ISI D_9, TWIHS2 TWCK_2, PIOD P_124, UART3 URXD_3, SUPC WKUP_5]
+- K11 : PD16,  of Type IO, alternates : [USART2 TXD_2, PIOD P_112]
+- K12 : PA4,  of Type IO, alternates : [SUPC WKUP_3, TWIHS0 TWCK_0, TC0 TCLK_0, PIOA PIODC_1, PIOA P_4, UART1 UTXD_1]
+- L1 : PE5,  of Type IO, alternates : [EBI D_13, PIOE P_133, AFEC0 AD_3, TC3 TCLK_10]
+- L2 : PA7,  of Type IO, alternates : [PIOA P_7, PWM0 PWMH_3, PMC XIN32_]
+- L3 : PC3,  of Type IO, alternates : [PIOC P_67, PWM0 PWML_3, EBI D_3]
+- L4 : PA23,  of Type IO, alternates : [EBI A_19, USART1 SCK_1, PWM1 PWML_2, PIOA P_23, PWM0 PWMH_0]
+- L5 : PA15,  of Type IO, alternates : [PIOA P_15, EBI D_14, PWM0 PWML_3, I2SC0 WS_, TC0 TIOA_1]
+- L6 : PD26,  of Type IO, alternates : [UART2 UTXD_2, SSC TD_, UART1 UTXD_1, PIOD P_122, PWM0 PWML_2]
+- L7 : PA24,  of Type IO, alternates : [EBI A_20, USART1 RTS_1, ISI PCK_, PIOA P_24, PWM0 PWMH_1]
+- L8 : PC5,  of Type IO, alternates : [EBI D_5, PIOC P_69, TC2 TIOA_6]
+- L9 : PA10,  of Type IO, alternates : [PIOA PIODC_4, UART0 UTXD_0, SSC RD_, PWM0 PWMEXTRG_0, PIOA P_10]
+- L10 : PA12,  of Type IO, alternates : [PIOA PIODC_6, QSPI QIO_1, PIOA P_12, PWM1 PWMH_0, PWM0 PWMH_1]
+- L11 : PD17,  of Type IO, alternates : [USART2 SCK_2, PIOD P_113]
+- L12 : PC28,  of Type IO, alternates : [SPI1 NPCS_1, EBI A_10, PIOC P_92, TC1 TCLK_4]
+- M1 : PD30,  of Type IO, alternates : [UART3 UTXD_3, ISI D_10, PIOD P_126, AFEC0 AD_0]
+- M2 : PA8,  of Type IO, alternates : [PIOA P_8, AFEC0 ADTRG_, PMC XOUT32_, PWM1 PWMH_3]
+- M3 : PA13,  of Type IO, alternates : [QSPI QIO_0, PWM1 PWML_1, PIOA P_13, PIOA PIODC_7, PWM0 PWMH_2]
+- M4 : PC7,  of Type IO, alternates : [EBI D_7, TC2 TCLK_6, PIOC P_71]
+- M5 : PD25,  of Type IO, alternates : [ISI VSYNC_, PIOD P_121, PWM0 PWML_1, UART2 URXD_2, SPI0 NPCS_1]
+- M6 : PD24,  of Type IO, alternates : [PIOD P_120, TC3 TCLK_11, PWM0 PWML_0, SSC RF_, ISI HSYNC_]
+- M7 : PD23,  of Type IO, alternates : [PIOD P_119, PWM0 PWMH_3]
+- M8 : PD22,  of Type IO, alternates : [ISI D_0, SPI0 SPCK_, TC3 TIOB_11, PIOD P_118, PWM0 PWMH_2]
+- M9 : PD19,  of Type IO, alternates : [EBI NCS_3, USART2 CTS_2, UART4 UTXD_4, PIOD P_115]
+- M10 : PD18,  of Type IO, alternates : [EBI NCS_1, USART2 RTS_2, PIOD P_114, UART4 URXD_4]
+- M11 : PA5,  of Type IO, alternates : [SUPC WKUP_4, PIOA PIODC_2, ISI D_4, PIOA P_5, UART1 URXD_1, PWM1 PWML_3]
+- M12 : PA9,  of Type IO, alternates : [PWM0 PWMFI_0, PIOA P_9, PIOA PIODC_3, UART0 URXD_0, ISI D_3, SUPC WKUP_6]
 ## ATSAMS70Q20B-AN
+
 ### Description : 
+
+- Series : SAMS70
+- Footprint : LQFP144
+- MP : ATSAMS70Q20B-AN
+- Architecture : CORTEX-M7
+- PINOUT : LQFP144
+- Reference : U
+- Documentation : https://www.microchip.com/en-us/search?q=ATSAMS70Q20B-AN
+- Value : ATSAMS70Q20B-AN
+- Family : SAMS
+- MF : Microchip
+- Name : ATSAMS70Q20B
 
 ### Package : 
 
-- 102 : PA0
-- 99 : PA1
-- 93 : PA2
-- 91 : PA3
-- 77 : PA4
-- 73 : PA5
-- 114 : PA6
-- 35 : PA7
-- 36 : PA8
-- 75 : PA9
-- 66 : PA10
-- 64 : PA11
-- 68 : PA12
-- 42 : PA13
-- 51 : PA14
-- 49 : PA15
-- 45 : PA16
-- 25 : PA17
-- 24 : PA18
-- 23 : PA19
-- 22 : PA20
-- 32 : PA21
-- 37 : PA22
-- 46 : PA23
-- 56 : PA24
-- 59 : PA25
-- 62 : PA26
-- 70 : PA27
-- 112 : PA28
-- 129 : PA29
-- 116 : PA30
-- 118 : PA31
-- 21 : PB0
-- 20 : PB1
-- 26 : PB2
-- 31 : PB3
-- 105 : PB4
-- 109 : PB5
-- 79 : PB6
-- 89 : PB7
-- 141 : PB8
-- 142 : PB9
-- 87 : PB12
-- 144 : PB13
-- 11 : PC0
-- 38 : PC1
-- 39 : PC2
-- 40 : PC3
-- 41 : PC4
-- 58 : PC5
-- 54 : PC6
-- 48 : PC7
-- 82 : PC8
-- 86 : PC9
-- 90 : PC10
-- 94 : PC11
-- 17 : PC12
-- 19 : PC13
-- 97 : PC14
-- 18 : PC15
-- 100 : PC16
-- 103 : PC17
-- 111 : PC18
-- 117 : PC19
-- 120 : PC20
-- 122 : PC21
-- 124 : PC22
-- 127 : PC23
-- 130 : PC24
-- 133 : PC25
-- 13 : PC26
-- 12 : PC27
-- 76 : PC28
-- 16 : PC29
-- 15 : PC30
-- 14 : PC31
-- 1 : PD0
-- 132 : PD1
-- 131 : PD2
-- 128 : PD3
-- 126 : PD4
-- 125 : PD5
-- 121 : PD6
-- 119 : PD7
-- 113 : PD8
-- 110 : PD9
-- 101 : PD10
-- 98 : PD11
-- 92 : PD12
-- 88 : PD13
-- 84 : PD14
-- 106 : PD15
-- 78 : PD16
-- 74 : PD17
-- 69 : PD18
-- 67 : PD19
-- 65 : PD20
-- 63 : PD21
-- 60 : PD22
-- 57 : PD23
-- 55 : PD24
-- 52 : PD25
-- 53 : PD26
-- 47 : PD27
-- 71 : PD28
-- 108 : PD29
-- 34 : PD30
-- 2 : PD31
-- 4 : PE0
-- 6 : PE1
-- 7 : PE2
-- 10 : PE3
-- 27 : PE4
-- 28 : PE5
-- 3 : VDDOUT
-- 5 : VDDIN
-- 8 : VREFN
-- 9 : VREFP
-- 83 : NRST
-- 85 : TST
-- 30 : VDDIO
-- 43 : VDDIO
-- 72 : VDDIO
-- 80 : VDDIO
-- 96 : VDDIO
-- 104 : JTAGSEL
-- 29 : VDDCORE
-- 33 : VDDCORE
-- 50 : VDDCORE
-- 81 : VDDCORE
-- 107 : VDDCORE
-- 123 : VDDPLL
-- 134 : VDDUTMII
-- 136 : HSDM
-- 137 : HSDP
-- 44 : GND
-- 61 : GND
-- 95 : GND
-- 115 : GND
-- 135 : GND
-- 138 : GND
-- 139 : VDDUTMIC
-- 140 : VBG
-- 143 : VDDPLLUSB
+Pin count : 144
+- 102 : PA0,  of Type IO, alternates : [I2SC0 MCK_, SUPC WKUP_0, TC0 TIOA_0, EBI A_17, PIOA P_0, PWM0 PWMH_0]
+- 99 : PA1,  of Type IO, alternates : [I2SC0 CK_, SUPC WKUP_1, EBI A_18, PWM0 PWML_0, PIOA P_1, TC0 TIOB_0]
+- 93 : PA2,  of Type IO, alternates : [SUPC WKUP_2, PIOA P_2, PWM0 PWMH_1, DACC DATRG_]
+- 91 : PA3,  of Type IO, alternates : [PMC PCK_2, USART1 LONCOL_1, TWIHS0 TWD_0, PIOA PIODC_0, PIOA P_3]
+- 77 : PA4,  of Type IO, alternates : [SUPC WKUP_3, TWIHS0 TWCK_0, TC0 TCLK_0, PIOA PIODC_1, PIOA P_4, UART1 UTXD_1]
+- 73 : PA5,  of Type IO, alternates : [SUPC WKUP_4, PIOA PIODC_2, ISI D_4, PIOA P_5, UART1 URXD_1, PWM1 PWML_3]
+- 114 : PA6,  of Type IO, alternates : [PIOA P_6, UART1 UTXD_1, PMC PCK_0]
+- 35 : PA7,  of Type IO, alternates : [PIOA P_7, PWM0 PWMH_3, PMC XIN32_]
+- 36 : PA8,  of Type IO, alternates : [PIOA P_8, AFEC0 ADTRG_, PMC XOUT32_, PWM1 PWMH_3]
+- 75 : PA9,  of Type IO, alternates : [PWM0 PWMFI_0, PIOA P_9, PIOA PIODC_3, UART0 URXD_0, ISI D_3, SUPC WKUP_6]
+- 66 : PA10,  of Type IO, alternates : [PIOA PIODC_4, UART0 UTXD_0, SSC RD_, PWM0 PWMEXTRG_0, PIOA P_10]
+- 64 : PA11,  of Type IO, alternates : [PIOA PIODC_5, QSPI QCS_, PWM1 PWML_0, PIOA P_11, PWM0 PWMH_0, SUPC WKUP_7]
+- 68 : PA12,  of Type IO, alternates : [PIOA PIODC_6, QSPI QIO_1, PIOA P_12, PWM1 PWMH_0, PWM0 PWMH_1]
+- 42 : PA13,  of Type IO, alternates : [QSPI QIO_0, PWM1 PWML_1, PIOA P_13, PIOA PIODC_7, PWM0 PWMH_2]
+- 51 : PA14,  of Type IO, alternates : [PIOA PIODCEN_1, PWM0 PWMH_3, QSPI QSCK_, PWM1 PWMH_1, SUPC WKUP_8, PIOA P_14]
+- 49 : PA15,  of Type IO, alternates : [PIOA P_15, EBI D_14, PWM0 PWML_3, I2SC0 WS_, TC0 TIOA_1]
+- 45 : PA16,  of Type IO, alternates : [PIOA P_16, EBI D_15, I2SC0 DI_0, PWM0 PWML_2, TC0 TIOB_1]
+- 25 : PA17,  of Type IO, alternates : [PMC PCK_1, QSPI QIO_2, PIOA P_17, AFEC0 AD_6, PWM0 PWMH_3]
+- 24 : PA18,  of Type IO, alternates : [PMC PCK_2, PIOA P_18, EBI A_14, AFEC0 AD_7, PWM1 PWMEXTRG_1]
+- 23 : PA19,  of Type IO, alternates : [I2SC1 MCK_, PIOA P_19, EBI A_15, AFEC0 AD_8, PWM0 PWML_0, SUPC WKUP_9]
+- 22 : PA20,  of Type IO, alternates : [SUPC WKUP_10, I2SC1 CK_, EBI A_16, AFEC0 AD_9, PIOA P_20, PWM0 PWML_1]
+- 32 : PA21,  of Type IO, alternates : [AFEC0 AD_1, PIOA PIODCEN_2, PMC PCK_1, USART1 RXD_1, PIOA P_21, PWM1 PWMFI_0]
+- 37 : PA22,  of Type IO, alternates : [EBI NCS_2, PWM0 PWMEXTRG_1, PIOA PIODCCLK_, PIOA P_22, SSC RK_]
+- 46 : PA23,  of Type IO, alternates : [EBI A_19, USART1 SCK_1, PWM1 PWML_2, PIOA P_23, PWM0 PWMH_0]
+- 56 : PA24,  of Type IO, alternates : [EBI A_20, USART1 RTS_1, ISI PCK_, PIOA P_24, PWM0 PWMH_1]
+- 59 : PA25,  of Type IO, alternates : [EBI A_23, USART1 CTS_1, HSMCI MCCK_, PIOA P_25, PWM0 PWMH_2]
+- 62 : PA26,  of Type IO, alternates : [HSMCI MCDA_2, PIOA P_26, USART1 DCD_1, TC0 TIOA_2, PWM1 PWMFI_1]
+- 70 : PA27,  of Type IO, alternates : [HSMCI MCDA_3, PIOA P_27, ISI D_7, USART1 DTR_1, TC0 TIOB_2]
+- 112 : PA28,  of Type IO, alternates : [PIOA P_28, HSMCI MCCDA_, TC0 TCLK_1, USART1 DSR_1, PWM1 PWMFI_2]
+- 129 : PA29,  of Type IO, alternates : [PIOA P_29, TC0 TCLK_2, USART1 RI_1]
+- 116 : PA30,  of Type IO, alternates : [HSMCI MCDA_0, SUPC WKUP_11, I2SC0 DO_0, PWM1 PWMEXTRG_0, PIOA P_30, PWM0 PWML_2]
+- 118 : PA31,  of Type IO, alternates : [PMC PCK_2, HSMCI MCDA_1, PIOA P_31, SPI0 NPCS_1, PWM1 PWMH_2]
+- 21 : PB0,  of Type IO, alternates : [USART0 RXD_0, RTC RTCOUT_0, SSC TF_, AFEC0 AD_10, PWM0 PWMH_0, PIOB P_32]
+- 20 : PB1,  of Type IO, alternates : [RTC RTCOUT_1, USART0 TXD_0, AFEC1 AD_0, SSC TK_, PIOB P_33, PWM0 PWMH_1]
+- 26 : PB2,  of Type IO, alternates : [SPI0 NPCS_0, AFEC0 AD_5, PIOB P_34, USART0 CTS_0]
+- 31 : PB3,  of Type IO, alternates : [AFEC0 AD_2, PMC PCK_2, SUPC WKUP_12, PIOB P_35, USART0 RTS_0, ISI D_2]
+- 105 : PB4,  of Type IO, alternates : [ICE TDI_, USART1 TXD_1, TWIHS1 TWD_1, PIOB P_36, PWM0 PWMH_2]
+- 109 : PB5,  of Type IO, alternates : [SUPC WKUP_13, TWIHS1 TWCK_1, SSC TD_, PWM0 PWML_0, PIOB P_37, ICE TDO_, ICE TRACESWO_]
+- 79 : PB6,  of Type IO, alternates : [ICE SWDIO_, PIOB P_38, ICE TMS_]
+- 89 : PB7,  of Type IO, alternates : [PIOB P_39, ICE TCK_, ICE SWDCLK_]
+- 141 : PB8,  of Type IO, alternates : [PIOB P_40, PMC XOUT_]
+- 142 : PB9,  of Type IO, alternates : [PMC XIN_, PIOB P_41]
+- 87 : PB12,  of Type IO, alternates : [PWM0 PWML_1, PIOB P_44, EFC ERASE_, PMC PCK_0]
+- 144 : PB13,  of Type IO, alternates : [PIOB P_45, USART0 SCK_0, PWM0 PWML_2, DACC DAC_0, PMC PCK_0]
+- 11 : PC0,  of Type IO, alternates : [AFEC1 AD_9, PIOC P_64, EBI D_0, PWM0 PWML_0]
+- 38 : PC1,  of Type IO, alternates : [EBI D_1, PIOC P_65, PWM0 PWML_1]
+- 39 : PC2,  of Type IO, alternates : [PIOC P_66, EBI D_2, PWM0 PWML_2]
+- 40 : PC3,  of Type IO, alternates : [PIOC P_67, PWM0 PWML_3, EBI D_3]
+- 41 : PC4,  of Type IO, alternates : [PIOC P_68, EBI D_4]
+- 58 : PC5,  of Type IO, alternates : [EBI D_5, PIOC P_69, TC2 TIOA_6]
+- 54 : PC6,  of Type IO, alternates : [EBI D_6, PIOC P_70, TC2 TIOB_6]
+- 48 : PC7,  of Type IO, alternates : [EBI D_7, TC2 TCLK_6, PIOC P_71]
+- 82 : PC8,  of Type IO, alternates : [EBI NWE_, EBI NWR_0, TC2 TIOA_7, PIOC P_72]
+- 86 : PC9,  of Type IO, alternates : [EBI NANDOE_, TC2 TIOB_7, PIOC P_73]
+- 90 : PC10,  of Type IO, alternates : [TC2 TCLK_7, EBI NANDWE_, PIOC P_74]
+- 94 : PC11,  of Type IO, alternates : [PIOC P_75, EBI NRD_, TC2 TIOA_8]
+- 17 : PC12,  of Type IO, alternates : [EBI NCS_3, PIOC P_76, AFEC1 AD_3, TC2 TIOB_8]
+- 19 : PC13,  of Type IO, alternates : [PIOC P_77, PWM0 PWMH_3, AFEC1 AD_1, EBI NWAIT_]
+- 97 : PC14,  of Type IO, alternates : [PIOC P_78, EBI NCS_0, TC2 TCLK_8]
+- 18 : PC15,  of Type IO, alternates : [EBI NCS_1, PWM0 PWML_3, AFEC1 AD_2, PIOC P_79]
+- 100 : PC16,  of Type IO, alternates : [EBI A_21, PIOC P_80, EBI NANDALE_]
+- 103 : PC17,  of Type IO, alternates : [EBI A_22, PIOC P_81, EBI NANDCLE_]
+- 111 : PC18,  of Type IO, alternates : [EBI NBS_0, PWM0 PWML_1, EBI A_0, PIOC P_82]
+- 117 : PC19,  of Type IO, alternates : [EBI A_1, PIOC P_83, PWM0 PWMH_2]
+- 120 : PC20,  of Type IO, alternates : [EBI A_2, PWM0 PWML_2, PIOC P_84]
+- 122 : PC21,  of Type IO, alternates : [EBI A_3, PWM0 PWMH_3, PIOC P_85]
+- 124 : PC22,  of Type IO, alternates : [EBI A_4, PIOC P_86, PWM0 PWML_3]
+- 127 : PC23,  of Type IO, alternates : [EBI A_5, PIOC P_87, TC1 TIOA_3]
+- 130 : PC24,  of Type IO, alternates : [PIOC P_88, SPI1 SPCK_, EBI A_6, TC1 TIOB_3]
+- 133 : PC25,  of Type IO, alternates : [PIOC P_89, SPI1 NPCS_0, EBI A_7, TC1 TCLK_3]
+- 13 : PC26,  of Type IO, alternates : [AFEC1 AD_7, EBI A_8, SPI1 MISO_, TC1 TIOA_4, PIOC P_90]
+- 12 : PC27,  of Type IO, alternates : [AFEC1 AD_8, EBI A_9, PIOC P_91, TC1 TIOB_4, SPI1 MOSI_]
+- 76 : PC28,  of Type IO, alternates : [SPI1 NPCS_1, EBI A_10, PIOC P_92, TC1 TCLK_4]
+- 16 : PC29,  of Type IO, alternates : [EBI A_11, AFEC1 AD_4, TC1 TIOA_5, PIOC P_93, SPI1 NPCS_2]
+- 15 : PC30,  of Type IO, alternates : [EBI A_12, AFEC1 AD_5, SPI1 NPCS_3, PIOC P_94, TC1 TIOB_5]
+- 14 : PC31,  of Type IO, alternates : [AFEC1 AD_6, EBI A_13, PIOC P_95, TC1 TCLK_5]
+- 1 : PD0,  of Type IO, alternates : [SPI1 NPCS_1, USART0 DCD_0, PIOD P_96, PWM1 PWML_0, DACC DAC_1]
+- 132 : PD1,  of Type IO, alternates : [PIOD P_97, PWM1 PWMH_0, SPI1 NPCS_2, USART0 DTR_0]
+- 131 : PD2,  of Type IO, alternates : [PIOD P_98, PWM1 PWML_1, SPI1 NPCS_3, USART0 DSR_0]
+- 128 : PD3,  of Type IO, alternates : [USART0 RI_0, PIOD P_99, UART4 UTXD_4, PWM1 PWMH_1]
+- 126 : PD4,  of Type IO, alternates : [USART2 DCD_2, PIOD P_100, PWM1 PWML_2, TPIU TRACED_0]
+- 125 : PD5,  of Type IO, alternates : [PIOD P_101, USART2 DTR_2, PWM1 PWMH_2, TPIU TRACED_1]
+- 121 : PD6,  of Type IO, alternates : [PWM1 PWML_3, PIOD P_102, TPIU TRACED_2, USART2 DSR_2]
+- 119 : PD7,  of Type IO, alternates : [PIOD P_103, USART2 RI_2, TPIU TRACED_3, PWM1 PWMH_3]
+- 113 : PD8,  of Type IO, alternates : [PWM0 PWMFI_1, TPIU TRACECLK_, PIOD P_104]
+- 110 : PD9,  of Type IO, alternates : [AFEC1 ADTRG_, PWM0 PWMFI_2, PIOD P_105]
+- 101 : PD10,  of Type IO, alternates : [SSC TD_, PWM0 PWML_0, PIOD P_106]
+- 98 : PD11,  of Type IO, alternates : [ISI D_5, PWM0 PWMH_0, PIOD P_107]
+- 92 : PD12,  of Type IO, alternates : [PIOD P_108, ISI D_6, SPI0 NPCS_2]
+- 88 : PD13,  of Type IO, alternates : [PIOD P_109]
+- 84 : PD14,  of Type IO, alternates : [PIOD P_110]
+- 106 : PD15,  of Type IO, alternates : [EBI NWR_1, EBI NBS_1, PIOD P_111, USART2 RXD_2]
+- 78 : PD16,  of Type IO, alternates : [USART2 TXD_2, PIOD P_112]
+- 74 : PD17,  of Type IO, alternates : [USART2 SCK_2, PIOD P_113]
+- 69 : PD18,  of Type IO, alternates : [EBI NCS_1, USART2 RTS_2, PIOD P_114, UART4 URXD_4]
+- 67 : PD19,  of Type IO, alternates : [EBI NCS_3, USART2 CTS_2, UART4 UTXD_4, PIOD P_115]
+- 65 : PD20,  of Type IO, alternates : [SPI0 MISO_, PIOD P_116, PWM0 PWMH_0]
+- 63 : PD21,  of Type IO, alternates : [ISI D_1, SPI0 MOSI_, TC3 TIOA_11, PWM0 PWMH_1, PIOD P_117]
+- 60 : PD22,  of Type IO, alternates : [ISI D_0, SPI0 SPCK_, TC3 TIOB_11, PIOD P_118, PWM0 PWMH_2]
+- 57 : PD23,  of Type IO, alternates : [PIOD P_119, PWM0 PWMH_3]
+- 55 : PD24,  of Type IO, alternates : [PIOD P_120, TC3 TCLK_11, PWM0 PWML_0, SSC RF_, ISI HSYNC_]
+- 52 : PD25,  of Type IO, alternates : [ISI VSYNC_, PIOD P_121, PWM0 PWML_1, UART2 URXD_2, SPI0 NPCS_1]
+- 53 : PD26,  of Type IO, alternates : [UART2 UTXD_2, SSC TD_, UART1 UTXD_1, PIOD P_122, PWM0 PWML_2]
+- 47 : PD27,  of Type IO, alternates : [ISI D_8, PWM0 PWML_3, PIOD P_123, TWIHS2 TWD_2, SPI0 NPCS_3]
+- 71 : PD28,  of Type IO, alternates : [ISI D_9, TWIHS2 TWCK_2, PIOD P_124, UART3 URXD_3, SUPC WKUP_5]
+- 108 : PD29,  of Type IO, alternates : [PIOD P_125]
+- 34 : PD30,  of Type IO, alternates : [UART3 UTXD_3, ISI D_10, PIOD P_126, AFEC0 AD_0]
+- 2 : PD31,  of Type IO, alternates : [PMC PCK_2, QSPI QIO_3, UART3 UTXD_3, ISI D_11, PIOD P_127]
+- 4 : PE0,  of Type IO, alternates : [I2SC1 WS_, PIOE P_128, EBI D_8, TC3 TIOA_9, AFEC1 AD_11]
+- 6 : PE1,  of Type IO, alternates : [I2SC1 DO_0, EBI D_9, PIOE P_129, TC3 TIOB_9]
+- 7 : PE2,  of Type IO, alternates : [TC3 TCLK_9, I2SC1 DI_0, PIOE P_130, EBI D_10]
+- 10 : PE3,  of Type IO, alternates : [TC3 TIOA_10, AFEC1 AD_10, EBI D_11, PIOE P_131]
+- 27 : PE4,  of Type IO, alternates : [PIOE P_132, EBI D_12, AFEC0 AD_4, TC3 TIOB_10]
+- 28 : PE5,  of Type IO, alternates : [EBI D_13, PIOE P_133, AFEC0 AD_3, TC3 TCLK_10]
+- 3 : VDDOUT,  of Type PP
+- 5 : VDDIN,  of Type PP
+- 8 : VREFN,  of Type PS
+- 9 : VREFP,  of Type PS
+- 83 : NRST,  of Type IP
+- 85 : TST,  of Type IO
+- 30 : VDDIO,  of Type PP
+- 43 : VDDIO,  of Type PP
+- 72 : VDDIO,  of Type PP
+- 80 : VDDIO,  of Type PP
+- 96 : VDDIO,  of Type PP
+- 104 : JTAGSEL,  of Type OP
+- 29 : VDDCORE,  of Type PP
+- 33 : VDDCORE,  of Type PP
+- 50 : VDDCORE,  of Type PP
+- 81 : VDDCORE,  of Type PP
+- 107 : VDDCORE,  of Type PP
+- 123 : VDDPLL,  of Type PP
+- 134 : VDDUTMII,  of Type PP
+- 136 : HSDM,  of Type IO
+- 137 : HSDP,  of Type IO
+- 44 : GND,  of Type PS
+- 61 : GND,  of Type PS
+- 95 : GND,  of Type PS
+- 115 : GND,  of Type PS
+- 135 : GND,  of Type PS
+- 138 : GND,  of Type PS
+- 139 : VDDUTMIC,  of Type PP
+- 140 : VBG,  of Type IO
+- 143 : VDDPLLUSB,  of Type PP
 ## ATSAMS70Q20B-CFN
+
 ### Description : 
+
+- Series : SAMS70
+- Footprint : UFBGA144
+- MP : ATSAMS70Q20B-CFN
+- Architecture : CORTEX-M7
+- PINOUT : UFBGA144
+- Reference : U
+- Documentation : https://www.microchip.com/en-us/search?q=ATSAMS70Q20B-CFN
+- Value : ATSAMS70Q20B-CFN
+- Family : SAMS
+- MF : Microchip
+- Name : ATSAMS70Q20B
 
 ### Package : 
 
-- A1 : PB13
-- A2 : PB9
-- A3 : VBG
-- A4 : HSDP
-- A5 : HSDM
-- A6 : PD2
-- A7 : PA29
-- A8 : PC22
-- A9 : PC21
-- A10 : PD7
-- A11 : PA30
-- A12 : PD8
-- A13 : PD9
-- B1 : PD0
-- B2 : PB8
-- B3 : GNDPLLUSB
-- B4 : VDDUTMII
-- B5 : GNDUTMI
-- B6 : PD1
-- B7 : PD3
-- B8 : PD5
-- B9 : PD6
-- B10 : PC19
-- B11 : PA6
-- B12 : PC18
-- B13 : PD29
-- C1 : VDDIN
-- C2 : PE0
-- C3 : PD31
-- C4 : VDDUTMIC
-- C5 : GND
-- C6 : PC25
-- C7 : PC23
-- C8 : PD4
-- C9 : PC20
-- C10 : PA31
-- C11 : PA28
-- C12 : PB5
-- C13 : PB4
-- D1 : PE2
-- D2 : PE1
-- D3 : GND
-- D4 : VDDPLLUSB
-- D5 : VDDCORE
-- D6 : VDDIO
-- D7 : PC24
-- D8 : VDDPLL
-- D9 : GNDPLL
-- D10 : GND
-- D11 : PD15
-- D12 : JTAGSEL
-- D13 : PD10
-- E1 : VREFP
-- E2 : VREFN
-- E3 : GNDANA
-- E4 : VDDOUT
-- E10 : PC17
-- E11 : PA0
-- E12 : PC16
-- E13 : PD11
-- F1 : PE3
-- F2 : PC0
-- F3 : PC27
-- F4 : PC26
-- F10 : VDDIO
-- F11 : PA1
-- F12 : PC14
-- F13 : PC11
-- G1 : PC29
-- G2 : PC12
-- G3 : PC30
-- G4 : PC31
-- G10 : VDDCORE
-- G11 : PA3
-- G12 : PA2
-- G13 : PD12
-- H1 : PB1
-- H2 : PB0
-- H3 : PC13
-- H4 : PC15
-- H10 : GND
-- H11 : PD13
-- H12 : PC10
-- H13 : PB7
-- J1 : PA20
-- J2 : PA19
-- J3 : PA18
-- J4 : PA17
-- J10 : PB12
-- J11 : PC9
-- J12 : PD14
-- J13 : TST
-- K1 : PB2
-- K2 : PE4
-- K3 : PE5
-- K4 : GND
-- K5 : VDDCORE
-- K6 : VDDIO
-- K7 : PD24
-- K8 : GND
-- K9 : PD20
-- K10 : PD16
-- K11 : PB6
-- K12 : NRST
-- K13 : PC8
-- L1 : PB3
-- L2 : PD30
-- L3 : PC4
-- L4 : PA16
-- L5 : PC7
-- L6 : PD25
-- L7 : PC6
-- L8 : PA25
-- L9 : PD21
-- L10 : PD19
-- L11 : PA9
-- L12 : PA4
-- L13 : PC28
-- M1 : PA21
-- M2 : PA22
-- M3 : PC1
-- M4 : PA13
-- M5 : PD27
-- M6 : PA14
-- M7 : PD26
-- M8 : PC5
-- M9 : PA26
-- M10 : PA10
-- M11 : PD18
-- M12 : PD28
-- M13 : PD17
-- N1 : PA7
-- N2 : PA8
-- N3 : PC2
-- N4 : PC3
-- N5 : PA23
-- N6 : PA15
-- N7 : PD23
-- N8 : PA24
-- N9 : PD22
-- N10 : PA11
-- N11 : PA12
-- N12 : PA27
-- N13 : PA5
+Pin count : 144
+- A1 : PB13,  of Type IO, alternates : [PIOB P_45, USART0 SCK_0, PWM0 PWML_2, DACC DAC_0, PMC PCK_0]
+- A2 : PB9,  of Type IO, alternates : [PMC XIN_, PIOB P_41]
+- A3 : VBG,  of Type IO
+- A4 : HSDP,  of Type IO
+- A5 : HSDM,  of Type IO
+- A6 : PD2,  of Type IO, alternates : [PIOD P_98, PWM1 PWML_1, SPI1 NPCS_3, USART0 DSR_0]
+- A7 : PA29,  of Type IO, alternates : [PIOA P_29, TC0 TCLK_2, USART1 RI_1]
+- A8 : PC22,  of Type IO, alternates : [EBI A_4, PIOC P_86, PWM0 PWML_3]
+- A9 : PC21,  of Type IO, alternates : [EBI A_3, PWM0 PWMH_3, PIOC P_85]
+- A10 : PD7,  of Type IO, alternates : [PIOD P_103, USART2 RI_2, TPIU TRACED_3, PWM1 PWMH_3]
+- A11 : PA30,  of Type IO, alternates : [HSMCI MCDA_0, SUPC WKUP_11, I2SC0 DO_0, PWM1 PWMEXTRG_0, PIOA P_30, PWM0 PWML_2]
+- A12 : PD8,  of Type IO, alternates : [PWM0 PWMFI_1, TPIU TRACECLK_, PIOD P_104]
+- A13 : PD9,  of Type IO, alternates : [AFEC1 ADTRG_, PWM0 PWMFI_2, PIOD P_105]
+- B1 : PD0,  of Type IO, alternates : [SPI1 NPCS_1, USART0 DCD_0, PIOD P_96, PWM1 PWML_0, DACC DAC_1]
+- B2 : PB8,  of Type IO, alternates : [PIOB P_40, PMC XOUT_]
+- B3 : GNDPLLUSB,  of Type PS
+- B4 : VDDUTMII,  of Type PP
+- B5 : GNDUTMI,  of Type PS
+- B6 : PD1,  of Type IO, alternates : [PIOD P_97, PWM1 PWMH_0, SPI1 NPCS_2, USART0 DTR_0]
+- B7 : PD3,  of Type IO, alternates : [USART0 RI_0, PIOD P_99, UART4 UTXD_4, PWM1 PWMH_1]
+- B8 : PD5,  of Type IO, alternates : [PIOD P_101, USART2 DTR_2, PWM1 PWMH_2, TPIU TRACED_1]
+- B9 : PD6,  of Type IO, alternates : [PWM1 PWML_3, PIOD P_102, TPIU TRACED_2, USART2 DSR_2]
+- B10 : PC19,  of Type IO, alternates : [EBI A_1, PIOC P_83, PWM0 PWMH_2]
+- B11 : PA6,  of Type IO, alternates : [PIOA P_6, UART1 UTXD_1, PMC PCK_0]
+- B12 : PC18,  of Type IO, alternates : [EBI NBS_0, PWM0 PWML_1, EBI A_0, PIOC P_82]
+- B13 : PD29,  of Type IO, alternates : [PIOD P_125]
+- C1 : VDDIN,  of Type PP
+- C2 : PE0,  of Type IO, alternates : [I2SC1 WS_, PIOE P_128, EBI D_8, TC3 TIOA_9, AFEC1 AD_11]
+- C3 : PD31,  of Type IO, alternates : [PMC PCK_2, QSPI QIO_3, UART3 UTXD_3, ISI D_11, PIOD P_127]
+- C4 : VDDUTMIC,  of Type PP
+- C5 : GND,  of Type PS
+- C6 : PC25,  of Type IO, alternates : [PIOC P_89, SPI1 NPCS_0, EBI A_7, TC1 TCLK_3]
+- C7 : PC23,  of Type IO, alternates : [EBI A_5, PIOC P_87, TC1 TIOA_3]
+- C8 : PD4,  of Type IO, alternates : [USART2 DCD_2, PIOD P_100, PWM1 PWML_2, TPIU TRACED_0]
+- C9 : PC20,  of Type IO, alternates : [EBI A_2, PWM0 PWML_2, PIOC P_84]
+- C10 : PA31,  of Type IO, alternates : [PMC PCK_2, HSMCI MCDA_1, PIOA P_31, SPI0 NPCS_1, PWM1 PWMH_2]
+- C11 : PA28,  of Type IO, alternates : [PIOA P_28, HSMCI MCCDA_, TC0 TCLK_1, USART1 DSR_1, PWM1 PWMFI_2]
+- C12 : PB5,  of Type IO, alternates : [SUPC WKUP_13, TWIHS1 TWCK_1, SSC TD_, PWM0 PWML_0, PIOB P_37, ICE TDO_, ICE TRACESWO_]
+- C13 : PB4,  of Type IO, alternates : [ICE TDI_, USART1 TXD_1, TWIHS1 TWD_1, PIOB P_36, PWM0 PWMH_2]
+- D1 : PE2,  of Type IO, alternates : [TC3 TCLK_9, I2SC1 DI_0, PIOE P_130, EBI D_10]
+- D2 : PE1,  of Type IO, alternates : [I2SC1 DO_0, EBI D_9, PIOE P_129, TC3 TIOB_9]
+- D3 : GND,  of Type PS
+- D4 : VDDPLLUSB,  of Type PP
+- D5 : VDDCORE,  of Type PP
+- D6 : VDDIO,  of Type PP
+- D7 : PC24,  of Type IO, alternates : [PIOC P_88, SPI1 SPCK_, EBI A_6, TC1 TIOB_3]
+- D8 : VDDPLL,  of Type PP
+- D9 : GNDPLL,  of Type PS
+- D10 : GND,  of Type PS
+- D11 : PD15,  of Type IO, alternates : [EBI NWR_1, EBI NBS_1, PIOD P_111, USART2 RXD_2]
+- D12 : JTAGSEL,  of Type OP
+- D13 : PD10,  of Type IO, alternates : [SSC TD_, PWM0 PWML_0, PIOD P_106]
+- E1 : VREFP,  of Type PS
+- E2 : VREFN,  of Type PS
+- E3 : GNDANA,  of Type PS
+- E4 : VDDOUT,  of Type PP
+- E10 : PC17,  of Type IO, alternates : [EBI A_22, PIOC P_81, EBI NANDCLE_]
+- E11 : PA0,  of Type IO, alternates : [I2SC0 MCK_, SUPC WKUP_0, TC0 TIOA_0, EBI A_17, PIOA P_0, PWM0 PWMH_0]
+- E12 : PC16,  of Type IO, alternates : [EBI A_21, PIOC P_80, EBI NANDALE_]
+- E13 : PD11,  of Type IO, alternates : [ISI D_5, PWM0 PWMH_0, PIOD P_107]
+- F1 : PE3,  of Type IO, alternates : [TC3 TIOA_10, AFEC1 AD_10, EBI D_11, PIOE P_131]
+- F2 : PC0,  of Type IO, alternates : [AFEC1 AD_9, PIOC P_64, EBI D_0, PWM0 PWML_0]
+- F3 : PC27,  of Type IO, alternates : [AFEC1 AD_8, EBI A_9, PIOC P_91, TC1 TIOB_4, SPI1 MOSI_]
+- F4 : PC26,  of Type IO, alternates : [AFEC1 AD_7, EBI A_8, SPI1 MISO_, TC1 TIOA_4, PIOC P_90]
+- F10 : VDDIO,  of Type PP
+- F11 : PA1,  of Type IO, alternates : [I2SC0 CK_, SUPC WKUP_1, EBI A_18, PWM0 PWML_0, PIOA P_1, TC0 TIOB_0]
+- F12 : PC14,  of Type IO, alternates : [PIOC P_78, EBI NCS_0, TC2 TCLK_8]
+- F13 : PC11,  of Type IO, alternates : [PIOC P_75, EBI NRD_, TC2 TIOA_8]
+- G1 : PC29,  of Type IO, alternates : [EBI A_11, AFEC1 AD_4, TC1 TIOA_5, PIOC P_93, SPI1 NPCS_2]
+- G2 : PC12,  of Type IO, alternates : [EBI NCS_3, PIOC P_76, AFEC1 AD_3, TC2 TIOB_8]
+- G3 : PC30,  of Type IO, alternates : [EBI A_12, AFEC1 AD_5, SPI1 NPCS_3, PIOC P_94, TC1 TIOB_5]
+- G4 : PC31,  of Type IO, alternates : [AFEC1 AD_6, EBI A_13, PIOC P_95, TC1 TCLK_5]
+- G10 : VDDCORE,  of Type PP
+- G11 : PA3,  of Type IO, alternates : [PMC PCK_2, USART1 LONCOL_1, TWIHS0 TWD_0, PIOA PIODC_0, PIOA P_3]
+- G12 : PA2,  of Type IO, alternates : [SUPC WKUP_2, PIOA P_2, PWM0 PWMH_1, DACC DATRG_]
+- G13 : PD12,  of Type IO, alternates : [PIOD P_108, ISI D_6, SPI0 NPCS_2]
+- H1 : PB1,  of Type IO, alternates : [RTC RTCOUT_1, USART0 TXD_0, AFEC1 AD_0, SSC TK_, PIOB P_33, PWM0 PWMH_1]
+- H2 : PB0,  of Type IO, alternates : [USART0 RXD_0, RTC RTCOUT_0, SSC TF_, AFEC0 AD_10, PWM0 PWMH_0, PIOB P_32]
+- H3 : PC13,  of Type IO, alternates : [PIOC P_77, PWM0 PWMH_3, AFEC1 AD_1, EBI NWAIT_]
+- H4 : PC15,  of Type IO, alternates : [EBI NCS_1, PWM0 PWML_3, AFEC1 AD_2, PIOC P_79]
+- H10 : GND,  of Type PS
+- H11 : PD13,  of Type IO, alternates : [PIOD P_109]
+- H12 : PC10,  of Type IO, alternates : [TC2 TCLK_7, EBI NANDWE_, PIOC P_74]
+- H13 : PB7,  of Type IO, alternates : [PIOB P_39, ICE TCK_, ICE SWDCLK_]
+- J1 : PA20,  of Type IO, alternates : [SUPC WKUP_10, I2SC1 CK_, EBI A_16, AFEC0 AD_9, PIOA P_20, PWM0 PWML_1]
+- J2 : PA19,  of Type IO, alternates : [I2SC1 MCK_, PIOA P_19, EBI A_15, AFEC0 AD_8, PWM0 PWML_0, SUPC WKUP_9]
+- J3 : PA18,  of Type IO, alternates : [PMC PCK_2, PIOA P_18, EBI A_14, AFEC0 AD_7, PWM1 PWMEXTRG_1]
+- J4 : PA17,  of Type IO, alternates : [PMC PCK_1, QSPI QIO_2, PIOA P_17, AFEC0 AD_6, PWM0 PWMH_3]
+- J10 : PB12,  of Type IO, alternates : [PWM0 PWML_1, PIOB P_44, EFC ERASE_, PMC PCK_0]
+- J11 : PC9,  of Type IO, alternates : [EBI NANDOE_, TC2 TIOB_7, PIOC P_73]
+- J12 : PD14,  of Type IO, alternates : [PIOD P_110]
+- J13 : TST,  of Type IO
+- K1 : PB2,  of Type IO, alternates : [SPI0 NPCS_0, AFEC0 AD_5, PIOB P_34, USART0 CTS_0]
+- K2 : PE4,  of Type IO, alternates : [PIOE P_132, EBI D_12, AFEC0 AD_4, TC3 TIOB_10]
+- K3 : PE5,  of Type IO, alternates : [EBI D_13, PIOE P_133, AFEC0 AD_3, TC3 TCLK_10]
+- K4 : GND,  of Type PS
+- K5 : VDDCORE,  of Type PP
+- K6 : VDDIO,  of Type PP
+- K7 : PD24,  of Type IO, alternates : [PIOD P_120, TC3 TCLK_11, PWM0 PWML_0, SSC RF_, ISI HSYNC_]
+- K8 : GND,  of Type PS
+- K9 : PD20,  of Type IO, alternates : [SPI0 MISO_, PIOD P_116, PWM0 PWMH_0]
+- K10 : PD16,  of Type IO, alternates : [USART2 TXD_2, PIOD P_112]
+- K11 : PB6,  of Type IO, alternates : [ICE SWDIO_, PIOB P_38, ICE TMS_]
+- K12 : NRST,  of Type IP
+- K13 : PC8,  of Type IO, alternates : [EBI NWE_, EBI NWR_0, TC2 TIOA_7, PIOC P_72]
+- L1 : PB3,  of Type IO, alternates : [AFEC0 AD_2, PMC PCK_2, SUPC WKUP_12, PIOB P_35, USART0 RTS_0, ISI D_2]
+- L2 : PD30,  of Type IO, alternates : [UART3 UTXD_3, ISI D_10, PIOD P_126, AFEC0 AD_0]
+- L3 : PC4,  of Type IO, alternates : [PIOC P_68, EBI D_4]
+- L4 : PA16,  of Type IO, alternates : [PIOA P_16, EBI D_15, I2SC0 DI_0, PWM0 PWML_2, TC0 TIOB_1]
+- L5 : PC7,  of Type IO, alternates : [EBI D_7, TC2 TCLK_6, PIOC P_71]
+- L6 : PD25,  of Type IO, alternates : [ISI VSYNC_, PIOD P_121, PWM0 PWML_1, UART2 URXD_2, SPI0 NPCS_1]
+- L7 : PC6,  of Type IO, alternates : [EBI D_6, PIOC P_70, TC2 TIOB_6]
+- L8 : PA25,  of Type IO, alternates : [EBI A_23, USART1 CTS_1, HSMCI MCCK_, PIOA P_25, PWM0 PWMH_2]
+- L9 : PD21,  of Type IO, alternates : [ISI D_1, SPI0 MOSI_, TC3 TIOA_11, PWM0 PWMH_1, PIOD P_117]
+- L10 : PD19,  of Type IO, alternates : [EBI NCS_3, USART2 CTS_2, UART4 UTXD_4, PIOD P_115]
+- L11 : PA9,  of Type IO, alternates : [PWM0 PWMFI_0, PIOA P_9, PIOA PIODC_3, UART0 URXD_0, ISI D_3, SUPC WKUP_6]
+- L12 : PA4,  of Type IO, alternates : [SUPC WKUP_3, TWIHS0 TWCK_0, TC0 TCLK_0, PIOA PIODC_1, PIOA P_4, UART1 UTXD_1]
+- L13 : PC28,  of Type IO, alternates : [SPI1 NPCS_1, EBI A_10, PIOC P_92, TC1 TCLK_4]
+- M1 : PA21,  of Type IO, alternates : [AFEC0 AD_1, PIOA PIODCEN_2, PMC PCK_1, USART1 RXD_1, PIOA P_21, PWM1 PWMFI_0]
+- M2 : PA22,  of Type IO, alternates : [EBI NCS_2, PWM0 PWMEXTRG_1, PIOA PIODCCLK_, PIOA P_22, SSC RK_]
+- M3 : PC1,  of Type IO, alternates : [EBI D_1, PIOC P_65, PWM0 PWML_1]
+- M4 : PA13,  of Type IO, alternates : [QSPI QIO_0, PWM1 PWML_1, PIOA P_13, PIOA PIODC_7, PWM0 PWMH_2]
+- M5 : PD27,  of Type IO, alternates : [ISI D_8, PWM0 PWML_3, PIOD P_123, TWIHS2 TWD_2, SPI0 NPCS_3]
+- M6 : PA14,  of Type IO, alternates : [PIOA PIODCEN_1, PWM0 PWMH_3, QSPI QSCK_, PWM1 PWMH_1, SUPC WKUP_8, PIOA P_14]
+- M7 : PD26,  of Type IO, alternates : [UART2 UTXD_2, SSC TD_, UART1 UTXD_1, PIOD P_122, PWM0 PWML_2]
+- M8 : PC5,  of Type IO, alternates : [EBI D_5, PIOC P_69, TC2 TIOA_6]
+- M9 : PA26,  of Type IO, alternates : [HSMCI MCDA_2, PIOA P_26, USART1 DCD_1, TC0 TIOA_2, PWM1 PWMFI_1]
+- M10 : PA10,  of Type IO, alternates : [PIOA PIODC_4, UART0 UTXD_0, SSC RD_, PWM0 PWMEXTRG_0, PIOA P_10]
+- M11 : PD18,  of Type IO, alternates : [EBI NCS_1, USART2 RTS_2, PIOD P_114, UART4 URXD_4]
+- M12 : PD28,  of Type IO, alternates : [ISI D_9, TWIHS2 TWCK_2, PIOD P_124, UART3 URXD_3, SUPC WKUP_5]
+- M13 : PD17,  of Type IO, alternates : [USART2 SCK_2, PIOD P_113]
+- N1 : PA7,  of Type IO, alternates : [PIOA P_7, PWM0 PWMH_3, PMC XIN32_]
+- N2 : PA8,  of Type IO, alternates : [PIOA P_8, AFEC0 ADTRG_, PMC XOUT32_, PWM1 PWMH_3]
+- N3 : PC2,  of Type IO, alternates : [PIOC P_66, EBI D_2, PWM0 PWML_2]
+- N4 : PC3,  of Type IO, alternates : [PIOC P_67, PWM0 PWML_3, EBI D_3]
+- N5 : PA23,  of Type IO, alternates : [EBI A_19, USART1 SCK_1, PWM1 PWML_2, PIOA P_23, PWM0 PWMH_0]
+- N6 : PA15,  of Type IO, alternates : [PIOA P_15, EBI D_14, PWM0 PWML_3, I2SC0 WS_, TC0 TIOA_1]
+- N7 : PD23,  of Type IO, alternates : [PIOD P_119, PWM0 PWMH_3]
+- N8 : PA24,  of Type IO, alternates : [EBI A_20, USART1 RTS_1, ISI PCK_, PIOA P_24, PWM0 PWMH_1]
+- N9 : PD22,  of Type IO, alternates : [ISI D_0, SPI0 SPCK_, TC3 TIOB_11, PIOD P_118, PWM0 PWMH_2]
+- N10 : PA11,  of Type IO, alternates : [PIOA PIODC_5, QSPI QCS_, PWM1 PWML_0, PIOA P_11, PWM0 PWMH_0, SUPC WKUP_7]
+- N11 : PA12,  of Type IO, alternates : [PIOA PIODC_6, QSPI QIO_1, PIOA P_12, PWM1 PWMH_0, PWM0 PWMH_1]
+- N12 : PA27,  of Type IO, alternates : [HSMCI MCDA_3, PIOA P_27, ISI D_7, USART1 DTR_1, TC0 TIOB_2]
+- N13 : PA5,  of Type IO, alternates : [SUPC WKUP_4, PIOA PIODC_2, ISI D_4, PIOA P_5, UART1 URXD_1, PWM1 PWML_3]
 ## ATSAMS70Q20B-CN
+
 ### Description : 
+
+- Series : SAMS70
+- Footprint : LFBGA144
+- MP : ATSAMS70Q20B-CN
+- Architecture : CORTEX-M7
+- PINOUT : TFBGA_LFBGA_144
+- Reference : U
+- Documentation : https://www.microchip.com/en-us/search?q=ATSAMS70Q20B-CN
+- Value : ATSAMS70Q20B-CN
+- Family : SAMS
+- MF : Microchip
+- Name : ATSAMS70Q20B
 
 ### Package : 
 
-- A1 : PE1
-- A2 : PB9
-- A3 : PB8
-- A4 : HSDP
-- A5 : PD2
-- A6 : PA29
-- A7 : PC21
-- A8 : PD6
-- A9 : PC20
-- A10 : PA30
-- A11 : PD15
-- A12 : PB4
-- B1 : PE2
-- B2 : PB13
-- B3 : VDDUTMIC
-- B4 : HSDM
-- B5 : PD1
-- B6 : PC24
-- B7 : PD3
-- B8 : PD7
-- B9 : PA6
-- B10 : PC18
-- B11 : JTAGSEL
-- B12 : PC17
-- C1 : VDDIN
-- C2 : PE0
-- C3 : VDDOUT
-- C4 : VBG
-- C5 : PC25
-- C6 : PC23
-- C7 : PC22
-- C8 : PA31
-- C9 : PA28
-- C10 : PB5
-- C11 : PA0
-- C12 : PD10
-- D1 : ADVREFP
-- D2 : ADVREFN
-- D3 : PD31
-- D4 : PD0
-- D5 : GNDANA
-- D6 : PD4
-- D7 : PD5
-- D8 : PC19
-- D9 : PD9
-- D10 : PD29
-- D11 : PC16
-- D12 : PA1
-- E1 : PC31
-- E2 : PC27
-- E3 : PE3
-- E4 : PC0
-- E5 : GNDUTMI
-- E6 : GNDPLLUSB
-- E7 : VDDUTMII
-- E8 : VDDCORE
-- E9 : PD8
-- E10 : PC14
-- E11 : PD11
-- E12 : PA2
-- F1 : PC30
-- F2 : PC26
-- F3 : PC29
-- F4 : PC12
-- F5 : GND
-- F6 : GND
-- F7 : GNDPLL
-- F8 : VDDPLLUSB
-- F9 : PB7
-- F10 : PC10
-- F11 : PC11
-- F12 : PA3
-- G1 : PC15
-- G2 : PC13
-- G3 : PB1
-- G4 : GND
-- G5 : GND
-- G6 : GND
-- G7 : GND
-- G8 : VDDIO
-- G9 : PD13
-- G10 : PD12
-- G11 : PC9
-- G12 : PB12
-- H1 : PA19
-- H2 : PA18
-- H3 : PA20
-- H4 : PB0
-- H5 : VDDCORE
-- H6 : VDDIO
-- H7 : VDDIO
-- H8 : VDDCORE
-- H9 : PD21
-- H10 : PD14
-- H11 : TST
-- H12 : NRST
-- J1 : PA17
-- J2 : PB2
-- J3 : PB3
-- J4 : PC1
-- J5 : PC4
-- J6 : PD27
-- J7 : VDDPLL
-- J8 : PA26
-- J9 : PA11
-- J10 : PA27
-- J11 : PB6
-- J12 : PC8
-- K1 : PE4
-- K2 : PA21
-- K3 : PA22
-- K4 : PC2
-- K5 : PA16
-- K6 : PA14
-- K7 : PC6
-- K8 : PA25
-- K9 : PD20
-- K10 : PD28
-- K11 : PD16
-- K12 : PA4
-- L1 : PE5
-- L2 : PA7
-- L3 : PC3
-- L4 : PA23
-- L5 : PA15
-- L6 : PD26
-- L7 : PA24
-- L8 : PC5
-- L9 : PA10
-- L10 : PA12
-- L11 : PD17
-- L12 : PC28
-- M1 : PD30
-- M2 : PA8
-- M3 : PA13
-- M4 : PC7
-- M5 : PD25
-- M6 : PD24
-- M7 : PD23
-- M8 : PD22
-- M9 : PD19
-- M10 : PD18
-- M11 : PA5
-- M12 : PA9
+Pin count : 144
+- A1 : PE1,  of Type IO, alternates : [I2SC1 DO_0, EBI D_9, PIOE P_129, TC3 TIOB_9]
+- A2 : PB9,  of Type IO, alternates : [PMC XIN_, PIOB P_41]
+- A3 : PB8,  of Type IO, alternates : [PIOB P_40, PMC XOUT_]
+- A4 : HSDP,  of Type IO
+- A5 : PD2,  of Type IO, alternates : [PIOD P_98, PWM1 PWML_1, SPI1 NPCS_3, USART0 DSR_0]
+- A6 : PA29,  of Type IO, alternates : [PIOA P_29, TC0 TCLK_2, USART1 RI_1]
+- A7 : PC21,  of Type IO, alternates : [EBI A_3, PWM0 PWMH_3, PIOC P_85]
+- A8 : PD6,  of Type IO, alternates : [PWM1 PWML_3, PIOD P_102, TPIU TRACED_2, USART2 DSR_2]
+- A9 : PC20,  of Type IO, alternates : [EBI A_2, PWM0 PWML_2, PIOC P_84]
+- A10 : PA30,  of Type IO, alternates : [HSMCI MCDA_0, SUPC WKUP_11, I2SC0 DO_0, PWM1 PWMEXTRG_0, PIOA P_30, PWM0 PWML_2]
+- A11 : PD15,  of Type IO, alternates : [EBI NWR_1, EBI NBS_1, PIOD P_111, USART2 RXD_2]
+- A12 : PB4,  of Type IO, alternates : [ICE TDI_, USART1 TXD_1, TWIHS1 TWD_1, PIOB P_36, PWM0 PWMH_2]
+- B1 : PE2,  of Type IO, alternates : [TC3 TCLK_9, I2SC1 DI_0, PIOE P_130, EBI D_10]
+- B2 : PB13,  of Type IO, alternates : [PIOB P_45, USART0 SCK_0, PWM0 PWML_2, DACC DAC_0, PMC PCK_0]
+- B3 : VDDUTMIC,  of Type PP
+- B4 : HSDM,  of Type IO
+- B5 : PD1,  of Type IO, alternates : [PIOD P_97, PWM1 PWMH_0, SPI1 NPCS_2, USART0 DTR_0]
+- B6 : PC24,  of Type IO, alternates : [PIOC P_88, SPI1 SPCK_, EBI A_6, TC1 TIOB_3]
+- B7 : PD3,  of Type IO, alternates : [USART0 RI_0, PIOD P_99, UART4 UTXD_4, PWM1 PWMH_1]
+- B8 : PD7,  of Type IO, alternates : [PIOD P_103, USART2 RI_2, TPIU TRACED_3, PWM1 PWMH_3]
+- B9 : PA6,  of Type IO, alternates : [PIOA P_6, UART1 UTXD_1, PMC PCK_0]
+- B10 : PC18,  of Type IO, alternates : [EBI NBS_0, PWM0 PWML_1, EBI A_0, PIOC P_82]
+- B11 : JTAGSEL,  of Type OP
+- B12 : PC17,  of Type IO, alternates : [EBI A_22, PIOC P_81, EBI NANDCLE_]
+- C1 : VDDIN,  of Type PP
+- C2 : PE0,  of Type IO, alternates : [I2SC1 WS_, PIOE P_128, EBI D_8, TC3 TIOA_9, AFEC1 AD_11]
+- C3 : VDDOUT,  of Type PP
+- C4 : VBG,  of Type IO
+- C5 : PC25,  of Type IO, alternates : [PIOC P_89, SPI1 NPCS_0, EBI A_7, TC1 TCLK_3]
+- C6 : PC23,  of Type IO, alternates : [EBI A_5, PIOC P_87, TC1 TIOA_3]
+- C7 : PC22,  of Type IO, alternates : [EBI A_4, PIOC P_86, PWM0 PWML_3]
+- C8 : PA31,  of Type IO, alternates : [PMC PCK_2, HSMCI MCDA_1, PIOA P_31, SPI0 NPCS_1, PWM1 PWMH_2]
+- C9 : PA28,  of Type IO, alternates : [PIOA P_28, HSMCI MCCDA_, TC0 TCLK_1, USART1 DSR_1, PWM1 PWMFI_2]
+- C10 : PB5,  of Type IO, alternates : [SUPC WKUP_13, TWIHS1 TWCK_1, SSC TD_, PWM0 PWML_0, PIOB P_37, ICE TDO_, ICE TRACESWO_]
+- C11 : PA0,  of Type IO, alternates : [I2SC0 MCK_, SUPC WKUP_0, TC0 TIOA_0, EBI A_17, PIOA P_0, PWM0 PWMH_0]
+- C12 : PD10,  of Type IO, alternates : [SSC TD_, PWM0 PWML_0, PIOD P_106]
+- D1 : ADVREFP,  of Type PS
+- D2 : ADVREFN,  of Type PS
+- D3 : PD31,  of Type IO, alternates : [PMC PCK_2, QSPI QIO_3, UART3 UTXD_3, ISI D_11, PIOD P_127]
+- D4 : PD0,  of Type IO, alternates : [SPI1 NPCS_1, USART0 DCD_0, PIOD P_96, PWM1 PWML_0, DACC DAC_1]
+- D5 : GNDANA,  of Type PS
+- D6 : PD4,  of Type IO, alternates : [USART2 DCD_2, PIOD P_100, PWM1 PWML_2, TPIU TRACED_0]
+- D7 : PD5,  of Type IO, alternates : [PIOD P_101, USART2 DTR_2, PWM1 PWMH_2, TPIU TRACED_1]
+- D8 : PC19,  of Type IO, alternates : [EBI A_1, PIOC P_83, PWM0 PWMH_2]
+- D9 : PD9,  of Type IO, alternates : [AFEC1 ADTRG_, PWM0 PWMFI_2, PIOD P_105]
+- D10 : PD29,  of Type IO, alternates : [PIOD P_125]
+- D11 : PC16,  of Type IO, alternates : [EBI A_21, PIOC P_80, EBI NANDALE_]
+- D12 : PA1,  of Type IO, alternates : [I2SC0 CK_, SUPC WKUP_1, EBI A_18, PWM0 PWML_0, PIOA P_1, TC0 TIOB_0]
+- E1 : PC31,  of Type IO, alternates : [AFEC1 AD_6, EBI A_13, PIOC P_95, TC1 TCLK_5]
+- E2 : PC27,  of Type IO, alternates : [AFEC1 AD_8, EBI A_9, PIOC P_91, TC1 TIOB_4, SPI1 MOSI_]
+- E3 : PE3,  of Type IO, alternates : [TC3 TIOA_10, AFEC1 AD_10, EBI D_11, PIOE P_131]
+- E4 : PC0,  of Type IO, alternates : [AFEC1 AD_9, PIOC P_64, EBI D_0, PWM0 PWML_0]
+- E5 : GNDUTMI,  of Type PS
+- E6 : GNDPLLUSB,  of Type PS
+- E7 : VDDUTMII,  of Type PP
+- E8 : VDDCORE,  of Type PP
+- E9 : PD8,  of Type IO, alternates : [PWM0 PWMFI_1, TPIU TRACECLK_, PIOD P_104]
+- E10 : PC14,  of Type IO, alternates : [PIOC P_78, EBI NCS_0, TC2 TCLK_8]
+- E11 : PD11,  of Type IO, alternates : [ISI D_5, PWM0 PWMH_0, PIOD P_107]
+- E12 : PA2,  of Type IO, alternates : [SUPC WKUP_2, PIOA P_2, PWM0 PWMH_1, DACC DATRG_]
+- F1 : PC30,  of Type IO, alternates : [EBI A_12, AFEC1 AD_5, SPI1 NPCS_3, PIOC P_94, TC1 TIOB_5]
+- F2 : PC26,  of Type IO, alternates : [AFEC1 AD_7, EBI A_8, SPI1 MISO_, TC1 TIOA_4, PIOC P_90]
+- F3 : PC29,  of Type IO, alternates : [EBI A_11, AFEC1 AD_4, TC1 TIOA_5, PIOC P_93, SPI1 NPCS_2]
+- F4 : PC12,  of Type IO, alternates : [EBI NCS_3, PIOC P_76, AFEC1 AD_3, TC2 TIOB_8]
+- F5 : GND,  of Type PS
+- F6 : GND,  of Type PS
+- F7 : GNDPLL,  of Type PS
+- F8 : VDDPLLUSB,  of Type PP
+- F9 : PB7,  of Type IO, alternates : [PIOB P_39, ICE TCK_, ICE SWDCLK_]
+- F10 : PC10,  of Type IO, alternates : [TC2 TCLK_7, EBI NANDWE_, PIOC P_74]
+- F11 : PC11,  of Type IO, alternates : [PIOC P_75, EBI NRD_, TC2 TIOA_8]
+- F12 : PA3,  of Type IO, alternates : [PMC PCK_2, USART1 LONCOL_1, TWIHS0 TWD_0, PIOA PIODC_0, PIOA P_3]
+- G1 : PC15,  of Type IO, alternates : [EBI NCS_1, PWM0 PWML_3, AFEC1 AD_2, PIOC P_79]
+- G2 : PC13,  of Type IO, alternates : [PIOC P_77, PWM0 PWMH_3, AFEC1 AD_1, EBI NWAIT_]
+- G3 : PB1,  of Type IO, alternates : [RTC RTCOUT_1, USART0 TXD_0, AFEC1 AD_0, SSC TK_, PIOB P_33, PWM0 PWMH_1]
+- G4 : GND,  of Type PS
+- G5 : GND,  of Type PS
+- G6 : GND,  of Type PS
+- G7 : GND,  of Type PS
+- G8 : VDDIO,  of Type PP
+- G9 : PD13,  of Type IO, alternates : [PIOD P_109]
+- G10 : PD12,  of Type IO, alternates : [PIOD P_108, ISI D_6, SPI0 NPCS_2]
+- G11 : PC9,  of Type IO, alternates : [EBI NANDOE_, TC2 TIOB_7, PIOC P_73]
+- G12 : PB12,  of Type IO, alternates : [PWM0 PWML_1, PIOB P_44, EFC ERASE_, PMC PCK_0]
+- H1 : PA19,  of Type IO, alternates : [I2SC1 MCK_, PIOA P_19, EBI A_15, AFEC0 AD_8, PWM0 PWML_0, SUPC WKUP_9]
+- H2 : PA18,  of Type IO, alternates : [PMC PCK_2, PIOA P_18, EBI A_14, AFEC0 AD_7, PWM1 PWMEXTRG_1]
+- H3 : PA20,  of Type IO, alternates : [SUPC WKUP_10, I2SC1 CK_, EBI A_16, AFEC0 AD_9, PIOA P_20, PWM0 PWML_1]
+- H4 : PB0,  of Type IO, alternates : [USART0 RXD_0, RTC RTCOUT_0, SSC TF_, AFEC0 AD_10, PWM0 PWMH_0, PIOB P_32]
+- H5 : VDDCORE,  of Type PP
+- H6 : VDDIO,  of Type PP
+- H7 : VDDIO,  of Type PP
+- H8 : VDDCORE,  of Type PP
+- H9 : PD21,  of Type IO, alternates : [ISI D_1, SPI0 MOSI_, TC3 TIOA_11, PWM0 PWMH_1, PIOD P_117]
+- H10 : PD14,  of Type IO, alternates : [PIOD P_110]
+- H11 : TST,  of Type IO
+- H12 : NRST,  of Type IP
+- J1 : PA17,  of Type IO, alternates : [PMC PCK_1, QSPI QIO_2, PIOA P_17, AFEC0 AD_6, PWM0 PWMH_3]
+- J2 : PB2,  of Type IO, alternates : [SPI0 NPCS_0, AFEC0 AD_5, PIOB P_34, USART0 CTS_0]
+- J3 : PB3,  of Type IO, alternates : [AFEC0 AD_2, PMC PCK_2, SUPC WKUP_12, PIOB P_35, USART0 RTS_0, ISI D_2]
+- J4 : PC1,  of Type IO, alternates : [EBI D_1, PIOC P_65, PWM0 PWML_1]
+- J5 : PC4,  of Type IO, alternates : [PIOC P_68, EBI D_4]
+- J6 : PD27,  of Type IO, alternates : [ISI D_8, PWM0 PWML_3, PIOD P_123, TWIHS2 TWD_2, SPI0 NPCS_3]
+- J7 : VDDPLL,  of Type PP
+- J8 : PA26,  of Type IO, alternates : [HSMCI MCDA_2, PIOA P_26, USART1 DCD_1, TC0 TIOA_2, PWM1 PWMFI_1]
+- J9 : PA11,  of Type IO, alternates : [PIOA PIODC_5, QSPI QCS_, PWM1 PWML_0, PIOA P_11, PWM0 PWMH_0, SUPC WKUP_7]
+- J10 : PA27,  of Type IO, alternates : [HSMCI MCDA_3, PIOA P_27, ISI D_7, USART1 DTR_1, TC0 TIOB_2]
+- J11 : PB6,  of Type IO, alternates : [ICE SWDIO_, PIOB P_38, ICE TMS_]
+- J12 : PC8,  of Type IO, alternates : [EBI NWE_, EBI NWR_0, TC2 TIOA_7, PIOC P_72]
+- K1 : PE4,  of Type IO, alternates : [PIOE P_132, EBI D_12, AFEC0 AD_4, TC3 TIOB_10]
+- K2 : PA21,  of Type IO, alternates : [AFEC0 AD_1, PIOA PIODCEN_2, PMC PCK_1, USART1 RXD_1, PIOA P_21, PWM1 PWMFI_0]
+- K3 : PA22,  of Type IO, alternates : [EBI NCS_2, PWM0 PWMEXTRG_1, PIOA PIODCCLK_, PIOA P_22, SSC RK_]
+- K4 : PC2,  of Type IO, alternates : [PIOC P_66, EBI D_2, PWM0 PWML_2]
+- K5 : PA16,  of Type IO, alternates : [PIOA P_16, EBI D_15, I2SC0 DI_0, PWM0 PWML_2, TC0 TIOB_1]
+- K6 : PA14,  of Type IO, alternates : [PIOA PIODCEN_1, PWM0 PWMH_3, QSPI QSCK_, PWM1 PWMH_1, SUPC WKUP_8, PIOA P_14]
+- K7 : PC6,  of Type IO, alternates : [EBI D_6, PIOC P_70, TC2 TIOB_6]
+- K8 : PA25,  of Type IO, alternates : [EBI A_23, USART1 CTS_1, HSMCI MCCK_, PIOA P_25, PWM0 PWMH_2]
+- K9 : PD20,  of Type IO, alternates : [SPI0 MISO_, PIOD P_116, PWM0 PWMH_0]
+- K10 : PD28,  of Type IO, alternates : [ISI D_9, TWIHS2 TWCK_2, PIOD P_124, UART3 URXD_3, SUPC WKUP_5]
+- K11 : PD16,  of Type IO, alternates : [USART2 TXD_2, PIOD P_112]
+- K12 : PA4,  of Type IO, alternates : [SUPC WKUP_3, TWIHS0 TWCK_0, TC0 TCLK_0, PIOA PIODC_1, PIOA P_4, UART1 UTXD_1]
+- L1 : PE5,  of Type IO, alternates : [EBI D_13, PIOE P_133, AFEC0 AD_3, TC3 TCLK_10]
+- L2 : PA7,  of Type IO, alternates : [PIOA P_7, PWM0 PWMH_3, PMC XIN32_]
+- L3 : PC3,  of Type IO, alternates : [PIOC P_67, PWM0 PWML_3, EBI D_3]
+- L4 : PA23,  of Type IO, alternates : [EBI A_19, USART1 SCK_1, PWM1 PWML_2, PIOA P_23, PWM0 PWMH_0]
+- L5 : PA15,  of Type IO, alternates : [PIOA P_15, EBI D_14, PWM0 PWML_3, I2SC0 WS_, TC0 TIOA_1]
+- L6 : PD26,  of Type IO, alternates : [UART2 UTXD_2, SSC TD_, UART1 UTXD_1, PIOD P_122, PWM0 PWML_2]
+- L7 : PA24,  of Type IO, alternates : [EBI A_20, USART1 RTS_1, ISI PCK_, PIOA P_24, PWM0 PWMH_1]
+- L8 : PC5,  of Type IO, alternates : [EBI D_5, PIOC P_69, TC2 TIOA_6]
+- L9 : PA10,  of Type IO, alternates : [PIOA PIODC_4, UART0 UTXD_0, SSC RD_, PWM0 PWMEXTRG_0, PIOA P_10]
+- L10 : PA12,  of Type IO, alternates : [PIOA PIODC_6, QSPI QIO_1, PIOA P_12, PWM1 PWMH_0, PWM0 PWMH_1]
+- L11 : PD17,  of Type IO, alternates : [USART2 SCK_2, PIOD P_113]
+- L12 : PC28,  of Type IO, alternates : [SPI1 NPCS_1, EBI A_10, PIOC P_92, TC1 TCLK_4]
+- M1 : PD30,  of Type IO, alternates : [UART3 UTXD_3, ISI D_10, PIOD P_126, AFEC0 AD_0]
+- M2 : PA8,  of Type IO, alternates : [PIOA P_8, AFEC0 ADTRG_, PMC XOUT32_, PWM1 PWMH_3]
+- M3 : PA13,  of Type IO, alternates : [QSPI QIO_0, PWM1 PWML_1, PIOA P_13, PIOA PIODC_7, PWM0 PWMH_2]
+- M4 : PC7,  of Type IO, alternates : [EBI D_7, TC2 TCLK_6, PIOC P_71]
+- M5 : PD25,  of Type IO, alternates : [ISI VSYNC_, PIOD P_121, PWM0 PWML_1, UART2 URXD_2, SPI0 NPCS_1]
+- M6 : PD24,  of Type IO, alternates : [PIOD P_120, TC3 TCLK_11, PWM0 PWML_0, SSC RF_, ISI HSYNC_]
+- M7 : PD23,  of Type IO, alternates : [PIOD P_119, PWM0 PWMH_3]
+- M8 : PD22,  of Type IO, alternates : [ISI D_0, SPI0 SPCK_, TC3 TIOB_11, PIOD P_118, PWM0 PWMH_2]
+- M9 : PD19,  of Type IO, alternates : [EBI NCS_3, USART2 CTS_2, UART4 UTXD_4, PIOD P_115]
+- M10 : PD18,  of Type IO, alternates : [EBI NCS_1, USART2 RTS_2, PIOD P_114, UART4 URXD_4]
+- M11 : PA5,  of Type IO, alternates : [SUPC WKUP_4, PIOA PIODC_2, ISI D_4, PIOA P_5, UART1 URXD_1, PWM1 PWML_3]
+- M12 : PA9,  of Type IO, alternates : [PWM0 PWMFI_0, PIOA P_9, PIOA PIODC_3, UART0 URXD_0, ISI D_3, SUPC WKUP_6]
 ## ATSAMS70Q21B-AN
+
 ### Description : 
+
+- Series : SAMS70
+- Footprint : LQFP144
+- MP : ATSAMS70Q21B-AN
+- Architecture : CORTEX-M7
+- PINOUT : LQFP144
+- Reference : U
+- Documentation : https://www.microchip.com/en-us/search?q=ATSAMS70Q21B-AN
+- Value : ATSAMS70Q21B-AN
+- Family : SAMS
+- MF : Microchip
+- Name : ATSAMS70Q21B
 
 ### Package : 
 
-- 102 : PA0
-- 99 : PA1
-- 93 : PA2
-- 91 : PA3
-- 77 : PA4
-- 73 : PA5
-- 114 : PA6
-- 35 : PA7
-- 36 : PA8
-- 75 : PA9
-- 66 : PA10
-- 64 : PA11
-- 68 : PA12
-- 42 : PA13
-- 51 : PA14
-- 49 : PA15
-- 45 : PA16
-- 25 : PA17
-- 24 : PA18
-- 23 : PA19
-- 22 : PA20
-- 32 : PA21
-- 37 : PA22
-- 46 : PA23
-- 56 : PA24
-- 59 : PA25
-- 62 : PA26
-- 70 : PA27
-- 112 : PA28
-- 129 : PA29
-- 116 : PA30
-- 118 : PA31
-- 21 : PB0
-- 20 : PB1
-- 26 : PB2
-- 31 : PB3
-- 105 : PB4
-- 109 : PB5
-- 79 : PB6
-- 89 : PB7
-- 141 : PB8
-- 142 : PB9
-- 87 : PB12
-- 144 : PB13
-- 11 : PC0
-- 38 : PC1
-- 39 : PC2
-- 40 : PC3
-- 41 : PC4
-- 58 : PC5
-- 54 : PC6
-- 48 : PC7
-- 82 : PC8
-- 86 : PC9
-- 90 : PC10
-- 94 : PC11
-- 17 : PC12
-- 19 : PC13
-- 97 : PC14
-- 18 : PC15
-- 100 : PC16
-- 103 : PC17
-- 111 : PC18
-- 117 : PC19
-- 120 : PC20
-- 122 : PC21
-- 124 : PC22
-- 127 : PC23
-- 130 : PC24
-- 133 : PC25
-- 13 : PC26
-- 12 : PC27
-- 76 : PC28
-- 16 : PC29
-- 15 : PC30
-- 14 : PC31
-- 1 : PD0
-- 132 : PD1
-- 131 : PD2
-- 128 : PD3
-- 126 : PD4
-- 125 : PD5
-- 121 : PD6
-- 119 : PD7
-- 113 : PD8
-- 110 : PD9
-- 101 : PD10
-- 98 : PD11
-- 92 : PD12
-- 88 : PD13
-- 84 : PD14
-- 106 : PD15
-- 78 : PD16
-- 74 : PD17
-- 69 : PD18
-- 67 : PD19
-- 65 : PD20
-- 63 : PD21
-- 60 : PD22
-- 57 : PD23
-- 55 : PD24
-- 52 : PD25
-- 53 : PD26
-- 47 : PD27
-- 71 : PD28
-- 108 : PD29
-- 34 : PD30
-- 2 : PD31
-- 4 : PE0
-- 6 : PE1
-- 7 : PE2
-- 10 : PE3
-- 27 : PE4
-- 28 : PE5
-- 3 : VDDOUT
-- 5 : VDDIN
-- 8 : VREFN
-- 9 : VREFP
-- 83 : NRST
-- 85 : TST
-- 30 : VDDIO
-- 43 : VDDIO
-- 72 : VDDIO
-- 80 : VDDIO
-- 96 : VDDIO
-- 104 : JTAGSEL
-- 29 : VDDCORE
-- 33 : VDDCORE
-- 50 : VDDCORE
-- 81 : VDDCORE
-- 107 : VDDCORE
-- 123 : VDDPLL
-- 134 : VDDUTMII
-- 136 : HSDM
-- 137 : HSDP
-- 44 : GND
-- 61 : GND
-- 95 : GND
-- 115 : GND
-- 135 : GND
-- 138 : GND
-- 139 : VDDUTMIC
-- 140 : VBG
-- 143 : VDDPLLUSB
+Pin count : 144
+- 102 : PA0,  of Type IO, alternates : [I2SC0 MCK_, SUPC WKUP_0, TC0 TIOA_0, EBI A_17, PIOA P_0, PWM0 PWMH_0]
+- 99 : PA1,  of Type IO, alternates : [I2SC0 CK_, SUPC WKUP_1, EBI A_18, PWM0 PWML_0, PIOA P_1, TC0 TIOB_0]
+- 93 : PA2,  of Type IO, alternates : [SUPC WKUP_2, PIOA P_2, PWM0 PWMH_1, DACC DATRG_]
+- 91 : PA3,  of Type IO, alternates : [PMC PCK_2, USART1 LONCOL_1, TWIHS0 TWD_0, PIOA PIODC_0, PIOA P_3]
+- 77 : PA4,  of Type IO, alternates : [SUPC WKUP_3, TWIHS0 TWCK_0, TC0 TCLK_0, PIOA PIODC_1, PIOA P_4, UART1 UTXD_1]
+- 73 : PA5,  of Type IO, alternates : [SUPC WKUP_4, PIOA PIODC_2, ISI D_4, PIOA P_5, UART1 URXD_1, PWM1 PWML_3]
+- 114 : PA6,  of Type IO, alternates : [PIOA P_6, UART1 UTXD_1, PMC PCK_0]
+- 35 : PA7,  of Type IO, alternates : [PIOA P_7, PWM0 PWMH_3, PMC XIN32_]
+- 36 : PA8,  of Type IO, alternates : [PIOA P_8, AFEC0 ADTRG_, PMC XOUT32_, PWM1 PWMH_3]
+- 75 : PA9,  of Type IO, alternates : [PWM0 PWMFI_0, PIOA P_9, PIOA PIODC_3, UART0 URXD_0, ISI D_3, SUPC WKUP_6]
+- 66 : PA10,  of Type IO, alternates : [PIOA PIODC_4, UART0 UTXD_0, SSC RD_, PWM0 PWMEXTRG_0, PIOA P_10]
+- 64 : PA11,  of Type IO, alternates : [PIOA PIODC_5, QSPI QCS_, PWM1 PWML_0, PIOA P_11, PWM0 PWMH_0, SUPC WKUP_7]
+- 68 : PA12,  of Type IO, alternates : [PIOA PIODC_6, QSPI QIO_1, PIOA P_12, PWM1 PWMH_0, PWM0 PWMH_1]
+- 42 : PA13,  of Type IO, alternates : [QSPI QIO_0, PWM1 PWML_1, PIOA P_13, PIOA PIODC_7, PWM0 PWMH_2]
+- 51 : PA14,  of Type IO, alternates : [PIOA PIODCEN_1, PWM0 PWMH_3, QSPI QSCK_, PWM1 PWMH_1, SUPC WKUP_8, PIOA P_14]
+- 49 : PA15,  of Type IO, alternates : [PIOA P_15, EBI D_14, PWM0 PWML_3, I2SC0 WS_, TC0 TIOA_1]
+- 45 : PA16,  of Type IO, alternates : [PIOA P_16, EBI D_15, I2SC0 DI_0, PWM0 PWML_2, TC0 TIOB_1]
+- 25 : PA17,  of Type IO, alternates : [PMC PCK_1, QSPI QIO_2, PIOA P_17, AFEC0 AD_6, PWM0 PWMH_3]
+- 24 : PA18,  of Type IO, alternates : [PMC PCK_2, PIOA P_18, EBI A_14, AFEC0 AD_7, PWM1 PWMEXTRG_1]
+- 23 : PA19,  of Type IO, alternates : [I2SC1 MCK_, PIOA P_19, EBI A_15, AFEC0 AD_8, PWM0 PWML_0, SUPC WKUP_9]
+- 22 : PA20,  of Type IO, alternates : [SUPC WKUP_10, I2SC1 CK_, EBI A_16, AFEC0 AD_9, PIOA P_20, PWM0 PWML_1]
+- 32 : PA21,  of Type IO, alternates : [AFEC0 AD_1, PIOA PIODCEN_2, PMC PCK_1, USART1 RXD_1, PIOA P_21, PWM1 PWMFI_0]
+- 37 : PA22,  of Type IO, alternates : [EBI NCS_2, PWM0 PWMEXTRG_1, PIOA PIODCCLK_, PIOA P_22, SSC RK_]
+- 46 : PA23,  of Type IO, alternates : [EBI A_19, USART1 SCK_1, PWM1 PWML_2, PIOA P_23, PWM0 PWMH_0]
+- 56 : PA24,  of Type IO, alternates : [EBI A_20, USART1 RTS_1, ISI PCK_, PIOA P_24, PWM0 PWMH_1]
+- 59 : PA25,  of Type IO, alternates : [EBI A_23, USART1 CTS_1, HSMCI MCCK_, PIOA P_25, PWM0 PWMH_2]
+- 62 : PA26,  of Type IO, alternates : [HSMCI MCDA_2, PIOA P_26, USART1 DCD_1, TC0 TIOA_2, PWM1 PWMFI_1]
+- 70 : PA27,  of Type IO, alternates : [HSMCI MCDA_3, PIOA P_27, ISI D_7, USART1 DTR_1, TC0 TIOB_2]
+- 112 : PA28,  of Type IO, alternates : [PIOA P_28, HSMCI MCCDA_, TC0 TCLK_1, USART1 DSR_1, PWM1 PWMFI_2]
+- 129 : PA29,  of Type IO, alternates : [PIOA P_29, TC0 TCLK_2, USART1 RI_1]
+- 116 : PA30,  of Type IO, alternates : [HSMCI MCDA_0, SUPC WKUP_11, I2SC0 DO_0, PWM1 PWMEXTRG_0, PIOA P_30, PWM0 PWML_2]
+- 118 : PA31,  of Type IO, alternates : [PMC PCK_2, HSMCI MCDA_1, PIOA P_31, SPI0 NPCS_1, PWM1 PWMH_2]
+- 21 : PB0,  of Type IO, alternates : [USART0 RXD_0, RTC RTCOUT_0, SSC TF_, AFEC0 AD_10, PWM0 PWMH_0, PIOB P_32]
+- 20 : PB1,  of Type IO, alternates : [RTC RTCOUT_1, USART0 TXD_0, AFEC1 AD_0, SSC TK_, PIOB P_33, PWM0 PWMH_1]
+- 26 : PB2,  of Type IO, alternates : [SPI0 NPCS_0, AFEC0 AD_5, PIOB P_34, USART0 CTS_0]
+- 31 : PB3,  of Type IO, alternates : [AFEC0 AD_2, PMC PCK_2, SUPC WKUP_12, PIOB P_35, USART0 RTS_0, ISI D_2]
+- 105 : PB4,  of Type IO, alternates : [ICE TDI_, USART1 TXD_1, TWIHS1 TWD_1, PIOB P_36, PWM0 PWMH_2]
+- 109 : PB5,  of Type IO, alternates : [SUPC WKUP_13, TWIHS1 TWCK_1, SSC TD_, PWM0 PWML_0, PIOB P_37, ICE TDO_, ICE TRACESWO_]
+- 79 : PB6,  of Type IO, alternates : [ICE SWDIO_, PIOB P_38, ICE TMS_]
+- 89 : PB7,  of Type IO, alternates : [PIOB P_39, ICE TCK_, ICE SWDCLK_]
+- 141 : PB8,  of Type IO, alternates : [PIOB P_40, PMC XOUT_]
+- 142 : PB9,  of Type IO, alternates : [PMC XIN_, PIOB P_41]
+- 87 : PB12,  of Type IO, alternates : [PWM0 PWML_1, PIOB P_44, EFC ERASE_, PMC PCK_0]
+- 144 : PB13,  of Type IO, alternates : [PIOB P_45, USART0 SCK_0, PWM0 PWML_2, DACC DAC_0, PMC PCK_0]
+- 11 : PC0,  of Type IO, alternates : [AFEC1 AD_9, PIOC P_64, EBI D_0, PWM0 PWML_0]
+- 38 : PC1,  of Type IO, alternates : [EBI D_1, PIOC P_65, PWM0 PWML_1]
+- 39 : PC2,  of Type IO, alternates : [PIOC P_66, EBI D_2, PWM0 PWML_2]
+- 40 : PC3,  of Type IO, alternates : [PIOC P_67, PWM0 PWML_3, EBI D_3]
+- 41 : PC4,  of Type IO, alternates : [PIOC P_68, EBI D_4]
+- 58 : PC5,  of Type IO, alternates : [EBI D_5, PIOC P_69, TC2 TIOA_6]
+- 54 : PC6,  of Type IO, alternates : [EBI D_6, PIOC P_70, TC2 TIOB_6]
+- 48 : PC7,  of Type IO, alternates : [EBI D_7, TC2 TCLK_6, PIOC P_71]
+- 82 : PC8,  of Type IO, alternates : [EBI NWE_, EBI NWR_0, TC2 TIOA_7, PIOC P_72]
+- 86 : PC9,  of Type IO, alternates : [EBI NANDOE_, TC2 TIOB_7, PIOC P_73]
+- 90 : PC10,  of Type IO, alternates : [TC2 TCLK_7, EBI NANDWE_, PIOC P_74]
+- 94 : PC11,  of Type IO, alternates : [PIOC P_75, EBI NRD_, TC2 TIOA_8]
+- 17 : PC12,  of Type IO, alternates : [EBI NCS_3, PIOC P_76, AFEC1 AD_3, TC2 TIOB_8]
+- 19 : PC13,  of Type IO, alternates : [PIOC P_77, PWM0 PWMH_3, AFEC1 AD_1, EBI NWAIT_]
+- 97 : PC14,  of Type IO, alternates : [PIOC P_78, EBI NCS_0, TC2 TCLK_8]
+- 18 : PC15,  of Type IO, alternates : [EBI NCS_1, PWM0 PWML_3, AFEC1 AD_2, PIOC P_79]
+- 100 : PC16,  of Type IO, alternates : [EBI A_21, PIOC P_80, EBI NANDALE_]
+- 103 : PC17,  of Type IO, alternates : [EBI A_22, PIOC P_81, EBI NANDCLE_]
+- 111 : PC18,  of Type IO, alternates : [EBI NBS_0, PWM0 PWML_1, EBI A_0, PIOC P_82]
+- 117 : PC19,  of Type IO, alternates : [EBI A_1, PIOC P_83, PWM0 PWMH_2]
+- 120 : PC20,  of Type IO, alternates : [EBI A_2, PWM0 PWML_2, PIOC P_84]
+- 122 : PC21,  of Type IO, alternates : [EBI A_3, PWM0 PWMH_3, PIOC P_85]
+- 124 : PC22,  of Type IO, alternates : [EBI A_4, PIOC P_86, PWM0 PWML_3]
+- 127 : PC23,  of Type IO, alternates : [EBI A_5, PIOC P_87, TC1 TIOA_3]
+- 130 : PC24,  of Type IO, alternates : [PIOC P_88, SPI1 SPCK_, EBI A_6, TC1 TIOB_3]
+- 133 : PC25,  of Type IO, alternates : [PIOC P_89, SPI1 NPCS_0, EBI A_7, TC1 TCLK_3]
+- 13 : PC26,  of Type IO, alternates : [AFEC1 AD_7, EBI A_8, SPI1 MISO_, TC1 TIOA_4, PIOC P_90]
+- 12 : PC27,  of Type IO, alternates : [AFEC1 AD_8, EBI A_9, PIOC P_91, TC1 TIOB_4, SPI1 MOSI_]
+- 76 : PC28,  of Type IO, alternates : [SPI1 NPCS_1, EBI A_10, PIOC P_92, TC1 TCLK_4]
+- 16 : PC29,  of Type IO, alternates : [EBI A_11, AFEC1 AD_4, TC1 TIOA_5, PIOC P_93, SPI1 NPCS_2]
+- 15 : PC30,  of Type IO, alternates : [EBI A_12, AFEC1 AD_5, SPI1 NPCS_3, PIOC P_94, TC1 TIOB_5]
+- 14 : PC31,  of Type IO, alternates : [AFEC1 AD_6, EBI A_13, PIOC P_95, TC1 TCLK_5]
+- 1 : PD0,  of Type IO, alternates : [SPI1 NPCS_1, USART0 DCD_0, PIOD P_96, PWM1 PWML_0, DACC DAC_1]
+- 132 : PD1,  of Type IO, alternates : [PIOD P_97, PWM1 PWMH_0, SPI1 NPCS_2, USART0 DTR_0]
+- 131 : PD2,  of Type IO, alternates : [PIOD P_98, PWM1 PWML_1, SPI1 NPCS_3, USART0 DSR_0]
+- 128 : PD3,  of Type IO, alternates : [USART0 RI_0, PIOD P_99, UART4 UTXD_4, PWM1 PWMH_1]
+- 126 : PD4,  of Type IO, alternates : [USART2 DCD_2, PIOD P_100, PWM1 PWML_2, TPIU TRACED_0]
+- 125 : PD5,  of Type IO, alternates : [PIOD P_101, USART2 DTR_2, PWM1 PWMH_2, TPIU TRACED_1]
+- 121 : PD6,  of Type IO, alternates : [PWM1 PWML_3, PIOD P_102, TPIU TRACED_2, USART2 DSR_2]
+- 119 : PD7,  of Type IO, alternates : [PIOD P_103, USART2 RI_2, TPIU TRACED_3, PWM1 PWMH_3]
+- 113 : PD8,  of Type IO, alternates : [PWM0 PWMFI_1, TPIU TRACECLK_, PIOD P_104]
+- 110 : PD9,  of Type IO, alternates : [AFEC1 ADTRG_, PWM0 PWMFI_2, PIOD P_105]
+- 101 : PD10,  of Type IO, alternates : [SSC TD_, PWM0 PWML_0, PIOD P_106]
+- 98 : PD11,  of Type IO, alternates : [ISI D_5, PWM0 PWMH_0, PIOD P_107]
+- 92 : PD12,  of Type IO, alternates : [PIOD P_108, ISI D_6, SPI0 NPCS_2]
+- 88 : PD13,  of Type IO, alternates : [PIOD P_109]
+- 84 : PD14,  of Type IO, alternates : [PIOD P_110]
+- 106 : PD15,  of Type IO, alternates : [EBI NWR_1, EBI NBS_1, PIOD P_111, USART2 RXD_2]
+- 78 : PD16,  of Type IO, alternates : [USART2 TXD_2, PIOD P_112]
+- 74 : PD17,  of Type IO, alternates : [USART2 SCK_2, PIOD P_113]
+- 69 : PD18,  of Type IO, alternates : [EBI NCS_1, USART2 RTS_2, PIOD P_114, UART4 URXD_4]
+- 67 : PD19,  of Type IO, alternates : [EBI NCS_3, USART2 CTS_2, UART4 UTXD_4, PIOD P_115]
+- 65 : PD20,  of Type IO, alternates : [SPI0 MISO_, PIOD P_116, PWM0 PWMH_0]
+- 63 : PD21,  of Type IO, alternates : [ISI D_1, SPI0 MOSI_, TC3 TIOA_11, PWM0 PWMH_1, PIOD P_117]
+- 60 : PD22,  of Type IO, alternates : [ISI D_0, SPI0 SPCK_, TC3 TIOB_11, PIOD P_118, PWM0 PWMH_2]
+- 57 : PD23,  of Type IO, alternates : [PIOD P_119, PWM0 PWMH_3]
+- 55 : PD24,  of Type IO, alternates : [PIOD P_120, TC3 TCLK_11, PWM0 PWML_0, SSC RF_, ISI HSYNC_]
+- 52 : PD25,  of Type IO, alternates : [ISI VSYNC_, PIOD P_121, PWM0 PWML_1, UART2 URXD_2, SPI0 NPCS_1]
+- 53 : PD26,  of Type IO, alternates : [UART2 UTXD_2, SSC TD_, UART1 UTXD_1, PIOD P_122, PWM0 PWML_2]
+- 47 : PD27,  of Type IO, alternates : [ISI D_8, PWM0 PWML_3, PIOD P_123, TWIHS2 TWD_2, SPI0 NPCS_3]
+- 71 : PD28,  of Type IO, alternates : [ISI D_9, TWIHS2 TWCK_2, PIOD P_124, UART3 URXD_3, SUPC WKUP_5]
+- 108 : PD29,  of Type IO, alternates : [PIOD P_125]
+- 34 : PD30,  of Type IO, alternates : [UART3 UTXD_3, ISI D_10, PIOD P_126, AFEC0 AD_0]
+- 2 : PD31,  of Type IO, alternates : [PMC PCK_2, QSPI QIO_3, UART3 UTXD_3, ISI D_11, PIOD P_127]
+- 4 : PE0,  of Type IO, alternates : [I2SC1 WS_, PIOE P_128, EBI D_8, TC3 TIOA_9, AFEC1 AD_11]
+- 6 : PE1,  of Type IO, alternates : [I2SC1 DO_0, EBI D_9, PIOE P_129, TC3 TIOB_9]
+- 7 : PE2,  of Type IO, alternates : [TC3 TCLK_9, I2SC1 DI_0, PIOE P_130, EBI D_10]
+- 10 : PE3,  of Type IO, alternates : [TC3 TIOA_10, AFEC1 AD_10, EBI D_11, PIOE P_131]
+- 27 : PE4,  of Type IO, alternates : [PIOE P_132, EBI D_12, AFEC0 AD_4, TC3 TIOB_10]
+- 28 : PE5,  of Type IO, alternates : [EBI D_13, PIOE P_133, AFEC0 AD_3, TC3 TCLK_10]
+- 3 : VDDOUT,  of Type PP
+- 5 : VDDIN,  of Type PP
+- 8 : VREFN,  of Type PS
+- 9 : VREFP,  of Type PS
+- 83 : NRST,  of Type IP
+- 85 : TST,  of Type IO
+- 30 : VDDIO,  of Type PP
+- 43 : VDDIO,  of Type PP
+- 72 : VDDIO,  of Type PP
+- 80 : VDDIO,  of Type PP
+- 96 : VDDIO,  of Type PP
+- 104 : JTAGSEL,  of Type OP
+- 29 : VDDCORE,  of Type PP
+- 33 : VDDCORE,  of Type PP
+- 50 : VDDCORE,  of Type PP
+- 81 : VDDCORE,  of Type PP
+- 107 : VDDCORE,  of Type PP
+- 123 : VDDPLL,  of Type PP
+- 134 : VDDUTMII,  of Type PP
+- 136 : HSDM,  of Type IO
+- 137 : HSDP,  of Type IO
+- 44 : GND,  of Type PS
+- 61 : GND,  of Type PS
+- 95 : GND,  of Type PS
+- 115 : GND,  of Type PS
+- 135 : GND,  of Type PS
+- 138 : GND,  of Type PS
+- 139 : VDDUTMIC,  of Type PP
+- 140 : VBG,  of Type IO
+- 143 : VDDPLLUSB,  of Type PP
 ## ATSAMS70Q21B-CFN
+
 ### Description : 
+
+- Series : SAMS70
+- Footprint : UFBGA144
+- MP : ATSAMS70Q21B-CFN
+- Architecture : CORTEX-M7
+- PINOUT : UFBGA144
+- Reference : U
+- Documentation : https://www.microchip.com/en-us/search?q=ATSAMS70Q21B-CFN
+- Value : ATSAMS70Q21B-CFN
+- Family : SAMS
+- MF : Microchip
+- Name : ATSAMS70Q21B
 
 ### Package : 
 
-- A1 : PB13
-- A2 : PB9
-- A3 : VBG
-- A4 : HSDP
-- A5 : HSDM
-- A6 : PD2
-- A7 : PA29
-- A8 : PC22
-- A9 : PC21
-- A10 : PD7
-- A11 : PA30
-- A12 : PD8
-- A13 : PD9
-- B1 : PD0
-- B2 : PB8
-- B3 : GNDPLLUSB
-- B4 : VDDUTMII
-- B5 : GNDUTMI
-- B6 : PD1
-- B7 : PD3
-- B8 : PD5
-- B9 : PD6
-- B10 : PC19
-- B11 : PA6
-- B12 : PC18
-- B13 : PD29
-- C1 : VDDIN
-- C2 : PE0
-- C3 : PD31
-- C4 : VDDUTMIC
-- C5 : GND
-- C6 : PC25
-- C7 : PC23
-- C8 : PD4
-- C9 : PC20
-- C10 : PA31
-- C11 : PA28
-- C12 : PB5
-- C13 : PB4
-- D1 : PE2
-- D2 : PE1
-- D3 : GND
-- D4 : VDDPLLUSB
-- D5 : VDDCORE
-- D6 : VDDIO
-- D7 : PC24
-- D8 : VDDPLL
-- D9 : GNDPLL
-- D10 : GND
-- D11 : PD15
-- D12 : JTAGSEL
-- D13 : PD10
-- E1 : VREFP
-- E2 : VREFN
-- E3 : GNDANA
-- E4 : VDDOUT
-- E10 : PC17
-- E11 : PA0
-- E12 : PC16
-- E13 : PD11
-- F1 : PE3
-- F2 : PC0
-- F3 : PC27
-- F4 : PC26
-- F10 : VDDIO
-- F11 : PA1
-- F12 : PC14
-- F13 : PC11
-- G1 : PC29
-- G2 : PC12
-- G3 : PC30
-- G4 : PC31
-- G10 : VDDCORE
-- G11 : PA3
-- G12 : PA2
-- G13 : PD12
-- H1 : PB1
-- H2 : PB0
-- H3 : PC13
-- H4 : PC15
-- H10 : GND
-- H11 : PD13
-- H12 : PC10
-- H13 : PB7
-- J1 : PA20
-- J2 : PA19
-- J3 : PA18
-- J4 : PA17
-- J10 : PB12
-- J11 : PC9
-- J12 : PD14
-- J13 : TST
-- K1 : PB2
-- K2 : PE4
-- K3 : PE5
-- K4 : GND
-- K5 : VDDCORE
-- K6 : VDDIO
-- K7 : PD24
-- K8 : GND
-- K9 : PD20
-- K10 : PD16
-- K11 : PB6
-- K12 : NRST
-- K13 : PC8
-- L1 : PB3
-- L2 : PD30
-- L3 : PC4
-- L4 : PA16
-- L5 : PC7
-- L6 : PD25
-- L7 : PC6
-- L8 : PA25
-- L9 : PD21
-- L10 : PD19
-- L11 : PA9
-- L12 : PA4
-- L13 : PC28
-- M1 : PA21
-- M2 : PA22
-- M3 : PC1
-- M4 : PA13
-- M5 : PD27
-- M6 : PA14
-- M7 : PD26
-- M8 : PC5
-- M9 : PA26
-- M10 : PA10
-- M11 : PD18
-- M12 : PD28
-- M13 : PD17
-- N1 : PA7
-- N2 : PA8
-- N3 : PC2
-- N4 : PC3
-- N5 : PA23
-- N6 : PA15
-- N7 : PD23
-- N8 : PA24
-- N9 : PD22
-- N10 : PA11
-- N11 : PA12
-- N12 : PA27
-- N13 : PA5
+Pin count : 144
+- A1 : PB13,  of Type IO, alternates : [PIOB P_45, USART0 SCK_0, PWM0 PWML_2, DACC DAC_0, PMC PCK_0]
+- A2 : PB9,  of Type IO, alternates : [PMC XIN_, PIOB P_41]
+- A3 : VBG,  of Type IO
+- A4 : HSDP,  of Type IO
+- A5 : HSDM,  of Type IO
+- A6 : PD2,  of Type IO, alternates : [PIOD P_98, PWM1 PWML_1, SPI1 NPCS_3, USART0 DSR_0]
+- A7 : PA29,  of Type IO, alternates : [PIOA P_29, TC0 TCLK_2, USART1 RI_1]
+- A8 : PC22,  of Type IO, alternates : [EBI A_4, PIOC P_86, PWM0 PWML_3]
+- A9 : PC21,  of Type IO, alternates : [EBI A_3, PWM0 PWMH_3, PIOC P_85]
+- A10 : PD7,  of Type IO, alternates : [PIOD P_103, USART2 RI_2, TPIU TRACED_3, PWM1 PWMH_3]
+- A11 : PA30,  of Type IO, alternates : [HSMCI MCDA_0, SUPC WKUP_11, I2SC0 DO_0, PWM1 PWMEXTRG_0, PIOA P_30, PWM0 PWML_2]
+- A12 : PD8,  of Type IO, alternates : [PWM0 PWMFI_1, TPIU TRACECLK_, PIOD P_104]
+- A13 : PD9,  of Type IO, alternates : [AFEC1 ADTRG_, PWM0 PWMFI_2, PIOD P_105]
+- B1 : PD0,  of Type IO, alternates : [SPI1 NPCS_1, USART0 DCD_0, PIOD P_96, PWM1 PWML_0, DACC DAC_1]
+- B2 : PB8,  of Type IO, alternates : [PIOB P_40, PMC XOUT_]
+- B3 : GNDPLLUSB,  of Type PS
+- B4 : VDDUTMII,  of Type PP
+- B5 : GNDUTMI,  of Type PS
+- B6 : PD1,  of Type IO, alternates : [PIOD P_97, PWM1 PWMH_0, SPI1 NPCS_2, USART0 DTR_0]
+- B7 : PD3,  of Type IO, alternates : [USART0 RI_0, PIOD P_99, UART4 UTXD_4, PWM1 PWMH_1]
+- B8 : PD5,  of Type IO, alternates : [PIOD P_101, USART2 DTR_2, PWM1 PWMH_2, TPIU TRACED_1]
+- B9 : PD6,  of Type IO, alternates : [PWM1 PWML_3, PIOD P_102, TPIU TRACED_2, USART2 DSR_2]
+- B10 : PC19,  of Type IO, alternates : [EBI A_1, PIOC P_83, PWM0 PWMH_2]
+- B11 : PA6,  of Type IO, alternates : [PIOA P_6, UART1 UTXD_1, PMC PCK_0]
+- B12 : PC18,  of Type IO, alternates : [EBI NBS_0, PWM0 PWML_1, EBI A_0, PIOC P_82]
+- B13 : PD29,  of Type IO, alternates : [PIOD P_125]
+- C1 : VDDIN,  of Type PP
+- C2 : PE0,  of Type IO, alternates : [I2SC1 WS_, PIOE P_128, EBI D_8, TC3 TIOA_9, AFEC1 AD_11]
+- C3 : PD31,  of Type IO, alternates : [PMC PCK_2, QSPI QIO_3, UART3 UTXD_3, ISI D_11, PIOD P_127]
+- C4 : VDDUTMIC,  of Type PP
+- C5 : GND,  of Type PS
+- C6 : PC25,  of Type IO, alternates : [PIOC P_89, SPI1 NPCS_0, EBI A_7, TC1 TCLK_3]
+- C7 : PC23,  of Type IO, alternates : [EBI A_5, PIOC P_87, TC1 TIOA_3]
+- C8 : PD4,  of Type IO, alternates : [USART2 DCD_2, PIOD P_100, PWM1 PWML_2, TPIU TRACED_0]
+- C9 : PC20,  of Type IO, alternates : [EBI A_2, PWM0 PWML_2, PIOC P_84]
+- C10 : PA31,  of Type IO, alternates : [PMC PCK_2, HSMCI MCDA_1, PIOA P_31, SPI0 NPCS_1, PWM1 PWMH_2]
+- C11 : PA28,  of Type IO, alternates : [PIOA P_28, HSMCI MCCDA_, TC0 TCLK_1, USART1 DSR_1, PWM1 PWMFI_2]
+- C12 : PB5,  of Type IO, alternates : [SUPC WKUP_13, TWIHS1 TWCK_1, SSC TD_, PWM0 PWML_0, PIOB P_37, ICE TDO_, ICE TRACESWO_]
+- C13 : PB4,  of Type IO, alternates : [ICE TDI_, USART1 TXD_1, TWIHS1 TWD_1, PIOB P_36, PWM0 PWMH_2]
+- D1 : PE2,  of Type IO, alternates : [TC3 TCLK_9, I2SC1 DI_0, PIOE P_130, EBI D_10]
+- D2 : PE1,  of Type IO, alternates : [I2SC1 DO_0, EBI D_9, PIOE P_129, TC3 TIOB_9]
+- D3 : GND,  of Type PS
+- D4 : VDDPLLUSB,  of Type PP
+- D5 : VDDCORE,  of Type PP
+- D6 : VDDIO,  of Type PP
+- D7 : PC24,  of Type IO, alternates : [PIOC P_88, SPI1 SPCK_, EBI A_6, TC1 TIOB_3]
+- D8 : VDDPLL,  of Type PP
+- D9 : GNDPLL,  of Type PS
+- D10 : GND,  of Type PS
+- D11 : PD15,  of Type IO, alternates : [EBI NWR_1, EBI NBS_1, PIOD P_111, USART2 RXD_2]
+- D12 : JTAGSEL,  of Type OP
+- D13 : PD10,  of Type IO, alternates : [SSC TD_, PWM0 PWML_0, PIOD P_106]
+- E1 : VREFP,  of Type PS
+- E2 : VREFN,  of Type PS
+- E3 : GNDANA,  of Type PS
+- E4 : VDDOUT,  of Type PP
+- E10 : PC17,  of Type IO, alternates : [EBI A_22, PIOC P_81, EBI NANDCLE_]
+- E11 : PA0,  of Type IO, alternates : [I2SC0 MCK_, SUPC WKUP_0, TC0 TIOA_0, EBI A_17, PIOA P_0, PWM0 PWMH_0]
+- E12 : PC16,  of Type IO, alternates : [EBI A_21, PIOC P_80, EBI NANDALE_]
+- E13 : PD11,  of Type IO, alternates : [ISI D_5, PWM0 PWMH_0, PIOD P_107]
+- F1 : PE3,  of Type IO, alternates : [TC3 TIOA_10, AFEC1 AD_10, EBI D_11, PIOE P_131]
+- F2 : PC0,  of Type IO, alternates : [AFEC1 AD_9, PIOC P_64, EBI D_0, PWM0 PWML_0]
+- F3 : PC27,  of Type IO, alternates : [AFEC1 AD_8, EBI A_9, PIOC P_91, TC1 TIOB_4, SPI1 MOSI_]
+- F4 : PC26,  of Type IO, alternates : [AFEC1 AD_7, EBI A_8, SPI1 MISO_, TC1 TIOA_4, PIOC P_90]
+- F10 : VDDIO,  of Type PP
+- F11 : PA1,  of Type IO, alternates : [I2SC0 CK_, SUPC WKUP_1, EBI A_18, PWM0 PWML_0, PIOA P_1, TC0 TIOB_0]
+- F12 : PC14,  of Type IO, alternates : [PIOC P_78, EBI NCS_0, TC2 TCLK_8]
+- F13 : PC11,  of Type IO, alternates : [PIOC P_75, EBI NRD_, TC2 TIOA_8]
+- G1 : PC29,  of Type IO, alternates : [EBI A_11, AFEC1 AD_4, TC1 TIOA_5, PIOC P_93, SPI1 NPCS_2]
+- G2 : PC12,  of Type IO, alternates : [EBI NCS_3, PIOC P_76, AFEC1 AD_3, TC2 TIOB_8]
+- G3 : PC30,  of Type IO, alternates : [EBI A_12, AFEC1 AD_5, SPI1 NPCS_3, PIOC P_94, TC1 TIOB_5]
+- G4 : PC31,  of Type IO, alternates : [AFEC1 AD_6, EBI A_13, PIOC P_95, TC1 TCLK_5]
+- G10 : VDDCORE,  of Type PP
+- G11 : PA3,  of Type IO, alternates : [PMC PCK_2, USART1 LONCOL_1, TWIHS0 TWD_0, PIOA PIODC_0, PIOA P_3]
+- G12 : PA2,  of Type IO, alternates : [SUPC WKUP_2, PIOA P_2, PWM0 PWMH_1, DACC DATRG_]
+- G13 : PD12,  of Type IO, alternates : [PIOD P_108, ISI D_6, SPI0 NPCS_2]
+- H1 : PB1,  of Type IO, alternates : [RTC RTCOUT_1, USART0 TXD_0, AFEC1 AD_0, SSC TK_, PIOB P_33, PWM0 PWMH_1]
+- H2 : PB0,  of Type IO, alternates : [USART0 RXD_0, RTC RTCOUT_0, SSC TF_, AFEC0 AD_10, PWM0 PWMH_0, PIOB P_32]
+- H3 : PC13,  of Type IO, alternates : [PIOC P_77, PWM0 PWMH_3, AFEC1 AD_1, EBI NWAIT_]
+- H4 : PC15,  of Type IO, alternates : [EBI NCS_1, PWM0 PWML_3, AFEC1 AD_2, PIOC P_79]
+- H10 : GND,  of Type PS
+- H11 : PD13,  of Type IO, alternates : [PIOD P_109]
+- H12 : PC10,  of Type IO, alternates : [TC2 TCLK_7, EBI NANDWE_, PIOC P_74]
+- H13 : PB7,  of Type IO, alternates : [PIOB P_39, ICE TCK_, ICE SWDCLK_]
+- J1 : PA20,  of Type IO, alternates : [SUPC WKUP_10, I2SC1 CK_, EBI A_16, AFEC0 AD_9, PIOA P_20, PWM0 PWML_1]
+- J2 : PA19,  of Type IO, alternates : [I2SC1 MCK_, PIOA P_19, EBI A_15, AFEC0 AD_8, PWM0 PWML_0, SUPC WKUP_9]
+- J3 : PA18,  of Type IO, alternates : [PMC PCK_2, PIOA P_18, EBI A_14, AFEC0 AD_7, PWM1 PWMEXTRG_1]
+- J4 : PA17,  of Type IO, alternates : [PMC PCK_1, QSPI QIO_2, PIOA P_17, AFEC0 AD_6, PWM0 PWMH_3]
+- J10 : PB12,  of Type IO, alternates : [PWM0 PWML_1, PIOB P_44, EFC ERASE_, PMC PCK_0]
+- J11 : PC9,  of Type IO, alternates : [EBI NANDOE_, TC2 TIOB_7, PIOC P_73]
+- J12 : PD14,  of Type IO, alternates : [PIOD P_110]
+- J13 : TST,  of Type IO
+- K1 : PB2,  of Type IO, alternates : [SPI0 NPCS_0, AFEC0 AD_5, PIOB P_34, USART0 CTS_0]
+- K2 : PE4,  of Type IO, alternates : [PIOE P_132, EBI D_12, AFEC0 AD_4, TC3 TIOB_10]
+- K3 : PE5,  of Type IO, alternates : [EBI D_13, PIOE P_133, AFEC0 AD_3, TC3 TCLK_10]
+- K4 : GND,  of Type PS
+- K5 : VDDCORE,  of Type PP
+- K6 : VDDIO,  of Type PP
+- K7 : PD24,  of Type IO, alternates : [PIOD P_120, TC3 TCLK_11, PWM0 PWML_0, SSC RF_, ISI HSYNC_]
+- K8 : GND,  of Type PS
+- K9 : PD20,  of Type IO, alternates : [SPI0 MISO_, PIOD P_116, PWM0 PWMH_0]
+- K10 : PD16,  of Type IO, alternates : [USART2 TXD_2, PIOD P_112]
+- K11 : PB6,  of Type IO, alternates : [ICE SWDIO_, PIOB P_38, ICE TMS_]
+- K12 : NRST,  of Type IP
+- K13 : PC8,  of Type IO, alternates : [EBI NWE_, EBI NWR_0, TC2 TIOA_7, PIOC P_72]
+- L1 : PB3,  of Type IO, alternates : [AFEC0 AD_2, PMC PCK_2, SUPC WKUP_12, PIOB P_35, USART0 RTS_0, ISI D_2]
+- L2 : PD30,  of Type IO, alternates : [UART3 UTXD_3, ISI D_10, PIOD P_126, AFEC0 AD_0]
+- L3 : PC4,  of Type IO, alternates : [PIOC P_68, EBI D_4]
+- L4 : PA16,  of Type IO, alternates : [PIOA P_16, EBI D_15, I2SC0 DI_0, PWM0 PWML_2, TC0 TIOB_1]
+- L5 : PC7,  of Type IO, alternates : [EBI D_7, TC2 TCLK_6, PIOC P_71]
+- L6 : PD25,  of Type IO, alternates : [ISI VSYNC_, PIOD P_121, PWM0 PWML_1, UART2 URXD_2, SPI0 NPCS_1]
+- L7 : PC6,  of Type IO, alternates : [EBI D_6, PIOC P_70, TC2 TIOB_6]
+- L8 : PA25,  of Type IO, alternates : [EBI A_23, USART1 CTS_1, HSMCI MCCK_, PIOA P_25, PWM0 PWMH_2]
+- L9 : PD21,  of Type IO, alternates : [ISI D_1, SPI0 MOSI_, TC3 TIOA_11, PWM0 PWMH_1, PIOD P_117]
+- L10 : PD19,  of Type IO, alternates : [EBI NCS_3, USART2 CTS_2, UART4 UTXD_4, PIOD P_115]
+- L11 : PA9,  of Type IO, alternates : [PWM0 PWMFI_0, PIOA P_9, PIOA PIODC_3, UART0 URXD_0, ISI D_3, SUPC WKUP_6]
+- L12 : PA4,  of Type IO, alternates : [SUPC WKUP_3, TWIHS0 TWCK_0, TC0 TCLK_0, PIOA PIODC_1, PIOA P_4, UART1 UTXD_1]
+- L13 : PC28,  of Type IO, alternates : [SPI1 NPCS_1, EBI A_10, PIOC P_92, TC1 TCLK_4]
+- M1 : PA21,  of Type IO, alternates : [AFEC0 AD_1, PIOA PIODCEN_2, PMC PCK_1, USART1 RXD_1, PIOA P_21, PWM1 PWMFI_0]
+- M2 : PA22,  of Type IO, alternates : [EBI NCS_2, PWM0 PWMEXTRG_1, PIOA PIODCCLK_, PIOA P_22, SSC RK_]
+- M3 : PC1,  of Type IO, alternates : [EBI D_1, PIOC P_65, PWM0 PWML_1]
+- M4 : PA13,  of Type IO, alternates : [QSPI QIO_0, PWM1 PWML_1, PIOA P_13, PIOA PIODC_7, PWM0 PWMH_2]
+- M5 : PD27,  of Type IO, alternates : [ISI D_8, PWM0 PWML_3, PIOD P_123, TWIHS2 TWD_2, SPI0 NPCS_3]
+- M6 : PA14,  of Type IO, alternates : [PIOA PIODCEN_1, PWM0 PWMH_3, QSPI QSCK_, PWM1 PWMH_1, SUPC WKUP_8, PIOA P_14]
+- M7 : PD26,  of Type IO, alternates : [UART2 UTXD_2, SSC TD_, UART1 UTXD_1, PIOD P_122, PWM0 PWML_2]
+- M8 : PC5,  of Type IO, alternates : [EBI D_5, PIOC P_69, TC2 TIOA_6]
+- M9 : PA26,  of Type IO, alternates : [HSMCI MCDA_2, PIOA P_26, USART1 DCD_1, TC0 TIOA_2, PWM1 PWMFI_1]
+- M10 : PA10,  of Type IO, alternates : [PIOA PIODC_4, UART0 UTXD_0, SSC RD_, PWM0 PWMEXTRG_0, PIOA P_10]
+- M11 : PD18,  of Type IO, alternates : [EBI NCS_1, USART2 RTS_2, PIOD P_114, UART4 URXD_4]
+- M12 : PD28,  of Type IO, alternates : [ISI D_9, TWIHS2 TWCK_2, PIOD P_124, UART3 URXD_3, SUPC WKUP_5]
+- M13 : PD17,  of Type IO, alternates : [USART2 SCK_2, PIOD P_113]
+- N1 : PA7,  of Type IO, alternates : [PIOA P_7, PWM0 PWMH_3, PMC XIN32_]
+- N2 : PA8,  of Type IO, alternates : [PIOA P_8, AFEC0 ADTRG_, PMC XOUT32_, PWM1 PWMH_3]
+- N3 : PC2,  of Type IO, alternates : [PIOC P_66, EBI D_2, PWM0 PWML_2]
+- N4 : PC3,  of Type IO, alternates : [PIOC P_67, PWM0 PWML_3, EBI D_3]
+- N5 : PA23,  of Type IO, alternates : [EBI A_19, USART1 SCK_1, PWM1 PWML_2, PIOA P_23, PWM0 PWMH_0]
+- N6 : PA15,  of Type IO, alternates : [PIOA P_15, EBI D_14, PWM0 PWML_3, I2SC0 WS_, TC0 TIOA_1]
+- N7 : PD23,  of Type IO, alternates : [PIOD P_119, PWM0 PWMH_3]
+- N8 : PA24,  of Type IO, alternates : [EBI A_20, USART1 RTS_1, ISI PCK_, PIOA P_24, PWM0 PWMH_1]
+- N9 : PD22,  of Type IO, alternates : [ISI D_0, SPI0 SPCK_, TC3 TIOB_11, PIOD P_118, PWM0 PWMH_2]
+- N10 : PA11,  of Type IO, alternates : [PIOA PIODC_5, QSPI QCS_, PWM1 PWML_0, PIOA P_11, PWM0 PWMH_0, SUPC WKUP_7]
+- N11 : PA12,  of Type IO, alternates : [PIOA PIODC_6, QSPI QIO_1, PIOA P_12, PWM1 PWMH_0, PWM0 PWMH_1]
+- N12 : PA27,  of Type IO, alternates : [HSMCI MCDA_3, PIOA P_27, ISI D_7, USART1 DTR_1, TC0 TIOB_2]
+- N13 : PA5,  of Type IO, alternates : [SUPC WKUP_4, PIOA PIODC_2, ISI D_4, PIOA P_5, UART1 URXD_1, PWM1 PWML_3]
 ## ATSAMS70Q21B-CN
+
 ### Description : 
+
+- Series : SAMS70
+- Footprint : LFBGA144
+- MP : ATSAMS70Q21B-CN
+- Architecture : CORTEX-M7
+- PINOUT : TFBGA_LFBGA_144
+- Reference : U
+- Documentation : https://www.microchip.com/en-us/search?q=ATSAMS70Q21B-CN
+- Value : ATSAMS70Q21B-CN
+- Family : SAMS
+- MF : Microchip
+- Name : ATSAMS70Q21B
 
 ### Package : 
 
-- A1 : PE1
-- A2 : PB9
-- A3 : PB8
-- A4 : HSDP
-- A5 : PD2
-- A6 : PA29
-- A7 : PC21
-- A8 : PD6
-- A9 : PC20
-- A10 : PA30
-- A11 : PD15
-- A12 : PB4
-- B1 : PE2
-- B2 : PB13
-- B3 : VDDUTMIC
-- B4 : HSDM
-- B5 : PD1
-- B6 : PC24
-- B7 : PD3
-- B8 : PD7
-- B9 : PA6
-- B10 : PC18
-- B11 : JTAGSEL
-- B12 : PC17
-- C1 : VDDIN
-- C2 : PE0
-- C3 : VDDOUT
-- C4 : VBG
-- C5 : PC25
-- C6 : PC23
-- C7 : PC22
-- C8 : PA31
-- C9 : PA28
-- C10 : PB5
-- C11 : PA0
-- C12 : PD10
-- D1 : ADVREFP
-- D2 : ADVREFN
-- D3 : PD31
-- D4 : PD0
-- D5 : GNDANA
-- D6 : PD4
-- D7 : PD5
-- D8 : PC19
-- D9 : PD9
-- D10 : PD29
-- D11 : PC16
-- D12 : PA1
-- E1 : PC31
-- E2 : PC27
-- E3 : PE3
-- E4 : PC0
-- E5 : GNDUTMI
-- E6 : GNDPLLUSB
-- E7 : VDDUTMII
-- E8 : VDDCORE
-- E9 : PD8
-- E10 : PC14
-- E11 : PD11
-- E12 : PA2
-- F1 : PC30
-- F2 : PC26
-- F3 : PC29
-- F4 : PC12
-- F5 : GND
-- F6 : GND
-- F7 : GNDPLL
-- F8 : VDDPLLUSB
-- F9 : PB7
-- F10 : PC10
-- F11 : PC11
-- F12 : PA3
-- G1 : PC15
-- G2 : PC13
-- G3 : PB1
-- G4 : GND
-- G5 : GND
-- G6 : GND
-- G7 : GND
-- G8 : VDDIO
-- G9 : PD13
-- G10 : PD12
-- G11 : PC9
-- G12 : PB12
-- H1 : PA19
-- H2 : PA18
-- H3 : PA20
-- H4 : PB0
-- H5 : VDDCORE
-- H6 : VDDIO
-- H7 : VDDIO
-- H8 : VDDCORE
-- H9 : PD21
-- H10 : PD14
-- H11 : TST
-- H12 : NRST
-- J1 : PA17
-- J2 : PB2
-- J3 : PB3
-- J4 : PC1
-- J5 : PC4
-- J6 : PD27
-- J7 : VDDPLL
-- J8 : PA26
-- J9 : PA11
-- J10 : PA27
-- J11 : PB6
-- J12 : PC8
-- K1 : PE4
-- K2 : PA21
-- K3 : PA22
-- K4 : PC2
-- K5 : PA16
-- K6 : PA14
-- K7 : PC6
-- K8 : PA25
-- K9 : PD20
-- K10 : PD28
-- K11 : PD16
-- K12 : PA4
-- L1 : PE5
-- L2 : PA7
-- L3 : PC3
-- L4 : PA23
-- L5 : PA15
-- L6 : PD26
-- L7 : PA24
-- L8 : PC5
-- L9 : PA10
-- L10 : PA12
-- L11 : PD17
-- L12 : PC28
-- M1 : PD30
-- M2 : PA8
-- M3 : PA13
-- M4 : PC7
-- M5 : PD25
-- M6 : PD24
-- M7 : PD23
-- M8 : PD22
-- M9 : PD19
-- M10 : PD18
-- M11 : PA5
-- M12 : PA9
+Pin count : 144
+- A1 : PE1,  of Type IO, alternates : [I2SC1 DO_0, EBI D_9, PIOE P_129, TC3 TIOB_9]
+- A2 : PB9,  of Type IO, alternates : [PMC XIN_, PIOB P_41]
+- A3 : PB8,  of Type IO, alternates : [PIOB P_40, PMC XOUT_]
+- A4 : HSDP,  of Type IO
+- A5 : PD2,  of Type IO, alternates : [PIOD P_98, PWM1 PWML_1, SPI1 NPCS_3, USART0 DSR_0]
+- A6 : PA29,  of Type IO, alternates : [PIOA P_29, TC0 TCLK_2, USART1 RI_1]
+- A7 : PC21,  of Type IO, alternates : [EBI A_3, PWM0 PWMH_3, PIOC P_85]
+- A8 : PD6,  of Type IO, alternates : [PWM1 PWML_3, PIOD P_102, TPIU TRACED_2, USART2 DSR_2]
+- A9 : PC20,  of Type IO, alternates : [EBI A_2, PWM0 PWML_2, PIOC P_84]
+- A10 : PA30,  of Type IO, alternates : [HSMCI MCDA_0, SUPC WKUP_11, I2SC0 DO_0, PWM1 PWMEXTRG_0, PIOA P_30, PWM0 PWML_2]
+- A11 : PD15,  of Type IO, alternates : [EBI NWR_1, EBI NBS_1, PIOD P_111, USART2 RXD_2]
+- A12 : PB4,  of Type IO, alternates : [ICE TDI_, USART1 TXD_1, TWIHS1 TWD_1, PIOB P_36, PWM0 PWMH_2]
+- B1 : PE2,  of Type IO, alternates : [TC3 TCLK_9, I2SC1 DI_0, PIOE P_130, EBI D_10]
+- B2 : PB13,  of Type IO, alternates : [PIOB P_45, USART0 SCK_0, PWM0 PWML_2, DACC DAC_0, PMC PCK_0]
+- B3 : VDDUTMIC,  of Type PP
+- B4 : HSDM,  of Type IO
+- B5 : PD1,  of Type IO, alternates : [PIOD P_97, PWM1 PWMH_0, SPI1 NPCS_2, USART0 DTR_0]
+- B6 : PC24,  of Type IO, alternates : [PIOC P_88, SPI1 SPCK_, EBI A_6, TC1 TIOB_3]
+- B7 : PD3,  of Type IO, alternates : [USART0 RI_0, PIOD P_99, UART4 UTXD_4, PWM1 PWMH_1]
+- B8 : PD7,  of Type IO, alternates : [PIOD P_103, USART2 RI_2, TPIU TRACED_3, PWM1 PWMH_3]
+- B9 : PA6,  of Type IO, alternates : [PIOA P_6, UART1 UTXD_1, PMC PCK_0]
+- B10 : PC18,  of Type IO, alternates : [EBI NBS_0, PWM0 PWML_1, EBI A_0, PIOC P_82]
+- B11 : JTAGSEL,  of Type OP
+- B12 : PC17,  of Type IO, alternates : [EBI A_22, PIOC P_81, EBI NANDCLE_]
+- C1 : VDDIN,  of Type PP
+- C2 : PE0,  of Type IO, alternates : [I2SC1 WS_, PIOE P_128, EBI D_8, TC3 TIOA_9, AFEC1 AD_11]
+- C3 : VDDOUT,  of Type PP
+- C4 : VBG,  of Type IO
+- C5 : PC25,  of Type IO, alternates : [PIOC P_89, SPI1 NPCS_0, EBI A_7, TC1 TCLK_3]
+- C6 : PC23,  of Type IO, alternates : [EBI A_5, PIOC P_87, TC1 TIOA_3]
+- C7 : PC22,  of Type IO, alternates : [EBI A_4, PIOC P_86, PWM0 PWML_3]
+- C8 : PA31,  of Type IO, alternates : [PMC PCK_2, HSMCI MCDA_1, PIOA P_31, SPI0 NPCS_1, PWM1 PWMH_2]
+- C9 : PA28,  of Type IO, alternates : [PIOA P_28, HSMCI MCCDA_, TC0 TCLK_1, USART1 DSR_1, PWM1 PWMFI_2]
+- C10 : PB5,  of Type IO, alternates : [SUPC WKUP_13, TWIHS1 TWCK_1, SSC TD_, PWM0 PWML_0, PIOB P_37, ICE TDO_, ICE TRACESWO_]
+- C11 : PA0,  of Type IO, alternates : [I2SC0 MCK_, SUPC WKUP_0, TC0 TIOA_0, EBI A_17, PIOA P_0, PWM0 PWMH_0]
+- C12 : PD10,  of Type IO, alternates : [SSC TD_, PWM0 PWML_0, PIOD P_106]
+- D1 : ADVREFP,  of Type PS
+- D2 : ADVREFN,  of Type PS
+- D3 : PD31,  of Type IO, alternates : [PMC PCK_2, QSPI QIO_3, UART3 UTXD_3, ISI D_11, PIOD P_127]
+- D4 : PD0,  of Type IO, alternates : [SPI1 NPCS_1, USART0 DCD_0, PIOD P_96, PWM1 PWML_0, DACC DAC_1]
+- D5 : GNDANA,  of Type PS
+- D6 : PD4,  of Type IO, alternates : [USART2 DCD_2, PIOD P_100, PWM1 PWML_2, TPIU TRACED_0]
+- D7 : PD5,  of Type IO, alternates : [PIOD P_101, USART2 DTR_2, PWM1 PWMH_2, TPIU TRACED_1]
+- D8 : PC19,  of Type IO, alternates : [EBI A_1, PIOC P_83, PWM0 PWMH_2]
+- D9 : PD9,  of Type IO, alternates : [AFEC1 ADTRG_, PWM0 PWMFI_2, PIOD P_105]
+- D10 : PD29,  of Type IO, alternates : [PIOD P_125]
+- D11 : PC16,  of Type IO, alternates : [EBI A_21, PIOC P_80, EBI NANDALE_]
+- D12 : PA1,  of Type IO, alternates : [I2SC0 CK_, SUPC WKUP_1, EBI A_18, PWM0 PWML_0, PIOA P_1, TC0 TIOB_0]
+- E1 : PC31,  of Type IO, alternates : [AFEC1 AD_6, EBI A_13, PIOC P_95, TC1 TCLK_5]
+- E2 : PC27,  of Type IO, alternates : [AFEC1 AD_8, EBI A_9, PIOC P_91, TC1 TIOB_4, SPI1 MOSI_]
+- E3 : PE3,  of Type IO, alternates : [TC3 TIOA_10, AFEC1 AD_10, EBI D_11, PIOE P_131]
+- E4 : PC0,  of Type IO, alternates : [AFEC1 AD_9, PIOC P_64, EBI D_0, PWM0 PWML_0]
+- E5 : GNDUTMI,  of Type PS
+- E6 : GNDPLLUSB,  of Type PS
+- E7 : VDDUTMII,  of Type PP
+- E8 : VDDCORE,  of Type PP
+- E9 : PD8,  of Type IO, alternates : [PWM0 PWMFI_1, TPIU TRACECLK_, PIOD P_104]
+- E10 : PC14,  of Type IO, alternates : [PIOC P_78, EBI NCS_0, TC2 TCLK_8]
+- E11 : PD11,  of Type IO, alternates : [ISI D_5, PWM0 PWMH_0, PIOD P_107]
+- E12 : PA2,  of Type IO, alternates : [SUPC WKUP_2, PIOA P_2, PWM0 PWMH_1, DACC DATRG_]
+- F1 : PC30,  of Type IO, alternates : [EBI A_12, AFEC1 AD_5, SPI1 NPCS_3, PIOC P_94, TC1 TIOB_5]
+- F2 : PC26,  of Type IO, alternates : [AFEC1 AD_7, EBI A_8, SPI1 MISO_, TC1 TIOA_4, PIOC P_90]
+- F3 : PC29,  of Type IO, alternates : [EBI A_11, AFEC1 AD_4, TC1 TIOA_5, PIOC P_93, SPI1 NPCS_2]
+- F4 : PC12,  of Type IO, alternates : [EBI NCS_3, PIOC P_76, AFEC1 AD_3, TC2 TIOB_8]
+- F5 : GND,  of Type PS
+- F6 : GND,  of Type PS
+- F7 : GNDPLL,  of Type PS
+- F8 : VDDPLLUSB,  of Type PP
+- F9 : PB7,  of Type IO, alternates : [PIOB P_39, ICE TCK_, ICE SWDCLK_]
+- F10 : PC10,  of Type IO, alternates : [TC2 TCLK_7, EBI NANDWE_, PIOC P_74]
+- F11 : PC11,  of Type IO, alternates : [PIOC P_75, EBI NRD_, TC2 TIOA_8]
+- F12 : PA3,  of Type IO, alternates : [PMC PCK_2, USART1 LONCOL_1, TWIHS0 TWD_0, PIOA PIODC_0, PIOA P_3]
+- G1 : PC15,  of Type IO, alternates : [EBI NCS_1, PWM0 PWML_3, AFEC1 AD_2, PIOC P_79]
+- G2 : PC13,  of Type IO, alternates : [PIOC P_77, PWM0 PWMH_3, AFEC1 AD_1, EBI NWAIT_]
+- G3 : PB1,  of Type IO, alternates : [RTC RTCOUT_1, USART0 TXD_0, AFEC1 AD_0, SSC TK_, PIOB P_33, PWM0 PWMH_1]
+- G4 : GND,  of Type PS
+- G5 : GND,  of Type PS
+- G6 : GND,  of Type PS
+- G7 : GND,  of Type PS
+- G8 : VDDIO,  of Type PP
+- G9 : PD13,  of Type IO, alternates : [PIOD P_109]
+- G10 : PD12,  of Type IO, alternates : [PIOD P_108, ISI D_6, SPI0 NPCS_2]
+- G11 : PC9,  of Type IO, alternates : [EBI NANDOE_, TC2 TIOB_7, PIOC P_73]
+- G12 : PB12,  of Type IO, alternates : [PWM0 PWML_1, PIOB P_44, EFC ERASE_, PMC PCK_0]
+- H1 : PA19,  of Type IO, alternates : [I2SC1 MCK_, PIOA P_19, EBI A_15, AFEC0 AD_8, PWM0 PWML_0, SUPC WKUP_9]
+- H2 : PA18,  of Type IO, alternates : [PMC PCK_2, PIOA P_18, EBI A_14, AFEC0 AD_7, PWM1 PWMEXTRG_1]
+- H3 : PA20,  of Type IO, alternates : [SUPC WKUP_10, I2SC1 CK_, EBI A_16, AFEC0 AD_9, PIOA P_20, PWM0 PWML_1]
+- H4 : PB0,  of Type IO, alternates : [USART0 RXD_0, RTC RTCOUT_0, SSC TF_, AFEC0 AD_10, PWM0 PWMH_0, PIOB P_32]
+- H5 : VDDCORE,  of Type PP
+- H6 : VDDIO,  of Type PP
+- H7 : VDDIO,  of Type PP
+- H8 : VDDCORE,  of Type PP
+- H9 : PD21,  of Type IO, alternates : [ISI D_1, SPI0 MOSI_, TC3 TIOA_11, PWM0 PWMH_1, PIOD P_117]
+- H10 : PD14,  of Type IO, alternates : [PIOD P_110]
+- H11 : TST,  of Type IO
+- H12 : NRST,  of Type IP
+- J1 : PA17,  of Type IO, alternates : [PMC PCK_1, QSPI QIO_2, PIOA P_17, AFEC0 AD_6, PWM0 PWMH_3]
+- J2 : PB2,  of Type IO, alternates : [SPI0 NPCS_0, AFEC0 AD_5, PIOB P_34, USART0 CTS_0]
+- J3 : PB3,  of Type IO, alternates : [AFEC0 AD_2, PMC PCK_2, SUPC WKUP_12, PIOB P_35, USART0 RTS_0, ISI D_2]
+- J4 : PC1,  of Type IO, alternates : [EBI D_1, PIOC P_65, PWM0 PWML_1]
+- J5 : PC4,  of Type IO, alternates : [PIOC P_68, EBI D_4]
+- J6 : PD27,  of Type IO, alternates : [ISI D_8, PWM0 PWML_3, PIOD P_123, TWIHS2 TWD_2, SPI0 NPCS_3]
+- J7 : VDDPLL,  of Type PP
+- J8 : PA26,  of Type IO, alternates : [HSMCI MCDA_2, PIOA P_26, USART1 DCD_1, TC0 TIOA_2, PWM1 PWMFI_1]
+- J9 : PA11,  of Type IO, alternates : [PIOA PIODC_5, QSPI QCS_, PWM1 PWML_0, PIOA P_11, PWM0 PWMH_0, SUPC WKUP_7]
+- J10 : PA27,  of Type IO, alternates : [HSMCI MCDA_3, PIOA P_27, ISI D_7, USART1 DTR_1, TC0 TIOB_2]
+- J11 : PB6,  of Type IO, alternates : [ICE SWDIO_, PIOB P_38, ICE TMS_]
+- J12 : PC8,  of Type IO, alternates : [EBI NWE_, EBI NWR_0, TC2 TIOA_7, PIOC P_72]
+- K1 : PE4,  of Type IO, alternates : [PIOE P_132, EBI D_12, AFEC0 AD_4, TC3 TIOB_10]
+- K2 : PA21,  of Type IO, alternates : [AFEC0 AD_1, PIOA PIODCEN_2, PMC PCK_1, USART1 RXD_1, PIOA P_21, PWM1 PWMFI_0]
+- K3 : PA22,  of Type IO, alternates : [EBI NCS_2, PWM0 PWMEXTRG_1, PIOA PIODCCLK_, PIOA P_22, SSC RK_]
+- K4 : PC2,  of Type IO, alternates : [PIOC P_66, EBI D_2, PWM0 PWML_2]
+- K5 : PA16,  of Type IO, alternates : [PIOA P_16, EBI D_15, I2SC0 DI_0, PWM0 PWML_2, TC0 TIOB_1]
+- K6 : PA14,  of Type IO, alternates : [PIOA PIODCEN_1, PWM0 PWMH_3, QSPI QSCK_, PWM1 PWMH_1, SUPC WKUP_8, PIOA P_14]
+- K7 : PC6,  of Type IO, alternates : [EBI D_6, PIOC P_70, TC2 TIOB_6]
+- K8 : PA25,  of Type IO, alternates : [EBI A_23, USART1 CTS_1, HSMCI MCCK_, PIOA P_25, PWM0 PWMH_2]
+- K9 : PD20,  of Type IO, alternates : [SPI0 MISO_, PIOD P_116, PWM0 PWMH_0]
+- K10 : PD28,  of Type IO, alternates : [ISI D_9, TWIHS2 TWCK_2, PIOD P_124, UART3 URXD_3, SUPC WKUP_5]
+- K11 : PD16,  of Type IO, alternates : [USART2 TXD_2, PIOD P_112]
+- K12 : PA4,  of Type IO, alternates : [SUPC WKUP_3, TWIHS0 TWCK_0, TC0 TCLK_0, PIOA PIODC_1, PIOA P_4, UART1 UTXD_1]
+- L1 : PE5,  of Type IO, alternates : [EBI D_13, PIOE P_133, AFEC0 AD_3, TC3 TCLK_10]
+- L2 : PA7,  of Type IO, alternates : [PIOA P_7, PWM0 PWMH_3, PMC XIN32_]
+- L3 : PC3,  of Type IO, alternates : [PIOC P_67, PWM0 PWML_3, EBI D_3]
+- L4 : PA23,  of Type IO, alternates : [EBI A_19, USART1 SCK_1, PWM1 PWML_2, PIOA P_23, PWM0 PWMH_0]
+- L5 : PA15,  of Type IO, alternates : [PIOA P_15, EBI D_14, PWM0 PWML_3, I2SC0 WS_, TC0 TIOA_1]
+- L6 : PD26,  of Type IO, alternates : [UART2 UTXD_2, SSC TD_, UART1 UTXD_1, PIOD P_122, PWM0 PWML_2]
+- L7 : PA24,  of Type IO, alternates : [EBI A_20, USART1 RTS_1, ISI PCK_, PIOA P_24, PWM0 PWMH_1]
+- L8 : PC5,  of Type IO, alternates : [EBI D_5, PIOC P_69, TC2 TIOA_6]
+- L9 : PA10,  of Type IO, alternates : [PIOA PIODC_4, UART0 UTXD_0, SSC RD_, PWM0 PWMEXTRG_0, PIOA P_10]
+- L10 : PA12,  of Type IO, alternates : [PIOA PIODC_6, QSPI QIO_1, PIOA P_12, PWM1 PWMH_0, PWM0 PWMH_1]
+- L11 : PD17,  of Type IO, alternates : [USART2 SCK_2, PIOD P_113]
+- L12 : PC28,  of Type IO, alternates : [SPI1 NPCS_1, EBI A_10, PIOC P_92, TC1 TCLK_4]
+- M1 : PD30,  of Type IO, alternates : [UART3 UTXD_3, ISI D_10, PIOD P_126, AFEC0 AD_0]
+- M2 : PA8,  of Type IO, alternates : [PIOA P_8, AFEC0 ADTRG_, PMC XOUT32_, PWM1 PWMH_3]
+- M3 : PA13,  of Type IO, alternates : [QSPI QIO_0, PWM1 PWML_1, PIOA P_13, PIOA PIODC_7, PWM0 PWMH_2]
+- M4 : PC7,  of Type IO, alternates : [EBI D_7, TC2 TCLK_6, PIOC P_71]
+- M5 : PD25,  of Type IO, alternates : [ISI VSYNC_, PIOD P_121, PWM0 PWML_1, UART2 URXD_2, SPI0 NPCS_1]
+- M6 : PD24,  of Type IO, alternates : [PIOD P_120, TC3 TCLK_11, PWM0 PWML_0, SSC RF_, ISI HSYNC_]
+- M7 : PD23,  of Type IO, alternates : [PIOD P_119, PWM0 PWMH_3]
+- M8 : PD22,  of Type IO, alternates : [ISI D_0, SPI0 SPCK_, TC3 TIOB_11, PIOD P_118, PWM0 PWMH_2]
+- M9 : PD19,  of Type IO, alternates : [EBI NCS_3, USART2 CTS_2, UART4 UTXD_4, PIOD P_115]
+- M10 : PD18,  of Type IO, alternates : [EBI NCS_1, USART2 RTS_2, PIOD P_114, UART4 URXD_4]
+- M11 : PA5,  of Type IO, alternates : [SUPC WKUP_4, PIOA PIODC_2, ISI D_4, PIOA P_5, UART1 URXD_1, PWM1 PWML_3]
+- M12 : PA9,  of Type IO, alternates : [PWM0 PWMFI_0, PIOA P_9, PIOA PIODC_3, UART0 URXD_0, ISI D_3, SUPC WKUP_6]

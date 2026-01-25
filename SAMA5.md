@@ -1,8608 +1,9056 @@
 # SAMA5
 ## ATSAMA5D21C-CU
+
 ### Description : 
+
+- Series : SAMA5D2
+- Footprint : TFBGA196
+- MP : ATSAMA5D21C-CU
+- Architecture : CORTEX-A5
+- PINOUT : TFBGA196
+- Reference : U
+- Documentation : https://www.microchip.com/en-us/search?q=ATSAMA5D21C-CU
+- Value : ATSAMA5D21C-CU
+- Family : SAMA5
+- MF : Microchip
+- Name : ATSAMA5D21
 
 ### Package : 
 
-- L9 : PA18
-- N9 : PA19
-- M9 : PA20
-- M10 : PA21
-- P9 : PA22
-- P10 : PA23
-- N10 : PA24
-- L10 : PA25
-- P11 : PA26
-- P12 : PA27
-- M11 : PA28
-- N11 : PA29
-- N12 : PA30
-- M12 : PA31
-- A6 : PB0
-- A5 : PB1
-- B6 : PB2
-- B5 : PB3
-- A4 : PB4
-- D6 : PB5
-- A3 : PB6
-- B4 : PB7
-- A2 : PB8
-- B3 : PB9
-- A1 : PB10
-- B1 : PB11
-- B2 : PB12
-- C1 : PB13
-- D5 : PB14
-- E5 : PB15
-- C5 : PB16
-- C2 : PB17
-- D4 : PB18
-- C4 : PB19
-- C3 : PB20
-- D1 : PB21
-- D2 : PB22
-- E1 : PB23
-- D3 : PB24
-- E3 : PB25
-- E2 : PB26
-- E6 : PB27
-- F1 : PB28
-- F6 : PB29
-- F2 : PB30
-- F7 : PB31
-- M13 : PC0
-- P13 : PC1
-- N13 : PC2
-- K10 : PC3
-- P14 : PC4
-- J8 : PC5
-- N14 : PC6
-- M14 : PC7
-- J9 : PC8
-- F5 : PD7
-- F3 : PD8
-- G5 : PD9
-- G4 : PD10
-- H1 : PD11
-- H6 : PD12
-- H3 : PD13
-- G6 : PD14
-- H5 : PD15
-- G1 : PD16
-- G2 : PD17
-- G3 : PD18
-- H4 : PD19
-- J1 : PD20
-- K1 : PD21
-- J3 : PD22
-- K2 : PD23
-- K3 : VDDANA
-- K4 : GNDANA
-- L2 : ADVREF
-- H2 : VDDANA
-- J2 : GNDANA
-- H12 : DDR_VREF
-- C12 : DDR_VREF
-- B7 : DDR_D0
-- A7 : DDR_D1
-- C8 : DDR_D2
-- B9 : DDR_D3
-- A9 : DDR_D4
-- C9 : DDR_D5
-- A10 : DDR_D6
-- B10 : DDR_D7
-- H13 : DDR_D8
-- H14 : DDR_D9
-- J13 : DDR_D10
-- J14 : DDR_D11
-- L13 : DDR_D12
-- L14 : DDR_D13
-- J12 : DDR_D14
-- K12 : DDR_D15
-- E11 : DDR_A0
-- C11 : DDR_A1
-- B12 : DDR_A2
-- A12 : DDR_A3
-- D11 : DDR_A4
-- D14 : DDR_A5
-- B14 : DDR_A6
-- D9 : DDR_A7
-- C10 : DDR_A8
-- D10 : DDR_A9
-- F9 : DDR_A10
-- A11 : DDR_A11
-- B11 : DDR_A12
-- E13 : DDR_A13
-- A13 : DDR_CLK
-- B13 : DDR_CLKN
-- E14 : DDR_CKE
-- D13 : DDR_RESETN
-- F11 : DDR_CS
-- A14 : DDR_WE
-- C14 : DDR_RAS
-- C13 : DDR_CAS
-- D8 : DDR_DQM0
-- G14 : DDR_DQM1
-- B8 : DDR_DQS0
-- K14 : DDR_DQS1
-- A8 : DDR_DQSN0
-- K13 : DDR_DQSN1
-- F13 : DDR_BA0
-- G13 : DDR_BA1
-- F14 : DDR_BA2
-- F10 : DDR_CAL
-- C6 : VDDIODDR
-- E10 : VDDIODDR
-- E12 : VDDIODDR
-- G10 : VDDIODDR
-- G12 : VDDIODDR
-- H11 : VDDIODDR
-- J10 : VDDIODDR
-- C7 : GNDIODDR
-- D12 : GNDIODDR
-- E9 : GNDIODDR
-- F12 : GNDIODDR
-- G11 : GNDIODDR
-- H10 : GNDIODDR
-- J11 : GNDIODDR
-- E8 : VDDCORE
-- G8 : VDDCORE
-- H8 : VDDCORE
-- H9 : VDDCORE
-- J5 : VDDCORE
-- F8 : GNDCORE
-- G7 : GNDCORE
-- G9 : GNDCORE
-- H7 : GNDCORE
-- J4 : GNDCORE
-- D7 : VDDIOP0
-- F4 : VDDIOP0
-- E4 : GNDIOP0
-- E7 : GNDIOP0
-- K8 : VDDIOP1
-- L11 : VDDIOP1
-- K9 : GDNIOP1
-- L12 : GNDIOP1
-- K11 : VDDFUSE
-- P3 : VDDPLLA
-- P4 : GNDPLLA
-- K6 : VDDAUDIOPLL
-- L6 : GNDDPLL
-- J6 : GNDAUDIOPLL
-- J7 : CLK_AUDIO
-- P5 : XIN
-- P6 : XOUT
-- N5 : VDDOSC
-- N6 : GNDOSC
-- K7 : VDDUTMII
-- L8 : GNDUTMII
-- N7 : HHSDPA
-- P7 : HHSDMA
-- N8 : HHSDPB
-- P8 : HHSDMB
-- M7 : VDDUTMIC
-- M8 : GNDUTMIC
-- L7 : VBG
-- M2 : TST
-- N3 : NRST
-- L4 : JTAGSEL
-- P1 : WKUP
-- N1 : SHDN
-- K5 : PIOBU0
-- L3 : PIOBU1
-- M3 : PIOBU2
-- N4 : PIOBU3
-- L5 : PIOBU4
-- M6 : PIOBU5
-- M4 : VDDBU
-- M5 : GNDBU
-- M1 : XIN32
-- L1 : XOUT32
-- N2 : COMPP
-- P2 : COMPN
+Pin count : 196
+- L9 : PA18,  of Type IO, alternates : [HSMC D_13, SSC1 RK_1, SPI0 SPI0_NPCS_1, I2SC1 I2SC1_DO_0, PIO P_18, QSPI0 QSPI0_IO_2, SDMMC1 SDMMC1_DAT_0]
+- N9 : PA19,  of Type IO, alternates : [SSC1 RF_1, SPI0 SPI0_NPCS_2, HSMC D_14, TC0 TIOA_0, QSPI0 QSPI0_IO_3, PIO P_19, SDMMC1 SDMMC1_DAT_1]
+- M9 : PA20,  of Type IO, alternates : [SPI0 SPI0_NPCS_3, HSMC D_15, TC0 TIOB_0, PIO P_20, SDMMC1 SDMMC1_DAT_2]
+- M10 : PA21,  of Type IO, alternates : [AIC IRQ_, PMC PCK_2, HSMC NANDRDY_, TC0 TCLK_0, PIO P_21, SDMMC1 SDMMC1_DAT_3]
+- P9 : PA22,  of Type IO, alternates : [PIO P_22, ICE TCK_, FLEXCOM1 FLEXCOM1_IO_2, HSMC D_0, SPI1 SPI1_SPCK_, SDMMC1 SDMMC1_CK_, QSPI0 QSPI0_SCK_]
+- P10 : PA23,  of Type IO, alternates : [ICE TDI_, PIO P_23, QSPI0 QSPI0_CS_, SPI1 SPI1_MOSI_, FLEXCOM1 FLEXCOM1_IO_1, HSMC D_1]
+- N10 : PA24,  of Type IO, alternates : [SPI1 SPI1_MISO_, FLEXCOM1 FLEXCOM1_IO_0, HSMC D_2, PIO P_24, ICE TDO_, QSPI0 QSPI0_IO_0]
+- L10 : PA25,  of Type IO, alternates : [PIO P_25, ICE TMS_, HSMC D_3, FLEXCOM1 FLEXCOM1_IO_3, SPI1 SPI1_NPCS_0, QSPI0 QSPI0_IO_1]
+- P11 : PA26,  of Type IO, alternates : [PIO P_26, ICE NTRST_, HSMC D_4, SPI1 SPI1_NPCS_1, FLEXCOM1 FLEXCOM1_IO_4, QSPI0 QSPI0_IO_2]
+- P12 : PA27,  of Type IO, alternates : [PIO P_27, SPI0 SPI0_NPCS_2, SDMMC1 SDMMC1_RSTN_, HSMC D_5, TC0 TIOA_1, QSPI0 QSPI0_IO_3, SPI1 SPI1_NPCS_2]
+- M11 : PA28,  of Type IO, alternates : [HSMC D_6, PIO P_28, SPI0 SPI0_NPCS_3, CLASSD CLASSD_L_0, SDMMC1 SDMMC1_CMD_, TC0 TIOB_1, SPI1 SPI1_NPCS_3]
+- N11 : PA29,  of Type IO, alternates : [HSMC D_7, TC0 TCLK_1, SDMMC1 SDMMC1_WP_, CLASSD CLASSD_L_1, SPI0 SPI0_NPCS_1, PIO P_29]
+- N12 : PA30,  of Type IO, alternates : [SPI0 SPI0_NPCS_0, PWM PWMH_0, CLASSD CLASSD_L_2, PIO P_30, HSMC NANDNWE_, SDMMC1 SDMMC1_CD_]
+- M12 : PA31,  of Type IO, alternates : [PWM PWML_0, HSMC NCS_3, CLASSD CLASSD_L_3, PIO P_31, SPI0 SPI0_MISO_]
+- A6 : PB0,  of Type IO, alternates : [PIO P_32, PWM PWMH_1, HSMC A21_, SPI0 SPI0_MOSI_]
+- A5 : PB1,  of Type IO, alternates : [SPI0 SPI0_SPCK_, PIO P_33, PWM PWML_1, HSMC A22_, CLASSD CLASSD_R_0]
+- B6 : PB2,  of Type IO, alternates : [PIO P_34, PWM PWMFI_0, CLASSD CLASSD_R_1, HSMC NANDOE_]
+- B5 : PB3,  of Type IO, alternates : [HSMC D_8, AIC IRQ_, PWM PWMEXTRG_1, PIO P_35, CLASSD CLASSD_R_2, UART4 URXD_4]
+- A4 : PB4,  of Type IO, alternates : [PIO P_36, HSMC D_9, SAIC FIQ_, UART4 UTXD_4, CLASSD CLASSD_R_3]
+- D6 : PB5,  of Type IO, alternates : [PIO P_37, HSMC D_10, PWM PWMH_2, QSPI1 QSPI1_SCK_, GMAC GTSUCOMP_, TC0 TCLK_2]
+- A3 : PB6,  of Type IO, alternates : [PIO P_38, HSMC D_11, QSPI1 QSPI1_CS_, GMAC GTXER_, PWM PWML_2, TC0 TIOA_2]
+- B4 : PB7,  of Type IO, alternates : [PIO P_39, QSPI1 QSPI1_IO_0, HSMC D_12, PWM PWMH_3, TC0 TIOB_2, GMAC GRXCK_]
+- A2 : PB8,  of Type IO, alternates : [QSPI1 QSPI1_IO_1, HSMC D_13, PIO P_40, PWM PWML_3, GMAC GCRS_, TC1 TCLK_3]
+- B3 : PB9,  of Type IO, alternates : [QSPI1 QSPI1_IO_2, HSMC D_14, GMAC GCOL_, PIO P_41, TC1 TIOA_3, PWM PWMFI_1]
+- A1 : PB10,  of Type IO, alternates : [GMAC GRX_2, PWM PWMEXTRG_2, QSPI1 QSPI1_IO_3, HSMC D_15, TC1 TIOB_3, PIO P_42]
+- B1 : PB11,  of Type IO, alternates : [GMAC GRX_3, PIO P_43, PDMIC PDMIC_DAT_, UART3 URXD_3, LCDC LCDDAT_0, HSMC A0_]
+- B2 : PB12,  of Type IO, alternates : [PDMIC PDMIC_CLK_, PIO P_44, UART3 UTXD_3, GMAC GTX_2, HSMC A_1, LCDC LCDDAT_1]
+- C1 : PB13,  of Type IO, alternates : [PMC PCK_1, PIO P_45, GMAC GTX_3, HSMC A_2, LCDC LCDDAT_2]
+- D5 : PB14,  of Type IO, alternates : [SSC1 TK_1, I2SC1 I2SC1_MCK_, LCDC LCDDAT_3, PIO P_46, HSMC A_3, QSPI1 QSPI1_SCK_, GMAC GTXCK_]
+- E5 : PB15,  of Type IO, alternates : [PIO P_47, LCDC LCDDAT_4, QSPI1 QSPI1_CS_, GMAC GTXEN_, HSMC A_4, SSC1 TF_1, I2SC1 I2SC1_CK_]
+- C5 : PB16,  of Type IO, alternates : [LCDC LCDDAT_5, PIO P_48, I2SC1 I2SC1_WS_, QSPI1 QSPI1_IO_0, HSMC A_5, GMAC GRXDV_, SSC1 TD_1]
+- C2 : PB17,  of Type IO, alternates : [LCDC LCDDAT_6, GMAC GRXER_, I2SC1 I2SC1_DI_0, PIO P_49, QSPI1 QSPI1_IO_1, HSMC A_6, SSC1 RD_1]
+- D4 : PB18,  of Type IO, alternates : [HSMC A_7, SSC1 RK_1, QSPI1 QSPI1_IO_2, LCDC LCDDAT_7, PIO P_50, I2SC1 I2SC1_DO_0, GMAC GRX_0]
+- C4 : PB19,  of Type IO, alternates : [SSC1 RF_1, QSPI1 QSPI1_IO_3, HSMC A_8, LCDC LCDDAT_8, PIO P_51, TC1 TIOA_3, GMAC GRX_1]
+- C3 : PB20,  of Type IO, alternates : [PMC PCK_1, HSMC A_9, LCDC LCDDAT_9, GMAC GTX_0, TC1 TIOB_3, PIO P_52, SSC0 TK_0]
+- D1 : PB21,  of Type IO, alternates : [SSC0 TF_0, FLEXCOM3 FLEXCOM3_IO_2, GMAC GTX_1, PIO P_53, HSMC A_10, LCDC LCDDAT_10, TC1 TCLK_3]
+- D2 : PB22,  of Type IO, alternates : [SSC0 TD_0, PIO P_54, FLEXCOM3 FLEXCOM3_IO_1, HSMC A_11, GMAC GMDC_, TC0 TIOA_2, LCDC LCDDAT_11]
+- E1 : PB23,  of Type IO, alternates : [SSC0 RD_0, GMAC GMDIO_, PIO P_55, FLEXCOM3 FLEXCOM3_IO_0, TC0 TIOB_2, HSMC A_12, LCDC LCDDAT_12]
+- D3 : PB24,  of Type IO, alternates : [PIO P_56, FLEXCOM3 FLEXCOM3_IO_3, ISC ISC_D_10, HSMC A_13, SSC0 RK_0, LCDC LCDDAT_13, TC0 TCLK_2]
+- E3 : PB25,  of Type IO, alternates : [ISC ISC_D_11, PIO P_57, HSMC A_14, LCDC LCDDAT_14, FLEXCOM3 FLEXCOM3_IO_4, SSC0 RF_0]
+- E2 : PB26,  of Type IO, alternates : [PIO P_58, ISC ISC_D_0, HSMC A_15, PDMIC PDMIC_DAT_, LCDC LCDDAT_15, UART0 URXD_0]
+- E6 : PB27,  of Type IO, alternates : [PIO P_59, ISC ISC_D_1, PDMIC PDMIC_CLK_, HSMC A_16, UART0 UTXD_0, LCDC LCDDAT_16]
+- F1 : PB28,  of Type IO, alternates : [ISC ISC_D_2, HSMC A_17, FLEXCOM0 FLEXCOM0_IO_0, LCDC LCDDAT_17, TC1 TIOA_5, PIO P_60]
+- F6 : PB29,  of Type IO, alternates : [ISC ISC_D_3, HSMC A_18, LCDC LCDDAT_18, FLEXCOM0 FLEXCOM0_IO_1, PIO P_61, TC1 TIOB_5]
+- F2 : PB30,  of Type IO, alternates : [HSMC A_19, LCDC LCDDAT_19, ISC ISC_D_4, FLEXCOM0 FLEXCOM0_IO_2, PIO P_62, TC1 TCLK_5]
+- F7 : PB31,  of Type IO, alternates : [TWIHS0 TWD_0, ISC ISC_D_5, FLEXCOM0 FLEXCOM0_IO_3, PIO P_63, HSMC A_20, LCDC LCDDAT_20]
+- M13 : PC0,  of Type IO, alternates : [TWIHS0 TWCK_0, ISC ISC_D_6, HSMC A_23, FLEXCOM0 FLEXCOM0_IO_4, PIO P_64, LCDC LCDDAT_21]
+- P13 : PC1,  of Type IO, alternates : [MCAN0 CANTX_0, I2SC0 I2SC0_CK_, PIO P_65, ISC ISC_D_7, HSMC A_24, SPI1 SPI1_SPCK_, LCDC LCDDAT_22]
+- N13 : PC2,  of Type IO, alternates : [MCAN0 CANRX_0, PIO P_66, SPI1 SPI1_MOSI_, HSMC A_25, ISC ISC_D_8, LCDC LCDDAT_23, I2SC0 I2SC0_MCK_]
+- K10 : PC3,  of Type IO, alternates : [SPI1 SPI1_MISO_, I2SC0 I2SC0_WS_, LCDC LCDPWM_, PIO P_67, TC0 TIOA_1, ISC ISC_D_9, HSMC NWAIT_]
+- P14 : PC4,  of Type IO, alternates : [ISC ISC_PCK_, LCDC LCDDISP_, I2SC0 I2SC0_DI_0, PIO P_68, SPI1 SPI1_NPCS_0, HSMC NWR1_, TC0 TIOB_1]
+- J8 : PC5,  of Type IO, alternates : [PIO P_69, ISC ISC_VSYNC_, TC0 TCLK_1, SPI1 SPI1_NPCS_1, HSMC NCS_0, I2SC0 I2SC0_DO_0, LCDC LCDVSYNC_]
+- N14 : PC6,  of Type IO, alternates : [LCDC LCDHSYNC_, TWIHS1 TWD_1, PIO P_70, ISC ISC_HSYNC_, SPI1 SPI1_NPCS_2]
+- M14 : PC7,  of Type IO, alternates : [LCDC LCDPCK_, TWIHS1 TWCK_1, ISC ISC_MCK_, UART1 URXD_1, HSMC NCS_2, SPI1 SPI1_NPCS_3, PIO P_71]
+- J9 : PC8,  of Type IO, alternates : [LCDC LCDDEN_, HSMC NANDRDY_, SAIC FIQ_, ISC ISC_FIELD_, UART1 UTXD_1, PIO P_72, PMC PCK_0]
+- F5 : PD7,  of Type IO, alternates : [ISC ISC_D_0, ICE TDI_, PIO P_103, PTC PTC_X_4, GMAC GTX_2, HSMC NWR1_]
+- F3 : PD8,  of Type IO, alternates : [HSMC NANDRDY_, ISC ISC_D_1, PTC PTC_X_5, ICE TDO_, GMAC GTX_3, PIO P_104]
+- G5 : PD9,  of Type IO, alternates : [ISC ISC_D_2, ICE TMS_, PTC PTC_X_6, PIO P_105, GMAC GTXCK_]
+- G4 : PD10,  of Type IO, alternates : [ISC ISC_D_3, ICE NTRST_, GMAC GTXEN_, PTC PTC_X_7, PIO P_106]
+- H1 : PD11,  of Type IO, alternates : [PMC PCK_2, ISC ISC_MCK_, ISC ISC_D_4, GMAC GRXDV_, TC0 TIOA_1, PIO P_107, PTC PTC_Y_0]
+- H6 : PD12,  of Type IO, alternates : [GMAC GRXER_, PIO P_108, ISC ISC_D_4, FLEXCOM4 FLEXCOM4_IO_0, ISC ISC_D_5, TC0 TIOB_1, PTC PTC_Y_1]
+- H3 : PD13,  of Type IO, alternates : [PIO P_109, TC0 TCLK_1, ISC ISC_D_6, FLEXCOM4 FLEXCOM4_IO_1, ISC ISC_D_5, GMAC GRX_0, PTC PTC_Y_2]
+- G6 : PD14,  of Type IO, alternates : [ISC ISC_D_6, PIO P_110, ISC ISC_D_7, ICE TCK_, FLEXCOM4 FLEXCOM4_IO_2, PTC PTC_Y_3, GMAC GRX_1]
+- H5 : PD15,  of Type IO, alternates : [ISC ISC_PCK_, ICE TDI_, ISC ISC_D_7, FLEXCOM4 FLEXCOM4_IO_3, GMAC GTX_0, PTC PTC_Y_4, PIO P_111]
+- G1 : PD16,  of Type IO, alternates : [ISC ISC_VSYNC_, GMAC GTX_1, ICE TDO_, ISC ISC_D_8, PIO P_112, FLEXCOM4 FLEXCOM4_IO_4, PTC PTC_Y_5]
+- G2 : PD17,  of Type IO, alternates : [ICE TMS_, PIO P_113, PTC PTC_Y_6, GMAC GMDC_, ISC ISC_D_9, ISC ISC_HSYNC_]
+- G3 : PD18,  of Type IO, alternates : [GMAC GMDIO_, ICE NTRST_, ISC ISC_FIELD_, PTC PTC_Y_7, ISC ISC_D_10, PIO P_114]
+- H4 : PD19,  of Type IO, alternates : [I2SC0 I2SC0_CK_, ISC ISC_D_11, TWIHS1 TWD_1, UART2 URXD_2, ADC AD_0, PIO P_115, PMC PCK_0]
+- J1 : PD20,  of Type IO, alternates : [ISC ISC_PCK_, TWIHS1 TWCK_1, UART2 UTXD_2, TC0 TIOA_2, PIO P_116, ADC AD_1, I2SC0 I2SC0_MCK_]
+- K1 : PD21,  of Type IO, alternates : [ISC ISC_VSYNC_, TWIHS0 TWD_0, I2SC0 I2SC0_WS_, FLEXCOM4 FLEXCOM4_IO_0, TC0 TIOB_2, ADC AD_2, PIO P_117]
+- J3 : PD22,  of Type IO, alternates : [TWIHS0 TWCK_0, FLEXCOM4 FLEXCOM4_IO_1, I2SC0 I2SC0_DI_0, PIO P_118, TC0 TCLK_2, ADC AD_3, ISC ISC_HSYNC_]
+- K2 : PD23,  of Type IO, alternates : [ADC AD_4, PIO P_119, ISC ISC_FIELD_, FLEXCOM4 FLEXCOM4_IO_2, UART2 URXD_2, I2SC0 I2SC0_DO_0]
+- K3 : VDDANA,  of Type PP
+- K4 : GNDANA,  of Type PS
+- L2 : ADVREF,  of Type PS
+- H2 : VDDANA,  of Type PP
+- J2 : GNDANA,  of Type PS
+- H12 : DDR_VREF,  of Type PS
+- C12 : DDR_VREF,  of Type PS
+- B7 : DDR_D0,  of Type IO
+- A7 : DDR_D1,  of Type IO
+- C8 : DDR_D2,  of Type IO
+- B9 : DDR_D3,  of Type IO
+- A9 : DDR_D4,  of Type IO
+- C9 : DDR_D5,  of Type IO
+- A10 : DDR_D6,  of Type IO
+- B10 : DDR_D7,  of Type IO
+- H13 : DDR_D8,  of Type IO
+- H14 : DDR_D9,  of Type IO
+- J13 : DDR_D10,  of Type IO
+- J14 : DDR_D11,  of Type IO
+- L13 : DDR_D12,  of Type IO
+- L14 : DDR_D13,  of Type IO
+- J12 : DDR_D14,  of Type IO
+- K12 : DDR_D15,  of Type IO
+- E11 : DDR_A0,  of Type OP
+- C11 : DDR_A1,  of Type OP
+- B12 : DDR_A2,  of Type OP
+- A12 : DDR_A3,  of Type OP
+- D11 : DDR_A4,  of Type OP
+- D14 : DDR_A5,  of Type OP
+- B14 : DDR_A6,  of Type OP
+- D9 : DDR_A7,  of Type OP
+- C10 : DDR_A8,  of Type OP
+- D10 : DDR_A9,  of Type OP
+- F9 : DDR_A10,  of Type OP
+- A11 : DDR_A11,  of Type OP
+- B11 : DDR_A12,  of Type OP
+- E13 : DDR_A13,  of Type OP
+- A13 : DDR_CLK,  of Type OP
+- B13 : DDR_CLKN,  of Type OP
+- E14 : DDR_CKE,  of Type OP
+- D13 : DDR_RESETN,  of Type OP
+- F11 : DDR_CS,  of Type OP
+- A14 : DDR_WE,  of Type OP
+- C14 : DDR_RAS,  of Type OP
+- C13 : DDR_CAS,  of Type OP
+- D8 : DDR_DQM0,  of Type OP
+- G14 : DDR_DQM1,  of Type OP
+- B8 : DDR_DQS0,  of Type OP
+- K14 : DDR_DQS1,  of Type OP
+- A8 : DDR_DQSN0,  of Type OP
+- K13 : DDR_DQSN1,  of Type OP
+- F13 : DDR_BA0,  of Type OP
+- G13 : DDR_BA1,  of Type OP
+- F14 : DDR_BA2,  of Type OP
+- F10 : DDR_CAL,  of Type OP
+- C6 : VDDIODDR,  of Type PP
+- E10 : VDDIODDR,  of Type PP
+- E12 : VDDIODDR,  of Type PP
+- G10 : VDDIODDR,  of Type PP
+- G12 : VDDIODDR,  of Type PP
+- H11 : VDDIODDR,  of Type PP
+- J10 : VDDIODDR,  of Type PP
+- C7 : GNDIODDR,  of Type PS
+- D12 : GNDIODDR,  of Type PS
+- E9 : GNDIODDR,  of Type PS
+- F12 : GNDIODDR,  of Type PS
+- G11 : GNDIODDR,  of Type PS
+- H10 : GNDIODDR,  of Type PS
+- J11 : GNDIODDR,  of Type PS
+- E8 : VDDCORE,  of Type PP
+- G8 : VDDCORE,  of Type PP
+- H8 : VDDCORE,  of Type PP
+- H9 : VDDCORE,  of Type PP
+- J5 : VDDCORE,  of Type PP
+- F8 : GNDCORE,  of Type PS
+- G7 : GNDCORE,  of Type PS
+- G9 : GNDCORE,  of Type PS
+- H7 : GNDCORE,  of Type PS
+- J4 : GNDCORE,  of Type PS
+- D7 : VDDIOP0,  of Type PP
+- F4 : VDDIOP0,  of Type PP
+- E4 : GNDIOP0,  of Type PS
+- E7 : GNDIOP0,  of Type PS
+- K8 : VDDIOP1,  of Type PP
+- L11 : VDDIOP1,  of Type PP
+- K9 : GDNIOP1,  of Type IO
+- L12 : GNDIOP1,  of Type PS
+- K11 : VDDFUSE,  of Type PP
+- P3 : VDDPLLA,  of Type PP
+- P4 : GNDPLLA,  of Type PS
+- K6 : VDDAUDIOPLL,  of Type PP
+- L6 : GNDDPLL,  of Type PS
+- J6 : GNDAUDIOPLL,  of Type PS
+- J7 : CLK_AUDIO,  of Type IO
+- P5 : XIN,  of Type PS
+- P6 : XOUT,  of Type PS
+- N5 : VDDOSC,  of Type PP
+- N6 : GNDOSC,  of Type PS
+- K7 : VDDUTMII,  of Type PP
+- L8 : GNDUTMII,  of Type PS
+- N7 : HHSDPA,  of Type IO
+- P7 : HHSDMA,  of Type IO
+- N8 : HHSDPB,  of Type IO
+- P8 : HHSDMB,  of Type IO
+- M7 : VDDUTMIC,  of Type PP
+- M8 : GNDUTMIC,  of Type PS
+- L7 : VBG,  of Type IO
+- M2 : TST,  of Type IO
+- N3 : NRST,  of Type IP
+- L4 : JTAGSEL,  of Type OP
+- P1 : WKUP,  of Type IP
+- N1 : SHDN,  of Type IO
+- K5 : PIOBU0,  of Type IO
+- L3 : PIOBU1,  of Type IO
+- M3 : PIOBU2,  of Type IO
+- N4 : PIOBU3,  of Type IO
+- L5 : PIOBU4,  of Type IO
+- M6 : PIOBU5,  of Type IO
+- M4 : VDDBU,  of Type PP
+- M5 : GNDBU,  of Type PS
+- M1 : XIN32,  of Type PS
+- L1 : XOUT32,  of Type PS
+- N2 : COMPP,  of Type IO
+- P2 : COMPN,  of Type IO
 ## ATSAMA5D21C-CUR
+
 ### Description : 
+
+- Series : SAMA5D2
+- Footprint : TFBGA196
+- MP : ATSAMA5D21C-CUR
+- Architecture : CORTEX-A5
+- PINOUT : TFBGA196
+- Reference : U
+- Documentation : https://www.microchip.com/en-us/search?q=ATSAMA5D21C-CUR
+- Value : ATSAMA5D21C-CUR
+- Family : SAMA5
+- MF : Microchip
+- Name : ATSAMA5D21
 
 ### Package : 
 
-- L9 : PA18
-- N9 : PA19
-- M9 : PA20
-- M10 : PA21
-- P9 : PA22
-- P10 : PA23
-- N10 : PA24
-- L10 : PA25
-- P11 : PA26
-- P12 : PA27
-- M11 : PA28
-- N11 : PA29
-- N12 : PA30
-- M12 : PA31
-- A6 : PB0
-- A5 : PB1
-- B6 : PB2
-- B5 : PB3
-- A4 : PB4
-- D6 : PB5
-- A3 : PB6
-- B4 : PB7
-- A2 : PB8
-- B3 : PB9
-- A1 : PB10
-- B1 : PB11
-- B2 : PB12
-- C1 : PB13
-- D5 : PB14
-- E5 : PB15
-- C5 : PB16
-- C2 : PB17
-- D4 : PB18
-- C4 : PB19
-- C3 : PB20
-- D1 : PB21
-- D2 : PB22
-- E1 : PB23
-- D3 : PB24
-- E3 : PB25
-- E2 : PB26
-- E6 : PB27
-- F1 : PB28
-- F6 : PB29
-- F2 : PB30
-- F7 : PB31
-- M13 : PC0
-- P13 : PC1
-- N13 : PC2
-- K10 : PC3
-- P14 : PC4
-- J8 : PC5
-- N14 : PC6
-- M14 : PC7
-- J9 : PC8
-- F5 : PD7
-- F3 : PD8
-- G5 : PD9
-- G4 : PD10
-- H1 : PD11
-- H6 : PD12
-- H3 : PD13
-- G6 : PD14
-- H5 : PD15
-- G1 : PD16
-- G2 : PD17
-- G3 : PD18
-- H4 : PD19
-- J1 : PD20
-- K1 : PD21
-- J3 : PD22
-- K2 : PD23
-- K3 : VDDANA
-- K4 : GNDANA
-- L2 : ADVREF
-- H2 : VDDANA
-- J2 : GNDANA
-- H12 : DDR_VREF
-- C12 : DDR_VREF
-- B7 : DDR_D0
-- A7 : DDR_D1
-- C8 : DDR_D2
-- B9 : DDR_D3
-- A9 : DDR_D4
-- C9 : DDR_D5
-- A10 : DDR_D6
-- B10 : DDR_D7
-- H13 : DDR_D8
-- H14 : DDR_D9
-- J13 : DDR_D10
-- J14 : DDR_D11
-- L13 : DDR_D12
-- L14 : DDR_D13
-- J12 : DDR_D14
-- K12 : DDR_D15
-- E11 : DDR_A0
-- C11 : DDR_A1
-- B12 : DDR_A2
-- A12 : DDR_A3
-- D11 : DDR_A4
-- D14 : DDR_A5
-- B14 : DDR_A6
-- D9 : DDR_A7
-- C10 : DDR_A8
-- D10 : DDR_A9
-- F9 : DDR_A10
-- A11 : DDR_A11
-- B11 : DDR_A12
-- E13 : DDR_A13
-- A13 : DDR_CLK
-- B13 : DDR_CLKN
-- E14 : DDR_CKE
-- D13 : DDR_RESETN
-- F11 : DDR_CS
-- A14 : DDR_WE
-- C14 : DDR_RAS
-- C13 : DDR_CAS
-- D8 : DDR_DQM0
-- G14 : DDR_DQM1
-- B8 : DDR_DQS0
-- K14 : DDR_DQS1
-- A8 : DDR_DQSN0
-- K13 : DDR_DQSN1
-- F13 : DDR_BA0
-- G13 : DDR_BA1
-- F14 : DDR_BA2
-- F10 : DDR_CAL
-- C6 : VDDIODDR
-- E10 : VDDIODDR
-- E12 : VDDIODDR
-- G10 : VDDIODDR
-- G12 : VDDIODDR
-- H11 : VDDIODDR
-- J10 : VDDIODDR
-- C7 : GNDIODDR
-- D12 : GNDIODDR
-- E9 : GNDIODDR
-- F12 : GNDIODDR
-- G11 : GNDIODDR
-- H10 : GNDIODDR
-- J11 : GNDIODDR
-- E8 : VDDCORE
-- G8 : VDDCORE
-- H8 : VDDCORE
-- H9 : VDDCORE
-- J5 : VDDCORE
-- F8 : GNDCORE
-- G7 : GNDCORE
-- G9 : GNDCORE
-- H7 : GNDCORE
-- J4 : GNDCORE
-- D7 : VDDIOP0
-- F4 : VDDIOP0
-- E4 : GNDIOP0
-- E7 : GNDIOP0
-- K8 : VDDIOP1
-- L11 : VDDIOP1
-- K9 : GDNIOP1
-- L12 : GNDIOP1
-- K11 : VDDFUSE
-- P3 : VDDPLLA
-- P4 : GNDPLLA
-- K6 : VDDAUDIOPLL
-- L6 : GNDDPLL
-- J6 : GNDAUDIOPLL
-- J7 : CLK_AUDIO
-- P5 : XIN
-- P6 : XOUT
-- N5 : VDDOSC
-- N6 : GNDOSC
-- K7 : VDDUTMII
-- L8 : GNDUTMII
-- N7 : HHSDPA
-- P7 : HHSDMA
-- N8 : HHSDPB
-- P8 : HHSDMB
-- M7 : VDDUTMIC
-- M8 : GNDUTMIC
-- L7 : VBG
-- M2 : TST
-- N3 : NRST
-- L4 : JTAGSEL
-- P1 : WKUP
-- N1 : SHDN
-- K5 : PIOBU0
-- L3 : PIOBU1
-- M3 : PIOBU2
-- N4 : PIOBU3
-- L5 : PIOBU4
-- M6 : PIOBU5
-- M4 : VDDBU
-- M5 : GNDBU
-- M1 : XIN32
-- L1 : XOUT32
-- N2 : COMPP
-- P2 : COMPN
+Pin count : 196
+- L9 : PA18,  of Type IO, alternates : [HSMC D_13, SSC1 RK_1, SPI0 SPI0_NPCS_1, I2SC1 I2SC1_DO_0, PIO P_18, QSPI0 QSPI0_IO_2, SDMMC1 SDMMC1_DAT_0]
+- N9 : PA19,  of Type IO, alternates : [SSC1 RF_1, SPI0 SPI0_NPCS_2, HSMC D_14, TC0 TIOA_0, QSPI0 QSPI0_IO_3, PIO P_19, SDMMC1 SDMMC1_DAT_1]
+- M9 : PA20,  of Type IO, alternates : [SPI0 SPI0_NPCS_3, HSMC D_15, TC0 TIOB_0, PIO P_20, SDMMC1 SDMMC1_DAT_2]
+- M10 : PA21,  of Type IO, alternates : [AIC IRQ_, PMC PCK_2, HSMC NANDRDY_, TC0 TCLK_0, PIO P_21, SDMMC1 SDMMC1_DAT_3]
+- P9 : PA22,  of Type IO, alternates : [PIO P_22, ICE TCK_, FLEXCOM1 FLEXCOM1_IO_2, HSMC D_0, SPI1 SPI1_SPCK_, SDMMC1 SDMMC1_CK_, QSPI0 QSPI0_SCK_]
+- P10 : PA23,  of Type IO, alternates : [ICE TDI_, PIO P_23, QSPI0 QSPI0_CS_, SPI1 SPI1_MOSI_, FLEXCOM1 FLEXCOM1_IO_1, HSMC D_1]
+- N10 : PA24,  of Type IO, alternates : [SPI1 SPI1_MISO_, FLEXCOM1 FLEXCOM1_IO_0, HSMC D_2, PIO P_24, ICE TDO_, QSPI0 QSPI0_IO_0]
+- L10 : PA25,  of Type IO, alternates : [PIO P_25, ICE TMS_, HSMC D_3, FLEXCOM1 FLEXCOM1_IO_3, SPI1 SPI1_NPCS_0, QSPI0 QSPI0_IO_1]
+- P11 : PA26,  of Type IO, alternates : [PIO P_26, ICE NTRST_, HSMC D_4, SPI1 SPI1_NPCS_1, FLEXCOM1 FLEXCOM1_IO_4, QSPI0 QSPI0_IO_2]
+- P12 : PA27,  of Type IO, alternates : [PIO P_27, SPI0 SPI0_NPCS_2, SDMMC1 SDMMC1_RSTN_, HSMC D_5, TC0 TIOA_1, QSPI0 QSPI0_IO_3, SPI1 SPI1_NPCS_2]
+- M11 : PA28,  of Type IO, alternates : [HSMC D_6, PIO P_28, SPI0 SPI0_NPCS_3, CLASSD CLASSD_L_0, SDMMC1 SDMMC1_CMD_, TC0 TIOB_1, SPI1 SPI1_NPCS_3]
+- N11 : PA29,  of Type IO, alternates : [HSMC D_7, TC0 TCLK_1, SDMMC1 SDMMC1_WP_, CLASSD CLASSD_L_1, SPI0 SPI0_NPCS_1, PIO P_29]
+- N12 : PA30,  of Type IO, alternates : [SPI0 SPI0_NPCS_0, PWM PWMH_0, CLASSD CLASSD_L_2, PIO P_30, HSMC NANDNWE_, SDMMC1 SDMMC1_CD_]
+- M12 : PA31,  of Type IO, alternates : [PWM PWML_0, HSMC NCS_3, CLASSD CLASSD_L_3, PIO P_31, SPI0 SPI0_MISO_]
+- A6 : PB0,  of Type IO, alternates : [PIO P_32, PWM PWMH_1, HSMC A21_, SPI0 SPI0_MOSI_]
+- A5 : PB1,  of Type IO, alternates : [SPI0 SPI0_SPCK_, PIO P_33, PWM PWML_1, HSMC A22_, CLASSD CLASSD_R_0]
+- B6 : PB2,  of Type IO, alternates : [PIO P_34, PWM PWMFI_0, CLASSD CLASSD_R_1, HSMC NANDOE_]
+- B5 : PB3,  of Type IO, alternates : [HSMC D_8, AIC IRQ_, PWM PWMEXTRG_1, PIO P_35, CLASSD CLASSD_R_2, UART4 URXD_4]
+- A4 : PB4,  of Type IO, alternates : [PIO P_36, HSMC D_9, SAIC FIQ_, UART4 UTXD_4, CLASSD CLASSD_R_3]
+- D6 : PB5,  of Type IO, alternates : [PIO P_37, HSMC D_10, PWM PWMH_2, QSPI1 QSPI1_SCK_, GMAC GTSUCOMP_, TC0 TCLK_2]
+- A3 : PB6,  of Type IO, alternates : [PIO P_38, HSMC D_11, QSPI1 QSPI1_CS_, GMAC GTXER_, PWM PWML_2, TC0 TIOA_2]
+- B4 : PB7,  of Type IO, alternates : [PIO P_39, QSPI1 QSPI1_IO_0, HSMC D_12, PWM PWMH_3, TC0 TIOB_2, GMAC GRXCK_]
+- A2 : PB8,  of Type IO, alternates : [QSPI1 QSPI1_IO_1, HSMC D_13, PIO P_40, PWM PWML_3, GMAC GCRS_, TC1 TCLK_3]
+- B3 : PB9,  of Type IO, alternates : [QSPI1 QSPI1_IO_2, HSMC D_14, GMAC GCOL_, PIO P_41, TC1 TIOA_3, PWM PWMFI_1]
+- A1 : PB10,  of Type IO, alternates : [GMAC GRX_2, PWM PWMEXTRG_2, QSPI1 QSPI1_IO_3, HSMC D_15, TC1 TIOB_3, PIO P_42]
+- B1 : PB11,  of Type IO, alternates : [GMAC GRX_3, PIO P_43, PDMIC PDMIC_DAT_, UART3 URXD_3, LCDC LCDDAT_0, HSMC A0_]
+- B2 : PB12,  of Type IO, alternates : [PDMIC PDMIC_CLK_, PIO P_44, UART3 UTXD_3, GMAC GTX_2, HSMC A_1, LCDC LCDDAT_1]
+- C1 : PB13,  of Type IO, alternates : [PMC PCK_1, PIO P_45, GMAC GTX_3, HSMC A_2, LCDC LCDDAT_2]
+- D5 : PB14,  of Type IO, alternates : [SSC1 TK_1, I2SC1 I2SC1_MCK_, LCDC LCDDAT_3, PIO P_46, HSMC A_3, QSPI1 QSPI1_SCK_, GMAC GTXCK_]
+- E5 : PB15,  of Type IO, alternates : [PIO P_47, LCDC LCDDAT_4, QSPI1 QSPI1_CS_, GMAC GTXEN_, HSMC A_4, SSC1 TF_1, I2SC1 I2SC1_CK_]
+- C5 : PB16,  of Type IO, alternates : [LCDC LCDDAT_5, PIO P_48, I2SC1 I2SC1_WS_, QSPI1 QSPI1_IO_0, HSMC A_5, GMAC GRXDV_, SSC1 TD_1]
+- C2 : PB17,  of Type IO, alternates : [LCDC LCDDAT_6, GMAC GRXER_, I2SC1 I2SC1_DI_0, PIO P_49, QSPI1 QSPI1_IO_1, HSMC A_6, SSC1 RD_1]
+- D4 : PB18,  of Type IO, alternates : [HSMC A_7, SSC1 RK_1, QSPI1 QSPI1_IO_2, LCDC LCDDAT_7, PIO P_50, I2SC1 I2SC1_DO_0, GMAC GRX_0]
+- C4 : PB19,  of Type IO, alternates : [SSC1 RF_1, QSPI1 QSPI1_IO_3, HSMC A_8, LCDC LCDDAT_8, PIO P_51, TC1 TIOA_3, GMAC GRX_1]
+- C3 : PB20,  of Type IO, alternates : [PMC PCK_1, HSMC A_9, LCDC LCDDAT_9, GMAC GTX_0, TC1 TIOB_3, PIO P_52, SSC0 TK_0]
+- D1 : PB21,  of Type IO, alternates : [SSC0 TF_0, FLEXCOM3 FLEXCOM3_IO_2, GMAC GTX_1, PIO P_53, HSMC A_10, LCDC LCDDAT_10, TC1 TCLK_3]
+- D2 : PB22,  of Type IO, alternates : [SSC0 TD_0, PIO P_54, FLEXCOM3 FLEXCOM3_IO_1, HSMC A_11, GMAC GMDC_, TC0 TIOA_2, LCDC LCDDAT_11]
+- E1 : PB23,  of Type IO, alternates : [SSC0 RD_0, GMAC GMDIO_, PIO P_55, FLEXCOM3 FLEXCOM3_IO_0, TC0 TIOB_2, HSMC A_12, LCDC LCDDAT_12]
+- D3 : PB24,  of Type IO, alternates : [PIO P_56, FLEXCOM3 FLEXCOM3_IO_3, ISC ISC_D_10, HSMC A_13, SSC0 RK_0, LCDC LCDDAT_13, TC0 TCLK_2]
+- E3 : PB25,  of Type IO, alternates : [ISC ISC_D_11, PIO P_57, HSMC A_14, LCDC LCDDAT_14, FLEXCOM3 FLEXCOM3_IO_4, SSC0 RF_0]
+- E2 : PB26,  of Type IO, alternates : [PIO P_58, ISC ISC_D_0, HSMC A_15, PDMIC PDMIC_DAT_, LCDC LCDDAT_15, UART0 URXD_0]
+- E6 : PB27,  of Type IO, alternates : [PIO P_59, ISC ISC_D_1, PDMIC PDMIC_CLK_, HSMC A_16, UART0 UTXD_0, LCDC LCDDAT_16]
+- F1 : PB28,  of Type IO, alternates : [ISC ISC_D_2, HSMC A_17, FLEXCOM0 FLEXCOM0_IO_0, LCDC LCDDAT_17, TC1 TIOA_5, PIO P_60]
+- F6 : PB29,  of Type IO, alternates : [ISC ISC_D_3, HSMC A_18, LCDC LCDDAT_18, FLEXCOM0 FLEXCOM0_IO_1, PIO P_61, TC1 TIOB_5]
+- F2 : PB30,  of Type IO, alternates : [HSMC A_19, LCDC LCDDAT_19, ISC ISC_D_4, FLEXCOM0 FLEXCOM0_IO_2, PIO P_62, TC1 TCLK_5]
+- F7 : PB31,  of Type IO, alternates : [TWIHS0 TWD_0, ISC ISC_D_5, FLEXCOM0 FLEXCOM0_IO_3, PIO P_63, HSMC A_20, LCDC LCDDAT_20]
+- M13 : PC0,  of Type IO, alternates : [TWIHS0 TWCK_0, ISC ISC_D_6, HSMC A_23, FLEXCOM0 FLEXCOM0_IO_4, PIO P_64, LCDC LCDDAT_21]
+- P13 : PC1,  of Type IO, alternates : [MCAN0 CANTX_0, I2SC0 I2SC0_CK_, PIO P_65, ISC ISC_D_7, HSMC A_24, SPI1 SPI1_SPCK_, LCDC LCDDAT_22]
+- N13 : PC2,  of Type IO, alternates : [MCAN0 CANRX_0, PIO P_66, SPI1 SPI1_MOSI_, HSMC A_25, ISC ISC_D_8, LCDC LCDDAT_23, I2SC0 I2SC0_MCK_]
+- K10 : PC3,  of Type IO, alternates : [SPI1 SPI1_MISO_, I2SC0 I2SC0_WS_, LCDC LCDPWM_, PIO P_67, TC0 TIOA_1, ISC ISC_D_9, HSMC NWAIT_]
+- P14 : PC4,  of Type IO, alternates : [ISC ISC_PCK_, LCDC LCDDISP_, I2SC0 I2SC0_DI_0, PIO P_68, SPI1 SPI1_NPCS_0, HSMC NWR1_, TC0 TIOB_1]
+- J8 : PC5,  of Type IO, alternates : [PIO P_69, ISC ISC_VSYNC_, TC0 TCLK_1, SPI1 SPI1_NPCS_1, HSMC NCS_0, I2SC0 I2SC0_DO_0, LCDC LCDVSYNC_]
+- N14 : PC6,  of Type IO, alternates : [LCDC LCDHSYNC_, TWIHS1 TWD_1, PIO P_70, ISC ISC_HSYNC_, SPI1 SPI1_NPCS_2]
+- M14 : PC7,  of Type IO, alternates : [LCDC LCDPCK_, TWIHS1 TWCK_1, ISC ISC_MCK_, UART1 URXD_1, HSMC NCS_2, SPI1 SPI1_NPCS_3, PIO P_71]
+- J9 : PC8,  of Type IO, alternates : [LCDC LCDDEN_, HSMC NANDRDY_, SAIC FIQ_, ISC ISC_FIELD_, UART1 UTXD_1, PIO P_72, PMC PCK_0]
+- F5 : PD7,  of Type IO, alternates : [ISC ISC_D_0, ICE TDI_, PIO P_103, PTC PTC_X_4, GMAC GTX_2, HSMC NWR1_]
+- F3 : PD8,  of Type IO, alternates : [HSMC NANDRDY_, ISC ISC_D_1, PTC PTC_X_5, ICE TDO_, GMAC GTX_3, PIO P_104]
+- G5 : PD9,  of Type IO, alternates : [ISC ISC_D_2, ICE TMS_, PTC PTC_X_6, PIO P_105, GMAC GTXCK_]
+- G4 : PD10,  of Type IO, alternates : [ISC ISC_D_3, ICE NTRST_, GMAC GTXEN_, PTC PTC_X_7, PIO P_106]
+- H1 : PD11,  of Type IO, alternates : [PMC PCK_2, ISC ISC_MCK_, ISC ISC_D_4, GMAC GRXDV_, TC0 TIOA_1, PIO P_107, PTC PTC_Y_0]
+- H6 : PD12,  of Type IO, alternates : [GMAC GRXER_, PIO P_108, ISC ISC_D_4, FLEXCOM4 FLEXCOM4_IO_0, ISC ISC_D_5, TC0 TIOB_1, PTC PTC_Y_1]
+- H3 : PD13,  of Type IO, alternates : [PIO P_109, TC0 TCLK_1, ISC ISC_D_6, FLEXCOM4 FLEXCOM4_IO_1, ISC ISC_D_5, GMAC GRX_0, PTC PTC_Y_2]
+- G6 : PD14,  of Type IO, alternates : [ISC ISC_D_6, PIO P_110, ISC ISC_D_7, ICE TCK_, FLEXCOM4 FLEXCOM4_IO_2, PTC PTC_Y_3, GMAC GRX_1]
+- H5 : PD15,  of Type IO, alternates : [ISC ISC_PCK_, ICE TDI_, ISC ISC_D_7, FLEXCOM4 FLEXCOM4_IO_3, GMAC GTX_0, PTC PTC_Y_4, PIO P_111]
+- G1 : PD16,  of Type IO, alternates : [ISC ISC_VSYNC_, GMAC GTX_1, ICE TDO_, ISC ISC_D_8, PIO P_112, FLEXCOM4 FLEXCOM4_IO_4, PTC PTC_Y_5]
+- G2 : PD17,  of Type IO, alternates : [ICE TMS_, PIO P_113, PTC PTC_Y_6, GMAC GMDC_, ISC ISC_D_9, ISC ISC_HSYNC_]
+- G3 : PD18,  of Type IO, alternates : [GMAC GMDIO_, ICE NTRST_, ISC ISC_FIELD_, PTC PTC_Y_7, ISC ISC_D_10, PIO P_114]
+- H4 : PD19,  of Type IO, alternates : [I2SC0 I2SC0_CK_, ISC ISC_D_11, TWIHS1 TWD_1, UART2 URXD_2, ADC AD_0, PIO P_115, PMC PCK_0]
+- J1 : PD20,  of Type IO, alternates : [ISC ISC_PCK_, TWIHS1 TWCK_1, UART2 UTXD_2, TC0 TIOA_2, PIO P_116, ADC AD_1, I2SC0 I2SC0_MCK_]
+- K1 : PD21,  of Type IO, alternates : [ISC ISC_VSYNC_, TWIHS0 TWD_0, I2SC0 I2SC0_WS_, FLEXCOM4 FLEXCOM4_IO_0, TC0 TIOB_2, ADC AD_2, PIO P_117]
+- J3 : PD22,  of Type IO, alternates : [TWIHS0 TWCK_0, FLEXCOM4 FLEXCOM4_IO_1, I2SC0 I2SC0_DI_0, PIO P_118, TC0 TCLK_2, ADC AD_3, ISC ISC_HSYNC_]
+- K2 : PD23,  of Type IO, alternates : [ADC AD_4, PIO P_119, ISC ISC_FIELD_, FLEXCOM4 FLEXCOM4_IO_2, UART2 URXD_2, I2SC0 I2SC0_DO_0]
+- K3 : VDDANA,  of Type PP
+- K4 : GNDANA,  of Type PS
+- L2 : ADVREF,  of Type PS
+- H2 : VDDANA,  of Type PP
+- J2 : GNDANA,  of Type PS
+- H12 : DDR_VREF,  of Type PS
+- C12 : DDR_VREF,  of Type PS
+- B7 : DDR_D0,  of Type IO
+- A7 : DDR_D1,  of Type IO
+- C8 : DDR_D2,  of Type IO
+- B9 : DDR_D3,  of Type IO
+- A9 : DDR_D4,  of Type IO
+- C9 : DDR_D5,  of Type IO
+- A10 : DDR_D6,  of Type IO
+- B10 : DDR_D7,  of Type IO
+- H13 : DDR_D8,  of Type IO
+- H14 : DDR_D9,  of Type IO
+- J13 : DDR_D10,  of Type IO
+- J14 : DDR_D11,  of Type IO
+- L13 : DDR_D12,  of Type IO
+- L14 : DDR_D13,  of Type IO
+- J12 : DDR_D14,  of Type IO
+- K12 : DDR_D15,  of Type IO
+- E11 : DDR_A0,  of Type OP
+- C11 : DDR_A1,  of Type OP
+- B12 : DDR_A2,  of Type OP
+- A12 : DDR_A3,  of Type OP
+- D11 : DDR_A4,  of Type OP
+- D14 : DDR_A5,  of Type OP
+- B14 : DDR_A6,  of Type OP
+- D9 : DDR_A7,  of Type OP
+- C10 : DDR_A8,  of Type OP
+- D10 : DDR_A9,  of Type OP
+- F9 : DDR_A10,  of Type OP
+- A11 : DDR_A11,  of Type OP
+- B11 : DDR_A12,  of Type OP
+- E13 : DDR_A13,  of Type OP
+- A13 : DDR_CLK,  of Type OP
+- B13 : DDR_CLKN,  of Type OP
+- E14 : DDR_CKE,  of Type OP
+- D13 : DDR_RESETN,  of Type OP
+- F11 : DDR_CS,  of Type OP
+- A14 : DDR_WE,  of Type OP
+- C14 : DDR_RAS,  of Type OP
+- C13 : DDR_CAS,  of Type OP
+- D8 : DDR_DQM0,  of Type OP
+- G14 : DDR_DQM1,  of Type OP
+- B8 : DDR_DQS0,  of Type OP
+- K14 : DDR_DQS1,  of Type OP
+- A8 : DDR_DQSN0,  of Type OP
+- K13 : DDR_DQSN1,  of Type OP
+- F13 : DDR_BA0,  of Type OP
+- G13 : DDR_BA1,  of Type OP
+- F14 : DDR_BA2,  of Type OP
+- F10 : DDR_CAL,  of Type OP
+- C6 : VDDIODDR,  of Type PP
+- E10 : VDDIODDR,  of Type PP
+- E12 : VDDIODDR,  of Type PP
+- G10 : VDDIODDR,  of Type PP
+- G12 : VDDIODDR,  of Type PP
+- H11 : VDDIODDR,  of Type PP
+- J10 : VDDIODDR,  of Type PP
+- C7 : GNDIODDR,  of Type PS
+- D12 : GNDIODDR,  of Type PS
+- E9 : GNDIODDR,  of Type PS
+- F12 : GNDIODDR,  of Type PS
+- G11 : GNDIODDR,  of Type PS
+- H10 : GNDIODDR,  of Type PS
+- J11 : GNDIODDR,  of Type PS
+- E8 : VDDCORE,  of Type PP
+- G8 : VDDCORE,  of Type PP
+- H8 : VDDCORE,  of Type PP
+- H9 : VDDCORE,  of Type PP
+- J5 : VDDCORE,  of Type PP
+- F8 : GNDCORE,  of Type PS
+- G7 : GNDCORE,  of Type PS
+- G9 : GNDCORE,  of Type PS
+- H7 : GNDCORE,  of Type PS
+- J4 : GNDCORE,  of Type PS
+- D7 : VDDIOP0,  of Type PP
+- F4 : VDDIOP0,  of Type PP
+- E4 : GNDIOP0,  of Type PS
+- E7 : GNDIOP0,  of Type PS
+- K8 : VDDIOP1,  of Type PP
+- L11 : VDDIOP1,  of Type PP
+- K9 : GDNIOP1,  of Type IO
+- L12 : GNDIOP1,  of Type PS
+- K11 : VDDFUSE,  of Type PP
+- P3 : VDDPLLA,  of Type PP
+- P4 : GNDPLLA,  of Type PS
+- K6 : VDDAUDIOPLL,  of Type PP
+- L6 : GNDDPLL,  of Type PS
+- J6 : GNDAUDIOPLL,  of Type PS
+- J7 : CLK_AUDIO,  of Type IO
+- P5 : XIN,  of Type PS
+- P6 : XOUT,  of Type PS
+- N5 : VDDOSC,  of Type PP
+- N6 : GNDOSC,  of Type PS
+- K7 : VDDUTMII,  of Type PP
+- L8 : GNDUTMII,  of Type PS
+- N7 : HHSDPA,  of Type IO
+- P7 : HHSDMA,  of Type IO
+- N8 : HHSDPB,  of Type IO
+- P8 : HHSDMB,  of Type IO
+- M7 : VDDUTMIC,  of Type PP
+- M8 : GNDUTMIC,  of Type PS
+- L7 : VBG,  of Type IO
+- M2 : TST,  of Type IO
+- N3 : NRST,  of Type IP
+- L4 : JTAGSEL,  of Type OP
+- P1 : WKUP,  of Type IP
+- N1 : SHDN,  of Type IO
+- K5 : PIOBU0,  of Type IO
+- L3 : PIOBU1,  of Type IO
+- M3 : PIOBU2,  of Type IO
+- N4 : PIOBU3,  of Type IO
+- L5 : PIOBU4,  of Type IO
+- M6 : PIOBU5,  of Type IO
+- M4 : VDDBU,  of Type PP
+- M5 : GNDBU,  of Type PS
+- M1 : XIN32,  of Type PS
+- L1 : XOUT32,  of Type PS
+- N2 : COMPP,  of Type IO
+- P2 : COMPN,  of Type IO
 ## ATSAMA5D225CD1M-CU
+
 ### Description : 
+
+- Series : SAMA5D2
+- Footprint : TFBGA196
+- MP : ATSAMA5D225CD1M-CU
+- Architecture : CORTEX-A5
+- PINOUT : TFBGA196
+- Reference : U
+- Documentation : https://www.microchip.com/en-us/search?q=ATSAMA5D225CD1M-CU
+- Value : ATSAMA5D225CD1M-CU
+- Family : SAMA5
+- MF : Microchip
+- Name : ATSAMA5D225CD1M
 
 ### Package : 
 
-- M8 : PA0
-- F7 : PA1
-- L8 : PA2
-- G8 : PA3
-- K8 : PA4
-- P9 : PA5
-- P10 : PA6
-- P11 : PA7
-- K9 : PA8
-- J9 : PA9
-- N14 : PA10
-- N13 : PA11
-- L12 : PA12
-- M14 : PA13
-- J10 : PA14
-- L14 : PA15
-- H14 : PA16
-- K14 : PA17
-- L9 : PA18
-- P12 : PA19
-- H9 : PA20
-- G9 : PA21
-- K10 : PA22
-- G10 : PA23
-- P13 : PA24
-- H10 : PA25
-- L10 : PA26
-- P14 : PA27
-- N12 : PA28
-- M12 : PA29
-- N11 : PA30
-- M11 : PA31
-- E6 : PB0
-- D6 : PB1
-- C6 : PB2
-- C5 : PB3
-- D5 : PB4
-- D7 : PB5
-- C8 : PB6
-- D9 : PB7
-- C7 : PB8
-- C9 : PB9
-- F6 : PB10
-- B9 : PB11
-- B8 : PB12
-- B7 : PB13
-- G6 : PB14
-- B5 : PB15
-- C4 : PB16
-- A5 : PB17
-- B4 : PB18
-- A6 : PB19
-- A4 : PB20
-- A3 : PB21
-- D3 : PB22
-- B2 : PB23
-- E3 : PB24
-- E2 : PB25
-- D4 : PB26
-- C3 : PB27
-- D2 : PB28
-- B3 : PB29
-- F3 : PB30
-- A2 : PB31
-- L13 : PC0
-- H11 : PC1
-- L11 : PC2
-- F13 : PC3
-- G14 : PC4
-- J14 : PC5
-- J13 : PC6
-- F14 : PC7
-- K13 : PC8
-- H5 : PD7
-- J2 : PD8
-- G4 : PD9
-- C2 : PD10
-- F2 : PD11
-- K4 : PD12
-- C1 : PD13
-- H2 : PD14
-- G2 : PD15
-- J1 : PD16
-- A1 : PD17
-- G3 : PD18
-- K2 : PD19
-- H1 : PD20
-- G1 : PD21
-- F1 : PD22
-- E1 : PD23
-- L1 : ADVREF
-- K3 : VDDANA
-- L2 : VDDANA
-- L3 : GNDANA
-- K1 : GNDANA
-- K12 : DDR_VREF
-- F12 : DDR_VREF
-- F10 : VDDIODDR
-- E8 : VDDIODDR
-- E9 : VDDIODDR
-- E10 : VDDIODDR
-- G12 : VDDIODDR
-- H12 : VDDIODDR
-- J12 : VDDIODDR
-- K11 : GNDIODDR
-- J11 : GNDIODDR
-- F9 : GNDIODDR
-- C10 : GNDIODDR
-- E11 : GNDIODDR
-- F8 : GNDIODDR
-- F11 : GNDIODDR
-- G13 : GNDIODDR
-- H13 : GNDIODDR
-- G7 : VDDCORE
-- H4 : VDDCORE
-- D14 : VDDCORE
-- E14 : VDDCORE
-- L5 : VDDCORE
-- G11 : GNDCORE
-- E12 : GNDCORE
-- E13 : GNDCORE
-- H3 : GNDCORE
-- H7 : GNDCORE
-- H8 : GNDCORE
-- J3 : GNDCORE
-- F4 : VDDIOP0
-- E4 : VDDIOP1
-- E5 : GNDIOP0
-- F5 : GNDIOP0
-- N9 : VDDIOP1
-- N10 : VDDIOP1
-- M9 : GNDIOP1
-- M10 : GNDIOP1
-- J7 : VDDSDMMC
-- J8 : GNDSDMMC
-- M13 : VDDFUSE
-- P4 : VDDPLLA
-- L6 : GNDPLLA
-- K6 : VDDAUDIOPLL
-- J6 : GNDDPLL
-- H6 : GNDAUDIOPLL
-- P1 : CLK_AUDIO
-- N5 : XIN
-- P5 : XOUT
-- M7 : VDDOSC
-- N6 : GNDOSC
-- M6 : VDDUTMII
-- L7 : GNDUTMII
-- N7 : HHSDPA
-- P7 : HHSDMA
-- N8 : HHSDPB
-- P8 : HHSDMB
-- K7 : VDDUTMIC
-- G5 : GNDUTMIC
-- P6 : VBG
-- D1 : TST
-- J5 : NRST
-- N3 : JTAGSEL
-- N1 : WKUP
-- B1 : SHDN
-- N4 : PIOBU0
-- L4 : PIOBU1
-- M3 : PIOBU2
-- M4 : PIOBU3
-- J4 : PIOBU4
-- M5 : PIOBU5
-- K5 : VDDBU
-- N2 : GNDBU
-- M1 : XIN32
-- M2 : XOUT32
-- P2 : COMPP
-- P3 : COMPN
-- D12 : ODT
-- B10 : DDRM_VDD
-- A12 : DDRM_VDD
-- D10 : DDRM_VDD
-- D11 : DDRM_VDD
-- E7 : DDRM_VDDL
-- A7 : DDRM_VDDQ
-- A13 : DDRM_VDDQ
-- A9 : DDRM_VDDQ
-- A11 : DDRM_VDDQ
-- B6 : DDRM_VDDQ
-- C12 : DDRM_VDDQ
-- B14 : DDRM_VSS
-- A8 : DDRM_VSS
-- C11 : DDRM_VSS
-- C14 : DDRM_VSS
-- D8 : DDRM_VSS
-- D13 : DDRM_VSSDL
-- A10 : DDRM_VSSQ
-- A14 : DDRM_VSSQ
-- B11 : DDRM_VSSQ
-- B12 : DDRM_VSSQ
-- B13 : DDRM_VSSQ
-- C13 : DDRM_VSSQ
+Pin count : 196
+- M8 : PA0,  of Type IO, alternates : [HSMC D_0, PIO P_0, QSPI0 QSPI0_SCK_]
+- F7 : PA1,  of Type IO, alternates : [PIO P_1, QSPI0 QSPI0_CS_, HSMC D_1]
+- L8 : PA2,  of Type IO, alternates : [PIO P_2, HSMC D_2, QSPI0 QSPI0_IO_0]
+- G8 : PA3,  of Type IO, alternates : [PIO P_3, HSMC D_3, QSPI0 QSPI0_IO_1]
+- K8 : PA4,  of Type IO, alternates : [HSMC D_4, PIO P_4, QSPI0 QSPI0_IO_2]
+- P9 : PA5,  of Type IO, alternates : [PIO P_5, HSMC D_5, QSPI0 QSPI0_IO_3]
+- P10 : PA6,  of Type IO, alternates : [PIO P_6, HSMC D_6, TC1 TIOA_5, QSPI1 QSPI1_SCK_]
+- P11 : PA7,  of Type IO, alternates : [PIO P_7, QSPI1 QSPI1_IO_0, HSMC D_7, TC1 TIOB_5]
+- K9 : PA8,  of Type IO, alternates : [PIO P_8, QSPI1 QSPI1_IO_1, HSMC NANDNWE_, TC1 TCLK_5]
+- J9 : PA9,  of Type IO, alternates : [QSPI1 QSPI1_IO_2, TC1 TIOA_4, HSMC NCS_3, PIO P_9]
+- N14 : PA10,  of Type IO, alternates : [PIO P_10, QSPI1 QSPI1_IO_3, HSMC A21_, TC1 TIOB_4]
+- N13 : PA11,  of Type IO, alternates : [QSPI1 QSPI1_CS_, PIO P_11, HSMC A22_, TC1 TCLK_4]
+- L12 : PA12,  of Type IO, alternates : [AIC IRQ_, PIO P_12, HSMC NANDOE_]
+- M14 : PA13,  of Type IO, alternates : [HSMC D_8, FLEXCOM3 FLEXCOM3_IO_1, PIO P_13]
+- J10 : PA14,  of Type IO, alternates : [PIO P_14, SPI0 SPI0_SPCK_, HSMC D_9, SSC1 TK_1, I2SC1 I2SC1_MCK_, FLEXCOM3 FLEXCOM3_IO_2, QSPI0 QSPI0_SCK_]
+- L14 : PA15,  of Type IO, alternates : [PIO P_15, HSMC D_10, QSPI0 QSPI0_CS_, FLEXCOM3 FLEXCOM3_IO_0, SSC1 TF_1, SPI0 SPI0_MOSI_, I2SC1 I2SC1_CK_]
+- H14 : PA16,  of Type IO, alternates : [PIO P_16, HSMC D_11, I2SC1 I2SC1_WS_, FLEXCOM3 FLEXCOM3_IO_3, SPI0 SPI0_MISO_, SSC1 TD_1, QSPI0 QSPI0_IO_0]
+- K14 : PA17,  of Type IO, alternates : [I2SC1 I2SC1_DI_0, PIO P_17, HSMC D_12, SPI0 SPI0_NPCS_0, FLEXCOM3 FLEXCOM3_IO_4, QSPI0 QSPI0_IO_1, SSC1 RD_1]
+- L9 : PA18,  of Type IO, alternates : [HSMC D_13, SSC1 RK_1, SPI0 SPI0_NPCS_1, I2SC1 I2SC1_DO_0, PIO P_18, QSPI0 QSPI0_IO_2, SDMMC1 SDMMC1_DAT_0]
+- P12 : PA19,  of Type IO, alternates : [SSC1 RF_1, SPI0 SPI0_NPCS_2, HSMC D_14, TC0 TIOA_0, QSPI0 QSPI0_IO_3, PIO P_19, SDMMC1 SDMMC1_DAT_1]
+- H9 : PA20,  of Type IO, alternates : [SPI0 SPI0_NPCS_3, HSMC D_15, TC0 TIOB_0, PIO P_20, SDMMC1 SDMMC1_DAT_2]
+- G9 : PA21,  of Type IO, alternates : [AIC IRQ_, PMC PCK_2, HSMC NANDRDY_, TC0 TCLK_0, PIO P_21, SDMMC1 SDMMC1_DAT_3]
+- K10 : PA22,  of Type IO, alternates : [PIO P_22, ICE TCK_, FLEXCOM1 FLEXCOM1_IO_2, HSMC D_0, SPI1 SPI1_SPCK_, SDMMC1 SDMMC1_CK_, QSPI0 QSPI0_SCK_]
+- G10 : PA23,  of Type IO, alternates : [ICE TDI_, PIO P_23, QSPI0 QSPI0_CS_, SPI1 SPI1_MOSI_, FLEXCOM1 FLEXCOM1_IO_1, HSMC D_1]
+- P13 : PA24,  of Type IO, alternates : [SPI1 SPI1_MISO_, FLEXCOM1 FLEXCOM1_IO_0, HSMC D_2, PIO P_24, ICE TDO_, QSPI0 QSPI0_IO_0]
+- H10 : PA25,  of Type IO, alternates : [PIO P_25, ICE TMS_, HSMC D_3, FLEXCOM1 FLEXCOM1_IO_3, SPI1 SPI1_NPCS_0, QSPI0 QSPI0_IO_1]
+- L10 : PA26,  of Type IO, alternates : [PIO P_26, ICE NTRST_, HSMC D_4, SPI1 SPI1_NPCS_1, FLEXCOM1 FLEXCOM1_IO_4, QSPI0 QSPI0_IO_2]
+- P14 : PA27,  of Type IO, alternates : [PIO P_27, SPI0 SPI0_NPCS_2, SDMMC1 SDMMC1_RSTN_, HSMC D_5, TC0 TIOA_1, QSPI0 QSPI0_IO_3, SPI1 SPI1_NPCS_2]
+- N12 : PA28,  of Type IO, alternates : [HSMC D_6, PIO P_28, SPI0 SPI0_NPCS_3, CLASSD CLASSD_L_0, SDMMC1 SDMMC1_CMD_, TC0 TIOB_1, SPI1 SPI1_NPCS_3]
+- M12 : PA29,  of Type IO, alternates : [HSMC D_7, TC0 TCLK_1, SDMMC1 SDMMC1_WP_, CLASSD CLASSD_L_1, SPI0 SPI0_NPCS_1, PIO P_29]
+- N11 : PA30,  of Type IO, alternates : [SPI0 SPI0_NPCS_0, PWM PWMH_0, CLASSD CLASSD_L_2, PIO P_30, HSMC NANDNWE_, SDMMC1 SDMMC1_CD_]
+- M11 : PA31,  of Type IO, alternates : [PWM PWML_0, HSMC NCS_3, CLASSD CLASSD_L_3, PIO P_31, SPI0 SPI0_MISO_]
+- E6 : PB0,  of Type IO, alternates : [PIO P_32, PWM PWMH_1, HSMC A21_, SPI0 SPI0_MOSI_]
+- D6 : PB1,  of Type IO, alternates : [SPI0 SPI0_SPCK_, PIO P_33, PWM PWML_1, HSMC A22_, CLASSD CLASSD_R_0]
+- C6 : PB2,  of Type IO, alternates : [PIO P_34, PWM PWMFI_0, CLASSD CLASSD_R_1, HSMC NANDOE_]
+- C5 : PB3,  of Type IO, alternates : [HSMC D_8, AIC IRQ_, PWM PWMEXTRG_1, PIO P_35, CLASSD CLASSD_R_2, UART4 URXD_4]
+- D5 : PB4,  of Type IO, alternates : [PIO P_36, HSMC D_9, SAIC FIQ_, UART4 UTXD_4, CLASSD CLASSD_R_3]
+- D7 : PB5,  of Type IO, alternates : [PIO P_37, HSMC D_10, PWM PWMH_2, QSPI1 QSPI1_SCK_, GMAC GTSUCOMP_, TC0 TCLK_2]
+- C8 : PB6,  of Type IO, alternates : [PIO P_38, HSMC D_11, QSPI1 QSPI1_CS_, GMAC GTXER_, PWM PWML_2, TC0 TIOA_2]
+- D9 : PB7,  of Type IO, alternates : [PIO P_39, QSPI1 QSPI1_IO_0, HSMC D_12, PWM PWMH_3, TC0 TIOB_2, GMAC GRXCK_]
+- C7 : PB8,  of Type IO, alternates : [QSPI1 QSPI1_IO_1, HSMC D_13, PIO P_40, PWM PWML_3, GMAC GCRS_, TC1 TCLK_3]
+- C9 : PB9,  of Type IO, alternates : [QSPI1 QSPI1_IO_2, HSMC D_14, GMAC GCOL_, PIO P_41, TC1 TIOA_3, PWM PWMFI_1]
+- F6 : PB10,  of Type IO, alternates : [GMAC GRX_2, PWM PWMEXTRG_2, QSPI1 QSPI1_IO_3, HSMC D_15, TC1 TIOB_3, PIO P_42]
+- B9 : PB11,  of Type IO, alternates : [GMAC GRX_3, PIO P_43, PDMIC PDMIC_DAT_, UART3 URXD_3, LCDC LCDDAT_0, HSMC A0_]
+- B8 : PB12,  of Type IO, alternates : [PDMIC PDMIC_CLK_, PIO P_44, UART3 UTXD_3, GMAC GTX_2, HSMC A_1, LCDC LCDDAT_1]
+- B7 : PB13,  of Type IO, alternates : [PMC PCK_1, PIO P_45, GMAC GTX_3, HSMC A_2, LCDC LCDDAT_2]
+- G6 : PB14,  of Type IO, alternates : [SSC1 TK_1, I2SC1 I2SC1_MCK_, LCDC LCDDAT_3, PIO P_46, HSMC A_3, QSPI1 QSPI1_SCK_, GMAC GTXCK_]
+- B5 : PB15,  of Type IO, alternates : [PIO P_47, LCDC LCDDAT_4, QSPI1 QSPI1_CS_, GMAC GTXEN_, HSMC A_4, SSC1 TF_1, I2SC1 I2SC1_CK_]
+- C4 : PB16,  of Type IO, alternates : [LCDC LCDDAT_5, PIO P_48, I2SC1 I2SC1_WS_, QSPI1 QSPI1_IO_0, HSMC A_5, GMAC GRXDV_, SSC1 TD_1]
+- A5 : PB17,  of Type IO, alternates : [LCDC LCDDAT_6, GMAC GRXER_, I2SC1 I2SC1_DI_0, PIO P_49, QSPI1 QSPI1_IO_1, HSMC A_6, SSC1 RD_1]
+- B4 : PB18,  of Type IO, alternates : [HSMC A_7, SSC1 RK_1, QSPI1 QSPI1_IO_2, LCDC LCDDAT_7, PIO P_50, I2SC1 I2SC1_DO_0, GMAC GRX_0]
+- A6 : PB19,  of Type IO, alternates : [SSC1 RF_1, QSPI1 QSPI1_IO_3, HSMC A_8, LCDC LCDDAT_8, PIO P_51, TC1 TIOA_3, GMAC GRX_1]
+- A4 : PB20,  of Type IO, alternates : [PMC PCK_1, HSMC A_9, LCDC LCDDAT_9, GMAC GTX_0, TC1 TIOB_3, PIO P_52, SSC0 TK_0]
+- A3 : PB21,  of Type IO, alternates : [SSC0 TF_0, FLEXCOM3 FLEXCOM3_IO_2, GMAC GTX_1, PIO P_53, HSMC A_10, LCDC LCDDAT_10, TC1 TCLK_3]
+- D3 : PB22,  of Type IO, alternates : [SSC0 TD_0, PIO P_54, FLEXCOM3 FLEXCOM3_IO_1, HSMC A_11, GMAC GMDC_, TC0 TIOA_2, LCDC LCDDAT_11]
+- B2 : PB23,  of Type IO, alternates : [SSC0 RD_0, GMAC GMDIO_, PIO P_55, FLEXCOM3 FLEXCOM3_IO_0, TC0 TIOB_2, HSMC A_12, LCDC LCDDAT_12]
+- E3 : PB24,  of Type IO, alternates : [PIO P_56, FLEXCOM3 FLEXCOM3_IO_3, ISC ISC_D_10, HSMC A_13, SSC0 RK_0, LCDC LCDDAT_13, TC0 TCLK_2]
+- E2 : PB25,  of Type IO, alternates : [ISC ISC_D_11, PIO P_57, HSMC A_14, LCDC LCDDAT_14, FLEXCOM3 FLEXCOM3_IO_4, SSC0 RF_0]
+- D4 : PB26,  of Type IO, alternates : [PIO P_58, ISC ISC_D_0, HSMC A_15, PDMIC PDMIC_DAT_, LCDC LCDDAT_15, UART0 URXD_0]
+- C3 : PB27,  of Type IO, alternates : [PIO P_59, ISC ISC_D_1, PDMIC PDMIC_CLK_, HSMC A_16, UART0 UTXD_0, LCDC LCDDAT_16]
+- D2 : PB28,  of Type IO, alternates : [ISC ISC_D_2, HSMC A_17, FLEXCOM0 FLEXCOM0_IO_0, LCDC LCDDAT_17, TC1 TIOA_5, PIO P_60]
+- B3 : PB29,  of Type IO, alternates : [ISC ISC_D_3, HSMC A_18, LCDC LCDDAT_18, FLEXCOM0 FLEXCOM0_IO_1, PIO P_61, TC1 TIOB_5]
+- F3 : PB30,  of Type IO, alternates : [HSMC A_19, LCDC LCDDAT_19, ISC ISC_D_4, FLEXCOM0 FLEXCOM0_IO_2, PIO P_62, TC1 TCLK_5]
+- A2 : PB31,  of Type IO, alternates : [TWIHS0 TWD_0, ISC ISC_D_5, FLEXCOM0 FLEXCOM0_IO_3, PIO P_63, HSMC A_20, LCDC LCDDAT_20]
+- L13 : PC0,  of Type IO, alternates : [TWIHS0 TWCK_0, ISC ISC_D_6, HSMC A_23, FLEXCOM0 FLEXCOM0_IO_4, PIO P_64, LCDC LCDDAT_21]
+- H11 : PC1,  of Type IO, alternates : [MCAN0 CANTX_0, I2SC0 I2SC0_CK_, PIO P_65, ISC ISC_D_7, HSMC A_24, SPI1 SPI1_SPCK_, LCDC LCDDAT_22]
+- L11 : PC2,  of Type IO, alternates : [MCAN0 CANRX_0, PIO P_66, SPI1 SPI1_MOSI_, HSMC A_25, ISC ISC_D_8, LCDC LCDDAT_23, I2SC0 I2SC0_MCK_]
+- F13 : PC3,  of Type IO, alternates : [SPI1 SPI1_MISO_, I2SC0 I2SC0_WS_, LCDC LCDPWM_, PIO P_67, TC0 TIOA_1, ISC ISC_D_9, HSMC NWAIT_]
+- G14 : PC4,  of Type IO, alternates : [ISC ISC_PCK_, LCDC LCDDISP_, I2SC0 I2SC0_DI_0, PIO P_68, SPI1 SPI1_NPCS_0, HSMC NWR1_, TC0 TIOB_1]
+- J14 : PC5,  of Type IO, alternates : [PIO P_69, ISC ISC_VSYNC_, TC0 TCLK_1, SPI1 SPI1_NPCS_1, HSMC NCS_0, I2SC0 I2SC0_DO_0, LCDC LCDVSYNC_]
+- J13 : PC6,  of Type IO, alternates : [LCDC LCDHSYNC_, TWIHS1 TWD_1, PIO P_70, ISC ISC_HSYNC_, SPI1 SPI1_NPCS_2]
+- F14 : PC7,  of Type IO, alternates : [LCDC LCDPCK_, TWIHS1 TWCK_1, ISC ISC_MCK_, UART1 URXD_1, HSMC NCS_2, SPI1 SPI1_NPCS_3, PIO P_71]
+- K13 : PC8,  of Type IO, alternates : [LCDC LCDDEN_, HSMC NANDRDY_, SAIC FIQ_, ISC ISC_FIELD_, UART1 UTXD_1, PIO P_72, PMC PCK_0]
+- H5 : PD7,  of Type IO, alternates : [ISC ISC_D_0, ICE TDI_, PIO P_103, PTC PTC_X_4, GMAC GTX_2, HSMC NWR1_]
+- J2 : PD8,  of Type IO, alternates : [HSMC NANDRDY_, ISC ISC_D_1, PTC PTC_X_5, ICE TDO_, GMAC GTX_3, PIO P_104]
+- G4 : PD9,  of Type IO, alternates : [ISC ISC_D_2, ICE TMS_, PTC PTC_X_6, PIO P_105, GMAC GTXCK_]
+- C2 : PD10,  of Type IO, alternates : [ISC ISC_D_3, ICE NTRST_, GMAC GTXEN_, PTC PTC_X_7, PIO P_106]
+- F2 : PD11,  of Type IO, alternates : [PMC PCK_2, ISC ISC_MCK_, ISC ISC_D_4, GMAC GRXDV_, TC0 TIOA_1, PIO P_107, PTC PTC_Y_0]
+- K4 : PD12,  of Type IO, alternates : [GMAC GRXER_, PIO P_108, ISC ISC_D_4, FLEXCOM4 FLEXCOM4_IO_0, ISC ISC_D_5, TC0 TIOB_1, PTC PTC_Y_1]
+- C1 : PD13,  of Type IO, alternates : [PIO P_109, TC0 TCLK_1, ISC ISC_D_6, FLEXCOM4 FLEXCOM4_IO_1, ISC ISC_D_5, GMAC GRX_0, PTC PTC_Y_2]
+- H2 : PD14,  of Type IO, alternates : [ISC ISC_D_6, PIO P_110, ISC ISC_D_7, ICE TCK_, FLEXCOM4 FLEXCOM4_IO_2, PTC PTC_Y_3, GMAC GRX_1]
+- G2 : PD15,  of Type IO, alternates : [ISC ISC_PCK_, ICE TDI_, ISC ISC_D_7, FLEXCOM4 FLEXCOM4_IO_3, GMAC GTX_0, PTC PTC_Y_4, PIO P_111]
+- J1 : PD16,  of Type IO, alternates : [ISC ISC_VSYNC_, GMAC GTX_1, ICE TDO_, ISC ISC_D_8, PIO P_112, FLEXCOM4 FLEXCOM4_IO_4, PTC PTC_Y_5]
+- A1 : PD17,  of Type IO, alternates : [ICE TMS_, PIO P_113, PTC PTC_Y_6, GMAC GMDC_, ISC ISC_D_9, ISC ISC_HSYNC_]
+- G3 : PD18,  of Type IO, alternates : [GMAC GMDIO_, ICE NTRST_, ISC ISC_FIELD_, PTC PTC_Y_7, ISC ISC_D_10, PIO P_114]
+- K2 : PD19,  of Type IO, alternates : [I2SC0 I2SC0_CK_, ISC ISC_D_11, TWIHS1 TWD_1, UART2 URXD_2, ADC AD_0, PIO P_115, PMC PCK_0]
+- H1 : PD20,  of Type IO, alternates : [ISC ISC_PCK_, TWIHS1 TWCK_1, UART2 UTXD_2, TC0 TIOA_2, PIO P_116, ADC AD_1, I2SC0 I2SC0_MCK_]
+- G1 : PD21,  of Type IO, alternates : [ISC ISC_VSYNC_, TWIHS0 TWD_0, I2SC0 I2SC0_WS_, FLEXCOM4 FLEXCOM4_IO_0, TC0 TIOB_2, ADC AD_2, PIO P_117]
+- F1 : PD22,  of Type IO, alternates : [TWIHS0 TWCK_0, FLEXCOM4 FLEXCOM4_IO_1, I2SC0 I2SC0_DI_0, PIO P_118, TC0 TCLK_2, ADC AD_3, ISC ISC_HSYNC_]
+- E1 : PD23,  of Type IO, alternates : [ADC AD_4, PIO P_119, ISC ISC_FIELD_, FLEXCOM4 FLEXCOM4_IO_2, UART2 URXD_2, I2SC0 I2SC0_DO_0]
+- L1 : ADVREF,  of Type PS
+- K3 : VDDANA,  of Type PP
+- L2 : VDDANA,  of Type PP
+- L3 : GNDANA,  of Type PS
+- K1 : GNDANA,  of Type PS
+- K12 : DDR_VREF,  of Type PS
+- F12 : DDR_VREF,  of Type PS
+- F10 : VDDIODDR,  of Type PP
+- E8 : VDDIODDR,  of Type PP
+- E9 : VDDIODDR,  of Type PP
+- E10 : VDDIODDR,  of Type PP
+- G12 : VDDIODDR,  of Type PP
+- H12 : VDDIODDR,  of Type PP
+- J12 : VDDIODDR,  of Type PP
+- K11 : GNDIODDR,  of Type PS
+- J11 : GNDIODDR,  of Type PS
+- F9 : GNDIODDR,  of Type PS
+- C10 : GNDIODDR,  of Type PS
+- E11 : GNDIODDR,  of Type PS
+- F8 : GNDIODDR,  of Type PS
+- F11 : GNDIODDR,  of Type PS
+- G13 : GNDIODDR,  of Type PS
+- H13 : GNDIODDR,  of Type PS
+- G7 : VDDCORE,  of Type PP
+- H4 : VDDCORE,  of Type PP
+- D14 : VDDCORE,  of Type PP
+- E14 : VDDCORE,  of Type PP
+- L5 : VDDCORE,  of Type PP
+- G11 : GNDCORE,  of Type PS
+- E12 : GNDCORE,  of Type PS
+- E13 : GNDCORE,  of Type PS
+- H3 : GNDCORE,  of Type PS
+- H7 : GNDCORE,  of Type PS
+- H8 : GNDCORE,  of Type PS
+- J3 : GNDCORE,  of Type PS
+- F4 : VDDIOP0,  of Type PP
+- E4 : VDDIOP1,  of Type PP
+- E5 : GNDIOP0,  of Type PS
+- F5 : GNDIOP0,  of Type PS
+- N9 : VDDIOP1,  of Type PP
+- N10 : VDDIOP1,  of Type PP
+- M9 : GNDIOP1,  of Type PS
+- M10 : GNDIOP1,  of Type PS
+- J7 : VDDSDMMC,  of Type PP
+- J8 : GNDSDMMC,  of Type PS
+- M13 : VDDFUSE,  of Type PP
+- P4 : VDDPLLA,  of Type PP
+- L6 : GNDPLLA,  of Type PS
+- K6 : VDDAUDIOPLL,  of Type PP
+- J6 : GNDDPLL,  of Type PS
+- H6 : GNDAUDIOPLL,  of Type PS
+- P1 : CLK_AUDIO,  of Type IO
+- N5 : XIN,  of Type PS
+- P5 : XOUT,  of Type PS
+- M7 : VDDOSC,  of Type PP
+- N6 : GNDOSC,  of Type PS
+- M6 : VDDUTMII,  of Type PP
+- L7 : GNDUTMII,  of Type PS
+- N7 : HHSDPA,  of Type IO
+- P7 : HHSDMA,  of Type IO
+- N8 : HHSDPB,  of Type IO
+- P8 : HHSDMB,  of Type IO
+- K7 : VDDUTMIC,  of Type PP
+- G5 : GNDUTMIC,  of Type PS
+- P6 : VBG,  of Type IO
+- D1 : TST,  of Type IO
+- J5 : NRST,  of Type IP
+- N3 : JTAGSEL,  of Type OP
+- N1 : WKUP,  of Type IP
+- B1 : SHDN,  of Type IO
+- N4 : PIOBU0,  of Type IO
+- L4 : PIOBU1,  of Type IO
+- M3 : PIOBU2,  of Type IO
+- M4 : PIOBU3,  of Type IO
+- J4 : PIOBU4,  of Type IO
+- M5 : PIOBU5,  of Type IO
+- K5 : VDDBU,  of Type PP
+- N2 : GNDBU,  of Type PS
+- M1 : XIN32,  of Type PS
+- M2 : XOUT32,  of Type PS
+- P2 : COMPP,  of Type IO
+- P3 : COMPN,  of Type IO
+- D12 : ODT,  of Type IO
+- B10 : DDRM_VDD,  of Type PP
+- A12 : DDRM_VDD,  of Type PP
+- D10 : DDRM_VDD,  of Type PP
+- D11 : DDRM_VDD,  of Type PP
+- E7 : DDRM_VDDL,  of Type PP
+- A7 : DDRM_VDDQ,  of Type PP
+- A13 : DDRM_VDDQ,  of Type PP
+- A9 : DDRM_VDDQ,  of Type PP
+- A11 : DDRM_VDDQ,  of Type PP
+- B6 : DDRM_VDDQ,  of Type PP
+- C12 : DDRM_VDDQ,  of Type PP
+- B14 : DDRM_VSS,  of Type PS
+- A8 : DDRM_VSS,  of Type PS
+- C11 : DDRM_VSS,  of Type PS
+- C14 : DDRM_VSS,  of Type PS
+- D8 : DDRM_VSS,  of Type PS
+- D13 : DDRM_VSSDL,  of Type PS
+- A10 : DDRM_VSSQ,  of Type PS
+- A14 : DDRM_VSSQ,  of Type PS
+- B11 : DDRM_VSSQ,  of Type PS
+- B12 : DDRM_VSSQ,  of Type PS
+- B13 : DDRM_VSSQ,  of Type PS
+- C13 : DDRM_VSSQ,  of Type PS
 ## ATSAMA5D22C-CN
+
 ### Description : 
+
+- Series : SAMA5D2
+- Footprint : TFBGA196
+- MP : ATSAMA5D22C-CN
+- Architecture : CORTEX-A5
+- PINOUT : TFBGA196
+- Reference : U
+- Documentation : https://www.microchip.com/en-us/search?q=ATSAMA5D22C-CN
+- Value : ATSAMA5D22C-CN
+- Family : SAMA5
+- MF : Microchip
+- Name : ATSAMA5D22
 
 ### Package : 
 
-- L9 : PA18
-- N9 : PA19
-- M9 : PA20
-- M10 : PA21
-- P9 : PA22
-- P10 : PA23
-- N10 : PA24
-- L10 : PA25
-- P11 : PA26
-- P12 : PA27
-- M11 : PA28
-- N11 : PA29
-- N12 : PA30
-- M12 : PA31
-- A6 : PB0
-- A5 : PB1
-- B6 : PB2
-- B5 : PB3
-- A4 : PB4
-- D6 : PB5
-- A3 : PB6
-- B4 : PB7
-- A2 : PB8
-- B3 : PB9
-- A1 : PB10
-- B1 : PB11
-- B2 : PB12
-- C1 : PB13
-- D5 : PB14
-- E5 : PB15
-- C5 : PB16
-- C2 : PB17
-- D4 : PB18
-- C4 : PB19
-- C3 : PB20
-- D1 : PB21
-- D2 : PB22
-- E1 : PB23
-- D3 : PB24
-- E3 : PB25
-- E2 : PB26
-- E6 : PB27
-- F1 : PB28
-- F6 : PB29
-- F2 : PB30
-- F7 : PB31
-- M13 : PC0
-- P13 : PC1
-- N13 : PC2
-- K10 : PC3
-- P14 : PC4
-- J8 : PC5
-- N14 : PC6
-- M14 : PC7
-- J9 : PC8
-- F5 : PD7
-- F3 : PD8
-- G5 : PD9
-- G4 : PD10
-- H1 : PD11
-- H6 : PD12
-- H3 : PD13
-- G6 : PD14
-- H5 : PD15
-- G1 : PD16
-- G2 : PD17
-- G3 : PD18
-- H4 : PD19
-- J1 : PD20
-- K1 : PD21
-- J3 : PD22
-- K2 : PD23
-- K3 : VDDANA
-- K4 : GNDANA
-- L2 : ADVREF
-- H2 : VDDANA
-- J2 : GNDANA
-- H12 : DDR_VREF
-- C12 : DDR_VREF
-- B7 : DDR_D0
-- A7 : DDR_D1
-- C8 : DDR_D2
-- B9 : DDR_D3
-- A9 : DDR_D4
-- C9 : DDR_D5
-- A10 : DDR_D6
-- B10 : DDR_D7
-- H13 : DDR_D8
-- H14 : DDR_D9
-- J13 : DDR_D10
-- J14 : DDR_D11
-- L13 : DDR_D12
-- L14 : DDR_D13
-- J12 : DDR_D14
-- K12 : DDR_D15
-- E11 : DDR_A0
-- C11 : DDR_A1
-- B12 : DDR_A2
-- A12 : DDR_A3
-- D11 : DDR_A4
-- D14 : DDR_A5
-- B14 : DDR_A6
-- D9 : DDR_A7
-- C10 : DDR_A8
-- D10 : DDR_A9
-- F9 : DDR_A10
-- A11 : DDR_A11
-- B11 : DDR_A12
-- E13 : DDR_A13
-- A13 : DDR_CLK
-- B13 : DDR_CLKN
-- E14 : DDR_CKE
-- D13 : DDR_RESETN
-- F11 : DDR_CS
-- A14 : DDR_WE
-- C14 : DDR_RAS
-- C13 : DDR_CAS
-- D8 : DDR_DQM0
-- G14 : DDR_DQM1
-- B8 : DDR_DQS0
-- K14 : DDR_DQS1
-- A8 : DDR_DQSN0
-- K13 : DDR_DQSN1
-- F13 : DDR_BA0
-- G13 : DDR_BA1
-- F14 : DDR_BA2
-- F10 : DDR_CAL
-- C6 : VDDIODDR
-- E10 : VDDIODDR
-- E12 : VDDIODDR
-- G10 : VDDIODDR
-- G12 : VDDIODDR
-- H11 : VDDIODDR
-- J10 : VDDIODDR
-- C7 : GNDIODDR
-- D12 : GNDIODDR
-- E9 : GNDIODDR
-- F12 : GNDIODDR
-- G11 : GNDIODDR
-- H10 : GNDIODDR
-- J11 : GNDIODDR
-- E8 : VDDCORE
-- G8 : VDDCORE
-- H8 : VDDCORE
-- H9 : VDDCORE
-- J5 : VDDCORE
-- F8 : GNDCORE
-- G7 : GNDCORE
-- G9 : GNDCORE
-- H7 : GNDCORE
-- J4 : GNDCORE
-- D7 : VDDIOP0
-- F4 : VDDIOP0
-- E4 : GNDIOP0
-- E7 : GNDIOP0
-- K8 : VDDIOP1
-- L11 : VDDIOP1
-- K9 : GDNIOP1
-- L12 : GNDIOP1
-- K11 : VDDFUSE
-- P3 : VDDPLLA
-- P4 : GNDPLLA
-- K6 : VDDAUDIOPLL
-- L6 : GNDDPLL
-- J6 : GNDAUDIOPLL
-- J7 : CLK_AUDIO
-- P5 : XIN
-- P6 : XOUT
-- N5 : VDDOSC
-- N6 : GNDOSC
-- K7 : VDDUTMII
-- L8 : GNDUTMII
-- N7 : HHSDPA
-- P7 : HHSDMA
-- N8 : HHSDPB
-- P8 : HHSDMB
-- M7 : VDDUTMIC
-- M8 : GNDUTMIC
-- L7 : VBG
-- M2 : TST
-- N3 : NRST
-- L4 : JTAGSEL
-- P1 : WKUP
-- N1 : SHDN
-- K5 : PIOBU0
-- L3 : PIOBU1
-- M3 : PIOBU2
-- N4 : PIOBU3
-- L5 : PIOBU4
-- M6 : PIOBU5
-- M4 : VDDBU
-- M5 : GNDBU
-- M1 : XIN32
-- L1 : XOUT32
-- N2 : COMPP
-- P2 : COMPN
+Pin count : 196
+- L9 : PA18,  of Type IO, alternates : [HSMC D_13, SSC1 RK_1, SPI0 SPI0_NPCS_1, I2SC1 I2SC1_DO_0, PIO P_18, QSPI0 QSPI0_IO_2, SDMMC1 SDMMC1_DAT_0]
+- N9 : PA19,  of Type IO, alternates : [SSC1 RF_1, SPI0 SPI0_NPCS_2, HSMC D_14, TC0 TIOA_0, QSPI0 QSPI0_IO_3, PIO P_19, SDMMC1 SDMMC1_DAT_1]
+- M9 : PA20,  of Type IO, alternates : [SPI0 SPI0_NPCS_3, HSMC D_15, TC0 TIOB_0, PIO P_20, SDMMC1 SDMMC1_DAT_2]
+- M10 : PA21,  of Type IO, alternates : [AIC IRQ_, PMC PCK_2, HSMC NANDRDY_, TC0 TCLK_0, PIO P_21, SDMMC1 SDMMC1_DAT_3]
+- P9 : PA22,  of Type IO, alternates : [PIO P_22, ICE TCK_, FLEXCOM1 FLEXCOM1_IO_2, HSMC D_0, SPI1 SPI1_SPCK_, SDMMC1 SDMMC1_CK_, QSPI0 QSPI0_SCK_]
+- P10 : PA23,  of Type IO, alternates : [ICE TDI_, PIO P_23, QSPI0 QSPI0_CS_, SPI1 SPI1_MOSI_, FLEXCOM1 FLEXCOM1_IO_1, HSMC D_1]
+- N10 : PA24,  of Type IO, alternates : [SPI1 SPI1_MISO_, FLEXCOM1 FLEXCOM1_IO_0, HSMC D_2, PIO P_24, ICE TDO_, QSPI0 QSPI0_IO_0]
+- L10 : PA25,  of Type IO, alternates : [PIO P_25, ICE TMS_, HSMC D_3, FLEXCOM1 FLEXCOM1_IO_3, SPI1 SPI1_NPCS_0, QSPI0 QSPI0_IO_1]
+- P11 : PA26,  of Type IO, alternates : [PIO P_26, ICE NTRST_, HSMC D_4, SPI1 SPI1_NPCS_1, FLEXCOM1 FLEXCOM1_IO_4, QSPI0 QSPI0_IO_2]
+- P12 : PA27,  of Type IO, alternates : [PIO P_27, SPI0 SPI0_NPCS_2, SDMMC1 SDMMC1_RSTN_, HSMC D_5, TC0 TIOA_1, QSPI0 QSPI0_IO_3, SPI1 SPI1_NPCS_2]
+- M11 : PA28,  of Type IO, alternates : [HSMC D_6, PIO P_28, SPI0 SPI0_NPCS_3, CLASSD CLASSD_L_0, SDMMC1 SDMMC1_CMD_, TC0 TIOB_1, SPI1 SPI1_NPCS_3]
+- N11 : PA29,  of Type IO, alternates : [HSMC D_7, TC0 TCLK_1, SDMMC1 SDMMC1_WP_, CLASSD CLASSD_L_1, SPI0 SPI0_NPCS_1, PIO P_29]
+- N12 : PA30,  of Type IO, alternates : [SPI0 SPI0_NPCS_0, PWM PWMH_0, CLASSD CLASSD_L_2, PIO P_30, HSMC NANDNWE_, SDMMC1 SDMMC1_CD_]
+- M12 : PA31,  of Type IO, alternates : [PWM PWML_0, HSMC NCS_3, CLASSD CLASSD_L_3, PIO P_31, SPI0 SPI0_MISO_]
+- A6 : PB0,  of Type IO, alternates : [PIO P_32, PWM PWMH_1, HSMC A21_, SPI0 SPI0_MOSI_]
+- A5 : PB1,  of Type IO, alternates : [SPI0 SPI0_SPCK_, PIO P_33, PWM PWML_1, HSMC A22_, CLASSD CLASSD_R_0]
+- B6 : PB2,  of Type IO, alternates : [PIO P_34, PWM PWMFI_0, CLASSD CLASSD_R_1, HSMC NANDOE_]
+- B5 : PB3,  of Type IO, alternates : [HSMC D_8, AIC IRQ_, PWM PWMEXTRG_1, PIO P_35, CLASSD CLASSD_R_2, UART4 URXD_4]
+- A4 : PB4,  of Type IO, alternates : [PIO P_36, HSMC D_9, SAIC FIQ_, UART4 UTXD_4, CLASSD CLASSD_R_3]
+- D6 : PB5,  of Type IO, alternates : [PIO P_37, HSMC D_10, PWM PWMH_2, QSPI1 QSPI1_SCK_, GMAC GTSUCOMP_, TC0 TCLK_2]
+- A3 : PB6,  of Type IO, alternates : [PIO P_38, HSMC D_11, QSPI1 QSPI1_CS_, GMAC GTXER_, PWM PWML_2, TC0 TIOA_2]
+- B4 : PB7,  of Type IO, alternates : [PIO P_39, QSPI1 QSPI1_IO_0, HSMC D_12, PWM PWMH_3, TC0 TIOB_2, GMAC GRXCK_]
+- A2 : PB8,  of Type IO, alternates : [QSPI1 QSPI1_IO_1, HSMC D_13, PIO P_40, PWM PWML_3, GMAC GCRS_, TC1 TCLK_3]
+- B3 : PB9,  of Type IO, alternates : [QSPI1 QSPI1_IO_2, HSMC D_14, GMAC GCOL_, PIO P_41, TC1 TIOA_3, PWM PWMFI_1]
+- A1 : PB10,  of Type IO, alternates : [GMAC GRX_2, PWM PWMEXTRG_2, QSPI1 QSPI1_IO_3, HSMC D_15, TC1 TIOB_3, PIO P_42]
+- B1 : PB11,  of Type IO, alternates : [GMAC GRX_3, PIO P_43, PDMIC PDMIC_DAT_, UART3 URXD_3, LCDC LCDDAT_0, HSMC A0_]
+- B2 : PB12,  of Type IO, alternates : [PDMIC PDMIC_CLK_, PIO P_44, UART3 UTXD_3, GMAC GTX_2, HSMC A_1, LCDC LCDDAT_1]
+- C1 : PB13,  of Type IO, alternates : [PMC PCK_1, PIO P_45, GMAC GTX_3, HSMC A_2, LCDC LCDDAT_2]
+- D5 : PB14,  of Type IO, alternates : [SSC1 TK_1, I2SC1 I2SC1_MCK_, LCDC LCDDAT_3, PIO P_46, HSMC A_3, QSPI1 QSPI1_SCK_, GMAC GTXCK_]
+- E5 : PB15,  of Type IO, alternates : [PIO P_47, LCDC LCDDAT_4, QSPI1 QSPI1_CS_, GMAC GTXEN_, HSMC A_4, SSC1 TF_1, I2SC1 I2SC1_CK_]
+- C5 : PB16,  of Type IO, alternates : [LCDC LCDDAT_5, PIO P_48, I2SC1 I2SC1_WS_, QSPI1 QSPI1_IO_0, HSMC A_5, GMAC GRXDV_, SSC1 TD_1]
+- C2 : PB17,  of Type IO, alternates : [LCDC LCDDAT_6, GMAC GRXER_, I2SC1 I2SC1_DI_0, PIO P_49, QSPI1 QSPI1_IO_1, HSMC A_6, SSC1 RD_1]
+- D4 : PB18,  of Type IO, alternates : [HSMC A_7, SSC1 RK_1, QSPI1 QSPI1_IO_2, LCDC LCDDAT_7, PIO P_50, I2SC1 I2SC1_DO_0, GMAC GRX_0]
+- C4 : PB19,  of Type IO, alternates : [SSC1 RF_1, QSPI1 QSPI1_IO_3, HSMC A_8, LCDC LCDDAT_8, PIO P_51, TC1 TIOA_3, GMAC GRX_1]
+- C3 : PB20,  of Type IO, alternates : [PMC PCK_1, HSMC A_9, LCDC LCDDAT_9, GMAC GTX_0, TC1 TIOB_3, PIO P_52, SSC0 TK_0]
+- D1 : PB21,  of Type IO, alternates : [SSC0 TF_0, FLEXCOM3 FLEXCOM3_IO_2, GMAC GTX_1, PIO P_53, HSMC A_10, LCDC LCDDAT_10, TC1 TCLK_3]
+- D2 : PB22,  of Type IO, alternates : [SSC0 TD_0, PIO P_54, FLEXCOM3 FLEXCOM3_IO_1, HSMC A_11, GMAC GMDC_, TC0 TIOA_2, LCDC LCDDAT_11]
+- E1 : PB23,  of Type IO, alternates : [SSC0 RD_0, GMAC GMDIO_, PIO P_55, FLEXCOM3 FLEXCOM3_IO_0, TC0 TIOB_2, HSMC A_12, LCDC LCDDAT_12]
+- D3 : PB24,  of Type IO, alternates : [PIO P_56, FLEXCOM3 FLEXCOM3_IO_3, ISC ISC_D_10, HSMC A_13, SSC0 RK_0, LCDC LCDDAT_13, TC0 TCLK_2]
+- E3 : PB25,  of Type IO, alternates : [ISC ISC_D_11, PIO P_57, HSMC A_14, LCDC LCDDAT_14, FLEXCOM3 FLEXCOM3_IO_4, SSC0 RF_0]
+- E2 : PB26,  of Type IO, alternates : [PIO P_58, ISC ISC_D_0, HSMC A_15, PDMIC PDMIC_DAT_, LCDC LCDDAT_15, UART0 URXD_0]
+- E6 : PB27,  of Type IO, alternates : [PIO P_59, ISC ISC_D_1, PDMIC PDMIC_CLK_, HSMC A_16, UART0 UTXD_0, LCDC LCDDAT_16]
+- F1 : PB28,  of Type IO, alternates : [ISC ISC_D_2, HSMC A_17, FLEXCOM0 FLEXCOM0_IO_0, LCDC LCDDAT_17, TC1 TIOA_5, PIO P_60]
+- F6 : PB29,  of Type IO, alternates : [ISC ISC_D_3, HSMC A_18, LCDC LCDDAT_18, FLEXCOM0 FLEXCOM0_IO_1, PIO P_61, TC1 TIOB_5]
+- F2 : PB30,  of Type IO, alternates : [HSMC A_19, LCDC LCDDAT_19, ISC ISC_D_4, FLEXCOM0 FLEXCOM0_IO_2, PIO P_62, TC1 TCLK_5]
+- F7 : PB31,  of Type IO, alternates : [TWIHS0 TWD_0, ISC ISC_D_5, FLEXCOM0 FLEXCOM0_IO_3, PIO P_63, HSMC A_20, LCDC LCDDAT_20]
+- M13 : PC0,  of Type IO, alternates : [TWIHS0 TWCK_0, ISC ISC_D_6, HSMC A_23, FLEXCOM0 FLEXCOM0_IO_4, PIO P_64, LCDC LCDDAT_21]
+- P13 : PC1,  of Type IO, alternates : [MCAN0 CANTX_0, I2SC0 I2SC0_CK_, PIO P_65, ISC ISC_D_7, HSMC A_24, SPI1 SPI1_SPCK_, LCDC LCDDAT_22]
+- N13 : PC2,  of Type IO, alternates : [MCAN0 CANRX_0, PIO P_66, SPI1 SPI1_MOSI_, HSMC A_25, ISC ISC_D_8, LCDC LCDDAT_23, I2SC0 I2SC0_MCK_]
+- K10 : PC3,  of Type IO, alternates : [SPI1 SPI1_MISO_, I2SC0 I2SC0_WS_, LCDC LCDPWM_, PIO P_67, TC0 TIOA_1, ISC ISC_D_9, HSMC NWAIT_]
+- P14 : PC4,  of Type IO, alternates : [ISC ISC_PCK_, LCDC LCDDISP_, I2SC0 I2SC0_DI_0, PIO P_68, SPI1 SPI1_NPCS_0, HSMC NWR1_, TC0 TIOB_1]
+- J8 : PC5,  of Type IO, alternates : [PIO P_69, ISC ISC_VSYNC_, TC0 TCLK_1, SPI1 SPI1_NPCS_1, HSMC NCS_0, I2SC0 I2SC0_DO_0, LCDC LCDVSYNC_]
+- N14 : PC6,  of Type IO, alternates : [LCDC LCDHSYNC_, TWIHS1 TWD_1, PIO P_70, ISC ISC_HSYNC_, SPI1 SPI1_NPCS_2]
+- M14 : PC7,  of Type IO, alternates : [LCDC LCDPCK_, TWIHS1 TWCK_1, ISC ISC_MCK_, UART1 URXD_1, HSMC NCS_2, SPI1 SPI1_NPCS_3, PIO P_71]
+- J9 : PC8,  of Type IO, alternates : [LCDC LCDDEN_, HSMC NANDRDY_, SAIC FIQ_, ISC ISC_FIELD_, UART1 UTXD_1, PIO P_72, PMC PCK_0]
+- F5 : PD7,  of Type IO, alternates : [ISC ISC_D_0, ICE TDI_, PIO P_103, PTC PTC_X_4, GMAC GTX_2, HSMC NWR1_]
+- F3 : PD8,  of Type IO, alternates : [HSMC NANDRDY_, ISC ISC_D_1, PTC PTC_X_5, ICE TDO_, GMAC GTX_3, PIO P_104]
+- G5 : PD9,  of Type IO, alternates : [ISC ISC_D_2, ICE TMS_, PTC PTC_X_6, PIO P_105, GMAC GTXCK_]
+- G4 : PD10,  of Type IO, alternates : [ISC ISC_D_3, ICE NTRST_, GMAC GTXEN_, PTC PTC_X_7, PIO P_106]
+- H1 : PD11,  of Type IO, alternates : [PMC PCK_2, ISC ISC_MCK_, ISC ISC_D_4, GMAC GRXDV_, TC0 TIOA_1, PIO P_107, PTC PTC_Y_0]
+- H6 : PD12,  of Type IO, alternates : [GMAC GRXER_, PIO P_108, ISC ISC_D_4, FLEXCOM4 FLEXCOM4_IO_0, ISC ISC_D_5, TC0 TIOB_1, PTC PTC_Y_1]
+- H3 : PD13,  of Type IO, alternates : [PIO P_109, TC0 TCLK_1, ISC ISC_D_6, FLEXCOM4 FLEXCOM4_IO_1, ISC ISC_D_5, GMAC GRX_0, PTC PTC_Y_2]
+- G6 : PD14,  of Type IO, alternates : [ISC ISC_D_6, PIO P_110, ISC ISC_D_7, ICE TCK_, FLEXCOM4 FLEXCOM4_IO_2, PTC PTC_Y_3, GMAC GRX_1]
+- H5 : PD15,  of Type IO, alternates : [ISC ISC_PCK_, ICE TDI_, ISC ISC_D_7, FLEXCOM4 FLEXCOM4_IO_3, GMAC GTX_0, PTC PTC_Y_4, PIO P_111]
+- G1 : PD16,  of Type IO, alternates : [ISC ISC_VSYNC_, GMAC GTX_1, ICE TDO_, ISC ISC_D_8, PIO P_112, FLEXCOM4 FLEXCOM4_IO_4, PTC PTC_Y_5]
+- G2 : PD17,  of Type IO, alternates : [ICE TMS_, PIO P_113, PTC PTC_Y_6, GMAC GMDC_, ISC ISC_D_9, ISC ISC_HSYNC_]
+- G3 : PD18,  of Type IO, alternates : [GMAC GMDIO_, ICE NTRST_, ISC ISC_FIELD_, PTC PTC_Y_7, ISC ISC_D_10, PIO P_114]
+- H4 : PD19,  of Type IO, alternates : [I2SC0 I2SC0_CK_, ISC ISC_D_11, TWIHS1 TWD_1, UART2 URXD_2, ADC AD_0, PIO P_115, PMC PCK_0]
+- J1 : PD20,  of Type IO, alternates : [ISC ISC_PCK_, TWIHS1 TWCK_1, UART2 UTXD_2, TC0 TIOA_2, PIO P_116, ADC AD_1, I2SC0 I2SC0_MCK_]
+- K1 : PD21,  of Type IO, alternates : [ISC ISC_VSYNC_, TWIHS0 TWD_0, I2SC0 I2SC0_WS_, FLEXCOM4 FLEXCOM4_IO_0, TC0 TIOB_2, ADC AD_2, PIO P_117]
+- J3 : PD22,  of Type IO, alternates : [TWIHS0 TWCK_0, FLEXCOM4 FLEXCOM4_IO_1, I2SC0 I2SC0_DI_0, PIO P_118, TC0 TCLK_2, ADC AD_3, ISC ISC_HSYNC_]
+- K2 : PD23,  of Type IO, alternates : [ADC AD_4, PIO P_119, ISC ISC_FIELD_, FLEXCOM4 FLEXCOM4_IO_2, UART2 URXD_2, I2SC0 I2SC0_DO_0]
+- K3 : VDDANA,  of Type PP
+- K4 : GNDANA,  of Type PS
+- L2 : ADVREF,  of Type PS
+- H2 : VDDANA,  of Type PP
+- J2 : GNDANA,  of Type PS
+- H12 : DDR_VREF,  of Type PS
+- C12 : DDR_VREF,  of Type PS
+- B7 : DDR_D0,  of Type IO
+- A7 : DDR_D1,  of Type IO
+- C8 : DDR_D2,  of Type IO
+- B9 : DDR_D3,  of Type IO
+- A9 : DDR_D4,  of Type IO
+- C9 : DDR_D5,  of Type IO
+- A10 : DDR_D6,  of Type IO
+- B10 : DDR_D7,  of Type IO
+- H13 : DDR_D8,  of Type IO
+- H14 : DDR_D9,  of Type IO
+- J13 : DDR_D10,  of Type IO
+- J14 : DDR_D11,  of Type IO
+- L13 : DDR_D12,  of Type IO
+- L14 : DDR_D13,  of Type IO
+- J12 : DDR_D14,  of Type IO
+- K12 : DDR_D15,  of Type IO
+- E11 : DDR_A0,  of Type OP
+- C11 : DDR_A1,  of Type OP
+- B12 : DDR_A2,  of Type OP
+- A12 : DDR_A3,  of Type OP
+- D11 : DDR_A4,  of Type OP
+- D14 : DDR_A5,  of Type OP
+- B14 : DDR_A6,  of Type OP
+- D9 : DDR_A7,  of Type OP
+- C10 : DDR_A8,  of Type OP
+- D10 : DDR_A9,  of Type OP
+- F9 : DDR_A10,  of Type OP
+- A11 : DDR_A11,  of Type OP
+- B11 : DDR_A12,  of Type OP
+- E13 : DDR_A13,  of Type OP
+- A13 : DDR_CLK,  of Type OP
+- B13 : DDR_CLKN,  of Type OP
+- E14 : DDR_CKE,  of Type OP
+- D13 : DDR_RESETN,  of Type OP
+- F11 : DDR_CS,  of Type OP
+- A14 : DDR_WE,  of Type OP
+- C14 : DDR_RAS,  of Type OP
+- C13 : DDR_CAS,  of Type OP
+- D8 : DDR_DQM0,  of Type OP
+- G14 : DDR_DQM1,  of Type OP
+- B8 : DDR_DQS0,  of Type OP
+- K14 : DDR_DQS1,  of Type OP
+- A8 : DDR_DQSN0,  of Type OP
+- K13 : DDR_DQSN1,  of Type OP
+- F13 : DDR_BA0,  of Type OP
+- G13 : DDR_BA1,  of Type OP
+- F14 : DDR_BA2,  of Type OP
+- F10 : DDR_CAL,  of Type OP
+- C6 : VDDIODDR,  of Type PP
+- E10 : VDDIODDR,  of Type PP
+- E12 : VDDIODDR,  of Type PP
+- G10 : VDDIODDR,  of Type PP
+- G12 : VDDIODDR,  of Type PP
+- H11 : VDDIODDR,  of Type PP
+- J10 : VDDIODDR,  of Type PP
+- C7 : GNDIODDR,  of Type PS
+- D12 : GNDIODDR,  of Type PS
+- E9 : GNDIODDR,  of Type PS
+- F12 : GNDIODDR,  of Type PS
+- G11 : GNDIODDR,  of Type PS
+- H10 : GNDIODDR,  of Type PS
+- J11 : GNDIODDR,  of Type PS
+- E8 : VDDCORE,  of Type PP
+- G8 : VDDCORE,  of Type PP
+- H8 : VDDCORE,  of Type PP
+- H9 : VDDCORE,  of Type PP
+- J5 : VDDCORE,  of Type PP
+- F8 : GNDCORE,  of Type PS
+- G7 : GNDCORE,  of Type PS
+- G9 : GNDCORE,  of Type PS
+- H7 : GNDCORE,  of Type PS
+- J4 : GNDCORE,  of Type PS
+- D7 : VDDIOP0,  of Type PP
+- F4 : VDDIOP0,  of Type PP
+- E4 : GNDIOP0,  of Type PS
+- E7 : GNDIOP0,  of Type PS
+- K8 : VDDIOP1,  of Type PP
+- L11 : VDDIOP1,  of Type PP
+- K9 : GDNIOP1,  of Type IO
+- L12 : GNDIOP1,  of Type PS
+- K11 : VDDFUSE,  of Type PP
+- P3 : VDDPLLA,  of Type PP
+- P4 : GNDPLLA,  of Type PS
+- K6 : VDDAUDIOPLL,  of Type PP
+- L6 : GNDDPLL,  of Type PS
+- J6 : GNDAUDIOPLL,  of Type PS
+- J7 : CLK_AUDIO,  of Type IO
+- P5 : XIN,  of Type PS
+- P6 : XOUT,  of Type PS
+- N5 : VDDOSC,  of Type PP
+- N6 : GNDOSC,  of Type PS
+- K7 : VDDUTMII,  of Type PP
+- L8 : GNDUTMII,  of Type PS
+- N7 : HHSDPA,  of Type IO
+- P7 : HHSDMA,  of Type IO
+- N8 : HHSDPB,  of Type IO
+- P8 : HHSDMB,  of Type IO
+- M7 : VDDUTMIC,  of Type PP
+- M8 : GNDUTMIC,  of Type PS
+- L7 : VBG,  of Type IO
+- M2 : TST,  of Type IO
+- N3 : NRST,  of Type IP
+- L4 : JTAGSEL,  of Type OP
+- P1 : WKUP,  of Type IP
+- N1 : SHDN,  of Type IO
+- K5 : PIOBU0,  of Type IO
+- L3 : PIOBU1,  of Type IO
+- M3 : PIOBU2,  of Type IO
+- N4 : PIOBU3,  of Type IO
+- L5 : PIOBU4,  of Type IO
+- M6 : PIOBU5,  of Type IO
+- M4 : VDDBU,  of Type PP
+- M5 : GNDBU,  of Type PS
+- M1 : XIN32,  of Type PS
+- L1 : XOUT32,  of Type PS
+- N2 : COMPP,  of Type IO
+- P2 : COMPN,  of Type IO
 ## ATSAMA5D22C-CNR
+
 ### Description : 
+
+- Series : SAMA5D2
+- Footprint : TFBGA196
+- MP : ATSAMA5D22C-CNR
+- Architecture : CORTEX-A5
+- PINOUT : TFBGA196
+- Reference : U
+- Documentation : https://www.microchip.com/en-us/search?q=ATSAMA5D22C-CNR
+- Value : ATSAMA5D22C-CNR
+- Family : SAMA5
+- MF : Microchip
+- Name : ATSAMA5D22
 
 ### Package : 
 
-- L9 : PA18
-- N9 : PA19
-- M9 : PA20
-- M10 : PA21
-- P9 : PA22
-- P10 : PA23
-- N10 : PA24
-- L10 : PA25
-- P11 : PA26
-- P12 : PA27
-- M11 : PA28
-- N11 : PA29
-- N12 : PA30
-- M12 : PA31
-- A6 : PB0
-- A5 : PB1
-- B6 : PB2
-- B5 : PB3
-- A4 : PB4
-- D6 : PB5
-- A3 : PB6
-- B4 : PB7
-- A2 : PB8
-- B3 : PB9
-- A1 : PB10
-- B1 : PB11
-- B2 : PB12
-- C1 : PB13
-- D5 : PB14
-- E5 : PB15
-- C5 : PB16
-- C2 : PB17
-- D4 : PB18
-- C4 : PB19
-- C3 : PB20
-- D1 : PB21
-- D2 : PB22
-- E1 : PB23
-- D3 : PB24
-- E3 : PB25
-- E2 : PB26
-- E6 : PB27
-- F1 : PB28
-- F6 : PB29
-- F2 : PB30
-- F7 : PB31
-- M13 : PC0
-- P13 : PC1
-- N13 : PC2
-- K10 : PC3
-- P14 : PC4
-- J8 : PC5
-- N14 : PC6
-- M14 : PC7
-- J9 : PC8
-- F5 : PD7
-- F3 : PD8
-- G5 : PD9
-- G4 : PD10
-- H1 : PD11
-- H6 : PD12
-- H3 : PD13
-- G6 : PD14
-- H5 : PD15
-- G1 : PD16
-- G2 : PD17
-- G3 : PD18
-- H4 : PD19
-- J1 : PD20
-- K1 : PD21
-- J3 : PD22
-- K2 : PD23
-- K3 : VDDANA
-- K4 : GNDANA
-- L2 : ADVREF
-- H2 : VDDANA
-- J2 : GNDANA
-- H12 : DDR_VREF
-- C12 : DDR_VREF
-- B7 : DDR_D0
-- A7 : DDR_D1
-- C8 : DDR_D2
-- B9 : DDR_D3
-- A9 : DDR_D4
-- C9 : DDR_D5
-- A10 : DDR_D6
-- B10 : DDR_D7
-- H13 : DDR_D8
-- H14 : DDR_D9
-- J13 : DDR_D10
-- J14 : DDR_D11
-- L13 : DDR_D12
-- L14 : DDR_D13
-- J12 : DDR_D14
-- K12 : DDR_D15
-- E11 : DDR_A0
-- C11 : DDR_A1
-- B12 : DDR_A2
-- A12 : DDR_A3
-- D11 : DDR_A4
-- D14 : DDR_A5
-- B14 : DDR_A6
-- D9 : DDR_A7
-- C10 : DDR_A8
-- D10 : DDR_A9
-- F9 : DDR_A10
-- A11 : DDR_A11
-- B11 : DDR_A12
-- E13 : DDR_A13
-- A13 : DDR_CLK
-- B13 : DDR_CLKN
-- E14 : DDR_CKE
-- D13 : DDR_RESETN
-- F11 : DDR_CS
-- A14 : DDR_WE
-- C14 : DDR_RAS
-- C13 : DDR_CAS
-- D8 : DDR_DQM0
-- G14 : DDR_DQM1
-- B8 : DDR_DQS0
-- K14 : DDR_DQS1
-- A8 : DDR_DQSN0
-- K13 : DDR_DQSN1
-- F13 : DDR_BA0
-- G13 : DDR_BA1
-- F14 : DDR_BA2
-- F10 : DDR_CAL
-- C6 : VDDIODDR
-- E10 : VDDIODDR
-- E12 : VDDIODDR
-- G10 : VDDIODDR
-- G12 : VDDIODDR
-- H11 : VDDIODDR
-- J10 : VDDIODDR
-- C7 : GNDIODDR
-- D12 : GNDIODDR
-- E9 : GNDIODDR
-- F12 : GNDIODDR
-- G11 : GNDIODDR
-- H10 : GNDIODDR
-- J11 : GNDIODDR
-- E8 : VDDCORE
-- G8 : VDDCORE
-- H8 : VDDCORE
-- H9 : VDDCORE
-- J5 : VDDCORE
-- F8 : GNDCORE
-- G7 : GNDCORE
-- G9 : GNDCORE
-- H7 : GNDCORE
-- J4 : GNDCORE
-- D7 : VDDIOP0
-- F4 : VDDIOP0
-- E4 : GNDIOP0
-- E7 : GNDIOP0
-- K8 : VDDIOP1
-- L11 : VDDIOP1
-- K9 : GDNIOP1
-- L12 : GNDIOP1
-- K11 : VDDFUSE
-- P3 : VDDPLLA
-- P4 : GNDPLLA
-- K6 : VDDAUDIOPLL
-- L6 : GNDDPLL
-- J6 : GNDAUDIOPLL
-- J7 : CLK_AUDIO
-- P5 : XIN
-- P6 : XOUT
-- N5 : VDDOSC
-- N6 : GNDOSC
-- K7 : VDDUTMII
-- L8 : GNDUTMII
-- N7 : HHSDPA
-- P7 : HHSDMA
-- N8 : HHSDPB
-- P8 : HHSDMB
-- M7 : VDDUTMIC
-- M8 : GNDUTMIC
-- L7 : VBG
-- M2 : TST
-- N3 : NRST
-- L4 : JTAGSEL
-- P1 : WKUP
-- N1 : SHDN
-- K5 : PIOBU0
-- L3 : PIOBU1
-- M3 : PIOBU2
-- N4 : PIOBU3
-- L5 : PIOBU4
-- M6 : PIOBU5
-- M4 : VDDBU
-- M5 : GNDBU
-- M1 : XIN32
-- L1 : XOUT32
-- N2 : COMPP
-- P2 : COMPN
+Pin count : 196
+- L9 : PA18,  of Type IO, alternates : [HSMC D_13, SSC1 RK_1, SPI0 SPI0_NPCS_1, I2SC1 I2SC1_DO_0, PIO P_18, QSPI0 QSPI0_IO_2, SDMMC1 SDMMC1_DAT_0]
+- N9 : PA19,  of Type IO, alternates : [SSC1 RF_1, SPI0 SPI0_NPCS_2, HSMC D_14, TC0 TIOA_0, QSPI0 QSPI0_IO_3, PIO P_19, SDMMC1 SDMMC1_DAT_1]
+- M9 : PA20,  of Type IO, alternates : [SPI0 SPI0_NPCS_3, HSMC D_15, TC0 TIOB_0, PIO P_20, SDMMC1 SDMMC1_DAT_2]
+- M10 : PA21,  of Type IO, alternates : [AIC IRQ_, PMC PCK_2, HSMC NANDRDY_, TC0 TCLK_0, PIO P_21, SDMMC1 SDMMC1_DAT_3]
+- P9 : PA22,  of Type IO, alternates : [PIO P_22, ICE TCK_, FLEXCOM1 FLEXCOM1_IO_2, HSMC D_0, SPI1 SPI1_SPCK_, SDMMC1 SDMMC1_CK_, QSPI0 QSPI0_SCK_]
+- P10 : PA23,  of Type IO, alternates : [ICE TDI_, PIO P_23, QSPI0 QSPI0_CS_, SPI1 SPI1_MOSI_, FLEXCOM1 FLEXCOM1_IO_1, HSMC D_1]
+- N10 : PA24,  of Type IO, alternates : [SPI1 SPI1_MISO_, FLEXCOM1 FLEXCOM1_IO_0, HSMC D_2, PIO P_24, ICE TDO_, QSPI0 QSPI0_IO_0]
+- L10 : PA25,  of Type IO, alternates : [PIO P_25, ICE TMS_, HSMC D_3, FLEXCOM1 FLEXCOM1_IO_3, SPI1 SPI1_NPCS_0, QSPI0 QSPI0_IO_1]
+- P11 : PA26,  of Type IO, alternates : [PIO P_26, ICE NTRST_, HSMC D_4, SPI1 SPI1_NPCS_1, FLEXCOM1 FLEXCOM1_IO_4, QSPI0 QSPI0_IO_2]
+- P12 : PA27,  of Type IO, alternates : [PIO P_27, SPI0 SPI0_NPCS_2, SDMMC1 SDMMC1_RSTN_, HSMC D_5, TC0 TIOA_1, QSPI0 QSPI0_IO_3, SPI1 SPI1_NPCS_2]
+- M11 : PA28,  of Type IO, alternates : [HSMC D_6, PIO P_28, SPI0 SPI0_NPCS_3, CLASSD CLASSD_L_0, SDMMC1 SDMMC1_CMD_, TC0 TIOB_1, SPI1 SPI1_NPCS_3]
+- N11 : PA29,  of Type IO, alternates : [HSMC D_7, TC0 TCLK_1, SDMMC1 SDMMC1_WP_, CLASSD CLASSD_L_1, SPI0 SPI0_NPCS_1, PIO P_29]
+- N12 : PA30,  of Type IO, alternates : [SPI0 SPI0_NPCS_0, PWM PWMH_0, CLASSD CLASSD_L_2, PIO P_30, HSMC NANDNWE_, SDMMC1 SDMMC1_CD_]
+- M12 : PA31,  of Type IO, alternates : [PWM PWML_0, HSMC NCS_3, CLASSD CLASSD_L_3, PIO P_31, SPI0 SPI0_MISO_]
+- A6 : PB0,  of Type IO, alternates : [PIO P_32, PWM PWMH_1, HSMC A21_, SPI0 SPI0_MOSI_]
+- A5 : PB1,  of Type IO, alternates : [SPI0 SPI0_SPCK_, PIO P_33, PWM PWML_1, HSMC A22_, CLASSD CLASSD_R_0]
+- B6 : PB2,  of Type IO, alternates : [PIO P_34, PWM PWMFI_0, CLASSD CLASSD_R_1, HSMC NANDOE_]
+- B5 : PB3,  of Type IO, alternates : [HSMC D_8, AIC IRQ_, PWM PWMEXTRG_1, PIO P_35, CLASSD CLASSD_R_2, UART4 URXD_4]
+- A4 : PB4,  of Type IO, alternates : [PIO P_36, HSMC D_9, SAIC FIQ_, UART4 UTXD_4, CLASSD CLASSD_R_3]
+- D6 : PB5,  of Type IO, alternates : [PIO P_37, HSMC D_10, PWM PWMH_2, QSPI1 QSPI1_SCK_, GMAC GTSUCOMP_, TC0 TCLK_2]
+- A3 : PB6,  of Type IO, alternates : [PIO P_38, HSMC D_11, QSPI1 QSPI1_CS_, GMAC GTXER_, PWM PWML_2, TC0 TIOA_2]
+- B4 : PB7,  of Type IO, alternates : [PIO P_39, QSPI1 QSPI1_IO_0, HSMC D_12, PWM PWMH_3, TC0 TIOB_2, GMAC GRXCK_]
+- A2 : PB8,  of Type IO, alternates : [QSPI1 QSPI1_IO_1, HSMC D_13, PIO P_40, PWM PWML_3, GMAC GCRS_, TC1 TCLK_3]
+- B3 : PB9,  of Type IO, alternates : [QSPI1 QSPI1_IO_2, HSMC D_14, GMAC GCOL_, PIO P_41, TC1 TIOA_3, PWM PWMFI_1]
+- A1 : PB10,  of Type IO, alternates : [GMAC GRX_2, PWM PWMEXTRG_2, QSPI1 QSPI1_IO_3, HSMC D_15, TC1 TIOB_3, PIO P_42]
+- B1 : PB11,  of Type IO, alternates : [GMAC GRX_3, PIO P_43, PDMIC PDMIC_DAT_, UART3 URXD_3, LCDC LCDDAT_0, HSMC A0_]
+- B2 : PB12,  of Type IO, alternates : [PDMIC PDMIC_CLK_, PIO P_44, UART3 UTXD_3, GMAC GTX_2, HSMC A_1, LCDC LCDDAT_1]
+- C1 : PB13,  of Type IO, alternates : [PMC PCK_1, PIO P_45, GMAC GTX_3, HSMC A_2, LCDC LCDDAT_2]
+- D5 : PB14,  of Type IO, alternates : [SSC1 TK_1, I2SC1 I2SC1_MCK_, LCDC LCDDAT_3, PIO P_46, HSMC A_3, QSPI1 QSPI1_SCK_, GMAC GTXCK_]
+- E5 : PB15,  of Type IO, alternates : [PIO P_47, LCDC LCDDAT_4, QSPI1 QSPI1_CS_, GMAC GTXEN_, HSMC A_4, SSC1 TF_1, I2SC1 I2SC1_CK_]
+- C5 : PB16,  of Type IO, alternates : [LCDC LCDDAT_5, PIO P_48, I2SC1 I2SC1_WS_, QSPI1 QSPI1_IO_0, HSMC A_5, GMAC GRXDV_, SSC1 TD_1]
+- C2 : PB17,  of Type IO, alternates : [LCDC LCDDAT_6, GMAC GRXER_, I2SC1 I2SC1_DI_0, PIO P_49, QSPI1 QSPI1_IO_1, HSMC A_6, SSC1 RD_1]
+- D4 : PB18,  of Type IO, alternates : [HSMC A_7, SSC1 RK_1, QSPI1 QSPI1_IO_2, LCDC LCDDAT_7, PIO P_50, I2SC1 I2SC1_DO_0, GMAC GRX_0]
+- C4 : PB19,  of Type IO, alternates : [SSC1 RF_1, QSPI1 QSPI1_IO_3, HSMC A_8, LCDC LCDDAT_8, PIO P_51, TC1 TIOA_3, GMAC GRX_1]
+- C3 : PB20,  of Type IO, alternates : [PMC PCK_1, HSMC A_9, LCDC LCDDAT_9, GMAC GTX_0, TC1 TIOB_3, PIO P_52, SSC0 TK_0]
+- D1 : PB21,  of Type IO, alternates : [SSC0 TF_0, FLEXCOM3 FLEXCOM3_IO_2, GMAC GTX_1, PIO P_53, HSMC A_10, LCDC LCDDAT_10, TC1 TCLK_3]
+- D2 : PB22,  of Type IO, alternates : [SSC0 TD_0, PIO P_54, FLEXCOM3 FLEXCOM3_IO_1, HSMC A_11, GMAC GMDC_, TC0 TIOA_2, LCDC LCDDAT_11]
+- E1 : PB23,  of Type IO, alternates : [SSC0 RD_0, GMAC GMDIO_, PIO P_55, FLEXCOM3 FLEXCOM3_IO_0, TC0 TIOB_2, HSMC A_12, LCDC LCDDAT_12]
+- D3 : PB24,  of Type IO, alternates : [PIO P_56, FLEXCOM3 FLEXCOM3_IO_3, ISC ISC_D_10, HSMC A_13, SSC0 RK_0, LCDC LCDDAT_13, TC0 TCLK_2]
+- E3 : PB25,  of Type IO, alternates : [ISC ISC_D_11, PIO P_57, HSMC A_14, LCDC LCDDAT_14, FLEXCOM3 FLEXCOM3_IO_4, SSC0 RF_0]
+- E2 : PB26,  of Type IO, alternates : [PIO P_58, ISC ISC_D_0, HSMC A_15, PDMIC PDMIC_DAT_, LCDC LCDDAT_15, UART0 URXD_0]
+- E6 : PB27,  of Type IO, alternates : [PIO P_59, ISC ISC_D_1, PDMIC PDMIC_CLK_, HSMC A_16, UART0 UTXD_0, LCDC LCDDAT_16]
+- F1 : PB28,  of Type IO, alternates : [ISC ISC_D_2, HSMC A_17, FLEXCOM0 FLEXCOM0_IO_0, LCDC LCDDAT_17, TC1 TIOA_5, PIO P_60]
+- F6 : PB29,  of Type IO, alternates : [ISC ISC_D_3, HSMC A_18, LCDC LCDDAT_18, FLEXCOM0 FLEXCOM0_IO_1, PIO P_61, TC1 TIOB_5]
+- F2 : PB30,  of Type IO, alternates : [HSMC A_19, LCDC LCDDAT_19, ISC ISC_D_4, FLEXCOM0 FLEXCOM0_IO_2, PIO P_62, TC1 TCLK_5]
+- F7 : PB31,  of Type IO, alternates : [TWIHS0 TWD_0, ISC ISC_D_5, FLEXCOM0 FLEXCOM0_IO_3, PIO P_63, HSMC A_20, LCDC LCDDAT_20]
+- M13 : PC0,  of Type IO, alternates : [TWIHS0 TWCK_0, ISC ISC_D_6, HSMC A_23, FLEXCOM0 FLEXCOM0_IO_4, PIO P_64, LCDC LCDDAT_21]
+- P13 : PC1,  of Type IO, alternates : [MCAN0 CANTX_0, I2SC0 I2SC0_CK_, PIO P_65, ISC ISC_D_7, HSMC A_24, SPI1 SPI1_SPCK_, LCDC LCDDAT_22]
+- N13 : PC2,  of Type IO, alternates : [MCAN0 CANRX_0, PIO P_66, SPI1 SPI1_MOSI_, HSMC A_25, ISC ISC_D_8, LCDC LCDDAT_23, I2SC0 I2SC0_MCK_]
+- K10 : PC3,  of Type IO, alternates : [SPI1 SPI1_MISO_, I2SC0 I2SC0_WS_, LCDC LCDPWM_, PIO P_67, TC0 TIOA_1, ISC ISC_D_9, HSMC NWAIT_]
+- P14 : PC4,  of Type IO, alternates : [ISC ISC_PCK_, LCDC LCDDISP_, I2SC0 I2SC0_DI_0, PIO P_68, SPI1 SPI1_NPCS_0, HSMC NWR1_, TC0 TIOB_1]
+- J8 : PC5,  of Type IO, alternates : [PIO P_69, ISC ISC_VSYNC_, TC0 TCLK_1, SPI1 SPI1_NPCS_1, HSMC NCS_0, I2SC0 I2SC0_DO_0, LCDC LCDVSYNC_]
+- N14 : PC6,  of Type IO, alternates : [LCDC LCDHSYNC_, TWIHS1 TWD_1, PIO P_70, ISC ISC_HSYNC_, SPI1 SPI1_NPCS_2]
+- M14 : PC7,  of Type IO, alternates : [LCDC LCDPCK_, TWIHS1 TWCK_1, ISC ISC_MCK_, UART1 URXD_1, HSMC NCS_2, SPI1 SPI1_NPCS_3, PIO P_71]
+- J9 : PC8,  of Type IO, alternates : [LCDC LCDDEN_, HSMC NANDRDY_, SAIC FIQ_, ISC ISC_FIELD_, UART1 UTXD_1, PIO P_72, PMC PCK_0]
+- F5 : PD7,  of Type IO, alternates : [ISC ISC_D_0, ICE TDI_, PIO P_103, PTC PTC_X_4, GMAC GTX_2, HSMC NWR1_]
+- F3 : PD8,  of Type IO, alternates : [HSMC NANDRDY_, ISC ISC_D_1, PTC PTC_X_5, ICE TDO_, GMAC GTX_3, PIO P_104]
+- G5 : PD9,  of Type IO, alternates : [ISC ISC_D_2, ICE TMS_, PTC PTC_X_6, PIO P_105, GMAC GTXCK_]
+- G4 : PD10,  of Type IO, alternates : [ISC ISC_D_3, ICE NTRST_, GMAC GTXEN_, PTC PTC_X_7, PIO P_106]
+- H1 : PD11,  of Type IO, alternates : [PMC PCK_2, ISC ISC_MCK_, ISC ISC_D_4, GMAC GRXDV_, TC0 TIOA_1, PIO P_107, PTC PTC_Y_0]
+- H6 : PD12,  of Type IO, alternates : [GMAC GRXER_, PIO P_108, ISC ISC_D_4, FLEXCOM4 FLEXCOM4_IO_0, ISC ISC_D_5, TC0 TIOB_1, PTC PTC_Y_1]
+- H3 : PD13,  of Type IO, alternates : [PIO P_109, TC0 TCLK_1, ISC ISC_D_6, FLEXCOM4 FLEXCOM4_IO_1, ISC ISC_D_5, GMAC GRX_0, PTC PTC_Y_2]
+- G6 : PD14,  of Type IO, alternates : [ISC ISC_D_6, PIO P_110, ISC ISC_D_7, ICE TCK_, FLEXCOM4 FLEXCOM4_IO_2, PTC PTC_Y_3, GMAC GRX_1]
+- H5 : PD15,  of Type IO, alternates : [ISC ISC_PCK_, ICE TDI_, ISC ISC_D_7, FLEXCOM4 FLEXCOM4_IO_3, GMAC GTX_0, PTC PTC_Y_4, PIO P_111]
+- G1 : PD16,  of Type IO, alternates : [ISC ISC_VSYNC_, GMAC GTX_1, ICE TDO_, ISC ISC_D_8, PIO P_112, FLEXCOM4 FLEXCOM4_IO_4, PTC PTC_Y_5]
+- G2 : PD17,  of Type IO, alternates : [ICE TMS_, PIO P_113, PTC PTC_Y_6, GMAC GMDC_, ISC ISC_D_9, ISC ISC_HSYNC_]
+- G3 : PD18,  of Type IO, alternates : [GMAC GMDIO_, ICE NTRST_, ISC ISC_FIELD_, PTC PTC_Y_7, ISC ISC_D_10, PIO P_114]
+- H4 : PD19,  of Type IO, alternates : [I2SC0 I2SC0_CK_, ISC ISC_D_11, TWIHS1 TWD_1, UART2 URXD_2, ADC AD_0, PIO P_115, PMC PCK_0]
+- J1 : PD20,  of Type IO, alternates : [ISC ISC_PCK_, TWIHS1 TWCK_1, UART2 UTXD_2, TC0 TIOA_2, PIO P_116, ADC AD_1, I2SC0 I2SC0_MCK_]
+- K1 : PD21,  of Type IO, alternates : [ISC ISC_VSYNC_, TWIHS0 TWD_0, I2SC0 I2SC0_WS_, FLEXCOM4 FLEXCOM4_IO_0, TC0 TIOB_2, ADC AD_2, PIO P_117]
+- J3 : PD22,  of Type IO, alternates : [TWIHS0 TWCK_0, FLEXCOM4 FLEXCOM4_IO_1, I2SC0 I2SC0_DI_0, PIO P_118, TC0 TCLK_2, ADC AD_3, ISC ISC_HSYNC_]
+- K2 : PD23,  of Type IO, alternates : [ADC AD_4, PIO P_119, ISC ISC_FIELD_, FLEXCOM4 FLEXCOM4_IO_2, UART2 URXD_2, I2SC0 I2SC0_DO_0]
+- K3 : VDDANA,  of Type PP
+- K4 : GNDANA,  of Type PS
+- L2 : ADVREF,  of Type PS
+- H2 : VDDANA,  of Type PP
+- J2 : GNDANA,  of Type PS
+- H12 : DDR_VREF,  of Type PS
+- C12 : DDR_VREF,  of Type PS
+- B7 : DDR_D0,  of Type IO
+- A7 : DDR_D1,  of Type IO
+- C8 : DDR_D2,  of Type IO
+- B9 : DDR_D3,  of Type IO
+- A9 : DDR_D4,  of Type IO
+- C9 : DDR_D5,  of Type IO
+- A10 : DDR_D6,  of Type IO
+- B10 : DDR_D7,  of Type IO
+- H13 : DDR_D8,  of Type IO
+- H14 : DDR_D9,  of Type IO
+- J13 : DDR_D10,  of Type IO
+- J14 : DDR_D11,  of Type IO
+- L13 : DDR_D12,  of Type IO
+- L14 : DDR_D13,  of Type IO
+- J12 : DDR_D14,  of Type IO
+- K12 : DDR_D15,  of Type IO
+- E11 : DDR_A0,  of Type OP
+- C11 : DDR_A1,  of Type OP
+- B12 : DDR_A2,  of Type OP
+- A12 : DDR_A3,  of Type OP
+- D11 : DDR_A4,  of Type OP
+- D14 : DDR_A5,  of Type OP
+- B14 : DDR_A6,  of Type OP
+- D9 : DDR_A7,  of Type OP
+- C10 : DDR_A8,  of Type OP
+- D10 : DDR_A9,  of Type OP
+- F9 : DDR_A10,  of Type OP
+- A11 : DDR_A11,  of Type OP
+- B11 : DDR_A12,  of Type OP
+- E13 : DDR_A13,  of Type OP
+- A13 : DDR_CLK,  of Type OP
+- B13 : DDR_CLKN,  of Type OP
+- E14 : DDR_CKE,  of Type OP
+- D13 : DDR_RESETN,  of Type OP
+- F11 : DDR_CS,  of Type OP
+- A14 : DDR_WE,  of Type OP
+- C14 : DDR_RAS,  of Type OP
+- C13 : DDR_CAS,  of Type OP
+- D8 : DDR_DQM0,  of Type OP
+- G14 : DDR_DQM1,  of Type OP
+- B8 : DDR_DQS0,  of Type OP
+- K14 : DDR_DQS1,  of Type OP
+- A8 : DDR_DQSN0,  of Type OP
+- K13 : DDR_DQSN1,  of Type OP
+- F13 : DDR_BA0,  of Type OP
+- G13 : DDR_BA1,  of Type OP
+- F14 : DDR_BA2,  of Type OP
+- F10 : DDR_CAL,  of Type OP
+- C6 : VDDIODDR,  of Type PP
+- E10 : VDDIODDR,  of Type PP
+- E12 : VDDIODDR,  of Type PP
+- G10 : VDDIODDR,  of Type PP
+- G12 : VDDIODDR,  of Type PP
+- H11 : VDDIODDR,  of Type PP
+- J10 : VDDIODDR,  of Type PP
+- C7 : GNDIODDR,  of Type PS
+- D12 : GNDIODDR,  of Type PS
+- E9 : GNDIODDR,  of Type PS
+- F12 : GNDIODDR,  of Type PS
+- G11 : GNDIODDR,  of Type PS
+- H10 : GNDIODDR,  of Type PS
+- J11 : GNDIODDR,  of Type PS
+- E8 : VDDCORE,  of Type PP
+- G8 : VDDCORE,  of Type PP
+- H8 : VDDCORE,  of Type PP
+- H9 : VDDCORE,  of Type PP
+- J5 : VDDCORE,  of Type PP
+- F8 : GNDCORE,  of Type PS
+- G7 : GNDCORE,  of Type PS
+- G9 : GNDCORE,  of Type PS
+- H7 : GNDCORE,  of Type PS
+- J4 : GNDCORE,  of Type PS
+- D7 : VDDIOP0,  of Type PP
+- F4 : VDDIOP0,  of Type PP
+- E4 : GNDIOP0,  of Type PS
+- E7 : GNDIOP0,  of Type PS
+- K8 : VDDIOP1,  of Type PP
+- L11 : VDDIOP1,  of Type PP
+- K9 : GDNIOP1,  of Type IO
+- L12 : GNDIOP1,  of Type PS
+- K11 : VDDFUSE,  of Type PP
+- P3 : VDDPLLA,  of Type PP
+- P4 : GNDPLLA,  of Type PS
+- K6 : VDDAUDIOPLL,  of Type PP
+- L6 : GNDDPLL,  of Type PS
+- J6 : GNDAUDIOPLL,  of Type PS
+- J7 : CLK_AUDIO,  of Type IO
+- P5 : XIN,  of Type PS
+- P6 : XOUT,  of Type PS
+- N5 : VDDOSC,  of Type PP
+- N6 : GNDOSC,  of Type PS
+- K7 : VDDUTMII,  of Type PP
+- L8 : GNDUTMII,  of Type PS
+- N7 : HHSDPA,  of Type IO
+- P7 : HHSDMA,  of Type IO
+- N8 : HHSDPB,  of Type IO
+- P8 : HHSDMB,  of Type IO
+- M7 : VDDUTMIC,  of Type PP
+- M8 : GNDUTMIC,  of Type PS
+- L7 : VBG,  of Type IO
+- M2 : TST,  of Type IO
+- N3 : NRST,  of Type IP
+- L4 : JTAGSEL,  of Type OP
+- P1 : WKUP,  of Type IP
+- N1 : SHDN,  of Type IO
+- K5 : PIOBU0,  of Type IO
+- L3 : PIOBU1,  of Type IO
+- M3 : PIOBU2,  of Type IO
+- N4 : PIOBU3,  of Type IO
+- L5 : PIOBU4,  of Type IO
+- M6 : PIOBU5,  of Type IO
+- M4 : VDDBU,  of Type PP
+- M5 : GNDBU,  of Type PS
+- M1 : XIN32,  of Type PS
+- L1 : XOUT32,  of Type PS
+- N2 : COMPP,  of Type IO
+- P2 : COMPN,  of Type IO
 ## ATSAMA5D22C-CU
+
 ### Description : 
+
+- Series : SAMA5D2
+- Footprint : TFBGA196
+- MP : ATSAMA5D22C-CU
+- Architecture : CORTEX-A5
+- PINOUT : TFBGA196
+- Reference : U
+- Documentation : https://www.microchip.com/en-us/search?q=ATSAMA5D22C-CU
+- Value : ATSAMA5D22C-CU
+- Family : SAMA5
+- MF : Microchip
+- Name : ATSAMA5D22
 
 ### Package : 
 
-- L9 : PA18
-- N9 : PA19
-- M9 : PA20
-- M10 : PA21
-- P9 : PA22
-- P10 : PA23
-- N10 : PA24
-- L10 : PA25
-- P11 : PA26
-- P12 : PA27
-- M11 : PA28
-- N11 : PA29
-- N12 : PA30
-- M12 : PA31
-- A6 : PB0
-- A5 : PB1
-- B6 : PB2
-- B5 : PB3
-- A4 : PB4
-- D6 : PB5
-- A3 : PB6
-- B4 : PB7
-- A2 : PB8
-- B3 : PB9
-- A1 : PB10
-- B1 : PB11
-- B2 : PB12
-- C1 : PB13
-- D5 : PB14
-- E5 : PB15
-- C5 : PB16
-- C2 : PB17
-- D4 : PB18
-- C4 : PB19
-- C3 : PB20
-- D1 : PB21
-- D2 : PB22
-- E1 : PB23
-- D3 : PB24
-- E3 : PB25
-- E2 : PB26
-- E6 : PB27
-- F1 : PB28
-- F6 : PB29
-- F2 : PB30
-- F7 : PB31
-- M13 : PC0
-- P13 : PC1
-- N13 : PC2
-- K10 : PC3
-- P14 : PC4
-- J8 : PC5
-- N14 : PC6
-- M14 : PC7
-- J9 : PC8
-- F5 : PD7
-- F3 : PD8
-- G5 : PD9
-- G4 : PD10
-- H1 : PD11
-- H6 : PD12
-- H3 : PD13
-- G6 : PD14
-- H5 : PD15
-- G1 : PD16
-- G2 : PD17
-- G3 : PD18
-- H4 : PD19
-- J1 : PD20
-- K1 : PD21
-- J3 : PD22
-- K2 : PD23
-- K3 : VDDANA
-- K4 : GNDANA
-- L2 : ADVREF
-- H2 : VDDANA
-- J2 : GNDANA
-- H12 : DDR_VREF
-- C12 : DDR_VREF
-- B7 : DDR_D0
-- A7 : DDR_D1
-- C8 : DDR_D2
-- B9 : DDR_D3
-- A9 : DDR_D4
-- C9 : DDR_D5
-- A10 : DDR_D6
-- B10 : DDR_D7
-- H13 : DDR_D8
-- H14 : DDR_D9
-- J13 : DDR_D10
-- J14 : DDR_D11
-- L13 : DDR_D12
-- L14 : DDR_D13
-- J12 : DDR_D14
-- K12 : DDR_D15
-- E11 : DDR_A0
-- C11 : DDR_A1
-- B12 : DDR_A2
-- A12 : DDR_A3
-- D11 : DDR_A4
-- D14 : DDR_A5
-- B14 : DDR_A6
-- D9 : DDR_A7
-- C10 : DDR_A8
-- D10 : DDR_A9
-- F9 : DDR_A10
-- A11 : DDR_A11
-- B11 : DDR_A12
-- E13 : DDR_A13
-- A13 : DDR_CLK
-- B13 : DDR_CLKN
-- E14 : DDR_CKE
-- D13 : DDR_RESETN
-- F11 : DDR_CS
-- A14 : DDR_WE
-- C14 : DDR_RAS
-- C13 : DDR_CAS
-- D8 : DDR_DQM0
-- G14 : DDR_DQM1
-- B8 : DDR_DQS0
-- K14 : DDR_DQS1
-- A8 : DDR_DQSN0
-- K13 : DDR_DQSN1
-- F13 : DDR_BA0
-- G13 : DDR_BA1
-- F14 : DDR_BA2
-- F10 : DDR_CAL
-- C6 : VDDIODDR
-- E10 : VDDIODDR
-- E12 : VDDIODDR
-- G10 : VDDIODDR
-- G12 : VDDIODDR
-- H11 : VDDIODDR
-- J10 : VDDIODDR
-- C7 : GNDIODDR
-- D12 : GNDIODDR
-- E9 : GNDIODDR
-- F12 : GNDIODDR
-- G11 : GNDIODDR
-- H10 : GNDIODDR
-- J11 : GNDIODDR
-- E8 : VDDCORE
-- G8 : VDDCORE
-- H8 : VDDCORE
-- H9 : VDDCORE
-- J5 : VDDCORE
-- F8 : GNDCORE
-- G7 : GNDCORE
-- G9 : GNDCORE
-- H7 : GNDCORE
-- J4 : GNDCORE
-- D7 : VDDIOP0
-- F4 : VDDIOP0
-- E4 : GNDIOP0
-- E7 : GNDIOP0
-- K8 : VDDIOP1
-- L11 : VDDIOP1
-- K9 : GDNIOP1
-- L12 : GNDIOP1
-- K11 : VDDFUSE
-- P3 : VDDPLLA
-- P4 : GNDPLLA
-- K6 : VDDAUDIOPLL
-- L6 : GNDDPLL
-- J6 : GNDAUDIOPLL
-- J7 : CLK_AUDIO
-- P5 : XIN
-- P6 : XOUT
-- N5 : VDDOSC
-- N6 : GNDOSC
-- K7 : VDDUTMII
-- L8 : GNDUTMII
-- N7 : HHSDPA
-- P7 : HHSDMA
-- N8 : HHSDPB
-- P8 : HHSDMB
-- M7 : VDDUTMIC
-- M8 : GNDUTMIC
-- L7 : VBG
-- M2 : TST
-- N3 : NRST
-- L4 : JTAGSEL
-- P1 : WKUP
-- N1 : SHDN
-- K5 : PIOBU0
-- L3 : PIOBU1
-- M3 : PIOBU2
-- N4 : PIOBU3
-- L5 : PIOBU4
-- M6 : PIOBU5
-- M4 : VDDBU
-- M5 : GNDBU
-- M1 : XIN32
-- L1 : XOUT32
-- N2 : COMPP
-- P2 : COMPN
+Pin count : 196
+- L9 : PA18,  of Type IO, alternates : [HSMC D_13, SSC1 RK_1, SPI0 SPI0_NPCS_1, I2SC1 I2SC1_DO_0, PIO P_18, QSPI0 QSPI0_IO_2, SDMMC1 SDMMC1_DAT_0]
+- N9 : PA19,  of Type IO, alternates : [SSC1 RF_1, SPI0 SPI0_NPCS_2, HSMC D_14, TC0 TIOA_0, QSPI0 QSPI0_IO_3, PIO P_19, SDMMC1 SDMMC1_DAT_1]
+- M9 : PA20,  of Type IO, alternates : [SPI0 SPI0_NPCS_3, HSMC D_15, TC0 TIOB_0, PIO P_20, SDMMC1 SDMMC1_DAT_2]
+- M10 : PA21,  of Type IO, alternates : [AIC IRQ_, PMC PCK_2, HSMC NANDRDY_, TC0 TCLK_0, PIO P_21, SDMMC1 SDMMC1_DAT_3]
+- P9 : PA22,  of Type IO, alternates : [PIO P_22, ICE TCK_, FLEXCOM1 FLEXCOM1_IO_2, HSMC D_0, SPI1 SPI1_SPCK_, SDMMC1 SDMMC1_CK_, QSPI0 QSPI0_SCK_]
+- P10 : PA23,  of Type IO, alternates : [ICE TDI_, PIO P_23, QSPI0 QSPI0_CS_, SPI1 SPI1_MOSI_, FLEXCOM1 FLEXCOM1_IO_1, HSMC D_1]
+- N10 : PA24,  of Type IO, alternates : [SPI1 SPI1_MISO_, FLEXCOM1 FLEXCOM1_IO_0, HSMC D_2, PIO P_24, ICE TDO_, QSPI0 QSPI0_IO_0]
+- L10 : PA25,  of Type IO, alternates : [PIO P_25, ICE TMS_, HSMC D_3, FLEXCOM1 FLEXCOM1_IO_3, SPI1 SPI1_NPCS_0, QSPI0 QSPI0_IO_1]
+- P11 : PA26,  of Type IO, alternates : [PIO P_26, ICE NTRST_, HSMC D_4, SPI1 SPI1_NPCS_1, FLEXCOM1 FLEXCOM1_IO_4, QSPI0 QSPI0_IO_2]
+- P12 : PA27,  of Type IO, alternates : [PIO P_27, SPI0 SPI0_NPCS_2, SDMMC1 SDMMC1_RSTN_, HSMC D_5, TC0 TIOA_1, QSPI0 QSPI0_IO_3, SPI1 SPI1_NPCS_2]
+- M11 : PA28,  of Type IO, alternates : [HSMC D_6, PIO P_28, SPI0 SPI0_NPCS_3, CLASSD CLASSD_L_0, SDMMC1 SDMMC1_CMD_, TC0 TIOB_1, SPI1 SPI1_NPCS_3]
+- N11 : PA29,  of Type IO, alternates : [HSMC D_7, TC0 TCLK_1, SDMMC1 SDMMC1_WP_, CLASSD CLASSD_L_1, SPI0 SPI0_NPCS_1, PIO P_29]
+- N12 : PA30,  of Type IO, alternates : [SPI0 SPI0_NPCS_0, PWM PWMH_0, CLASSD CLASSD_L_2, PIO P_30, HSMC NANDNWE_, SDMMC1 SDMMC1_CD_]
+- M12 : PA31,  of Type IO, alternates : [PWM PWML_0, HSMC NCS_3, CLASSD CLASSD_L_3, PIO P_31, SPI0 SPI0_MISO_]
+- A6 : PB0,  of Type IO, alternates : [PIO P_32, PWM PWMH_1, HSMC A21_, SPI0 SPI0_MOSI_]
+- A5 : PB1,  of Type IO, alternates : [SPI0 SPI0_SPCK_, PIO P_33, PWM PWML_1, HSMC A22_, CLASSD CLASSD_R_0]
+- B6 : PB2,  of Type IO, alternates : [PIO P_34, PWM PWMFI_0, CLASSD CLASSD_R_1, HSMC NANDOE_]
+- B5 : PB3,  of Type IO, alternates : [HSMC D_8, AIC IRQ_, PWM PWMEXTRG_1, PIO P_35, CLASSD CLASSD_R_2, UART4 URXD_4]
+- A4 : PB4,  of Type IO, alternates : [PIO P_36, HSMC D_9, SAIC FIQ_, UART4 UTXD_4, CLASSD CLASSD_R_3]
+- D6 : PB5,  of Type IO, alternates : [PIO P_37, HSMC D_10, PWM PWMH_2, QSPI1 QSPI1_SCK_, GMAC GTSUCOMP_, TC0 TCLK_2]
+- A3 : PB6,  of Type IO, alternates : [PIO P_38, HSMC D_11, QSPI1 QSPI1_CS_, GMAC GTXER_, PWM PWML_2, TC0 TIOA_2]
+- B4 : PB7,  of Type IO, alternates : [PIO P_39, QSPI1 QSPI1_IO_0, HSMC D_12, PWM PWMH_3, TC0 TIOB_2, GMAC GRXCK_]
+- A2 : PB8,  of Type IO, alternates : [QSPI1 QSPI1_IO_1, HSMC D_13, PIO P_40, PWM PWML_3, GMAC GCRS_, TC1 TCLK_3]
+- B3 : PB9,  of Type IO, alternates : [QSPI1 QSPI1_IO_2, HSMC D_14, GMAC GCOL_, PIO P_41, TC1 TIOA_3, PWM PWMFI_1]
+- A1 : PB10,  of Type IO, alternates : [GMAC GRX_2, PWM PWMEXTRG_2, QSPI1 QSPI1_IO_3, HSMC D_15, TC1 TIOB_3, PIO P_42]
+- B1 : PB11,  of Type IO, alternates : [GMAC GRX_3, PIO P_43, PDMIC PDMIC_DAT_, UART3 URXD_3, LCDC LCDDAT_0, HSMC A0_]
+- B2 : PB12,  of Type IO, alternates : [PDMIC PDMIC_CLK_, PIO P_44, UART3 UTXD_3, GMAC GTX_2, HSMC A_1, LCDC LCDDAT_1]
+- C1 : PB13,  of Type IO, alternates : [PMC PCK_1, PIO P_45, GMAC GTX_3, HSMC A_2, LCDC LCDDAT_2]
+- D5 : PB14,  of Type IO, alternates : [SSC1 TK_1, I2SC1 I2SC1_MCK_, LCDC LCDDAT_3, PIO P_46, HSMC A_3, QSPI1 QSPI1_SCK_, GMAC GTXCK_]
+- E5 : PB15,  of Type IO, alternates : [PIO P_47, LCDC LCDDAT_4, QSPI1 QSPI1_CS_, GMAC GTXEN_, HSMC A_4, SSC1 TF_1, I2SC1 I2SC1_CK_]
+- C5 : PB16,  of Type IO, alternates : [LCDC LCDDAT_5, PIO P_48, I2SC1 I2SC1_WS_, QSPI1 QSPI1_IO_0, HSMC A_5, GMAC GRXDV_, SSC1 TD_1]
+- C2 : PB17,  of Type IO, alternates : [LCDC LCDDAT_6, GMAC GRXER_, I2SC1 I2SC1_DI_0, PIO P_49, QSPI1 QSPI1_IO_1, HSMC A_6, SSC1 RD_1]
+- D4 : PB18,  of Type IO, alternates : [HSMC A_7, SSC1 RK_1, QSPI1 QSPI1_IO_2, LCDC LCDDAT_7, PIO P_50, I2SC1 I2SC1_DO_0, GMAC GRX_0]
+- C4 : PB19,  of Type IO, alternates : [SSC1 RF_1, QSPI1 QSPI1_IO_3, HSMC A_8, LCDC LCDDAT_8, PIO P_51, TC1 TIOA_3, GMAC GRX_1]
+- C3 : PB20,  of Type IO, alternates : [PMC PCK_1, HSMC A_9, LCDC LCDDAT_9, GMAC GTX_0, TC1 TIOB_3, PIO P_52, SSC0 TK_0]
+- D1 : PB21,  of Type IO, alternates : [SSC0 TF_0, FLEXCOM3 FLEXCOM3_IO_2, GMAC GTX_1, PIO P_53, HSMC A_10, LCDC LCDDAT_10, TC1 TCLK_3]
+- D2 : PB22,  of Type IO, alternates : [SSC0 TD_0, PIO P_54, FLEXCOM3 FLEXCOM3_IO_1, HSMC A_11, GMAC GMDC_, TC0 TIOA_2, LCDC LCDDAT_11]
+- E1 : PB23,  of Type IO, alternates : [SSC0 RD_0, GMAC GMDIO_, PIO P_55, FLEXCOM3 FLEXCOM3_IO_0, TC0 TIOB_2, HSMC A_12, LCDC LCDDAT_12]
+- D3 : PB24,  of Type IO, alternates : [PIO P_56, FLEXCOM3 FLEXCOM3_IO_3, ISC ISC_D_10, HSMC A_13, SSC0 RK_0, LCDC LCDDAT_13, TC0 TCLK_2]
+- E3 : PB25,  of Type IO, alternates : [ISC ISC_D_11, PIO P_57, HSMC A_14, LCDC LCDDAT_14, FLEXCOM3 FLEXCOM3_IO_4, SSC0 RF_0]
+- E2 : PB26,  of Type IO, alternates : [PIO P_58, ISC ISC_D_0, HSMC A_15, PDMIC PDMIC_DAT_, LCDC LCDDAT_15, UART0 URXD_0]
+- E6 : PB27,  of Type IO, alternates : [PIO P_59, ISC ISC_D_1, PDMIC PDMIC_CLK_, HSMC A_16, UART0 UTXD_0, LCDC LCDDAT_16]
+- F1 : PB28,  of Type IO, alternates : [ISC ISC_D_2, HSMC A_17, FLEXCOM0 FLEXCOM0_IO_0, LCDC LCDDAT_17, TC1 TIOA_5, PIO P_60]
+- F6 : PB29,  of Type IO, alternates : [ISC ISC_D_3, HSMC A_18, LCDC LCDDAT_18, FLEXCOM0 FLEXCOM0_IO_1, PIO P_61, TC1 TIOB_5]
+- F2 : PB30,  of Type IO, alternates : [HSMC A_19, LCDC LCDDAT_19, ISC ISC_D_4, FLEXCOM0 FLEXCOM0_IO_2, PIO P_62, TC1 TCLK_5]
+- F7 : PB31,  of Type IO, alternates : [TWIHS0 TWD_0, ISC ISC_D_5, FLEXCOM0 FLEXCOM0_IO_3, PIO P_63, HSMC A_20, LCDC LCDDAT_20]
+- M13 : PC0,  of Type IO, alternates : [TWIHS0 TWCK_0, ISC ISC_D_6, HSMC A_23, FLEXCOM0 FLEXCOM0_IO_4, PIO P_64, LCDC LCDDAT_21]
+- P13 : PC1,  of Type IO, alternates : [MCAN0 CANTX_0, I2SC0 I2SC0_CK_, PIO P_65, ISC ISC_D_7, HSMC A_24, SPI1 SPI1_SPCK_, LCDC LCDDAT_22]
+- N13 : PC2,  of Type IO, alternates : [MCAN0 CANRX_0, PIO P_66, SPI1 SPI1_MOSI_, HSMC A_25, ISC ISC_D_8, LCDC LCDDAT_23, I2SC0 I2SC0_MCK_]
+- K10 : PC3,  of Type IO, alternates : [SPI1 SPI1_MISO_, I2SC0 I2SC0_WS_, LCDC LCDPWM_, PIO P_67, TC0 TIOA_1, ISC ISC_D_9, HSMC NWAIT_]
+- P14 : PC4,  of Type IO, alternates : [ISC ISC_PCK_, LCDC LCDDISP_, I2SC0 I2SC0_DI_0, PIO P_68, SPI1 SPI1_NPCS_0, HSMC NWR1_, TC0 TIOB_1]
+- J8 : PC5,  of Type IO, alternates : [PIO P_69, ISC ISC_VSYNC_, TC0 TCLK_1, SPI1 SPI1_NPCS_1, HSMC NCS_0, I2SC0 I2SC0_DO_0, LCDC LCDVSYNC_]
+- N14 : PC6,  of Type IO, alternates : [LCDC LCDHSYNC_, TWIHS1 TWD_1, PIO P_70, ISC ISC_HSYNC_, SPI1 SPI1_NPCS_2]
+- M14 : PC7,  of Type IO, alternates : [LCDC LCDPCK_, TWIHS1 TWCK_1, ISC ISC_MCK_, UART1 URXD_1, HSMC NCS_2, SPI1 SPI1_NPCS_3, PIO P_71]
+- J9 : PC8,  of Type IO, alternates : [LCDC LCDDEN_, HSMC NANDRDY_, SAIC FIQ_, ISC ISC_FIELD_, UART1 UTXD_1, PIO P_72, PMC PCK_0]
+- F5 : PD7,  of Type IO, alternates : [ISC ISC_D_0, ICE TDI_, PIO P_103, PTC PTC_X_4, GMAC GTX_2, HSMC NWR1_]
+- F3 : PD8,  of Type IO, alternates : [HSMC NANDRDY_, ISC ISC_D_1, PTC PTC_X_5, ICE TDO_, GMAC GTX_3, PIO P_104]
+- G5 : PD9,  of Type IO, alternates : [ISC ISC_D_2, ICE TMS_, PTC PTC_X_6, PIO P_105, GMAC GTXCK_]
+- G4 : PD10,  of Type IO, alternates : [ISC ISC_D_3, ICE NTRST_, GMAC GTXEN_, PTC PTC_X_7, PIO P_106]
+- H1 : PD11,  of Type IO, alternates : [PMC PCK_2, ISC ISC_MCK_, ISC ISC_D_4, GMAC GRXDV_, TC0 TIOA_1, PIO P_107, PTC PTC_Y_0]
+- H6 : PD12,  of Type IO, alternates : [GMAC GRXER_, PIO P_108, ISC ISC_D_4, FLEXCOM4 FLEXCOM4_IO_0, ISC ISC_D_5, TC0 TIOB_1, PTC PTC_Y_1]
+- H3 : PD13,  of Type IO, alternates : [PIO P_109, TC0 TCLK_1, ISC ISC_D_6, FLEXCOM4 FLEXCOM4_IO_1, ISC ISC_D_5, GMAC GRX_0, PTC PTC_Y_2]
+- G6 : PD14,  of Type IO, alternates : [ISC ISC_D_6, PIO P_110, ISC ISC_D_7, ICE TCK_, FLEXCOM4 FLEXCOM4_IO_2, PTC PTC_Y_3, GMAC GRX_1]
+- H5 : PD15,  of Type IO, alternates : [ISC ISC_PCK_, ICE TDI_, ISC ISC_D_7, FLEXCOM4 FLEXCOM4_IO_3, GMAC GTX_0, PTC PTC_Y_4, PIO P_111]
+- G1 : PD16,  of Type IO, alternates : [ISC ISC_VSYNC_, GMAC GTX_1, ICE TDO_, ISC ISC_D_8, PIO P_112, FLEXCOM4 FLEXCOM4_IO_4, PTC PTC_Y_5]
+- G2 : PD17,  of Type IO, alternates : [ICE TMS_, PIO P_113, PTC PTC_Y_6, GMAC GMDC_, ISC ISC_D_9, ISC ISC_HSYNC_]
+- G3 : PD18,  of Type IO, alternates : [GMAC GMDIO_, ICE NTRST_, ISC ISC_FIELD_, PTC PTC_Y_7, ISC ISC_D_10, PIO P_114]
+- H4 : PD19,  of Type IO, alternates : [I2SC0 I2SC0_CK_, ISC ISC_D_11, TWIHS1 TWD_1, UART2 URXD_2, ADC AD_0, PIO P_115, PMC PCK_0]
+- J1 : PD20,  of Type IO, alternates : [ISC ISC_PCK_, TWIHS1 TWCK_1, UART2 UTXD_2, TC0 TIOA_2, PIO P_116, ADC AD_1, I2SC0 I2SC0_MCK_]
+- K1 : PD21,  of Type IO, alternates : [ISC ISC_VSYNC_, TWIHS0 TWD_0, I2SC0 I2SC0_WS_, FLEXCOM4 FLEXCOM4_IO_0, TC0 TIOB_2, ADC AD_2, PIO P_117]
+- J3 : PD22,  of Type IO, alternates : [TWIHS0 TWCK_0, FLEXCOM4 FLEXCOM4_IO_1, I2SC0 I2SC0_DI_0, PIO P_118, TC0 TCLK_2, ADC AD_3, ISC ISC_HSYNC_]
+- K2 : PD23,  of Type IO, alternates : [ADC AD_4, PIO P_119, ISC ISC_FIELD_, FLEXCOM4 FLEXCOM4_IO_2, UART2 URXD_2, I2SC0 I2SC0_DO_0]
+- K3 : VDDANA,  of Type PP
+- K4 : GNDANA,  of Type PS
+- L2 : ADVREF,  of Type PS
+- H2 : VDDANA,  of Type PP
+- J2 : GNDANA,  of Type PS
+- H12 : DDR_VREF,  of Type PS
+- C12 : DDR_VREF,  of Type PS
+- B7 : DDR_D0,  of Type IO
+- A7 : DDR_D1,  of Type IO
+- C8 : DDR_D2,  of Type IO
+- B9 : DDR_D3,  of Type IO
+- A9 : DDR_D4,  of Type IO
+- C9 : DDR_D5,  of Type IO
+- A10 : DDR_D6,  of Type IO
+- B10 : DDR_D7,  of Type IO
+- H13 : DDR_D8,  of Type IO
+- H14 : DDR_D9,  of Type IO
+- J13 : DDR_D10,  of Type IO
+- J14 : DDR_D11,  of Type IO
+- L13 : DDR_D12,  of Type IO
+- L14 : DDR_D13,  of Type IO
+- J12 : DDR_D14,  of Type IO
+- K12 : DDR_D15,  of Type IO
+- E11 : DDR_A0,  of Type OP
+- C11 : DDR_A1,  of Type OP
+- B12 : DDR_A2,  of Type OP
+- A12 : DDR_A3,  of Type OP
+- D11 : DDR_A4,  of Type OP
+- D14 : DDR_A5,  of Type OP
+- B14 : DDR_A6,  of Type OP
+- D9 : DDR_A7,  of Type OP
+- C10 : DDR_A8,  of Type OP
+- D10 : DDR_A9,  of Type OP
+- F9 : DDR_A10,  of Type OP
+- A11 : DDR_A11,  of Type OP
+- B11 : DDR_A12,  of Type OP
+- E13 : DDR_A13,  of Type OP
+- A13 : DDR_CLK,  of Type OP
+- B13 : DDR_CLKN,  of Type OP
+- E14 : DDR_CKE,  of Type OP
+- D13 : DDR_RESETN,  of Type OP
+- F11 : DDR_CS,  of Type OP
+- A14 : DDR_WE,  of Type OP
+- C14 : DDR_RAS,  of Type OP
+- C13 : DDR_CAS,  of Type OP
+- D8 : DDR_DQM0,  of Type OP
+- G14 : DDR_DQM1,  of Type OP
+- B8 : DDR_DQS0,  of Type OP
+- K14 : DDR_DQS1,  of Type OP
+- A8 : DDR_DQSN0,  of Type OP
+- K13 : DDR_DQSN1,  of Type OP
+- F13 : DDR_BA0,  of Type OP
+- G13 : DDR_BA1,  of Type OP
+- F14 : DDR_BA2,  of Type OP
+- F10 : DDR_CAL,  of Type OP
+- C6 : VDDIODDR,  of Type PP
+- E10 : VDDIODDR,  of Type PP
+- E12 : VDDIODDR,  of Type PP
+- G10 : VDDIODDR,  of Type PP
+- G12 : VDDIODDR,  of Type PP
+- H11 : VDDIODDR,  of Type PP
+- J10 : VDDIODDR,  of Type PP
+- C7 : GNDIODDR,  of Type PS
+- D12 : GNDIODDR,  of Type PS
+- E9 : GNDIODDR,  of Type PS
+- F12 : GNDIODDR,  of Type PS
+- G11 : GNDIODDR,  of Type PS
+- H10 : GNDIODDR,  of Type PS
+- J11 : GNDIODDR,  of Type PS
+- E8 : VDDCORE,  of Type PP
+- G8 : VDDCORE,  of Type PP
+- H8 : VDDCORE,  of Type PP
+- H9 : VDDCORE,  of Type PP
+- J5 : VDDCORE,  of Type PP
+- F8 : GNDCORE,  of Type PS
+- G7 : GNDCORE,  of Type PS
+- G9 : GNDCORE,  of Type PS
+- H7 : GNDCORE,  of Type PS
+- J4 : GNDCORE,  of Type PS
+- D7 : VDDIOP0,  of Type PP
+- F4 : VDDIOP0,  of Type PP
+- E4 : GNDIOP0,  of Type PS
+- E7 : GNDIOP0,  of Type PS
+- K8 : VDDIOP1,  of Type PP
+- L11 : VDDIOP1,  of Type PP
+- K9 : GDNIOP1,  of Type IO
+- L12 : GNDIOP1,  of Type PS
+- K11 : VDDFUSE,  of Type PP
+- P3 : VDDPLLA,  of Type PP
+- P4 : GNDPLLA,  of Type PS
+- K6 : VDDAUDIOPLL,  of Type PP
+- L6 : GNDDPLL,  of Type PS
+- J6 : GNDAUDIOPLL,  of Type PS
+- J7 : CLK_AUDIO,  of Type IO
+- P5 : XIN,  of Type PS
+- P6 : XOUT,  of Type PS
+- N5 : VDDOSC,  of Type PP
+- N6 : GNDOSC,  of Type PS
+- K7 : VDDUTMII,  of Type PP
+- L8 : GNDUTMII,  of Type PS
+- N7 : HHSDPA,  of Type IO
+- P7 : HHSDMA,  of Type IO
+- N8 : HHSDPB,  of Type IO
+- P8 : HHSDMB,  of Type IO
+- M7 : VDDUTMIC,  of Type PP
+- M8 : GNDUTMIC,  of Type PS
+- L7 : VBG,  of Type IO
+- M2 : TST,  of Type IO
+- N3 : NRST,  of Type IP
+- L4 : JTAGSEL,  of Type OP
+- P1 : WKUP,  of Type IP
+- N1 : SHDN,  of Type IO
+- K5 : PIOBU0,  of Type IO
+- L3 : PIOBU1,  of Type IO
+- M3 : PIOBU2,  of Type IO
+- N4 : PIOBU3,  of Type IO
+- L5 : PIOBU4,  of Type IO
+- M6 : PIOBU5,  of Type IO
+- M4 : VDDBU,  of Type PP
+- M5 : GNDBU,  of Type PS
+- M1 : XIN32,  of Type PS
+- L1 : XOUT32,  of Type PS
+- N2 : COMPP,  of Type IO
+- P2 : COMPN,  of Type IO
 ## ATSAMA5D22C-CUR
+
 ### Description : 
+
+- Series : SAMA5D2
+- Footprint : TFBGA196
+- MP : ATSAMA5D22C-CUR
+- Architecture : CORTEX-A5
+- PINOUT : TFBGA196
+- Reference : U
+- Documentation : https://www.microchip.com/en-us/search?q=ATSAMA5D22C-CUR
+- Value : ATSAMA5D22C-CUR
+- Family : SAMA5
+- MF : Microchip
+- Name : ATSAMA5D22
 
 ### Package : 
 
-- L9 : PA18
-- N9 : PA19
-- M9 : PA20
-- M10 : PA21
-- P9 : PA22
-- P10 : PA23
-- N10 : PA24
-- L10 : PA25
-- P11 : PA26
-- P12 : PA27
-- M11 : PA28
-- N11 : PA29
-- N12 : PA30
-- M12 : PA31
-- A6 : PB0
-- A5 : PB1
-- B6 : PB2
-- B5 : PB3
-- A4 : PB4
-- D6 : PB5
-- A3 : PB6
-- B4 : PB7
-- A2 : PB8
-- B3 : PB9
-- A1 : PB10
-- B1 : PB11
-- B2 : PB12
-- C1 : PB13
-- D5 : PB14
-- E5 : PB15
-- C5 : PB16
-- C2 : PB17
-- D4 : PB18
-- C4 : PB19
-- C3 : PB20
-- D1 : PB21
-- D2 : PB22
-- E1 : PB23
-- D3 : PB24
-- E3 : PB25
-- E2 : PB26
-- E6 : PB27
-- F1 : PB28
-- F6 : PB29
-- F2 : PB30
-- F7 : PB31
-- M13 : PC0
-- P13 : PC1
-- N13 : PC2
-- K10 : PC3
-- P14 : PC4
-- J8 : PC5
-- N14 : PC6
-- M14 : PC7
-- J9 : PC8
-- F5 : PD7
-- F3 : PD8
-- G5 : PD9
-- G4 : PD10
-- H1 : PD11
-- H6 : PD12
-- H3 : PD13
-- G6 : PD14
-- H5 : PD15
-- G1 : PD16
-- G2 : PD17
-- G3 : PD18
-- H4 : PD19
-- J1 : PD20
-- K1 : PD21
-- J3 : PD22
-- K2 : PD23
-- K3 : VDDANA
-- K4 : GNDANA
-- L2 : ADVREF
-- H2 : VDDANA
-- J2 : GNDANA
-- H12 : DDR_VREF
-- C12 : DDR_VREF
-- B7 : DDR_D0
-- A7 : DDR_D1
-- C8 : DDR_D2
-- B9 : DDR_D3
-- A9 : DDR_D4
-- C9 : DDR_D5
-- A10 : DDR_D6
-- B10 : DDR_D7
-- H13 : DDR_D8
-- H14 : DDR_D9
-- J13 : DDR_D10
-- J14 : DDR_D11
-- L13 : DDR_D12
-- L14 : DDR_D13
-- J12 : DDR_D14
-- K12 : DDR_D15
-- E11 : DDR_A0
-- C11 : DDR_A1
-- B12 : DDR_A2
-- A12 : DDR_A3
-- D11 : DDR_A4
-- D14 : DDR_A5
-- B14 : DDR_A6
-- D9 : DDR_A7
-- C10 : DDR_A8
-- D10 : DDR_A9
-- F9 : DDR_A10
-- A11 : DDR_A11
-- B11 : DDR_A12
-- E13 : DDR_A13
-- A13 : DDR_CLK
-- B13 : DDR_CLKN
-- E14 : DDR_CKE
-- D13 : DDR_RESETN
-- F11 : DDR_CS
-- A14 : DDR_WE
-- C14 : DDR_RAS
-- C13 : DDR_CAS
-- D8 : DDR_DQM0
-- G14 : DDR_DQM1
-- B8 : DDR_DQS0
-- K14 : DDR_DQS1
-- A8 : DDR_DQSN0
-- K13 : DDR_DQSN1
-- F13 : DDR_BA0
-- G13 : DDR_BA1
-- F14 : DDR_BA2
-- F10 : DDR_CAL
-- C6 : VDDIODDR
-- E10 : VDDIODDR
-- E12 : VDDIODDR
-- G10 : VDDIODDR
-- G12 : VDDIODDR
-- H11 : VDDIODDR
-- J10 : VDDIODDR
-- C7 : GNDIODDR
-- D12 : GNDIODDR
-- E9 : GNDIODDR
-- F12 : GNDIODDR
-- G11 : GNDIODDR
-- H10 : GNDIODDR
-- J11 : GNDIODDR
-- E8 : VDDCORE
-- G8 : VDDCORE
-- H8 : VDDCORE
-- H9 : VDDCORE
-- J5 : VDDCORE
-- F8 : GNDCORE
-- G7 : GNDCORE
-- G9 : GNDCORE
-- H7 : GNDCORE
-- J4 : GNDCORE
-- D7 : VDDIOP0
-- F4 : VDDIOP0
-- E4 : GNDIOP0
-- E7 : GNDIOP0
-- K8 : VDDIOP1
-- L11 : VDDIOP1
-- K9 : GDNIOP1
-- L12 : GNDIOP1
-- K11 : VDDFUSE
-- P3 : VDDPLLA
-- P4 : GNDPLLA
-- K6 : VDDAUDIOPLL
-- L6 : GNDDPLL
-- J6 : GNDAUDIOPLL
-- J7 : CLK_AUDIO
-- P5 : XIN
-- P6 : XOUT
-- N5 : VDDOSC
-- N6 : GNDOSC
-- K7 : VDDUTMII
-- L8 : GNDUTMII
-- N7 : HHSDPA
-- P7 : HHSDMA
-- N8 : HHSDPB
-- P8 : HHSDMB
-- M7 : VDDUTMIC
-- M8 : GNDUTMIC
-- L7 : VBG
-- M2 : TST
-- N3 : NRST
-- L4 : JTAGSEL
-- P1 : WKUP
-- N1 : SHDN
-- K5 : PIOBU0
-- L3 : PIOBU1
-- M3 : PIOBU2
-- N4 : PIOBU3
-- L5 : PIOBU4
-- M6 : PIOBU5
-- M4 : VDDBU
-- M5 : GNDBU
-- M1 : XIN32
-- L1 : XOUT32
-- N2 : COMPP
-- P2 : COMPN
+Pin count : 196
+- L9 : PA18,  of Type IO, alternates : [HSMC D_13, SSC1 RK_1, SPI0 SPI0_NPCS_1, I2SC1 I2SC1_DO_0, PIO P_18, QSPI0 QSPI0_IO_2, SDMMC1 SDMMC1_DAT_0]
+- N9 : PA19,  of Type IO, alternates : [SSC1 RF_1, SPI0 SPI0_NPCS_2, HSMC D_14, TC0 TIOA_0, QSPI0 QSPI0_IO_3, PIO P_19, SDMMC1 SDMMC1_DAT_1]
+- M9 : PA20,  of Type IO, alternates : [SPI0 SPI0_NPCS_3, HSMC D_15, TC0 TIOB_0, PIO P_20, SDMMC1 SDMMC1_DAT_2]
+- M10 : PA21,  of Type IO, alternates : [AIC IRQ_, PMC PCK_2, HSMC NANDRDY_, TC0 TCLK_0, PIO P_21, SDMMC1 SDMMC1_DAT_3]
+- P9 : PA22,  of Type IO, alternates : [PIO P_22, ICE TCK_, FLEXCOM1 FLEXCOM1_IO_2, HSMC D_0, SPI1 SPI1_SPCK_, SDMMC1 SDMMC1_CK_, QSPI0 QSPI0_SCK_]
+- P10 : PA23,  of Type IO, alternates : [ICE TDI_, PIO P_23, QSPI0 QSPI0_CS_, SPI1 SPI1_MOSI_, FLEXCOM1 FLEXCOM1_IO_1, HSMC D_1]
+- N10 : PA24,  of Type IO, alternates : [SPI1 SPI1_MISO_, FLEXCOM1 FLEXCOM1_IO_0, HSMC D_2, PIO P_24, ICE TDO_, QSPI0 QSPI0_IO_0]
+- L10 : PA25,  of Type IO, alternates : [PIO P_25, ICE TMS_, HSMC D_3, FLEXCOM1 FLEXCOM1_IO_3, SPI1 SPI1_NPCS_0, QSPI0 QSPI0_IO_1]
+- P11 : PA26,  of Type IO, alternates : [PIO P_26, ICE NTRST_, HSMC D_4, SPI1 SPI1_NPCS_1, FLEXCOM1 FLEXCOM1_IO_4, QSPI0 QSPI0_IO_2]
+- P12 : PA27,  of Type IO, alternates : [PIO P_27, SPI0 SPI0_NPCS_2, SDMMC1 SDMMC1_RSTN_, HSMC D_5, TC0 TIOA_1, QSPI0 QSPI0_IO_3, SPI1 SPI1_NPCS_2]
+- M11 : PA28,  of Type IO, alternates : [HSMC D_6, PIO P_28, SPI0 SPI0_NPCS_3, CLASSD CLASSD_L_0, SDMMC1 SDMMC1_CMD_, TC0 TIOB_1, SPI1 SPI1_NPCS_3]
+- N11 : PA29,  of Type IO, alternates : [HSMC D_7, TC0 TCLK_1, SDMMC1 SDMMC1_WP_, CLASSD CLASSD_L_1, SPI0 SPI0_NPCS_1, PIO P_29]
+- N12 : PA30,  of Type IO, alternates : [SPI0 SPI0_NPCS_0, PWM PWMH_0, CLASSD CLASSD_L_2, PIO P_30, HSMC NANDNWE_, SDMMC1 SDMMC1_CD_]
+- M12 : PA31,  of Type IO, alternates : [PWM PWML_0, HSMC NCS_3, CLASSD CLASSD_L_3, PIO P_31, SPI0 SPI0_MISO_]
+- A6 : PB0,  of Type IO, alternates : [PIO P_32, PWM PWMH_1, HSMC A21_, SPI0 SPI0_MOSI_]
+- A5 : PB1,  of Type IO, alternates : [SPI0 SPI0_SPCK_, PIO P_33, PWM PWML_1, HSMC A22_, CLASSD CLASSD_R_0]
+- B6 : PB2,  of Type IO, alternates : [PIO P_34, PWM PWMFI_0, CLASSD CLASSD_R_1, HSMC NANDOE_]
+- B5 : PB3,  of Type IO, alternates : [HSMC D_8, AIC IRQ_, PWM PWMEXTRG_1, PIO P_35, CLASSD CLASSD_R_2, UART4 URXD_4]
+- A4 : PB4,  of Type IO, alternates : [PIO P_36, HSMC D_9, SAIC FIQ_, UART4 UTXD_4, CLASSD CLASSD_R_3]
+- D6 : PB5,  of Type IO, alternates : [PIO P_37, HSMC D_10, PWM PWMH_2, QSPI1 QSPI1_SCK_, GMAC GTSUCOMP_, TC0 TCLK_2]
+- A3 : PB6,  of Type IO, alternates : [PIO P_38, HSMC D_11, QSPI1 QSPI1_CS_, GMAC GTXER_, PWM PWML_2, TC0 TIOA_2]
+- B4 : PB7,  of Type IO, alternates : [PIO P_39, QSPI1 QSPI1_IO_0, HSMC D_12, PWM PWMH_3, TC0 TIOB_2, GMAC GRXCK_]
+- A2 : PB8,  of Type IO, alternates : [QSPI1 QSPI1_IO_1, HSMC D_13, PIO P_40, PWM PWML_3, GMAC GCRS_, TC1 TCLK_3]
+- B3 : PB9,  of Type IO, alternates : [QSPI1 QSPI1_IO_2, HSMC D_14, GMAC GCOL_, PIO P_41, TC1 TIOA_3, PWM PWMFI_1]
+- A1 : PB10,  of Type IO, alternates : [GMAC GRX_2, PWM PWMEXTRG_2, QSPI1 QSPI1_IO_3, HSMC D_15, TC1 TIOB_3, PIO P_42]
+- B1 : PB11,  of Type IO, alternates : [GMAC GRX_3, PIO P_43, PDMIC PDMIC_DAT_, UART3 URXD_3, LCDC LCDDAT_0, HSMC A0_]
+- B2 : PB12,  of Type IO, alternates : [PDMIC PDMIC_CLK_, PIO P_44, UART3 UTXD_3, GMAC GTX_2, HSMC A_1, LCDC LCDDAT_1]
+- C1 : PB13,  of Type IO, alternates : [PMC PCK_1, PIO P_45, GMAC GTX_3, HSMC A_2, LCDC LCDDAT_2]
+- D5 : PB14,  of Type IO, alternates : [SSC1 TK_1, I2SC1 I2SC1_MCK_, LCDC LCDDAT_3, PIO P_46, HSMC A_3, QSPI1 QSPI1_SCK_, GMAC GTXCK_]
+- E5 : PB15,  of Type IO, alternates : [PIO P_47, LCDC LCDDAT_4, QSPI1 QSPI1_CS_, GMAC GTXEN_, HSMC A_4, SSC1 TF_1, I2SC1 I2SC1_CK_]
+- C5 : PB16,  of Type IO, alternates : [LCDC LCDDAT_5, PIO P_48, I2SC1 I2SC1_WS_, QSPI1 QSPI1_IO_0, HSMC A_5, GMAC GRXDV_, SSC1 TD_1]
+- C2 : PB17,  of Type IO, alternates : [LCDC LCDDAT_6, GMAC GRXER_, I2SC1 I2SC1_DI_0, PIO P_49, QSPI1 QSPI1_IO_1, HSMC A_6, SSC1 RD_1]
+- D4 : PB18,  of Type IO, alternates : [HSMC A_7, SSC1 RK_1, QSPI1 QSPI1_IO_2, LCDC LCDDAT_7, PIO P_50, I2SC1 I2SC1_DO_0, GMAC GRX_0]
+- C4 : PB19,  of Type IO, alternates : [SSC1 RF_1, QSPI1 QSPI1_IO_3, HSMC A_8, LCDC LCDDAT_8, PIO P_51, TC1 TIOA_3, GMAC GRX_1]
+- C3 : PB20,  of Type IO, alternates : [PMC PCK_1, HSMC A_9, LCDC LCDDAT_9, GMAC GTX_0, TC1 TIOB_3, PIO P_52, SSC0 TK_0]
+- D1 : PB21,  of Type IO, alternates : [SSC0 TF_0, FLEXCOM3 FLEXCOM3_IO_2, GMAC GTX_1, PIO P_53, HSMC A_10, LCDC LCDDAT_10, TC1 TCLK_3]
+- D2 : PB22,  of Type IO, alternates : [SSC0 TD_0, PIO P_54, FLEXCOM3 FLEXCOM3_IO_1, HSMC A_11, GMAC GMDC_, TC0 TIOA_2, LCDC LCDDAT_11]
+- E1 : PB23,  of Type IO, alternates : [SSC0 RD_0, GMAC GMDIO_, PIO P_55, FLEXCOM3 FLEXCOM3_IO_0, TC0 TIOB_2, HSMC A_12, LCDC LCDDAT_12]
+- D3 : PB24,  of Type IO, alternates : [PIO P_56, FLEXCOM3 FLEXCOM3_IO_3, ISC ISC_D_10, HSMC A_13, SSC0 RK_0, LCDC LCDDAT_13, TC0 TCLK_2]
+- E3 : PB25,  of Type IO, alternates : [ISC ISC_D_11, PIO P_57, HSMC A_14, LCDC LCDDAT_14, FLEXCOM3 FLEXCOM3_IO_4, SSC0 RF_0]
+- E2 : PB26,  of Type IO, alternates : [PIO P_58, ISC ISC_D_0, HSMC A_15, PDMIC PDMIC_DAT_, LCDC LCDDAT_15, UART0 URXD_0]
+- E6 : PB27,  of Type IO, alternates : [PIO P_59, ISC ISC_D_1, PDMIC PDMIC_CLK_, HSMC A_16, UART0 UTXD_0, LCDC LCDDAT_16]
+- F1 : PB28,  of Type IO, alternates : [ISC ISC_D_2, HSMC A_17, FLEXCOM0 FLEXCOM0_IO_0, LCDC LCDDAT_17, TC1 TIOA_5, PIO P_60]
+- F6 : PB29,  of Type IO, alternates : [ISC ISC_D_3, HSMC A_18, LCDC LCDDAT_18, FLEXCOM0 FLEXCOM0_IO_1, PIO P_61, TC1 TIOB_5]
+- F2 : PB30,  of Type IO, alternates : [HSMC A_19, LCDC LCDDAT_19, ISC ISC_D_4, FLEXCOM0 FLEXCOM0_IO_2, PIO P_62, TC1 TCLK_5]
+- F7 : PB31,  of Type IO, alternates : [TWIHS0 TWD_0, ISC ISC_D_5, FLEXCOM0 FLEXCOM0_IO_3, PIO P_63, HSMC A_20, LCDC LCDDAT_20]
+- M13 : PC0,  of Type IO, alternates : [TWIHS0 TWCK_0, ISC ISC_D_6, HSMC A_23, FLEXCOM0 FLEXCOM0_IO_4, PIO P_64, LCDC LCDDAT_21]
+- P13 : PC1,  of Type IO, alternates : [MCAN0 CANTX_0, I2SC0 I2SC0_CK_, PIO P_65, ISC ISC_D_7, HSMC A_24, SPI1 SPI1_SPCK_, LCDC LCDDAT_22]
+- N13 : PC2,  of Type IO, alternates : [MCAN0 CANRX_0, PIO P_66, SPI1 SPI1_MOSI_, HSMC A_25, ISC ISC_D_8, LCDC LCDDAT_23, I2SC0 I2SC0_MCK_]
+- K10 : PC3,  of Type IO, alternates : [SPI1 SPI1_MISO_, I2SC0 I2SC0_WS_, LCDC LCDPWM_, PIO P_67, TC0 TIOA_1, ISC ISC_D_9, HSMC NWAIT_]
+- P14 : PC4,  of Type IO, alternates : [ISC ISC_PCK_, LCDC LCDDISP_, I2SC0 I2SC0_DI_0, PIO P_68, SPI1 SPI1_NPCS_0, HSMC NWR1_, TC0 TIOB_1]
+- J8 : PC5,  of Type IO, alternates : [PIO P_69, ISC ISC_VSYNC_, TC0 TCLK_1, SPI1 SPI1_NPCS_1, HSMC NCS_0, I2SC0 I2SC0_DO_0, LCDC LCDVSYNC_]
+- N14 : PC6,  of Type IO, alternates : [LCDC LCDHSYNC_, TWIHS1 TWD_1, PIO P_70, ISC ISC_HSYNC_, SPI1 SPI1_NPCS_2]
+- M14 : PC7,  of Type IO, alternates : [LCDC LCDPCK_, TWIHS1 TWCK_1, ISC ISC_MCK_, UART1 URXD_1, HSMC NCS_2, SPI1 SPI1_NPCS_3, PIO P_71]
+- J9 : PC8,  of Type IO, alternates : [LCDC LCDDEN_, HSMC NANDRDY_, SAIC FIQ_, ISC ISC_FIELD_, UART1 UTXD_1, PIO P_72, PMC PCK_0]
+- F5 : PD7,  of Type IO, alternates : [ISC ISC_D_0, ICE TDI_, PIO P_103, PTC PTC_X_4, GMAC GTX_2, HSMC NWR1_]
+- F3 : PD8,  of Type IO, alternates : [HSMC NANDRDY_, ISC ISC_D_1, PTC PTC_X_5, ICE TDO_, GMAC GTX_3, PIO P_104]
+- G5 : PD9,  of Type IO, alternates : [ISC ISC_D_2, ICE TMS_, PTC PTC_X_6, PIO P_105, GMAC GTXCK_]
+- G4 : PD10,  of Type IO, alternates : [ISC ISC_D_3, ICE NTRST_, GMAC GTXEN_, PTC PTC_X_7, PIO P_106]
+- H1 : PD11,  of Type IO, alternates : [PMC PCK_2, ISC ISC_MCK_, ISC ISC_D_4, GMAC GRXDV_, TC0 TIOA_1, PIO P_107, PTC PTC_Y_0]
+- H6 : PD12,  of Type IO, alternates : [GMAC GRXER_, PIO P_108, ISC ISC_D_4, FLEXCOM4 FLEXCOM4_IO_0, ISC ISC_D_5, TC0 TIOB_1, PTC PTC_Y_1]
+- H3 : PD13,  of Type IO, alternates : [PIO P_109, TC0 TCLK_1, ISC ISC_D_6, FLEXCOM4 FLEXCOM4_IO_1, ISC ISC_D_5, GMAC GRX_0, PTC PTC_Y_2]
+- G6 : PD14,  of Type IO, alternates : [ISC ISC_D_6, PIO P_110, ISC ISC_D_7, ICE TCK_, FLEXCOM4 FLEXCOM4_IO_2, PTC PTC_Y_3, GMAC GRX_1]
+- H5 : PD15,  of Type IO, alternates : [ISC ISC_PCK_, ICE TDI_, ISC ISC_D_7, FLEXCOM4 FLEXCOM4_IO_3, GMAC GTX_0, PTC PTC_Y_4, PIO P_111]
+- G1 : PD16,  of Type IO, alternates : [ISC ISC_VSYNC_, GMAC GTX_1, ICE TDO_, ISC ISC_D_8, PIO P_112, FLEXCOM4 FLEXCOM4_IO_4, PTC PTC_Y_5]
+- G2 : PD17,  of Type IO, alternates : [ICE TMS_, PIO P_113, PTC PTC_Y_6, GMAC GMDC_, ISC ISC_D_9, ISC ISC_HSYNC_]
+- G3 : PD18,  of Type IO, alternates : [GMAC GMDIO_, ICE NTRST_, ISC ISC_FIELD_, PTC PTC_Y_7, ISC ISC_D_10, PIO P_114]
+- H4 : PD19,  of Type IO, alternates : [I2SC0 I2SC0_CK_, ISC ISC_D_11, TWIHS1 TWD_1, UART2 URXD_2, ADC AD_0, PIO P_115, PMC PCK_0]
+- J1 : PD20,  of Type IO, alternates : [ISC ISC_PCK_, TWIHS1 TWCK_1, UART2 UTXD_2, TC0 TIOA_2, PIO P_116, ADC AD_1, I2SC0 I2SC0_MCK_]
+- K1 : PD21,  of Type IO, alternates : [ISC ISC_VSYNC_, TWIHS0 TWD_0, I2SC0 I2SC0_WS_, FLEXCOM4 FLEXCOM4_IO_0, TC0 TIOB_2, ADC AD_2, PIO P_117]
+- J3 : PD22,  of Type IO, alternates : [TWIHS0 TWCK_0, FLEXCOM4 FLEXCOM4_IO_1, I2SC0 I2SC0_DI_0, PIO P_118, TC0 TCLK_2, ADC AD_3, ISC ISC_HSYNC_]
+- K2 : PD23,  of Type IO, alternates : [ADC AD_4, PIO P_119, ISC ISC_FIELD_, FLEXCOM4 FLEXCOM4_IO_2, UART2 URXD_2, I2SC0 I2SC0_DO_0]
+- K3 : VDDANA,  of Type PP
+- K4 : GNDANA,  of Type PS
+- L2 : ADVREF,  of Type PS
+- H2 : VDDANA,  of Type PP
+- J2 : GNDANA,  of Type PS
+- H12 : DDR_VREF,  of Type PS
+- C12 : DDR_VREF,  of Type PS
+- B7 : DDR_D0,  of Type IO
+- A7 : DDR_D1,  of Type IO
+- C8 : DDR_D2,  of Type IO
+- B9 : DDR_D3,  of Type IO
+- A9 : DDR_D4,  of Type IO
+- C9 : DDR_D5,  of Type IO
+- A10 : DDR_D6,  of Type IO
+- B10 : DDR_D7,  of Type IO
+- H13 : DDR_D8,  of Type IO
+- H14 : DDR_D9,  of Type IO
+- J13 : DDR_D10,  of Type IO
+- J14 : DDR_D11,  of Type IO
+- L13 : DDR_D12,  of Type IO
+- L14 : DDR_D13,  of Type IO
+- J12 : DDR_D14,  of Type IO
+- K12 : DDR_D15,  of Type IO
+- E11 : DDR_A0,  of Type OP
+- C11 : DDR_A1,  of Type OP
+- B12 : DDR_A2,  of Type OP
+- A12 : DDR_A3,  of Type OP
+- D11 : DDR_A4,  of Type OP
+- D14 : DDR_A5,  of Type OP
+- B14 : DDR_A6,  of Type OP
+- D9 : DDR_A7,  of Type OP
+- C10 : DDR_A8,  of Type OP
+- D10 : DDR_A9,  of Type OP
+- F9 : DDR_A10,  of Type OP
+- A11 : DDR_A11,  of Type OP
+- B11 : DDR_A12,  of Type OP
+- E13 : DDR_A13,  of Type OP
+- A13 : DDR_CLK,  of Type OP
+- B13 : DDR_CLKN,  of Type OP
+- E14 : DDR_CKE,  of Type OP
+- D13 : DDR_RESETN,  of Type OP
+- F11 : DDR_CS,  of Type OP
+- A14 : DDR_WE,  of Type OP
+- C14 : DDR_RAS,  of Type OP
+- C13 : DDR_CAS,  of Type OP
+- D8 : DDR_DQM0,  of Type OP
+- G14 : DDR_DQM1,  of Type OP
+- B8 : DDR_DQS0,  of Type OP
+- K14 : DDR_DQS1,  of Type OP
+- A8 : DDR_DQSN0,  of Type OP
+- K13 : DDR_DQSN1,  of Type OP
+- F13 : DDR_BA0,  of Type OP
+- G13 : DDR_BA1,  of Type OP
+- F14 : DDR_BA2,  of Type OP
+- F10 : DDR_CAL,  of Type OP
+- C6 : VDDIODDR,  of Type PP
+- E10 : VDDIODDR,  of Type PP
+- E12 : VDDIODDR,  of Type PP
+- G10 : VDDIODDR,  of Type PP
+- G12 : VDDIODDR,  of Type PP
+- H11 : VDDIODDR,  of Type PP
+- J10 : VDDIODDR,  of Type PP
+- C7 : GNDIODDR,  of Type PS
+- D12 : GNDIODDR,  of Type PS
+- E9 : GNDIODDR,  of Type PS
+- F12 : GNDIODDR,  of Type PS
+- G11 : GNDIODDR,  of Type PS
+- H10 : GNDIODDR,  of Type PS
+- J11 : GNDIODDR,  of Type PS
+- E8 : VDDCORE,  of Type PP
+- G8 : VDDCORE,  of Type PP
+- H8 : VDDCORE,  of Type PP
+- H9 : VDDCORE,  of Type PP
+- J5 : VDDCORE,  of Type PP
+- F8 : GNDCORE,  of Type PS
+- G7 : GNDCORE,  of Type PS
+- G9 : GNDCORE,  of Type PS
+- H7 : GNDCORE,  of Type PS
+- J4 : GNDCORE,  of Type PS
+- D7 : VDDIOP0,  of Type PP
+- F4 : VDDIOP0,  of Type PP
+- E4 : GNDIOP0,  of Type PS
+- E7 : GNDIOP0,  of Type PS
+- K8 : VDDIOP1,  of Type PP
+- L11 : VDDIOP1,  of Type PP
+- K9 : GDNIOP1,  of Type IO
+- L12 : GNDIOP1,  of Type PS
+- K11 : VDDFUSE,  of Type PP
+- P3 : VDDPLLA,  of Type PP
+- P4 : GNDPLLA,  of Type PS
+- K6 : VDDAUDIOPLL,  of Type PP
+- L6 : GNDDPLL,  of Type PS
+- J6 : GNDAUDIOPLL,  of Type PS
+- J7 : CLK_AUDIO,  of Type IO
+- P5 : XIN,  of Type PS
+- P6 : XOUT,  of Type PS
+- N5 : VDDOSC,  of Type PP
+- N6 : GNDOSC,  of Type PS
+- K7 : VDDUTMII,  of Type PP
+- L8 : GNDUTMII,  of Type PS
+- N7 : HHSDPA,  of Type IO
+- P7 : HHSDMA,  of Type IO
+- N8 : HHSDPB,  of Type IO
+- P8 : HHSDMB,  of Type IO
+- M7 : VDDUTMIC,  of Type PP
+- M8 : GNDUTMIC,  of Type PS
+- L7 : VBG,  of Type IO
+- M2 : TST,  of Type IO
+- N3 : NRST,  of Type IP
+- L4 : JTAGSEL,  of Type OP
+- P1 : WKUP,  of Type IP
+- N1 : SHDN,  of Type IO
+- K5 : PIOBU0,  of Type IO
+- L3 : PIOBU1,  of Type IO
+- M3 : PIOBU2,  of Type IO
+- N4 : PIOBU3,  of Type IO
+- L5 : PIOBU4,  of Type IO
+- M6 : PIOBU5,  of Type IO
+- M4 : VDDBU,  of Type PP
+- M5 : GNDBU,  of Type PS
+- M1 : XIN32,  of Type PS
+- L1 : XOUT32,  of Type PS
+- N2 : COMPP,  of Type IO
+- P2 : COMPN,  of Type IO
 ## ATSAMA5D23C-CN
+
 ### Description : 
+
+- Series : SAMA5D2
+- Footprint : TFBGA196
+- MP : ATSAMA5D23C-CN
+- Architecture : CORTEX-A5
+- PINOUT : TFBGA196
+- Reference : U
+- Documentation : https://www.microchip.com/en-us/search?q=ATSAMA5D23C-CN
+- Value : ATSAMA5D23C-CN
+- Family : SAMA5
+- MF : Microchip
+- Name : ATSAMA5D23
 
 ### Package : 
 
-- L9 : PA18
-- N9 : PA19
-- M9 : PA20
-- M10 : PA21
-- P9 : PA22
-- P10 : PA23
-- N10 : PA24
-- L10 : PA25
-- P11 : PA26
-- P12 : PA27
-- M11 : PA28
-- N11 : PA29
-- N12 : PA30
-- M12 : PC0
-- A6 : PB2
-- A5 : PB1
-- B6 : PB3
-- B5 : PB5
-- A4 : PB4
-- D6 : PB0
-- A3 : PB6
-- B4 : PB7
-- A2 : PB8
-- B3 : PB9
-- A1 : PB10
-- B1 : PB11
-- B2 : PB12
-- C1 : PB13
-- D5 : PB14
-- E5 : PB15
-- C5 : PB16
-- C2 : PB17
-- D4 : PB18
-- C4 : PB19
-- C3 : PB20
-- D1 : PB21
-- D2 : PB22
-- E1 : PB23
-- D3 : PB24
-- E3 : PB25
-- E2 : PB26
-- E6 : PB27
-- F1 : PB28
-- F6 : PB29
-- F2 : PB30
-- F7 : PB31
-- M13 : PC1
-- P13 : VDDFUSE
-- N13 : PC2
-- K10 : PC3
-- P14 : PC4
-- J8 : PC5
-- N14 : PC6
-- M14 : PC7
-- J9 : PC8
-- F5 : PD7
-- F3 : PD8
-- G5 : PD9
-- G4 : PD10
-- H1 : PD11
-- H6 : PD12
-- H3 : PD13
-- G6 : PD14
-- H5 : PD15
-- G1 : PD16
-- G2 : PD17
-- G3 : PD18
-- H4 : PD19
-- J1 : PD20
-- K1 : PD21
-- J3 : PD22
-- K2 : PD23
-- K3 : VDDANA
-- K4 : GNDANA
-- L2 : ADVREF
-- H2 : VDDANA
-- J2 : GNDANA
-- H12 : DDR_VREF
-- C12 : DDR_VREF
-- B7 : DDR_D0
-- A7 : DDR_D1
-- C8 : DDR_D2
-- B9 : DDR_D3
-- A9 : DDR_D4
-- C9 : DDR_D5
-- A10 : DDR_D6
-- B10 : DDR_D7
-- H13 : DDR_D8
-- H14 : DDR_D9
-- J13 : DDR_D10
-- J14 : DDR_D11
-- L13 : DDR_D12
-- L14 : DDR_D13
-- J12 : DDR_D14
-- K12 : DDR_D15
-- E11 : DDR_A0
-- C11 : DDR_A1
-- B12 : DDR_A2
-- A12 : DDR_A3
-- D11 : DDR_A4
-- D14 : DDR_A5
-- B14 : DDR_A6
-- D9 : DDR_A7
-- C10 : DDR_A8
-- D10 : DDR_A9
-- F9 : DDR_A10
-- A11 : DDR_A11
-- B11 : DDR_A12
-- E13 : DDR_A13
-- A13 : DDR_CLK
-- B13 : DDR_CLKN
-- E14 : DDR_CKE
-- D13 : DDR_RESETN
-- F11 : DDR_CS
-- A14 : DDR_WE
-- C14 : DDR_RAS
-- C13 : DDR_CAS
-- D8 : DDR_DQM0
-- G14 : DDR_DQM1
-- B8 : DDR_DQS0
-- K14 : DDR_DQS1
-- A8 : DDR_DQSN0
-- K13 : DDR_DQSN1
-- F13 : DDR_BA0
-- G13 : DDR_BA1
-- F14 : DDR_BA2
-- F10 : DDR_CAL
-- C6 : VDDIODDR
-- E10 : VDDIODDR
-- E12 : VDDIODDR
-- G10 : VDDIODDR
-- G12 : VDDIODDR
-- H11 : VDDIODDR
-- J10 : VDDIODDR
-- C7 : GNDIODDR
-- D12 : GNDIODDR
-- E9 : GNDIODDR
-- F12 : GNDIODDR
-- G11 : GNDIODDR
-- H10 : GNDIODDR
-- J11 : GNDIODDR
-- E8 : VDDCORE
-- G8 : VDDCORE
-- H8 : VDDCORE
-- H9 : VDDCORE
-- J5 : VDDCORE
-- F8 : GNDCORE
-- G7 : GNDCORE
-- G9 : GNDCORE
-- H7 : GNDCORE
-- J4 : GNDCORE
-- D7 : VDDIOP0
-- F4 : VDDIOP0
-- E4 : GNDIOP0
-- E7 : GNDIOP0
-- K8 : VDDIOP1
-- L11 : VDDIOP1
-- K9 : GDNIOP1
-- L12 : GNDIOP1
-- K11 : PA31
-- P3 : VDDPLLA
-- P4 : GNDPLLA
-- K6 : VDDAUDIOPLL
-- L6 : PIOBU5
-- J6 : GNDAUDIOPLL
-- J7 : CLK_AUDIO
-- P5 : XIN
-- P6 : XOUT
-- N5 : VDDOSC
-- N6 : GNDOSC
-- K7 : VDDUTMII
-- L8 : GNDUTMII
-- N7 : HHSDPA
-- P7 : HHSDMA
-- N8 : HHSDPB
-- P8 : HHSDMB
-- M7 : VDDUTMIC
-- M8 : GNDUTMIC
-- L7 : VBG
-- M2 : TST
-- N3 : NRST
-- L4 : PIOBU1
-- P1 : WKUP
-- N1 : SHDN
-- K5 : PIOBU0
-- L3 : PIOBU2
-- M3 : JTAGSEL
-- N4 : GNDBU
-- L5 : PIOBU4
-- M6 : GNDDPLL
-- M4 : VDDBU
-- M5 : PIOBU3
-- M1 : XIN32
-- L1 : XOUT32
-- N2 : COMPP
-- P2 : COMPN
+Pin count : 196
+- L9 : PA18,  of Type IO, alternates : [HSMC D_13, SSC1 RK_1, SPI0 SPI0_NPCS_1, I2SC1 I2SC1_DO_0, PIO P_18, QSPI0 QSPI0_IO_2, SDMMC1 SDMMC1_DAT_0]
+- N9 : PA19,  of Type IO, alternates : [SSC1 RF_1, SPI0 SPI0_NPCS_2, HSMC D_14, TC0 TIOA_0, QSPI0 QSPI0_IO_3, PIO P_19, SDMMC1 SDMMC1_DAT_1]
+- M9 : PA20,  of Type IO, alternates : [SPI0 SPI0_NPCS_3, HSMC D_15, TC0 TIOB_0, PIO P_20, SDMMC1 SDMMC1_DAT_2]
+- M10 : PA21,  of Type IO, alternates : [AIC IRQ_, PMC PCK_2, HSMC NANDRDY_, TC0 TCLK_0, PIO P_21, SDMMC1 SDMMC1_DAT_3]
+- P9 : PA22,  of Type IO, alternates : [PIO P_22, ICE TCK_, FLEXCOM1 FLEXCOM1_IO_2, HSMC D_0, SPI1 SPI1_SPCK_, SDMMC1 SDMMC1_CK_, QSPI0 QSPI0_SCK_]
+- P10 : PA23,  of Type IO, alternates : [ICE TDI_, PIO P_23, QSPI0 QSPI0_CS_, SPI1 SPI1_MOSI_, FLEXCOM1 FLEXCOM1_IO_1, HSMC D_1]
+- N10 : PA24,  of Type IO, alternates : [SPI1 SPI1_MISO_, FLEXCOM1 FLEXCOM1_IO_0, HSMC D_2, PIO P_24, ICE TDO_, QSPI0 QSPI0_IO_0]
+- L10 : PA25,  of Type IO, alternates : [PIO P_25, ICE TMS_, HSMC D_3, FLEXCOM1 FLEXCOM1_IO_3, SPI1 SPI1_NPCS_0, QSPI0 QSPI0_IO_1]
+- P11 : PA26,  of Type IO, alternates : [PIO P_26, ICE NTRST_, HSMC D_4, SPI1 SPI1_NPCS_1, FLEXCOM1 FLEXCOM1_IO_4, QSPI0 QSPI0_IO_2]
+- P12 : PA27,  of Type IO, alternates : [PIO P_27, SPI0 SPI0_NPCS_2, SDMMC1 SDMMC1_RSTN_, HSMC D_5, TC0 TIOA_1, QSPI0 QSPI0_IO_3, SPI1 SPI1_NPCS_2]
+- M11 : PA28,  of Type IO, alternates : [HSMC D_6, PIO P_28, SPI0 SPI0_NPCS_3, CLASSD CLASSD_L_0, SDMMC1 SDMMC1_CMD_, TC0 TIOB_1, SPI1 SPI1_NPCS_3]
+- N11 : PA29,  of Type IO, alternates : [HSMC D_7, TC0 TCLK_1, SDMMC1 SDMMC1_WP_, CLASSD CLASSD_L_1, SPI0 SPI0_NPCS_1, PIO P_29]
+- N12 : PA30,  of Type IO, alternates : [SPI0 SPI0_NPCS_0, PWM PWMH_0, CLASSD CLASSD_L_2, PIO P_30, HSMC NANDNWE_, SDMMC1 SDMMC1_CD_]
+- M12 : PC0,  of Type IO, alternates : [TWIHS0 TWCK_0, ISC ISC_D_6, HSMC A_23, FLEXCOM0 FLEXCOM0_IO_4, PIO P_64, LCDC LCDDAT_21]
+- A6 : PB2,  of Type IO, alternates : [PIO P_34, PWM PWMFI_0, CLASSD CLASSD_R_1, HSMC NANDOE_]
+- A5 : PB1,  of Type IO, alternates : [SPI0 SPI0_SPCK_, PIO P_33, PWM PWML_1, HSMC A22_, CLASSD CLASSD_R_0]
+- B6 : PB3,  of Type IO, alternates : [HSMC D_8, AIC IRQ_, PWM PWMEXTRG_1, PIO P_35, CLASSD CLASSD_R_2, UART4 URXD_4]
+- B5 : PB5,  of Type IO, alternates : [PIO P_37, HSMC D_10, PWM PWMH_2, QSPI1 QSPI1_SCK_, GMAC GTSUCOMP_, TC0 TCLK_2]
+- A4 : PB4,  of Type IO, alternates : [PIO P_36, HSMC D_9, SAIC FIQ_, UART4 UTXD_4, CLASSD CLASSD_R_3]
+- D6 : PB0,  of Type IO, alternates : [PIO P_32, PWM PWMH_1, HSMC A21_, SPI0 SPI0_MOSI_]
+- A3 : PB6,  of Type IO, alternates : [PIO P_38, HSMC D_11, QSPI1 QSPI1_CS_, GMAC GTXER_, PWM PWML_2, TC0 TIOA_2]
+- B4 : PB7,  of Type IO, alternates : [PIO P_39, QSPI1 QSPI1_IO_0, HSMC D_12, PWM PWMH_3, TC0 TIOB_2, GMAC GRXCK_]
+- A2 : PB8,  of Type IO, alternates : [QSPI1 QSPI1_IO_1, HSMC D_13, PIO P_40, PWM PWML_3, GMAC GCRS_, TC1 TCLK_3]
+- B3 : PB9,  of Type IO, alternates : [QSPI1 QSPI1_IO_2, HSMC D_14, GMAC GCOL_, PIO P_41, TC1 TIOA_3, PWM PWMFI_1]
+- A1 : PB10,  of Type IO, alternates : [GMAC GRX_2, PWM PWMEXTRG_2, QSPI1 QSPI1_IO_3, HSMC D_15, TC1 TIOB_3, PIO P_42]
+- B1 : PB11,  of Type IO, alternates : [GMAC GRX_3, PIO P_43, PDMIC PDMIC_DAT_, UART3 URXD_3, LCDC LCDDAT_0, HSMC A0_]
+- B2 : PB12,  of Type IO, alternates : [PDMIC PDMIC_CLK_, PIO P_44, UART3 UTXD_3, GMAC GTX_2, HSMC A_1, LCDC LCDDAT_1]
+- C1 : PB13,  of Type IO, alternates : [PMC PCK_1, PIO P_45, GMAC GTX_3, HSMC A_2, LCDC LCDDAT_2]
+- D5 : PB14,  of Type IO, alternates : [SSC1 TK_1, I2SC1 I2SC1_MCK_, LCDC LCDDAT_3, PIO P_46, HSMC A_3, QSPI1 QSPI1_SCK_, GMAC GTXCK_]
+- E5 : PB15,  of Type IO, alternates : [PIO P_47, LCDC LCDDAT_4, QSPI1 QSPI1_CS_, GMAC GTXEN_, HSMC A_4, SSC1 TF_1, I2SC1 I2SC1_CK_]
+- C5 : PB16,  of Type IO, alternates : [LCDC LCDDAT_5, PIO P_48, I2SC1 I2SC1_WS_, QSPI1 QSPI1_IO_0, HSMC A_5, GMAC GRXDV_, SSC1 TD_1]
+- C2 : PB17,  of Type IO, alternates : [LCDC LCDDAT_6, GMAC GRXER_, I2SC1 I2SC1_DI_0, PIO P_49, QSPI1 QSPI1_IO_1, HSMC A_6, SSC1 RD_1]
+- D4 : PB18,  of Type IO, alternates : [HSMC A_7, SSC1 RK_1, QSPI1 QSPI1_IO_2, LCDC LCDDAT_7, PIO P_50, I2SC1 I2SC1_DO_0, GMAC GRX_0]
+- C4 : PB19,  of Type IO, alternates : [SSC1 RF_1, QSPI1 QSPI1_IO_3, HSMC A_8, LCDC LCDDAT_8, PIO P_51, TC1 TIOA_3, GMAC GRX_1]
+- C3 : PB20,  of Type IO, alternates : [PMC PCK_1, HSMC A_9, LCDC LCDDAT_9, GMAC GTX_0, TC1 TIOB_3, PIO P_52, SSC0 TK_0]
+- D1 : PB21,  of Type IO, alternates : [SSC0 TF_0, FLEXCOM3 FLEXCOM3_IO_2, GMAC GTX_1, PIO P_53, HSMC A_10, LCDC LCDDAT_10, TC1 TCLK_3]
+- D2 : PB22,  of Type IO, alternates : [SSC0 TD_0, PIO P_54, FLEXCOM3 FLEXCOM3_IO_1, HSMC A_11, GMAC GMDC_, TC0 TIOA_2, LCDC LCDDAT_11]
+- E1 : PB23,  of Type IO, alternates : [SSC0 RD_0, GMAC GMDIO_, PIO P_55, FLEXCOM3 FLEXCOM3_IO_0, TC0 TIOB_2, HSMC A_12, LCDC LCDDAT_12]
+- D3 : PB24,  of Type IO, alternates : [PIO P_56, FLEXCOM3 FLEXCOM3_IO_3, ISC ISC_D_10, HSMC A_13, SSC0 RK_0, LCDC LCDDAT_13, TC0 TCLK_2]
+- E3 : PB25,  of Type IO, alternates : [ISC ISC_D_11, PIO P_57, HSMC A_14, LCDC LCDDAT_14, FLEXCOM3 FLEXCOM3_IO_4, SSC0 RF_0]
+- E2 : PB26,  of Type IO, alternates : [PIO P_58, ISC ISC_D_0, HSMC A_15, PDMIC PDMIC_DAT_, LCDC LCDDAT_15, UART0 URXD_0]
+- E6 : PB27,  of Type IO, alternates : [PIO P_59, ISC ISC_D_1, PDMIC PDMIC_CLK_, HSMC A_16, UART0 UTXD_0, LCDC LCDDAT_16]
+- F1 : PB28,  of Type IO, alternates : [ISC ISC_D_2, HSMC A_17, FLEXCOM0 FLEXCOM0_IO_0, LCDC LCDDAT_17, TC1 TIOA_5, PIO P_60]
+- F6 : PB29,  of Type IO, alternates : [ISC ISC_D_3, HSMC A_18, LCDC LCDDAT_18, FLEXCOM0 FLEXCOM0_IO_1, PIO P_61, TC1 TIOB_5]
+- F2 : PB30,  of Type IO, alternates : [HSMC A_19, LCDC LCDDAT_19, ISC ISC_D_4, FLEXCOM0 FLEXCOM0_IO_2, PIO P_62, TC1 TCLK_5]
+- F7 : PB31,  of Type IO, alternates : [TWIHS0 TWD_0, ISC ISC_D_5, FLEXCOM0 FLEXCOM0_IO_3, PIO P_63, HSMC A_20, LCDC LCDDAT_20]
+- M13 : PC1,  of Type IO, alternates : [MCAN0 CANTX_0, I2SC0 I2SC0_CK_, PIO P_65, ISC ISC_D_7, HSMC A_24, SPI1 SPI1_SPCK_, LCDC LCDDAT_22]
+- P13 : VDDFUSE,  of Type PP
+- N13 : PC2,  of Type IO, alternates : [MCAN0 CANRX_0, PIO P_66, SPI1 SPI1_MOSI_, HSMC A_25, ISC ISC_D_8, LCDC LCDDAT_23, I2SC0 I2SC0_MCK_]
+- K10 : PC3,  of Type IO, alternates : [SPI1 SPI1_MISO_, I2SC0 I2SC0_WS_, LCDC LCDPWM_, PIO P_67, TC0 TIOA_1, ISC ISC_D_9, HSMC NWAIT_]
+- P14 : PC4,  of Type IO, alternates : [ISC ISC_PCK_, LCDC LCDDISP_, I2SC0 I2SC0_DI_0, PIO P_68, SPI1 SPI1_NPCS_0, HSMC NWR1_, TC0 TIOB_1]
+- J8 : PC5,  of Type IO, alternates : [PIO P_69, ISC ISC_VSYNC_, TC0 TCLK_1, SPI1 SPI1_NPCS_1, HSMC NCS_0, I2SC0 I2SC0_DO_0, LCDC LCDVSYNC_]
+- N14 : PC6,  of Type IO, alternates : [LCDC LCDHSYNC_, TWIHS1 TWD_1, PIO P_70, ISC ISC_HSYNC_, SPI1 SPI1_NPCS_2]
+- M14 : PC7,  of Type IO, alternates : [LCDC LCDPCK_, TWIHS1 TWCK_1, ISC ISC_MCK_, UART1 URXD_1, HSMC NCS_2, SPI1 SPI1_NPCS_3, PIO P_71]
+- J9 : PC8,  of Type IO, alternates : [LCDC LCDDEN_, HSMC NANDRDY_, SAIC FIQ_, ISC ISC_FIELD_, UART1 UTXD_1, PIO P_72, PMC PCK_0]
+- F5 : PD7,  of Type IO, alternates : [ISC ISC_D_0, ICE TDI_, PIO P_103, PTC PTC_X_4, GMAC GTX_2, HSMC NWR1_]
+- F3 : PD8,  of Type IO, alternates : [HSMC NANDRDY_, ISC ISC_D_1, PTC PTC_X_5, ICE TDO_, GMAC GTX_3, PIO P_104]
+- G5 : PD9,  of Type IO, alternates : [ISC ISC_D_2, ICE TMS_, PTC PTC_X_6, PIO P_105, GMAC GTXCK_]
+- G4 : PD10,  of Type IO, alternates : [ISC ISC_D_3, ICE NTRST_, GMAC GTXEN_, PTC PTC_X_7, PIO P_106]
+- H1 : PD11,  of Type IO, alternates : [PMC PCK_2, ISC ISC_MCK_, ISC ISC_D_4, GMAC GRXDV_, TC0 TIOA_1, PIO P_107, PTC PTC_Y_0]
+- H6 : PD12,  of Type IO, alternates : [GMAC GRXER_, PIO P_108, ISC ISC_D_4, FLEXCOM4 FLEXCOM4_IO_0, ISC ISC_D_5, TC0 TIOB_1, PTC PTC_Y_1]
+- H3 : PD13,  of Type IO, alternates : [PIO P_109, TC0 TCLK_1, ISC ISC_D_6, FLEXCOM4 FLEXCOM4_IO_1, ISC ISC_D_5, GMAC GRX_0, PTC PTC_Y_2]
+- G6 : PD14,  of Type IO, alternates : [ISC ISC_D_6, PIO P_110, ISC ISC_D_7, ICE TCK_, FLEXCOM4 FLEXCOM4_IO_2, PTC PTC_Y_3, GMAC GRX_1]
+- H5 : PD15,  of Type IO, alternates : [ISC ISC_PCK_, ICE TDI_, ISC ISC_D_7, FLEXCOM4 FLEXCOM4_IO_3, GMAC GTX_0, PTC PTC_Y_4, PIO P_111]
+- G1 : PD16,  of Type IO, alternates : [ISC ISC_VSYNC_, GMAC GTX_1, ICE TDO_, ISC ISC_D_8, PIO P_112, FLEXCOM4 FLEXCOM4_IO_4, PTC PTC_Y_5]
+- G2 : PD17,  of Type IO, alternates : [ICE TMS_, PIO P_113, PTC PTC_Y_6, GMAC GMDC_, ISC ISC_D_9, ISC ISC_HSYNC_]
+- G3 : PD18,  of Type IO, alternates : [GMAC GMDIO_, ICE NTRST_, ISC ISC_FIELD_, PTC PTC_Y_7, ISC ISC_D_10, PIO P_114]
+- H4 : PD19,  of Type IO, alternates : [I2SC0 I2SC0_CK_, ISC ISC_D_11, TWIHS1 TWD_1, UART2 URXD_2, ADC AD_0, PIO P_115, PMC PCK_0]
+- J1 : PD20,  of Type IO, alternates : [ISC ISC_PCK_, TWIHS1 TWCK_1, UART2 UTXD_2, TC0 TIOA_2, PIO P_116, ADC AD_1, I2SC0 I2SC0_MCK_]
+- K1 : PD21,  of Type IO, alternates : [ISC ISC_VSYNC_, TWIHS0 TWD_0, I2SC0 I2SC0_WS_, FLEXCOM4 FLEXCOM4_IO_0, TC0 TIOB_2, ADC AD_2, PIO P_117]
+- J3 : PD22,  of Type IO, alternates : [TWIHS0 TWCK_0, FLEXCOM4 FLEXCOM4_IO_1, I2SC0 I2SC0_DI_0, PIO P_118, TC0 TCLK_2, ADC AD_3, ISC ISC_HSYNC_]
+- K2 : PD23,  of Type IO, alternates : [ADC AD_4, PIO P_119, ISC ISC_FIELD_, FLEXCOM4 FLEXCOM4_IO_2, UART2 URXD_2, I2SC0 I2SC0_DO_0]
+- K3 : VDDANA,  of Type PP
+- K4 : GNDANA,  of Type PS
+- L2 : ADVREF,  of Type PS
+- H2 : VDDANA,  of Type PP
+- J2 : GNDANA,  of Type PS
+- H12 : DDR_VREF,  of Type PS
+- C12 : DDR_VREF,  of Type PS
+- B7 : DDR_D0,  of Type IO
+- A7 : DDR_D1,  of Type IO
+- C8 : DDR_D2,  of Type IO
+- B9 : DDR_D3,  of Type IO
+- A9 : DDR_D4,  of Type IO
+- C9 : DDR_D5,  of Type IO
+- A10 : DDR_D6,  of Type IO
+- B10 : DDR_D7,  of Type IO
+- H13 : DDR_D8,  of Type IO
+- H14 : DDR_D9,  of Type IO
+- J13 : DDR_D10,  of Type IO
+- J14 : DDR_D11,  of Type IO
+- L13 : DDR_D12,  of Type IO
+- L14 : DDR_D13,  of Type IO
+- J12 : DDR_D14,  of Type IO
+- K12 : DDR_D15,  of Type IO
+- E11 : DDR_A0,  of Type OP
+- C11 : DDR_A1,  of Type OP
+- B12 : DDR_A2,  of Type OP
+- A12 : DDR_A3,  of Type OP
+- D11 : DDR_A4,  of Type OP
+- D14 : DDR_A5,  of Type OP
+- B14 : DDR_A6,  of Type OP
+- D9 : DDR_A7,  of Type OP
+- C10 : DDR_A8,  of Type OP
+- D10 : DDR_A9,  of Type OP
+- F9 : DDR_A10,  of Type OP
+- A11 : DDR_A11,  of Type OP
+- B11 : DDR_A12,  of Type OP
+- E13 : DDR_A13,  of Type OP
+- A13 : DDR_CLK,  of Type OP
+- B13 : DDR_CLKN,  of Type OP
+- E14 : DDR_CKE,  of Type OP
+- D13 : DDR_RESETN,  of Type OP
+- F11 : DDR_CS,  of Type OP
+- A14 : DDR_WE,  of Type OP
+- C14 : DDR_RAS,  of Type OP
+- C13 : DDR_CAS,  of Type OP
+- D8 : DDR_DQM0,  of Type OP
+- G14 : DDR_DQM1,  of Type OP
+- B8 : DDR_DQS0,  of Type OP
+- K14 : DDR_DQS1,  of Type OP
+- A8 : DDR_DQSN0,  of Type OP
+- K13 : DDR_DQSN1,  of Type OP
+- F13 : DDR_BA0,  of Type OP
+- G13 : DDR_BA1,  of Type OP
+- F14 : DDR_BA2,  of Type OP
+- F10 : DDR_CAL,  of Type OP
+- C6 : VDDIODDR,  of Type PP
+- E10 : VDDIODDR,  of Type PP
+- E12 : VDDIODDR,  of Type PP
+- G10 : VDDIODDR,  of Type PP
+- G12 : VDDIODDR,  of Type PP
+- H11 : VDDIODDR,  of Type PP
+- J10 : VDDIODDR,  of Type PP
+- C7 : GNDIODDR,  of Type PS
+- D12 : GNDIODDR,  of Type PS
+- E9 : GNDIODDR,  of Type PS
+- F12 : GNDIODDR,  of Type PS
+- G11 : GNDIODDR,  of Type PS
+- H10 : GNDIODDR,  of Type PS
+- J11 : GNDIODDR,  of Type PS
+- E8 : VDDCORE,  of Type PP
+- G8 : VDDCORE,  of Type PP
+- H8 : VDDCORE,  of Type PP
+- H9 : VDDCORE,  of Type PP
+- J5 : VDDCORE,  of Type PP
+- F8 : GNDCORE,  of Type PS
+- G7 : GNDCORE,  of Type PS
+- G9 : GNDCORE,  of Type PS
+- H7 : GNDCORE,  of Type PS
+- J4 : GNDCORE,  of Type PS
+- D7 : VDDIOP0,  of Type PP
+- F4 : VDDIOP0,  of Type PP
+- E4 : GNDIOP0,  of Type PS
+- E7 : GNDIOP0,  of Type PS
+- K8 : VDDIOP1,  of Type PP
+- L11 : VDDIOP1,  of Type PP
+- K9 : GDNIOP1,  of Type IO
+- L12 : GNDIOP1,  of Type PS
+- K11 : PA31,  of Type IO, alternates : [PWM PWML_0, HSMC NCS_3, CLASSD CLASSD_L_3, PIO P_31, SPI0 SPI0_MISO_]
+- P3 : VDDPLLA,  of Type PP
+- P4 : GNDPLLA,  of Type PS
+- K6 : VDDAUDIOPLL,  of Type PP
+- L6 : PIOBU5,  of Type IO
+- J6 : GNDAUDIOPLL,  of Type PS
+- J7 : CLK_AUDIO,  of Type IO
+- P5 : XIN,  of Type PS
+- P6 : XOUT,  of Type PS
+- N5 : VDDOSC,  of Type PP
+- N6 : GNDOSC,  of Type PS
+- K7 : VDDUTMII,  of Type PP
+- L8 : GNDUTMII,  of Type PS
+- N7 : HHSDPA,  of Type IO
+- P7 : HHSDMA,  of Type IO
+- N8 : HHSDPB,  of Type IO
+- P8 : HHSDMB,  of Type IO
+- M7 : VDDUTMIC,  of Type PP
+- M8 : GNDUTMIC,  of Type PS
+- L7 : VBG,  of Type IO
+- M2 : TST,  of Type IO
+- N3 : NRST,  of Type IP
+- L4 : PIOBU1,  of Type IO
+- P1 : WKUP,  of Type IP
+- N1 : SHDN,  of Type IO
+- K5 : PIOBU0,  of Type IO
+- L3 : PIOBU2,  of Type IO
+- M3 : JTAGSEL,  of Type OP
+- N4 : GNDBU,  of Type PS
+- L5 : PIOBU4,  of Type IO
+- M6 : GNDDPLL,  of Type PS
+- M4 : VDDBU,  of Type PP
+- M5 : PIOBU3,  of Type IO
+- M1 : XIN32,  of Type PS
+- L1 : XOUT32,  of Type PS
+- N2 : COMPP,  of Type IO
+- P2 : COMPN,  of Type IO
 ## ATSAMA5D23C-CNR
+
 ### Description : 
+
+- Series : SAMA5D2
+- Footprint : TFBGA196
+- MP : ATSAMA5D23C-CNR
+- Architecture : CORTEX-A5
+- PINOUT : TFBGA196
+- Reference : U
+- Documentation : https://www.microchip.com/en-us/search?q=ATSAMA5D23C-CNR
+- Value : ATSAMA5D23C-CNR
+- Family : SAMA5
+- MF : Microchip
+- Name : ATSAMA5D23
 
 ### Package : 
 
-- L9 : PA18
-- N9 : PA19
-- M9 : PA20
-- M10 : PA21
-- P9 : PA22
-- P10 : PA23
-- N10 : PA24
-- L10 : PA25
-- P11 : PA26
-- P12 : PA27
-- M11 : PA28
-- N11 : PA29
-- N12 : PA30
-- M12 : PC0
-- A6 : PB2
-- A5 : PB1
-- B6 : PB3
-- B5 : PB5
-- A4 : PB4
-- D6 : PB0
-- A3 : PB6
-- B4 : PB7
-- A2 : PB8
-- B3 : PB9
-- A1 : PB10
-- B1 : PB11
-- B2 : PB12
-- C1 : PB13
-- D5 : PB14
-- E5 : PB15
-- C5 : PB16
-- C2 : PB17
-- D4 : PB18
-- C4 : PB19
-- C3 : PB20
-- D1 : PB21
-- D2 : PB22
-- E1 : PB23
-- D3 : PB24
-- E3 : PB25
-- E2 : PB26
-- E6 : PB27
-- F1 : PB28
-- F6 : PB29
-- F2 : PB30
-- F7 : PB31
-- M13 : PC1
-- P13 : VDDFUSE
-- N13 : PC2
-- K10 : PC3
-- P14 : PC4
-- J8 : PC5
-- N14 : PC6
-- M14 : PC7
-- J9 : PC8
-- F5 : PD7
-- F3 : PD8
-- G5 : PD9
-- G4 : PD10
-- H1 : PD11
-- H6 : PD12
-- H3 : PD13
-- G6 : PD14
-- H5 : PD15
-- G1 : PD16
-- G2 : PD17
-- G3 : PD18
-- H4 : PD19
-- J1 : PD20
-- K1 : PD21
-- J3 : PD22
-- K2 : PD23
-- K3 : VDDANA
-- K4 : GNDANA
-- L2 : ADVREF
-- H2 : VDDANA
-- J2 : GNDANA
-- H12 : DDR_VREF
-- C12 : DDR_VREF
-- B7 : DDR_D0
-- A7 : DDR_D1
-- C8 : DDR_D2
-- B9 : DDR_D3
-- A9 : DDR_D4
-- C9 : DDR_D5
-- A10 : DDR_D6
-- B10 : DDR_D7
-- H13 : DDR_D8
-- H14 : DDR_D9
-- J13 : DDR_D10
-- J14 : DDR_D11
-- L13 : DDR_D12
-- L14 : DDR_D13
-- J12 : DDR_D14
-- K12 : DDR_D15
-- E11 : DDR_A0
-- C11 : DDR_A1
-- B12 : DDR_A2
-- A12 : DDR_A3
-- D11 : DDR_A4
-- D14 : DDR_A5
-- B14 : DDR_A6
-- D9 : DDR_A7
-- C10 : DDR_A8
-- D10 : DDR_A9
-- F9 : DDR_A10
-- A11 : DDR_A11
-- B11 : DDR_A12
-- E13 : DDR_A13
-- A13 : DDR_CLK
-- B13 : DDR_CLKN
-- E14 : DDR_CKE
-- D13 : DDR_RESETN
-- F11 : DDR_CS
-- A14 : DDR_WE
-- C14 : DDR_RAS
-- C13 : DDR_CAS
-- D8 : DDR_DQM0
-- G14 : DDR_DQM1
-- B8 : DDR_DQS0
-- K14 : DDR_DQS1
-- A8 : DDR_DQSN0
-- K13 : DDR_DQSN1
-- F13 : DDR_BA0
-- G13 : DDR_BA1
-- F14 : DDR_BA2
-- F10 : DDR_CAL
-- C6 : VDDIODDR
-- E10 : VDDIODDR
-- E12 : VDDIODDR
-- G10 : VDDIODDR
-- G12 : VDDIODDR
-- H11 : VDDIODDR
-- J10 : VDDIODDR
-- C7 : GNDIODDR
-- D12 : GNDIODDR
-- E9 : GNDIODDR
-- F12 : GNDIODDR
-- G11 : GNDIODDR
-- H10 : GNDIODDR
-- J11 : GNDIODDR
-- E8 : VDDCORE
-- G8 : VDDCORE
-- H8 : VDDCORE
-- H9 : VDDCORE
-- J5 : VDDCORE
-- F8 : GNDCORE
-- G7 : GNDCORE
-- G9 : GNDCORE
-- H7 : GNDCORE
-- J4 : GNDCORE
-- D7 : VDDIOP0
-- F4 : VDDIOP0
-- E4 : GNDIOP0
-- E7 : GNDIOP0
-- K8 : VDDIOP1
-- L11 : VDDIOP1
-- K9 : GDNIOP1
-- L12 : GNDIOP1
-- K11 : PA31
-- P3 : VDDPLLA
-- P4 : GNDPLLA
-- K6 : VDDAUDIOPLL
-- L6 : PIOBU5
-- J6 : GNDAUDIOPLL
-- J7 : CLK_AUDIO
-- P5 : XIN
-- P6 : XOUT
-- N5 : VDDOSC
-- N6 : GNDOSC
-- K7 : VDDUTMII
-- L8 : GNDUTMII
-- N7 : HHSDPA
-- P7 : HHSDMA
-- N8 : HHSDPB
-- P8 : HHSDMB
-- M7 : VDDUTMIC
-- M8 : GNDUTMIC
-- L7 : VBG
-- M2 : TST
-- N3 : NRST
-- L4 : PIOBU1
-- P1 : WKUP
-- N1 : SHDN
-- K5 : PIOBU0
-- L3 : PIOBU2
-- M3 : JTAGSEL
-- N4 : GNDBU
-- L5 : PIOBU4
-- M6 : GNDDPLL
-- M4 : VDDBU
-- M5 : PIOBU3
-- M1 : XIN32
-- L1 : XOUT32
-- N2 : COMPP
-- P2 : COMPN
+Pin count : 196
+- L9 : PA18,  of Type IO, alternates : [HSMC D_13, SSC1 RK_1, SPI0 SPI0_NPCS_1, I2SC1 I2SC1_DO_0, PIO P_18, QSPI0 QSPI0_IO_2, SDMMC1 SDMMC1_DAT_0]
+- N9 : PA19,  of Type IO, alternates : [SSC1 RF_1, SPI0 SPI0_NPCS_2, HSMC D_14, TC0 TIOA_0, QSPI0 QSPI0_IO_3, PIO P_19, SDMMC1 SDMMC1_DAT_1]
+- M9 : PA20,  of Type IO, alternates : [SPI0 SPI0_NPCS_3, HSMC D_15, TC0 TIOB_0, PIO P_20, SDMMC1 SDMMC1_DAT_2]
+- M10 : PA21,  of Type IO, alternates : [AIC IRQ_, PMC PCK_2, HSMC NANDRDY_, TC0 TCLK_0, PIO P_21, SDMMC1 SDMMC1_DAT_3]
+- P9 : PA22,  of Type IO, alternates : [PIO P_22, ICE TCK_, FLEXCOM1 FLEXCOM1_IO_2, HSMC D_0, SPI1 SPI1_SPCK_, SDMMC1 SDMMC1_CK_, QSPI0 QSPI0_SCK_]
+- P10 : PA23,  of Type IO, alternates : [ICE TDI_, PIO P_23, QSPI0 QSPI0_CS_, SPI1 SPI1_MOSI_, FLEXCOM1 FLEXCOM1_IO_1, HSMC D_1]
+- N10 : PA24,  of Type IO, alternates : [SPI1 SPI1_MISO_, FLEXCOM1 FLEXCOM1_IO_0, HSMC D_2, PIO P_24, ICE TDO_, QSPI0 QSPI0_IO_0]
+- L10 : PA25,  of Type IO, alternates : [PIO P_25, ICE TMS_, HSMC D_3, FLEXCOM1 FLEXCOM1_IO_3, SPI1 SPI1_NPCS_0, QSPI0 QSPI0_IO_1]
+- P11 : PA26,  of Type IO, alternates : [PIO P_26, ICE NTRST_, HSMC D_4, SPI1 SPI1_NPCS_1, FLEXCOM1 FLEXCOM1_IO_4, QSPI0 QSPI0_IO_2]
+- P12 : PA27,  of Type IO, alternates : [PIO P_27, SPI0 SPI0_NPCS_2, SDMMC1 SDMMC1_RSTN_, HSMC D_5, TC0 TIOA_1, QSPI0 QSPI0_IO_3, SPI1 SPI1_NPCS_2]
+- M11 : PA28,  of Type IO, alternates : [HSMC D_6, PIO P_28, SPI0 SPI0_NPCS_3, CLASSD CLASSD_L_0, SDMMC1 SDMMC1_CMD_, TC0 TIOB_1, SPI1 SPI1_NPCS_3]
+- N11 : PA29,  of Type IO, alternates : [HSMC D_7, TC0 TCLK_1, SDMMC1 SDMMC1_WP_, CLASSD CLASSD_L_1, SPI0 SPI0_NPCS_1, PIO P_29]
+- N12 : PA30,  of Type IO, alternates : [SPI0 SPI0_NPCS_0, PWM PWMH_0, CLASSD CLASSD_L_2, PIO P_30, HSMC NANDNWE_, SDMMC1 SDMMC1_CD_]
+- M12 : PC0,  of Type IO, alternates : [TWIHS0 TWCK_0, ISC ISC_D_6, HSMC A_23, FLEXCOM0 FLEXCOM0_IO_4, PIO P_64, LCDC LCDDAT_21]
+- A6 : PB2,  of Type IO, alternates : [PIO P_34, PWM PWMFI_0, CLASSD CLASSD_R_1, HSMC NANDOE_]
+- A5 : PB1,  of Type IO, alternates : [SPI0 SPI0_SPCK_, PIO P_33, PWM PWML_1, HSMC A22_, CLASSD CLASSD_R_0]
+- B6 : PB3,  of Type IO, alternates : [HSMC D_8, AIC IRQ_, PWM PWMEXTRG_1, PIO P_35, CLASSD CLASSD_R_2, UART4 URXD_4]
+- B5 : PB5,  of Type IO, alternates : [PIO P_37, HSMC D_10, PWM PWMH_2, QSPI1 QSPI1_SCK_, GMAC GTSUCOMP_, TC0 TCLK_2]
+- A4 : PB4,  of Type IO, alternates : [PIO P_36, HSMC D_9, SAIC FIQ_, UART4 UTXD_4, CLASSD CLASSD_R_3]
+- D6 : PB0,  of Type IO, alternates : [PIO P_32, PWM PWMH_1, HSMC A21_, SPI0 SPI0_MOSI_]
+- A3 : PB6,  of Type IO, alternates : [PIO P_38, HSMC D_11, QSPI1 QSPI1_CS_, GMAC GTXER_, PWM PWML_2, TC0 TIOA_2]
+- B4 : PB7,  of Type IO, alternates : [PIO P_39, QSPI1 QSPI1_IO_0, HSMC D_12, PWM PWMH_3, TC0 TIOB_2, GMAC GRXCK_]
+- A2 : PB8,  of Type IO, alternates : [QSPI1 QSPI1_IO_1, HSMC D_13, PIO P_40, PWM PWML_3, GMAC GCRS_, TC1 TCLK_3]
+- B3 : PB9,  of Type IO, alternates : [QSPI1 QSPI1_IO_2, HSMC D_14, GMAC GCOL_, PIO P_41, TC1 TIOA_3, PWM PWMFI_1]
+- A1 : PB10,  of Type IO, alternates : [GMAC GRX_2, PWM PWMEXTRG_2, QSPI1 QSPI1_IO_3, HSMC D_15, TC1 TIOB_3, PIO P_42]
+- B1 : PB11,  of Type IO, alternates : [GMAC GRX_3, PIO P_43, PDMIC PDMIC_DAT_, UART3 URXD_3, LCDC LCDDAT_0, HSMC A0_]
+- B2 : PB12,  of Type IO, alternates : [PDMIC PDMIC_CLK_, PIO P_44, UART3 UTXD_3, GMAC GTX_2, HSMC A_1, LCDC LCDDAT_1]
+- C1 : PB13,  of Type IO, alternates : [PMC PCK_1, PIO P_45, GMAC GTX_3, HSMC A_2, LCDC LCDDAT_2]
+- D5 : PB14,  of Type IO, alternates : [SSC1 TK_1, I2SC1 I2SC1_MCK_, LCDC LCDDAT_3, PIO P_46, HSMC A_3, QSPI1 QSPI1_SCK_, GMAC GTXCK_]
+- E5 : PB15,  of Type IO, alternates : [PIO P_47, LCDC LCDDAT_4, QSPI1 QSPI1_CS_, GMAC GTXEN_, HSMC A_4, SSC1 TF_1, I2SC1 I2SC1_CK_]
+- C5 : PB16,  of Type IO, alternates : [LCDC LCDDAT_5, PIO P_48, I2SC1 I2SC1_WS_, QSPI1 QSPI1_IO_0, HSMC A_5, GMAC GRXDV_, SSC1 TD_1]
+- C2 : PB17,  of Type IO, alternates : [LCDC LCDDAT_6, GMAC GRXER_, I2SC1 I2SC1_DI_0, PIO P_49, QSPI1 QSPI1_IO_1, HSMC A_6, SSC1 RD_1]
+- D4 : PB18,  of Type IO, alternates : [HSMC A_7, SSC1 RK_1, QSPI1 QSPI1_IO_2, LCDC LCDDAT_7, PIO P_50, I2SC1 I2SC1_DO_0, GMAC GRX_0]
+- C4 : PB19,  of Type IO, alternates : [SSC1 RF_1, QSPI1 QSPI1_IO_3, HSMC A_8, LCDC LCDDAT_8, PIO P_51, TC1 TIOA_3, GMAC GRX_1]
+- C3 : PB20,  of Type IO, alternates : [PMC PCK_1, HSMC A_9, LCDC LCDDAT_9, GMAC GTX_0, TC1 TIOB_3, PIO P_52, SSC0 TK_0]
+- D1 : PB21,  of Type IO, alternates : [SSC0 TF_0, FLEXCOM3 FLEXCOM3_IO_2, GMAC GTX_1, PIO P_53, HSMC A_10, LCDC LCDDAT_10, TC1 TCLK_3]
+- D2 : PB22,  of Type IO, alternates : [SSC0 TD_0, PIO P_54, FLEXCOM3 FLEXCOM3_IO_1, HSMC A_11, GMAC GMDC_, TC0 TIOA_2, LCDC LCDDAT_11]
+- E1 : PB23,  of Type IO, alternates : [SSC0 RD_0, GMAC GMDIO_, PIO P_55, FLEXCOM3 FLEXCOM3_IO_0, TC0 TIOB_2, HSMC A_12, LCDC LCDDAT_12]
+- D3 : PB24,  of Type IO, alternates : [PIO P_56, FLEXCOM3 FLEXCOM3_IO_3, ISC ISC_D_10, HSMC A_13, SSC0 RK_0, LCDC LCDDAT_13, TC0 TCLK_2]
+- E3 : PB25,  of Type IO, alternates : [ISC ISC_D_11, PIO P_57, HSMC A_14, LCDC LCDDAT_14, FLEXCOM3 FLEXCOM3_IO_4, SSC0 RF_0]
+- E2 : PB26,  of Type IO, alternates : [PIO P_58, ISC ISC_D_0, HSMC A_15, PDMIC PDMIC_DAT_, LCDC LCDDAT_15, UART0 URXD_0]
+- E6 : PB27,  of Type IO, alternates : [PIO P_59, ISC ISC_D_1, PDMIC PDMIC_CLK_, HSMC A_16, UART0 UTXD_0, LCDC LCDDAT_16]
+- F1 : PB28,  of Type IO, alternates : [ISC ISC_D_2, HSMC A_17, FLEXCOM0 FLEXCOM0_IO_0, LCDC LCDDAT_17, TC1 TIOA_5, PIO P_60]
+- F6 : PB29,  of Type IO, alternates : [ISC ISC_D_3, HSMC A_18, LCDC LCDDAT_18, FLEXCOM0 FLEXCOM0_IO_1, PIO P_61, TC1 TIOB_5]
+- F2 : PB30,  of Type IO, alternates : [HSMC A_19, LCDC LCDDAT_19, ISC ISC_D_4, FLEXCOM0 FLEXCOM0_IO_2, PIO P_62, TC1 TCLK_5]
+- F7 : PB31,  of Type IO, alternates : [TWIHS0 TWD_0, ISC ISC_D_5, FLEXCOM0 FLEXCOM0_IO_3, PIO P_63, HSMC A_20, LCDC LCDDAT_20]
+- M13 : PC1,  of Type IO, alternates : [MCAN0 CANTX_0, I2SC0 I2SC0_CK_, PIO P_65, ISC ISC_D_7, HSMC A_24, SPI1 SPI1_SPCK_, LCDC LCDDAT_22]
+- P13 : VDDFUSE,  of Type PP
+- N13 : PC2,  of Type IO, alternates : [MCAN0 CANRX_0, PIO P_66, SPI1 SPI1_MOSI_, HSMC A_25, ISC ISC_D_8, LCDC LCDDAT_23, I2SC0 I2SC0_MCK_]
+- K10 : PC3,  of Type IO, alternates : [SPI1 SPI1_MISO_, I2SC0 I2SC0_WS_, LCDC LCDPWM_, PIO P_67, TC0 TIOA_1, ISC ISC_D_9, HSMC NWAIT_]
+- P14 : PC4,  of Type IO, alternates : [ISC ISC_PCK_, LCDC LCDDISP_, I2SC0 I2SC0_DI_0, PIO P_68, SPI1 SPI1_NPCS_0, HSMC NWR1_, TC0 TIOB_1]
+- J8 : PC5,  of Type IO, alternates : [PIO P_69, ISC ISC_VSYNC_, TC0 TCLK_1, SPI1 SPI1_NPCS_1, HSMC NCS_0, I2SC0 I2SC0_DO_0, LCDC LCDVSYNC_]
+- N14 : PC6,  of Type IO, alternates : [LCDC LCDHSYNC_, TWIHS1 TWD_1, PIO P_70, ISC ISC_HSYNC_, SPI1 SPI1_NPCS_2]
+- M14 : PC7,  of Type IO, alternates : [LCDC LCDPCK_, TWIHS1 TWCK_1, ISC ISC_MCK_, UART1 URXD_1, HSMC NCS_2, SPI1 SPI1_NPCS_3, PIO P_71]
+- J9 : PC8,  of Type IO, alternates : [LCDC LCDDEN_, HSMC NANDRDY_, SAIC FIQ_, ISC ISC_FIELD_, UART1 UTXD_1, PIO P_72, PMC PCK_0]
+- F5 : PD7,  of Type IO, alternates : [ISC ISC_D_0, ICE TDI_, PIO P_103, PTC PTC_X_4, GMAC GTX_2, HSMC NWR1_]
+- F3 : PD8,  of Type IO, alternates : [HSMC NANDRDY_, ISC ISC_D_1, PTC PTC_X_5, ICE TDO_, GMAC GTX_3, PIO P_104]
+- G5 : PD9,  of Type IO, alternates : [ISC ISC_D_2, ICE TMS_, PTC PTC_X_6, PIO P_105, GMAC GTXCK_]
+- G4 : PD10,  of Type IO, alternates : [ISC ISC_D_3, ICE NTRST_, GMAC GTXEN_, PTC PTC_X_7, PIO P_106]
+- H1 : PD11,  of Type IO, alternates : [PMC PCK_2, ISC ISC_MCK_, ISC ISC_D_4, GMAC GRXDV_, TC0 TIOA_1, PIO P_107, PTC PTC_Y_0]
+- H6 : PD12,  of Type IO, alternates : [GMAC GRXER_, PIO P_108, ISC ISC_D_4, FLEXCOM4 FLEXCOM4_IO_0, ISC ISC_D_5, TC0 TIOB_1, PTC PTC_Y_1]
+- H3 : PD13,  of Type IO, alternates : [PIO P_109, TC0 TCLK_1, ISC ISC_D_6, FLEXCOM4 FLEXCOM4_IO_1, ISC ISC_D_5, GMAC GRX_0, PTC PTC_Y_2]
+- G6 : PD14,  of Type IO, alternates : [ISC ISC_D_6, PIO P_110, ISC ISC_D_7, ICE TCK_, FLEXCOM4 FLEXCOM4_IO_2, PTC PTC_Y_3, GMAC GRX_1]
+- H5 : PD15,  of Type IO, alternates : [ISC ISC_PCK_, ICE TDI_, ISC ISC_D_7, FLEXCOM4 FLEXCOM4_IO_3, GMAC GTX_0, PTC PTC_Y_4, PIO P_111]
+- G1 : PD16,  of Type IO, alternates : [ISC ISC_VSYNC_, GMAC GTX_1, ICE TDO_, ISC ISC_D_8, PIO P_112, FLEXCOM4 FLEXCOM4_IO_4, PTC PTC_Y_5]
+- G2 : PD17,  of Type IO, alternates : [ICE TMS_, PIO P_113, PTC PTC_Y_6, GMAC GMDC_, ISC ISC_D_9, ISC ISC_HSYNC_]
+- G3 : PD18,  of Type IO, alternates : [GMAC GMDIO_, ICE NTRST_, ISC ISC_FIELD_, PTC PTC_Y_7, ISC ISC_D_10, PIO P_114]
+- H4 : PD19,  of Type IO, alternates : [I2SC0 I2SC0_CK_, ISC ISC_D_11, TWIHS1 TWD_1, UART2 URXD_2, ADC AD_0, PIO P_115, PMC PCK_0]
+- J1 : PD20,  of Type IO, alternates : [ISC ISC_PCK_, TWIHS1 TWCK_1, UART2 UTXD_2, TC0 TIOA_2, PIO P_116, ADC AD_1, I2SC0 I2SC0_MCK_]
+- K1 : PD21,  of Type IO, alternates : [ISC ISC_VSYNC_, TWIHS0 TWD_0, I2SC0 I2SC0_WS_, FLEXCOM4 FLEXCOM4_IO_0, TC0 TIOB_2, ADC AD_2, PIO P_117]
+- J3 : PD22,  of Type IO, alternates : [TWIHS0 TWCK_0, FLEXCOM4 FLEXCOM4_IO_1, I2SC0 I2SC0_DI_0, PIO P_118, TC0 TCLK_2, ADC AD_3, ISC ISC_HSYNC_]
+- K2 : PD23,  of Type IO, alternates : [ADC AD_4, PIO P_119, ISC ISC_FIELD_, FLEXCOM4 FLEXCOM4_IO_2, UART2 URXD_2, I2SC0 I2SC0_DO_0]
+- K3 : VDDANA,  of Type PP
+- K4 : GNDANA,  of Type PS
+- L2 : ADVREF,  of Type PS
+- H2 : VDDANA,  of Type PP
+- J2 : GNDANA,  of Type PS
+- H12 : DDR_VREF,  of Type PS
+- C12 : DDR_VREF,  of Type PS
+- B7 : DDR_D0,  of Type IO
+- A7 : DDR_D1,  of Type IO
+- C8 : DDR_D2,  of Type IO
+- B9 : DDR_D3,  of Type IO
+- A9 : DDR_D4,  of Type IO
+- C9 : DDR_D5,  of Type IO
+- A10 : DDR_D6,  of Type IO
+- B10 : DDR_D7,  of Type IO
+- H13 : DDR_D8,  of Type IO
+- H14 : DDR_D9,  of Type IO
+- J13 : DDR_D10,  of Type IO
+- J14 : DDR_D11,  of Type IO
+- L13 : DDR_D12,  of Type IO
+- L14 : DDR_D13,  of Type IO
+- J12 : DDR_D14,  of Type IO
+- K12 : DDR_D15,  of Type IO
+- E11 : DDR_A0,  of Type OP
+- C11 : DDR_A1,  of Type OP
+- B12 : DDR_A2,  of Type OP
+- A12 : DDR_A3,  of Type OP
+- D11 : DDR_A4,  of Type OP
+- D14 : DDR_A5,  of Type OP
+- B14 : DDR_A6,  of Type OP
+- D9 : DDR_A7,  of Type OP
+- C10 : DDR_A8,  of Type OP
+- D10 : DDR_A9,  of Type OP
+- F9 : DDR_A10,  of Type OP
+- A11 : DDR_A11,  of Type OP
+- B11 : DDR_A12,  of Type OP
+- E13 : DDR_A13,  of Type OP
+- A13 : DDR_CLK,  of Type OP
+- B13 : DDR_CLKN,  of Type OP
+- E14 : DDR_CKE,  of Type OP
+- D13 : DDR_RESETN,  of Type OP
+- F11 : DDR_CS,  of Type OP
+- A14 : DDR_WE,  of Type OP
+- C14 : DDR_RAS,  of Type OP
+- C13 : DDR_CAS,  of Type OP
+- D8 : DDR_DQM0,  of Type OP
+- G14 : DDR_DQM1,  of Type OP
+- B8 : DDR_DQS0,  of Type OP
+- K14 : DDR_DQS1,  of Type OP
+- A8 : DDR_DQSN0,  of Type OP
+- K13 : DDR_DQSN1,  of Type OP
+- F13 : DDR_BA0,  of Type OP
+- G13 : DDR_BA1,  of Type OP
+- F14 : DDR_BA2,  of Type OP
+- F10 : DDR_CAL,  of Type OP
+- C6 : VDDIODDR,  of Type PP
+- E10 : VDDIODDR,  of Type PP
+- E12 : VDDIODDR,  of Type PP
+- G10 : VDDIODDR,  of Type PP
+- G12 : VDDIODDR,  of Type PP
+- H11 : VDDIODDR,  of Type PP
+- J10 : VDDIODDR,  of Type PP
+- C7 : GNDIODDR,  of Type PS
+- D12 : GNDIODDR,  of Type PS
+- E9 : GNDIODDR,  of Type PS
+- F12 : GNDIODDR,  of Type PS
+- G11 : GNDIODDR,  of Type PS
+- H10 : GNDIODDR,  of Type PS
+- J11 : GNDIODDR,  of Type PS
+- E8 : VDDCORE,  of Type PP
+- G8 : VDDCORE,  of Type PP
+- H8 : VDDCORE,  of Type PP
+- H9 : VDDCORE,  of Type PP
+- J5 : VDDCORE,  of Type PP
+- F8 : GNDCORE,  of Type PS
+- G7 : GNDCORE,  of Type PS
+- G9 : GNDCORE,  of Type PS
+- H7 : GNDCORE,  of Type PS
+- J4 : GNDCORE,  of Type PS
+- D7 : VDDIOP0,  of Type PP
+- F4 : VDDIOP0,  of Type PP
+- E4 : GNDIOP0,  of Type PS
+- E7 : GNDIOP0,  of Type PS
+- K8 : VDDIOP1,  of Type PP
+- L11 : VDDIOP1,  of Type PP
+- K9 : GDNIOP1,  of Type IO
+- L12 : GNDIOP1,  of Type PS
+- K11 : PA31,  of Type IO, alternates : [PWM PWML_0, HSMC NCS_3, CLASSD CLASSD_L_3, PIO P_31, SPI0 SPI0_MISO_]
+- P3 : VDDPLLA,  of Type PP
+- P4 : GNDPLLA,  of Type PS
+- K6 : VDDAUDIOPLL,  of Type PP
+- L6 : PIOBU5,  of Type IO
+- J6 : GNDAUDIOPLL,  of Type PS
+- J7 : CLK_AUDIO,  of Type IO
+- P5 : XIN,  of Type PS
+- P6 : XOUT,  of Type PS
+- N5 : VDDOSC,  of Type PP
+- N6 : GNDOSC,  of Type PS
+- K7 : VDDUTMII,  of Type PP
+- L8 : GNDUTMII,  of Type PS
+- N7 : HHSDPA,  of Type IO
+- P7 : HHSDMA,  of Type IO
+- N8 : HHSDPB,  of Type IO
+- P8 : HHSDMB,  of Type IO
+- M7 : VDDUTMIC,  of Type PP
+- M8 : GNDUTMIC,  of Type PS
+- L7 : VBG,  of Type IO
+- M2 : TST,  of Type IO
+- N3 : NRST,  of Type IP
+- L4 : PIOBU1,  of Type IO
+- P1 : WKUP,  of Type IP
+- N1 : SHDN,  of Type IO
+- K5 : PIOBU0,  of Type IO
+- L3 : PIOBU2,  of Type IO
+- M3 : JTAGSEL,  of Type OP
+- N4 : GNDBU,  of Type PS
+- L5 : PIOBU4,  of Type IO
+- M6 : GNDDPLL,  of Type PS
+- M4 : VDDBU,  of Type PP
+- M5 : PIOBU3,  of Type IO
+- M1 : XIN32,  of Type PS
+- L1 : XOUT32,  of Type PS
+- N2 : COMPP,  of Type IO
+- P2 : COMPN,  of Type IO
 ## ATSAMA5D23C-CU
+
 ### Description : 
+
+- Series : SAMA5D2
+- Footprint : TFBGA196
+- MP : ATSAMA5D23C-CU
+- Architecture : CORTEX-A5
+- PINOUT : TFBGA196
+- Reference : U
+- Documentation : https://www.microchip.com/en-us/search?q=ATSAMA5D23C-CU
+- Value : ATSAMA5D23C-CU
+- Family : SAMA5
+- MF : Microchip
+- Name : ATSAMA5D23
 
 ### Package : 
 
-- L9 : PA18
-- N9 : PA19
-- M9 : PA20
-- M10 : PA21
-- P9 : PA22
-- P10 : PA23
-- N10 : PA24
-- L10 : PA25
-- P11 : PA26
-- P12 : PA27
-- M11 : PA28
-- N11 : PA29
-- N12 : PA30
-- M12 : PC0
-- A6 : PB2
-- A5 : PB1
-- B6 : PB3
-- B5 : PB5
-- A4 : PB4
-- D6 : PB0
-- A3 : PB6
-- B4 : PB7
-- A2 : PB8
-- B3 : PB9
-- A1 : PB10
-- B1 : PB11
-- B2 : PB12
-- C1 : PB13
-- D5 : PB14
-- E5 : PB15
-- C5 : PB16
-- C2 : PB17
-- D4 : PB18
-- C4 : PB19
-- C3 : PB20
-- D1 : PB21
-- D2 : PB22
-- E1 : PB23
-- D3 : PB24
-- E3 : PB25
-- E2 : PB26
-- E6 : PB27
-- F1 : PB28
-- F6 : PB29
-- F2 : PB30
-- F7 : PB31
-- M13 : PC1
-- P13 : VDDFUSE
-- N13 : PC2
-- K10 : PC3
-- P14 : PC4
-- J8 : PC5
-- N14 : PC6
-- M14 : PC7
-- J9 : PC8
-- F5 : PD7
-- F3 : PD8
-- G5 : PD9
-- G4 : PD10
-- H1 : PD11
-- H6 : PD12
-- H3 : PD13
-- G6 : PD14
-- H5 : PD15
-- G1 : PD16
-- G2 : PD17
-- G3 : PD18
-- H4 : PD19
-- J1 : PD20
-- K1 : PD21
-- J3 : PD22
-- K2 : PD23
-- K3 : VDDANA
-- K4 : GNDANA
-- L2 : ADVREF
-- H2 : VDDANA
-- J2 : GNDANA
-- H12 : DDR_VREF
-- C12 : DDR_VREF
-- B7 : DDR_D0
-- A7 : DDR_D1
-- C8 : DDR_D2
-- B9 : DDR_D3
-- A9 : DDR_D4
-- C9 : DDR_D5
-- A10 : DDR_D6
-- B10 : DDR_D7
-- H13 : DDR_D8
-- H14 : DDR_D9
-- J13 : DDR_D10
-- J14 : DDR_D11
-- L13 : DDR_D12
-- L14 : DDR_D13
-- J12 : DDR_D14
-- K12 : DDR_D15
-- E11 : DDR_A0
-- C11 : DDR_A1
-- B12 : DDR_A2
-- A12 : DDR_A3
-- D11 : DDR_A4
-- D14 : DDR_A5
-- B14 : DDR_A6
-- D9 : DDR_A7
-- C10 : DDR_A8
-- D10 : DDR_A9
-- F9 : DDR_A10
-- A11 : DDR_A11
-- B11 : DDR_A12
-- E13 : DDR_A13
-- A13 : DDR_CLK
-- B13 : DDR_CLKN
-- E14 : DDR_CKE
-- D13 : DDR_RESETN
-- F11 : DDR_CS
-- A14 : DDR_WE
-- C14 : DDR_RAS
-- C13 : DDR_CAS
-- D8 : DDR_DQM0
-- G14 : DDR_DQM1
-- B8 : DDR_DQS0
-- K14 : DDR_DQS1
-- A8 : DDR_DQSN0
-- K13 : DDR_DQSN1
-- F13 : DDR_BA0
-- G13 : DDR_BA1
-- F14 : DDR_BA2
-- F10 : DDR_CAL
-- C6 : VDDIODDR
-- E10 : VDDIODDR
-- E12 : VDDIODDR
-- G10 : VDDIODDR
-- G12 : VDDIODDR
-- H11 : VDDIODDR
-- J10 : VDDIODDR
-- C7 : GNDIODDR
-- D12 : GNDIODDR
-- E9 : GNDIODDR
-- F12 : GNDIODDR
-- G11 : GNDIODDR
-- H10 : GNDIODDR
-- J11 : GNDIODDR
-- E8 : VDDCORE
-- G8 : VDDCORE
-- H8 : VDDCORE
-- H9 : VDDCORE
-- J5 : VDDCORE
-- F8 : GNDCORE
-- G7 : GNDCORE
-- G9 : GNDCORE
-- H7 : GNDCORE
-- J4 : GNDCORE
-- D7 : VDDIOP0
-- F4 : VDDIOP0
-- E4 : GNDIOP0
-- E7 : GNDIOP0
-- K8 : VDDIOP1
-- L11 : VDDIOP1
-- K9 : GDNIOP1
-- L12 : GNDIOP1
-- K11 : PA31
-- P3 : VDDPLLA
-- P4 : GNDPLLA
-- K6 : VDDAUDIOPLL
-- L6 : PIOBU5
-- J6 : GNDAUDIOPLL
-- J7 : CLK_AUDIO
-- P5 : XIN
-- P6 : XOUT
-- N5 : VDDOSC
-- N6 : GNDOSC
-- K7 : VDDUTMII
-- L8 : GNDUTMII
-- N7 : HHSDPA
-- P7 : HHSDMA
-- N8 : HHSDPB
-- P8 : HHSDMB
-- M7 : VDDUTMIC
-- M8 : GNDUTMIC
-- L7 : VBG
-- M2 : TST
-- N3 : NRST
-- L4 : PIOBU1
-- P1 : WKUP
-- N1 : SHDN
-- K5 : PIOBU0
-- L3 : PIOBU2
-- M3 : JTAGSEL
-- N4 : GNDBU
-- L5 : PIOBU4
-- M6 : GNDDPLL
-- M4 : VDDBU
-- M5 : PIOBU3
-- M1 : XIN32
-- L1 : XOUT32
-- N2 : COMPP
-- P2 : COMPN
+Pin count : 196
+- L9 : PA18,  of Type IO, alternates : [HSMC D_13, SSC1 RK_1, SPI0 SPI0_NPCS_1, I2SC1 I2SC1_DO_0, PIO P_18, QSPI0 QSPI0_IO_2, SDMMC1 SDMMC1_DAT_0]
+- N9 : PA19,  of Type IO, alternates : [SSC1 RF_1, SPI0 SPI0_NPCS_2, HSMC D_14, TC0 TIOA_0, QSPI0 QSPI0_IO_3, PIO P_19, SDMMC1 SDMMC1_DAT_1]
+- M9 : PA20,  of Type IO, alternates : [SPI0 SPI0_NPCS_3, HSMC D_15, TC0 TIOB_0, PIO P_20, SDMMC1 SDMMC1_DAT_2]
+- M10 : PA21,  of Type IO, alternates : [AIC IRQ_, PMC PCK_2, HSMC NANDRDY_, TC0 TCLK_0, PIO P_21, SDMMC1 SDMMC1_DAT_3]
+- P9 : PA22,  of Type IO, alternates : [PIO P_22, ICE TCK_, FLEXCOM1 FLEXCOM1_IO_2, HSMC D_0, SPI1 SPI1_SPCK_, SDMMC1 SDMMC1_CK_, QSPI0 QSPI0_SCK_]
+- P10 : PA23,  of Type IO, alternates : [ICE TDI_, PIO P_23, QSPI0 QSPI0_CS_, SPI1 SPI1_MOSI_, FLEXCOM1 FLEXCOM1_IO_1, HSMC D_1]
+- N10 : PA24,  of Type IO, alternates : [SPI1 SPI1_MISO_, FLEXCOM1 FLEXCOM1_IO_0, HSMC D_2, PIO P_24, ICE TDO_, QSPI0 QSPI0_IO_0]
+- L10 : PA25,  of Type IO, alternates : [PIO P_25, ICE TMS_, HSMC D_3, FLEXCOM1 FLEXCOM1_IO_3, SPI1 SPI1_NPCS_0, QSPI0 QSPI0_IO_1]
+- P11 : PA26,  of Type IO, alternates : [PIO P_26, ICE NTRST_, HSMC D_4, SPI1 SPI1_NPCS_1, FLEXCOM1 FLEXCOM1_IO_4, QSPI0 QSPI0_IO_2]
+- P12 : PA27,  of Type IO, alternates : [PIO P_27, SPI0 SPI0_NPCS_2, SDMMC1 SDMMC1_RSTN_, HSMC D_5, TC0 TIOA_1, QSPI0 QSPI0_IO_3, SPI1 SPI1_NPCS_2]
+- M11 : PA28,  of Type IO, alternates : [HSMC D_6, PIO P_28, SPI0 SPI0_NPCS_3, CLASSD CLASSD_L_0, SDMMC1 SDMMC1_CMD_, TC0 TIOB_1, SPI1 SPI1_NPCS_3]
+- N11 : PA29,  of Type IO, alternates : [HSMC D_7, TC0 TCLK_1, SDMMC1 SDMMC1_WP_, CLASSD CLASSD_L_1, SPI0 SPI0_NPCS_1, PIO P_29]
+- N12 : PA30,  of Type IO, alternates : [SPI0 SPI0_NPCS_0, PWM PWMH_0, CLASSD CLASSD_L_2, PIO P_30, HSMC NANDNWE_, SDMMC1 SDMMC1_CD_]
+- M12 : PC0,  of Type IO, alternates : [TWIHS0 TWCK_0, ISC ISC_D_6, HSMC A_23, FLEXCOM0 FLEXCOM0_IO_4, PIO P_64, LCDC LCDDAT_21]
+- A6 : PB2,  of Type IO, alternates : [PIO P_34, PWM PWMFI_0, CLASSD CLASSD_R_1, HSMC NANDOE_]
+- A5 : PB1,  of Type IO, alternates : [SPI0 SPI0_SPCK_, PIO P_33, PWM PWML_1, HSMC A22_, CLASSD CLASSD_R_0]
+- B6 : PB3,  of Type IO, alternates : [HSMC D_8, AIC IRQ_, PWM PWMEXTRG_1, PIO P_35, CLASSD CLASSD_R_2, UART4 URXD_4]
+- B5 : PB5,  of Type IO, alternates : [PIO P_37, HSMC D_10, PWM PWMH_2, QSPI1 QSPI1_SCK_, GMAC GTSUCOMP_, TC0 TCLK_2]
+- A4 : PB4,  of Type IO, alternates : [PIO P_36, HSMC D_9, SAIC FIQ_, UART4 UTXD_4, CLASSD CLASSD_R_3]
+- D6 : PB0,  of Type IO, alternates : [PIO P_32, PWM PWMH_1, HSMC A21_, SPI0 SPI0_MOSI_]
+- A3 : PB6,  of Type IO, alternates : [PIO P_38, HSMC D_11, QSPI1 QSPI1_CS_, GMAC GTXER_, PWM PWML_2, TC0 TIOA_2]
+- B4 : PB7,  of Type IO, alternates : [PIO P_39, QSPI1 QSPI1_IO_0, HSMC D_12, PWM PWMH_3, TC0 TIOB_2, GMAC GRXCK_]
+- A2 : PB8,  of Type IO, alternates : [QSPI1 QSPI1_IO_1, HSMC D_13, PIO P_40, PWM PWML_3, GMAC GCRS_, TC1 TCLK_3]
+- B3 : PB9,  of Type IO, alternates : [QSPI1 QSPI1_IO_2, HSMC D_14, GMAC GCOL_, PIO P_41, TC1 TIOA_3, PWM PWMFI_1]
+- A1 : PB10,  of Type IO, alternates : [GMAC GRX_2, PWM PWMEXTRG_2, QSPI1 QSPI1_IO_3, HSMC D_15, TC1 TIOB_3, PIO P_42]
+- B1 : PB11,  of Type IO, alternates : [GMAC GRX_3, PIO P_43, PDMIC PDMIC_DAT_, UART3 URXD_3, LCDC LCDDAT_0, HSMC A0_]
+- B2 : PB12,  of Type IO, alternates : [PDMIC PDMIC_CLK_, PIO P_44, UART3 UTXD_3, GMAC GTX_2, HSMC A_1, LCDC LCDDAT_1]
+- C1 : PB13,  of Type IO, alternates : [PMC PCK_1, PIO P_45, GMAC GTX_3, HSMC A_2, LCDC LCDDAT_2]
+- D5 : PB14,  of Type IO, alternates : [SSC1 TK_1, I2SC1 I2SC1_MCK_, LCDC LCDDAT_3, PIO P_46, HSMC A_3, QSPI1 QSPI1_SCK_, GMAC GTXCK_]
+- E5 : PB15,  of Type IO, alternates : [PIO P_47, LCDC LCDDAT_4, QSPI1 QSPI1_CS_, GMAC GTXEN_, HSMC A_4, SSC1 TF_1, I2SC1 I2SC1_CK_]
+- C5 : PB16,  of Type IO, alternates : [LCDC LCDDAT_5, PIO P_48, I2SC1 I2SC1_WS_, QSPI1 QSPI1_IO_0, HSMC A_5, GMAC GRXDV_, SSC1 TD_1]
+- C2 : PB17,  of Type IO, alternates : [LCDC LCDDAT_6, GMAC GRXER_, I2SC1 I2SC1_DI_0, PIO P_49, QSPI1 QSPI1_IO_1, HSMC A_6, SSC1 RD_1]
+- D4 : PB18,  of Type IO, alternates : [HSMC A_7, SSC1 RK_1, QSPI1 QSPI1_IO_2, LCDC LCDDAT_7, PIO P_50, I2SC1 I2SC1_DO_0, GMAC GRX_0]
+- C4 : PB19,  of Type IO, alternates : [SSC1 RF_1, QSPI1 QSPI1_IO_3, HSMC A_8, LCDC LCDDAT_8, PIO P_51, TC1 TIOA_3, GMAC GRX_1]
+- C3 : PB20,  of Type IO, alternates : [PMC PCK_1, HSMC A_9, LCDC LCDDAT_9, GMAC GTX_0, TC1 TIOB_3, PIO P_52, SSC0 TK_0]
+- D1 : PB21,  of Type IO, alternates : [SSC0 TF_0, FLEXCOM3 FLEXCOM3_IO_2, GMAC GTX_1, PIO P_53, HSMC A_10, LCDC LCDDAT_10, TC1 TCLK_3]
+- D2 : PB22,  of Type IO, alternates : [SSC0 TD_0, PIO P_54, FLEXCOM3 FLEXCOM3_IO_1, HSMC A_11, GMAC GMDC_, TC0 TIOA_2, LCDC LCDDAT_11]
+- E1 : PB23,  of Type IO, alternates : [SSC0 RD_0, GMAC GMDIO_, PIO P_55, FLEXCOM3 FLEXCOM3_IO_0, TC0 TIOB_2, HSMC A_12, LCDC LCDDAT_12]
+- D3 : PB24,  of Type IO, alternates : [PIO P_56, FLEXCOM3 FLEXCOM3_IO_3, ISC ISC_D_10, HSMC A_13, SSC0 RK_0, LCDC LCDDAT_13, TC0 TCLK_2]
+- E3 : PB25,  of Type IO, alternates : [ISC ISC_D_11, PIO P_57, HSMC A_14, LCDC LCDDAT_14, FLEXCOM3 FLEXCOM3_IO_4, SSC0 RF_0]
+- E2 : PB26,  of Type IO, alternates : [PIO P_58, ISC ISC_D_0, HSMC A_15, PDMIC PDMIC_DAT_, LCDC LCDDAT_15, UART0 URXD_0]
+- E6 : PB27,  of Type IO, alternates : [PIO P_59, ISC ISC_D_1, PDMIC PDMIC_CLK_, HSMC A_16, UART0 UTXD_0, LCDC LCDDAT_16]
+- F1 : PB28,  of Type IO, alternates : [ISC ISC_D_2, HSMC A_17, FLEXCOM0 FLEXCOM0_IO_0, LCDC LCDDAT_17, TC1 TIOA_5, PIO P_60]
+- F6 : PB29,  of Type IO, alternates : [ISC ISC_D_3, HSMC A_18, LCDC LCDDAT_18, FLEXCOM0 FLEXCOM0_IO_1, PIO P_61, TC1 TIOB_5]
+- F2 : PB30,  of Type IO, alternates : [HSMC A_19, LCDC LCDDAT_19, ISC ISC_D_4, FLEXCOM0 FLEXCOM0_IO_2, PIO P_62, TC1 TCLK_5]
+- F7 : PB31,  of Type IO, alternates : [TWIHS0 TWD_0, ISC ISC_D_5, FLEXCOM0 FLEXCOM0_IO_3, PIO P_63, HSMC A_20, LCDC LCDDAT_20]
+- M13 : PC1,  of Type IO, alternates : [MCAN0 CANTX_0, I2SC0 I2SC0_CK_, PIO P_65, ISC ISC_D_7, HSMC A_24, SPI1 SPI1_SPCK_, LCDC LCDDAT_22]
+- P13 : VDDFUSE,  of Type PP
+- N13 : PC2,  of Type IO, alternates : [MCAN0 CANRX_0, PIO P_66, SPI1 SPI1_MOSI_, HSMC A_25, ISC ISC_D_8, LCDC LCDDAT_23, I2SC0 I2SC0_MCK_]
+- K10 : PC3,  of Type IO, alternates : [SPI1 SPI1_MISO_, I2SC0 I2SC0_WS_, LCDC LCDPWM_, PIO P_67, TC0 TIOA_1, ISC ISC_D_9, HSMC NWAIT_]
+- P14 : PC4,  of Type IO, alternates : [ISC ISC_PCK_, LCDC LCDDISP_, I2SC0 I2SC0_DI_0, PIO P_68, SPI1 SPI1_NPCS_0, HSMC NWR1_, TC0 TIOB_1]
+- J8 : PC5,  of Type IO, alternates : [PIO P_69, ISC ISC_VSYNC_, TC0 TCLK_1, SPI1 SPI1_NPCS_1, HSMC NCS_0, I2SC0 I2SC0_DO_0, LCDC LCDVSYNC_]
+- N14 : PC6,  of Type IO, alternates : [LCDC LCDHSYNC_, TWIHS1 TWD_1, PIO P_70, ISC ISC_HSYNC_, SPI1 SPI1_NPCS_2]
+- M14 : PC7,  of Type IO, alternates : [LCDC LCDPCK_, TWIHS1 TWCK_1, ISC ISC_MCK_, UART1 URXD_1, HSMC NCS_2, SPI1 SPI1_NPCS_3, PIO P_71]
+- J9 : PC8,  of Type IO, alternates : [LCDC LCDDEN_, HSMC NANDRDY_, SAIC FIQ_, ISC ISC_FIELD_, UART1 UTXD_1, PIO P_72, PMC PCK_0]
+- F5 : PD7,  of Type IO, alternates : [ISC ISC_D_0, ICE TDI_, PIO P_103, PTC PTC_X_4, GMAC GTX_2, HSMC NWR1_]
+- F3 : PD8,  of Type IO, alternates : [HSMC NANDRDY_, ISC ISC_D_1, PTC PTC_X_5, ICE TDO_, GMAC GTX_3, PIO P_104]
+- G5 : PD9,  of Type IO, alternates : [ISC ISC_D_2, ICE TMS_, PTC PTC_X_6, PIO P_105, GMAC GTXCK_]
+- G4 : PD10,  of Type IO, alternates : [ISC ISC_D_3, ICE NTRST_, GMAC GTXEN_, PTC PTC_X_7, PIO P_106]
+- H1 : PD11,  of Type IO, alternates : [PMC PCK_2, ISC ISC_MCK_, ISC ISC_D_4, GMAC GRXDV_, TC0 TIOA_1, PIO P_107, PTC PTC_Y_0]
+- H6 : PD12,  of Type IO, alternates : [GMAC GRXER_, PIO P_108, ISC ISC_D_4, FLEXCOM4 FLEXCOM4_IO_0, ISC ISC_D_5, TC0 TIOB_1, PTC PTC_Y_1]
+- H3 : PD13,  of Type IO, alternates : [PIO P_109, TC0 TCLK_1, ISC ISC_D_6, FLEXCOM4 FLEXCOM4_IO_1, ISC ISC_D_5, GMAC GRX_0, PTC PTC_Y_2]
+- G6 : PD14,  of Type IO, alternates : [ISC ISC_D_6, PIO P_110, ISC ISC_D_7, ICE TCK_, FLEXCOM4 FLEXCOM4_IO_2, PTC PTC_Y_3, GMAC GRX_1]
+- H5 : PD15,  of Type IO, alternates : [ISC ISC_PCK_, ICE TDI_, ISC ISC_D_7, FLEXCOM4 FLEXCOM4_IO_3, GMAC GTX_0, PTC PTC_Y_4, PIO P_111]
+- G1 : PD16,  of Type IO, alternates : [ISC ISC_VSYNC_, GMAC GTX_1, ICE TDO_, ISC ISC_D_8, PIO P_112, FLEXCOM4 FLEXCOM4_IO_4, PTC PTC_Y_5]
+- G2 : PD17,  of Type IO, alternates : [ICE TMS_, PIO P_113, PTC PTC_Y_6, GMAC GMDC_, ISC ISC_D_9, ISC ISC_HSYNC_]
+- G3 : PD18,  of Type IO, alternates : [GMAC GMDIO_, ICE NTRST_, ISC ISC_FIELD_, PTC PTC_Y_7, ISC ISC_D_10, PIO P_114]
+- H4 : PD19,  of Type IO, alternates : [I2SC0 I2SC0_CK_, ISC ISC_D_11, TWIHS1 TWD_1, UART2 URXD_2, ADC AD_0, PIO P_115, PMC PCK_0]
+- J1 : PD20,  of Type IO, alternates : [ISC ISC_PCK_, TWIHS1 TWCK_1, UART2 UTXD_2, TC0 TIOA_2, PIO P_116, ADC AD_1, I2SC0 I2SC0_MCK_]
+- K1 : PD21,  of Type IO, alternates : [ISC ISC_VSYNC_, TWIHS0 TWD_0, I2SC0 I2SC0_WS_, FLEXCOM4 FLEXCOM4_IO_0, TC0 TIOB_2, ADC AD_2, PIO P_117]
+- J3 : PD22,  of Type IO, alternates : [TWIHS0 TWCK_0, FLEXCOM4 FLEXCOM4_IO_1, I2SC0 I2SC0_DI_0, PIO P_118, TC0 TCLK_2, ADC AD_3, ISC ISC_HSYNC_]
+- K2 : PD23,  of Type IO, alternates : [ADC AD_4, PIO P_119, ISC ISC_FIELD_, FLEXCOM4 FLEXCOM4_IO_2, UART2 URXD_2, I2SC0 I2SC0_DO_0]
+- K3 : VDDANA,  of Type PP
+- K4 : GNDANA,  of Type PS
+- L2 : ADVREF,  of Type PS
+- H2 : VDDANA,  of Type PP
+- J2 : GNDANA,  of Type PS
+- H12 : DDR_VREF,  of Type PS
+- C12 : DDR_VREF,  of Type PS
+- B7 : DDR_D0,  of Type IO
+- A7 : DDR_D1,  of Type IO
+- C8 : DDR_D2,  of Type IO
+- B9 : DDR_D3,  of Type IO
+- A9 : DDR_D4,  of Type IO
+- C9 : DDR_D5,  of Type IO
+- A10 : DDR_D6,  of Type IO
+- B10 : DDR_D7,  of Type IO
+- H13 : DDR_D8,  of Type IO
+- H14 : DDR_D9,  of Type IO
+- J13 : DDR_D10,  of Type IO
+- J14 : DDR_D11,  of Type IO
+- L13 : DDR_D12,  of Type IO
+- L14 : DDR_D13,  of Type IO
+- J12 : DDR_D14,  of Type IO
+- K12 : DDR_D15,  of Type IO
+- E11 : DDR_A0,  of Type OP
+- C11 : DDR_A1,  of Type OP
+- B12 : DDR_A2,  of Type OP
+- A12 : DDR_A3,  of Type OP
+- D11 : DDR_A4,  of Type OP
+- D14 : DDR_A5,  of Type OP
+- B14 : DDR_A6,  of Type OP
+- D9 : DDR_A7,  of Type OP
+- C10 : DDR_A8,  of Type OP
+- D10 : DDR_A9,  of Type OP
+- F9 : DDR_A10,  of Type OP
+- A11 : DDR_A11,  of Type OP
+- B11 : DDR_A12,  of Type OP
+- E13 : DDR_A13,  of Type OP
+- A13 : DDR_CLK,  of Type OP
+- B13 : DDR_CLKN,  of Type OP
+- E14 : DDR_CKE,  of Type OP
+- D13 : DDR_RESETN,  of Type OP
+- F11 : DDR_CS,  of Type OP
+- A14 : DDR_WE,  of Type OP
+- C14 : DDR_RAS,  of Type OP
+- C13 : DDR_CAS,  of Type OP
+- D8 : DDR_DQM0,  of Type OP
+- G14 : DDR_DQM1,  of Type OP
+- B8 : DDR_DQS0,  of Type OP
+- K14 : DDR_DQS1,  of Type OP
+- A8 : DDR_DQSN0,  of Type OP
+- K13 : DDR_DQSN1,  of Type OP
+- F13 : DDR_BA0,  of Type OP
+- G13 : DDR_BA1,  of Type OP
+- F14 : DDR_BA2,  of Type OP
+- F10 : DDR_CAL,  of Type OP
+- C6 : VDDIODDR,  of Type PP
+- E10 : VDDIODDR,  of Type PP
+- E12 : VDDIODDR,  of Type PP
+- G10 : VDDIODDR,  of Type PP
+- G12 : VDDIODDR,  of Type PP
+- H11 : VDDIODDR,  of Type PP
+- J10 : VDDIODDR,  of Type PP
+- C7 : GNDIODDR,  of Type PS
+- D12 : GNDIODDR,  of Type PS
+- E9 : GNDIODDR,  of Type PS
+- F12 : GNDIODDR,  of Type PS
+- G11 : GNDIODDR,  of Type PS
+- H10 : GNDIODDR,  of Type PS
+- J11 : GNDIODDR,  of Type PS
+- E8 : VDDCORE,  of Type PP
+- G8 : VDDCORE,  of Type PP
+- H8 : VDDCORE,  of Type PP
+- H9 : VDDCORE,  of Type PP
+- J5 : VDDCORE,  of Type PP
+- F8 : GNDCORE,  of Type PS
+- G7 : GNDCORE,  of Type PS
+- G9 : GNDCORE,  of Type PS
+- H7 : GNDCORE,  of Type PS
+- J4 : GNDCORE,  of Type PS
+- D7 : VDDIOP0,  of Type PP
+- F4 : VDDIOP0,  of Type PP
+- E4 : GNDIOP0,  of Type PS
+- E7 : GNDIOP0,  of Type PS
+- K8 : VDDIOP1,  of Type PP
+- L11 : VDDIOP1,  of Type PP
+- K9 : GDNIOP1,  of Type IO
+- L12 : GNDIOP1,  of Type PS
+- K11 : PA31,  of Type IO, alternates : [PWM PWML_0, HSMC NCS_3, CLASSD CLASSD_L_3, PIO P_31, SPI0 SPI0_MISO_]
+- P3 : VDDPLLA,  of Type PP
+- P4 : GNDPLLA,  of Type PS
+- K6 : VDDAUDIOPLL,  of Type PP
+- L6 : PIOBU5,  of Type IO
+- J6 : GNDAUDIOPLL,  of Type PS
+- J7 : CLK_AUDIO,  of Type IO
+- P5 : XIN,  of Type PS
+- P6 : XOUT,  of Type PS
+- N5 : VDDOSC,  of Type PP
+- N6 : GNDOSC,  of Type PS
+- K7 : VDDUTMII,  of Type PP
+- L8 : GNDUTMII,  of Type PS
+- N7 : HHSDPA,  of Type IO
+- P7 : HHSDMA,  of Type IO
+- N8 : HHSDPB,  of Type IO
+- P8 : HHSDMB,  of Type IO
+- M7 : VDDUTMIC,  of Type PP
+- M8 : GNDUTMIC,  of Type PS
+- L7 : VBG,  of Type IO
+- M2 : TST,  of Type IO
+- N3 : NRST,  of Type IP
+- L4 : PIOBU1,  of Type IO
+- P1 : WKUP,  of Type IP
+- N1 : SHDN,  of Type IO
+- K5 : PIOBU0,  of Type IO
+- L3 : PIOBU2,  of Type IO
+- M3 : JTAGSEL,  of Type OP
+- N4 : GNDBU,  of Type PS
+- L5 : PIOBU4,  of Type IO
+- M6 : GNDDPLL,  of Type PS
+- M4 : VDDBU,  of Type PP
+- M5 : PIOBU3,  of Type IO
+- M1 : XIN32,  of Type PS
+- L1 : XOUT32,  of Type PS
+- N2 : COMPP,  of Type IO
+- P2 : COMPN,  of Type IO
 ## ATSAMA5D23C-CUR
+
 ### Description : 
+
+- Series : SAMA5D2
+- Footprint : TFBGA196
+- MP : ATSAMA5D23C-CUR
+- Architecture : CORTEX-A5
+- PINOUT : TFBGA196
+- Reference : U
+- Documentation : https://www.microchip.com/en-us/search?q=ATSAMA5D23C-CUR
+- Value : ATSAMA5D23C-CUR
+- Family : SAMA5
+- MF : Microchip
+- Name : ATSAMA5D23
 
 ### Package : 
 
-- L9 : PA18
-- N9 : PA19
-- M9 : PA20
-- M10 : PA21
-- P9 : PA22
-- P10 : PA23
-- N10 : PA24
-- L10 : PA25
-- P11 : PA26
-- P12 : PA27
-- M11 : PA28
-- N11 : PA29
-- N12 : PA30
-- M12 : PC0
-- A6 : PB2
-- A5 : PB1
-- B6 : PB3
-- B5 : PB5
-- A4 : PB4
-- D6 : PB0
-- A3 : PB6
-- B4 : PB7
-- A2 : PB8
-- B3 : PB9
-- A1 : PB10
-- B1 : PB11
-- B2 : PB12
-- C1 : PB13
-- D5 : PB14
-- E5 : PB15
-- C5 : PB16
-- C2 : PB17
-- D4 : PB18
-- C4 : PB19
-- C3 : PB20
-- D1 : PB21
-- D2 : PB22
-- E1 : PB23
-- D3 : PB24
-- E3 : PB25
-- E2 : PB26
-- E6 : PB27
-- F1 : PB28
-- F6 : PB29
-- F2 : PB30
-- F7 : PB31
-- M13 : PC1
-- P13 : VDDFUSE
-- N13 : PC2
-- K10 : PC3
-- P14 : PC4
-- J8 : PC5
-- N14 : PC6
-- M14 : PC7
-- J9 : PC8
-- F5 : PD7
-- F3 : PD8
-- G5 : PD9
-- G4 : PD10
-- H1 : PD11
-- H6 : PD12
-- H3 : PD13
-- G6 : PD14
-- H5 : PD15
-- G1 : PD16
-- G2 : PD17
-- G3 : PD18
-- H4 : PD19
-- J1 : PD20
-- K1 : PD21
-- J3 : PD22
-- K2 : PD23
-- K3 : VDDANA
-- K4 : GNDANA
-- L2 : ADVREF
-- H2 : VDDANA
-- J2 : GNDANA
-- H12 : DDR_VREF
-- C12 : DDR_VREF
-- B7 : DDR_D0
-- A7 : DDR_D1
-- C8 : DDR_D2
-- B9 : DDR_D3
-- A9 : DDR_D4
-- C9 : DDR_D5
-- A10 : DDR_D6
-- B10 : DDR_D7
-- H13 : DDR_D8
-- H14 : DDR_D9
-- J13 : DDR_D10
-- J14 : DDR_D11
-- L13 : DDR_D12
-- L14 : DDR_D13
-- J12 : DDR_D14
-- K12 : DDR_D15
-- E11 : DDR_A0
-- C11 : DDR_A1
-- B12 : DDR_A2
-- A12 : DDR_A3
-- D11 : DDR_A4
-- D14 : DDR_A5
-- B14 : DDR_A6
-- D9 : DDR_A7
-- C10 : DDR_A8
-- D10 : DDR_A9
-- F9 : DDR_A10
-- A11 : DDR_A11
-- B11 : DDR_A12
-- E13 : DDR_A13
-- A13 : DDR_CLK
-- B13 : DDR_CLKN
-- E14 : DDR_CKE
-- D13 : DDR_RESETN
-- F11 : DDR_CS
-- A14 : DDR_WE
-- C14 : DDR_RAS
-- C13 : DDR_CAS
-- D8 : DDR_DQM0
-- G14 : DDR_DQM1
-- B8 : DDR_DQS0
-- K14 : DDR_DQS1
-- A8 : DDR_DQSN0
-- K13 : DDR_DQSN1
-- F13 : DDR_BA0
-- G13 : DDR_BA1
-- F14 : DDR_BA2
-- F10 : DDR_CAL
-- C6 : VDDIODDR
-- E10 : VDDIODDR
-- E12 : VDDIODDR
-- G10 : VDDIODDR
-- G12 : VDDIODDR
-- H11 : VDDIODDR
-- J10 : VDDIODDR
-- C7 : GNDIODDR
-- D12 : GNDIODDR
-- E9 : GNDIODDR
-- F12 : GNDIODDR
-- G11 : GNDIODDR
-- H10 : GNDIODDR
-- J11 : GNDIODDR
-- E8 : VDDCORE
-- G8 : VDDCORE
-- H8 : VDDCORE
-- H9 : VDDCORE
-- J5 : VDDCORE
-- F8 : GNDCORE
-- G7 : GNDCORE
-- G9 : GNDCORE
-- H7 : GNDCORE
-- J4 : GNDCORE
-- D7 : VDDIOP0
-- F4 : VDDIOP0
-- E4 : GNDIOP0
-- E7 : GNDIOP0
-- K8 : VDDIOP1
-- L11 : VDDIOP1
-- K9 : GDNIOP1
-- L12 : GNDIOP1
-- K11 : PA31
-- P3 : VDDPLLA
-- P4 : GNDPLLA
-- K6 : VDDAUDIOPLL
-- L6 : PIOBU5
-- J6 : GNDAUDIOPLL
-- J7 : CLK_AUDIO
-- P5 : XIN
-- P6 : XOUT
-- N5 : VDDOSC
-- N6 : GNDOSC
-- K7 : VDDUTMII
-- L8 : GNDUTMII
-- N7 : HHSDPA
-- P7 : HHSDMA
-- N8 : HHSDPB
-- P8 : HHSDMB
-- M7 : VDDUTMIC
-- M8 : GNDUTMIC
-- L7 : VBG
-- M2 : TST
-- N3 : NRST
-- L4 : PIOBU1
-- P1 : WKUP
-- N1 : SHDN
-- K5 : PIOBU0
-- L3 : PIOBU2
-- M3 : JTAGSEL
-- N4 : GNDBU
-- L5 : PIOBU4
-- M6 : GNDDPLL
-- M4 : VDDBU
-- M5 : PIOBU3
-- M1 : XIN32
-- L1 : XOUT32
-- N2 : COMPP
-- P2 : COMPN
+Pin count : 196
+- L9 : PA18,  of Type IO, alternates : [HSMC D_13, SSC1 RK_1, SPI0 SPI0_NPCS_1, I2SC1 I2SC1_DO_0, PIO P_18, QSPI0 QSPI0_IO_2, SDMMC1 SDMMC1_DAT_0]
+- N9 : PA19,  of Type IO, alternates : [SSC1 RF_1, SPI0 SPI0_NPCS_2, HSMC D_14, TC0 TIOA_0, QSPI0 QSPI0_IO_3, PIO P_19, SDMMC1 SDMMC1_DAT_1]
+- M9 : PA20,  of Type IO, alternates : [SPI0 SPI0_NPCS_3, HSMC D_15, TC0 TIOB_0, PIO P_20, SDMMC1 SDMMC1_DAT_2]
+- M10 : PA21,  of Type IO, alternates : [AIC IRQ_, PMC PCK_2, HSMC NANDRDY_, TC0 TCLK_0, PIO P_21, SDMMC1 SDMMC1_DAT_3]
+- P9 : PA22,  of Type IO, alternates : [PIO P_22, ICE TCK_, FLEXCOM1 FLEXCOM1_IO_2, HSMC D_0, SPI1 SPI1_SPCK_, SDMMC1 SDMMC1_CK_, QSPI0 QSPI0_SCK_]
+- P10 : PA23,  of Type IO, alternates : [ICE TDI_, PIO P_23, QSPI0 QSPI0_CS_, SPI1 SPI1_MOSI_, FLEXCOM1 FLEXCOM1_IO_1, HSMC D_1]
+- N10 : PA24,  of Type IO, alternates : [SPI1 SPI1_MISO_, FLEXCOM1 FLEXCOM1_IO_0, HSMC D_2, PIO P_24, ICE TDO_, QSPI0 QSPI0_IO_0]
+- L10 : PA25,  of Type IO, alternates : [PIO P_25, ICE TMS_, HSMC D_3, FLEXCOM1 FLEXCOM1_IO_3, SPI1 SPI1_NPCS_0, QSPI0 QSPI0_IO_1]
+- P11 : PA26,  of Type IO, alternates : [PIO P_26, ICE NTRST_, HSMC D_4, SPI1 SPI1_NPCS_1, FLEXCOM1 FLEXCOM1_IO_4, QSPI0 QSPI0_IO_2]
+- P12 : PA27,  of Type IO, alternates : [PIO P_27, SPI0 SPI0_NPCS_2, SDMMC1 SDMMC1_RSTN_, HSMC D_5, TC0 TIOA_1, QSPI0 QSPI0_IO_3, SPI1 SPI1_NPCS_2]
+- M11 : PA28,  of Type IO, alternates : [HSMC D_6, PIO P_28, SPI0 SPI0_NPCS_3, CLASSD CLASSD_L_0, SDMMC1 SDMMC1_CMD_, TC0 TIOB_1, SPI1 SPI1_NPCS_3]
+- N11 : PA29,  of Type IO, alternates : [HSMC D_7, TC0 TCLK_1, SDMMC1 SDMMC1_WP_, CLASSD CLASSD_L_1, SPI0 SPI0_NPCS_1, PIO P_29]
+- N12 : PA30,  of Type IO, alternates : [SPI0 SPI0_NPCS_0, PWM PWMH_0, CLASSD CLASSD_L_2, PIO P_30, HSMC NANDNWE_, SDMMC1 SDMMC1_CD_]
+- M12 : PC0,  of Type IO, alternates : [TWIHS0 TWCK_0, ISC ISC_D_6, HSMC A_23, FLEXCOM0 FLEXCOM0_IO_4, PIO P_64, LCDC LCDDAT_21]
+- A6 : PB2,  of Type IO, alternates : [PIO P_34, PWM PWMFI_0, CLASSD CLASSD_R_1, HSMC NANDOE_]
+- A5 : PB1,  of Type IO, alternates : [SPI0 SPI0_SPCK_, PIO P_33, PWM PWML_1, HSMC A22_, CLASSD CLASSD_R_0]
+- B6 : PB3,  of Type IO, alternates : [HSMC D_8, AIC IRQ_, PWM PWMEXTRG_1, PIO P_35, CLASSD CLASSD_R_2, UART4 URXD_4]
+- B5 : PB5,  of Type IO, alternates : [PIO P_37, HSMC D_10, PWM PWMH_2, QSPI1 QSPI1_SCK_, GMAC GTSUCOMP_, TC0 TCLK_2]
+- A4 : PB4,  of Type IO, alternates : [PIO P_36, HSMC D_9, SAIC FIQ_, UART4 UTXD_4, CLASSD CLASSD_R_3]
+- D6 : PB0,  of Type IO, alternates : [PIO P_32, PWM PWMH_1, HSMC A21_, SPI0 SPI0_MOSI_]
+- A3 : PB6,  of Type IO, alternates : [PIO P_38, HSMC D_11, QSPI1 QSPI1_CS_, GMAC GTXER_, PWM PWML_2, TC0 TIOA_2]
+- B4 : PB7,  of Type IO, alternates : [PIO P_39, QSPI1 QSPI1_IO_0, HSMC D_12, PWM PWMH_3, TC0 TIOB_2, GMAC GRXCK_]
+- A2 : PB8,  of Type IO, alternates : [QSPI1 QSPI1_IO_1, HSMC D_13, PIO P_40, PWM PWML_3, GMAC GCRS_, TC1 TCLK_3]
+- B3 : PB9,  of Type IO, alternates : [QSPI1 QSPI1_IO_2, HSMC D_14, GMAC GCOL_, PIO P_41, TC1 TIOA_3, PWM PWMFI_1]
+- A1 : PB10,  of Type IO, alternates : [GMAC GRX_2, PWM PWMEXTRG_2, QSPI1 QSPI1_IO_3, HSMC D_15, TC1 TIOB_3, PIO P_42]
+- B1 : PB11,  of Type IO, alternates : [GMAC GRX_3, PIO P_43, PDMIC PDMIC_DAT_, UART3 URXD_3, LCDC LCDDAT_0, HSMC A0_]
+- B2 : PB12,  of Type IO, alternates : [PDMIC PDMIC_CLK_, PIO P_44, UART3 UTXD_3, GMAC GTX_2, HSMC A_1, LCDC LCDDAT_1]
+- C1 : PB13,  of Type IO, alternates : [PMC PCK_1, PIO P_45, GMAC GTX_3, HSMC A_2, LCDC LCDDAT_2]
+- D5 : PB14,  of Type IO, alternates : [SSC1 TK_1, I2SC1 I2SC1_MCK_, LCDC LCDDAT_3, PIO P_46, HSMC A_3, QSPI1 QSPI1_SCK_, GMAC GTXCK_]
+- E5 : PB15,  of Type IO, alternates : [PIO P_47, LCDC LCDDAT_4, QSPI1 QSPI1_CS_, GMAC GTXEN_, HSMC A_4, SSC1 TF_1, I2SC1 I2SC1_CK_]
+- C5 : PB16,  of Type IO, alternates : [LCDC LCDDAT_5, PIO P_48, I2SC1 I2SC1_WS_, QSPI1 QSPI1_IO_0, HSMC A_5, GMAC GRXDV_, SSC1 TD_1]
+- C2 : PB17,  of Type IO, alternates : [LCDC LCDDAT_6, GMAC GRXER_, I2SC1 I2SC1_DI_0, PIO P_49, QSPI1 QSPI1_IO_1, HSMC A_6, SSC1 RD_1]
+- D4 : PB18,  of Type IO, alternates : [HSMC A_7, SSC1 RK_1, QSPI1 QSPI1_IO_2, LCDC LCDDAT_7, PIO P_50, I2SC1 I2SC1_DO_0, GMAC GRX_0]
+- C4 : PB19,  of Type IO, alternates : [SSC1 RF_1, QSPI1 QSPI1_IO_3, HSMC A_8, LCDC LCDDAT_8, PIO P_51, TC1 TIOA_3, GMAC GRX_1]
+- C3 : PB20,  of Type IO, alternates : [PMC PCK_1, HSMC A_9, LCDC LCDDAT_9, GMAC GTX_0, TC1 TIOB_3, PIO P_52, SSC0 TK_0]
+- D1 : PB21,  of Type IO, alternates : [SSC0 TF_0, FLEXCOM3 FLEXCOM3_IO_2, GMAC GTX_1, PIO P_53, HSMC A_10, LCDC LCDDAT_10, TC1 TCLK_3]
+- D2 : PB22,  of Type IO, alternates : [SSC0 TD_0, PIO P_54, FLEXCOM3 FLEXCOM3_IO_1, HSMC A_11, GMAC GMDC_, TC0 TIOA_2, LCDC LCDDAT_11]
+- E1 : PB23,  of Type IO, alternates : [SSC0 RD_0, GMAC GMDIO_, PIO P_55, FLEXCOM3 FLEXCOM3_IO_0, TC0 TIOB_2, HSMC A_12, LCDC LCDDAT_12]
+- D3 : PB24,  of Type IO, alternates : [PIO P_56, FLEXCOM3 FLEXCOM3_IO_3, ISC ISC_D_10, HSMC A_13, SSC0 RK_0, LCDC LCDDAT_13, TC0 TCLK_2]
+- E3 : PB25,  of Type IO, alternates : [ISC ISC_D_11, PIO P_57, HSMC A_14, LCDC LCDDAT_14, FLEXCOM3 FLEXCOM3_IO_4, SSC0 RF_0]
+- E2 : PB26,  of Type IO, alternates : [PIO P_58, ISC ISC_D_0, HSMC A_15, PDMIC PDMIC_DAT_, LCDC LCDDAT_15, UART0 URXD_0]
+- E6 : PB27,  of Type IO, alternates : [PIO P_59, ISC ISC_D_1, PDMIC PDMIC_CLK_, HSMC A_16, UART0 UTXD_0, LCDC LCDDAT_16]
+- F1 : PB28,  of Type IO, alternates : [ISC ISC_D_2, HSMC A_17, FLEXCOM0 FLEXCOM0_IO_0, LCDC LCDDAT_17, TC1 TIOA_5, PIO P_60]
+- F6 : PB29,  of Type IO, alternates : [ISC ISC_D_3, HSMC A_18, LCDC LCDDAT_18, FLEXCOM0 FLEXCOM0_IO_1, PIO P_61, TC1 TIOB_5]
+- F2 : PB30,  of Type IO, alternates : [HSMC A_19, LCDC LCDDAT_19, ISC ISC_D_4, FLEXCOM0 FLEXCOM0_IO_2, PIO P_62, TC1 TCLK_5]
+- F7 : PB31,  of Type IO, alternates : [TWIHS0 TWD_0, ISC ISC_D_5, FLEXCOM0 FLEXCOM0_IO_3, PIO P_63, HSMC A_20, LCDC LCDDAT_20]
+- M13 : PC1,  of Type IO, alternates : [MCAN0 CANTX_0, I2SC0 I2SC0_CK_, PIO P_65, ISC ISC_D_7, HSMC A_24, SPI1 SPI1_SPCK_, LCDC LCDDAT_22]
+- P13 : VDDFUSE,  of Type PP
+- N13 : PC2,  of Type IO, alternates : [MCAN0 CANRX_0, PIO P_66, SPI1 SPI1_MOSI_, HSMC A_25, ISC ISC_D_8, LCDC LCDDAT_23, I2SC0 I2SC0_MCK_]
+- K10 : PC3,  of Type IO, alternates : [SPI1 SPI1_MISO_, I2SC0 I2SC0_WS_, LCDC LCDPWM_, PIO P_67, TC0 TIOA_1, ISC ISC_D_9, HSMC NWAIT_]
+- P14 : PC4,  of Type IO, alternates : [ISC ISC_PCK_, LCDC LCDDISP_, I2SC0 I2SC0_DI_0, PIO P_68, SPI1 SPI1_NPCS_0, HSMC NWR1_, TC0 TIOB_1]
+- J8 : PC5,  of Type IO, alternates : [PIO P_69, ISC ISC_VSYNC_, TC0 TCLK_1, SPI1 SPI1_NPCS_1, HSMC NCS_0, I2SC0 I2SC0_DO_0, LCDC LCDVSYNC_]
+- N14 : PC6,  of Type IO, alternates : [LCDC LCDHSYNC_, TWIHS1 TWD_1, PIO P_70, ISC ISC_HSYNC_, SPI1 SPI1_NPCS_2]
+- M14 : PC7,  of Type IO, alternates : [LCDC LCDPCK_, TWIHS1 TWCK_1, ISC ISC_MCK_, UART1 URXD_1, HSMC NCS_2, SPI1 SPI1_NPCS_3, PIO P_71]
+- J9 : PC8,  of Type IO, alternates : [LCDC LCDDEN_, HSMC NANDRDY_, SAIC FIQ_, ISC ISC_FIELD_, UART1 UTXD_1, PIO P_72, PMC PCK_0]
+- F5 : PD7,  of Type IO, alternates : [ISC ISC_D_0, ICE TDI_, PIO P_103, PTC PTC_X_4, GMAC GTX_2, HSMC NWR1_]
+- F3 : PD8,  of Type IO, alternates : [HSMC NANDRDY_, ISC ISC_D_1, PTC PTC_X_5, ICE TDO_, GMAC GTX_3, PIO P_104]
+- G5 : PD9,  of Type IO, alternates : [ISC ISC_D_2, ICE TMS_, PTC PTC_X_6, PIO P_105, GMAC GTXCK_]
+- G4 : PD10,  of Type IO, alternates : [ISC ISC_D_3, ICE NTRST_, GMAC GTXEN_, PTC PTC_X_7, PIO P_106]
+- H1 : PD11,  of Type IO, alternates : [PMC PCK_2, ISC ISC_MCK_, ISC ISC_D_4, GMAC GRXDV_, TC0 TIOA_1, PIO P_107, PTC PTC_Y_0]
+- H6 : PD12,  of Type IO, alternates : [GMAC GRXER_, PIO P_108, ISC ISC_D_4, FLEXCOM4 FLEXCOM4_IO_0, ISC ISC_D_5, TC0 TIOB_1, PTC PTC_Y_1]
+- H3 : PD13,  of Type IO, alternates : [PIO P_109, TC0 TCLK_1, ISC ISC_D_6, FLEXCOM4 FLEXCOM4_IO_1, ISC ISC_D_5, GMAC GRX_0, PTC PTC_Y_2]
+- G6 : PD14,  of Type IO, alternates : [ISC ISC_D_6, PIO P_110, ISC ISC_D_7, ICE TCK_, FLEXCOM4 FLEXCOM4_IO_2, PTC PTC_Y_3, GMAC GRX_1]
+- H5 : PD15,  of Type IO, alternates : [ISC ISC_PCK_, ICE TDI_, ISC ISC_D_7, FLEXCOM4 FLEXCOM4_IO_3, GMAC GTX_0, PTC PTC_Y_4, PIO P_111]
+- G1 : PD16,  of Type IO, alternates : [ISC ISC_VSYNC_, GMAC GTX_1, ICE TDO_, ISC ISC_D_8, PIO P_112, FLEXCOM4 FLEXCOM4_IO_4, PTC PTC_Y_5]
+- G2 : PD17,  of Type IO, alternates : [ICE TMS_, PIO P_113, PTC PTC_Y_6, GMAC GMDC_, ISC ISC_D_9, ISC ISC_HSYNC_]
+- G3 : PD18,  of Type IO, alternates : [GMAC GMDIO_, ICE NTRST_, ISC ISC_FIELD_, PTC PTC_Y_7, ISC ISC_D_10, PIO P_114]
+- H4 : PD19,  of Type IO, alternates : [I2SC0 I2SC0_CK_, ISC ISC_D_11, TWIHS1 TWD_1, UART2 URXD_2, ADC AD_0, PIO P_115, PMC PCK_0]
+- J1 : PD20,  of Type IO, alternates : [ISC ISC_PCK_, TWIHS1 TWCK_1, UART2 UTXD_2, TC0 TIOA_2, PIO P_116, ADC AD_1, I2SC0 I2SC0_MCK_]
+- K1 : PD21,  of Type IO, alternates : [ISC ISC_VSYNC_, TWIHS0 TWD_0, I2SC0 I2SC0_WS_, FLEXCOM4 FLEXCOM4_IO_0, TC0 TIOB_2, ADC AD_2, PIO P_117]
+- J3 : PD22,  of Type IO, alternates : [TWIHS0 TWCK_0, FLEXCOM4 FLEXCOM4_IO_1, I2SC0 I2SC0_DI_0, PIO P_118, TC0 TCLK_2, ADC AD_3, ISC ISC_HSYNC_]
+- K2 : PD23,  of Type IO, alternates : [ADC AD_4, PIO P_119, ISC ISC_FIELD_, FLEXCOM4 FLEXCOM4_IO_2, UART2 URXD_2, I2SC0 I2SC0_DO_0]
+- K3 : VDDANA,  of Type PP
+- K4 : GNDANA,  of Type PS
+- L2 : ADVREF,  of Type PS
+- H2 : VDDANA,  of Type PP
+- J2 : GNDANA,  of Type PS
+- H12 : DDR_VREF,  of Type PS
+- C12 : DDR_VREF,  of Type PS
+- B7 : DDR_D0,  of Type IO
+- A7 : DDR_D1,  of Type IO
+- C8 : DDR_D2,  of Type IO
+- B9 : DDR_D3,  of Type IO
+- A9 : DDR_D4,  of Type IO
+- C9 : DDR_D5,  of Type IO
+- A10 : DDR_D6,  of Type IO
+- B10 : DDR_D7,  of Type IO
+- H13 : DDR_D8,  of Type IO
+- H14 : DDR_D9,  of Type IO
+- J13 : DDR_D10,  of Type IO
+- J14 : DDR_D11,  of Type IO
+- L13 : DDR_D12,  of Type IO
+- L14 : DDR_D13,  of Type IO
+- J12 : DDR_D14,  of Type IO
+- K12 : DDR_D15,  of Type IO
+- E11 : DDR_A0,  of Type OP
+- C11 : DDR_A1,  of Type OP
+- B12 : DDR_A2,  of Type OP
+- A12 : DDR_A3,  of Type OP
+- D11 : DDR_A4,  of Type OP
+- D14 : DDR_A5,  of Type OP
+- B14 : DDR_A6,  of Type OP
+- D9 : DDR_A7,  of Type OP
+- C10 : DDR_A8,  of Type OP
+- D10 : DDR_A9,  of Type OP
+- F9 : DDR_A10,  of Type OP
+- A11 : DDR_A11,  of Type OP
+- B11 : DDR_A12,  of Type OP
+- E13 : DDR_A13,  of Type OP
+- A13 : DDR_CLK,  of Type OP
+- B13 : DDR_CLKN,  of Type OP
+- E14 : DDR_CKE,  of Type OP
+- D13 : DDR_RESETN,  of Type OP
+- F11 : DDR_CS,  of Type OP
+- A14 : DDR_WE,  of Type OP
+- C14 : DDR_RAS,  of Type OP
+- C13 : DDR_CAS,  of Type OP
+- D8 : DDR_DQM0,  of Type OP
+- G14 : DDR_DQM1,  of Type OP
+- B8 : DDR_DQS0,  of Type OP
+- K14 : DDR_DQS1,  of Type OP
+- A8 : DDR_DQSN0,  of Type OP
+- K13 : DDR_DQSN1,  of Type OP
+- F13 : DDR_BA0,  of Type OP
+- G13 : DDR_BA1,  of Type OP
+- F14 : DDR_BA2,  of Type OP
+- F10 : DDR_CAL,  of Type OP
+- C6 : VDDIODDR,  of Type PP
+- E10 : VDDIODDR,  of Type PP
+- E12 : VDDIODDR,  of Type PP
+- G10 : VDDIODDR,  of Type PP
+- G12 : VDDIODDR,  of Type PP
+- H11 : VDDIODDR,  of Type PP
+- J10 : VDDIODDR,  of Type PP
+- C7 : GNDIODDR,  of Type PS
+- D12 : GNDIODDR,  of Type PS
+- E9 : GNDIODDR,  of Type PS
+- F12 : GNDIODDR,  of Type PS
+- G11 : GNDIODDR,  of Type PS
+- H10 : GNDIODDR,  of Type PS
+- J11 : GNDIODDR,  of Type PS
+- E8 : VDDCORE,  of Type PP
+- G8 : VDDCORE,  of Type PP
+- H8 : VDDCORE,  of Type PP
+- H9 : VDDCORE,  of Type PP
+- J5 : VDDCORE,  of Type PP
+- F8 : GNDCORE,  of Type PS
+- G7 : GNDCORE,  of Type PS
+- G9 : GNDCORE,  of Type PS
+- H7 : GNDCORE,  of Type PS
+- J4 : GNDCORE,  of Type PS
+- D7 : VDDIOP0,  of Type PP
+- F4 : VDDIOP0,  of Type PP
+- E4 : GNDIOP0,  of Type PS
+- E7 : GNDIOP0,  of Type PS
+- K8 : VDDIOP1,  of Type PP
+- L11 : VDDIOP1,  of Type PP
+- K9 : GDNIOP1,  of Type IO
+- L12 : GNDIOP1,  of Type PS
+- K11 : PA31,  of Type IO, alternates : [PWM PWML_0, HSMC NCS_3, CLASSD CLASSD_L_3, PIO P_31, SPI0 SPI0_MISO_]
+- P3 : VDDPLLA,  of Type PP
+- P4 : GNDPLLA,  of Type PS
+- K6 : VDDAUDIOPLL,  of Type PP
+- L6 : PIOBU5,  of Type IO
+- J6 : GNDAUDIOPLL,  of Type PS
+- J7 : CLK_AUDIO,  of Type IO
+- P5 : XIN,  of Type PS
+- P6 : XOUT,  of Type PS
+- N5 : VDDOSC,  of Type PP
+- N6 : GNDOSC,  of Type PS
+- K7 : VDDUTMII,  of Type PP
+- L8 : GNDUTMII,  of Type PS
+- N7 : HHSDPA,  of Type IO
+- P7 : HHSDMA,  of Type IO
+- N8 : HHSDPB,  of Type IO
+- P8 : HHSDMB,  of Type IO
+- M7 : VDDUTMIC,  of Type PP
+- M8 : GNDUTMIC,  of Type PS
+- L7 : VBG,  of Type IO
+- M2 : TST,  of Type IO
+- N3 : NRST,  of Type IP
+- L4 : PIOBU1,  of Type IO
+- P1 : WKUP,  of Type IP
+- N1 : SHDN,  of Type IO
+- K5 : PIOBU0,  of Type IO
+- L3 : PIOBU2,  of Type IO
+- M3 : JTAGSEL,  of Type OP
+- N4 : GNDBU,  of Type PS
+- L5 : PIOBU4,  of Type IO
+- M6 : GNDDPLL,  of Type PS
+- M4 : VDDBU,  of Type PP
+- M5 : PIOBU3,  of Type IO
+- M1 : XIN32,  of Type PS
+- L1 : XOUT32,  of Type PS
+- N2 : COMPP,  of Type IO
+- P2 : COMPN,  of Type IO
 ## ATSAMA5D24C-CU
+
 ### Description : 
+
+- Series : SAMA5D2
+- Footprint : TFBGA256
+- MP : ATSAMA5D24C-CU
+- Architecture : CORTEX-A5
+- PINOUT : TFBGA256
+- Reference : U
+- Documentation : https://www.microchip.com/en-us/search?q=ATSAMA5D24C-CU
+- Value : ATSAMA5D24C-CU
+- Family : SAMA5
+- MF : Microchip
+- Name : ATSAMA5D24
 
 ### Package : 
 
-- R10 : PA0
-- R9 : PA1
-- U11 : PA2
-- P10 : PA3
-- P11 : PA4
-- V11 : PA5
-- U12 : PA6
-- V12 : PA7
-- N11 : PA8
-- P12 : PA9
-- U13 : PA10
-- R14 : PA11
-- N13 : PA12
-- P14 : PA13
-- P17 : PA14
-- R18 : PA15
-- N15 : PA16
-- P18 : PA17
-- M9 : PA18
-- V13 : PA19
-- L9 : PA20
-- M10 : PA21
-- V14 : PA22
-- U14 : PA23
-- R13 : PA24
-- U15 : PA25
-- L10 : PA26
-- V17 : PA27
-- U16 : PA28
-- U17 : PA29
-- V18 : PA30
-- U18 : PA31
-- G9 : PB0
-- A7 : PB1
-- B7 : PB2
-- B6 : PB3
-- A6 : PB4
-- D7 : PB5
-- B5 : PB6
-- A5 : PB7
-- E7 : PB8
-- F6 : PB9
-- D6 : PB10
-- A4 : PB11
-- B3 : PB12
-- A3 : PB13
-- B4 : PB14
-- G8 : PB15
-- E5 : PB16
-- G7 : PB17
-- A2 : PB18
-- H7 : PB19
-- A1 : PB20
-- D2 : PB21
-- G5 : PB22
-- C2 : PB23
-- F4 : PB24
-- C1 : PB25
-- E4 : PB26
-- F1 : PB27
-- D1 : PB28
-- F2 : PB29
-- E2 : PB30
-- E1 : PB31
-- R15 : PC0
-- M11 : PC1
-- P15 : PC2
-- K9 : PC3
-- K10 : PC4
-- L11 : PC5
-- L12 : PC6
-- M12 : PC7
-- K11 : PC8
-- E9 : PD0
-- F8 : PD1
-- F9 : PD2
-- J4 : PD3
-- H6 : PD4
-- H1 : PD5
-- G4 : PD6
-- H5 : PD7
-- G1 : PD8
-- H4 : PD9
-- G2 : PD10
-- H2 : PD11
-- K5 : PD12
-- J5 : PD13
-- K6 : PD14
-- K4 : PD15
-- K1 : PD16
-- K2 : PD17
-- L5 : PD18
-- L4 : PD19
-- M1 : PD20
-- M2 : PD21
-- M4 : PD22
-- P1 : PD23
-- L6 : PD24
-- M5 : PD25
-- N1 : PD26
-- N2 : PD27
-- P2 : PD28
-- R1 : PD29
-- N4 : PD30
-- T1 : PD31
-- L1 : VDDANA
-- L2 : GNDANA
-- P5 : ADVREF
-- J1 : VDDANA
-- J2 : GNDANA
-- J17 : DDR_VREF
-- D12 : DDR_VREF
-- B12 : DDR_D0
-- B13 : DDR_D1
-- D13 : DDR_D2
-- A13 : DDR_D3
-- A15 : DDR_D4
-- D14 : DDR_D5
-- B15 : DDR_D6
-- B16 : DDR_D7
-- G18 : DDR_D8
-- K17 : DDR_D9
-- J13 : DDR_D10
-- H15 : DDR_D11
-- J15 : DDR_D12
-- J14 : DDR_D13
-- K13 : DDR_D14
-- K18 : DDR_D15
-- A8 : DDR_D16
-- B9 : DDR_D17
-- D9 : DDR_D18
-- A9 : DDR_D19
-- B11 : DDR_D20
-- D10 : DDR_D21
-- A11 : DDR_D22
-- A12 : DDR_D23
-- L18 : DDR_D24
-- K15 : DDR_D25
-- K14 : DDR_D26
-- M18 : DDR_D27
-- N17 : DDR_D28
-- M14 : DDR_D29
-- M15 : DDR_D30
-- N18 : DDR_D31
-- D17 : DDR_A0
-- A17 : DDR_A1
-- A18 : DDR_A2
-- F15 : DDR_A3
-- G12 : DDR_A4
-- H12 : DDR_A5
-- F13 : DDR_A6
-- H10 : DDR_A7
-- A16 : DDR_A8
-- E12 : DDR_A9
-- H11 : DDR_A10
-- J10 : DDR_A11
-- D15 : DDR_A12
-- J11 : DDR_A13
-- C18 : DDR_CLK
-- C17 : DDR_CLKN
-- F18 : DDR_CKE
-- F17 : DDR_RESETN
-- J12 : DDR_CS
-- D18 : DDR_WE
-- E18 : DDR_RAS
-- E17 : DDR_CAS
-- D11 : DDR_DQM0
-- H14 : DDR_DQM1
-- B8 : DDR_DQM2
-- L13 : DDR_DQM3
-- A14 : DDR_DQS0
-- H18 : DDR_DQS1
-- A10 : DDR_DQS2
-- M17 : DDR_DQS3
-- B14 : DDR_DQSN0
-- J18 : DDR_DQSN1
-- B10 : DDR_DQSN2
-- L17 : DDR_DQSN3
-- H13 : DDR_BA0
-- K12 : DDR_BA1
-- H17 : DDR_BA2
-- G17 : DDR_CAL
-- B17 : VDDIODDR
-- E11 : VDDIODDR
-- E14 : VDDIODDR
-- F10 : VDDIODDR
-- G11 : VDDIODDR
-- G15 : VDDIODDR
-- L14 : VDDIODDR
-- B18 : GNDIODDR
-- E10 : GNDIODDR
-- E15 : GNDIODDR
-- F11 : GNDIODDR
-- G10 : GNDIODDR
-- G14 : GNDIODDR
-- L15 : GNDIODDR
-- H8 : VDDCORE
-- J6 : VDDCORE
-- J9 : VDDCORE
-- K8 : VDDCORE
-- L8 : VDDCORE
-- H9 : GNDCORE
-- J7 : GNDCORE
-- J8 : GNDCORE
-- K7 : GNDCORE
-- L7 : GNDCORE
-- B1 : VDDIOP0
-- D5 : VDDIOP0
-- B2 : GNDIOP0
-- D4 : GNDIOP0
-- T18 : VDDIOP1
-- V16 : VDDIOP1
-- T17 : GNDIOP1
-- V15 : GNDIOP1
-- D8 : VDDIOP2
-- E8 : GNDIOP2
-- R11 : VDDSDMMC
-- R12 : GNDSDMMC
-- R17 : VDDFUSE
-- V5 : VDDPLLA
-- U6 : GNDPLLA
-- M7 : VDDAUDIOPLL
-- P7 : GNDDPLL
-- N6 : GNDAUDIOPLL
-- M8 : CLK_AUDIO
-- V7 : XIN
-- V6 : XOUT
-- R8 : VDDOSC
-- U5 : GNDOSC
-- N8 : VDDUTMII
-- P9 : VDDHSIC
-- N9 : GNDUTMII
-- U8 : HHSDPA
-- V8 : HHSDMA
-- U9 : HHSDPB
-- V9 : HHSDMB
-- U10 : HHSDPDATC
-- V10 : HHSDMSTRC
-- P8 : VDDUTMIC
-- U7 : GNDUTMIC
-- N10 : SDCAL
-- R7 : VBG
-- P4 : TST
-- V1 : NRST
-- V2 : JTAGSEL
-- R5 : WKUP
-- U2 : RXD
-- U1 : SHDN
-- R6 : PIOBU0
-- R4 : PIOBU1
-- U3 : VDDBU
-- U4 : GNDBU
-- T2 : XIN32
-- R2 : XOUT32
-- V3 : COMPP
-- V4 : COMPN
+Pin count : 256
+- R10 : PA0,  of Type IO, alternates : [HSMC D_0, PIO P_0, SDMMC0 SDMMC0_CK_, QSPI0 QSPI0_SCK_]
+- R9 : PA1,  of Type IO, alternates : [SDMMC0 SDMMC0_CMD_, PIO P_1, QSPI0 QSPI0_CS_, HSMC D_1]
+- U11 : PA2,  of Type IO, alternates : [PIO P_2, HSMC D_2, SDMMC0 SDMMC0_DAT_0, QSPI0 QSPI0_IO_0]
+- P10 : PA3,  of Type IO, alternates : [PIO P_3, HSMC D_3, SDMMC0 SDMMC0_DAT_1, QSPI0 QSPI0_IO_1]
+- P11 : PA4,  of Type IO, alternates : [HSMC D_4, PIO P_4, SDMMC0 SDMMC0_DAT_2, QSPI0 QSPI0_IO_2]
+- V11 : PA5,  of Type IO, alternates : [PIO P_5, HSMC D_5, QSPI0 QSPI0_IO_3, SDMMC0 SDMMC0_DAT_3]
+- U12 : PA6,  of Type IO, alternates : [PIO P_6, HSMC D_6, FLEXCOM2 FLEXCOM2_IO_0, TC1 TIOA_5, QSPI1 QSPI1_SCK_, SDMMC0 SDMMC0_DAT_4]
+- V12 : PA7,  of Type IO, alternates : [PIO P_7, QSPI1 QSPI1_IO_0, HSMC D_7, FLEXCOM2 FLEXCOM2_IO_1, SDMMC0 SDMMC0_DAT_5, TC1 TIOB_5]
+- N11 : PA8,  of Type IO, alternates : [PIO P_8, QSPI1 QSPI1_IO_1, FLEXCOM2 FLEXCOM2_IO_2, HSMC NANDNWE_, TC1 TCLK_5, SDMMC0 SDMMC0_DAT_6]
+- P12 : PA9,  of Type IO, alternates : [SDMMC0 SDMMC0_DAT_7, QSPI1 QSPI1_IO_2, FLEXCOM2 FLEXCOM2_IO_3, TC1 TIOA_4, HSMC NCS_3, PIO P_9]
+- U13 : PA10,  of Type IO, alternates : [PIO P_10, QSPI1 QSPI1_IO_3, SDMMC0 SDMMC0_RSTN_, HSMC A21_, TC1 TIOB_4, FLEXCOM2 FLEXCOM2_IO_4]
+- R14 : PA11,  of Type IO, alternates : [QSPI1 QSPI1_CS_, SDMMC0 SDMMC0_1V8SEL_, PIO P_11, HSMC A22_, TC1 TCLK_4]
+- N13 : PA12,  of Type IO, alternates : [AIC IRQ_, SDMMC0 SDMMC0_WP_, PIO P_12, HSMC NANDOE_]
+- P14 : PA13,  of Type IO, alternates : [HSMC D_8, FLEXCOM3 FLEXCOM3_IO_1, PIO P_13, SDMMC0 SDMMC0_CD_]
+- P17 : PA14,  of Type IO, alternates : [PIO P_14, SPI0 SPI0_SPCK_, HSMC D_9, SSC1 TK_1, I2SC1 I2SC1_MCK_, FLEXCOM3 FLEXCOM3_IO_2, QSPI0 QSPI0_SCK_]
+- R18 : PA15,  of Type IO, alternates : [PIO P_15, HSMC D_10, QSPI0 QSPI0_CS_, FLEXCOM3 FLEXCOM3_IO_0, SSC1 TF_1, SPI0 SPI0_MOSI_, I2SC1 I2SC1_CK_]
+- N15 : PA16,  of Type IO, alternates : [PIO P_16, HSMC D_11, I2SC1 I2SC1_WS_, FLEXCOM3 FLEXCOM3_IO_3, SPI0 SPI0_MISO_, SSC1 TD_1, QSPI0 QSPI0_IO_0]
+- P18 : PA17,  of Type IO, alternates : [I2SC1 I2SC1_DI_0, PIO P_17, HSMC D_12, SPI0 SPI0_NPCS_0, FLEXCOM3 FLEXCOM3_IO_4, QSPI0 QSPI0_IO_1, SSC1 RD_1]
+- M9 : PA18,  of Type IO, alternates : [HSMC D_13, SSC1 RK_1, SPI0 SPI0_NPCS_1, I2SC1 I2SC1_DO_0, PIO P_18, QSPI0 QSPI0_IO_2, SDMMC1 SDMMC1_DAT_0]
+- V13 : PA19,  of Type IO, alternates : [SSC1 RF_1, SPI0 SPI0_NPCS_2, HSMC D_14, TC0 TIOA_0, QSPI0 QSPI0_IO_3, PIO P_19, SDMMC1 SDMMC1_DAT_1]
+- L9 : PA20,  of Type IO, alternates : [SPI0 SPI0_NPCS_3, HSMC D_15, TC0 TIOB_0, PIO P_20, SDMMC1 SDMMC1_DAT_2]
+- M10 : PA21,  of Type IO, alternates : [AIC IRQ_, PMC PCK_2, HSMC NANDRDY_, TC0 TCLK_0, PIO P_21, SDMMC1 SDMMC1_DAT_3]
+- V14 : PA22,  of Type IO, alternates : [PIO P_22, ICE TCK_, FLEXCOM1 FLEXCOM1_IO_2, HSMC D_0, SPI1 SPI1_SPCK_, SDMMC1 SDMMC1_CK_, QSPI0 QSPI0_SCK_]
+- U14 : PA23,  of Type IO, alternates : [ICE TDI_, PIO P_23, QSPI0 QSPI0_CS_, SPI1 SPI1_MOSI_, FLEXCOM1 FLEXCOM1_IO_1, HSMC D_1]
+- R13 : PA24,  of Type IO, alternates : [SPI1 SPI1_MISO_, FLEXCOM1 FLEXCOM1_IO_0, HSMC D_2, PIO P_24, ICE TDO_, QSPI0 QSPI0_IO_0]
+- U15 : PA25,  of Type IO, alternates : [PIO P_25, ICE TMS_, HSMC D_3, FLEXCOM1 FLEXCOM1_IO_3, SPI1 SPI1_NPCS_0, QSPI0 QSPI0_IO_1]
+- L10 : PA26,  of Type IO, alternates : [PIO P_26, ICE NTRST_, HSMC D_4, SPI1 SPI1_NPCS_1, FLEXCOM1 FLEXCOM1_IO_4, QSPI0 QSPI0_IO_2]
+- V17 : PA27,  of Type IO, alternates : [PIO P_27, SPI0 SPI0_NPCS_2, SDMMC1 SDMMC1_RSTN_, HSMC D_5, TC0 TIOA_1, QSPI0 QSPI0_IO_3, SPI1 SPI1_NPCS_2]
+- U16 : PA28,  of Type IO, alternates : [HSMC D_6, PIO P_28, SPI0 SPI0_NPCS_3, CLASSD CLASSD_L_0, SDMMC1 SDMMC1_CMD_, TC0 TIOB_1, SPI1 SPI1_NPCS_3]
+- U17 : PA29,  of Type IO, alternates : [HSMC D_7, TC0 TCLK_1, SDMMC1 SDMMC1_WP_, CLASSD CLASSD_L_1, SPI0 SPI0_NPCS_1, PIO P_29]
+- V18 : PA30,  of Type IO, alternates : [SPI0 SPI0_NPCS_0, PWM PWMH_0, CLASSD CLASSD_L_2, PIO P_30, HSMC NANDNWE_, SDMMC1 SDMMC1_CD_]
+- U18 : PA31,  of Type IO, alternates : [PWM PWML_0, HSMC NCS_3, CLASSD CLASSD_L_3, PIO P_31, SPI0 SPI0_MISO_]
+- G9 : PB0,  of Type IO, alternates : [PIO P_32, PWM PWMH_1, HSMC A21_, SPI0 SPI0_MOSI_]
+- A7 : PB1,  of Type IO, alternates : [SPI0 SPI0_SPCK_, PIO P_33, PWM PWML_1, HSMC A22_, CLASSD CLASSD_R_0]
+- B7 : PB2,  of Type IO, alternates : [PIO P_34, PWM PWMFI_0, CLASSD CLASSD_R_1, HSMC NANDOE_]
+- B6 : PB3,  of Type IO, alternates : [HSMC D_8, AIC IRQ_, PWM PWMEXTRG_1, PIO P_35, CLASSD CLASSD_R_2, UART4 URXD_4]
+- A6 : PB4,  of Type IO, alternates : [PIO P_36, HSMC D_9, SAIC FIQ_, UART4 UTXD_4, CLASSD CLASSD_R_3]
+- D7 : PB5,  of Type IO, alternates : [PIO P_37, HSMC D_10, PWM PWMH_2, QSPI1 QSPI1_SCK_, GMAC GTSUCOMP_, TC0 TCLK_2]
+- B5 : PB6,  of Type IO, alternates : [PIO P_38, HSMC D_11, QSPI1 QSPI1_CS_, GMAC GTXER_, PWM PWML_2, TC0 TIOA_2]
+- A5 : PB7,  of Type IO, alternates : [PIO P_39, QSPI1 QSPI1_IO_0, HSMC D_12, PWM PWMH_3, TC0 TIOB_2, GMAC GRXCK_]
+- E7 : PB8,  of Type IO, alternates : [QSPI1 QSPI1_IO_1, HSMC D_13, PIO P_40, PWM PWML_3, GMAC GCRS_, TC1 TCLK_3]
+- F6 : PB9,  of Type IO, alternates : [QSPI1 QSPI1_IO_2, HSMC D_14, GMAC GCOL_, PIO P_41, TC1 TIOA_3, PWM PWMFI_1]
+- D6 : PB10,  of Type IO, alternates : [GMAC GRX_2, PWM PWMEXTRG_2, QSPI1 QSPI1_IO_3, HSMC D_15, TC1 TIOB_3, PIO P_42]
+- A4 : PB11,  of Type IO, alternates : [GMAC GRX_3, PIO P_43, PDMIC PDMIC_DAT_, UART3 URXD_3, LCDC LCDDAT_0, HSMC A0_]
+- B3 : PB12,  of Type IO, alternates : [PDMIC PDMIC_CLK_, PIO P_44, UART3 UTXD_3, GMAC GTX_2, HSMC A_1, LCDC LCDDAT_1]
+- A3 : PB13,  of Type IO, alternates : [PMC PCK_1, PIO P_45, GMAC GTX_3, HSMC A_2, LCDC LCDDAT_2]
+- B4 : PB14,  of Type IO, alternates : [SSC1 TK_1, I2SC1 I2SC1_MCK_, LCDC LCDDAT_3, PIO P_46, HSMC A_3, QSPI1 QSPI1_SCK_, GMAC GTXCK_]
+- G8 : PB15,  of Type IO, alternates : [PIO P_47, LCDC LCDDAT_4, QSPI1 QSPI1_CS_, GMAC GTXEN_, HSMC A_4, SSC1 TF_1, I2SC1 I2SC1_CK_]
+- E5 : PB16,  of Type IO, alternates : [LCDC LCDDAT_5, PIO P_48, I2SC1 I2SC1_WS_, QSPI1 QSPI1_IO_0, HSMC A_5, GMAC GRXDV_, SSC1 TD_1]
+- G7 : PB17,  of Type IO, alternates : [LCDC LCDDAT_6, GMAC GRXER_, I2SC1 I2SC1_DI_0, PIO P_49, QSPI1 QSPI1_IO_1, HSMC A_6, SSC1 RD_1]
+- A2 : PB18,  of Type IO, alternates : [HSMC A_7, SSC1 RK_1, QSPI1 QSPI1_IO_2, LCDC LCDDAT_7, PIO P_50, I2SC1 I2SC1_DO_0, GMAC GRX_0]
+- H7 : PB19,  of Type IO, alternates : [SSC1 RF_1, QSPI1 QSPI1_IO_3, HSMC A_8, LCDC LCDDAT_8, PIO P_51, TC1 TIOA_3, GMAC GRX_1]
+- A1 : PB20,  of Type IO, alternates : [PMC PCK_1, HSMC A_9, LCDC LCDDAT_9, GMAC GTX_0, TC1 TIOB_3, PIO P_52, SSC0 TK_0]
+- D2 : PB21,  of Type IO, alternates : [SSC0 TF_0, FLEXCOM3 FLEXCOM3_IO_2, GMAC GTX_1, PIO P_53, HSMC A_10, LCDC LCDDAT_10, TC1 TCLK_3]
+- G5 : PB22,  of Type IO, alternates : [SSC0 TD_0, PIO P_54, FLEXCOM3 FLEXCOM3_IO_1, HSMC A_11, GMAC GMDC_, TC0 TIOA_2, LCDC LCDDAT_11]
+- C2 : PB23,  of Type IO, alternates : [SSC0 RD_0, GMAC GMDIO_, PIO P_55, FLEXCOM3 FLEXCOM3_IO_0, TC0 TIOB_2, HSMC A_12, LCDC LCDDAT_12]
+- F4 : PB24,  of Type IO, alternates : [PIO P_56, FLEXCOM3 FLEXCOM3_IO_3, ISC ISC_D_10, HSMC A_13, SSC0 RK_0, LCDC LCDDAT_13, TC0 TCLK_2]
+- C1 : PB25,  of Type IO, alternates : [ISC ISC_D_11, PIO P_57, HSMC A_14, LCDC LCDDAT_14, FLEXCOM3 FLEXCOM3_IO_4, SSC0 RF_0]
+- E4 : PB26,  of Type IO, alternates : [PIO P_58, ISC ISC_D_0, HSMC A_15, PDMIC PDMIC_DAT_, LCDC LCDDAT_15, UART0 URXD_0]
+- F1 : PB27,  of Type IO, alternates : [PIO P_59, ISC ISC_D_1, PDMIC PDMIC_CLK_, HSMC A_16, UART0 UTXD_0, LCDC LCDDAT_16]
+- D1 : PB28,  of Type IO, alternates : [ISC ISC_D_2, HSMC A_17, FLEXCOM0 FLEXCOM0_IO_0, LCDC LCDDAT_17, TC1 TIOA_5, PIO P_60]
+- F2 : PB29,  of Type IO, alternates : [ISC ISC_D_3, HSMC A_18, LCDC LCDDAT_18, FLEXCOM0 FLEXCOM0_IO_1, PIO P_61, TC1 TIOB_5]
+- E2 : PB30,  of Type IO, alternates : [HSMC A_19, LCDC LCDDAT_19, ISC ISC_D_4, FLEXCOM0 FLEXCOM0_IO_2, PIO P_62, TC1 TCLK_5]
+- E1 : PB31,  of Type IO, alternates : [TWIHS0 TWD_0, ISC ISC_D_5, FLEXCOM0 FLEXCOM0_IO_3, PIO P_63, HSMC A_20, LCDC LCDDAT_20]
+- R15 : PC0,  of Type IO, alternates : [TWIHS0 TWCK_0, ISC ISC_D_6, HSMC A_23, FLEXCOM0 FLEXCOM0_IO_4, PIO P_64, LCDC LCDDAT_21]
+- M11 : PC1,  of Type IO, alternates : [MCAN0 CANTX_0, I2SC0 I2SC0_CK_, PIO P_65, ISC ISC_D_7, HSMC A_24, SPI1 SPI1_SPCK_, LCDC LCDDAT_22]
+- P15 : PC2,  of Type IO, alternates : [MCAN0 CANRX_0, PIO P_66, SPI1 SPI1_MOSI_, HSMC A_25, ISC ISC_D_8, LCDC LCDDAT_23, I2SC0 I2SC0_MCK_]
+- K9 : PC3,  of Type IO, alternates : [SPI1 SPI1_MISO_, I2SC0 I2SC0_WS_, LCDC LCDPWM_, PIO P_67, TC0 TIOA_1, ISC ISC_D_9, HSMC NWAIT_]
+- K10 : PC4,  of Type IO, alternates : [ISC ISC_PCK_, LCDC LCDDISP_, I2SC0 I2SC0_DI_0, PIO P_68, SPI1 SPI1_NPCS_0, HSMC NWR1_, TC0 TIOB_1]
+- L11 : PC5,  of Type IO, alternates : [PIO P_69, ISC ISC_VSYNC_, TC0 TCLK_1, SPI1 SPI1_NPCS_1, HSMC NCS_0, I2SC0 I2SC0_DO_0, LCDC LCDVSYNC_]
+- L12 : PC6,  of Type IO, alternates : [LCDC LCDHSYNC_, TWIHS1 TWD_1, PIO P_70, ISC ISC_HSYNC_, SPI1 SPI1_NPCS_2]
+- M12 : PC7,  of Type IO, alternates : [LCDC LCDPCK_, TWIHS1 TWCK_1, ISC ISC_MCK_, UART1 URXD_1, HSMC NCS_2, SPI1 SPI1_NPCS_3, PIO P_71]
+- K11 : PC8,  of Type IO, alternates : [LCDC LCDDEN_, HSMC NANDRDY_, SAIC FIQ_, ISC ISC_FIELD_, UART1 UTXD_1, PIO P_72, PMC PCK_0]
+- E9 : PD0,  of Type IO, alternates : [LCDC LCDPCK_, UART3 UTXD_3, HSMC A_23, GMAC GTSUCOMP_, PIO P_96, FLEXCOM4 FLEXCOM4_IO_4]
+- F8 : PD1,  of Type IO, alternates : [LCDC LCDDEN_, HSMC A_24, PIO P_97, GMAC GRXCK_]
+- F9 : PD2,  of Type IO, alternates : [GMAC GTXER_, ISC ISC_MCK_, PIO P_98, HSMC A_25, UART1 URXD_1]
+- J4 : PD3,  of Type IO, alternates : [SAIC FIQ_, PIO P_99, ISC ISC_D_11, UART1 UTXD_1, HSMC NWAIT_, PTC PTC_X_0, GMAC GCRS_]
+- H6 : PD4,  of Type IO, alternates : [ISC ISC_D_10, HSMC NCS_0, GMAC GCOL_, TWIHS1 TWD_1, UART2 URXD_2, PIO P_100, PTC PTC_X_1]
+- H1 : PD5,  of Type IO, alternates : [TWIHS1 TWCK_1, GMAC GRX_2, UART2 UTXD_2, HSMC NCS_1, PIO P_101, ISC ISC_D_9, PTC PTC_X_2]
+- G4 : PD6,  of Type IO, alternates : [PMC PCK_1, GMAC GRX_3, ICE TCK_, PIO P_102, ISC ISC_D_8, HSMC NCS_2, PTC PTC_X_3]
+- H5 : PD7,  of Type IO, alternates : [ISC ISC_D_0, ICE TDI_, PIO P_103, PTC PTC_X_4, GMAC GTX_2, HSMC NWR1_]
+- G1 : PD8,  of Type IO, alternates : [HSMC NANDRDY_, ISC ISC_D_1, PTC PTC_X_5, ICE TDO_, GMAC GTX_3, PIO P_104]
+- H4 : PD9,  of Type IO, alternates : [ISC ISC_D_2, ICE TMS_, PTC PTC_X_6, PIO P_105, GMAC GTXCK_]
+- G2 : PD10,  of Type IO, alternates : [ISC ISC_D_3, ICE NTRST_, GMAC GTXEN_, PTC PTC_X_7, PIO P_106]
+- H2 : PD11,  of Type IO, alternates : [PMC PCK_2, ISC ISC_MCK_, ISC ISC_D_4, GMAC GRXDV_, TC0 TIOA_1, PIO P_107, PTC PTC_Y_0]
+- K5 : PD12,  of Type IO, alternates : [GMAC GRXER_, PIO P_108, ISC ISC_D_4, FLEXCOM4 FLEXCOM4_IO_0, ISC ISC_D_5, TC0 TIOB_1, PTC PTC_Y_1]
+- J5 : PD13,  of Type IO, alternates : [PIO P_109, TC0 TCLK_1, ISC ISC_D_6, FLEXCOM4 FLEXCOM4_IO_1, ISC ISC_D_5, GMAC GRX_0, PTC PTC_Y_2]
+- K6 : PD14,  of Type IO, alternates : [ISC ISC_D_6, PIO P_110, ISC ISC_D_7, ICE TCK_, FLEXCOM4 FLEXCOM4_IO_2, PTC PTC_Y_3, GMAC GRX_1]
+- K4 : PD15,  of Type IO, alternates : [ISC ISC_PCK_, ICE TDI_, ISC ISC_D_7, FLEXCOM4 FLEXCOM4_IO_3, GMAC GTX_0, PTC PTC_Y_4, PIO P_111]
+- K1 : PD16,  of Type IO, alternates : [ISC ISC_VSYNC_, GMAC GTX_1, ICE TDO_, ISC ISC_D_8, PIO P_112, FLEXCOM4 FLEXCOM4_IO_4, PTC PTC_Y_5]
+- K2 : PD17,  of Type IO, alternates : [ICE TMS_, PIO P_113, PTC PTC_Y_6, GMAC GMDC_, ISC ISC_D_9, ISC ISC_HSYNC_]
+- L5 : PD18,  of Type IO, alternates : [GMAC GMDIO_, ICE NTRST_, ISC ISC_FIELD_, PTC PTC_Y_7, ISC ISC_D_10, PIO P_114]
+- L4 : PD19,  of Type IO, alternates : [I2SC0 I2SC0_CK_, ISC ISC_D_11, TWIHS1 TWD_1, UART2 URXD_2, ADC AD_0, PIO P_115, PMC PCK_0]
+- M1 : PD20,  of Type IO, alternates : [ISC ISC_PCK_, TWIHS1 TWCK_1, UART2 UTXD_2, TC0 TIOA_2, PIO P_116, ADC AD_1, I2SC0 I2SC0_MCK_]
+- M2 : PD21,  of Type IO, alternates : [ISC ISC_VSYNC_, TWIHS0 TWD_0, I2SC0 I2SC0_WS_, FLEXCOM4 FLEXCOM4_IO_0, TC0 TIOB_2, ADC AD_2, PIO P_117]
+- M4 : PD22,  of Type IO, alternates : [TWIHS0 TWCK_0, FLEXCOM4 FLEXCOM4_IO_1, I2SC0 I2SC0_DI_0, PIO P_118, TC0 TCLK_2, ADC AD_3, ISC ISC_HSYNC_]
+- P1 : PD23,  of Type IO, alternates : [ADC AD_4, PIO P_119, ISC ISC_FIELD_, FLEXCOM4 FLEXCOM4_IO_2, UART2 URXD_2, I2SC0 I2SC0_DO_0]
+- L6 : PD24,  of Type IO, alternates : [ADC AD_5, UART2 UTXD_2, PIO P_120, FLEXCOM4 FLEXCOM4_IO_3]
+- M5 : PD25,  of Type IO, alternates : [ADC AD_6, PIO P_121, SPI1 SPI1_SPCK_, FLEXCOM4 FLEXCOM4_IO_4]
+- N1 : PD26,  of Type IO, alternates : [ADC AD_7, FLEXCOM2 FLEXCOM2_IO_0, SPI1 SPI1_MOSI_, PIO P_122]
+- N2 : PD27,  of Type IO, alternates : [SPI1 SPI1_MISO_, ADC AD_8, FLEXCOM2 FLEXCOM2_IO_1, ICE TCK_, PIO P_123]
+- P2 : PD28,  of Type IO, alternates : [ICE TDI_, ADC AD_9, FLEXCOM2 FLEXCOM2_IO_2, PIO P_124, SPI1 SPI1_NPCS_0]
+- R1 : PD29,  of Type IO, alternates : [TWIHS0 TWD_0, PIO P_125, SPI1 SPI1_NPCS_1, FLEXCOM2 FLEXCOM2_IO_3, ICE TDO_, TC1 TIOA_3, ADC AD_10]
+- N4 : PD30,  of Type IO, alternates : [TWIHS0 TWCK_0, ICE TMS_, TC1 TIOB_3, FLEXCOM2 FLEXCOM2_IO_4, ADC AD_11, PIO P_126, SPI1 SPI1_NPCS_2]
+- T1 : PD31,  of Type IO, alternates : [AIC IRQ_, ADC ADTRG_, ICE NTRST_, PIO P_127, TC1 TCLK_3, PMC PCK_0]
+- L1 : VDDANA,  of Type PP
+- L2 : GNDANA,  of Type PS
+- P5 : ADVREF,  of Type PS
+- J1 : VDDANA,  of Type PP
+- J2 : GNDANA,  of Type PS
+- J17 : DDR_VREF,  of Type PS
+- D12 : DDR_VREF,  of Type PS
+- B12 : DDR_D0,  of Type IO
+- B13 : DDR_D1,  of Type IO
+- D13 : DDR_D2,  of Type IO
+- A13 : DDR_D3,  of Type IO
+- A15 : DDR_D4,  of Type IO
+- D14 : DDR_D5,  of Type IO
+- B15 : DDR_D6,  of Type IO
+- B16 : DDR_D7,  of Type IO
+- G18 : DDR_D8,  of Type IO
+- K17 : DDR_D9,  of Type IO
+- J13 : DDR_D10,  of Type IO
+- H15 : DDR_D11,  of Type IO
+- J15 : DDR_D12,  of Type IO
+- J14 : DDR_D13,  of Type IO
+- K13 : DDR_D14,  of Type IO
+- K18 : DDR_D15,  of Type IO
+- A8 : DDR_D16,  of Type IO
+- B9 : DDR_D17,  of Type IO
+- D9 : DDR_D18,  of Type IO
+- A9 : DDR_D19,  of Type IO
+- B11 : DDR_D20,  of Type IO
+- D10 : DDR_D21,  of Type IO
+- A11 : DDR_D22,  of Type IO
+- A12 : DDR_D23,  of Type IO
+- L18 : DDR_D24,  of Type IO
+- K15 : DDR_D25,  of Type IO
+- K14 : DDR_D26,  of Type IO
+- M18 : DDR_D27,  of Type IO
+- N17 : DDR_D28,  of Type IO
+- M14 : DDR_D29,  of Type IO
+- M15 : DDR_D30,  of Type IO
+- N18 : DDR_D31,  of Type IO
+- D17 : DDR_A0,  of Type OP
+- A17 : DDR_A1,  of Type OP
+- A18 : DDR_A2,  of Type OP
+- F15 : DDR_A3,  of Type OP
+- G12 : DDR_A4,  of Type OP
+- H12 : DDR_A5,  of Type OP
+- F13 : DDR_A6,  of Type OP
+- H10 : DDR_A7,  of Type OP
+- A16 : DDR_A8,  of Type OP
+- E12 : DDR_A9,  of Type OP
+- H11 : DDR_A10,  of Type OP
+- J10 : DDR_A11,  of Type OP
+- D15 : DDR_A12,  of Type OP
+- J11 : DDR_A13,  of Type OP
+- C18 : DDR_CLK,  of Type OP
+- C17 : DDR_CLKN,  of Type OP
+- F18 : DDR_CKE,  of Type OP
+- F17 : DDR_RESETN,  of Type OP
+- J12 : DDR_CS,  of Type OP
+- D18 : DDR_WE,  of Type OP
+- E18 : DDR_RAS,  of Type OP
+- E17 : DDR_CAS,  of Type OP
+- D11 : DDR_DQM0,  of Type OP
+- H14 : DDR_DQM1,  of Type OP
+- B8 : DDR_DQM2,  of Type OP
+- L13 : DDR_DQM3,  of Type OP
+- A14 : DDR_DQS0,  of Type OP
+- H18 : DDR_DQS1,  of Type OP
+- A10 : DDR_DQS2,  of Type OP
+- M17 : DDR_DQS3,  of Type OP
+- B14 : DDR_DQSN0,  of Type OP
+- J18 : DDR_DQSN1,  of Type OP
+- B10 : DDR_DQSN2,  of Type OP
+- L17 : DDR_DQSN3,  of Type OP
+- H13 : DDR_BA0,  of Type OP
+- K12 : DDR_BA1,  of Type OP
+- H17 : DDR_BA2,  of Type OP
+- G17 : DDR_CAL,  of Type OP
+- B17 : VDDIODDR,  of Type PP
+- E11 : VDDIODDR,  of Type PP
+- E14 : VDDIODDR,  of Type PP
+- F10 : VDDIODDR,  of Type PP
+- G11 : VDDIODDR,  of Type PP
+- G15 : VDDIODDR,  of Type PP
+- L14 : VDDIODDR,  of Type PP
+- B18 : GNDIODDR,  of Type PS
+- E10 : GNDIODDR,  of Type PS
+- E15 : GNDIODDR,  of Type PS
+- F11 : GNDIODDR,  of Type PS
+- G10 : GNDIODDR,  of Type PS
+- G14 : GNDIODDR,  of Type PS
+- L15 : GNDIODDR,  of Type PS
+- H8 : VDDCORE,  of Type PP
+- J6 : VDDCORE,  of Type PP
+- J9 : VDDCORE,  of Type PP
+- K8 : VDDCORE,  of Type PP
+- L8 : VDDCORE,  of Type PP
+- H9 : GNDCORE,  of Type PS
+- J7 : GNDCORE,  of Type PS
+- J8 : GNDCORE,  of Type PS
+- K7 : GNDCORE,  of Type PS
+- L7 : GNDCORE,  of Type PS
+- B1 : VDDIOP0,  of Type PP
+- D5 : VDDIOP0,  of Type PP
+- B2 : GNDIOP0,  of Type PS
+- D4 : GNDIOP0,  of Type PS
+- T18 : VDDIOP1,  of Type PP
+- V16 : VDDIOP1,  of Type PP
+- T17 : GNDIOP1,  of Type PS
+- V15 : GNDIOP1,  of Type PS
+- D8 : VDDIOP2,  of Type PP
+- E8 : GNDIOP2,  of Type PS
+- R11 : VDDSDMMC,  of Type PP
+- R12 : GNDSDMMC,  of Type PS
+- R17 : VDDFUSE,  of Type PP
+- V5 : VDDPLLA,  of Type PP
+- U6 : GNDPLLA,  of Type PS
+- M7 : VDDAUDIOPLL,  of Type PP
+- P7 : GNDDPLL,  of Type PS
+- N6 : GNDAUDIOPLL,  of Type PS
+- M8 : CLK_AUDIO,  of Type IO
+- V7 : XIN,  of Type PS
+- V6 : XOUT,  of Type PS
+- R8 : VDDOSC,  of Type PP
+- U5 : GNDOSC,  of Type PS
+- N8 : VDDUTMII,  of Type PP
+- P9 : VDDHSIC,  of Type PP
+- N9 : GNDUTMII,  of Type PS
+- U8 : HHSDPA,  of Type IO
+- V8 : HHSDMA,  of Type IO
+- U9 : HHSDPB,  of Type IO
+- V9 : HHSDMB,  of Type IO
+- U10 : HHSDPDATC,  of Type IO
+- V10 : HHSDMSTRC,  of Type IO
+- P8 : VDDUTMIC,  of Type PP
+- U7 : GNDUTMIC,  of Type PS
+- N10 : SDCAL,  of Type IO
+- R7 : VBG,  of Type IO
+- P4 : TST,  of Type IO
+- V1 : NRST,  of Type IP
+- V2 : JTAGSEL,  of Type OP
+- R5 : WKUP,  of Type IP
+- U2 : RXD,  of Type IP
+- U1 : SHDN,  of Type IO
+- R6 : PIOBU0,  of Type IO
+- R4 : PIOBU1,  of Type IO
+- U3 : VDDBU,  of Type PP
+- U4 : GNDBU,  of Type PS
+- T2 : XIN32,  of Type PS
+- R2 : XOUT32,  of Type PS
+- V3 : COMPP,  of Type IO
+- V4 : COMPN,  of Type IO
 ## ATSAMA5D24C-CUR
+
 ### Description : 
+
+- Series : SAMA5D2
+- Footprint : TFBGA256
+- MP : ATSAMA5D24C-CUR
+- Architecture : CORTEX-A5
+- PINOUT : TFBGA256
+- Reference : U
+- Documentation : https://www.microchip.com/en-us/search?q=ATSAMA5D24C-CUR
+- Value : ATSAMA5D24C-CUR
+- Family : SAMA5
+- MF : Microchip
+- Name : ATSAMA5D24
 
 ### Package : 
 
-- R10 : PA0
-- R9 : PA1
-- U11 : PA2
-- P10 : PA3
-- P11 : PA4
-- V11 : PA5
-- U12 : PA6
-- V12 : PA7
-- N11 : PA8
-- P12 : PA9
-- U13 : PA10
-- R14 : PA11
-- N13 : PA12
-- P14 : PA13
-- P17 : PA14
-- R18 : PA15
-- N15 : PA16
-- P18 : PA17
-- M9 : PA18
-- V13 : PA19
-- L9 : PA20
-- M10 : PA21
-- V14 : PA22
-- U14 : PA23
-- R13 : PA24
-- U15 : PA25
-- L10 : PA26
-- V17 : PA27
-- U16 : PA28
-- U17 : PA29
-- V18 : PA30
-- U18 : PA31
-- G9 : PB0
-- A7 : PB1
-- B7 : PB2
-- B6 : PB3
-- A6 : PB4
-- D7 : PB5
-- B5 : PB6
-- A5 : PB7
-- E7 : PB8
-- F6 : PB9
-- D6 : PB10
-- A4 : PB11
-- B3 : PB12
-- A3 : PB13
-- B4 : PB14
-- G8 : PB15
-- E5 : PB16
-- G7 : PB17
-- A2 : PB18
-- H7 : PB19
-- A1 : PB20
-- D2 : PB21
-- G5 : PB22
-- C2 : PB23
-- F4 : PB24
-- C1 : PB25
-- E4 : PB26
-- F1 : PB27
-- D1 : PB28
-- F2 : PB29
-- E2 : PB30
-- E1 : PB31
-- R15 : PC0
-- M11 : PC1
-- P15 : PC2
-- K9 : PC3
-- K10 : PC4
-- L11 : PC5
-- L12 : PC6
-- M12 : PC7
-- K11 : PC8
-- E9 : PD0
-- F8 : PD1
-- F9 : PD2
-- J4 : PD3
-- H6 : PD4
-- H1 : PD5
-- G4 : PD6
-- H5 : PD7
-- G1 : PD8
-- H4 : PD9
-- G2 : PD10
-- H2 : PD11
-- K5 : PD12
-- J5 : PD13
-- K6 : PD14
-- K4 : PD15
-- K1 : PD16
-- K2 : PD17
-- L5 : PD18
-- L4 : PD19
-- M1 : PD20
-- M2 : PD21
-- M4 : PD22
-- P1 : PD23
-- L6 : PD24
-- M5 : PD25
-- N1 : PD26
-- N2 : PD27
-- P2 : PD28
-- R1 : PD29
-- N4 : PD30
-- T1 : PD31
-- L1 : VDDANA
-- L2 : GNDANA
-- P5 : ADVREF
-- J1 : VDDANA
-- J2 : GNDANA
-- J17 : DDR_VREF
-- D12 : DDR_VREF
-- B12 : DDR_D0
-- B13 : DDR_D1
-- D13 : DDR_D2
-- A13 : DDR_D3
-- A15 : DDR_D4
-- D14 : DDR_D5
-- B15 : DDR_D6
-- B16 : DDR_D7
-- G18 : DDR_D8
-- K17 : DDR_D9
-- J13 : DDR_D10
-- H15 : DDR_D11
-- J15 : DDR_D12
-- J14 : DDR_D13
-- K13 : DDR_D14
-- K18 : DDR_D15
-- A8 : DDR_D16
-- B9 : DDR_D17
-- D9 : DDR_D18
-- A9 : DDR_D19
-- B11 : DDR_D20
-- D10 : DDR_D21
-- A11 : DDR_D22
-- A12 : DDR_D23
-- L18 : DDR_D24
-- K15 : DDR_D25
-- K14 : DDR_D26
-- M18 : DDR_D27
-- N17 : DDR_D28
-- M14 : DDR_D29
-- M15 : DDR_D30
-- N18 : DDR_D31
-- D17 : DDR_A0
-- A17 : DDR_A1
-- A18 : DDR_A2
-- F15 : DDR_A3
-- G12 : DDR_A4
-- H12 : DDR_A5
-- F13 : DDR_A6
-- H10 : DDR_A7
-- A16 : DDR_A8
-- E12 : DDR_A9
-- H11 : DDR_A10
-- J10 : DDR_A11
-- D15 : DDR_A12
-- J11 : DDR_A13
-- C18 : DDR_CLK
-- C17 : DDR_CLKN
-- F18 : DDR_CKE
-- F17 : DDR_RESETN
-- J12 : DDR_CS
-- D18 : DDR_WE
-- E18 : DDR_RAS
-- E17 : DDR_CAS
-- D11 : DDR_DQM0
-- H14 : DDR_DQM1
-- B8 : DDR_DQM2
-- L13 : DDR_DQM3
-- A14 : DDR_DQS0
-- H18 : DDR_DQS1
-- A10 : DDR_DQS2
-- M17 : DDR_DQS3
-- B14 : DDR_DQSN0
-- J18 : DDR_DQSN1
-- B10 : DDR_DQSN2
-- L17 : DDR_DQSN3
-- H13 : DDR_BA0
-- K12 : DDR_BA1
-- H17 : DDR_BA2
-- G17 : DDR_CAL
-- B17 : VDDIODDR
-- E11 : VDDIODDR
-- E14 : VDDIODDR
-- F10 : VDDIODDR
-- G11 : VDDIODDR
-- G15 : VDDIODDR
-- L14 : VDDIODDR
-- B18 : GNDIODDR
-- E10 : GNDIODDR
-- E15 : GNDIODDR
-- F11 : GNDIODDR
-- G10 : GNDIODDR
-- G14 : GNDIODDR
-- L15 : GNDIODDR
-- H8 : VDDCORE
-- J6 : VDDCORE
-- J9 : VDDCORE
-- K8 : VDDCORE
-- L8 : VDDCORE
-- H9 : GNDCORE
-- J7 : GNDCORE
-- J8 : GNDCORE
-- K7 : GNDCORE
-- L7 : GNDCORE
-- B1 : VDDIOP0
-- D5 : VDDIOP0
-- B2 : GNDIOP0
-- D4 : GNDIOP0
-- T18 : VDDIOP1
-- V16 : VDDIOP1
-- T17 : GNDIOP1
-- V15 : GNDIOP1
-- D8 : VDDIOP2
-- E8 : GNDIOP2
-- R11 : VDDSDMMC
-- R12 : GNDSDMMC
-- R17 : VDDFUSE
-- V5 : VDDPLLA
-- U6 : GNDPLLA
-- M7 : VDDAUDIOPLL
-- P7 : GNDDPLL
-- N6 : GNDAUDIOPLL
-- M8 : CLK_AUDIO
-- V7 : XIN
-- V6 : XOUT
-- R8 : VDDOSC
-- U5 : GNDOSC
-- N8 : VDDUTMII
-- P9 : VDDHSIC
-- N9 : GNDUTMII
-- U8 : HHSDPA
-- V8 : HHSDMA
-- U9 : HHSDPB
-- V9 : HHSDMB
-- U10 : HHSDPDATC
-- V10 : HHSDMSTRC
-- P8 : VDDUTMIC
-- U7 : GNDUTMIC
-- N10 : SDCAL
-- R7 : VBG
-- P4 : TST
-- V1 : NRST
-- V2 : JTAGSEL
-- R5 : WKUP
-- U2 : RXD
-- U1 : SHDN
-- R6 : PIOBU0
-- R4 : PIOBU1
-- U3 : VDDBU
-- U4 : GNDBU
-- T2 : XIN32
-- R2 : XOUT32
-- V3 : COMPP
-- V4 : COMPN
+Pin count : 256
+- R10 : PA0,  of Type IO, alternates : [HSMC D_0, PIO P_0, SDMMC0 SDMMC0_CK_, QSPI0 QSPI0_SCK_]
+- R9 : PA1,  of Type IO, alternates : [SDMMC0 SDMMC0_CMD_, PIO P_1, QSPI0 QSPI0_CS_, HSMC D_1]
+- U11 : PA2,  of Type IO, alternates : [PIO P_2, HSMC D_2, SDMMC0 SDMMC0_DAT_0, QSPI0 QSPI0_IO_0]
+- P10 : PA3,  of Type IO, alternates : [PIO P_3, HSMC D_3, SDMMC0 SDMMC0_DAT_1, QSPI0 QSPI0_IO_1]
+- P11 : PA4,  of Type IO, alternates : [HSMC D_4, PIO P_4, SDMMC0 SDMMC0_DAT_2, QSPI0 QSPI0_IO_2]
+- V11 : PA5,  of Type IO, alternates : [PIO P_5, HSMC D_5, QSPI0 QSPI0_IO_3, SDMMC0 SDMMC0_DAT_3]
+- U12 : PA6,  of Type IO, alternates : [PIO P_6, HSMC D_6, FLEXCOM2 FLEXCOM2_IO_0, TC1 TIOA_5, QSPI1 QSPI1_SCK_, SDMMC0 SDMMC0_DAT_4]
+- V12 : PA7,  of Type IO, alternates : [PIO P_7, QSPI1 QSPI1_IO_0, HSMC D_7, FLEXCOM2 FLEXCOM2_IO_1, SDMMC0 SDMMC0_DAT_5, TC1 TIOB_5]
+- N11 : PA8,  of Type IO, alternates : [PIO P_8, QSPI1 QSPI1_IO_1, FLEXCOM2 FLEXCOM2_IO_2, HSMC NANDNWE_, TC1 TCLK_5, SDMMC0 SDMMC0_DAT_6]
+- P12 : PA9,  of Type IO, alternates : [SDMMC0 SDMMC0_DAT_7, QSPI1 QSPI1_IO_2, FLEXCOM2 FLEXCOM2_IO_3, TC1 TIOA_4, HSMC NCS_3, PIO P_9]
+- U13 : PA10,  of Type IO, alternates : [PIO P_10, QSPI1 QSPI1_IO_3, SDMMC0 SDMMC0_RSTN_, HSMC A21_, TC1 TIOB_4, FLEXCOM2 FLEXCOM2_IO_4]
+- R14 : PA11,  of Type IO, alternates : [QSPI1 QSPI1_CS_, SDMMC0 SDMMC0_1V8SEL_, PIO P_11, HSMC A22_, TC1 TCLK_4]
+- N13 : PA12,  of Type IO, alternates : [AIC IRQ_, SDMMC0 SDMMC0_WP_, PIO P_12, HSMC NANDOE_]
+- P14 : PA13,  of Type IO, alternates : [HSMC D_8, FLEXCOM3 FLEXCOM3_IO_1, PIO P_13, SDMMC0 SDMMC0_CD_]
+- P17 : PA14,  of Type IO, alternates : [PIO P_14, SPI0 SPI0_SPCK_, HSMC D_9, SSC1 TK_1, I2SC1 I2SC1_MCK_, FLEXCOM3 FLEXCOM3_IO_2, QSPI0 QSPI0_SCK_]
+- R18 : PA15,  of Type IO, alternates : [PIO P_15, HSMC D_10, QSPI0 QSPI0_CS_, FLEXCOM3 FLEXCOM3_IO_0, SSC1 TF_1, SPI0 SPI0_MOSI_, I2SC1 I2SC1_CK_]
+- N15 : PA16,  of Type IO, alternates : [PIO P_16, HSMC D_11, I2SC1 I2SC1_WS_, FLEXCOM3 FLEXCOM3_IO_3, SPI0 SPI0_MISO_, SSC1 TD_1, QSPI0 QSPI0_IO_0]
+- P18 : PA17,  of Type IO, alternates : [I2SC1 I2SC1_DI_0, PIO P_17, HSMC D_12, SPI0 SPI0_NPCS_0, FLEXCOM3 FLEXCOM3_IO_4, QSPI0 QSPI0_IO_1, SSC1 RD_1]
+- M9 : PA18,  of Type IO, alternates : [HSMC D_13, SSC1 RK_1, SPI0 SPI0_NPCS_1, I2SC1 I2SC1_DO_0, PIO P_18, QSPI0 QSPI0_IO_2, SDMMC1 SDMMC1_DAT_0]
+- V13 : PA19,  of Type IO, alternates : [SSC1 RF_1, SPI0 SPI0_NPCS_2, HSMC D_14, TC0 TIOA_0, QSPI0 QSPI0_IO_3, PIO P_19, SDMMC1 SDMMC1_DAT_1]
+- L9 : PA20,  of Type IO, alternates : [SPI0 SPI0_NPCS_3, HSMC D_15, TC0 TIOB_0, PIO P_20, SDMMC1 SDMMC1_DAT_2]
+- M10 : PA21,  of Type IO, alternates : [AIC IRQ_, PMC PCK_2, HSMC NANDRDY_, TC0 TCLK_0, PIO P_21, SDMMC1 SDMMC1_DAT_3]
+- V14 : PA22,  of Type IO, alternates : [PIO P_22, ICE TCK_, FLEXCOM1 FLEXCOM1_IO_2, HSMC D_0, SPI1 SPI1_SPCK_, SDMMC1 SDMMC1_CK_, QSPI0 QSPI0_SCK_]
+- U14 : PA23,  of Type IO, alternates : [ICE TDI_, PIO P_23, QSPI0 QSPI0_CS_, SPI1 SPI1_MOSI_, FLEXCOM1 FLEXCOM1_IO_1, HSMC D_1]
+- R13 : PA24,  of Type IO, alternates : [SPI1 SPI1_MISO_, FLEXCOM1 FLEXCOM1_IO_0, HSMC D_2, PIO P_24, ICE TDO_, QSPI0 QSPI0_IO_0]
+- U15 : PA25,  of Type IO, alternates : [PIO P_25, ICE TMS_, HSMC D_3, FLEXCOM1 FLEXCOM1_IO_3, SPI1 SPI1_NPCS_0, QSPI0 QSPI0_IO_1]
+- L10 : PA26,  of Type IO, alternates : [PIO P_26, ICE NTRST_, HSMC D_4, SPI1 SPI1_NPCS_1, FLEXCOM1 FLEXCOM1_IO_4, QSPI0 QSPI0_IO_2]
+- V17 : PA27,  of Type IO, alternates : [PIO P_27, SPI0 SPI0_NPCS_2, SDMMC1 SDMMC1_RSTN_, HSMC D_5, TC0 TIOA_1, QSPI0 QSPI0_IO_3, SPI1 SPI1_NPCS_2]
+- U16 : PA28,  of Type IO, alternates : [HSMC D_6, PIO P_28, SPI0 SPI0_NPCS_3, CLASSD CLASSD_L_0, SDMMC1 SDMMC1_CMD_, TC0 TIOB_1, SPI1 SPI1_NPCS_3]
+- U17 : PA29,  of Type IO, alternates : [HSMC D_7, TC0 TCLK_1, SDMMC1 SDMMC1_WP_, CLASSD CLASSD_L_1, SPI0 SPI0_NPCS_1, PIO P_29]
+- V18 : PA30,  of Type IO, alternates : [SPI0 SPI0_NPCS_0, PWM PWMH_0, CLASSD CLASSD_L_2, PIO P_30, HSMC NANDNWE_, SDMMC1 SDMMC1_CD_]
+- U18 : PA31,  of Type IO, alternates : [PWM PWML_0, HSMC NCS_3, CLASSD CLASSD_L_3, PIO P_31, SPI0 SPI0_MISO_]
+- G9 : PB0,  of Type IO, alternates : [PIO P_32, PWM PWMH_1, HSMC A21_, SPI0 SPI0_MOSI_]
+- A7 : PB1,  of Type IO, alternates : [SPI0 SPI0_SPCK_, PIO P_33, PWM PWML_1, HSMC A22_, CLASSD CLASSD_R_0]
+- B7 : PB2,  of Type IO, alternates : [PIO P_34, PWM PWMFI_0, CLASSD CLASSD_R_1, HSMC NANDOE_]
+- B6 : PB3,  of Type IO, alternates : [HSMC D_8, AIC IRQ_, PWM PWMEXTRG_1, PIO P_35, CLASSD CLASSD_R_2, UART4 URXD_4]
+- A6 : PB4,  of Type IO, alternates : [PIO P_36, HSMC D_9, SAIC FIQ_, UART4 UTXD_4, CLASSD CLASSD_R_3]
+- D7 : PB5,  of Type IO, alternates : [PIO P_37, HSMC D_10, PWM PWMH_2, QSPI1 QSPI1_SCK_, GMAC GTSUCOMP_, TC0 TCLK_2]
+- B5 : PB6,  of Type IO, alternates : [PIO P_38, HSMC D_11, QSPI1 QSPI1_CS_, GMAC GTXER_, PWM PWML_2, TC0 TIOA_2]
+- A5 : PB7,  of Type IO, alternates : [PIO P_39, QSPI1 QSPI1_IO_0, HSMC D_12, PWM PWMH_3, TC0 TIOB_2, GMAC GRXCK_]
+- E7 : PB8,  of Type IO, alternates : [QSPI1 QSPI1_IO_1, HSMC D_13, PIO P_40, PWM PWML_3, GMAC GCRS_, TC1 TCLK_3]
+- F6 : PB9,  of Type IO, alternates : [QSPI1 QSPI1_IO_2, HSMC D_14, GMAC GCOL_, PIO P_41, TC1 TIOA_3, PWM PWMFI_1]
+- D6 : PB10,  of Type IO, alternates : [GMAC GRX_2, PWM PWMEXTRG_2, QSPI1 QSPI1_IO_3, HSMC D_15, TC1 TIOB_3, PIO P_42]
+- A4 : PB11,  of Type IO, alternates : [GMAC GRX_3, PIO P_43, PDMIC PDMIC_DAT_, UART3 URXD_3, LCDC LCDDAT_0, HSMC A0_]
+- B3 : PB12,  of Type IO, alternates : [PDMIC PDMIC_CLK_, PIO P_44, UART3 UTXD_3, GMAC GTX_2, HSMC A_1, LCDC LCDDAT_1]
+- A3 : PB13,  of Type IO, alternates : [PMC PCK_1, PIO P_45, GMAC GTX_3, HSMC A_2, LCDC LCDDAT_2]
+- B4 : PB14,  of Type IO, alternates : [SSC1 TK_1, I2SC1 I2SC1_MCK_, LCDC LCDDAT_3, PIO P_46, HSMC A_3, QSPI1 QSPI1_SCK_, GMAC GTXCK_]
+- G8 : PB15,  of Type IO, alternates : [PIO P_47, LCDC LCDDAT_4, QSPI1 QSPI1_CS_, GMAC GTXEN_, HSMC A_4, SSC1 TF_1, I2SC1 I2SC1_CK_]
+- E5 : PB16,  of Type IO, alternates : [LCDC LCDDAT_5, PIO P_48, I2SC1 I2SC1_WS_, QSPI1 QSPI1_IO_0, HSMC A_5, GMAC GRXDV_, SSC1 TD_1]
+- G7 : PB17,  of Type IO, alternates : [LCDC LCDDAT_6, GMAC GRXER_, I2SC1 I2SC1_DI_0, PIO P_49, QSPI1 QSPI1_IO_1, HSMC A_6, SSC1 RD_1]
+- A2 : PB18,  of Type IO, alternates : [HSMC A_7, SSC1 RK_1, QSPI1 QSPI1_IO_2, LCDC LCDDAT_7, PIO P_50, I2SC1 I2SC1_DO_0, GMAC GRX_0]
+- H7 : PB19,  of Type IO, alternates : [SSC1 RF_1, QSPI1 QSPI1_IO_3, HSMC A_8, LCDC LCDDAT_8, PIO P_51, TC1 TIOA_3, GMAC GRX_1]
+- A1 : PB20,  of Type IO, alternates : [PMC PCK_1, HSMC A_9, LCDC LCDDAT_9, GMAC GTX_0, TC1 TIOB_3, PIO P_52, SSC0 TK_0]
+- D2 : PB21,  of Type IO, alternates : [SSC0 TF_0, FLEXCOM3 FLEXCOM3_IO_2, GMAC GTX_1, PIO P_53, HSMC A_10, LCDC LCDDAT_10, TC1 TCLK_3]
+- G5 : PB22,  of Type IO, alternates : [SSC0 TD_0, PIO P_54, FLEXCOM3 FLEXCOM3_IO_1, HSMC A_11, GMAC GMDC_, TC0 TIOA_2, LCDC LCDDAT_11]
+- C2 : PB23,  of Type IO, alternates : [SSC0 RD_0, GMAC GMDIO_, PIO P_55, FLEXCOM3 FLEXCOM3_IO_0, TC0 TIOB_2, HSMC A_12, LCDC LCDDAT_12]
+- F4 : PB24,  of Type IO, alternates : [PIO P_56, FLEXCOM3 FLEXCOM3_IO_3, ISC ISC_D_10, HSMC A_13, SSC0 RK_0, LCDC LCDDAT_13, TC0 TCLK_2]
+- C1 : PB25,  of Type IO, alternates : [ISC ISC_D_11, PIO P_57, HSMC A_14, LCDC LCDDAT_14, FLEXCOM3 FLEXCOM3_IO_4, SSC0 RF_0]
+- E4 : PB26,  of Type IO, alternates : [PIO P_58, ISC ISC_D_0, HSMC A_15, PDMIC PDMIC_DAT_, LCDC LCDDAT_15, UART0 URXD_0]
+- F1 : PB27,  of Type IO, alternates : [PIO P_59, ISC ISC_D_1, PDMIC PDMIC_CLK_, HSMC A_16, UART0 UTXD_0, LCDC LCDDAT_16]
+- D1 : PB28,  of Type IO, alternates : [ISC ISC_D_2, HSMC A_17, FLEXCOM0 FLEXCOM0_IO_0, LCDC LCDDAT_17, TC1 TIOA_5, PIO P_60]
+- F2 : PB29,  of Type IO, alternates : [ISC ISC_D_3, HSMC A_18, LCDC LCDDAT_18, FLEXCOM0 FLEXCOM0_IO_1, PIO P_61, TC1 TIOB_5]
+- E2 : PB30,  of Type IO, alternates : [HSMC A_19, LCDC LCDDAT_19, ISC ISC_D_4, FLEXCOM0 FLEXCOM0_IO_2, PIO P_62, TC1 TCLK_5]
+- E1 : PB31,  of Type IO, alternates : [TWIHS0 TWD_0, ISC ISC_D_5, FLEXCOM0 FLEXCOM0_IO_3, PIO P_63, HSMC A_20, LCDC LCDDAT_20]
+- R15 : PC0,  of Type IO, alternates : [TWIHS0 TWCK_0, ISC ISC_D_6, HSMC A_23, FLEXCOM0 FLEXCOM0_IO_4, PIO P_64, LCDC LCDDAT_21]
+- M11 : PC1,  of Type IO, alternates : [MCAN0 CANTX_0, I2SC0 I2SC0_CK_, PIO P_65, ISC ISC_D_7, HSMC A_24, SPI1 SPI1_SPCK_, LCDC LCDDAT_22]
+- P15 : PC2,  of Type IO, alternates : [MCAN0 CANRX_0, PIO P_66, SPI1 SPI1_MOSI_, HSMC A_25, ISC ISC_D_8, LCDC LCDDAT_23, I2SC0 I2SC0_MCK_]
+- K9 : PC3,  of Type IO, alternates : [SPI1 SPI1_MISO_, I2SC0 I2SC0_WS_, LCDC LCDPWM_, PIO P_67, TC0 TIOA_1, ISC ISC_D_9, HSMC NWAIT_]
+- K10 : PC4,  of Type IO, alternates : [ISC ISC_PCK_, LCDC LCDDISP_, I2SC0 I2SC0_DI_0, PIO P_68, SPI1 SPI1_NPCS_0, HSMC NWR1_, TC0 TIOB_1]
+- L11 : PC5,  of Type IO, alternates : [PIO P_69, ISC ISC_VSYNC_, TC0 TCLK_1, SPI1 SPI1_NPCS_1, HSMC NCS_0, I2SC0 I2SC0_DO_0, LCDC LCDVSYNC_]
+- L12 : PC6,  of Type IO, alternates : [LCDC LCDHSYNC_, TWIHS1 TWD_1, PIO P_70, ISC ISC_HSYNC_, SPI1 SPI1_NPCS_2]
+- M12 : PC7,  of Type IO, alternates : [LCDC LCDPCK_, TWIHS1 TWCK_1, ISC ISC_MCK_, UART1 URXD_1, HSMC NCS_2, SPI1 SPI1_NPCS_3, PIO P_71]
+- K11 : PC8,  of Type IO, alternates : [LCDC LCDDEN_, HSMC NANDRDY_, SAIC FIQ_, ISC ISC_FIELD_, UART1 UTXD_1, PIO P_72, PMC PCK_0]
+- E9 : PD0,  of Type IO, alternates : [LCDC LCDPCK_, UART3 UTXD_3, HSMC A_23, GMAC GTSUCOMP_, PIO P_96, FLEXCOM4 FLEXCOM4_IO_4]
+- F8 : PD1,  of Type IO, alternates : [LCDC LCDDEN_, HSMC A_24, PIO P_97, GMAC GRXCK_]
+- F9 : PD2,  of Type IO, alternates : [GMAC GTXER_, ISC ISC_MCK_, PIO P_98, HSMC A_25, UART1 URXD_1]
+- J4 : PD3,  of Type IO, alternates : [SAIC FIQ_, PIO P_99, ISC ISC_D_11, UART1 UTXD_1, HSMC NWAIT_, PTC PTC_X_0, GMAC GCRS_]
+- H6 : PD4,  of Type IO, alternates : [ISC ISC_D_10, HSMC NCS_0, GMAC GCOL_, TWIHS1 TWD_1, UART2 URXD_2, PIO P_100, PTC PTC_X_1]
+- H1 : PD5,  of Type IO, alternates : [TWIHS1 TWCK_1, GMAC GRX_2, UART2 UTXD_2, HSMC NCS_1, PIO P_101, ISC ISC_D_9, PTC PTC_X_2]
+- G4 : PD6,  of Type IO, alternates : [PMC PCK_1, GMAC GRX_3, ICE TCK_, PIO P_102, ISC ISC_D_8, HSMC NCS_2, PTC PTC_X_3]
+- H5 : PD7,  of Type IO, alternates : [ISC ISC_D_0, ICE TDI_, PIO P_103, PTC PTC_X_4, GMAC GTX_2, HSMC NWR1_]
+- G1 : PD8,  of Type IO, alternates : [HSMC NANDRDY_, ISC ISC_D_1, PTC PTC_X_5, ICE TDO_, GMAC GTX_3, PIO P_104]
+- H4 : PD9,  of Type IO, alternates : [ISC ISC_D_2, ICE TMS_, PTC PTC_X_6, PIO P_105, GMAC GTXCK_]
+- G2 : PD10,  of Type IO, alternates : [ISC ISC_D_3, ICE NTRST_, GMAC GTXEN_, PTC PTC_X_7, PIO P_106]
+- H2 : PD11,  of Type IO, alternates : [PMC PCK_2, ISC ISC_MCK_, ISC ISC_D_4, GMAC GRXDV_, TC0 TIOA_1, PIO P_107, PTC PTC_Y_0]
+- K5 : PD12,  of Type IO, alternates : [GMAC GRXER_, PIO P_108, ISC ISC_D_4, FLEXCOM4 FLEXCOM4_IO_0, ISC ISC_D_5, TC0 TIOB_1, PTC PTC_Y_1]
+- J5 : PD13,  of Type IO, alternates : [PIO P_109, TC0 TCLK_1, ISC ISC_D_6, FLEXCOM4 FLEXCOM4_IO_1, ISC ISC_D_5, GMAC GRX_0, PTC PTC_Y_2]
+- K6 : PD14,  of Type IO, alternates : [ISC ISC_D_6, PIO P_110, ISC ISC_D_7, ICE TCK_, FLEXCOM4 FLEXCOM4_IO_2, PTC PTC_Y_3, GMAC GRX_1]
+- K4 : PD15,  of Type IO, alternates : [ISC ISC_PCK_, ICE TDI_, ISC ISC_D_7, FLEXCOM4 FLEXCOM4_IO_3, GMAC GTX_0, PTC PTC_Y_4, PIO P_111]
+- K1 : PD16,  of Type IO, alternates : [ISC ISC_VSYNC_, GMAC GTX_1, ICE TDO_, ISC ISC_D_8, PIO P_112, FLEXCOM4 FLEXCOM4_IO_4, PTC PTC_Y_5]
+- K2 : PD17,  of Type IO, alternates : [ICE TMS_, PIO P_113, PTC PTC_Y_6, GMAC GMDC_, ISC ISC_D_9, ISC ISC_HSYNC_]
+- L5 : PD18,  of Type IO, alternates : [GMAC GMDIO_, ICE NTRST_, ISC ISC_FIELD_, PTC PTC_Y_7, ISC ISC_D_10, PIO P_114]
+- L4 : PD19,  of Type IO, alternates : [I2SC0 I2SC0_CK_, ISC ISC_D_11, TWIHS1 TWD_1, UART2 URXD_2, ADC AD_0, PIO P_115, PMC PCK_0]
+- M1 : PD20,  of Type IO, alternates : [ISC ISC_PCK_, TWIHS1 TWCK_1, UART2 UTXD_2, TC0 TIOA_2, PIO P_116, ADC AD_1, I2SC0 I2SC0_MCK_]
+- M2 : PD21,  of Type IO, alternates : [ISC ISC_VSYNC_, TWIHS0 TWD_0, I2SC0 I2SC0_WS_, FLEXCOM4 FLEXCOM4_IO_0, TC0 TIOB_2, ADC AD_2, PIO P_117]
+- M4 : PD22,  of Type IO, alternates : [TWIHS0 TWCK_0, FLEXCOM4 FLEXCOM4_IO_1, I2SC0 I2SC0_DI_0, PIO P_118, TC0 TCLK_2, ADC AD_3, ISC ISC_HSYNC_]
+- P1 : PD23,  of Type IO, alternates : [ADC AD_4, PIO P_119, ISC ISC_FIELD_, FLEXCOM4 FLEXCOM4_IO_2, UART2 URXD_2, I2SC0 I2SC0_DO_0]
+- L6 : PD24,  of Type IO, alternates : [ADC AD_5, UART2 UTXD_2, PIO P_120, FLEXCOM4 FLEXCOM4_IO_3]
+- M5 : PD25,  of Type IO, alternates : [ADC AD_6, PIO P_121, SPI1 SPI1_SPCK_, FLEXCOM4 FLEXCOM4_IO_4]
+- N1 : PD26,  of Type IO, alternates : [ADC AD_7, FLEXCOM2 FLEXCOM2_IO_0, SPI1 SPI1_MOSI_, PIO P_122]
+- N2 : PD27,  of Type IO, alternates : [SPI1 SPI1_MISO_, ADC AD_8, FLEXCOM2 FLEXCOM2_IO_1, ICE TCK_, PIO P_123]
+- P2 : PD28,  of Type IO, alternates : [ICE TDI_, ADC AD_9, FLEXCOM2 FLEXCOM2_IO_2, PIO P_124, SPI1 SPI1_NPCS_0]
+- R1 : PD29,  of Type IO, alternates : [TWIHS0 TWD_0, PIO P_125, SPI1 SPI1_NPCS_1, FLEXCOM2 FLEXCOM2_IO_3, ICE TDO_, TC1 TIOA_3, ADC AD_10]
+- N4 : PD30,  of Type IO, alternates : [TWIHS0 TWCK_0, ICE TMS_, TC1 TIOB_3, FLEXCOM2 FLEXCOM2_IO_4, ADC AD_11, PIO P_126, SPI1 SPI1_NPCS_2]
+- T1 : PD31,  of Type IO, alternates : [AIC IRQ_, ADC ADTRG_, ICE NTRST_, PIO P_127, TC1 TCLK_3, PMC PCK_0]
+- L1 : VDDANA,  of Type PP
+- L2 : GNDANA,  of Type PS
+- P5 : ADVREF,  of Type PS
+- J1 : VDDANA,  of Type PP
+- J2 : GNDANA,  of Type PS
+- J17 : DDR_VREF,  of Type PS
+- D12 : DDR_VREF,  of Type PS
+- B12 : DDR_D0,  of Type IO
+- B13 : DDR_D1,  of Type IO
+- D13 : DDR_D2,  of Type IO
+- A13 : DDR_D3,  of Type IO
+- A15 : DDR_D4,  of Type IO
+- D14 : DDR_D5,  of Type IO
+- B15 : DDR_D6,  of Type IO
+- B16 : DDR_D7,  of Type IO
+- G18 : DDR_D8,  of Type IO
+- K17 : DDR_D9,  of Type IO
+- J13 : DDR_D10,  of Type IO
+- H15 : DDR_D11,  of Type IO
+- J15 : DDR_D12,  of Type IO
+- J14 : DDR_D13,  of Type IO
+- K13 : DDR_D14,  of Type IO
+- K18 : DDR_D15,  of Type IO
+- A8 : DDR_D16,  of Type IO
+- B9 : DDR_D17,  of Type IO
+- D9 : DDR_D18,  of Type IO
+- A9 : DDR_D19,  of Type IO
+- B11 : DDR_D20,  of Type IO
+- D10 : DDR_D21,  of Type IO
+- A11 : DDR_D22,  of Type IO
+- A12 : DDR_D23,  of Type IO
+- L18 : DDR_D24,  of Type IO
+- K15 : DDR_D25,  of Type IO
+- K14 : DDR_D26,  of Type IO
+- M18 : DDR_D27,  of Type IO
+- N17 : DDR_D28,  of Type IO
+- M14 : DDR_D29,  of Type IO
+- M15 : DDR_D30,  of Type IO
+- N18 : DDR_D31,  of Type IO
+- D17 : DDR_A0,  of Type OP
+- A17 : DDR_A1,  of Type OP
+- A18 : DDR_A2,  of Type OP
+- F15 : DDR_A3,  of Type OP
+- G12 : DDR_A4,  of Type OP
+- H12 : DDR_A5,  of Type OP
+- F13 : DDR_A6,  of Type OP
+- H10 : DDR_A7,  of Type OP
+- A16 : DDR_A8,  of Type OP
+- E12 : DDR_A9,  of Type OP
+- H11 : DDR_A10,  of Type OP
+- J10 : DDR_A11,  of Type OP
+- D15 : DDR_A12,  of Type OP
+- J11 : DDR_A13,  of Type OP
+- C18 : DDR_CLK,  of Type OP
+- C17 : DDR_CLKN,  of Type OP
+- F18 : DDR_CKE,  of Type OP
+- F17 : DDR_RESETN,  of Type OP
+- J12 : DDR_CS,  of Type OP
+- D18 : DDR_WE,  of Type OP
+- E18 : DDR_RAS,  of Type OP
+- E17 : DDR_CAS,  of Type OP
+- D11 : DDR_DQM0,  of Type OP
+- H14 : DDR_DQM1,  of Type OP
+- B8 : DDR_DQM2,  of Type OP
+- L13 : DDR_DQM3,  of Type OP
+- A14 : DDR_DQS0,  of Type OP
+- H18 : DDR_DQS1,  of Type OP
+- A10 : DDR_DQS2,  of Type OP
+- M17 : DDR_DQS3,  of Type OP
+- B14 : DDR_DQSN0,  of Type OP
+- J18 : DDR_DQSN1,  of Type OP
+- B10 : DDR_DQSN2,  of Type OP
+- L17 : DDR_DQSN3,  of Type OP
+- H13 : DDR_BA0,  of Type OP
+- K12 : DDR_BA1,  of Type OP
+- H17 : DDR_BA2,  of Type OP
+- G17 : DDR_CAL,  of Type OP
+- B17 : VDDIODDR,  of Type PP
+- E11 : VDDIODDR,  of Type PP
+- E14 : VDDIODDR,  of Type PP
+- F10 : VDDIODDR,  of Type PP
+- G11 : VDDIODDR,  of Type PP
+- G15 : VDDIODDR,  of Type PP
+- L14 : VDDIODDR,  of Type PP
+- B18 : GNDIODDR,  of Type PS
+- E10 : GNDIODDR,  of Type PS
+- E15 : GNDIODDR,  of Type PS
+- F11 : GNDIODDR,  of Type PS
+- G10 : GNDIODDR,  of Type PS
+- G14 : GNDIODDR,  of Type PS
+- L15 : GNDIODDR,  of Type PS
+- H8 : VDDCORE,  of Type PP
+- J6 : VDDCORE,  of Type PP
+- J9 : VDDCORE,  of Type PP
+- K8 : VDDCORE,  of Type PP
+- L8 : VDDCORE,  of Type PP
+- H9 : GNDCORE,  of Type PS
+- J7 : GNDCORE,  of Type PS
+- J8 : GNDCORE,  of Type PS
+- K7 : GNDCORE,  of Type PS
+- L7 : GNDCORE,  of Type PS
+- B1 : VDDIOP0,  of Type PP
+- D5 : VDDIOP0,  of Type PP
+- B2 : GNDIOP0,  of Type PS
+- D4 : GNDIOP0,  of Type PS
+- T18 : VDDIOP1,  of Type PP
+- V16 : VDDIOP1,  of Type PP
+- T17 : GNDIOP1,  of Type PS
+- V15 : GNDIOP1,  of Type PS
+- D8 : VDDIOP2,  of Type PP
+- E8 : GNDIOP2,  of Type PS
+- R11 : VDDSDMMC,  of Type PP
+- R12 : GNDSDMMC,  of Type PS
+- R17 : VDDFUSE,  of Type PP
+- V5 : VDDPLLA,  of Type PP
+- U6 : GNDPLLA,  of Type PS
+- M7 : VDDAUDIOPLL,  of Type PP
+- P7 : GNDDPLL,  of Type PS
+- N6 : GNDAUDIOPLL,  of Type PS
+- M8 : CLK_AUDIO,  of Type IO
+- V7 : XIN,  of Type PS
+- V6 : XOUT,  of Type PS
+- R8 : VDDOSC,  of Type PP
+- U5 : GNDOSC,  of Type PS
+- N8 : VDDUTMII,  of Type PP
+- P9 : VDDHSIC,  of Type PP
+- N9 : GNDUTMII,  of Type PS
+- U8 : HHSDPA,  of Type IO
+- V8 : HHSDMA,  of Type IO
+- U9 : HHSDPB,  of Type IO
+- V9 : HHSDMB,  of Type IO
+- U10 : HHSDPDATC,  of Type IO
+- V10 : HHSDMSTRC,  of Type IO
+- P8 : VDDUTMIC,  of Type PP
+- U7 : GNDUTMIC,  of Type PS
+- N10 : SDCAL,  of Type IO
+- R7 : VBG,  of Type IO
+- P4 : TST,  of Type IO
+- V1 : NRST,  of Type IP
+- V2 : JTAGSEL,  of Type OP
+- R5 : WKUP,  of Type IP
+- U2 : RXD,  of Type IP
+- U1 : SHDN,  of Type IO
+- R6 : PIOBU0,  of Type IO
+- R4 : PIOBU1,  of Type IO
+- U3 : VDDBU,  of Type PP
+- U4 : GNDBU,  of Type PS
+- T2 : XIN32,  of Type PS
+- R2 : XOUT32,  of Type PS
+- V3 : COMPP,  of Type IO
+- V4 : COMPN,  of Type IO
 ## ATSAMA5D26C-CN
+
 ### Description : 
+
+- Series : SAMA5D2
+- Footprint : LFBGA289
+- MP : ATSAMA5D26C-CN
+- Architecture : CORTEX-A5
+- PINOUT : LFBGA289
+- Reference : U
+- Documentation : https://www.microchip.com/en-us/search?q=ATSAMA5D26C-CN
+- Value : ATSAMA5D26C-CN
+- Family : SAMA5
+- MF : Microchip
+- Name : ATSAMA5D26
 
 ### Package : 
 
-- U11 : PA0
-- P10 : PA1
-- T11 : PA2
-- R10 : PA3
-- U12 : PA4
-- T12 : PA5
-- R12 : PA6
-- T13 : PA7
-- N10 : PA8
-- N11 : PA9
-- U13 : PA10
-- P15 : PA11
-- N15 : PA12
-- P16 : PA13
-- M14 : PA14
-- N16 : PA15
-- M10 : PA16
-- N17 : PA17
-- U14 : PA18
-- T14 : PA19
-- P12 : PA20
-- R13 : PA21
-- U15 : PA22
-- U16 : PA23
-- T15 : PA24
-- U17 : PA25
-- P13 : PA26
-- T16 : PA27
-- R16 : PA28
-- T17 : PA29
-- R15 : PA30
-- R17 : PA31
-- J8 : PB0
-- A8 : PB1
-- A7 : PB2
-- A6 : PB3
-- B6 : PB4
-- B7 : PB5
-- C7 : PB6
-- C6 : PB7
-- A5 : PB8
-- A4 : PB9
-- H8 : PB10
-- B5 : PB11
-- D6 : PB12
-- B4 : PB13
-- C5 : PB14
-- H7 : PB15
-- D5 : PB16
-- C4 : PB17
-- A3 : PB18
-- D4 : PB19
-- B3 : PB20
-- A2 : PB21
-- C3 : PB22
-- A1 : PB23
-- E5 : PB24
-- B2 : PB25
-- E4 : PB26
-- B1 : PB27
-- C2 : PB28
-- D3 : PB29
-- D2 : PB30
-- C1 : PB31
-- P17 : PC0
-- N12 : PC1
-- N14 : PC2
-- M15 : PC3
-- M11 : PC4
-- L10 : PC5
-- K10 : PC6
-- M16 : PC7
-- J10 : PC8
-- D1 : PC9
-- E3 : PC10
-- E2 : PC11
-- E1 : PC12
-- F3 : PC13
-- F5 : PC14
-- F2 : PC15
-- G6 : PC16
-- F1 : PC17
-- H6 : PC18
-- G2 : PC19
-- G3 : PC20
-- G1 : PC21
-- H2 : PC22
-- G5 : PC23
-- H1 : PC24
-- H5 : PC25
-- J9 : PC26
-- H9 : PC27
-- E8 : PC28
-- G8 : PC29
-- F8 : PC30
-- D8 : PC31
-- G10 : PD0
-- E10 : PD1
-- G9 : PD2
-- K1 : PD3
-- J6 : PD4
-- J4 : PD5
-- J2 : PD6
-- J7 : PD7
-- J1 : PD8
-- K9 : PD9
-- J3 : PD10
-- M1 : PD11
-- K8 : PD12
-- L2 : PD13
-- K4 : PD14
-- K7 : PD15
-- L1 : PD16
-- K2 : PD17
-- J5 : PD18
-- K6 : PD19
-- M2 : PD20
-- N1 : PD21
-- L4 : PD22
-- M3 : PD23
-- L7 : PD24
-- L6 : PD25
-- N2 : PD26
-- L8 : PD27
-- M4 : PD28
-- N3 : PD29
-- L9 : PD30
-- M7 : PD31
-- L5 : VDDANA
-- K5 : GNDANA
-- M6 : ADVREF
-- K3 : VDDANA
-- L3 : GNDANA
-- H16 : DDR_VREF
-- D16 : DDR_VREF
-- B12 : DDR_D0
-- A12 : DDR_D1
-- C12 : DDR_D2
-- A13 : DDR_D3
-- A14 : DDR_D4
-- C13 : DDR_D5
-- A15 : DDR_D6
-- B15 : DDR_D7
-- G17 : DDR_D8
-- G16 : DDR_D9
-- H17 : DDR_D10
-- K17 : DDR_D11
-- K16 : DDR_D12
-- J13 : DDR_D13
-- K14 : DDR_D14
-- K15 : DDR_D15
-- B8 : DDR_D16
-- B9 : DDR_D17
-- C9 : DDR_D18
-- A9 : DDR_D19
-- A10 : DDR_D20
-- D10 : DDR_D21
-- B11 : DDR_D22
-- A11 : DDR_D23
-- J12 : DDR_D24
-- H10 : DDR_D25
-- J11 : DDR_D26
-- K11 : DDR_D27
-- L13 : DDR_D28
-- L11 : DDR_D29
-- L12 : DDR_D30
-- M17 : DDR_D31
-- F12 : DDR_A0
-- C17 : DDR_A1
-- B17 : DDR_A2
-- B16 : DDR_A3
-- C16 : DDR_A4
-- G14 : DDR_A5
-- F14 : DDR_A6
-- F11 : DDR_A7
-- C14 : DDR_A8
-- D13 : DDR_A9
-- C15 : DDR_A10
-- A16 : DDR_A11
-- A17 : DDR_A12
-- G11 : DDR_A13
-- E17 : DDR_CLK
-- D17 : DDR_CLKN
-- F16 : DDR_CKE
-- E16 : DDR_RESETN
-- G13 : DDR_CS
-- F15 : DDR_WE
-- F13 : DDR_RAS
-- G12 : DDR_CAS
-- C11 : DDR_DQM0
-- G15 : DDR_DQM1
-- C8 : DDR_DQM2
-- H11 : DDR_DQM3
-- B13 : DDR_DQS0
-- J17 : DDR_DQS1
-- C10 : DDR_DQS2
-- L17 : DDR_DQS3
-- B14 : DDR_DQSN0
-- J16 : DDR_DQSN1
-- B10 : DDR_DQSN2
-- L16 : DDR_DQSN3
-- H12 : DDR_BA0
-- H13 : DDR_BA1
-- F17 : DDR_BA2
-- E13 : DDR_
-- L15 : VDDIODDR
-- J15 : VDDIODDR
-- H15 : VDDIODDR
-- E15 : VDDIODDR
-- D15 : VDDIODDR
-- D12 : VDDIODDR
-- D11 : VDDIODDR
-- L14 : GNDIODDR
-- J14 : GNDIODDR
-- H14 : GNDIODDR
-- E14 : GNDIODDR
-- D14 : GNDIODDR
-- E12 : GNDIODDR
-- E11 : GNDIODDR
-- H3 : VDDCORE
-- N5 : VDDCORE
-- N9 : VDDCORE
-- K13 : VDDCORE
-- D9 : VDDCORE
-- D7 : VDDCORE
-- H4 : GNDCORE
-- M5 : GNDCORE
-- M9 : GNDCORE
-- K12 : GNDCORE
-- E9 : GNDCORE
-- E7 : GNDCORE
-- E6 : VDDIOP0
-- F7 : VDDIOP0
-- F6 : GNDIOP0
-- G7 : GNDIOP0
-- R14 : VDDIOP1
-- N13 : VDDIOP1
-- M13 : GNDIOP1
-- P14 : GNDIOP1
-- F10 : VDDIOP2
-- F9 : GNDIOP2
-- P11 : VDDSDMMC
-- R11 : GNDSDMMC
-- F4 : VDDISC
-- G4 : GNDISC
-- M12 : VDDFUSE
-- U4 : VDDPLLA
-- U5 : GNDPLLA
-- T3 : VDDAUDIOPLL
-- T5 : GNDDPLL
-- T4 : GNDAUDIOPLL
-- U3 : CLK_AUDIO
-- U7 : XIN
-- U6 : XOUT
-- T7 : VDDOSC
-- T6 : GNDOSC
-- P8 : VDDUTMII
-- R9 : VDDHSIC
-- P9 : GNDUTMII
-- T8 : HHSDPA
-- R8 : HHSDMA
-- U8 : HHSDPB
-- U9 : HHSDMB
-- T9 : HHSDPDATC
-- U10 : HHSDMSTRC
-- P7 : VDDUTMIC
-- R7 : GNDUTMIC
-- T10 : SDCAL
-- R6 : VBG
-- P3 : TST
-- U2 : NRST
-- T2 : JTAGSEL
-- P4 : WKUP
-- N4 : RXD
-- R1 : SHDN
-- R3 : PIOBU0
-- N8 : PIOBU1
-- R2 : PIOBU2
-- R5 : PIOBU3
-- R4 : PIOBU4
-- P5 : PIOBU5
-- P6 : PIOBU6
-- M8 : PIOBU7
-- N7 : VDDBU
-- N6 : GNDBU
-- P1 : XIN32
-- P2 : XOUT32
-- T1 : COMPP
-- U1 : COMPN
+Pin count : 289
+- U11 : PA0,  of Type IO, alternates : [HSMC D_0, PIO P_0, SDMMC0 SDMMC0_CK_, QSPI0 QSPI0_SCK_]
+- P10 : PA1,  of Type IO, alternates : [SDMMC0 SDMMC0_CMD_, PIO P_1, QSPI0 QSPI0_CS_, HSMC D_1]
+- T11 : PA2,  of Type IO, alternates : [PIO P_2, HSMC D_2, SDMMC0 SDMMC0_DAT_0, QSPI0 QSPI0_IO_0]
+- R10 : PA3,  of Type IO, alternates : [PIO P_3, HSMC D_3, SDMMC0 SDMMC0_DAT_1, QSPI0 QSPI0_IO_1]
+- U12 : PA4,  of Type IO, alternates : [HSMC D_4, PIO P_4, SDMMC0 SDMMC0_DAT_2, QSPI0 QSPI0_IO_2]
+- T12 : PA5,  of Type IO, alternates : [PIO P_5, HSMC D_5, QSPI0 QSPI0_IO_3, SDMMC0 SDMMC0_DAT_3]
+- R12 : PA6,  of Type IO, alternates : [PIO P_6, HSMC D_6, FLEXCOM2 FLEXCOM2_IO_0, TC1 TIOA_5, QSPI1 QSPI1_SCK_, SDMMC0 SDMMC0_DAT_4]
+- T13 : PA7,  of Type IO, alternates : [PIO P_7, QSPI1 QSPI1_IO_0, HSMC D_7, FLEXCOM2 FLEXCOM2_IO_1, SDMMC0 SDMMC0_DAT_5, TC1 TIOB_5]
+- N10 : PA8,  of Type IO, alternates : [PIO P_8, QSPI1 QSPI1_IO_1, FLEXCOM2 FLEXCOM2_IO_2, HSMC NANDNWE_, TC1 TCLK_5, SDMMC0 SDMMC0_DAT_6]
+- N11 : PA9,  of Type IO, alternates : [SDMMC0 SDMMC0_DAT_7, QSPI1 QSPI1_IO_2, FLEXCOM2 FLEXCOM2_IO_3, TC1 TIOA_4, HSMC NCS_3, PIO P_9]
+- U13 : PA10,  of Type IO, alternates : [PIO P_10, QSPI1 QSPI1_IO_3, SDMMC0 SDMMC0_RSTN_, HSMC A21_, TC1 TIOB_4, FLEXCOM2 FLEXCOM2_IO_4]
+- P15 : PA11,  of Type IO, alternates : [QSPI1 QSPI1_CS_, SDMMC0 SDMMC0_1V8SEL_, PIO P_11, HSMC A22_, TC1 TCLK_4]
+- N15 : PA12,  of Type IO, alternates : [AIC IRQ_, SDMMC0 SDMMC0_WP_, PIO P_12, HSMC NANDOE_]
+- P16 : PA13,  of Type IO, alternates : [HSMC D_8, FLEXCOM3 FLEXCOM3_IO_1, PIO P_13, SDMMC0 SDMMC0_CD_]
+- M14 : PA14,  of Type IO, alternates : [PIO P_14, SPI0 SPI0_SPCK_, HSMC D_9, SSC1 TK_1, I2SC1 I2SC1_MCK_, FLEXCOM3 FLEXCOM3_IO_2, QSPI0 QSPI0_SCK_]
+- N16 : PA15,  of Type IO, alternates : [PIO P_15, HSMC D_10, QSPI0 QSPI0_CS_, FLEXCOM3 FLEXCOM3_IO_0, SSC1 TF_1, SPI0 SPI0_MOSI_, I2SC1 I2SC1_CK_]
+- M10 : PA16,  of Type IO, alternates : [PIO P_16, HSMC D_11, I2SC1 I2SC1_WS_, FLEXCOM3 FLEXCOM3_IO_3, SPI0 SPI0_MISO_, SSC1 TD_1, QSPI0 QSPI0_IO_0]
+- N17 : PA17,  of Type IO, alternates : [I2SC1 I2SC1_DI_0, PIO P_17, HSMC D_12, SPI0 SPI0_NPCS_0, FLEXCOM3 FLEXCOM3_IO_4, QSPI0 QSPI0_IO_1, SSC1 RD_1]
+- U14 : PA18,  of Type IO, alternates : [HSMC D_13, SSC1 RK_1, SPI0 SPI0_NPCS_1, I2SC1 I2SC1_DO_0, PIO P_18, QSPI0 QSPI0_IO_2, SDMMC1 SDMMC1_DAT_0]
+- T14 : PA19,  of Type IO, alternates : [SSC1 RF_1, SPI0 SPI0_NPCS_2, HSMC D_14, TC0 TIOA_0, QSPI0 QSPI0_IO_3, PIO P_19, SDMMC1 SDMMC1_DAT_1]
+- P12 : PA20,  of Type IO, alternates : [SPI0 SPI0_NPCS_3, HSMC D_15, TC0 TIOB_0, PIO P_20, SDMMC1 SDMMC1_DAT_2]
+- R13 : PA21,  of Type IO, alternates : [AIC IRQ_, PMC PCK_2, HSMC NANDRDY_, TC0 TCLK_0, PIO P_21, SDMMC1 SDMMC1_DAT_3]
+- U15 : PA22,  of Type IO, alternates : [PIO P_22, ICE TCK_, FLEXCOM1 FLEXCOM1_IO_2, HSMC D_0, SPI1 SPI1_SPCK_, SDMMC1 SDMMC1_CK_, QSPI0 QSPI0_SCK_]
+- U16 : PA23,  of Type IO, alternates : [ICE TDI_, PIO P_23, QSPI0 QSPI0_CS_, SPI1 SPI1_MOSI_, FLEXCOM1 FLEXCOM1_IO_1, HSMC D_1]
+- T15 : PA24,  of Type IO, alternates : [SPI1 SPI1_MISO_, FLEXCOM1 FLEXCOM1_IO_0, HSMC D_2, PIO P_24, ICE TDO_, QSPI0 QSPI0_IO_0]
+- U17 : PA25,  of Type IO, alternates : [PIO P_25, ICE TMS_, HSMC D_3, FLEXCOM1 FLEXCOM1_IO_3, SPI1 SPI1_NPCS_0, QSPI0 QSPI0_IO_1]
+- P13 : PA26,  of Type IO, alternates : [PIO P_26, ICE NTRST_, HSMC D_4, SPI1 SPI1_NPCS_1, FLEXCOM1 FLEXCOM1_IO_4, QSPI0 QSPI0_IO_2]
+- T16 : PA27,  of Type IO, alternates : [PIO P_27, SPI0 SPI0_NPCS_2, SDMMC1 SDMMC1_RSTN_, HSMC D_5, TC0 TIOA_1, QSPI0 QSPI0_IO_3, SPI1 SPI1_NPCS_2]
+- R16 : PA28,  of Type IO, alternates : [HSMC D_6, PIO P_28, SPI0 SPI0_NPCS_3, CLASSD CLASSD_L_0, SDMMC1 SDMMC1_CMD_, TC0 TIOB_1, SPI1 SPI1_NPCS_3]
+- T17 : PA29,  of Type IO, alternates : [HSMC D_7, TC0 TCLK_1, SDMMC1 SDMMC1_WP_, CLASSD CLASSD_L_1, SPI0 SPI0_NPCS_1, PIO P_29]
+- R15 : PA30,  of Type IO, alternates : [SPI0 SPI0_NPCS_0, PWM PWMH_0, CLASSD CLASSD_L_2, PIO P_30, HSMC NANDNWE_, SDMMC1 SDMMC1_CD_]
+- R17 : PA31,  of Type IO, alternates : [PWM PWML_0, HSMC NCS_3, CLASSD CLASSD_L_3, PIO P_31, SPI0 SPI0_MISO_]
+- J8 : PB0,  of Type IO, alternates : [PIO P_32, PWM PWMH_1, HSMC A21_, SPI0 SPI0_MOSI_]
+- A8 : PB1,  of Type IO, alternates : [SPI0 SPI0_SPCK_, PIO P_33, PWM PWML_1, HSMC A22_, CLASSD CLASSD_R_0]
+- A7 : PB2,  of Type IO, alternates : [PIO P_34, PWM PWMFI_0, CLASSD CLASSD_R_1, HSMC NANDOE_]
+- A6 : PB3,  of Type IO, alternates : [HSMC D_8, AIC IRQ_, PWM PWMEXTRG_1, PIO P_35, CLASSD CLASSD_R_2, UART4 URXD_4]
+- B6 : PB4,  of Type IO, alternates : [PIO P_36, HSMC D_9, SAIC FIQ_, UART4 UTXD_4, CLASSD CLASSD_R_3]
+- B7 : PB5,  of Type IO, alternates : [PIO P_37, HSMC D_10, PWM PWMH_2, QSPI1 QSPI1_SCK_, GMAC GTSUCOMP_, TC0 TCLK_2]
+- C7 : PB6,  of Type IO, alternates : [PIO P_38, HSMC D_11, QSPI1 QSPI1_CS_, GMAC GTXER_, PWM PWML_2, TC0 TIOA_2]
+- C6 : PB7,  of Type IO, alternates : [PIO P_39, QSPI1 QSPI1_IO_0, HSMC D_12, PWM PWMH_3, TC0 TIOB_2, GMAC GRXCK_]
+- A5 : PB8,  of Type IO, alternates : [QSPI1 QSPI1_IO_1, HSMC D_13, PIO P_40, PWM PWML_3, GMAC GCRS_, TC1 TCLK_3]
+- A4 : PB9,  of Type IO, alternates : [QSPI1 QSPI1_IO_2, HSMC D_14, GMAC GCOL_, PIO P_41, TC1 TIOA_3, PWM PWMFI_1]
+- H8 : PB10,  of Type IO, alternates : [GMAC GRX_2, PWM PWMEXTRG_2, QSPI1 QSPI1_IO_3, HSMC D_15, TC1 TIOB_3, PIO P_42]
+- B5 : PB11,  of Type IO, alternates : [GMAC GRX_3, PIO P_43, PDMIC PDMIC_DAT_, UART3 URXD_3, LCDC LCDDAT_0, HSMC A0_]
+- D6 : PB12,  of Type IO, alternates : [PDMIC PDMIC_CLK_, PIO P_44, UART3 UTXD_3, GMAC GTX_2, HSMC A_1, LCDC LCDDAT_1]
+- B4 : PB13,  of Type IO, alternates : [PMC PCK_1, PIO P_45, GMAC GTX_3, HSMC A_2, LCDC LCDDAT_2]
+- C5 : PB14,  of Type IO, alternates : [SSC1 TK_1, I2SC1 I2SC1_MCK_, LCDC LCDDAT_3, PIO P_46, HSMC A_3, QSPI1 QSPI1_SCK_, GMAC GTXCK_]
+- H7 : PB15,  of Type IO, alternates : [PIO P_47, LCDC LCDDAT_4, QSPI1 QSPI1_CS_, GMAC GTXEN_, HSMC A_4, SSC1 TF_1, I2SC1 I2SC1_CK_]
+- D5 : PB16,  of Type IO, alternates : [LCDC LCDDAT_5, PIO P_48, I2SC1 I2SC1_WS_, QSPI1 QSPI1_IO_0, HSMC A_5, GMAC GRXDV_, SSC1 TD_1]
+- C4 : PB17,  of Type IO, alternates : [LCDC LCDDAT_6, GMAC GRXER_, I2SC1 I2SC1_DI_0, PIO P_49, QSPI1 QSPI1_IO_1, HSMC A_6, SSC1 RD_1]
+- A3 : PB18,  of Type IO, alternates : [HSMC A_7, SSC1 RK_1, QSPI1 QSPI1_IO_2, LCDC LCDDAT_7, PIO P_50, I2SC1 I2SC1_DO_0, GMAC GRX_0]
+- D4 : PB19,  of Type IO, alternates : [SSC1 RF_1, QSPI1 QSPI1_IO_3, HSMC A_8, LCDC LCDDAT_8, PIO P_51, TC1 TIOA_3, GMAC GRX_1]
+- B3 : PB20,  of Type IO, alternates : [PMC PCK_1, HSMC A_9, LCDC LCDDAT_9, GMAC GTX_0, TC1 TIOB_3, PIO P_52, SSC0 TK_0]
+- A2 : PB21,  of Type IO, alternates : [SSC0 TF_0, FLEXCOM3 FLEXCOM3_IO_2, GMAC GTX_1, PIO P_53, HSMC A_10, LCDC LCDDAT_10, TC1 TCLK_3]
+- C3 : PB22,  of Type IO, alternates : [SSC0 TD_0, PIO P_54, FLEXCOM3 FLEXCOM3_IO_1, HSMC A_11, GMAC GMDC_, TC0 TIOA_2, LCDC LCDDAT_11]
+- A1 : PB23,  of Type IO, alternates : [SSC0 RD_0, GMAC GMDIO_, PIO P_55, FLEXCOM3 FLEXCOM3_IO_0, TC0 TIOB_2, HSMC A_12, LCDC LCDDAT_12]
+- E5 : PB24,  of Type IO, alternates : [PIO P_56, FLEXCOM3 FLEXCOM3_IO_3, ISC ISC_D_10, HSMC A_13, SSC0 RK_0, LCDC LCDDAT_13, TC0 TCLK_2]
+- B2 : PB25,  of Type IO, alternates : [ISC ISC_D_11, PIO P_57, HSMC A_14, LCDC LCDDAT_14, FLEXCOM3 FLEXCOM3_IO_4, SSC0 RF_0]
+- E4 : PB26,  of Type IO, alternates : [PIO P_58, ISC ISC_D_0, HSMC A_15, PDMIC PDMIC_DAT_, LCDC LCDDAT_15, UART0 URXD_0]
+- B1 : PB27,  of Type IO, alternates : [PIO P_59, ISC ISC_D_1, PDMIC PDMIC_CLK_, HSMC A_16, UART0 UTXD_0, LCDC LCDDAT_16]
+- C2 : PB28,  of Type IO, alternates : [ISC ISC_D_2, HSMC A_17, FLEXCOM0 FLEXCOM0_IO_0, LCDC LCDDAT_17, TC1 TIOA_5, PIO P_60]
+- D3 : PB29,  of Type IO, alternates : [ISC ISC_D_3, HSMC A_18, LCDC LCDDAT_18, FLEXCOM0 FLEXCOM0_IO_1, PIO P_61, TC1 TIOB_5]
+- D2 : PB30,  of Type IO, alternates : [HSMC A_19, LCDC LCDDAT_19, ISC ISC_D_4, FLEXCOM0 FLEXCOM0_IO_2, PIO P_62, TC1 TCLK_5]
+- C1 : PB31,  of Type IO, alternates : [TWIHS0 TWD_0, ISC ISC_D_5, FLEXCOM0 FLEXCOM0_IO_3, PIO P_63, HSMC A_20, LCDC LCDDAT_20]
+- P17 : PC0,  of Type IO, alternates : [TWIHS0 TWCK_0, ISC ISC_D_6, HSMC A_23, FLEXCOM0 FLEXCOM0_IO_4, PIO P_64, LCDC LCDDAT_21]
+- N12 : PC1,  of Type IO, alternates : [MCAN0 CANTX_0, I2SC0 I2SC0_CK_, PIO P_65, ISC ISC_D_7, HSMC A_24, SPI1 SPI1_SPCK_, LCDC LCDDAT_22]
+- N14 : PC2,  of Type IO, alternates : [MCAN0 CANRX_0, PIO P_66, SPI1 SPI1_MOSI_, HSMC A_25, ISC ISC_D_8, LCDC LCDDAT_23, I2SC0 I2SC0_MCK_]
+- M15 : PC3,  of Type IO, alternates : [SPI1 SPI1_MISO_, I2SC0 I2SC0_WS_, LCDC LCDPWM_, PIO P_67, TC0 TIOA_1, ISC ISC_D_9, HSMC NWAIT_]
+- M11 : PC4,  of Type IO, alternates : [ISC ISC_PCK_, LCDC LCDDISP_, I2SC0 I2SC0_DI_0, PIO P_68, SPI1 SPI1_NPCS_0, HSMC NWR1_, TC0 TIOB_1]
+- L10 : PC5,  of Type IO, alternates : [PIO P_69, ISC ISC_VSYNC_, TC0 TCLK_1, SPI1 SPI1_NPCS_1, HSMC NCS_0, I2SC0 I2SC0_DO_0, LCDC LCDVSYNC_]
+- K10 : PC6,  of Type IO, alternates : [LCDC LCDHSYNC_, TWIHS1 TWD_1, PIO P_70, ISC ISC_HSYNC_, SPI1 SPI1_NPCS_2]
+- M16 : PC7,  of Type IO, alternates : [LCDC LCDPCK_, TWIHS1 TWCK_1, ISC ISC_MCK_, UART1 URXD_1, HSMC NCS_2, SPI1 SPI1_NPCS_3, PIO P_71]
+- J10 : PC8,  of Type IO, alternates : [LCDC LCDDEN_, HSMC NANDRDY_, SAIC FIQ_, ISC ISC_FIELD_, UART1 UTXD_1, PIO P_72, PMC PCK_0]
+- D1 : PC9,  of Type IO, alternates : [SAIC FIQ_, ISC ISC_D_0, PIO P_73, TC1 TIOA_4, GMAC GTSUCOMP_]
+- E3 : PC10,  of Type IO, alternates : [MCAN0 CANTX_0, ISC ISC_D_1, TC1 TIOB_4, PIO P_74, LCDC LCDDAT_2, GMAC GTXCK_]
+- E2 : PC11,  of Type IO, alternates : [ISC ISC_D_2, LCDC LCDDAT_3, MCAN0 CANRX_0, GMAC GTXEN_, PIO P_75, HSMC A0_, TC1 TCLK_4]
+- E1 : PC12,  of Type IO, alternates : [ISC ISC_D_3, LCDC LCDDAT_4, PIO P_76, GMAC GRXDV_, HSMC A_1, UART3 URXD_3, SSC0 TK_0]
+- F3 : PC13,  of Type IO, alternates : [LCDC LCDDAT_5, GMAC GRXER_, SSC0 TF_0, PIO P_77, UART3 UTXD_3, ISC ISC_D_4, HSMC A_2]
+- F5 : PC14,  of Type IO, alternates : [LCDC LCDDAT_6, SSC0 TD_0, PIO P_78, ISC ISC_D_5, HSMC A_3, GMAC GRX_0]
+- F2 : PC15,  of Type IO, alternates : [SSC0 RD_0, ISC ISC_D_6, LCDC LCDDAT_7, PIO P_79, HSMC A_4, GMAC GRX_1]
+- G6 : PC16,  of Type IO, alternates : [ISC ISC_D_7, HSMC A_5, GMAC GTX_0, SSC0 RK_0, LCDC LCDDAT_10, PIO P_80]
+- F1 : PC17,  of Type IO, alternates : [HSMC A_6, GMAC GTX_1, ISC ISC_D_8, LCDC LCDDAT_11, SSC0 RF_0, PIO P_81]
+- H6 : PC18,  of Type IO, alternates : [HSMC A_7, FLEXCOM3 FLEXCOM3_IO_2, GMAC GMDC_, ISC ISC_D_9, LCDC LCDDAT_12, PIO P_82]
+- G2 : PC19,  of Type IO, alternates : [GMAC GMDIO_, HSMC A_8, FLEXCOM3 FLEXCOM3_IO_1, ISC ISC_D_10, PIO P_83, LCDC LCDDAT_13]
+- G3 : PC20,  of Type IO, alternates : [HSMC A_9, FLEXCOM3 FLEXCOM3_IO_0, ISC ISC_D_11, LCDC LCDDAT_14, PIO P_84, GMAC GRXCK_]
+- G1 : PC21,  of Type IO, alternates : [ISC ISC_PCK_, GMAC GTXER_, FLEXCOM3 FLEXCOM3_IO_3, LCDC LCDDAT_15, PIO P_85, HSMC A_10]
+- H2 : PC22,  of Type IO, alternates : [ISC ISC_VSYNC_, LCDC LCDDAT_18, HSMC A_11, FLEXCOM3 FLEXCOM3_IO_4, PIO P_86, GMAC GCRS_]
+- G5 : PC23,  of Type IO, alternates : [LCDC LCDDAT_19, PIO P_87, HSMC A_12, GMAC GCOL_, ISC ISC_HSYNC_]
+- H1 : PC24,  of Type IO, alternates : [GMAC GRX_2, ISC ISC_MCK_, PIO P_88, HSMC A_13, LCDC LCDDAT_20]
+- H5 : PC25,  of Type IO, alternates : [GMAC GRX_3, ISC ISC_FIELD_, PIO P_89, HSMC A_14, LCDC LCDDAT_21]
+- J9 : PC26,  of Type IO, alternates : [MCAN1 CANTX_1, HSMC A_15, GMAC GTX_2, LCDC LCDDAT_22, PIO P_90]
+- H9 : PC27,  of Type IO, alternates : [MCAN1 CANRX_1, PMC PCK_1, TWIHS0 TWD_0, HSMC A_16, GMAC GTX_3, LCDC LCDDAT_23, PIO P_91]
+- E8 : PC28,  of Type IO, alternates : [PMC PCK_2, TWIHS0 TWCK_0, HSMC A_17, LCDC LCDPWM_, FLEXCOM4 FLEXCOM4_IO_0, PIO P_92]
+- G8 : PC29,  of Type IO, alternates : [HSMC A_18, LCDC LCDDISP_, FLEXCOM4 FLEXCOM4_IO_1, PIO P_93]
+- F8 : PC30,  of Type IO, alternates : [HSMC A_19, PIO P_94, FLEXCOM4 FLEXCOM4_IO_2, LCDC LCDVSYNC_]
+- D8 : PC31,  of Type IO, alternates : [LCDC LCDHSYNC_, FLEXCOM4 FLEXCOM4_IO_3, PIO P_95, UART3 URXD_3, HSMC A_20]
+- G10 : PD0,  of Type IO, alternates : [LCDC LCDPCK_, UART3 UTXD_3, HSMC A_23, GMAC GTSUCOMP_, PIO P_96, FLEXCOM4 FLEXCOM4_IO_4]
+- E10 : PD1,  of Type IO, alternates : [LCDC LCDDEN_, HSMC A_24, PIO P_97, GMAC GRXCK_]
+- G9 : PD2,  of Type IO, alternates : [GMAC GTXER_, ISC ISC_MCK_, PIO P_98, HSMC A_25, UART1 URXD_1]
+- K1 : PD3,  of Type IO, alternates : [SAIC FIQ_, PIO P_99, ISC ISC_D_11, UART1 UTXD_1, HSMC NWAIT_, PTC PTC_X_0, GMAC GCRS_]
+- J6 : PD4,  of Type IO, alternates : [ISC ISC_D_10, HSMC NCS_0, GMAC GCOL_, TWIHS1 TWD_1, UART2 URXD_2, PIO P_100, PTC PTC_X_1]
+- J4 : PD5,  of Type IO, alternates : [TWIHS1 TWCK_1, GMAC GRX_2, UART2 UTXD_2, HSMC NCS_1, PIO P_101, ISC ISC_D_9, PTC PTC_X_2]
+- J2 : PD6,  of Type IO, alternates : [PMC PCK_1, GMAC GRX_3, ICE TCK_, PIO P_102, ISC ISC_D_8, HSMC NCS_2, PTC PTC_X_3]
+- J7 : PD7,  of Type IO, alternates : [ISC ISC_D_0, ICE TDI_, PIO P_103, PTC PTC_X_4, GMAC GTX_2, HSMC NWR1_]
+- J1 : PD8,  of Type IO, alternates : [HSMC NANDRDY_, ISC ISC_D_1, PTC PTC_X_5, ICE TDO_, GMAC GTX_3, PIO P_104]
+- K9 : PD9,  of Type IO, alternates : [ISC ISC_D_2, ICE TMS_, PTC PTC_X_6, PIO P_105, GMAC GTXCK_]
+- J3 : PD10,  of Type IO, alternates : [ISC ISC_D_3, ICE NTRST_, GMAC GTXEN_, PTC PTC_X_7, PIO P_106]
+- M1 : PD11,  of Type IO, alternates : [PMC PCK_2, ISC ISC_MCK_, ISC ISC_D_4, GMAC GRXDV_, TC0 TIOA_1, PIO P_107, PTC PTC_Y_0]
+- K8 : PD12,  of Type IO, alternates : [GMAC GRXER_, PIO P_108, ISC ISC_D_4, FLEXCOM4 FLEXCOM4_IO_0, ISC ISC_D_5, TC0 TIOB_1, PTC PTC_Y_1]
+- L2 : PD13,  of Type IO, alternates : [PIO P_109, TC0 TCLK_1, ISC ISC_D_6, FLEXCOM4 FLEXCOM4_IO_1, ISC ISC_D_5, GMAC GRX_0, PTC PTC_Y_2]
+- K4 : PD14,  of Type IO, alternates : [ISC ISC_D_6, PIO P_110, ISC ISC_D_7, ICE TCK_, FLEXCOM4 FLEXCOM4_IO_2, PTC PTC_Y_3, GMAC GRX_1]
+- K7 : PD15,  of Type IO, alternates : [ISC ISC_PCK_, ICE TDI_, ISC ISC_D_7, FLEXCOM4 FLEXCOM4_IO_3, GMAC GTX_0, PTC PTC_Y_4, PIO P_111]
+- L1 : PD16,  of Type IO, alternates : [ISC ISC_VSYNC_, GMAC GTX_1, ICE TDO_, ISC ISC_D_8, PIO P_112, FLEXCOM4 FLEXCOM4_IO_4, PTC PTC_Y_5]
+- K2 : PD17,  of Type IO, alternates : [ICE TMS_, PIO P_113, PTC PTC_Y_6, GMAC GMDC_, ISC ISC_D_9, ISC ISC_HSYNC_]
+- J5 : PD18,  of Type IO, alternates : [GMAC GMDIO_, ICE NTRST_, ISC ISC_FIELD_, PTC PTC_Y_7, ISC ISC_D_10, PIO P_114]
+- K6 : PD19,  of Type IO, alternates : [I2SC0 I2SC0_CK_, ISC ISC_D_11, TWIHS1 TWD_1, UART2 URXD_2, ADC AD_0, PIO P_115, PMC PCK_0]
+- M2 : PD20,  of Type IO, alternates : [ISC ISC_PCK_, TWIHS1 TWCK_1, UART2 UTXD_2, TC0 TIOA_2, PIO P_116, ADC AD_1, I2SC0 I2SC0_MCK_]
+- N1 : PD21,  of Type IO, alternates : [ISC ISC_VSYNC_, TWIHS0 TWD_0, I2SC0 I2SC0_WS_, FLEXCOM4 FLEXCOM4_IO_0, TC0 TIOB_2, ADC AD_2, PIO P_117]
+- L4 : PD22,  of Type IO, alternates : [TWIHS0 TWCK_0, FLEXCOM4 FLEXCOM4_IO_1, I2SC0 I2SC0_DI_0, PIO P_118, TC0 TCLK_2, ADC AD_3, ISC ISC_HSYNC_]
+- M3 : PD23,  of Type IO, alternates : [ADC AD_4, PIO P_119, ISC ISC_FIELD_, FLEXCOM4 FLEXCOM4_IO_2, UART2 URXD_2, I2SC0 I2SC0_DO_0]
+- L7 : PD24,  of Type IO, alternates : [ADC AD_5, UART2 UTXD_2, PIO P_120, FLEXCOM4 FLEXCOM4_IO_3]
+- L6 : PD25,  of Type IO, alternates : [ADC AD_6, PIO P_121, SPI1 SPI1_SPCK_, FLEXCOM4 FLEXCOM4_IO_4]
+- N2 : PD26,  of Type IO, alternates : [ADC AD_7, FLEXCOM2 FLEXCOM2_IO_0, SPI1 SPI1_MOSI_, PIO P_122]
+- L8 : PD27,  of Type IO, alternates : [SPI1 SPI1_MISO_, ADC AD_8, FLEXCOM2 FLEXCOM2_IO_1, ICE TCK_, PIO P_123]
+- M4 : PD28,  of Type IO, alternates : [ICE TDI_, ADC AD_9, FLEXCOM2 FLEXCOM2_IO_2, PIO P_124, SPI1 SPI1_NPCS_0]
+- N3 : PD29,  of Type IO, alternates : [TWIHS0 TWD_0, PIO P_125, SPI1 SPI1_NPCS_1, FLEXCOM2 FLEXCOM2_IO_3, ICE TDO_, TC1 TIOA_3, ADC AD_10]
+- L9 : PD30,  of Type IO, alternates : [TWIHS0 TWCK_0, ICE TMS_, TC1 TIOB_3, FLEXCOM2 FLEXCOM2_IO_4, ADC AD_11, PIO P_126, SPI1 SPI1_NPCS_2]
+- M7 : PD31,  of Type IO, alternates : [AIC IRQ_, ADC ADTRG_, ICE NTRST_, PIO P_127, TC1 TCLK_3, PMC PCK_0]
+- L5 : VDDANA,  of Type PP
+- K5 : GNDANA,  of Type PS
+- M6 : ADVREF,  of Type PS
+- K3 : VDDANA,  of Type PP
+- L3 : GNDANA,  of Type PS
+- H16 : DDR_VREF,  of Type PS
+- D16 : DDR_VREF,  of Type PS
+- B12 : DDR_D0,  of Type IO
+- A12 : DDR_D1,  of Type IO
+- C12 : DDR_D2,  of Type IO
+- A13 : DDR_D3,  of Type IO
+- A14 : DDR_D4,  of Type IO
+- C13 : DDR_D5,  of Type IO
+- A15 : DDR_D6,  of Type IO
+- B15 : DDR_D7,  of Type IO
+- G17 : DDR_D8,  of Type IO
+- G16 : DDR_D9,  of Type IO
+- H17 : DDR_D10,  of Type IO
+- K17 : DDR_D11,  of Type IO
+- K16 : DDR_D12,  of Type IO
+- J13 : DDR_D13,  of Type IO
+- K14 : DDR_D14,  of Type IO
+- K15 : DDR_D15,  of Type IO
+- B8 : DDR_D16,  of Type IO
+- B9 : DDR_D17,  of Type IO
+- C9 : DDR_D18,  of Type IO
+- A9 : DDR_D19,  of Type IO
+- A10 : DDR_D20,  of Type IO
+- D10 : DDR_D21,  of Type IO
+- B11 : DDR_D22,  of Type IO
+- A11 : DDR_D23,  of Type IO
+- J12 : DDR_D24,  of Type IO
+- H10 : DDR_D25,  of Type IO
+- J11 : DDR_D26,  of Type IO
+- K11 : DDR_D27,  of Type IO
+- L13 : DDR_D28,  of Type IO
+- L11 : DDR_D29,  of Type IO
+- L12 : DDR_D30,  of Type IO
+- M17 : DDR_D31,  of Type IO
+- F12 : DDR_A0,  of Type OP
+- C17 : DDR_A1,  of Type OP
+- B17 : DDR_A2,  of Type OP
+- B16 : DDR_A3,  of Type OP
+- C16 : DDR_A4,  of Type OP
+- G14 : DDR_A5,  of Type OP
+- F14 : DDR_A6,  of Type OP
+- F11 : DDR_A7,  of Type OP
+- C14 : DDR_A8,  of Type OP
+- D13 : DDR_A9,  of Type OP
+- C15 : DDR_A10,  of Type OP
+- A16 : DDR_A11,  of Type OP
+- A17 : DDR_A12,  of Type OP
+- G11 : DDR_A13,  of Type OP
+- E17 : DDR_CLK,  of Type OP
+- D17 : DDR_CLKN,  of Type OP
+- F16 : DDR_CKE,  of Type OP
+- E16 : DDR_RESETN,  of Type OP
+- G13 : DDR_CS,  of Type OP
+- F15 : DDR_WE,  of Type OP
+- F13 : DDR_RAS,  of Type OP
+- G12 : DDR_CAS,  of Type OP
+- C11 : DDR_DQM0,  of Type OP
+- G15 : DDR_DQM1,  of Type OP
+- C8 : DDR_DQM2,  of Type OP
+- H11 : DDR_DQM3,  of Type OP
+- B13 : DDR_DQS0,  of Type OP
+- J17 : DDR_DQS1,  of Type OP
+- C10 : DDR_DQS2,  of Type OP
+- L17 : DDR_DQS3,  of Type OP
+- B14 : DDR_DQSN0,  of Type OP
+- J16 : DDR_DQSN1,  of Type OP
+- B10 : DDR_DQSN2,  of Type OP
+- L16 : DDR_DQSN3,  of Type OP
+- H12 : DDR_BA0,  of Type OP
+- H13 : DDR_BA1,  of Type OP
+- F17 : DDR_BA2,  of Type OP
+- E13 : DDR_,  of Type IO
+- L15 : VDDIODDR,  of Type PP
+- J15 : VDDIODDR,  of Type PP
+- H15 : VDDIODDR,  of Type PP
+- E15 : VDDIODDR,  of Type PP
+- D15 : VDDIODDR,  of Type PP
+- D12 : VDDIODDR,  of Type PP
+- D11 : VDDIODDR,  of Type PP
+- L14 : GNDIODDR,  of Type PS
+- J14 : GNDIODDR,  of Type PS
+- H14 : GNDIODDR,  of Type PS
+- E14 : GNDIODDR,  of Type PS
+- D14 : GNDIODDR,  of Type PS
+- E12 : GNDIODDR,  of Type PS
+- E11 : GNDIODDR,  of Type PS
+- H3 : VDDCORE,  of Type PP
+- N5 : VDDCORE,  of Type PP
+- N9 : VDDCORE,  of Type PP
+- K13 : VDDCORE,  of Type PP
+- D9 : VDDCORE,  of Type PP
+- D7 : VDDCORE,  of Type PP
+- H4 : GNDCORE,  of Type PS
+- M5 : GNDCORE,  of Type PS
+- M9 : GNDCORE,  of Type PS
+- K12 : GNDCORE,  of Type PS
+- E9 : GNDCORE,  of Type PS
+- E7 : GNDCORE,  of Type PS
+- E6 : VDDIOP0,  of Type PP
+- F7 : VDDIOP0,  of Type PP
+- F6 : GNDIOP0,  of Type PS
+- G7 : GNDIOP0,  of Type PS
+- R14 : VDDIOP1,  of Type PP
+- N13 : VDDIOP1,  of Type PP
+- M13 : GNDIOP1,  of Type PS
+- P14 : GNDIOP1,  of Type PS
+- F10 : VDDIOP2,  of Type PP
+- F9 : GNDIOP2,  of Type PS
+- P11 : VDDSDMMC,  of Type PP
+- R11 : GNDSDMMC,  of Type PS
+- F4 : VDDISC,  of Type PP
+- G4 : GNDISC,  of Type PS
+- M12 : VDDFUSE,  of Type PP
+- U4 : VDDPLLA,  of Type PP
+- U5 : GNDPLLA,  of Type PS
+- T3 : VDDAUDIOPLL,  of Type PP
+- T5 : GNDDPLL,  of Type PS
+- T4 : GNDAUDIOPLL,  of Type PS
+- U3 : CLK_AUDIO,  of Type IO
+- U7 : XIN,  of Type PS
+- U6 : XOUT,  of Type PS
+- T7 : VDDOSC,  of Type PP
+- T6 : GNDOSC,  of Type PS
+- P8 : VDDUTMII,  of Type PP
+- R9 : VDDHSIC,  of Type PP
+- P9 : GNDUTMII,  of Type PS
+- T8 : HHSDPA,  of Type IO
+- R8 : HHSDMA,  of Type IO
+- U8 : HHSDPB,  of Type IO
+- U9 : HHSDMB,  of Type IO
+- T9 : HHSDPDATC,  of Type IO
+- U10 : HHSDMSTRC,  of Type IO
+- P7 : VDDUTMIC,  of Type PP
+- R7 : GNDUTMIC,  of Type PS
+- T10 : SDCAL,  of Type IO
+- R6 : VBG,  of Type IO
+- P3 : TST,  of Type IO
+- U2 : NRST,  of Type IP
+- T2 : JTAGSEL,  of Type OP
+- P4 : WKUP,  of Type IP
+- N4 : RXD,  of Type IP
+- R1 : SHDN,  of Type IO
+- R3 : PIOBU0,  of Type IO
+- N8 : PIOBU1,  of Type IO
+- R2 : PIOBU2,  of Type IO
+- R5 : PIOBU3,  of Type IO
+- R4 : PIOBU4,  of Type IO
+- P5 : PIOBU5,  of Type IO
+- P6 : PIOBU6,  of Type IO
+- M8 : PIOBU7,  of Type IO
+- N7 : VDDBU,  of Type PP
+- N6 : GNDBU,  of Type PS
+- P1 : XIN32,  of Type PS
+- P2 : XOUT32,  of Type PS
+- T1 : COMPP,  of Type IO
+- U1 : COMPN,  of Type IO
 ## ATSAMA5D26C-CNR
+
 ### Description : 
+
+- Series : SAMA5D2
+- Footprint : LFBGA289
+- MP : ATSAMA5D26C-CNR
+- Architecture : CORTEX-A5
+- PINOUT : LFBGA289
+- Reference : U
+- Documentation : https://www.microchip.com/en-us/search?q=ATSAMA5D26C-CNR
+- Value : ATSAMA5D26C-CNR
+- Family : SAMA5
+- MF : Microchip
+- Name : ATSAMA5D26
 
 ### Package : 
 
-- U11 : PA0
-- P10 : PA1
-- T11 : PA2
-- R10 : PA3
-- U12 : PA4
-- T12 : PA5
-- R12 : PA6
-- T13 : PA7
-- N10 : PA8
-- N11 : PA9
-- U13 : PA10
-- P15 : PA11
-- N15 : PA12
-- P16 : PA13
-- M14 : PA14
-- N16 : PA15
-- M10 : PA16
-- N17 : PA17
-- U14 : PA18
-- T14 : PA19
-- P12 : PA20
-- R13 : PA21
-- U15 : PA22
-- U16 : PA23
-- T15 : PA24
-- U17 : PA25
-- P13 : PA26
-- T16 : PA27
-- R16 : PA28
-- T17 : PA29
-- R15 : PA30
-- R17 : PA31
-- J8 : PB0
-- A8 : PB1
-- A7 : PB2
-- A6 : PB3
-- B6 : PB4
-- B7 : PB5
-- C7 : PB6
-- C6 : PB7
-- A5 : PB8
-- A4 : PB9
-- H8 : PB10
-- B5 : PB11
-- D6 : PB12
-- B4 : PB13
-- C5 : PB14
-- H7 : PB15
-- D5 : PB16
-- C4 : PB17
-- A3 : PB18
-- D4 : PB19
-- B3 : PB20
-- A2 : PB21
-- C3 : PB22
-- A1 : PB23
-- E5 : PB24
-- B2 : PB25
-- E4 : PB26
-- B1 : PB27
-- C2 : PB28
-- D3 : PB29
-- D2 : PB30
-- C1 : PB31
-- P17 : PC0
-- N12 : PC1
-- N14 : PC2
-- M15 : PC3
-- M11 : PC4
-- L10 : PC5
-- K10 : PC6
-- M16 : PC7
-- J10 : PC8
-- D1 : PC9
-- E3 : PC10
-- E2 : PC11
-- E1 : PC12
-- F3 : PC13
-- F5 : PC14
-- F2 : PC15
-- G6 : PC16
-- F1 : PC17
-- H6 : PC18
-- G2 : PC19
-- G3 : PC20
-- G1 : PC21
-- H2 : PC22
-- G5 : PC23
-- H1 : PC24
-- H5 : PC25
-- J9 : PC26
-- H9 : PC27
-- E8 : PC28
-- G8 : PC29
-- F8 : PC30
-- D8 : PC31
-- G10 : PD0
-- E10 : PD1
-- G9 : PD2
-- K1 : PD3
-- J6 : PD4
-- J4 : PD5
-- J2 : PD6
-- J7 : PD7
-- J1 : PD8
-- K9 : PD9
-- J3 : PD10
-- M1 : PD11
-- K8 : PD12
-- L2 : PD13
-- K4 : PD14
-- K7 : PD15
-- L1 : PD16
-- K2 : PD17
-- J5 : PD18
-- K6 : PD19
-- M2 : PD20
-- N1 : PD21
-- L4 : PD22
-- M3 : PD23
-- L7 : PD24
-- L6 : PD25
-- N2 : PD26
-- L8 : PD27
-- M4 : PD28
-- N3 : PD29
-- L9 : PD30
-- M7 : PD31
-- L5 : VDDANA
-- K5 : GNDANA
-- M6 : ADVREF
-- K3 : VDDANA
-- L3 : GNDANA
-- H16 : DDR_VREF
-- D16 : DDR_VREF
-- B12 : DDR_D0
-- A12 : DDR_D1
-- C12 : DDR_D2
-- A13 : DDR_D3
-- A14 : DDR_D4
-- C13 : DDR_D5
-- A15 : DDR_D6
-- B15 : DDR_D7
-- G17 : DDR_D8
-- G16 : DDR_D9
-- H17 : DDR_D10
-- K17 : DDR_D11
-- K16 : DDR_D12
-- J13 : DDR_D13
-- K14 : DDR_D14
-- K15 : DDR_D15
-- B8 : DDR_D16
-- B9 : DDR_D17
-- C9 : DDR_D18
-- A9 : DDR_D19
-- A10 : DDR_D20
-- D10 : DDR_D21
-- B11 : DDR_D22
-- A11 : DDR_D23
-- J12 : DDR_D24
-- H10 : DDR_D25
-- J11 : DDR_D26
-- K11 : DDR_D27
-- L13 : DDR_D28
-- L11 : DDR_D29
-- L12 : DDR_D30
-- M17 : DDR_D31
-- F12 : DDR_A0
-- C17 : DDR_A1
-- B17 : DDR_A2
-- B16 : DDR_A3
-- C16 : DDR_A4
-- G14 : DDR_A5
-- F14 : DDR_A6
-- F11 : DDR_A7
-- C14 : DDR_A8
-- D13 : DDR_A9
-- C15 : DDR_A10
-- A16 : DDR_A11
-- A17 : DDR_A12
-- G11 : DDR_A13
-- E17 : DDR_CLK
-- D17 : DDR_CLKN
-- F16 : DDR_CKE
-- E16 : DDR_RESETN
-- G13 : DDR_CS
-- F15 : DDR_WE
-- F13 : DDR_RAS
-- G12 : DDR_CAS
-- C11 : DDR_DQM0
-- G15 : DDR_DQM1
-- C8 : DDR_DQM2
-- H11 : DDR_DQM3
-- B13 : DDR_DQS0
-- J17 : DDR_DQS1
-- C10 : DDR_DQS2
-- L17 : DDR_DQS3
-- B14 : DDR_DQSN0
-- J16 : DDR_DQSN1
-- B10 : DDR_DQSN2
-- L16 : DDR_DQSN3
-- H12 : DDR_BA0
-- H13 : DDR_BA1
-- F17 : DDR_BA2
-- E13 : DDR_
-- L15 : VDDIODDR
-- J15 : VDDIODDR
-- H15 : VDDIODDR
-- E15 : VDDIODDR
-- D15 : VDDIODDR
-- D12 : VDDIODDR
-- D11 : VDDIODDR
-- L14 : GNDIODDR
-- J14 : GNDIODDR
-- H14 : GNDIODDR
-- E14 : GNDIODDR
-- D14 : GNDIODDR
-- E12 : GNDIODDR
-- E11 : GNDIODDR
-- H3 : VDDCORE
-- N5 : VDDCORE
-- N9 : VDDCORE
-- K13 : VDDCORE
-- D9 : VDDCORE
-- D7 : VDDCORE
-- H4 : GNDCORE
-- M5 : GNDCORE
-- M9 : GNDCORE
-- K12 : GNDCORE
-- E9 : GNDCORE
-- E7 : GNDCORE
-- E6 : VDDIOP0
-- F7 : VDDIOP0
-- F6 : GNDIOP0
-- G7 : GNDIOP0
-- R14 : VDDIOP1
-- N13 : VDDIOP1
-- M13 : GNDIOP1
-- P14 : GNDIOP1
-- F10 : VDDIOP2
-- F9 : GNDIOP2
-- P11 : VDDSDMMC
-- R11 : GNDSDMMC
-- F4 : VDDISC
-- G4 : GNDISC
-- M12 : VDDFUSE
-- U4 : VDDPLLA
-- U5 : GNDPLLA
-- T3 : VDDAUDIOPLL
-- T5 : GNDDPLL
-- T4 : GNDAUDIOPLL
-- U3 : CLK_AUDIO
-- U7 : XIN
-- U6 : XOUT
-- T7 : VDDOSC
-- T6 : GNDOSC
-- P8 : VDDUTMII
-- R9 : VDDHSIC
-- P9 : GNDUTMII
-- T8 : HHSDPA
-- R8 : HHSDMA
-- U8 : HHSDPB
-- U9 : HHSDMB
-- T9 : HHSDPDATC
-- U10 : HHSDMSTRC
-- P7 : VDDUTMIC
-- R7 : GNDUTMIC
-- T10 : SDCAL
-- R6 : VBG
-- P3 : TST
-- U2 : NRST
-- T2 : JTAGSEL
-- P4 : WKUP
-- N4 : RXD
-- R1 : SHDN
-- R3 : PIOBU0
-- N8 : PIOBU1
-- R2 : PIOBU2
-- R5 : PIOBU3
-- R4 : PIOBU4
-- P5 : PIOBU5
-- P6 : PIOBU6
-- M8 : PIOBU7
-- N7 : VDDBU
-- N6 : GNDBU
-- P1 : XIN32
-- P2 : XOUT32
-- T1 : COMPP
-- U1 : COMPN
+Pin count : 289
+- U11 : PA0,  of Type IO, alternates : [HSMC D_0, PIO P_0, SDMMC0 SDMMC0_CK_, QSPI0 QSPI0_SCK_]
+- P10 : PA1,  of Type IO, alternates : [SDMMC0 SDMMC0_CMD_, PIO P_1, QSPI0 QSPI0_CS_, HSMC D_1]
+- T11 : PA2,  of Type IO, alternates : [PIO P_2, HSMC D_2, SDMMC0 SDMMC0_DAT_0, QSPI0 QSPI0_IO_0]
+- R10 : PA3,  of Type IO, alternates : [PIO P_3, HSMC D_3, SDMMC0 SDMMC0_DAT_1, QSPI0 QSPI0_IO_1]
+- U12 : PA4,  of Type IO, alternates : [HSMC D_4, PIO P_4, SDMMC0 SDMMC0_DAT_2, QSPI0 QSPI0_IO_2]
+- T12 : PA5,  of Type IO, alternates : [PIO P_5, HSMC D_5, QSPI0 QSPI0_IO_3, SDMMC0 SDMMC0_DAT_3]
+- R12 : PA6,  of Type IO, alternates : [PIO P_6, HSMC D_6, FLEXCOM2 FLEXCOM2_IO_0, TC1 TIOA_5, QSPI1 QSPI1_SCK_, SDMMC0 SDMMC0_DAT_4]
+- T13 : PA7,  of Type IO, alternates : [PIO P_7, QSPI1 QSPI1_IO_0, HSMC D_7, FLEXCOM2 FLEXCOM2_IO_1, SDMMC0 SDMMC0_DAT_5, TC1 TIOB_5]
+- N10 : PA8,  of Type IO, alternates : [PIO P_8, QSPI1 QSPI1_IO_1, FLEXCOM2 FLEXCOM2_IO_2, HSMC NANDNWE_, TC1 TCLK_5, SDMMC0 SDMMC0_DAT_6]
+- N11 : PA9,  of Type IO, alternates : [SDMMC0 SDMMC0_DAT_7, QSPI1 QSPI1_IO_2, FLEXCOM2 FLEXCOM2_IO_3, TC1 TIOA_4, HSMC NCS_3, PIO P_9]
+- U13 : PA10,  of Type IO, alternates : [PIO P_10, QSPI1 QSPI1_IO_3, SDMMC0 SDMMC0_RSTN_, HSMC A21_, TC1 TIOB_4, FLEXCOM2 FLEXCOM2_IO_4]
+- P15 : PA11,  of Type IO, alternates : [QSPI1 QSPI1_CS_, SDMMC0 SDMMC0_1V8SEL_, PIO P_11, HSMC A22_, TC1 TCLK_4]
+- N15 : PA12,  of Type IO, alternates : [AIC IRQ_, SDMMC0 SDMMC0_WP_, PIO P_12, HSMC NANDOE_]
+- P16 : PA13,  of Type IO, alternates : [HSMC D_8, FLEXCOM3 FLEXCOM3_IO_1, PIO P_13, SDMMC0 SDMMC0_CD_]
+- M14 : PA14,  of Type IO, alternates : [PIO P_14, SPI0 SPI0_SPCK_, HSMC D_9, SSC1 TK_1, I2SC1 I2SC1_MCK_, FLEXCOM3 FLEXCOM3_IO_2, QSPI0 QSPI0_SCK_]
+- N16 : PA15,  of Type IO, alternates : [PIO P_15, HSMC D_10, QSPI0 QSPI0_CS_, FLEXCOM3 FLEXCOM3_IO_0, SSC1 TF_1, SPI0 SPI0_MOSI_, I2SC1 I2SC1_CK_]
+- M10 : PA16,  of Type IO, alternates : [PIO P_16, HSMC D_11, I2SC1 I2SC1_WS_, FLEXCOM3 FLEXCOM3_IO_3, SPI0 SPI0_MISO_, SSC1 TD_1, QSPI0 QSPI0_IO_0]
+- N17 : PA17,  of Type IO, alternates : [I2SC1 I2SC1_DI_0, PIO P_17, HSMC D_12, SPI0 SPI0_NPCS_0, FLEXCOM3 FLEXCOM3_IO_4, QSPI0 QSPI0_IO_1, SSC1 RD_1]
+- U14 : PA18,  of Type IO, alternates : [HSMC D_13, SSC1 RK_1, SPI0 SPI0_NPCS_1, I2SC1 I2SC1_DO_0, PIO P_18, QSPI0 QSPI0_IO_2, SDMMC1 SDMMC1_DAT_0]
+- T14 : PA19,  of Type IO, alternates : [SSC1 RF_1, SPI0 SPI0_NPCS_2, HSMC D_14, TC0 TIOA_0, QSPI0 QSPI0_IO_3, PIO P_19, SDMMC1 SDMMC1_DAT_1]
+- P12 : PA20,  of Type IO, alternates : [SPI0 SPI0_NPCS_3, HSMC D_15, TC0 TIOB_0, PIO P_20, SDMMC1 SDMMC1_DAT_2]
+- R13 : PA21,  of Type IO, alternates : [AIC IRQ_, PMC PCK_2, HSMC NANDRDY_, TC0 TCLK_0, PIO P_21, SDMMC1 SDMMC1_DAT_3]
+- U15 : PA22,  of Type IO, alternates : [PIO P_22, ICE TCK_, FLEXCOM1 FLEXCOM1_IO_2, HSMC D_0, SPI1 SPI1_SPCK_, SDMMC1 SDMMC1_CK_, QSPI0 QSPI0_SCK_]
+- U16 : PA23,  of Type IO, alternates : [ICE TDI_, PIO P_23, QSPI0 QSPI0_CS_, SPI1 SPI1_MOSI_, FLEXCOM1 FLEXCOM1_IO_1, HSMC D_1]
+- T15 : PA24,  of Type IO, alternates : [SPI1 SPI1_MISO_, FLEXCOM1 FLEXCOM1_IO_0, HSMC D_2, PIO P_24, ICE TDO_, QSPI0 QSPI0_IO_0]
+- U17 : PA25,  of Type IO, alternates : [PIO P_25, ICE TMS_, HSMC D_3, FLEXCOM1 FLEXCOM1_IO_3, SPI1 SPI1_NPCS_0, QSPI0 QSPI0_IO_1]
+- P13 : PA26,  of Type IO, alternates : [PIO P_26, ICE NTRST_, HSMC D_4, SPI1 SPI1_NPCS_1, FLEXCOM1 FLEXCOM1_IO_4, QSPI0 QSPI0_IO_2]
+- T16 : PA27,  of Type IO, alternates : [PIO P_27, SPI0 SPI0_NPCS_2, SDMMC1 SDMMC1_RSTN_, HSMC D_5, TC0 TIOA_1, QSPI0 QSPI0_IO_3, SPI1 SPI1_NPCS_2]
+- R16 : PA28,  of Type IO, alternates : [HSMC D_6, PIO P_28, SPI0 SPI0_NPCS_3, CLASSD CLASSD_L_0, SDMMC1 SDMMC1_CMD_, TC0 TIOB_1, SPI1 SPI1_NPCS_3]
+- T17 : PA29,  of Type IO, alternates : [HSMC D_7, TC0 TCLK_1, SDMMC1 SDMMC1_WP_, CLASSD CLASSD_L_1, SPI0 SPI0_NPCS_1, PIO P_29]
+- R15 : PA30,  of Type IO, alternates : [SPI0 SPI0_NPCS_0, PWM PWMH_0, CLASSD CLASSD_L_2, PIO P_30, HSMC NANDNWE_, SDMMC1 SDMMC1_CD_]
+- R17 : PA31,  of Type IO, alternates : [PWM PWML_0, HSMC NCS_3, CLASSD CLASSD_L_3, PIO P_31, SPI0 SPI0_MISO_]
+- J8 : PB0,  of Type IO, alternates : [PIO P_32, PWM PWMH_1, HSMC A21_, SPI0 SPI0_MOSI_]
+- A8 : PB1,  of Type IO, alternates : [SPI0 SPI0_SPCK_, PIO P_33, PWM PWML_1, HSMC A22_, CLASSD CLASSD_R_0]
+- A7 : PB2,  of Type IO, alternates : [PIO P_34, PWM PWMFI_0, CLASSD CLASSD_R_1, HSMC NANDOE_]
+- A6 : PB3,  of Type IO, alternates : [HSMC D_8, AIC IRQ_, PWM PWMEXTRG_1, PIO P_35, CLASSD CLASSD_R_2, UART4 URXD_4]
+- B6 : PB4,  of Type IO, alternates : [PIO P_36, HSMC D_9, SAIC FIQ_, UART4 UTXD_4, CLASSD CLASSD_R_3]
+- B7 : PB5,  of Type IO, alternates : [PIO P_37, HSMC D_10, PWM PWMH_2, QSPI1 QSPI1_SCK_, GMAC GTSUCOMP_, TC0 TCLK_2]
+- C7 : PB6,  of Type IO, alternates : [PIO P_38, HSMC D_11, QSPI1 QSPI1_CS_, GMAC GTXER_, PWM PWML_2, TC0 TIOA_2]
+- C6 : PB7,  of Type IO, alternates : [PIO P_39, QSPI1 QSPI1_IO_0, HSMC D_12, PWM PWMH_3, TC0 TIOB_2, GMAC GRXCK_]
+- A5 : PB8,  of Type IO, alternates : [QSPI1 QSPI1_IO_1, HSMC D_13, PIO P_40, PWM PWML_3, GMAC GCRS_, TC1 TCLK_3]
+- A4 : PB9,  of Type IO, alternates : [QSPI1 QSPI1_IO_2, HSMC D_14, GMAC GCOL_, PIO P_41, TC1 TIOA_3, PWM PWMFI_1]
+- H8 : PB10,  of Type IO, alternates : [GMAC GRX_2, PWM PWMEXTRG_2, QSPI1 QSPI1_IO_3, HSMC D_15, TC1 TIOB_3, PIO P_42]
+- B5 : PB11,  of Type IO, alternates : [GMAC GRX_3, PIO P_43, PDMIC PDMIC_DAT_, UART3 URXD_3, LCDC LCDDAT_0, HSMC A0_]
+- D6 : PB12,  of Type IO, alternates : [PDMIC PDMIC_CLK_, PIO P_44, UART3 UTXD_3, GMAC GTX_2, HSMC A_1, LCDC LCDDAT_1]
+- B4 : PB13,  of Type IO, alternates : [PMC PCK_1, PIO P_45, GMAC GTX_3, HSMC A_2, LCDC LCDDAT_2]
+- C5 : PB14,  of Type IO, alternates : [SSC1 TK_1, I2SC1 I2SC1_MCK_, LCDC LCDDAT_3, PIO P_46, HSMC A_3, QSPI1 QSPI1_SCK_, GMAC GTXCK_]
+- H7 : PB15,  of Type IO, alternates : [PIO P_47, LCDC LCDDAT_4, QSPI1 QSPI1_CS_, GMAC GTXEN_, HSMC A_4, SSC1 TF_1, I2SC1 I2SC1_CK_]
+- D5 : PB16,  of Type IO, alternates : [LCDC LCDDAT_5, PIO P_48, I2SC1 I2SC1_WS_, QSPI1 QSPI1_IO_0, HSMC A_5, GMAC GRXDV_, SSC1 TD_1]
+- C4 : PB17,  of Type IO, alternates : [LCDC LCDDAT_6, GMAC GRXER_, I2SC1 I2SC1_DI_0, PIO P_49, QSPI1 QSPI1_IO_1, HSMC A_6, SSC1 RD_1]
+- A3 : PB18,  of Type IO, alternates : [HSMC A_7, SSC1 RK_1, QSPI1 QSPI1_IO_2, LCDC LCDDAT_7, PIO P_50, I2SC1 I2SC1_DO_0, GMAC GRX_0]
+- D4 : PB19,  of Type IO, alternates : [SSC1 RF_1, QSPI1 QSPI1_IO_3, HSMC A_8, LCDC LCDDAT_8, PIO P_51, TC1 TIOA_3, GMAC GRX_1]
+- B3 : PB20,  of Type IO, alternates : [PMC PCK_1, HSMC A_9, LCDC LCDDAT_9, GMAC GTX_0, TC1 TIOB_3, PIO P_52, SSC0 TK_0]
+- A2 : PB21,  of Type IO, alternates : [SSC0 TF_0, FLEXCOM3 FLEXCOM3_IO_2, GMAC GTX_1, PIO P_53, HSMC A_10, LCDC LCDDAT_10, TC1 TCLK_3]
+- C3 : PB22,  of Type IO, alternates : [SSC0 TD_0, PIO P_54, FLEXCOM3 FLEXCOM3_IO_1, HSMC A_11, GMAC GMDC_, TC0 TIOA_2, LCDC LCDDAT_11]
+- A1 : PB23,  of Type IO, alternates : [SSC0 RD_0, GMAC GMDIO_, PIO P_55, FLEXCOM3 FLEXCOM3_IO_0, TC0 TIOB_2, HSMC A_12, LCDC LCDDAT_12]
+- E5 : PB24,  of Type IO, alternates : [PIO P_56, FLEXCOM3 FLEXCOM3_IO_3, ISC ISC_D_10, HSMC A_13, SSC0 RK_0, LCDC LCDDAT_13, TC0 TCLK_2]
+- B2 : PB25,  of Type IO, alternates : [ISC ISC_D_11, PIO P_57, HSMC A_14, LCDC LCDDAT_14, FLEXCOM3 FLEXCOM3_IO_4, SSC0 RF_0]
+- E4 : PB26,  of Type IO, alternates : [PIO P_58, ISC ISC_D_0, HSMC A_15, PDMIC PDMIC_DAT_, LCDC LCDDAT_15, UART0 URXD_0]
+- B1 : PB27,  of Type IO, alternates : [PIO P_59, ISC ISC_D_1, PDMIC PDMIC_CLK_, HSMC A_16, UART0 UTXD_0, LCDC LCDDAT_16]
+- C2 : PB28,  of Type IO, alternates : [ISC ISC_D_2, HSMC A_17, FLEXCOM0 FLEXCOM0_IO_0, LCDC LCDDAT_17, TC1 TIOA_5, PIO P_60]
+- D3 : PB29,  of Type IO, alternates : [ISC ISC_D_3, HSMC A_18, LCDC LCDDAT_18, FLEXCOM0 FLEXCOM0_IO_1, PIO P_61, TC1 TIOB_5]
+- D2 : PB30,  of Type IO, alternates : [HSMC A_19, LCDC LCDDAT_19, ISC ISC_D_4, FLEXCOM0 FLEXCOM0_IO_2, PIO P_62, TC1 TCLK_5]
+- C1 : PB31,  of Type IO, alternates : [TWIHS0 TWD_0, ISC ISC_D_5, FLEXCOM0 FLEXCOM0_IO_3, PIO P_63, HSMC A_20, LCDC LCDDAT_20]
+- P17 : PC0,  of Type IO, alternates : [TWIHS0 TWCK_0, ISC ISC_D_6, HSMC A_23, FLEXCOM0 FLEXCOM0_IO_4, PIO P_64, LCDC LCDDAT_21]
+- N12 : PC1,  of Type IO, alternates : [MCAN0 CANTX_0, I2SC0 I2SC0_CK_, PIO P_65, ISC ISC_D_7, HSMC A_24, SPI1 SPI1_SPCK_, LCDC LCDDAT_22]
+- N14 : PC2,  of Type IO, alternates : [MCAN0 CANRX_0, PIO P_66, SPI1 SPI1_MOSI_, HSMC A_25, ISC ISC_D_8, LCDC LCDDAT_23, I2SC0 I2SC0_MCK_]
+- M15 : PC3,  of Type IO, alternates : [SPI1 SPI1_MISO_, I2SC0 I2SC0_WS_, LCDC LCDPWM_, PIO P_67, TC0 TIOA_1, ISC ISC_D_9, HSMC NWAIT_]
+- M11 : PC4,  of Type IO, alternates : [ISC ISC_PCK_, LCDC LCDDISP_, I2SC0 I2SC0_DI_0, PIO P_68, SPI1 SPI1_NPCS_0, HSMC NWR1_, TC0 TIOB_1]
+- L10 : PC5,  of Type IO, alternates : [PIO P_69, ISC ISC_VSYNC_, TC0 TCLK_1, SPI1 SPI1_NPCS_1, HSMC NCS_0, I2SC0 I2SC0_DO_0, LCDC LCDVSYNC_]
+- K10 : PC6,  of Type IO, alternates : [LCDC LCDHSYNC_, TWIHS1 TWD_1, PIO P_70, ISC ISC_HSYNC_, SPI1 SPI1_NPCS_2]
+- M16 : PC7,  of Type IO, alternates : [LCDC LCDPCK_, TWIHS1 TWCK_1, ISC ISC_MCK_, UART1 URXD_1, HSMC NCS_2, SPI1 SPI1_NPCS_3, PIO P_71]
+- J10 : PC8,  of Type IO, alternates : [LCDC LCDDEN_, HSMC NANDRDY_, SAIC FIQ_, ISC ISC_FIELD_, UART1 UTXD_1, PIO P_72, PMC PCK_0]
+- D1 : PC9,  of Type IO, alternates : [SAIC FIQ_, ISC ISC_D_0, PIO P_73, TC1 TIOA_4, GMAC GTSUCOMP_]
+- E3 : PC10,  of Type IO, alternates : [MCAN0 CANTX_0, ISC ISC_D_1, TC1 TIOB_4, PIO P_74, LCDC LCDDAT_2, GMAC GTXCK_]
+- E2 : PC11,  of Type IO, alternates : [ISC ISC_D_2, LCDC LCDDAT_3, MCAN0 CANRX_0, GMAC GTXEN_, PIO P_75, HSMC A0_, TC1 TCLK_4]
+- E1 : PC12,  of Type IO, alternates : [ISC ISC_D_3, LCDC LCDDAT_4, PIO P_76, GMAC GRXDV_, HSMC A_1, UART3 URXD_3, SSC0 TK_0]
+- F3 : PC13,  of Type IO, alternates : [LCDC LCDDAT_5, GMAC GRXER_, SSC0 TF_0, PIO P_77, UART3 UTXD_3, ISC ISC_D_4, HSMC A_2]
+- F5 : PC14,  of Type IO, alternates : [LCDC LCDDAT_6, SSC0 TD_0, PIO P_78, ISC ISC_D_5, HSMC A_3, GMAC GRX_0]
+- F2 : PC15,  of Type IO, alternates : [SSC0 RD_0, ISC ISC_D_6, LCDC LCDDAT_7, PIO P_79, HSMC A_4, GMAC GRX_1]
+- G6 : PC16,  of Type IO, alternates : [ISC ISC_D_7, HSMC A_5, GMAC GTX_0, SSC0 RK_0, LCDC LCDDAT_10, PIO P_80]
+- F1 : PC17,  of Type IO, alternates : [HSMC A_6, GMAC GTX_1, ISC ISC_D_8, LCDC LCDDAT_11, SSC0 RF_0, PIO P_81]
+- H6 : PC18,  of Type IO, alternates : [HSMC A_7, FLEXCOM3 FLEXCOM3_IO_2, GMAC GMDC_, ISC ISC_D_9, LCDC LCDDAT_12, PIO P_82]
+- G2 : PC19,  of Type IO, alternates : [GMAC GMDIO_, HSMC A_8, FLEXCOM3 FLEXCOM3_IO_1, ISC ISC_D_10, PIO P_83, LCDC LCDDAT_13]
+- G3 : PC20,  of Type IO, alternates : [HSMC A_9, FLEXCOM3 FLEXCOM3_IO_0, ISC ISC_D_11, LCDC LCDDAT_14, PIO P_84, GMAC GRXCK_]
+- G1 : PC21,  of Type IO, alternates : [ISC ISC_PCK_, GMAC GTXER_, FLEXCOM3 FLEXCOM3_IO_3, LCDC LCDDAT_15, PIO P_85, HSMC A_10]
+- H2 : PC22,  of Type IO, alternates : [ISC ISC_VSYNC_, LCDC LCDDAT_18, HSMC A_11, FLEXCOM3 FLEXCOM3_IO_4, PIO P_86, GMAC GCRS_]
+- G5 : PC23,  of Type IO, alternates : [LCDC LCDDAT_19, PIO P_87, HSMC A_12, GMAC GCOL_, ISC ISC_HSYNC_]
+- H1 : PC24,  of Type IO, alternates : [GMAC GRX_2, ISC ISC_MCK_, PIO P_88, HSMC A_13, LCDC LCDDAT_20]
+- H5 : PC25,  of Type IO, alternates : [GMAC GRX_3, ISC ISC_FIELD_, PIO P_89, HSMC A_14, LCDC LCDDAT_21]
+- J9 : PC26,  of Type IO, alternates : [MCAN1 CANTX_1, HSMC A_15, GMAC GTX_2, LCDC LCDDAT_22, PIO P_90]
+- H9 : PC27,  of Type IO, alternates : [MCAN1 CANRX_1, PMC PCK_1, TWIHS0 TWD_0, HSMC A_16, GMAC GTX_3, LCDC LCDDAT_23, PIO P_91]
+- E8 : PC28,  of Type IO, alternates : [PMC PCK_2, TWIHS0 TWCK_0, HSMC A_17, LCDC LCDPWM_, FLEXCOM4 FLEXCOM4_IO_0, PIO P_92]
+- G8 : PC29,  of Type IO, alternates : [HSMC A_18, LCDC LCDDISP_, FLEXCOM4 FLEXCOM4_IO_1, PIO P_93]
+- F8 : PC30,  of Type IO, alternates : [HSMC A_19, PIO P_94, FLEXCOM4 FLEXCOM4_IO_2, LCDC LCDVSYNC_]
+- D8 : PC31,  of Type IO, alternates : [LCDC LCDHSYNC_, FLEXCOM4 FLEXCOM4_IO_3, PIO P_95, UART3 URXD_3, HSMC A_20]
+- G10 : PD0,  of Type IO, alternates : [LCDC LCDPCK_, UART3 UTXD_3, HSMC A_23, GMAC GTSUCOMP_, PIO P_96, FLEXCOM4 FLEXCOM4_IO_4]
+- E10 : PD1,  of Type IO, alternates : [LCDC LCDDEN_, HSMC A_24, PIO P_97, GMAC GRXCK_]
+- G9 : PD2,  of Type IO, alternates : [GMAC GTXER_, ISC ISC_MCK_, PIO P_98, HSMC A_25, UART1 URXD_1]
+- K1 : PD3,  of Type IO, alternates : [SAIC FIQ_, PIO P_99, ISC ISC_D_11, UART1 UTXD_1, HSMC NWAIT_, PTC PTC_X_0, GMAC GCRS_]
+- J6 : PD4,  of Type IO, alternates : [ISC ISC_D_10, HSMC NCS_0, GMAC GCOL_, TWIHS1 TWD_1, UART2 URXD_2, PIO P_100, PTC PTC_X_1]
+- J4 : PD5,  of Type IO, alternates : [TWIHS1 TWCK_1, GMAC GRX_2, UART2 UTXD_2, HSMC NCS_1, PIO P_101, ISC ISC_D_9, PTC PTC_X_2]
+- J2 : PD6,  of Type IO, alternates : [PMC PCK_1, GMAC GRX_3, ICE TCK_, PIO P_102, ISC ISC_D_8, HSMC NCS_2, PTC PTC_X_3]
+- J7 : PD7,  of Type IO, alternates : [ISC ISC_D_0, ICE TDI_, PIO P_103, PTC PTC_X_4, GMAC GTX_2, HSMC NWR1_]
+- J1 : PD8,  of Type IO, alternates : [HSMC NANDRDY_, ISC ISC_D_1, PTC PTC_X_5, ICE TDO_, GMAC GTX_3, PIO P_104]
+- K9 : PD9,  of Type IO, alternates : [ISC ISC_D_2, ICE TMS_, PTC PTC_X_6, PIO P_105, GMAC GTXCK_]
+- J3 : PD10,  of Type IO, alternates : [ISC ISC_D_3, ICE NTRST_, GMAC GTXEN_, PTC PTC_X_7, PIO P_106]
+- M1 : PD11,  of Type IO, alternates : [PMC PCK_2, ISC ISC_MCK_, ISC ISC_D_4, GMAC GRXDV_, TC0 TIOA_1, PIO P_107, PTC PTC_Y_0]
+- K8 : PD12,  of Type IO, alternates : [GMAC GRXER_, PIO P_108, ISC ISC_D_4, FLEXCOM4 FLEXCOM4_IO_0, ISC ISC_D_5, TC0 TIOB_1, PTC PTC_Y_1]
+- L2 : PD13,  of Type IO, alternates : [PIO P_109, TC0 TCLK_1, ISC ISC_D_6, FLEXCOM4 FLEXCOM4_IO_1, ISC ISC_D_5, GMAC GRX_0, PTC PTC_Y_2]
+- K4 : PD14,  of Type IO, alternates : [ISC ISC_D_6, PIO P_110, ISC ISC_D_7, ICE TCK_, FLEXCOM4 FLEXCOM4_IO_2, PTC PTC_Y_3, GMAC GRX_1]
+- K7 : PD15,  of Type IO, alternates : [ISC ISC_PCK_, ICE TDI_, ISC ISC_D_7, FLEXCOM4 FLEXCOM4_IO_3, GMAC GTX_0, PTC PTC_Y_4, PIO P_111]
+- L1 : PD16,  of Type IO, alternates : [ISC ISC_VSYNC_, GMAC GTX_1, ICE TDO_, ISC ISC_D_8, PIO P_112, FLEXCOM4 FLEXCOM4_IO_4, PTC PTC_Y_5]
+- K2 : PD17,  of Type IO, alternates : [ICE TMS_, PIO P_113, PTC PTC_Y_6, GMAC GMDC_, ISC ISC_D_9, ISC ISC_HSYNC_]
+- J5 : PD18,  of Type IO, alternates : [GMAC GMDIO_, ICE NTRST_, ISC ISC_FIELD_, PTC PTC_Y_7, ISC ISC_D_10, PIO P_114]
+- K6 : PD19,  of Type IO, alternates : [I2SC0 I2SC0_CK_, ISC ISC_D_11, TWIHS1 TWD_1, UART2 URXD_2, ADC AD_0, PIO P_115, PMC PCK_0]
+- M2 : PD20,  of Type IO, alternates : [ISC ISC_PCK_, TWIHS1 TWCK_1, UART2 UTXD_2, TC0 TIOA_2, PIO P_116, ADC AD_1, I2SC0 I2SC0_MCK_]
+- N1 : PD21,  of Type IO, alternates : [ISC ISC_VSYNC_, TWIHS0 TWD_0, I2SC0 I2SC0_WS_, FLEXCOM4 FLEXCOM4_IO_0, TC0 TIOB_2, ADC AD_2, PIO P_117]
+- L4 : PD22,  of Type IO, alternates : [TWIHS0 TWCK_0, FLEXCOM4 FLEXCOM4_IO_1, I2SC0 I2SC0_DI_0, PIO P_118, TC0 TCLK_2, ADC AD_3, ISC ISC_HSYNC_]
+- M3 : PD23,  of Type IO, alternates : [ADC AD_4, PIO P_119, ISC ISC_FIELD_, FLEXCOM4 FLEXCOM4_IO_2, UART2 URXD_2, I2SC0 I2SC0_DO_0]
+- L7 : PD24,  of Type IO, alternates : [ADC AD_5, UART2 UTXD_2, PIO P_120, FLEXCOM4 FLEXCOM4_IO_3]
+- L6 : PD25,  of Type IO, alternates : [ADC AD_6, PIO P_121, SPI1 SPI1_SPCK_, FLEXCOM4 FLEXCOM4_IO_4]
+- N2 : PD26,  of Type IO, alternates : [ADC AD_7, FLEXCOM2 FLEXCOM2_IO_0, SPI1 SPI1_MOSI_, PIO P_122]
+- L8 : PD27,  of Type IO, alternates : [SPI1 SPI1_MISO_, ADC AD_8, FLEXCOM2 FLEXCOM2_IO_1, ICE TCK_, PIO P_123]
+- M4 : PD28,  of Type IO, alternates : [ICE TDI_, ADC AD_9, FLEXCOM2 FLEXCOM2_IO_2, PIO P_124, SPI1 SPI1_NPCS_0]
+- N3 : PD29,  of Type IO, alternates : [TWIHS0 TWD_0, PIO P_125, SPI1 SPI1_NPCS_1, FLEXCOM2 FLEXCOM2_IO_3, ICE TDO_, TC1 TIOA_3, ADC AD_10]
+- L9 : PD30,  of Type IO, alternates : [TWIHS0 TWCK_0, ICE TMS_, TC1 TIOB_3, FLEXCOM2 FLEXCOM2_IO_4, ADC AD_11, PIO P_126, SPI1 SPI1_NPCS_2]
+- M7 : PD31,  of Type IO, alternates : [AIC IRQ_, ADC ADTRG_, ICE NTRST_, PIO P_127, TC1 TCLK_3, PMC PCK_0]
+- L5 : VDDANA,  of Type PP
+- K5 : GNDANA,  of Type PS
+- M6 : ADVREF,  of Type PS
+- K3 : VDDANA,  of Type PP
+- L3 : GNDANA,  of Type PS
+- H16 : DDR_VREF,  of Type PS
+- D16 : DDR_VREF,  of Type PS
+- B12 : DDR_D0,  of Type IO
+- A12 : DDR_D1,  of Type IO
+- C12 : DDR_D2,  of Type IO
+- A13 : DDR_D3,  of Type IO
+- A14 : DDR_D4,  of Type IO
+- C13 : DDR_D5,  of Type IO
+- A15 : DDR_D6,  of Type IO
+- B15 : DDR_D7,  of Type IO
+- G17 : DDR_D8,  of Type IO
+- G16 : DDR_D9,  of Type IO
+- H17 : DDR_D10,  of Type IO
+- K17 : DDR_D11,  of Type IO
+- K16 : DDR_D12,  of Type IO
+- J13 : DDR_D13,  of Type IO
+- K14 : DDR_D14,  of Type IO
+- K15 : DDR_D15,  of Type IO
+- B8 : DDR_D16,  of Type IO
+- B9 : DDR_D17,  of Type IO
+- C9 : DDR_D18,  of Type IO
+- A9 : DDR_D19,  of Type IO
+- A10 : DDR_D20,  of Type IO
+- D10 : DDR_D21,  of Type IO
+- B11 : DDR_D22,  of Type IO
+- A11 : DDR_D23,  of Type IO
+- J12 : DDR_D24,  of Type IO
+- H10 : DDR_D25,  of Type IO
+- J11 : DDR_D26,  of Type IO
+- K11 : DDR_D27,  of Type IO
+- L13 : DDR_D28,  of Type IO
+- L11 : DDR_D29,  of Type IO
+- L12 : DDR_D30,  of Type IO
+- M17 : DDR_D31,  of Type IO
+- F12 : DDR_A0,  of Type OP
+- C17 : DDR_A1,  of Type OP
+- B17 : DDR_A2,  of Type OP
+- B16 : DDR_A3,  of Type OP
+- C16 : DDR_A4,  of Type OP
+- G14 : DDR_A5,  of Type OP
+- F14 : DDR_A6,  of Type OP
+- F11 : DDR_A7,  of Type OP
+- C14 : DDR_A8,  of Type OP
+- D13 : DDR_A9,  of Type OP
+- C15 : DDR_A10,  of Type OP
+- A16 : DDR_A11,  of Type OP
+- A17 : DDR_A12,  of Type OP
+- G11 : DDR_A13,  of Type OP
+- E17 : DDR_CLK,  of Type OP
+- D17 : DDR_CLKN,  of Type OP
+- F16 : DDR_CKE,  of Type OP
+- E16 : DDR_RESETN,  of Type OP
+- G13 : DDR_CS,  of Type OP
+- F15 : DDR_WE,  of Type OP
+- F13 : DDR_RAS,  of Type OP
+- G12 : DDR_CAS,  of Type OP
+- C11 : DDR_DQM0,  of Type OP
+- G15 : DDR_DQM1,  of Type OP
+- C8 : DDR_DQM2,  of Type OP
+- H11 : DDR_DQM3,  of Type OP
+- B13 : DDR_DQS0,  of Type OP
+- J17 : DDR_DQS1,  of Type OP
+- C10 : DDR_DQS2,  of Type OP
+- L17 : DDR_DQS3,  of Type OP
+- B14 : DDR_DQSN0,  of Type OP
+- J16 : DDR_DQSN1,  of Type OP
+- B10 : DDR_DQSN2,  of Type OP
+- L16 : DDR_DQSN3,  of Type OP
+- H12 : DDR_BA0,  of Type OP
+- H13 : DDR_BA1,  of Type OP
+- F17 : DDR_BA2,  of Type OP
+- E13 : DDR_,  of Type IO
+- L15 : VDDIODDR,  of Type PP
+- J15 : VDDIODDR,  of Type PP
+- H15 : VDDIODDR,  of Type PP
+- E15 : VDDIODDR,  of Type PP
+- D15 : VDDIODDR,  of Type PP
+- D12 : VDDIODDR,  of Type PP
+- D11 : VDDIODDR,  of Type PP
+- L14 : GNDIODDR,  of Type PS
+- J14 : GNDIODDR,  of Type PS
+- H14 : GNDIODDR,  of Type PS
+- E14 : GNDIODDR,  of Type PS
+- D14 : GNDIODDR,  of Type PS
+- E12 : GNDIODDR,  of Type PS
+- E11 : GNDIODDR,  of Type PS
+- H3 : VDDCORE,  of Type PP
+- N5 : VDDCORE,  of Type PP
+- N9 : VDDCORE,  of Type PP
+- K13 : VDDCORE,  of Type PP
+- D9 : VDDCORE,  of Type PP
+- D7 : VDDCORE,  of Type PP
+- H4 : GNDCORE,  of Type PS
+- M5 : GNDCORE,  of Type PS
+- M9 : GNDCORE,  of Type PS
+- K12 : GNDCORE,  of Type PS
+- E9 : GNDCORE,  of Type PS
+- E7 : GNDCORE,  of Type PS
+- E6 : VDDIOP0,  of Type PP
+- F7 : VDDIOP0,  of Type PP
+- F6 : GNDIOP0,  of Type PS
+- G7 : GNDIOP0,  of Type PS
+- R14 : VDDIOP1,  of Type PP
+- N13 : VDDIOP1,  of Type PP
+- M13 : GNDIOP1,  of Type PS
+- P14 : GNDIOP1,  of Type PS
+- F10 : VDDIOP2,  of Type PP
+- F9 : GNDIOP2,  of Type PS
+- P11 : VDDSDMMC,  of Type PP
+- R11 : GNDSDMMC,  of Type PS
+- F4 : VDDISC,  of Type PP
+- G4 : GNDISC,  of Type PS
+- M12 : VDDFUSE,  of Type PP
+- U4 : VDDPLLA,  of Type PP
+- U5 : GNDPLLA,  of Type PS
+- T3 : VDDAUDIOPLL,  of Type PP
+- T5 : GNDDPLL,  of Type PS
+- T4 : GNDAUDIOPLL,  of Type PS
+- U3 : CLK_AUDIO,  of Type IO
+- U7 : XIN,  of Type PS
+- U6 : XOUT,  of Type PS
+- T7 : VDDOSC,  of Type PP
+- T6 : GNDOSC,  of Type PS
+- P8 : VDDUTMII,  of Type PP
+- R9 : VDDHSIC,  of Type PP
+- P9 : GNDUTMII,  of Type PS
+- T8 : HHSDPA,  of Type IO
+- R8 : HHSDMA,  of Type IO
+- U8 : HHSDPB,  of Type IO
+- U9 : HHSDMB,  of Type IO
+- T9 : HHSDPDATC,  of Type IO
+- U10 : HHSDMSTRC,  of Type IO
+- P7 : VDDUTMIC,  of Type PP
+- R7 : GNDUTMIC,  of Type PS
+- T10 : SDCAL,  of Type IO
+- R6 : VBG,  of Type IO
+- P3 : TST,  of Type IO
+- U2 : NRST,  of Type IP
+- T2 : JTAGSEL,  of Type OP
+- P4 : WKUP,  of Type IP
+- N4 : RXD,  of Type IP
+- R1 : SHDN,  of Type IO
+- R3 : PIOBU0,  of Type IO
+- N8 : PIOBU1,  of Type IO
+- R2 : PIOBU2,  of Type IO
+- R5 : PIOBU3,  of Type IO
+- R4 : PIOBU4,  of Type IO
+- P5 : PIOBU5,  of Type IO
+- P6 : PIOBU6,  of Type IO
+- M8 : PIOBU7,  of Type IO
+- N7 : VDDBU,  of Type PP
+- N6 : GNDBU,  of Type PS
+- P1 : XIN32,  of Type PS
+- P2 : XOUT32,  of Type PS
+- T1 : COMPP,  of Type IO
+- U1 : COMPN,  of Type IO
 ## ATSAMA5D26C-CU
+
 ### Description : 
+
+- Series : SAMA5D2
+- Footprint : LFBGA289
+- MP : ATSAMA5D26C-CU
+- Architecture : CORTEX-A5
+- PINOUT : LFBGA289
+- Reference : U
+- Documentation : https://www.microchip.com/en-us/search?q=ATSAMA5D26C-CU
+- Value : ATSAMA5D26C-CU
+- Family : SAMA5
+- MF : Microchip
+- Name : ATSAMA5D26
 
 ### Package : 
 
-- U11 : PA0
-- P10 : PA1
-- T11 : PA2
-- R10 : PA3
-- U12 : PA4
-- T12 : PA5
-- R12 : PA6
-- T13 : PA7
-- N10 : PA8
-- N11 : PA9
-- U13 : PA10
-- P15 : PA11
-- N15 : PA12
-- P16 : PA13
-- M14 : PA14
-- N16 : PA15
-- M10 : PA16
-- N17 : PA17
-- U14 : PA18
-- T14 : PA19
-- P12 : PA20
-- R13 : PA21
-- U15 : PA22
-- U16 : PA23
-- T15 : PA24
-- U17 : PA25
-- P13 : PA26
-- T16 : PA27
-- R16 : PA28
-- T17 : PA29
-- R15 : PA30
-- R17 : PA31
-- J8 : PB0
-- A8 : PB1
-- A7 : PB2
-- A6 : PB3
-- B6 : PB4
-- B7 : PB5
-- C7 : PB6
-- C6 : PB7
-- A5 : PB8
-- A4 : PB9
-- H8 : PB10
-- B5 : PB11
-- D6 : PB12
-- B4 : PB13
-- C5 : PB14
-- H7 : PB15
-- D5 : PB16
-- C4 : PB17
-- A3 : PB18
-- D4 : PB19
-- B3 : PB20
-- A2 : PB21
-- C3 : PB22
-- A1 : PB23
-- E5 : PB24
-- B2 : PB25
-- E4 : PB26
-- B1 : PB27
-- C2 : PB28
-- D3 : PB29
-- D2 : PB30
-- C1 : PB31
-- P17 : PC0
-- N12 : PC1
-- N14 : PC2
-- M15 : PC3
-- M11 : PC4
-- L10 : PC5
-- K10 : PC6
-- M16 : PC7
-- J10 : PC8
-- D1 : PC9
-- E3 : PC10
-- E2 : PC11
-- E1 : PC12
-- F3 : PC13
-- F5 : PC14
-- F2 : PC15
-- G6 : PC16
-- F1 : PC17
-- H6 : PC18
-- G2 : PC19
-- G3 : PC20
-- G1 : PC21
-- H2 : PC22
-- G5 : PC23
-- H1 : PC24
-- H5 : PC25
-- J9 : PC26
-- H9 : PC27
-- E8 : PC28
-- G8 : PC29
-- F8 : PC30
-- D8 : PC31
-- G10 : PD0
-- E10 : PD1
-- G9 : PD2
-- K1 : PD3
-- J6 : PD4
-- J4 : PD5
-- J2 : PD6
-- J7 : PD7
-- J1 : PD8
-- K9 : PD9
-- J3 : PD10
-- M1 : PD11
-- K8 : PD12
-- L2 : PD13
-- K4 : PD14
-- K7 : PD15
-- L1 : PD16
-- K2 : PD17
-- J5 : PD18
-- K6 : PD19
-- M2 : PD20
-- N1 : PD21
-- L4 : PD22
-- M3 : PD23
-- L7 : PD24
-- L6 : PD25
-- N2 : PD26
-- L8 : PD27
-- M4 : PD28
-- N3 : PD29
-- L9 : PD30
-- M7 : PD31
-- L5 : VDDANA
-- K5 : GNDANA
-- M6 : ADVREF
-- K3 : VDDANA
-- L3 : GNDANA
-- H16 : DDR_VREF
-- D16 : DDR_VREF
-- B12 : DDR_D0
-- A12 : DDR_D1
-- C12 : DDR_D2
-- A13 : DDR_D3
-- A14 : DDR_D4
-- C13 : DDR_D5
-- A15 : DDR_D6
-- B15 : DDR_D7
-- G17 : DDR_D8
-- G16 : DDR_D9
-- H17 : DDR_D10
-- K17 : DDR_D11
-- K16 : DDR_D12
-- J13 : DDR_D13
-- K14 : DDR_D14
-- K15 : DDR_D15
-- B8 : DDR_D16
-- B9 : DDR_D17
-- C9 : DDR_D18
-- A9 : DDR_D19
-- A10 : DDR_D20
-- D10 : DDR_D21
-- B11 : DDR_D22
-- A11 : DDR_D23
-- J12 : DDR_D24
-- H10 : DDR_D25
-- J11 : DDR_D26
-- K11 : DDR_D27
-- L13 : DDR_D28
-- L11 : DDR_D29
-- L12 : DDR_D30
-- M17 : DDR_D31
-- F12 : DDR_A0
-- C17 : DDR_A1
-- B17 : DDR_A2
-- B16 : DDR_A3
-- C16 : DDR_A4
-- G14 : DDR_A5
-- F14 : DDR_A6
-- F11 : DDR_A7
-- C14 : DDR_A8
-- D13 : DDR_A9
-- C15 : DDR_A10
-- A16 : DDR_A11
-- A17 : DDR_A12
-- G11 : DDR_A13
-- E17 : DDR_CLK
-- D17 : DDR_CLKN
-- F16 : DDR_CKE
-- E16 : DDR_RESETN
-- G13 : DDR_CS
-- F15 : DDR_WE
-- F13 : DDR_RAS
-- G12 : DDR_CAS
-- C11 : DDR_DQM0
-- G15 : DDR_DQM1
-- C8 : DDR_DQM2
-- H11 : DDR_DQM3
-- B13 : DDR_DQS0
-- J17 : DDR_DQS1
-- C10 : DDR_DQS2
-- L17 : DDR_DQS3
-- B14 : DDR_DQSN0
-- J16 : DDR_DQSN1
-- B10 : DDR_DQSN2
-- L16 : DDR_DQSN3
-- H12 : DDR_BA0
-- H13 : DDR_BA1
-- F17 : DDR_BA2
-- E13 : DDR_
-- L15 : VDDIODDR
-- J15 : VDDIODDR
-- H15 : VDDIODDR
-- E15 : VDDIODDR
-- D15 : VDDIODDR
-- D12 : VDDIODDR
-- D11 : VDDIODDR
-- L14 : GNDIODDR
-- J14 : GNDIODDR
-- H14 : GNDIODDR
-- E14 : GNDIODDR
-- D14 : GNDIODDR
-- E12 : GNDIODDR
-- E11 : GNDIODDR
-- H3 : VDDCORE
-- N5 : VDDCORE
-- N9 : VDDCORE
-- K13 : VDDCORE
-- D9 : VDDCORE
-- D7 : VDDCORE
-- H4 : GNDCORE
-- M5 : GNDCORE
-- M9 : GNDCORE
-- K12 : GNDCORE
-- E9 : GNDCORE
-- E7 : GNDCORE
-- E6 : VDDIOP0
-- F7 : VDDIOP0
-- F6 : GNDIOP0
-- G7 : GNDIOP0
-- R14 : VDDIOP1
-- N13 : VDDIOP1
-- M13 : GNDIOP1
-- P14 : GNDIOP1
-- F10 : VDDIOP2
-- F9 : GNDIOP2
-- P11 : VDDSDMMC
-- R11 : GNDSDMMC
-- F4 : VDDISC
-- G4 : GNDISC
-- M12 : VDDFUSE
-- U4 : VDDPLLA
-- U5 : GNDPLLA
-- T3 : VDDAUDIOPLL
-- T5 : GNDDPLL
-- T4 : GNDAUDIOPLL
-- U3 : CLK_AUDIO
-- U7 : XIN
-- U6 : XOUT
-- T7 : VDDOSC
-- T6 : GNDOSC
-- P8 : VDDUTMII
-- R9 : VDDHSIC
-- P9 : GNDUTMII
-- T8 : HHSDPA
-- R8 : HHSDMA
-- U8 : HHSDPB
-- U9 : HHSDMB
-- T9 : HHSDPDATC
-- U10 : HHSDMSTRC
-- P7 : VDDUTMIC
-- R7 : GNDUTMIC
-- T10 : SDCAL
-- R6 : VBG
-- P3 : TST
-- U2 : NRST
-- T2 : JTAGSEL
-- P4 : WKUP
-- N4 : RXD
-- R1 : SHDN
-- R3 : PIOBU0
-- N8 : PIOBU1
-- R2 : PIOBU2
-- R5 : PIOBU3
-- R4 : PIOBU4
-- P5 : PIOBU5
-- P6 : PIOBU6
-- M8 : PIOBU7
-- N7 : VDDBU
-- N6 : GNDBU
-- P1 : XIN32
-- P2 : XOUT32
-- T1 : COMPP
-- U1 : COMPN
+Pin count : 289
+- U11 : PA0,  of Type IO, alternates : [HSMC D_0, PIO P_0, SDMMC0 SDMMC0_CK_, QSPI0 QSPI0_SCK_]
+- P10 : PA1,  of Type IO, alternates : [SDMMC0 SDMMC0_CMD_, PIO P_1, QSPI0 QSPI0_CS_, HSMC D_1]
+- T11 : PA2,  of Type IO, alternates : [PIO P_2, HSMC D_2, SDMMC0 SDMMC0_DAT_0, QSPI0 QSPI0_IO_0]
+- R10 : PA3,  of Type IO, alternates : [PIO P_3, HSMC D_3, SDMMC0 SDMMC0_DAT_1, QSPI0 QSPI0_IO_1]
+- U12 : PA4,  of Type IO, alternates : [HSMC D_4, PIO P_4, SDMMC0 SDMMC0_DAT_2, QSPI0 QSPI0_IO_2]
+- T12 : PA5,  of Type IO, alternates : [PIO P_5, HSMC D_5, QSPI0 QSPI0_IO_3, SDMMC0 SDMMC0_DAT_3]
+- R12 : PA6,  of Type IO, alternates : [PIO P_6, HSMC D_6, FLEXCOM2 FLEXCOM2_IO_0, TC1 TIOA_5, QSPI1 QSPI1_SCK_, SDMMC0 SDMMC0_DAT_4]
+- T13 : PA7,  of Type IO, alternates : [PIO P_7, QSPI1 QSPI1_IO_0, HSMC D_7, FLEXCOM2 FLEXCOM2_IO_1, SDMMC0 SDMMC0_DAT_5, TC1 TIOB_5]
+- N10 : PA8,  of Type IO, alternates : [PIO P_8, QSPI1 QSPI1_IO_1, FLEXCOM2 FLEXCOM2_IO_2, HSMC NANDNWE_, TC1 TCLK_5, SDMMC0 SDMMC0_DAT_6]
+- N11 : PA9,  of Type IO, alternates : [SDMMC0 SDMMC0_DAT_7, QSPI1 QSPI1_IO_2, FLEXCOM2 FLEXCOM2_IO_3, TC1 TIOA_4, HSMC NCS_3, PIO P_9]
+- U13 : PA10,  of Type IO, alternates : [PIO P_10, QSPI1 QSPI1_IO_3, SDMMC0 SDMMC0_RSTN_, HSMC A21_, TC1 TIOB_4, FLEXCOM2 FLEXCOM2_IO_4]
+- P15 : PA11,  of Type IO, alternates : [QSPI1 QSPI1_CS_, SDMMC0 SDMMC0_1V8SEL_, PIO P_11, HSMC A22_, TC1 TCLK_4]
+- N15 : PA12,  of Type IO, alternates : [AIC IRQ_, SDMMC0 SDMMC0_WP_, PIO P_12, HSMC NANDOE_]
+- P16 : PA13,  of Type IO, alternates : [HSMC D_8, FLEXCOM3 FLEXCOM3_IO_1, PIO P_13, SDMMC0 SDMMC0_CD_]
+- M14 : PA14,  of Type IO, alternates : [PIO P_14, SPI0 SPI0_SPCK_, HSMC D_9, SSC1 TK_1, I2SC1 I2SC1_MCK_, FLEXCOM3 FLEXCOM3_IO_2, QSPI0 QSPI0_SCK_]
+- N16 : PA15,  of Type IO, alternates : [PIO P_15, HSMC D_10, QSPI0 QSPI0_CS_, FLEXCOM3 FLEXCOM3_IO_0, SSC1 TF_1, SPI0 SPI0_MOSI_, I2SC1 I2SC1_CK_]
+- M10 : PA16,  of Type IO, alternates : [PIO P_16, HSMC D_11, I2SC1 I2SC1_WS_, FLEXCOM3 FLEXCOM3_IO_3, SPI0 SPI0_MISO_, SSC1 TD_1, QSPI0 QSPI0_IO_0]
+- N17 : PA17,  of Type IO, alternates : [I2SC1 I2SC1_DI_0, PIO P_17, HSMC D_12, SPI0 SPI0_NPCS_0, FLEXCOM3 FLEXCOM3_IO_4, QSPI0 QSPI0_IO_1, SSC1 RD_1]
+- U14 : PA18,  of Type IO, alternates : [HSMC D_13, SSC1 RK_1, SPI0 SPI0_NPCS_1, I2SC1 I2SC1_DO_0, PIO P_18, QSPI0 QSPI0_IO_2, SDMMC1 SDMMC1_DAT_0]
+- T14 : PA19,  of Type IO, alternates : [SSC1 RF_1, SPI0 SPI0_NPCS_2, HSMC D_14, TC0 TIOA_0, QSPI0 QSPI0_IO_3, PIO P_19, SDMMC1 SDMMC1_DAT_1]
+- P12 : PA20,  of Type IO, alternates : [SPI0 SPI0_NPCS_3, HSMC D_15, TC0 TIOB_0, PIO P_20, SDMMC1 SDMMC1_DAT_2]
+- R13 : PA21,  of Type IO, alternates : [AIC IRQ_, PMC PCK_2, HSMC NANDRDY_, TC0 TCLK_0, PIO P_21, SDMMC1 SDMMC1_DAT_3]
+- U15 : PA22,  of Type IO, alternates : [PIO P_22, ICE TCK_, FLEXCOM1 FLEXCOM1_IO_2, HSMC D_0, SPI1 SPI1_SPCK_, SDMMC1 SDMMC1_CK_, QSPI0 QSPI0_SCK_]
+- U16 : PA23,  of Type IO, alternates : [ICE TDI_, PIO P_23, QSPI0 QSPI0_CS_, SPI1 SPI1_MOSI_, FLEXCOM1 FLEXCOM1_IO_1, HSMC D_1]
+- T15 : PA24,  of Type IO, alternates : [SPI1 SPI1_MISO_, FLEXCOM1 FLEXCOM1_IO_0, HSMC D_2, PIO P_24, ICE TDO_, QSPI0 QSPI0_IO_0]
+- U17 : PA25,  of Type IO, alternates : [PIO P_25, ICE TMS_, HSMC D_3, FLEXCOM1 FLEXCOM1_IO_3, SPI1 SPI1_NPCS_0, QSPI0 QSPI0_IO_1]
+- P13 : PA26,  of Type IO, alternates : [PIO P_26, ICE NTRST_, HSMC D_4, SPI1 SPI1_NPCS_1, FLEXCOM1 FLEXCOM1_IO_4, QSPI0 QSPI0_IO_2]
+- T16 : PA27,  of Type IO, alternates : [PIO P_27, SPI0 SPI0_NPCS_2, SDMMC1 SDMMC1_RSTN_, HSMC D_5, TC0 TIOA_1, QSPI0 QSPI0_IO_3, SPI1 SPI1_NPCS_2]
+- R16 : PA28,  of Type IO, alternates : [HSMC D_6, PIO P_28, SPI0 SPI0_NPCS_3, CLASSD CLASSD_L_0, SDMMC1 SDMMC1_CMD_, TC0 TIOB_1, SPI1 SPI1_NPCS_3]
+- T17 : PA29,  of Type IO, alternates : [HSMC D_7, TC0 TCLK_1, SDMMC1 SDMMC1_WP_, CLASSD CLASSD_L_1, SPI0 SPI0_NPCS_1, PIO P_29]
+- R15 : PA30,  of Type IO, alternates : [SPI0 SPI0_NPCS_0, PWM PWMH_0, CLASSD CLASSD_L_2, PIO P_30, HSMC NANDNWE_, SDMMC1 SDMMC1_CD_]
+- R17 : PA31,  of Type IO, alternates : [PWM PWML_0, HSMC NCS_3, CLASSD CLASSD_L_3, PIO P_31, SPI0 SPI0_MISO_]
+- J8 : PB0,  of Type IO, alternates : [PIO P_32, PWM PWMH_1, HSMC A21_, SPI0 SPI0_MOSI_]
+- A8 : PB1,  of Type IO, alternates : [SPI0 SPI0_SPCK_, PIO P_33, PWM PWML_1, HSMC A22_, CLASSD CLASSD_R_0]
+- A7 : PB2,  of Type IO, alternates : [PIO P_34, PWM PWMFI_0, CLASSD CLASSD_R_1, HSMC NANDOE_]
+- A6 : PB3,  of Type IO, alternates : [HSMC D_8, AIC IRQ_, PWM PWMEXTRG_1, PIO P_35, CLASSD CLASSD_R_2, UART4 URXD_4]
+- B6 : PB4,  of Type IO, alternates : [PIO P_36, HSMC D_9, SAIC FIQ_, UART4 UTXD_4, CLASSD CLASSD_R_3]
+- B7 : PB5,  of Type IO, alternates : [PIO P_37, HSMC D_10, PWM PWMH_2, QSPI1 QSPI1_SCK_, GMAC GTSUCOMP_, TC0 TCLK_2]
+- C7 : PB6,  of Type IO, alternates : [PIO P_38, HSMC D_11, QSPI1 QSPI1_CS_, GMAC GTXER_, PWM PWML_2, TC0 TIOA_2]
+- C6 : PB7,  of Type IO, alternates : [PIO P_39, QSPI1 QSPI1_IO_0, HSMC D_12, PWM PWMH_3, TC0 TIOB_2, GMAC GRXCK_]
+- A5 : PB8,  of Type IO, alternates : [QSPI1 QSPI1_IO_1, HSMC D_13, PIO P_40, PWM PWML_3, GMAC GCRS_, TC1 TCLK_3]
+- A4 : PB9,  of Type IO, alternates : [QSPI1 QSPI1_IO_2, HSMC D_14, GMAC GCOL_, PIO P_41, TC1 TIOA_3, PWM PWMFI_1]
+- H8 : PB10,  of Type IO, alternates : [GMAC GRX_2, PWM PWMEXTRG_2, QSPI1 QSPI1_IO_3, HSMC D_15, TC1 TIOB_3, PIO P_42]
+- B5 : PB11,  of Type IO, alternates : [GMAC GRX_3, PIO P_43, PDMIC PDMIC_DAT_, UART3 URXD_3, LCDC LCDDAT_0, HSMC A0_]
+- D6 : PB12,  of Type IO, alternates : [PDMIC PDMIC_CLK_, PIO P_44, UART3 UTXD_3, GMAC GTX_2, HSMC A_1, LCDC LCDDAT_1]
+- B4 : PB13,  of Type IO, alternates : [PMC PCK_1, PIO P_45, GMAC GTX_3, HSMC A_2, LCDC LCDDAT_2]
+- C5 : PB14,  of Type IO, alternates : [SSC1 TK_1, I2SC1 I2SC1_MCK_, LCDC LCDDAT_3, PIO P_46, HSMC A_3, QSPI1 QSPI1_SCK_, GMAC GTXCK_]
+- H7 : PB15,  of Type IO, alternates : [PIO P_47, LCDC LCDDAT_4, QSPI1 QSPI1_CS_, GMAC GTXEN_, HSMC A_4, SSC1 TF_1, I2SC1 I2SC1_CK_]
+- D5 : PB16,  of Type IO, alternates : [LCDC LCDDAT_5, PIO P_48, I2SC1 I2SC1_WS_, QSPI1 QSPI1_IO_0, HSMC A_5, GMAC GRXDV_, SSC1 TD_1]
+- C4 : PB17,  of Type IO, alternates : [LCDC LCDDAT_6, GMAC GRXER_, I2SC1 I2SC1_DI_0, PIO P_49, QSPI1 QSPI1_IO_1, HSMC A_6, SSC1 RD_1]
+- A3 : PB18,  of Type IO, alternates : [HSMC A_7, SSC1 RK_1, QSPI1 QSPI1_IO_2, LCDC LCDDAT_7, PIO P_50, I2SC1 I2SC1_DO_0, GMAC GRX_0]
+- D4 : PB19,  of Type IO, alternates : [SSC1 RF_1, QSPI1 QSPI1_IO_3, HSMC A_8, LCDC LCDDAT_8, PIO P_51, TC1 TIOA_3, GMAC GRX_1]
+- B3 : PB20,  of Type IO, alternates : [PMC PCK_1, HSMC A_9, LCDC LCDDAT_9, GMAC GTX_0, TC1 TIOB_3, PIO P_52, SSC0 TK_0]
+- A2 : PB21,  of Type IO, alternates : [SSC0 TF_0, FLEXCOM3 FLEXCOM3_IO_2, GMAC GTX_1, PIO P_53, HSMC A_10, LCDC LCDDAT_10, TC1 TCLK_3]
+- C3 : PB22,  of Type IO, alternates : [SSC0 TD_0, PIO P_54, FLEXCOM3 FLEXCOM3_IO_1, HSMC A_11, GMAC GMDC_, TC0 TIOA_2, LCDC LCDDAT_11]
+- A1 : PB23,  of Type IO, alternates : [SSC0 RD_0, GMAC GMDIO_, PIO P_55, FLEXCOM3 FLEXCOM3_IO_0, TC0 TIOB_2, HSMC A_12, LCDC LCDDAT_12]
+- E5 : PB24,  of Type IO, alternates : [PIO P_56, FLEXCOM3 FLEXCOM3_IO_3, ISC ISC_D_10, HSMC A_13, SSC0 RK_0, LCDC LCDDAT_13, TC0 TCLK_2]
+- B2 : PB25,  of Type IO, alternates : [ISC ISC_D_11, PIO P_57, HSMC A_14, LCDC LCDDAT_14, FLEXCOM3 FLEXCOM3_IO_4, SSC0 RF_0]
+- E4 : PB26,  of Type IO, alternates : [PIO P_58, ISC ISC_D_0, HSMC A_15, PDMIC PDMIC_DAT_, LCDC LCDDAT_15, UART0 URXD_0]
+- B1 : PB27,  of Type IO, alternates : [PIO P_59, ISC ISC_D_1, PDMIC PDMIC_CLK_, HSMC A_16, UART0 UTXD_0, LCDC LCDDAT_16]
+- C2 : PB28,  of Type IO, alternates : [ISC ISC_D_2, HSMC A_17, FLEXCOM0 FLEXCOM0_IO_0, LCDC LCDDAT_17, TC1 TIOA_5, PIO P_60]
+- D3 : PB29,  of Type IO, alternates : [ISC ISC_D_3, HSMC A_18, LCDC LCDDAT_18, FLEXCOM0 FLEXCOM0_IO_1, PIO P_61, TC1 TIOB_5]
+- D2 : PB30,  of Type IO, alternates : [HSMC A_19, LCDC LCDDAT_19, ISC ISC_D_4, FLEXCOM0 FLEXCOM0_IO_2, PIO P_62, TC1 TCLK_5]
+- C1 : PB31,  of Type IO, alternates : [TWIHS0 TWD_0, ISC ISC_D_5, FLEXCOM0 FLEXCOM0_IO_3, PIO P_63, HSMC A_20, LCDC LCDDAT_20]
+- P17 : PC0,  of Type IO, alternates : [TWIHS0 TWCK_0, ISC ISC_D_6, HSMC A_23, FLEXCOM0 FLEXCOM0_IO_4, PIO P_64, LCDC LCDDAT_21]
+- N12 : PC1,  of Type IO, alternates : [MCAN0 CANTX_0, I2SC0 I2SC0_CK_, PIO P_65, ISC ISC_D_7, HSMC A_24, SPI1 SPI1_SPCK_, LCDC LCDDAT_22]
+- N14 : PC2,  of Type IO, alternates : [MCAN0 CANRX_0, PIO P_66, SPI1 SPI1_MOSI_, HSMC A_25, ISC ISC_D_8, LCDC LCDDAT_23, I2SC0 I2SC0_MCK_]
+- M15 : PC3,  of Type IO, alternates : [SPI1 SPI1_MISO_, I2SC0 I2SC0_WS_, LCDC LCDPWM_, PIO P_67, TC0 TIOA_1, ISC ISC_D_9, HSMC NWAIT_]
+- M11 : PC4,  of Type IO, alternates : [ISC ISC_PCK_, LCDC LCDDISP_, I2SC0 I2SC0_DI_0, PIO P_68, SPI1 SPI1_NPCS_0, HSMC NWR1_, TC0 TIOB_1]
+- L10 : PC5,  of Type IO, alternates : [PIO P_69, ISC ISC_VSYNC_, TC0 TCLK_1, SPI1 SPI1_NPCS_1, HSMC NCS_0, I2SC0 I2SC0_DO_0, LCDC LCDVSYNC_]
+- K10 : PC6,  of Type IO, alternates : [LCDC LCDHSYNC_, TWIHS1 TWD_1, PIO P_70, ISC ISC_HSYNC_, SPI1 SPI1_NPCS_2]
+- M16 : PC7,  of Type IO, alternates : [LCDC LCDPCK_, TWIHS1 TWCK_1, ISC ISC_MCK_, UART1 URXD_1, HSMC NCS_2, SPI1 SPI1_NPCS_3, PIO P_71]
+- J10 : PC8,  of Type IO, alternates : [LCDC LCDDEN_, HSMC NANDRDY_, SAIC FIQ_, ISC ISC_FIELD_, UART1 UTXD_1, PIO P_72, PMC PCK_0]
+- D1 : PC9,  of Type IO, alternates : [SAIC FIQ_, ISC ISC_D_0, PIO P_73, TC1 TIOA_4, GMAC GTSUCOMP_]
+- E3 : PC10,  of Type IO, alternates : [MCAN0 CANTX_0, ISC ISC_D_1, TC1 TIOB_4, PIO P_74, LCDC LCDDAT_2, GMAC GTXCK_]
+- E2 : PC11,  of Type IO, alternates : [ISC ISC_D_2, LCDC LCDDAT_3, MCAN0 CANRX_0, GMAC GTXEN_, PIO P_75, HSMC A0_, TC1 TCLK_4]
+- E1 : PC12,  of Type IO, alternates : [ISC ISC_D_3, LCDC LCDDAT_4, PIO P_76, GMAC GRXDV_, HSMC A_1, UART3 URXD_3, SSC0 TK_0]
+- F3 : PC13,  of Type IO, alternates : [LCDC LCDDAT_5, GMAC GRXER_, SSC0 TF_0, PIO P_77, UART3 UTXD_3, ISC ISC_D_4, HSMC A_2]
+- F5 : PC14,  of Type IO, alternates : [LCDC LCDDAT_6, SSC0 TD_0, PIO P_78, ISC ISC_D_5, HSMC A_3, GMAC GRX_0]
+- F2 : PC15,  of Type IO, alternates : [SSC0 RD_0, ISC ISC_D_6, LCDC LCDDAT_7, PIO P_79, HSMC A_4, GMAC GRX_1]
+- G6 : PC16,  of Type IO, alternates : [ISC ISC_D_7, HSMC A_5, GMAC GTX_0, SSC0 RK_0, LCDC LCDDAT_10, PIO P_80]
+- F1 : PC17,  of Type IO, alternates : [HSMC A_6, GMAC GTX_1, ISC ISC_D_8, LCDC LCDDAT_11, SSC0 RF_0, PIO P_81]
+- H6 : PC18,  of Type IO, alternates : [HSMC A_7, FLEXCOM3 FLEXCOM3_IO_2, GMAC GMDC_, ISC ISC_D_9, LCDC LCDDAT_12, PIO P_82]
+- G2 : PC19,  of Type IO, alternates : [GMAC GMDIO_, HSMC A_8, FLEXCOM3 FLEXCOM3_IO_1, ISC ISC_D_10, PIO P_83, LCDC LCDDAT_13]
+- G3 : PC20,  of Type IO, alternates : [HSMC A_9, FLEXCOM3 FLEXCOM3_IO_0, ISC ISC_D_11, LCDC LCDDAT_14, PIO P_84, GMAC GRXCK_]
+- G1 : PC21,  of Type IO, alternates : [ISC ISC_PCK_, GMAC GTXER_, FLEXCOM3 FLEXCOM3_IO_3, LCDC LCDDAT_15, PIO P_85, HSMC A_10]
+- H2 : PC22,  of Type IO, alternates : [ISC ISC_VSYNC_, LCDC LCDDAT_18, HSMC A_11, FLEXCOM3 FLEXCOM3_IO_4, PIO P_86, GMAC GCRS_]
+- G5 : PC23,  of Type IO, alternates : [LCDC LCDDAT_19, PIO P_87, HSMC A_12, GMAC GCOL_, ISC ISC_HSYNC_]
+- H1 : PC24,  of Type IO, alternates : [GMAC GRX_2, ISC ISC_MCK_, PIO P_88, HSMC A_13, LCDC LCDDAT_20]
+- H5 : PC25,  of Type IO, alternates : [GMAC GRX_3, ISC ISC_FIELD_, PIO P_89, HSMC A_14, LCDC LCDDAT_21]
+- J9 : PC26,  of Type IO, alternates : [MCAN1 CANTX_1, HSMC A_15, GMAC GTX_2, LCDC LCDDAT_22, PIO P_90]
+- H9 : PC27,  of Type IO, alternates : [MCAN1 CANRX_1, PMC PCK_1, TWIHS0 TWD_0, HSMC A_16, GMAC GTX_3, LCDC LCDDAT_23, PIO P_91]
+- E8 : PC28,  of Type IO, alternates : [PMC PCK_2, TWIHS0 TWCK_0, HSMC A_17, LCDC LCDPWM_, FLEXCOM4 FLEXCOM4_IO_0, PIO P_92]
+- G8 : PC29,  of Type IO, alternates : [HSMC A_18, LCDC LCDDISP_, FLEXCOM4 FLEXCOM4_IO_1, PIO P_93]
+- F8 : PC30,  of Type IO, alternates : [HSMC A_19, PIO P_94, FLEXCOM4 FLEXCOM4_IO_2, LCDC LCDVSYNC_]
+- D8 : PC31,  of Type IO, alternates : [LCDC LCDHSYNC_, FLEXCOM4 FLEXCOM4_IO_3, PIO P_95, UART3 URXD_3, HSMC A_20]
+- G10 : PD0,  of Type IO, alternates : [LCDC LCDPCK_, UART3 UTXD_3, HSMC A_23, GMAC GTSUCOMP_, PIO P_96, FLEXCOM4 FLEXCOM4_IO_4]
+- E10 : PD1,  of Type IO, alternates : [LCDC LCDDEN_, HSMC A_24, PIO P_97, GMAC GRXCK_]
+- G9 : PD2,  of Type IO, alternates : [GMAC GTXER_, ISC ISC_MCK_, PIO P_98, HSMC A_25, UART1 URXD_1]
+- K1 : PD3,  of Type IO, alternates : [SAIC FIQ_, PIO P_99, ISC ISC_D_11, UART1 UTXD_1, HSMC NWAIT_, PTC PTC_X_0, GMAC GCRS_]
+- J6 : PD4,  of Type IO, alternates : [ISC ISC_D_10, HSMC NCS_0, GMAC GCOL_, TWIHS1 TWD_1, UART2 URXD_2, PIO P_100, PTC PTC_X_1]
+- J4 : PD5,  of Type IO, alternates : [TWIHS1 TWCK_1, GMAC GRX_2, UART2 UTXD_2, HSMC NCS_1, PIO P_101, ISC ISC_D_9, PTC PTC_X_2]
+- J2 : PD6,  of Type IO, alternates : [PMC PCK_1, GMAC GRX_3, ICE TCK_, PIO P_102, ISC ISC_D_8, HSMC NCS_2, PTC PTC_X_3]
+- J7 : PD7,  of Type IO, alternates : [ISC ISC_D_0, ICE TDI_, PIO P_103, PTC PTC_X_4, GMAC GTX_2, HSMC NWR1_]
+- J1 : PD8,  of Type IO, alternates : [HSMC NANDRDY_, ISC ISC_D_1, PTC PTC_X_5, ICE TDO_, GMAC GTX_3, PIO P_104]
+- K9 : PD9,  of Type IO, alternates : [ISC ISC_D_2, ICE TMS_, PTC PTC_X_6, PIO P_105, GMAC GTXCK_]
+- J3 : PD10,  of Type IO, alternates : [ISC ISC_D_3, ICE NTRST_, GMAC GTXEN_, PTC PTC_X_7, PIO P_106]
+- M1 : PD11,  of Type IO, alternates : [PMC PCK_2, ISC ISC_MCK_, ISC ISC_D_4, GMAC GRXDV_, TC0 TIOA_1, PIO P_107, PTC PTC_Y_0]
+- K8 : PD12,  of Type IO, alternates : [GMAC GRXER_, PIO P_108, ISC ISC_D_4, FLEXCOM4 FLEXCOM4_IO_0, ISC ISC_D_5, TC0 TIOB_1, PTC PTC_Y_1]
+- L2 : PD13,  of Type IO, alternates : [PIO P_109, TC0 TCLK_1, ISC ISC_D_6, FLEXCOM4 FLEXCOM4_IO_1, ISC ISC_D_5, GMAC GRX_0, PTC PTC_Y_2]
+- K4 : PD14,  of Type IO, alternates : [ISC ISC_D_6, PIO P_110, ISC ISC_D_7, ICE TCK_, FLEXCOM4 FLEXCOM4_IO_2, PTC PTC_Y_3, GMAC GRX_1]
+- K7 : PD15,  of Type IO, alternates : [ISC ISC_PCK_, ICE TDI_, ISC ISC_D_7, FLEXCOM4 FLEXCOM4_IO_3, GMAC GTX_0, PTC PTC_Y_4, PIO P_111]
+- L1 : PD16,  of Type IO, alternates : [ISC ISC_VSYNC_, GMAC GTX_1, ICE TDO_, ISC ISC_D_8, PIO P_112, FLEXCOM4 FLEXCOM4_IO_4, PTC PTC_Y_5]
+- K2 : PD17,  of Type IO, alternates : [ICE TMS_, PIO P_113, PTC PTC_Y_6, GMAC GMDC_, ISC ISC_D_9, ISC ISC_HSYNC_]
+- J5 : PD18,  of Type IO, alternates : [GMAC GMDIO_, ICE NTRST_, ISC ISC_FIELD_, PTC PTC_Y_7, ISC ISC_D_10, PIO P_114]
+- K6 : PD19,  of Type IO, alternates : [I2SC0 I2SC0_CK_, ISC ISC_D_11, TWIHS1 TWD_1, UART2 URXD_2, ADC AD_0, PIO P_115, PMC PCK_0]
+- M2 : PD20,  of Type IO, alternates : [ISC ISC_PCK_, TWIHS1 TWCK_1, UART2 UTXD_2, TC0 TIOA_2, PIO P_116, ADC AD_1, I2SC0 I2SC0_MCK_]
+- N1 : PD21,  of Type IO, alternates : [ISC ISC_VSYNC_, TWIHS0 TWD_0, I2SC0 I2SC0_WS_, FLEXCOM4 FLEXCOM4_IO_0, TC0 TIOB_2, ADC AD_2, PIO P_117]
+- L4 : PD22,  of Type IO, alternates : [TWIHS0 TWCK_0, FLEXCOM4 FLEXCOM4_IO_1, I2SC0 I2SC0_DI_0, PIO P_118, TC0 TCLK_2, ADC AD_3, ISC ISC_HSYNC_]
+- M3 : PD23,  of Type IO, alternates : [ADC AD_4, PIO P_119, ISC ISC_FIELD_, FLEXCOM4 FLEXCOM4_IO_2, UART2 URXD_2, I2SC0 I2SC0_DO_0]
+- L7 : PD24,  of Type IO, alternates : [ADC AD_5, UART2 UTXD_2, PIO P_120, FLEXCOM4 FLEXCOM4_IO_3]
+- L6 : PD25,  of Type IO, alternates : [ADC AD_6, PIO P_121, SPI1 SPI1_SPCK_, FLEXCOM4 FLEXCOM4_IO_4]
+- N2 : PD26,  of Type IO, alternates : [ADC AD_7, FLEXCOM2 FLEXCOM2_IO_0, SPI1 SPI1_MOSI_, PIO P_122]
+- L8 : PD27,  of Type IO, alternates : [SPI1 SPI1_MISO_, ADC AD_8, FLEXCOM2 FLEXCOM2_IO_1, ICE TCK_, PIO P_123]
+- M4 : PD28,  of Type IO, alternates : [ICE TDI_, ADC AD_9, FLEXCOM2 FLEXCOM2_IO_2, PIO P_124, SPI1 SPI1_NPCS_0]
+- N3 : PD29,  of Type IO, alternates : [TWIHS0 TWD_0, PIO P_125, SPI1 SPI1_NPCS_1, FLEXCOM2 FLEXCOM2_IO_3, ICE TDO_, TC1 TIOA_3, ADC AD_10]
+- L9 : PD30,  of Type IO, alternates : [TWIHS0 TWCK_0, ICE TMS_, TC1 TIOB_3, FLEXCOM2 FLEXCOM2_IO_4, ADC AD_11, PIO P_126, SPI1 SPI1_NPCS_2]
+- M7 : PD31,  of Type IO, alternates : [AIC IRQ_, ADC ADTRG_, ICE NTRST_, PIO P_127, TC1 TCLK_3, PMC PCK_0]
+- L5 : VDDANA,  of Type PP
+- K5 : GNDANA,  of Type PS
+- M6 : ADVREF,  of Type PS
+- K3 : VDDANA,  of Type PP
+- L3 : GNDANA,  of Type PS
+- H16 : DDR_VREF,  of Type PS
+- D16 : DDR_VREF,  of Type PS
+- B12 : DDR_D0,  of Type IO
+- A12 : DDR_D1,  of Type IO
+- C12 : DDR_D2,  of Type IO
+- A13 : DDR_D3,  of Type IO
+- A14 : DDR_D4,  of Type IO
+- C13 : DDR_D5,  of Type IO
+- A15 : DDR_D6,  of Type IO
+- B15 : DDR_D7,  of Type IO
+- G17 : DDR_D8,  of Type IO
+- G16 : DDR_D9,  of Type IO
+- H17 : DDR_D10,  of Type IO
+- K17 : DDR_D11,  of Type IO
+- K16 : DDR_D12,  of Type IO
+- J13 : DDR_D13,  of Type IO
+- K14 : DDR_D14,  of Type IO
+- K15 : DDR_D15,  of Type IO
+- B8 : DDR_D16,  of Type IO
+- B9 : DDR_D17,  of Type IO
+- C9 : DDR_D18,  of Type IO
+- A9 : DDR_D19,  of Type IO
+- A10 : DDR_D20,  of Type IO
+- D10 : DDR_D21,  of Type IO
+- B11 : DDR_D22,  of Type IO
+- A11 : DDR_D23,  of Type IO
+- J12 : DDR_D24,  of Type IO
+- H10 : DDR_D25,  of Type IO
+- J11 : DDR_D26,  of Type IO
+- K11 : DDR_D27,  of Type IO
+- L13 : DDR_D28,  of Type IO
+- L11 : DDR_D29,  of Type IO
+- L12 : DDR_D30,  of Type IO
+- M17 : DDR_D31,  of Type IO
+- F12 : DDR_A0,  of Type OP
+- C17 : DDR_A1,  of Type OP
+- B17 : DDR_A2,  of Type OP
+- B16 : DDR_A3,  of Type OP
+- C16 : DDR_A4,  of Type OP
+- G14 : DDR_A5,  of Type OP
+- F14 : DDR_A6,  of Type OP
+- F11 : DDR_A7,  of Type OP
+- C14 : DDR_A8,  of Type OP
+- D13 : DDR_A9,  of Type OP
+- C15 : DDR_A10,  of Type OP
+- A16 : DDR_A11,  of Type OP
+- A17 : DDR_A12,  of Type OP
+- G11 : DDR_A13,  of Type OP
+- E17 : DDR_CLK,  of Type OP
+- D17 : DDR_CLKN,  of Type OP
+- F16 : DDR_CKE,  of Type OP
+- E16 : DDR_RESETN,  of Type OP
+- G13 : DDR_CS,  of Type OP
+- F15 : DDR_WE,  of Type OP
+- F13 : DDR_RAS,  of Type OP
+- G12 : DDR_CAS,  of Type OP
+- C11 : DDR_DQM0,  of Type OP
+- G15 : DDR_DQM1,  of Type OP
+- C8 : DDR_DQM2,  of Type OP
+- H11 : DDR_DQM3,  of Type OP
+- B13 : DDR_DQS0,  of Type OP
+- J17 : DDR_DQS1,  of Type OP
+- C10 : DDR_DQS2,  of Type OP
+- L17 : DDR_DQS3,  of Type OP
+- B14 : DDR_DQSN0,  of Type OP
+- J16 : DDR_DQSN1,  of Type OP
+- B10 : DDR_DQSN2,  of Type OP
+- L16 : DDR_DQSN3,  of Type OP
+- H12 : DDR_BA0,  of Type OP
+- H13 : DDR_BA1,  of Type OP
+- F17 : DDR_BA2,  of Type OP
+- E13 : DDR_,  of Type IO
+- L15 : VDDIODDR,  of Type PP
+- J15 : VDDIODDR,  of Type PP
+- H15 : VDDIODDR,  of Type PP
+- E15 : VDDIODDR,  of Type PP
+- D15 : VDDIODDR,  of Type PP
+- D12 : VDDIODDR,  of Type PP
+- D11 : VDDIODDR,  of Type PP
+- L14 : GNDIODDR,  of Type PS
+- J14 : GNDIODDR,  of Type PS
+- H14 : GNDIODDR,  of Type PS
+- E14 : GNDIODDR,  of Type PS
+- D14 : GNDIODDR,  of Type PS
+- E12 : GNDIODDR,  of Type PS
+- E11 : GNDIODDR,  of Type PS
+- H3 : VDDCORE,  of Type PP
+- N5 : VDDCORE,  of Type PP
+- N9 : VDDCORE,  of Type PP
+- K13 : VDDCORE,  of Type PP
+- D9 : VDDCORE,  of Type PP
+- D7 : VDDCORE,  of Type PP
+- H4 : GNDCORE,  of Type PS
+- M5 : GNDCORE,  of Type PS
+- M9 : GNDCORE,  of Type PS
+- K12 : GNDCORE,  of Type PS
+- E9 : GNDCORE,  of Type PS
+- E7 : GNDCORE,  of Type PS
+- E6 : VDDIOP0,  of Type PP
+- F7 : VDDIOP0,  of Type PP
+- F6 : GNDIOP0,  of Type PS
+- G7 : GNDIOP0,  of Type PS
+- R14 : VDDIOP1,  of Type PP
+- N13 : VDDIOP1,  of Type PP
+- M13 : GNDIOP1,  of Type PS
+- P14 : GNDIOP1,  of Type PS
+- F10 : VDDIOP2,  of Type PP
+- F9 : GNDIOP2,  of Type PS
+- P11 : VDDSDMMC,  of Type PP
+- R11 : GNDSDMMC,  of Type PS
+- F4 : VDDISC,  of Type PP
+- G4 : GNDISC,  of Type PS
+- M12 : VDDFUSE,  of Type PP
+- U4 : VDDPLLA,  of Type PP
+- U5 : GNDPLLA,  of Type PS
+- T3 : VDDAUDIOPLL,  of Type PP
+- T5 : GNDDPLL,  of Type PS
+- T4 : GNDAUDIOPLL,  of Type PS
+- U3 : CLK_AUDIO,  of Type IO
+- U7 : XIN,  of Type PS
+- U6 : XOUT,  of Type PS
+- T7 : VDDOSC,  of Type PP
+- T6 : GNDOSC,  of Type PS
+- P8 : VDDUTMII,  of Type PP
+- R9 : VDDHSIC,  of Type PP
+- P9 : GNDUTMII,  of Type PS
+- T8 : HHSDPA,  of Type IO
+- R8 : HHSDMA,  of Type IO
+- U8 : HHSDPB,  of Type IO
+- U9 : HHSDMB,  of Type IO
+- T9 : HHSDPDATC,  of Type IO
+- U10 : HHSDMSTRC,  of Type IO
+- P7 : VDDUTMIC,  of Type PP
+- R7 : GNDUTMIC,  of Type PS
+- T10 : SDCAL,  of Type IO
+- R6 : VBG,  of Type IO
+- P3 : TST,  of Type IO
+- U2 : NRST,  of Type IP
+- T2 : JTAGSEL,  of Type OP
+- P4 : WKUP,  of Type IP
+- N4 : RXD,  of Type IP
+- R1 : SHDN,  of Type IO
+- R3 : PIOBU0,  of Type IO
+- N8 : PIOBU1,  of Type IO
+- R2 : PIOBU2,  of Type IO
+- R5 : PIOBU3,  of Type IO
+- R4 : PIOBU4,  of Type IO
+- P5 : PIOBU5,  of Type IO
+- P6 : PIOBU6,  of Type IO
+- M8 : PIOBU7,  of Type IO
+- N7 : VDDBU,  of Type PP
+- N6 : GNDBU,  of Type PS
+- P1 : XIN32,  of Type PS
+- P2 : XOUT32,  of Type PS
+- T1 : COMPP,  of Type IO
+- U1 : COMPN,  of Type IO
 ## ATSAMA5D26C-CUR
+
 ### Description : 
+
+- Series : SAMA5D2
+- Footprint : LFBGA289
+- MP : ATSAMA5D26C-CUR
+- Architecture : CORTEX-A5
+- PINOUT : LFBGA289
+- Reference : U
+- Documentation : https://www.microchip.com/en-us/search?q=ATSAMA5D26C-CUR
+- Value : ATSAMA5D26C-CUR
+- Family : SAMA5
+- MF : Microchip
+- Name : ATSAMA5D26
 
 ### Package : 
 
-- U11 : PA0
-- P10 : PA1
-- T11 : PA2
-- R10 : PA3
-- U12 : PA4
-- T12 : PA5
-- R12 : PA6
-- T13 : PA7
-- N10 : PA8
-- N11 : PA9
-- U13 : PA10
-- P15 : PA11
-- N15 : PA12
-- P16 : PA13
-- M14 : PA14
-- N16 : PA15
-- M10 : PA16
-- N17 : PA17
-- U14 : PA18
-- T14 : PA19
-- P12 : PA20
-- R13 : PA21
-- U15 : PA22
-- U16 : PA23
-- T15 : PA24
-- U17 : PA25
-- P13 : PA26
-- T16 : PA27
-- R16 : PA28
-- T17 : PA29
-- R15 : PA30
-- R17 : PA31
-- J8 : PB0
-- A8 : PB1
-- A7 : PB2
-- A6 : PB3
-- B6 : PB4
-- B7 : PB5
-- C7 : PB6
-- C6 : PB7
-- A5 : PB8
-- A4 : PB9
-- H8 : PB10
-- B5 : PB11
-- D6 : PB12
-- B4 : PB13
-- C5 : PB14
-- H7 : PB15
-- D5 : PB16
-- C4 : PB17
-- A3 : PB18
-- D4 : PB19
-- B3 : PB20
-- A2 : PB21
-- C3 : PB22
-- A1 : PB23
-- E5 : PB24
-- B2 : PB25
-- E4 : PB26
-- B1 : PB27
-- C2 : PB28
-- D3 : PB29
-- D2 : PB30
-- C1 : PB31
-- P17 : PC0
-- N12 : PC1
-- N14 : PC2
-- M15 : PC3
-- M11 : PC4
-- L10 : PC5
-- K10 : PC6
-- M16 : PC7
-- J10 : PC8
-- D1 : PC9
-- E3 : PC10
-- E2 : PC11
-- E1 : PC12
-- F3 : PC13
-- F5 : PC14
-- F2 : PC15
-- G6 : PC16
-- F1 : PC17
-- H6 : PC18
-- G2 : PC19
-- G3 : PC20
-- G1 : PC21
-- H2 : PC22
-- G5 : PC23
-- H1 : PC24
-- H5 : PC25
-- J9 : PC26
-- H9 : PC27
-- E8 : PC28
-- G8 : PC29
-- F8 : PC30
-- D8 : PC31
-- G10 : PD0
-- E10 : PD1
-- G9 : PD2
-- K1 : PD3
-- J6 : PD4
-- J4 : PD5
-- J2 : PD6
-- J7 : PD7
-- J1 : PD8
-- K9 : PD9
-- J3 : PD10
-- M1 : PD11
-- K8 : PD12
-- L2 : PD13
-- K4 : PD14
-- K7 : PD15
-- L1 : PD16
-- K2 : PD17
-- J5 : PD18
-- K6 : PD19
-- M2 : PD20
-- N1 : PD21
-- L4 : PD22
-- M3 : PD23
-- L7 : PD24
-- L6 : PD25
-- N2 : PD26
-- L8 : PD27
-- M4 : PD28
-- N3 : PD29
-- L9 : PD30
-- M7 : PD31
-- L5 : VDDANA
-- K5 : GNDANA
-- M6 : ADVREF
-- K3 : VDDANA
-- L3 : GNDANA
-- H16 : DDR_VREF
-- D16 : DDR_VREF
-- B12 : DDR_D0
-- A12 : DDR_D1
-- C12 : DDR_D2
-- A13 : DDR_D3
-- A14 : DDR_D4
-- C13 : DDR_D5
-- A15 : DDR_D6
-- B15 : DDR_D7
-- G17 : DDR_D8
-- G16 : DDR_D9
-- H17 : DDR_D10
-- K17 : DDR_D11
-- K16 : DDR_D12
-- J13 : DDR_D13
-- K14 : DDR_D14
-- K15 : DDR_D15
-- B8 : DDR_D16
-- B9 : DDR_D17
-- C9 : DDR_D18
-- A9 : DDR_D19
-- A10 : DDR_D20
-- D10 : DDR_D21
-- B11 : DDR_D22
-- A11 : DDR_D23
-- J12 : DDR_D24
-- H10 : DDR_D25
-- J11 : DDR_D26
-- K11 : DDR_D27
-- L13 : DDR_D28
-- L11 : DDR_D29
-- L12 : DDR_D30
-- M17 : DDR_D31
-- F12 : DDR_A0
-- C17 : DDR_A1
-- B17 : DDR_A2
-- B16 : DDR_A3
-- C16 : DDR_A4
-- G14 : DDR_A5
-- F14 : DDR_A6
-- F11 : DDR_A7
-- C14 : DDR_A8
-- D13 : DDR_A9
-- C15 : DDR_A10
-- A16 : DDR_A11
-- A17 : DDR_A12
-- G11 : DDR_A13
-- E17 : DDR_CLK
-- D17 : DDR_CLKN
-- F16 : DDR_CKE
-- E16 : DDR_RESETN
-- G13 : DDR_CS
-- F15 : DDR_WE
-- F13 : DDR_RAS
-- G12 : DDR_CAS
-- C11 : DDR_DQM0
-- G15 : DDR_DQM1
-- C8 : DDR_DQM2
-- H11 : DDR_DQM3
-- B13 : DDR_DQS0
-- J17 : DDR_DQS1
-- C10 : DDR_DQS2
-- L17 : DDR_DQS3
-- B14 : DDR_DQSN0
-- J16 : DDR_DQSN1
-- B10 : DDR_DQSN2
-- L16 : DDR_DQSN3
-- H12 : DDR_BA0
-- H13 : DDR_BA1
-- F17 : DDR_BA2
-- E13 : DDR_
-- L15 : VDDIODDR
-- J15 : VDDIODDR
-- H15 : VDDIODDR
-- E15 : VDDIODDR
-- D15 : VDDIODDR
-- D12 : VDDIODDR
-- D11 : VDDIODDR
-- L14 : GNDIODDR
-- J14 : GNDIODDR
-- H14 : GNDIODDR
-- E14 : GNDIODDR
-- D14 : GNDIODDR
-- E12 : GNDIODDR
-- E11 : GNDIODDR
-- H3 : VDDCORE
-- N5 : VDDCORE
-- N9 : VDDCORE
-- K13 : VDDCORE
-- D9 : VDDCORE
-- D7 : VDDCORE
-- H4 : GNDCORE
-- M5 : GNDCORE
-- M9 : GNDCORE
-- K12 : GNDCORE
-- E9 : GNDCORE
-- E7 : GNDCORE
-- E6 : VDDIOP0
-- F7 : VDDIOP0
-- F6 : GNDIOP0
-- G7 : GNDIOP0
-- R14 : VDDIOP1
-- N13 : VDDIOP1
-- M13 : GNDIOP1
-- P14 : GNDIOP1
-- F10 : VDDIOP2
-- F9 : GNDIOP2
-- P11 : VDDSDMMC
-- R11 : GNDSDMMC
-- F4 : VDDISC
-- G4 : GNDISC
-- M12 : VDDFUSE
-- U4 : VDDPLLA
-- U5 : GNDPLLA
-- T3 : VDDAUDIOPLL
-- T5 : GNDDPLL
-- T4 : GNDAUDIOPLL
-- U3 : CLK_AUDIO
-- U7 : XIN
-- U6 : XOUT
-- T7 : VDDOSC
-- T6 : GNDOSC
-- P8 : VDDUTMII
-- R9 : VDDHSIC
-- P9 : GNDUTMII
-- T8 : HHSDPA
-- R8 : HHSDMA
-- U8 : HHSDPB
-- U9 : HHSDMB
-- T9 : HHSDPDATC
-- U10 : HHSDMSTRC
-- P7 : VDDUTMIC
-- R7 : GNDUTMIC
-- T10 : SDCAL
-- R6 : VBG
-- P3 : TST
-- U2 : NRST
-- T2 : JTAGSEL
-- P4 : WKUP
-- N4 : RXD
-- R1 : SHDN
-- R3 : PIOBU0
-- N8 : PIOBU1
-- R2 : PIOBU2
-- R5 : PIOBU3
-- R4 : PIOBU4
-- P5 : PIOBU5
-- P6 : PIOBU6
-- M8 : PIOBU7
-- N7 : VDDBU
-- N6 : GNDBU
-- P1 : XIN32
-- P2 : XOUT32
-- T1 : COMPP
-- U1 : COMPN
+Pin count : 289
+- U11 : PA0,  of Type IO, alternates : [HSMC D_0, PIO P_0, SDMMC0 SDMMC0_CK_, QSPI0 QSPI0_SCK_]
+- P10 : PA1,  of Type IO, alternates : [SDMMC0 SDMMC0_CMD_, PIO P_1, QSPI0 QSPI0_CS_, HSMC D_1]
+- T11 : PA2,  of Type IO, alternates : [PIO P_2, HSMC D_2, SDMMC0 SDMMC0_DAT_0, QSPI0 QSPI0_IO_0]
+- R10 : PA3,  of Type IO, alternates : [PIO P_3, HSMC D_3, SDMMC0 SDMMC0_DAT_1, QSPI0 QSPI0_IO_1]
+- U12 : PA4,  of Type IO, alternates : [HSMC D_4, PIO P_4, SDMMC0 SDMMC0_DAT_2, QSPI0 QSPI0_IO_2]
+- T12 : PA5,  of Type IO, alternates : [PIO P_5, HSMC D_5, QSPI0 QSPI0_IO_3, SDMMC0 SDMMC0_DAT_3]
+- R12 : PA6,  of Type IO, alternates : [PIO P_6, HSMC D_6, FLEXCOM2 FLEXCOM2_IO_0, TC1 TIOA_5, QSPI1 QSPI1_SCK_, SDMMC0 SDMMC0_DAT_4]
+- T13 : PA7,  of Type IO, alternates : [PIO P_7, QSPI1 QSPI1_IO_0, HSMC D_7, FLEXCOM2 FLEXCOM2_IO_1, SDMMC0 SDMMC0_DAT_5, TC1 TIOB_5]
+- N10 : PA8,  of Type IO, alternates : [PIO P_8, QSPI1 QSPI1_IO_1, FLEXCOM2 FLEXCOM2_IO_2, HSMC NANDNWE_, TC1 TCLK_5, SDMMC0 SDMMC0_DAT_6]
+- N11 : PA9,  of Type IO, alternates : [SDMMC0 SDMMC0_DAT_7, QSPI1 QSPI1_IO_2, FLEXCOM2 FLEXCOM2_IO_3, TC1 TIOA_4, HSMC NCS_3, PIO P_9]
+- U13 : PA10,  of Type IO, alternates : [PIO P_10, QSPI1 QSPI1_IO_3, SDMMC0 SDMMC0_RSTN_, HSMC A21_, TC1 TIOB_4, FLEXCOM2 FLEXCOM2_IO_4]
+- P15 : PA11,  of Type IO, alternates : [QSPI1 QSPI1_CS_, SDMMC0 SDMMC0_1V8SEL_, PIO P_11, HSMC A22_, TC1 TCLK_4]
+- N15 : PA12,  of Type IO, alternates : [AIC IRQ_, SDMMC0 SDMMC0_WP_, PIO P_12, HSMC NANDOE_]
+- P16 : PA13,  of Type IO, alternates : [HSMC D_8, FLEXCOM3 FLEXCOM3_IO_1, PIO P_13, SDMMC0 SDMMC0_CD_]
+- M14 : PA14,  of Type IO, alternates : [PIO P_14, SPI0 SPI0_SPCK_, HSMC D_9, SSC1 TK_1, I2SC1 I2SC1_MCK_, FLEXCOM3 FLEXCOM3_IO_2, QSPI0 QSPI0_SCK_]
+- N16 : PA15,  of Type IO, alternates : [PIO P_15, HSMC D_10, QSPI0 QSPI0_CS_, FLEXCOM3 FLEXCOM3_IO_0, SSC1 TF_1, SPI0 SPI0_MOSI_, I2SC1 I2SC1_CK_]
+- M10 : PA16,  of Type IO, alternates : [PIO P_16, HSMC D_11, I2SC1 I2SC1_WS_, FLEXCOM3 FLEXCOM3_IO_3, SPI0 SPI0_MISO_, SSC1 TD_1, QSPI0 QSPI0_IO_0]
+- N17 : PA17,  of Type IO, alternates : [I2SC1 I2SC1_DI_0, PIO P_17, HSMC D_12, SPI0 SPI0_NPCS_0, FLEXCOM3 FLEXCOM3_IO_4, QSPI0 QSPI0_IO_1, SSC1 RD_1]
+- U14 : PA18,  of Type IO, alternates : [HSMC D_13, SSC1 RK_1, SPI0 SPI0_NPCS_1, I2SC1 I2SC1_DO_0, PIO P_18, QSPI0 QSPI0_IO_2, SDMMC1 SDMMC1_DAT_0]
+- T14 : PA19,  of Type IO, alternates : [SSC1 RF_1, SPI0 SPI0_NPCS_2, HSMC D_14, TC0 TIOA_0, QSPI0 QSPI0_IO_3, PIO P_19, SDMMC1 SDMMC1_DAT_1]
+- P12 : PA20,  of Type IO, alternates : [SPI0 SPI0_NPCS_3, HSMC D_15, TC0 TIOB_0, PIO P_20, SDMMC1 SDMMC1_DAT_2]
+- R13 : PA21,  of Type IO, alternates : [AIC IRQ_, PMC PCK_2, HSMC NANDRDY_, TC0 TCLK_0, PIO P_21, SDMMC1 SDMMC1_DAT_3]
+- U15 : PA22,  of Type IO, alternates : [PIO P_22, ICE TCK_, FLEXCOM1 FLEXCOM1_IO_2, HSMC D_0, SPI1 SPI1_SPCK_, SDMMC1 SDMMC1_CK_, QSPI0 QSPI0_SCK_]
+- U16 : PA23,  of Type IO, alternates : [ICE TDI_, PIO P_23, QSPI0 QSPI0_CS_, SPI1 SPI1_MOSI_, FLEXCOM1 FLEXCOM1_IO_1, HSMC D_1]
+- T15 : PA24,  of Type IO, alternates : [SPI1 SPI1_MISO_, FLEXCOM1 FLEXCOM1_IO_0, HSMC D_2, PIO P_24, ICE TDO_, QSPI0 QSPI0_IO_0]
+- U17 : PA25,  of Type IO, alternates : [PIO P_25, ICE TMS_, HSMC D_3, FLEXCOM1 FLEXCOM1_IO_3, SPI1 SPI1_NPCS_0, QSPI0 QSPI0_IO_1]
+- P13 : PA26,  of Type IO, alternates : [PIO P_26, ICE NTRST_, HSMC D_4, SPI1 SPI1_NPCS_1, FLEXCOM1 FLEXCOM1_IO_4, QSPI0 QSPI0_IO_2]
+- T16 : PA27,  of Type IO, alternates : [PIO P_27, SPI0 SPI0_NPCS_2, SDMMC1 SDMMC1_RSTN_, HSMC D_5, TC0 TIOA_1, QSPI0 QSPI0_IO_3, SPI1 SPI1_NPCS_2]
+- R16 : PA28,  of Type IO, alternates : [HSMC D_6, PIO P_28, SPI0 SPI0_NPCS_3, CLASSD CLASSD_L_0, SDMMC1 SDMMC1_CMD_, TC0 TIOB_1, SPI1 SPI1_NPCS_3]
+- T17 : PA29,  of Type IO, alternates : [HSMC D_7, TC0 TCLK_1, SDMMC1 SDMMC1_WP_, CLASSD CLASSD_L_1, SPI0 SPI0_NPCS_1, PIO P_29]
+- R15 : PA30,  of Type IO, alternates : [SPI0 SPI0_NPCS_0, PWM PWMH_0, CLASSD CLASSD_L_2, PIO P_30, HSMC NANDNWE_, SDMMC1 SDMMC1_CD_]
+- R17 : PA31,  of Type IO, alternates : [PWM PWML_0, HSMC NCS_3, CLASSD CLASSD_L_3, PIO P_31, SPI0 SPI0_MISO_]
+- J8 : PB0,  of Type IO, alternates : [PIO P_32, PWM PWMH_1, HSMC A21_, SPI0 SPI0_MOSI_]
+- A8 : PB1,  of Type IO, alternates : [SPI0 SPI0_SPCK_, PIO P_33, PWM PWML_1, HSMC A22_, CLASSD CLASSD_R_0]
+- A7 : PB2,  of Type IO, alternates : [PIO P_34, PWM PWMFI_0, CLASSD CLASSD_R_1, HSMC NANDOE_]
+- A6 : PB3,  of Type IO, alternates : [HSMC D_8, AIC IRQ_, PWM PWMEXTRG_1, PIO P_35, CLASSD CLASSD_R_2, UART4 URXD_4]
+- B6 : PB4,  of Type IO, alternates : [PIO P_36, HSMC D_9, SAIC FIQ_, UART4 UTXD_4, CLASSD CLASSD_R_3]
+- B7 : PB5,  of Type IO, alternates : [PIO P_37, HSMC D_10, PWM PWMH_2, QSPI1 QSPI1_SCK_, GMAC GTSUCOMP_, TC0 TCLK_2]
+- C7 : PB6,  of Type IO, alternates : [PIO P_38, HSMC D_11, QSPI1 QSPI1_CS_, GMAC GTXER_, PWM PWML_2, TC0 TIOA_2]
+- C6 : PB7,  of Type IO, alternates : [PIO P_39, QSPI1 QSPI1_IO_0, HSMC D_12, PWM PWMH_3, TC0 TIOB_2, GMAC GRXCK_]
+- A5 : PB8,  of Type IO, alternates : [QSPI1 QSPI1_IO_1, HSMC D_13, PIO P_40, PWM PWML_3, GMAC GCRS_, TC1 TCLK_3]
+- A4 : PB9,  of Type IO, alternates : [QSPI1 QSPI1_IO_2, HSMC D_14, GMAC GCOL_, PIO P_41, TC1 TIOA_3, PWM PWMFI_1]
+- H8 : PB10,  of Type IO, alternates : [GMAC GRX_2, PWM PWMEXTRG_2, QSPI1 QSPI1_IO_3, HSMC D_15, TC1 TIOB_3, PIO P_42]
+- B5 : PB11,  of Type IO, alternates : [GMAC GRX_3, PIO P_43, PDMIC PDMIC_DAT_, UART3 URXD_3, LCDC LCDDAT_0, HSMC A0_]
+- D6 : PB12,  of Type IO, alternates : [PDMIC PDMIC_CLK_, PIO P_44, UART3 UTXD_3, GMAC GTX_2, HSMC A_1, LCDC LCDDAT_1]
+- B4 : PB13,  of Type IO, alternates : [PMC PCK_1, PIO P_45, GMAC GTX_3, HSMC A_2, LCDC LCDDAT_2]
+- C5 : PB14,  of Type IO, alternates : [SSC1 TK_1, I2SC1 I2SC1_MCK_, LCDC LCDDAT_3, PIO P_46, HSMC A_3, QSPI1 QSPI1_SCK_, GMAC GTXCK_]
+- H7 : PB15,  of Type IO, alternates : [PIO P_47, LCDC LCDDAT_4, QSPI1 QSPI1_CS_, GMAC GTXEN_, HSMC A_4, SSC1 TF_1, I2SC1 I2SC1_CK_]
+- D5 : PB16,  of Type IO, alternates : [LCDC LCDDAT_5, PIO P_48, I2SC1 I2SC1_WS_, QSPI1 QSPI1_IO_0, HSMC A_5, GMAC GRXDV_, SSC1 TD_1]
+- C4 : PB17,  of Type IO, alternates : [LCDC LCDDAT_6, GMAC GRXER_, I2SC1 I2SC1_DI_0, PIO P_49, QSPI1 QSPI1_IO_1, HSMC A_6, SSC1 RD_1]
+- A3 : PB18,  of Type IO, alternates : [HSMC A_7, SSC1 RK_1, QSPI1 QSPI1_IO_2, LCDC LCDDAT_7, PIO P_50, I2SC1 I2SC1_DO_0, GMAC GRX_0]
+- D4 : PB19,  of Type IO, alternates : [SSC1 RF_1, QSPI1 QSPI1_IO_3, HSMC A_8, LCDC LCDDAT_8, PIO P_51, TC1 TIOA_3, GMAC GRX_1]
+- B3 : PB20,  of Type IO, alternates : [PMC PCK_1, HSMC A_9, LCDC LCDDAT_9, GMAC GTX_0, TC1 TIOB_3, PIO P_52, SSC0 TK_0]
+- A2 : PB21,  of Type IO, alternates : [SSC0 TF_0, FLEXCOM3 FLEXCOM3_IO_2, GMAC GTX_1, PIO P_53, HSMC A_10, LCDC LCDDAT_10, TC1 TCLK_3]
+- C3 : PB22,  of Type IO, alternates : [SSC0 TD_0, PIO P_54, FLEXCOM3 FLEXCOM3_IO_1, HSMC A_11, GMAC GMDC_, TC0 TIOA_2, LCDC LCDDAT_11]
+- A1 : PB23,  of Type IO, alternates : [SSC0 RD_0, GMAC GMDIO_, PIO P_55, FLEXCOM3 FLEXCOM3_IO_0, TC0 TIOB_2, HSMC A_12, LCDC LCDDAT_12]
+- E5 : PB24,  of Type IO, alternates : [PIO P_56, FLEXCOM3 FLEXCOM3_IO_3, ISC ISC_D_10, HSMC A_13, SSC0 RK_0, LCDC LCDDAT_13, TC0 TCLK_2]
+- B2 : PB25,  of Type IO, alternates : [ISC ISC_D_11, PIO P_57, HSMC A_14, LCDC LCDDAT_14, FLEXCOM3 FLEXCOM3_IO_4, SSC0 RF_0]
+- E4 : PB26,  of Type IO, alternates : [PIO P_58, ISC ISC_D_0, HSMC A_15, PDMIC PDMIC_DAT_, LCDC LCDDAT_15, UART0 URXD_0]
+- B1 : PB27,  of Type IO, alternates : [PIO P_59, ISC ISC_D_1, PDMIC PDMIC_CLK_, HSMC A_16, UART0 UTXD_0, LCDC LCDDAT_16]
+- C2 : PB28,  of Type IO, alternates : [ISC ISC_D_2, HSMC A_17, FLEXCOM0 FLEXCOM0_IO_0, LCDC LCDDAT_17, TC1 TIOA_5, PIO P_60]
+- D3 : PB29,  of Type IO, alternates : [ISC ISC_D_3, HSMC A_18, LCDC LCDDAT_18, FLEXCOM0 FLEXCOM0_IO_1, PIO P_61, TC1 TIOB_5]
+- D2 : PB30,  of Type IO, alternates : [HSMC A_19, LCDC LCDDAT_19, ISC ISC_D_4, FLEXCOM0 FLEXCOM0_IO_2, PIO P_62, TC1 TCLK_5]
+- C1 : PB31,  of Type IO, alternates : [TWIHS0 TWD_0, ISC ISC_D_5, FLEXCOM0 FLEXCOM0_IO_3, PIO P_63, HSMC A_20, LCDC LCDDAT_20]
+- P17 : PC0,  of Type IO, alternates : [TWIHS0 TWCK_0, ISC ISC_D_6, HSMC A_23, FLEXCOM0 FLEXCOM0_IO_4, PIO P_64, LCDC LCDDAT_21]
+- N12 : PC1,  of Type IO, alternates : [MCAN0 CANTX_0, I2SC0 I2SC0_CK_, PIO P_65, ISC ISC_D_7, HSMC A_24, SPI1 SPI1_SPCK_, LCDC LCDDAT_22]
+- N14 : PC2,  of Type IO, alternates : [MCAN0 CANRX_0, PIO P_66, SPI1 SPI1_MOSI_, HSMC A_25, ISC ISC_D_8, LCDC LCDDAT_23, I2SC0 I2SC0_MCK_]
+- M15 : PC3,  of Type IO, alternates : [SPI1 SPI1_MISO_, I2SC0 I2SC0_WS_, LCDC LCDPWM_, PIO P_67, TC0 TIOA_1, ISC ISC_D_9, HSMC NWAIT_]
+- M11 : PC4,  of Type IO, alternates : [ISC ISC_PCK_, LCDC LCDDISP_, I2SC0 I2SC0_DI_0, PIO P_68, SPI1 SPI1_NPCS_0, HSMC NWR1_, TC0 TIOB_1]
+- L10 : PC5,  of Type IO, alternates : [PIO P_69, ISC ISC_VSYNC_, TC0 TCLK_1, SPI1 SPI1_NPCS_1, HSMC NCS_0, I2SC0 I2SC0_DO_0, LCDC LCDVSYNC_]
+- K10 : PC6,  of Type IO, alternates : [LCDC LCDHSYNC_, TWIHS1 TWD_1, PIO P_70, ISC ISC_HSYNC_, SPI1 SPI1_NPCS_2]
+- M16 : PC7,  of Type IO, alternates : [LCDC LCDPCK_, TWIHS1 TWCK_1, ISC ISC_MCK_, UART1 URXD_1, HSMC NCS_2, SPI1 SPI1_NPCS_3, PIO P_71]
+- J10 : PC8,  of Type IO, alternates : [LCDC LCDDEN_, HSMC NANDRDY_, SAIC FIQ_, ISC ISC_FIELD_, UART1 UTXD_1, PIO P_72, PMC PCK_0]
+- D1 : PC9,  of Type IO, alternates : [SAIC FIQ_, ISC ISC_D_0, PIO P_73, TC1 TIOA_4, GMAC GTSUCOMP_]
+- E3 : PC10,  of Type IO, alternates : [MCAN0 CANTX_0, ISC ISC_D_1, TC1 TIOB_4, PIO P_74, LCDC LCDDAT_2, GMAC GTXCK_]
+- E2 : PC11,  of Type IO, alternates : [ISC ISC_D_2, LCDC LCDDAT_3, MCAN0 CANRX_0, GMAC GTXEN_, PIO P_75, HSMC A0_, TC1 TCLK_4]
+- E1 : PC12,  of Type IO, alternates : [ISC ISC_D_3, LCDC LCDDAT_4, PIO P_76, GMAC GRXDV_, HSMC A_1, UART3 URXD_3, SSC0 TK_0]
+- F3 : PC13,  of Type IO, alternates : [LCDC LCDDAT_5, GMAC GRXER_, SSC0 TF_0, PIO P_77, UART3 UTXD_3, ISC ISC_D_4, HSMC A_2]
+- F5 : PC14,  of Type IO, alternates : [LCDC LCDDAT_6, SSC0 TD_0, PIO P_78, ISC ISC_D_5, HSMC A_3, GMAC GRX_0]
+- F2 : PC15,  of Type IO, alternates : [SSC0 RD_0, ISC ISC_D_6, LCDC LCDDAT_7, PIO P_79, HSMC A_4, GMAC GRX_1]
+- G6 : PC16,  of Type IO, alternates : [ISC ISC_D_7, HSMC A_5, GMAC GTX_0, SSC0 RK_0, LCDC LCDDAT_10, PIO P_80]
+- F1 : PC17,  of Type IO, alternates : [HSMC A_6, GMAC GTX_1, ISC ISC_D_8, LCDC LCDDAT_11, SSC0 RF_0, PIO P_81]
+- H6 : PC18,  of Type IO, alternates : [HSMC A_7, FLEXCOM3 FLEXCOM3_IO_2, GMAC GMDC_, ISC ISC_D_9, LCDC LCDDAT_12, PIO P_82]
+- G2 : PC19,  of Type IO, alternates : [GMAC GMDIO_, HSMC A_8, FLEXCOM3 FLEXCOM3_IO_1, ISC ISC_D_10, PIO P_83, LCDC LCDDAT_13]
+- G3 : PC20,  of Type IO, alternates : [HSMC A_9, FLEXCOM3 FLEXCOM3_IO_0, ISC ISC_D_11, LCDC LCDDAT_14, PIO P_84, GMAC GRXCK_]
+- G1 : PC21,  of Type IO, alternates : [ISC ISC_PCK_, GMAC GTXER_, FLEXCOM3 FLEXCOM3_IO_3, LCDC LCDDAT_15, PIO P_85, HSMC A_10]
+- H2 : PC22,  of Type IO, alternates : [ISC ISC_VSYNC_, LCDC LCDDAT_18, HSMC A_11, FLEXCOM3 FLEXCOM3_IO_4, PIO P_86, GMAC GCRS_]
+- G5 : PC23,  of Type IO, alternates : [LCDC LCDDAT_19, PIO P_87, HSMC A_12, GMAC GCOL_, ISC ISC_HSYNC_]
+- H1 : PC24,  of Type IO, alternates : [GMAC GRX_2, ISC ISC_MCK_, PIO P_88, HSMC A_13, LCDC LCDDAT_20]
+- H5 : PC25,  of Type IO, alternates : [GMAC GRX_3, ISC ISC_FIELD_, PIO P_89, HSMC A_14, LCDC LCDDAT_21]
+- J9 : PC26,  of Type IO, alternates : [MCAN1 CANTX_1, HSMC A_15, GMAC GTX_2, LCDC LCDDAT_22, PIO P_90]
+- H9 : PC27,  of Type IO, alternates : [MCAN1 CANRX_1, PMC PCK_1, TWIHS0 TWD_0, HSMC A_16, GMAC GTX_3, LCDC LCDDAT_23, PIO P_91]
+- E8 : PC28,  of Type IO, alternates : [PMC PCK_2, TWIHS0 TWCK_0, HSMC A_17, LCDC LCDPWM_, FLEXCOM4 FLEXCOM4_IO_0, PIO P_92]
+- G8 : PC29,  of Type IO, alternates : [HSMC A_18, LCDC LCDDISP_, FLEXCOM4 FLEXCOM4_IO_1, PIO P_93]
+- F8 : PC30,  of Type IO, alternates : [HSMC A_19, PIO P_94, FLEXCOM4 FLEXCOM4_IO_2, LCDC LCDVSYNC_]
+- D8 : PC31,  of Type IO, alternates : [LCDC LCDHSYNC_, FLEXCOM4 FLEXCOM4_IO_3, PIO P_95, UART3 URXD_3, HSMC A_20]
+- G10 : PD0,  of Type IO, alternates : [LCDC LCDPCK_, UART3 UTXD_3, HSMC A_23, GMAC GTSUCOMP_, PIO P_96, FLEXCOM4 FLEXCOM4_IO_4]
+- E10 : PD1,  of Type IO, alternates : [LCDC LCDDEN_, HSMC A_24, PIO P_97, GMAC GRXCK_]
+- G9 : PD2,  of Type IO, alternates : [GMAC GTXER_, ISC ISC_MCK_, PIO P_98, HSMC A_25, UART1 URXD_1]
+- K1 : PD3,  of Type IO, alternates : [SAIC FIQ_, PIO P_99, ISC ISC_D_11, UART1 UTXD_1, HSMC NWAIT_, PTC PTC_X_0, GMAC GCRS_]
+- J6 : PD4,  of Type IO, alternates : [ISC ISC_D_10, HSMC NCS_0, GMAC GCOL_, TWIHS1 TWD_1, UART2 URXD_2, PIO P_100, PTC PTC_X_1]
+- J4 : PD5,  of Type IO, alternates : [TWIHS1 TWCK_1, GMAC GRX_2, UART2 UTXD_2, HSMC NCS_1, PIO P_101, ISC ISC_D_9, PTC PTC_X_2]
+- J2 : PD6,  of Type IO, alternates : [PMC PCK_1, GMAC GRX_3, ICE TCK_, PIO P_102, ISC ISC_D_8, HSMC NCS_2, PTC PTC_X_3]
+- J7 : PD7,  of Type IO, alternates : [ISC ISC_D_0, ICE TDI_, PIO P_103, PTC PTC_X_4, GMAC GTX_2, HSMC NWR1_]
+- J1 : PD8,  of Type IO, alternates : [HSMC NANDRDY_, ISC ISC_D_1, PTC PTC_X_5, ICE TDO_, GMAC GTX_3, PIO P_104]
+- K9 : PD9,  of Type IO, alternates : [ISC ISC_D_2, ICE TMS_, PTC PTC_X_6, PIO P_105, GMAC GTXCK_]
+- J3 : PD10,  of Type IO, alternates : [ISC ISC_D_3, ICE NTRST_, GMAC GTXEN_, PTC PTC_X_7, PIO P_106]
+- M1 : PD11,  of Type IO, alternates : [PMC PCK_2, ISC ISC_MCK_, ISC ISC_D_4, GMAC GRXDV_, TC0 TIOA_1, PIO P_107, PTC PTC_Y_0]
+- K8 : PD12,  of Type IO, alternates : [GMAC GRXER_, PIO P_108, ISC ISC_D_4, FLEXCOM4 FLEXCOM4_IO_0, ISC ISC_D_5, TC0 TIOB_1, PTC PTC_Y_1]
+- L2 : PD13,  of Type IO, alternates : [PIO P_109, TC0 TCLK_1, ISC ISC_D_6, FLEXCOM4 FLEXCOM4_IO_1, ISC ISC_D_5, GMAC GRX_0, PTC PTC_Y_2]
+- K4 : PD14,  of Type IO, alternates : [ISC ISC_D_6, PIO P_110, ISC ISC_D_7, ICE TCK_, FLEXCOM4 FLEXCOM4_IO_2, PTC PTC_Y_3, GMAC GRX_1]
+- K7 : PD15,  of Type IO, alternates : [ISC ISC_PCK_, ICE TDI_, ISC ISC_D_7, FLEXCOM4 FLEXCOM4_IO_3, GMAC GTX_0, PTC PTC_Y_4, PIO P_111]
+- L1 : PD16,  of Type IO, alternates : [ISC ISC_VSYNC_, GMAC GTX_1, ICE TDO_, ISC ISC_D_8, PIO P_112, FLEXCOM4 FLEXCOM4_IO_4, PTC PTC_Y_5]
+- K2 : PD17,  of Type IO, alternates : [ICE TMS_, PIO P_113, PTC PTC_Y_6, GMAC GMDC_, ISC ISC_D_9, ISC ISC_HSYNC_]
+- J5 : PD18,  of Type IO, alternates : [GMAC GMDIO_, ICE NTRST_, ISC ISC_FIELD_, PTC PTC_Y_7, ISC ISC_D_10, PIO P_114]
+- K6 : PD19,  of Type IO, alternates : [I2SC0 I2SC0_CK_, ISC ISC_D_11, TWIHS1 TWD_1, UART2 URXD_2, ADC AD_0, PIO P_115, PMC PCK_0]
+- M2 : PD20,  of Type IO, alternates : [ISC ISC_PCK_, TWIHS1 TWCK_1, UART2 UTXD_2, TC0 TIOA_2, PIO P_116, ADC AD_1, I2SC0 I2SC0_MCK_]
+- N1 : PD21,  of Type IO, alternates : [ISC ISC_VSYNC_, TWIHS0 TWD_0, I2SC0 I2SC0_WS_, FLEXCOM4 FLEXCOM4_IO_0, TC0 TIOB_2, ADC AD_2, PIO P_117]
+- L4 : PD22,  of Type IO, alternates : [TWIHS0 TWCK_0, FLEXCOM4 FLEXCOM4_IO_1, I2SC0 I2SC0_DI_0, PIO P_118, TC0 TCLK_2, ADC AD_3, ISC ISC_HSYNC_]
+- M3 : PD23,  of Type IO, alternates : [ADC AD_4, PIO P_119, ISC ISC_FIELD_, FLEXCOM4 FLEXCOM4_IO_2, UART2 URXD_2, I2SC0 I2SC0_DO_0]
+- L7 : PD24,  of Type IO, alternates : [ADC AD_5, UART2 UTXD_2, PIO P_120, FLEXCOM4 FLEXCOM4_IO_3]
+- L6 : PD25,  of Type IO, alternates : [ADC AD_6, PIO P_121, SPI1 SPI1_SPCK_, FLEXCOM4 FLEXCOM4_IO_4]
+- N2 : PD26,  of Type IO, alternates : [ADC AD_7, FLEXCOM2 FLEXCOM2_IO_0, SPI1 SPI1_MOSI_, PIO P_122]
+- L8 : PD27,  of Type IO, alternates : [SPI1 SPI1_MISO_, ADC AD_8, FLEXCOM2 FLEXCOM2_IO_1, ICE TCK_, PIO P_123]
+- M4 : PD28,  of Type IO, alternates : [ICE TDI_, ADC AD_9, FLEXCOM2 FLEXCOM2_IO_2, PIO P_124, SPI1 SPI1_NPCS_0]
+- N3 : PD29,  of Type IO, alternates : [TWIHS0 TWD_0, PIO P_125, SPI1 SPI1_NPCS_1, FLEXCOM2 FLEXCOM2_IO_3, ICE TDO_, TC1 TIOA_3, ADC AD_10]
+- L9 : PD30,  of Type IO, alternates : [TWIHS0 TWCK_0, ICE TMS_, TC1 TIOB_3, FLEXCOM2 FLEXCOM2_IO_4, ADC AD_11, PIO P_126, SPI1 SPI1_NPCS_2]
+- M7 : PD31,  of Type IO, alternates : [AIC IRQ_, ADC ADTRG_, ICE NTRST_, PIO P_127, TC1 TCLK_3, PMC PCK_0]
+- L5 : VDDANA,  of Type PP
+- K5 : GNDANA,  of Type PS
+- M6 : ADVREF,  of Type PS
+- K3 : VDDANA,  of Type PP
+- L3 : GNDANA,  of Type PS
+- H16 : DDR_VREF,  of Type PS
+- D16 : DDR_VREF,  of Type PS
+- B12 : DDR_D0,  of Type IO
+- A12 : DDR_D1,  of Type IO
+- C12 : DDR_D2,  of Type IO
+- A13 : DDR_D3,  of Type IO
+- A14 : DDR_D4,  of Type IO
+- C13 : DDR_D5,  of Type IO
+- A15 : DDR_D6,  of Type IO
+- B15 : DDR_D7,  of Type IO
+- G17 : DDR_D8,  of Type IO
+- G16 : DDR_D9,  of Type IO
+- H17 : DDR_D10,  of Type IO
+- K17 : DDR_D11,  of Type IO
+- K16 : DDR_D12,  of Type IO
+- J13 : DDR_D13,  of Type IO
+- K14 : DDR_D14,  of Type IO
+- K15 : DDR_D15,  of Type IO
+- B8 : DDR_D16,  of Type IO
+- B9 : DDR_D17,  of Type IO
+- C9 : DDR_D18,  of Type IO
+- A9 : DDR_D19,  of Type IO
+- A10 : DDR_D20,  of Type IO
+- D10 : DDR_D21,  of Type IO
+- B11 : DDR_D22,  of Type IO
+- A11 : DDR_D23,  of Type IO
+- J12 : DDR_D24,  of Type IO
+- H10 : DDR_D25,  of Type IO
+- J11 : DDR_D26,  of Type IO
+- K11 : DDR_D27,  of Type IO
+- L13 : DDR_D28,  of Type IO
+- L11 : DDR_D29,  of Type IO
+- L12 : DDR_D30,  of Type IO
+- M17 : DDR_D31,  of Type IO
+- F12 : DDR_A0,  of Type OP
+- C17 : DDR_A1,  of Type OP
+- B17 : DDR_A2,  of Type OP
+- B16 : DDR_A3,  of Type OP
+- C16 : DDR_A4,  of Type OP
+- G14 : DDR_A5,  of Type OP
+- F14 : DDR_A6,  of Type OP
+- F11 : DDR_A7,  of Type OP
+- C14 : DDR_A8,  of Type OP
+- D13 : DDR_A9,  of Type OP
+- C15 : DDR_A10,  of Type OP
+- A16 : DDR_A11,  of Type OP
+- A17 : DDR_A12,  of Type OP
+- G11 : DDR_A13,  of Type OP
+- E17 : DDR_CLK,  of Type OP
+- D17 : DDR_CLKN,  of Type OP
+- F16 : DDR_CKE,  of Type OP
+- E16 : DDR_RESETN,  of Type OP
+- G13 : DDR_CS,  of Type OP
+- F15 : DDR_WE,  of Type OP
+- F13 : DDR_RAS,  of Type OP
+- G12 : DDR_CAS,  of Type OP
+- C11 : DDR_DQM0,  of Type OP
+- G15 : DDR_DQM1,  of Type OP
+- C8 : DDR_DQM2,  of Type OP
+- H11 : DDR_DQM3,  of Type OP
+- B13 : DDR_DQS0,  of Type OP
+- J17 : DDR_DQS1,  of Type OP
+- C10 : DDR_DQS2,  of Type OP
+- L17 : DDR_DQS3,  of Type OP
+- B14 : DDR_DQSN0,  of Type OP
+- J16 : DDR_DQSN1,  of Type OP
+- B10 : DDR_DQSN2,  of Type OP
+- L16 : DDR_DQSN3,  of Type OP
+- H12 : DDR_BA0,  of Type OP
+- H13 : DDR_BA1,  of Type OP
+- F17 : DDR_BA2,  of Type OP
+- E13 : DDR_,  of Type IO
+- L15 : VDDIODDR,  of Type PP
+- J15 : VDDIODDR,  of Type PP
+- H15 : VDDIODDR,  of Type PP
+- E15 : VDDIODDR,  of Type PP
+- D15 : VDDIODDR,  of Type PP
+- D12 : VDDIODDR,  of Type PP
+- D11 : VDDIODDR,  of Type PP
+- L14 : GNDIODDR,  of Type PS
+- J14 : GNDIODDR,  of Type PS
+- H14 : GNDIODDR,  of Type PS
+- E14 : GNDIODDR,  of Type PS
+- D14 : GNDIODDR,  of Type PS
+- E12 : GNDIODDR,  of Type PS
+- E11 : GNDIODDR,  of Type PS
+- H3 : VDDCORE,  of Type PP
+- N5 : VDDCORE,  of Type PP
+- N9 : VDDCORE,  of Type PP
+- K13 : VDDCORE,  of Type PP
+- D9 : VDDCORE,  of Type PP
+- D7 : VDDCORE,  of Type PP
+- H4 : GNDCORE,  of Type PS
+- M5 : GNDCORE,  of Type PS
+- M9 : GNDCORE,  of Type PS
+- K12 : GNDCORE,  of Type PS
+- E9 : GNDCORE,  of Type PS
+- E7 : GNDCORE,  of Type PS
+- E6 : VDDIOP0,  of Type PP
+- F7 : VDDIOP0,  of Type PP
+- F6 : GNDIOP0,  of Type PS
+- G7 : GNDIOP0,  of Type PS
+- R14 : VDDIOP1,  of Type PP
+- N13 : VDDIOP1,  of Type PP
+- M13 : GNDIOP1,  of Type PS
+- P14 : GNDIOP1,  of Type PS
+- F10 : VDDIOP2,  of Type PP
+- F9 : GNDIOP2,  of Type PS
+- P11 : VDDSDMMC,  of Type PP
+- R11 : GNDSDMMC,  of Type PS
+- F4 : VDDISC,  of Type PP
+- G4 : GNDISC,  of Type PS
+- M12 : VDDFUSE,  of Type PP
+- U4 : VDDPLLA,  of Type PP
+- U5 : GNDPLLA,  of Type PS
+- T3 : VDDAUDIOPLL,  of Type PP
+- T5 : GNDDPLL,  of Type PS
+- T4 : GNDAUDIOPLL,  of Type PS
+- U3 : CLK_AUDIO,  of Type IO
+- U7 : XIN,  of Type PS
+- U6 : XOUT,  of Type PS
+- T7 : VDDOSC,  of Type PP
+- T6 : GNDOSC,  of Type PS
+- P8 : VDDUTMII,  of Type PP
+- R9 : VDDHSIC,  of Type PP
+- P9 : GNDUTMII,  of Type PS
+- T8 : HHSDPA,  of Type IO
+- R8 : HHSDMA,  of Type IO
+- U8 : HHSDPB,  of Type IO
+- U9 : HHSDMB,  of Type IO
+- T9 : HHSDPDATC,  of Type IO
+- U10 : HHSDMSTRC,  of Type IO
+- P7 : VDDUTMIC,  of Type PP
+- R7 : GNDUTMIC,  of Type PS
+- T10 : SDCAL,  of Type IO
+- R6 : VBG,  of Type IO
+- P3 : TST,  of Type IO
+- U2 : NRST,  of Type IP
+- T2 : JTAGSEL,  of Type OP
+- P4 : WKUP,  of Type IP
+- N4 : RXD,  of Type IP
+- R1 : SHDN,  of Type IO
+- R3 : PIOBU0,  of Type IO
+- N8 : PIOBU1,  of Type IO
+- R2 : PIOBU2,  of Type IO
+- R5 : PIOBU3,  of Type IO
+- R4 : PIOBU4,  of Type IO
+- P5 : PIOBU5,  of Type IO
+- P6 : PIOBU6,  of Type IO
+- M8 : PIOBU7,  of Type IO
+- N7 : VDDBU,  of Type PP
+- N6 : GNDBU,  of Type PS
+- P1 : XIN32,  of Type PS
+- P2 : XOUT32,  of Type PS
+- T1 : COMPP,  of Type IO
+- U1 : COMPN,  of Type IO
 ## ATSAMA5D27C-CN
+
 ### Description : 
+
+- Series : SAMA5D2
+- Footprint : LFBGA289
+- MP : ATSAMA5D27C-CN
+- Architecture : CORTEX-A5
+- PINOUT : LFBGA289
+- Reference : U
+- Documentation : https://www.microchip.com/en-us/search?q=ATSAMA5D27C-CN
+- Value : ATSAMA5D27C-CN
+- Family : SAMA5
+- MF : Microchip
+- Name : ATSAMA5D27
 
 ### Package : 
 
-- U11 : PA0
-- P10 : PA1
-- T11 : PA2
-- R10 : PA3
-- U12 : PA4
-- T12 : PA5
-- R12 : PA6
-- T13 : PA7
-- N10 : PA8
-- N11 : PA9
-- U13 : PA10
-- P15 : PA11
-- N15 : PA12
-- P16 : PA13
-- M14 : PA14
-- N16 : PA15
-- M10 : PA16
-- N17 : PA17
-- U14 : PA18
-- T14 : PA19
-- P12 : PA20
-- R13 : PA21
-- U15 : PA22
-- U16 : PA23
-- T15 : PA24
-- U17 : PA25
-- P13 : PA26
-- T16 : PA27
-- R16 : PA28
-- T17 : PA29
-- R15 : PA30
-- R17 : PA31
-- J8 : PB0
-- A8 : PB1
-- A7 : PB2
-- A6 : PB3
-- B6 : PB4
-- B7 : PB5
-- C7 : PB6
-- C6 : PB7
-- A5 : PB8
-- A4 : PB9
-- H8 : PB10
-- B5 : PB11
-- D6 : PB12
-- B4 : PB13
-- C5 : PB14
-- H7 : PB15
-- D5 : PB16
-- C4 : PB17
-- A3 : PB18
-- D4 : PB19
-- B3 : PB20
-- A2 : PB21
-- C3 : PB22
-- A1 : PB23
-- E5 : PB24
-- B2 : PB25
-- E4 : PB26
-- B1 : PB27
-- C2 : PB28
-- D3 : PB29
-- D2 : PB30
-- C1 : PB31
-- P17 : PC0
-- N12 : PC1
-- N14 : PC2
-- M15 : PC3
-- M11 : PC4
-- L10 : PC5
-- K10 : PC6
-- M16 : PC7
-- J10 : PC8
-- D1 : PC9
-- E3 : PC10
-- E2 : PC11
-- E1 : PC12
-- F3 : PC13
-- F5 : PC14
-- F2 : PC15
-- G6 : PC16
-- F1 : PC17
-- H6 : PC18
-- G2 : PC19
-- G3 : PC20
-- G1 : PC21
-- H2 : PC22
-- G5 : PC23
-- H1 : PC24
-- H5 : PC25
-- J9 : PC26
-- H9 : PC27
-- E8 : PC28
-- G8 : PC29
-- F8 : PC30
-- D8 : PC31
-- G10 : PD0
-- E10 : PD1
-- G9 : PD2
-- K1 : PD3
-- J6 : PD4
-- J4 : PD5
-- J2 : PD6
-- J7 : PD7
-- J1 : PD8
-- K9 : PD9
-- J3 : PD10
-- M1 : PD11
-- K8 : PD12
-- L2 : PD13
-- K4 : PD14
-- K7 : PD15
-- L1 : PD16
-- K2 : PD17
-- J5 : PD18
-- K6 : PD19
-- M2 : PD20
-- N1 : PD21
-- L4 : PD22
-- M3 : PD23
-- L7 : PD24
-- L6 : PD25
-- N2 : PD26
-- L8 : PD27
-- M4 : PD28
-- N3 : PD29
-- L9 : PD30
-- M7 : PD31
-- L5 : VDDANA
-- K5 : GNDANA
-- M6 : ADVREF
-- K3 : VDDANA
-- L3 : GNDANA
-- H16 : DDR_VREF
-- D16 : DDR_VREF
-- B12 : DDR_D0
-- A12 : DDR_D1
-- C12 : DDR_D2
-- A13 : DDR_D3
-- A14 : DDR_D4
-- C13 : DDR_D5
-- A15 : DDR_D6
-- B15 : DDR_D7
-- G17 : DDR_D8
-- G16 : DDR_D9
-- H17 : DDR_D10
-- K17 : DDR_D11
-- K16 : DDR_D12
-- J13 : DDR_D13
-- K14 : DDR_D14
-- K15 : DDR_D15
-- B8 : DDR_D16
-- B9 : DDR_D17
-- C9 : DDR_D18
-- A9 : DDR_D19
-- A10 : DDR_D20
-- D10 : DDR_D21
-- B11 : DDR_D22
-- A11 : DDR_D23
-- J12 : DDR_D24
-- H10 : DDR_D25
-- J11 : DDR_D26
-- K11 : DDR_D27
-- L13 : DDR_D28
-- L11 : DDR_D29
-- L12 : DDR_D30
-- M17 : DDR_D31
-- F12 : DDR_A0
-- C17 : DDR_A1
-- B17 : DDR_A2
-- B16 : DDR_A3
-- C16 : DDR_A4
-- G14 : DDR_A5
-- F14 : DDR_A6
-- F11 : DDR_A7
-- C14 : DDR_A8
-- D13 : DDR_A9
-- C15 : DDR_A10
-- A16 : DDR_A11
-- A17 : DDR_A12
-- G11 : DDR_A13
-- E17 : DDR_CLK
-- D17 : DDR_CLKN
-- F16 : DDR_CKE
-- E16 : DDR_RESETN
-- G13 : DDR_CS
-- F15 : DDR_WE
-- F13 : DDR_RAS
-- G12 : DDR_CAS
-- C11 : DDR_DQM0
-- G15 : DDR_DQM1
-- C8 : DDR_DQM2
-- H11 : DDR_DQM3
-- B13 : DDR_DQS0
-- J17 : DDR_DQS1
-- C10 : DDR_DQS2
-- L17 : DDR_DQS3
-- B14 : DDR_DQSN0
-- J16 : DDR_DQSN1
-- B10 : DDR_DQSN2
-- L16 : DDR_DQSN3
-- H12 : DDR_BA0
-- H13 : DDR_BA1
-- F17 : DDR_BA2
-- E13 : DDR_
-- L15 : VDDIODDR
-- J15 : VDDIODDR
-- H15 : VDDIODDR
-- E15 : VDDIODDR
-- D15 : VDDIODDR
-- D12 : VDDIODDR
-- D11 : VDDIODDR
-- L14 : GNDIODDR
-- J14 : GNDIODDR
-- H14 : GNDIODDR
-- E14 : GNDIODDR
-- D14 : GNDIODDR
-- E12 : GNDIODDR
-- E11 : GNDIODDR
-- H3 : VDDCORE
-- N5 : VDDCORE
-- N9 : VDDCORE
-- K13 : VDDCORE
-- D9 : VDDCORE
-- D7 : VDDCORE
-- H4 : GNDCORE
-- M5 : GNDCORE
-- M9 : GNDCORE
-- K12 : GNDCORE
-- E9 : GNDCORE
-- E7 : GNDCORE
-- E6 : VDDIOP0
-- F7 : VDDIOP0
-- F6 : GNDIOP0
-- G7 : GNDIOP0
-- R14 : VDDIOP1
-- N13 : VDDIOP1
-- M13 : GNDIOP1
-- P14 : GNDIOP1
-- F10 : VDDIOP2
-- F9 : GNDIOP2
-- P11 : VDDSDMMC
-- R11 : GNDSDMMC
-- F4 : VDDISC
-- G4 : GNDISC
-- M12 : VDDFUSE
-- U4 : VDDPLLA
-- U5 : GNDPLLA
-- T3 : VDDAUDIOPLL
-- T5 : GNDDPLL
-- T4 : GNDAUDIOPLL
-- U3 : CLK_AUDIO
-- U7 : XIN
-- U6 : XOUT
-- T7 : VDDOSC
-- T6 : GNDOSC
-- P8 : VDDUTMII
-- R9 : VDDHSIC
-- P9 : GNDUTMII
-- T8 : HHSDPA
-- R8 : HHSDMA
-- U8 : HHSDPB
-- U9 : HHSDMB
-- T9 : HHSDPDATC
-- U10 : HHSDMSTRC
-- P7 : VDDUTMIC
-- R7 : GNDUTMIC
-- T10 : SDCAL
-- R6 : VBG
-- P3 : TST
-- U2 : NRST
-- T2 : JTAGSEL
-- P4 : WKUP
-- N4 : RXD
-- R1 : SHDN
-- R3 : PIOBU0
-- N8 : PIOBU1
-- R2 : PIOBU2
-- R5 : PIOBU3
-- R4 : PIOBU4
-- P5 : PIOBU5
-- P6 : PIOBU6
-- M8 : PIOBU7
-- N7 : VDDBU
-- N6 : GNDBU
-- P1 : XIN32
-- P2 : XOUT32
-- T1 : COMPP
-- U1 : COMPN
+Pin count : 289
+- U11 : PA0,  of Type IO, alternates : [HSMC D_0, PIO P_0, SDMMC0 SDMMC0_CK_, QSPI0 QSPI0_SCK_]
+- P10 : PA1,  of Type IO, alternates : [SDMMC0 SDMMC0_CMD_, PIO P_1, QSPI0 QSPI0_CS_, HSMC D_1]
+- T11 : PA2,  of Type IO, alternates : [PIO P_2, HSMC D_2, SDMMC0 SDMMC0_DAT_0, QSPI0 QSPI0_IO_0]
+- R10 : PA3,  of Type IO, alternates : [PIO P_3, HSMC D_3, SDMMC0 SDMMC0_DAT_1, QSPI0 QSPI0_IO_1]
+- U12 : PA4,  of Type IO, alternates : [HSMC D_4, PIO P_4, SDMMC0 SDMMC0_DAT_2, QSPI0 QSPI0_IO_2]
+- T12 : PA5,  of Type IO, alternates : [PIO P_5, HSMC D_5, QSPI0 QSPI0_IO_3, SDMMC0 SDMMC0_DAT_3]
+- R12 : PA6,  of Type IO, alternates : [PIO P_6, HSMC D_6, FLEXCOM2 FLEXCOM2_IO_0, TC1 TIOA_5, QSPI1 QSPI1_SCK_, SDMMC0 SDMMC0_DAT_4]
+- T13 : PA7,  of Type IO, alternates : [PIO P_7, QSPI1 QSPI1_IO_0, HSMC D_7, FLEXCOM2 FLEXCOM2_IO_1, SDMMC0 SDMMC0_DAT_5, TC1 TIOB_5]
+- N10 : PA8,  of Type IO, alternates : [PIO P_8, QSPI1 QSPI1_IO_1, FLEXCOM2 FLEXCOM2_IO_2, HSMC NANDNWE_, TC1 TCLK_5, SDMMC0 SDMMC0_DAT_6]
+- N11 : PA9,  of Type IO, alternates : [SDMMC0 SDMMC0_DAT_7, QSPI1 QSPI1_IO_2, FLEXCOM2 FLEXCOM2_IO_3, TC1 TIOA_4, HSMC NCS_3, PIO P_9]
+- U13 : PA10,  of Type IO, alternates : [PIO P_10, QSPI1 QSPI1_IO_3, SDMMC0 SDMMC0_RSTN_, HSMC A21_, TC1 TIOB_4, FLEXCOM2 FLEXCOM2_IO_4]
+- P15 : PA11,  of Type IO, alternates : [QSPI1 QSPI1_CS_, SDMMC0 SDMMC0_1V8SEL_, PIO P_11, HSMC A22_, TC1 TCLK_4]
+- N15 : PA12,  of Type IO, alternates : [AIC IRQ_, SDMMC0 SDMMC0_WP_, PIO P_12, HSMC NANDOE_]
+- P16 : PA13,  of Type IO, alternates : [HSMC D_8, FLEXCOM3 FLEXCOM3_IO_1, PIO P_13, SDMMC0 SDMMC0_CD_]
+- M14 : PA14,  of Type IO, alternates : [PIO P_14, SPI0 SPI0_SPCK_, HSMC D_9, SSC1 TK_1, I2SC1 I2SC1_MCK_, FLEXCOM3 FLEXCOM3_IO_2, QSPI0 QSPI0_SCK_]
+- N16 : PA15,  of Type IO, alternates : [PIO P_15, HSMC D_10, QSPI0 QSPI0_CS_, FLEXCOM3 FLEXCOM3_IO_0, SSC1 TF_1, SPI0 SPI0_MOSI_, I2SC1 I2SC1_CK_]
+- M10 : PA16,  of Type IO, alternates : [PIO P_16, HSMC D_11, I2SC1 I2SC1_WS_, FLEXCOM3 FLEXCOM3_IO_3, SPI0 SPI0_MISO_, SSC1 TD_1, QSPI0 QSPI0_IO_0]
+- N17 : PA17,  of Type IO, alternates : [I2SC1 I2SC1_DI_0, PIO P_17, HSMC D_12, SPI0 SPI0_NPCS_0, FLEXCOM3 FLEXCOM3_IO_4, QSPI0 QSPI0_IO_1, SSC1 RD_1]
+- U14 : PA18,  of Type IO, alternates : [HSMC D_13, SSC1 RK_1, SPI0 SPI0_NPCS_1, I2SC1 I2SC1_DO_0, PIO P_18, QSPI0 QSPI0_IO_2, SDMMC1 SDMMC1_DAT_0]
+- T14 : PA19,  of Type IO, alternates : [SSC1 RF_1, SPI0 SPI0_NPCS_2, HSMC D_14, TC0 TIOA_0, QSPI0 QSPI0_IO_3, PIO P_19, SDMMC1 SDMMC1_DAT_1]
+- P12 : PA20,  of Type IO, alternates : [SPI0 SPI0_NPCS_3, HSMC D_15, TC0 TIOB_0, PIO P_20, SDMMC1 SDMMC1_DAT_2]
+- R13 : PA21,  of Type IO, alternates : [AIC IRQ_, PMC PCK_2, HSMC NANDRDY_, TC0 TCLK_0, PIO P_21, SDMMC1 SDMMC1_DAT_3]
+- U15 : PA22,  of Type IO, alternates : [PIO P_22, ICE TCK_, FLEXCOM1 FLEXCOM1_IO_2, HSMC D_0, SPI1 SPI1_SPCK_, SDMMC1 SDMMC1_CK_, QSPI0 QSPI0_SCK_]
+- U16 : PA23,  of Type IO, alternates : [ICE TDI_, PIO P_23, QSPI0 QSPI0_CS_, SPI1 SPI1_MOSI_, FLEXCOM1 FLEXCOM1_IO_1, HSMC D_1]
+- T15 : PA24,  of Type IO, alternates : [SPI1 SPI1_MISO_, FLEXCOM1 FLEXCOM1_IO_0, HSMC D_2, PIO P_24, ICE TDO_, QSPI0 QSPI0_IO_0]
+- U17 : PA25,  of Type IO, alternates : [PIO P_25, ICE TMS_, HSMC D_3, FLEXCOM1 FLEXCOM1_IO_3, SPI1 SPI1_NPCS_0, QSPI0 QSPI0_IO_1]
+- P13 : PA26,  of Type IO, alternates : [PIO P_26, ICE NTRST_, HSMC D_4, SPI1 SPI1_NPCS_1, FLEXCOM1 FLEXCOM1_IO_4, QSPI0 QSPI0_IO_2]
+- T16 : PA27,  of Type IO, alternates : [PIO P_27, SPI0 SPI0_NPCS_2, SDMMC1 SDMMC1_RSTN_, HSMC D_5, TC0 TIOA_1, QSPI0 QSPI0_IO_3, SPI1 SPI1_NPCS_2]
+- R16 : PA28,  of Type IO, alternates : [HSMC D_6, PIO P_28, SPI0 SPI0_NPCS_3, CLASSD CLASSD_L_0, SDMMC1 SDMMC1_CMD_, TC0 TIOB_1, SPI1 SPI1_NPCS_3]
+- T17 : PA29,  of Type IO, alternates : [HSMC D_7, TC0 TCLK_1, SDMMC1 SDMMC1_WP_, CLASSD CLASSD_L_1, SPI0 SPI0_NPCS_1, PIO P_29]
+- R15 : PA30,  of Type IO, alternates : [SPI0 SPI0_NPCS_0, PWM PWMH_0, CLASSD CLASSD_L_2, PIO P_30, HSMC NANDNWE_, SDMMC1 SDMMC1_CD_]
+- R17 : PA31,  of Type IO, alternates : [PWM PWML_0, HSMC NCS_3, CLASSD CLASSD_L_3, PIO P_31, SPI0 SPI0_MISO_]
+- J8 : PB0,  of Type IO, alternates : [PIO P_32, PWM PWMH_1, HSMC A21_, SPI0 SPI0_MOSI_]
+- A8 : PB1,  of Type IO, alternates : [SPI0 SPI0_SPCK_, PIO P_33, PWM PWML_1, HSMC A22_, CLASSD CLASSD_R_0]
+- A7 : PB2,  of Type IO, alternates : [PIO P_34, PWM PWMFI_0, CLASSD CLASSD_R_1, HSMC NANDOE_]
+- A6 : PB3,  of Type IO, alternates : [HSMC D_8, AIC IRQ_, PWM PWMEXTRG_1, PIO P_35, CLASSD CLASSD_R_2, UART4 URXD_4]
+- B6 : PB4,  of Type IO, alternates : [PIO P_36, HSMC D_9, SAIC FIQ_, UART4 UTXD_4, CLASSD CLASSD_R_3]
+- B7 : PB5,  of Type IO, alternates : [PIO P_37, HSMC D_10, PWM PWMH_2, QSPI1 QSPI1_SCK_, GMAC GTSUCOMP_, TC0 TCLK_2]
+- C7 : PB6,  of Type IO, alternates : [PIO P_38, HSMC D_11, QSPI1 QSPI1_CS_, GMAC GTXER_, PWM PWML_2, TC0 TIOA_2]
+- C6 : PB7,  of Type IO, alternates : [PIO P_39, QSPI1 QSPI1_IO_0, HSMC D_12, PWM PWMH_3, TC0 TIOB_2, GMAC GRXCK_]
+- A5 : PB8,  of Type IO, alternates : [QSPI1 QSPI1_IO_1, HSMC D_13, PIO P_40, PWM PWML_3, GMAC GCRS_, TC1 TCLK_3]
+- A4 : PB9,  of Type IO, alternates : [QSPI1 QSPI1_IO_2, HSMC D_14, GMAC GCOL_, PIO P_41, TC1 TIOA_3, PWM PWMFI_1]
+- H8 : PB10,  of Type IO, alternates : [GMAC GRX_2, PWM PWMEXTRG_2, QSPI1 QSPI1_IO_3, HSMC D_15, TC1 TIOB_3, PIO P_42]
+- B5 : PB11,  of Type IO, alternates : [GMAC GRX_3, PIO P_43, PDMIC PDMIC_DAT_, UART3 URXD_3, LCDC LCDDAT_0, HSMC A0_]
+- D6 : PB12,  of Type IO, alternates : [PDMIC PDMIC_CLK_, PIO P_44, UART3 UTXD_3, GMAC GTX_2, HSMC A_1, LCDC LCDDAT_1]
+- B4 : PB13,  of Type IO, alternates : [PMC PCK_1, PIO P_45, GMAC GTX_3, HSMC A_2, LCDC LCDDAT_2]
+- C5 : PB14,  of Type IO, alternates : [SSC1 TK_1, I2SC1 I2SC1_MCK_, LCDC LCDDAT_3, PIO P_46, HSMC A_3, QSPI1 QSPI1_SCK_, GMAC GTXCK_]
+- H7 : PB15,  of Type IO, alternates : [PIO P_47, LCDC LCDDAT_4, QSPI1 QSPI1_CS_, GMAC GTXEN_, HSMC A_4, SSC1 TF_1, I2SC1 I2SC1_CK_]
+- D5 : PB16,  of Type IO, alternates : [LCDC LCDDAT_5, PIO P_48, I2SC1 I2SC1_WS_, QSPI1 QSPI1_IO_0, HSMC A_5, GMAC GRXDV_, SSC1 TD_1]
+- C4 : PB17,  of Type IO, alternates : [LCDC LCDDAT_6, GMAC GRXER_, I2SC1 I2SC1_DI_0, PIO P_49, QSPI1 QSPI1_IO_1, HSMC A_6, SSC1 RD_1]
+- A3 : PB18,  of Type IO, alternates : [HSMC A_7, SSC1 RK_1, QSPI1 QSPI1_IO_2, LCDC LCDDAT_7, PIO P_50, I2SC1 I2SC1_DO_0, GMAC GRX_0]
+- D4 : PB19,  of Type IO, alternates : [SSC1 RF_1, QSPI1 QSPI1_IO_3, HSMC A_8, LCDC LCDDAT_8, PIO P_51, TC1 TIOA_3, GMAC GRX_1]
+- B3 : PB20,  of Type IO, alternates : [PMC PCK_1, HSMC A_9, LCDC LCDDAT_9, GMAC GTX_0, TC1 TIOB_3, PIO P_52, SSC0 TK_0]
+- A2 : PB21,  of Type IO, alternates : [SSC0 TF_0, FLEXCOM3 FLEXCOM3_IO_2, GMAC GTX_1, PIO P_53, HSMC A_10, LCDC LCDDAT_10, TC1 TCLK_3]
+- C3 : PB22,  of Type IO, alternates : [SSC0 TD_0, PIO P_54, FLEXCOM3 FLEXCOM3_IO_1, HSMC A_11, GMAC GMDC_, TC0 TIOA_2, LCDC LCDDAT_11]
+- A1 : PB23,  of Type IO, alternates : [SSC0 RD_0, GMAC GMDIO_, PIO P_55, FLEXCOM3 FLEXCOM3_IO_0, TC0 TIOB_2, HSMC A_12, LCDC LCDDAT_12]
+- E5 : PB24,  of Type IO, alternates : [PIO P_56, FLEXCOM3 FLEXCOM3_IO_3, ISC ISC_D_10, HSMC A_13, SSC0 RK_0, LCDC LCDDAT_13, TC0 TCLK_2]
+- B2 : PB25,  of Type IO, alternates : [ISC ISC_D_11, PIO P_57, HSMC A_14, LCDC LCDDAT_14, FLEXCOM3 FLEXCOM3_IO_4, SSC0 RF_0]
+- E4 : PB26,  of Type IO, alternates : [PIO P_58, ISC ISC_D_0, HSMC A_15, PDMIC PDMIC_DAT_, LCDC LCDDAT_15, UART0 URXD_0]
+- B1 : PB27,  of Type IO, alternates : [PIO P_59, ISC ISC_D_1, PDMIC PDMIC_CLK_, HSMC A_16, UART0 UTXD_0, LCDC LCDDAT_16]
+- C2 : PB28,  of Type IO, alternates : [ISC ISC_D_2, HSMC A_17, FLEXCOM0 FLEXCOM0_IO_0, LCDC LCDDAT_17, TC1 TIOA_5, PIO P_60]
+- D3 : PB29,  of Type IO, alternates : [ISC ISC_D_3, HSMC A_18, LCDC LCDDAT_18, FLEXCOM0 FLEXCOM0_IO_1, PIO P_61, TC1 TIOB_5]
+- D2 : PB30,  of Type IO, alternates : [HSMC A_19, LCDC LCDDAT_19, ISC ISC_D_4, FLEXCOM0 FLEXCOM0_IO_2, PIO P_62, TC1 TCLK_5]
+- C1 : PB31,  of Type IO, alternates : [TWIHS0 TWD_0, ISC ISC_D_5, FLEXCOM0 FLEXCOM0_IO_3, PIO P_63, HSMC A_20, LCDC LCDDAT_20]
+- P17 : PC0,  of Type IO, alternates : [TWIHS0 TWCK_0, ISC ISC_D_6, HSMC A_23, FLEXCOM0 FLEXCOM0_IO_4, PIO P_64, LCDC LCDDAT_21]
+- N12 : PC1,  of Type IO, alternates : [MCAN0 CANTX_0, I2SC0 I2SC0_CK_, PIO P_65, ISC ISC_D_7, HSMC A_24, SPI1 SPI1_SPCK_, LCDC LCDDAT_22]
+- N14 : PC2,  of Type IO, alternates : [MCAN0 CANRX_0, PIO P_66, SPI1 SPI1_MOSI_, HSMC A_25, ISC ISC_D_8, LCDC LCDDAT_23, I2SC0 I2SC0_MCK_]
+- M15 : PC3,  of Type IO, alternates : [SPI1 SPI1_MISO_, I2SC0 I2SC0_WS_, LCDC LCDPWM_, PIO P_67, TC0 TIOA_1, ISC ISC_D_9, HSMC NWAIT_]
+- M11 : PC4,  of Type IO, alternates : [ISC ISC_PCK_, LCDC LCDDISP_, I2SC0 I2SC0_DI_0, PIO P_68, SPI1 SPI1_NPCS_0, HSMC NWR1_, TC0 TIOB_1]
+- L10 : PC5,  of Type IO, alternates : [PIO P_69, ISC ISC_VSYNC_, TC0 TCLK_1, SPI1 SPI1_NPCS_1, HSMC NCS_0, I2SC0 I2SC0_DO_0, LCDC LCDVSYNC_]
+- K10 : PC6,  of Type IO, alternates : [LCDC LCDHSYNC_, TWIHS1 TWD_1, PIO P_70, ISC ISC_HSYNC_, SPI1 SPI1_NPCS_2]
+- M16 : PC7,  of Type IO, alternates : [LCDC LCDPCK_, TWIHS1 TWCK_1, ISC ISC_MCK_, UART1 URXD_1, HSMC NCS_2, SPI1 SPI1_NPCS_3, PIO P_71]
+- J10 : PC8,  of Type IO, alternates : [LCDC LCDDEN_, HSMC NANDRDY_, SAIC FIQ_, ISC ISC_FIELD_, UART1 UTXD_1, PIO P_72, PMC PCK_0]
+- D1 : PC9,  of Type IO, alternates : [SAIC FIQ_, ISC ISC_D_0, PIO P_73, TC1 TIOA_4, GMAC GTSUCOMP_]
+- E3 : PC10,  of Type IO, alternates : [MCAN0 CANTX_0, ISC ISC_D_1, TC1 TIOB_4, PIO P_74, LCDC LCDDAT_2, GMAC GTXCK_]
+- E2 : PC11,  of Type IO, alternates : [ISC ISC_D_2, LCDC LCDDAT_3, MCAN0 CANRX_0, GMAC GTXEN_, PIO P_75, HSMC A0_, TC1 TCLK_4]
+- E1 : PC12,  of Type IO, alternates : [ISC ISC_D_3, LCDC LCDDAT_4, PIO P_76, GMAC GRXDV_, HSMC A_1, UART3 URXD_3, SSC0 TK_0]
+- F3 : PC13,  of Type IO, alternates : [LCDC LCDDAT_5, GMAC GRXER_, SSC0 TF_0, PIO P_77, UART3 UTXD_3, ISC ISC_D_4, HSMC A_2]
+- F5 : PC14,  of Type IO, alternates : [LCDC LCDDAT_6, SSC0 TD_0, PIO P_78, ISC ISC_D_5, HSMC A_3, GMAC GRX_0]
+- F2 : PC15,  of Type IO, alternates : [SSC0 RD_0, ISC ISC_D_6, LCDC LCDDAT_7, PIO P_79, HSMC A_4, GMAC GRX_1]
+- G6 : PC16,  of Type IO, alternates : [ISC ISC_D_7, HSMC A_5, GMAC GTX_0, SSC0 RK_0, LCDC LCDDAT_10, PIO P_80]
+- F1 : PC17,  of Type IO, alternates : [HSMC A_6, GMAC GTX_1, ISC ISC_D_8, LCDC LCDDAT_11, SSC0 RF_0, PIO P_81]
+- H6 : PC18,  of Type IO, alternates : [HSMC A_7, FLEXCOM3 FLEXCOM3_IO_2, GMAC GMDC_, ISC ISC_D_9, LCDC LCDDAT_12, PIO P_82]
+- G2 : PC19,  of Type IO, alternates : [GMAC GMDIO_, HSMC A_8, FLEXCOM3 FLEXCOM3_IO_1, ISC ISC_D_10, PIO P_83, LCDC LCDDAT_13]
+- G3 : PC20,  of Type IO, alternates : [HSMC A_9, FLEXCOM3 FLEXCOM3_IO_0, ISC ISC_D_11, LCDC LCDDAT_14, PIO P_84, GMAC GRXCK_]
+- G1 : PC21,  of Type IO, alternates : [ISC ISC_PCK_, GMAC GTXER_, FLEXCOM3 FLEXCOM3_IO_3, LCDC LCDDAT_15, PIO P_85, HSMC A_10]
+- H2 : PC22,  of Type IO, alternates : [ISC ISC_VSYNC_, LCDC LCDDAT_18, HSMC A_11, FLEXCOM3 FLEXCOM3_IO_4, PIO P_86, GMAC GCRS_]
+- G5 : PC23,  of Type IO, alternates : [LCDC LCDDAT_19, PIO P_87, HSMC A_12, GMAC GCOL_, ISC ISC_HSYNC_]
+- H1 : PC24,  of Type IO, alternates : [GMAC GRX_2, ISC ISC_MCK_, PIO P_88, HSMC A_13, LCDC LCDDAT_20]
+- H5 : PC25,  of Type IO, alternates : [GMAC GRX_3, ISC ISC_FIELD_, PIO P_89, HSMC A_14, LCDC LCDDAT_21]
+- J9 : PC26,  of Type IO, alternates : [MCAN1 CANTX_1, HSMC A_15, GMAC GTX_2, LCDC LCDDAT_22, PIO P_90]
+- H9 : PC27,  of Type IO, alternates : [MCAN1 CANRX_1, PMC PCK_1, TWIHS0 TWD_0, HSMC A_16, GMAC GTX_3, LCDC LCDDAT_23, PIO P_91]
+- E8 : PC28,  of Type IO, alternates : [PMC PCK_2, TWIHS0 TWCK_0, HSMC A_17, LCDC LCDPWM_, FLEXCOM4 FLEXCOM4_IO_0, PIO P_92]
+- G8 : PC29,  of Type IO, alternates : [HSMC A_18, LCDC LCDDISP_, FLEXCOM4 FLEXCOM4_IO_1, PIO P_93]
+- F8 : PC30,  of Type IO, alternates : [HSMC A_19, PIO P_94, FLEXCOM4 FLEXCOM4_IO_2, LCDC LCDVSYNC_]
+- D8 : PC31,  of Type IO, alternates : [LCDC LCDHSYNC_, FLEXCOM4 FLEXCOM4_IO_3, PIO P_95, UART3 URXD_3, HSMC A_20]
+- G10 : PD0,  of Type IO, alternates : [LCDC LCDPCK_, UART3 UTXD_3, HSMC A_23, GMAC GTSUCOMP_, PIO P_96, FLEXCOM4 FLEXCOM4_IO_4]
+- E10 : PD1,  of Type IO, alternates : [LCDC LCDDEN_, HSMC A_24, PIO P_97, GMAC GRXCK_]
+- G9 : PD2,  of Type IO, alternates : [GMAC GTXER_, ISC ISC_MCK_, PIO P_98, HSMC A_25, UART1 URXD_1]
+- K1 : PD3,  of Type IO, alternates : [SAIC FIQ_, PIO P_99, ISC ISC_D_11, UART1 UTXD_1, HSMC NWAIT_, PTC PTC_X_0, GMAC GCRS_]
+- J6 : PD4,  of Type IO, alternates : [ISC ISC_D_10, HSMC NCS_0, GMAC GCOL_, TWIHS1 TWD_1, UART2 URXD_2, PIO P_100, PTC PTC_X_1]
+- J4 : PD5,  of Type IO, alternates : [TWIHS1 TWCK_1, GMAC GRX_2, UART2 UTXD_2, HSMC NCS_1, PIO P_101, ISC ISC_D_9, PTC PTC_X_2]
+- J2 : PD6,  of Type IO, alternates : [PMC PCK_1, GMAC GRX_3, ICE TCK_, PIO P_102, ISC ISC_D_8, HSMC NCS_2, PTC PTC_X_3]
+- J7 : PD7,  of Type IO, alternates : [ISC ISC_D_0, ICE TDI_, PIO P_103, PTC PTC_X_4, GMAC GTX_2, HSMC NWR1_]
+- J1 : PD8,  of Type IO, alternates : [HSMC NANDRDY_, ISC ISC_D_1, PTC PTC_X_5, ICE TDO_, GMAC GTX_3, PIO P_104]
+- K9 : PD9,  of Type IO, alternates : [ISC ISC_D_2, ICE TMS_, PTC PTC_X_6, PIO P_105, GMAC GTXCK_]
+- J3 : PD10,  of Type IO, alternates : [ISC ISC_D_3, ICE NTRST_, GMAC GTXEN_, PTC PTC_X_7, PIO P_106]
+- M1 : PD11,  of Type IO, alternates : [PMC PCK_2, ISC ISC_MCK_, ISC ISC_D_4, GMAC GRXDV_, TC0 TIOA_1, PIO P_107, PTC PTC_Y_0]
+- K8 : PD12,  of Type IO, alternates : [GMAC GRXER_, PIO P_108, ISC ISC_D_4, FLEXCOM4 FLEXCOM4_IO_0, ISC ISC_D_5, TC0 TIOB_1, PTC PTC_Y_1]
+- L2 : PD13,  of Type IO, alternates : [PIO P_109, TC0 TCLK_1, ISC ISC_D_6, FLEXCOM4 FLEXCOM4_IO_1, ISC ISC_D_5, GMAC GRX_0, PTC PTC_Y_2]
+- K4 : PD14,  of Type IO, alternates : [ISC ISC_D_6, PIO P_110, ISC ISC_D_7, ICE TCK_, FLEXCOM4 FLEXCOM4_IO_2, PTC PTC_Y_3, GMAC GRX_1]
+- K7 : PD15,  of Type IO, alternates : [ISC ISC_PCK_, ICE TDI_, ISC ISC_D_7, FLEXCOM4 FLEXCOM4_IO_3, GMAC GTX_0, PTC PTC_Y_4, PIO P_111]
+- L1 : PD16,  of Type IO, alternates : [ISC ISC_VSYNC_, GMAC GTX_1, ICE TDO_, ISC ISC_D_8, PIO P_112, FLEXCOM4 FLEXCOM4_IO_4, PTC PTC_Y_5]
+- K2 : PD17,  of Type IO, alternates : [ICE TMS_, PIO P_113, PTC PTC_Y_6, GMAC GMDC_, ISC ISC_D_9, ISC ISC_HSYNC_]
+- J5 : PD18,  of Type IO, alternates : [GMAC GMDIO_, ICE NTRST_, ISC ISC_FIELD_, PTC PTC_Y_7, ISC ISC_D_10, PIO P_114]
+- K6 : PD19,  of Type IO, alternates : [I2SC0 I2SC0_CK_, ISC ISC_D_11, TWIHS1 TWD_1, UART2 URXD_2, ADC AD_0, PIO P_115, PMC PCK_0]
+- M2 : PD20,  of Type IO, alternates : [ISC ISC_PCK_, TWIHS1 TWCK_1, UART2 UTXD_2, TC0 TIOA_2, PIO P_116, ADC AD_1, I2SC0 I2SC0_MCK_]
+- N1 : PD21,  of Type IO, alternates : [ISC ISC_VSYNC_, TWIHS0 TWD_0, I2SC0 I2SC0_WS_, FLEXCOM4 FLEXCOM4_IO_0, TC0 TIOB_2, ADC AD_2, PIO P_117]
+- L4 : PD22,  of Type IO, alternates : [TWIHS0 TWCK_0, FLEXCOM4 FLEXCOM4_IO_1, I2SC0 I2SC0_DI_0, PIO P_118, TC0 TCLK_2, ADC AD_3, ISC ISC_HSYNC_]
+- M3 : PD23,  of Type IO, alternates : [ADC AD_4, PIO P_119, ISC ISC_FIELD_, FLEXCOM4 FLEXCOM4_IO_2, UART2 URXD_2, I2SC0 I2SC0_DO_0]
+- L7 : PD24,  of Type IO, alternates : [ADC AD_5, UART2 UTXD_2, PIO P_120, FLEXCOM4 FLEXCOM4_IO_3]
+- L6 : PD25,  of Type IO, alternates : [ADC AD_6, PIO P_121, SPI1 SPI1_SPCK_, FLEXCOM4 FLEXCOM4_IO_4]
+- N2 : PD26,  of Type IO, alternates : [ADC AD_7, FLEXCOM2 FLEXCOM2_IO_0, SPI1 SPI1_MOSI_, PIO P_122]
+- L8 : PD27,  of Type IO, alternates : [SPI1 SPI1_MISO_, ADC AD_8, FLEXCOM2 FLEXCOM2_IO_1, ICE TCK_, PIO P_123]
+- M4 : PD28,  of Type IO, alternates : [ICE TDI_, ADC AD_9, FLEXCOM2 FLEXCOM2_IO_2, PIO P_124, SPI1 SPI1_NPCS_0]
+- N3 : PD29,  of Type IO, alternates : [TWIHS0 TWD_0, PIO P_125, SPI1 SPI1_NPCS_1, FLEXCOM2 FLEXCOM2_IO_3, ICE TDO_, TC1 TIOA_3, ADC AD_10]
+- L9 : PD30,  of Type IO, alternates : [TWIHS0 TWCK_0, ICE TMS_, TC1 TIOB_3, FLEXCOM2 FLEXCOM2_IO_4, ADC AD_11, PIO P_126, SPI1 SPI1_NPCS_2]
+- M7 : PD31,  of Type IO, alternates : [AIC IRQ_, ADC ADTRG_, ICE NTRST_, PIO P_127, TC1 TCLK_3, PMC PCK_0]
+- L5 : VDDANA,  of Type PP
+- K5 : GNDANA,  of Type PS
+- M6 : ADVREF,  of Type PS
+- K3 : VDDANA,  of Type PP
+- L3 : GNDANA,  of Type PS
+- H16 : DDR_VREF,  of Type PS
+- D16 : DDR_VREF,  of Type PS
+- B12 : DDR_D0,  of Type IO
+- A12 : DDR_D1,  of Type IO
+- C12 : DDR_D2,  of Type IO
+- A13 : DDR_D3,  of Type IO
+- A14 : DDR_D4,  of Type IO
+- C13 : DDR_D5,  of Type IO
+- A15 : DDR_D6,  of Type IO
+- B15 : DDR_D7,  of Type IO
+- G17 : DDR_D8,  of Type IO
+- G16 : DDR_D9,  of Type IO
+- H17 : DDR_D10,  of Type IO
+- K17 : DDR_D11,  of Type IO
+- K16 : DDR_D12,  of Type IO
+- J13 : DDR_D13,  of Type IO
+- K14 : DDR_D14,  of Type IO
+- K15 : DDR_D15,  of Type IO
+- B8 : DDR_D16,  of Type IO
+- B9 : DDR_D17,  of Type IO
+- C9 : DDR_D18,  of Type IO
+- A9 : DDR_D19,  of Type IO
+- A10 : DDR_D20,  of Type IO
+- D10 : DDR_D21,  of Type IO
+- B11 : DDR_D22,  of Type IO
+- A11 : DDR_D23,  of Type IO
+- J12 : DDR_D24,  of Type IO
+- H10 : DDR_D25,  of Type IO
+- J11 : DDR_D26,  of Type IO
+- K11 : DDR_D27,  of Type IO
+- L13 : DDR_D28,  of Type IO
+- L11 : DDR_D29,  of Type IO
+- L12 : DDR_D30,  of Type IO
+- M17 : DDR_D31,  of Type IO
+- F12 : DDR_A0,  of Type OP
+- C17 : DDR_A1,  of Type OP
+- B17 : DDR_A2,  of Type OP
+- B16 : DDR_A3,  of Type OP
+- C16 : DDR_A4,  of Type OP
+- G14 : DDR_A5,  of Type OP
+- F14 : DDR_A6,  of Type OP
+- F11 : DDR_A7,  of Type OP
+- C14 : DDR_A8,  of Type OP
+- D13 : DDR_A9,  of Type OP
+- C15 : DDR_A10,  of Type OP
+- A16 : DDR_A11,  of Type OP
+- A17 : DDR_A12,  of Type OP
+- G11 : DDR_A13,  of Type OP
+- E17 : DDR_CLK,  of Type OP
+- D17 : DDR_CLKN,  of Type OP
+- F16 : DDR_CKE,  of Type OP
+- E16 : DDR_RESETN,  of Type OP
+- G13 : DDR_CS,  of Type OP
+- F15 : DDR_WE,  of Type OP
+- F13 : DDR_RAS,  of Type OP
+- G12 : DDR_CAS,  of Type OP
+- C11 : DDR_DQM0,  of Type OP
+- G15 : DDR_DQM1,  of Type OP
+- C8 : DDR_DQM2,  of Type OP
+- H11 : DDR_DQM3,  of Type OP
+- B13 : DDR_DQS0,  of Type OP
+- J17 : DDR_DQS1,  of Type OP
+- C10 : DDR_DQS2,  of Type OP
+- L17 : DDR_DQS3,  of Type OP
+- B14 : DDR_DQSN0,  of Type OP
+- J16 : DDR_DQSN1,  of Type OP
+- B10 : DDR_DQSN2,  of Type OP
+- L16 : DDR_DQSN3,  of Type OP
+- H12 : DDR_BA0,  of Type OP
+- H13 : DDR_BA1,  of Type OP
+- F17 : DDR_BA2,  of Type OP
+- E13 : DDR_,  of Type IO
+- L15 : VDDIODDR,  of Type PP
+- J15 : VDDIODDR,  of Type PP
+- H15 : VDDIODDR,  of Type PP
+- E15 : VDDIODDR,  of Type PP
+- D15 : VDDIODDR,  of Type PP
+- D12 : VDDIODDR,  of Type PP
+- D11 : VDDIODDR,  of Type PP
+- L14 : GNDIODDR,  of Type PS
+- J14 : GNDIODDR,  of Type PS
+- H14 : GNDIODDR,  of Type PS
+- E14 : GNDIODDR,  of Type PS
+- D14 : GNDIODDR,  of Type PS
+- E12 : GNDIODDR,  of Type PS
+- E11 : GNDIODDR,  of Type PS
+- H3 : VDDCORE,  of Type PP
+- N5 : VDDCORE,  of Type PP
+- N9 : VDDCORE,  of Type PP
+- K13 : VDDCORE,  of Type PP
+- D9 : VDDCORE,  of Type PP
+- D7 : VDDCORE,  of Type PP
+- H4 : GNDCORE,  of Type PS
+- M5 : GNDCORE,  of Type PS
+- M9 : GNDCORE,  of Type PS
+- K12 : GNDCORE,  of Type PS
+- E9 : GNDCORE,  of Type PS
+- E7 : GNDCORE,  of Type PS
+- E6 : VDDIOP0,  of Type PP
+- F7 : VDDIOP0,  of Type PP
+- F6 : GNDIOP0,  of Type PS
+- G7 : GNDIOP0,  of Type PS
+- R14 : VDDIOP1,  of Type PP
+- N13 : VDDIOP1,  of Type PP
+- M13 : GNDIOP1,  of Type PS
+- P14 : GNDIOP1,  of Type PS
+- F10 : VDDIOP2,  of Type PP
+- F9 : GNDIOP2,  of Type PS
+- P11 : VDDSDMMC,  of Type PP
+- R11 : GNDSDMMC,  of Type PS
+- F4 : VDDISC,  of Type PP
+- G4 : GNDISC,  of Type PS
+- M12 : VDDFUSE,  of Type PP
+- U4 : VDDPLLA,  of Type PP
+- U5 : GNDPLLA,  of Type PS
+- T3 : VDDAUDIOPLL,  of Type PP
+- T5 : GNDDPLL,  of Type PS
+- T4 : GNDAUDIOPLL,  of Type PS
+- U3 : CLK_AUDIO,  of Type IO
+- U7 : XIN,  of Type PS
+- U6 : XOUT,  of Type PS
+- T7 : VDDOSC,  of Type PP
+- T6 : GNDOSC,  of Type PS
+- P8 : VDDUTMII,  of Type PP
+- R9 : VDDHSIC,  of Type PP
+- P9 : GNDUTMII,  of Type PS
+- T8 : HHSDPA,  of Type IO
+- R8 : HHSDMA,  of Type IO
+- U8 : HHSDPB,  of Type IO
+- U9 : HHSDMB,  of Type IO
+- T9 : HHSDPDATC,  of Type IO
+- U10 : HHSDMSTRC,  of Type IO
+- P7 : VDDUTMIC,  of Type PP
+- R7 : GNDUTMIC,  of Type PS
+- T10 : SDCAL,  of Type IO
+- R6 : VBG,  of Type IO
+- P3 : TST,  of Type IO
+- U2 : NRST,  of Type IP
+- T2 : JTAGSEL,  of Type OP
+- P4 : WKUP,  of Type IP
+- N4 : RXD,  of Type IP
+- R1 : SHDN,  of Type IO
+- R3 : PIOBU0,  of Type IO
+- N8 : PIOBU1,  of Type IO
+- R2 : PIOBU2,  of Type IO
+- R5 : PIOBU3,  of Type IO
+- R4 : PIOBU4,  of Type IO
+- P5 : PIOBU5,  of Type IO
+- P6 : PIOBU6,  of Type IO
+- M8 : PIOBU7,  of Type IO
+- N7 : VDDBU,  of Type PP
+- N6 : GNDBU,  of Type PS
+- P1 : XIN32,  of Type PS
+- P2 : XOUT32,  of Type PS
+- T1 : COMPP,  of Type IO
+- U1 : COMPN,  of Type IO
 ## ATSAMA5D27C-CNR
+
 ### Description : 
+
+- Series : SAMA5D2
+- Footprint : LFBGA289
+- MP : ATSAMA5D27C-CNR
+- Architecture : CORTEX-A5
+- PINOUT : LFBGA289
+- Reference : U
+- Documentation : https://www.microchip.com/en-us/search?q=ATSAMA5D27C-CNR
+- Value : ATSAMA5D27C-CNR
+- Family : SAMA5
+- MF : Microchip
+- Name : ATSAMA5D27
 
 ### Package : 
 
-- U11 : PA0
-- P10 : PA1
-- T11 : PA2
-- R10 : PA3
-- U12 : PA4
-- T12 : PA5
-- R12 : PA6
-- T13 : PA7
-- N10 : PA8
-- N11 : PA9
-- U13 : PA10
-- P15 : PA11
-- N15 : PA12
-- P16 : PA13
-- M14 : PA14
-- N16 : PA15
-- M10 : PA16
-- N17 : PA17
-- U14 : PA18
-- T14 : PA19
-- P12 : PA20
-- R13 : PA21
-- U15 : PA22
-- U16 : PA23
-- T15 : PA24
-- U17 : PA25
-- P13 : PA26
-- T16 : PA27
-- R16 : PA28
-- T17 : PA29
-- R15 : PA30
-- R17 : PA31
-- J8 : PB0
-- A8 : PB1
-- A7 : PB2
-- A6 : PB3
-- B6 : PB4
-- B7 : PB5
-- C7 : PB6
-- C6 : PB7
-- A5 : PB8
-- A4 : PB9
-- H8 : PB10
-- B5 : PB11
-- D6 : PB12
-- B4 : PB13
-- C5 : PB14
-- H7 : PB15
-- D5 : PB16
-- C4 : PB17
-- A3 : PB18
-- D4 : PB19
-- B3 : PB20
-- A2 : PB21
-- C3 : PB22
-- A1 : PB23
-- E5 : PB24
-- B2 : PB25
-- E4 : PB26
-- B1 : PB27
-- C2 : PB28
-- D3 : PB29
-- D2 : PB30
-- C1 : PB31
-- P17 : PC0
-- N12 : PC1
-- N14 : PC2
-- M15 : PC3
-- M11 : PC4
-- L10 : PC5
-- K10 : PC6
-- M16 : PC7
-- J10 : PC8
-- D1 : PC9
-- E3 : PC10
-- E2 : PC11
-- E1 : PC12
-- F3 : PC13
-- F5 : PC14
-- F2 : PC15
-- G6 : PC16
-- F1 : PC17
-- H6 : PC18
-- G2 : PC19
-- G3 : PC20
-- G1 : PC21
-- H2 : PC22
-- G5 : PC23
-- H1 : PC24
-- H5 : PC25
-- J9 : PC26
-- H9 : PC27
-- E8 : PC28
-- G8 : PC29
-- F8 : PC30
-- D8 : PC31
-- G10 : PD0
-- E10 : PD1
-- G9 : PD2
-- K1 : PD3
-- J6 : PD4
-- J4 : PD5
-- J2 : PD6
-- J7 : PD7
-- J1 : PD8
-- K9 : PD9
-- J3 : PD10
-- M1 : PD11
-- K8 : PD12
-- L2 : PD13
-- K4 : PD14
-- K7 : PD15
-- L1 : PD16
-- K2 : PD17
-- J5 : PD18
-- K6 : PD19
-- M2 : PD20
-- N1 : PD21
-- L4 : PD22
-- M3 : PD23
-- L7 : PD24
-- L6 : PD25
-- N2 : PD26
-- L8 : PD27
-- M4 : PD28
-- N3 : PD29
-- L9 : PD30
-- M7 : PD31
-- L5 : VDDANA
-- K5 : GNDANA
-- M6 : ADVREF
-- K3 : VDDANA
-- L3 : GNDANA
-- H16 : DDR_VREF
-- D16 : DDR_VREF
-- B12 : DDR_D0
-- A12 : DDR_D1
-- C12 : DDR_D2
-- A13 : DDR_D3
-- A14 : DDR_D4
-- C13 : DDR_D5
-- A15 : DDR_D6
-- B15 : DDR_D7
-- G17 : DDR_D8
-- G16 : DDR_D9
-- H17 : DDR_D10
-- K17 : DDR_D11
-- K16 : DDR_D12
-- J13 : DDR_D13
-- K14 : DDR_D14
-- K15 : DDR_D15
-- B8 : DDR_D16
-- B9 : DDR_D17
-- C9 : DDR_D18
-- A9 : DDR_D19
-- A10 : DDR_D20
-- D10 : DDR_D21
-- B11 : DDR_D22
-- A11 : DDR_D23
-- J12 : DDR_D24
-- H10 : DDR_D25
-- J11 : DDR_D26
-- K11 : DDR_D27
-- L13 : DDR_D28
-- L11 : DDR_D29
-- L12 : DDR_D30
-- M17 : DDR_D31
-- F12 : DDR_A0
-- C17 : DDR_A1
-- B17 : DDR_A2
-- B16 : DDR_A3
-- C16 : DDR_A4
-- G14 : DDR_A5
-- F14 : DDR_A6
-- F11 : DDR_A7
-- C14 : DDR_A8
-- D13 : DDR_A9
-- C15 : DDR_A10
-- A16 : DDR_A11
-- A17 : DDR_A12
-- G11 : DDR_A13
-- E17 : DDR_CLK
-- D17 : DDR_CLKN
-- F16 : DDR_CKE
-- E16 : DDR_RESETN
-- G13 : DDR_CS
-- F15 : DDR_WE
-- F13 : DDR_RAS
-- G12 : DDR_CAS
-- C11 : DDR_DQM0
-- G15 : DDR_DQM1
-- C8 : DDR_DQM2
-- H11 : DDR_DQM3
-- B13 : DDR_DQS0
-- J17 : DDR_DQS1
-- C10 : DDR_DQS2
-- L17 : DDR_DQS3
-- B14 : DDR_DQSN0
-- J16 : DDR_DQSN1
-- B10 : DDR_DQSN2
-- L16 : DDR_DQSN3
-- H12 : DDR_BA0
-- H13 : DDR_BA1
-- F17 : DDR_BA2
-- E13 : DDR_
-- L15 : VDDIODDR
-- J15 : VDDIODDR
-- H15 : VDDIODDR
-- E15 : VDDIODDR
-- D15 : VDDIODDR
-- D12 : VDDIODDR
-- D11 : VDDIODDR
-- L14 : GNDIODDR
-- J14 : GNDIODDR
-- H14 : GNDIODDR
-- E14 : GNDIODDR
-- D14 : GNDIODDR
-- E12 : GNDIODDR
-- E11 : GNDIODDR
-- H3 : VDDCORE
-- N5 : VDDCORE
-- N9 : VDDCORE
-- K13 : VDDCORE
-- D9 : VDDCORE
-- D7 : VDDCORE
-- H4 : GNDCORE
-- M5 : GNDCORE
-- M9 : GNDCORE
-- K12 : GNDCORE
-- E9 : GNDCORE
-- E7 : GNDCORE
-- E6 : VDDIOP0
-- F7 : VDDIOP0
-- F6 : GNDIOP0
-- G7 : GNDIOP0
-- R14 : VDDIOP1
-- N13 : VDDIOP1
-- M13 : GNDIOP1
-- P14 : GNDIOP1
-- F10 : VDDIOP2
-- F9 : GNDIOP2
-- P11 : VDDSDMMC
-- R11 : GNDSDMMC
-- F4 : VDDISC
-- G4 : GNDISC
-- M12 : VDDFUSE
-- U4 : VDDPLLA
-- U5 : GNDPLLA
-- T3 : VDDAUDIOPLL
-- T5 : GNDDPLL
-- T4 : GNDAUDIOPLL
-- U3 : CLK_AUDIO
-- U7 : XIN
-- U6 : XOUT
-- T7 : VDDOSC
-- T6 : GNDOSC
-- P8 : VDDUTMII
-- R9 : VDDHSIC
-- P9 : GNDUTMII
-- T8 : HHSDPA
-- R8 : HHSDMA
-- U8 : HHSDPB
-- U9 : HHSDMB
-- T9 : HHSDPDATC
-- U10 : HHSDMSTRC
-- P7 : VDDUTMIC
-- R7 : GNDUTMIC
-- T10 : SDCAL
-- R6 : VBG
-- P3 : TST
-- U2 : NRST
-- T2 : JTAGSEL
-- P4 : WKUP
-- N4 : RXD
-- R1 : SHDN
-- R3 : PIOBU0
-- N8 : PIOBU1
-- R2 : PIOBU2
-- R5 : PIOBU3
-- R4 : PIOBU4
-- P5 : PIOBU5
-- P6 : PIOBU6
-- M8 : PIOBU7
-- N7 : VDDBU
-- N6 : GNDBU
-- P1 : XIN32
-- P2 : XOUT32
-- T1 : COMPP
-- U1 : COMPN
+Pin count : 289
+- U11 : PA0,  of Type IO, alternates : [HSMC D_0, PIO P_0, SDMMC0 SDMMC0_CK_, QSPI0 QSPI0_SCK_]
+- P10 : PA1,  of Type IO, alternates : [SDMMC0 SDMMC0_CMD_, PIO P_1, QSPI0 QSPI0_CS_, HSMC D_1]
+- T11 : PA2,  of Type IO, alternates : [PIO P_2, HSMC D_2, SDMMC0 SDMMC0_DAT_0, QSPI0 QSPI0_IO_0]
+- R10 : PA3,  of Type IO, alternates : [PIO P_3, HSMC D_3, SDMMC0 SDMMC0_DAT_1, QSPI0 QSPI0_IO_1]
+- U12 : PA4,  of Type IO, alternates : [HSMC D_4, PIO P_4, SDMMC0 SDMMC0_DAT_2, QSPI0 QSPI0_IO_2]
+- T12 : PA5,  of Type IO, alternates : [PIO P_5, HSMC D_5, QSPI0 QSPI0_IO_3, SDMMC0 SDMMC0_DAT_3]
+- R12 : PA6,  of Type IO, alternates : [PIO P_6, HSMC D_6, FLEXCOM2 FLEXCOM2_IO_0, TC1 TIOA_5, QSPI1 QSPI1_SCK_, SDMMC0 SDMMC0_DAT_4]
+- T13 : PA7,  of Type IO, alternates : [PIO P_7, QSPI1 QSPI1_IO_0, HSMC D_7, FLEXCOM2 FLEXCOM2_IO_1, SDMMC0 SDMMC0_DAT_5, TC1 TIOB_5]
+- N10 : PA8,  of Type IO, alternates : [PIO P_8, QSPI1 QSPI1_IO_1, FLEXCOM2 FLEXCOM2_IO_2, HSMC NANDNWE_, TC1 TCLK_5, SDMMC0 SDMMC0_DAT_6]
+- N11 : PA9,  of Type IO, alternates : [SDMMC0 SDMMC0_DAT_7, QSPI1 QSPI1_IO_2, FLEXCOM2 FLEXCOM2_IO_3, TC1 TIOA_4, HSMC NCS_3, PIO P_9]
+- U13 : PA10,  of Type IO, alternates : [PIO P_10, QSPI1 QSPI1_IO_3, SDMMC0 SDMMC0_RSTN_, HSMC A21_, TC1 TIOB_4, FLEXCOM2 FLEXCOM2_IO_4]
+- P15 : PA11,  of Type IO, alternates : [QSPI1 QSPI1_CS_, SDMMC0 SDMMC0_1V8SEL_, PIO P_11, HSMC A22_, TC1 TCLK_4]
+- N15 : PA12,  of Type IO, alternates : [AIC IRQ_, SDMMC0 SDMMC0_WP_, PIO P_12, HSMC NANDOE_]
+- P16 : PA13,  of Type IO, alternates : [HSMC D_8, FLEXCOM3 FLEXCOM3_IO_1, PIO P_13, SDMMC0 SDMMC0_CD_]
+- M14 : PA14,  of Type IO, alternates : [PIO P_14, SPI0 SPI0_SPCK_, HSMC D_9, SSC1 TK_1, I2SC1 I2SC1_MCK_, FLEXCOM3 FLEXCOM3_IO_2, QSPI0 QSPI0_SCK_]
+- N16 : PA15,  of Type IO, alternates : [PIO P_15, HSMC D_10, QSPI0 QSPI0_CS_, FLEXCOM3 FLEXCOM3_IO_0, SSC1 TF_1, SPI0 SPI0_MOSI_, I2SC1 I2SC1_CK_]
+- M10 : PA16,  of Type IO, alternates : [PIO P_16, HSMC D_11, I2SC1 I2SC1_WS_, FLEXCOM3 FLEXCOM3_IO_3, SPI0 SPI0_MISO_, SSC1 TD_1, QSPI0 QSPI0_IO_0]
+- N17 : PA17,  of Type IO, alternates : [I2SC1 I2SC1_DI_0, PIO P_17, HSMC D_12, SPI0 SPI0_NPCS_0, FLEXCOM3 FLEXCOM3_IO_4, QSPI0 QSPI0_IO_1, SSC1 RD_1]
+- U14 : PA18,  of Type IO, alternates : [HSMC D_13, SSC1 RK_1, SPI0 SPI0_NPCS_1, I2SC1 I2SC1_DO_0, PIO P_18, QSPI0 QSPI0_IO_2, SDMMC1 SDMMC1_DAT_0]
+- T14 : PA19,  of Type IO, alternates : [SSC1 RF_1, SPI0 SPI0_NPCS_2, HSMC D_14, TC0 TIOA_0, QSPI0 QSPI0_IO_3, PIO P_19, SDMMC1 SDMMC1_DAT_1]
+- P12 : PA20,  of Type IO, alternates : [SPI0 SPI0_NPCS_3, HSMC D_15, TC0 TIOB_0, PIO P_20, SDMMC1 SDMMC1_DAT_2]
+- R13 : PA21,  of Type IO, alternates : [AIC IRQ_, PMC PCK_2, HSMC NANDRDY_, TC0 TCLK_0, PIO P_21, SDMMC1 SDMMC1_DAT_3]
+- U15 : PA22,  of Type IO, alternates : [PIO P_22, ICE TCK_, FLEXCOM1 FLEXCOM1_IO_2, HSMC D_0, SPI1 SPI1_SPCK_, SDMMC1 SDMMC1_CK_, QSPI0 QSPI0_SCK_]
+- U16 : PA23,  of Type IO, alternates : [ICE TDI_, PIO P_23, QSPI0 QSPI0_CS_, SPI1 SPI1_MOSI_, FLEXCOM1 FLEXCOM1_IO_1, HSMC D_1]
+- T15 : PA24,  of Type IO, alternates : [SPI1 SPI1_MISO_, FLEXCOM1 FLEXCOM1_IO_0, HSMC D_2, PIO P_24, ICE TDO_, QSPI0 QSPI0_IO_0]
+- U17 : PA25,  of Type IO, alternates : [PIO P_25, ICE TMS_, HSMC D_3, FLEXCOM1 FLEXCOM1_IO_3, SPI1 SPI1_NPCS_0, QSPI0 QSPI0_IO_1]
+- P13 : PA26,  of Type IO, alternates : [PIO P_26, ICE NTRST_, HSMC D_4, SPI1 SPI1_NPCS_1, FLEXCOM1 FLEXCOM1_IO_4, QSPI0 QSPI0_IO_2]
+- T16 : PA27,  of Type IO, alternates : [PIO P_27, SPI0 SPI0_NPCS_2, SDMMC1 SDMMC1_RSTN_, HSMC D_5, TC0 TIOA_1, QSPI0 QSPI0_IO_3, SPI1 SPI1_NPCS_2]
+- R16 : PA28,  of Type IO, alternates : [HSMC D_6, PIO P_28, SPI0 SPI0_NPCS_3, CLASSD CLASSD_L_0, SDMMC1 SDMMC1_CMD_, TC0 TIOB_1, SPI1 SPI1_NPCS_3]
+- T17 : PA29,  of Type IO, alternates : [HSMC D_7, TC0 TCLK_1, SDMMC1 SDMMC1_WP_, CLASSD CLASSD_L_1, SPI0 SPI0_NPCS_1, PIO P_29]
+- R15 : PA30,  of Type IO, alternates : [SPI0 SPI0_NPCS_0, PWM PWMH_0, CLASSD CLASSD_L_2, PIO P_30, HSMC NANDNWE_, SDMMC1 SDMMC1_CD_]
+- R17 : PA31,  of Type IO, alternates : [PWM PWML_0, HSMC NCS_3, CLASSD CLASSD_L_3, PIO P_31, SPI0 SPI0_MISO_]
+- J8 : PB0,  of Type IO, alternates : [PIO P_32, PWM PWMH_1, HSMC A21_, SPI0 SPI0_MOSI_]
+- A8 : PB1,  of Type IO, alternates : [SPI0 SPI0_SPCK_, PIO P_33, PWM PWML_1, HSMC A22_, CLASSD CLASSD_R_0]
+- A7 : PB2,  of Type IO, alternates : [PIO P_34, PWM PWMFI_0, CLASSD CLASSD_R_1, HSMC NANDOE_]
+- A6 : PB3,  of Type IO, alternates : [HSMC D_8, AIC IRQ_, PWM PWMEXTRG_1, PIO P_35, CLASSD CLASSD_R_2, UART4 URXD_4]
+- B6 : PB4,  of Type IO, alternates : [PIO P_36, HSMC D_9, SAIC FIQ_, UART4 UTXD_4, CLASSD CLASSD_R_3]
+- B7 : PB5,  of Type IO, alternates : [PIO P_37, HSMC D_10, PWM PWMH_2, QSPI1 QSPI1_SCK_, GMAC GTSUCOMP_, TC0 TCLK_2]
+- C7 : PB6,  of Type IO, alternates : [PIO P_38, HSMC D_11, QSPI1 QSPI1_CS_, GMAC GTXER_, PWM PWML_2, TC0 TIOA_2]
+- C6 : PB7,  of Type IO, alternates : [PIO P_39, QSPI1 QSPI1_IO_0, HSMC D_12, PWM PWMH_3, TC0 TIOB_2, GMAC GRXCK_]
+- A5 : PB8,  of Type IO, alternates : [QSPI1 QSPI1_IO_1, HSMC D_13, PIO P_40, PWM PWML_3, GMAC GCRS_, TC1 TCLK_3]
+- A4 : PB9,  of Type IO, alternates : [QSPI1 QSPI1_IO_2, HSMC D_14, GMAC GCOL_, PIO P_41, TC1 TIOA_3, PWM PWMFI_1]
+- H8 : PB10,  of Type IO, alternates : [GMAC GRX_2, PWM PWMEXTRG_2, QSPI1 QSPI1_IO_3, HSMC D_15, TC1 TIOB_3, PIO P_42]
+- B5 : PB11,  of Type IO, alternates : [GMAC GRX_3, PIO P_43, PDMIC PDMIC_DAT_, UART3 URXD_3, LCDC LCDDAT_0, HSMC A0_]
+- D6 : PB12,  of Type IO, alternates : [PDMIC PDMIC_CLK_, PIO P_44, UART3 UTXD_3, GMAC GTX_2, HSMC A_1, LCDC LCDDAT_1]
+- B4 : PB13,  of Type IO, alternates : [PMC PCK_1, PIO P_45, GMAC GTX_3, HSMC A_2, LCDC LCDDAT_2]
+- C5 : PB14,  of Type IO, alternates : [SSC1 TK_1, I2SC1 I2SC1_MCK_, LCDC LCDDAT_3, PIO P_46, HSMC A_3, QSPI1 QSPI1_SCK_, GMAC GTXCK_]
+- H7 : PB15,  of Type IO, alternates : [PIO P_47, LCDC LCDDAT_4, QSPI1 QSPI1_CS_, GMAC GTXEN_, HSMC A_4, SSC1 TF_1, I2SC1 I2SC1_CK_]
+- D5 : PB16,  of Type IO, alternates : [LCDC LCDDAT_5, PIO P_48, I2SC1 I2SC1_WS_, QSPI1 QSPI1_IO_0, HSMC A_5, GMAC GRXDV_, SSC1 TD_1]
+- C4 : PB17,  of Type IO, alternates : [LCDC LCDDAT_6, GMAC GRXER_, I2SC1 I2SC1_DI_0, PIO P_49, QSPI1 QSPI1_IO_1, HSMC A_6, SSC1 RD_1]
+- A3 : PB18,  of Type IO, alternates : [HSMC A_7, SSC1 RK_1, QSPI1 QSPI1_IO_2, LCDC LCDDAT_7, PIO P_50, I2SC1 I2SC1_DO_0, GMAC GRX_0]
+- D4 : PB19,  of Type IO, alternates : [SSC1 RF_1, QSPI1 QSPI1_IO_3, HSMC A_8, LCDC LCDDAT_8, PIO P_51, TC1 TIOA_3, GMAC GRX_1]
+- B3 : PB20,  of Type IO, alternates : [PMC PCK_1, HSMC A_9, LCDC LCDDAT_9, GMAC GTX_0, TC1 TIOB_3, PIO P_52, SSC0 TK_0]
+- A2 : PB21,  of Type IO, alternates : [SSC0 TF_0, FLEXCOM3 FLEXCOM3_IO_2, GMAC GTX_1, PIO P_53, HSMC A_10, LCDC LCDDAT_10, TC1 TCLK_3]
+- C3 : PB22,  of Type IO, alternates : [SSC0 TD_0, PIO P_54, FLEXCOM3 FLEXCOM3_IO_1, HSMC A_11, GMAC GMDC_, TC0 TIOA_2, LCDC LCDDAT_11]
+- A1 : PB23,  of Type IO, alternates : [SSC0 RD_0, GMAC GMDIO_, PIO P_55, FLEXCOM3 FLEXCOM3_IO_0, TC0 TIOB_2, HSMC A_12, LCDC LCDDAT_12]
+- E5 : PB24,  of Type IO, alternates : [PIO P_56, FLEXCOM3 FLEXCOM3_IO_3, ISC ISC_D_10, HSMC A_13, SSC0 RK_0, LCDC LCDDAT_13, TC0 TCLK_2]
+- B2 : PB25,  of Type IO, alternates : [ISC ISC_D_11, PIO P_57, HSMC A_14, LCDC LCDDAT_14, FLEXCOM3 FLEXCOM3_IO_4, SSC0 RF_0]
+- E4 : PB26,  of Type IO, alternates : [PIO P_58, ISC ISC_D_0, HSMC A_15, PDMIC PDMIC_DAT_, LCDC LCDDAT_15, UART0 URXD_0]
+- B1 : PB27,  of Type IO, alternates : [PIO P_59, ISC ISC_D_1, PDMIC PDMIC_CLK_, HSMC A_16, UART0 UTXD_0, LCDC LCDDAT_16]
+- C2 : PB28,  of Type IO, alternates : [ISC ISC_D_2, HSMC A_17, FLEXCOM0 FLEXCOM0_IO_0, LCDC LCDDAT_17, TC1 TIOA_5, PIO P_60]
+- D3 : PB29,  of Type IO, alternates : [ISC ISC_D_3, HSMC A_18, LCDC LCDDAT_18, FLEXCOM0 FLEXCOM0_IO_1, PIO P_61, TC1 TIOB_5]
+- D2 : PB30,  of Type IO, alternates : [HSMC A_19, LCDC LCDDAT_19, ISC ISC_D_4, FLEXCOM0 FLEXCOM0_IO_2, PIO P_62, TC1 TCLK_5]
+- C1 : PB31,  of Type IO, alternates : [TWIHS0 TWD_0, ISC ISC_D_5, FLEXCOM0 FLEXCOM0_IO_3, PIO P_63, HSMC A_20, LCDC LCDDAT_20]
+- P17 : PC0,  of Type IO, alternates : [TWIHS0 TWCK_0, ISC ISC_D_6, HSMC A_23, FLEXCOM0 FLEXCOM0_IO_4, PIO P_64, LCDC LCDDAT_21]
+- N12 : PC1,  of Type IO, alternates : [MCAN0 CANTX_0, I2SC0 I2SC0_CK_, PIO P_65, ISC ISC_D_7, HSMC A_24, SPI1 SPI1_SPCK_, LCDC LCDDAT_22]
+- N14 : PC2,  of Type IO, alternates : [MCAN0 CANRX_0, PIO P_66, SPI1 SPI1_MOSI_, HSMC A_25, ISC ISC_D_8, LCDC LCDDAT_23, I2SC0 I2SC0_MCK_]
+- M15 : PC3,  of Type IO, alternates : [SPI1 SPI1_MISO_, I2SC0 I2SC0_WS_, LCDC LCDPWM_, PIO P_67, TC0 TIOA_1, ISC ISC_D_9, HSMC NWAIT_]
+- M11 : PC4,  of Type IO, alternates : [ISC ISC_PCK_, LCDC LCDDISP_, I2SC0 I2SC0_DI_0, PIO P_68, SPI1 SPI1_NPCS_0, HSMC NWR1_, TC0 TIOB_1]
+- L10 : PC5,  of Type IO, alternates : [PIO P_69, ISC ISC_VSYNC_, TC0 TCLK_1, SPI1 SPI1_NPCS_1, HSMC NCS_0, I2SC0 I2SC0_DO_0, LCDC LCDVSYNC_]
+- K10 : PC6,  of Type IO, alternates : [LCDC LCDHSYNC_, TWIHS1 TWD_1, PIO P_70, ISC ISC_HSYNC_, SPI1 SPI1_NPCS_2]
+- M16 : PC7,  of Type IO, alternates : [LCDC LCDPCK_, TWIHS1 TWCK_1, ISC ISC_MCK_, UART1 URXD_1, HSMC NCS_2, SPI1 SPI1_NPCS_3, PIO P_71]
+- J10 : PC8,  of Type IO, alternates : [LCDC LCDDEN_, HSMC NANDRDY_, SAIC FIQ_, ISC ISC_FIELD_, UART1 UTXD_1, PIO P_72, PMC PCK_0]
+- D1 : PC9,  of Type IO, alternates : [SAIC FIQ_, ISC ISC_D_0, PIO P_73, TC1 TIOA_4, GMAC GTSUCOMP_]
+- E3 : PC10,  of Type IO, alternates : [MCAN0 CANTX_0, ISC ISC_D_1, TC1 TIOB_4, PIO P_74, LCDC LCDDAT_2, GMAC GTXCK_]
+- E2 : PC11,  of Type IO, alternates : [ISC ISC_D_2, LCDC LCDDAT_3, MCAN0 CANRX_0, GMAC GTXEN_, PIO P_75, HSMC A0_, TC1 TCLK_4]
+- E1 : PC12,  of Type IO, alternates : [ISC ISC_D_3, LCDC LCDDAT_4, PIO P_76, GMAC GRXDV_, HSMC A_1, UART3 URXD_3, SSC0 TK_0]
+- F3 : PC13,  of Type IO, alternates : [LCDC LCDDAT_5, GMAC GRXER_, SSC0 TF_0, PIO P_77, UART3 UTXD_3, ISC ISC_D_4, HSMC A_2]
+- F5 : PC14,  of Type IO, alternates : [LCDC LCDDAT_6, SSC0 TD_0, PIO P_78, ISC ISC_D_5, HSMC A_3, GMAC GRX_0]
+- F2 : PC15,  of Type IO, alternates : [SSC0 RD_0, ISC ISC_D_6, LCDC LCDDAT_7, PIO P_79, HSMC A_4, GMAC GRX_1]
+- G6 : PC16,  of Type IO, alternates : [ISC ISC_D_7, HSMC A_5, GMAC GTX_0, SSC0 RK_0, LCDC LCDDAT_10, PIO P_80]
+- F1 : PC17,  of Type IO, alternates : [HSMC A_6, GMAC GTX_1, ISC ISC_D_8, LCDC LCDDAT_11, SSC0 RF_0, PIO P_81]
+- H6 : PC18,  of Type IO, alternates : [HSMC A_7, FLEXCOM3 FLEXCOM3_IO_2, GMAC GMDC_, ISC ISC_D_9, LCDC LCDDAT_12, PIO P_82]
+- G2 : PC19,  of Type IO, alternates : [GMAC GMDIO_, HSMC A_8, FLEXCOM3 FLEXCOM3_IO_1, ISC ISC_D_10, PIO P_83, LCDC LCDDAT_13]
+- G3 : PC20,  of Type IO, alternates : [HSMC A_9, FLEXCOM3 FLEXCOM3_IO_0, ISC ISC_D_11, LCDC LCDDAT_14, PIO P_84, GMAC GRXCK_]
+- G1 : PC21,  of Type IO, alternates : [ISC ISC_PCK_, GMAC GTXER_, FLEXCOM3 FLEXCOM3_IO_3, LCDC LCDDAT_15, PIO P_85, HSMC A_10]
+- H2 : PC22,  of Type IO, alternates : [ISC ISC_VSYNC_, LCDC LCDDAT_18, HSMC A_11, FLEXCOM3 FLEXCOM3_IO_4, PIO P_86, GMAC GCRS_]
+- G5 : PC23,  of Type IO, alternates : [LCDC LCDDAT_19, PIO P_87, HSMC A_12, GMAC GCOL_, ISC ISC_HSYNC_]
+- H1 : PC24,  of Type IO, alternates : [GMAC GRX_2, ISC ISC_MCK_, PIO P_88, HSMC A_13, LCDC LCDDAT_20]
+- H5 : PC25,  of Type IO, alternates : [GMAC GRX_3, ISC ISC_FIELD_, PIO P_89, HSMC A_14, LCDC LCDDAT_21]
+- J9 : PC26,  of Type IO, alternates : [MCAN1 CANTX_1, HSMC A_15, GMAC GTX_2, LCDC LCDDAT_22, PIO P_90]
+- H9 : PC27,  of Type IO, alternates : [MCAN1 CANRX_1, PMC PCK_1, TWIHS0 TWD_0, HSMC A_16, GMAC GTX_3, LCDC LCDDAT_23, PIO P_91]
+- E8 : PC28,  of Type IO, alternates : [PMC PCK_2, TWIHS0 TWCK_0, HSMC A_17, LCDC LCDPWM_, FLEXCOM4 FLEXCOM4_IO_0, PIO P_92]
+- G8 : PC29,  of Type IO, alternates : [HSMC A_18, LCDC LCDDISP_, FLEXCOM4 FLEXCOM4_IO_1, PIO P_93]
+- F8 : PC30,  of Type IO, alternates : [HSMC A_19, PIO P_94, FLEXCOM4 FLEXCOM4_IO_2, LCDC LCDVSYNC_]
+- D8 : PC31,  of Type IO, alternates : [LCDC LCDHSYNC_, FLEXCOM4 FLEXCOM4_IO_3, PIO P_95, UART3 URXD_3, HSMC A_20]
+- G10 : PD0,  of Type IO, alternates : [LCDC LCDPCK_, UART3 UTXD_3, HSMC A_23, GMAC GTSUCOMP_, PIO P_96, FLEXCOM4 FLEXCOM4_IO_4]
+- E10 : PD1,  of Type IO, alternates : [LCDC LCDDEN_, HSMC A_24, PIO P_97, GMAC GRXCK_]
+- G9 : PD2,  of Type IO, alternates : [GMAC GTXER_, ISC ISC_MCK_, PIO P_98, HSMC A_25, UART1 URXD_1]
+- K1 : PD3,  of Type IO, alternates : [SAIC FIQ_, PIO P_99, ISC ISC_D_11, UART1 UTXD_1, HSMC NWAIT_, PTC PTC_X_0, GMAC GCRS_]
+- J6 : PD4,  of Type IO, alternates : [ISC ISC_D_10, HSMC NCS_0, GMAC GCOL_, TWIHS1 TWD_1, UART2 URXD_2, PIO P_100, PTC PTC_X_1]
+- J4 : PD5,  of Type IO, alternates : [TWIHS1 TWCK_1, GMAC GRX_2, UART2 UTXD_2, HSMC NCS_1, PIO P_101, ISC ISC_D_9, PTC PTC_X_2]
+- J2 : PD6,  of Type IO, alternates : [PMC PCK_1, GMAC GRX_3, ICE TCK_, PIO P_102, ISC ISC_D_8, HSMC NCS_2, PTC PTC_X_3]
+- J7 : PD7,  of Type IO, alternates : [ISC ISC_D_0, ICE TDI_, PIO P_103, PTC PTC_X_4, GMAC GTX_2, HSMC NWR1_]
+- J1 : PD8,  of Type IO, alternates : [HSMC NANDRDY_, ISC ISC_D_1, PTC PTC_X_5, ICE TDO_, GMAC GTX_3, PIO P_104]
+- K9 : PD9,  of Type IO, alternates : [ISC ISC_D_2, ICE TMS_, PTC PTC_X_6, PIO P_105, GMAC GTXCK_]
+- J3 : PD10,  of Type IO, alternates : [ISC ISC_D_3, ICE NTRST_, GMAC GTXEN_, PTC PTC_X_7, PIO P_106]
+- M1 : PD11,  of Type IO, alternates : [PMC PCK_2, ISC ISC_MCK_, ISC ISC_D_4, GMAC GRXDV_, TC0 TIOA_1, PIO P_107, PTC PTC_Y_0]
+- K8 : PD12,  of Type IO, alternates : [GMAC GRXER_, PIO P_108, ISC ISC_D_4, FLEXCOM4 FLEXCOM4_IO_0, ISC ISC_D_5, TC0 TIOB_1, PTC PTC_Y_1]
+- L2 : PD13,  of Type IO, alternates : [PIO P_109, TC0 TCLK_1, ISC ISC_D_6, FLEXCOM4 FLEXCOM4_IO_1, ISC ISC_D_5, GMAC GRX_0, PTC PTC_Y_2]
+- K4 : PD14,  of Type IO, alternates : [ISC ISC_D_6, PIO P_110, ISC ISC_D_7, ICE TCK_, FLEXCOM4 FLEXCOM4_IO_2, PTC PTC_Y_3, GMAC GRX_1]
+- K7 : PD15,  of Type IO, alternates : [ISC ISC_PCK_, ICE TDI_, ISC ISC_D_7, FLEXCOM4 FLEXCOM4_IO_3, GMAC GTX_0, PTC PTC_Y_4, PIO P_111]
+- L1 : PD16,  of Type IO, alternates : [ISC ISC_VSYNC_, GMAC GTX_1, ICE TDO_, ISC ISC_D_8, PIO P_112, FLEXCOM4 FLEXCOM4_IO_4, PTC PTC_Y_5]
+- K2 : PD17,  of Type IO, alternates : [ICE TMS_, PIO P_113, PTC PTC_Y_6, GMAC GMDC_, ISC ISC_D_9, ISC ISC_HSYNC_]
+- J5 : PD18,  of Type IO, alternates : [GMAC GMDIO_, ICE NTRST_, ISC ISC_FIELD_, PTC PTC_Y_7, ISC ISC_D_10, PIO P_114]
+- K6 : PD19,  of Type IO, alternates : [I2SC0 I2SC0_CK_, ISC ISC_D_11, TWIHS1 TWD_1, UART2 URXD_2, ADC AD_0, PIO P_115, PMC PCK_0]
+- M2 : PD20,  of Type IO, alternates : [ISC ISC_PCK_, TWIHS1 TWCK_1, UART2 UTXD_2, TC0 TIOA_2, PIO P_116, ADC AD_1, I2SC0 I2SC0_MCK_]
+- N1 : PD21,  of Type IO, alternates : [ISC ISC_VSYNC_, TWIHS0 TWD_0, I2SC0 I2SC0_WS_, FLEXCOM4 FLEXCOM4_IO_0, TC0 TIOB_2, ADC AD_2, PIO P_117]
+- L4 : PD22,  of Type IO, alternates : [TWIHS0 TWCK_0, FLEXCOM4 FLEXCOM4_IO_1, I2SC0 I2SC0_DI_0, PIO P_118, TC0 TCLK_2, ADC AD_3, ISC ISC_HSYNC_]
+- M3 : PD23,  of Type IO, alternates : [ADC AD_4, PIO P_119, ISC ISC_FIELD_, FLEXCOM4 FLEXCOM4_IO_2, UART2 URXD_2, I2SC0 I2SC0_DO_0]
+- L7 : PD24,  of Type IO, alternates : [ADC AD_5, UART2 UTXD_2, PIO P_120, FLEXCOM4 FLEXCOM4_IO_3]
+- L6 : PD25,  of Type IO, alternates : [ADC AD_6, PIO P_121, SPI1 SPI1_SPCK_, FLEXCOM4 FLEXCOM4_IO_4]
+- N2 : PD26,  of Type IO, alternates : [ADC AD_7, FLEXCOM2 FLEXCOM2_IO_0, SPI1 SPI1_MOSI_, PIO P_122]
+- L8 : PD27,  of Type IO, alternates : [SPI1 SPI1_MISO_, ADC AD_8, FLEXCOM2 FLEXCOM2_IO_1, ICE TCK_, PIO P_123]
+- M4 : PD28,  of Type IO, alternates : [ICE TDI_, ADC AD_9, FLEXCOM2 FLEXCOM2_IO_2, PIO P_124, SPI1 SPI1_NPCS_0]
+- N3 : PD29,  of Type IO, alternates : [TWIHS0 TWD_0, PIO P_125, SPI1 SPI1_NPCS_1, FLEXCOM2 FLEXCOM2_IO_3, ICE TDO_, TC1 TIOA_3, ADC AD_10]
+- L9 : PD30,  of Type IO, alternates : [TWIHS0 TWCK_0, ICE TMS_, TC1 TIOB_3, FLEXCOM2 FLEXCOM2_IO_4, ADC AD_11, PIO P_126, SPI1 SPI1_NPCS_2]
+- M7 : PD31,  of Type IO, alternates : [AIC IRQ_, ADC ADTRG_, ICE NTRST_, PIO P_127, TC1 TCLK_3, PMC PCK_0]
+- L5 : VDDANA,  of Type PP
+- K5 : GNDANA,  of Type PS
+- M6 : ADVREF,  of Type PS
+- K3 : VDDANA,  of Type PP
+- L3 : GNDANA,  of Type PS
+- H16 : DDR_VREF,  of Type PS
+- D16 : DDR_VREF,  of Type PS
+- B12 : DDR_D0,  of Type IO
+- A12 : DDR_D1,  of Type IO
+- C12 : DDR_D2,  of Type IO
+- A13 : DDR_D3,  of Type IO
+- A14 : DDR_D4,  of Type IO
+- C13 : DDR_D5,  of Type IO
+- A15 : DDR_D6,  of Type IO
+- B15 : DDR_D7,  of Type IO
+- G17 : DDR_D8,  of Type IO
+- G16 : DDR_D9,  of Type IO
+- H17 : DDR_D10,  of Type IO
+- K17 : DDR_D11,  of Type IO
+- K16 : DDR_D12,  of Type IO
+- J13 : DDR_D13,  of Type IO
+- K14 : DDR_D14,  of Type IO
+- K15 : DDR_D15,  of Type IO
+- B8 : DDR_D16,  of Type IO
+- B9 : DDR_D17,  of Type IO
+- C9 : DDR_D18,  of Type IO
+- A9 : DDR_D19,  of Type IO
+- A10 : DDR_D20,  of Type IO
+- D10 : DDR_D21,  of Type IO
+- B11 : DDR_D22,  of Type IO
+- A11 : DDR_D23,  of Type IO
+- J12 : DDR_D24,  of Type IO
+- H10 : DDR_D25,  of Type IO
+- J11 : DDR_D26,  of Type IO
+- K11 : DDR_D27,  of Type IO
+- L13 : DDR_D28,  of Type IO
+- L11 : DDR_D29,  of Type IO
+- L12 : DDR_D30,  of Type IO
+- M17 : DDR_D31,  of Type IO
+- F12 : DDR_A0,  of Type OP
+- C17 : DDR_A1,  of Type OP
+- B17 : DDR_A2,  of Type OP
+- B16 : DDR_A3,  of Type OP
+- C16 : DDR_A4,  of Type OP
+- G14 : DDR_A5,  of Type OP
+- F14 : DDR_A6,  of Type OP
+- F11 : DDR_A7,  of Type OP
+- C14 : DDR_A8,  of Type OP
+- D13 : DDR_A9,  of Type OP
+- C15 : DDR_A10,  of Type OP
+- A16 : DDR_A11,  of Type OP
+- A17 : DDR_A12,  of Type OP
+- G11 : DDR_A13,  of Type OP
+- E17 : DDR_CLK,  of Type OP
+- D17 : DDR_CLKN,  of Type OP
+- F16 : DDR_CKE,  of Type OP
+- E16 : DDR_RESETN,  of Type OP
+- G13 : DDR_CS,  of Type OP
+- F15 : DDR_WE,  of Type OP
+- F13 : DDR_RAS,  of Type OP
+- G12 : DDR_CAS,  of Type OP
+- C11 : DDR_DQM0,  of Type OP
+- G15 : DDR_DQM1,  of Type OP
+- C8 : DDR_DQM2,  of Type OP
+- H11 : DDR_DQM3,  of Type OP
+- B13 : DDR_DQS0,  of Type OP
+- J17 : DDR_DQS1,  of Type OP
+- C10 : DDR_DQS2,  of Type OP
+- L17 : DDR_DQS3,  of Type OP
+- B14 : DDR_DQSN0,  of Type OP
+- J16 : DDR_DQSN1,  of Type OP
+- B10 : DDR_DQSN2,  of Type OP
+- L16 : DDR_DQSN3,  of Type OP
+- H12 : DDR_BA0,  of Type OP
+- H13 : DDR_BA1,  of Type OP
+- F17 : DDR_BA2,  of Type OP
+- E13 : DDR_,  of Type IO
+- L15 : VDDIODDR,  of Type PP
+- J15 : VDDIODDR,  of Type PP
+- H15 : VDDIODDR,  of Type PP
+- E15 : VDDIODDR,  of Type PP
+- D15 : VDDIODDR,  of Type PP
+- D12 : VDDIODDR,  of Type PP
+- D11 : VDDIODDR,  of Type PP
+- L14 : GNDIODDR,  of Type PS
+- J14 : GNDIODDR,  of Type PS
+- H14 : GNDIODDR,  of Type PS
+- E14 : GNDIODDR,  of Type PS
+- D14 : GNDIODDR,  of Type PS
+- E12 : GNDIODDR,  of Type PS
+- E11 : GNDIODDR,  of Type PS
+- H3 : VDDCORE,  of Type PP
+- N5 : VDDCORE,  of Type PP
+- N9 : VDDCORE,  of Type PP
+- K13 : VDDCORE,  of Type PP
+- D9 : VDDCORE,  of Type PP
+- D7 : VDDCORE,  of Type PP
+- H4 : GNDCORE,  of Type PS
+- M5 : GNDCORE,  of Type PS
+- M9 : GNDCORE,  of Type PS
+- K12 : GNDCORE,  of Type PS
+- E9 : GNDCORE,  of Type PS
+- E7 : GNDCORE,  of Type PS
+- E6 : VDDIOP0,  of Type PP
+- F7 : VDDIOP0,  of Type PP
+- F6 : GNDIOP0,  of Type PS
+- G7 : GNDIOP0,  of Type PS
+- R14 : VDDIOP1,  of Type PP
+- N13 : VDDIOP1,  of Type PP
+- M13 : GNDIOP1,  of Type PS
+- P14 : GNDIOP1,  of Type PS
+- F10 : VDDIOP2,  of Type PP
+- F9 : GNDIOP2,  of Type PS
+- P11 : VDDSDMMC,  of Type PP
+- R11 : GNDSDMMC,  of Type PS
+- F4 : VDDISC,  of Type PP
+- G4 : GNDISC,  of Type PS
+- M12 : VDDFUSE,  of Type PP
+- U4 : VDDPLLA,  of Type PP
+- U5 : GNDPLLA,  of Type PS
+- T3 : VDDAUDIOPLL,  of Type PP
+- T5 : GNDDPLL,  of Type PS
+- T4 : GNDAUDIOPLL,  of Type PS
+- U3 : CLK_AUDIO,  of Type IO
+- U7 : XIN,  of Type PS
+- U6 : XOUT,  of Type PS
+- T7 : VDDOSC,  of Type PP
+- T6 : GNDOSC,  of Type PS
+- P8 : VDDUTMII,  of Type PP
+- R9 : VDDHSIC,  of Type PP
+- P9 : GNDUTMII,  of Type PS
+- T8 : HHSDPA,  of Type IO
+- R8 : HHSDMA,  of Type IO
+- U8 : HHSDPB,  of Type IO
+- U9 : HHSDMB,  of Type IO
+- T9 : HHSDPDATC,  of Type IO
+- U10 : HHSDMSTRC,  of Type IO
+- P7 : VDDUTMIC,  of Type PP
+- R7 : GNDUTMIC,  of Type PS
+- T10 : SDCAL,  of Type IO
+- R6 : VBG,  of Type IO
+- P3 : TST,  of Type IO
+- U2 : NRST,  of Type IP
+- T2 : JTAGSEL,  of Type OP
+- P4 : WKUP,  of Type IP
+- N4 : RXD,  of Type IP
+- R1 : SHDN,  of Type IO
+- R3 : PIOBU0,  of Type IO
+- N8 : PIOBU1,  of Type IO
+- R2 : PIOBU2,  of Type IO
+- R5 : PIOBU3,  of Type IO
+- R4 : PIOBU4,  of Type IO
+- P5 : PIOBU5,  of Type IO
+- P6 : PIOBU6,  of Type IO
+- M8 : PIOBU7,  of Type IO
+- N7 : VDDBU,  of Type PP
+- N6 : GNDBU,  of Type PS
+- P1 : XIN32,  of Type PS
+- P2 : XOUT32,  of Type PS
+- T1 : COMPP,  of Type IO
+- U1 : COMPN,  of Type IO
 ## ATSAMA5D27C-CU
+
 ### Description : 
+
+- Series : SAMA5D2
+- Footprint : LFBGA289
+- MP : ATSAMA5D27C-CU
+- Architecture : CORTEX-A5
+- PINOUT : LFBGA289
+- Reference : U
+- Documentation : https://www.microchip.com/en-us/search?q=ATSAMA5D27C-CU
+- Value : ATSAMA5D27C-CU
+- Family : SAMA5
+- MF : Microchip
+- Name : ATSAMA5D27
 
 ### Package : 
 
-- U11 : PA0
-- P10 : PA1
-- T11 : PA2
-- R10 : PA3
-- U12 : PA4
-- T12 : PA5
-- R12 : PA6
-- T13 : PA7
-- N10 : PA8
-- N11 : PA9
-- U13 : PA10
-- P15 : PA11
-- N15 : PA12
-- P16 : PA13
-- M14 : PA14
-- N16 : PA15
-- M10 : PA16
-- N17 : PA17
-- U14 : PA18
-- T14 : PA19
-- P12 : PA20
-- R13 : PA21
-- U15 : PA22
-- U16 : PA23
-- T15 : PA24
-- U17 : PA25
-- P13 : PA26
-- T16 : PA27
-- R16 : PA28
-- T17 : PA29
-- R15 : PA30
-- R17 : PA31
-- J8 : PB0
-- A8 : PB1
-- A7 : PB2
-- A6 : PB3
-- B6 : PB4
-- B7 : PB5
-- C7 : PB6
-- C6 : PB7
-- A5 : PB8
-- A4 : PB9
-- H8 : PB10
-- B5 : PB11
-- D6 : PB12
-- B4 : PB13
-- C5 : PB14
-- H7 : PB15
-- D5 : PB16
-- C4 : PB17
-- A3 : PB18
-- D4 : PB19
-- B3 : PB20
-- A2 : PB21
-- C3 : PB22
-- A1 : PB23
-- E5 : PB24
-- B2 : PB25
-- E4 : PB26
-- B1 : PB27
-- C2 : PB28
-- D3 : PB29
-- D2 : PB30
-- C1 : PB31
-- P17 : PC0
-- N12 : PC1
-- N14 : PC2
-- M15 : PC3
-- M11 : PC4
-- L10 : PC5
-- K10 : PC6
-- M16 : PC7
-- J10 : PC8
-- D1 : PC9
-- E3 : PC10
-- E2 : PC11
-- E1 : PC12
-- F3 : PC13
-- F5 : PC14
-- F2 : PC15
-- G6 : PC16
-- F1 : PC17
-- H6 : PC18
-- G2 : PC19
-- G3 : PC20
-- G1 : PC21
-- H2 : PC22
-- G5 : PC23
-- H1 : PC24
-- H5 : PC25
-- J9 : PC26
-- H9 : PC27
-- E8 : PC28
-- G8 : PC29
-- F8 : PC30
-- D8 : PC31
-- G10 : PD0
-- E10 : PD1
-- G9 : PD2
-- K1 : PD3
-- J6 : PD4
-- J4 : PD5
-- J2 : PD6
-- J7 : PD7
-- J1 : PD8
-- K9 : PD9
-- J3 : PD10
-- M1 : PD11
-- K8 : PD12
-- L2 : PD13
-- K4 : PD14
-- K7 : PD15
-- L1 : PD16
-- K2 : PD17
-- J5 : PD18
-- K6 : PD19
-- M2 : PD20
-- N1 : PD21
-- L4 : PD22
-- M3 : PD23
-- L7 : PD24
-- L6 : PD25
-- N2 : PD26
-- L8 : PD27
-- M4 : PD28
-- N3 : PD29
-- L9 : PD30
-- M7 : PD31
-- L5 : VDDANA
-- K5 : GNDANA
-- M6 : ADVREF
-- K3 : VDDANA
-- L3 : GNDANA
-- H16 : DDR_VREF
-- D16 : DDR_VREF
-- B12 : DDR_D0
-- A12 : DDR_D1
-- C12 : DDR_D2
-- A13 : DDR_D3
-- A14 : DDR_D4
-- C13 : DDR_D5
-- A15 : DDR_D6
-- B15 : DDR_D7
-- G17 : DDR_D8
-- G16 : DDR_D9
-- H17 : DDR_D10
-- K17 : DDR_D11
-- K16 : DDR_D12
-- J13 : DDR_D13
-- K14 : DDR_D14
-- K15 : DDR_D15
-- B8 : DDR_D16
-- B9 : DDR_D17
-- C9 : DDR_D18
-- A9 : DDR_D19
-- A10 : DDR_D20
-- D10 : DDR_D21
-- B11 : DDR_D22
-- A11 : DDR_D23
-- J12 : DDR_D24
-- H10 : DDR_D25
-- J11 : DDR_D26
-- K11 : DDR_D27
-- L13 : DDR_D28
-- L11 : DDR_D29
-- L12 : DDR_D30
-- M17 : DDR_D31
-- F12 : DDR_A0
-- C17 : DDR_A1
-- B17 : DDR_A2
-- B16 : DDR_A3
-- C16 : DDR_A4
-- G14 : DDR_A5
-- F14 : DDR_A6
-- F11 : DDR_A7
-- C14 : DDR_A8
-- D13 : DDR_A9
-- C15 : DDR_A10
-- A16 : DDR_A11
-- A17 : DDR_A12
-- G11 : DDR_A13
-- E17 : DDR_CLK
-- D17 : DDR_CLKN
-- F16 : DDR_CKE
-- E16 : DDR_RESETN
-- G13 : DDR_CS
-- F15 : DDR_WE
-- F13 : DDR_RAS
-- G12 : DDR_CAS
-- C11 : DDR_DQM0
-- G15 : DDR_DQM1
-- C8 : DDR_DQM2
-- H11 : DDR_DQM3
-- B13 : DDR_DQS0
-- J17 : DDR_DQS1
-- C10 : DDR_DQS2
-- L17 : DDR_DQS3
-- B14 : DDR_DQSN0
-- J16 : DDR_DQSN1
-- B10 : DDR_DQSN2
-- L16 : DDR_DQSN3
-- H12 : DDR_BA0
-- H13 : DDR_BA1
-- F17 : DDR_BA2
-- E13 : DDR_
-- L15 : VDDIODDR
-- J15 : VDDIODDR
-- H15 : VDDIODDR
-- E15 : VDDIODDR
-- D15 : VDDIODDR
-- D12 : VDDIODDR
-- D11 : VDDIODDR
-- L14 : GNDIODDR
-- J14 : GNDIODDR
-- H14 : GNDIODDR
-- E14 : GNDIODDR
-- D14 : GNDIODDR
-- E12 : GNDIODDR
-- E11 : GNDIODDR
-- H3 : VDDCORE
-- N5 : VDDCORE
-- N9 : VDDCORE
-- K13 : VDDCORE
-- D9 : VDDCORE
-- D7 : VDDCORE
-- H4 : GNDCORE
-- M5 : GNDCORE
-- M9 : GNDCORE
-- K12 : GNDCORE
-- E9 : GNDCORE
-- E7 : GNDCORE
-- E6 : VDDIOP0
-- F7 : VDDIOP0
-- F6 : GNDIOP0
-- G7 : GNDIOP0
-- R14 : VDDIOP1
-- N13 : VDDIOP1
-- M13 : GNDIOP1
-- P14 : GNDIOP1
-- F10 : VDDIOP2
-- F9 : GNDIOP2
-- P11 : VDDSDMMC
-- R11 : GNDSDMMC
-- F4 : VDDISC
-- G4 : GNDISC
-- M12 : VDDFUSE
-- U4 : VDDPLLA
-- U5 : GNDPLLA
-- T3 : VDDAUDIOPLL
-- T5 : GNDDPLL
-- T4 : GNDAUDIOPLL
-- U3 : CLK_AUDIO
-- U7 : XIN
-- U6 : XOUT
-- T7 : VDDOSC
-- T6 : GNDOSC
-- P8 : VDDUTMII
-- R9 : VDDHSIC
-- P9 : GNDUTMII
-- T8 : HHSDPA
-- R8 : HHSDMA
-- U8 : HHSDPB
-- U9 : HHSDMB
-- T9 : HHSDPDATC
-- U10 : HHSDMSTRC
-- P7 : VDDUTMIC
-- R7 : GNDUTMIC
-- T10 : SDCAL
-- R6 : VBG
-- P3 : TST
-- U2 : NRST
-- T2 : JTAGSEL
-- P4 : WKUP
-- N4 : RXD
-- R1 : SHDN
-- R3 : PIOBU0
-- N8 : PIOBU1
-- R2 : PIOBU2
-- R5 : PIOBU3
-- R4 : PIOBU4
-- P5 : PIOBU5
-- P6 : PIOBU6
-- M8 : PIOBU7
-- N7 : VDDBU
-- N6 : GNDBU
-- P1 : XIN32
-- P2 : XOUT32
-- T1 : COMPP
-- U1 : COMPN
+Pin count : 289
+- U11 : PA0,  of Type IO, alternates : [HSMC D_0, PIO P_0, SDMMC0 SDMMC0_CK_, QSPI0 QSPI0_SCK_]
+- P10 : PA1,  of Type IO, alternates : [SDMMC0 SDMMC0_CMD_, PIO P_1, QSPI0 QSPI0_CS_, HSMC D_1]
+- T11 : PA2,  of Type IO, alternates : [PIO P_2, HSMC D_2, SDMMC0 SDMMC0_DAT_0, QSPI0 QSPI0_IO_0]
+- R10 : PA3,  of Type IO, alternates : [PIO P_3, HSMC D_3, SDMMC0 SDMMC0_DAT_1, QSPI0 QSPI0_IO_1]
+- U12 : PA4,  of Type IO, alternates : [HSMC D_4, PIO P_4, SDMMC0 SDMMC0_DAT_2, QSPI0 QSPI0_IO_2]
+- T12 : PA5,  of Type IO, alternates : [PIO P_5, HSMC D_5, QSPI0 QSPI0_IO_3, SDMMC0 SDMMC0_DAT_3]
+- R12 : PA6,  of Type IO, alternates : [PIO P_6, HSMC D_6, FLEXCOM2 FLEXCOM2_IO_0, TC1 TIOA_5, QSPI1 QSPI1_SCK_, SDMMC0 SDMMC0_DAT_4]
+- T13 : PA7,  of Type IO, alternates : [PIO P_7, QSPI1 QSPI1_IO_0, HSMC D_7, FLEXCOM2 FLEXCOM2_IO_1, SDMMC0 SDMMC0_DAT_5, TC1 TIOB_5]
+- N10 : PA8,  of Type IO, alternates : [PIO P_8, QSPI1 QSPI1_IO_1, FLEXCOM2 FLEXCOM2_IO_2, HSMC NANDNWE_, TC1 TCLK_5, SDMMC0 SDMMC0_DAT_6]
+- N11 : PA9,  of Type IO, alternates : [SDMMC0 SDMMC0_DAT_7, QSPI1 QSPI1_IO_2, FLEXCOM2 FLEXCOM2_IO_3, TC1 TIOA_4, HSMC NCS_3, PIO P_9]
+- U13 : PA10,  of Type IO, alternates : [PIO P_10, QSPI1 QSPI1_IO_3, SDMMC0 SDMMC0_RSTN_, HSMC A21_, TC1 TIOB_4, FLEXCOM2 FLEXCOM2_IO_4]
+- P15 : PA11,  of Type IO, alternates : [QSPI1 QSPI1_CS_, SDMMC0 SDMMC0_1V8SEL_, PIO P_11, HSMC A22_, TC1 TCLK_4]
+- N15 : PA12,  of Type IO, alternates : [AIC IRQ_, SDMMC0 SDMMC0_WP_, PIO P_12, HSMC NANDOE_]
+- P16 : PA13,  of Type IO, alternates : [HSMC D_8, FLEXCOM3 FLEXCOM3_IO_1, PIO P_13, SDMMC0 SDMMC0_CD_]
+- M14 : PA14,  of Type IO, alternates : [PIO P_14, SPI0 SPI0_SPCK_, HSMC D_9, SSC1 TK_1, I2SC1 I2SC1_MCK_, FLEXCOM3 FLEXCOM3_IO_2, QSPI0 QSPI0_SCK_]
+- N16 : PA15,  of Type IO, alternates : [PIO P_15, HSMC D_10, QSPI0 QSPI0_CS_, FLEXCOM3 FLEXCOM3_IO_0, SSC1 TF_1, SPI0 SPI0_MOSI_, I2SC1 I2SC1_CK_]
+- M10 : PA16,  of Type IO, alternates : [PIO P_16, HSMC D_11, I2SC1 I2SC1_WS_, FLEXCOM3 FLEXCOM3_IO_3, SPI0 SPI0_MISO_, SSC1 TD_1, QSPI0 QSPI0_IO_0]
+- N17 : PA17,  of Type IO, alternates : [I2SC1 I2SC1_DI_0, PIO P_17, HSMC D_12, SPI0 SPI0_NPCS_0, FLEXCOM3 FLEXCOM3_IO_4, QSPI0 QSPI0_IO_1, SSC1 RD_1]
+- U14 : PA18,  of Type IO, alternates : [HSMC D_13, SSC1 RK_1, SPI0 SPI0_NPCS_1, I2SC1 I2SC1_DO_0, PIO P_18, QSPI0 QSPI0_IO_2, SDMMC1 SDMMC1_DAT_0]
+- T14 : PA19,  of Type IO, alternates : [SSC1 RF_1, SPI0 SPI0_NPCS_2, HSMC D_14, TC0 TIOA_0, QSPI0 QSPI0_IO_3, PIO P_19, SDMMC1 SDMMC1_DAT_1]
+- P12 : PA20,  of Type IO, alternates : [SPI0 SPI0_NPCS_3, HSMC D_15, TC0 TIOB_0, PIO P_20, SDMMC1 SDMMC1_DAT_2]
+- R13 : PA21,  of Type IO, alternates : [AIC IRQ_, PMC PCK_2, HSMC NANDRDY_, TC0 TCLK_0, PIO P_21, SDMMC1 SDMMC1_DAT_3]
+- U15 : PA22,  of Type IO, alternates : [PIO P_22, ICE TCK_, FLEXCOM1 FLEXCOM1_IO_2, HSMC D_0, SPI1 SPI1_SPCK_, SDMMC1 SDMMC1_CK_, QSPI0 QSPI0_SCK_]
+- U16 : PA23,  of Type IO, alternates : [ICE TDI_, PIO P_23, QSPI0 QSPI0_CS_, SPI1 SPI1_MOSI_, FLEXCOM1 FLEXCOM1_IO_1, HSMC D_1]
+- T15 : PA24,  of Type IO, alternates : [SPI1 SPI1_MISO_, FLEXCOM1 FLEXCOM1_IO_0, HSMC D_2, PIO P_24, ICE TDO_, QSPI0 QSPI0_IO_0]
+- U17 : PA25,  of Type IO, alternates : [PIO P_25, ICE TMS_, HSMC D_3, FLEXCOM1 FLEXCOM1_IO_3, SPI1 SPI1_NPCS_0, QSPI0 QSPI0_IO_1]
+- P13 : PA26,  of Type IO, alternates : [PIO P_26, ICE NTRST_, HSMC D_4, SPI1 SPI1_NPCS_1, FLEXCOM1 FLEXCOM1_IO_4, QSPI0 QSPI0_IO_2]
+- T16 : PA27,  of Type IO, alternates : [PIO P_27, SPI0 SPI0_NPCS_2, SDMMC1 SDMMC1_RSTN_, HSMC D_5, TC0 TIOA_1, QSPI0 QSPI0_IO_3, SPI1 SPI1_NPCS_2]
+- R16 : PA28,  of Type IO, alternates : [HSMC D_6, PIO P_28, SPI0 SPI0_NPCS_3, CLASSD CLASSD_L_0, SDMMC1 SDMMC1_CMD_, TC0 TIOB_1, SPI1 SPI1_NPCS_3]
+- T17 : PA29,  of Type IO, alternates : [HSMC D_7, TC0 TCLK_1, SDMMC1 SDMMC1_WP_, CLASSD CLASSD_L_1, SPI0 SPI0_NPCS_1, PIO P_29]
+- R15 : PA30,  of Type IO, alternates : [SPI0 SPI0_NPCS_0, PWM PWMH_0, CLASSD CLASSD_L_2, PIO P_30, HSMC NANDNWE_, SDMMC1 SDMMC1_CD_]
+- R17 : PA31,  of Type IO, alternates : [PWM PWML_0, HSMC NCS_3, CLASSD CLASSD_L_3, PIO P_31, SPI0 SPI0_MISO_]
+- J8 : PB0,  of Type IO, alternates : [PIO P_32, PWM PWMH_1, HSMC A21_, SPI0 SPI0_MOSI_]
+- A8 : PB1,  of Type IO, alternates : [SPI0 SPI0_SPCK_, PIO P_33, PWM PWML_1, HSMC A22_, CLASSD CLASSD_R_0]
+- A7 : PB2,  of Type IO, alternates : [PIO P_34, PWM PWMFI_0, CLASSD CLASSD_R_1, HSMC NANDOE_]
+- A6 : PB3,  of Type IO, alternates : [HSMC D_8, AIC IRQ_, PWM PWMEXTRG_1, PIO P_35, CLASSD CLASSD_R_2, UART4 URXD_4]
+- B6 : PB4,  of Type IO, alternates : [PIO P_36, HSMC D_9, SAIC FIQ_, UART4 UTXD_4, CLASSD CLASSD_R_3]
+- B7 : PB5,  of Type IO, alternates : [PIO P_37, HSMC D_10, PWM PWMH_2, QSPI1 QSPI1_SCK_, GMAC GTSUCOMP_, TC0 TCLK_2]
+- C7 : PB6,  of Type IO, alternates : [PIO P_38, HSMC D_11, QSPI1 QSPI1_CS_, GMAC GTXER_, PWM PWML_2, TC0 TIOA_2]
+- C6 : PB7,  of Type IO, alternates : [PIO P_39, QSPI1 QSPI1_IO_0, HSMC D_12, PWM PWMH_3, TC0 TIOB_2, GMAC GRXCK_]
+- A5 : PB8,  of Type IO, alternates : [QSPI1 QSPI1_IO_1, HSMC D_13, PIO P_40, PWM PWML_3, GMAC GCRS_, TC1 TCLK_3]
+- A4 : PB9,  of Type IO, alternates : [QSPI1 QSPI1_IO_2, HSMC D_14, GMAC GCOL_, PIO P_41, TC1 TIOA_3, PWM PWMFI_1]
+- H8 : PB10,  of Type IO, alternates : [GMAC GRX_2, PWM PWMEXTRG_2, QSPI1 QSPI1_IO_3, HSMC D_15, TC1 TIOB_3, PIO P_42]
+- B5 : PB11,  of Type IO, alternates : [GMAC GRX_3, PIO P_43, PDMIC PDMIC_DAT_, UART3 URXD_3, LCDC LCDDAT_0, HSMC A0_]
+- D6 : PB12,  of Type IO, alternates : [PDMIC PDMIC_CLK_, PIO P_44, UART3 UTXD_3, GMAC GTX_2, HSMC A_1, LCDC LCDDAT_1]
+- B4 : PB13,  of Type IO, alternates : [PMC PCK_1, PIO P_45, GMAC GTX_3, HSMC A_2, LCDC LCDDAT_2]
+- C5 : PB14,  of Type IO, alternates : [SSC1 TK_1, I2SC1 I2SC1_MCK_, LCDC LCDDAT_3, PIO P_46, HSMC A_3, QSPI1 QSPI1_SCK_, GMAC GTXCK_]
+- H7 : PB15,  of Type IO, alternates : [PIO P_47, LCDC LCDDAT_4, QSPI1 QSPI1_CS_, GMAC GTXEN_, HSMC A_4, SSC1 TF_1, I2SC1 I2SC1_CK_]
+- D5 : PB16,  of Type IO, alternates : [LCDC LCDDAT_5, PIO P_48, I2SC1 I2SC1_WS_, QSPI1 QSPI1_IO_0, HSMC A_5, GMAC GRXDV_, SSC1 TD_1]
+- C4 : PB17,  of Type IO, alternates : [LCDC LCDDAT_6, GMAC GRXER_, I2SC1 I2SC1_DI_0, PIO P_49, QSPI1 QSPI1_IO_1, HSMC A_6, SSC1 RD_1]
+- A3 : PB18,  of Type IO, alternates : [HSMC A_7, SSC1 RK_1, QSPI1 QSPI1_IO_2, LCDC LCDDAT_7, PIO P_50, I2SC1 I2SC1_DO_0, GMAC GRX_0]
+- D4 : PB19,  of Type IO, alternates : [SSC1 RF_1, QSPI1 QSPI1_IO_3, HSMC A_8, LCDC LCDDAT_8, PIO P_51, TC1 TIOA_3, GMAC GRX_1]
+- B3 : PB20,  of Type IO, alternates : [PMC PCK_1, HSMC A_9, LCDC LCDDAT_9, GMAC GTX_0, TC1 TIOB_3, PIO P_52, SSC0 TK_0]
+- A2 : PB21,  of Type IO, alternates : [SSC0 TF_0, FLEXCOM3 FLEXCOM3_IO_2, GMAC GTX_1, PIO P_53, HSMC A_10, LCDC LCDDAT_10, TC1 TCLK_3]
+- C3 : PB22,  of Type IO, alternates : [SSC0 TD_0, PIO P_54, FLEXCOM3 FLEXCOM3_IO_1, HSMC A_11, GMAC GMDC_, TC0 TIOA_2, LCDC LCDDAT_11]
+- A1 : PB23,  of Type IO, alternates : [SSC0 RD_0, GMAC GMDIO_, PIO P_55, FLEXCOM3 FLEXCOM3_IO_0, TC0 TIOB_2, HSMC A_12, LCDC LCDDAT_12]
+- E5 : PB24,  of Type IO, alternates : [PIO P_56, FLEXCOM3 FLEXCOM3_IO_3, ISC ISC_D_10, HSMC A_13, SSC0 RK_0, LCDC LCDDAT_13, TC0 TCLK_2]
+- B2 : PB25,  of Type IO, alternates : [ISC ISC_D_11, PIO P_57, HSMC A_14, LCDC LCDDAT_14, FLEXCOM3 FLEXCOM3_IO_4, SSC0 RF_0]
+- E4 : PB26,  of Type IO, alternates : [PIO P_58, ISC ISC_D_0, HSMC A_15, PDMIC PDMIC_DAT_, LCDC LCDDAT_15, UART0 URXD_0]
+- B1 : PB27,  of Type IO, alternates : [PIO P_59, ISC ISC_D_1, PDMIC PDMIC_CLK_, HSMC A_16, UART0 UTXD_0, LCDC LCDDAT_16]
+- C2 : PB28,  of Type IO, alternates : [ISC ISC_D_2, HSMC A_17, FLEXCOM0 FLEXCOM0_IO_0, LCDC LCDDAT_17, TC1 TIOA_5, PIO P_60]
+- D3 : PB29,  of Type IO, alternates : [ISC ISC_D_3, HSMC A_18, LCDC LCDDAT_18, FLEXCOM0 FLEXCOM0_IO_1, PIO P_61, TC1 TIOB_5]
+- D2 : PB30,  of Type IO, alternates : [HSMC A_19, LCDC LCDDAT_19, ISC ISC_D_4, FLEXCOM0 FLEXCOM0_IO_2, PIO P_62, TC1 TCLK_5]
+- C1 : PB31,  of Type IO, alternates : [TWIHS0 TWD_0, ISC ISC_D_5, FLEXCOM0 FLEXCOM0_IO_3, PIO P_63, HSMC A_20, LCDC LCDDAT_20]
+- P17 : PC0,  of Type IO, alternates : [TWIHS0 TWCK_0, ISC ISC_D_6, HSMC A_23, FLEXCOM0 FLEXCOM0_IO_4, PIO P_64, LCDC LCDDAT_21]
+- N12 : PC1,  of Type IO, alternates : [MCAN0 CANTX_0, I2SC0 I2SC0_CK_, PIO P_65, ISC ISC_D_7, HSMC A_24, SPI1 SPI1_SPCK_, LCDC LCDDAT_22]
+- N14 : PC2,  of Type IO, alternates : [MCAN0 CANRX_0, PIO P_66, SPI1 SPI1_MOSI_, HSMC A_25, ISC ISC_D_8, LCDC LCDDAT_23, I2SC0 I2SC0_MCK_]
+- M15 : PC3,  of Type IO, alternates : [SPI1 SPI1_MISO_, I2SC0 I2SC0_WS_, LCDC LCDPWM_, PIO P_67, TC0 TIOA_1, ISC ISC_D_9, HSMC NWAIT_]
+- M11 : PC4,  of Type IO, alternates : [ISC ISC_PCK_, LCDC LCDDISP_, I2SC0 I2SC0_DI_0, PIO P_68, SPI1 SPI1_NPCS_0, HSMC NWR1_, TC0 TIOB_1]
+- L10 : PC5,  of Type IO, alternates : [PIO P_69, ISC ISC_VSYNC_, TC0 TCLK_1, SPI1 SPI1_NPCS_1, HSMC NCS_0, I2SC0 I2SC0_DO_0, LCDC LCDVSYNC_]
+- K10 : PC6,  of Type IO, alternates : [LCDC LCDHSYNC_, TWIHS1 TWD_1, PIO P_70, ISC ISC_HSYNC_, SPI1 SPI1_NPCS_2]
+- M16 : PC7,  of Type IO, alternates : [LCDC LCDPCK_, TWIHS1 TWCK_1, ISC ISC_MCK_, UART1 URXD_1, HSMC NCS_2, SPI1 SPI1_NPCS_3, PIO P_71]
+- J10 : PC8,  of Type IO, alternates : [LCDC LCDDEN_, HSMC NANDRDY_, SAIC FIQ_, ISC ISC_FIELD_, UART1 UTXD_1, PIO P_72, PMC PCK_0]
+- D1 : PC9,  of Type IO, alternates : [SAIC FIQ_, ISC ISC_D_0, PIO P_73, TC1 TIOA_4, GMAC GTSUCOMP_]
+- E3 : PC10,  of Type IO, alternates : [MCAN0 CANTX_0, ISC ISC_D_1, TC1 TIOB_4, PIO P_74, LCDC LCDDAT_2, GMAC GTXCK_]
+- E2 : PC11,  of Type IO, alternates : [ISC ISC_D_2, LCDC LCDDAT_3, MCAN0 CANRX_0, GMAC GTXEN_, PIO P_75, HSMC A0_, TC1 TCLK_4]
+- E1 : PC12,  of Type IO, alternates : [ISC ISC_D_3, LCDC LCDDAT_4, PIO P_76, GMAC GRXDV_, HSMC A_1, UART3 URXD_3, SSC0 TK_0]
+- F3 : PC13,  of Type IO, alternates : [LCDC LCDDAT_5, GMAC GRXER_, SSC0 TF_0, PIO P_77, UART3 UTXD_3, ISC ISC_D_4, HSMC A_2]
+- F5 : PC14,  of Type IO, alternates : [LCDC LCDDAT_6, SSC0 TD_0, PIO P_78, ISC ISC_D_5, HSMC A_3, GMAC GRX_0]
+- F2 : PC15,  of Type IO, alternates : [SSC0 RD_0, ISC ISC_D_6, LCDC LCDDAT_7, PIO P_79, HSMC A_4, GMAC GRX_1]
+- G6 : PC16,  of Type IO, alternates : [ISC ISC_D_7, HSMC A_5, GMAC GTX_0, SSC0 RK_0, LCDC LCDDAT_10, PIO P_80]
+- F1 : PC17,  of Type IO, alternates : [HSMC A_6, GMAC GTX_1, ISC ISC_D_8, LCDC LCDDAT_11, SSC0 RF_0, PIO P_81]
+- H6 : PC18,  of Type IO, alternates : [HSMC A_7, FLEXCOM3 FLEXCOM3_IO_2, GMAC GMDC_, ISC ISC_D_9, LCDC LCDDAT_12, PIO P_82]
+- G2 : PC19,  of Type IO, alternates : [GMAC GMDIO_, HSMC A_8, FLEXCOM3 FLEXCOM3_IO_1, ISC ISC_D_10, PIO P_83, LCDC LCDDAT_13]
+- G3 : PC20,  of Type IO, alternates : [HSMC A_9, FLEXCOM3 FLEXCOM3_IO_0, ISC ISC_D_11, LCDC LCDDAT_14, PIO P_84, GMAC GRXCK_]
+- G1 : PC21,  of Type IO, alternates : [ISC ISC_PCK_, GMAC GTXER_, FLEXCOM3 FLEXCOM3_IO_3, LCDC LCDDAT_15, PIO P_85, HSMC A_10]
+- H2 : PC22,  of Type IO, alternates : [ISC ISC_VSYNC_, LCDC LCDDAT_18, HSMC A_11, FLEXCOM3 FLEXCOM3_IO_4, PIO P_86, GMAC GCRS_]
+- G5 : PC23,  of Type IO, alternates : [LCDC LCDDAT_19, PIO P_87, HSMC A_12, GMAC GCOL_, ISC ISC_HSYNC_]
+- H1 : PC24,  of Type IO, alternates : [GMAC GRX_2, ISC ISC_MCK_, PIO P_88, HSMC A_13, LCDC LCDDAT_20]
+- H5 : PC25,  of Type IO, alternates : [GMAC GRX_3, ISC ISC_FIELD_, PIO P_89, HSMC A_14, LCDC LCDDAT_21]
+- J9 : PC26,  of Type IO, alternates : [MCAN1 CANTX_1, HSMC A_15, GMAC GTX_2, LCDC LCDDAT_22, PIO P_90]
+- H9 : PC27,  of Type IO, alternates : [MCAN1 CANRX_1, PMC PCK_1, TWIHS0 TWD_0, HSMC A_16, GMAC GTX_3, LCDC LCDDAT_23, PIO P_91]
+- E8 : PC28,  of Type IO, alternates : [PMC PCK_2, TWIHS0 TWCK_0, HSMC A_17, LCDC LCDPWM_, FLEXCOM4 FLEXCOM4_IO_0, PIO P_92]
+- G8 : PC29,  of Type IO, alternates : [HSMC A_18, LCDC LCDDISP_, FLEXCOM4 FLEXCOM4_IO_1, PIO P_93]
+- F8 : PC30,  of Type IO, alternates : [HSMC A_19, PIO P_94, FLEXCOM4 FLEXCOM4_IO_2, LCDC LCDVSYNC_]
+- D8 : PC31,  of Type IO, alternates : [LCDC LCDHSYNC_, FLEXCOM4 FLEXCOM4_IO_3, PIO P_95, UART3 URXD_3, HSMC A_20]
+- G10 : PD0,  of Type IO, alternates : [LCDC LCDPCK_, UART3 UTXD_3, HSMC A_23, GMAC GTSUCOMP_, PIO P_96, FLEXCOM4 FLEXCOM4_IO_4]
+- E10 : PD1,  of Type IO, alternates : [LCDC LCDDEN_, HSMC A_24, PIO P_97, GMAC GRXCK_]
+- G9 : PD2,  of Type IO, alternates : [GMAC GTXER_, ISC ISC_MCK_, PIO P_98, HSMC A_25, UART1 URXD_1]
+- K1 : PD3,  of Type IO, alternates : [SAIC FIQ_, PIO P_99, ISC ISC_D_11, UART1 UTXD_1, HSMC NWAIT_, PTC PTC_X_0, GMAC GCRS_]
+- J6 : PD4,  of Type IO, alternates : [ISC ISC_D_10, HSMC NCS_0, GMAC GCOL_, TWIHS1 TWD_1, UART2 URXD_2, PIO P_100, PTC PTC_X_1]
+- J4 : PD5,  of Type IO, alternates : [TWIHS1 TWCK_1, GMAC GRX_2, UART2 UTXD_2, HSMC NCS_1, PIO P_101, ISC ISC_D_9, PTC PTC_X_2]
+- J2 : PD6,  of Type IO, alternates : [PMC PCK_1, GMAC GRX_3, ICE TCK_, PIO P_102, ISC ISC_D_8, HSMC NCS_2, PTC PTC_X_3]
+- J7 : PD7,  of Type IO, alternates : [ISC ISC_D_0, ICE TDI_, PIO P_103, PTC PTC_X_4, GMAC GTX_2, HSMC NWR1_]
+- J1 : PD8,  of Type IO, alternates : [HSMC NANDRDY_, ISC ISC_D_1, PTC PTC_X_5, ICE TDO_, GMAC GTX_3, PIO P_104]
+- K9 : PD9,  of Type IO, alternates : [ISC ISC_D_2, ICE TMS_, PTC PTC_X_6, PIO P_105, GMAC GTXCK_]
+- J3 : PD10,  of Type IO, alternates : [ISC ISC_D_3, ICE NTRST_, GMAC GTXEN_, PTC PTC_X_7, PIO P_106]
+- M1 : PD11,  of Type IO, alternates : [PMC PCK_2, ISC ISC_MCK_, ISC ISC_D_4, GMAC GRXDV_, TC0 TIOA_1, PIO P_107, PTC PTC_Y_0]
+- K8 : PD12,  of Type IO, alternates : [GMAC GRXER_, PIO P_108, ISC ISC_D_4, FLEXCOM4 FLEXCOM4_IO_0, ISC ISC_D_5, TC0 TIOB_1, PTC PTC_Y_1]
+- L2 : PD13,  of Type IO, alternates : [PIO P_109, TC0 TCLK_1, ISC ISC_D_6, FLEXCOM4 FLEXCOM4_IO_1, ISC ISC_D_5, GMAC GRX_0, PTC PTC_Y_2]
+- K4 : PD14,  of Type IO, alternates : [ISC ISC_D_6, PIO P_110, ISC ISC_D_7, ICE TCK_, FLEXCOM4 FLEXCOM4_IO_2, PTC PTC_Y_3, GMAC GRX_1]
+- K7 : PD15,  of Type IO, alternates : [ISC ISC_PCK_, ICE TDI_, ISC ISC_D_7, FLEXCOM4 FLEXCOM4_IO_3, GMAC GTX_0, PTC PTC_Y_4, PIO P_111]
+- L1 : PD16,  of Type IO, alternates : [ISC ISC_VSYNC_, GMAC GTX_1, ICE TDO_, ISC ISC_D_8, PIO P_112, FLEXCOM4 FLEXCOM4_IO_4, PTC PTC_Y_5]
+- K2 : PD17,  of Type IO, alternates : [ICE TMS_, PIO P_113, PTC PTC_Y_6, GMAC GMDC_, ISC ISC_D_9, ISC ISC_HSYNC_]
+- J5 : PD18,  of Type IO, alternates : [GMAC GMDIO_, ICE NTRST_, ISC ISC_FIELD_, PTC PTC_Y_7, ISC ISC_D_10, PIO P_114]
+- K6 : PD19,  of Type IO, alternates : [I2SC0 I2SC0_CK_, ISC ISC_D_11, TWIHS1 TWD_1, UART2 URXD_2, ADC AD_0, PIO P_115, PMC PCK_0]
+- M2 : PD20,  of Type IO, alternates : [ISC ISC_PCK_, TWIHS1 TWCK_1, UART2 UTXD_2, TC0 TIOA_2, PIO P_116, ADC AD_1, I2SC0 I2SC0_MCK_]
+- N1 : PD21,  of Type IO, alternates : [ISC ISC_VSYNC_, TWIHS0 TWD_0, I2SC0 I2SC0_WS_, FLEXCOM4 FLEXCOM4_IO_0, TC0 TIOB_2, ADC AD_2, PIO P_117]
+- L4 : PD22,  of Type IO, alternates : [TWIHS0 TWCK_0, FLEXCOM4 FLEXCOM4_IO_1, I2SC0 I2SC0_DI_0, PIO P_118, TC0 TCLK_2, ADC AD_3, ISC ISC_HSYNC_]
+- M3 : PD23,  of Type IO, alternates : [ADC AD_4, PIO P_119, ISC ISC_FIELD_, FLEXCOM4 FLEXCOM4_IO_2, UART2 URXD_2, I2SC0 I2SC0_DO_0]
+- L7 : PD24,  of Type IO, alternates : [ADC AD_5, UART2 UTXD_2, PIO P_120, FLEXCOM4 FLEXCOM4_IO_3]
+- L6 : PD25,  of Type IO, alternates : [ADC AD_6, PIO P_121, SPI1 SPI1_SPCK_, FLEXCOM4 FLEXCOM4_IO_4]
+- N2 : PD26,  of Type IO, alternates : [ADC AD_7, FLEXCOM2 FLEXCOM2_IO_0, SPI1 SPI1_MOSI_, PIO P_122]
+- L8 : PD27,  of Type IO, alternates : [SPI1 SPI1_MISO_, ADC AD_8, FLEXCOM2 FLEXCOM2_IO_1, ICE TCK_, PIO P_123]
+- M4 : PD28,  of Type IO, alternates : [ICE TDI_, ADC AD_9, FLEXCOM2 FLEXCOM2_IO_2, PIO P_124, SPI1 SPI1_NPCS_0]
+- N3 : PD29,  of Type IO, alternates : [TWIHS0 TWD_0, PIO P_125, SPI1 SPI1_NPCS_1, FLEXCOM2 FLEXCOM2_IO_3, ICE TDO_, TC1 TIOA_3, ADC AD_10]
+- L9 : PD30,  of Type IO, alternates : [TWIHS0 TWCK_0, ICE TMS_, TC1 TIOB_3, FLEXCOM2 FLEXCOM2_IO_4, ADC AD_11, PIO P_126, SPI1 SPI1_NPCS_2]
+- M7 : PD31,  of Type IO, alternates : [AIC IRQ_, ADC ADTRG_, ICE NTRST_, PIO P_127, TC1 TCLK_3, PMC PCK_0]
+- L5 : VDDANA,  of Type PP
+- K5 : GNDANA,  of Type PS
+- M6 : ADVREF,  of Type PS
+- K3 : VDDANA,  of Type PP
+- L3 : GNDANA,  of Type PS
+- H16 : DDR_VREF,  of Type PS
+- D16 : DDR_VREF,  of Type PS
+- B12 : DDR_D0,  of Type IO
+- A12 : DDR_D1,  of Type IO
+- C12 : DDR_D2,  of Type IO
+- A13 : DDR_D3,  of Type IO
+- A14 : DDR_D4,  of Type IO
+- C13 : DDR_D5,  of Type IO
+- A15 : DDR_D6,  of Type IO
+- B15 : DDR_D7,  of Type IO
+- G17 : DDR_D8,  of Type IO
+- G16 : DDR_D9,  of Type IO
+- H17 : DDR_D10,  of Type IO
+- K17 : DDR_D11,  of Type IO
+- K16 : DDR_D12,  of Type IO
+- J13 : DDR_D13,  of Type IO
+- K14 : DDR_D14,  of Type IO
+- K15 : DDR_D15,  of Type IO
+- B8 : DDR_D16,  of Type IO
+- B9 : DDR_D17,  of Type IO
+- C9 : DDR_D18,  of Type IO
+- A9 : DDR_D19,  of Type IO
+- A10 : DDR_D20,  of Type IO
+- D10 : DDR_D21,  of Type IO
+- B11 : DDR_D22,  of Type IO
+- A11 : DDR_D23,  of Type IO
+- J12 : DDR_D24,  of Type IO
+- H10 : DDR_D25,  of Type IO
+- J11 : DDR_D26,  of Type IO
+- K11 : DDR_D27,  of Type IO
+- L13 : DDR_D28,  of Type IO
+- L11 : DDR_D29,  of Type IO
+- L12 : DDR_D30,  of Type IO
+- M17 : DDR_D31,  of Type IO
+- F12 : DDR_A0,  of Type OP
+- C17 : DDR_A1,  of Type OP
+- B17 : DDR_A2,  of Type OP
+- B16 : DDR_A3,  of Type OP
+- C16 : DDR_A4,  of Type OP
+- G14 : DDR_A5,  of Type OP
+- F14 : DDR_A6,  of Type OP
+- F11 : DDR_A7,  of Type OP
+- C14 : DDR_A8,  of Type OP
+- D13 : DDR_A9,  of Type OP
+- C15 : DDR_A10,  of Type OP
+- A16 : DDR_A11,  of Type OP
+- A17 : DDR_A12,  of Type OP
+- G11 : DDR_A13,  of Type OP
+- E17 : DDR_CLK,  of Type OP
+- D17 : DDR_CLKN,  of Type OP
+- F16 : DDR_CKE,  of Type OP
+- E16 : DDR_RESETN,  of Type OP
+- G13 : DDR_CS,  of Type OP
+- F15 : DDR_WE,  of Type OP
+- F13 : DDR_RAS,  of Type OP
+- G12 : DDR_CAS,  of Type OP
+- C11 : DDR_DQM0,  of Type OP
+- G15 : DDR_DQM1,  of Type OP
+- C8 : DDR_DQM2,  of Type OP
+- H11 : DDR_DQM3,  of Type OP
+- B13 : DDR_DQS0,  of Type OP
+- J17 : DDR_DQS1,  of Type OP
+- C10 : DDR_DQS2,  of Type OP
+- L17 : DDR_DQS3,  of Type OP
+- B14 : DDR_DQSN0,  of Type OP
+- J16 : DDR_DQSN1,  of Type OP
+- B10 : DDR_DQSN2,  of Type OP
+- L16 : DDR_DQSN3,  of Type OP
+- H12 : DDR_BA0,  of Type OP
+- H13 : DDR_BA1,  of Type OP
+- F17 : DDR_BA2,  of Type OP
+- E13 : DDR_,  of Type IO
+- L15 : VDDIODDR,  of Type PP
+- J15 : VDDIODDR,  of Type PP
+- H15 : VDDIODDR,  of Type PP
+- E15 : VDDIODDR,  of Type PP
+- D15 : VDDIODDR,  of Type PP
+- D12 : VDDIODDR,  of Type PP
+- D11 : VDDIODDR,  of Type PP
+- L14 : GNDIODDR,  of Type PS
+- J14 : GNDIODDR,  of Type PS
+- H14 : GNDIODDR,  of Type PS
+- E14 : GNDIODDR,  of Type PS
+- D14 : GNDIODDR,  of Type PS
+- E12 : GNDIODDR,  of Type PS
+- E11 : GNDIODDR,  of Type PS
+- H3 : VDDCORE,  of Type PP
+- N5 : VDDCORE,  of Type PP
+- N9 : VDDCORE,  of Type PP
+- K13 : VDDCORE,  of Type PP
+- D9 : VDDCORE,  of Type PP
+- D7 : VDDCORE,  of Type PP
+- H4 : GNDCORE,  of Type PS
+- M5 : GNDCORE,  of Type PS
+- M9 : GNDCORE,  of Type PS
+- K12 : GNDCORE,  of Type PS
+- E9 : GNDCORE,  of Type PS
+- E7 : GNDCORE,  of Type PS
+- E6 : VDDIOP0,  of Type PP
+- F7 : VDDIOP0,  of Type PP
+- F6 : GNDIOP0,  of Type PS
+- G7 : GNDIOP0,  of Type PS
+- R14 : VDDIOP1,  of Type PP
+- N13 : VDDIOP1,  of Type PP
+- M13 : GNDIOP1,  of Type PS
+- P14 : GNDIOP1,  of Type PS
+- F10 : VDDIOP2,  of Type PP
+- F9 : GNDIOP2,  of Type PS
+- P11 : VDDSDMMC,  of Type PP
+- R11 : GNDSDMMC,  of Type PS
+- F4 : VDDISC,  of Type PP
+- G4 : GNDISC,  of Type PS
+- M12 : VDDFUSE,  of Type PP
+- U4 : VDDPLLA,  of Type PP
+- U5 : GNDPLLA,  of Type PS
+- T3 : VDDAUDIOPLL,  of Type PP
+- T5 : GNDDPLL,  of Type PS
+- T4 : GNDAUDIOPLL,  of Type PS
+- U3 : CLK_AUDIO,  of Type IO
+- U7 : XIN,  of Type PS
+- U6 : XOUT,  of Type PS
+- T7 : VDDOSC,  of Type PP
+- T6 : GNDOSC,  of Type PS
+- P8 : VDDUTMII,  of Type PP
+- R9 : VDDHSIC,  of Type PP
+- P9 : GNDUTMII,  of Type PS
+- T8 : HHSDPA,  of Type IO
+- R8 : HHSDMA,  of Type IO
+- U8 : HHSDPB,  of Type IO
+- U9 : HHSDMB,  of Type IO
+- T9 : HHSDPDATC,  of Type IO
+- U10 : HHSDMSTRC,  of Type IO
+- P7 : VDDUTMIC,  of Type PP
+- R7 : GNDUTMIC,  of Type PS
+- T10 : SDCAL,  of Type IO
+- R6 : VBG,  of Type IO
+- P3 : TST,  of Type IO
+- U2 : NRST,  of Type IP
+- T2 : JTAGSEL,  of Type OP
+- P4 : WKUP,  of Type IP
+- N4 : RXD,  of Type IP
+- R1 : SHDN,  of Type IO
+- R3 : PIOBU0,  of Type IO
+- N8 : PIOBU1,  of Type IO
+- R2 : PIOBU2,  of Type IO
+- R5 : PIOBU3,  of Type IO
+- R4 : PIOBU4,  of Type IO
+- P5 : PIOBU5,  of Type IO
+- P6 : PIOBU6,  of Type IO
+- M8 : PIOBU7,  of Type IO
+- N7 : VDDBU,  of Type PP
+- N6 : GNDBU,  of Type PS
+- P1 : XIN32,  of Type PS
+- P2 : XOUT32,  of Type PS
+- T1 : COMPP,  of Type IO
+- U1 : COMPN,  of Type IO
 ## ATSAMA5D27C-CUR
+
 ### Description : 
+
+- Series : SAMA5D2
+- Footprint : LFBGA289
+- MP : ATSAMA5D27C-CUR
+- Architecture : CORTEX-A5
+- PINOUT : LFBGA289
+- Reference : U
+- Documentation : https://www.microchip.com/en-us/search?q=ATSAMA5D27C-CUR
+- Value : ATSAMA5D27C-CUR
+- Family : SAMA5
+- MF : Microchip
+- Name : ATSAMA5D27
 
 ### Package : 
 
-- U11 : PA0
-- P10 : PA1
-- T11 : PA2
-- R10 : PA3
-- U12 : PA4
-- T12 : PA5
-- R12 : PA6
-- T13 : PA7
-- N10 : PA8
-- N11 : PA9
-- U13 : PA10
-- P15 : PA11
-- N15 : PA12
-- P16 : PA13
-- M14 : PA14
-- N16 : PA15
-- M10 : PA16
-- N17 : PA17
-- U14 : PA18
-- T14 : PA19
-- P12 : PA20
-- R13 : PA21
-- U15 : PA22
-- U16 : PA23
-- T15 : PA24
-- U17 : PA25
-- P13 : PA26
-- T16 : PA27
-- R16 : PA28
-- T17 : PA29
-- R15 : PA30
-- R17 : PA31
-- J8 : PB0
-- A8 : PB1
-- A7 : PB2
-- A6 : PB3
-- B6 : PB4
-- B7 : PB5
-- C7 : PB6
-- C6 : PB7
-- A5 : PB8
-- A4 : PB9
-- H8 : PB10
-- B5 : PB11
-- D6 : PB12
-- B4 : PB13
-- C5 : PB14
-- H7 : PB15
-- D5 : PB16
-- C4 : PB17
-- A3 : PB18
-- D4 : PB19
-- B3 : PB20
-- A2 : PB21
-- C3 : PB22
-- A1 : PB23
-- E5 : PB24
-- B2 : PB25
-- E4 : PB26
-- B1 : PB27
-- C2 : PB28
-- D3 : PB29
-- D2 : PB30
-- C1 : PB31
-- P17 : PC0
-- N12 : PC1
-- N14 : PC2
-- M15 : PC3
-- M11 : PC4
-- L10 : PC5
-- K10 : PC6
-- M16 : PC7
-- J10 : PC8
-- D1 : PC9
-- E3 : PC10
-- E2 : PC11
-- E1 : PC12
-- F3 : PC13
-- F5 : PC14
-- F2 : PC15
-- G6 : PC16
-- F1 : PC17
-- H6 : PC18
-- G2 : PC19
-- G3 : PC20
-- G1 : PC21
-- H2 : PC22
-- G5 : PC23
-- H1 : PC24
-- H5 : PC25
-- J9 : PC26
-- H9 : PC27
-- E8 : PC28
-- G8 : PC29
-- F8 : PC30
-- D8 : PC31
-- G10 : PD0
-- E10 : PD1
-- G9 : PD2
-- K1 : PD3
-- J6 : PD4
-- J4 : PD5
-- J2 : PD6
-- J7 : PD7
-- J1 : PD8
-- K9 : PD9
-- J3 : PD10
-- M1 : PD11
-- K8 : PD12
-- L2 : PD13
-- K4 : PD14
-- K7 : PD15
-- L1 : PD16
-- K2 : PD17
-- J5 : PD18
-- K6 : PD19
-- M2 : PD20
-- N1 : PD21
-- L4 : PD22
-- M3 : PD23
-- L7 : PD24
-- L6 : PD25
-- N2 : PD26
-- L8 : PD27
-- M4 : PD28
-- N3 : PD29
-- L9 : PD30
-- M7 : PD31
-- L5 : VDDANA
-- K5 : GNDANA
-- M6 : ADVREF
-- K3 : VDDANA
-- L3 : GNDANA
-- H16 : DDR_VREF
-- D16 : DDR_VREF
-- B12 : DDR_D0
-- A12 : DDR_D1
-- C12 : DDR_D2
-- A13 : DDR_D3
-- A14 : DDR_D4
-- C13 : DDR_D5
-- A15 : DDR_D6
-- B15 : DDR_D7
-- G17 : DDR_D8
-- G16 : DDR_D9
-- H17 : DDR_D10
-- K17 : DDR_D11
-- K16 : DDR_D12
-- J13 : DDR_D13
-- K14 : DDR_D14
-- K15 : DDR_D15
-- B8 : DDR_D16
-- B9 : DDR_D17
-- C9 : DDR_D18
-- A9 : DDR_D19
-- A10 : DDR_D20
-- D10 : DDR_D21
-- B11 : DDR_D22
-- A11 : DDR_D23
-- J12 : DDR_D24
-- H10 : DDR_D25
-- J11 : DDR_D26
-- K11 : DDR_D27
-- L13 : DDR_D28
-- L11 : DDR_D29
-- L12 : DDR_D30
-- M17 : DDR_D31
-- F12 : DDR_A0
-- C17 : DDR_A1
-- B17 : DDR_A2
-- B16 : DDR_A3
-- C16 : DDR_A4
-- G14 : DDR_A5
-- F14 : DDR_A6
-- F11 : DDR_A7
-- C14 : DDR_A8
-- D13 : DDR_A9
-- C15 : DDR_A10
-- A16 : DDR_A11
-- A17 : DDR_A12
-- G11 : DDR_A13
-- E17 : DDR_CLK
-- D17 : DDR_CLKN
-- F16 : DDR_CKE
-- E16 : DDR_RESETN
-- G13 : DDR_CS
-- F15 : DDR_WE
-- F13 : DDR_RAS
-- G12 : DDR_CAS
-- C11 : DDR_DQM0
-- G15 : DDR_DQM1
-- C8 : DDR_DQM2
-- H11 : DDR_DQM3
-- B13 : DDR_DQS0
-- J17 : DDR_DQS1
-- C10 : DDR_DQS2
-- L17 : DDR_DQS3
-- B14 : DDR_DQSN0
-- J16 : DDR_DQSN1
-- B10 : DDR_DQSN2
-- L16 : DDR_DQSN3
-- H12 : DDR_BA0
-- H13 : DDR_BA1
-- F17 : DDR_BA2
-- E13 : DDR_
-- L15 : VDDIODDR
-- J15 : VDDIODDR
-- H15 : VDDIODDR
-- E15 : VDDIODDR
-- D15 : VDDIODDR
-- D12 : VDDIODDR
-- D11 : VDDIODDR
-- L14 : GNDIODDR
-- J14 : GNDIODDR
-- H14 : GNDIODDR
-- E14 : GNDIODDR
-- D14 : GNDIODDR
-- E12 : GNDIODDR
-- E11 : GNDIODDR
-- H3 : VDDCORE
-- N5 : VDDCORE
-- N9 : VDDCORE
-- K13 : VDDCORE
-- D9 : VDDCORE
-- D7 : VDDCORE
-- H4 : GNDCORE
-- M5 : GNDCORE
-- M9 : GNDCORE
-- K12 : GNDCORE
-- E9 : GNDCORE
-- E7 : GNDCORE
-- E6 : VDDIOP0
-- F7 : VDDIOP0
-- F6 : GNDIOP0
-- G7 : GNDIOP0
-- R14 : VDDIOP1
-- N13 : VDDIOP1
-- M13 : GNDIOP1
-- P14 : GNDIOP1
-- F10 : VDDIOP2
-- F9 : GNDIOP2
-- P11 : VDDSDMMC
-- R11 : GNDSDMMC
-- F4 : VDDISC
-- G4 : GNDISC
-- M12 : VDDFUSE
-- U4 : VDDPLLA
-- U5 : GNDPLLA
-- T3 : VDDAUDIOPLL
-- T5 : GNDDPLL
-- T4 : GNDAUDIOPLL
-- U3 : CLK_AUDIO
-- U7 : XIN
-- U6 : XOUT
-- T7 : VDDOSC
-- T6 : GNDOSC
-- P8 : VDDUTMII
-- R9 : VDDHSIC
-- P9 : GNDUTMII
-- T8 : HHSDPA
-- R8 : HHSDMA
-- U8 : HHSDPB
-- U9 : HHSDMB
-- T9 : HHSDPDATC
-- U10 : HHSDMSTRC
-- P7 : VDDUTMIC
-- R7 : GNDUTMIC
-- T10 : SDCAL
-- R6 : VBG
-- P3 : TST
-- U2 : NRST
-- T2 : JTAGSEL
-- P4 : WKUP
-- N4 : RXD
-- R1 : SHDN
-- R3 : PIOBU0
-- N8 : PIOBU1
-- R2 : PIOBU2
-- R5 : PIOBU3
-- R4 : PIOBU4
-- P5 : PIOBU5
-- P6 : PIOBU6
-- M8 : PIOBU7
-- N7 : VDDBU
-- N6 : GNDBU
-- P1 : XIN32
-- P2 : XOUT32
-- T1 : COMPP
-- U1 : COMPN
+Pin count : 289
+- U11 : PA0,  of Type IO, alternates : [HSMC D_0, PIO P_0, SDMMC0 SDMMC0_CK_, QSPI0 QSPI0_SCK_]
+- P10 : PA1,  of Type IO, alternates : [SDMMC0 SDMMC0_CMD_, PIO P_1, QSPI0 QSPI0_CS_, HSMC D_1]
+- T11 : PA2,  of Type IO, alternates : [PIO P_2, HSMC D_2, SDMMC0 SDMMC0_DAT_0, QSPI0 QSPI0_IO_0]
+- R10 : PA3,  of Type IO, alternates : [PIO P_3, HSMC D_3, SDMMC0 SDMMC0_DAT_1, QSPI0 QSPI0_IO_1]
+- U12 : PA4,  of Type IO, alternates : [HSMC D_4, PIO P_4, SDMMC0 SDMMC0_DAT_2, QSPI0 QSPI0_IO_2]
+- T12 : PA5,  of Type IO, alternates : [PIO P_5, HSMC D_5, QSPI0 QSPI0_IO_3, SDMMC0 SDMMC0_DAT_3]
+- R12 : PA6,  of Type IO, alternates : [PIO P_6, HSMC D_6, FLEXCOM2 FLEXCOM2_IO_0, TC1 TIOA_5, QSPI1 QSPI1_SCK_, SDMMC0 SDMMC0_DAT_4]
+- T13 : PA7,  of Type IO, alternates : [PIO P_7, QSPI1 QSPI1_IO_0, HSMC D_7, FLEXCOM2 FLEXCOM2_IO_1, SDMMC0 SDMMC0_DAT_5, TC1 TIOB_5]
+- N10 : PA8,  of Type IO, alternates : [PIO P_8, QSPI1 QSPI1_IO_1, FLEXCOM2 FLEXCOM2_IO_2, HSMC NANDNWE_, TC1 TCLK_5, SDMMC0 SDMMC0_DAT_6]
+- N11 : PA9,  of Type IO, alternates : [SDMMC0 SDMMC0_DAT_7, QSPI1 QSPI1_IO_2, FLEXCOM2 FLEXCOM2_IO_3, TC1 TIOA_4, HSMC NCS_3, PIO P_9]
+- U13 : PA10,  of Type IO, alternates : [PIO P_10, QSPI1 QSPI1_IO_3, SDMMC0 SDMMC0_RSTN_, HSMC A21_, TC1 TIOB_4, FLEXCOM2 FLEXCOM2_IO_4]
+- P15 : PA11,  of Type IO, alternates : [QSPI1 QSPI1_CS_, SDMMC0 SDMMC0_1V8SEL_, PIO P_11, HSMC A22_, TC1 TCLK_4]
+- N15 : PA12,  of Type IO, alternates : [AIC IRQ_, SDMMC0 SDMMC0_WP_, PIO P_12, HSMC NANDOE_]
+- P16 : PA13,  of Type IO, alternates : [HSMC D_8, FLEXCOM3 FLEXCOM3_IO_1, PIO P_13, SDMMC0 SDMMC0_CD_]
+- M14 : PA14,  of Type IO, alternates : [PIO P_14, SPI0 SPI0_SPCK_, HSMC D_9, SSC1 TK_1, I2SC1 I2SC1_MCK_, FLEXCOM3 FLEXCOM3_IO_2, QSPI0 QSPI0_SCK_]
+- N16 : PA15,  of Type IO, alternates : [PIO P_15, HSMC D_10, QSPI0 QSPI0_CS_, FLEXCOM3 FLEXCOM3_IO_0, SSC1 TF_1, SPI0 SPI0_MOSI_, I2SC1 I2SC1_CK_]
+- M10 : PA16,  of Type IO, alternates : [PIO P_16, HSMC D_11, I2SC1 I2SC1_WS_, FLEXCOM3 FLEXCOM3_IO_3, SPI0 SPI0_MISO_, SSC1 TD_1, QSPI0 QSPI0_IO_0]
+- N17 : PA17,  of Type IO, alternates : [I2SC1 I2SC1_DI_0, PIO P_17, HSMC D_12, SPI0 SPI0_NPCS_0, FLEXCOM3 FLEXCOM3_IO_4, QSPI0 QSPI0_IO_1, SSC1 RD_1]
+- U14 : PA18,  of Type IO, alternates : [HSMC D_13, SSC1 RK_1, SPI0 SPI0_NPCS_1, I2SC1 I2SC1_DO_0, PIO P_18, QSPI0 QSPI0_IO_2, SDMMC1 SDMMC1_DAT_0]
+- T14 : PA19,  of Type IO, alternates : [SSC1 RF_1, SPI0 SPI0_NPCS_2, HSMC D_14, TC0 TIOA_0, QSPI0 QSPI0_IO_3, PIO P_19, SDMMC1 SDMMC1_DAT_1]
+- P12 : PA20,  of Type IO, alternates : [SPI0 SPI0_NPCS_3, HSMC D_15, TC0 TIOB_0, PIO P_20, SDMMC1 SDMMC1_DAT_2]
+- R13 : PA21,  of Type IO, alternates : [AIC IRQ_, PMC PCK_2, HSMC NANDRDY_, TC0 TCLK_0, PIO P_21, SDMMC1 SDMMC1_DAT_3]
+- U15 : PA22,  of Type IO, alternates : [PIO P_22, ICE TCK_, FLEXCOM1 FLEXCOM1_IO_2, HSMC D_0, SPI1 SPI1_SPCK_, SDMMC1 SDMMC1_CK_, QSPI0 QSPI0_SCK_]
+- U16 : PA23,  of Type IO, alternates : [ICE TDI_, PIO P_23, QSPI0 QSPI0_CS_, SPI1 SPI1_MOSI_, FLEXCOM1 FLEXCOM1_IO_1, HSMC D_1]
+- T15 : PA24,  of Type IO, alternates : [SPI1 SPI1_MISO_, FLEXCOM1 FLEXCOM1_IO_0, HSMC D_2, PIO P_24, ICE TDO_, QSPI0 QSPI0_IO_0]
+- U17 : PA25,  of Type IO, alternates : [PIO P_25, ICE TMS_, HSMC D_3, FLEXCOM1 FLEXCOM1_IO_3, SPI1 SPI1_NPCS_0, QSPI0 QSPI0_IO_1]
+- P13 : PA26,  of Type IO, alternates : [PIO P_26, ICE NTRST_, HSMC D_4, SPI1 SPI1_NPCS_1, FLEXCOM1 FLEXCOM1_IO_4, QSPI0 QSPI0_IO_2]
+- T16 : PA27,  of Type IO, alternates : [PIO P_27, SPI0 SPI0_NPCS_2, SDMMC1 SDMMC1_RSTN_, HSMC D_5, TC0 TIOA_1, QSPI0 QSPI0_IO_3, SPI1 SPI1_NPCS_2]
+- R16 : PA28,  of Type IO, alternates : [HSMC D_6, PIO P_28, SPI0 SPI0_NPCS_3, CLASSD CLASSD_L_0, SDMMC1 SDMMC1_CMD_, TC0 TIOB_1, SPI1 SPI1_NPCS_3]
+- T17 : PA29,  of Type IO, alternates : [HSMC D_7, TC0 TCLK_1, SDMMC1 SDMMC1_WP_, CLASSD CLASSD_L_1, SPI0 SPI0_NPCS_1, PIO P_29]
+- R15 : PA30,  of Type IO, alternates : [SPI0 SPI0_NPCS_0, PWM PWMH_0, CLASSD CLASSD_L_2, PIO P_30, HSMC NANDNWE_, SDMMC1 SDMMC1_CD_]
+- R17 : PA31,  of Type IO, alternates : [PWM PWML_0, HSMC NCS_3, CLASSD CLASSD_L_3, PIO P_31, SPI0 SPI0_MISO_]
+- J8 : PB0,  of Type IO, alternates : [PIO P_32, PWM PWMH_1, HSMC A21_, SPI0 SPI0_MOSI_]
+- A8 : PB1,  of Type IO, alternates : [SPI0 SPI0_SPCK_, PIO P_33, PWM PWML_1, HSMC A22_, CLASSD CLASSD_R_0]
+- A7 : PB2,  of Type IO, alternates : [PIO P_34, PWM PWMFI_0, CLASSD CLASSD_R_1, HSMC NANDOE_]
+- A6 : PB3,  of Type IO, alternates : [HSMC D_8, AIC IRQ_, PWM PWMEXTRG_1, PIO P_35, CLASSD CLASSD_R_2, UART4 URXD_4]
+- B6 : PB4,  of Type IO, alternates : [PIO P_36, HSMC D_9, SAIC FIQ_, UART4 UTXD_4, CLASSD CLASSD_R_3]
+- B7 : PB5,  of Type IO, alternates : [PIO P_37, HSMC D_10, PWM PWMH_2, QSPI1 QSPI1_SCK_, GMAC GTSUCOMP_, TC0 TCLK_2]
+- C7 : PB6,  of Type IO, alternates : [PIO P_38, HSMC D_11, QSPI1 QSPI1_CS_, GMAC GTXER_, PWM PWML_2, TC0 TIOA_2]
+- C6 : PB7,  of Type IO, alternates : [PIO P_39, QSPI1 QSPI1_IO_0, HSMC D_12, PWM PWMH_3, TC0 TIOB_2, GMAC GRXCK_]
+- A5 : PB8,  of Type IO, alternates : [QSPI1 QSPI1_IO_1, HSMC D_13, PIO P_40, PWM PWML_3, GMAC GCRS_, TC1 TCLK_3]
+- A4 : PB9,  of Type IO, alternates : [QSPI1 QSPI1_IO_2, HSMC D_14, GMAC GCOL_, PIO P_41, TC1 TIOA_3, PWM PWMFI_1]
+- H8 : PB10,  of Type IO, alternates : [GMAC GRX_2, PWM PWMEXTRG_2, QSPI1 QSPI1_IO_3, HSMC D_15, TC1 TIOB_3, PIO P_42]
+- B5 : PB11,  of Type IO, alternates : [GMAC GRX_3, PIO P_43, PDMIC PDMIC_DAT_, UART3 URXD_3, LCDC LCDDAT_0, HSMC A0_]
+- D6 : PB12,  of Type IO, alternates : [PDMIC PDMIC_CLK_, PIO P_44, UART3 UTXD_3, GMAC GTX_2, HSMC A_1, LCDC LCDDAT_1]
+- B4 : PB13,  of Type IO, alternates : [PMC PCK_1, PIO P_45, GMAC GTX_3, HSMC A_2, LCDC LCDDAT_2]
+- C5 : PB14,  of Type IO, alternates : [SSC1 TK_1, I2SC1 I2SC1_MCK_, LCDC LCDDAT_3, PIO P_46, HSMC A_3, QSPI1 QSPI1_SCK_, GMAC GTXCK_]
+- H7 : PB15,  of Type IO, alternates : [PIO P_47, LCDC LCDDAT_4, QSPI1 QSPI1_CS_, GMAC GTXEN_, HSMC A_4, SSC1 TF_1, I2SC1 I2SC1_CK_]
+- D5 : PB16,  of Type IO, alternates : [LCDC LCDDAT_5, PIO P_48, I2SC1 I2SC1_WS_, QSPI1 QSPI1_IO_0, HSMC A_5, GMAC GRXDV_, SSC1 TD_1]
+- C4 : PB17,  of Type IO, alternates : [LCDC LCDDAT_6, GMAC GRXER_, I2SC1 I2SC1_DI_0, PIO P_49, QSPI1 QSPI1_IO_1, HSMC A_6, SSC1 RD_1]
+- A3 : PB18,  of Type IO, alternates : [HSMC A_7, SSC1 RK_1, QSPI1 QSPI1_IO_2, LCDC LCDDAT_7, PIO P_50, I2SC1 I2SC1_DO_0, GMAC GRX_0]
+- D4 : PB19,  of Type IO, alternates : [SSC1 RF_1, QSPI1 QSPI1_IO_3, HSMC A_8, LCDC LCDDAT_8, PIO P_51, TC1 TIOA_3, GMAC GRX_1]
+- B3 : PB20,  of Type IO, alternates : [PMC PCK_1, HSMC A_9, LCDC LCDDAT_9, GMAC GTX_0, TC1 TIOB_3, PIO P_52, SSC0 TK_0]
+- A2 : PB21,  of Type IO, alternates : [SSC0 TF_0, FLEXCOM3 FLEXCOM3_IO_2, GMAC GTX_1, PIO P_53, HSMC A_10, LCDC LCDDAT_10, TC1 TCLK_3]
+- C3 : PB22,  of Type IO, alternates : [SSC0 TD_0, PIO P_54, FLEXCOM3 FLEXCOM3_IO_1, HSMC A_11, GMAC GMDC_, TC0 TIOA_2, LCDC LCDDAT_11]
+- A1 : PB23,  of Type IO, alternates : [SSC0 RD_0, GMAC GMDIO_, PIO P_55, FLEXCOM3 FLEXCOM3_IO_0, TC0 TIOB_2, HSMC A_12, LCDC LCDDAT_12]
+- E5 : PB24,  of Type IO, alternates : [PIO P_56, FLEXCOM3 FLEXCOM3_IO_3, ISC ISC_D_10, HSMC A_13, SSC0 RK_0, LCDC LCDDAT_13, TC0 TCLK_2]
+- B2 : PB25,  of Type IO, alternates : [ISC ISC_D_11, PIO P_57, HSMC A_14, LCDC LCDDAT_14, FLEXCOM3 FLEXCOM3_IO_4, SSC0 RF_0]
+- E4 : PB26,  of Type IO, alternates : [PIO P_58, ISC ISC_D_0, HSMC A_15, PDMIC PDMIC_DAT_, LCDC LCDDAT_15, UART0 URXD_0]
+- B1 : PB27,  of Type IO, alternates : [PIO P_59, ISC ISC_D_1, PDMIC PDMIC_CLK_, HSMC A_16, UART0 UTXD_0, LCDC LCDDAT_16]
+- C2 : PB28,  of Type IO, alternates : [ISC ISC_D_2, HSMC A_17, FLEXCOM0 FLEXCOM0_IO_0, LCDC LCDDAT_17, TC1 TIOA_5, PIO P_60]
+- D3 : PB29,  of Type IO, alternates : [ISC ISC_D_3, HSMC A_18, LCDC LCDDAT_18, FLEXCOM0 FLEXCOM0_IO_1, PIO P_61, TC1 TIOB_5]
+- D2 : PB30,  of Type IO, alternates : [HSMC A_19, LCDC LCDDAT_19, ISC ISC_D_4, FLEXCOM0 FLEXCOM0_IO_2, PIO P_62, TC1 TCLK_5]
+- C1 : PB31,  of Type IO, alternates : [TWIHS0 TWD_0, ISC ISC_D_5, FLEXCOM0 FLEXCOM0_IO_3, PIO P_63, HSMC A_20, LCDC LCDDAT_20]
+- P17 : PC0,  of Type IO, alternates : [TWIHS0 TWCK_0, ISC ISC_D_6, HSMC A_23, FLEXCOM0 FLEXCOM0_IO_4, PIO P_64, LCDC LCDDAT_21]
+- N12 : PC1,  of Type IO, alternates : [MCAN0 CANTX_0, I2SC0 I2SC0_CK_, PIO P_65, ISC ISC_D_7, HSMC A_24, SPI1 SPI1_SPCK_, LCDC LCDDAT_22]
+- N14 : PC2,  of Type IO, alternates : [MCAN0 CANRX_0, PIO P_66, SPI1 SPI1_MOSI_, HSMC A_25, ISC ISC_D_8, LCDC LCDDAT_23, I2SC0 I2SC0_MCK_]
+- M15 : PC3,  of Type IO, alternates : [SPI1 SPI1_MISO_, I2SC0 I2SC0_WS_, LCDC LCDPWM_, PIO P_67, TC0 TIOA_1, ISC ISC_D_9, HSMC NWAIT_]
+- M11 : PC4,  of Type IO, alternates : [ISC ISC_PCK_, LCDC LCDDISP_, I2SC0 I2SC0_DI_0, PIO P_68, SPI1 SPI1_NPCS_0, HSMC NWR1_, TC0 TIOB_1]
+- L10 : PC5,  of Type IO, alternates : [PIO P_69, ISC ISC_VSYNC_, TC0 TCLK_1, SPI1 SPI1_NPCS_1, HSMC NCS_0, I2SC0 I2SC0_DO_0, LCDC LCDVSYNC_]
+- K10 : PC6,  of Type IO, alternates : [LCDC LCDHSYNC_, TWIHS1 TWD_1, PIO P_70, ISC ISC_HSYNC_, SPI1 SPI1_NPCS_2]
+- M16 : PC7,  of Type IO, alternates : [LCDC LCDPCK_, TWIHS1 TWCK_1, ISC ISC_MCK_, UART1 URXD_1, HSMC NCS_2, SPI1 SPI1_NPCS_3, PIO P_71]
+- J10 : PC8,  of Type IO, alternates : [LCDC LCDDEN_, HSMC NANDRDY_, SAIC FIQ_, ISC ISC_FIELD_, UART1 UTXD_1, PIO P_72, PMC PCK_0]
+- D1 : PC9,  of Type IO, alternates : [SAIC FIQ_, ISC ISC_D_0, PIO P_73, TC1 TIOA_4, GMAC GTSUCOMP_]
+- E3 : PC10,  of Type IO, alternates : [MCAN0 CANTX_0, ISC ISC_D_1, TC1 TIOB_4, PIO P_74, LCDC LCDDAT_2, GMAC GTXCK_]
+- E2 : PC11,  of Type IO, alternates : [ISC ISC_D_2, LCDC LCDDAT_3, MCAN0 CANRX_0, GMAC GTXEN_, PIO P_75, HSMC A0_, TC1 TCLK_4]
+- E1 : PC12,  of Type IO, alternates : [ISC ISC_D_3, LCDC LCDDAT_4, PIO P_76, GMAC GRXDV_, HSMC A_1, UART3 URXD_3, SSC0 TK_0]
+- F3 : PC13,  of Type IO, alternates : [LCDC LCDDAT_5, GMAC GRXER_, SSC0 TF_0, PIO P_77, UART3 UTXD_3, ISC ISC_D_4, HSMC A_2]
+- F5 : PC14,  of Type IO, alternates : [LCDC LCDDAT_6, SSC0 TD_0, PIO P_78, ISC ISC_D_5, HSMC A_3, GMAC GRX_0]
+- F2 : PC15,  of Type IO, alternates : [SSC0 RD_0, ISC ISC_D_6, LCDC LCDDAT_7, PIO P_79, HSMC A_4, GMAC GRX_1]
+- G6 : PC16,  of Type IO, alternates : [ISC ISC_D_7, HSMC A_5, GMAC GTX_0, SSC0 RK_0, LCDC LCDDAT_10, PIO P_80]
+- F1 : PC17,  of Type IO, alternates : [HSMC A_6, GMAC GTX_1, ISC ISC_D_8, LCDC LCDDAT_11, SSC0 RF_0, PIO P_81]
+- H6 : PC18,  of Type IO, alternates : [HSMC A_7, FLEXCOM3 FLEXCOM3_IO_2, GMAC GMDC_, ISC ISC_D_9, LCDC LCDDAT_12, PIO P_82]
+- G2 : PC19,  of Type IO, alternates : [GMAC GMDIO_, HSMC A_8, FLEXCOM3 FLEXCOM3_IO_1, ISC ISC_D_10, PIO P_83, LCDC LCDDAT_13]
+- G3 : PC20,  of Type IO, alternates : [HSMC A_9, FLEXCOM3 FLEXCOM3_IO_0, ISC ISC_D_11, LCDC LCDDAT_14, PIO P_84, GMAC GRXCK_]
+- G1 : PC21,  of Type IO, alternates : [ISC ISC_PCK_, GMAC GTXER_, FLEXCOM3 FLEXCOM3_IO_3, LCDC LCDDAT_15, PIO P_85, HSMC A_10]
+- H2 : PC22,  of Type IO, alternates : [ISC ISC_VSYNC_, LCDC LCDDAT_18, HSMC A_11, FLEXCOM3 FLEXCOM3_IO_4, PIO P_86, GMAC GCRS_]
+- G5 : PC23,  of Type IO, alternates : [LCDC LCDDAT_19, PIO P_87, HSMC A_12, GMAC GCOL_, ISC ISC_HSYNC_]
+- H1 : PC24,  of Type IO, alternates : [GMAC GRX_2, ISC ISC_MCK_, PIO P_88, HSMC A_13, LCDC LCDDAT_20]
+- H5 : PC25,  of Type IO, alternates : [GMAC GRX_3, ISC ISC_FIELD_, PIO P_89, HSMC A_14, LCDC LCDDAT_21]
+- J9 : PC26,  of Type IO, alternates : [MCAN1 CANTX_1, HSMC A_15, GMAC GTX_2, LCDC LCDDAT_22, PIO P_90]
+- H9 : PC27,  of Type IO, alternates : [MCAN1 CANRX_1, PMC PCK_1, TWIHS0 TWD_0, HSMC A_16, GMAC GTX_3, LCDC LCDDAT_23, PIO P_91]
+- E8 : PC28,  of Type IO, alternates : [PMC PCK_2, TWIHS0 TWCK_0, HSMC A_17, LCDC LCDPWM_, FLEXCOM4 FLEXCOM4_IO_0, PIO P_92]
+- G8 : PC29,  of Type IO, alternates : [HSMC A_18, LCDC LCDDISP_, FLEXCOM4 FLEXCOM4_IO_1, PIO P_93]
+- F8 : PC30,  of Type IO, alternates : [HSMC A_19, PIO P_94, FLEXCOM4 FLEXCOM4_IO_2, LCDC LCDVSYNC_]
+- D8 : PC31,  of Type IO, alternates : [LCDC LCDHSYNC_, FLEXCOM4 FLEXCOM4_IO_3, PIO P_95, UART3 URXD_3, HSMC A_20]
+- G10 : PD0,  of Type IO, alternates : [LCDC LCDPCK_, UART3 UTXD_3, HSMC A_23, GMAC GTSUCOMP_, PIO P_96, FLEXCOM4 FLEXCOM4_IO_4]
+- E10 : PD1,  of Type IO, alternates : [LCDC LCDDEN_, HSMC A_24, PIO P_97, GMAC GRXCK_]
+- G9 : PD2,  of Type IO, alternates : [GMAC GTXER_, ISC ISC_MCK_, PIO P_98, HSMC A_25, UART1 URXD_1]
+- K1 : PD3,  of Type IO, alternates : [SAIC FIQ_, PIO P_99, ISC ISC_D_11, UART1 UTXD_1, HSMC NWAIT_, PTC PTC_X_0, GMAC GCRS_]
+- J6 : PD4,  of Type IO, alternates : [ISC ISC_D_10, HSMC NCS_0, GMAC GCOL_, TWIHS1 TWD_1, UART2 URXD_2, PIO P_100, PTC PTC_X_1]
+- J4 : PD5,  of Type IO, alternates : [TWIHS1 TWCK_1, GMAC GRX_2, UART2 UTXD_2, HSMC NCS_1, PIO P_101, ISC ISC_D_9, PTC PTC_X_2]
+- J2 : PD6,  of Type IO, alternates : [PMC PCK_1, GMAC GRX_3, ICE TCK_, PIO P_102, ISC ISC_D_8, HSMC NCS_2, PTC PTC_X_3]
+- J7 : PD7,  of Type IO, alternates : [ISC ISC_D_0, ICE TDI_, PIO P_103, PTC PTC_X_4, GMAC GTX_2, HSMC NWR1_]
+- J1 : PD8,  of Type IO, alternates : [HSMC NANDRDY_, ISC ISC_D_1, PTC PTC_X_5, ICE TDO_, GMAC GTX_3, PIO P_104]
+- K9 : PD9,  of Type IO, alternates : [ISC ISC_D_2, ICE TMS_, PTC PTC_X_6, PIO P_105, GMAC GTXCK_]
+- J3 : PD10,  of Type IO, alternates : [ISC ISC_D_3, ICE NTRST_, GMAC GTXEN_, PTC PTC_X_7, PIO P_106]
+- M1 : PD11,  of Type IO, alternates : [PMC PCK_2, ISC ISC_MCK_, ISC ISC_D_4, GMAC GRXDV_, TC0 TIOA_1, PIO P_107, PTC PTC_Y_0]
+- K8 : PD12,  of Type IO, alternates : [GMAC GRXER_, PIO P_108, ISC ISC_D_4, FLEXCOM4 FLEXCOM4_IO_0, ISC ISC_D_5, TC0 TIOB_1, PTC PTC_Y_1]
+- L2 : PD13,  of Type IO, alternates : [PIO P_109, TC0 TCLK_1, ISC ISC_D_6, FLEXCOM4 FLEXCOM4_IO_1, ISC ISC_D_5, GMAC GRX_0, PTC PTC_Y_2]
+- K4 : PD14,  of Type IO, alternates : [ISC ISC_D_6, PIO P_110, ISC ISC_D_7, ICE TCK_, FLEXCOM4 FLEXCOM4_IO_2, PTC PTC_Y_3, GMAC GRX_1]
+- K7 : PD15,  of Type IO, alternates : [ISC ISC_PCK_, ICE TDI_, ISC ISC_D_7, FLEXCOM4 FLEXCOM4_IO_3, GMAC GTX_0, PTC PTC_Y_4, PIO P_111]
+- L1 : PD16,  of Type IO, alternates : [ISC ISC_VSYNC_, GMAC GTX_1, ICE TDO_, ISC ISC_D_8, PIO P_112, FLEXCOM4 FLEXCOM4_IO_4, PTC PTC_Y_5]
+- K2 : PD17,  of Type IO, alternates : [ICE TMS_, PIO P_113, PTC PTC_Y_6, GMAC GMDC_, ISC ISC_D_9, ISC ISC_HSYNC_]
+- J5 : PD18,  of Type IO, alternates : [GMAC GMDIO_, ICE NTRST_, ISC ISC_FIELD_, PTC PTC_Y_7, ISC ISC_D_10, PIO P_114]
+- K6 : PD19,  of Type IO, alternates : [I2SC0 I2SC0_CK_, ISC ISC_D_11, TWIHS1 TWD_1, UART2 URXD_2, ADC AD_0, PIO P_115, PMC PCK_0]
+- M2 : PD20,  of Type IO, alternates : [ISC ISC_PCK_, TWIHS1 TWCK_1, UART2 UTXD_2, TC0 TIOA_2, PIO P_116, ADC AD_1, I2SC0 I2SC0_MCK_]
+- N1 : PD21,  of Type IO, alternates : [ISC ISC_VSYNC_, TWIHS0 TWD_0, I2SC0 I2SC0_WS_, FLEXCOM4 FLEXCOM4_IO_0, TC0 TIOB_2, ADC AD_2, PIO P_117]
+- L4 : PD22,  of Type IO, alternates : [TWIHS0 TWCK_0, FLEXCOM4 FLEXCOM4_IO_1, I2SC0 I2SC0_DI_0, PIO P_118, TC0 TCLK_2, ADC AD_3, ISC ISC_HSYNC_]
+- M3 : PD23,  of Type IO, alternates : [ADC AD_4, PIO P_119, ISC ISC_FIELD_, FLEXCOM4 FLEXCOM4_IO_2, UART2 URXD_2, I2SC0 I2SC0_DO_0]
+- L7 : PD24,  of Type IO, alternates : [ADC AD_5, UART2 UTXD_2, PIO P_120, FLEXCOM4 FLEXCOM4_IO_3]
+- L6 : PD25,  of Type IO, alternates : [ADC AD_6, PIO P_121, SPI1 SPI1_SPCK_, FLEXCOM4 FLEXCOM4_IO_4]
+- N2 : PD26,  of Type IO, alternates : [ADC AD_7, FLEXCOM2 FLEXCOM2_IO_0, SPI1 SPI1_MOSI_, PIO P_122]
+- L8 : PD27,  of Type IO, alternates : [SPI1 SPI1_MISO_, ADC AD_8, FLEXCOM2 FLEXCOM2_IO_1, ICE TCK_, PIO P_123]
+- M4 : PD28,  of Type IO, alternates : [ICE TDI_, ADC AD_9, FLEXCOM2 FLEXCOM2_IO_2, PIO P_124, SPI1 SPI1_NPCS_0]
+- N3 : PD29,  of Type IO, alternates : [TWIHS0 TWD_0, PIO P_125, SPI1 SPI1_NPCS_1, FLEXCOM2 FLEXCOM2_IO_3, ICE TDO_, TC1 TIOA_3, ADC AD_10]
+- L9 : PD30,  of Type IO, alternates : [TWIHS0 TWCK_0, ICE TMS_, TC1 TIOB_3, FLEXCOM2 FLEXCOM2_IO_4, ADC AD_11, PIO P_126, SPI1 SPI1_NPCS_2]
+- M7 : PD31,  of Type IO, alternates : [AIC IRQ_, ADC ADTRG_, ICE NTRST_, PIO P_127, TC1 TCLK_3, PMC PCK_0]
+- L5 : VDDANA,  of Type PP
+- K5 : GNDANA,  of Type PS
+- M6 : ADVREF,  of Type PS
+- K3 : VDDANA,  of Type PP
+- L3 : GNDANA,  of Type PS
+- H16 : DDR_VREF,  of Type PS
+- D16 : DDR_VREF,  of Type PS
+- B12 : DDR_D0,  of Type IO
+- A12 : DDR_D1,  of Type IO
+- C12 : DDR_D2,  of Type IO
+- A13 : DDR_D3,  of Type IO
+- A14 : DDR_D4,  of Type IO
+- C13 : DDR_D5,  of Type IO
+- A15 : DDR_D6,  of Type IO
+- B15 : DDR_D7,  of Type IO
+- G17 : DDR_D8,  of Type IO
+- G16 : DDR_D9,  of Type IO
+- H17 : DDR_D10,  of Type IO
+- K17 : DDR_D11,  of Type IO
+- K16 : DDR_D12,  of Type IO
+- J13 : DDR_D13,  of Type IO
+- K14 : DDR_D14,  of Type IO
+- K15 : DDR_D15,  of Type IO
+- B8 : DDR_D16,  of Type IO
+- B9 : DDR_D17,  of Type IO
+- C9 : DDR_D18,  of Type IO
+- A9 : DDR_D19,  of Type IO
+- A10 : DDR_D20,  of Type IO
+- D10 : DDR_D21,  of Type IO
+- B11 : DDR_D22,  of Type IO
+- A11 : DDR_D23,  of Type IO
+- J12 : DDR_D24,  of Type IO
+- H10 : DDR_D25,  of Type IO
+- J11 : DDR_D26,  of Type IO
+- K11 : DDR_D27,  of Type IO
+- L13 : DDR_D28,  of Type IO
+- L11 : DDR_D29,  of Type IO
+- L12 : DDR_D30,  of Type IO
+- M17 : DDR_D31,  of Type IO
+- F12 : DDR_A0,  of Type OP
+- C17 : DDR_A1,  of Type OP
+- B17 : DDR_A2,  of Type OP
+- B16 : DDR_A3,  of Type OP
+- C16 : DDR_A4,  of Type OP
+- G14 : DDR_A5,  of Type OP
+- F14 : DDR_A6,  of Type OP
+- F11 : DDR_A7,  of Type OP
+- C14 : DDR_A8,  of Type OP
+- D13 : DDR_A9,  of Type OP
+- C15 : DDR_A10,  of Type OP
+- A16 : DDR_A11,  of Type OP
+- A17 : DDR_A12,  of Type OP
+- G11 : DDR_A13,  of Type OP
+- E17 : DDR_CLK,  of Type OP
+- D17 : DDR_CLKN,  of Type OP
+- F16 : DDR_CKE,  of Type OP
+- E16 : DDR_RESETN,  of Type OP
+- G13 : DDR_CS,  of Type OP
+- F15 : DDR_WE,  of Type OP
+- F13 : DDR_RAS,  of Type OP
+- G12 : DDR_CAS,  of Type OP
+- C11 : DDR_DQM0,  of Type OP
+- G15 : DDR_DQM1,  of Type OP
+- C8 : DDR_DQM2,  of Type OP
+- H11 : DDR_DQM3,  of Type OP
+- B13 : DDR_DQS0,  of Type OP
+- J17 : DDR_DQS1,  of Type OP
+- C10 : DDR_DQS2,  of Type OP
+- L17 : DDR_DQS3,  of Type OP
+- B14 : DDR_DQSN0,  of Type OP
+- J16 : DDR_DQSN1,  of Type OP
+- B10 : DDR_DQSN2,  of Type OP
+- L16 : DDR_DQSN3,  of Type OP
+- H12 : DDR_BA0,  of Type OP
+- H13 : DDR_BA1,  of Type OP
+- F17 : DDR_BA2,  of Type OP
+- E13 : DDR_,  of Type IO
+- L15 : VDDIODDR,  of Type PP
+- J15 : VDDIODDR,  of Type PP
+- H15 : VDDIODDR,  of Type PP
+- E15 : VDDIODDR,  of Type PP
+- D15 : VDDIODDR,  of Type PP
+- D12 : VDDIODDR,  of Type PP
+- D11 : VDDIODDR,  of Type PP
+- L14 : GNDIODDR,  of Type PS
+- J14 : GNDIODDR,  of Type PS
+- H14 : GNDIODDR,  of Type PS
+- E14 : GNDIODDR,  of Type PS
+- D14 : GNDIODDR,  of Type PS
+- E12 : GNDIODDR,  of Type PS
+- E11 : GNDIODDR,  of Type PS
+- H3 : VDDCORE,  of Type PP
+- N5 : VDDCORE,  of Type PP
+- N9 : VDDCORE,  of Type PP
+- K13 : VDDCORE,  of Type PP
+- D9 : VDDCORE,  of Type PP
+- D7 : VDDCORE,  of Type PP
+- H4 : GNDCORE,  of Type PS
+- M5 : GNDCORE,  of Type PS
+- M9 : GNDCORE,  of Type PS
+- K12 : GNDCORE,  of Type PS
+- E9 : GNDCORE,  of Type PS
+- E7 : GNDCORE,  of Type PS
+- E6 : VDDIOP0,  of Type PP
+- F7 : VDDIOP0,  of Type PP
+- F6 : GNDIOP0,  of Type PS
+- G7 : GNDIOP0,  of Type PS
+- R14 : VDDIOP1,  of Type PP
+- N13 : VDDIOP1,  of Type PP
+- M13 : GNDIOP1,  of Type PS
+- P14 : GNDIOP1,  of Type PS
+- F10 : VDDIOP2,  of Type PP
+- F9 : GNDIOP2,  of Type PS
+- P11 : VDDSDMMC,  of Type PP
+- R11 : GNDSDMMC,  of Type PS
+- F4 : VDDISC,  of Type PP
+- G4 : GNDISC,  of Type PS
+- M12 : VDDFUSE,  of Type PP
+- U4 : VDDPLLA,  of Type PP
+- U5 : GNDPLLA,  of Type PS
+- T3 : VDDAUDIOPLL,  of Type PP
+- T5 : GNDDPLL,  of Type PS
+- T4 : GNDAUDIOPLL,  of Type PS
+- U3 : CLK_AUDIO,  of Type IO
+- U7 : XIN,  of Type PS
+- U6 : XOUT,  of Type PS
+- T7 : VDDOSC,  of Type PP
+- T6 : GNDOSC,  of Type PS
+- P8 : VDDUTMII,  of Type PP
+- R9 : VDDHSIC,  of Type PP
+- P9 : GNDUTMII,  of Type PS
+- T8 : HHSDPA,  of Type IO
+- R8 : HHSDMA,  of Type IO
+- U8 : HHSDPB,  of Type IO
+- U9 : HHSDMB,  of Type IO
+- T9 : HHSDPDATC,  of Type IO
+- U10 : HHSDMSTRC,  of Type IO
+- P7 : VDDUTMIC,  of Type PP
+- R7 : GNDUTMIC,  of Type PS
+- T10 : SDCAL,  of Type IO
+- R6 : VBG,  of Type IO
+- P3 : TST,  of Type IO
+- U2 : NRST,  of Type IP
+- T2 : JTAGSEL,  of Type OP
+- P4 : WKUP,  of Type IP
+- N4 : RXD,  of Type IP
+- R1 : SHDN,  of Type IO
+- R3 : PIOBU0,  of Type IO
+- N8 : PIOBU1,  of Type IO
+- R2 : PIOBU2,  of Type IO
+- R5 : PIOBU3,  of Type IO
+- R4 : PIOBU4,  of Type IO
+- P5 : PIOBU5,  of Type IO
+- P6 : PIOBU6,  of Type IO
+- M8 : PIOBU7,  of Type IO
+- N7 : VDDBU,  of Type PP
+- N6 : GNDBU,  of Type PS
+- P1 : XIN32,  of Type PS
+- P2 : XOUT32,  of Type PS
+- T1 : COMPP,  of Type IO
+- U1 : COMPN,  of Type IO
 ## ATSAMA5D27CD1G-CU
+
 ### Description : 
+
+- Series : SAMA5D2
+- Footprint : TFBGA289
+- MP : ATSAMA5D27CD1G-CU
+- Architecture : CORTEX-A5
+- PINOUT : TFBGA289
+- Reference : U
+- Documentation : https://www.microchip.com/en-us/search?q=ATSAMA5D27CD1G-CU
+- Value : ATSAMA5D27CD1G-CU
+- Family : SAMA5
+- MF : Microchip
+- Name : ATSAMA5D27CD1G
 
 ### Package : 
 
-- U13 : PA0
-- N7 : PA1
-- U14 : PA2
-- T13 : PA3
-- U15 : PA4
-- U16 : PA5
-- U17 : PA6
-- R11 : PA7
-- R9 : PA8
-- P8 : PA9
-- R10 : PA10
-- P15 : PA11
-- N17 : PA12
-- P16 : PA13
-- M17 : PA14
-- N16 : PA15
-- M11 : PA16
-- N14 : PA17
-- T16 : PA18
-- T15 : PA19
-- P9 : PA20
-- P10 : PA21
-- T17 : PA22
-- T14 : PA23
-- R17 : PA24
-- R16 : PA25
-- P17 : PA26
-- R15 : PA27
-- R14 : PA28
-- P14 : PA29
-- R13 : PA30
-- P13 : PA31
-- F5 : PB0
-- C8 : PB1
-- C7 : PB2
-- B8 : PB3
-- B7 : PB4
-- A10 : PB5
-- A9 : PB6
-- D5 : PB7
-- E5 : PB8
-- C6 : PB9
-- A8 : PB10
-- A7 : PB11
-- B6 : PB12
-- C5 : PB13
-- A6 : PB14
-- E4 : PB15
-- B5 : PB16
-- C4 : PB17
-- A5 : PB18
-- B4 : PB19
-- A4 : PB20
-- D3 : PB21
-- C3 : PB22
-- B3 : PB23
-- E2 : PB24
-- A3 : PB25
-- G3 : PB26
-- F4 : PB27
-- D2 : PB28
-- G8 : PB29
-- C2 : PB30
-- G7 : PB31
-- N10 : PC0
-- N11 : PC1
-- N9 : PC2
-- M10 : PC3
-- N15 : PC4
-- M16 : PC5
-- L11 : PC6
-- M15 : PC7
-- M13 : PC8
-- B2 : PC9
-- G4 : PC10
-- A2 : PC11
-- A1 : PC12
-- B1 : PC13
-- G5 : PC14
-- G2 : PC15
-- G6 : PC16
-- C1 : PC17
-- G9 : PC18
-- D1 : PC19
-- H4 : PC20
-- E1 : PC21
-- F1 : PC22
-- H9 : PC23
-- G1 : PC24
-- H8 : PC25
-- F7 : PC26
-- B10 : PC27
-- F6 : PC28
-- B9 : PC29
-- E6 : PC30
-- A11 : PC31
-- E7 : PD0
-- C9 : PD1
-- D8 : PD2
-- J1 : PD3
-- H7 : PD4
-- H1 : PD5
-- J2 : PD6
-- H6 : PD7
-- K3 : PD8
-- J4 : PD9
-- J3 : PD10
-- K2 : PD11
-- K9 : PD12
-- N1 : PD13
-- K5 : PD14
-- K8 : PD15
-- L1 : PD16
-- K1 : PD17
-- J7 : PD18
-- L8 : PD19
-- L2 : PD20
-- P1 : PD21
-- L6 : PD22
-- T1 : PD23
-- L4 : PD24
-- L5 : PD25
-- R1 : PD26
-- L7 : PD27
-- L3 : PD28
-- M2 : PD29
-- M9 : PD30
-- M8 : PD31
-- L9 : ADVREF
-- K4 : VDDANA
-- J5 : VDDANA
-- J6 : GNDANA
-- M1 : GNDANA
-- J10 : DDR_VREF
-- F11 : DDR_VREF
-- L10 : VDDIODDR
-- L14 : VDDIODDR
-- J8 : VDDIODDR
-- H10 : VDDIODDR
-- G12 : VDDIODDR
-- E11 : VDDIODDR
-- E8 : VDDIODDR
-- K10 : GNDIODDR
-- M14 : GNDIODDR
-- J9 : GNDIODDR
-- G10 : GNDIODDR
-- H12 : GNDIODDR
-- E10 : GNDIODDR
-- F8 : GNDIODDR
-- H2 : VDDCORE
-- U3 : VDDCORE
-- P7 : VDDCORE
-- L12 : VDDCORE
-- E9 : VDDCORE
-- D7 : VDDCORE
-- E12 : GNDCORE
-- F12 : GNDCORE
-- J11 : GNDCORE
-- K11 : GNDCORE
-- K6 : GNDCORE
-- K7 : GNDCORE
-- D4 : VDDIOP0
-- F3 : VDDIOP1
-- E3 : GNDIOP0
-- F2 : GNDIOP0
-- N12 : VDDIOP1
-- P12 : VDDIOP1
-- M12 : GNDIOP1
-- P11 : GNDIOP1
-- D9 : VDDIOP2
-- D6 : GNDIOP2
-- N8 : VDDSDMMC
-- R8 : GNDSDMMC
-- H3 : VDDISC
-- H5 : GNDISC
-- N13 : VDDFUSE
-- R5 : VDDPLLA
-- T5 : GNDPLLA
-- M4 : VDDAUDIOPLL
-- T3 : GNDDPLL
-- T4 : GNDAUDIOPLL
-- T8 : CLK_AUDIO
-- U9 : XIN
-- U8 : XOUT
-- N6 : VDDOSC
-- P5 : GNDOSC
-- P6 : VDDUTMII
-- R7 : VDDHSIC
-- M6 : GNDUTMII
-- U10 : HHSDPA
-- T10 : HHSDMA
-- U11 : HHSDPB
-- T11 : HHSDMB
-- T12 : HHSDPDATC
-- U12 : HHSDMSTRC
-- M7 : VDDUTMIC
-- R6 : GNDUTMIC
-- T6 : VBG
-- R4 : TST
-- T7 : NRST
-- R3 : JTAGSEL
-- R2 : WKUP
-- N2 : RXD
-- T2 : SHDN
-- P3 : PIOBU0
-- M3 : PIOBU1
-- P2 : PIOBU2
-- P4 : PIOBU3
-- N4 : PIOBU4
-- M5 : PIOBU5
-- N5 : PIOBU6
-- N3 : PIOBU7
-- U5 : VDDBU
-- U4 : GNDBU
-- U2 : XIN32
-- U1 : XOUT32
-- U6 : COMPP
-- U7 : COMPN
-- D17 : ODT
-- A16 : DDRM_VDD
-- B16 : DDRM_VDD
-- C16 : DDRM_VDD
-- D16 : DDRM_VDD
-- E15 : DDRM_VDD
-- G17 : DDRM_VDD
-- J17 : DDRM_VDD
-- L16 : DDRM_VDD
-- E16 : DDRM_VDDL
-- F15 : DDRM_VDDQ
-- G15 : DDRM_VDDQ
-- H15 : DDRM_VDDQ
-- J15 : DDRM_VDDQ
-- K15 : DDRM_VDDQ
-- L15 : DDRM_VDDQ
-- A17 : DDRM_VSS
-- B17 : DDRM_VSS
-- C17 : DDRM_VSS
-- D15 : DDRM_VSS
-- E14 : DDRM_VSS
-- F17 : DDRM_VSS
-- H17 : DDRM_VSS
-- L17 : DDRM_VSS
-- E17 : DDRM_VSSDL
-- F16 : DDRM_VSSQ
-- G16 : DDRM_VSSQ
-- H16 : DDRM_VSSQ
-- J16 : DDRM_VSSQ
-- K16 : DDRM_VSSQ
-- K17 : DDRM_VSSQ
-- A12 : NC
-- A13 : NC
-- A14 : NC
-- A15 : NC
-- B11 : NC
-- B12 : NC
-- B13 : NC
-- B14 : NC
-- B15 : NC
-- C10 : NC
-- C11 : NC
-- C12 : NC
-- C13 : NC
-- C14 : NC
-- C15 : NC
-- D10 : NC
-- D11 : NC
-- D12 : NC
-- D13 : NC
-- D14 : NC
-- E13 : NC
-- F9 : NC
-- F10 : NC
-- F13 : NC
-- F14 : NC
-- G11 : NC
-- G13 : NC
-- G14 : NC
-- H11 : NC
-- H13 : NC
-- H14 : NC
-- J12 : NC
-- J13 : NC
-- J14 : NC
-- K12 : NC
-- K13 : NC
-- K14 : NC
-- L13 : NC
-- R12 : NC
-- T9 : NC
+Pin count : 289
+- U13 : PA0,  of Type IO, alternates : [HSMC D_0, PIO P_0, SDMMC0 SDMMC0_CK_, QSPI0 QSPI0_SCK_]
+- N7 : PA1,  of Type IO, alternates : [SDMMC0 SDMMC0_CMD_, PIO P_1, QSPI0 QSPI0_CS_, HSMC D_1]
+- U14 : PA2,  of Type IO, alternates : [PIO P_2, HSMC D_2, SDMMC0 SDMMC0_DAT_0, QSPI0 QSPI0_IO_0]
+- T13 : PA3,  of Type IO, alternates : [PIO P_3, HSMC D_3, SDMMC0 SDMMC0_DAT_1, QSPI0 QSPI0_IO_1]
+- U15 : PA4,  of Type IO, alternates : [HSMC D_4, PIO P_4, SDMMC0 SDMMC0_DAT_2, QSPI0 QSPI0_IO_2]
+- U16 : PA5,  of Type IO, alternates : [PIO P_5, HSMC D_5, QSPI0 QSPI0_IO_3, SDMMC0 SDMMC0_DAT_3]
+- U17 : PA6,  of Type IO, alternates : [PIO P_6, HSMC D_6, FLEXCOM2 FLEXCOM2_IO_0, TC1 TIOA_5, QSPI1 QSPI1_SCK_, SDMMC0 SDMMC0_DAT_4]
+- R11 : PA7,  of Type IO, alternates : [PIO P_7, QSPI1 QSPI1_IO_0, HSMC D_7, FLEXCOM2 FLEXCOM2_IO_1, SDMMC0 SDMMC0_DAT_5, TC1 TIOB_5]
+- R9 : PA8,  of Type IO, alternates : [PIO P_8, QSPI1 QSPI1_IO_1, FLEXCOM2 FLEXCOM2_IO_2, HSMC NANDNWE_, TC1 TCLK_5, SDMMC0 SDMMC0_DAT_6]
+- P8 : PA9,  of Type IO, alternates : [SDMMC0 SDMMC0_DAT_7, QSPI1 QSPI1_IO_2, FLEXCOM2 FLEXCOM2_IO_3, TC1 TIOA_4, HSMC NCS_3, PIO P_9]
+- R10 : PA10,  of Type IO, alternates : [PIO P_10, QSPI1 QSPI1_IO_3, SDMMC0 SDMMC0_RSTN_, HSMC A21_, TC1 TIOB_4, FLEXCOM2 FLEXCOM2_IO_4]
+- P15 : PA11,  of Type IO, alternates : [QSPI1 QSPI1_CS_, SDMMC0 SDMMC0_1V8SEL_, PIO P_11, HSMC A22_, TC1 TCLK_4]
+- N17 : PA12,  of Type IO, alternates : [AIC IRQ_, SDMMC0 SDMMC0_WP_, PIO P_12, HSMC NANDOE_]
+- P16 : PA13,  of Type IO, alternates : [HSMC D_8, FLEXCOM3 FLEXCOM3_IO_1, PIO P_13, SDMMC0 SDMMC0_CD_]
+- M17 : PA14,  of Type IO, alternates : [PIO P_14, SPI0 SPI0_SPCK_, HSMC D_9, SSC1 TK_1, I2SC1 I2SC1_MCK_, FLEXCOM3 FLEXCOM3_IO_2, QSPI0 QSPI0_SCK_]
+- N16 : PA15,  of Type IO, alternates : [PIO P_15, HSMC D_10, QSPI0 QSPI0_CS_, FLEXCOM3 FLEXCOM3_IO_0, SSC1 TF_1, SPI0 SPI0_MOSI_, I2SC1 I2SC1_CK_]
+- M11 : PA16,  of Type IO, alternates : [PIO P_16, HSMC D_11, I2SC1 I2SC1_WS_, FLEXCOM3 FLEXCOM3_IO_3, SPI0 SPI0_MISO_, SSC1 TD_1, QSPI0 QSPI0_IO_0]
+- N14 : PA17,  of Type IO, alternates : [I2SC1 I2SC1_DI_0, PIO P_17, HSMC D_12, SPI0 SPI0_NPCS_0, FLEXCOM3 FLEXCOM3_IO_4, QSPI0 QSPI0_IO_1, SSC1 RD_1]
+- T16 : PA18,  of Type IO, alternates : [HSMC D_13, SSC1 RK_1, SPI0 SPI0_NPCS_1, I2SC1 I2SC1_DO_0, PIO P_18, QSPI0 QSPI0_IO_2, SDMMC1 SDMMC1_DAT_0]
+- T15 : PA19,  of Type IO, alternates : [SSC1 RF_1, SPI0 SPI0_NPCS_2, HSMC D_14, TC0 TIOA_0, QSPI0 QSPI0_IO_3, PIO P_19, SDMMC1 SDMMC1_DAT_1]
+- P9 : PA20,  of Type IO, alternates : [SPI0 SPI0_NPCS_3, HSMC D_15, TC0 TIOB_0, PIO P_20, SDMMC1 SDMMC1_DAT_2]
+- P10 : PA21,  of Type IO, alternates : [AIC IRQ_, PMC PCK_2, HSMC NANDRDY_, TC0 TCLK_0, PIO P_21, SDMMC1 SDMMC1_DAT_3]
+- T17 : PA22,  of Type IO, alternates : [PIO P_22, ICE TCK_, FLEXCOM1 FLEXCOM1_IO_2, HSMC D_0, SPI1 SPI1_SPCK_, SDMMC1 SDMMC1_CK_, QSPI0 QSPI0_SCK_]
+- T14 : PA23,  of Type IO, alternates : [ICE TDI_, PIO P_23, QSPI0 QSPI0_CS_, SPI1 SPI1_MOSI_, FLEXCOM1 FLEXCOM1_IO_1, HSMC D_1]
+- R17 : PA24,  of Type IO, alternates : [SPI1 SPI1_MISO_, FLEXCOM1 FLEXCOM1_IO_0, HSMC D_2, PIO P_24, ICE TDO_, QSPI0 QSPI0_IO_0]
+- R16 : PA25,  of Type IO, alternates : [PIO P_25, ICE TMS_, HSMC D_3, FLEXCOM1 FLEXCOM1_IO_3, SPI1 SPI1_NPCS_0, QSPI0 QSPI0_IO_1]
+- P17 : PA26,  of Type IO, alternates : [PIO P_26, ICE NTRST_, HSMC D_4, SPI1 SPI1_NPCS_1, FLEXCOM1 FLEXCOM1_IO_4, QSPI0 QSPI0_IO_2]
+- R15 : PA27,  of Type IO, alternates : [PIO P_27, SPI0 SPI0_NPCS_2, SDMMC1 SDMMC1_RSTN_, HSMC D_5, TC0 TIOA_1, QSPI0 QSPI0_IO_3, SPI1 SPI1_NPCS_2]
+- R14 : PA28,  of Type IO, alternates : [HSMC D_6, PIO P_28, SPI0 SPI0_NPCS_3, CLASSD CLASSD_L_0, SDMMC1 SDMMC1_CMD_, TC0 TIOB_1, SPI1 SPI1_NPCS_3]
+- P14 : PA29,  of Type IO, alternates : [HSMC D_7, TC0 TCLK_1, SDMMC1 SDMMC1_WP_, CLASSD CLASSD_L_1, SPI0 SPI0_NPCS_1, PIO P_29]
+- R13 : PA30,  of Type IO, alternates : [SPI0 SPI0_NPCS_0, PWM PWMH_0, CLASSD CLASSD_L_2, PIO P_30, HSMC NANDNWE_, SDMMC1 SDMMC1_CD_]
+- P13 : PA31,  of Type IO, alternates : [PWM PWML_0, HSMC NCS_3, CLASSD CLASSD_L_3, PIO P_31, SPI0 SPI0_MISO_]
+- F5 : PB0,  of Type IO, alternates : [PIO P_32, PWM PWMH_1, HSMC A21_, SPI0 SPI0_MOSI_]
+- C8 : PB1,  of Type IO, alternates : [SPI0 SPI0_SPCK_, PIO P_33, PWM PWML_1, HSMC A22_, CLASSD CLASSD_R_0]
+- C7 : PB2,  of Type IO, alternates : [PIO P_34, PWM PWMFI_0, CLASSD CLASSD_R_1, HSMC NANDOE_]
+- B8 : PB3,  of Type IO, alternates : [HSMC D_8, AIC IRQ_, PWM PWMEXTRG_1, PIO P_35, CLASSD CLASSD_R_2, UART4 URXD_4]
+- B7 : PB4,  of Type IO, alternates : [PIO P_36, HSMC D_9, SAIC FIQ_, UART4 UTXD_4, CLASSD CLASSD_R_3]
+- A10 : PB5,  of Type IO, alternates : [PIO P_37, HSMC D_10, PWM PWMH_2, QSPI1 QSPI1_SCK_, GMAC GTSUCOMP_, TC0 TCLK_2]
+- A9 : PB6,  of Type IO, alternates : [PIO P_38, HSMC D_11, QSPI1 QSPI1_CS_, GMAC GTXER_, PWM PWML_2, TC0 TIOA_2]
+- D5 : PB7,  of Type IO, alternates : [PIO P_39, QSPI1 QSPI1_IO_0, HSMC D_12, PWM PWMH_3, TC0 TIOB_2, GMAC GRXCK_]
+- E5 : PB8,  of Type IO, alternates : [QSPI1 QSPI1_IO_1, HSMC D_13, PIO P_40, PWM PWML_3, GMAC GCRS_, TC1 TCLK_3]
+- C6 : PB9,  of Type IO, alternates : [QSPI1 QSPI1_IO_2, HSMC D_14, GMAC GCOL_, PIO P_41, TC1 TIOA_3, PWM PWMFI_1]
+- A8 : PB10,  of Type IO, alternates : [GMAC GRX_2, PWM PWMEXTRG_2, QSPI1 QSPI1_IO_3, HSMC D_15, TC1 TIOB_3, PIO P_42]
+- A7 : PB11,  of Type IO, alternates : [GMAC GRX_3, PIO P_43, PDMIC PDMIC_DAT_, UART3 URXD_3, LCDC LCDDAT_0, HSMC A0_]
+- B6 : PB12,  of Type IO, alternates : [PDMIC PDMIC_CLK_, PIO P_44, UART3 UTXD_3, GMAC GTX_2, HSMC A_1, LCDC LCDDAT_1]
+- C5 : PB13,  of Type IO, alternates : [PMC PCK_1, PIO P_45, GMAC GTX_3, HSMC A_2, LCDC LCDDAT_2]
+- A6 : PB14,  of Type IO, alternates : [SSC1 TK_1, I2SC1 I2SC1_MCK_, LCDC LCDDAT_3, PIO P_46, HSMC A_3, QSPI1 QSPI1_SCK_, GMAC GTXCK_]
+- E4 : PB15,  of Type IO, alternates : [PIO P_47, LCDC LCDDAT_4, QSPI1 QSPI1_CS_, GMAC GTXEN_, HSMC A_4, SSC1 TF_1, I2SC1 I2SC1_CK_]
+- B5 : PB16,  of Type IO, alternates : [LCDC LCDDAT_5, PIO P_48, I2SC1 I2SC1_WS_, QSPI1 QSPI1_IO_0, HSMC A_5, GMAC GRXDV_, SSC1 TD_1]
+- C4 : PB17,  of Type IO, alternates : [LCDC LCDDAT_6, GMAC GRXER_, I2SC1 I2SC1_DI_0, PIO P_49, QSPI1 QSPI1_IO_1, HSMC A_6, SSC1 RD_1]
+- A5 : PB18,  of Type IO, alternates : [HSMC A_7, SSC1 RK_1, QSPI1 QSPI1_IO_2, LCDC LCDDAT_7, PIO P_50, I2SC1 I2SC1_DO_0, GMAC GRX_0]
+- B4 : PB19,  of Type IO, alternates : [SSC1 RF_1, QSPI1 QSPI1_IO_3, HSMC A_8, LCDC LCDDAT_8, PIO P_51, TC1 TIOA_3, GMAC GRX_1]
+- A4 : PB20,  of Type IO, alternates : [PMC PCK_1, HSMC A_9, LCDC LCDDAT_9, GMAC GTX_0, TC1 TIOB_3, PIO P_52, SSC0 TK_0]
+- D3 : PB21,  of Type IO, alternates : [SSC0 TF_0, FLEXCOM3 FLEXCOM3_IO_2, GMAC GTX_1, PIO P_53, HSMC A_10, LCDC LCDDAT_10, TC1 TCLK_3]
+- C3 : PB22,  of Type IO, alternates : [SSC0 TD_0, PIO P_54, FLEXCOM3 FLEXCOM3_IO_1, HSMC A_11, GMAC GMDC_, TC0 TIOA_2, LCDC LCDDAT_11]
+- B3 : PB23,  of Type IO, alternates : [SSC0 RD_0, GMAC GMDIO_, PIO P_55, FLEXCOM3 FLEXCOM3_IO_0, TC0 TIOB_2, HSMC A_12, LCDC LCDDAT_12]
+- E2 : PB24,  of Type IO, alternates : [PIO P_56, FLEXCOM3 FLEXCOM3_IO_3, ISC ISC_D_10, HSMC A_13, SSC0 RK_0, LCDC LCDDAT_13, TC0 TCLK_2]
+- A3 : PB25,  of Type IO, alternates : [ISC ISC_D_11, PIO P_57, HSMC A_14, LCDC LCDDAT_14, FLEXCOM3 FLEXCOM3_IO_4, SSC0 RF_0]
+- G3 : PB26,  of Type IO, alternates : [PIO P_58, ISC ISC_D_0, HSMC A_15, PDMIC PDMIC_DAT_, LCDC LCDDAT_15, UART0 URXD_0]
+- F4 : PB27,  of Type IO, alternates : [PIO P_59, ISC ISC_D_1, PDMIC PDMIC_CLK_, HSMC A_16, UART0 UTXD_0, LCDC LCDDAT_16]
+- D2 : PB28,  of Type IO, alternates : [ISC ISC_D_2, HSMC A_17, FLEXCOM0 FLEXCOM0_IO_0, LCDC LCDDAT_17, TC1 TIOA_5, PIO P_60]
+- G8 : PB29,  of Type IO, alternates : [ISC ISC_D_3, HSMC A_18, LCDC LCDDAT_18, FLEXCOM0 FLEXCOM0_IO_1, PIO P_61, TC1 TIOB_5]
+- C2 : PB30,  of Type IO, alternates : [HSMC A_19, LCDC LCDDAT_19, ISC ISC_D_4, FLEXCOM0 FLEXCOM0_IO_2, PIO P_62, TC1 TCLK_5]
+- G7 : PB31,  of Type IO, alternates : [TWIHS0 TWD_0, ISC ISC_D_5, FLEXCOM0 FLEXCOM0_IO_3, PIO P_63, HSMC A_20, LCDC LCDDAT_20]
+- N10 : PC0,  of Type IO, alternates : [TWIHS0 TWCK_0, ISC ISC_D_6, HSMC A_23, FLEXCOM0 FLEXCOM0_IO_4, PIO P_64, LCDC LCDDAT_21]
+- N11 : PC1,  of Type IO, alternates : [MCAN0 CANTX_0, I2SC0 I2SC0_CK_, PIO P_65, ISC ISC_D_7, HSMC A_24, SPI1 SPI1_SPCK_, LCDC LCDDAT_22]
+- N9 : PC2,  of Type IO, alternates : [MCAN0 CANRX_0, PIO P_66, SPI1 SPI1_MOSI_, HSMC A_25, ISC ISC_D_8, LCDC LCDDAT_23, I2SC0 I2SC0_MCK_]
+- M10 : PC3,  of Type IO, alternates : [SPI1 SPI1_MISO_, I2SC0 I2SC0_WS_, LCDC LCDPWM_, PIO P_67, TC0 TIOA_1, ISC ISC_D_9, HSMC NWAIT_]
+- N15 : PC4,  of Type IO, alternates : [ISC ISC_PCK_, LCDC LCDDISP_, I2SC0 I2SC0_DI_0, PIO P_68, SPI1 SPI1_NPCS_0, HSMC NWR1_, TC0 TIOB_1]
+- M16 : PC5,  of Type IO, alternates : [PIO P_69, ISC ISC_VSYNC_, TC0 TCLK_1, SPI1 SPI1_NPCS_1, HSMC NCS_0, I2SC0 I2SC0_DO_0, LCDC LCDVSYNC_]
+- L11 : PC6,  of Type IO, alternates : [LCDC LCDHSYNC_, TWIHS1 TWD_1, PIO P_70, ISC ISC_HSYNC_, SPI1 SPI1_NPCS_2]
+- M15 : PC7,  of Type IO, alternates : [LCDC LCDPCK_, TWIHS1 TWCK_1, ISC ISC_MCK_, UART1 URXD_1, HSMC NCS_2, SPI1 SPI1_NPCS_3, PIO P_71]
+- M13 : PC8,  of Type IO, alternates : [LCDC LCDDEN_, HSMC NANDRDY_, SAIC FIQ_, ISC ISC_FIELD_, UART1 UTXD_1, PIO P_72, PMC PCK_0]
+- B2 : PC9,  of Type IO, alternates : [SAIC FIQ_, ISC ISC_D_0, PIO P_73, TC1 TIOA_4, GMAC GTSUCOMP_]
+- G4 : PC10,  of Type IO, alternates : [MCAN0 CANTX_0, ISC ISC_D_1, TC1 TIOB_4, PIO P_74, LCDC LCDDAT_2, GMAC GTXCK_]
+- A2 : PC11,  of Type IO, alternates : [ISC ISC_D_2, LCDC LCDDAT_3, MCAN0 CANRX_0, GMAC GTXEN_, PIO P_75, HSMC A0_, TC1 TCLK_4]
+- A1 : PC12,  of Type IO, alternates : [ISC ISC_D_3, LCDC LCDDAT_4, PIO P_76, GMAC GRXDV_, HSMC A_1, UART3 URXD_3, SSC0 TK_0]
+- B1 : PC13,  of Type IO, alternates : [LCDC LCDDAT_5, GMAC GRXER_, SSC0 TF_0, PIO P_77, UART3 UTXD_3, ISC ISC_D_4, HSMC A_2]
+- G5 : PC14,  of Type IO, alternates : [LCDC LCDDAT_6, SSC0 TD_0, PIO P_78, ISC ISC_D_5, HSMC A_3, GMAC GRX_0]
+- G2 : PC15,  of Type IO, alternates : [SSC0 RD_0, ISC ISC_D_6, LCDC LCDDAT_7, PIO P_79, HSMC A_4, GMAC GRX_1]
+- G6 : PC16,  of Type IO, alternates : [ISC ISC_D_7, HSMC A_5, GMAC GTX_0, SSC0 RK_0, LCDC LCDDAT_10, PIO P_80]
+- C1 : PC17,  of Type IO, alternates : [HSMC A_6, GMAC GTX_1, ISC ISC_D_8, LCDC LCDDAT_11, SSC0 RF_0, PIO P_81]
+- G9 : PC18,  of Type IO, alternates : [HSMC A_7, FLEXCOM3 FLEXCOM3_IO_2, GMAC GMDC_, ISC ISC_D_9, LCDC LCDDAT_12, PIO P_82]
+- D1 : PC19,  of Type IO, alternates : [GMAC GMDIO_, HSMC A_8, FLEXCOM3 FLEXCOM3_IO_1, ISC ISC_D_10, PIO P_83, LCDC LCDDAT_13]
+- H4 : PC20,  of Type IO, alternates : [HSMC A_9, FLEXCOM3 FLEXCOM3_IO_0, ISC ISC_D_11, LCDC LCDDAT_14, PIO P_84, GMAC GRXCK_]
+- E1 : PC21,  of Type IO, alternates : [ISC ISC_PCK_, GMAC GTXER_, FLEXCOM3 FLEXCOM3_IO_3, LCDC LCDDAT_15, PIO P_85, HSMC A_10]
+- F1 : PC22,  of Type IO, alternates : [ISC ISC_VSYNC_, LCDC LCDDAT_18, HSMC A_11, FLEXCOM3 FLEXCOM3_IO_4, PIO P_86, GMAC GCRS_]
+- H9 : PC23,  of Type IO, alternates : [LCDC LCDDAT_19, PIO P_87, HSMC A_12, GMAC GCOL_, ISC ISC_HSYNC_]
+- G1 : PC24,  of Type IO, alternates : [GMAC GRX_2, ISC ISC_MCK_, PIO P_88, HSMC A_13, LCDC LCDDAT_20]
+- H8 : PC25,  of Type IO, alternates : [GMAC GRX_3, ISC ISC_FIELD_, PIO P_89, HSMC A_14, LCDC LCDDAT_21]
+- F7 : PC26,  of Type IO, alternates : [MCAN1 CANTX_1, HSMC A_15, GMAC GTX_2, LCDC LCDDAT_22, PIO P_90]
+- B10 : PC27,  of Type IO, alternates : [MCAN1 CANRX_1, PMC PCK_1, TWIHS0 TWD_0, HSMC A_16, GMAC GTX_3, LCDC LCDDAT_23, PIO P_91]
+- F6 : PC28,  of Type IO, alternates : [PMC PCK_2, TWIHS0 TWCK_0, HSMC A_17, LCDC LCDPWM_, FLEXCOM4 FLEXCOM4_IO_0, PIO P_92]
+- B9 : PC29,  of Type IO, alternates : [HSMC A_18, LCDC LCDDISP_, FLEXCOM4 FLEXCOM4_IO_1, PIO P_93]
+- E6 : PC30,  of Type IO, alternates : [HSMC A_19, PIO P_94, FLEXCOM4 FLEXCOM4_IO_2, LCDC LCDVSYNC_]
+- A11 : PC31,  of Type IO, alternates : [LCDC LCDHSYNC_, FLEXCOM4 FLEXCOM4_IO_3, PIO P_95, UART3 URXD_3, HSMC A_20]
+- E7 : PD0,  of Type IO, alternates : [LCDC LCDPCK_, UART3 UTXD_3, HSMC A_23, GMAC GTSUCOMP_, PIO P_96, FLEXCOM4 FLEXCOM4_IO_4]
+- C9 : PD1,  of Type IO, alternates : [LCDC LCDDEN_, HSMC A_24, PIO P_97, GMAC GRXCK_]
+- D8 : PD2,  of Type IO, alternates : [GMAC GTXER_, ISC ISC_MCK_, PIO P_98, HSMC A_25, UART1 URXD_1]
+- J1 : PD3,  of Type IO, alternates : [SAIC FIQ_, PIO P_99, ISC ISC_D_11, UART1 UTXD_1, HSMC NWAIT_, PTC PTC_X_0, GMAC GCRS_]
+- H7 : PD4,  of Type IO, alternates : [ISC ISC_D_10, HSMC NCS_0, GMAC GCOL_, TWIHS1 TWD_1, UART2 URXD_2, PIO P_100, PTC PTC_X_1]
+- H1 : PD5,  of Type IO, alternates : [TWIHS1 TWCK_1, GMAC GRX_2, UART2 UTXD_2, HSMC NCS_1, PIO P_101, ISC ISC_D_9, PTC PTC_X_2]
+- J2 : PD6,  of Type IO, alternates : [PMC PCK_1, GMAC GRX_3, ICE TCK_, PIO P_102, ISC ISC_D_8, HSMC NCS_2, PTC PTC_X_3]
+- H6 : PD7,  of Type IO, alternates : [ISC ISC_D_0, ICE TDI_, PIO P_103, PTC PTC_X_4, GMAC GTX_2, HSMC NWR1_]
+- K3 : PD8,  of Type IO, alternates : [HSMC NANDRDY_, ISC ISC_D_1, PTC PTC_X_5, ICE TDO_, GMAC GTX_3, PIO P_104]
+- J4 : PD9,  of Type IO, alternates : [ISC ISC_D_2, ICE TMS_, PTC PTC_X_6, PIO P_105, GMAC GTXCK_]
+- J3 : PD10,  of Type IO, alternates : [ISC ISC_D_3, ICE NTRST_, GMAC GTXEN_, PTC PTC_X_7, PIO P_106]
+- K2 : PD11,  of Type IO, alternates : [PMC PCK_2, ISC ISC_MCK_, ISC ISC_D_4, GMAC GRXDV_, TC0 TIOA_1, PIO P_107, PTC PTC_Y_0]
+- K9 : PD12,  of Type IO, alternates : [GMAC GRXER_, PIO P_108, ISC ISC_D_4, FLEXCOM4 FLEXCOM4_IO_0, ISC ISC_D_5, TC0 TIOB_1, PTC PTC_Y_1]
+- N1 : PD13,  of Type IO, alternates : [PIO P_109, TC0 TCLK_1, ISC ISC_D_6, FLEXCOM4 FLEXCOM4_IO_1, ISC ISC_D_5, GMAC GRX_0, PTC PTC_Y_2]
+- K5 : PD14,  of Type IO, alternates : [ISC ISC_D_6, PIO P_110, ISC ISC_D_7, ICE TCK_, FLEXCOM4 FLEXCOM4_IO_2, PTC PTC_Y_3, GMAC GRX_1]
+- K8 : PD15,  of Type IO, alternates : [ISC ISC_PCK_, ICE TDI_, ISC ISC_D_7, FLEXCOM4 FLEXCOM4_IO_3, GMAC GTX_0, PTC PTC_Y_4, PIO P_111]
+- L1 : PD16,  of Type IO, alternates : [ISC ISC_VSYNC_, GMAC GTX_1, ICE TDO_, ISC ISC_D_8, PIO P_112, FLEXCOM4 FLEXCOM4_IO_4, PTC PTC_Y_5]
+- K1 : PD17,  of Type IO, alternates : [ICE TMS_, PIO P_113, PTC PTC_Y_6, GMAC GMDC_, ISC ISC_D_9, ISC ISC_HSYNC_]
+- J7 : PD18,  of Type IO, alternates : [GMAC GMDIO_, ICE NTRST_, ISC ISC_FIELD_, PTC PTC_Y_7, ISC ISC_D_10, PIO P_114]
+- L8 : PD19,  of Type IO, alternates : [I2SC0 I2SC0_CK_, ISC ISC_D_11, TWIHS1 TWD_1, UART2 URXD_2, ADC AD_0, PIO P_115, PMC PCK_0]
+- L2 : PD20,  of Type IO, alternates : [ISC ISC_PCK_, TWIHS1 TWCK_1, UART2 UTXD_2, TC0 TIOA_2, PIO P_116, ADC AD_1, I2SC0 I2SC0_MCK_]
+- P1 : PD21,  of Type IO, alternates : [ISC ISC_VSYNC_, TWIHS0 TWD_0, I2SC0 I2SC0_WS_, FLEXCOM4 FLEXCOM4_IO_0, TC0 TIOB_2, ADC AD_2, PIO P_117]
+- L6 : PD22,  of Type IO, alternates : [TWIHS0 TWCK_0, FLEXCOM4 FLEXCOM4_IO_1, I2SC0 I2SC0_DI_0, PIO P_118, TC0 TCLK_2, ADC AD_3, ISC ISC_HSYNC_]
+- T1 : PD23,  of Type IO, alternates : [ADC AD_4, PIO P_119, ISC ISC_FIELD_, FLEXCOM4 FLEXCOM4_IO_2, UART2 URXD_2, I2SC0 I2SC0_DO_0]
+- L4 : PD24,  of Type IO, alternates : [ADC AD_5, UART2 UTXD_2, PIO P_120, FLEXCOM4 FLEXCOM4_IO_3]
+- L5 : PD25,  of Type IO, alternates : [ADC AD_6, PIO P_121, SPI1 SPI1_SPCK_, FLEXCOM4 FLEXCOM4_IO_4]
+- R1 : PD26,  of Type IO, alternates : [ADC AD_7, FLEXCOM2 FLEXCOM2_IO_0, SPI1 SPI1_MOSI_, PIO P_122]
+- L7 : PD27,  of Type IO, alternates : [SPI1 SPI1_MISO_, ADC AD_8, FLEXCOM2 FLEXCOM2_IO_1, ICE TCK_, PIO P_123]
+- L3 : PD28,  of Type IO, alternates : [ICE TDI_, ADC AD_9, FLEXCOM2 FLEXCOM2_IO_2, PIO P_124, SPI1 SPI1_NPCS_0]
+- M2 : PD29,  of Type IO, alternates : [TWIHS0 TWD_0, PIO P_125, SPI1 SPI1_NPCS_1, FLEXCOM2 FLEXCOM2_IO_3, ICE TDO_, TC1 TIOA_3, ADC AD_10]
+- M9 : PD30,  of Type IO, alternates : [TWIHS0 TWCK_0, ICE TMS_, TC1 TIOB_3, FLEXCOM2 FLEXCOM2_IO_4, ADC AD_11, PIO P_126, SPI1 SPI1_NPCS_2]
+- M8 : PD31,  of Type IO, alternates : [AIC IRQ_, ADC ADTRG_, ICE NTRST_, PIO P_127, TC1 TCLK_3, PMC PCK_0]
+- L9 : ADVREF,  of Type PS
+- K4 : VDDANA,  of Type PP
+- J5 : VDDANA,  of Type PP
+- J6 : GNDANA,  of Type PS
+- M1 : GNDANA,  of Type PS
+- J10 : DDR_VREF,  of Type PS
+- F11 : DDR_VREF,  of Type PS
+- L10 : VDDIODDR,  of Type PP
+- L14 : VDDIODDR,  of Type PP
+- J8 : VDDIODDR,  of Type PP
+- H10 : VDDIODDR,  of Type PP
+- G12 : VDDIODDR,  of Type PP
+- E11 : VDDIODDR,  of Type PP
+- E8 : VDDIODDR,  of Type PP
+- K10 : GNDIODDR,  of Type PS
+- M14 : GNDIODDR,  of Type PS
+- J9 : GNDIODDR,  of Type PS
+- G10 : GNDIODDR,  of Type PS
+- H12 : GNDIODDR,  of Type PS
+- E10 : GNDIODDR,  of Type PS
+- F8 : GNDIODDR,  of Type PS
+- H2 : VDDCORE,  of Type PP
+- U3 : VDDCORE,  of Type PP
+- P7 : VDDCORE,  of Type PP
+- L12 : VDDCORE,  of Type PP
+- E9 : VDDCORE,  of Type PP
+- D7 : VDDCORE,  of Type PP
+- E12 : GNDCORE,  of Type PS
+- F12 : GNDCORE,  of Type PS
+- J11 : GNDCORE,  of Type PS
+- K11 : GNDCORE,  of Type PS
+- K6 : GNDCORE,  of Type PS
+- K7 : GNDCORE,  of Type PS
+- D4 : VDDIOP0,  of Type PP
+- F3 : VDDIOP1,  of Type PP
+- E3 : GNDIOP0,  of Type PS
+- F2 : GNDIOP0,  of Type PS
+- N12 : VDDIOP1,  of Type PP
+- P12 : VDDIOP1,  of Type PP
+- M12 : GNDIOP1,  of Type PS
+- P11 : GNDIOP1,  of Type PS
+- D9 : VDDIOP2,  of Type PP
+- D6 : GNDIOP2,  of Type PS
+- N8 : VDDSDMMC,  of Type PP
+- R8 : GNDSDMMC,  of Type PS
+- H3 : VDDISC,  of Type PP
+- H5 : GNDISC,  of Type PS
+- N13 : VDDFUSE,  of Type PP
+- R5 : VDDPLLA,  of Type PP
+- T5 : GNDPLLA,  of Type PS
+- M4 : VDDAUDIOPLL,  of Type PP
+- T3 : GNDDPLL,  of Type PS
+- T4 : GNDAUDIOPLL,  of Type PS
+- T8 : CLK_AUDIO,  of Type IO
+- U9 : XIN,  of Type PS
+- U8 : XOUT,  of Type PS
+- N6 : VDDOSC,  of Type PP
+- P5 : GNDOSC,  of Type PS
+- P6 : VDDUTMII,  of Type PP
+- R7 : VDDHSIC,  of Type PP
+- M6 : GNDUTMII,  of Type PS
+- U10 : HHSDPA,  of Type IO
+- T10 : HHSDMA,  of Type IO
+- U11 : HHSDPB,  of Type IO
+- T11 : HHSDMB,  of Type IO
+- T12 : HHSDPDATC,  of Type IO
+- U12 : HHSDMSTRC,  of Type IO
+- M7 : VDDUTMIC,  of Type PP
+- R6 : GNDUTMIC,  of Type PS
+- T6 : VBG,  of Type IO
+- R4 : TST,  of Type IO
+- T7 : NRST,  of Type IP
+- R3 : JTAGSEL,  of Type OP
+- R2 : WKUP,  of Type IP
+- N2 : RXD,  of Type IP
+- T2 : SHDN,  of Type IO
+- P3 : PIOBU0,  of Type IO
+- M3 : PIOBU1,  of Type IO
+- P2 : PIOBU2,  of Type IO
+- P4 : PIOBU3,  of Type IO
+- N4 : PIOBU4,  of Type IO
+- M5 : PIOBU5,  of Type IO
+- N5 : PIOBU6,  of Type IO
+- N3 : PIOBU7,  of Type IO
+- U5 : VDDBU,  of Type PP
+- U4 : GNDBU,  of Type PS
+- U2 : XIN32,  of Type PS
+- U1 : XOUT32,  of Type PS
+- U6 : COMPP,  of Type IO
+- U7 : COMPN,  of Type IO
+- D17 : ODT,  of Type IO
+- A16 : DDRM_VDD,  of Type PP
+- B16 : DDRM_VDD,  of Type PP
+- C16 : DDRM_VDD,  of Type PP
+- D16 : DDRM_VDD,  of Type PP
+- E15 : DDRM_VDD,  of Type PP
+- G17 : DDRM_VDD,  of Type PP
+- J17 : DDRM_VDD,  of Type PP
+- L16 : DDRM_VDD,  of Type PP
+- E16 : DDRM_VDDL,  of Type PP
+- F15 : DDRM_VDDQ,  of Type PP
+- G15 : DDRM_VDDQ,  of Type PP
+- H15 : DDRM_VDDQ,  of Type PP
+- J15 : DDRM_VDDQ,  of Type PP
+- K15 : DDRM_VDDQ,  of Type PP
+- L15 : DDRM_VDDQ,  of Type PP
+- A17 : DDRM_VSS,  of Type PS
+- B17 : DDRM_VSS,  of Type PS
+- C17 : DDRM_VSS,  of Type PS
+- D15 : DDRM_VSS,  of Type PS
+- E14 : DDRM_VSS,  of Type PS
+- F17 : DDRM_VSS,  of Type PS
+- H17 : DDRM_VSS,  of Type PS
+- L17 : DDRM_VSS,  of Type PS
+- E17 : DDRM_VSSDL,  of Type PS
+- F16 : DDRM_VSSQ,  of Type PS
+- G16 : DDRM_VSSQ,  of Type PS
+- H16 : DDRM_VSSQ,  of Type PS
+- J16 : DDRM_VSSQ,  of Type PS
+- K16 : DDRM_VSSQ,  of Type PS
+- K17 : DDRM_VSSQ,  of Type PS
+- A12 : NC,  of Type NC
+- A13 : NC,  of Type NC
+- A14 : NC,  of Type NC
+- A15 : NC,  of Type NC
+- B11 : NC,  of Type NC
+- B12 : NC,  of Type NC
+- B13 : NC,  of Type NC
+- B14 : NC,  of Type NC
+- B15 : NC,  of Type NC
+- C10 : NC,  of Type NC
+- C11 : NC,  of Type NC
+- C12 : NC,  of Type NC
+- C13 : NC,  of Type NC
+- C14 : NC,  of Type NC
+- C15 : NC,  of Type NC
+- D10 : NC,  of Type NC
+- D11 : NC,  of Type NC
+- D12 : NC,  of Type NC
+- D13 : NC,  of Type NC
+- D14 : NC,  of Type NC
+- E13 : NC,  of Type NC
+- F9 : NC,  of Type NC
+- F10 : NC,  of Type NC
+- F13 : NC,  of Type NC
+- F14 : NC,  of Type NC
+- G11 : NC,  of Type NC
+- G13 : NC,  of Type NC
+- G14 : NC,  of Type NC
+- H11 : NC,  of Type NC
+- H13 : NC,  of Type NC
+- H14 : NC,  of Type NC
+- J12 : NC,  of Type NC
+- J13 : NC,  of Type NC
+- J14 : NC,  of Type NC
+- K12 : NC,  of Type NC
+- K13 : NC,  of Type NC
+- K14 : NC,  of Type NC
+- L13 : NC,  of Type NC
+- R12 : NC,  of Type NC
+- T9 : NC,  of Type NC
 ## ATSAMA5D27CD5M-CU
+
 ### Description : 
+
+- Series : SAMA5D2
+- Footprint : TFBGA289
+- MP : ATSAMA5D27CD5M-CU
+- Architecture : CORTEX-A5
+- PINOUT : TFBGA289
+- Reference : U
+- Documentation : https://www.microchip.com/en-us/search?q=ATSAMA5D27CD5M-CU
+- Value : ATSAMA5D27CD5M-CU
+- Family : SAMA5
+- MF : Microchip
+- Name : ATSAMA5D27CD5M
 
 ### Package : 
 
-- U13 : PA0
-- N7 : PA1
-- U14 : PA2
-- T13 : PA3
-- U15 : PA4
-- U16 : PA5
-- U17 : PA6
-- R11 : PA7
-- R9 : PA8
-- P8 : PA9
-- R10 : PA10
-- P15 : PA11
-- N17 : PA12
-- P16 : PA13
-- M17 : PA14
-- N16 : PA15
-- M11 : PA16
-- N14 : PA17
-- T16 : PA18
-- T15 : PA19
-- P9 : PA20
-- P10 : PA21
-- T17 : PA22
-- T14 : PA23
-- R17 : PA24
-- R16 : PA25
-- P17 : PA26
-- R15 : PA27
-- R14 : PA28
-- P14 : PA29
-- R13 : PA30
-- P13 : PA31
-- F5 : PB0
-- C8 : PB1
-- C7 : PB2
-- B8 : PB3
-- B7 : PB4
-- A10 : PB5
-- A9 : PB6
-- D5 : PB7
-- E5 : PB8
-- C6 : PB9
-- A8 : PB10
-- A7 : PB11
-- B6 : PB12
-- C5 : PB13
-- A6 : PB14
-- E4 : PB15
-- B5 : PB16
-- C4 : PB17
-- A5 : PB18
-- B4 : PB19
-- A4 : PB20
-- D3 : PB21
-- C3 : PB22
-- B3 : PB23
-- E2 : PB24
-- A3 : PB25
-- G3 : PB26
-- F4 : PB27
-- D2 : PB28
-- G8 : PB29
-- C2 : PB30
-- G7 : PB31
-- N10 : PC0
-- N11 : PC1
-- N9 : PC2
-- M10 : PC3
-- N15 : PC4
-- M16 : PC5
-- L11 : PC6
-- M15 : PC7
-- M13 : PC8
-- B2 : PC9
-- G4 : PC10
-- A2 : PC11
-- A1 : PC12
-- B1 : PC13
-- G5 : PC14
-- G2 : PC15
-- G6 : PC16
-- C1 : PC17
-- G9 : PC18
-- D1 : PC19
-- H4 : PC20
-- E1 : PC21
-- F1 : PC22
-- H9 : PC23
-- G1 : PC24
-- H8 : PC25
-- F7 : PC26
-- B10 : PC27
-- F6 : PC28
-- B9 : PC29
-- E6 : PC30
-- A11 : PC31
-- E7 : PD0
-- C9 : PD1
-- D8 : PD2
-- J1 : PD3
-- H7 : PD4
-- H1 : PD5
-- J2 : PD6
-- H6 : PD7
-- K3 : PD8
-- J4 : PD9
-- J3 : PD10
-- K2 : PD11
-- K9 : PD12
-- N1 : PD13
-- K5 : PD14
-- K8 : PD15
-- L1 : PD16
-- K1 : PD17
-- J7 : PD18
-- L8 : PD19
-- L2 : PD20
-- P1 : PD21
-- L6 : PD22
-- T1 : PD23
-- L4 : PD24
-- L5 : PD25
-- R1 : PD26
-- L7 : PD27
-- L3 : PD28
-- M2 : PD29
-- M9 : PD30
-- M8 : PD31
-- L9 : ADVREF
-- K4 : VDDANA
-- J5 : VDDANA
-- J6 : GNDANA
-- M1 : GNDANA
-- J10 : DDR_VREF
-- F11 : DDR_VREF
-- L10 : VDDIODDR
-- L14 : VDDIODDR
-- J8 : VDDIODDR
-- H10 : VDDIODDR
-- G12 : VDDIODDR
-- E11 : VDDIODDR
-- E8 : VDDIODDR
-- K10 : GNDIODDR
-- M14 : GNDIODDR
-- J9 : GNDIODDR
-- G10 : GNDIODDR
-- H12 : GNDIODDR
-- E10 : GNDIODDR
-- F8 : GNDIODDR
-- H2 : VDDCORE
-- U3 : VDDCORE
-- P7 : VDDCORE
-- L12 : VDDCORE
-- E9 : VDDCORE
-- D7 : VDDCORE
-- E12 : GNDCORE
-- F12 : GNDCORE
-- J11 : GNDCORE
-- K11 : GNDCORE
-- K6 : GNDCORE
-- K7 : GNDCORE
-- D4 : VDDIOP0
-- F3 : VDDIOP1
-- E3 : GNDIOP0
-- F2 : GNDIOP0
-- N12 : VDDIOP1
-- P12 : VDDIOP1
-- M12 : GNDIOP1
-- P11 : GNDIOP1
-- D9 : VDDIOP2
-- D6 : GNDIOP2
-- N8 : VDDSDMMC
-- R8 : GNDSDMMC
-- H3 : VDDISC
-- H5 : GNDISC
-- N13 : VDDFUSE
-- R5 : VDDPLLA
-- T5 : GNDPLLA
-- M4 : VDDAUDIOPLL
-- T3 : GNDDPLL
-- T4 : GNDAUDIOPLL
-- T8 : CLK_AUDIO
-- U9 : XIN
-- U8 : XOUT
-- N6 : VDDOSC
-- P5 : GNDOSC
-- P6 : VDDUTMII
-- R7 : VDDHSIC
-- M6 : GNDUTMII
-- U10 : HHSDPA
-- T10 : HHSDMA
-- U11 : HHSDPB
-- T11 : HHSDMB
-- T12 : HHSDPDATC
-- U12 : HHSDMSTRC
-- M7 : VDDUTMIC
-- R6 : GNDUTMIC
-- T6 : VBG
-- R4 : TST
-- T7 : NRST
-- R3 : JTAGSEL
-- R2 : WKUP
-- N2 : RXD
-- T2 : SHDN
-- P3 : PIOBU0
-- M3 : PIOBU1
-- P2 : PIOBU2
-- P4 : PIOBU3
-- N4 : PIOBU4
-- M5 : PIOBU5
-- N5 : PIOBU6
-- N3 : PIOBU7
-- U5 : VDDBU
-- U4 : GNDBU
-- U2 : XIN32
-- U1 : XOUT32
-- U6 : COMPP
-- U7 : COMPN
-- D17 : ODT
-- A16 : DDRM_VDD
-- B16 : DDRM_VDD
-- C16 : DDRM_VDD
-- D16 : DDRM_VDD
-- E15 : DDRM_VDD
-- G17 : DDRM_VDD
-- J17 : DDRM_VDD
-- L16 : DDRM_VDD
-- E16 : DDRM_VDDL
-- F15 : DDRM_VDDQ
-- G15 : DDRM_VDDQ
-- H15 : DDRM_VDDQ
-- J15 : DDRM_VDDQ
-- K15 : DDRM_VDDQ
-- L15 : DDRM_VDDQ
-- A17 : DDRM_VSS
-- B17 : DDRM_VSS
-- C17 : DDRM_VSS
-- D15 : DDRM_VSS
-- E14 : DDRM_VSS
-- F17 : DDRM_VSS
-- H17 : DDRM_VSS
-- L17 : DDRM_VSS
-- E17 : DDRM_VSSDL
-- F16 : DDRM_VSSQ
-- G16 : DDRM_VSSQ
-- H16 : DDRM_VSSQ
-- J16 : DDRM_VSSQ
-- K16 : DDRM_VSSQ
-- K17 : DDRM_VSSQ
-- A12 : NC
-- A13 : NC
-- A14 : NC
-- A15 : NC
-- B11 : NC
-- B12 : NC
-- B13 : NC
-- B14 : NC
-- B15 : NC
-- C10 : NC
-- C11 : NC
-- C12 : NC
-- C13 : NC
-- C14 : NC
-- C15 : NC
-- D10 : NC
-- D11 : NC
-- D12 : NC
-- D13 : NC
-- D14 : NC
-- E13 : NC
-- F9 : NC
-- F10 : NC
-- F13 : NC
-- F14 : NC
-- G11 : NC
-- G13 : NC
-- G14 : NC
-- H11 : NC
-- H13 : NC
-- H14 : NC
-- J12 : NC
-- J13 : NC
-- J14 : NC
-- K12 : NC
-- K13 : NC
-- K14 : NC
-- L13 : NC
-- R12 : NC
-- T9 : NC
+Pin count : 289
+- U13 : PA0,  of Type IO, alternates : [HSMC D_0, PIO P_0, SDMMC0 SDMMC0_CK_, QSPI0 QSPI0_SCK_]
+- N7 : PA1,  of Type IO, alternates : [SDMMC0 SDMMC0_CMD_, PIO P_1, QSPI0 QSPI0_CS_, HSMC D_1]
+- U14 : PA2,  of Type IO, alternates : [PIO P_2, HSMC D_2, SDMMC0 SDMMC0_DAT_0, QSPI0 QSPI0_IO_0]
+- T13 : PA3,  of Type IO, alternates : [PIO P_3, HSMC D_3, SDMMC0 SDMMC0_DAT_1, QSPI0 QSPI0_IO_1]
+- U15 : PA4,  of Type IO, alternates : [HSMC D_4, PIO P_4, SDMMC0 SDMMC0_DAT_2, QSPI0 QSPI0_IO_2]
+- U16 : PA5,  of Type IO, alternates : [PIO P_5, HSMC D_5, QSPI0 QSPI0_IO_3, SDMMC0 SDMMC0_DAT_3]
+- U17 : PA6,  of Type IO, alternates : [PIO P_6, HSMC D_6, FLEXCOM2 FLEXCOM2_IO_0, TC1 TIOA_5, QSPI1 QSPI1_SCK_, SDMMC0 SDMMC0_DAT_4]
+- R11 : PA7,  of Type IO, alternates : [PIO P_7, QSPI1 QSPI1_IO_0, HSMC D_7, FLEXCOM2 FLEXCOM2_IO_1, SDMMC0 SDMMC0_DAT_5, TC1 TIOB_5]
+- R9 : PA8,  of Type IO, alternates : [PIO P_8, QSPI1 QSPI1_IO_1, FLEXCOM2 FLEXCOM2_IO_2, HSMC NANDNWE_, TC1 TCLK_5, SDMMC0 SDMMC0_DAT_6]
+- P8 : PA9,  of Type IO, alternates : [SDMMC0 SDMMC0_DAT_7, QSPI1 QSPI1_IO_2, FLEXCOM2 FLEXCOM2_IO_3, TC1 TIOA_4, HSMC NCS_3, PIO P_9]
+- R10 : PA10,  of Type IO, alternates : [PIO P_10, QSPI1 QSPI1_IO_3, SDMMC0 SDMMC0_RSTN_, HSMC A21_, TC1 TIOB_4, FLEXCOM2 FLEXCOM2_IO_4]
+- P15 : PA11,  of Type IO, alternates : [QSPI1 QSPI1_CS_, SDMMC0 SDMMC0_1V8SEL_, PIO P_11, HSMC A22_, TC1 TCLK_4]
+- N17 : PA12,  of Type IO, alternates : [AIC IRQ_, SDMMC0 SDMMC0_WP_, PIO P_12, HSMC NANDOE_]
+- P16 : PA13,  of Type IO, alternates : [HSMC D_8, FLEXCOM3 FLEXCOM3_IO_1, PIO P_13, SDMMC0 SDMMC0_CD_]
+- M17 : PA14,  of Type IO, alternates : [PIO P_14, SPI0 SPI0_SPCK_, HSMC D_9, SSC1 TK_1, I2SC1 I2SC1_MCK_, FLEXCOM3 FLEXCOM3_IO_2, QSPI0 QSPI0_SCK_]
+- N16 : PA15,  of Type IO, alternates : [PIO P_15, HSMC D_10, QSPI0 QSPI0_CS_, FLEXCOM3 FLEXCOM3_IO_0, SSC1 TF_1, SPI0 SPI0_MOSI_, I2SC1 I2SC1_CK_]
+- M11 : PA16,  of Type IO, alternates : [PIO P_16, HSMC D_11, I2SC1 I2SC1_WS_, FLEXCOM3 FLEXCOM3_IO_3, SPI0 SPI0_MISO_, SSC1 TD_1, QSPI0 QSPI0_IO_0]
+- N14 : PA17,  of Type IO, alternates : [I2SC1 I2SC1_DI_0, PIO P_17, HSMC D_12, SPI0 SPI0_NPCS_0, FLEXCOM3 FLEXCOM3_IO_4, QSPI0 QSPI0_IO_1, SSC1 RD_1]
+- T16 : PA18,  of Type IO, alternates : [HSMC D_13, SSC1 RK_1, SPI0 SPI0_NPCS_1, I2SC1 I2SC1_DO_0, PIO P_18, QSPI0 QSPI0_IO_2, SDMMC1 SDMMC1_DAT_0]
+- T15 : PA19,  of Type IO, alternates : [SSC1 RF_1, SPI0 SPI0_NPCS_2, HSMC D_14, TC0 TIOA_0, QSPI0 QSPI0_IO_3, PIO P_19, SDMMC1 SDMMC1_DAT_1]
+- P9 : PA20,  of Type IO, alternates : [SPI0 SPI0_NPCS_3, HSMC D_15, TC0 TIOB_0, PIO P_20, SDMMC1 SDMMC1_DAT_2]
+- P10 : PA21,  of Type IO, alternates : [AIC IRQ_, PMC PCK_2, HSMC NANDRDY_, TC0 TCLK_0, PIO P_21, SDMMC1 SDMMC1_DAT_3]
+- T17 : PA22,  of Type IO, alternates : [PIO P_22, ICE TCK_, FLEXCOM1 FLEXCOM1_IO_2, HSMC D_0, SPI1 SPI1_SPCK_, SDMMC1 SDMMC1_CK_, QSPI0 QSPI0_SCK_]
+- T14 : PA23,  of Type IO, alternates : [ICE TDI_, PIO P_23, QSPI0 QSPI0_CS_, SPI1 SPI1_MOSI_, FLEXCOM1 FLEXCOM1_IO_1, HSMC D_1]
+- R17 : PA24,  of Type IO, alternates : [SPI1 SPI1_MISO_, FLEXCOM1 FLEXCOM1_IO_0, HSMC D_2, PIO P_24, ICE TDO_, QSPI0 QSPI0_IO_0]
+- R16 : PA25,  of Type IO, alternates : [PIO P_25, ICE TMS_, HSMC D_3, FLEXCOM1 FLEXCOM1_IO_3, SPI1 SPI1_NPCS_0, QSPI0 QSPI0_IO_1]
+- P17 : PA26,  of Type IO, alternates : [PIO P_26, ICE NTRST_, HSMC D_4, SPI1 SPI1_NPCS_1, FLEXCOM1 FLEXCOM1_IO_4, QSPI0 QSPI0_IO_2]
+- R15 : PA27,  of Type IO, alternates : [PIO P_27, SPI0 SPI0_NPCS_2, SDMMC1 SDMMC1_RSTN_, HSMC D_5, TC0 TIOA_1, QSPI0 QSPI0_IO_3, SPI1 SPI1_NPCS_2]
+- R14 : PA28,  of Type IO, alternates : [HSMC D_6, PIO P_28, SPI0 SPI0_NPCS_3, CLASSD CLASSD_L_0, SDMMC1 SDMMC1_CMD_, TC0 TIOB_1, SPI1 SPI1_NPCS_3]
+- P14 : PA29,  of Type IO, alternates : [HSMC D_7, TC0 TCLK_1, SDMMC1 SDMMC1_WP_, CLASSD CLASSD_L_1, SPI0 SPI0_NPCS_1, PIO P_29]
+- R13 : PA30,  of Type IO, alternates : [SPI0 SPI0_NPCS_0, PWM PWMH_0, CLASSD CLASSD_L_2, PIO P_30, HSMC NANDNWE_, SDMMC1 SDMMC1_CD_]
+- P13 : PA31,  of Type IO, alternates : [PWM PWML_0, HSMC NCS_3, CLASSD CLASSD_L_3, PIO P_31, SPI0 SPI0_MISO_]
+- F5 : PB0,  of Type IO, alternates : [PIO P_32, PWM PWMH_1, HSMC A21_, SPI0 SPI0_MOSI_]
+- C8 : PB1,  of Type IO, alternates : [SPI0 SPI0_SPCK_, PIO P_33, PWM PWML_1, HSMC A22_, CLASSD CLASSD_R_0]
+- C7 : PB2,  of Type IO, alternates : [PIO P_34, PWM PWMFI_0, CLASSD CLASSD_R_1, HSMC NANDOE_]
+- B8 : PB3,  of Type IO, alternates : [HSMC D_8, AIC IRQ_, PWM PWMEXTRG_1, PIO P_35, CLASSD CLASSD_R_2, UART4 URXD_4]
+- B7 : PB4,  of Type IO, alternates : [PIO P_36, HSMC D_9, SAIC FIQ_, UART4 UTXD_4, CLASSD CLASSD_R_3]
+- A10 : PB5,  of Type IO, alternates : [PIO P_37, HSMC D_10, PWM PWMH_2, QSPI1 QSPI1_SCK_, GMAC GTSUCOMP_, TC0 TCLK_2]
+- A9 : PB6,  of Type IO, alternates : [PIO P_38, HSMC D_11, QSPI1 QSPI1_CS_, GMAC GTXER_, PWM PWML_2, TC0 TIOA_2]
+- D5 : PB7,  of Type IO, alternates : [PIO P_39, QSPI1 QSPI1_IO_0, HSMC D_12, PWM PWMH_3, TC0 TIOB_2, GMAC GRXCK_]
+- E5 : PB8,  of Type IO, alternates : [QSPI1 QSPI1_IO_1, HSMC D_13, PIO P_40, PWM PWML_3, GMAC GCRS_, TC1 TCLK_3]
+- C6 : PB9,  of Type IO, alternates : [QSPI1 QSPI1_IO_2, HSMC D_14, GMAC GCOL_, PIO P_41, TC1 TIOA_3, PWM PWMFI_1]
+- A8 : PB10,  of Type IO, alternates : [GMAC GRX_2, PWM PWMEXTRG_2, QSPI1 QSPI1_IO_3, HSMC D_15, TC1 TIOB_3, PIO P_42]
+- A7 : PB11,  of Type IO, alternates : [GMAC GRX_3, PIO P_43, PDMIC PDMIC_DAT_, UART3 URXD_3, LCDC LCDDAT_0, HSMC A0_]
+- B6 : PB12,  of Type IO, alternates : [PDMIC PDMIC_CLK_, PIO P_44, UART3 UTXD_3, GMAC GTX_2, HSMC A_1, LCDC LCDDAT_1]
+- C5 : PB13,  of Type IO, alternates : [PMC PCK_1, PIO P_45, GMAC GTX_3, HSMC A_2, LCDC LCDDAT_2]
+- A6 : PB14,  of Type IO, alternates : [SSC1 TK_1, I2SC1 I2SC1_MCK_, LCDC LCDDAT_3, PIO P_46, HSMC A_3, QSPI1 QSPI1_SCK_, GMAC GTXCK_]
+- E4 : PB15,  of Type IO, alternates : [PIO P_47, LCDC LCDDAT_4, QSPI1 QSPI1_CS_, GMAC GTXEN_, HSMC A_4, SSC1 TF_1, I2SC1 I2SC1_CK_]
+- B5 : PB16,  of Type IO, alternates : [LCDC LCDDAT_5, PIO P_48, I2SC1 I2SC1_WS_, QSPI1 QSPI1_IO_0, HSMC A_5, GMAC GRXDV_, SSC1 TD_1]
+- C4 : PB17,  of Type IO, alternates : [LCDC LCDDAT_6, GMAC GRXER_, I2SC1 I2SC1_DI_0, PIO P_49, QSPI1 QSPI1_IO_1, HSMC A_6, SSC1 RD_1]
+- A5 : PB18,  of Type IO, alternates : [HSMC A_7, SSC1 RK_1, QSPI1 QSPI1_IO_2, LCDC LCDDAT_7, PIO P_50, I2SC1 I2SC1_DO_0, GMAC GRX_0]
+- B4 : PB19,  of Type IO, alternates : [SSC1 RF_1, QSPI1 QSPI1_IO_3, HSMC A_8, LCDC LCDDAT_8, PIO P_51, TC1 TIOA_3, GMAC GRX_1]
+- A4 : PB20,  of Type IO, alternates : [PMC PCK_1, HSMC A_9, LCDC LCDDAT_9, GMAC GTX_0, TC1 TIOB_3, PIO P_52, SSC0 TK_0]
+- D3 : PB21,  of Type IO, alternates : [SSC0 TF_0, FLEXCOM3 FLEXCOM3_IO_2, GMAC GTX_1, PIO P_53, HSMC A_10, LCDC LCDDAT_10, TC1 TCLK_3]
+- C3 : PB22,  of Type IO, alternates : [SSC0 TD_0, PIO P_54, FLEXCOM3 FLEXCOM3_IO_1, HSMC A_11, GMAC GMDC_, TC0 TIOA_2, LCDC LCDDAT_11]
+- B3 : PB23,  of Type IO, alternates : [SSC0 RD_0, GMAC GMDIO_, PIO P_55, FLEXCOM3 FLEXCOM3_IO_0, TC0 TIOB_2, HSMC A_12, LCDC LCDDAT_12]
+- E2 : PB24,  of Type IO, alternates : [PIO P_56, FLEXCOM3 FLEXCOM3_IO_3, ISC ISC_D_10, HSMC A_13, SSC0 RK_0, LCDC LCDDAT_13, TC0 TCLK_2]
+- A3 : PB25,  of Type IO, alternates : [ISC ISC_D_11, PIO P_57, HSMC A_14, LCDC LCDDAT_14, FLEXCOM3 FLEXCOM3_IO_4, SSC0 RF_0]
+- G3 : PB26,  of Type IO, alternates : [PIO P_58, ISC ISC_D_0, HSMC A_15, PDMIC PDMIC_DAT_, LCDC LCDDAT_15, UART0 URXD_0]
+- F4 : PB27,  of Type IO, alternates : [PIO P_59, ISC ISC_D_1, PDMIC PDMIC_CLK_, HSMC A_16, UART0 UTXD_0, LCDC LCDDAT_16]
+- D2 : PB28,  of Type IO, alternates : [ISC ISC_D_2, HSMC A_17, FLEXCOM0 FLEXCOM0_IO_0, LCDC LCDDAT_17, TC1 TIOA_5, PIO P_60]
+- G8 : PB29,  of Type IO, alternates : [ISC ISC_D_3, HSMC A_18, LCDC LCDDAT_18, FLEXCOM0 FLEXCOM0_IO_1, PIO P_61, TC1 TIOB_5]
+- C2 : PB30,  of Type IO, alternates : [HSMC A_19, LCDC LCDDAT_19, ISC ISC_D_4, FLEXCOM0 FLEXCOM0_IO_2, PIO P_62, TC1 TCLK_5]
+- G7 : PB31,  of Type IO, alternates : [TWIHS0 TWD_0, ISC ISC_D_5, FLEXCOM0 FLEXCOM0_IO_3, PIO P_63, HSMC A_20, LCDC LCDDAT_20]
+- N10 : PC0,  of Type IO, alternates : [TWIHS0 TWCK_0, ISC ISC_D_6, HSMC A_23, FLEXCOM0 FLEXCOM0_IO_4, PIO P_64, LCDC LCDDAT_21]
+- N11 : PC1,  of Type IO, alternates : [MCAN0 CANTX_0, I2SC0 I2SC0_CK_, PIO P_65, ISC ISC_D_7, HSMC A_24, SPI1 SPI1_SPCK_, LCDC LCDDAT_22]
+- N9 : PC2,  of Type IO, alternates : [MCAN0 CANRX_0, PIO P_66, SPI1 SPI1_MOSI_, HSMC A_25, ISC ISC_D_8, LCDC LCDDAT_23, I2SC0 I2SC0_MCK_]
+- M10 : PC3,  of Type IO, alternates : [SPI1 SPI1_MISO_, I2SC0 I2SC0_WS_, LCDC LCDPWM_, PIO P_67, TC0 TIOA_1, ISC ISC_D_9, HSMC NWAIT_]
+- N15 : PC4,  of Type IO, alternates : [ISC ISC_PCK_, LCDC LCDDISP_, I2SC0 I2SC0_DI_0, PIO P_68, SPI1 SPI1_NPCS_0, HSMC NWR1_, TC0 TIOB_1]
+- M16 : PC5,  of Type IO, alternates : [PIO P_69, ISC ISC_VSYNC_, TC0 TCLK_1, SPI1 SPI1_NPCS_1, HSMC NCS_0, I2SC0 I2SC0_DO_0, LCDC LCDVSYNC_]
+- L11 : PC6,  of Type IO, alternates : [LCDC LCDHSYNC_, TWIHS1 TWD_1, PIO P_70, ISC ISC_HSYNC_, SPI1 SPI1_NPCS_2]
+- M15 : PC7,  of Type IO, alternates : [LCDC LCDPCK_, TWIHS1 TWCK_1, ISC ISC_MCK_, UART1 URXD_1, HSMC NCS_2, SPI1 SPI1_NPCS_3, PIO P_71]
+- M13 : PC8,  of Type IO, alternates : [LCDC LCDDEN_, HSMC NANDRDY_, SAIC FIQ_, ISC ISC_FIELD_, UART1 UTXD_1, PIO P_72, PMC PCK_0]
+- B2 : PC9,  of Type IO, alternates : [SAIC FIQ_, ISC ISC_D_0, PIO P_73, TC1 TIOA_4, GMAC GTSUCOMP_]
+- G4 : PC10,  of Type IO, alternates : [MCAN0 CANTX_0, ISC ISC_D_1, TC1 TIOB_4, PIO P_74, LCDC LCDDAT_2, GMAC GTXCK_]
+- A2 : PC11,  of Type IO, alternates : [ISC ISC_D_2, LCDC LCDDAT_3, MCAN0 CANRX_0, GMAC GTXEN_, PIO P_75, HSMC A0_, TC1 TCLK_4]
+- A1 : PC12,  of Type IO, alternates : [ISC ISC_D_3, LCDC LCDDAT_4, PIO P_76, GMAC GRXDV_, HSMC A_1, UART3 URXD_3, SSC0 TK_0]
+- B1 : PC13,  of Type IO, alternates : [LCDC LCDDAT_5, GMAC GRXER_, SSC0 TF_0, PIO P_77, UART3 UTXD_3, ISC ISC_D_4, HSMC A_2]
+- G5 : PC14,  of Type IO, alternates : [LCDC LCDDAT_6, SSC0 TD_0, PIO P_78, ISC ISC_D_5, HSMC A_3, GMAC GRX_0]
+- G2 : PC15,  of Type IO, alternates : [SSC0 RD_0, ISC ISC_D_6, LCDC LCDDAT_7, PIO P_79, HSMC A_4, GMAC GRX_1]
+- G6 : PC16,  of Type IO, alternates : [ISC ISC_D_7, HSMC A_5, GMAC GTX_0, SSC0 RK_0, LCDC LCDDAT_10, PIO P_80]
+- C1 : PC17,  of Type IO, alternates : [HSMC A_6, GMAC GTX_1, ISC ISC_D_8, LCDC LCDDAT_11, SSC0 RF_0, PIO P_81]
+- G9 : PC18,  of Type IO, alternates : [HSMC A_7, FLEXCOM3 FLEXCOM3_IO_2, GMAC GMDC_, ISC ISC_D_9, LCDC LCDDAT_12, PIO P_82]
+- D1 : PC19,  of Type IO, alternates : [GMAC GMDIO_, HSMC A_8, FLEXCOM3 FLEXCOM3_IO_1, ISC ISC_D_10, PIO P_83, LCDC LCDDAT_13]
+- H4 : PC20,  of Type IO, alternates : [HSMC A_9, FLEXCOM3 FLEXCOM3_IO_0, ISC ISC_D_11, LCDC LCDDAT_14, PIO P_84, GMAC GRXCK_]
+- E1 : PC21,  of Type IO, alternates : [ISC ISC_PCK_, GMAC GTXER_, FLEXCOM3 FLEXCOM3_IO_3, LCDC LCDDAT_15, PIO P_85, HSMC A_10]
+- F1 : PC22,  of Type IO, alternates : [ISC ISC_VSYNC_, LCDC LCDDAT_18, HSMC A_11, FLEXCOM3 FLEXCOM3_IO_4, PIO P_86, GMAC GCRS_]
+- H9 : PC23,  of Type IO, alternates : [LCDC LCDDAT_19, PIO P_87, HSMC A_12, GMAC GCOL_, ISC ISC_HSYNC_]
+- G1 : PC24,  of Type IO, alternates : [GMAC GRX_2, ISC ISC_MCK_, PIO P_88, HSMC A_13, LCDC LCDDAT_20]
+- H8 : PC25,  of Type IO, alternates : [GMAC GRX_3, ISC ISC_FIELD_, PIO P_89, HSMC A_14, LCDC LCDDAT_21]
+- F7 : PC26,  of Type IO, alternates : [MCAN1 CANTX_1, HSMC A_15, GMAC GTX_2, LCDC LCDDAT_22, PIO P_90]
+- B10 : PC27,  of Type IO, alternates : [MCAN1 CANRX_1, PMC PCK_1, TWIHS0 TWD_0, HSMC A_16, GMAC GTX_3, LCDC LCDDAT_23, PIO P_91]
+- F6 : PC28,  of Type IO, alternates : [PMC PCK_2, TWIHS0 TWCK_0, HSMC A_17, LCDC LCDPWM_, FLEXCOM4 FLEXCOM4_IO_0, PIO P_92]
+- B9 : PC29,  of Type IO, alternates : [HSMC A_18, LCDC LCDDISP_, FLEXCOM4 FLEXCOM4_IO_1, PIO P_93]
+- E6 : PC30,  of Type IO, alternates : [HSMC A_19, PIO P_94, FLEXCOM4 FLEXCOM4_IO_2, LCDC LCDVSYNC_]
+- A11 : PC31,  of Type IO, alternates : [LCDC LCDHSYNC_, FLEXCOM4 FLEXCOM4_IO_3, PIO P_95, UART3 URXD_3, HSMC A_20]
+- E7 : PD0,  of Type IO, alternates : [LCDC LCDPCK_, UART3 UTXD_3, HSMC A_23, GMAC GTSUCOMP_, PIO P_96, FLEXCOM4 FLEXCOM4_IO_4]
+- C9 : PD1,  of Type IO, alternates : [LCDC LCDDEN_, HSMC A_24, PIO P_97, GMAC GRXCK_]
+- D8 : PD2,  of Type IO, alternates : [GMAC GTXER_, ISC ISC_MCK_, PIO P_98, HSMC A_25, UART1 URXD_1]
+- J1 : PD3,  of Type IO, alternates : [SAIC FIQ_, PIO P_99, ISC ISC_D_11, UART1 UTXD_1, HSMC NWAIT_, PTC PTC_X_0, GMAC GCRS_]
+- H7 : PD4,  of Type IO, alternates : [ISC ISC_D_10, HSMC NCS_0, GMAC GCOL_, TWIHS1 TWD_1, UART2 URXD_2, PIO P_100, PTC PTC_X_1]
+- H1 : PD5,  of Type IO, alternates : [TWIHS1 TWCK_1, GMAC GRX_2, UART2 UTXD_2, HSMC NCS_1, PIO P_101, ISC ISC_D_9, PTC PTC_X_2]
+- J2 : PD6,  of Type IO, alternates : [PMC PCK_1, GMAC GRX_3, ICE TCK_, PIO P_102, ISC ISC_D_8, HSMC NCS_2, PTC PTC_X_3]
+- H6 : PD7,  of Type IO, alternates : [ISC ISC_D_0, ICE TDI_, PIO P_103, PTC PTC_X_4, GMAC GTX_2, HSMC NWR1_]
+- K3 : PD8,  of Type IO, alternates : [HSMC NANDRDY_, ISC ISC_D_1, PTC PTC_X_5, ICE TDO_, GMAC GTX_3, PIO P_104]
+- J4 : PD9,  of Type IO, alternates : [ISC ISC_D_2, ICE TMS_, PTC PTC_X_6, PIO P_105, GMAC GTXCK_]
+- J3 : PD10,  of Type IO, alternates : [ISC ISC_D_3, ICE NTRST_, GMAC GTXEN_, PTC PTC_X_7, PIO P_106]
+- K2 : PD11,  of Type IO, alternates : [PMC PCK_2, ISC ISC_MCK_, ISC ISC_D_4, GMAC GRXDV_, TC0 TIOA_1, PIO P_107, PTC PTC_Y_0]
+- K9 : PD12,  of Type IO, alternates : [GMAC GRXER_, PIO P_108, ISC ISC_D_4, FLEXCOM4 FLEXCOM4_IO_0, ISC ISC_D_5, TC0 TIOB_1, PTC PTC_Y_1]
+- N1 : PD13,  of Type IO, alternates : [PIO P_109, TC0 TCLK_1, ISC ISC_D_6, FLEXCOM4 FLEXCOM4_IO_1, ISC ISC_D_5, GMAC GRX_0, PTC PTC_Y_2]
+- K5 : PD14,  of Type IO, alternates : [ISC ISC_D_6, PIO P_110, ISC ISC_D_7, ICE TCK_, FLEXCOM4 FLEXCOM4_IO_2, PTC PTC_Y_3, GMAC GRX_1]
+- K8 : PD15,  of Type IO, alternates : [ISC ISC_PCK_, ICE TDI_, ISC ISC_D_7, FLEXCOM4 FLEXCOM4_IO_3, GMAC GTX_0, PTC PTC_Y_4, PIO P_111]
+- L1 : PD16,  of Type IO, alternates : [ISC ISC_VSYNC_, GMAC GTX_1, ICE TDO_, ISC ISC_D_8, PIO P_112, FLEXCOM4 FLEXCOM4_IO_4, PTC PTC_Y_5]
+- K1 : PD17,  of Type IO, alternates : [ICE TMS_, PIO P_113, PTC PTC_Y_6, GMAC GMDC_, ISC ISC_D_9, ISC ISC_HSYNC_]
+- J7 : PD18,  of Type IO, alternates : [GMAC GMDIO_, ICE NTRST_, ISC ISC_FIELD_, PTC PTC_Y_7, ISC ISC_D_10, PIO P_114]
+- L8 : PD19,  of Type IO, alternates : [I2SC0 I2SC0_CK_, ISC ISC_D_11, TWIHS1 TWD_1, UART2 URXD_2, ADC AD_0, PIO P_115, PMC PCK_0]
+- L2 : PD20,  of Type IO, alternates : [ISC ISC_PCK_, TWIHS1 TWCK_1, UART2 UTXD_2, TC0 TIOA_2, PIO P_116, ADC AD_1, I2SC0 I2SC0_MCK_]
+- P1 : PD21,  of Type IO, alternates : [ISC ISC_VSYNC_, TWIHS0 TWD_0, I2SC0 I2SC0_WS_, FLEXCOM4 FLEXCOM4_IO_0, TC0 TIOB_2, ADC AD_2, PIO P_117]
+- L6 : PD22,  of Type IO, alternates : [TWIHS0 TWCK_0, FLEXCOM4 FLEXCOM4_IO_1, I2SC0 I2SC0_DI_0, PIO P_118, TC0 TCLK_2, ADC AD_3, ISC ISC_HSYNC_]
+- T1 : PD23,  of Type IO, alternates : [ADC AD_4, PIO P_119, ISC ISC_FIELD_, FLEXCOM4 FLEXCOM4_IO_2, UART2 URXD_2, I2SC0 I2SC0_DO_0]
+- L4 : PD24,  of Type IO, alternates : [ADC AD_5, UART2 UTXD_2, PIO P_120, FLEXCOM4 FLEXCOM4_IO_3]
+- L5 : PD25,  of Type IO, alternates : [ADC AD_6, PIO P_121, SPI1 SPI1_SPCK_, FLEXCOM4 FLEXCOM4_IO_4]
+- R1 : PD26,  of Type IO, alternates : [ADC AD_7, FLEXCOM2 FLEXCOM2_IO_0, SPI1 SPI1_MOSI_, PIO P_122]
+- L7 : PD27,  of Type IO, alternates : [SPI1 SPI1_MISO_, ADC AD_8, FLEXCOM2 FLEXCOM2_IO_1, ICE TCK_, PIO P_123]
+- L3 : PD28,  of Type IO, alternates : [ICE TDI_, ADC AD_9, FLEXCOM2 FLEXCOM2_IO_2, PIO P_124, SPI1 SPI1_NPCS_0]
+- M2 : PD29,  of Type IO, alternates : [TWIHS0 TWD_0, PIO P_125, SPI1 SPI1_NPCS_1, FLEXCOM2 FLEXCOM2_IO_3, ICE TDO_, TC1 TIOA_3, ADC AD_10]
+- M9 : PD30,  of Type IO, alternates : [TWIHS0 TWCK_0, ICE TMS_, TC1 TIOB_3, FLEXCOM2 FLEXCOM2_IO_4, ADC AD_11, PIO P_126, SPI1 SPI1_NPCS_2]
+- M8 : PD31,  of Type IO, alternates : [AIC IRQ_, ADC ADTRG_, ICE NTRST_, PIO P_127, TC1 TCLK_3, PMC PCK_0]
+- L9 : ADVREF,  of Type PS
+- K4 : VDDANA,  of Type PP
+- J5 : VDDANA,  of Type PP
+- J6 : GNDANA,  of Type PS
+- M1 : GNDANA,  of Type PS
+- J10 : DDR_VREF,  of Type PS
+- F11 : DDR_VREF,  of Type PS
+- L10 : VDDIODDR,  of Type PP
+- L14 : VDDIODDR,  of Type PP
+- J8 : VDDIODDR,  of Type PP
+- H10 : VDDIODDR,  of Type PP
+- G12 : VDDIODDR,  of Type PP
+- E11 : VDDIODDR,  of Type PP
+- E8 : VDDIODDR,  of Type PP
+- K10 : GNDIODDR,  of Type PS
+- M14 : GNDIODDR,  of Type PS
+- J9 : GNDIODDR,  of Type PS
+- G10 : GNDIODDR,  of Type PS
+- H12 : GNDIODDR,  of Type PS
+- E10 : GNDIODDR,  of Type PS
+- F8 : GNDIODDR,  of Type PS
+- H2 : VDDCORE,  of Type PP
+- U3 : VDDCORE,  of Type PP
+- P7 : VDDCORE,  of Type PP
+- L12 : VDDCORE,  of Type PP
+- E9 : VDDCORE,  of Type PP
+- D7 : VDDCORE,  of Type PP
+- E12 : GNDCORE,  of Type PS
+- F12 : GNDCORE,  of Type PS
+- J11 : GNDCORE,  of Type PS
+- K11 : GNDCORE,  of Type PS
+- K6 : GNDCORE,  of Type PS
+- K7 : GNDCORE,  of Type PS
+- D4 : VDDIOP0,  of Type PP
+- F3 : VDDIOP1,  of Type PP
+- E3 : GNDIOP0,  of Type PS
+- F2 : GNDIOP0,  of Type PS
+- N12 : VDDIOP1,  of Type PP
+- P12 : VDDIOP1,  of Type PP
+- M12 : GNDIOP1,  of Type PS
+- P11 : GNDIOP1,  of Type PS
+- D9 : VDDIOP2,  of Type PP
+- D6 : GNDIOP2,  of Type PS
+- N8 : VDDSDMMC,  of Type PP
+- R8 : GNDSDMMC,  of Type PS
+- H3 : VDDISC,  of Type PP
+- H5 : GNDISC,  of Type PS
+- N13 : VDDFUSE,  of Type PP
+- R5 : VDDPLLA,  of Type PP
+- T5 : GNDPLLA,  of Type PS
+- M4 : VDDAUDIOPLL,  of Type PP
+- T3 : GNDDPLL,  of Type PS
+- T4 : GNDAUDIOPLL,  of Type PS
+- T8 : CLK_AUDIO,  of Type IO
+- U9 : XIN,  of Type PS
+- U8 : XOUT,  of Type PS
+- N6 : VDDOSC,  of Type PP
+- P5 : GNDOSC,  of Type PS
+- P6 : VDDUTMII,  of Type PP
+- R7 : VDDHSIC,  of Type PP
+- M6 : GNDUTMII,  of Type PS
+- U10 : HHSDPA,  of Type IO
+- T10 : HHSDMA,  of Type IO
+- U11 : HHSDPB,  of Type IO
+- T11 : HHSDMB,  of Type IO
+- T12 : HHSDPDATC,  of Type IO
+- U12 : HHSDMSTRC,  of Type IO
+- M7 : VDDUTMIC,  of Type PP
+- R6 : GNDUTMIC,  of Type PS
+- T6 : VBG,  of Type IO
+- R4 : TST,  of Type IO
+- T7 : NRST,  of Type IP
+- R3 : JTAGSEL,  of Type OP
+- R2 : WKUP,  of Type IP
+- N2 : RXD,  of Type IP
+- T2 : SHDN,  of Type IO
+- P3 : PIOBU0,  of Type IO
+- M3 : PIOBU1,  of Type IO
+- P2 : PIOBU2,  of Type IO
+- P4 : PIOBU3,  of Type IO
+- N4 : PIOBU4,  of Type IO
+- M5 : PIOBU5,  of Type IO
+- N5 : PIOBU6,  of Type IO
+- N3 : PIOBU7,  of Type IO
+- U5 : VDDBU,  of Type PP
+- U4 : GNDBU,  of Type PS
+- U2 : XIN32,  of Type PS
+- U1 : XOUT32,  of Type PS
+- U6 : COMPP,  of Type IO
+- U7 : COMPN,  of Type IO
+- D17 : ODT,  of Type IO
+- A16 : DDRM_VDD,  of Type PP
+- B16 : DDRM_VDD,  of Type PP
+- C16 : DDRM_VDD,  of Type PP
+- D16 : DDRM_VDD,  of Type PP
+- E15 : DDRM_VDD,  of Type PP
+- G17 : DDRM_VDD,  of Type PP
+- J17 : DDRM_VDD,  of Type PP
+- L16 : DDRM_VDD,  of Type PP
+- E16 : DDRM_VDDL,  of Type PP
+- F15 : DDRM_VDDQ,  of Type PP
+- G15 : DDRM_VDDQ,  of Type PP
+- H15 : DDRM_VDDQ,  of Type PP
+- J15 : DDRM_VDDQ,  of Type PP
+- K15 : DDRM_VDDQ,  of Type PP
+- L15 : DDRM_VDDQ,  of Type PP
+- A17 : DDRM_VSS,  of Type PS
+- B17 : DDRM_VSS,  of Type PS
+- C17 : DDRM_VSS,  of Type PS
+- D15 : DDRM_VSS,  of Type PS
+- E14 : DDRM_VSS,  of Type PS
+- F17 : DDRM_VSS,  of Type PS
+- H17 : DDRM_VSS,  of Type PS
+- L17 : DDRM_VSS,  of Type PS
+- E17 : DDRM_VSSDL,  of Type PS
+- F16 : DDRM_VSSQ,  of Type PS
+- G16 : DDRM_VSSQ,  of Type PS
+- H16 : DDRM_VSSQ,  of Type PS
+- J16 : DDRM_VSSQ,  of Type PS
+- K16 : DDRM_VSSQ,  of Type PS
+- K17 : DDRM_VSSQ,  of Type PS
+- A12 : NC,  of Type NC
+- A13 : NC,  of Type NC
+- A14 : NC,  of Type NC
+- A15 : NC,  of Type NC
+- B11 : NC,  of Type NC
+- B12 : NC,  of Type NC
+- B13 : NC,  of Type NC
+- B14 : NC,  of Type NC
+- B15 : NC,  of Type NC
+- C10 : NC,  of Type NC
+- C11 : NC,  of Type NC
+- C12 : NC,  of Type NC
+- C13 : NC,  of Type NC
+- C14 : NC,  of Type NC
+- C15 : NC,  of Type NC
+- D10 : NC,  of Type NC
+- D11 : NC,  of Type NC
+- D12 : NC,  of Type NC
+- D13 : NC,  of Type NC
+- D14 : NC,  of Type NC
+- E13 : NC,  of Type NC
+- F9 : NC,  of Type NC
+- F10 : NC,  of Type NC
+- F13 : NC,  of Type NC
+- F14 : NC,  of Type NC
+- G11 : NC,  of Type NC
+- G13 : NC,  of Type NC
+- G14 : NC,  of Type NC
+- H11 : NC,  of Type NC
+- H13 : NC,  of Type NC
+- H14 : NC,  of Type NC
+- J12 : NC,  of Type NC
+- J13 : NC,  of Type NC
+- J14 : NC,  of Type NC
+- K12 : NC,  of Type NC
+- K13 : NC,  of Type NC
+- K14 : NC,  of Type NC
+- L13 : NC,  of Type NC
+- R12 : NC,  of Type NC
+- T9 : NC,  of Type NC
 ## ATSAMA5D27CLD1G-CU
+
 ### Description : 
+
+- Series : SAMA5D2
+- Footprint : TFBGA361
+- MP : ATSAMA5D27CLD1G-CU
+- Architecture : CORTEX-A5
+- PINOUT : TFBGA361
+- Reference : U
+- Documentation : https://www.microchip.com/en-us/search?q=ATSAMA5D27CLD1G-CU
+- Value : ATSAMA5D27CLD1G-CU
+- Family : SAMA5
+- MF : Microchip
+- Name : ATSAMA5D27CLD1G
 
 ### Package : 
 
-- W11 : PA0
-- R9 : PA1
-- W12 : PA2
-- V11 : PA3
-- W14 : PA4
-- V10 : PA5
-- W15 : PA6
-- W16 : PA7
-- V12 : PA8
-- V16 : PA9
-- V14 : PA10
-- L18 : PA11
-- T16 : PA12
-- K18 : PA13
-- R19 : PA14
-- L17 : PA15
-- N19 : PA16
-- M16 : PA17
-- V19 : PA18
-- V15 : PA19
-- T10 : PA20
-- U19 : PA21
-- V17 : PA22
-- U18 : PA23
-- W17 : PA24
-- W18 : PA25
-- U14 : PA26
-- M18 : PA27
-- U13 : PA28
-- U16 : PA29
-- U12 : PA30
-- U17 : PA31
-- C7 : PB0
-- A9 : PB1
-- A10 : PB2
-- A11 : PB3
-- A12 : PB4
-- A7 : PB5
-- B7 : PB6
-- C5 : PB7
-- B8 : PB8
-- B6 : PB9
-- G6 : PB10
-- B5 : PB11
-- A6 : PB12
-- C4 : PB13
-- G4 : PB14
-- H4 : PB15
-- A4 : PB16
-- B3 : PB17
-- D3 : PB18
-- F4 : PB19
-- F2 : PB20
-- F3 : PB21
-- E4 : PB22
-- H2 : PB23
-- A3 : PB24
-- H1 : PB25
-- G2 : PB26
-- H5 : PB27
-- J2 : PB28
-- J3 : PB29
-- A2 : PB30
-- J4 : PB31
-- T14 : PC0
-- R16 : PC1
-- T15 : PC2
-- T13 : PC3
-- P16 : PC4
-- L19 : PC5
-- R15 : PC6
-- N15 : PC7
-- P11 : PC8
-- B2 : PC9
-- K5 : PC10
-- C2 : PC11
-- D2 : PC12
-- K2 : PC13
-- K6 : PC14
-- B1 : PC15
-- K9 : PC16
-- C1 : PC17
-- L9 : PC18
-- D1 : PC19
-- L8 : PC20
-- E3 : PC21
-- E2 : PC22
-- L7 : PC23
-- E1 : PC24
-- L4 : PC25
-- D6 : PC26
-- E7 : PC27
-- J5 : PC28
-- C6 : PC29
-- D7 : PC30
-- C8 : PC31
-- J7 : PD0
-- D8 : PD1
-- J6 : PD2
-- M3 : PD3
-- L6 : PD4
-- L2 : PD5
-- J1 : PD6
-- L5 : PD7
-- K1 : PD8
-- L3 : PD9
-- L1 : PD10
-- N3 : PD11
-- M7 : PD12
-- N2 : PD13
-- M6 : PD14
-- M5 : PD15
-- M1 : PD16
-- M2 : PD17
-- M4 : PD18
-- M8 : PD19
-- N1 : PD20
-- P3 : PD21
-- N6 : PD22
-- P1 : PD23
-- N8 : PD24
-- P8 : PD25
-- P2 : PD26
-- N5 : PD27
-- N4 : PD28
-- R2 : PD29
-- N10 : PD30
-- P7 : PD31
-- M9 : ADVREF
-- G1 : VDDANA
-- H6 : VDDANA
-- F1 : GNDANA
-- G5 : GNDANA
-- M12 : DDR_VREF
-- J10 : DDR_VREF
-- C19 : ZQ
-- E11 : VDDIODDR
-- E8 : VDDIODDR
-- H10 : VDDIODDR
-- J13 : VDDIODDR
-- J8 : VDDIODDR
-- L10 : VDDIODDR
-- P12 : VDDIODDR
-- E10 : GNDIODDR
-- F8 : GNDIODDR
-- G10 : GNDIODDR
-- J9 : GNDIODDR
-- L11 : GNDIODDR
-- M13 : GNDIODDR
-- N12 : GNDIODDR
-- C3 : VDDCORE
-- C9 : VDDCORE
-- K3 : VDDCORE
-- U9 : VDDCORE
-- V5 : VDDCORE
-- W6 : VDDCORE
-- K8 : VDDCORE
-- A1 : GNDCORE
-- D9 : GNDCORE
-- J11 : GNDCORE
-- K4 : GNDCORE
-- K7 : GNDCORE
-- V9 : GNDCORE
-- W1 : GNDCORE
-- B4 : VDDIOP0
-- D5 : VDDIOP1
-- A5 : GNDIOP0
-- D4 : GNDIOP0
-- V13 : VDDIOP1
-- V18 : VDDIOP1
-- P13 : GNDIOP1
-- R13 : GNDIOP2
-- W13 : GNDIOP3
-- W19 : GNDIOP4
-- A8 : VDDIOP2
-- B9 : GNDIOP2
-- T7 : VDDSDMMC
-- T8 : GNDSDMMC
-- G3 : VDDISC
-- H3 : GNDISC
-- U15 : VDDFUSE
-- P9 : VDDPLLA
-- P10 : GNDPLLA
-- R6 : VDDAUDIOPLL
-- N9 : GNDDPLL
-- P6 : GNDAUDIOPLL
-- W2 : CLK_AUDIO
-- W5 : XIN
-- W4 : XOUT
-- R10 : VDDOSC
-- T11 : GNDOSC
-- R8 : VDDUTMII
-- U7 : VDDHSIC
-- R7 : GNDUTMII
-- W7 : HHSDPA
-- V7 : HHSDMA
-- W8 : HHSDPB
-- V8 : HHSDMB
-- W9 : HHSDPDATC
-- W10 : HHSDMSTRC
-- T6 : VDDUTMIC
-- U6 : GNDUTMIC
-- V6 : VBG
-- T2 : TST
-- W3 : NRST
-- T3 : JTAGSEL
-- U2 : WKUP
-- R1 : RXD
-- P4 : SHDN
-- R4 : PIOBU0
-- R5 : PIOBU1
-- R3 : PIOBU2
-- T4 : PIOBU3
-- U3 : PIOBU4
-- T5 : PIOBU5
-- U5 : PIOBU6
-- P5 : PIOBU7
-- V3 : VDDBU
-- U4 : GNDBU
-- U1 : XIN32
-- T1 : XOUT32
-- V1 : COMPP
-- V2 : COMPN
-- A14 : DDRM_VSS
-- A19 : DDRM_VSS
-- B14 : DDRM_VSS
-- B18 : DDRM_VSS
-- C14 : DDRM_VSS
-- C18 : DDRM_VSS
-- D14 : DDRM_VSS
-- D18 : DDRM_VSS
-- E14 : DDRM_VSS
-- E18 : DDRM_VSS
-- F14 : DDRM_VSS
-- F18 : DDRM_VSS
-- G14 : DDRM_VSS
-- G18 : DDRM_VSS
-- H14 : DDRM_VSS
-- H18 : DDRM_VSS
-- N14 : DDRM_VSS
-- N17 : DDRM_VSS
-- N18 : DDRM_VSS
-- P14 : DDRM_VSS
-- P18 : DDRM_VSS
-- R14 : DDRM_VSS
-- R18 : DDRM_VSS
-- T18 : DDRM_VSS
-- B15 : DDRM_VDD12
-- B17 : DDRM_VDD13
-- B19 : DDRM_VDD14
-- D15 : DDRM_VDD15
-- D17 : DDRM_VDD16
-- D19 : DDRM_VDD17
-- F15 : DDRM_VDD18
-- F17 : DDRM_VDD19
-- F19 : DDRM_VDD20
-- H15 : DDRM_VDD21
-- H17 : DDRM_VDD22
-- H19 : DDRM_VDD23
-- K15 : DDRM_VDD24
-- K17 : DDRM_VDD25
-- K19 : DDRM_VDD26
-- M15 : DDRM_VDD27
-- M17 : DDRM_VDD28
-- M19 : DDRM_VDD29
-- P15 : DDRM_VDD30
-- P17 : DDRM_VDD31
-- P19 : DDRM_VDD32
-- T17 : DDRM_VDD33
-- T19 : DDRM_VDD34
-- B11 : DDRM_VDD18
-- B13 : DDRM_VDD19
-- D11 : DDRM_VDD20
-- D13 : DDRM_VDD21
-- K13 : DDRM_VDD22
-- K16 : DDRM_VDD23
-- A13 : NC
-- A15 : NC
-- A16 : NC
-- A17 : NC
-- A18 : NC
-- B10 : NC
-- B12 : NC
-- B16 : NC
-- C10 : NC
-- C11 : NC
-- C12 : NC
-- C13 : NC
-- C15 : NC
-- C16 : NC
-- C17 : NC
-- D10 : NC
-- D12 : NC
-- D16 : NC
-- E12 : NC
-- E13 : NC
-- E15 : NC
-- E16 : NC
-- E17 : NC
-- E19 : NC
-- E5 : NC
-- E6 : NC
-- E9 : NC
-- F10 : NC
-- F11 : NC
-- F12 : NC
-- F13 : NC
-- F16 : NC
-- F5 : NC
-- F6 : NC
-- F7 : NC
-- F9 : NC
-- G11 : NC
-- G12 : NC
-- G13 : NC
-- G15 : NC
-- G16 : NC
-- G17 : NC
-- G19 : NC
-- G7 : NC
-- G8 : NC
-- G9 : NC
-- H11 : NC
-- H12 : NC
-- H13 : NC
-- H16 : NC
-- H7 : NC
-- H8 : NC
-- H9 : NC
-- J12 : NC
-- J14 : NC
-- J15 : NC
-- J16 : NC
-- J17 : NC
-- J18 : NC
-- J19 : NC
-- K10 : NC
-- K11 : NC
-- K12 : NC
-- K14 : NC
-- L12 : NC
-- L13 : NC
-- L14 : NC
-- L15 : NC
-- L16 : NC
-- M10 : NC
-- M11 : NC
-- M14 : NC
-- N11 : NC
-- N13 : NC
-- N16 : NC
-- N7 : NC
-- R11 : NC
-- R12 : NC
-- R17 : NC
-- T12 : NC
-- T9 : NC
-- U10 : NC
-- U11 : NC
-- U8 : NC
-- V4 : NC
+Pin count : 361
+- W11 : PA0,  of Type IO, alternates : [HSMC D_0, PIO P_0, SDMMC0 SDMMC0_CK_, QSPI0 QSPI0_SCK_]
+- R9 : PA1,  of Type IO, alternates : [SDMMC0 SDMMC0_CMD_, PIO P_1, QSPI0 QSPI0_CS_, HSMC D_1]
+- W12 : PA2,  of Type IO, alternates : [PIO P_2, HSMC D_2, SDMMC0 SDMMC0_DAT_0, QSPI0 QSPI0_IO_0]
+- V11 : PA3,  of Type IO, alternates : [PIO P_3, HSMC D_3, SDMMC0 SDMMC0_DAT_1, QSPI0 QSPI0_IO_1]
+- W14 : PA4,  of Type IO, alternates : [HSMC D_4, PIO P_4, SDMMC0 SDMMC0_DAT_2, QSPI0 QSPI0_IO_2]
+- V10 : PA5,  of Type IO, alternates : [PIO P_5, HSMC D_5, QSPI0 QSPI0_IO_3, SDMMC0 SDMMC0_DAT_3]
+- W15 : PA6,  of Type IO, alternates : [PIO P_6, HSMC D_6, FLEXCOM2 FLEXCOM2_IO_0, TC1 TIOA_5, QSPI1 QSPI1_SCK_, SDMMC0 SDMMC0_DAT_4]
+- W16 : PA7,  of Type IO, alternates : [PIO P_7, QSPI1 QSPI1_IO_0, HSMC D_7, FLEXCOM2 FLEXCOM2_IO_1, SDMMC0 SDMMC0_DAT_5, TC1 TIOB_5]
+- V12 : PA8,  of Type IO, alternates : [PIO P_8, QSPI1 QSPI1_IO_1, FLEXCOM2 FLEXCOM2_IO_2, HSMC NANDNWE_, TC1 TCLK_5, SDMMC0 SDMMC0_DAT_6]
+- V16 : PA9,  of Type IO, alternates : [SDMMC0 SDMMC0_DAT_7, QSPI1 QSPI1_IO_2, FLEXCOM2 FLEXCOM2_IO_3, TC1 TIOA_4, HSMC NCS_3, PIO P_9]
+- V14 : PA10,  of Type IO, alternates : [PIO P_10, QSPI1 QSPI1_IO_3, SDMMC0 SDMMC0_RSTN_, HSMC A21_, TC1 TIOB_4, FLEXCOM2 FLEXCOM2_IO_4]
+- L18 : PA11,  of Type IO, alternates : [QSPI1 QSPI1_CS_, SDMMC0 SDMMC0_1V8SEL_, PIO P_11, HSMC A22_, TC1 TCLK_4]
+- T16 : PA12,  of Type IO, alternates : [AIC IRQ_, SDMMC0 SDMMC0_WP_, PIO P_12, HSMC NANDOE_]
+- K18 : PA13,  of Type IO, alternates : [HSMC D_8, FLEXCOM3 FLEXCOM3_IO_1, PIO P_13, SDMMC0 SDMMC0_CD_]
+- R19 : PA14,  of Type IO, alternates : [PIO P_14, SPI0 SPI0_SPCK_, HSMC D_9, SSC1 TK_1, I2SC1 I2SC1_MCK_, FLEXCOM3 FLEXCOM3_IO_2, QSPI0 QSPI0_SCK_]
+- L17 : PA15,  of Type IO, alternates : [PIO P_15, HSMC D_10, QSPI0 QSPI0_CS_, FLEXCOM3 FLEXCOM3_IO_0, SSC1 TF_1, SPI0 SPI0_MOSI_, I2SC1 I2SC1_CK_]
+- N19 : PA16,  of Type IO, alternates : [PIO P_16, HSMC D_11, I2SC1 I2SC1_WS_, FLEXCOM3 FLEXCOM3_IO_3, SPI0 SPI0_MISO_, SSC1 TD_1, QSPI0 QSPI0_IO_0]
+- M16 : PA17,  of Type IO, alternates : [I2SC1 I2SC1_DI_0, PIO P_17, HSMC D_12, SPI0 SPI0_NPCS_0, FLEXCOM3 FLEXCOM3_IO_4, QSPI0 QSPI0_IO_1, SSC1 RD_1]
+- V19 : PA18,  of Type IO, alternates : [HSMC D_13, SSC1 RK_1, SPI0 SPI0_NPCS_1, I2SC1 I2SC1_DO_0, PIO P_18, QSPI0 QSPI0_IO_2, SDMMC1 SDMMC1_DAT_0]
+- V15 : PA19,  of Type IO, alternates : [SSC1 RF_1, SPI0 SPI0_NPCS_2, HSMC D_14, TC0 TIOA_0, QSPI0 QSPI0_IO_3, PIO P_19, SDMMC1 SDMMC1_DAT_1]
+- T10 : PA20,  of Type IO, alternates : [SPI0 SPI0_NPCS_3, HSMC D_15, TC0 TIOB_0, PIO P_20, SDMMC1 SDMMC1_DAT_2]
+- U19 : PA21,  of Type IO, alternates : [AIC IRQ_, PMC PCK_2, HSMC NANDRDY_, TC0 TCLK_0, PIO P_21, SDMMC1 SDMMC1_DAT_3]
+- V17 : PA22,  of Type IO, alternates : [PIO P_22, ICE TCK_, FLEXCOM1 FLEXCOM1_IO_2, HSMC D_0, SPI1 SPI1_SPCK_, SDMMC1 SDMMC1_CK_, QSPI0 QSPI0_SCK_]
+- U18 : PA23,  of Type IO, alternates : [ICE TDI_, PIO P_23, QSPI0 QSPI0_CS_, SPI1 SPI1_MOSI_, FLEXCOM1 FLEXCOM1_IO_1, HSMC D_1]
+- W17 : PA24,  of Type IO, alternates : [SPI1 SPI1_MISO_, FLEXCOM1 FLEXCOM1_IO_0, HSMC D_2, PIO P_24, ICE TDO_, QSPI0 QSPI0_IO_0]
+- W18 : PA25,  of Type IO, alternates : [PIO P_25, ICE TMS_, HSMC D_3, FLEXCOM1 FLEXCOM1_IO_3, SPI1 SPI1_NPCS_0, QSPI0 QSPI0_IO_1]
+- U14 : PA26,  of Type IO, alternates : [PIO P_26, ICE NTRST_, HSMC D_4, SPI1 SPI1_NPCS_1, FLEXCOM1 FLEXCOM1_IO_4, QSPI0 QSPI0_IO_2]
+- M18 : PA27,  of Type IO, alternates : [PIO P_27, SPI0 SPI0_NPCS_2, SDMMC1 SDMMC1_RSTN_, HSMC D_5, TC0 TIOA_1, QSPI0 QSPI0_IO_3, SPI1 SPI1_NPCS_2]
+- U13 : PA28,  of Type IO, alternates : [HSMC D_6, PIO P_28, SPI0 SPI0_NPCS_3, CLASSD CLASSD_L_0, SDMMC1 SDMMC1_CMD_, TC0 TIOB_1, SPI1 SPI1_NPCS_3]
+- U16 : PA29,  of Type IO, alternates : [HSMC D_7, TC0 TCLK_1, SDMMC1 SDMMC1_WP_, CLASSD CLASSD_L_1, SPI0 SPI0_NPCS_1, PIO P_29]
+- U12 : PA30,  of Type IO, alternates : [SPI0 SPI0_NPCS_0, PWM PWMH_0, CLASSD CLASSD_L_2, PIO P_30, HSMC NANDNWE_, SDMMC1 SDMMC1_CD_]
+- U17 : PA31,  of Type IO, alternates : [PWM PWML_0, HSMC NCS_3, CLASSD CLASSD_L_3, PIO P_31, SPI0 SPI0_MISO_]
+- C7 : PB0,  of Type IO, alternates : [PIO P_32, PWM PWMH_1, HSMC A21_, SPI0 SPI0_MOSI_]
+- A9 : PB1,  of Type IO, alternates : [SPI0 SPI0_SPCK_, PIO P_33, PWM PWML_1, HSMC A22_, CLASSD CLASSD_R_0]
+- A10 : PB2,  of Type IO, alternates : [PIO P_34, PWM PWMFI_0, CLASSD CLASSD_R_1, HSMC NANDOE_]
+- A11 : PB3,  of Type IO, alternates : [HSMC D_8, AIC IRQ_, PWM PWMEXTRG_1, PIO P_35, CLASSD CLASSD_R_2, UART4 URXD_4]
+- A12 : PB4,  of Type IO, alternates : [PIO P_36, HSMC D_9, SAIC FIQ_, UART4 UTXD_4, CLASSD CLASSD_R_3]
+- A7 : PB5,  of Type IO, alternates : [PIO P_37, HSMC D_10, PWM PWMH_2, QSPI1 QSPI1_SCK_, GMAC GTSUCOMP_, TC0 TCLK_2]
+- B7 : PB6,  of Type IO, alternates : [PIO P_38, HSMC D_11, QSPI1 QSPI1_CS_, GMAC GTXER_, PWM PWML_2, TC0 TIOA_2]
+- C5 : PB7,  of Type IO, alternates : [PIO P_39, QSPI1 QSPI1_IO_0, HSMC D_12, PWM PWMH_3, TC0 TIOB_2, GMAC GRXCK_]
+- B8 : PB8,  of Type IO, alternates : [QSPI1 QSPI1_IO_1, HSMC D_13, PIO P_40, PWM PWML_3, GMAC GCRS_, TC1 TCLK_3]
+- B6 : PB9,  of Type IO, alternates : [QSPI1 QSPI1_IO_2, HSMC D_14, GMAC GCOL_, PIO P_41, TC1 TIOA_3, PWM PWMFI_1]
+- G6 : PB10,  of Type IO, alternates : [GMAC GRX_2, PWM PWMEXTRG_2, QSPI1 QSPI1_IO_3, HSMC D_15, TC1 TIOB_3, PIO P_42]
+- B5 : PB11,  of Type IO, alternates : [GMAC GRX_3, PIO P_43, PDMIC PDMIC_DAT_, UART3 URXD_3, LCDC LCDDAT_0, HSMC A0_]
+- A6 : PB12,  of Type IO, alternates : [PDMIC PDMIC_CLK_, PIO P_44, UART3 UTXD_3, GMAC GTX_2, HSMC A_1, LCDC LCDDAT_1]
+- C4 : PB13,  of Type IO, alternates : [PMC PCK_1, PIO P_45, GMAC GTX_3, HSMC A_2, LCDC LCDDAT_2]
+- G4 : PB14,  of Type IO, alternates : [SSC1 TK_1, I2SC1 I2SC1_MCK_, LCDC LCDDAT_3, PIO P_46, HSMC A_3, QSPI1 QSPI1_SCK_, GMAC GTXCK_]
+- H4 : PB15,  of Type IO, alternates : [PIO P_47, LCDC LCDDAT_4, QSPI1 QSPI1_CS_, GMAC GTXEN_, HSMC A_4, SSC1 TF_1, I2SC1 I2SC1_CK_]
+- A4 : PB16,  of Type IO, alternates : [LCDC LCDDAT_5, PIO P_48, I2SC1 I2SC1_WS_, QSPI1 QSPI1_IO_0, HSMC A_5, GMAC GRXDV_, SSC1 TD_1]
+- B3 : PB17,  of Type IO, alternates : [LCDC LCDDAT_6, GMAC GRXER_, I2SC1 I2SC1_DI_0, PIO P_49, QSPI1 QSPI1_IO_1, HSMC A_6, SSC1 RD_1]
+- D3 : PB18,  of Type IO, alternates : [HSMC A_7, SSC1 RK_1, QSPI1 QSPI1_IO_2, LCDC LCDDAT_7, PIO P_50, I2SC1 I2SC1_DO_0, GMAC GRX_0]
+- F4 : PB19,  of Type IO, alternates : [SSC1 RF_1, QSPI1 QSPI1_IO_3, HSMC A_8, LCDC LCDDAT_8, PIO P_51, TC1 TIOA_3, GMAC GRX_1]
+- F2 : PB20,  of Type IO, alternates : [PMC PCK_1, HSMC A_9, LCDC LCDDAT_9, GMAC GTX_0, TC1 TIOB_3, PIO P_52, SSC0 TK_0]
+- F3 : PB21,  of Type IO, alternates : [SSC0 TF_0, FLEXCOM3 FLEXCOM3_IO_2, GMAC GTX_1, PIO P_53, HSMC A_10, LCDC LCDDAT_10, TC1 TCLK_3]
+- E4 : PB22,  of Type IO, alternates : [SSC0 TD_0, PIO P_54, FLEXCOM3 FLEXCOM3_IO_1, HSMC A_11, GMAC GMDC_, TC0 TIOA_2, LCDC LCDDAT_11]
+- H2 : PB23,  of Type IO, alternates : [SSC0 RD_0, GMAC GMDIO_, PIO P_55, FLEXCOM3 FLEXCOM3_IO_0, TC0 TIOB_2, HSMC A_12, LCDC LCDDAT_12]
+- A3 : PB24,  of Type IO, alternates : [PIO P_56, FLEXCOM3 FLEXCOM3_IO_3, ISC ISC_D_10, HSMC A_13, SSC0 RK_0, LCDC LCDDAT_13, TC0 TCLK_2]
+- H1 : PB25,  of Type IO, alternates : [ISC ISC_D_11, PIO P_57, HSMC A_14, LCDC LCDDAT_14, FLEXCOM3 FLEXCOM3_IO_4, SSC0 RF_0]
+- G2 : PB26,  of Type IO, alternates : [PIO P_58, ISC ISC_D_0, HSMC A_15, PDMIC PDMIC_DAT_, LCDC LCDDAT_15, UART0 URXD_0]
+- H5 : PB27,  of Type IO, alternates : [PIO P_59, ISC ISC_D_1, PDMIC PDMIC_CLK_, HSMC A_16, UART0 UTXD_0, LCDC LCDDAT_16]
+- J2 : PB28,  of Type IO, alternates : [ISC ISC_D_2, HSMC A_17, FLEXCOM0 FLEXCOM0_IO_0, LCDC LCDDAT_17, TC1 TIOA_5, PIO P_60]
+- J3 : PB29,  of Type IO, alternates : [ISC ISC_D_3, HSMC A_18, LCDC LCDDAT_18, FLEXCOM0 FLEXCOM0_IO_1, PIO P_61, TC1 TIOB_5]
+- A2 : PB30,  of Type IO, alternates : [HSMC A_19, LCDC LCDDAT_19, ISC ISC_D_4, FLEXCOM0 FLEXCOM0_IO_2, PIO P_62, TC1 TCLK_5]
+- J4 : PB31,  of Type IO, alternates : [TWIHS0 TWD_0, ISC ISC_D_5, FLEXCOM0 FLEXCOM0_IO_3, PIO P_63, HSMC A_20, LCDC LCDDAT_20]
+- T14 : PC0,  of Type IO, alternates : [TWIHS0 TWCK_0, ISC ISC_D_6, HSMC A_23, FLEXCOM0 FLEXCOM0_IO_4, PIO P_64, LCDC LCDDAT_21]
+- R16 : PC1,  of Type IO, alternates : [MCAN0 CANTX_0, I2SC0 I2SC0_CK_, PIO P_65, ISC ISC_D_7, HSMC A_24, SPI1 SPI1_SPCK_, LCDC LCDDAT_22]
+- T15 : PC2,  of Type IO, alternates : [MCAN0 CANRX_0, PIO P_66, SPI1 SPI1_MOSI_, HSMC A_25, ISC ISC_D_8, LCDC LCDDAT_23, I2SC0 I2SC0_MCK_]
+- T13 : PC3,  of Type IO, alternates : [SPI1 SPI1_MISO_, I2SC0 I2SC0_WS_, LCDC LCDPWM_, PIO P_67, TC0 TIOA_1, ISC ISC_D_9, HSMC NWAIT_]
+- P16 : PC4,  of Type IO, alternates : [ISC ISC_PCK_, LCDC LCDDISP_, I2SC0 I2SC0_DI_0, PIO P_68, SPI1 SPI1_NPCS_0, HSMC NWR1_, TC0 TIOB_1]
+- L19 : PC5,  of Type IO, alternates : [PIO P_69, ISC ISC_VSYNC_, TC0 TCLK_1, SPI1 SPI1_NPCS_1, HSMC NCS_0, I2SC0 I2SC0_DO_0, LCDC LCDVSYNC_]
+- R15 : PC6,  of Type IO, alternates : [LCDC LCDHSYNC_, TWIHS1 TWD_1, PIO P_70, ISC ISC_HSYNC_, SPI1 SPI1_NPCS_2]
+- N15 : PC7,  of Type IO, alternates : [LCDC LCDPCK_, TWIHS1 TWCK_1, ISC ISC_MCK_, UART1 URXD_1, HSMC NCS_2, SPI1 SPI1_NPCS_3, PIO P_71]
+- P11 : PC8,  of Type IO, alternates : [LCDC LCDDEN_, HSMC NANDRDY_, SAIC FIQ_, ISC ISC_FIELD_, UART1 UTXD_1, PIO P_72, PMC PCK_0]
+- B2 : PC9,  of Type IO, alternates : [SAIC FIQ_, ISC ISC_D_0, PIO P_73, TC1 TIOA_4, GMAC GTSUCOMP_]
+- K5 : PC10,  of Type IO, alternates : [MCAN0 CANTX_0, ISC ISC_D_1, TC1 TIOB_4, PIO P_74, LCDC LCDDAT_2, GMAC GTXCK_]
+- C2 : PC11,  of Type IO, alternates : [ISC ISC_D_2, LCDC LCDDAT_3, MCAN0 CANRX_0, GMAC GTXEN_, PIO P_75, HSMC A0_, TC1 TCLK_4]
+- D2 : PC12,  of Type IO, alternates : [ISC ISC_D_3, LCDC LCDDAT_4, PIO P_76, GMAC GRXDV_, HSMC A_1, UART3 URXD_3, SSC0 TK_0]
+- K2 : PC13,  of Type IO, alternates : [LCDC LCDDAT_5, GMAC GRXER_, SSC0 TF_0, PIO P_77, UART3 UTXD_3, ISC ISC_D_4, HSMC A_2]
+- K6 : PC14,  of Type IO, alternates : [LCDC LCDDAT_6, SSC0 TD_0, PIO P_78, ISC ISC_D_5, HSMC A_3, GMAC GRX_0]
+- B1 : PC15,  of Type IO, alternates : [SSC0 RD_0, ISC ISC_D_6, LCDC LCDDAT_7, PIO P_79, HSMC A_4, GMAC GRX_1]
+- K9 : PC16,  of Type IO, alternates : [ISC ISC_D_7, HSMC A_5, GMAC GTX_0, SSC0 RK_0, LCDC LCDDAT_10, PIO P_80]
+- C1 : PC17,  of Type IO, alternates : [HSMC A_6, GMAC GTX_1, ISC ISC_D_8, LCDC LCDDAT_11, SSC0 RF_0, PIO P_81]
+- L9 : PC18,  of Type IO, alternates : [HSMC A_7, FLEXCOM3 FLEXCOM3_IO_2, GMAC GMDC_, ISC ISC_D_9, LCDC LCDDAT_12, PIO P_82]
+- D1 : PC19,  of Type IO, alternates : [GMAC GMDIO_, HSMC A_8, FLEXCOM3 FLEXCOM3_IO_1, ISC ISC_D_10, PIO P_83, LCDC LCDDAT_13]
+- L8 : PC20,  of Type IO, alternates : [HSMC A_9, FLEXCOM3 FLEXCOM3_IO_0, ISC ISC_D_11, LCDC LCDDAT_14, PIO P_84, GMAC GRXCK_]
+- E3 : PC21,  of Type IO, alternates : [ISC ISC_PCK_, GMAC GTXER_, FLEXCOM3 FLEXCOM3_IO_3, LCDC LCDDAT_15, PIO P_85, HSMC A_10]
+- E2 : PC22,  of Type IO, alternates : [ISC ISC_VSYNC_, LCDC LCDDAT_18, HSMC A_11, FLEXCOM3 FLEXCOM3_IO_4, PIO P_86, GMAC GCRS_]
+- L7 : PC23,  of Type IO, alternates : [LCDC LCDDAT_19, PIO P_87, HSMC A_12, GMAC GCOL_, ISC ISC_HSYNC_]
+- E1 : PC24,  of Type IO, alternates : [GMAC GRX_2, ISC ISC_MCK_, PIO P_88, HSMC A_13, LCDC LCDDAT_20]
+- L4 : PC25,  of Type IO, alternates : [GMAC GRX_3, ISC ISC_FIELD_, PIO P_89, HSMC A_14, LCDC LCDDAT_21]
+- D6 : PC26,  of Type IO, alternates : [MCAN1 CANTX_1, HSMC A_15, GMAC GTX_2, LCDC LCDDAT_22, PIO P_90]
+- E7 : PC27,  of Type IO, alternates : [MCAN1 CANRX_1, PMC PCK_1, TWIHS0 TWD_0, HSMC A_16, GMAC GTX_3, LCDC LCDDAT_23, PIO P_91]
+- J5 : PC28,  of Type IO, alternates : [PMC PCK_2, TWIHS0 TWCK_0, HSMC A_17, LCDC LCDPWM_, FLEXCOM4 FLEXCOM4_IO_0, PIO P_92]
+- C6 : PC29,  of Type IO, alternates : [HSMC A_18, LCDC LCDDISP_, FLEXCOM4 FLEXCOM4_IO_1, PIO P_93]
+- D7 : PC30,  of Type IO, alternates : [HSMC A_19, PIO P_94, FLEXCOM4 FLEXCOM4_IO_2, LCDC LCDVSYNC_]
+- C8 : PC31,  of Type IO, alternates : [LCDC LCDHSYNC_, FLEXCOM4 FLEXCOM4_IO_3, PIO P_95, UART3 URXD_3, HSMC A_20]
+- J7 : PD0,  of Type IO, alternates : [LCDC LCDPCK_, UART3 UTXD_3, HSMC A_23, GMAC GTSUCOMP_, PIO P_96, FLEXCOM4 FLEXCOM4_IO_4]
+- D8 : PD1,  of Type IO, alternates : [LCDC LCDDEN_, HSMC A_24, PIO P_97, GMAC GRXCK_]
+- J6 : PD2,  of Type IO, alternates : [GMAC GTXER_, ISC ISC_MCK_, PIO P_98, HSMC A_25, UART1 URXD_1]
+- M3 : PD3,  of Type IO, alternates : [SAIC FIQ_, PIO P_99, ISC ISC_D_11, UART1 UTXD_1, HSMC NWAIT_, PTC PTC_X_0, GMAC GCRS_]
+- L6 : PD4,  of Type IO, alternates : [ISC ISC_D_10, HSMC NCS_0, GMAC GCOL_, TWIHS1 TWD_1, UART2 URXD_2, PIO P_100, PTC PTC_X_1]
+- L2 : PD5,  of Type IO, alternates : [TWIHS1 TWCK_1, GMAC GRX_2, UART2 UTXD_2, HSMC NCS_1, PIO P_101, ISC ISC_D_9, PTC PTC_X_2]
+- J1 : PD6,  of Type IO, alternates : [PMC PCK_1, GMAC GRX_3, ICE TCK_, PIO P_102, ISC ISC_D_8, HSMC NCS_2, PTC PTC_X_3]
+- L5 : PD7,  of Type IO, alternates : [ISC ISC_D_0, ICE TDI_, PIO P_103, PTC PTC_X_4, GMAC GTX_2, HSMC NWR1_]
+- K1 : PD8,  of Type IO, alternates : [HSMC NANDRDY_, ISC ISC_D_1, PTC PTC_X_5, ICE TDO_, GMAC GTX_3, PIO P_104]
+- L3 : PD9,  of Type IO, alternates : [ISC ISC_D_2, ICE TMS_, PTC PTC_X_6, PIO P_105, GMAC GTXCK_]
+- L1 : PD10,  of Type IO, alternates : [ISC ISC_D_3, ICE NTRST_, GMAC GTXEN_, PTC PTC_X_7, PIO P_106]
+- N3 : PD11,  of Type IO, alternates : [PMC PCK_2, ISC ISC_MCK_, ISC ISC_D_4, GMAC GRXDV_, TC0 TIOA_1, PIO P_107, PTC PTC_Y_0]
+- M7 : PD12,  of Type IO, alternates : [GMAC GRXER_, PIO P_108, ISC ISC_D_4, FLEXCOM4 FLEXCOM4_IO_0, ISC ISC_D_5, TC0 TIOB_1, PTC PTC_Y_1]
+- N2 : PD13,  of Type IO, alternates : [PIO P_109, TC0 TCLK_1, ISC ISC_D_6, FLEXCOM4 FLEXCOM4_IO_1, ISC ISC_D_5, GMAC GRX_0, PTC PTC_Y_2]
+- M6 : PD14,  of Type IO, alternates : [ISC ISC_D_6, PIO P_110, ISC ISC_D_7, ICE TCK_, FLEXCOM4 FLEXCOM4_IO_2, PTC PTC_Y_3, GMAC GRX_1]
+- M5 : PD15,  of Type IO, alternates : [ISC ISC_PCK_, ICE TDI_, ISC ISC_D_7, FLEXCOM4 FLEXCOM4_IO_3, GMAC GTX_0, PTC PTC_Y_4, PIO P_111]
+- M1 : PD16,  of Type IO, alternates : [ISC ISC_VSYNC_, GMAC GTX_1, ICE TDO_, ISC ISC_D_8, PIO P_112, FLEXCOM4 FLEXCOM4_IO_4, PTC PTC_Y_5]
+- M2 : PD17,  of Type IO, alternates : [ICE TMS_, PIO P_113, PTC PTC_Y_6, GMAC GMDC_, ISC ISC_D_9, ISC ISC_HSYNC_]
+- M4 : PD18,  of Type IO, alternates : [GMAC GMDIO_, ICE NTRST_, ISC ISC_FIELD_, PTC PTC_Y_7, ISC ISC_D_10, PIO P_114]
+- M8 : PD19,  of Type IO, alternates : [I2SC0 I2SC0_CK_, ISC ISC_D_11, TWIHS1 TWD_1, UART2 URXD_2, ADC AD_0, PIO P_115, PMC PCK_0]
+- N1 : PD20,  of Type IO, alternates : [ISC ISC_PCK_, TWIHS1 TWCK_1, UART2 UTXD_2, TC0 TIOA_2, PIO P_116, ADC AD_1, I2SC0 I2SC0_MCK_]
+- P3 : PD21,  of Type IO, alternates : [ISC ISC_VSYNC_, TWIHS0 TWD_0, I2SC0 I2SC0_WS_, FLEXCOM4 FLEXCOM4_IO_0, TC0 TIOB_2, ADC AD_2, PIO P_117]
+- N6 : PD22,  of Type IO, alternates : [TWIHS0 TWCK_0, FLEXCOM4 FLEXCOM4_IO_1, I2SC0 I2SC0_DI_0, PIO P_118, TC0 TCLK_2, ADC AD_3, ISC ISC_HSYNC_]
+- P1 : PD23,  of Type IO, alternates : [ADC AD_4, PIO P_119, ISC ISC_FIELD_, FLEXCOM4 FLEXCOM4_IO_2, UART2 URXD_2, I2SC0 I2SC0_DO_0]
+- N8 : PD24,  of Type IO, alternates : [ADC AD_5, UART2 UTXD_2, PIO P_120, FLEXCOM4 FLEXCOM4_IO_3]
+- P8 : PD25,  of Type IO, alternates : [ADC AD_6, PIO P_121, SPI1 SPI1_SPCK_, FLEXCOM4 FLEXCOM4_IO_4]
+- P2 : PD26,  of Type IO, alternates : [ADC AD_7, FLEXCOM2 FLEXCOM2_IO_0, SPI1 SPI1_MOSI_, PIO P_122]
+- N5 : PD27,  of Type IO, alternates : [SPI1 SPI1_MISO_, ADC AD_8, FLEXCOM2 FLEXCOM2_IO_1, ICE TCK_, PIO P_123]
+- N4 : PD28,  of Type IO, alternates : [ICE TDI_, ADC AD_9, FLEXCOM2 FLEXCOM2_IO_2, PIO P_124, SPI1 SPI1_NPCS_0]
+- R2 : PD29,  of Type IO, alternates : [TWIHS0 TWD_0, PIO P_125, SPI1 SPI1_NPCS_1, FLEXCOM2 FLEXCOM2_IO_3, ICE TDO_, TC1 TIOA_3, ADC AD_10]
+- N10 : PD30,  of Type IO, alternates : [TWIHS0 TWCK_0, ICE TMS_, TC1 TIOB_3, FLEXCOM2 FLEXCOM2_IO_4, ADC AD_11, PIO P_126, SPI1 SPI1_NPCS_2]
+- P7 : PD31,  of Type IO, alternates : [AIC IRQ_, ADC ADTRG_, ICE NTRST_, PIO P_127, TC1 TCLK_3, PMC PCK_0]
+- M9 : ADVREF,  of Type PS
+- G1 : VDDANA,  of Type PP
+- H6 : VDDANA,  of Type PP
+- F1 : GNDANA,  of Type PS
+- G5 : GNDANA,  of Type PS
+- M12 : DDR_VREF,  of Type PS
+- J10 : DDR_VREF,  of Type PS
+- C19 : ZQ,  of Type IO
+- E11 : VDDIODDR,  of Type PP
+- E8 : VDDIODDR,  of Type PP
+- H10 : VDDIODDR,  of Type PP
+- J13 : VDDIODDR,  of Type PP
+- J8 : VDDIODDR,  of Type PP
+- L10 : VDDIODDR,  of Type PP
+- P12 : VDDIODDR,  of Type PP
+- E10 : GNDIODDR,  of Type PS
+- F8 : GNDIODDR,  of Type PS
+- G10 : GNDIODDR,  of Type PS
+- J9 : GNDIODDR,  of Type PS
+- L11 : GNDIODDR,  of Type PS
+- M13 : GNDIODDR,  of Type PS
+- N12 : GNDIODDR,  of Type PS
+- C3 : VDDCORE,  of Type PP
+- C9 : VDDCORE,  of Type PP
+- K3 : VDDCORE,  of Type PP
+- U9 : VDDCORE,  of Type PP
+- V5 : VDDCORE,  of Type PP
+- W6 : VDDCORE,  of Type PP
+- K8 : VDDCORE,  of Type PP
+- A1 : GNDCORE,  of Type PS
+- D9 : GNDCORE,  of Type PS
+- J11 : GNDCORE,  of Type PS
+- K4 : GNDCORE,  of Type PS
+- K7 : GNDCORE,  of Type PS
+- V9 : GNDCORE,  of Type PS
+- W1 : GNDCORE,  of Type PS
+- B4 : VDDIOP0,  of Type PP
+- D5 : VDDIOP1,  of Type PP
+- A5 : GNDIOP0,  of Type PS
+- D4 : GNDIOP0,  of Type PS
+- V13 : VDDIOP1,  of Type PP
+- V18 : VDDIOP1,  of Type PP
+- P13 : GNDIOP1,  of Type PS
+- R13 : GNDIOP2,  of Type PS
+- W13 : GNDIOP3,  of Type PS
+- W19 : GNDIOP4,  of Type PS
+- A8 : VDDIOP2,  of Type PP
+- B9 : GNDIOP2,  of Type PS
+- T7 : VDDSDMMC,  of Type PP
+- T8 : GNDSDMMC,  of Type PS
+- G3 : VDDISC,  of Type PP
+- H3 : GNDISC,  of Type PS
+- U15 : VDDFUSE,  of Type PP
+- P9 : VDDPLLA,  of Type PP
+- P10 : GNDPLLA,  of Type PS
+- R6 : VDDAUDIOPLL,  of Type PP
+- N9 : GNDDPLL,  of Type PS
+- P6 : GNDAUDIOPLL,  of Type PS
+- W2 : CLK_AUDIO,  of Type IO
+- W5 : XIN,  of Type PS
+- W4 : XOUT,  of Type PS
+- R10 : VDDOSC,  of Type PP
+- T11 : GNDOSC,  of Type PS
+- R8 : VDDUTMII,  of Type PP
+- U7 : VDDHSIC,  of Type PP
+- R7 : GNDUTMII,  of Type PS
+- W7 : HHSDPA,  of Type IO
+- V7 : HHSDMA,  of Type IO
+- W8 : HHSDPB,  of Type IO
+- V8 : HHSDMB,  of Type IO
+- W9 : HHSDPDATC,  of Type IO
+- W10 : HHSDMSTRC,  of Type IO
+- T6 : VDDUTMIC,  of Type PP
+- U6 : GNDUTMIC,  of Type PS
+- V6 : VBG,  of Type IO
+- T2 : TST,  of Type IO
+- W3 : NRST,  of Type IP
+- T3 : JTAGSEL,  of Type OP
+- U2 : WKUP,  of Type IP
+- R1 : RXD,  of Type IP
+- P4 : SHDN,  of Type IO
+- R4 : PIOBU0,  of Type IO
+- R5 : PIOBU1,  of Type IO
+- R3 : PIOBU2,  of Type IO
+- T4 : PIOBU3,  of Type IO
+- U3 : PIOBU4,  of Type IO
+- T5 : PIOBU5,  of Type IO
+- U5 : PIOBU6,  of Type IO
+- P5 : PIOBU7,  of Type IO
+- V3 : VDDBU,  of Type PP
+- U4 : GNDBU,  of Type PS
+- U1 : XIN32,  of Type PS
+- T1 : XOUT32,  of Type PS
+- V1 : COMPP,  of Type IO
+- V2 : COMPN,  of Type IO
+- A14 : DDRM_VSS,  of Type PS
+- A19 : DDRM_VSS,  of Type PS
+- B14 : DDRM_VSS,  of Type PS
+- B18 : DDRM_VSS,  of Type PS
+- C14 : DDRM_VSS,  of Type PS
+- C18 : DDRM_VSS,  of Type PS
+- D14 : DDRM_VSS,  of Type PS
+- D18 : DDRM_VSS,  of Type PS
+- E14 : DDRM_VSS,  of Type PS
+- E18 : DDRM_VSS,  of Type PS
+- F14 : DDRM_VSS,  of Type PS
+- F18 : DDRM_VSS,  of Type PS
+- G14 : DDRM_VSS,  of Type PS
+- G18 : DDRM_VSS,  of Type PS
+- H14 : DDRM_VSS,  of Type PS
+- H18 : DDRM_VSS,  of Type PS
+- N14 : DDRM_VSS,  of Type PS
+- N17 : DDRM_VSS,  of Type PS
+- N18 : DDRM_VSS,  of Type PS
+- P14 : DDRM_VSS,  of Type PS
+- P18 : DDRM_VSS,  of Type PS
+- R14 : DDRM_VSS,  of Type PS
+- R18 : DDRM_VSS,  of Type PS
+- T18 : DDRM_VSS,  of Type PS
+- B15 : DDRM_VDD12,  of Type PP
+- B17 : DDRM_VDD13,  of Type PP
+- B19 : DDRM_VDD14,  of Type PP
+- D15 : DDRM_VDD15,  of Type PP
+- D17 : DDRM_VDD16,  of Type PP
+- D19 : DDRM_VDD17,  of Type PP
+- F15 : DDRM_VDD18,  of Type PP
+- F17 : DDRM_VDD19,  of Type PP
+- F19 : DDRM_VDD20,  of Type PP
+- H15 : DDRM_VDD21,  of Type PP
+- H17 : DDRM_VDD22,  of Type PP
+- H19 : DDRM_VDD23,  of Type PP
+- K15 : DDRM_VDD24,  of Type PP
+- K17 : DDRM_VDD25,  of Type PP
+- K19 : DDRM_VDD26,  of Type PP
+- M15 : DDRM_VDD27,  of Type PP
+- M17 : DDRM_VDD28,  of Type PP
+- M19 : DDRM_VDD29,  of Type PP
+- P15 : DDRM_VDD30,  of Type PP
+- P17 : DDRM_VDD31,  of Type PP
+- P19 : DDRM_VDD32,  of Type PP
+- T17 : DDRM_VDD33,  of Type PP
+- T19 : DDRM_VDD34,  of Type PP
+- B11 : DDRM_VDD18,  of Type PP
+- B13 : DDRM_VDD19,  of Type PP
+- D11 : DDRM_VDD20,  of Type PP
+- D13 : DDRM_VDD21,  of Type PP
+- K13 : DDRM_VDD22,  of Type PP
+- K16 : DDRM_VDD23,  of Type PP
+- A13 : NC,  of Type NC
+- A15 : NC,  of Type NC
+- A16 : NC,  of Type NC
+- A17 : NC,  of Type NC
+- A18 : NC,  of Type NC
+- B10 : NC,  of Type NC
+- B12 : NC,  of Type NC
+- B16 : NC,  of Type NC
+- C10 : NC,  of Type NC
+- C11 : NC,  of Type NC
+- C12 : NC,  of Type NC
+- C13 : NC,  of Type NC
+- C15 : NC,  of Type NC
+- C16 : NC,  of Type NC
+- C17 : NC,  of Type NC
+- D10 : NC,  of Type NC
+- D12 : NC,  of Type NC
+- D16 : NC,  of Type NC
+- E12 : NC,  of Type NC
+- E13 : NC,  of Type NC
+- E15 : NC,  of Type NC
+- E16 : NC,  of Type NC
+- E17 : NC,  of Type NC
+- E19 : NC,  of Type NC
+- E5 : NC,  of Type NC
+- E6 : NC,  of Type NC
+- E9 : NC,  of Type NC
+- F10 : NC,  of Type NC
+- F11 : NC,  of Type NC
+- F12 : NC,  of Type NC
+- F13 : NC,  of Type NC
+- F16 : NC,  of Type NC
+- F5 : NC,  of Type NC
+- F6 : NC,  of Type NC
+- F7 : NC,  of Type NC
+- F9 : NC,  of Type NC
+- G11 : NC,  of Type NC
+- G12 : NC,  of Type NC
+- G13 : NC,  of Type NC
+- G15 : NC,  of Type NC
+- G16 : NC,  of Type NC
+- G17 : NC,  of Type NC
+- G19 : NC,  of Type NC
+- G7 : NC,  of Type NC
+- G8 : NC,  of Type NC
+- G9 : NC,  of Type NC
+- H11 : NC,  of Type NC
+- H12 : NC,  of Type NC
+- H13 : NC,  of Type NC
+- H16 : NC,  of Type NC
+- H7 : NC,  of Type NC
+- H8 : NC,  of Type NC
+- H9 : NC,  of Type NC
+- J12 : NC,  of Type NC
+- J14 : NC,  of Type NC
+- J15 : NC,  of Type NC
+- J16 : NC,  of Type NC
+- J17 : NC,  of Type NC
+- J18 : NC,  of Type NC
+- J19 : NC,  of Type NC
+- K10 : NC,  of Type NC
+- K11 : NC,  of Type NC
+- K12 : NC,  of Type NC
+- K14 : NC,  of Type NC
+- L12 : NC,  of Type NC
+- L13 : NC,  of Type NC
+- L14 : NC,  of Type NC
+- L15 : NC,  of Type NC
+- L16 : NC,  of Type NC
+- M10 : NC,  of Type NC
+- M11 : NC,  of Type NC
+- M14 : NC,  of Type NC
+- N11 : NC,  of Type NC
+- N13 : NC,  of Type NC
+- N16 : NC,  of Type NC
+- N7 : NC,  of Type NC
+- R11 : NC,  of Type NC
+- R12 : NC,  of Type NC
+- R17 : NC,  of Type NC
+- T12 : NC,  of Type NC
+- T9 : NC,  of Type NC
+- U10 : NC,  of Type NC
+- U11 : NC,  of Type NC
+- U8 : NC,  of Type NC
+- V4 : NC,  of Type NC
 ## ATSAMA5D27CLD2G-CU
+
 ### Description : 
+
+- Series : SAMA5D2
+- Footprint : TFBGA361
+- MP : ATSAMA5D27CLD2G-CU
+- Architecture : CORTEX-A5
+- PINOUT : TFBGA361
+- Reference : U
+- Documentation : https://www.microchip.com/en-us/search?q=ATSAMA5D27CLD2G-CU
+- Value : ATSAMA5D27CLD2G-CU
+- Family : SAMA5
+- MF : Microchip
+- Name : ATSAMA5D27CLD2G
 
 ### Package : 
 
-- W11 : PA0
-- R9 : PA1
-- W12 : PA2
-- V11 : PA3
-- W14 : PA4
-- V10 : PA5
-- W15 : PA6
-- W16 : PA7
-- V12 : PA8
-- V16 : PA9
-- V14 : PA10
-- L18 : PA11
-- T16 : PA12
-- K18 : PA13
-- R19 : PA14
-- L17 : PA15
-- N19 : PA16
-- M16 : PA17
-- V19 : PA18
-- V15 : PA19
-- T10 : PA20
-- U19 : PA21
-- V17 : PA22
-- U18 : PA23
-- W17 : PA24
-- W18 : PA25
-- U14 : PA26
-- M18 : PA27
-- U13 : PA28
-- U16 : PA29
-- U12 : PA30
-- U17 : PA31
-- C7 : PB0
-- A9 : PB1
-- A10 : PB2
-- A11 : PB3
-- A12 : PB4
-- A7 : PB5
-- B7 : PB6
-- C5 : PB7
-- B8 : PB8
-- B6 : PB9
-- G6 : PB10
-- B5 : PB11
-- A6 : PB12
-- C4 : PB13
-- G4 : PB14
-- H4 : PB15
-- A4 : PB16
-- B3 : PB17
-- D3 : PB18
-- F4 : PB19
-- F2 : PB20
-- F3 : PB21
-- E4 : PB22
-- H2 : PB23
-- A3 : PB24
-- H1 : PB25
-- G2 : PB26
-- H5 : PB27
-- J2 : PB28
-- J3 : PB29
-- A2 : PB30
-- J4 : PB31
-- T14 : PC0
-- R16 : PC1
-- T15 : PC2
-- T13 : PC3
-- P16 : PC4
-- L19 : PC5
-- R15 : PC6
-- N15 : PC7
-- P11 : PC8
-- B2 : PC9
-- K5 : PC10
-- C2 : PC11
-- D2 : PC12
-- K2 : PC13
-- K6 : PC14
-- B1 : PC15
-- K9 : PC16
-- C1 : PC17
-- L9 : PC18
-- D1 : PC19
-- L8 : PC20
-- E3 : PC21
-- E2 : PC22
-- L7 : PC23
-- E1 : PC24
-- L4 : PC25
-- D6 : PC26
-- E7 : PC27
-- J5 : PC28
-- C6 : PC29
-- D7 : PC30
-- C8 : PC31
-- J7 : PD0
-- D8 : PD1
-- J6 : PD2
-- M3 : PD3
-- L6 : PD4
-- L2 : PD5
-- J1 : PD6
-- L5 : PD7
-- K1 : PD8
-- L3 : PD9
-- L1 : PD10
-- N3 : PD11
-- M7 : PD12
-- N2 : PD13
-- M6 : PD14
-- M5 : PD15
-- M1 : PD16
-- M2 : PD17
-- M4 : PD18
-- M8 : PD19
-- N1 : PD20
-- P3 : PD21
-- N6 : PD22
-- P1 : PD23
-- N8 : PD24
-- P8 : PD25
-- P2 : PD26
-- N5 : PD27
-- N4 : PD28
-- R2 : PD29
-- N10 : PD30
-- P7 : PD31
-- M9 : ADVREF
-- G1 : VDDANA
-- H6 : VDDANA
-- F1 : GNDANA
-- G5 : GNDANA
-- M12 : DDR_VREF
-- J10 : DDR_VREF
-- C19 : ZQ
-- E11 : VDDIODDR
-- E8 : VDDIODDR
-- H10 : VDDIODDR
-- J13 : VDDIODDR
-- J8 : VDDIODDR
-- L10 : VDDIODDR
-- P12 : VDDIODDR
-- E10 : GNDIODDR
-- F8 : GNDIODDR
-- G10 : GNDIODDR
-- J9 : GNDIODDR
-- L11 : GNDIODDR
-- M13 : GNDIODDR
-- N12 : GNDIODDR
-- C3 : VDDCORE
-- C9 : VDDCORE
-- K3 : VDDCORE
-- U9 : VDDCORE
-- V5 : VDDCORE
-- W6 : VDDCORE
-- K8 : VDDCORE
-- A1 : GNDCORE
-- D9 : GNDCORE
-- J11 : GNDCORE
-- K4 : GNDCORE
-- K7 : GNDCORE
-- V9 : GNDCORE
-- W1 : GNDCORE
-- B4 : VDDIOP0
-- D5 : VDDIOP1
-- A5 : GNDIOP0
-- D4 : GNDIOP0
-- V13 : VDDIOP1
-- V18 : VDDIOP1
-- P13 : GNDIOP1
-- R13 : GNDIOP2
-- W13 : GNDIOP3
-- W19 : GNDIOP4
-- A8 : VDDIOP2
-- B9 : GNDIOP2
-- T7 : VDDSDMMC
-- T8 : GNDSDMMC
-- G3 : VDDISC
-- H3 : GNDISC
-- U15 : VDDFUSE
-- P9 : VDDPLLA
-- P10 : GNDPLLA
-- R6 : VDDAUDIOPLL
-- N9 : GNDDPLL
-- P6 : GNDAUDIOPLL
-- W2 : CLK_AUDIO
-- W5 : XIN
-- W4 : XOUT
-- R10 : VDDOSC
-- T11 : GNDOSC
-- R8 : VDDUTMII
-- U7 : VDDHSIC
-- R7 : GNDUTMII
-- W7 : HHSDPA
-- V7 : HHSDMA
-- W8 : HHSDPB
-- V8 : HHSDMB
-- W9 : HHSDPDATC
-- W10 : HHSDMSTRC
-- T6 : VDDUTMIC
-- U6 : GNDUTMIC
-- V6 : VBG
-- T2 : TST
-- W3 : NRST
-- T3 : JTAGSEL
-- U2 : WKUP
-- R1 : RXD
-- P4 : SHDN
-- R4 : PIOBU0
-- R5 : PIOBU1
-- R3 : PIOBU2
-- T4 : PIOBU3
-- U3 : PIOBU4
-- T5 : PIOBU5
-- U5 : PIOBU6
-- P5 : PIOBU7
-- V3 : VDDBU
-- U4 : GNDBU
-- U1 : XIN32
-- T1 : XOUT32
-- V1 : COMPP
-- V2 : COMPN
-- A14 : DDRM_VSS
-- A19 : DDRM_VSS
-- B14 : DDRM_VSS
-- B18 : DDRM_VSS
-- C14 : DDRM_VSS
-- C18 : DDRM_VSS
-- D14 : DDRM_VSS
-- D18 : DDRM_VSS
-- E14 : DDRM_VSS
-- E18 : DDRM_VSS
-- F14 : DDRM_VSS
-- F18 : DDRM_VSS
-- G14 : DDRM_VSS
-- G18 : DDRM_VSS
-- H14 : DDRM_VSS
-- H18 : DDRM_VSS
-- N14 : DDRM_VSS
-- N17 : DDRM_VSS
-- N18 : DDRM_VSS
-- P14 : DDRM_VSS
-- P18 : DDRM_VSS
-- R14 : DDRM_VSS
-- R18 : DDRM_VSS
-- T18 : DDRM_VSS
-- B15 : DDRM_VDD12
-- B17 : DDRM_VDD13
-- B19 : DDRM_VDD14
-- D15 : DDRM_VDD15
-- D17 : DDRM_VDD16
-- D19 : DDRM_VDD17
-- F15 : DDRM_VDD18
-- F17 : DDRM_VDD19
-- F19 : DDRM_VDD20
-- H15 : DDRM_VDD21
-- H17 : DDRM_VDD22
-- H19 : DDRM_VDD23
-- K15 : DDRM_VDD24
-- K17 : DDRM_VDD25
-- K19 : DDRM_VDD26
-- M15 : DDRM_VDD27
-- M17 : DDRM_VDD28
-- M19 : DDRM_VDD29
-- P15 : DDRM_VDD30
-- P17 : DDRM_VDD31
-- P19 : DDRM_VDD32
-- T17 : DDRM_VDD33
-- T19 : DDRM_VDD34
-- B11 : DDRM_VDD18
-- B13 : DDRM_VDD19
-- D11 : DDRM_VDD20
-- D13 : DDRM_VDD21
-- K13 : DDRM_VDD22
-- K16 : DDRM_VDD23
-- A13 : NC
-- A15 : NC
-- A16 : NC
-- A17 : NC
-- A18 : NC
-- B10 : NC
-- B12 : NC
-- B16 : NC
-- C10 : NC
-- C11 : NC
-- C12 : NC
-- C13 : NC
-- C15 : NC
-- C16 : NC
-- C17 : NC
-- D10 : NC
-- D12 : NC
-- D16 : NC
-- E12 : NC
-- E13 : NC
-- E15 : NC
-- E16 : NC
-- E17 : NC
-- E19 : NC
-- E5 : NC
-- E6 : NC
-- E9 : NC
-- F10 : NC
-- F11 : NC
-- F12 : NC
-- F13 : NC
-- F16 : NC
-- F5 : NC
-- F6 : NC
-- F7 : NC
-- F9 : NC
-- G11 : NC
-- G12 : NC
-- G13 : NC
-- G15 : NC
-- G16 : NC
-- G17 : NC
-- G19 : NC
-- G7 : NC
-- G8 : NC
-- G9 : NC
-- H11 : NC
-- H12 : NC
-- H13 : NC
-- H16 : NC
-- H7 : NC
-- H8 : NC
-- H9 : NC
-- J12 : NC
-- J14 : NC
-- J15 : NC
-- J16 : NC
-- J17 : NC
-- J18 : NC
-- J19 : NC
-- K10 : NC
-- K11 : NC
-- K12 : NC
-- K14 : NC
-- L12 : NC
-- L13 : NC
-- L14 : NC
-- L15 : NC
-- L16 : NC
-- M10 : NC
-- M11 : NC
-- M14 : NC
-- N11 : NC
-- N13 : NC
-- N16 : NC
-- N7 : NC
-- R11 : NC
-- R12 : NC
-- R17 : NC
-- T12 : NC
-- T9 : NC
-- U10 : NC
-- U11 : NC
-- U8 : NC
-- V4 : NC
+Pin count : 361
+- W11 : PA0,  of Type IO, alternates : [HSMC D_0, PIO P_0, SDMMC0 SDMMC0_CK_, QSPI0 QSPI0_SCK_]
+- R9 : PA1,  of Type IO, alternates : [SDMMC0 SDMMC0_CMD_, PIO P_1, QSPI0 QSPI0_CS_, HSMC D_1]
+- W12 : PA2,  of Type IO, alternates : [PIO P_2, HSMC D_2, SDMMC0 SDMMC0_DAT_0, QSPI0 QSPI0_IO_0]
+- V11 : PA3,  of Type IO, alternates : [PIO P_3, HSMC D_3, SDMMC0 SDMMC0_DAT_1, QSPI0 QSPI0_IO_1]
+- W14 : PA4,  of Type IO, alternates : [HSMC D_4, PIO P_4, SDMMC0 SDMMC0_DAT_2, QSPI0 QSPI0_IO_2]
+- V10 : PA5,  of Type IO, alternates : [PIO P_5, HSMC D_5, QSPI0 QSPI0_IO_3, SDMMC0 SDMMC0_DAT_3]
+- W15 : PA6,  of Type IO, alternates : [PIO P_6, HSMC D_6, FLEXCOM2 FLEXCOM2_IO_0, TC1 TIOA_5, QSPI1 QSPI1_SCK_, SDMMC0 SDMMC0_DAT_4]
+- W16 : PA7,  of Type IO, alternates : [PIO P_7, QSPI1 QSPI1_IO_0, HSMC D_7, FLEXCOM2 FLEXCOM2_IO_1, SDMMC0 SDMMC0_DAT_5, TC1 TIOB_5]
+- V12 : PA8,  of Type IO, alternates : [PIO P_8, QSPI1 QSPI1_IO_1, FLEXCOM2 FLEXCOM2_IO_2, HSMC NANDNWE_, TC1 TCLK_5, SDMMC0 SDMMC0_DAT_6]
+- V16 : PA9,  of Type IO, alternates : [SDMMC0 SDMMC0_DAT_7, QSPI1 QSPI1_IO_2, FLEXCOM2 FLEXCOM2_IO_3, TC1 TIOA_4, HSMC NCS_3, PIO P_9]
+- V14 : PA10,  of Type IO, alternates : [PIO P_10, QSPI1 QSPI1_IO_3, SDMMC0 SDMMC0_RSTN_, HSMC A21_, TC1 TIOB_4, FLEXCOM2 FLEXCOM2_IO_4]
+- L18 : PA11,  of Type IO, alternates : [QSPI1 QSPI1_CS_, SDMMC0 SDMMC0_1V8SEL_, PIO P_11, HSMC A22_, TC1 TCLK_4]
+- T16 : PA12,  of Type IO, alternates : [AIC IRQ_, SDMMC0 SDMMC0_WP_, PIO P_12, HSMC NANDOE_]
+- K18 : PA13,  of Type IO, alternates : [HSMC D_8, FLEXCOM3 FLEXCOM3_IO_1, PIO P_13, SDMMC0 SDMMC0_CD_]
+- R19 : PA14,  of Type IO, alternates : [PIO P_14, SPI0 SPI0_SPCK_, HSMC D_9, SSC1 TK_1, I2SC1 I2SC1_MCK_, FLEXCOM3 FLEXCOM3_IO_2, QSPI0 QSPI0_SCK_]
+- L17 : PA15,  of Type IO, alternates : [PIO P_15, HSMC D_10, QSPI0 QSPI0_CS_, FLEXCOM3 FLEXCOM3_IO_0, SSC1 TF_1, SPI0 SPI0_MOSI_, I2SC1 I2SC1_CK_]
+- N19 : PA16,  of Type IO, alternates : [PIO P_16, HSMC D_11, I2SC1 I2SC1_WS_, FLEXCOM3 FLEXCOM3_IO_3, SPI0 SPI0_MISO_, SSC1 TD_1, QSPI0 QSPI0_IO_0]
+- M16 : PA17,  of Type IO, alternates : [I2SC1 I2SC1_DI_0, PIO P_17, HSMC D_12, SPI0 SPI0_NPCS_0, FLEXCOM3 FLEXCOM3_IO_4, QSPI0 QSPI0_IO_1, SSC1 RD_1]
+- V19 : PA18,  of Type IO, alternates : [HSMC D_13, SSC1 RK_1, SPI0 SPI0_NPCS_1, I2SC1 I2SC1_DO_0, PIO P_18, QSPI0 QSPI0_IO_2, SDMMC1 SDMMC1_DAT_0]
+- V15 : PA19,  of Type IO, alternates : [SSC1 RF_1, SPI0 SPI0_NPCS_2, HSMC D_14, TC0 TIOA_0, QSPI0 QSPI0_IO_3, PIO P_19, SDMMC1 SDMMC1_DAT_1]
+- T10 : PA20,  of Type IO, alternates : [SPI0 SPI0_NPCS_3, HSMC D_15, TC0 TIOB_0, PIO P_20, SDMMC1 SDMMC1_DAT_2]
+- U19 : PA21,  of Type IO, alternates : [AIC IRQ_, PMC PCK_2, HSMC NANDRDY_, TC0 TCLK_0, PIO P_21, SDMMC1 SDMMC1_DAT_3]
+- V17 : PA22,  of Type IO, alternates : [PIO P_22, ICE TCK_, FLEXCOM1 FLEXCOM1_IO_2, HSMC D_0, SPI1 SPI1_SPCK_, SDMMC1 SDMMC1_CK_, QSPI0 QSPI0_SCK_]
+- U18 : PA23,  of Type IO, alternates : [ICE TDI_, PIO P_23, QSPI0 QSPI0_CS_, SPI1 SPI1_MOSI_, FLEXCOM1 FLEXCOM1_IO_1, HSMC D_1]
+- W17 : PA24,  of Type IO, alternates : [SPI1 SPI1_MISO_, FLEXCOM1 FLEXCOM1_IO_0, HSMC D_2, PIO P_24, ICE TDO_, QSPI0 QSPI0_IO_0]
+- W18 : PA25,  of Type IO, alternates : [PIO P_25, ICE TMS_, HSMC D_3, FLEXCOM1 FLEXCOM1_IO_3, SPI1 SPI1_NPCS_0, QSPI0 QSPI0_IO_1]
+- U14 : PA26,  of Type IO, alternates : [PIO P_26, ICE NTRST_, HSMC D_4, SPI1 SPI1_NPCS_1, FLEXCOM1 FLEXCOM1_IO_4, QSPI0 QSPI0_IO_2]
+- M18 : PA27,  of Type IO, alternates : [PIO P_27, SPI0 SPI0_NPCS_2, SDMMC1 SDMMC1_RSTN_, HSMC D_5, TC0 TIOA_1, QSPI0 QSPI0_IO_3, SPI1 SPI1_NPCS_2]
+- U13 : PA28,  of Type IO, alternates : [HSMC D_6, PIO P_28, SPI0 SPI0_NPCS_3, CLASSD CLASSD_L_0, SDMMC1 SDMMC1_CMD_, TC0 TIOB_1, SPI1 SPI1_NPCS_3]
+- U16 : PA29,  of Type IO, alternates : [HSMC D_7, TC0 TCLK_1, SDMMC1 SDMMC1_WP_, CLASSD CLASSD_L_1, SPI0 SPI0_NPCS_1, PIO P_29]
+- U12 : PA30,  of Type IO, alternates : [SPI0 SPI0_NPCS_0, PWM PWMH_0, CLASSD CLASSD_L_2, PIO P_30, HSMC NANDNWE_, SDMMC1 SDMMC1_CD_]
+- U17 : PA31,  of Type IO, alternates : [PWM PWML_0, HSMC NCS_3, CLASSD CLASSD_L_3, PIO P_31, SPI0 SPI0_MISO_]
+- C7 : PB0,  of Type IO, alternates : [PIO P_32, PWM PWMH_1, HSMC A21_, SPI0 SPI0_MOSI_]
+- A9 : PB1,  of Type IO, alternates : [SPI0 SPI0_SPCK_, PIO P_33, PWM PWML_1, HSMC A22_, CLASSD CLASSD_R_0]
+- A10 : PB2,  of Type IO, alternates : [PIO P_34, PWM PWMFI_0, CLASSD CLASSD_R_1, HSMC NANDOE_]
+- A11 : PB3,  of Type IO, alternates : [HSMC D_8, AIC IRQ_, PWM PWMEXTRG_1, PIO P_35, CLASSD CLASSD_R_2, UART4 URXD_4]
+- A12 : PB4,  of Type IO, alternates : [PIO P_36, HSMC D_9, SAIC FIQ_, UART4 UTXD_4, CLASSD CLASSD_R_3]
+- A7 : PB5,  of Type IO, alternates : [PIO P_37, HSMC D_10, PWM PWMH_2, QSPI1 QSPI1_SCK_, GMAC GTSUCOMP_, TC0 TCLK_2]
+- B7 : PB6,  of Type IO, alternates : [PIO P_38, HSMC D_11, QSPI1 QSPI1_CS_, GMAC GTXER_, PWM PWML_2, TC0 TIOA_2]
+- C5 : PB7,  of Type IO, alternates : [PIO P_39, QSPI1 QSPI1_IO_0, HSMC D_12, PWM PWMH_3, TC0 TIOB_2, GMAC GRXCK_]
+- B8 : PB8,  of Type IO, alternates : [QSPI1 QSPI1_IO_1, HSMC D_13, PIO P_40, PWM PWML_3, GMAC GCRS_, TC1 TCLK_3]
+- B6 : PB9,  of Type IO, alternates : [QSPI1 QSPI1_IO_2, HSMC D_14, GMAC GCOL_, PIO P_41, TC1 TIOA_3, PWM PWMFI_1]
+- G6 : PB10,  of Type IO, alternates : [GMAC GRX_2, PWM PWMEXTRG_2, QSPI1 QSPI1_IO_3, HSMC D_15, TC1 TIOB_3, PIO P_42]
+- B5 : PB11,  of Type IO, alternates : [GMAC GRX_3, PIO P_43, PDMIC PDMIC_DAT_, UART3 URXD_3, LCDC LCDDAT_0, HSMC A0_]
+- A6 : PB12,  of Type IO, alternates : [PDMIC PDMIC_CLK_, PIO P_44, UART3 UTXD_3, GMAC GTX_2, HSMC A_1, LCDC LCDDAT_1]
+- C4 : PB13,  of Type IO, alternates : [PMC PCK_1, PIO P_45, GMAC GTX_3, HSMC A_2, LCDC LCDDAT_2]
+- G4 : PB14,  of Type IO, alternates : [SSC1 TK_1, I2SC1 I2SC1_MCK_, LCDC LCDDAT_3, PIO P_46, HSMC A_3, QSPI1 QSPI1_SCK_, GMAC GTXCK_]
+- H4 : PB15,  of Type IO, alternates : [PIO P_47, LCDC LCDDAT_4, QSPI1 QSPI1_CS_, GMAC GTXEN_, HSMC A_4, SSC1 TF_1, I2SC1 I2SC1_CK_]
+- A4 : PB16,  of Type IO, alternates : [LCDC LCDDAT_5, PIO P_48, I2SC1 I2SC1_WS_, QSPI1 QSPI1_IO_0, HSMC A_5, GMAC GRXDV_, SSC1 TD_1]
+- B3 : PB17,  of Type IO, alternates : [LCDC LCDDAT_6, GMAC GRXER_, I2SC1 I2SC1_DI_0, PIO P_49, QSPI1 QSPI1_IO_1, HSMC A_6, SSC1 RD_1]
+- D3 : PB18,  of Type IO, alternates : [HSMC A_7, SSC1 RK_1, QSPI1 QSPI1_IO_2, LCDC LCDDAT_7, PIO P_50, I2SC1 I2SC1_DO_0, GMAC GRX_0]
+- F4 : PB19,  of Type IO, alternates : [SSC1 RF_1, QSPI1 QSPI1_IO_3, HSMC A_8, LCDC LCDDAT_8, PIO P_51, TC1 TIOA_3, GMAC GRX_1]
+- F2 : PB20,  of Type IO, alternates : [PMC PCK_1, HSMC A_9, LCDC LCDDAT_9, GMAC GTX_0, TC1 TIOB_3, PIO P_52, SSC0 TK_0]
+- F3 : PB21,  of Type IO, alternates : [SSC0 TF_0, FLEXCOM3 FLEXCOM3_IO_2, GMAC GTX_1, PIO P_53, HSMC A_10, LCDC LCDDAT_10, TC1 TCLK_3]
+- E4 : PB22,  of Type IO, alternates : [SSC0 TD_0, PIO P_54, FLEXCOM3 FLEXCOM3_IO_1, HSMC A_11, GMAC GMDC_, TC0 TIOA_2, LCDC LCDDAT_11]
+- H2 : PB23,  of Type IO, alternates : [SSC0 RD_0, GMAC GMDIO_, PIO P_55, FLEXCOM3 FLEXCOM3_IO_0, TC0 TIOB_2, HSMC A_12, LCDC LCDDAT_12]
+- A3 : PB24,  of Type IO, alternates : [PIO P_56, FLEXCOM3 FLEXCOM3_IO_3, ISC ISC_D_10, HSMC A_13, SSC0 RK_0, LCDC LCDDAT_13, TC0 TCLK_2]
+- H1 : PB25,  of Type IO, alternates : [ISC ISC_D_11, PIO P_57, HSMC A_14, LCDC LCDDAT_14, FLEXCOM3 FLEXCOM3_IO_4, SSC0 RF_0]
+- G2 : PB26,  of Type IO, alternates : [PIO P_58, ISC ISC_D_0, HSMC A_15, PDMIC PDMIC_DAT_, LCDC LCDDAT_15, UART0 URXD_0]
+- H5 : PB27,  of Type IO, alternates : [PIO P_59, ISC ISC_D_1, PDMIC PDMIC_CLK_, HSMC A_16, UART0 UTXD_0, LCDC LCDDAT_16]
+- J2 : PB28,  of Type IO, alternates : [ISC ISC_D_2, HSMC A_17, FLEXCOM0 FLEXCOM0_IO_0, LCDC LCDDAT_17, TC1 TIOA_5, PIO P_60]
+- J3 : PB29,  of Type IO, alternates : [ISC ISC_D_3, HSMC A_18, LCDC LCDDAT_18, FLEXCOM0 FLEXCOM0_IO_1, PIO P_61, TC1 TIOB_5]
+- A2 : PB30,  of Type IO, alternates : [HSMC A_19, LCDC LCDDAT_19, ISC ISC_D_4, FLEXCOM0 FLEXCOM0_IO_2, PIO P_62, TC1 TCLK_5]
+- J4 : PB31,  of Type IO, alternates : [TWIHS0 TWD_0, ISC ISC_D_5, FLEXCOM0 FLEXCOM0_IO_3, PIO P_63, HSMC A_20, LCDC LCDDAT_20]
+- T14 : PC0,  of Type IO, alternates : [TWIHS0 TWCK_0, ISC ISC_D_6, HSMC A_23, FLEXCOM0 FLEXCOM0_IO_4, PIO P_64, LCDC LCDDAT_21]
+- R16 : PC1,  of Type IO, alternates : [MCAN0 CANTX_0, I2SC0 I2SC0_CK_, PIO P_65, ISC ISC_D_7, HSMC A_24, SPI1 SPI1_SPCK_, LCDC LCDDAT_22]
+- T15 : PC2,  of Type IO, alternates : [MCAN0 CANRX_0, PIO P_66, SPI1 SPI1_MOSI_, HSMC A_25, ISC ISC_D_8, LCDC LCDDAT_23, I2SC0 I2SC0_MCK_]
+- T13 : PC3,  of Type IO, alternates : [SPI1 SPI1_MISO_, I2SC0 I2SC0_WS_, LCDC LCDPWM_, PIO P_67, TC0 TIOA_1, ISC ISC_D_9, HSMC NWAIT_]
+- P16 : PC4,  of Type IO, alternates : [ISC ISC_PCK_, LCDC LCDDISP_, I2SC0 I2SC0_DI_0, PIO P_68, SPI1 SPI1_NPCS_0, HSMC NWR1_, TC0 TIOB_1]
+- L19 : PC5,  of Type IO, alternates : [PIO P_69, ISC ISC_VSYNC_, TC0 TCLK_1, SPI1 SPI1_NPCS_1, HSMC NCS_0, I2SC0 I2SC0_DO_0, LCDC LCDVSYNC_]
+- R15 : PC6,  of Type IO, alternates : [LCDC LCDHSYNC_, TWIHS1 TWD_1, PIO P_70, ISC ISC_HSYNC_, SPI1 SPI1_NPCS_2]
+- N15 : PC7,  of Type IO, alternates : [LCDC LCDPCK_, TWIHS1 TWCK_1, ISC ISC_MCK_, UART1 URXD_1, HSMC NCS_2, SPI1 SPI1_NPCS_3, PIO P_71]
+- P11 : PC8,  of Type IO, alternates : [LCDC LCDDEN_, HSMC NANDRDY_, SAIC FIQ_, ISC ISC_FIELD_, UART1 UTXD_1, PIO P_72, PMC PCK_0]
+- B2 : PC9,  of Type IO, alternates : [SAIC FIQ_, ISC ISC_D_0, PIO P_73, TC1 TIOA_4, GMAC GTSUCOMP_]
+- K5 : PC10,  of Type IO, alternates : [MCAN0 CANTX_0, ISC ISC_D_1, TC1 TIOB_4, PIO P_74, LCDC LCDDAT_2, GMAC GTXCK_]
+- C2 : PC11,  of Type IO, alternates : [ISC ISC_D_2, LCDC LCDDAT_3, MCAN0 CANRX_0, GMAC GTXEN_, PIO P_75, HSMC A0_, TC1 TCLK_4]
+- D2 : PC12,  of Type IO, alternates : [ISC ISC_D_3, LCDC LCDDAT_4, PIO P_76, GMAC GRXDV_, HSMC A_1, UART3 URXD_3, SSC0 TK_0]
+- K2 : PC13,  of Type IO, alternates : [LCDC LCDDAT_5, GMAC GRXER_, SSC0 TF_0, PIO P_77, UART3 UTXD_3, ISC ISC_D_4, HSMC A_2]
+- K6 : PC14,  of Type IO, alternates : [LCDC LCDDAT_6, SSC0 TD_0, PIO P_78, ISC ISC_D_5, HSMC A_3, GMAC GRX_0]
+- B1 : PC15,  of Type IO, alternates : [SSC0 RD_0, ISC ISC_D_6, LCDC LCDDAT_7, PIO P_79, HSMC A_4, GMAC GRX_1]
+- K9 : PC16,  of Type IO, alternates : [ISC ISC_D_7, HSMC A_5, GMAC GTX_0, SSC0 RK_0, LCDC LCDDAT_10, PIO P_80]
+- C1 : PC17,  of Type IO, alternates : [HSMC A_6, GMAC GTX_1, ISC ISC_D_8, LCDC LCDDAT_11, SSC0 RF_0, PIO P_81]
+- L9 : PC18,  of Type IO, alternates : [HSMC A_7, FLEXCOM3 FLEXCOM3_IO_2, GMAC GMDC_, ISC ISC_D_9, LCDC LCDDAT_12, PIO P_82]
+- D1 : PC19,  of Type IO, alternates : [GMAC GMDIO_, HSMC A_8, FLEXCOM3 FLEXCOM3_IO_1, ISC ISC_D_10, PIO P_83, LCDC LCDDAT_13]
+- L8 : PC20,  of Type IO, alternates : [HSMC A_9, FLEXCOM3 FLEXCOM3_IO_0, ISC ISC_D_11, LCDC LCDDAT_14, PIO P_84, GMAC GRXCK_]
+- E3 : PC21,  of Type IO, alternates : [ISC ISC_PCK_, GMAC GTXER_, FLEXCOM3 FLEXCOM3_IO_3, LCDC LCDDAT_15, PIO P_85, HSMC A_10]
+- E2 : PC22,  of Type IO, alternates : [ISC ISC_VSYNC_, LCDC LCDDAT_18, HSMC A_11, FLEXCOM3 FLEXCOM3_IO_4, PIO P_86, GMAC GCRS_]
+- L7 : PC23,  of Type IO, alternates : [LCDC LCDDAT_19, PIO P_87, HSMC A_12, GMAC GCOL_, ISC ISC_HSYNC_]
+- E1 : PC24,  of Type IO, alternates : [GMAC GRX_2, ISC ISC_MCK_, PIO P_88, HSMC A_13, LCDC LCDDAT_20]
+- L4 : PC25,  of Type IO, alternates : [GMAC GRX_3, ISC ISC_FIELD_, PIO P_89, HSMC A_14, LCDC LCDDAT_21]
+- D6 : PC26,  of Type IO, alternates : [MCAN1 CANTX_1, HSMC A_15, GMAC GTX_2, LCDC LCDDAT_22, PIO P_90]
+- E7 : PC27,  of Type IO, alternates : [MCAN1 CANRX_1, PMC PCK_1, TWIHS0 TWD_0, HSMC A_16, GMAC GTX_3, LCDC LCDDAT_23, PIO P_91]
+- J5 : PC28,  of Type IO, alternates : [PMC PCK_2, TWIHS0 TWCK_0, HSMC A_17, LCDC LCDPWM_, FLEXCOM4 FLEXCOM4_IO_0, PIO P_92]
+- C6 : PC29,  of Type IO, alternates : [HSMC A_18, LCDC LCDDISP_, FLEXCOM4 FLEXCOM4_IO_1, PIO P_93]
+- D7 : PC30,  of Type IO, alternates : [HSMC A_19, PIO P_94, FLEXCOM4 FLEXCOM4_IO_2, LCDC LCDVSYNC_]
+- C8 : PC31,  of Type IO, alternates : [LCDC LCDHSYNC_, FLEXCOM4 FLEXCOM4_IO_3, PIO P_95, UART3 URXD_3, HSMC A_20]
+- J7 : PD0,  of Type IO, alternates : [LCDC LCDPCK_, UART3 UTXD_3, HSMC A_23, GMAC GTSUCOMP_, PIO P_96, FLEXCOM4 FLEXCOM4_IO_4]
+- D8 : PD1,  of Type IO, alternates : [LCDC LCDDEN_, HSMC A_24, PIO P_97, GMAC GRXCK_]
+- J6 : PD2,  of Type IO, alternates : [GMAC GTXER_, ISC ISC_MCK_, PIO P_98, HSMC A_25, UART1 URXD_1]
+- M3 : PD3,  of Type IO, alternates : [SAIC FIQ_, PIO P_99, ISC ISC_D_11, UART1 UTXD_1, HSMC NWAIT_, PTC PTC_X_0, GMAC GCRS_]
+- L6 : PD4,  of Type IO, alternates : [ISC ISC_D_10, HSMC NCS_0, GMAC GCOL_, TWIHS1 TWD_1, UART2 URXD_2, PIO P_100, PTC PTC_X_1]
+- L2 : PD5,  of Type IO, alternates : [TWIHS1 TWCK_1, GMAC GRX_2, UART2 UTXD_2, HSMC NCS_1, PIO P_101, ISC ISC_D_9, PTC PTC_X_2]
+- J1 : PD6,  of Type IO, alternates : [PMC PCK_1, GMAC GRX_3, ICE TCK_, PIO P_102, ISC ISC_D_8, HSMC NCS_2, PTC PTC_X_3]
+- L5 : PD7,  of Type IO, alternates : [ISC ISC_D_0, ICE TDI_, PIO P_103, PTC PTC_X_4, GMAC GTX_2, HSMC NWR1_]
+- K1 : PD8,  of Type IO, alternates : [HSMC NANDRDY_, ISC ISC_D_1, PTC PTC_X_5, ICE TDO_, GMAC GTX_3, PIO P_104]
+- L3 : PD9,  of Type IO, alternates : [ISC ISC_D_2, ICE TMS_, PTC PTC_X_6, PIO P_105, GMAC GTXCK_]
+- L1 : PD10,  of Type IO, alternates : [ISC ISC_D_3, ICE NTRST_, GMAC GTXEN_, PTC PTC_X_7, PIO P_106]
+- N3 : PD11,  of Type IO, alternates : [PMC PCK_2, ISC ISC_MCK_, ISC ISC_D_4, GMAC GRXDV_, TC0 TIOA_1, PIO P_107, PTC PTC_Y_0]
+- M7 : PD12,  of Type IO, alternates : [GMAC GRXER_, PIO P_108, ISC ISC_D_4, FLEXCOM4 FLEXCOM4_IO_0, ISC ISC_D_5, TC0 TIOB_1, PTC PTC_Y_1]
+- N2 : PD13,  of Type IO, alternates : [PIO P_109, TC0 TCLK_1, ISC ISC_D_6, FLEXCOM4 FLEXCOM4_IO_1, ISC ISC_D_5, GMAC GRX_0, PTC PTC_Y_2]
+- M6 : PD14,  of Type IO, alternates : [ISC ISC_D_6, PIO P_110, ISC ISC_D_7, ICE TCK_, FLEXCOM4 FLEXCOM4_IO_2, PTC PTC_Y_3, GMAC GRX_1]
+- M5 : PD15,  of Type IO, alternates : [ISC ISC_PCK_, ICE TDI_, ISC ISC_D_7, FLEXCOM4 FLEXCOM4_IO_3, GMAC GTX_0, PTC PTC_Y_4, PIO P_111]
+- M1 : PD16,  of Type IO, alternates : [ISC ISC_VSYNC_, GMAC GTX_1, ICE TDO_, ISC ISC_D_8, PIO P_112, FLEXCOM4 FLEXCOM4_IO_4, PTC PTC_Y_5]
+- M2 : PD17,  of Type IO, alternates : [ICE TMS_, PIO P_113, PTC PTC_Y_6, GMAC GMDC_, ISC ISC_D_9, ISC ISC_HSYNC_]
+- M4 : PD18,  of Type IO, alternates : [GMAC GMDIO_, ICE NTRST_, ISC ISC_FIELD_, PTC PTC_Y_7, ISC ISC_D_10, PIO P_114]
+- M8 : PD19,  of Type IO, alternates : [I2SC0 I2SC0_CK_, ISC ISC_D_11, TWIHS1 TWD_1, UART2 URXD_2, ADC AD_0, PIO P_115, PMC PCK_0]
+- N1 : PD20,  of Type IO, alternates : [ISC ISC_PCK_, TWIHS1 TWCK_1, UART2 UTXD_2, TC0 TIOA_2, PIO P_116, ADC AD_1, I2SC0 I2SC0_MCK_]
+- P3 : PD21,  of Type IO, alternates : [ISC ISC_VSYNC_, TWIHS0 TWD_0, I2SC0 I2SC0_WS_, FLEXCOM4 FLEXCOM4_IO_0, TC0 TIOB_2, ADC AD_2, PIO P_117]
+- N6 : PD22,  of Type IO, alternates : [TWIHS0 TWCK_0, FLEXCOM4 FLEXCOM4_IO_1, I2SC0 I2SC0_DI_0, PIO P_118, TC0 TCLK_2, ADC AD_3, ISC ISC_HSYNC_]
+- P1 : PD23,  of Type IO, alternates : [ADC AD_4, PIO P_119, ISC ISC_FIELD_, FLEXCOM4 FLEXCOM4_IO_2, UART2 URXD_2, I2SC0 I2SC0_DO_0]
+- N8 : PD24,  of Type IO, alternates : [ADC AD_5, UART2 UTXD_2, PIO P_120, FLEXCOM4 FLEXCOM4_IO_3]
+- P8 : PD25,  of Type IO, alternates : [ADC AD_6, PIO P_121, SPI1 SPI1_SPCK_, FLEXCOM4 FLEXCOM4_IO_4]
+- P2 : PD26,  of Type IO, alternates : [ADC AD_7, FLEXCOM2 FLEXCOM2_IO_0, SPI1 SPI1_MOSI_, PIO P_122]
+- N5 : PD27,  of Type IO, alternates : [SPI1 SPI1_MISO_, ADC AD_8, FLEXCOM2 FLEXCOM2_IO_1, ICE TCK_, PIO P_123]
+- N4 : PD28,  of Type IO, alternates : [ICE TDI_, ADC AD_9, FLEXCOM2 FLEXCOM2_IO_2, PIO P_124, SPI1 SPI1_NPCS_0]
+- R2 : PD29,  of Type IO, alternates : [TWIHS0 TWD_0, PIO P_125, SPI1 SPI1_NPCS_1, FLEXCOM2 FLEXCOM2_IO_3, ICE TDO_, TC1 TIOA_3, ADC AD_10]
+- N10 : PD30,  of Type IO, alternates : [TWIHS0 TWCK_0, ICE TMS_, TC1 TIOB_3, FLEXCOM2 FLEXCOM2_IO_4, ADC AD_11, PIO P_126, SPI1 SPI1_NPCS_2]
+- P7 : PD31,  of Type IO, alternates : [AIC IRQ_, ADC ADTRG_, ICE NTRST_, PIO P_127, TC1 TCLK_3, PMC PCK_0]
+- M9 : ADVREF,  of Type PS
+- G1 : VDDANA,  of Type PP
+- H6 : VDDANA,  of Type PP
+- F1 : GNDANA,  of Type PS
+- G5 : GNDANA,  of Type PS
+- M12 : DDR_VREF,  of Type PS
+- J10 : DDR_VREF,  of Type PS
+- C19 : ZQ,  of Type IO
+- E11 : VDDIODDR,  of Type PP
+- E8 : VDDIODDR,  of Type PP
+- H10 : VDDIODDR,  of Type PP
+- J13 : VDDIODDR,  of Type PP
+- J8 : VDDIODDR,  of Type PP
+- L10 : VDDIODDR,  of Type PP
+- P12 : VDDIODDR,  of Type PP
+- E10 : GNDIODDR,  of Type PS
+- F8 : GNDIODDR,  of Type PS
+- G10 : GNDIODDR,  of Type PS
+- J9 : GNDIODDR,  of Type PS
+- L11 : GNDIODDR,  of Type PS
+- M13 : GNDIODDR,  of Type PS
+- N12 : GNDIODDR,  of Type PS
+- C3 : VDDCORE,  of Type PP
+- C9 : VDDCORE,  of Type PP
+- K3 : VDDCORE,  of Type PP
+- U9 : VDDCORE,  of Type PP
+- V5 : VDDCORE,  of Type PP
+- W6 : VDDCORE,  of Type PP
+- K8 : VDDCORE,  of Type PP
+- A1 : GNDCORE,  of Type PS
+- D9 : GNDCORE,  of Type PS
+- J11 : GNDCORE,  of Type PS
+- K4 : GNDCORE,  of Type PS
+- K7 : GNDCORE,  of Type PS
+- V9 : GNDCORE,  of Type PS
+- W1 : GNDCORE,  of Type PS
+- B4 : VDDIOP0,  of Type PP
+- D5 : VDDIOP1,  of Type PP
+- A5 : GNDIOP0,  of Type PS
+- D4 : GNDIOP0,  of Type PS
+- V13 : VDDIOP1,  of Type PP
+- V18 : VDDIOP1,  of Type PP
+- P13 : GNDIOP1,  of Type PS
+- R13 : GNDIOP2,  of Type PS
+- W13 : GNDIOP3,  of Type PS
+- W19 : GNDIOP4,  of Type PS
+- A8 : VDDIOP2,  of Type PP
+- B9 : GNDIOP2,  of Type PS
+- T7 : VDDSDMMC,  of Type PP
+- T8 : GNDSDMMC,  of Type PS
+- G3 : VDDISC,  of Type PP
+- H3 : GNDISC,  of Type PS
+- U15 : VDDFUSE,  of Type PP
+- P9 : VDDPLLA,  of Type PP
+- P10 : GNDPLLA,  of Type PS
+- R6 : VDDAUDIOPLL,  of Type PP
+- N9 : GNDDPLL,  of Type PS
+- P6 : GNDAUDIOPLL,  of Type PS
+- W2 : CLK_AUDIO,  of Type IO
+- W5 : XIN,  of Type PS
+- W4 : XOUT,  of Type PS
+- R10 : VDDOSC,  of Type PP
+- T11 : GNDOSC,  of Type PS
+- R8 : VDDUTMII,  of Type PP
+- U7 : VDDHSIC,  of Type PP
+- R7 : GNDUTMII,  of Type PS
+- W7 : HHSDPA,  of Type IO
+- V7 : HHSDMA,  of Type IO
+- W8 : HHSDPB,  of Type IO
+- V8 : HHSDMB,  of Type IO
+- W9 : HHSDPDATC,  of Type IO
+- W10 : HHSDMSTRC,  of Type IO
+- T6 : VDDUTMIC,  of Type PP
+- U6 : GNDUTMIC,  of Type PS
+- V6 : VBG,  of Type IO
+- T2 : TST,  of Type IO
+- W3 : NRST,  of Type IP
+- T3 : JTAGSEL,  of Type OP
+- U2 : WKUP,  of Type IP
+- R1 : RXD,  of Type IP
+- P4 : SHDN,  of Type IO
+- R4 : PIOBU0,  of Type IO
+- R5 : PIOBU1,  of Type IO
+- R3 : PIOBU2,  of Type IO
+- T4 : PIOBU3,  of Type IO
+- U3 : PIOBU4,  of Type IO
+- T5 : PIOBU5,  of Type IO
+- U5 : PIOBU6,  of Type IO
+- P5 : PIOBU7,  of Type IO
+- V3 : VDDBU,  of Type PP
+- U4 : GNDBU,  of Type PS
+- U1 : XIN32,  of Type PS
+- T1 : XOUT32,  of Type PS
+- V1 : COMPP,  of Type IO
+- V2 : COMPN,  of Type IO
+- A14 : DDRM_VSS,  of Type PS
+- A19 : DDRM_VSS,  of Type PS
+- B14 : DDRM_VSS,  of Type PS
+- B18 : DDRM_VSS,  of Type PS
+- C14 : DDRM_VSS,  of Type PS
+- C18 : DDRM_VSS,  of Type PS
+- D14 : DDRM_VSS,  of Type PS
+- D18 : DDRM_VSS,  of Type PS
+- E14 : DDRM_VSS,  of Type PS
+- E18 : DDRM_VSS,  of Type PS
+- F14 : DDRM_VSS,  of Type PS
+- F18 : DDRM_VSS,  of Type PS
+- G14 : DDRM_VSS,  of Type PS
+- G18 : DDRM_VSS,  of Type PS
+- H14 : DDRM_VSS,  of Type PS
+- H18 : DDRM_VSS,  of Type PS
+- N14 : DDRM_VSS,  of Type PS
+- N17 : DDRM_VSS,  of Type PS
+- N18 : DDRM_VSS,  of Type PS
+- P14 : DDRM_VSS,  of Type PS
+- P18 : DDRM_VSS,  of Type PS
+- R14 : DDRM_VSS,  of Type PS
+- R18 : DDRM_VSS,  of Type PS
+- T18 : DDRM_VSS,  of Type PS
+- B15 : DDRM_VDD12,  of Type PP
+- B17 : DDRM_VDD13,  of Type PP
+- B19 : DDRM_VDD14,  of Type PP
+- D15 : DDRM_VDD15,  of Type PP
+- D17 : DDRM_VDD16,  of Type PP
+- D19 : DDRM_VDD17,  of Type PP
+- F15 : DDRM_VDD18,  of Type PP
+- F17 : DDRM_VDD19,  of Type PP
+- F19 : DDRM_VDD20,  of Type PP
+- H15 : DDRM_VDD21,  of Type PP
+- H17 : DDRM_VDD22,  of Type PP
+- H19 : DDRM_VDD23,  of Type PP
+- K15 : DDRM_VDD24,  of Type PP
+- K17 : DDRM_VDD25,  of Type PP
+- K19 : DDRM_VDD26,  of Type PP
+- M15 : DDRM_VDD27,  of Type PP
+- M17 : DDRM_VDD28,  of Type PP
+- M19 : DDRM_VDD29,  of Type PP
+- P15 : DDRM_VDD30,  of Type PP
+- P17 : DDRM_VDD31,  of Type PP
+- P19 : DDRM_VDD32,  of Type PP
+- T17 : DDRM_VDD33,  of Type PP
+- T19 : DDRM_VDD34,  of Type PP
+- B11 : DDRM_VDD18,  of Type PP
+- B13 : DDRM_VDD19,  of Type PP
+- D11 : DDRM_VDD20,  of Type PP
+- D13 : DDRM_VDD21,  of Type PP
+- K13 : DDRM_VDD22,  of Type PP
+- K16 : DDRM_VDD23,  of Type PP
+- A13 : NC,  of Type NC
+- A15 : NC,  of Type NC
+- A16 : NC,  of Type NC
+- A17 : NC,  of Type NC
+- A18 : NC,  of Type NC
+- B10 : NC,  of Type NC
+- B12 : NC,  of Type NC
+- B16 : NC,  of Type NC
+- C10 : NC,  of Type NC
+- C11 : NC,  of Type NC
+- C12 : NC,  of Type NC
+- C13 : NC,  of Type NC
+- C15 : NC,  of Type NC
+- C16 : NC,  of Type NC
+- C17 : NC,  of Type NC
+- D10 : NC,  of Type NC
+- D12 : NC,  of Type NC
+- D16 : NC,  of Type NC
+- E12 : NC,  of Type NC
+- E13 : NC,  of Type NC
+- E15 : NC,  of Type NC
+- E16 : NC,  of Type NC
+- E17 : NC,  of Type NC
+- E19 : NC,  of Type NC
+- E5 : NC,  of Type NC
+- E6 : NC,  of Type NC
+- E9 : NC,  of Type NC
+- F10 : NC,  of Type NC
+- F11 : NC,  of Type NC
+- F12 : NC,  of Type NC
+- F13 : NC,  of Type NC
+- F16 : NC,  of Type NC
+- F5 : NC,  of Type NC
+- F6 : NC,  of Type NC
+- F7 : NC,  of Type NC
+- F9 : NC,  of Type NC
+- G11 : NC,  of Type NC
+- G12 : NC,  of Type NC
+- G13 : NC,  of Type NC
+- G15 : NC,  of Type NC
+- G16 : NC,  of Type NC
+- G17 : NC,  of Type NC
+- G19 : NC,  of Type NC
+- G7 : NC,  of Type NC
+- G8 : NC,  of Type NC
+- G9 : NC,  of Type NC
+- H11 : NC,  of Type NC
+- H12 : NC,  of Type NC
+- H13 : NC,  of Type NC
+- H16 : NC,  of Type NC
+- H7 : NC,  of Type NC
+- H8 : NC,  of Type NC
+- H9 : NC,  of Type NC
+- J12 : NC,  of Type NC
+- J14 : NC,  of Type NC
+- J15 : NC,  of Type NC
+- J16 : NC,  of Type NC
+- J17 : NC,  of Type NC
+- J18 : NC,  of Type NC
+- J19 : NC,  of Type NC
+- K10 : NC,  of Type NC
+- K11 : NC,  of Type NC
+- K12 : NC,  of Type NC
+- K14 : NC,  of Type NC
+- L12 : NC,  of Type NC
+- L13 : NC,  of Type NC
+- L14 : NC,  of Type NC
+- L15 : NC,  of Type NC
+- L16 : NC,  of Type NC
+- M10 : NC,  of Type NC
+- M11 : NC,  of Type NC
+- M14 : NC,  of Type NC
+- N11 : NC,  of Type NC
+- N13 : NC,  of Type NC
+- N16 : NC,  of Type NC
+- N7 : NC,  of Type NC
+- R11 : NC,  of Type NC
+- R12 : NC,  of Type NC
+- R17 : NC,  of Type NC
+- T12 : NC,  of Type NC
+- T9 : NC,  of Type NC
+- U10 : NC,  of Type NC
+- U11 : NC,  of Type NC
+- U8 : NC,  of Type NC
+- V4 : NC,  of Type NC
 ## ATSAMA5D28C-CN
+
 ### Description : 
+
+- Series : SAMA5D2
+- Footprint : LFBGA289
+- MP : ATSAMA5D28C-CN
+- Architecture : CORTEX-A5
+- PINOUT : LFBGA289
+- Reference : U
+- Documentation : https://www.microchip.com/en-us/search?q=ATSAMA5D28C-CN
+- Value : ATSAMA5D28C-CN
+- Family : SAMA5
+- MF : Microchip
+- Name : ATSAMA5D28
 
 ### Package : 
 
-- U11 : PA0
-- P10 : PA1
-- T11 : PA2
-- R10 : PA3
-- U12 : PA4
-- T12 : PA5
-- R12 : PA6
-- T13 : PA7
-- N10 : PA8
-- N11 : PA9
-- U13 : PA10
-- P15 : PA11
-- N15 : PA12
-- P16 : PA13
-- M14 : PA14
-- N16 : PA15
-- M10 : PA16
-- N17 : PA17
-- U14 : PA18
-- T14 : PA19
-- P12 : PA20
-- R13 : PA21
-- U15 : PA22
-- U16 : PA23
-- T15 : PA24
-- U17 : PA25
-- P13 : PA26
-- T16 : PA27
-- R16 : PA28
-- T17 : PA29
-- R15 : PA30
-- R17 : PA31
-- J8 : PB0
-- A8 : PB1
-- A7 : PB2
-- A6 : PB3
-- B6 : PB4
-- B7 : PB5
-- C7 : PB6
-- C6 : PB7
-- A5 : PB8
-- A4 : PB9
-- H8 : PB10
-- B5 : PB11
-- D6 : PB12
-- B4 : PB13
-- C5 : PB14
-- H7 : PB15
-- D5 : PB16
-- C4 : PB17
-- A3 : PB18
-- D4 : PB19
-- B3 : PB20
-- A2 : PB21
-- C3 : PB22
-- A1 : PB23
-- E5 : PB24
-- B2 : PB25
-- E4 : PB26
-- B1 : PB27
-- C2 : PB28
-- D3 : PB29
-- D2 : PB30
-- C1 : PB31
-- P17 : PC0
-- N12 : PC1
-- N14 : PC2
-- M15 : PC3
-- M11 : PC4
-- L10 : PC5
-- K10 : PC6
-- M16 : PC7
-- J10 : PC8
-- D1 : PC9
-- E3 : PC10
-- E2 : PC11
-- E1 : PC12
-- F3 : PC13
-- F5 : PC14
-- F2 : PC15
-- G6 : PC16
-- F1 : PC17
-- H6 : PC18
-- G2 : PC19
-- G3 : PC20
-- G1 : PC21
-- H2 : PC22
-- G5 : PC23
-- H1 : PC24
-- H5 : PC25
-- J9 : PC26
-- H9 : PC27
-- E8 : PC28
-- G8 : PC29
-- F8 : PC30
-- D8 : PC31
-- G10 : PD0
-- E10 : PD1
-- G9 : PD2
-- K1 : PD3
-- J6 : PD4
-- J4 : PD5
-- J2 : PD6
-- J7 : PD7
-- J1 : PD8
-- K9 : PD9
-- J3 : PD10
-- M1 : PD11
-- K8 : PD12
-- L2 : PD13
-- K4 : PD14
-- K7 : PD15
-- L1 : PD16
-- K2 : PD17
-- J5 : PD18
-- K6 : PD19
-- M2 : PD20
-- N1 : PD21
-- L4 : PD22
-- M3 : PD23
-- L7 : PD24
-- L6 : PD25
-- N2 : PD26
-- L8 : PD27
-- M4 : PD28
-- N3 : PD29
-- L9 : PD30
-- M7 : PD31
-- L5 : VDDANA
-- K5 : GNDANA
-- M6 : ADVREF
-- K3 : VDDANA
-- L3 : GNDANA
-- H16 : DDR_VREF
-- D16 : DDR_VREF
-- B12 : DDR_D0
-- A12 : DDR_D1
-- C12 : DDR_D2
-- A13 : DDR_D3
-- A14 : DDR_D4
-- C13 : DDR_D5
-- A15 : DDR_D6
-- B15 : DDR_D7
-- G17 : DDR_D8
-- G16 : DDR_D9
-- H17 : DDR_D10
-- K17 : DDR_D11
-- K16 : DDR_D12
-- J13 : DDR_D13
-- K14 : DDR_D14
-- K15 : DDR_D15
-- B8 : DDR_D16
-- B9 : DDR_D17
-- C9 : DDR_D18
-- A9 : DDR_D19
-- A10 : DDR_D20
-- D10 : DDR_D21
-- B11 : DDR_D22
-- A11 : DDR_D23
-- J12 : DDR_D24
-- H10 : DDR_D25
-- J11 : DDR_D26
-- K11 : DDR_D27
-- L13 : DDR_D28
-- L11 : DDR_D29
-- L12 : DDR_D30
-- M17 : DDR_D31
-- F12 : DDR_A0
-- C17 : DDR_A1
-- B17 : DDR_A2
-- B16 : DDR_A3
-- C16 : DDR_A4
-- G14 : DDR_A5
-- F14 : DDR_A6
-- F11 : DDR_A7
-- C14 : DDR_A8
-- D13 : DDR_A9
-- C15 : DDR_A10
-- A16 : DDR_A11
-- A17 : DDR_A12
-- G11 : DDR_A13
-- E17 : DDR_CLK
-- D17 : DDR_CLKN
-- F16 : DDR_CKE
-- E16 : DDR_RESETN
-- G13 : DDR_CS
-- F15 : DDR_WE
-- F13 : DDR_RAS
-- G12 : DDR_CAS
-- C11 : DDR_DQM0
-- G15 : DDR_DQM1
-- C8 : DDR_DQM2
-- H11 : DDR_DQM3
-- B13 : DDR_DQS0
-- J17 : DDR_DQS1
-- C10 : DDR_DQS2
-- L17 : DDR_DQS3
-- B14 : DDR_DQSN0
-- J16 : DDR_DQSN1
-- B10 : DDR_DQSN2
-- L16 : DDR_DQSN3
-- H12 : DDR_BA0
-- H13 : DDR_BA1
-- F17 : DDR_BA2
-- E13 : DDR_
-- L15 : VDDIODDR
-- J15 : VDDIODDR
-- H15 : VDDIODDR
-- E15 : VDDIODDR
-- D15 : VDDIODDR
-- D12 : VDDIODDR
-- D11 : VDDIODDR
-- L14 : GNDIODDR
-- J14 : GNDIODDR
-- H14 : GNDIODDR
-- E14 : GNDIODDR
-- D14 : GNDIODDR
-- E12 : GNDIODDR
-- E11 : GNDIODDR
-- H3 : VDDCORE
-- N5 : GNDCORE
-- N9 : VDDCORE
-- K13 : VDDCORE
-- D9 : VDDCORE
-- D7 : VDDCORE
-- H4 : GNDCORE
-- M5 : PIOBU7
-- M9 : GNDCORE
-- K12 : GNDCORE
-- E9 : GNDCORE
-- E7 : GNDCORE
-- E6 : VDDIOP0
-- F7 : VDDIOP0
-- F6 : GNDIOP0
-- G7 : GNDIOP0
-- R14 : VDDIOP1
-- N13 : VDDIOP1
-- M13 : GNDIOP1
-- P14 : GNDIOP1
-- F10 : VDDIOP2
-- F9 : GNDIOP2
-- P11 : VDDSDMMC
-- R11 : GNDSDMMC
-- F4 : VDDISC
-- G4 : GNDISC
-- M12 : VDDFUSE
-- U4 : VDDPLLA
-- U5 : GNDPLLA
-- T3 : VDDAUDIOPLL
-- T5 : GNDDPLL
-- T4 : GNDAUDIOPLL
-- U3 : CLK_AUDIO
-- U7 : XIN
-- U6 : XOUT
-- T7 : VDDOSC
-- T6 : GNDOSC
-- P8 : VDDUTMII
-- R9 : VDDHSIC
-- P9 : GNDUTMII
-- T8 : HHSDPA
-- R8 : HHSDMA
-- U8 : HHSDPB
-- U9 : HHSDMB
-- T9 : HHSDPDATC
-- U10 : HHSDMSTRC
-- P7 : VDDUTMIC
-- R7 : GNDUTMIC
-- T10 : SDCAL
-- R6 : VBG
-- P3 : TST
-- U2 : NRST
-- T2 : JTAGSEL
-- P4 : VDDCORE
-- N4 : RXD
-- R1 : SHDN
-- R3 : VDDBU
-- N8 : PIOBU1
-- R2 : WKUP
-- R5 : PIOBU5
-- R4 : GNDBU
-- P5 : PIOBU4
-- P6 : PIOBU3
-- M8 : PIOBU2
-- N7 : PIOBU6
-- N6 : PIOBU0
-- P1 : XIN32
-- P2 : XOUT32
-- T1 : COMPP
-- U1 : COMPN
+Pin count : 289
+- U11 : PA0,  of Type IO, alternates : [HSMC D_0, PIO P_0, SDMMC0 SDMMC0_CK_, QSPI0 QSPI0_SCK_]
+- P10 : PA1,  of Type IO, alternates : [SDMMC0 SDMMC0_CMD_, PIO P_1, QSPI0 QSPI0_CS_, HSMC D_1]
+- T11 : PA2,  of Type IO, alternates : [PIO P_2, HSMC D_2, SDMMC0 SDMMC0_DAT_0, QSPI0 QSPI0_IO_0]
+- R10 : PA3,  of Type IO, alternates : [PIO P_3, HSMC D_3, SDMMC0 SDMMC0_DAT_1, QSPI0 QSPI0_IO_1]
+- U12 : PA4,  of Type IO, alternates : [HSMC D_4, PIO P_4, SDMMC0 SDMMC0_DAT_2, QSPI0 QSPI0_IO_2]
+- T12 : PA5,  of Type IO, alternates : [PIO P_5, HSMC D_5, QSPI0 QSPI0_IO_3, SDMMC0 SDMMC0_DAT_3]
+- R12 : PA6,  of Type IO, alternates : [PIO P_6, HSMC D_6, FLEXCOM2 FLEXCOM2_IO_0, TC1 TIOA_5, QSPI1 QSPI1_SCK_, SDMMC0 SDMMC0_DAT_4]
+- T13 : PA7,  of Type IO, alternates : [PIO P_7, QSPI1 QSPI1_IO_0, HSMC D_7, FLEXCOM2 FLEXCOM2_IO_1, SDMMC0 SDMMC0_DAT_5, TC1 TIOB_5]
+- N10 : PA8,  of Type IO, alternates : [PIO P_8, QSPI1 QSPI1_IO_1, FLEXCOM2 FLEXCOM2_IO_2, HSMC NANDNWE_, TC1 TCLK_5, SDMMC0 SDMMC0_DAT_6]
+- N11 : PA9,  of Type IO, alternates : [SDMMC0 SDMMC0_DAT_7, QSPI1 QSPI1_IO_2, FLEXCOM2 FLEXCOM2_IO_3, TC1 TIOA_4, HSMC NCS_3, PIO P_9]
+- U13 : PA10,  of Type IO, alternates : [PIO P_10, QSPI1 QSPI1_IO_3, SDMMC0 SDMMC0_RSTN_, HSMC A21_, TC1 TIOB_4, FLEXCOM2 FLEXCOM2_IO_4]
+- P15 : PA11,  of Type IO, alternates : [QSPI1 QSPI1_CS_, SDMMC0 SDMMC0_1V8SEL_, PIO P_11, HSMC A22_, TC1 TCLK_4]
+- N15 : PA12,  of Type IO, alternates : [AIC IRQ_, SDMMC0 SDMMC0_WP_, PIO P_12, HSMC NANDOE_]
+- P16 : PA13,  of Type IO, alternates : [HSMC D_8, FLEXCOM3 FLEXCOM3_IO_1, PIO P_13, SDMMC0 SDMMC0_CD_]
+- M14 : PA14,  of Type IO, alternates : [PIO P_14, SPI0 SPI0_SPCK_, HSMC D_9, SSC1 TK_1, I2SC1 I2SC1_MCK_, FLEXCOM3 FLEXCOM3_IO_2, QSPI0 QSPI0_SCK_]
+- N16 : PA15,  of Type IO, alternates : [PIO P_15, HSMC D_10, QSPI0 QSPI0_CS_, FLEXCOM3 FLEXCOM3_IO_0, SSC1 TF_1, SPI0 SPI0_MOSI_, I2SC1 I2SC1_CK_]
+- M10 : PA16,  of Type IO, alternates : [PIO P_16, HSMC D_11, I2SC1 I2SC1_WS_, FLEXCOM3 FLEXCOM3_IO_3, SPI0 SPI0_MISO_, SSC1 TD_1, QSPI0 QSPI0_IO_0]
+- N17 : PA17,  of Type IO, alternates : [I2SC1 I2SC1_DI_0, PIO P_17, HSMC D_12, SPI0 SPI0_NPCS_0, FLEXCOM3 FLEXCOM3_IO_4, QSPI0 QSPI0_IO_1, SSC1 RD_1]
+- U14 : PA18,  of Type IO, alternates : [HSMC D_13, SSC1 RK_1, SPI0 SPI0_NPCS_1, I2SC1 I2SC1_DO_0, PIO P_18, QSPI0 QSPI0_IO_2, SDMMC1 SDMMC1_DAT_0]
+- T14 : PA19,  of Type IO, alternates : [SSC1 RF_1, SPI0 SPI0_NPCS_2, HSMC D_14, TC0 TIOA_0, QSPI0 QSPI0_IO_3, PIO P_19, SDMMC1 SDMMC1_DAT_1]
+- P12 : PA20,  of Type IO, alternates : [SPI0 SPI0_NPCS_3, HSMC D_15, TC0 TIOB_0, PIO P_20, SDMMC1 SDMMC1_DAT_2]
+- R13 : PA21,  of Type IO, alternates : [AIC IRQ_, PMC PCK_2, HSMC NANDRDY_, TC0 TCLK_0, PIO P_21, SDMMC1 SDMMC1_DAT_3]
+- U15 : PA22,  of Type IO, alternates : [PIO P_22, ICE TCK_, FLEXCOM1 FLEXCOM1_IO_2, HSMC D_0, SPI1 SPI1_SPCK_, SDMMC1 SDMMC1_CK_, QSPI0 QSPI0_SCK_]
+- U16 : PA23,  of Type IO, alternates : [ICE TDI_, PIO P_23, QSPI0 QSPI0_CS_, SPI1 SPI1_MOSI_, FLEXCOM1 FLEXCOM1_IO_1, HSMC D_1]
+- T15 : PA24,  of Type IO, alternates : [SPI1 SPI1_MISO_, FLEXCOM1 FLEXCOM1_IO_0, HSMC D_2, PIO P_24, ICE TDO_, QSPI0 QSPI0_IO_0]
+- U17 : PA25,  of Type IO, alternates : [PIO P_25, ICE TMS_, HSMC D_3, FLEXCOM1 FLEXCOM1_IO_3, SPI1 SPI1_NPCS_0, QSPI0 QSPI0_IO_1]
+- P13 : PA26,  of Type IO, alternates : [PIO P_26, ICE NTRST_, HSMC D_4, SPI1 SPI1_NPCS_1, FLEXCOM1 FLEXCOM1_IO_4, QSPI0 QSPI0_IO_2]
+- T16 : PA27,  of Type IO, alternates : [PIO P_27, SPI0 SPI0_NPCS_2, SDMMC1 SDMMC1_RSTN_, HSMC D_5, TC0 TIOA_1, QSPI0 QSPI0_IO_3, SPI1 SPI1_NPCS_2]
+- R16 : PA28,  of Type IO, alternates : [HSMC D_6, PIO P_28, SPI0 SPI0_NPCS_3, CLASSD CLASSD_L_0, SDMMC1 SDMMC1_CMD_, TC0 TIOB_1, SPI1 SPI1_NPCS_3]
+- T17 : PA29,  of Type IO, alternates : [HSMC D_7, TC0 TCLK_1, SDMMC1 SDMMC1_WP_, CLASSD CLASSD_L_1, SPI0 SPI0_NPCS_1, PIO P_29]
+- R15 : PA30,  of Type IO, alternates : [SPI0 SPI0_NPCS_0, PWM PWMH_0, CLASSD CLASSD_L_2, PIO P_30, HSMC NANDNWE_, SDMMC1 SDMMC1_CD_]
+- R17 : PA31,  of Type IO, alternates : [PWM PWML_0, HSMC NCS_3, CLASSD CLASSD_L_3, PIO P_31, SPI0 SPI0_MISO_]
+- J8 : PB0,  of Type IO, alternates : [PIO P_32, PWM PWMH_1, HSMC A21_, SPI0 SPI0_MOSI_]
+- A8 : PB1,  of Type IO, alternates : [SPI0 SPI0_SPCK_, PIO P_33, PWM PWML_1, HSMC A22_, CLASSD CLASSD_R_0]
+- A7 : PB2,  of Type IO, alternates : [PIO P_34, PWM PWMFI_0, CLASSD CLASSD_R_1, HSMC NANDOE_]
+- A6 : PB3,  of Type IO, alternates : [HSMC D_8, AIC IRQ_, PWM PWMEXTRG_1, PIO P_35, CLASSD CLASSD_R_2, UART4 URXD_4]
+- B6 : PB4,  of Type IO, alternates : [PIO P_36, HSMC D_9, SAIC FIQ_, UART4 UTXD_4, CLASSD CLASSD_R_3]
+- B7 : PB5,  of Type IO, alternates : [PIO P_37, HSMC D_10, PWM PWMH_2, QSPI1 QSPI1_SCK_, GMAC GTSUCOMP_, TC0 TCLK_2]
+- C7 : PB6,  of Type IO, alternates : [PIO P_38, HSMC D_11, QSPI1 QSPI1_CS_, GMAC GTXER_, PWM PWML_2, TC0 TIOA_2]
+- C6 : PB7,  of Type IO, alternates : [PIO P_39, QSPI1 QSPI1_IO_0, HSMC D_12, PWM PWMH_3, TC0 TIOB_2, GMAC GRXCK_]
+- A5 : PB8,  of Type IO, alternates : [QSPI1 QSPI1_IO_1, HSMC D_13, PIO P_40, PWM PWML_3, GMAC GCRS_, TC1 TCLK_3]
+- A4 : PB9,  of Type IO, alternates : [QSPI1 QSPI1_IO_2, HSMC D_14, GMAC GCOL_, PIO P_41, TC1 TIOA_3, PWM PWMFI_1]
+- H8 : PB10,  of Type IO, alternates : [GMAC GRX_2, PWM PWMEXTRG_2, QSPI1 QSPI1_IO_3, HSMC D_15, TC1 TIOB_3, PIO P_42]
+- B5 : PB11,  of Type IO, alternates : [GMAC GRX_3, PIO P_43, PDMIC PDMIC_DAT_, UART3 URXD_3, LCDC LCDDAT_0, HSMC A0_]
+- D6 : PB12,  of Type IO, alternates : [PDMIC PDMIC_CLK_, PIO P_44, UART3 UTXD_3, GMAC GTX_2, HSMC A_1, LCDC LCDDAT_1]
+- B4 : PB13,  of Type IO, alternates : [PMC PCK_1, PIO P_45, GMAC GTX_3, HSMC A_2, LCDC LCDDAT_2]
+- C5 : PB14,  of Type IO, alternates : [SSC1 TK_1, I2SC1 I2SC1_MCK_, LCDC LCDDAT_3, PIO P_46, HSMC A_3, QSPI1 QSPI1_SCK_, GMAC GTXCK_]
+- H7 : PB15,  of Type IO, alternates : [PIO P_47, LCDC LCDDAT_4, QSPI1 QSPI1_CS_, GMAC GTXEN_, HSMC A_4, SSC1 TF_1, I2SC1 I2SC1_CK_]
+- D5 : PB16,  of Type IO, alternates : [LCDC LCDDAT_5, PIO P_48, I2SC1 I2SC1_WS_, QSPI1 QSPI1_IO_0, HSMC A_5, GMAC GRXDV_, SSC1 TD_1]
+- C4 : PB17,  of Type IO, alternates : [LCDC LCDDAT_6, GMAC GRXER_, I2SC1 I2SC1_DI_0, PIO P_49, QSPI1 QSPI1_IO_1, HSMC A_6, SSC1 RD_1]
+- A3 : PB18,  of Type IO, alternates : [HSMC A_7, SSC1 RK_1, QSPI1 QSPI1_IO_2, LCDC LCDDAT_7, PIO P_50, I2SC1 I2SC1_DO_0, GMAC GRX_0]
+- D4 : PB19,  of Type IO, alternates : [SSC1 RF_1, QSPI1 QSPI1_IO_3, HSMC A_8, LCDC LCDDAT_8, PIO P_51, TC1 TIOA_3, GMAC GRX_1]
+- B3 : PB20,  of Type IO, alternates : [PMC PCK_1, HSMC A_9, LCDC LCDDAT_9, GMAC GTX_0, TC1 TIOB_3, PIO P_52, SSC0 TK_0]
+- A2 : PB21,  of Type IO, alternates : [SSC0 TF_0, FLEXCOM3 FLEXCOM3_IO_2, GMAC GTX_1, PIO P_53, HSMC A_10, LCDC LCDDAT_10, TC1 TCLK_3]
+- C3 : PB22,  of Type IO, alternates : [SSC0 TD_0, PIO P_54, FLEXCOM3 FLEXCOM3_IO_1, HSMC A_11, GMAC GMDC_, TC0 TIOA_2, LCDC LCDDAT_11]
+- A1 : PB23,  of Type IO, alternates : [SSC0 RD_0, GMAC GMDIO_, PIO P_55, FLEXCOM3 FLEXCOM3_IO_0, TC0 TIOB_2, HSMC A_12, LCDC LCDDAT_12]
+- E5 : PB24,  of Type IO, alternates : [PIO P_56, FLEXCOM3 FLEXCOM3_IO_3, ISC ISC_D_10, HSMC A_13, SSC0 RK_0, LCDC LCDDAT_13, TC0 TCLK_2]
+- B2 : PB25,  of Type IO, alternates : [ISC ISC_D_11, PIO P_57, HSMC A_14, LCDC LCDDAT_14, FLEXCOM3 FLEXCOM3_IO_4, SSC0 RF_0]
+- E4 : PB26,  of Type IO, alternates : [PIO P_58, ISC ISC_D_0, HSMC A_15, PDMIC PDMIC_DAT_, LCDC LCDDAT_15, UART0 URXD_0]
+- B1 : PB27,  of Type IO, alternates : [PIO P_59, ISC ISC_D_1, PDMIC PDMIC_CLK_, HSMC A_16, UART0 UTXD_0, LCDC LCDDAT_16]
+- C2 : PB28,  of Type IO, alternates : [ISC ISC_D_2, HSMC A_17, FLEXCOM0 FLEXCOM0_IO_0, LCDC LCDDAT_17, TC1 TIOA_5, PIO P_60]
+- D3 : PB29,  of Type IO, alternates : [ISC ISC_D_3, HSMC A_18, LCDC LCDDAT_18, FLEXCOM0 FLEXCOM0_IO_1, PIO P_61, TC1 TIOB_5]
+- D2 : PB30,  of Type IO, alternates : [HSMC A_19, LCDC LCDDAT_19, ISC ISC_D_4, FLEXCOM0 FLEXCOM0_IO_2, PIO P_62, TC1 TCLK_5]
+- C1 : PB31,  of Type IO, alternates : [TWIHS0 TWD_0, ISC ISC_D_5, FLEXCOM0 FLEXCOM0_IO_3, PIO P_63, HSMC A_20, LCDC LCDDAT_20]
+- P17 : PC0,  of Type IO, alternates : [TWIHS0 TWCK_0, ISC ISC_D_6, HSMC A_23, FLEXCOM0 FLEXCOM0_IO_4, PIO P_64, LCDC LCDDAT_21]
+- N12 : PC1,  of Type IO, alternates : [MCAN0 CANTX_0, I2SC0 I2SC0_CK_, PIO P_65, ISC ISC_D_7, HSMC A_24, SPI1 SPI1_SPCK_, LCDC LCDDAT_22]
+- N14 : PC2,  of Type IO, alternates : [MCAN0 CANRX_0, PIO P_66, SPI1 SPI1_MOSI_, HSMC A_25, ISC ISC_D_8, LCDC LCDDAT_23, I2SC0 I2SC0_MCK_]
+- M15 : PC3,  of Type IO, alternates : [SPI1 SPI1_MISO_, I2SC0 I2SC0_WS_, LCDC LCDPWM_, PIO P_67, TC0 TIOA_1, ISC ISC_D_9, HSMC NWAIT_]
+- M11 : PC4,  of Type IO, alternates : [ISC ISC_PCK_, LCDC LCDDISP_, I2SC0 I2SC0_DI_0, PIO P_68, SPI1 SPI1_NPCS_0, HSMC NWR1_, TC0 TIOB_1]
+- L10 : PC5,  of Type IO, alternates : [PIO P_69, ISC ISC_VSYNC_, TC0 TCLK_1, SPI1 SPI1_NPCS_1, HSMC NCS_0, I2SC0 I2SC0_DO_0, LCDC LCDVSYNC_]
+- K10 : PC6,  of Type IO, alternates : [LCDC LCDHSYNC_, TWIHS1 TWD_1, PIO P_70, ISC ISC_HSYNC_, SPI1 SPI1_NPCS_2]
+- M16 : PC7,  of Type IO, alternates : [LCDC LCDPCK_, TWIHS1 TWCK_1, ISC ISC_MCK_, UART1 URXD_1, HSMC NCS_2, SPI1 SPI1_NPCS_3, PIO P_71]
+- J10 : PC8,  of Type IO, alternates : [LCDC LCDDEN_, HSMC NANDRDY_, SAIC FIQ_, ISC ISC_FIELD_, UART1 UTXD_1, PIO P_72, PMC PCK_0]
+- D1 : PC9,  of Type IO, alternates : [SAIC FIQ_, ISC ISC_D_0, PIO P_73, TC1 TIOA_4, GMAC GTSUCOMP_]
+- E3 : PC10,  of Type IO, alternates : [MCAN0 CANTX_0, ISC ISC_D_1, TC1 TIOB_4, PIO P_74, LCDC LCDDAT_2, GMAC GTXCK_]
+- E2 : PC11,  of Type IO, alternates : [ISC ISC_D_2, LCDC LCDDAT_3, MCAN0 CANRX_0, GMAC GTXEN_, PIO P_75, HSMC A0_, TC1 TCLK_4]
+- E1 : PC12,  of Type IO, alternates : [ISC ISC_D_3, LCDC LCDDAT_4, PIO P_76, GMAC GRXDV_, HSMC A_1, UART3 URXD_3, SSC0 TK_0]
+- F3 : PC13,  of Type IO, alternates : [LCDC LCDDAT_5, GMAC GRXER_, SSC0 TF_0, PIO P_77, UART3 UTXD_3, ISC ISC_D_4, HSMC A_2]
+- F5 : PC14,  of Type IO, alternates : [LCDC LCDDAT_6, SSC0 TD_0, PIO P_78, ISC ISC_D_5, HSMC A_3, GMAC GRX_0]
+- F2 : PC15,  of Type IO, alternates : [SSC0 RD_0, ISC ISC_D_6, LCDC LCDDAT_7, PIO P_79, HSMC A_4, GMAC GRX_1]
+- G6 : PC16,  of Type IO, alternates : [ISC ISC_D_7, HSMC A_5, GMAC GTX_0, SSC0 RK_0, LCDC LCDDAT_10, PIO P_80]
+- F1 : PC17,  of Type IO, alternates : [HSMC A_6, GMAC GTX_1, ISC ISC_D_8, LCDC LCDDAT_11, SSC0 RF_0, PIO P_81]
+- H6 : PC18,  of Type IO, alternates : [HSMC A_7, FLEXCOM3 FLEXCOM3_IO_2, GMAC GMDC_, ISC ISC_D_9, LCDC LCDDAT_12, PIO P_82]
+- G2 : PC19,  of Type IO, alternates : [GMAC GMDIO_, HSMC A_8, FLEXCOM3 FLEXCOM3_IO_1, ISC ISC_D_10, PIO P_83, LCDC LCDDAT_13]
+- G3 : PC20,  of Type IO, alternates : [HSMC A_9, FLEXCOM3 FLEXCOM3_IO_0, ISC ISC_D_11, LCDC LCDDAT_14, PIO P_84, GMAC GRXCK_]
+- G1 : PC21,  of Type IO, alternates : [ISC ISC_PCK_, GMAC GTXER_, FLEXCOM3 FLEXCOM3_IO_3, LCDC LCDDAT_15, PIO P_85, HSMC A_10]
+- H2 : PC22,  of Type IO, alternates : [ISC ISC_VSYNC_, LCDC LCDDAT_18, HSMC A_11, FLEXCOM3 FLEXCOM3_IO_4, PIO P_86, GMAC GCRS_]
+- G5 : PC23,  of Type IO, alternates : [LCDC LCDDAT_19, PIO P_87, HSMC A_12, GMAC GCOL_, ISC ISC_HSYNC_]
+- H1 : PC24,  of Type IO, alternates : [GMAC GRX_2, ISC ISC_MCK_, PIO P_88, HSMC A_13, LCDC LCDDAT_20]
+- H5 : PC25,  of Type IO, alternates : [GMAC GRX_3, ISC ISC_FIELD_, PIO P_89, HSMC A_14, LCDC LCDDAT_21]
+- J9 : PC26,  of Type IO, alternates : [MCAN1 CANTX_1, HSMC A_15, GMAC GTX_2, LCDC LCDDAT_22, PIO P_90]
+- H9 : PC27,  of Type IO, alternates : [MCAN1 CANRX_1, PMC PCK_1, TWIHS0 TWD_0, HSMC A_16, GMAC GTX_3, LCDC LCDDAT_23, PIO P_91]
+- E8 : PC28,  of Type IO, alternates : [PMC PCK_2, TWIHS0 TWCK_0, HSMC A_17, LCDC LCDPWM_, FLEXCOM4 FLEXCOM4_IO_0, PIO P_92]
+- G8 : PC29,  of Type IO, alternates : [HSMC A_18, LCDC LCDDISP_, FLEXCOM4 FLEXCOM4_IO_1, PIO P_93]
+- F8 : PC30,  of Type IO, alternates : [HSMC A_19, PIO P_94, FLEXCOM4 FLEXCOM4_IO_2, LCDC LCDVSYNC_]
+- D8 : PC31,  of Type IO, alternates : [LCDC LCDHSYNC_, FLEXCOM4 FLEXCOM4_IO_3, PIO P_95, UART3 URXD_3, HSMC A_20]
+- G10 : PD0,  of Type IO, alternates : [LCDC LCDPCK_, UART3 UTXD_3, HSMC A_23, GMAC GTSUCOMP_, PIO P_96, FLEXCOM4 FLEXCOM4_IO_4]
+- E10 : PD1,  of Type IO, alternates : [LCDC LCDDEN_, HSMC A_24, PIO P_97, GMAC GRXCK_]
+- G9 : PD2,  of Type IO, alternates : [GMAC GTXER_, ISC ISC_MCK_, PIO P_98, HSMC A_25, UART1 URXD_1]
+- K1 : PD3,  of Type IO, alternates : [SAIC FIQ_, PIO P_99, ISC ISC_D_11, UART1 UTXD_1, HSMC NWAIT_, PTC PTC_X_0, GMAC GCRS_]
+- J6 : PD4,  of Type IO, alternates : [ISC ISC_D_10, HSMC NCS_0, GMAC GCOL_, TWIHS1 TWD_1, UART2 URXD_2, PIO P_100, PTC PTC_X_1]
+- J4 : PD5,  of Type IO, alternates : [TWIHS1 TWCK_1, GMAC GRX_2, UART2 UTXD_2, HSMC NCS_1, PIO P_101, ISC ISC_D_9, PTC PTC_X_2]
+- J2 : PD6,  of Type IO, alternates : [PMC PCK_1, GMAC GRX_3, ICE TCK_, PIO P_102, ISC ISC_D_8, HSMC NCS_2, PTC PTC_X_3]
+- J7 : PD7,  of Type IO, alternates : [ISC ISC_D_0, ICE TDI_, PIO P_103, PTC PTC_X_4, GMAC GTX_2, HSMC NWR1_]
+- J1 : PD8,  of Type IO, alternates : [HSMC NANDRDY_, ISC ISC_D_1, PTC PTC_X_5, ICE TDO_, GMAC GTX_3, PIO P_104]
+- K9 : PD9,  of Type IO, alternates : [ISC ISC_D_2, ICE TMS_, PTC PTC_X_6, PIO P_105, GMAC GTXCK_]
+- J3 : PD10,  of Type IO, alternates : [ISC ISC_D_3, ICE NTRST_, GMAC GTXEN_, PTC PTC_X_7, PIO P_106]
+- M1 : PD11,  of Type IO, alternates : [PMC PCK_2, ISC ISC_MCK_, ISC ISC_D_4, GMAC GRXDV_, TC0 TIOA_1, PIO P_107, PTC PTC_Y_0]
+- K8 : PD12,  of Type IO, alternates : [GMAC GRXER_, PIO P_108, ISC ISC_D_4, FLEXCOM4 FLEXCOM4_IO_0, ISC ISC_D_5, TC0 TIOB_1, PTC PTC_Y_1]
+- L2 : PD13,  of Type IO, alternates : [PIO P_109, TC0 TCLK_1, ISC ISC_D_6, FLEXCOM4 FLEXCOM4_IO_1, ISC ISC_D_5, GMAC GRX_0, PTC PTC_Y_2]
+- K4 : PD14,  of Type IO, alternates : [ISC ISC_D_6, PIO P_110, ISC ISC_D_7, ICE TCK_, FLEXCOM4 FLEXCOM4_IO_2, PTC PTC_Y_3, GMAC GRX_1]
+- K7 : PD15,  of Type IO, alternates : [ISC ISC_PCK_, ICE TDI_, ISC ISC_D_7, FLEXCOM4 FLEXCOM4_IO_3, GMAC GTX_0, PTC PTC_Y_4, PIO P_111]
+- L1 : PD16,  of Type IO, alternates : [ISC ISC_VSYNC_, GMAC GTX_1, ICE TDO_, ISC ISC_D_8, PIO P_112, FLEXCOM4 FLEXCOM4_IO_4, PTC PTC_Y_5]
+- K2 : PD17,  of Type IO, alternates : [ICE TMS_, PIO P_113, PTC PTC_Y_6, GMAC GMDC_, ISC ISC_D_9, ISC ISC_HSYNC_]
+- J5 : PD18,  of Type IO, alternates : [GMAC GMDIO_, ICE NTRST_, ISC ISC_FIELD_, PTC PTC_Y_7, ISC ISC_D_10, PIO P_114]
+- K6 : PD19,  of Type IO, alternates : [I2SC0 I2SC0_CK_, ISC ISC_D_11, TWIHS1 TWD_1, UART2 URXD_2, ADC AD_0, PIO P_115, PMC PCK_0]
+- M2 : PD20,  of Type IO, alternates : [ISC ISC_PCK_, TWIHS1 TWCK_1, UART2 UTXD_2, TC0 TIOA_2, PIO P_116, ADC AD_1, I2SC0 I2SC0_MCK_]
+- N1 : PD21,  of Type IO, alternates : [ISC ISC_VSYNC_, TWIHS0 TWD_0, I2SC0 I2SC0_WS_, FLEXCOM4 FLEXCOM4_IO_0, TC0 TIOB_2, ADC AD_2, PIO P_117]
+- L4 : PD22,  of Type IO, alternates : [TWIHS0 TWCK_0, FLEXCOM4 FLEXCOM4_IO_1, I2SC0 I2SC0_DI_0, PIO P_118, TC0 TCLK_2, ADC AD_3, ISC ISC_HSYNC_]
+- M3 : PD23,  of Type IO, alternates : [ADC AD_4, PIO P_119, ISC ISC_FIELD_, FLEXCOM4 FLEXCOM4_IO_2, UART2 URXD_2, I2SC0 I2SC0_DO_0]
+- L7 : PD24,  of Type IO, alternates : [ADC AD_5, UART2 UTXD_2, PIO P_120, FLEXCOM4 FLEXCOM4_IO_3]
+- L6 : PD25,  of Type IO, alternates : [ADC AD_6, PIO P_121, SPI1 SPI1_SPCK_, FLEXCOM4 FLEXCOM4_IO_4]
+- N2 : PD26,  of Type IO, alternates : [ADC AD_7, FLEXCOM2 FLEXCOM2_IO_0, SPI1 SPI1_MOSI_, PIO P_122]
+- L8 : PD27,  of Type IO, alternates : [SPI1 SPI1_MISO_, ADC AD_8, FLEXCOM2 FLEXCOM2_IO_1, ICE TCK_, PIO P_123]
+- M4 : PD28,  of Type IO, alternates : [ICE TDI_, ADC AD_9, FLEXCOM2 FLEXCOM2_IO_2, PIO P_124, SPI1 SPI1_NPCS_0]
+- N3 : PD29,  of Type IO, alternates : [TWIHS0 TWD_0, PIO P_125, SPI1 SPI1_NPCS_1, FLEXCOM2 FLEXCOM2_IO_3, ICE TDO_, TC1 TIOA_3, ADC AD_10]
+- L9 : PD30,  of Type IO, alternates : [TWIHS0 TWCK_0, ICE TMS_, TC1 TIOB_3, FLEXCOM2 FLEXCOM2_IO_4, ADC AD_11, PIO P_126, SPI1 SPI1_NPCS_2]
+- M7 : PD31,  of Type IO, alternates : [AIC IRQ_, ADC ADTRG_, ICE NTRST_, PIO P_127, TC1 TCLK_3, PMC PCK_0]
+- L5 : VDDANA,  of Type PP
+- K5 : GNDANA,  of Type PS
+- M6 : ADVREF,  of Type PS
+- K3 : VDDANA,  of Type PP
+- L3 : GNDANA,  of Type PS
+- H16 : DDR_VREF,  of Type PS
+- D16 : DDR_VREF,  of Type PS
+- B12 : DDR_D0,  of Type IO
+- A12 : DDR_D1,  of Type IO
+- C12 : DDR_D2,  of Type IO
+- A13 : DDR_D3,  of Type IO
+- A14 : DDR_D4,  of Type IO
+- C13 : DDR_D5,  of Type IO
+- A15 : DDR_D6,  of Type IO
+- B15 : DDR_D7,  of Type IO
+- G17 : DDR_D8,  of Type IO
+- G16 : DDR_D9,  of Type IO
+- H17 : DDR_D10,  of Type IO
+- K17 : DDR_D11,  of Type IO
+- K16 : DDR_D12,  of Type IO
+- J13 : DDR_D13,  of Type IO
+- K14 : DDR_D14,  of Type IO
+- K15 : DDR_D15,  of Type IO
+- B8 : DDR_D16,  of Type IO
+- B9 : DDR_D17,  of Type IO
+- C9 : DDR_D18,  of Type IO
+- A9 : DDR_D19,  of Type IO
+- A10 : DDR_D20,  of Type IO
+- D10 : DDR_D21,  of Type IO
+- B11 : DDR_D22,  of Type IO
+- A11 : DDR_D23,  of Type IO
+- J12 : DDR_D24,  of Type IO
+- H10 : DDR_D25,  of Type IO
+- J11 : DDR_D26,  of Type IO
+- K11 : DDR_D27,  of Type IO
+- L13 : DDR_D28,  of Type IO
+- L11 : DDR_D29,  of Type IO
+- L12 : DDR_D30,  of Type IO
+- M17 : DDR_D31,  of Type IO
+- F12 : DDR_A0,  of Type OP
+- C17 : DDR_A1,  of Type OP
+- B17 : DDR_A2,  of Type OP
+- B16 : DDR_A3,  of Type OP
+- C16 : DDR_A4,  of Type OP
+- G14 : DDR_A5,  of Type OP
+- F14 : DDR_A6,  of Type OP
+- F11 : DDR_A7,  of Type OP
+- C14 : DDR_A8,  of Type OP
+- D13 : DDR_A9,  of Type OP
+- C15 : DDR_A10,  of Type OP
+- A16 : DDR_A11,  of Type OP
+- A17 : DDR_A12,  of Type OP
+- G11 : DDR_A13,  of Type OP
+- E17 : DDR_CLK,  of Type OP
+- D17 : DDR_CLKN,  of Type OP
+- F16 : DDR_CKE,  of Type OP
+- E16 : DDR_RESETN,  of Type OP
+- G13 : DDR_CS,  of Type OP
+- F15 : DDR_WE,  of Type OP
+- F13 : DDR_RAS,  of Type OP
+- G12 : DDR_CAS,  of Type OP
+- C11 : DDR_DQM0,  of Type OP
+- G15 : DDR_DQM1,  of Type OP
+- C8 : DDR_DQM2,  of Type OP
+- H11 : DDR_DQM3,  of Type OP
+- B13 : DDR_DQS0,  of Type OP
+- J17 : DDR_DQS1,  of Type OP
+- C10 : DDR_DQS2,  of Type OP
+- L17 : DDR_DQS3,  of Type OP
+- B14 : DDR_DQSN0,  of Type OP
+- J16 : DDR_DQSN1,  of Type OP
+- B10 : DDR_DQSN2,  of Type OP
+- L16 : DDR_DQSN3,  of Type OP
+- H12 : DDR_BA0,  of Type OP
+- H13 : DDR_BA1,  of Type OP
+- F17 : DDR_BA2,  of Type OP
+- E13 : DDR_,  of Type IO
+- L15 : VDDIODDR,  of Type PP
+- J15 : VDDIODDR,  of Type PP
+- H15 : VDDIODDR,  of Type PP
+- E15 : VDDIODDR,  of Type PP
+- D15 : VDDIODDR,  of Type PP
+- D12 : VDDIODDR,  of Type PP
+- D11 : VDDIODDR,  of Type PP
+- L14 : GNDIODDR,  of Type PS
+- J14 : GNDIODDR,  of Type PS
+- H14 : GNDIODDR,  of Type PS
+- E14 : GNDIODDR,  of Type PS
+- D14 : GNDIODDR,  of Type PS
+- E12 : GNDIODDR,  of Type PS
+- E11 : GNDIODDR,  of Type PS
+- H3 : VDDCORE,  of Type PP
+- N5 : GNDCORE,  of Type PS
+- N9 : VDDCORE,  of Type PP
+- K13 : VDDCORE,  of Type PP
+- D9 : VDDCORE,  of Type PP
+- D7 : VDDCORE,  of Type PP
+- H4 : GNDCORE,  of Type PS
+- M5 : PIOBU7,  of Type IO
+- M9 : GNDCORE,  of Type PS
+- K12 : GNDCORE,  of Type PS
+- E9 : GNDCORE,  of Type PS
+- E7 : GNDCORE,  of Type PS
+- E6 : VDDIOP0,  of Type PP
+- F7 : VDDIOP0,  of Type PP
+- F6 : GNDIOP0,  of Type PS
+- G7 : GNDIOP0,  of Type PS
+- R14 : VDDIOP1,  of Type PP
+- N13 : VDDIOP1,  of Type PP
+- M13 : GNDIOP1,  of Type PS
+- P14 : GNDIOP1,  of Type PS
+- F10 : VDDIOP2,  of Type PP
+- F9 : GNDIOP2,  of Type PS
+- P11 : VDDSDMMC,  of Type PP
+- R11 : GNDSDMMC,  of Type PS
+- F4 : VDDISC,  of Type PP
+- G4 : GNDISC,  of Type PS
+- M12 : VDDFUSE,  of Type PP
+- U4 : VDDPLLA,  of Type PP
+- U5 : GNDPLLA,  of Type PS
+- T3 : VDDAUDIOPLL,  of Type PP
+- T5 : GNDDPLL,  of Type PS
+- T4 : GNDAUDIOPLL,  of Type PS
+- U3 : CLK_AUDIO,  of Type IO
+- U7 : XIN,  of Type PS
+- U6 : XOUT,  of Type PS
+- T7 : VDDOSC,  of Type PP
+- T6 : GNDOSC,  of Type PS
+- P8 : VDDUTMII,  of Type PP
+- R9 : VDDHSIC,  of Type PP
+- P9 : GNDUTMII,  of Type PS
+- T8 : HHSDPA,  of Type IO
+- R8 : HHSDMA,  of Type IO
+- U8 : HHSDPB,  of Type IO
+- U9 : HHSDMB,  of Type IO
+- T9 : HHSDPDATC,  of Type IO
+- U10 : HHSDMSTRC,  of Type IO
+- P7 : VDDUTMIC,  of Type PP
+- R7 : GNDUTMIC,  of Type PS
+- T10 : SDCAL,  of Type IO
+- R6 : VBG,  of Type IO
+- P3 : TST,  of Type IO
+- U2 : NRST,  of Type IP
+- T2 : JTAGSEL,  of Type OP
+- P4 : VDDCORE,  of Type PP
+- N4 : RXD,  of Type IP
+- R1 : SHDN,  of Type IO
+- R3 : VDDBU,  of Type PP
+- N8 : PIOBU1,  of Type IO
+- R2 : WKUP,  of Type IP
+- R5 : PIOBU5,  of Type IO
+- R4 : GNDBU,  of Type PS
+- P5 : PIOBU4,  of Type IO
+- P6 : PIOBU3,  of Type IO
+- M8 : PIOBU2,  of Type IO
+- N7 : PIOBU6,  of Type IO
+- N6 : PIOBU0,  of Type IO
+- P1 : XIN32,  of Type PS
+- P2 : XOUT32,  of Type PS
+- T1 : COMPP,  of Type IO
+- U1 : COMPN,  of Type IO
 ## ATSAMA5D28C-CNR
+
 ### Description : 
+
+- Series : SAMA5D2
+- Footprint : LFBGA289
+- MP : ATSAMA5D28C-CNR
+- Architecture : CORTEX-A5
+- PINOUT : LFBGA289
+- Reference : U
+- Documentation : https://www.microchip.com/en-us/search?q=ATSAMA5D28C-CNR
+- Value : ATSAMA5D28C-CNR
+- Family : SAMA5
+- MF : Microchip
+- Name : ATSAMA5D28
 
 ### Package : 
 
-- U11 : PA0
-- P10 : PA1
-- T11 : PA2
-- R10 : PA3
-- U12 : PA4
-- T12 : PA5
-- R12 : PA6
-- T13 : PA7
-- N10 : PA8
-- N11 : PA9
-- U13 : PA10
-- P15 : PA11
-- N15 : PA12
-- P16 : PA13
-- M14 : PA14
-- N16 : PA15
-- M10 : PA16
-- N17 : PA17
-- U14 : PA18
-- T14 : PA19
-- P12 : PA20
-- R13 : PA21
-- U15 : PA22
-- U16 : PA23
-- T15 : PA24
-- U17 : PA25
-- P13 : PA26
-- T16 : PA27
-- R16 : PA28
-- T17 : PA29
-- R15 : PA30
-- R17 : PA31
-- J8 : PB0
-- A8 : PB1
-- A7 : PB2
-- A6 : PB3
-- B6 : PB4
-- B7 : PB5
-- C7 : PB6
-- C6 : PB7
-- A5 : PB8
-- A4 : PB9
-- H8 : PB10
-- B5 : PB11
-- D6 : PB12
-- B4 : PB13
-- C5 : PB14
-- H7 : PB15
-- D5 : PB16
-- C4 : PB17
-- A3 : PB18
-- D4 : PB19
-- B3 : PB20
-- A2 : PB21
-- C3 : PB22
-- A1 : PB23
-- E5 : PB24
-- B2 : PB25
-- E4 : PB26
-- B1 : PB27
-- C2 : PB28
-- D3 : PB29
-- D2 : PB30
-- C1 : PB31
-- P17 : PC0
-- N12 : PC1
-- N14 : PC2
-- M15 : PC3
-- M11 : PC4
-- L10 : PC5
-- K10 : PC6
-- M16 : PC7
-- J10 : PC8
-- D1 : PC9
-- E3 : PC10
-- E2 : PC11
-- E1 : PC12
-- F3 : PC13
-- F5 : PC14
-- F2 : PC15
-- G6 : PC16
-- F1 : PC17
-- H6 : PC18
-- G2 : PC19
-- G3 : PC20
-- G1 : PC21
-- H2 : PC22
-- G5 : PC23
-- H1 : PC24
-- H5 : PC25
-- J9 : PC26
-- H9 : PC27
-- E8 : PC28
-- G8 : PC29
-- F8 : PC30
-- D8 : PC31
-- G10 : PD0
-- E10 : PD1
-- G9 : PD2
-- K1 : PD3
-- J6 : PD4
-- J4 : PD5
-- J2 : PD6
-- J7 : PD7
-- J1 : PD8
-- K9 : PD9
-- J3 : PD10
-- M1 : PD11
-- K8 : PD12
-- L2 : PD13
-- K4 : PD14
-- K7 : PD15
-- L1 : PD16
-- K2 : PD17
-- J5 : PD18
-- K6 : PD19
-- M2 : PD20
-- N1 : PD21
-- L4 : PD22
-- M3 : PD23
-- L7 : PD24
-- L6 : PD25
-- N2 : PD26
-- L8 : PD27
-- M4 : PD28
-- N3 : PD29
-- L9 : PD30
-- M7 : PD31
-- L5 : VDDANA
-- K5 : GNDANA
-- M6 : ADVREF
-- K3 : VDDANA
-- L3 : GNDANA
-- H16 : DDR_VREF
-- D16 : DDR_VREF
-- B12 : DDR_D0
-- A12 : DDR_D1
-- C12 : DDR_D2
-- A13 : DDR_D3
-- A14 : DDR_D4
-- C13 : DDR_D5
-- A15 : DDR_D6
-- B15 : DDR_D7
-- G17 : DDR_D8
-- G16 : DDR_D9
-- H17 : DDR_D10
-- K17 : DDR_D11
-- K16 : DDR_D12
-- J13 : DDR_D13
-- K14 : DDR_D14
-- K15 : DDR_D15
-- B8 : DDR_D16
-- B9 : DDR_D17
-- C9 : DDR_D18
-- A9 : DDR_D19
-- A10 : DDR_D20
-- D10 : DDR_D21
-- B11 : DDR_D22
-- A11 : DDR_D23
-- J12 : DDR_D24
-- H10 : DDR_D25
-- J11 : DDR_D26
-- K11 : DDR_D27
-- L13 : DDR_D28
-- L11 : DDR_D29
-- L12 : DDR_D30
-- M17 : DDR_D31
-- F12 : DDR_A0
-- C17 : DDR_A1
-- B17 : DDR_A2
-- B16 : DDR_A3
-- C16 : DDR_A4
-- G14 : DDR_A5
-- F14 : DDR_A6
-- F11 : DDR_A7
-- C14 : DDR_A8
-- D13 : DDR_A9
-- C15 : DDR_A10
-- A16 : DDR_A11
-- A17 : DDR_A12
-- G11 : DDR_A13
-- E17 : DDR_CLK
-- D17 : DDR_CLKN
-- F16 : DDR_CKE
-- E16 : DDR_RESETN
-- G13 : DDR_CS
-- F15 : DDR_WE
-- F13 : DDR_RAS
-- G12 : DDR_CAS
-- C11 : DDR_DQM0
-- G15 : DDR_DQM1
-- C8 : DDR_DQM2
-- H11 : DDR_DQM3
-- B13 : DDR_DQS0
-- J17 : DDR_DQS1
-- C10 : DDR_DQS2
-- L17 : DDR_DQS3
-- B14 : DDR_DQSN0
-- J16 : DDR_DQSN1
-- B10 : DDR_DQSN2
-- L16 : DDR_DQSN3
-- H12 : DDR_BA0
-- H13 : DDR_BA1
-- F17 : DDR_BA2
-- E13 : DDR_
-- L15 : VDDIODDR
-- J15 : VDDIODDR
-- H15 : VDDIODDR
-- E15 : VDDIODDR
-- D15 : VDDIODDR
-- D12 : VDDIODDR
-- D11 : VDDIODDR
-- L14 : GNDIODDR
-- J14 : GNDIODDR
-- H14 : GNDIODDR
-- E14 : GNDIODDR
-- D14 : GNDIODDR
-- E12 : GNDIODDR
-- E11 : GNDIODDR
-- H3 : VDDCORE
-- N5 : GNDCORE
-- N9 : VDDCORE
-- K13 : VDDCORE
-- D9 : VDDCORE
-- D7 : VDDCORE
-- H4 : GNDCORE
-- M5 : PIOBU7
-- M9 : GNDCORE
-- K12 : GNDCORE
-- E9 : GNDCORE
-- E7 : GNDCORE
-- E6 : VDDIOP0
-- F7 : VDDIOP0
-- F6 : GNDIOP0
-- G7 : GNDIOP0
-- R14 : VDDIOP1
-- N13 : VDDIOP1
-- M13 : GNDIOP1
-- P14 : GNDIOP1
-- F10 : VDDIOP2
-- F9 : GNDIOP2
-- P11 : VDDSDMMC
-- R11 : GNDSDMMC
-- F4 : VDDISC
-- G4 : GNDISC
-- M12 : VDDFUSE
-- U4 : VDDPLLA
-- U5 : GNDPLLA
-- T3 : VDDAUDIOPLL
-- T5 : GNDDPLL
-- T4 : GNDAUDIOPLL
-- U3 : CLK_AUDIO
-- U7 : XIN
-- U6 : XOUT
-- T7 : VDDOSC
-- T6 : GNDOSC
-- P8 : VDDUTMII
-- R9 : VDDHSIC
-- P9 : GNDUTMII
-- T8 : HHSDPA
-- R8 : HHSDMA
-- U8 : HHSDPB
-- U9 : HHSDMB
-- T9 : HHSDPDATC
-- U10 : HHSDMSTRC
-- P7 : VDDUTMIC
-- R7 : GNDUTMIC
-- T10 : SDCAL
-- R6 : VBG
-- P3 : TST
-- U2 : NRST
-- T2 : JTAGSEL
-- P4 : VDDCORE
-- N4 : RXD
-- R1 : SHDN
-- R3 : VDDBU
-- N8 : PIOBU1
-- R2 : WKUP
-- R5 : PIOBU5
-- R4 : GNDBU
-- P5 : PIOBU4
-- P6 : PIOBU3
-- M8 : PIOBU2
-- N7 : PIOBU6
-- N6 : PIOBU0
-- P1 : XIN32
-- P2 : XOUT32
-- T1 : COMPP
-- U1 : COMPN
+Pin count : 289
+- U11 : PA0,  of Type IO, alternates : [HSMC D_0, PIO P_0, SDMMC0 SDMMC0_CK_, QSPI0 QSPI0_SCK_]
+- P10 : PA1,  of Type IO, alternates : [SDMMC0 SDMMC0_CMD_, PIO P_1, QSPI0 QSPI0_CS_, HSMC D_1]
+- T11 : PA2,  of Type IO, alternates : [PIO P_2, HSMC D_2, SDMMC0 SDMMC0_DAT_0, QSPI0 QSPI0_IO_0]
+- R10 : PA3,  of Type IO, alternates : [PIO P_3, HSMC D_3, SDMMC0 SDMMC0_DAT_1, QSPI0 QSPI0_IO_1]
+- U12 : PA4,  of Type IO, alternates : [HSMC D_4, PIO P_4, SDMMC0 SDMMC0_DAT_2, QSPI0 QSPI0_IO_2]
+- T12 : PA5,  of Type IO, alternates : [PIO P_5, HSMC D_5, QSPI0 QSPI0_IO_3, SDMMC0 SDMMC0_DAT_3]
+- R12 : PA6,  of Type IO, alternates : [PIO P_6, HSMC D_6, FLEXCOM2 FLEXCOM2_IO_0, TC1 TIOA_5, QSPI1 QSPI1_SCK_, SDMMC0 SDMMC0_DAT_4]
+- T13 : PA7,  of Type IO, alternates : [PIO P_7, QSPI1 QSPI1_IO_0, HSMC D_7, FLEXCOM2 FLEXCOM2_IO_1, SDMMC0 SDMMC0_DAT_5, TC1 TIOB_5]
+- N10 : PA8,  of Type IO, alternates : [PIO P_8, QSPI1 QSPI1_IO_1, FLEXCOM2 FLEXCOM2_IO_2, HSMC NANDNWE_, TC1 TCLK_5, SDMMC0 SDMMC0_DAT_6]
+- N11 : PA9,  of Type IO, alternates : [SDMMC0 SDMMC0_DAT_7, QSPI1 QSPI1_IO_2, FLEXCOM2 FLEXCOM2_IO_3, TC1 TIOA_4, HSMC NCS_3, PIO P_9]
+- U13 : PA10,  of Type IO, alternates : [PIO P_10, QSPI1 QSPI1_IO_3, SDMMC0 SDMMC0_RSTN_, HSMC A21_, TC1 TIOB_4, FLEXCOM2 FLEXCOM2_IO_4]
+- P15 : PA11,  of Type IO, alternates : [QSPI1 QSPI1_CS_, SDMMC0 SDMMC0_1V8SEL_, PIO P_11, HSMC A22_, TC1 TCLK_4]
+- N15 : PA12,  of Type IO, alternates : [AIC IRQ_, SDMMC0 SDMMC0_WP_, PIO P_12, HSMC NANDOE_]
+- P16 : PA13,  of Type IO, alternates : [HSMC D_8, FLEXCOM3 FLEXCOM3_IO_1, PIO P_13, SDMMC0 SDMMC0_CD_]
+- M14 : PA14,  of Type IO, alternates : [PIO P_14, SPI0 SPI0_SPCK_, HSMC D_9, SSC1 TK_1, I2SC1 I2SC1_MCK_, FLEXCOM3 FLEXCOM3_IO_2, QSPI0 QSPI0_SCK_]
+- N16 : PA15,  of Type IO, alternates : [PIO P_15, HSMC D_10, QSPI0 QSPI0_CS_, FLEXCOM3 FLEXCOM3_IO_0, SSC1 TF_1, SPI0 SPI0_MOSI_, I2SC1 I2SC1_CK_]
+- M10 : PA16,  of Type IO, alternates : [PIO P_16, HSMC D_11, I2SC1 I2SC1_WS_, FLEXCOM3 FLEXCOM3_IO_3, SPI0 SPI0_MISO_, SSC1 TD_1, QSPI0 QSPI0_IO_0]
+- N17 : PA17,  of Type IO, alternates : [I2SC1 I2SC1_DI_0, PIO P_17, HSMC D_12, SPI0 SPI0_NPCS_0, FLEXCOM3 FLEXCOM3_IO_4, QSPI0 QSPI0_IO_1, SSC1 RD_1]
+- U14 : PA18,  of Type IO, alternates : [HSMC D_13, SSC1 RK_1, SPI0 SPI0_NPCS_1, I2SC1 I2SC1_DO_0, PIO P_18, QSPI0 QSPI0_IO_2, SDMMC1 SDMMC1_DAT_0]
+- T14 : PA19,  of Type IO, alternates : [SSC1 RF_1, SPI0 SPI0_NPCS_2, HSMC D_14, TC0 TIOA_0, QSPI0 QSPI0_IO_3, PIO P_19, SDMMC1 SDMMC1_DAT_1]
+- P12 : PA20,  of Type IO, alternates : [SPI0 SPI0_NPCS_3, HSMC D_15, TC0 TIOB_0, PIO P_20, SDMMC1 SDMMC1_DAT_2]
+- R13 : PA21,  of Type IO, alternates : [AIC IRQ_, PMC PCK_2, HSMC NANDRDY_, TC0 TCLK_0, PIO P_21, SDMMC1 SDMMC1_DAT_3]
+- U15 : PA22,  of Type IO, alternates : [PIO P_22, ICE TCK_, FLEXCOM1 FLEXCOM1_IO_2, HSMC D_0, SPI1 SPI1_SPCK_, SDMMC1 SDMMC1_CK_, QSPI0 QSPI0_SCK_]
+- U16 : PA23,  of Type IO, alternates : [ICE TDI_, PIO P_23, QSPI0 QSPI0_CS_, SPI1 SPI1_MOSI_, FLEXCOM1 FLEXCOM1_IO_1, HSMC D_1]
+- T15 : PA24,  of Type IO, alternates : [SPI1 SPI1_MISO_, FLEXCOM1 FLEXCOM1_IO_0, HSMC D_2, PIO P_24, ICE TDO_, QSPI0 QSPI0_IO_0]
+- U17 : PA25,  of Type IO, alternates : [PIO P_25, ICE TMS_, HSMC D_3, FLEXCOM1 FLEXCOM1_IO_3, SPI1 SPI1_NPCS_0, QSPI0 QSPI0_IO_1]
+- P13 : PA26,  of Type IO, alternates : [PIO P_26, ICE NTRST_, HSMC D_4, SPI1 SPI1_NPCS_1, FLEXCOM1 FLEXCOM1_IO_4, QSPI0 QSPI0_IO_2]
+- T16 : PA27,  of Type IO, alternates : [PIO P_27, SPI0 SPI0_NPCS_2, SDMMC1 SDMMC1_RSTN_, HSMC D_5, TC0 TIOA_1, QSPI0 QSPI0_IO_3, SPI1 SPI1_NPCS_2]
+- R16 : PA28,  of Type IO, alternates : [HSMC D_6, PIO P_28, SPI0 SPI0_NPCS_3, CLASSD CLASSD_L_0, SDMMC1 SDMMC1_CMD_, TC0 TIOB_1, SPI1 SPI1_NPCS_3]
+- T17 : PA29,  of Type IO, alternates : [HSMC D_7, TC0 TCLK_1, SDMMC1 SDMMC1_WP_, CLASSD CLASSD_L_1, SPI0 SPI0_NPCS_1, PIO P_29]
+- R15 : PA30,  of Type IO, alternates : [SPI0 SPI0_NPCS_0, PWM PWMH_0, CLASSD CLASSD_L_2, PIO P_30, HSMC NANDNWE_, SDMMC1 SDMMC1_CD_]
+- R17 : PA31,  of Type IO, alternates : [PWM PWML_0, HSMC NCS_3, CLASSD CLASSD_L_3, PIO P_31, SPI0 SPI0_MISO_]
+- J8 : PB0,  of Type IO, alternates : [PIO P_32, PWM PWMH_1, HSMC A21_, SPI0 SPI0_MOSI_]
+- A8 : PB1,  of Type IO, alternates : [SPI0 SPI0_SPCK_, PIO P_33, PWM PWML_1, HSMC A22_, CLASSD CLASSD_R_0]
+- A7 : PB2,  of Type IO, alternates : [PIO P_34, PWM PWMFI_0, CLASSD CLASSD_R_1, HSMC NANDOE_]
+- A6 : PB3,  of Type IO, alternates : [HSMC D_8, AIC IRQ_, PWM PWMEXTRG_1, PIO P_35, CLASSD CLASSD_R_2, UART4 URXD_4]
+- B6 : PB4,  of Type IO, alternates : [PIO P_36, HSMC D_9, SAIC FIQ_, UART4 UTXD_4, CLASSD CLASSD_R_3]
+- B7 : PB5,  of Type IO, alternates : [PIO P_37, HSMC D_10, PWM PWMH_2, QSPI1 QSPI1_SCK_, GMAC GTSUCOMP_, TC0 TCLK_2]
+- C7 : PB6,  of Type IO, alternates : [PIO P_38, HSMC D_11, QSPI1 QSPI1_CS_, GMAC GTXER_, PWM PWML_2, TC0 TIOA_2]
+- C6 : PB7,  of Type IO, alternates : [PIO P_39, QSPI1 QSPI1_IO_0, HSMC D_12, PWM PWMH_3, TC0 TIOB_2, GMAC GRXCK_]
+- A5 : PB8,  of Type IO, alternates : [QSPI1 QSPI1_IO_1, HSMC D_13, PIO P_40, PWM PWML_3, GMAC GCRS_, TC1 TCLK_3]
+- A4 : PB9,  of Type IO, alternates : [QSPI1 QSPI1_IO_2, HSMC D_14, GMAC GCOL_, PIO P_41, TC1 TIOA_3, PWM PWMFI_1]
+- H8 : PB10,  of Type IO, alternates : [GMAC GRX_2, PWM PWMEXTRG_2, QSPI1 QSPI1_IO_3, HSMC D_15, TC1 TIOB_3, PIO P_42]
+- B5 : PB11,  of Type IO, alternates : [GMAC GRX_3, PIO P_43, PDMIC PDMIC_DAT_, UART3 URXD_3, LCDC LCDDAT_0, HSMC A0_]
+- D6 : PB12,  of Type IO, alternates : [PDMIC PDMIC_CLK_, PIO P_44, UART3 UTXD_3, GMAC GTX_2, HSMC A_1, LCDC LCDDAT_1]
+- B4 : PB13,  of Type IO, alternates : [PMC PCK_1, PIO P_45, GMAC GTX_3, HSMC A_2, LCDC LCDDAT_2]
+- C5 : PB14,  of Type IO, alternates : [SSC1 TK_1, I2SC1 I2SC1_MCK_, LCDC LCDDAT_3, PIO P_46, HSMC A_3, QSPI1 QSPI1_SCK_, GMAC GTXCK_]
+- H7 : PB15,  of Type IO, alternates : [PIO P_47, LCDC LCDDAT_4, QSPI1 QSPI1_CS_, GMAC GTXEN_, HSMC A_4, SSC1 TF_1, I2SC1 I2SC1_CK_]
+- D5 : PB16,  of Type IO, alternates : [LCDC LCDDAT_5, PIO P_48, I2SC1 I2SC1_WS_, QSPI1 QSPI1_IO_0, HSMC A_5, GMAC GRXDV_, SSC1 TD_1]
+- C4 : PB17,  of Type IO, alternates : [LCDC LCDDAT_6, GMAC GRXER_, I2SC1 I2SC1_DI_0, PIO P_49, QSPI1 QSPI1_IO_1, HSMC A_6, SSC1 RD_1]
+- A3 : PB18,  of Type IO, alternates : [HSMC A_7, SSC1 RK_1, QSPI1 QSPI1_IO_2, LCDC LCDDAT_7, PIO P_50, I2SC1 I2SC1_DO_0, GMAC GRX_0]
+- D4 : PB19,  of Type IO, alternates : [SSC1 RF_1, QSPI1 QSPI1_IO_3, HSMC A_8, LCDC LCDDAT_8, PIO P_51, TC1 TIOA_3, GMAC GRX_1]
+- B3 : PB20,  of Type IO, alternates : [PMC PCK_1, HSMC A_9, LCDC LCDDAT_9, GMAC GTX_0, TC1 TIOB_3, PIO P_52, SSC0 TK_0]
+- A2 : PB21,  of Type IO, alternates : [SSC0 TF_0, FLEXCOM3 FLEXCOM3_IO_2, GMAC GTX_1, PIO P_53, HSMC A_10, LCDC LCDDAT_10, TC1 TCLK_3]
+- C3 : PB22,  of Type IO, alternates : [SSC0 TD_0, PIO P_54, FLEXCOM3 FLEXCOM3_IO_1, HSMC A_11, GMAC GMDC_, TC0 TIOA_2, LCDC LCDDAT_11]
+- A1 : PB23,  of Type IO, alternates : [SSC0 RD_0, GMAC GMDIO_, PIO P_55, FLEXCOM3 FLEXCOM3_IO_0, TC0 TIOB_2, HSMC A_12, LCDC LCDDAT_12]
+- E5 : PB24,  of Type IO, alternates : [PIO P_56, FLEXCOM3 FLEXCOM3_IO_3, ISC ISC_D_10, HSMC A_13, SSC0 RK_0, LCDC LCDDAT_13, TC0 TCLK_2]
+- B2 : PB25,  of Type IO, alternates : [ISC ISC_D_11, PIO P_57, HSMC A_14, LCDC LCDDAT_14, FLEXCOM3 FLEXCOM3_IO_4, SSC0 RF_0]
+- E4 : PB26,  of Type IO, alternates : [PIO P_58, ISC ISC_D_0, HSMC A_15, PDMIC PDMIC_DAT_, LCDC LCDDAT_15, UART0 URXD_0]
+- B1 : PB27,  of Type IO, alternates : [PIO P_59, ISC ISC_D_1, PDMIC PDMIC_CLK_, HSMC A_16, UART0 UTXD_0, LCDC LCDDAT_16]
+- C2 : PB28,  of Type IO, alternates : [ISC ISC_D_2, HSMC A_17, FLEXCOM0 FLEXCOM0_IO_0, LCDC LCDDAT_17, TC1 TIOA_5, PIO P_60]
+- D3 : PB29,  of Type IO, alternates : [ISC ISC_D_3, HSMC A_18, LCDC LCDDAT_18, FLEXCOM0 FLEXCOM0_IO_1, PIO P_61, TC1 TIOB_5]
+- D2 : PB30,  of Type IO, alternates : [HSMC A_19, LCDC LCDDAT_19, ISC ISC_D_4, FLEXCOM0 FLEXCOM0_IO_2, PIO P_62, TC1 TCLK_5]
+- C1 : PB31,  of Type IO, alternates : [TWIHS0 TWD_0, ISC ISC_D_5, FLEXCOM0 FLEXCOM0_IO_3, PIO P_63, HSMC A_20, LCDC LCDDAT_20]
+- P17 : PC0,  of Type IO, alternates : [TWIHS0 TWCK_0, ISC ISC_D_6, HSMC A_23, FLEXCOM0 FLEXCOM0_IO_4, PIO P_64, LCDC LCDDAT_21]
+- N12 : PC1,  of Type IO, alternates : [MCAN0 CANTX_0, I2SC0 I2SC0_CK_, PIO P_65, ISC ISC_D_7, HSMC A_24, SPI1 SPI1_SPCK_, LCDC LCDDAT_22]
+- N14 : PC2,  of Type IO, alternates : [MCAN0 CANRX_0, PIO P_66, SPI1 SPI1_MOSI_, HSMC A_25, ISC ISC_D_8, LCDC LCDDAT_23, I2SC0 I2SC0_MCK_]
+- M15 : PC3,  of Type IO, alternates : [SPI1 SPI1_MISO_, I2SC0 I2SC0_WS_, LCDC LCDPWM_, PIO P_67, TC0 TIOA_1, ISC ISC_D_9, HSMC NWAIT_]
+- M11 : PC4,  of Type IO, alternates : [ISC ISC_PCK_, LCDC LCDDISP_, I2SC0 I2SC0_DI_0, PIO P_68, SPI1 SPI1_NPCS_0, HSMC NWR1_, TC0 TIOB_1]
+- L10 : PC5,  of Type IO, alternates : [PIO P_69, ISC ISC_VSYNC_, TC0 TCLK_1, SPI1 SPI1_NPCS_1, HSMC NCS_0, I2SC0 I2SC0_DO_0, LCDC LCDVSYNC_]
+- K10 : PC6,  of Type IO, alternates : [LCDC LCDHSYNC_, TWIHS1 TWD_1, PIO P_70, ISC ISC_HSYNC_, SPI1 SPI1_NPCS_2]
+- M16 : PC7,  of Type IO, alternates : [LCDC LCDPCK_, TWIHS1 TWCK_1, ISC ISC_MCK_, UART1 URXD_1, HSMC NCS_2, SPI1 SPI1_NPCS_3, PIO P_71]
+- J10 : PC8,  of Type IO, alternates : [LCDC LCDDEN_, HSMC NANDRDY_, SAIC FIQ_, ISC ISC_FIELD_, UART1 UTXD_1, PIO P_72, PMC PCK_0]
+- D1 : PC9,  of Type IO, alternates : [SAIC FIQ_, ISC ISC_D_0, PIO P_73, TC1 TIOA_4, GMAC GTSUCOMP_]
+- E3 : PC10,  of Type IO, alternates : [MCAN0 CANTX_0, ISC ISC_D_1, TC1 TIOB_4, PIO P_74, LCDC LCDDAT_2, GMAC GTXCK_]
+- E2 : PC11,  of Type IO, alternates : [ISC ISC_D_2, LCDC LCDDAT_3, MCAN0 CANRX_0, GMAC GTXEN_, PIO P_75, HSMC A0_, TC1 TCLK_4]
+- E1 : PC12,  of Type IO, alternates : [ISC ISC_D_3, LCDC LCDDAT_4, PIO P_76, GMAC GRXDV_, HSMC A_1, UART3 URXD_3, SSC0 TK_0]
+- F3 : PC13,  of Type IO, alternates : [LCDC LCDDAT_5, GMAC GRXER_, SSC0 TF_0, PIO P_77, UART3 UTXD_3, ISC ISC_D_4, HSMC A_2]
+- F5 : PC14,  of Type IO, alternates : [LCDC LCDDAT_6, SSC0 TD_0, PIO P_78, ISC ISC_D_5, HSMC A_3, GMAC GRX_0]
+- F2 : PC15,  of Type IO, alternates : [SSC0 RD_0, ISC ISC_D_6, LCDC LCDDAT_7, PIO P_79, HSMC A_4, GMAC GRX_1]
+- G6 : PC16,  of Type IO, alternates : [ISC ISC_D_7, HSMC A_5, GMAC GTX_0, SSC0 RK_0, LCDC LCDDAT_10, PIO P_80]
+- F1 : PC17,  of Type IO, alternates : [HSMC A_6, GMAC GTX_1, ISC ISC_D_8, LCDC LCDDAT_11, SSC0 RF_0, PIO P_81]
+- H6 : PC18,  of Type IO, alternates : [HSMC A_7, FLEXCOM3 FLEXCOM3_IO_2, GMAC GMDC_, ISC ISC_D_9, LCDC LCDDAT_12, PIO P_82]
+- G2 : PC19,  of Type IO, alternates : [GMAC GMDIO_, HSMC A_8, FLEXCOM3 FLEXCOM3_IO_1, ISC ISC_D_10, PIO P_83, LCDC LCDDAT_13]
+- G3 : PC20,  of Type IO, alternates : [HSMC A_9, FLEXCOM3 FLEXCOM3_IO_0, ISC ISC_D_11, LCDC LCDDAT_14, PIO P_84, GMAC GRXCK_]
+- G1 : PC21,  of Type IO, alternates : [ISC ISC_PCK_, GMAC GTXER_, FLEXCOM3 FLEXCOM3_IO_3, LCDC LCDDAT_15, PIO P_85, HSMC A_10]
+- H2 : PC22,  of Type IO, alternates : [ISC ISC_VSYNC_, LCDC LCDDAT_18, HSMC A_11, FLEXCOM3 FLEXCOM3_IO_4, PIO P_86, GMAC GCRS_]
+- G5 : PC23,  of Type IO, alternates : [LCDC LCDDAT_19, PIO P_87, HSMC A_12, GMAC GCOL_, ISC ISC_HSYNC_]
+- H1 : PC24,  of Type IO, alternates : [GMAC GRX_2, ISC ISC_MCK_, PIO P_88, HSMC A_13, LCDC LCDDAT_20]
+- H5 : PC25,  of Type IO, alternates : [GMAC GRX_3, ISC ISC_FIELD_, PIO P_89, HSMC A_14, LCDC LCDDAT_21]
+- J9 : PC26,  of Type IO, alternates : [MCAN1 CANTX_1, HSMC A_15, GMAC GTX_2, LCDC LCDDAT_22, PIO P_90]
+- H9 : PC27,  of Type IO, alternates : [MCAN1 CANRX_1, PMC PCK_1, TWIHS0 TWD_0, HSMC A_16, GMAC GTX_3, LCDC LCDDAT_23, PIO P_91]
+- E8 : PC28,  of Type IO, alternates : [PMC PCK_2, TWIHS0 TWCK_0, HSMC A_17, LCDC LCDPWM_, FLEXCOM4 FLEXCOM4_IO_0, PIO P_92]
+- G8 : PC29,  of Type IO, alternates : [HSMC A_18, LCDC LCDDISP_, FLEXCOM4 FLEXCOM4_IO_1, PIO P_93]
+- F8 : PC30,  of Type IO, alternates : [HSMC A_19, PIO P_94, FLEXCOM4 FLEXCOM4_IO_2, LCDC LCDVSYNC_]
+- D8 : PC31,  of Type IO, alternates : [LCDC LCDHSYNC_, FLEXCOM4 FLEXCOM4_IO_3, PIO P_95, UART3 URXD_3, HSMC A_20]
+- G10 : PD0,  of Type IO, alternates : [LCDC LCDPCK_, UART3 UTXD_3, HSMC A_23, GMAC GTSUCOMP_, PIO P_96, FLEXCOM4 FLEXCOM4_IO_4]
+- E10 : PD1,  of Type IO, alternates : [LCDC LCDDEN_, HSMC A_24, PIO P_97, GMAC GRXCK_]
+- G9 : PD2,  of Type IO, alternates : [GMAC GTXER_, ISC ISC_MCK_, PIO P_98, HSMC A_25, UART1 URXD_1]
+- K1 : PD3,  of Type IO, alternates : [SAIC FIQ_, PIO P_99, ISC ISC_D_11, UART1 UTXD_1, HSMC NWAIT_, PTC PTC_X_0, GMAC GCRS_]
+- J6 : PD4,  of Type IO, alternates : [ISC ISC_D_10, HSMC NCS_0, GMAC GCOL_, TWIHS1 TWD_1, UART2 URXD_2, PIO P_100, PTC PTC_X_1]
+- J4 : PD5,  of Type IO, alternates : [TWIHS1 TWCK_1, GMAC GRX_2, UART2 UTXD_2, HSMC NCS_1, PIO P_101, ISC ISC_D_9, PTC PTC_X_2]
+- J2 : PD6,  of Type IO, alternates : [PMC PCK_1, GMAC GRX_3, ICE TCK_, PIO P_102, ISC ISC_D_8, HSMC NCS_2, PTC PTC_X_3]
+- J7 : PD7,  of Type IO, alternates : [ISC ISC_D_0, ICE TDI_, PIO P_103, PTC PTC_X_4, GMAC GTX_2, HSMC NWR1_]
+- J1 : PD8,  of Type IO, alternates : [HSMC NANDRDY_, ISC ISC_D_1, PTC PTC_X_5, ICE TDO_, GMAC GTX_3, PIO P_104]
+- K9 : PD9,  of Type IO, alternates : [ISC ISC_D_2, ICE TMS_, PTC PTC_X_6, PIO P_105, GMAC GTXCK_]
+- J3 : PD10,  of Type IO, alternates : [ISC ISC_D_3, ICE NTRST_, GMAC GTXEN_, PTC PTC_X_7, PIO P_106]
+- M1 : PD11,  of Type IO, alternates : [PMC PCK_2, ISC ISC_MCK_, ISC ISC_D_4, GMAC GRXDV_, TC0 TIOA_1, PIO P_107, PTC PTC_Y_0]
+- K8 : PD12,  of Type IO, alternates : [GMAC GRXER_, PIO P_108, ISC ISC_D_4, FLEXCOM4 FLEXCOM4_IO_0, ISC ISC_D_5, TC0 TIOB_1, PTC PTC_Y_1]
+- L2 : PD13,  of Type IO, alternates : [PIO P_109, TC0 TCLK_1, ISC ISC_D_6, FLEXCOM4 FLEXCOM4_IO_1, ISC ISC_D_5, GMAC GRX_0, PTC PTC_Y_2]
+- K4 : PD14,  of Type IO, alternates : [ISC ISC_D_6, PIO P_110, ISC ISC_D_7, ICE TCK_, FLEXCOM4 FLEXCOM4_IO_2, PTC PTC_Y_3, GMAC GRX_1]
+- K7 : PD15,  of Type IO, alternates : [ISC ISC_PCK_, ICE TDI_, ISC ISC_D_7, FLEXCOM4 FLEXCOM4_IO_3, GMAC GTX_0, PTC PTC_Y_4, PIO P_111]
+- L1 : PD16,  of Type IO, alternates : [ISC ISC_VSYNC_, GMAC GTX_1, ICE TDO_, ISC ISC_D_8, PIO P_112, FLEXCOM4 FLEXCOM4_IO_4, PTC PTC_Y_5]
+- K2 : PD17,  of Type IO, alternates : [ICE TMS_, PIO P_113, PTC PTC_Y_6, GMAC GMDC_, ISC ISC_D_9, ISC ISC_HSYNC_]
+- J5 : PD18,  of Type IO, alternates : [GMAC GMDIO_, ICE NTRST_, ISC ISC_FIELD_, PTC PTC_Y_7, ISC ISC_D_10, PIO P_114]
+- K6 : PD19,  of Type IO, alternates : [I2SC0 I2SC0_CK_, ISC ISC_D_11, TWIHS1 TWD_1, UART2 URXD_2, ADC AD_0, PIO P_115, PMC PCK_0]
+- M2 : PD20,  of Type IO, alternates : [ISC ISC_PCK_, TWIHS1 TWCK_1, UART2 UTXD_2, TC0 TIOA_2, PIO P_116, ADC AD_1, I2SC0 I2SC0_MCK_]
+- N1 : PD21,  of Type IO, alternates : [ISC ISC_VSYNC_, TWIHS0 TWD_0, I2SC0 I2SC0_WS_, FLEXCOM4 FLEXCOM4_IO_0, TC0 TIOB_2, ADC AD_2, PIO P_117]
+- L4 : PD22,  of Type IO, alternates : [TWIHS0 TWCK_0, FLEXCOM4 FLEXCOM4_IO_1, I2SC0 I2SC0_DI_0, PIO P_118, TC0 TCLK_2, ADC AD_3, ISC ISC_HSYNC_]
+- M3 : PD23,  of Type IO, alternates : [ADC AD_4, PIO P_119, ISC ISC_FIELD_, FLEXCOM4 FLEXCOM4_IO_2, UART2 URXD_2, I2SC0 I2SC0_DO_0]
+- L7 : PD24,  of Type IO, alternates : [ADC AD_5, UART2 UTXD_2, PIO P_120, FLEXCOM4 FLEXCOM4_IO_3]
+- L6 : PD25,  of Type IO, alternates : [ADC AD_6, PIO P_121, SPI1 SPI1_SPCK_, FLEXCOM4 FLEXCOM4_IO_4]
+- N2 : PD26,  of Type IO, alternates : [ADC AD_7, FLEXCOM2 FLEXCOM2_IO_0, SPI1 SPI1_MOSI_, PIO P_122]
+- L8 : PD27,  of Type IO, alternates : [SPI1 SPI1_MISO_, ADC AD_8, FLEXCOM2 FLEXCOM2_IO_1, ICE TCK_, PIO P_123]
+- M4 : PD28,  of Type IO, alternates : [ICE TDI_, ADC AD_9, FLEXCOM2 FLEXCOM2_IO_2, PIO P_124, SPI1 SPI1_NPCS_0]
+- N3 : PD29,  of Type IO, alternates : [TWIHS0 TWD_0, PIO P_125, SPI1 SPI1_NPCS_1, FLEXCOM2 FLEXCOM2_IO_3, ICE TDO_, TC1 TIOA_3, ADC AD_10]
+- L9 : PD30,  of Type IO, alternates : [TWIHS0 TWCK_0, ICE TMS_, TC1 TIOB_3, FLEXCOM2 FLEXCOM2_IO_4, ADC AD_11, PIO P_126, SPI1 SPI1_NPCS_2]
+- M7 : PD31,  of Type IO, alternates : [AIC IRQ_, ADC ADTRG_, ICE NTRST_, PIO P_127, TC1 TCLK_3, PMC PCK_0]
+- L5 : VDDANA,  of Type PP
+- K5 : GNDANA,  of Type PS
+- M6 : ADVREF,  of Type PS
+- K3 : VDDANA,  of Type PP
+- L3 : GNDANA,  of Type PS
+- H16 : DDR_VREF,  of Type PS
+- D16 : DDR_VREF,  of Type PS
+- B12 : DDR_D0,  of Type IO
+- A12 : DDR_D1,  of Type IO
+- C12 : DDR_D2,  of Type IO
+- A13 : DDR_D3,  of Type IO
+- A14 : DDR_D4,  of Type IO
+- C13 : DDR_D5,  of Type IO
+- A15 : DDR_D6,  of Type IO
+- B15 : DDR_D7,  of Type IO
+- G17 : DDR_D8,  of Type IO
+- G16 : DDR_D9,  of Type IO
+- H17 : DDR_D10,  of Type IO
+- K17 : DDR_D11,  of Type IO
+- K16 : DDR_D12,  of Type IO
+- J13 : DDR_D13,  of Type IO
+- K14 : DDR_D14,  of Type IO
+- K15 : DDR_D15,  of Type IO
+- B8 : DDR_D16,  of Type IO
+- B9 : DDR_D17,  of Type IO
+- C9 : DDR_D18,  of Type IO
+- A9 : DDR_D19,  of Type IO
+- A10 : DDR_D20,  of Type IO
+- D10 : DDR_D21,  of Type IO
+- B11 : DDR_D22,  of Type IO
+- A11 : DDR_D23,  of Type IO
+- J12 : DDR_D24,  of Type IO
+- H10 : DDR_D25,  of Type IO
+- J11 : DDR_D26,  of Type IO
+- K11 : DDR_D27,  of Type IO
+- L13 : DDR_D28,  of Type IO
+- L11 : DDR_D29,  of Type IO
+- L12 : DDR_D30,  of Type IO
+- M17 : DDR_D31,  of Type IO
+- F12 : DDR_A0,  of Type OP
+- C17 : DDR_A1,  of Type OP
+- B17 : DDR_A2,  of Type OP
+- B16 : DDR_A3,  of Type OP
+- C16 : DDR_A4,  of Type OP
+- G14 : DDR_A5,  of Type OP
+- F14 : DDR_A6,  of Type OP
+- F11 : DDR_A7,  of Type OP
+- C14 : DDR_A8,  of Type OP
+- D13 : DDR_A9,  of Type OP
+- C15 : DDR_A10,  of Type OP
+- A16 : DDR_A11,  of Type OP
+- A17 : DDR_A12,  of Type OP
+- G11 : DDR_A13,  of Type OP
+- E17 : DDR_CLK,  of Type OP
+- D17 : DDR_CLKN,  of Type OP
+- F16 : DDR_CKE,  of Type OP
+- E16 : DDR_RESETN,  of Type OP
+- G13 : DDR_CS,  of Type OP
+- F15 : DDR_WE,  of Type OP
+- F13 : DDR_RAS,  of Type OP
+- G12 : DDR_CAS,  of Type OP
+- C11 : DDR_DQM0,  of Type OP
+- G15 : DDR_DQM1,  of Type OP
+- C8 : DDR_DQM2,  of Type OP
+- H11 : DDR_DQM3,  of Type OP
+- B13 : DDR_DQS0,  of Type OP
+- J17 : DDR_DQS1,  of Type OP
+- C10 : DDR_DQS2,  of Type OP
+- L17 : DDR_DQS3,  of Type OP
+- B14 : DDR_DQSN0,  of Type OP
+- J16 : DDR_DQSN1,  of Type OP
+- B10 : DDR_DQSN2,  of Type OP
+- L16 : DDR_DQSN3,  of Type OP
+- H12 : DDR_BA0,  of Type OP
+- H13 : DDR_BA1,  of Type OP
+- F17 : DDR_BA2,  of Type OP
+- E13 : DDR_,  of Type IO
+- L15 : VDDIODDR,  of Type PP
+- J15 : VDDIODDR,  of Type PP
+- H15 : VDDIODDR,  of Type PP
+- E15 : VDDIODDR,  of Type PP
+- D15 : VDDIODDR,  of Type PP
+- D12 : VDDIODDR,  of Type PP
+- D11 : VDDIODDR,  of Type PP
+- L14 : GNDIODDR,  of Type PS
+- J14 : GNDIODDR,  of Type PS
+- H14 : GNDIODDR,  of Type PS
+- E14 : GNDIODDR,  of Type PS
+- D14 : GNDIODDR,  of Type PS
+- E12 : GNDIODDR,  of Type PS
+- E11 : GNDIODDR,  of Type PS
+- H3 : VDDCORE,  of Type PP
+- N5 : GNDCORE,  of Type PS
+- N9 : VDDCORE,  of Type PP
+- K13 : VDDCORE,  of Type PP
+- D9 : VDDCORE,  of Type PP
+- D7 : VDDCORE,  of Type PP
+- H4 : GNDCORE,  of Type PS
+- M5 : PIOBU7,  of Type IO
+- M9 : GNDCORE,  of Type PS
+- K12 : GNDCORE,  of Type PS
+- E9 : GNDCORE,  of Type PS
+- E7 : GNDCORE,  of Type PS
+- E6 : VDDIOP0,  of Type PP
+- F7 : VDDIOP0,  of Type PP
+- F6 : GNDIOP0,  of Type PS
+- G7 : GNDIOP0,  of Type PS
+- R14 : VDDIOP1,  of Type PP
+- N13 : VDDIOP1,  of Type PP
+- M13 : GNDIOP1,  of Type PS
+- P14 : GNDIOP1,  of Type PS
+- F10 : VDDIOP2,  of Type PP
+- F9 : GNDIOP2,  of Type PS
+- P11 : VDDSDMMC,  of Type PP
+- R11 : GNDSDMMC,  of Type PS
+- F4 : VDDISC,  of Type PP
+- G4 : GNDISC,  of Type PS
+- M12 : VDDFUSE,  of Type PP
+- U4 : VDDPLLA,  of Type PP
+- U5 : GNDPLLA,  of Type PS
+- T3 : VDDAUDIOPLL,  of Type PP
+- T5 : GNDDPLL,  of Type PS
+- T4 : GNDAUDIOPLL,  of Type PS
+- U3 : CLK_AUDIO,  of Type IO
+- U7 : XIN,  of Type PS
+- U6 : XOUT,  of Type PS
+- T7 : VDDOSC,  of Type PP
+- T6 : GNDOSC,  of Type PS
+- P8 : VDDUTMII,  of Type PP
+- R9 : VDDHSIC,  of Type PP
+- P9 : GNDUTMII,  of Type PS
+- T8 : HHSDPA,  of Type IO
+- R8 : HHSDMA,  of Type IO
+- U8 : HHSDPB,  of Type IO
+- U9 : HHSDMB,  of Type IO
+- T9 : HHSDPDATC,  of Type IO
+- U10 : HHSDMSTRC,  of Type IO
+- P7 : VDDUTMIC,  of Type PP
+- R7 : GNDUTMIC,  of Type PS
+- T10 : SDCAL,  of Type IO
+- R6 : VBG,  of Type IO
+- P3 : TST,  of Type IO
+- U2 : NRST,  of Type IP
+- T2 : JTAGSEL,  of Type OP
+- P4 : VDDCORE,  of Type PP
+- N4 : RXD,  of Type IP
+- R1 : SHDN,  of Type IO
+- R3 : VDDBU,  of Type PP
+- N8 : PIOBU1,  of Type IO
+- R2 : WKUP,  of Type IP
+- R5 : PIOBU5,  of Type IO
+- R4 : GNDBU,  of Type PS
+- P5 : PIOBU4,  of Type IO
+- P6 : PIOBU3,  of Type IO
+- M8 : PIOBU2,  of Type IO
+- N7 : PIOBU6,  of Type IO
+- N6 : PIOBU0,  of Type IO
+- P1 : XIN32,  of Type PS
+- P2 : XOUT32,  of Type PS
+- T1 : COMPP,  of Type IO
+- U1 : COMPN,  of Type IO
 ## ATSAMA5D28C-CU
+
 ### Description : 
+
+- Series : SAMA5D2
+- Footprint : LFBGA289
+- MP : ATSAMA5D28C-CU
+- Architecture : CORTEX-A5
+- PINOUT : LFBGA289
+- Reference : U
+- Documentation : https://www.microchip.com/en-us/search?q=ATSAMA5D28C-CU
+- Value : ATSAMA5D28C-CU
+- Family : SAMA5
+- MF : Microchip
+- Name : ATSAMA5D28
 
 ### Package : 
 
-- U11 : PA0
-- P10 : PA1
-- T11 : PA2
-- R10 : PA3
-- U12 : PA4
-- T12 : PA5
-- R12 : PA6
-- T13 : PA7
-- N10 : PA8
-- N11 : PA9
-- U13 : PA10
-- P15 : PA11
-- N15 : PA12
-- P16 : PA13
-- M14 : PA14
-- N16 : PA15
-- M10 : PA16
-- N17 : PA17
-- U14 : PA18
-- T14 : PA19
-- P12 : PA20
-- R13 : PA21
-- U15 : PA22
-- U16 : PA23
-- T15 : PA24
-- U17 : PA25
-- P13 : PA26
-- T16 : PA27
-- R16 : PA28
-- T17 : PA29
-- R15 : PA30
-- R17 : PA31
-- J8 : PB0
-- A8 : PB1
-- A7 : PB2
-- A6 : PB3
-- B6 : PB4
-- B7 : PB5
-- C7 : PB6
-- C6 : PB7
-- A5 : PB8
-- A4 : PB9
-- H8 : PB10
-- B5 : PB11
-- D6 : PB12
-- B4 : PB13
-- C5 : PB14
-- H7 : PB15
-- D5 : PB16
-- C4 : PB17
-- A3 : PB18
-- D4 : PB19
-- B3 : PB20
-- A2 : PB21
-- C3 : PB22
-- A1 : PB23
-- E5 : PB24
-- B2 : PB25
-- E4 : PB26
-- B1 : PB27
-- C2 : PB28
-- D3 : PB29
-- D2 : PB30
-- C1 : PB31
-- P17 : PC0
-- N12 : PC1
-- N14 : PC2
-- M15 : PC3
-- M11 : PC4
-- L10 : PC5
-- K10 : PC6
-- M16 : PC7
-- J10 : PC8
-- D1 : PC9
-- E3 : PC10
-- E2 : PC11
-- E1 : PC12
-- F3 : PC13
-- F5 : PC14
-- F2 : PC15
-- G6 : PC16
-- F1 : PC17
-- H6 : PC18
-- G2 : PC19
-- G3 : PC20
-- G1 : PC21
-- H2 : PC22
-- G5 : PC23
-- H1 : PC24
-- H5 : PC25
-- J9 : PC26
-- H9 : PC27
-- E8 : PC28
-- G8 : PC29
-- F8 : PC30
-- D8 : PC31
-- G10 : PD0
-- E10 : PD1
-- G9 : PD2
-- K1 : PD3
-- J6 : PD4
-- J4 : PD5
-- J2 : PD6
-- J7 : PD7
-- J1 : PD8
-- K9 : PD9
-- J3 : PD10
-- M1 : PD11
-- K8 : PD12
-- L2 : PD13
-- K4 : PD14
-- K7 : PD15
-- L1 : PD16
-- K2 : PD17
-- J5 : PD18
-- K6 : PD19
-- M2 : PD20
-- N1 : PD21
-- L4 : PD22
-- M3 : PD23
-- L7 : PD24
-- L6 : PD25
-- N2 : PD26
-- L8 : PD27
-- M4 : PD28
-- N3 : PD29
-- L9 : PD30
-- M7 : PD31
-- L5 : VDDANA
-- K5 : GNDANA
-- M6 : ADVREF
-- K3 : VDDANA
-- L3 : GNDANA
-- H16 : DDR_VREF
-- D16 : DDR_VREF
-- B12 : DDR_D0
-- A12 : DDR_D1
-- C12 : DDR_D2
-- A13 : DDR_D3
-- A14 : DDR_D4
-- C13 : DDR_D5
-- A15 : DDR_D6
-- B15 : DDR_D7
-- G17 : DDR_D8
-- G16 : DDR_D9
-- H17 : DDR_D10
-- K17 : DDR_D11
-- K16 : DDR_D12
-- J13 : DDR_D13
-- K14 : DDR_D14
-- K15 : DDR_D15
-- B8 : DDR_D16
-- B9 : DDR_D17
-- C9 : DDR_D18
-- A9 : DDR_D19
-- A10 : DDR_D20
-- D10 : DDR_D21
-- B11 : DDR_D22
-- A11 : DDR_D23
-- J12 : DDR_D24
-- H10 : DDR_D25
-- J11 : DDR_D26
-- K11 : DDR_D27
-- L13 : DDR_D28
-- L11 : DDR_D29
-- L12 : DDR_D30
-- M17 : DDR_D31
-- F12 : DDR_A0
-- C17 : DDR_A1
-- B17 : DDR_A2
-- B16 : DDR_A3
-- C16 : DDR_A4
-- G14 : DDR_A5
-- F14 : DDR_A6
-- F11 : DDR_A7
-- C14 : DDR_A8
-- D13 : DDR_A9
-- C15 : DDR_A10
-- A16 : DDR_A11
-- A17 : DDR_A12
-- G11 : DDR_A13
-- E17 : DDR_CLK
-- D17 : DDR_CLKN
-- F16 : DDR_CKE
-- E16 : DDR_RESETN
-- G13 : DDR_CS
-- F15 : DDR_WE
-- F13 : DDR_RAS
-- G12 : DDR_CAS
-- C11 : DDR_DQM0
-- G15 : DDR_DQM1
-- C8 : DDR_DQM2
-- H11 : DDR_DQM3
-- B13 : DDR_DQS0
-- J17 : DDR_DQS1
-- C10 : DDR_DQS2
-- L17 : DDR_DQS3
-- B14 : DDR_DQSN0
-- J16 : DDR_DQSN1
-- B10 : DDR_DQSN2
-- L16 : DDR_DQSN3
-- H12 : DDR_BA0
-- H13 : DDR_BA1
-- F17 : DDR_BA2
-- E13 : DDR_
-- L15 : VDDIODDR
-- J15 : VDDIODDR
-- H15 : VDDIODDR
-- E15 : VDDIODDR
-- D15 : VDDIODDR
-- D12 : VDDIODDR
-- D11 : VDDIODDR
-- L14 : GNDIODDR
-- J14 : GNDIODDR
-- H14 : GNDIODDR
-- E14 : GNDIODDR
-- D14 : GNDIODDR
-- E12 : GNDIODDR
-- E11 : GNDIODDR
-- H3 : VDDCORE
-- N5 : GNDCORE
-- N9 : VDDCORE
-- K13 : VDDCORE
-- D9 : VDDCORE
-- D7 : VDDCORE
-- H4 : GNDCORE
-- M5 : PIOBU7
-- M9 : GNDCORE
-- K12 : GNDCORE
-- E9 : GNDCORE
-- E7 : GNDCORE
-- E6 : VDDIOP0
-- F7 : VDDIOP0
-- F6 : GNDIOP0
-- G7 : GNDIOP0
-- R14 : VDDIOP1
-- N13 : VDDIOP1
-- M13 : GNDIOP1
-- P14 : GNDIOP1
-- F10 : VDDIOP2
-- F9 : GNDIOP2
-- P11 : VDDSDMMC
-- R11 : GNDSDMMC
-- F4 : VDDISC
-- G4 : GNDISC
-- M12 : VDDFUSE
-- U4 : VDDPLLA
-- U5 : GNDPLLA
-- T3 : VDDAUDIOPLL
-- T5 : GNDDPLL
-- T4 : GNDAUDIOPLL
-- U3 : CLK_AUDIO
-- U7 : XIN
-- U6 : XOUT
-- T7 : VDDOSC
-- T6 : GNDOSC
-- P8 : VDDUTMII
-- R9 : VDDHSIC
-- P9 : GNDUTMII
-- T8 : HHSDPA
-- R8 : HHSDMA
-- U8 : HHSDPB
-- U9 : HHSDMB
-- T9 : HHSDPDATC
-- U10 : HHSDMSTRC
-- P7 : VDDUTMIC
-- R7 : GNDUTMIC
-- T10 : SDCAL
-- R6 : VBG
-- P3 : TST
-- U2 : NRST
-- T2 : JTAGSEL
-- P4 : VDDCORE
-- N4 : RXD
-- R1 : SHDN
-- R3 : VDDBU
-- N8 : PIOBU1
-- R2 : WKUP
-- R5 : PIOBU5
-- R4 : GNDBU
-- P5 : PIOBU4
-- P6 : PIOBU3
-- M8 : PIOBU2
-- N7 : PIOBU6
-- N6 : PIOBU0
-- P1 : XIN32
-- P2 : XOUT32
-- T1 : COMPP
-- U1 : COMPN
+Pin count : 289
+- U11 : PA0,  of Type IO, alternates : [HSMC D_0, PIO P_0, SDMMC0 SDMMC0_CK_, QSPI0 QSPI0_SCK_]
+- P10 : PA1,  of Type IO, alternates : [SDMMC0 SDMMC0_CMD_, PIO P_1, QSPI0 QSPI0_CS_, HSMC D_1]
+- T11 : PA2,  of Type IO, alternates : [PIO P_2, HSMC D_2, SDMMC0 SDMMC0_DAT_0, QSPI0 QSPI0_IO_0]
+- R10 : PA3,  of Type IO, alternates : [PIO P_3, HSMC D_3, SDMMC0 SDMMC0_DAT_1, QSPI0 QSPI0_IO_1]
+- U12 : PA4,  of Type IO, alternates : [HSMC D_4, PIO P_4, SDMMC0 SDMMC0_DAT_2, QSPI0 QSPI0_IO_2]
+- T12 : PA5,  of Type IO, alternates : [PIO P_5, HSMC D_5, QSPI0 QSPI0_IO_3, SDMMC0 SDMMC0_DAT_3]
+- R12 : PA6,  of Type IO, alternates : [PIO P_6, HSMC D_6, FLEXCOM2 FLEXCOM2_IO_0, TC1 TIOA_5, QSPI1 QSPI1_SCK_, SDMMC0 SDMMC0_DAT_4]
+- T13 : PA7,  of Type IO, alternates : [PIO P_7, QSPI1 QSPI1_IO_0, HSMC D_7, FLEXCOM2 FLEXCOM2_IO_1, SDMMC0 SDMMC0_DAT_5, TC1 TIOB_5]
+- N10 : PA8,  of Type IO, alternates : [PIO P_8, QSPI1 QSPI1_IO_1, FLEXCOM2 FLEXCOM2_IO_2, HSMC NANDNWE_, TC1 TCLK_5, SDMMC0 SDMMC0_DAT_6]
+- N11 : PA9,  of Type IO, alternates : [SDMMC0 SDMMC0_DAT_7, QSPI1 QSPI1_IO_2, FLEXCOM2 FLEXCOM2_IO_3, TC1 TIOA_4, HSMC NCS_3, PIO P_9]
+- U13 : PA10,  of Type IO, alternates : [PIO P_10, QSPI1 QSPI1_IO_3, SDMMC0 SDMMC0_RSTN_, HSMC A21_, TC1 TIOB_4, FLEXCOM2 FLEXCOM2_IO_4]
+- P15 : PA11,  of Type IO, alternates : [QSPI1 QSPI1_CS_, SDMMC0 SDMMC0_1V8SEL_, PIO P_11, HSMC A22_, TC1 TCLK_4]
+- N15 : PA12,  of Type IO, alternates : [AIC IRQ_, SDMMC0 SDMMC0_WP_, PIO P_12, HSMC NANDOE_]
+- P16 : PA13,  of Type IO, alternates : [HSMC D_8, FLEXCOM3 FLEXCOM3_IO_1, PIO P_13, SDMMC0 SDMMC0_CD_]
+- M14 : PA14,  of Type IO, alternates : [PIO P_14, SPI0 SPI0_SPCK_, HSMC D_9, SSC1 TK_1, I2SC1 I2SC1_MCK_, FLEXCOM3 FLEXCOM3_IO_2, QSPI0 QSPI0_SCK_]
+- N16 : PA15,  of Type IO, alternates : [PIO P_15, HSMC D_10, QSPI0 QSPI0_CS_, FLEXCOM3 FLEXCOM3_IO_0, SSC1 TF_1, SPI0 SPI0_MOSI_, I2SC1 I2SC1_CK_]
+- M10 : PA16,  of Type IO, alternates : [PIO P_16, HSMC D_11, I2SC1 I2SC1_WS_, FLEXCOM3 FLEXCOM3_IO_3, SPI0 SPI0_MISO_, SSC1 TD_1, QSPI0 QSPI0_IO_0]
+- N17 : PA17,  of Type IO, alternates : [I2SC1 I2SC1_DI_0, PIO P_17, HSMC D_12, SPI0 SPI0_NPCS_0, FLEXCOM3 FLEXCOM3_IO_4, QSPI0 QSPI0_IO_1, SSC1 RD_1]
+- U14 : PA18,  of Type IO, alternates : [HSMC D_13, SSC1 RK_1, SPI0 SPI0_NPCS_1, I2SC1 I2SC1_DO_0, PIO P_18, QSPI0 QSPI0_IO_2, SDMMC1 SDMMC1_DAT_0]
+- T14 : PA19,  of Type IO, alternates : [SSC1 RF_1, SPI0 SPI0_NPCS_2, HSMC D_14, TC0 TIOA_0, QSPI0 QSPI0_IO_3, PIO P_19, SDMMC1 SDMMC1_DAT_1]
+- P12 : PA20,  of Type IO, alternates : [SPI0 SPI0_NPCS_3, HSMC D_15, TC0 TIOB_0, PIO P_20, SDMMC1 SDMMC1_DAT_2]
+- R13 : PA21,  of Type IO, alternates : [AIC IRQ_, PMC PCK_2, HSMC NANDRDY_, TC0 TCLK_0, PIO P_21, SDMMC1 SDMMC1_DAT_3]
+- U15 : PA22,  of Type IO, alternates : [PIO P_22, ICE TCK_, FLEXCOM1 FLEXCOM1_IO_2, HSMC D_0, SPI1 SPI1_SPCK_, SDMMC1 SDMMC1_CK_, QSPI0 QSPI0_SCK_]
+- U16 : PA23,  of Type IO, alternates : [ICE TDI_, PIO P_23, QSPI0 QSPI0_CS_, SPI1 SPI1_MOSI_, FLEXCOM1 FLEXCOM1_IO_1, HSMC D_1]
+- T15 : PA24,  of Type IO, alternates : [SPI1 SPI1_MISO_, FLEXCOM1 FLEXCOM1_IO_0, HSMC D_2, PIO P_24, ICE TDO_, QSPI0 QSPI0_IO_0]
+- U17 : PA25,  of Type IO, alternates : [PIO P_25, ICE TMS_, HSMC D_3, FLEXCOM1 FLEXCOM1_IO_3, SPI1 SPI1_NPCS_0, QSPI0 QSPI0_IO_1]
+- P13 : PA26,  of Type IO, alternates : [PIO P_26, ICE NTRST_, HSMC D_4, SPI1 SPI1_NPCS_1, FLEXCOM1 FLEXCOM1_IO_4, QSPI0 QSPI0_IO_2]
+- T16 : PA27,  of Type IO, alternates : [PIO P_27, SPI0 SPI0_NPCS_2, SDMMC1 SDMMC1_RSTN_, HSMC D_5, TC0 TIOA_1, QSPI0 QSPI0_IO_3, SPI1 SPI1_NPCS_2]
+- R16 : PA28,  of Type IO, alternates : [HSMC D_6, PIO P_28, SPI0 SPI0_NPCS_3, CLASSD CLASSD_L_0, SDMMC1 SDMMC1_CMD_, TC0 TIOB_1, SPI1 SPI1_NPCS_3]
+- T17 : PA29,  of Type IO, alternates : [HSMC D_7, TC0 TCLK_1, SDMMC1 SDMMC1_WP_, CLASSD CLASSD_L_1, SPI0 SPI0_NPCS_1, PIO P_29]
+- R15 : PA30,  of Type IO, alternates : [SPI0 SPI0_NPCS_0, PWM PWMH_0, CLASSD CLASSD_L_2, PIO P_30, HSMC NANDNWE_, SDMMC1 SDMMC1_CD_]
+- R17 : PA31,  of Type IO, alternates : [PWM PWML_0, HSMC NCS_3, CLASSD CLASSD_L_3, PIO P_31, SPI0 SPI0_MISO_]
+- J8 : PB0,  of Type IO, alternates : [PIO P_32, PWM PWMH_1, HSMC A21_, SPI0 SPI0_MOSI_]
+- A8 : PB1,  of Type IO, alternates : [SPI0 SPI0_SPCK_, PIO P_33, PWM PWML_1, HSMC A22_, CLASSD CLASSD_R_0]
+- A7 : PB2,  of Type IO, alternates : [PIO P_34, PWM PWMFI_0, CLASSD CLASSD_R_1, HSMC NANDOE_]
+- A6 : PB3,  of Type IO, alternates : [HSMC D_8, AIC IRQ_, PWM PWMEXTRG_1, PIO P_35, CLASSD CLASSD_R_2, UART4 URXD_4]
+- B6 : PB4,  of Type IO, alternates : [PIO P_36, HSMC D_9, SAIC FIQ_, UART4 UTXD_4, CLASSD CLASSD_R_3]
+- B7 : PB5,  of Type IO, alternates : [PIO P_37, HSMC D_10, PWM PWMH_2, QSPI1 QSPI1_SCK_, GMAC GTSUCOMP_, TC0 TCLK_2]
+- C7 : PB6,  of Type IO, alternates : [PIO P_38, HSMC D_11, QSPI1 QSPI1_CS_, GMAC GTXER_, PWM PWML_2, TC0 TIOA_2]
+- C6 : PB7,  of Type IO, alternates : [PIO P_39, QSPI1 QSPI1_IO_0, HSMC D_12, PWM PWMH_3, TC0 TIOB_2, GMAC GRXCK_]
+- A5 : PB8,  of Type IO, alternates : [QSPI1 QSPI1_IO_1, HSMC D_13, PIO P_40, PWM PWML_3, GMAC GCRS_, TC1 TCLK_3]
+- A4 : PB9,  of Type IO, alternates : [QSPI1 QSPI1_IO_2, HSMC D_14, GMAC GCOL_, PIO P_41, TC1 TIOA_3, PWM PWMFI_1]
+- H8 : PB10,  of Type IO, alternates : [GMAC GRX_2, PWM PWMEXTRG_2, QSPI1 QSPI1_IO_3, HSMC D_15, TC1 TIOB_3, PIO P_42]
+- B5 : PB11,  of Type IO, alternates : [GMAC GRX_3, PIO P_43, PDMIC PDMIC_DAT_, UART3 URXD_3, LCDC LCDDAT_0, HSMC A0_]
+- D6 : PB12,  of Type IO, alternates : [PDMIC PDMIC_CLK_, PIO P_44, UART3 UTXD_3, GMAC GTX_2, HSMC A_1, LCDC LCDDAT_1]
+- B4 : PB13,  of Type IO, alternates : [PMC PCK_1, PIO P_45, GMAC GTX_3, HSMC A_2, LCDC LCDDAT_2]
+- C5 : PB14,  of Type IO, alternates : [SSC1 TK_1, I2SC1 I2SC1_MCK_, LCDC LCDDAT_3, PIO P_46, HSMC A_3, QSPI1 QSPI1_SCK_, GMAC GTXCK_]
+- H7 : PB15,  of Type IO, alternates : [PIO P_47, LCDC LCDDAT_4, QSPI1 QSPI1_CS_, GMAC GTXEN_, HSMC A_4, SSC1 TF_1, I2SC1 I2SC1_CK_]
+- D5 : PB16,  of Type IO, alternates : [LCDC LCDDAT_5, PIO P_48, I2SC1 I2SC1_WS_, QSPI1 QSPI1_IO_0, HSMC A_5, GMAC GRXDV_, SSC1 TD_1]
+- C4 : PB17,  of Type IO, alternates : [LCDC LCDDAT_6, GMAC GRXER_, I2SC1 I2SC1_DI_0, PIO P_49, QSPI1 QSPI1_IO_1, HSMC A_6, SSC1 RD_1]
+- A3 : PB18,  of Type IO, alternates : [HSMC A_7, SSC1 RK_1, QSPI1 QSPI1_IO_2, LCDC LCDDAT_7, PIO P_50, I2SC1 I2SC1_DO_0, GMAC GRX_0]
+- D4 : PB19,  of Type IO, alternates : [SSC1 RF_1, QSPI1 QSPI1_IO_3, HSMC A_8, LCDC LCDDAT_8, PIO P_51, TC1 TIOA_3, GMAC GRX_1]
+- B3 : PB20,  of Type IO, alternates : [PMC PCK_1, HSMC A_9, LCDC LCDDAT_9, GMAC GTX_0, TC1 TIOB_3, PIO P_52, SSC0 TK_0]
+- A2 : PB21,  of Type IO, alternates : [SSC0 TF_0, FLEXCOM3 FLEXCOM3_IO_2, GMAC GTX_1, PIO P_53, HSMC A_10, LCDC LCDDAT_10, TC1 TCLK_3]
+- C3 : PB22,  of Type IO, alternates : [SSC0 TD_0, PIO P_54, FLEXCOM3 FLEXCOM3_IO_1, HSMC A_11, GMAC GMDC_, TC0 TIOA_2, LCDC LCDDAT_11]
+- A1 : PB23,  of Type IO, alternates : [SSC0 RD_0, GMAC GMDIO_, PIO P_55, FLEXCOM3 FLEXCOM3_IO_0, TC0 TIOB_2, HSMC A_12, LCDC LCDDAT_12]
+- E5 : PB24,  of Type IO, alternates : [PIO P_56, FLEXCOM3 FLEXCOM3_IO_3, ISC ISC_D_10, HSMC A_13, SSC0 RK_0, LCDC LCDDAT_13, TC0 TCLK_2]
+- B2 : PB25,  of Type IO, alternates : [ISC ISC_D_11, PIO P_57, HSMC A_14, LCDC LCDDAT_14, FLEXCOM3 FLEXCOM3_IO_4, SSC0 RF_0]
+- E4 : PB26,  of Type IO, alternates : [PIO P_58, ISC ISC_D_0, HSMC A_15, PDMIC PDMIC_DAT_, LCDC LCDDAT_15, UART0 URXD_0]
+- B1 : PB27,  of Type IO, alternates : [PIO P_59, ISC ISC_D_1, PDMIC PDMIC_CLK_, HSMC A_16, UART0 UTXD_0, LCDC LCDDAT_16]
+- C2 : PB28,  of Type IO, alternates : [ISC ISC_D_2, HSMC A_17, FLEXCOM0 FLEXCOM0_IO_0, LCDC LCDDAT_17, TC1 TIOA_5, PIO P_60]
+- D3 : PB29,  of Type IO, alternates : [ISC ISC_D_3, HSMC A_18, LCDC LCDDAT_18, FLEXCOM0 FLEXCOM0_IO_1, PIO P_61, TC1 TIOB_5]
+- D2 : PB30,  of Type IO, alternates : [HSMC A_19, LCDC LCDDAT_19, ISC ISC_D_4, FLEXCOM0 FLEXCOM0_IO_2, PIO P_62, TC1 TCLK_5]
+- C1 : PB31,  of Type IO, alternates : [TWIHS0 TWD_0, ISC ISC_D_5, FLEXCOM0 FLEXCOM0_IO_3, PIO P_63, HSMC A_20, LCDC LCDDAT_20]
+- P17 : PC0,  of Type IO, alternates : [TWIHS0 TWCK_0, ISC ISC_D_6, HSMC A_23, FLEXCOM0 FLEXCOM0_IO_4, PIO P_64, LCDC LCDDAT_21]
+- N12 : PC1,  of Type IO, alternates : [MCAN0 CANTX_0, I2SC0 I2SC0_CK_, PIO P_65, ISC ISC_D_7, HSMC A_24, SPI1 SPI1_SPCK_, LCDC LCDDAT_22]
+- N14 : PC2,  of Type IO, alternates : [MCAN0 CANRX_0, PIO P_66, SPI1 SPI1_MOSI_, HSMC A_25, ISC ISC_D_8, LCDC LCDDAT_23, I2SC0 I2SC0_MCK_]
+- M15 : PC3,  of Type IO, alternates : [SPI1 SPI1_MISO_, I2SC0 I2SC0_WS_, LCDC LCDPWM_, PIO P_67, TC0 TIOA_1, ISC ISC_D_9, HSMC NWAIT_]
+- M11 : PC4,  of Type IO, alternates : [ISC ISC_PCK_, LCDC LCDDISP_, I2SC0 I2SC0_DI_0, PIO P_68, SPI1 SPI1_NPCS_0, HSMC NWR1_, TC0 TIOB_1]
+- L10 : PC5,  of Type IO, alternates : [PIO P_69, ISC ISC_VSYNC_, TC0 TCLK_1, SPI1 SPI1_NPCS_1, HSMC NCS_0, I2SC0 I2SC0_DO_0, LCDC LCDVSYNC_]
+- K10 : PC6,  of Type IO, alternates : [LCDC LCDHSYNC_, TWIHS1 TWD_1, PIO P_70, ISC ISC_HSYNC_, SPI1 SPI1_NPCS_2]
+- M16 : PC7,  of Type IO, alternates : [LCDC LCDPCK_, TWIHS1 TWCK_1, ISC ISC_MCK_, UART1 URXD_1, HSMC NCS_2, SPI1 SPI1_NPCS_3, PIO P_71]
+- J10 : PC8,  of Type IO, alternates : [LCDC LCDDEN_, HSMC NANDRDY_, SAIC FIQ_, ISC ISC_FIELD_, UART1 UTXD_1, PIO P_72, PMC PCK_0]
+- D1 : PC9,  of Type IO, alternates : [SAIC FIQ_, ISC ISC_D_0, PIO P_73, TC1 TIOA_4, GMAC GTSUCOMP_]
+- E3 : PC10,  of Type IO, alternates : [MCAN0 CANTX_0, ISC ISC_D_1, TC1 TIOB_4, PIO P_74, LCDC LCDDAT_2, GMAC GTXCK_]
+- E2 : PC11,  of Type IO, alternates : [ISC ISC_D_2, LCDC LCDDAT_3, MCAN0 CANRX_0, GMAC GTXEN_, PIO P_75, HSMC A0_, TC1 TCLK_4]
+- E1 : PC12,  of Type IO, alternates : [ISC ISC_D_3, LCDC LCDDAT_4, PIO P_76, GMAC GRXDV_, HSMC A_1, UART3 URXD_3, SSC0 TK_0]
+- F3 : PC13,  of Type IO, alternates : [LCDC LCDDAT_5, GMAC GRXER_, SSC0 TF_0, PIO P_77, UART3 UTXD_3, ISC ISC_D_4, HSMC A_2]
+- F5 : PC14,  of Type IO, alternates : [LCDC LCDDAT_6, SSC0 TD_0, PIO P_78, ISC ISC_D_5, HSMC A_3, GMAC GRX_0]
+- F2 : PC15,  of Type IO, alternates : [SSC0 RD_0, ISC ISC_D_6, LCDC LCDDAT_7, PIO P_79, HSMC A_4, GMAC GRX_1]
+- G6 : PC16,  of Type IO, alternates : [ISC ISC_D_7, HSMC A_5, GMAC GTX_0, SSC0 RK_0, LCDC LCDDAT_10, PIO P_80]
+- F1 : PC17,  of Type IO, alternates : [HSMC A_6, GMAC GTX_1, ISC ISC_D_8, LCDC LCDDAT_11, SSC0 RF_0, PIO P_81]
+- H6 : PC18,  of Type IO, alternates : [HSMC A_7, FLEXCOM3 FLEXCOM3_IO_2, GMAC GMDC_, ISC ISC_D_9, LCDC LCDDAT_12, PIO P_82]
+- G2 : PC19,  of Type IO, alternates : [GMAC GMDIO_, HSMC A_8, FLEXCOM3 FLEXCOM3_IO_1, ISC ISC_D_10, PIO P_83, LCDC LCDDAT_13]
+- G3 : PC20,  of Type IO, alternates : [HSMC A_9, FLEXCOM3 FLEXCOM3_IO_0, ISC ISC_D_11, LCDC LCDDAT_14, PIO P_84, GMAC GRXCK_]
+- G1 : PC21,  of Type IO, alternates : [ISC ISC_PCK_, GMAC GTXER_, FLEXCOM3 FLEXCOM3_IO_3, LCDC LCDDAT_15, PIO P_85, HSMC A_10]
+- H2 : PC22,  of Type IO, alternates : [ISC ISC_VSYNC_, LCDC LCDDAT_18, HSMC A_11, FLEXCOM3 FLEXCOM3_IO_4, PIO P_86, GMAC GCRS_]
+- G5 : PC23,  of Type IO, alternates : [LCDC LCDDAT_19, PIO P_87, HSMC A_12, GMAC GCOL_, ISC ISC_HSYNC_]
+- H1 : PC24,  of Type IO, alternates : [GMAC GRX_2, ISC ISC_MCK_, PIO P_88, HSMC A_13, LCDC LCDDAT_20]
+- H5 : PC25,  of Type IO, alternates : [GMAC GRX_3, ISC ISC_FIELD_, PIO P_89, HSMC A_14, LCDC LCDDAT_21]
+- J9 : PC26,  of Type IO, alternates : [MCAN1 CANTX_1, HSMC A_15, GMAC GTX_2, LCDC LCDDAT_22, PIO P_90]
+- H9 : PC27,  of Type IO, alternates : [MCAN1 CANRX_1, PMC PCK_1, TWIHS0 TWD_0, HSMC A_16, GMAC GTX_3, LCDC LCDDAT_23, PIO P_91]
+- E8 : PC28,  of Type IO, alternates : [PMC PCK_2, TWIHS0 TWCK_0, HSMC A_17, LCDC LCDPWM_, FLEXCOM4 FLEXCOM4_IO_0, PIO P_92]
+- G8 : PC29,  of Type IO, alternates : [HSMC A_18, LCDC LCDDISP_, FLEXCOM4 FLEXCOM4_IO_1, PIO P_93]
+- F8 : PC30,  of Type IO, alternates : [HSMC A_19, PIO P_94, FLEXCOM4 FLEXCOM4_IO_2, LCDC LCDVSYNC_]
+- D8 : PC31,  of Type IO, alternates : [LCDC LCDHSYNC_, FLEXCOM4 FLEXCOM4_IO_3, PIO P_95, UART3 URXD_3, HSMC A_20]
+- G10 : PD0,  of Type IO, alternates : [LCDC LCDPCK_, UART3 UTXD_3, HSMC A_23, GMAC GTSUCOMP_, PIO P_96, FLEXCOM4 FLEXCOM4_IO_4]
+- E10 : PD1,  of Type IO, alternates : [LCDC LCDDEN_, HSMC A_24, PIO P_97, GMAC GRXCK_]
+- G9 : PD2,  of Type IO, alternates : [GMAC GTXER_, ISC ISC_MCK_, PIO P_98, HSMC A_25, UART1 URXD_1]
+- K1 : PD3,  of Type IO, alternates : [SAIC FIQ_, PIO P_99, ISC ISC_D_11, UART1 UTXD_1, HSMC NWAIT_, PTC PTC_X_0, GMAC GCRS_]
+- J6 : PD4,  of Type IO, alternates : [ISC ISC_D_10, HSMC NCS_0, GMAC GCOL_, TWIHS1 TWD_1, UART2 URXD_2, PIO P_100, PTC PTC_X_1]
+- J4 : PD5,  of Type IO, alternates : [TWIHS1 TWCK_1, GMAC GRX_2, UART2 UTXD_2, HSMC NCS_1, PIO P_101, ISC ISC_D_9, PTC PTC_X_2]
+- J2 : PD6,  of Type IO, alternates : [PMC PCK_1, GMAC GRX_3, ICE TCK_, PIO P_102, ISC ISC_D_8, HSMC NCS_2, PTC PTC_X_3]
+- J7 : PD7,  of Type IO, alternates : [ISC ISC_D_0, ICE TDI_, PIO P_103, PTC PTC_X_4, GMAC GTX_2, HSMC NWR1_]
+- J1 : PD8,  of Type IO, alternates : [HSMC NANDRDY_, ISC ISC_D_1, PTC PTC_X_5, ICE TDO_, GMAC GTX_3, PIO P_104]
+- K9 : PD9,  of Type IO, alternates : [ISC ISC_D_2, ICE TMS_, PTC PTC_X_6, PIO P_105, GMAC GTXCK_]
+- J3 : PD10,  of Type IO, alternates : [ISC ISC_D_3, ICE NTRST_, GMAC GTXEN_, PTC PTC_X_7, PIO P_106]
+- M1 : PD11,  of Type IO, alternates : [PMC PCK_2, ISC ISC_MCK_, ISC ISC_D_4, GMAC GRXDV_, TC0 TIOA_1, PIO P_107, PTC PTC_Y_0]
+- K8 : PD12,  of Type IO, alternates : [GMAC GRXER_, PIO P_108, ISC ISC_D_4, FLEXCOM4 FLEXCOM4_IO_0, ISC ISC_D_5, TC0 TIOB_1, PTC PTC_Y_1]
+- L2 : PD13,  of Type IO, alternates : [PIO P_109, TC0 TCLK_1, ISC ISC_D_6, FLEXCOM4 FLEXCOM4_IO_1, ISC ISC_D_5, GMAC GRX_0, PTC PTC_Y_2]
+- K4 : PD14,  of Type IO, alternates : [ISC ISC_D_6, PIO P_110, ISC ISC_D_7, ICE TCK_, FLEXCOM4 FLEXCOM4_IO_2, PTC PTC_Y_3, GMAC GRX_1]
+- K7 : PD15,  of Type IO, alternates : [ISC ISC_PCK_, ICE TDI_, ISC ISC_D_7, FLEXCOM4 FLEXCOM4_IO_3, GMAC GTX_0, PTC PTC_Y_4, PIO P_111]
+- L1 : PD16,  of Type IO, alternates : [ISC ISC_VSYNC_, GMAC GTX_1, ICE TDO_, ISC ISC_D_8, PIO P_112, FLEXCOM4 FLEXCOM4_IO_4, PTC PTC_Y_5]
+- K2 : PD17,  of Type IO, alternates : [ICE TMS_, PIO P_113, PTC PTC_Y_6, GMAC GMDC_, ISC ISC_D_9, ISC ISC_HSYNC_]
+- J5 : PD18,  of Type IO, alternates : [GMAC GMDIO_, ICE NTRST_, ISC ISC_FIELD_, PTC PTC_Y_7, ISC ISC_D_10, PIO P_114]
+- K6 : PD19,  of Type IO, alternates : [I2SC0 I2SC0_CK_, ISC ISC_D_11, TWIHS1 TWD_1, UART2 URXD_2, ADC AD_0, PIO P_115, PMC PCK_0]
+- M2 : PD20,  of Type IO, alternates : [ISC ISC_PCK_, TWIHS1 TWCK_1, UART2 UTXD_2, TC0 TIOA_2, PIO P_116, ADC AD_1, I2SC0 I2SC0_MCK_]
+- N1 : PD21,  of Type IO, alternates : [ISC ISC_VSYNC_, TWIHS0 TWD_0, I2SC0 I2SC0_WS_, FLEXCOM4 FLEXCOM4_IO_0, TC0 TIOB_2, ADC AD_2, PIO P_117]
+- L4 : PD22,  of Type IO, alternates : [TWIHS0 TWCK_0, FLEXCOM4 FLEXCOM4_IO_1, I2SC0 I2SC0_DI_0, PIO P_118, TC0 TCLK_2, ADC AD_3, ISC ISC_HSYNC_]
+- M3 : PD23,  of Type IO, alternates : [ADC AD_4, PIO P_119, ISC ISC_FIELD_, FLEXCOM4 FLEXCOM4_IO_2, UART2 URXD_2, I2SC0 I2SC0_DO_0]
+- L7 : PD24,  of Type IO, alternates : [ADC AD_5, UART2 UTXD_2, PIO P_120, FLEXCOM4 FLEXCOM4_IO_3]
+- L6 : PD25,  of Type IO, alternates : [ADC AD_6, PIO P_121, SPI1 SPI1_SPCK_, FLEXCOM4 FLEXCOM4_IO_4]
+- N2 : PD26,  of Type IO, alternates : [ADC AD_7, FLEXCOM2 FLEXCOM2_IO_0, SPI1 SPI1_MOSI_, PIO P_122]
+- L8 : PD27,  of Type IO, alternates : [SPI1 SPI1_MISO_, ADC AD_8, FLEXCOM2 FLEXCOM2_IO_1, ICE TCK_, PIO P_123]
+- M4 : PD28,  of Type IO, alternates : [ICE TDI_, ADC AD_9, FLEXCOM2 FLEXCOM2_IO_2, PIO P_124, SPI1 SPI1_NPCS_0]
+- N3 : PD29,  of Type IO, alternates : [TWIHS0 TWD_0, PIO P_125, SPI1 SPI1_NPCS_1, FLEXCOM2 FLEXCOM2_IO_3, ICE TDO_, TC1 TIOA_3, ADC AD_10]
+- L9 : PD30,  of Type IO, alternates : [TWIHS0 TWCK_0, ICE TMS_, TC1 TIOB_3, FLEXCOM2 FLEXCOM2_IO_4, ADC AD_11, PIO P_126, SPI1 SPI1_NPCS_2]
+- M7 : PD31,  of Type IO, alternates : [AIC IRQ_, ADC ADTRG_, ICE NTRST_, PIO P_127, TC1 TCLK_3, PMC PCK_0]
+- L5 : VDDANA,  of Type PP
+- K5 : GNDANA,  of Type PS
+- M6 : ADVREF,  of Type PS
+- K3 : VDDANA,  of Type PP
+- L3 : GNDANA,  of Type PS
+- H16 : DDR_VREF,  of Type PS
+- D16 : DDR_VREF,  of Type PS
+- B12 : DDR_D0,  of Type IO
+- A12 : DDR_D1,  of Type IO
+- C12 : DDR_D2,  of Type IO
+- A13 : DDR_D3,  of Type IO
+- A14 : DDR_D4,  of Type IO
+- C13 : DDR_D5,  of Type IO
+- A15 : DDR_D6,  of Type IO
+- B15 : DDR_D7,  of Type IO
+- G17 : DDR_D8,  of Type IO
+- G16 : DDR_D9,  of Type IO
+- H17 : DDR_D10,  of Type IO
+- K17 : DDR_D11,  of Type IO
+- K16 : DDR_D12,  of Type IO
+- J13 : DDR_D13,  of Type IO
+- K14 : DDR_D14,  of Type IO
+- K15 : DDR_D15,  of Type IO
+- B8 : DDR_D16,  of Type IO
+- B9 : DDR_D17,  of Type IO
+- C9 : DDR_D18,  of Type IO
+- A9 : DDR_D19,  of Type IO
+- A10 : DDR_D20,  of Type IO
+- D10 : DDR_D21,  of Type IO
+- B11 : DDR_D22,  of Type IO
+- A11 : DDR_D23,  of Type IO
+- J12 : DDR_D24,  of Type IO
+- H10 : DDR_D25,  of Type IO
+- J11 : DDR_D26,  of Type IO
+- K11 : DDR_D27,  of Type IO
+- L13 : DDR_D28,  of Type IO
+- L11 : DDR_D29,  of Type IO
+- L12 : DDR_D30,  of Type IO
+- M17 : DDR_D31,  of Type IO
+- F12 : DDR_A0,  of Type OP
+- C17 : DDR_A1,  of Type OP
+- B17 : DDR_A2,  of Type OP
+- B16 : DDR_A3,  of Type OP
+- C16 : DDR_A4,  of Type OP
+- G14 : DDR_A5,  of Type OP
+- F14 : DDR_A6,  of Type OP
+- F11 : DDR_A7,  of Type OP
+- C14 : DDR_A8,  of Type OP
+- D13 : DDR_A9,  of Type OP
+- C15 : DDR_A10,  of Type OP
+- A16 : DDR_A11,  of Type OP
+- A17 : DDR_A12,  of Type OP
+- G11 : DDR_A13,  of Type OP
+- E17 : DDR_CLK,  of Type OP
+- D17 : DDR_CLKN,  of Type OP
+- F16 : DDR_CKE,  of Type OP
+- E16 : DDR_RESETN,  of Type OP
+- G13 : DDR_CS,  of Type OP
+- F15 : DDR_WE,  of Type OP
+- F13 : DDR_RAS,  of Type OP
+- G12 : DDR_CAS,  of Type OP
+- C11 : DDR_DQM0,  of Type OP
+- G15 : DDR_DQM1,  of Type OP
+- C8 : DDR_DQM2,  of Type OP
+- H11 : DDR_DQM3,  of Type OP
+- B13 : DDR_DQS0,  of Type OP
+- J17 : DDR_DQS1,  of Type OP
+- C10 : DDR_DQS2,  of Type OP
+- L17 : DDR_DQS3,  of Type OP
+- B14 : DDR_DQSN0,  of Type OP
+- J16 : DDR_DQSN1,  of Type OP
+- B10 : DDR_DQSN2,  of Type OP
+- L16 : DDR_DQSN3,  of Type OP
+- H12 : DDR_BA0,  of Type OP
+- H13 : DDR_BA1,  of Type OP
+- F17 : DDR_BA2,  of Type OP
+- E13 : DDR_,  of Type IO
+- L15 : VDDIODDR,  of Type PP
+- J15 : VDDIODDR,  of Type PP
+- H15 : VDDIODDR,  of Type PP
+- E15 : VDDIODDR,  of Type PP
+- D15 : VDDIODDR,  of Type PP
+- D12 : VDDIODDR,  of Type PP
+- D11 : VDDIODDR,  of Type PP
+- L14 : GNDIODDR,  of Type PS
+- J14 : GNDIODDR,  of Type PS
+- H14 : GNDIODDR,  of Type PS
+- E14 : GNDIODDR,  of Type PS
+- D14 : GNDIODDR,  of Type PS
+- E12 : GNDIODDR,  of Type PS
+- E11 : GNDIODDR,  of Type PS
+- H3 : VDDCORE,  of Type PP
+- N5 : GNDCORE,  of Type PS
+- N9 : VDDCORE,  of Type PP
+- K13 : VDDCORE,  of Type PP
+- D9 : VDDCORE,  of Type PP
+- D7 : VDDCORE,  of Type PP
+- H4 : GNDCORE,  of Type PS
+- M5 : PIOBU7,  of Type IO
+- M9 : GNDCORE,  of Type PS
+- K12 : GNDCORE,  of Type PS
+- E9 : GNDCORE,  of Type PS
+- E7 : GNDCORE,  of Type PS
+- E6 : VDDIOP0,  of Type PP
+- F7 : VDDIOP0,  of Type PP
+- F6 : GNDIOP0,  of Type PS
+- G7 : GNDIOP0,  of Type PS
+- R14 : VDDIOP1,  of Type PP
+- N13 : VDDIOP1,  of Type PP
+- M13 : GNDIOP1,  of Type PS
+- P14 : GNDIOP1,  of Type PS
+- F10 : VDDIOP2,  of Type PP
+- F9 : GNDIOP2,  of Type PS
+- P11 : VDDSDMMC,  of Type PP
+- R11 : GNDSDMMC,  of Type PS
+- F4 : VDDISC,  of Type PP
+- G4 : GNDISC,  of Type PS
+- M12 : VDDFUSE,  of Type PP
+- U4 : VDDPLLA,  of Type PP
+- U5 : GNDPLLA,  of Type PS
+- T3 : VDDAUDIOPLL,  of Type PP
+- T5 : GNDDPLL,  of Type PS
+- T4 : GNDAUDIOPLL,  of Type PS
+- U3 : CLK_AUDIO,  of Type IO
+- U7 : XIN,  of Type PS
+- U6 : XOUT,  of Type PS
+- T7 : VDDOSC,  of Type PP
+- T6 : GNDOSC,  of Type PS
+- P8 : VDDUTMII,  of Type PP
+- R9 : VDDHSIC,  of Type PP
+- P9 : GNDUTMII,  of Type PS
+- T8 : HHSDPA,  of Type IO
+- R8 : HHSDMA,  of Type IO
+- U8 : HHSDPB,  of Type IO
+- U9 : HHSDMB,  of Type IO
+- T9 : HHSDPDATC,  of Type IO
+- U10 : HHSDMSTRC,  of Type IO
+- P7 : VDDUTMIC,  of Type PP
+- R7 : GNDUTMIC,  of Type PS
+- T10 : SDCAL,  of Type IO
+- R6 : VBG,  of Type IO
+- P3 : TST,  of Type IO
+- U2 : NRST,  of Type IP
+- T2 : JTAGSEL,  of Type OP
+- P4 : VDDCORE,  of Type PP
+- N4 : RXD,  of Type IP
+- R1 : SHDN,  of Type IO
+- R3 : VDDBU,  of Type PP
+- N8 : PIOBU1,  of Type IO
+- R2 : WKUP,  of Type IP
+- R5 : PIOBU5,  of Type IO
+- R4 : GNDBU,  of Type PS
+- P5 : PIOBU4,  of Type IO
+- P6 : PIOBU3,  of Type IO
+- M8 : PIOBU2,  of Type IO
+- N7 : PIOBU6,  of Type IO
+- N6 : PIOBU0,  of Type IO
+- P1 : XIN32,  of Type PS
+- P2 : XOUT32,  of Type PS
+- T1 : COMPP,  of Type IO
+- U1 : COMPN,  of Type IO
 ## ATSAMA5D28C-CUR
+
 ### Description : 
+
+- Series : SAMA5D2
+- Footprint : LFBGA289
+- MP : ATSAMA5D28C-CUR
+- Architecture : CORTEX-A5
+- PINOUT : LFBGA289
+- Reference : U
+- Documentation : https://www.microchip.com/en-us/search?q=ATSAMA5D28C-CUR
+- Value : ATSAMA5D28C-CUR
+- Family : SAMA5
+- MF : Microchip
+- Name : ATSAMA5D28
 
 ### Package : 
 
-- U11 : PA0
-- P10 : PA1
-- T11 : PA2
-- R10 : PA3
-- U12 : PA4
-- T12 : PA5
-- R12 : PA6
-- T13 : PA7
-- N10 : PA8
-- N11 : PA9
-- U13 : PA10
-- P15 : PA11
-- N15 : PA12
-- P16 : PA13
-- M14 : PA14
-- N16 : PA15
-- M10 : PA16
-- N17 : PA17
-- U14 : PA18
-- T14 : PA19
-- P12 : PA20
-- R13 : PA21
-- U15 : PA22
-- U16 : PA23
-- T15 : PA24
-- U17 : PA25
-- P13 : PA26
-- T16 : PA27
-- R16 : PA28
-- T17 : PA29
-- R15 : PA30
-- R17 : PA31
-- J8 : PB0
-- A8 : PB1
-- A7 : PB2
-- A6 : PB3
-- B6 : PB4
-- B7 : PB5
-- C7 : PB6
-- C6 : PB7
-- A5 : PB8
-- A4 : PB9
-- H8 : PB10
-- B5 : PB11
-- D6 : PB12
-- B4 : PB13
-- C5 : PB14
-- H7 : PB15
-- D5 : PB16
-- C4 : PB17
-- A3 : PB18
-- D4 : PB19
-- B3 : PB20
-- A2 : PB21
-- C3 : PB22
-- A1 : PB23
-- E5 : PB24
-- B2 : PB25
-- E4 : PB26
-- B1 : PB27
-- C2 : PB28
-- D3 : PB29
-- D2 : PB30
-- C1 : PB31
-- P17 : PC0
-- N12 : PC1
-- N14 : PC2
-- M15 : PC3
-- M11 : PC4
-- L10 : PC5
-- K10 : PC6
-- M16 : PC7
-- J10 : PC8
-- D1 : PC9
-- E3 : PC10
-- E2 : PC11
-- E1 : PC12
-- F3 : PC13
-- F5 : PC14
-- F2 : PC15
-- G6 : PC16
-- F1 : PC17
-- H6 : PC18
-- G2 : PC19
-- G3 : PC20
-- G1 : PC21
-- H2 : PC22
-- G5 : PC23
-- H1 : PC24
-- H5 : PC25
-- J9 : PC26
-- H9 : PC27
-- E8 : PC28
-- G8 : PC29
-- F8 : PC30
-- D8 : PC31
-- G10 : PD0
-- E10 : PD1
-- G9 : PD2
-- K1 : PD3
-- J6 : PD4
-- J4 : PD5
-- J2 : PD6
-- J7 : PD7
-- J1 : PD8
-- K9 : PD9
-- J3 : PD10
-- M1 : PD11
-- K8 : PD12
-- L2 : PD13
-- K4 : PD14
-- K7 : PD15
-- L1 : PD16
-- K2 : PD17
-- J5 : PD18
-- K6 : PD19
-- M2 : PD20
-- N1 : PD21
-- L4 : PD22
-- M3 : PD23
-- L7 : PD24
-- L6 : PD25
-- N2 : PD26
-- L8 : PD27
-- M4 : PD28
-- N3 : PD29
-- L9 : PD30
-- M7 : PD31
-- L5 : VDDANA
-- K5 : GNDANA
-- M6 : ADVREF
-- K3 : VDDANA
-- L3 : GNDANA
-- H16 : DDR_VREF
-- D16 : DDR_VREF
-- B12 : DDR_D0
-- A12 : DDR_D1
-- C12 : DDR_D2
-- A13 : DDR_D3
-- A14 : DDR_D4
-- C13 : DDR_D5
-- A15 : DDR_D6
-- B15 : DDR_D7
-- G17 : DDR_D8
-- G16 : DDR_D9
-- H17 : DDR_D10
-- K17 : DDR_D11
-- K16 : DDR_D12
-- J13 : DDR_D13
-- K14 : DDR_D14
-- K15 : DDR_D15
-- B8 : DDR_D16
-- B9 : DDR_D17
-- C9 : DDR_D18
-- A9 : DDR_D19
-- A10 : DDR_D20
-- D10 : DDR_D21
-- B11 : DDR_D22
-- A11 : DDR_D23
-- J12 : DDR_D24
-- H10 : DDR_D25
-- J11 : DDR_D26
-- K11 : DDR_D27
-- L13 : DDR_D28
-- L11 : DDR_D29
-- L12 : DDR_D30
-- M17 : DDR_D31
-- F12 : DDR_A0
-- C17 : DDR_A1
-- B17 : DDR_A2
-- B16 : DDR_A3
-- C16 : DDR_A4
-- G14 : DDR_A5
-- F14 : DDR_A6
-- F11 : DDR_A7
-- C14 : DDR_A8
-- D13 : DDR_A9
-- C15 : DDR_A10
-- A16 : DDR_A11
-- A17 : DDR_A12
-- G11 : DDR_A13
-- E17 : DDR_CLK
-- D17 : DDR_CLKN
-- F16 : DDR_CKE
-- E16 : DDR_RESETN
-- G13 : DDR_CS
-- F15 : DDR_WE
-- F13 : DDR_RAS
-- G12 : DDR_CAS
-- C11 : DDR_DQM0
-- G15 : DDR_DQM1
-- C8 : DDR_DQM2
-- H11 : DDR_DQM3
-- B13 : DDR_DQS0
-- J17 : DDR_DQS1
-- C10 : DDR_DQS2
-- L17 : DDR_DQS3
-- B14 : DDR_DQSN0
-- J16 : DDR_DQSN1
-- B10 : DDR_DQSN2
-- L16 : DDR_DQSN3
-- H12 : DDR_BA0
-- H13 : DDR_BA1
-- F17 : DDR_BA2
-- E13 : DDR_
-- L15 : VDDIODDR
-- J15 : VDDIODDR
-- H15 : VDDIODDR
-- E15 : VDDIODDR
-- D15 : VDDIODDR
-- D12 : VDDIODDR
-- D11 : VDDIODDR
-- L14 : GNDIODDR
-- J14 : GNDIODDR
-- H14 : GNDIODDR
-- E14 : GNDIODDR
-- D14 : GNDIODDR
-- E12 : GNDIODDR
-- E11 : GNDIODDR
-- H3 : VDDCORE
-- N5 : GNDCORE
-- N9 : VDDCORE
-- K13 : VDDCORE
-- D9 : VDDCORE
-- D7 : VDDCORE
-- H4 : GNDCORE
-- M5 : PIOBU7
-- M9 : GNDCORE
-- K12 : GNDCORE
-- E9 : GNDCORE
-- E7 : GNDCORE
-- E6 : VDDIOP0
-- F7 : VDDIOP0
-- F6 : GNDIOP0
-- G7 : GNDIOP0
-- R14 : VDDIOP1
-- N13 : VDDIOP1
-- M13 : GNDIOP1
-- P14 : GNDIOP1
-- F10 : VDDIOP2
-- F9 : GNDIOP2
-- P11 : VDDSDMMC
-- R11 : GNDSDMMC
-- F4 : VDDISC
-- G4 : GNDISC
-- M12 : VDDFUSE
-- U4 : VDDPLLA
-- U5 : GNDPLLA
-- T3 : VDDAUDIOPLL
-- T5 : GNDDPLL
-- T4 : GNDAUDIOPLL
-- U3 : CLK_AUDIO
-- U7 : XIN
-- U6 : XOUT
-- T7 : VDDOSC
-- T6 : GNDOSC
-- P8 : VDDUTMII
-- R9 : VDDHSIC
-- P9 : GNDUTMII
-- T8 : HHSDPA
-- R8 : HHSDMA
-- U8 : HHSDPB
-- U9 : HHSDMB
-- T9 : HHSDPDATC
-- U10 : HHSDMSTRC
-- P7 : VDDUTMIC
-- R7 : GNDUTMIC
-- T10 : SDCAL
-- R6 : VBG
-- P3 : TST
-- U2 : NRST
-- T2 : JTAGSEL
-- P4 : VDDCORE
-- N4 : RXD
-- R1 : SHDN
-- R3 : VDDBU
-- N8 : PIOBU1
-- R2 : WKUP
-- R5 : PIOBU5
-- R4 : GNDBU
-- P5 : PIOBU4
-- P6 : PIOBU3
-- M8 : PIOBU2
-- N7 : PIOBU6
-- N6 : PIOBU0
-- P1 : XIN32
-- P2 : XOUT32
-- T1 : COMPP
-- U1 : COMPN
+Pin count : 289
+- U11 : PA0,  of Type IO, alternates : [HSMC D_0, PIO P_0, SDMMC0 SDMMC0_CK_, QSPI0 QSPI0_SCK_]
+- P10 : PA1,  of Type IO, alternates : [SDMMC0 SDMMC0_CMD_, PIO P_1, QSPI0 QSPI0_CS_, HSMC D_1]
+- T11 : PA2,  of Type IO, alternates : [PIO P_2, HSMC D_2, SDMMC0 SDMMC0_DAT_0, QSPI0 QSPI0_IO_0]
+- R10 : PA3,  of Type IO, alternates : [PIO P_3, HSMC D_3, SDMMC0 SDMMC0_DAT_1, QSPI0 QSPI0_IO_1]
+- U12 : PA4,  of Type IO, alternates : [HSMC D_4, PIO P_4, SDMMC0 SDMMC0_DAT_2, QSPI0 QSPI0_IO_2]
+- T12 : PA5,  of Type IO, alternates : [PIO P_5, HSMC D_5, QSPI0 QSPI0_IO_3, SDMMC0 SDMMC0_DAT_3]
+- R12 : PA6,  of Type IO, alternates : [PIO P_6, HSMC D_6, FLEXCOM2 FLEXCOM2_IO_0, TC1 TIOA_5, QSPI1 QSPI1_SCK_, SDMMC0 SDMMC0_DAT_4]
+- T13 : PA7,  of Type IO, alternates : [PIO P_7, QSPI1 QSPI1_IO_0, HSMC D_7, FLEXCOM2 FLEXCOM2_IO_1, SDMMC0 SDMMC0_DAT_5, TC1 TIOB_5]
+- N10 : PA8,  of Type IO, alternates : [PIO P_8, QSPI1 QSPI1_IO_1, FLEXCOM2 FLEXCOM2_IO_2, HSMC NANDNWE_, TC1 TCLK_5, SDMMC0 SDMMC0_DAT_6]
+- N11 : PA9,  of Type IO, alternates : [SDMMC0 SDMMC0_DAT_7, QSPI1 QSPI1_IO_2, FLEXCOM2 FLEXCOM2_IO_3, TC1 TIOA_4, HSMC NCS_3, PIO P_9]
+- U13 : PA10,  of Type IO, alternates : [PIO P_10, QSPI1 QSPI1_IO_3, SDMMC0 SDMMC0_RSTN_, HSMC A21_, TC1 TIOB_4, FLEXCOM2 FLEXCOM2_IO_4]
+- P15 : PA11,  of Type IO, alternates : [QSPI1 QSPI1_CS_, SDMMC0 SDMMC0_1V8SEL_, PIO P_11, HSMC A22_, TC1 TCLK_4]
+- N15 : PA12,  of Type IO, alternates : [AIC IRQ_, SDMMC0 SDMMC0_WP_, PIO P_12, HSMC NANDOE_]
+- P16 : PA13,  of Type IO, alternates : [HSMC D_8, FLEXCOM3 FLEXCOM3_IO_1, PIO P_13, SDMMC0 SDMMC0_CD_]
+- M14 : PA14,  of Type IO, alternates : [PIO P_14, SPI0 SPI0_SPCK_, HSMC D_9, SSC1 TK_1, I2SC1 I2SC1_MCK_, FLEXCOM3 FLEXCOM3_IO_2, QSPI0 QSPI0_SCK_]
+- N16 : PA15,  of Type IO, alternates : [PIO P_15, HSMC D_10, QSPI0 QSPI0_CS_, FLEXCOM3 FLEXCOM3_IO_0, SSC1 TF_1, SPI0 SPI0_MOSI_, I2SC1 I2SC1_CK_]
+- M10 : PA16,  of Type IO, alternates : [PIO P_16, HSMC D_11, I2SC1 I2SC1_WS_, FLEXCOM3 FLEXCOM3_IO_3, SPI0 SPI0_MISO_, SSC1 TD_1, QSPI0 QSPI0_IO_0]
+- N17 : PA17,  of Type IO, alternates : [I2SC1 I2SC1_DI_0, PIO P_17, HSMC D_12, SPI0 SPI0_NPCS_0, FLEXCOM3 FLEXCOM3_IO_4, QSPI0 QSPI0_IO_1, SSC1 RD_1]
+- U14 : PA18,  of Type IO, alternates : [HSMC D_13, SSC1 RK_1, SPI0 SPI0_NPCS_1, I2SC1 I2SC1_DO_0, PIO P_18, QSPI0 QSPI0_IO_2, SDMMC1 SDMMC1_DAT_0]
+- T14 : PA19,  of Type IO, alternates : [SSC1 RF_1, SPI0 SPI0_NPCS_2, HSMC D_14, TC0 TIOA_0, QSPI0 QSPI0_IO_3, PIO P_19, SDMMC1 SDMMC1_DAT_1]
+- P12 : PA20,  of Type IO, alternates : [SPI0 SPI0_NPCS_3, HSMC D_15, TC0 TIOB_0, PIO P_20, SDMMC1 SDMMC1_DAT_2]
+- R13 : PA21,  of Type IO, alternates : [AIC IRQ_, PMC PCK_2, HSMC NANDRDY_, TC0 TCLK_0, PIO P_21, SDMMC1 SDMMC1_DAT_3]
+- U15 : PA22,  of Type IO, alternates : [PIO P_22, ICE TCK_, FLEXCOM1 FLEXCOM1_IO_2, HSMC D_0, SPI1 SPI1_SPCK_, SDMMC1 SDMMC1_CK_, QSPI0 QSPI0_SCK_]
+- U16 : PA23,  of Type IO, alternates : [ICE TDI_, PIO P_23, QSPI0 QSPI0_CS_, SPI1 SPI1_MOSI_, FLEXCOM1 FLEXCOM1_IO_1, HSMC D_1]
+- T15 : PA24,  of Type IO, alternates : [SPI1 SPI1_MISO_, FLEXCOM1 FLEXCOM1_IO_0, HSMC D_2, PIO P_24, ICE TDO_, QSPI0 QSPI0_IO_0]
+- U17 : PA25,  of Type IO, alternates : [PIO P_25, ICE TMS_, HSMC D_3, FLEXCOM1 FLEXCOM1_IO_3, SPI1 SPI1_NPCS_0, QSPI0 QSPI0_IO_1]
+- P13 : PA26,  of Type IO, alternates : [PIO P_26, ICE NTRST_, HSMC D_4, SPI1 SPI1_NPCS_1, FLEXCOM1 FLEXCOM1_IO_4, QSPI0 QSPI0_IO_2]
+- T16 : PA27,  of Type IO, alternates : [PIO P_27, SPI0 SPI0_NPCS_2, SDMMC1 SDMMC1_RSTN_, HSMC D_5, TC0 TIOA_1, QSPI0 QSPI0_IO_3, SPI1 SPI1_NPCS_2]
+- R16 : PA28,  of Type IO, alternates : [HSMC D_6, PIO P_28, SPI0 SPI0_NPCS_3, CLASSD CLASSD_L_0, SDMMC1 SDMMC1_CMD_, TC0 TIOB_1, SPI1 SPI1_NPCS_3]
+- T17 : PA29,  of Type IO, alternates : [HSMC D_7, TC0 TCLK_1, SDMMC1 SDMMC1_WP_, CLASSD CLASSD_L_1, SPI0 SPI0_NPCS_1, PIO P_29]
+- R15 : PA30,  of Type IO, alternates : [SPI0 SPI0_NPCS_0, PWM PWMH_0, CLASSD CLASSD_L_2, PIO P_30, HSMC NANDNWE_, SDMMC1 SDMMC1_CD_]
+- R17 : PA31,  of Type IO, alternates : [PWM PWML_0, HSMC NCS_3, CLASSD CLASSD_L_3, PIO P_31, SPI0 SPI0_MISO_]
+- J8 : PB0,  of Type IO, alternates : [PIO P_32, PWM PWMH_1, HSMC A21_, SPI0 SPI0_MOSI_]
+- A8 : PB1,  of Type IO, alternates : [SPI0 SPI0_SPCK_, PIO P_33, PWM PWML_1, HSMC A22_, CLASSD CLASSD_R_0]
+- A7 : PB2,  of Type IO, alternates : [PIO P_34, PWM PWMFI_0, CLASSD CLASSD_R_1, HSMC NANDOE_]
+- A6 : PB3,  of Type IO, alternates : [HSMC D_8, AIC IRQ_, PWM PWMEXTRG_1, PIO P_35, CLASSD CLASSD_R_2, UART4 URXD_4]
+- B6 : PB4,  of Type IO, alternates : [PIO P_36, HSMC D_9, SAIC FIQ_, UART4 UTXD_4, CLASSD CLASSD_R_3]
+- B7 : PB5,  of Type IO, alternates : [PIO P_37, HSMC D_10, PWM PWMH_2, QSPI1 QSPI1_SCK_, GMAC GTSUCOMP_, TC0 TCLK_2]
+- C7 : PB6,  of Type IO, alternates : [PIO P_38, HSMC D_11, QSPI1 QSPI1_CS_, GMAC GTXER_, PWM PWML_2, TC0 TIOA_2]
+- C6 : PB7,  of Type IO, alternates : [PIO P_39, QSPI1 QSPI1_IO_0, HSMC D_12, PWM PWMH_3, TC0 TIOB_2, GMAC GRXCK_]
+- A5 : PB8,  of Type IO, alternates : [QSPI1 QSPI1_IO_1, HSMC D_13, PIO P_40, PWM PWML_3, GMAC GCRS_, TC1 TCLK_3]
+- A4 : PB9,  of Type IO, alternates : [QSPI1 QSPI1_IO_2, HSMC D_14, GMAC GCOL_, PIO P_41, TC1 TIOA_3, PWM PWMFI_1]
+- H8 : PB10,  of Type IO, alternates : [GMAC GRX_2, PWM PWMEXTRG_2, QSPI1 QSPI1_IO_3, HSMC D_15, TC1 TIOB_3, PIO P_42]
+- B5 : PB11,  of Type IO, alternates : [GMAC GRX_3, PIO P_43, PDMIC PDMIC_DAT_, UART3 URXD_3, LCDC LCDDAT_0, HSMC A0_]
+- D6 : PB12,  of Type IO, alternates : [PDMIC PDMIC_CLK_, PIO P_44, UART3 UTXD_3, GMAC GTX_2, HSMC A_1, LCDC LCDDAT_1]
+- B4 : PB13,  of Type IO, alternates : [PMC PCK_1, PIO P_45, GMAC GTX_3, HSMC A_2, LCDC LCDDAT_2]
+- C5 : PB14,  of Type IO, alternates : [SSC1 TK_1, I2SC1 I2SC1_MCK_, LCDC LCDDAT_3, PIO P_46, HSMC A_3, QSPI1 QSPI1_SCK_, GMAC GTXCK_]
+- H7 : PB15,  of Type IO, alternates : [PIO P_47, LCDC LCDDAT_4, QSPI1 QSPI1_CS_, GMAC GTXEN_, HSMC A_4, SSC1 TF_1, I2SC1 I2SC1_CK_]
+- D5 : PB16,  of Type IO, alternates : [LCDC LCDDAT_5, PIO P_48, I2SC1 I2SC1_WS_, QSPI1 QSPI1_IO_0, HSMC A_5, GMAC GRXDV_, SSC1 TD_1]
+- C4 : PB17,  of Type IO, alternates : [LCDC LCDDAT_6, GMAC GRXER_, I2SC1 I2SC1_DI_0, PIO P_49, QSPI1 QSPI1_IO_1, HSMC A_6, SSC1 RD_1]
+- A3 : PB18,  of Type IO, alternates : [HSMC A_7, SSC1 RK_1, QSPI1 QSPI1_IO_2, LCDC LCDDAT_7, PIO P_50, I2SC1 I2SC1_DO_0, GMAC GRX_0]
+- D4 : PB19,  of Type IO, alternates : [SSC1 RF_1, QSPI1 QSPI1_IO_3, HSMC A_8, LCDC LCDDAT_8, PIO P_51, TC1 TIOA_3, GMAC GRX_1]
+- B3 : PB20,  of Type IO, alternates : [PMC PCK_1, HSMC A_9, LCDC LCDDAT_9, GMAC GTX_0, TC1 TIOB_3, PIO P_52, SSC0 TK_0]
+- A2 : PB21,  of Type IO, alternates : [SSC0 TF_0, FLEXCOM3 FLEXCOM3_IO_2, GMAC GTX_1, PIO P_53, HSMC A_10, LCDC LCDDAT_10, TC1 TCLK_3]
+- C3 : PB22,  of Type IO, alternates : [SSC0 TD_0, PIO P_54, FLEXCOM3 FLEXCOM3_IO_1, HSMC A_11, GMAC GMDC_, TC0 TIOA_2, LCDC LCDDAT_11]
+- A1 : PB23,  of Type IO, alternates : [SSC0 RD_0, GMAC GMDIO_, PIO P_55, FLEXCOM3 FLEXCOM3_IO_0, TC0 TIOB_2, HSMC A_12, LCDC LCDDAT_12]
+- E5 : PB24,  of Type IO, alternates : [PIO P_56, FLEXCOM3 FLEXCOM3_IO_3, ISC ISC_D_10, HSMC A_13, SSC0 RK_0, LCDC LCDDAT_13, TC0 TCLK_2]
+- B2 : PB25,  of Type IO, alternates : [ISC ISC_D_11, PIO P_57, HSMC A_14, LCDC LCDDAT_14, FLEXCOM3 FLEXCOM3_IO_4, SSC0 RF_0]
+- E4 : PB26,  of Type IO, alternates : [PIO P_58, ISC ISC_D_0, HSMC A_15, PDMIC PDMIC_DAT_, LCDC LCDDAT_15, UART0 URXD_0]
+- B1 : PB27,  of Type IO, alternates : [PIO P_59, ISC ISC_D_1, PDMIC PDMIC_CLK_, HSMC A_16, UART0 UTXD_0, LCDC LCDDAT_16]
+- C2 : PB28,  of Type IO, alternates : [ISC ISC_D_2, HSMC A_17, FLEXCOM0 FLEXCOM0_IO_0, LCDC LCDDAT_17, TC1 TIOA_5, PIO P_60]
+- D3 : PB29,  of Type IO, alternates : [ISC ISC_D_3, HSMC A_18, LCDC LCDDAT_18, FLEXCOM0 FLEXCOM0_IO_1, PIO P_61, TC1 TIOB_5]
+- D2 : PB30,  of Type IO, alternates : [HSMC A_19, LCDC LCDDAT_19, ISC ISC_D_4, FLEXCOM0 FLEXCOM0_IO_2, PIO P_62, TC1 TCLK_5]
+- C1 : PB31,  of Type IO, alternates : [TWIHS0 TWD_0, ISC ISC_D_5, FLEXCOM0 FLEXCOM0_IO_3, PIO P_63, HSMC A_20, LCDC LCDDAT_20]
+- P17 : PC0,  of Type IO, alternates : [TWIHS0 TWCK_0, ISC ISC_D_6, HSMC A_23, FLEXCOM0 FLEXCOM0_IO_4, PIO P_64, LCDC LCDDAT_21]
+- N12 : PC1,  of Type IO, alternates : [MCAN0 CANTX_0, I2SC0 I2SC0_CK_, PIO P_65, ISC ISC_D_7, HSMC A_24, SPI1 SPI1_SPCK_, LCDC LCDDAT_22]
+- N14 : PC2,  of Type IO, alternates : [MCAN0 CANRX_0, PIO P_66, SPI1 SPI1_MOSI_, HSMC A_25, ISC ISC_D_8, LCDC LCDDAT_23, I2SC0 I2SC0_MCK_]
+- M15 : PC3,  of Type IO, alternates : [SPI1 SPI1_MISO_, I2SC0 I2SC0_WS_, LCDC LCDPWM_, PIO P_67, TC0 TIOA_1, ISC ISC_D_9, HSMC NWAIT_]
+- M11 : PC4,  of Type IO, alternates : [ISC ISC_PCK_, LCDC LCDDISP_, I2SC0 I2SC0_DI_0, PIO P_68, SPI1 SPI1_NPCS_0, HSMC NWR1_, TC0 TIOB_1]
+- L10 : PC5,  of Type IO, alternates : [PIO P_69, ISC ISC_VSYNC_, TC0 TCLK_1, SPI1 SPI1_NPCS_1, HSMC NCS_0, I2SC0 I2SC0_DO_0, LCDC LCDVSYNC_]
+- K10 : PC6,  of Type IO, alternates : [LCDC LCDHSYNC_, TWIHS1 TWD_1, PIO P_70, ISC ISC_HSYNC_, SPI1 SPI1_NPCS_2]
+- M16 : PC7,  of Type IO, alternates : [LCDC LCDPCK_, TWIHS1 TWCK_1, ISC ISC_MCK_, UART1 URXD_1, HSMC NCS_2, SPI1 SPI1_NPCS_3, PIO P_71]
+- J10 : PC8,  of Type IO, alternates : [LCDC LCDDEN_, HSMC NANDRDY_, SAIC FIQ_, ISC ISC_FIELD_, UART1 UTXD_1, PIO P_72, PMC PCK_0]
+- D1 : PC9,  of Type IO, alternates : [SAIC FIQ_, ISC ISC_D_0, PIO P_73, TC1 TIOA_4, GMAC GTSUCOMP_]
+- E3 : PC10,  of Type IO, alternates : [MCAN0 CANTX_0, ISC ISC_D_1, TC1 TIOB_4, PIO P_74, LCDC LCDDAT_2, GMAC GTXCK_]
+- E2 : PC11,  of Type IO, alternates : [ISC ISC_D_2, LCDC LCDDAT_3, MCAN0 CANRX_0, GMAC GTXEN_, PIO P_75, HSMC A0_, TC1 TCLK_4]
+- E1 : PC12,  of Type IO, alternates : [ISC ISC_D_3, LCDC LCDDAT_4, PIO P_76, GMAC GRXDV_, HSMC A_1, UART3 URXD_3, SSC0 TK_0]
+- F3 : PC13,  of Type IO, alternates : [LCDC LCDDAT_5, GMAC GRXER_, SSC0 TF_0, PIO P_77, UART3 UTXD_3, ISC ISC_D_4, HSMC A_2]
+- F5 : PC14,  of Type IO, alternates : [LCDC LCDDAT_6, SSC0 TD_0, PIO P_78, ISC ISC_D_5, HSMC A_3, GMAC GRX_0]
+- F2 : PC15,  of Type IO, alternates : [SSC0 RD_0, ISC ISC_D_6, LCDC LCDDAT_7, PIO P_79, HSMC A_4, GMAC GRX_1]
+- G6 : PC16,  of Type IO, alternates : [ISC ISC_D_7, HSMC A_5, GMAC GTX_0, SSC0 RK_0, LCDC LCDDAT_10, PIO P_80]
+- F1 : PC17,  of Type IO, alternates : [HSMC A_6, GMAC GTX_1, ISC ISC_D_8, LCDC LCDDAT_11, SSC0 RF_0, PIO P_81]
+- H6 : PC18,  of Type IO, alternates : [HSMC A_7, FLEXCOM3 FLEXCOM3_IO_2, GMAC GMDC_, ISC ISC_D_9, LCDC LCDDAT_12, PIO P_82]
+- G2 : PC19,  of Type IO, alternates : [GMAC GMDIO_, HSMC A_8, FLEXCOM3 FLEXCOM3_IO_1, ISC ISC_D_10, PIO P_83, LCDC LCDDAT_13]
+- G3 : PC20,  of Type IO, alternates : [HSMC A_9, FLEXCOM3 FLEXCOM3_IO_0, ISC ISC_D_11, LCDC LCDDAT_14, PIO P_84, GMAC GRXCK_]
+- G1 : PC21,  of Type IO, alternates : [ISC ISC_PCK_, GMAC GTXER_, FLEXCOM3 FLEXCOM3_IO_3, LCDC LCDDAT_15, PIO P_85, HSMC A_10]
+- H2 : PC22,  of Type IO, alternates : [ISC ISC_VSYNC_, LCDC LCDDAT_18, HSMC A_11, FLEXCOM3 FLEXCOM3_IO_4, PIO P_86, GMAC GCRS_]
+- G5 : PC23,  of Type IO, alternates : [LCDC LCDDAT_19, PIO P_87, HSMC A_12, GMAC GCOL_, ISC ISC_HSYNC_]
+- H1 : PC24,  of Type IO, alternates : [GMAC GRX_2, ISC ISC_MCK_, PIO P_88, HSMC A_13, LCDC LCDDAT_20]
+- H5 : PC25,  of Type IO, alternates : [GMAC GRX_3, ISC ISC_FIELD_, PIO P_89, HSMC A_14, LCDC LCDDAT_21]
+- J9 : PC26,  of Type IO, alternates : [MCAN1 CANTX_1, HSMC A_15, GMAC GTX_2, LCDC LCDDAT_22, PIO P_90]
+- H9 : PC27,  of Type IO, alternates : [MCAN1 CANRX_1, PMC PCK_1, TWIHS0 TWD_0, HSMC A_16, GMAC GTX_3, LCDC LCDDAT_23, PIO P_91]
+- E8 : PC28,  of Type IO, alternates : [PMC PCK_2, TWIHS0 TWCK_0, HSMC A_17, LCDC LCDPWM_, FLEXCOM4 FLEXCOM4_IO_0, PIO P_92]
+- G8 : PC29,  of Type IO, alternates : [HSMC A_18, LCDC LCDDISP_, FLEXCOM4 FLEXCOM4_IO_1, PIO P_93]
+- F8 : PC30,  of Type IO, alternates : [HSMC A_19, PIO P_94, FLEXCOM4 FLEXCOM4_IO_2, LCDC LCDVSYNC_]
+- D8 : PC31,  of Type IO, alternates : [LCDC LCDHSYNC_, FLEXCOM4 FLEXCOM4_IO_3, PIO P_95, UART3 URXD_3, HSMC A_20]
+- G10 : PD0,  of Type IO, alternates : [LCDC LCDPCK_, UART3 UTXD_3, HSMC A_23, GMAC GTSUCOMP_, PIO P_96, FLEXCOM4 FLEXCOM4_IO_4]
+- E10 : PD1,  of Type IO, alternates : [LCDC LCDDEN_, HSMC A_24, PIO P_97, GMAC GRXCK_]
+- G9 : PD2,  of Type IO, alternates : [GMAC GTXER_, ISC ISC_MCK_, PIO P_98, HSMC A_25, UART1 URXD_1]
+- K1 : PD3,  of Type IO, alternates : [SAIC FIQ_, PIO P_99, ISC ISC_D_11, UART1 UTXD_1, HSMC NWAIT_, PTC PTC_X_0, GMAC GCRS_]
+- J6 : PD4,  of Type IO, alternates : [ISC ISC_D_10, HSMC NCS_0, GMAC GCOL_, TWIHS1 TWD_1, UART2 URXD_2, PIO P_100, PTC PTC_X_1]
+- J4 : PD5,  of Type IO, alternates : [TWIHS1 TWCK_1, GMAC GRX_2, UART2 UTXD_2, HSMC NCS_1, PIO P_101, ISC ISC_D_9, PTC PTC_X_2]
+- J2 : PD6,  of Type IO, alternates : [PMC PCK_1, GMAC GRX_3, ICE TCK_, PIO P_102, ISC ISC_D_8, HSMC NCS_2, PTC PTC_X_3]
+- J7 : PD7,  of Type IO, alternates : [ISC ISC_D_0, ICE TDI_, PIO P_103, PTC PTC_X_4, GMAC GTX_2, HSMC NWR1_]
+- J1 : PD8,  of Type IO, alternates : [HSMC NANDRDY_, ISC ISC_D_1, PTC PTC_X_5, ICE TDO_, GMAC GTX_3, PIO P_104]
+- K9 : PD9,  of Type IO, alternates : [ISC ISC_D_2, ICE TMS_, PTC PTC_X_6, PIO P_105, GMAC GTXCK_]
+- J3 : PD10,  of Type IO, alternates : [ISC ISC_D_3, ICE NTRST_, GMAC GTXEN_, PTC PTC_X_7, PIO P_106]
+- M1 : PD11,  of Type IO, alternates : [PMC PCK_2, ISC ISC_MCK_, ISC ISC_D_4, GMAC GRXDV_, TC0 TIOA_1, PIO P_107, PTC PTC_Y_0]
+- K8 : PD12,  of Type IO, alternates : [GMAC GRXER_, PIO P_108, ISC ISC_D_4, FLEXCOM4 FLEXCOM4_IO_0, ISC ISC_D_5, TC0 TIOB_1, PTC PTC_Y_1]
+- L2 : PD13,  of Type IO, alternates : [PIO P_109, TC0 TCLK_1, ISC ISC_D_6, FLEXCOM4 FLEXCOM4_IO_1, ISC ISC_D_5, GMAC GRX_0, PTC PTC_Y_2]
+- K4 : PD14,  of Type IO, alternates : [ISC ISC_D_6, PIO P_110, ISC ISC_D_7, ICE TCK_, FLEXCOM4 FLEXCOM4_IO_2, PTC PTC_Y_3, GMAC GRX_1]
+- K7 : PD15,  of Type IO, alternates : [ISC ISC_PCK_, ICE TDI_, ISC ISC_D_7, FLEXCOM4 FLEXCOM4_IO_3, GMAC GTX_0, PTC PTC_Y_4, PIO P_111]
+- L1 : PD16,  of Type IO, alternates : [ISC ISC_VSYNC_, GMAC GTX_1, ICE TDO_, ISC ISC_D_8, PIO P_112, FLEXCOM4 FLEXCOM4_IO_4, PTC PTC_Y_5]
+- K2 : PD17,  of Type IO, alternates : [ICE TMS_, PIO P_113, PTC PTC_Y_6, GMAC GMDC_, ISC ISC_D_9, ISC ISC_HSYNC_]
+- J5 : PD18,  of Type IO, alternates : [GMAC GMDIO_, ICE NTRST_, ISC ISC_FIELD_, PTC PTC_Y_7, ISC ISC_D_10, PIO P_114]
+- K6 : PD19,  of Type IO, alternates : [I2SC0 I2SC0_CK_, ISC ISC_D_11, TWIHS1 TWD_1, UART2 URXD_2, ADC AD_0, PIO P_115, PMC PCK_0]
+- M2 : PD20,  of Type IO, alternates : [ISC ISC_PCK_, TWIHS1 TWCK_1, UART2 UTXD_2, TC0 TIOA_2, PIO P_116, ADC AD_1, I2SC0 I2SC0_MCK_]
+- N1 : PD21,  of Type IO, alternates : [ISC ISC_VSYNC_, TWIHS0 TWD_0, I2SC0 I2SC0_WS_, FLEXCOM4 FLEXCOM4_IO_0, TC0 TIOB_2, ADC AD_2, PIO P_117]
+- L4 : PD22,  of Type IO, alternates : [TWIHS0 TWCK_0, FLEXCOM4 FLEXCOM4_IO_1, I2SC0 I2SC0_DI_0, PIO P_118, TC0 TCLK_2, ADC AD_3, ISC ISC_HSYNC_]
+- M3 : PD23,  of Type IO, alternates : [ADC AD_4, PIO P_119, ISC ISC_FIELD_, FLEXCOM4 FLEXCOM4_IO_2, UART2 URXD_2, I2SC0 I2SC0_DO_0]
+- L7 : PD24,  of Type IO, alternates : [ADC AD_5, UART2 UTXD_2, PIO P_120, FLEXCOM4 FLEXCOM4_IO_3]
+- L6 : PD25,  of Type IO, alternates : [ADC AD_6, PIO P_121, SPI1 SPI1_SPCK_, FLEXCOM4 FLEXCOM4_IO_4]
+- N2 : PD26,  of Type IO, alternates : [ADC AD_7, FLEXCOM2 FLEXCOM2_IO_0, SPI1 SPI1_MOSI_, PIO P_122]
+- L8 : PD27,  of Type IO, alternates : [SPI1 SPI1_MISO_, ADC AD_8, FLEXCOM2 FLEXCOM2_IO_1, ICE TCK_, PIO P_123]
+- M4 : PD28,  of Type IO, alternates : [ICE TDI_, ADC AD_9, FLEXCOM2 FLEXCOM2_IO_2, PIO P_124, SPI1 SPI1_NPCS_0]
+- N3 : PD29,  of Type IO, alternates : [TWIHS0 TWD_0, PIO P_125, SPI1 SPI1_NPCS_1, FLEXCOM2 FLEXCOM2_IO_3, ICE TDO_, TC1 TIOA_3, ADC AD_10]
+- L9 : PD30,  of Type IO, alternates : [TWIHS0 TWCK_0, ICE TMS_, TC1 TIOB_3, FLEXCOM2 FLEXCOM2_IO_4, ADC AD_11, PIO P_126, SPI1 SPI1_NPCS_2]
+- M7 : PD31,  of Type IO, alternates : [AIC IRQ_, ADC ADTRG_, ICE NTRST_, PIO P_127, TC1 TCLK_3, PMC PCK_0]
+- L5 : VDDANA,  of Type PP
+- K5 : GNDANA,  of Type PS
+- M6 : ADVREF,  of Type PS
+- K3 : VDDANA,  of Type PP
+- L3 : GNDANA,  of Type PS
+- H16 : DDR_VREF,  of Type PS
+- D16 : DDR_VREF,  of Type PS
+- B12 : DDR_D0,  of Type IO
+- A12 : DDR_D1,  of Type IO
+- C12 : DDR_D2,  of Type IO
+- A13 : DDR_D3,  of Type IO
+- A14 : DDR_D4,  of Type IO
+- C13 : DDR_D5,  of Type IO
+- A15 : DDR_D6,  of Type IO
+- B15 : DDR_D7,  of Type IO
+- G17 : DDR_D8,  of Type IO
+- G16 : DDR_D9,  of Type IO
+- H17 : DDR_D10,  of Type IO
+- K17 : DDR_D11,  of Type IO
+- K16 : DDR_D12,  of Type IO
+- J13 : DDR_D13,  of Type IO
+- K14 : DDR_D14,  of Type IO
+- K15 : DDR_D15,  of Type IO
+- B8 : DDR_D16,  of Type IO
+- B9 : DDR_D17,  of Type IO
+- C9 : DDR_D18,  of Type IO
+- A9 : DDR_D19,  of Type IO
+- A10 : DDR_D20,  of Type IO
+- D10 : DDR_D21,  of Type IO
+- B11 : DDR_D22,  of Type IO
+- A11 : DDR_D23,  of Type IO
+- J12 : DDR_D24,  of Type IO
+- H10 : DDR_D25,  of Type IO
+- J11 : DDR_D26,  of Type IO
+- K11 : DDR_D27,  of Type IO
+- L13 : DDR_D28,  of Type IO
+- L11 : DDR_D29,  of Type IO
+- L12 : DDR_D30,  of Type IO
+- M17 : DDR_D31,  of Type IO
+- F12 : DDR_A0,  of Type OP
+- C17 : DDR_A1,  of Type OP
+- B17 : DDR_A2,  of Type OP
+- B16 : DDR_A3,  of Type OP
+- C16 : DDR_A4,  of Type OP
+- G14 : DDR_A5,  of Type OP
+- F14 : DDR_A6,  of Type OP
+- F11 : DDR_A7,  of Type OP
+- C14 : DDR_A8,  of Type OP
+- D13 : DDR_A9,  of Type OP
+- C15 : DDR_A10,  of Type OP
+- A16 : DDR_A11,  of Type OP
+- A17 : DDR_A12,  of Type OP
+- G11 : DDR_A13,  of Type OP
+- E17 : DDR_CLK,  of Type OP
+- D17 : DDR_CLKN,  of Type OP
+- F16 : DDR_CKE,  of Type OP
+- E16 : DDR_RESETN,  of Type OP
+- G13 : DDR_CS,  of Type OP
+- F15 : DDR_WE,  of Type OP
+- F13 : DDR_RAS,  of Type OP
+- G12 : DDR_CAS,  of Type OP
+- C11 : DDR_DQM0,  of Type OP
+- G15 : DDR_DQM1,  of Type OP
+- C8 : DDR_DQM2,  of Type OP
+- H11 : DDR_DQM3,  of Type OP
+- B13 : DDR_DQS0,  of Type OP
+- J17 : DDR_DQS1,  of Type OP
+- C10 : DDR_DQS2,  of Type OP
+- L17 : DDR_DQS3,  of Type OP
+- B14 : DDR_DQSN0,  of Type OP
+- J16 : DDR_DQSN1,  of Type OP
+- B10 : DDR_DQSN2,  of Type OP
+- L16 : DDR_DQSN3,  of Type OP
+- H12 : DDR_BA0,  of Type OP
+- H13 : DDR_BA1,  of Type OP
+- F17 : DDR_BA2,  of Type OP
+- E13 : DDR_,  of Type IO
+- L15 : VDDIODDR,  of Type PP
+- J15 : VDDIODDR,  of Type PP
+- H15 : VDDIODDR,  of Type PP
+- E15 : VDDIODDR,  of Type PP
+- D15 : VDDIODDR,  of Type PP
+- D12 : VDDIODDR,  of Type PP
+- D11 : VDDIODDR,  of Type PP
+- L14 : GNDIODDR,  of Type PS
+- J14 : GNDIODDR,  of Type PS
+- H14 : GNDIODDR,  of Type PS
+- E14 : GNDIODDR,  of Type PS
+- D14 : GNDIODDR,  of Type PS
+- E12 : GNDIODDR,  of Type PS
+- E11 : GNDIODDR,  of Type PS
+- H3 : VDDCORE,  of Type PP
+- N5 : GNDCORE,  of Type PS
+- N9 : VDDCORE,  of Type PP
+- K13 : VDDCORE,  of Type PP
+- D9 : VDDCORE,  of Type PP
+- D7 : VDDCORE,  of Type PP
+- H4 : GNDCORE,  of Type PS
+- M5 : PIOBU7,  of Type IO
+- M9 : GNDCORE,  of Type PS
+- K12 : GNDCORE,  of Type PS
+- E9 : GNDCORE,  of Type PS
+- E7 : GNDCORE,  of Type PS
+- E6 : VDDIOP0,  of Type PP
+- F7 : VDDIOP0,  of Type PP
+- F6 : GNDIOP0,  of Type PS
+- G7 : GNDIOP0,  of Type PS
+- R14 : VDDIOP1,  of Type PP
+- N13 : VDDIOP1,  of Type PP
+- M13 : GNDIOP1,  of Type PS
+- P14 : GNDIOP1,  of Type PS
+- F10 : VDDIOP2,  of Type PP
+- F9 : GNDIOP2,  of Type PS
+- P11 : VDDSDMMC,  of Type PP
+- R11 : GNDSDMMC,  of Type PS
+- F4 : VDDISC,  of Type PP
+- G4 : GNDISC,  of Type PS
+- M12 : VDDFUSE,  of Type PP
+- U4 : VDDPLLA,  of Type PP
+- U5 : GNDPLLA,  of Type PS
+- T3 : VDDAUDIOPLL,  of Type PP
+- T5 : GNDDPLL,  of Type PS
+- T4 : GNDAUDIOPLL,  of Type PS
+- U3 : CLK_AUDIO,  of Type IO
+- U7 : XIN,  of Type PS
+- U6 : XOUT,  of Type PS
+- T7 : VDDOSC,  of Type PP
+- T6 : GNDOSC,  of Type PS
+- P8 : VDDUTMII,  of Type PP
+- R9 : VDDHSIC,  of Type PP
+- P9 : GNDUTMII,  of Type PS
+- T8 : HHSDPA,  of Type IO
+- R8 : HHSDMA,  of Type IO
+- U8 : HHSDPB,  of Type IO
+- U9 : HHSDMB,  of Type IO
+- T9 : HHSDPDATC,  of Type IO
+- U10 : HHSDMSTRC,  of Type IO
+- P7 : VDDUTMIC,  of Type PP
+- R7 : GNDUTMIC,  of Type PS
+- T10 : SDCAL,  of Type IO
+- R6 : VBG,  of Type IO
+- P3 : TST,  of Type IO
+- U2 : NRST,  of Type IP
+- T2 : JTAGSEL,  of Type OP
+- P4 : VDDCORE,  of Type PP
+- N4 : RXD,  of Type IP
+- R1 : SHDN,  of Type IO
+- R3 : VDDBU,  of Type PP
+- N8 : PIOBU1,  of Type IO
+- R2 : WKUP,  of Type IP
+- R5 : PIOBU5,  of Type IO
+- R4 : GNDBU,  of Type PS
+- P5 : PIOBU4,  of Type IO
+- P6 : PIOBU3,  of Type IO
+- M8 : PIOBU2,  of Type IO
+- N7 : PIOBU6,  of Type IO
+- N6 : PIOBU0,  of Type IO
+- P1 : XIN32,  of Type PS
+- P2 : XOUT32,  of Type PS
+- T1 : COMPP,  of Type IO
+- U1 : COMPN,  of Type IO
 ## ATSAMA5D28CD1G-CU
+
 ### Description : 
+
+- Series : SAMA5D2
+- Footprint : TFBGA289
+- MP : ATSAMA5D28CD1G-CU
+- Architecture : CORTEX-A5
+- PINOUT : TFBGA289
+- Reference : U
+- Documentation : https://www.microchip.com/en-us/search?q=ATSAMA5D28CD1G-CU
+- Value : ATSAMA5D28CD1G-CU
+- Family : SAMA5
+- MF : Microchip
+- Name : ATSAMA5D28CD1G
 
 ### Package : 
 
-- U13 : PA0
-- N7 : PA1
-- U14 : PA2
-- T13 : PA3
-- U15 : PA4
-- U16 : PA5
-- U17 : PA6
-- R11 : PA7
-- R9 : PA8
-- P8 : PA9
-- R10 : PA10
-- P15 : PA11
-- N17 : PA12
-- P16 : PA13
-- M17 : PA14
-- N16 : PA15
-- M11 : PA16
-- N14 : PA17
-- T16 : PA18
-- T15 : PA19
-- P9 : PA20
-- P10 : PA21
-- T17 : PA22
-- T14 : PA23
-- R17 : PA24
-- R16 : PA25
-- P17 : PA26
-- R15 : PA27
-- R14 : PA28
-- P14 : PA29
-- R13 : PA30
-- P13 : PA31
-- F5 : PB0
-- C8 : PB1
-- C7 : PB2
-- B8 : PB3
-- B7 : PB4
-- A10 : PB5
-- A9 : PB6
-- D5 : PB7
-- E5 : PB8
-- C6 : PB9
-- A8 : PB10
-- A7 : PB11
-- B6 : PB12
-- C5 : PB13
-- A6 : PB14
-- E4 : PB15
-- B5 : PB16
-- C4 : PB17
-- A5 : PB18
-- B4 : PB19
-- A4 : PB20
-- D3 : PB21
-- C3 : PB22
-- B3 : PB23
-- E2 : PB24
-- A3 : PB25
-- G3 : PB26
-- F4 : PB27
-- D2 : PB28
-- G8 : PB29
-- C2 : PB30
-- G7 : PB31
-- N10 : PC0
-- N11 : PC1
-- N9 : PC2
-- M10 : PC3
-- N15 : PC4
-- M16 : PC5
-- L11 : PC6
-- M15 : PC7
-- M13 : PC8
-- B2 : PC9
-- G4 : PC10
-- A2 : PC11
-- A1 : PC12
-- B1 : PC13
-- G5 : PC14
-- G2 : PC15
-- G6 : PC16
-- C1 : PC17
-- G9 : PC18
-- D1 : PC19
-- H4 : PC20
-- E1 : PC21
-- F1 : PC22
-- H9 : PC23
-- G1 : PC24
-- H8 : PC25
-- F7 : PC26
-- B10 : PC27
-- F6 : PC28
-- B9 : PC29
-- E6 : PC30
-- A11 : PC31
-- E7 : PD0
-- C9 : PD1
-- D8 : PD2
-- J1 : PD3
-- H7 : PD4
-- H1 : PD5
-- J2 : PD6
-- H6 : PD7
-- K3 : PD8
-- J4 : PD9
-- J3 : PD10
-- K2 : PD11
-- K9 : PD12
-- N1 : PD13
-- K5 : PD14
-- K8 : PD15
-- L1 : PD16
-- K1 : PD17
-- J7 : PD18
-- L8 : PD19
-- L2 : PD20
-- P1 : PD21
-- L6 : PD22
-- T1 : PD23
-- L4 : PD24
-- L5 : PD25
-- R1 : PD26
-- L7 : PD27
-- L3 : PD28
-- M2 : PD29
-- M9 : PD30
-- M8 : PD31
-- L9 : ADVREF
-- K4 : VDDANA
-- J5 : VDDANA
-- J6 : GNDANA
-- M1 : GNDANA
-- J10 : DDR_VREF
-- F11 : DDR_VREF
-- L10 : VDDIODDR
-- L14 : VDDIODDR
-- J8 : VDDIODDR
-- H10 : VDDIODDR
-- G12 : VDDIODDR
-- E11 : VDDIODDR
-- E8 : VDDIODDR
-- K10 : GNDIODDR
-- M14 : GNDIODDR
-- J9 : GNDIODDR
-- G10 : GNDIODDR
-- H12 : GNDIODDR
-- E10 : GNDIODDR
-- F8 : GNDIODDR
-- H2 : VDDCORE
-- U3 : VDDCORE
-- P7 : VDDCORE
-- L12 : VDDCORE
-- E9 : VDDCORE
-- D7 : VDDCORE
-- E12 : GNDCORE
-- F12 : GNDCORE
-- J11 : GNDCORE
-- K11 : GNDCORE
-- K6 : GNDCORE
-- K7 : GNDCORE
-- D4 : VDDIOP0
-- F3 : VDDIOP1
-- E3 : GNDIOP0
-- F2 : GNDIOP0
-- N12 : VDDIOP1
-- P12 : VDDIOP1
-- M12 : GNDIOP1
-- P11 : GNDIOP1
-- D9 : VDDIOP2
-- D6 : GNDIOP2
-- N8 : VDDSDMMC
-- R8 : GNDSDMMC
-- H3 : VDDISC
-- H5 : GNDISC
-- N13 : VDDFUSE
-- R5 : VDDPLLA
-- T5 : GNDPLLA
-- M4 : VDDAUDIOPLL
-- T3 : GNDDPLL
-- T4 : GNDAUDIOPLL
-- T8 : CLK_AUDIO
-- U9 : XIN
-- U8 : XOUT
-- N6 : VDDOSC
-- P5 : GNDOSC
-- P6 : VDDUTMII
-- R7 : VDDHSIC
-- M6 : GNDUTMII
-- U10 : HHSDPA
-- T10 : HHSDMA
-- U11 : HHSDPB
-- T11 : HHSDMB
-- T12 : HHSDPDATC
-- U12 : HHSDMSTRC
-- M7 : VDDUTMIC
-- R6 : GNDUTMIC
-- T6 : VBG
-- R4 : TST
-- T7 : NRST
-- R3 : JTAGSEL
-- R2 : WKUP
-- N2 : RXD
-- T2 : SHDN
-- P3 : PIOBU0
-- M3 : PIOBU1
-- P2 : PIOBU2
-- P4 : PIOBU3
-- N4 : PIOBU4
-- M5 : PIOBU5
-- N5 : PIOBU6
-- N3 : PIOBU7
-- U5 : VDDBU
-- U4 : GNDBU
-- U2 : XIN32
-- U1 : XOUT32
-- U6 : COMPP
-- U7 : COMPN
-- D17 : ODT
-- A16 : DDRM_VDD
-- B16 : DDRM_VDD
-- C16 : DDRM_VDD
-- D16 : DDRM_VDD
-- E15 : DDRM_VDD
-- G17 : DDRM_VDD
-- J17 : DDRM_VDD
-- L16 : DDRM_VDD
-- E16 : DDRM_VDDL
-- F15 : DDRM_VDDQ
-- G15 : DDRM_VDDQ
-- H15 : DDRM_VDDQ
-- J15 : DDRM_VDDQ
-- K15 : DDRM_VDDQ
-- L15 : DDRM_VDDQ
-- A17 : DDRM_VSS
-- B17 : DDRM_VSS
-- C17 : DDRM_VSS
-- D15 : DDRM_VSS
-- E14 : DDRM_VSS
-- F17 : DDRM_VSS
-- H17 : DDRM_VSS
-- L17 : DDRM_VSS
-- E17 : DDRM_VSSDL
-- F16 : DDRM_VSSQ
-- G16 : DDRM_VSSQ
-- H16 : DDRM_VSSQ
-- J16 : DDRM_VSSQ
-- K16 : DDRM_VSSQ
-- K17 : DDRM_VSSQ
-- A12 : NC
-- A13 : NC
-- A14 : NC
-- A15 : NC
-- B11 : NC
-- B12 : NC
-- B13 : NC
-- B14 : NC
-- B15 : NC
-- C10 : NC
-- C11 : NC
-- C12 : NC
-- C13 : NC
-- C14 : NC
-- C15 : NC
-- D10 : NC
-- D11 : NC
-- D12 : NC
-- D13 : NC
-- D14 : NC
-- E13 : NC
-- F9 : NC
-- F10 : NC
-- F13 : NC
-- F14 : NC
-- G11 : NC
-- G13 : NC
-- G14 : NC
-- H11 : NC
-- H13 : NC
-- H14 : NC
-- J12 : NC
-- J13 : NC
-- J14 : NC
-- K12 : NC
-- K13 : NC
-- K14 : NC
-- L13 : NC
-- R12 : NC
-- T9 : NC
+Pin count : 289
+- U13 : PA0,  of Type IO, alternates : [HSMC D_0, PIO P_0, SDMMC0 SDMMC0_CK_, QSPI0 QSPI0_SCK_]
+- N7 : PA1,  of Type IO, alternates : [SDMMC0 SDMMC0_CMD_, PIO P_1, QSPI0 QSPI0_CS_, HSMC D_1]
+- U14 : PA2,  of Type IO, alternates : [PIO P_2, HSMC D_2, SDMMC0 SDMMC0_DAT_0, QSPI0 QSPI0_IO_0]
+- T13 : PA3,  of Type IO, alternates : [PIO P_3, HSMC D_3, SDMMC0 SDMMC0_DAT_1, QSPI0 QSPI0_IO_1]
+- U15 : PA4,  of Type IO, alternates : [HSMC D_4, PIO P_4, SDMMC0 SDMMC0_DAT_2, QSPI0 QSPI0_IO_2]
+- U16 : PA5,  of Type IO, alternates : [PIO P_5, HSMC D_5, QSPI0 QSPI0_IO_3, SDMMC0 SDMMC0_DAT_3]
+- U17 : PA6,  of Type IO, alternates : [PIO P_6, HSMC D_6, FLEXCOM2 FLEXCOM2_IO_0, TC1 TIOA_5, QSPI1 QSPI1_SCK_, SDMMC0 SDMMC0_DAT_4]
+- R11 : PA7,  of Type IO, alternates : [PIO P_7, QSPI1 QSPI1_IO_0, HSMC D_7, FLEXCOM2 FLEXCOM2_IO_1, SDMMC0 SDMMC0_DAT_5, TC1 TIOB_5]
+- R9 : PA8,  of Type IO, alternates : [PIO P_8, QSPI1 QSPI1_IO_1, FLEXCOM2 FLEXCOM2_IO_2, HSMC NANDNWE_, TC1 TCLK_5, SDMMC0 SDMMC0_DAT_6]
+- P8 : PA9,  of Type IO, alternates : [SDMMC0 SDMMC0_DAT_7, QSPI1 QSPI1_IO_2, FLEXCOM2 FLEXCOM2_IO_3, TC1 TIOA_4, HSMC NCS_3, PIO P_9]
+- R10 : PA10,  of Type IO, alternates : [PIO P_10, QSPI1 QSPI1_IO_3, SDMMC0 SDMMC0_RSTN_, HSMC A21_, TC1 TIOB_4, FLEXCOM2 FLEXCOM2_IO_4]
+- P15 : PA11,  of Type IO, alternates : [QSPI1 QSPI1_CS_, SDMMC0 SDMMC0_1V8SEL_, PIO P_11, HSMC A22_, TC1 TCLK_4]
+- N17 : PA12,  of Type IO, alternates : [AIC IRQ_, SDMMC0 SDMMC0_WP_, PIO P_12, HSMC NANDOE_]
+- P16 : PA13,  of Type IO, alternates : [HSMC D_8, FLEXCOM3 FLEXCOM3_IO_1, PIO P_13, SDMMC0 SDMMC0_CD_]
+- M17 : PA14,  of Type IO, alternates : [PIO P_14, SPI0 SPI0_SPCK_, HSMC D_9, SSC1 TK_1, I2SC1 I2SC1_MCK_, FLEXCOM3 FLEXCOM3_IO_2, QSPI0 QSPI0_SCK_]
+- N16 : PA15,  of Type IO, alternates : [PIO P_15, HSMC D_10, QSPI0 QSPI0_CS_, FLEXCOM3 FLEXCOM3_IO_0, SSC1 TF_1, SPI0 SPI0_MOSI_, I2SC1 I2SC1_CK_]
+- M11 : PA16,  of Type IO, alternates : [PIO P_16, HSMC D_11, I2SC1 I2SC1_WS_, FLEXCOM3 FLEXCOM3_IO_3, SPI0 SPI0_MISO_, SSC1 TD_1, QSPI0 QSPI0_IO_0]
+- N14 : PA17,  of Type IO, alternates : [I2SC1 I2SC1_DI_0, PIO P_17, HSMC D_12, SPI0 SPI0_NPCS_0, FLEXCOM3 FLEXCOM3_IO_4, QSPI0 QSPI0_IO_1, SSC1 RD_1]
+- T16 : PA18,  of Type IO, alternates : [HSMC D_13, SSC1 RK_1, SPI0 SPI0_NPCS_1, I2SC1 I2SC1_DO_0, PIO P_18, QSPI0 QSPI0_IO_2, SDMMC1 SDMMC1_DAT_0]
+- T15 : PA19,  of Type IO, alternates : [SSC1 RF_1, SPI0 SPI0_NPCS_2, HSMC D_14, TC0 TIOA_0, QSPI0 QSPI0_IO_3, PIO P_19, SDMMC1 SDMMC1_DAT_1]
+- P9 : PA20,  of Type IO, alternates : [SPI0 SPI0_NPCS_3, HSMC D_15, TC0 TIOB_0, PIO P_20, SDMMC1 SDMMC1_DAT_2]
+- P10 : PA21,  of Type IO, alternates : [AIC IRQ_, PMC PCK_2, HSMC NANDRDY_, TC0 TCLK_0, PIO P_21, SDMMC1 SDMMC1_DAT_3]
+- T17 : PA22,  of Type IO, alternates : [PIO P_22, ICE TCK_, FLEXCOM1 FLEXCOM1_IO_2, HSMC D_0, SPI1 SPI1_SPCK_, SDMMC1 SDMMC1_CK_, QSPI0 QSPI0_SCK_]
+- T14 : PA23,  of Type IO, alternates : [ICE TDI_, PIO P_23, QSPI0 QSPI0_CS_, SPI1 SPI1_MOSI_, FLEXCOM1 FLEXCOM1_IO_1, HSMC D_1]
+- R17 : PA24,  of Type IO, alternates : [SPI1 SPI1_MISO_, FLEXCOM1 FLEXCOM1_IO_0, HSMC D_2, PIO P_24, ICE TDO_, QSPI0 QSPI0_IO_0]
+- R16 : PA25,  of Type IO, alternates : [PIO P_25, ICE TMS_, HSMC D_3, FLEXCOM1 FLEXCOM1_IO_3, SPI1 SPI1_NPCS_0, QSPI0 QSPI0_IO_1]
+- P17 : PA26,  of Type IO, alternates : [PIO P_26, ICE NTRST_, HSMC D_4, SPI1 SPI1_NPCS_1, FLEXCOM1 FLEXCOM1_IO_4, QSPI0 QSPI0_IO_2]
+- R15 : PA27,  of Type IO, alternates : [PIO P_27, SPI0 SPI0_NPCS_2, SDMMC1 SDMMC1_RSTN_, HSMC D_5, TC0 TIOA_1, QSPI0 QSPI0_IO_3, SPI1 SPI1_NPCS_2]
+- R14 : PA28,  of Type IO, alternates : [HSMC D_6, PIO P_28, SPI0 SPI0_NPCS_3, CLASSD CLASSD_L_0, SDMMC1 SDMMC1_CMD_, TC0 TIOB_1, SPI1 SPI1_NPCS_3]
+- P14 : PA29,  of Type IO, alternates : [HSMC D_7, TC0 TCLK_1, SDMMC1 SDMMC1_WP_, CLASSD CLASSD_L_1, SPI0 SPI0_NPCS_1, PIO P_29]
+- R13 : PA30,  of Type IO, alternates : [SPI0 SPI0_NPCS_0, PWM PWMH_0, CLASSD CLASSD_L_2, PIO P_30, HSMC NANDNWE_, SDMMC1 SDMMC1_CD_]
+- P13 : PA31,  of Type IO, alternates : [PWM PWML_0, HSMC NCS_3, CLASSD CLASSD_L_3, PIO P_31, SPI0 SPI0_MISO_]
+- F5 : PB0,  of Type IO, alternates : [PIO P_32, PWM PWMH_1, HSMC A21_, SPI0 SPI0_MOSI_]
+- C8 : PB1,  of Type IO, alternates : [SPI0 SPI0_SPCK_, PIO P_33, PWM PWML_1, HSMC A22_, CLASSD CLASSD_R_0]
+- C7 : PB2,  of Type IO, alternates : [PIO P_34, PWM PWMFI_0, CLASSD CLASSD_R_1, HSMC NANDOE_]
+- B8 : PB3,  of Type IO, alternates : [HSMC D_8, AIC IRQ_, PWM PWMEXTRG_1, PIO P_35, CLASSD CLASSD_R_2, UART4 URXD_4]
+- B7 : PB4,  of Type IO, alternates : [PIO P_36, HSMC D_9, SAIC FIQ_, UART4 UTXD_4, CLASSD CLASSD_R_3]
+- A10 : PB5,  of Type IO, alternates : [PIO P_37, HSMC D_10, PWM PWMH_2, QSPI1 QSPI1_SCK_, GMAC GTSUCOMP_, TC0 TCLK_2]
+- A9 : PB6,  of Type IO, alternates : [PIO P_38, HSMC D_11, QSPI1 QSPI1_CS_, GMAC GTXER_, PWM PWML_2, TC0 TIOA_2]
+- D5 : PB7,  of Type IO, alternates : [PIO P_39, QSPI1 QSPI1_IO_0, HSMC D_12, PWM PWMH_3, TC0 TIOB_2, GMAC GRXCK_]
+- E5 : PB8,  of Type IO, alternates : [QSPI1 QSPI1_IO_1, HSMC D_13, PIO P_40, PWM PWML_3, GMAC GCRS_, TC1 TCLK_3]
+- C6 : PB9,  of Type IO, alternates : [QSPI1 QSPI1_IO_2, HSMC D_14, GMAC GCOL_, PIO P_41, TC1 TIOA_3, PWM PWMFI_1]
+- A8 : PB10,  of Type IO, alternates : [GMAC GRX_2, PWM PWMEXTRG_2, QSPI1 QSPI1_IO_3, HSMC D_15, TC1 TIOB_3, PIO P_42]
+- A7 : PB11,  of Type IO, alternates : [GMAC GRX_3, PIO P_43, PDMIC PDMIC_DAT_, UART3 URXD_3, LCDC LCDDAT_0, HSMC A0_]
+- B6 : PB12,  of Type IO, alternates : [PDMIC PDMIC_CLK_, PIO P_44, UART3 UTXD_3, GMAC GTX_2, HSMC A_1, LCDC LCDDAT_1]
+- C5 : PB13,  of Type IO, alternates : [PMC PCK_1, PIO P_45, GMAC GTX_3, HSMC A_2, LCDC LCDDAT_2]
+- A6 : PB14,  of Type IO, alternates : [SSC1 TK_1, I2SC1 I2SC1_MCK_, LCDC LCDDAT_3, PIO P_46, HSMC A_3, QSPI1 QSPI1_SCK_, GMAC GTXCK_]
+- E4 : PB15,  of Type IO, alternates : [PIO P_47, LCDC LCDDAT_4, QSPI1 QSPI1_CS_, GMAC GTXEN_, HSMC A_4, SSC1 TF_1, I2SC1 I2SC1_CK_]
+- B5 : PB16,  of Type IO, alternates : [LCDC LCDDAT_5, PIO P_48, I2SC1 I2SC1_WS_, QSPI1 QSPI1_IO_0, HSMC A_5, GMAC GRXDV_, SSC1 TD_1]
+- C4 : PB17,  of Type IO, alternates : [LCDC LCDDAT_6, GMAC GRXER_, I2SC1 I2SC1_DI_0, PIO P_49, QSPI1 QSPI1_IO_1, HSMC A_6, SSC1 RD_1]
+- A5 : PB18,  of Type IO, alternates : [HSMC A_7, SSC1 RK_1, QSPI1 QSPI1_IO_2, LCDC LCDDAT_7, PIO P_50, I2SC1 I2SC1_DO_0, GMAC GRX_0]
+- B4 : PB19,  of Type IO, alternates : [SSC1 RF_1, QSPI1 QSPI1_IO_3, HSMC A_8, LCDC LCDDAT_8, PIO P_51, TC1 TIOA_3, GMAC GRX_1]
+- A4 : PB20,  of Type IO, alternates : [PMC PCK_1, HSMC A_9, LCDC LCDDAT_9, GMAC GTX_0, TC1 TIOB_3, PIO P_52, SSC0 TK_0]
+- D3 : PB21,  of Type IO, alternates : [SSC0 TF_0, FLEXCOM3 FLEXCOM3_IO_2, GMAC GTX_1, PIO P_53, HSMC A_10, LCDC LCDDAT_10, TC1 TCLK_3]
+- C3 : PB22,  of Type IO, alternates : [SSC0 TD_0, PIO P_54, FLEXCOM3 FLEXCOM3_IO_1, HSMC A_11, GMAC GMDC_, TC0 TIOA_2, LCDC LCDDAT_11]
+- B3 : PB23,  of Type IO, alternates : [SSC0 RD_0, GMAC GMDIO_, PIO P_55, FLEXCOM3 FLEXCOM3_IO_0, TC0 TIOB_2, HSMC A_12, LCDC LCDDAT_12]
+- E2 : PB24,  of Type IO, alternates : [PIO P_56, FLEXCOM3 FLEXCOM3_IO_3, ISC ISC_D_10, HSMC A_13, SSC0 RK_0, LCDC LCDDAT_13, TC0 TCLK_2]
+- A3 : PB25,  of Type IO, alternates : [ISC ISC_D_11, PIO P_57, HSMC A_14, LCDC LCDDAT_14, FLEXCOM3 FLEXCOM3_IO_4, SSC0 RF_0]
+- G3 : PB26,  of Type IO, alternates : [PIO P_58, ISC ISC_D_0, HSMC A_15, PDMIC PDMIC_DAT_, LCDC LCDDAT_15, UART0 URXD_0]
+- F4 : PB27,  of Type IO, alternates : [PIO P_59, ISC ISC_D_1, PDMIC PDMIC_CLK_, HSMC A_16, UART0 UTXD_0, LCDC LCDDAT_16]
+- D2 : PB28,  of Type IO, alternates : [ISC ISC_D_2, HSMC A_17, FLEXCOM0 FLEXCOM0_IO_0, LCDC LCDDAT_17, TC1 TIOA_5, PIO P_60]
+- G8 : PB29,  of Type IO, alternates : [ISC ISC_D_3, HSMC A_18, LCDC LCDDAT_18, FLEXCOM0 FLEXCOM0_IO_1, PIO P_61, TC1 TIOB_5]
+- C2 : PB30,  of Type IO, alternates : [HSMC A_19, LCDC LCDDAT_19, ISC ISC_D_4, FLEXCOM0 FLEXCOM0_IO_2, PIO P_62, TC1 TCLK_5]
+- G7 : PB31,  of Type IO, alternates : [TWIHS0 TWD_0, ISC ISC_D_5, FLEXCOM0 FLEXCOM0_IO_3, PIO P_63, HSMC A_20, LCDC LCDDAT_20]
+- N10 : PC0,  of Type IO, alternates : [TWIHS0 TWCK_0, ISC ISC_D_6, HSMC A_23, FLEXCOM0 FLEXCOM0_IO_4, PIO P_64, LCDC LCDDAT_21]
+- N11 : PC1,  of Type IO, alternates : [MCAN0 CANTX_0, I2SC0 I2SC0_CK_, PIO P_65, ISC ISC_D_7, HSMC A_24, SPI1 SPI1_SPCK_, LCDC LCDDAT_22]
+- N9 : PC2,  of Type IO, alternates : [MCAN0 CANRX_0, PIO P_66, SPI1 SPI1_MOSI_, HSMC A_25, ISC ISC_D_8, LCDC LCDDAT_23, I2SC0 I2SC0_MCK_]
+- M10 : PC3,  of Type IO, alternates : [SPI1 SPI1_MISO_, I2SC0 I2SC0_WS_, LCDC LCDPWM_, PIO P_67, TC0 TIOA_1, ISC ISC_D_9, HSMC NWAIT_]
+- N15 : PC4,  of Type IO, alternates : [ISC ISC_PCK_, LCDC LCDDISP_, I2SC0 I2SC0_DI_0, PIO P_68, SPI1 SPI1_NPCS_0, HSMC NWR1_, TC0 TIOB_1]
+- M16 : PC5,  of Type IO, alternates : [PIO P_69, ISC ISC_VSYNC_, TC0 TCLK_1, SPI1 SPI1_NPCS_1, HSMC NCS_0, I2SC0 I2SC0_DO_0, LCDC LCDVSYNC_]
+- L11 : PC6,  of Type IO, alternates : [LCDC LCDHSYNC_, TWIHS1 TWD_1, PIO P_70, ISC ISC_HSYNC_, SPI1 SPI1_NPCS_2]
+- M15 : PC7,  of Type IO, alternates : [LCDC LCDPCK_, TWIHS1 TWCK_1, ISC ISC_MCK_, UART1 URXD_1, HSMC NCS_2, SPI1 SPI1_NPCS_3, PIO P_71]
+- M13 : PC8,  of Type IO, alternates : [LCDC LCDDEN_, HSMC NANDRDY_, SAIC FIQ_, ISC ISC_FIELD_, UART1 UTXD_1, PIO P_72, PMC PCK_0]
+- B2 : PC9,  of Type IO, alternates : [SAIC FIQ_, ISC ISC_D_0, PIO P_73, TC1 TIOA_4, GMAC GTSUCOMP_]
+- G4 : PC10,  of Type IO, alternates : [MCAN0 CANTX_0, ISC ISC_D_1, TC1 TIOB_4, PIO P_74, LCDC LCDDAT_2, GMAC GTXCK_]
+- A2 : PC11,  of Type IO, alternates : [ISC ISC_D_2, LCDC LCDDAT_3, MCAN0 CANRX_0, GMAC GTXEN_, PIO P_75, HSMC A0_, TC1 TCLK_4]
+- A1 : PC12,  of Type IO, alternates : [ISC ISC_D_3, LCDC LCDDAT_4, PIO P_76, GMAC GRXDV_, HSMC A_1, UART3 URXD_3, SSC0 TK_0]
+- B1 : PC13,  of Type IO, alternates : [LCDC LCDDAT_5, GMAC GRXER_, SSC0 TF_0, PIO P_77, UART3 UTXD_3, ISC ISC_D_4, HSMC A_2]
+- G5 : PC14,  of Type IO, alternates : [LCDC LCDDAT_6, SSC0 TD_0, PIO P_78, ISC ISC_D_5, HSMC A_3, GMAC GRX_0]
+- G2 : PC15,  of Type IO, alternates : [SSC0 RD_0, ISC ISC_D_6, LCDC LCDDAT_7, PIO P_79, HSMC A_4, GMAC GRX_1]
+- G6 : PC16,  of Type IO, alternates : [ISC ISC_D_7, HSMC A_5, GMAC GTX_0, SSC0 RK_0, LCDC LCDDAT_10, PIO P_80]
+- C1 : PC17,  of Type IO, alternates : [HSMC A_6, GMAC GTX_1, ISC ISC_D_8, LCDC LCDDAT_11, SSC0 RF_0, PIO P_81]
+- G9 : PC18,  of Type IO, alternates : [HSMC A_7, FLEXCOM3 FLEXCOM3_IO_2, GMAC GMDC_, ISC ISC_D_9, LCDC LCDDAT_12, PIO P_82]
+- D1 : PC19,  of Type IO, alternates : [GMAC GMDIO_, HSMC A_8, FLEXCOM3 FLEXCOM3_IO_1, ISC ISC_D_10, PIO P_83, LCDC LCDDAT_13]
+- H4 : PC20,  of Type IO, alternates : [HSMC A_9, FLEXCOM3 FLEXCOM3_IO_0, ISC ISC_D_11, LCDC LCDDAT_14, PIO P_84, GMAC GRXCK_]
+- E1 : PC21,  of Type IO, alternates : [ISC ISC_PCK_, GMAC GTXER_, FLEXCOM3 FLEXCOM3_IO_3, LCDC LCDDAT_15, PIO P_85, HSMC A_10]
+- F1 : PC22,  of Type IO, alternates : [ISC ISC_VSYNC_, LCDC LCDDAT_18, HSMC A_11, FLEXCOM3 FLEXCOM3_IO_4, PIO P_86, GMAC GCRS_]
+- H9 : PC23,  of Type IO, alternates : [LCDC LCDDAT_19, PIO P_87, HSMC A_12, GMAC GCOL_, ISC ISC_HSYNC_]
+- G1 : PC24,  of Type IO, alternates : [GMAC GRX_2, ISC ISC_MCK_, PIO P_88, HSMC A_13, LCDC LCDDAT_20]
+- H8 : PC25,  of Type IO, alternates : [GMAC GRX_3, ISC ISC_FIELD_, PIO P_89, HSMC A_14, LCDC LCDDAT_21]
+- F7 : PC26,  of Type IO, alternates : [MCAN1 CANTX_1, HSMC A_15, GMAC GTX_2, LCDC LCDDAT_22, PIO P_90]
+- B10 : PC27,  of Type IO, alternates : [MCAN1 CANRX_1, PMC PCK_1, TWIHS0 TWD_0, HSMC A_16, GMAC GTX_3, LCDC LCDDAT_23, PIO P_91]
+- F6 : PC28,  of Type IO, alternates : [PMC PCK_2, TWIHS0 TWCK_0, HSMC A_17, LCDC LCDPWM_, FLEXCOM4 FLEXCOM4_IO_0, PIO P_92]
+- B9 : PC29,  of Type IO, alternates : [HSMC A_18, LCDC LCDDISP_, FLEXCOM4 FLEXCOM4_IO_1, PIO P_93]
+- E6 : PC30,  of Type IO, alternates : [HSMC A_19, PIO P_94, FLEXCOM4 FLEXCOM4_IO_2, LCDC LCDVSYNC_]
+- A11 : PC31,  of Type IO, alternates : [LCDC LCDHSYNC_, FLEXCOM4 FLEXCOM4_IO_3, PIO P_95, UART3 URXD_3, HSMC A_20]
+- E7 : PD0,  of Type IO, alternates : [LCDC LCDPCK_, UART3 UTXD_3, HSMC A_23, GMAC GTSUCOMP_, PIO P_96, FLEXCOM4 FLEXCOM4_IO_4]
+- C9 : PD1,  of Type IO, alternates : [LCDC LCDDEN_, HSMC A_24, PIO P_97, GMAC GRXCK_]
+- D8 : PD2,  of Type IO, alternates : [GMAC GTXER_, ISC ISC_MCK_, PIO P_98, HSMC A_25, UART1 URXD_1]
+- J1 : PD3,  of Type IO, alternates : [SAIC FIQ_, PIO P_99, ISC ISC_D_11, UART1 UTXD_1, HSMC NWAIT_, PTC PTC_X_0, GMAC GCRS_]
+- H7 : PD4,  of Type IO, alternates : [ISC ISC_D_10, HSMC NCS_0, GMAC GCOL_, TWIHS1 TWD_1, UART2 URXD_2, PIO P_100, PTC PTC_X_1]
+- H1 : PD5,  of Type IO, alternates : [TWIHS1 TWCK_1, GMAC GRX_2, UART2 UTXD_2, HSMC NCS_1, PIO P_101, ISC ISC_D_9, PTC PTC_X_2]
+- J2 : PD6,  of Type IO, alternates : [PMC PCK_1, GMAC GRX_3, ICE TCK_, PIO P_102, ISC ISC_D_8, HSMC NCS_2, PTC PTC_X_3]
+- H6 : PD7,  of Type IO, alternates : [ISC ISC_D_0, ICE TDI_, PIO P_103, PTC PTC_X_4, GMAC GTX_2, HSMC NWR1_]
+- K3 : PD8,  of Type IO, alternates : [HSMC NANDRDY_, ISC ISC_D_1, PTC PTC_X_5, ICE TDO_, GMAC GTX_3, PIO P_104]
+- J4 : PD9,  of Type IO, alternates : [ISC ISC_D_2, ICE TMS_, PTC PTC_X_6, PIO P_105, GMAC GTXCK_]
+- J3 : PD10,  of Type IO, alternates : [ISC ISC_D_3, ICE NTRST_, GMAC GTXEN_, PTC PTC_X_7, PIO P_106]
+- K2 : PD11,  of Type IO, alternates : [PMC PCK_2, ISC ISC_MCK_, ISC ISC_D_4, GMAC GRXDV_, TC0 TIOA_1, PIO P_107, PTC PTC_Y_0]
+- K9 : PD12,  of Type IO, alternates : [GMAC GRXER_, PIO P_108, ISC ISC_D_4, FLEXCOM4 FLEXCOM4_IO_0, ISC ISC_D_5, TC0 TIOB_1, PTC PTC_Y_1]
+- N1 : PD13,  of Type IO, alternates : [PIO P_109, TC0 TCLK_1, ISC ISC_D_6, FLEXCOM4 FLEXCOM4_IO_1, ISC ISC_D_5, GMAC GRX_0, PTC PTC_Y_2]
+- K5 : PD14,  of Type IO, alternates : [ISC ISC_D_6, PIO P_110, ISC ISC_D_7, ICE TCK_, FLEXCOM4 FLEXCOM4_IO_2, PTC PTC_Y_3, GMAC GRX_1]
+- K8 : PD15,  of Type IO, alternates : [ISC ISC_PCK_, ICE TDI_, ISC ISC_D_7, FLEXCOM4 FLEXCOM4_IO_3, GMAC GTX_0, PTC PTC_Y_4, PIO P_111]
+- L1 : PD16,  of Type IO, alternates : [ISC ISC_VSYNC_, GMAC GTX_1, ICE TDO_, ISC ISC_D_8, PIO P_112, FLEXCOM4 FLEXCOM4_IO_4, PTC PTC_Y_5]
+- K1 : PD17,  of Type IO, alternates : [ICE TMS_, PIO P_113, PTC PTC_Y_6, GMAC GMDC_, ISC ISC_D_9, ISC ISC_HSYNC_]
+- J7 : PD18,  of Type IO, alternates : [GMAC GMDIO_, ICE NTRST_, ISC ISC_FIELD_, PTC PTC_Y_7, ISC ISC_D_10, PIO P_114]
+- L8 : PD19,  of Type IO, alternates : [I2SC0 I2SC0_CK_, ISC ISC_D_11, TWIHS1 TWD_1, UART2 URXD_2, ADC AD_0, PIO P_115, PMC PCK_0]
+- L2 : PD20,  of Type IO, alternates : [ISC ISC_PCK_, TWIHS1 TWCK_1, UART2 UTXD_2, TC0 TIOA_2, PIO P_116, ADC AD_1, I2SC0 I2SC0_MCK_]
+- P1 : PD21,  of Type IO, alternates : [ISC ISC_VSYNC_, TWIHS0 TWD_0, I2SC0 I2SC0_WS_, FLEXCOM4 FLEXCOM4_IO_0, TC0 TIOB_2, ADC AD_2, PIO P_117]
+- L6 : PD22,  of Type IO, alternates : [TWIHS0 TWCK_0, FLEXCOM4 FLEXCOM4_IO_1, I2SC0 I2SC0_DI_0, PIO P_118, TC0 TCLK_2, ADC AD_3, ISC ISC_HSYNC_]
+- T1 : PD23,  of Type IO, alternates : [ADC AD_4, PIO P_119, ISC ISC_FIELD_, FLEXCOM4 FLEXCOM4_IO_2, UART2 URXD_2, I2SC0 I2SC0_DO_0]
+- L4 : PD24,  of Type IO, alternates : [ADC AD_5, UART2 UTXD_2, PIO P_120, FLEXCOM4 FLEXCOM4_IO_3]
+- L5 : PD25,  of Type IO, alternates : [ADC AD_6, PIO P_121, SPI1 SPI1_SPCK_, FLEXCOM4 FLEXCOM4_IO_4]
+- R1 : PD26,  of Type IO, alternates : [ADC AD_7, FLEXCOM2 FLEXCOM2_IO_0, SPI1 SPI1_MOSI_, PIO P_122]
+- L7 : PD27,  of Type IO, alternates : [SPI1 SPI1_MISO_, ADC AD_8, FLEXCOM2 FLEXCOM2_IO_1, ICE TCK_, PIO P_123]
+- L3 : PD28,  of Type IO, alternates : [ICE TDI_, ADC AD_9, FLEXCOM2 FLEXCOM2_IO_2, PIO P_124, SPI1 SPI1_NPCS_0]
+- M2 : PD29,  of Type IO, alternates : [TWIHS0 TWD_0, PIO P_125, SPI1 SPI1_NPCS_1, FLEXCOM2 FLEXCOM2_IO_3, ICE TDO_, TC1 TIOA_3, ADC AD_10]
+- M9 : PD30,  of Type IO, alternates : [TWIHS0 TWCK_0, ICE TMS_, TC1 TIOB_3, FLEXCOM2 FLEXCOM2_IO_4, ADC AD_11, PIO P_126, SPI1 SPI1_NPCS_2]
+- M8 : PD31,  of Type IO, alternates : [AIC IRQ_, ADC ADTRG_, ICE NTRST_, PIO P_127, TC1 TCLK_3, PMC PCK_0]
+- L9 : ADVREF,  of Type PS
+- K4 : VDDANA,  of Type PP
+- J5 : VDDANA,  of Type PP
+- J6 : GNDANA,  of Type PS
+- M1 : GNDANA,  of Type PS
+- J10 : DDR_VREF,  of Type PS
+- F11 : DDR_VREF,  of Type PS
+- L10 : VDDIODDR,  of Type PP
+- L14 : VDDIODDR,  of Type PP
+- J8 : VDDIODDR,  of Type PP
+- H10 : VDDIODDR,  of Type PP
+- G12 : VDDIODDR,  of Type PP
+- E11 : VDDIODDR,  of Type PP
+- E8 : VDDIODDR,  of Type PP
+- K10 : GNDIODDR,  of Type PS
+- M14 : GNDIODDR,  of Type PS
+- J9 : GNDIODDR,  of Type PS
+- G10 : GNDIODDR,  of Type PS
+- H12 : GNDIODDR,  of Type PS
+- E10 : GNDIODDR,  of Type PS
+- F8 : GNDIODDR,  of Type PS
+- H2 : VDDCORE,  of Type PP
+- U3 : VDDCORE,  of Type PP
+- P7 : VDDCORE,  of Type PP
+- L12 : VDDCORE,  of Type PP
+- E9 : VDDCORE,  of Type PP
+- D7 : VDDCORE,  of Type PP
+- E12 : GNDCORE,  of Type PS
+- F12 : GNDCORE,  of Type PS
+- J11 : GNDCORE,  of Type PS
+- K11 : GNDCORE,  of Type PS
+- K6 : GNDCORE,  of Type PS
+- K7 : GNDCORE,  of Type PS
+- D4 : VDDIOP0,  of Type PP
+- F3 : VDDIOP1,  of Type PP
+- E3 : GNDIOP0,  of Type PS
+- F2 : GNDIOP0,  of Type PS
+- N12 : VDDIOP1,  of Type PP
+- P12 : VDDIOP1,  of Type PP
+- M12 : GNDIOP1,  of Type PS
+- P11 : GNDIOP1,  of Type PS
+- D9 : VDDIOP2,  of Type PP
+- D6 : GNDIOP2,  of Type PS
+- N8 : VDDSDMMC,  of Type PP
+- R8 : GNDSDMMC,  of Type PS
+- H3 : VDDISC,  of Type PP
+- H5 : GNDISC,  of Type PS
+- N13 : VDDFUSE,  of Type PP
+- R5 : VDDPLLA,  of Type PP
+- T5 : GNDPLLA,  of Type PS
+- M4 : VDDAUDIOPLL,  of Type PP
+- T3 : GNDDPLL,  of Type PS
+- T4 : GNDAUDIOPLL,  of Type PS
+- T8 : CLK_AUDIO,  of Type IO
+- U9 : XIN,  of Type PS
+- U8 : XOUT,  of Type PS
+- N6 : VDDOSC,  of Type PP
+- P5 : GNDOSC,  of Type PS
+- P6 : VDDUTMII,  of Type PP
+- R7 : VDDHSIC,  of Type PP
+- M6 : GNDUTMII,  of Type PS
+- U10 : HHSDPA,  of Type IO
+- T10 : HHSDMA,  of Type IO
+- U11 : HHSDPB,  of Type IO
+- T11 : HHSDMB,  of Type IO
+- T12 : HHSDPDATC,  of Type IO
+- U12 : HHSDMSTRC,  of Type IO
+- M7 : VDDUTMIC,  of Type PP
+- R6 : GNDUTMIC,  of Type PS
+- T6 : VBG,  of Type IO
+- R4 : TST,  of Type IO
+- T7 : NRST,  of Type IP
+- R3 : JTAGSEL,  of Type OP
+- R2 : WKUP,  of Type IP
+- N2 : RXD,  of Type IP
+- T2 : SHDN,  of Type IO
+- P3 : PIOBU0,  of Type IO
+- M3 : PIOBU1,  of Type IO
+- P2 : PIOBU2,  of Type IO
+- P4 : PIOBU3,  of Type IO
+- N4 : PIOBU4,  of Type IO
+- M5 : PIOBU5,  of Type IO
+- N5 : PIOBU6,  of Type IO
+- N3 : PIOBU7,  of Type IO
+- U5 : VDDBU,  of Type PP
+- U4 : GNDBU,  of Type PS
+- U2 : XIN32,  of Type PS
+- U1 : XOUT32,  of Type PS
+- U6 : COMPP,  of Type IO
+- U7 : COMPN,  of Type IO
+- D17 : ODT,  of Type IO
+- A16 : DDRM_VDD,  of Type PP
+- B16 : DDRM_VDD,  of Type PP
+- C16 : DDRM_VDD,  of Type PP
+- D16 : DDRM_VDD,  of Type PP
+- E15 : DDRM_VDD,  of Type PP
+- G17 : DDRM_VDD,  of Type PP
+- J17 : DDRM_VDD,  of Type PP
+- L16 : DDRM_VDD,  of Type PP
+- E16 : DDRM_VDDL,  of Type PP
+- F15 : DDRM_VDDQ,  of Type PP
+- G15 : DDRM_VDDQ,  of Type PP
+- H15 : DDRM_VDDQ,  of Type PP
+- J15 : DDRM_VDDQ,  of Type PP
+- K15 : DDRM_VDDQ,  of Type PP
+- L15 : DDRM_VDDQ,  of Type PP
+- A17 : DDRM_VSS,  of Type PS
+- B17 : DDRM_VSS,  of Type PS
+- C17 : DDRM_VSS,  of Type PS
+- D15 : DDRM_VSS,  of Type PS
+- E14 : DDRM_VSS,  of Type PS
+- F17 : DDRM_VSS,  of Type PS
+- H17 : DDRM_VSS,  of Type PS
+- L17 : DDRM_VSS,  of Type PS
+- E17 : DDRM_VSSDL,  of Type PS
+- F16 : DDRM_VSSQ,  of Type PS
+- G16 : DDRM_VSSQ,  of Type PS
+- H16 : DDRM_VSSQ,  of Type PS
+- J16 : DDRM_VSSQ,  of Type PS
+- K16 : DDRM_VSSQ,  of Type PS
+- K17 : DDRM_VSSQ,  of Type PS
+- A12 : NC,  of Type NC
+- A13 : NC,  of Type NC
+- A14 : NC,  of Type NC
+- A15 : NC,  of Type NC
+- B11 : NC,  of Type NC
+- B12 : NC,  of Type NC
+- B13 : NC,  of Type NC
+- B14 : NC,  of Type NC
+- B15 : NC,  of Type NC
+- C10 : NC,  of Type NC
+- C11 : NC,  of Type NC
+- C12 : NC,  of Type NC
+- C13 : NC,  of Type NC
+- C14 : NC,  of Type NC
+- C15 : NC,  of Type NC
+- D10 : NC,  of Type NC
+- D11 : NC,  of Type NC
+- D12 : NC,  of Type NC
+- D13 : NC,  of Type NC
+- D14 : NC,  of Type NC
+- E13 : NC,  of Type NC
+- F9 : NC,  of Type NC
+- F10 : NC,  of Type NC
+- F13 : NC,  of Type NC
+- F14 : NC,  of Type NC
+- G11 : NC,  of Type NC
+- G13 : NC,  of Type NC
+- G14 : NC,  of Type NC
+- H11 : NC,  of Type NC
+- H13 : NC,  of Type NC
+- H14 : NC,  of Type NC
+- J12 : NC,  of Type NC
+- J13 : NC,  of Type NC
+- J14 : NC,  of Type NC
+- K12 : NC,  of Type NC
+- K13 : NC,  of Type NC
+- K14 : NC,  of Type NC
+- L13 : NC,  of Type NC
+- R12 : NC,  of Type NC
+- T9 : NC,  of Type NC
 ## ATSAMA5D28CLD1G-CU
+
 ### Description : 
+
+- Series : SAMA5D2
+- Footprint : TFBGA361
+- MP : ATSAMA5D28CLD1G-CU
+- Architecture : CORTEX-A5
+- PINOUT : TFBGA361
+- Reference : U
+- Documentation : https://www.microchip.com/en-us/search?q=ATSAMA5D28CLD1G-CU
+- Value : ATSAMA5D28CLD1G-CU
+- Family : SAMA5
+- MF : Microchip
+- Name : ATSAMA5D28CLD1G
 
 ### Package : 
 
-- W11 : PA0
-- R9 : PA1
-- W12 : PA2
-- V11 : PA3
-- W14 : PA4
-- V10 : PA5
-- W15 : PA6
-- W16 : PA7
-- V12 : PA8
-- V16 : PA9
-- V14 : PA10
-- L18 : PA11
-- T16 : PA12
-- K18 : PA13
-- R19 : PA14
-- L17 : PA15
-- N19 : PA16
-- M16 : PA17
-- V19 : PA18
-- V15 : PA19
-- T10 : PA20
-- U19 : PA21
-- V17 : PA22
-- U18 : PA23
-- W17 : PA24
-- W18 : PA25
-- U14 : PA26
-- M18 : PA27
-- U13 : PA28
-- U16 : PA29
-- U12 : PA30
-- U17 : PA31
-- C7 : PB0
-- A9 : PB1
-- A10 : PB2
-- A11 : PB3
-- A12 : PB4
-- A7 : PB5
-- B7 : PB6
-- C5 : PB7
-- B8 : PB8
-- B6 : PB9
-- G6 : PB10
-- B5 : PB11
-- A6 : PB12
-- C4 : PB13
-- G4 : PB14
-- H4 : PB15
-- A4 : PB16
-- B3 : PB17
-- D3 : PB18
-- F4 : PB19
-- F2 : PB20
-- F3 : PB21
-- E4 : PB22
-- H2 : PB23
-- A3 : PB24
-- H1 : PB25
-- G2 : PB26
-- H5 : PB27
-- J2 : PB28
-- J3 : PB29
-- A2 : PB30
-- J4 : PB31
-- T14 : PC0
-- R16 : PC1
-- T15 : PC2
-- T13 : PC3
-- P16 : PC4
-- L19 : PC5
-- R15 : PC6
-- N15 : PC7
-- P11 : PC8
-- B2 : PC9
-- K5 : PC10
-- C2 : PC11
-- D2 : PC12
-- K2 : PC13
-- K6 : PC14
-- B1 : PC15
-- K9 : PC16
-- C1 : PC17
-- L9 : PC18
-- D1 : PC19
-- L8 : PC20
-- E3 : PC21
-- E2 : PC22
-- L7 : PC23
-- E1 : PC24
-- L4 : PC25
-- D6 : PC26
-- E7 : PC27
-- J5 : PC28
-- C6 : PC29
-- D7 : PC30
-- C8 : PC31
-- J7 : PD0
-- D8 : PD1
-- J6 : PD2
-- M3 : PD3
-- L6 : PD4
-- L2 : PD5
-- J1 : PD6
-- L5 : PD7
-- K1 : PD8
-- L3 : PD9
-- L1 : PD10
-- N3 : PD11
-- M7 : PD12
-- N2 : PD13
-- M6 : PD14
-- M5 : PD15
-- M1 : PD16
-- M2 : PD17
-- M4 : PD18
-- M8 : PD19
-- N1 : PD20
-- P3 : PD21
-- N6 : PD22
-- P1 : PD23
-- N8 : PD24
-- P8 : PD25
-- P2 : PD26
-- N5 : PD27
-- N4 : PD28
-- R2 : PD29
-- N10 : PD30
-- P7 : PD31
-- M9 : ADVREF
-- G1 : VDDANA
-- H6 : VDDANA
-- F1 : GNDANA
-- G5 : GNDANA
-- M12 : DDR_VREF
-- J10 : DDR_VREF
-- C19 : ZQ
-- E11 : VDDIODDR
-- E8 : VDDIODDR
-- H10 : VDDIODDR
-- J13 : VDDIODDR
-- J8 : VDDIODDR
-- L10 : VDDIODDR
-- P12 : VDDIODDR
-- E10 : GNDIODDR
-- F8 : GNDIODDR
-- G10 : GNDIODDR
-- J9 : GNDIODDR
-- L11 : GNDIODDR
-- M13 : GNDIODDR
-- N12 : GNDIODDR
-- C3 : VDDCORE
-- C9 : VDDCORE
-- K3 : VDDCORE
-- U9 : VDDCORE
-- V5 : VDDCORE
-- W6 : VDDCORE
-- K8 : VDDCORE
-- A1 : GNDCORE
-- D9 : GNDCORE
-- J11 : GNDCORE
-- K4 : GNDCORE
-- K7 : GNDCORE
-- V9 : GNDCORE
-- W1 : GNDCORE
-- B4 : VDDIOP0
-- D5 : VDDIOP1
-- A5 : GNDIOP0
-- D4 : GNDIOP0
-- V13 : VDDIOP1
-- V18 : VDDIOP1
-- P13 : GNDIOP1
-- R13 : GNDIOP2
-- W13 : GNDIOP3
-- W19 : GNDIOP4
-- A8 : VDDIOP2
-- B9 : GNDIOP2
-- T7 : VDDSDMMC
-- T8 : GNDSDMMC
-- G3 : VDDISC
-- H3 : GNDISC
-- U15 : VDDFUSE
-- P9 : VDDPLLA
-- P10 : GNDPLLA
-- R6 : VDDAUDIOPLL
-- N9 : GNDDPLL
-- P6 : GNDAUDIOPLL
-- W2 : CLK_AUDIO
-- W5 : XIN
-- W4 : XOUT
-- R10 : VDDOSC
-- T11 : GNDOSC
-- R8 : VDDUTMII
-- U7 : VDDHSIC
-- R7 : GNDUTMII
-- W7 : HHSDPA
-- V7 : HHSDMA
-- W8 : HHSDPB
-- V8 : HHSDMB
-- W9 : HHSDPDATC
-- W10 : HHSDMSTRC
-- T6 : VDDUTMIC
-- U6 : GNDUTMIC
-- V6 : VBG
-- T2 : TST
-- W3 : NRST
-- T3 : JTAGSEL
-- U2 : WKUP
-- R1 : RXD
-- P4 : SHDN
-- R4 : PIOBU0
-- R5 : PIOBU1
-- R3 : PIOBU2
-- T4 : PIOBU3
-- U3 : PIOBU4
-- T5 : PIOBU5
-- U5 : PIOBU6
-- P5 : PIOBU7
-- V3 : VDDBU
-- U4 : GNDBU
-- U1 : XIN32
-- T1 : XOUT32
-- V1 : COMPP
-- V2 : COMPN
-- A14 : DDRM_VSS
-- A19 : DDRM_VSS
-- B14 : DDRM_VSS
-- B18 : DDRM_VSS
-- C14 : DDRM_VSS
-- C18 : DDRM_VSS
-- D14 : DDRM_VSS
-- D18 : DDRM_VSS
-- E14 : DDRM_VSS
-- E18 : DDRM_VSS
-- F14 : DDRM_VSS
-- F18 : DDRM_VSS
-- G14 : DDRM_VSS
-- G18 : DDRM_VSS
-- H14 : DDRM_VSS
-- H18 : DDRM_VSS
-- N14 : DDRM_VSS
-- N17 : DDRM_VSS
-- N18 : DDRM_VSS
-- P14 : DDRM_VSS
-- P18 : DDRM_VSS
-- R14 : DDRM_VSS
-- R18 : DDRM_VSS
-- T18 : DDRM_VSS
-- B15 : DDRM_VDD12
-- B17 : DDRM_VDD13
-- B19 : DDRM_VDD14
-- D15 : DDRM_VDD15
-- D17 : DDRM_VDD16
-- D19 : DDRM_VDD17
-- F15 : DDRM_VDD18
-- F17 : DDRM_VDD19
-- F19 : DDRM_VDD20
-- H15 : DDRM_VDD21
-- H17 : DDRM_VDD22
-- H19 : DDRM_VDD23
-- K15 : DDRM_VDD24
-- K17 : DDRM_VDD25
-- K19 : DDRM_VDD26
-- M15 : DDRM_VDD27
-- M17 : DDRM_VDD28
-- M19 : DDRM_VDD29
-- P15 : DDRM_VDD30
-- P17 : DDRM_VDD31
-- P19 : DDRM_VDD32
-- T17 : DDRM_VDD33
-- T19 : DDRM_VDD34
-- B11 : DDRM_VDD18
-- B13 : DDRM_VDD19
-- D11 : DDRM_VDD20
-- D13 : DDRM_VDD21
-- K13 : DDRM_VDD22
-- K16 : DDRM_VDD23
-- A13 : NC
-- A15 : NC
-- A16 : NC
-- A17 : NC
-- A18 : NC
-- B10 : NC
-- B12 : NC
-- B16 : NC
-- C10 : NC
-- C11 : NC
-- C12 : NC
-- C13 : NC
-- C15 : NC
-- C16 : NC
-- C17 : NC
-- D10 : NC
-- D12 : NC
-- D16 : NC
-- E12 : NC
-- E13 : NC
-- E15 : NC
-- E16 : NC
-- E17 : NC
-- E19 : NC
-- E5 : NC
-- E6 : NC
-- E9 : NC
-- F10 : NC
-- F11 : NC
-- F12 : NC
-- F13 : NC
-- F16 : NC
-- F5 : NC
-- F6 : NC
-- F7 : NC
-- F9 : NC
-- G11 : NC
-- G12 : NC
-- G13 : NC
-- G15 : NC
-- G16 : NC
-- G17 : NC
-- G19 : NC
-- G7 : NC
-- G8 : NC
-- G9 : NC
-- H11 : NC
-- H12 : NC
-- H13 : NC
-- H16 : NC
-- H7 : NC
-- H8 : NC
-- H9 : NC
-- J12 : NC
-- J14 : NC
-- J15 : NC
-- J16 : NC
-- J17 : NC
-- J18 : NC
-- J19 : NC
-- K10 : NC
-- K11 : NC
-- K12 : NC
-- K14 : NC
-- L12 : NC
-- L13 : NC
-- L14 : NC
-- L15 : NC
-- L16 : NC
-- M10 : NC
-- M11 : NC
-- M14 : NC
-- N11 : NC
-- N13 : NC
-- N16 : NC
-- N7 : NC
-- R11 : NC
-- R12 : NC
-- R17 : NC
-- T12 : NC
-- T9 : NC
-- U10 : NC
-- U11 : NC
-- U8 : NC
-- V4 : NC
+Pin count : 361
+- W11 : PA0,  of Type IO, alternates : [HSMC D_0, PIO P_0, SDMMC0 SDMMC0_CK_, QSPI0 QSPI0_SCK_]
+- R9 : PA1,  of Type IO, alternates : [SDMMC0 SDMMC0_CMD_, PIO P_1, QSPI0 QSPI0_CS_, HSMC D_1]
+- W12 : PA2,  of Type IO, alternates : [PIO P_2, HSMC D_2, SDMMC0 SDMMC0_DAT_0, QSPI0 QSPI0_IO_0]
+- V11 : PA3,  of Type IO, alternates : [PIO P_3, HSMC D_3, SDMMC0 SDMMC0_DAT_1, QSPI0 QSPI0_IO_1]
+- W14 : PA4,  of Type IO, alternates : [HSMC D_4, PIO P_4, SDMMC0 SDMMC0_DAT_2, QSPI0 QSPI0_IO_2]
+- V10 : PA5,  of Type IO, alternates : [PIO P_5, HSMC D_5, QSPI0 QSPI0_IO_3, SDMMC0 SDMMC0_DAT_3]
+- W15 : PA6,  of Type IO, alternates : [PIO P_6, HSMC D_6, FLEXCOM2 FLEXCOM2_IO_0, TC1 TIOA_5, QSPI1 QSPI1_SCK_, SDMMC0 SDMMC0_DAT_4]
+- W16 : PA7,  of Type IO, alternates : [PIO P_7, QSPI1 QSPI1_IO_0, HSMC D_7, FLEXCOM2 FLEXCOM2_IO_1, SDMMC0 SDMMC0_DAT_5, TC1 TIOB_5]
+- V12 : PA8,  of Type IO, alternates : [PIO P_8, QSPI1 QSPI1_IO_1, FLEXCOM2 FLEXCOM2_IO_2, HSMC NANDNWE_, TC1 TCLK_5, SDMMC0 SDMMC0_DAT_6]
+- V16 : PA9,  of Type IO, alternates : [SDMMC0 SDMMC0_DAT_7, QSPI1 QSPI1_IO_2, FLEXCOM2 FLEXCOM2_IO_3, TC1 TIOA_4, HSMC NCS_3, PIO P_9]
+- V14 : PA10,  of Type IO, alternates : [PIO P_10, QSPI1 QSPI1_IO_3, SDMMC0 SDMMC0_RSTN_, HSMC A21_, TC1 TIOB_4, FLEXCOM2 FLEXCOM2_IO_4]
+- L18 : PA11,  of Type IO, alternates : [QSPI1 QSPI1_CS_, SDMMC0 SDMMC0_1V8SEL_, PIO P_11, HSMC A22_, TC1 TCLK_4]
+- T16 : PA12,  of Type IO, alternates : [AIC IRQ_, SDMMC0 SDMMC0_WP_, PIO P_12, HSMC NANDOE_]
+- K18 : PA13,  of Type IO, alternates : [HSMC D_8, FLEXCOM3 FLEXCOM3_IO_1, PIO P_13, SDMMC0 SDMMC0_CD_]
+- R19 : PA14,  of Type IO, alternates : [PIO P_14, SPI0 SPI0_SPCK_, HSMC D_9, SSC1 TK_1, I2SC1 I2SC1_MCK_, FLEXCOM3 FLEXCOM3_IO_2, QSPI0 QSPI0_SCK_]
+- L17 : PA15,  of Type IO, alternates : [PIO P_15, HSMC D_10, QSPI0 QSPI0_CS_, FLEXCOM3 FLEXCOM3_IO_0, SSC1 TF_1, SPI0 SPI0_MOSI_, I2SC1 I2SC1_CK_]
+- N19 : PA16,  of Type IO, alternates : [PIO P_16, HSMC D_11, I2SC1 I2SC1_WS_, FLEXCOM3 FLEXCOM3_IO_3, SPI0 SPI0_MISO_, SSC1 TD_1, QSPI0 QSPI0_IO_0]
+- M16 : PA17,  of Type IO, alternates : [I2SC1 I2SC1_DI_0, PIO P_17, HSMC D_12, SPI0 SPI0_NPCS_0, FLEXCOM3 FLEXCOM3_IO_4, QSPI0 QSPI0_IO_1, SSC1 RD_1]
+- V19 : PA18,  of Type IO, alternates : [HSMC D_13, SSC1 RK_1, SPI0 SPI0_NPCS_1, I2SC1 I2SC1_DO_0, PIO P_18, QSPI0 QSPI0_IO_2, SDMMC1 SDMMC1_DAT_0]
+- V15 : PA19,  of Type IO, alternates : [SSC1 RF_1, SPI0 SPI0_NPCS_2, HSMC D_14, TC0 TIOA_0, QSPI0 QSPI0_IO_3, PIO P_19, SDMMC1 SDMMC1_DAT_1]
+- T10 : PA20,  of Type IO, alternates : [SPI0 SPI0_NPCS_3, HSMC D_15, TC0 TIOB_0, PIO P_20, SDMMC1 SDMMC1_DAT_2]
+- U19 : PA21,  of Type IO, alternates : [AIC IRQ_, PMC PCK_2, HSMC NANDRDY_, TC0 TCLK_0, PIO P_21, SDMMC1 SDMMC1_DAT_3]
+- V17 : PA22,  of Type IO, alternates : [PIO P_22, ICE TCK_, FLEXCOM1 FLEXCOM1_IO_2, HSMC D_0, SPI1 SPI1_SPCK_, SDMMC1 SDMMC1_CK_, QSPI0 QSPI0_SCK_]
+- U18 : PA23,  of Type IO, alternates : [ICE TDI_, PIO P_23, QSPI0 QSPI0_CS_, SPI1 SPI1_MOSI_, FLEXCOM1 FLEXCOM1_IO_1, HSMC D_1]
+- W17 : PA24,  of Type IO, alternates : [SPI1 SPI1_MISO_, FLEXCOM1 FLEXCOM1_IO_0, HSMC D_2, PIO P_24, ICE TDO_, QSPI0 QSPI0_IO_0]
+- W18 : PA25,  of Type IO, alternates : [PIO P_25, ICE TMS_, HSMC D_3, FLEXCOM1 FLEXCOM1_IO_3, SPI1 SPI1_NPCS_0, QSPI0 QSPI0_IO_1]
+- U14 : PA26,  of Type IO, alternates : [PIO P_26, ICE NTRST_, HSMC D_4, SPI1 SPI1_NPCS_1, FLEXCOM1 FLEXCOM1_IO_4, QSPI0 QSPI0_IO_2]
+- M18 : PA27,  of Type IO, alternates : [PIO P_27, SPI0 SPI0_NPCS_2, SDMMC1 SDMMC1_RSTN_, HSMC D_5, TC0 TIOA_1, QSPI0 QSPI0_IO_3, SPI1 SPI1_NPCS_2]
+- U13 : PA28,  of Type IO, alternates : [HSMC D_6, PIO P_28, SPI0 SPI0_NPCS_3, CLASSD CLASSD_L_0, SDMMC1 SDMMC1_CMD_, TC0 TIOB_1, SPI1 SPI1_NPCS_3]
+- U16 : PA29,  of Type IO, alternates : [HSMC D_7, TC0 TCLK_1, SDMMC1 SDMMC1_WP_, CLASSD CLASSD_L_1, SPI0 SPI0_NPCS_1, PIO P_29]
+- U12 : PA30,  of Type IO, alternates : [SPI0 SPI0_NPCS_0, PWM PWMH_0, CLASSD CLASSD_L_2, PIO P_30, HSMC NANDNWE_, SDMMC1 SDMMC1_CD_]
+- U17 : PA31,  of Type IO, alternates : [PWM PWML_0, HSMC NCS_3, CLASSD CLASSD_L_3, PIO P_31, SPI0 SPI0_MISO_]
+- C7 : PB0,  of Type IO, alternates : [PIO P_32, PWM PWMH_1, HSMC A21_, SPI0 SPI0_MOSI_]
+- A9 : PB1,  of Type IO, alternates : [SPI0 SPI0_SPCK_, PIO P_33, PWM PWML_1, HSMC A22_, CLASSD CLASSD_R_0]
+- A10 : PB2,  of Type IO, alternates : [PIO P_34, PWM PWMFI_0, CLASSD CLASSD_R_1, HSMC NANDOE_]
+- A11 : PB3,  of Type IO, alternates : [HSMC D_8, AIC IRQ_, PWM PWMEXTRG_1, PIO P_35, CLASSD CLASSD_R_2, UART4 URXD_4]
+- A12 : PB4,  of Type IO, alternates : [PIO P_36, HSMC D_9, SAIC FIQ_, UART4 UTXD_4, CLASSD CLASSD_R_3]
+- A7 : PB5,  of Type IO, alternates : [PIO P_37, HSMC D_10, PWM PWMH_2, QSPI1 QSPI1_SCK_, GMAC GTSUCOMP_, TC0 TCLK_2]
+- B7 : PB6,  of Type IO, alternates : [PIO P_38, HSMC D_11, QSPI1 QSPI1_CS_, GMAC GTXER_, PWM PWML_2, TC0 TIOA_2]
+- C5 : PB7,  of Type IO, alternates : [PIO P_39, QSPI1 QSPI1_IO_0, HSMC D_12, PWM PWMH_3, TC0 TIOB_2, GMAC GRXCK_]
+- B8 : PB8,  of Type IO, alternates : [QSPI1 QSPI1_IO_1, HSMC D_13, PIO P_40, PWM PWML_3, GMAC GCRS_, TC1 TCLK_3]
+- B6 : PB9,  of Type IO, alternates : [QSPI1 QSPI1_IO_2, HSMC D_14, GMAC GCOL_, PIO P_41, TC1 TIOA_3, PWM PWMFI_1]
+- G6 : PB10,  of Type IO, alternates : [GMAC GRX_2, PWM PWMEXTRG_2, QSPI1 QSPI1_IO_3, HSMC D_15, TC1 TIOB_3, PIO P_42]
+- B5 : PB11,  of Type IO, alternates : [GMAC GRX_3, PIO P_43, PDMIC PDMIC_DAT_, UART3 URXD_3, LCDC LCDDAT_0, HSMC A0_]
+- A6 : PB12,  of Type IO, alternates : [PDMIC PDMIC_CLK_, PIO P_44, UART3 UTXD_3, GMAC GTX_2, HSMC A_1, LCDC LCDDAT_1]
+- C4 : PB13,  of Type IO, alternates : [PMC PCK_1, PIO P_45, GMAC GTX_3, HSMC A_2, LCDC LCDDAT_2]
+- G4 : PB14,  of Type IO, alternates : [SSC1 TK_1, I2SC1 I2SC1_MCK_, LCDC LCDDAT_3, PIO P_46, HSMC A_3, QSPI1 QSPI1_SCK_, GMAC GTXCK_]
+- H4 : PB15,  of Type IO, alternates : [PIO P_47, LCDC LCDDAT_4, QSPI1 QSPI1_CS_, GMAC GTXEN_, HSMC A_4, SSC1 TF_1, I2SC1 I2SC1_CK_]
+- A4 : PB16,  of Type IO, alternates : [LCDC LCDDAT_5, PIO P_48, I2SC1 I2SC1_WS_, QSPI1 QSPI1_IO_0, HSMC A_5, GMAC GRXDV_, SSC1 TD_1]
+- B3 : PB17,  of Type IO, alternates : [LCDC LCDDAT_6, GMAC GRXER_, I2SC1 I2SC1_DI_0, PIO P_49, QSPI1 QSPI1_IO_1, HSMC A_6, SSC1 RD_1]
+- D3 : PB18,  of Type IO, alternates : [HSMC A_7, SSC1 RK_1, QSPI1 QSPI1_IO_2, LCDC LCDDAT_7, PIO P_50, I2SC1 I2SC1_DO_0, GMAC GRX_0]
+- F4 : PB19,  of Type IO, alternates : [SSC1 RF_1, QSPI1 QSPI1_IO_3, HSMC A_8, LCDC LCDDAT_8, PIO P_51, TC1 TIOA_3, GMAC GRX_1]
+- F2 : PB20,  of Type IO, alternates : [PMC PCK_1, HSMC A_9, LCDC LCDDAT_9, GMAC GTX_0, TC1 TIOB_3, PIO P_52, SSC0 TK_0]
+- F3 : PB21,  of Type IO, alternates : [SSC0 TF_0, FLEXCOM3 FLEXCOM3_IO_2, GMAC GTX_1, PIO P_53, HSMC A_10, LCDC LCDDAT_10, TC1 TCLK_3]
+- E4 : PB22,  of Type IO, alternates : [SSC0 TD_0, PIO P_54, FLEXCOM3 FLEXCOM3_IO_1, HSMC A_11, GMAC GMDC_, TC0 TIOA_2, LCDC LCDDAT_11]
+- H2 : PB23,  of Type IO, alternates : [SSC0 RD_0, GMAC GMDIO_, PIO P_55, FLEXCOM3 FLEXCOM3_IO_0, TC0 TIOB_2, HSMC A_12, LCDC LCDDAT_12]
+- A3 : PB24,  of Type IO, alternates : [PIO P_56, FLEXCOM3 FLEXCOM3_IO_3, ISC ISC_D_10, HSMC A_13, SSC0 RK_0, LCDC LCDDAT_13, TC0 TCLK_2]
+- H1 : PB25,  of Type IO, alternates : [ISC ISC_D_11, PIO P_57, HSMC A_14, LCDC LCDDAT_14, FLEXCOM3 FLEXCOM3_IO_4, SSC0 RF_0]
+- G2 : PB26,  of Type IO, alternates : [PIO P_58, ISC ISC_D_0, HSMC A_15, PDMIC PDMIC_DAT_, LCDC LCDDAT_15, UART0 URXD_0]
+- H5 : PB27,  of Type IO, alternates : [PIO P_59, ISC ISC_D_1, PDMIC PDMIC_CLK_, HSMC A_16, UART0 UTXD_0, LCDC LCDDAT_16]
+- J2 : PB28,  of Type IO, alternates : [ISC ISC_D_2, HSMC A_17, FLEXCOM0 FLEXCOM0_IO_0, LCDC LCDDAT_17, TC1 TIOA_5, PIO P_60]
+- J3 : PB29,  of Type IO, alternates : [ISC ISC_D_3, HSMC A_18, LCDC LCDDAT_18, FLEXCOM0 FLEXCOM0_IO_1, PIO P_61, TC1 TIOB_5]
+- A2 : PB30,  of Type IO, alternates : [HSMC A_19, LCDC LCDDAT_19, ISC ISC_D_4, FLEXCOM0 FLEXCOM0_IO_2, PIO P_62, TC1 TCLK_5]
+- J4 : PB31,  of Type IO, alternates : [TWIHS0 TWD_0, ISC ISC_D_5, FLEXCOM0 FLEXCOM0_IO_3, PIO P_63, HSMC A_20, LCDC LCDDAT_20]
+- T14 : PC0,  of Type IO, alternates : [TWIHS0 TWCK_0, ISC ISC_D_6, HSMC A_23, FLEXCOM0 FLEXCOM0_IO_4, PIO P_64, LCDC LCDDAT_21]
+- R16 : PC1,  of Type IO, alternates : [MCAN0 CANTX_0, I2SC0 I2SC0_CK_, PIO P_65, ISC ISC_D_7, HSMC A_24, SPI1 SPI1_SPCK_, LCDC LCDDAT_22]
+- T15 : PC2,  of Type IO, alternates : [MCAN0 CANRX_0, PIO P_66, SPI1 SPI1_MOSI_, HSMC A_25, ISC ISC_D_8, LCDC LCDDAT_23, I2SC0 I2SC0_MCK_]
+- T13 : PC3,  of Type IO, alternates : [SPI1 SPI1_MISO_, I2SC0 I2SC0_WS_, LCDC LCDPWM_, PIO P_67, TC0 TIOA_1, ISC ISC_D_9, HSMC NWAIT_]
+- P16 : PC4,  of Type IO, alternates : [ISC ISC_PCK_, LCDC LCDDISP_, I2SC0 I2SC0_DI_0, PIO P_68, SPI1 SPI1_NPCS_0, HSMC NWR1_, TC0 TIOB_1]
+- L19 : PC5,  of Type IO, alternates : [PIO P_69, ISC ISC_VSYNC_, TC0 TCLK_1, SPI1 SPI1_NPCS_1, HSMC NCS_0, I2SC0 I2SC0_DO_0, LCDC LCDVSYNC_]
+- R15 : PC6,  of Type IO, alternates : [LCDC LCDHSYNC_, TWIHS1 TWD_1, PIO P_70, ISC ISC_HSYNC_, SPI1 SPI1_NPCS_2]
+- N15 : PC7,  of Type IO, alternates : [LCDC LCDPCK_, TWIHS1 TWCK_1, ISC ISC_MCK_, UART1 URXD_1, HSMC NCS_2, SPI1 SPI1_NPCS_3, PIO P_71]
+- P11 : PC8,  of Type IO, alternates : [LCDC LCDDEN_, HSMC NANDRDY_, SAIC FIQ_, ISC ISC_FIELD_, UART1 UTXD_1, PIO P_72, PMC PCK_0]
+- B2 : PC9,  of Type IO, alternates : [SAIC FIQ_, ISC ISC_D_0, PIO P_73, TC1 TIOA_4, GMAC GTSUCOMP_]
+- K5 : PC10,  of Type IO, alternates : [MCAN0 CANTX_0, ISC ISC_D_1, TC1 TIOB_4, PIO P_74, LCDC LCDDAT_2, GMAC GTXCK_]
+- C2 : PC11,  of Type IO, alternates : [ISC ISC_D_2, LCDC LCDDAT_3, MCAN0 CANRX_0, GMAC GTXEN_, PIO P_75, HSMC A0_, TC1 TCLK_4]
+- D2 : PC12,  of Type IO, alternates : [ISC ISC_D_3, LCDC LCDDAT_4, PIO P_76, GMAC GRXDV_, HSMC A_1, UART3 URXD_3, SSC0 TK_0]
+- K2 : PC13,  of Type IO, alternates : [LCDC LCDDAT_5, GMAC GRXER_, SSC0 TF_0, PIO P_77, UART3 UTXD_3, ISC ISC_D_4, HSMC A_2]
+- K6 : PC14,  of Type IO, alternates : [LCDC LCDDAT_6, SSC0 TD_0, PIO P_78, ISC ISC_D_5, HSMC A_3, GMAC GRX_0]
+- B1 : PC15,  of Type IO, alternates : [SSC0 RD_0, ISC ISC_D_6, LCDC LCDDAT_7, PIO P_79, HSMC A_4, GMAC GRX_1]
+- K9 : PC16,  of Type IO, alternates : [ISC ISC_D_7, HSMC A_5, GMAC GTX_0, SSC0 RK_0, LCDC LCDDAT_10, PIO P_80]
+- C1 : PC17,  of Type IO, alternates : [HSMC A_6, GMAC GTX_1, ISC ISC_D_8, LCDC LCDDAT_11, SSC0 RF_0, PIO P_81]
+- L9 : PC18,  of Type IO, alternates : [HSMC A_7, FLEXCOM3 FLEXCOM3_IO_2, GMAC GMDC_, ISC ISC_D_9, LCDC LCDDAT_12, PIO P_82]
+- D1 : PC19,  of Type IO, alternates : [GMAC GMDIO_, HSMC A_8, FLEXCOM3 FLEXCOM3_IO_1, ISC ISC_D_10, PIO P_83, LCDC LCDDAT_13]
+- L8 : PC20,  of Type IO, alternates : [HSMC A_9, FLEXCOM3 FLEXCOM3_IO_0, ISC ISC_D_11, LCDC LCDDAT_14, PIO P_84, GMAC GRXCK_]
+- E3 : PC21,  of Type IO, alternates : [ISC ISC_PCK_, GMAC GTXER_, FLEXCOM3 FLEXCOM3_IO_3, LCDC LCDDAT_15, PIO P_85, HSMC A_10]
+- E2 : PC22,  of Type IO, alternates : [ISC ISC_VSYNC_, LCDC LCDDAT_18, HSMC A_11, FLEXCOM3 FLEXCOM3_IO_4, PIO P_86, GMAC GCRS_]
+- L7 : PC23,  of Type IO, alternates : [LCDC LCDDAT_19, PIO P_87, HSMC A_12, GMAC GCOL_, ISC ISC_HSYNC_]
+- E1 : PC24,  of Type IO, alternates : [GMAC GRX_2, ISC ISC_MCK_, PIO P_88, HSMC A_13, LCDC LCDDAT_20]
+- L4 : PC25,  of Type IO, alternates : [GMAC GRX_3, ISC ISC_FIELD_, PIO P_89, HSMC A_14, LCDC LCDDAT_21]
+- D6 : PC26,  of Type IO, alternates : [MCAN1 CANTX_1, HSMC A_15, GMAC GTX_2, LCDC LCDDAT_22, PIO P_90]
+- E7 : PC27,  of Type IO, alternates : [MCAN1 CANRX_1, PMC PCK_1, TWIHS0 TWD_0, HSMC A_16, GMAC GTX_3, LCDC LCDDAT_23, PIO P_91]
+- J5 : PC28,  of Type IO, alternates : [PMC PCK_2, TWIHS0 TWCK_0, HSMC A_17, LCDC LCDPWM_, FLEXCOM4 FLEXCOM4_IO_0, PIO P_92]
+- C6 : PC29,  of Type IO, alternates : [HSMC A_18, LCDC LCDDISP_, FLEXCOM4 FLEXCOM4_IO_1, PIO P_93]
+- D7 : PC30,  of Type IO, alternates : [HSMC A_19, PIO P_94, FLEXCOM4 FLEXCOM4_IO_2, LCDC LCDVSYNC_]
+- C8 : PC31,  of Type IO, alternates : [LCDC LCDHSYNC_, FLEXCOM4 FLEXCOM4_IO_3, PIO P_95, UART3 URXD_3, HSMC A_20]
+- J7 : PD0,  of Type IO, alternates : [LCDC LCDPCK_, UART3 UTXD_3, HSMC A_23, GMAC GTSUCOMP_, PIO P_96, FLEXCOM4 FLEXCOM4_IO_4]
+- D8 : PD1,  of Type IO, alternates : [LCDC LCDDEN_, HSMC A_24, PIO P_97, GMAC GRXCK_]
+- J6 : PD2,  of Type IO, alternates : [GMAC GTXER_, ISC ISC_MCK_, PIO P_98, HSMC A_25, UART1 URXD_1]
+- M3 : PD3,  of Type IO, alternates : [SAIC FIQ_, PIO P_99, ISC ISC_D_11, UART1 UTXD_1, HSMC NWAIT_, PTC PTC_X_0, GMAC GCRS_]
+- L6 : PD4,  of Type IO, alternates : [ISC ISC_D_10, HSMC NCS_0, GMAC GCOL_, TWIHS1 TWD_1, UART2 URXD_2, PIO P_100, PTC PTC_X_1]
+- L2 : PD5,  of Type IO, alternates : [TWIHS1 TWCK_1, GMAC GRX_2, UART2 UTXD_2, HSMC NCS_1, PIO P_101, ISC ISC_D_9, PTC PTC_X_2]
+- J1 : PD6,  of Type IO, alternates : [PMC PCK_1, GMAC GRX_3, ICE TCK_, PIO P_102, ISC ISC_D_8, HSMC NCS_2, PTC PTC_X_3]
+- L5 : PD7,  of Type IO, alternates : [ISC ISC_D_0, ICE TDI_, PIO P_103, PTC PTC_X_4, GMAC GTX_2, HSMC NWR1_]
+- K1 : PD8,  of Type IO, alternates : [HSMC NANDRDY_, ISC ISC_D_1, PTC PTC_X_5, ICE TDO_, GMAC GTX_3, PIO P_104]
+- L3 : PD9,  of Type IO, alternates : [ISC ISC_D_2, ICE TMS_, PTC PTC_X_6, PIO P_105, GMAC GTXCK_]
+- L1 : PD10,  of Type IO, alternates : [ISC ISC_D_3, ICE NTRST_, GMAC GTXEN_, PTC PTC_X_7, PIO P_106]
+- N3 : PD11,  of Type IO, alternates : [PMC PCK_2, ISC ISC_MCK_, ISC ISC_D_4, GMAC GRXDV_, TC0 TIOA_1, PIO P_107, PTC PTC_Y_0]
+- M7 : PD12,  of Type IO, alternates : [GMAC GRXER_, PIO P_108, ISC ISC_D_4, FLEXCOM4 FLEXCOM4_IO_0, ISC ISC_D_5, TC0 TIOB_1, PTC PTC_Y_1]
+- N2 : PD13,  of Type IO, alternates : [PIO P_109, TC0 TCLK_1, ISC ISC_D_6, FLEXCOM4 FLEXCOM4_IO_1, ISC ISC_D_5, GMAC GRX_0, PTC PTC_Y_2]
+- M6 : PD14,  of Type IO, alternates : [ISC ISC_D_6, PIO P_110, ISC ISC_D_7, ICE TCK_, FLEXCOM4 FLEXCOM4_IO_2, PTC PTC_Y_3, GMAC GRX_1]
+- M5 : PD15,  of Type IO, alternates : [ISC ISC_PCK_, ICE TDI_, ISC ISC_D_7, FLEXCOM4 FLEXCOM4_IO_3, GMAC GTX_0, PTC PTC_Y_4, PIO P_111]
+- M1 : PD16,  of Type IO, alternates : [ISC ISC_VSYNC_, GMAC GTX_1, ICE TDO_, ISC ISC_D_8, PIO P_112, FLEXCOM4 FLEXCOM4_IO_4, PTC PTC_Y_5]
+- M2 : PD17,  of Type IO, alternates : [ICE TMS_, PIO P_113, PTC PTC_Y_6, GMAC GMDC_, ISC ISC_D_9, ISC ISC_HSYNC_]
+- M4 : PD18,  of Type IO, alternates : [GMAC GMDIO_, ICE NTRST_, ISC ISC_FIELD_, PTC PTC_Y_7, ISC ISC_D_10, PIO P_114]
+- M8 : PD19,  of Type IO, alternates : [I2SC0 I2SC0_CK_, ISC ISC_D_11, TWIHS1 TWD_1, UART2 URXD_2, ADC AD_0, PIO P_115, PMC PCK_0]
+- N1 : PD20,  of Type IO, alternates : [ISC ISC_PCK_, TWIHS1 TWCK_1, UART2 UTXD_2, TC0 TIOA_2, PIO P_116, ADC AD_1, I2SC0 I2SC0_MCK_]
+- P3 : PD21,  of Type IO, alternates : [ISC ISC_VSYNC_, TWIHS0 TWD_0, I2SC0 I2SC0_WS_, FLEXCOM4 FLEXCOM4_IO_0, TC0 TIOB_2, ADC AD_2, PIO P_117]
+- N6 : PD22,  of Type IO, alternates : [TWIHS0 TWCK_0, FLEXCOM4 FLEXCOM4_IO_1, I2SC0 I2SC0_DI_0, PIO P_118, TC0 TCLK_2, ADC AD_3, ISC ISC_HSYNC_]
+- P1 : PD23,  of Type IO, alternates : [ADC AD_4, PIO P_119, ISC ISC_FIELD_, FLEXCOM4 FLEXCOM4_IO_2, UART2 URXD_2, I2SC0 I2SC0_DO_0]
+- N8 : PD24,  of Type IO, alternates : [ADC AD_5, UART2 UTXD_2, PIO P_120, FLEXCOM4 FLEXCOM4_IO_3]
+- P8 : PD25,  of Type IO, alternates : [ADC AD_6, PIO P_121, SPI1 SPI1_SPCK_, FLEXCOM4 FLEXCOM4_IO_4]
+- P2 : PD26,  of Type IO, alternates : [ADC AD_7, FLEXCOM2 FLEXCOM2_IO_0, SPI1 SPI1_MOSI_, PIO P_122]
+- N5 : PD27,  of Type IO, alternates : [SPI1 SPI1_MISO_, ADC AD_8, FLEXCOM2 FLEXCOM2_IO_1, ICE TCK_, PIO P_123]
+- N4 : PD28,  of Type IO, alternates : [ICE TDI_, ADC AD_9, FLEXCOM2 FLEXCOM2_IO_2, PIO P_124, SPI1 SPI1_NPCS_0]
+- R2 : PD29,  of Type IO, alternates : [TWIHS0 TWD_0, PIO P_125, SPI1 SPI1_NPCS_1, FLEXCOM2 FLEXCOM2_IO_3, ICE TDO_, TC1 TIOA_3, ADC AD_10]
+- N10 : PD30,  of Type IO, alternates : [TWIHS0 TWCK_0, ICE TMS_, TC1 TIOB_3, FLEXCOM2 FLEXCOM2_IO_4, ADC AD_11, PIO P_126, SPI1 SPI1_NPCS_2]
+- P7 : PD31,  of Type IO, alternates : [AIC IRQ_, ADC ADTRG_, ICE NTRST_, PIO P_127, TC1 TCLK_3, PMC PCK_0]
+- M9 : ADVREF,  of Type PS
+- G1 : VDDANA,  of Type PP
+- H6 : VDDANA,  of Type PP
+- F1 : GNDANA,  of Type PS
+- G5 : GNDANA,  of Type PS
+- M12 : DDR_VREF,  of Type PS
+- J10 : DDR_VREF,  of Type PS
+- C19 : ZQ,  of Type IO
+- E11 : VDDIODDR,  of Type PP
+- E8 : VDDIODDR,  of Type PP
+- H10 : VDDIODDR,  of Type PP
+- J13 : VDDIODDR,  of Type PP
+- J8 : VDDIODDR,  of Type PP
+- L10 : VDDIODDR,  of Type PP
+- P12 : VDDIODDR,  of Type PP
+- E10 : GNDIODDR,  of Type PS
+- F8 : GNDIODDR,  of Type PS
+- G10 : GNDIODDR,  of Type PS
+- J9 : GNDIODDR,  of Type PS
+- L11 : GNDIODDR,  of Type PS
+- M13 : GNDIODDR,  of Type PS
+- N12 : GNDIODDR,  of Type PS
+- C3 : VDDCORE,  of Type PP
+- C9 : VDDCORE,  of Type PP
+- K3 : VDDCORE,  of Type PP
+- U9 : VDDCORE,  of Type PP
+- V5 : VDDCORE,  of Type PP
+- W6 : VDDCORE,  of Type PP
+- K8 : VDDCORE,  of Type PP
+- A1 : GNDCORE,  of Type PS
+- D9 : GNDCORE,  of Type PS
+- J11 : GNDCORE,  of Type PS
+- K4 : GNDCORE,  of Type PS
+- K7 : GNDCORE,  of Type PS
+- V9 : GNDCORE,  of Type PS
+- W1 : GNDCORE,  of Type PS
+- B4 : VDDIOP0,  of Type PP
+- D5 : VDDIOP1,  of Type PP
+- A5 : GNDIOP0,  of Type PS
+- D4 : GNDIOP0,  of Type PS
+- V13 : VDDIOP1,  of Type PP
+- V18 : VDDIOP1,  of Type PP
+- P13 : GNDIOP1,  of Type PS
+- R13 : GNDIOP2,  of Type PS
+- W13 : GNDIOP3,  of Type PS
+- W19 : GNDIOP4,  of Type PS
+- A8 : VDDIOP2,  of Type PP
+- B9 : GNDIOP2,  of Type PS
+- T7 : VDDSDMMC,  of Type PP
+- T8 : GNDSDMMC,  of Type PS
+- G3 : VDDISC,  of Type PP
+- H3 : GNDISC,  of Type PS
+- U15 : VDDFUSE,  of Type PP
+- P9 : VDDPLLA,  of Type PP
+- P10 : GNDPLLA,  of Type PS
+- R6 : VDDAUDIOPLL,  of Type PP
+- N9 : GNDDPLL,  of Type PS
+- P6 : GNDAUDIOPLL,  of Type PS
+- W2 : CLK_AUDIO,  of Type IO
+- W5 : XIN,  of Type PS
+- W4 : XOUT,  of Type PS
+- R10 : VDDOSC,  of Type PP
+- T11 : GNDOSC,  of Type PS
+- R8 : VDDUTMII,  of Type PP
+- U7 : VDDHSIC,  of Type PP
+- R7 : GNDUTMII,  of Type PS
+- W7 : HHSDPA,  of Type IO
+- V7 : HHSDMA,  of Type IO
+- W8 : HHSDPB,  of Type IO
+- V8 : HHSDMB,  of Type IO
+- W9 : HHSDPDATC,  of Type IO
+- W10 : HHSDMSTRC,  of Type IO
+- T6 : VDDUTMIC,  of Type PP
+- U6 : GNDUTMIC,  of Type PS
+- V6 : VBG,  of Type IO
+- T2 : TST,  of Type IO
+- W3 : NRST,  of Type IP
+- T3 : JTAGSEL,  of Type OP
+- U2 : WKUP,  of Type IP
+- R1 : RXD,  of Type IP
+- P4 : SHDN,  of Type IO
+- R4 : PIOBU0,  of Type IO
+- R5 : PIOBU1,  of Type IO
+- R3 : PIOBU2,  of Type IO
+- T4 : PIOBU3,  of Type IO
+- U3 : PIOBU4,  of Type IO
+- T5 : PIOBU5,  of Type IO
+- U5 : PIOBU6,  of Type IO
+- P5 : PIOBU7,  of Type IO
+- V3 : VDDBU,  of Type PP
+- U4 : GNDBU,  of Type PS
+- U1 : XIN32,  of Type PS
+- T1 : XOUT32,  of Type PS
+- V1 : COMPP,  of Type IO
+- V2 : COMPN,  of Type IO
+- A14 : DDRM_VSS,  of Type PS
+- A19 : DDRM_VSS,  of Type PS
+- B14 : DDRM_VSS,  of Type PS
+- B18 : DDRM_VSS,  of Type PS
+- C14 : DDRM_VSS,  of Type PS
+- C18 : DDRM_VSS,  of Type PS
+- D14 : DDRM_VSS,  of Type PS
+- D18 : DDRM_VSS,  of Type PS
+- E14 : DDRM_VSS,  of Type PS
+- E18 : DDRM_VSS,  of Type PS
+- F14 : DDRM_VSS,  of Type PS
+- F18 : DDRM_VSS,  of Type PS
+- G14 : DDRM_VSS,  of Type PS
+- G18 : DDRM_VSS,  of Type PS
+- H14 : DDRM_VSS,  of Type PS
+- H18 : DDRM_VSS,  of Type PS
+- N14 : DDRM_VSS,  of Type PS
+- N17 : DDRM_VSS,  of Type PS
+- N18 : DDRM_VSS,  of Type PS
+- P14 : DDRM_VSS,  of Type PS
+- P18 : DDRM_VSS,  of Type PS
+- R14 : DDRM_VSS,  of Type PS
+- R18 : DDRM_VSS,  of Type PS
+- T18 : DDRM_VSS,  of Type PS
+- B15 : DDRM_VDD12,  of Type PP
+- B17 : DDRM_VDD13,  of Type PP
+- B19 : DDRM_VDD14,  of Type PP
+- D15 : DDRM_VDD15,  of Type PP
+- D17 : DDRM_VDD16,  of Type PP
+- D19 : DDRM_VDD17,  of Type PP
+- F15 : DDRM_VDD18,  of Type PP
+- F17 : DDRM_VDD19,  of Type PP
+- F19 : DDRM_VDD20,  of Type PP
+- H15 : DDRM_VDD21,  of Type PP
+- H17 : DDRM_VDD22,  of Type PP
+- H19 : DDRM_VDD23,  of Type PP
+- K15 : DDRM_VDD24,  of Type PP
+- K17 : DDRM_VDD25,  of Type PP
+- K19 : DDRM_VDD26,  of Type PP
+- M15 : DDRM_VDD27,  of Type PP
+- M17 : DDRM_VDD28,  of Type PP
+- M19 : DDRM_VDD29,  of Type PP
+- P15 : DDRM_VDD30,  of Type PP
+- P17 : DDRM_VDD31,  of Type PP
+- P19 : DDRM_VDD32,  of Type PP
+- T17 : DDRM_VDD33,  of Type PP
+- T19 : DDRM_VDD34,  of Type PP
+- B11 : DDRM_VDD18,  of Type PP
+- B13 : DDRM_VDD19,  of Type PP
+- D11 : DDRM_VDD20,  of Type PP
+- D13 : DDRM_VDD21,  of Type PP
+- K13 : DDRM_VDD22,  of Type PP
+- K16 : DDRM_VDD23,  of Type PP
+- A13 : NC,  of Type NC
+- A15 : NC,  of Type NC
+- A16 : NC,  of Type NC
+- A17 : NC,  of Type NC
+- A18 : NC,  of Type NC
+- B10 : NC,  of Type NC
+- B12 : NC,  of Type NC
+- B16 : NC,  of Type NC
+- C10 : NC,  of Type NC
+- C11 : NC,  of Type NC
+- C12 : NC,  of Type NC
+- C13 : NC,  of Type NC
+- C15 : NC,  of Type NC
+- C16 : NC,  of Type NC
+- C17 : NC,  of Type NC
+- D10 : NC,  of Type NC
+- D12 : NC,  of Type NC
+- D16 : NC,  of Type NC
+- E12 : NC,  of Type NC
+- E13 : NC,  of Type NC
+- E15 : NC,  of Type NC
+- E16 : NC,  of Type NC
+- E17 : NC,  of Type NC
+- E19 : NC,  of Type NC
+- E5 : NC,  of Type NC
+- E6 : NC,  of Type NC
+- E9 : NC,  of Type NC
+- F10 : NC,  of Type NC
+- F11 : NC,  of Type NC
+- F12 : NC,  of Type NC
+- F13 : NC,  of Type NC
+- F16 : NC,  of Type NC
+- F5 : NC,  of Type NC
+- F6 : NC,  of Type NC
+- F7 : NC,  of Type NC
+- F9 : NC,  of Type NC
+- G11 : NC,  of Type NC
+- G12 : NC,  of Type NC
+- G13 : NC,  of Type NC
+- G15 : NC,  of Type NC
+- G16 : NC,  of Type NC
+- G17 : NC,  of Type NC
+- G19 : NC,  of Type NC
+- G7 : NC,  of Type NC
+- G8 : NC,  of Type NC
+- G9 : NC,  of Type NC
+- H11 : NC,  of Type NC
+- H12 : NC,  of Type NC
+- H13 : NC,  of Type NC
+- H16 : NC,  of Type NC
+- H7 : NC,  of Type NC
+- H8 : NC,  of Type NC
+- H9 : NC,  of Type NC
+- J12 : NC,  of Type NC
+- J14 : NC,  of Type NC
+- J15 : NC,  of Type NC
+- J16 : NC,  of Type NC
+- J17 : NC,  of Type NC
+- J18 : NC,  of Type NC
+- J19 : NC,  of Type NC
+- K10 : NC,  of Type NC
+- K11 : NC,  of Type NC
+- K12 : NC,  of Type NC
+- K14 : NC,  of Type NC
+- L12 : NC,  of Type NC
+- L13 : NC,  of Type NC
+- L14 : NC,  of Type NC
+- L15 : NC,  of Type NC
+- L16 : NC,  of Type NC
+- M10 : NC,  of Type NC
+- M11 : NC,  of Type NC
+- M14 : NC,  of Type NC
+- N11 : NC,  of Type NC
+- N13 : NC,  of Type NC
+- N16 : NC,  of Type NC
+- N7 : NC,  of Type NC
+- R11 : NC,  of Type NC
+- R12 : NC,  of Type NC
+- R17 : NC,  of Type NC
+- T12 : NC,  of Type NC
+- T9 : NC,  of Type NC
+- U10 : NC,  of Type NC
+- U11 : NC,  of Type NC
+- U8 : NC,  of Type NC
+- V4 : NC,  of Type NC
 ## ATSAMA5D28CLD2G-CU
+
 ### Description : 
+
+- Series : SAMA5D2
+- Footprint : TFBGA361
+- MP : ATSAMA5D28CLD2G-CU
+- Architecture : CORTEX-A5
+- PINOUT : TFBGA361
+- Reference : U
+- Documentation : https://www.microchip.com/en-us/search?q=ATSAMA5D28CLD2G-CU
+- Value : ATSAMA5D28CLD2G-CU
+- Family : SAMA5
+- MF : Microchip
+- Name : ATSAMA5D28CLD2G
 
 ### Package : 
 
-- W11 : PA0
-- R9 : PA1
-- W12 : PA2
-- V11 : PA3
-- W14 : PA4
-- V10 : PA5
-- W15 : PA6
-- W16 : PA7
-- V12 : PA8
-- V16 : PA9
-- V14 : PA10
-- L18 : PA11
-- T16 : PA12
-- K18 : PA13
-- R19 : PA14
-- L17 : PA15
-- N19 : PA16
-- M16 : PA17
-- V19 : PA18
-- V15 : PA19
-- T10 : PA20
-- U19 : PA21
-- V17 : PA22
-- U18 : PA23
-- W17 : PA24
-- W18 : PA25
-- U14 : PA26
-- M18 : PA27
-- U13 : PA28
-- U16 : PA29
-- U12 : PA30
-- U17 : PA31
-- C7 : PB0
-- A9 : PB1
-- A10 : PB2
-- A11 : PB3
-- A12 : PB4
-- A7 : PB5
-- B7 : PB6
-- C5 : PB7
-- B8 : PB8
-- B6 : PB9
-- G6 : PB10
-- B5 : PB11
-- A6 : PB12
-- C4 : PB13
-- G4 : PB14
-- H4 : PB15
-- A4 : PB16
-- B3 : PB17
-- D3 : PB18
-- F4 : PB19
-- F2 : PB20
-- F3 : PB21
-- E4 : PB22
-- H2 : PB23
-- A3 : PB24
-- H1 : PB25
-- G2 : PB26
-- H5 : PB27
-- J2 : PB28
-- J3 : PB29
-- A2 : PB30
-- J4 : PB31
-- T14 : PC0
-- R16 : PC1
-- T15 : PC2
-- T13 : PC3
-- P16 : PC4
-- L19 : PC5
-- R15 : PC6
-- N15 : PC7
-- P11 : PC8
-- B2 : PC9
-- K5 : PC10
-- C2 : PC11
-- D2 : PC12
-- K2 : PC13
-- K6 : PC14
-- B1 : PC15
-- K9 : PC16
-- C1 : PC17
-- L9 : PC18
-- D1 : PC19
-- L8 : PC20
-- E3 : PC21
-- E2 : PC22
-- L7 : PC23
-- E1 : PC24
-- L4 : PC25
-- D6 : PC26
-- E7 : PC27
-- J5 : PC28
-- C6 : PC29
-- D7 : PC30
-- C8 : PC31
-- J7 : PD0
-- D8 : PD1
-- J6 : PD2
-- M3 : PD3
-- L6 : PD4
-- L2 : PD5
-- J1 : PD6
-- L5 : PD7
-- K1 : PD8
-- L3 : PD9
-- L1 : PD10
-- N3 : PD11
-- M7 : PD12
-- N2 : PD13
-- M6 : PD14
-- M5 : PD15
-- M1 : PD16
-- M2 : PD17
-- M4 : PD18
-- M8 : PD19
-- N1 : PD20
-- P3 : PD21
-- N6 : PD22
-- P1 : PD23
-- N8 : PD24
-- P8 : PD25
-- P2 : PD26
-- N5 : PD27
-- N4 : PD28
-- R2 : PD29
-- N10 : PD30
-- P7 : PD31
-- M9 : ADVREF
-- G1 : VDDANA
-- H6 : VDDANA
-- F1 : GNDANA
-- G5 : GNDANA
-- M12 : DDR_VREF
-- J10 : DDR_VREF
-- C19 : ZQ
-- E11 : VDDIODDR
-- E8 : VDDIODDR
-- H10 : VDDIODDR
-- J13 : VDDIODDR
-- J8 : VDDIODDR
-- L10 : VDDIODDR
-- P12 : VDDIODDR
-- E10 : GNDIODDR
-- F8 : GNDIODDR
-- G10 : GNDIODDR
-- J9 : GNDIODDR
-- L11 : GNDIODDR
-- M13 : GNDIODDR
-- N12 : GNDIODDR
-- C3 : VDDCORE
-- C9 : VDDCORE
-- K3 : VDDCORE
-- U9 : VDDCORE
-- V5 : VDDCORE
-- W6 : VDDCORE
-- K8 : VDDCORE
-- A1 : GNDCORE
-- D9 : GNDCORE
-- J11 : GNDCORE
-- K4 : GNDCORE
-- K7 : GNDCORE
-- V9 : GNDCORE
-- W1 : GNDCORE
-- B4 : VDDIOP0
-- D5 : VDDIOP1
-- A5 : GNDIOP0
-- D4 : GNDIOP0
-- V13 : VDDIOP1
-- V18 : VDDIOP1
-- P13 : GNDIOP1
-- R13 : GNDIOP2
-- W13 : GNDIOP3
-- W19 : GNDIOP4
-- A8 : VDDIOP2
-- B9 : GNDIOP2
-- T7 : VDDSDMMC
-- T8 : GNDSDMMC
-- G3 : VDDISC
-- H3 : GNDISC
-- U15 : VDDFUSE
-- P9 : VDDPLLA
-- P10 : GNDPLLA
-- R6 : VDDAUDIOPLL
-- N9 : GNDDPLL
-- P6 : GNDAUDIOPLL
-- W2 : CLK_AUDIO
-- W5 : XIN
-- W4 : XOUT
-- R10 : VDDOSC
-- T11 : GNDOSC
-- R8 : VDDUTMII
-- U7 : VDDHSIC
-- R7 : GNDUTMII
-- W7 : HHSDPA
-- V7 : HHSDMA
-- W8 : HHSDPB
-- V8 : HHSDMB
-- W9 : HHSDPDATC
-- W10 : HHSDMSTRC
-- T6 : VDDUTMIC
-- U6 : GNDUTMIC
-- V6 : VBG
-- T2 : TST
-- W3 : NRST
-- T3 : JTAGSEL
-- U2 : WKUP
-- R1 : RXD
-- P4 : SHDN
-- R4 : PIOBU0
-- R5 : PIOBU1
-- R3 : PIOBU2
-- T4 : PIOBU3
-- U3 : PIOBU4
-- T5 : PIOBU5
-- U5 : PIOBU6
-- P5 : PIOBU7
-- V3 : VDDBU
-- U4 : GNDBU
-- U1 : XIN32
-- T1 : XOUT32
-- V1 : COMPP
-- V2 : COMPN
-- A14 : DDRM_VSS
-- A19 : DDRM_VSS
-- B14 : DDRM_VSS
-- B18 : DDRM_VSS
-- C14 : DDRM_VSS
-- C18 : DDRM_VSS
-- D14 : DDRM_VSS
-- D18 : DDRM_VSS
-- E14 : DDRM_VSS
-- E18 : DDRM_VSS
-- F14 : DDRM_VSS
-- F18 : DDRM_VSS
-- G14 : DDRM_VSS
-- G18 : DDRM_VSS
-- H14 : DDRM_VSS
-- H18 : DDRM_VSS
-- N14 : DDRM_VSS
-- N17 : DDRM_VSS
-- N18 : DDRM_VSS
-- P14 : DDRM_VSS
-- P18 : DDRM_VSS
-- R14 : DDRM_VSS
-- R18 : DDRM_VSS
-- T18 : DDRM_VSS
-- B15 : DDRM_VDD12
-- B17 : DDRM_VDD13
-- B19 : DDRM_VDD14
-- D15 : DDRM_VDD15
-- D17 : DDRM_VDD16
-- D19 : DDRM_VDD17
-- F15 : DDRM_VDD18
-- F17 : DDRM_VDD19
-- F19 : DDRM_VDD20
-- H15 : DDRM_VDD21
-- H17 : DDRM_VDD22
-- H19 : DDRM_VDD23
-- K15 : DDRM_VDD24
-- K17 : DDRM_VDD25
-- K19 : DDRM_VDD26
-- M15 : DDRM_VDD27
-- M17 : DDRM_VDD28
-- M19 : DDRM_VDD29
-- P15 : DDRM_VDD30
-- P17 : DDRM_VDD31
-- P19 : DDRM_VDD32
-- T17 : DDRM_VDD33
-- T19 : DDRM_VDD34
-- B11 : DDRM_VDD18
-- B13 : DDRM_VDD19
-- D11 : DDRM_VDD20
-- D13 : DDRM_VDD21
-- K13 : DDRM_VDD22
-- K16 : DDRM_VDD23
-- A13 : NC
-- A15 : NC
-- A16 : NC
-- A17 : NC
-- A18 : NC
-- B10 : NC
-- B12 : NC
-- B16 : NC
-- C10 : NC
-- C11 : NC
-- C12 : NC
-- C13 : NC
-- C15 : NC
-- C16 : NC
-- C17 : NC
-- D10 : NC
-- D12 : NC
-- D16 : NC
-- E12 : NC
-- E13 : NC
-- E15 : NC
-- E16 : NC
-- E17 : NC
-- E19 : NC
-- E5 : NC
-- E6 : NC
-- E9 : NC
-- F10 : NC
-- F11 : NC
-- F12 : NC
-- F13 : NC
-- F16 : NC
-- F5 : NC
-- F6 : NC
-- F7 : NC
-- F9 : NC
-- G11 : NC
-- G12 : NC
-- G13 : NC
-- G15 : NC
-- G16 : NC
-- G17 : NC
-- G19 : NC
-- G7 : NC
-- G8 : NC
-- G9 : NC
-- H11 : NC
-- H12 : NC
-- H13 : NC
-- H16 : NC
-- H7 : NC
-- H8 : NC
-- H9 : NC
-- J12 : NC
-- J14 : NC
-- J15 : NC
-- J16 : NC
-- J17 : NC
-- J18 : NC
-- J19 : NC
-- K10 : NC
-- K11 : NC
-- K12 : NC
-- K14 : NC
-- L12 : NC
-- L13 : NC
-- L14 : NC
-- L15 : NC
-- L16 : NC
-- M10 : NC
-- M11 : NC
-- M14 : NC
-- N11 : NC
-- N13 : NC
-- N16 : NC
-- N7 : NC
-- R11 : NC
-- R12 : NC
-- R17 : NC
-- T12 : NC
-- T9 : NC
-- U10 : NC
-- U11 : NC
-- U8 : NC
-- V4 : NC
+Pin count : 361
+- W11 : PA0,  of Type IO, alternates : [HSMC D_0, PIO P_0, SDMMC0 SDMMC0_CK_, QSPI0 QSPI0_SCK_]
+- R9 : PA1,  of Type IO, alternates : [SDMMC0 SDMMC0_CMD_, PIO P_1, QSPI0 QSPI0_CS_, HSMC D_1]
+- W12 : PA2,  of Type IO, alternates : [PIO P_2, HSMC D_2, SDMMC0 SDMMC0_DAT_0, QSPI0 QSPI0_IO_0]
+- V11 : PA3,  of Type IO, alternates : [PIO P_3, HSMC D_3, SDMMC0 SDMMC0_DAT_1, QSPI0 QSPI0_IO_1]
+- W14 : PA4,  of Type IO, alternates : [HSMC D_4, PIO P_4, SDMMC0 SDMMC0_DAT_2, QSPI0 QSPI0_IO_2]
+- V10 : PA5,  of Type IO, alternates : [PIO P_5, HSMC D_5, QSPI0 QSPI0_IO_3, SDMMC0 SDMMC0_DAT_3]
+- W15 : PA6,  of Type IO, alternates : [PIO P_6, HSMC D_6, FLEXCOM2 FLEXCOM2_IO_0, TC1 TIOA_5, QSPI1 QSPI1_SCK_, SDMMC0 SDMMC0_DAT_4]
+- W16 : PA7,  of Type IO, alternates : [PIO P_7, QSPI1 QSPI1_IO_0, HSMC D_7, FLEXCOM2 FLEXCOM2_IO_1, SDMMC0 SDMMC0_DAT_5, TC1 TIOB_5]
+- V12 : PA8,  of Type IO, alternates : [PIO P_8, QSPI1 QSPI1_IO_1, FLEXCOM2 FLEXCOM2_IO_2, HSMC NANDNWE_, TC1 TCLK_5, SDMMC0 SDMMC0_DAT_6]
+- V16 : PA9,  of Type IO, alternates : [SDMMC0 SDMMC0_DAT_7, QSPI1 QSPI1_IO_2, FLEXCOM2 FLEXCOM2_IO_3, TC1 TIOA_4, HSMC NCS_3, PIO P_9]
+- V14 : PA10,  of Type IO, alternates : [PIO P_10, QSPI1 QSPI1_IO_3, SDMMC0 SDMMC0_RSTN_, HSMC A21_, TC1 TIOB_4, FLEXCOM2 FLEXCOM2_IO_4]
+- L18 : PA11,  of Type IO, alternates : [QSPI1 QSPI1_CS_, SDMMC0 SDMMC0_1V8SEL_, PIO P_11, HSMC A22_, TC1 TCLK_4]
+- T16 : PA12,  of Type IO, alternates : [AIC IRQ_, SDMMC0 SDMMC0_WP_, PIO P_12, HSMC NANDOE_]
+- K18 : PA13,  of Type IO, alternates : [HSMC D_8, FLEXCOM3 FLEXCOM3_IO_1, PIO P_13, SDMMC0 SDMMC0_CD_]
+- R19 : PA14,  of Type IO, alternates : [PIO P_14, SPI0 SPI0_SPCK_, HSMC D_9, SSC1 TK_1, I2SC1 I2SC1_MCK_, FLEXCOM3 FLEXCOM3_IO_2, QSPI0 QSPI0_SCK_]
+- L17 : PA15,  of Type IO, alternates : [PIO P_15, HSMC D_10, QSPI0 QSPI0_CS_, FLEXCOM3 FLEXCOM3_IO_0, SSC1 TF_1, SPI0 SPI0_MOSI_, I2SC1 I2SC1_CK_]
+- N19 : PA16,  of Type IO, alternates : [PIO P_16, HSMC D_11, I2SC1 I2SC1_WS_, FLEXCOM3 FLEXCOM3_IO_3, SPI0 SPI0_MISO_, SSC1 TD_1, QSPI0 QSPI0_IO_0]
+- M16 : PA17,  of Type IO, alternates : [I2SC1 I2SC1_DI_0, PIO P_17, HSMC D_12, SPI0 SPI0_NPCS_0, FLEXCOM3 FLEXCOM3_IO_4, QSPI0 QSPI0_IO_1, SSC1 RD_1]
+- V19 : PA18,  of Type IO, alternates : [HSMC D_13, SSC1 RK_1, SPI0 SPI0_NPCS_1, I2SC1 I2SC1_DO_0, PIO P_18, QSPI0 QSPI0_IO_2, SDMMC1 SDMMC1_DAT_0]
+- V15 : PA19,  of Type IO, alternates : [SSC1 RF_1, SPI0 SPI0_NPCS_2, HSMC D_14, TC0 TIOA_0, QSPI0 QSPI0_IO_3, PIO P_19, SDMMC1 SDMMC1_DAT_1]
+- T10 : PA20,  of Type IO, alternates : [SPI0 SPI0_NPCS_3, HSMC D_15, TC0 TIOB_0, PIO P_20, SDMMC1 SDMMC1_DAT_2]
+- U19 : PA21,  of Type IO, alternates : [AIC IRQ_, PMC PCK_2, HSMC NANDRDY_, TC0 TCLK_0, PIO P_21, SDMMC1 SDMMC1_DAT_3]
+- V17 : PA22,  of Type IO, alternates : [PIO P_22, ICE TCK_, FLEXCOM1 FLEXCOM1_IO_2, HSMC D_0, SPI1 SPI1_SPCK_, SDMMC1 SDMMC1_CK_, QSPI0 QSPI0_SCK_]
+- U18 : PA23,  of Type IO, alternates : [ICE TDI_, PIO P_23, QSPI0 QSPI0_CS_, SPI1 SPI1_MOSI_, FLEXCOM1 FLEXCOM1_IO_1, HSMC D_1]
+- W17 : PA24,  of Type IO, alternates : [SPI1 SPI1_MISO_, FLEXCOM1 FLEXCOM1_IO_0, HSMC D_2, PIO P_24, ICE TDO_, QSPI0 QSPI0_IO_0]
+- W18 : PA25,  of Type IO, alternates : [PIO P_25, ICE TMS_, HSMC D_3, FLEXCOM1 FLEXCOM1_IO_3, SPI1 SPI1_NPCS_0, QSPI0 QSPI0_IO_1]
+- U14 : PA26,  of Type IO, alternates : [PIO P_26, ICE NTRST_, HSMC D_4, SPI1 SPI1_NPCS_1, FLEXCOM1 FLEXCOM1_IO_4, QSPI0 QSPI0_IO_2]
+- M18 : PA27,  of Type IO, alternates : [PIO P_27, SPI0 SPI0_NPCS_2, SDMMC1 SDMMC1_RSTN_, HSMC D_5, TC0 TIOA_1, QSPI0 QSPI0_IO_3, SPI1 SPI1_NPCS_2]
+- U13 : PA28,  of Type IO, alternates : [HSMC D_6, PIO P_28, SPI0 SPI0_NPCS_3, CLASSD CLASSD_L_0, SDMMC1 SDMMC1_CMD_, TC0 TIOB_1, SPI1 SPI1_NPCS_3]
+- U16 : PA29,  of Type IO, alternates : [HSMC D_7, TC0 TCLK_1, SDMMC1 SDMMC1_WP_, CLASSD CLASSD_L_1, SPI0 SPI0_NPCS_1, PIO P_29]
+- U12 : PA30,  of Type IO, alternates : [SPI0 SPI0_NPCS_0, PWM PWMH_0, CLASSD CLASSD_L_2, PIO P_30, HSMC NANDNWE_, SDMMC1 SDMMC1_CD_]
+- U17 : PA31,  of Type IO, alternates : [PWM PWML_0, HSMC NCS_3, CLASSD CLASSD_L_3, PIO P_31, SPI0 SPI0_MISO_]
+- C7 : PB0,  of Type IO, alternates : [PIO P_32, PWM PWMH_1, HSMC A21_, SPI0 SPI0_MOSI_]
+- A9 : PB1,  of Type IO, alternates : [SPI0 SPI0_SPCK_, PIO P_33, PWM PWML_1, HSMC A22_, CLASSD CLASSD_R_0]
+- A10 : PB2,  of Type IO, alternates : [PIO P_34, PWM PWMFI_0, CLASSD CLASSD_R_1, HSMC NANDOE_]
+- A11 : PB3,  of Type IO, alternates : [HSMC D_8, AIC IRQ_, PWM PWMEXTRG_1, PIO P_35, CLASSD CLASSD_R_2, UART4 URXD_4]
+- A12 : PB4,  of Type IO, alternates : [PIO P_36, HSMC D_9, SAIC FIQ_, UART4 UTXD_4, CLASSD CLASSD_R_3]
+- A7 : PB5,  of Type IO, alternates : [PIO P_37, HSMC D_10, PWM PWMH_2, QSPI1 QSPI1_SCK_, GMAC GTSUCOMP_, TC0 TCLK_2]
+- B7 : PB6,  of Type IO, alternates : [PIO P_38, HSMC D_11, QSPI1 QSPI1_CS_, GMAC GTXER_, PWM PWML_2, TC0 TIOA_2]
+- C5 : PB7,  of Type IO, alternates : [PIO P_39, QSPI1 QSPI1_IO_0, HSMC D_12, PWM PWMH_3, TC0 TIOB_2, GMAC GRXCK_]
+- B8 : PB8,  of Type IO, alternates : [QSPI1 QSPI1_IO_1, HSMC D_13, PIO P_40, PWM PWML_3, GMAC GCRS_, TC1 TCLK_3]
+- B6 : PB9,  of Type IO, alternates : [QSPI1 QSPI1_IO_2, HSMC D_14, GMAC GCOL_, PIO P_41, TC1 TIOA_3, PWM PWMFI_1]
+- G6 : PB10,  of Type IO, alternates : [GMAC GRX_2, PWM PWMEXTRG_2, QSPI1 QSPI1_IO_3, HSMC D_15, TC1 TIOB_3, PIO P_42]
+- B5 : PB11,  of Type IO, alternates : [GMAC GRX_3, PIO P_43, PDMIC PDMIC_DAT_, UART3 URXD_3, LCDC LCDDAT_0, HSMC A0_]
+- A6 : PB12,  of Type IO, alternates : [PDMIC PDMIC_CLK_, PIO P_44, UART3 UTXD_3, GMAC GTX_2, HSMC A_1, LCDC LCDDAT_1]
+- C4 : PB13,  of Type IO, alternates : [PMC PCK_1, PIO P_45, GMAC GTX_3, HSMC A_2, LCDC LCDDAT_2]
+- G4 : PB14,  of Type IO, alternates : [SSC1 TK_1, I2SC1 I2SC1_MCK_, LCDC LCDDAT_3, PIO P_46, HSMC A_3, QSPI1 QSPI1_SCK_, GMAC GTXCK_]
+- H4 : PB15,  of Type IO, alternates : [PIO P_47, LCDC LCDDAT_4, QSPI1 QSPI1_CS_, GMAC GTXEN_, HSMC A_4, SSC1 TF_1, I2SC1 I2SC1_CK_]
+- A4 : PB16,  of Type IO, alternates : [LCDC LCDDAT_5, PIO P_48, I2SC1 I2SC1_WS_, QSPI1 QSPI1_IO_0, HSMC A_5, GMAC GRXDV_, SSC1 TD_1]
+- B3 : PB17,  of Type IO, alternates : [LCDC LCDDAT_6, GMAC GRXER_, I2SC1 I2SC1_DI_0, PIO P_49, QSPI1 QSPI1_IO_1, HSMC A_6, SSC1 RD_1]
+- D3 : PB18,  of Type IO, alternates : [HSMC A_7, SSC1 RK_1, QSPI1 QSPI1_IO_2, LCDC LCDDAT_7, PIO P_50, I2SC1 I2SC1_DO_0, GMAC GRX_0]
+- F4 : PB19,  of Type IO, alternates : [SSC1 RF_1, QSPI1 QSPI1_IO_3, HSMC A_8, LCDC LCDDAT_8, PIO P_51, TC1 TIOA_3, GMAC GRX_1]
+- F2 : PB20,  of Type IO, alternates : [PMC PCK_1, HSMC A_9, LCDC LCDDAT_9, GMAC GTX_0, TC1 TIOB_3, PIO P_52, SSC0 TK_0]
+- F3 : PB21,  of Type IO, alternates : [SSC0 TF_0, FLEXCOM3 FLEXCOM3_IO_2, GMAC GTX_1, PIO P_53, HSMC A_10, LCDC LCDDAT_10, TC1 TCLK_3]
+- E4 : PB22,  of Type IO, alternates : [SSC0 TD_0, PIO P_54, FLEXCOM3 FLEXCOM3_IO_1, HSMC A_11, GMAC GMDC_, TC0 TIOA_2, LCDC LCDDAT_11]
+- H2 : PB23,  of Type IO, alternates : [SSC0 RD_0, GMAC GMDIO_, PIO P_55, FLEXCOM3 FLEXCOM3_IO_0, TC0 TIOB_2, HSMC A_12, LCDC LCDDAT_12]
+- A3 : PB24,  of Type IO, alternates : [PIO P_56, FLEXCOM3 FLEXCOM3_IO_3, ISC ISC_D_10, HSMC A_13, SSC0 RK_0, LCDC LCDDAT_13, TC0 TCLK_2]
+- H1 : PB25,  of Type IO, alternates : [ISC ISC_D_11, PIO P_57, HSMC A_14, LCDC LCDDAT_14, FLEXCOM3 FLEXCOM3_IO_4, SSC0 RF_0]
+- G2 : PB26,  of Type IO, alternates : [PIO P_58, ISC ISC_D_0, HSMC A_15, PDMIC PDMIC_DAT_, LCDC LCDDAT_15, UART0 URXD_0]
+- H5 : PB27,  of Type IO, alternates : [PIO P_59, ISC ISC_D_1, PDMIC PDMIC_CLK_, HSMC A_16, UART0 UTXD_0, LCDC LCDDAT_16]
+- J2 : PB28,  of Type IO, alternates : [ISC ISC_D_2, HSMC A_17, FLEXCOM0 FLEXCOM0_IO_0, LCDC LCDDAT_17, TC1 TIOA_5, PIO P_60]
+- J3 : PB29,  of Type IO, alternates : [ISC ISC_D_3, HSMC A_18, LCDC LCDDAT_18, FLEXCOM0 FLEXCOM0_IO_1, PIO P_61, TC1 TIOB_5]
+- A2 : PB30,  of Type IO, alternates : [HSMC A_19, LCDC LCDDAT_19, ISC ISC_D_4, FLEXCOM0 FLEXCOM0_IO_2, PIO P_62, TC1 TCLK_5]
+- J4 : PB31,  of Type IO, alternates : [TWIHS0 TWD_0, ISC ISC_D_5, FLEXCOM0 FLEXCOM0_IO_3, PIO P_63, HSMC A_20, LCDC LCDDAT_20]
+- T14 : PC0,  of Type IO, alternates : [TWIHS0 TWCK_0, ISC ISC_D_6, HSMC A_23, FLEXCOM0 FLEXCOM0_IO_4, PIO P_64, LCDC LCDDAT_21]
+- R16 : PC1,  of Type IO, alternates : [MCAN0 CANTX_0, I2SC0 I2SC0_CK_, PIO P_65, ISC ISC_D_7, HSMC A_24, SPI1 SPI1_SPCK_, LCDC LCDDAT_22]
+- T15 : PC2,  of Type IO, alternates : [MCAN0 CANRX_0, PIO P_66, SPI1 SPI1_MOSI_, HSMC A_25, ISC ISC_D_8, LCDC LCDDAT_23, I2SC0 I2SC0_MCK_]
+- T13 : PC3,  of Type IO, alternates : [SPI1 SPI1_MISO_, I2SC0 I2SC0_WS_, LCDC LCDPWM_, PIO P_67, TC0 TIOA_1, ISC ISC_D_9, HSMC NWAIT_]
+- P16 : PC4,  of Type IO, alternates : [ISC ISC_PCK_, LCDC LCDDISP_, I2SC0 I2SC0_DI_0, PIO P_68, SPI1 SPI1_NPCS_0, HSMC NWR1_, TC0 TIOB_1]
+- L19 : PC5,  of Type IO, alternates : [PIO P_69, ISC ISC_VSYNC_, TC0 TCLK_1, SPI1 SPI1_NPCS_1, HSMC NCS_0, I2SC0 I2SC0_DO_0, LCDC LCDVSYNC_]
+- R15 : PC6,  of Type IO, alternates : [LCDC LCDHSYNC_, TWIHS1 TWD_1, PIO P_70, ISC ISC_HSYNC_, SPI1 SPI1_NPCS_2]
+- N15 : PC7,  of Type IO, alternates : [LCDC LCDPCK_, TWIHS1 TWCK_1, ISC ISC_MCK_, UART1 URXD_1, HSMC NCS_2, SPI1 SPI1_NPCS_3, PIO P_71]
+- P11 : PC8,  of Type IO, alternates : [LCDC LCDDEN_, HSMC NANDRDY_, SAIC FIQ_, ISC ISC_FIELD_, UART1 UTXD_1, PIO P_72, PMC PCK_0]
+- B2 : PC9,  of Type IO, alternates : [SAIC FIQ_, ISC ISC_D_0, PIO P_73, TC1 TIOA_4, GMAC GTSUCOMP_]
+- K5 : PC10,  of Type IO, alternates : [MCAN0 CANTX_0, ISC ISC_D_1, TC1 TIOB_4, PIO P_74, LCDC LCDDAT_2, GMAC GTXCK_]
+- C2 : PC11,  of Type IO, alternates : [ISC ISC_D_2, LCDC LCDDAT_3, MCAN0 CANRX_0, GMAC GTXEN_, PIO P_75, HSMC A0_, TC1 TCLK_4]
+- D2 : PC12,  of Type IO, alternates : [ISC ISC_D_3, LCDC LCDDAT_4, PIO P_76, GMAC GRXDV_, HSMC A_1, UART3 URXD_3, SSC0 TK_0]
+- K2 : PC13,  of Type IO, alternates : [LCDC LCDDAT_5, GMAC GRXER_, SSC0 TF_0, PIO P_77, UART3 UTXD_3, ISC ISC_D_4, HSMC A_2]
+- K6 : PC14,  of Type IO, alternates : [LCDC LCDDAT_6, SSC0 TD_0, PIO P_78, ISC ISC_D_5, HSMC A_3, GMAC GRX_0]
+- B1 : PC15,  of Type IO, alternates : [SSC0 RD_0, ISC ISC_D_6, LCDC LCDDAT_7, PIO P_79, HSMC A_4, GMAC GRX_1]
+- K9 : PC16,  of Type IO, alternates : [ISC ISC_D_7, HSMC A_5, GMAC GTX_0, SSC0 RK_0, LCDC LCDDAT_10, PIO P_80]
+- C1 : PC17,  of Type IO, alternates : [HSMC A_6, GMAC GTX_1, ISC ISC_D_8, LCDC LCDDAT_11, SSC0 RF_0, PIO P_81]
+- L9 : PC18,  of Type IO, alternates : [HSMC A_7, FLEXCOM3 FLEXCOM3_IO_2, GMAC GMDC_, ISC ISC_D_9, LCDC LCDDAT_12, PIO P_82]
+- D1 : PC19,  of Type IO, alternates : [GMAC GMDIO_, HSMC A_8, FLEXCOM3 FLEXCOM3_IO_1, ISC ISC_D_10, PIO P_83, LCDC LCDDAT_13]
+- L8 : PC20,  of Type IO, alternates : [HSMC A_9, FLEXCOM3 FLEXCOM3_IO_0, ISC ISC_D_11, LCDC LCDDAT_14, PIO P_84, GMAC GRXCK_]
+- E3 : PC21,  of Type IO, alternates : [ISC ISC_PCK_, GMAC GTXER_, FLEXCOM3 FLEXCOM3_IO_3, LCDC LCDDAT_15, PIO P_85, HSMC A_10]
+- E2 : PC22,  of Type IO, alternates : [ISC ISC_VSYNC_, LCDC LCDDAT_18, HSMC A_11, FLEXCOM3 FLEXCOM3_IO_4, PIO P_86, GMAC GCRS_]
+- L7 : PC23,  of Type IO, alternates : [LCDC LCDDAT_19, PIO P_87, HSMC A_12, GMAC GCOL_, ISC ISC_HSYNC_]
+- E1 : PC24,  of Type IO, alternates : [GMAC GRX_2, ISC ISC_MCK_, PIO P_88, HSMC A_13, LCDC LCDDAT_20]
+- L4 : PC25,  of Type IO, alternates : [GMAC GRX_3, ISC ISC_FIELD_, PIO P_89, HSMC A_14, LCDC LCDDAT_21]
+- D6 : PC26,  of Type IO, alternates : [MCAN1 CANTX_1, HSMC A_15, GMAC GTX_2, LCDC LCDDAT_22, PIO P_90]
+- E7 : PC27,  of Type IO, alternates : [MCAN1 CANRX_1, PMC PCK_1, TWIHS0 TWD_0, HSMC A_16, GMAC GTX_3, LCDC LCDDAT_23, PIO P_91]
+- J5 : PC28,  of Type IO, alternates : [PMC PCK_2, TWIHS0 TWCK_0, HSMC A_17, LCDC LCDPWM_, FLEXCOM4 FLEXCOM4_IO_0, PIO P_92]
+- C6 : PC29,  of Type IO, alternates : [HSMC A_18, LCDC LCDDISP_, FLEXCOM4 FLEXCOM4_IO_1, PIO P_93]
+- D7 : PC30,  of Type IO, alternates : [HSMC A_19, PIO P_94, FLEXCOM4 FLEXCOM4_IO_2, LCDC LCDVSYNC_]
+- C8 : PC31,  of Type IO, alternates : [LCDC LCDHSYNC_, FLEXCOM4 FLEXCOM4_IO_3, PIO P_95, UART3 URXD_3, HSMC A_20]
+- J7 : PD0,  of Type IO, alternates : [LCDC LCDPCK_, UART3 UTXD_3, HSMC A_23, GMAC GTSUCOMP_, PIO P_96, FLEXCOM4 FLEXCOM4_IO_4]
+- D8 : PD1,  of Type IO, alternates : [LCDC LCDDEN_, HSMC A_24, PIO P_97, GMAC GRXCK_]
+- J6 : PD2,  of Type IO, alternates : [GMAC GTXER_, ISC ISC_MCK_, PIO P_98, HSMC A_25, UART1 URXD_1]
+- M3 : PD3,  of Type IO, alternates : [SAIC FIQ_, PIO P_99, ISC ISC_D_11, UART1 UTXD_1, HSMC NWAIT_, PTC PTC_X_0, GMAC GCRS_]
+- L6 : PD4,  of Type IO, alternates : [ISC ISC_D_10, HSMC NCS_0, GMAC GCOL_, TWIHS1 TWD_1, UART2 URXD_2, PIO P_100, PTC PTC_X_1]
+- L2 : PD5,  of Type IO, alternates : [TWIHS1 TWCK_1, GMAC GRX_2, UART2 UTXD_2, HSMC NCS_1, PIO P_101, ISC ISC_D_9, PTC PTC_X_2]
+- J1 : PD6,  of Type IO, alternates : [PMC PCK_1, GMAC GRX_3, ICE TCK_, PIO P_102, ISC ISC_D_8, HSMC NCS_2, PTC PTC_X_3]
+- L5 : PD7,  of Type IO, alternates : [ISC ISC_D_0, ICE TDI_, PIO P_103, PTC PTC_X_4, GMAC GTX_2, HSMC NWR1_]
+- K1 : PD8,  of Type IO, alternates : [HSMC NANDRDY_, ISC ISC_D_1, PTC PTC_X_5, ICE TDO_, GMAC GTX_3, PIO P_104]
+- L3 : PD9,  of Type IO, alternates : [ISC ISC_D_2, ICE TMS_, PTC PTC_X_6, PIO P_105, GMAC GTXCK_]
+- L1 : PD10,  of Type IO, alternates : [ISC ISC_D_3, ICE NTRST_, GMAC GTXEN_, PTC PTC_X_7, PIO P_106]
+- N3 : PD11,  of Type IO, alternates : [PMC PCK_2, ISC ISC_MCK_, ISC ISC_D_4, GMAC GRXDV_, TC0 TIOA_1, PIO P_107, PTC PTC_Y_0]
+- M7 : PD12,  of Type IO, alternates : [GMAC GRXER_, PIO P_108, ISC ISC_D_4, FLEXCOM4 FLEXCOM4_IO_0, ISC ISC_D_5, TC0 TIOB_1, PTC PTC_Y_1]
+- N2 : PD13,  of Type IO, alternates : [PIO P_109, TC0 TCLK_1, ISC ISC_D_6, FLEXCOM4 FLEXCOM4_IO_1, ISC ISC_D_5, GMAC GRX_0, PTC PTC_Y_2]
+- M6 : PD14,  of Type IO, alternates : [ISC ISC_D_6, PIO P_110, ISC ISC_D_7, ICE TCK_, FLEXCOM4 FLEXCOM4_IO_2, PTC PTC_Y_3, GMAC GRX_1]
+- M5 : PD15,  of Type IO, alternates : [ISC ISC_PCK_, ICE TDI_, ISC ISC_D_7, FLEXCOM4 FLEXCOM4_IO_3, GMAC GTX_0, PTC PTC_Y_4, PIO P_111]
+- M1 : PD16,  of Type IO, alternates : [ISC ISC_VSYNC_, GMAC GTX_1, ICE TDO_, ISC ISC_D_8, PIO P_112, FLEXCOM4 FLEXCOM4_IO_4, PTC PTC_Y_5]
+- M2 : PD17,  of Type IO, alternates : [ICE TMS_, PIO P_113, PTC PTC_Y_6, GMAC GMDC_, ISC ISC_D_9, ISC ISC_HSYNC_]
+- M4 : PD18,  of Type IO, alternates : [GMAC GMDIO_, ICE NTRST_, ISC ISC_FIELD_, PTC PTC_Y_7, ISC ISC_D_10, PIO P_114]
+- M8 : PD19,  of Type IO, alternates : [I2SC0 I2SC0_CK_, ISC ISC_D_11, TWIHS1 TWD_1, UART2 URXD_2, ADC AD_0, PIO P_115, PMC PCK_0]
+- N1 : PD20,  of Type IO, alternates : [ISC ISC_PCK_, TWIHS1 TWCK_1, UART2 UTXD_2, TC0 TIOA_2, PIO P_116, ADC AD_1, I2SC0 I2SC0_MCK_]
+- P3 : PD21,  of Type IO, alternates : [ISC ISC_VSYNC_, TWIHS0 TWD_0, I2SC0 I2SC0_WS_, FLEXCOM4 FLEXCOM4_IO_0, TC0 TIOB_2, ADC AD_2, PIO P_117]
+- N6 : PD22,  of Type IO, alternates : [TWIHS0 TWCK_0, FLEXCOM4 FLEXCOM4_IO_1, I2SC0 I2SC0_DI_0, PIO P_118, TC0 TCLK_2, ADC AD_3, ISC ISC_HSYNC_]
+- P1 : PD23,  of Type IO, alternates : [ADC AD_4, PIO P_119, ISC ISC_FIELD_, FLEXCOM4 FLEXCOM4_IO_2, UART2 URXD_2, I2SC0 I2SC0_DO_0]
+- N8 : PD24,  of Type IO, alternates : [ADC AD_5, UART2 UTXD_2, PIO P_120, FLEXCOM4 FLEXCOM4_IO_3]
+- P8 : PD25,  of Type IO, alternates : [ADC AD_6, PIO P_121, SPI1 SPI1_SPCK_, FLEXCOM4 FLEXCOM4_IO_4]
+- P2 : PD26,  of Type IO, alternates : [ADC AD_7, FLEXCOM2 FLEXCOM2_IO_0, SPI1 SPI1_MOSI_, PIO P_122]
+- N5 : PD27,  of Type IO, alternates : [SPI1 SPI1_MISO_, ADC AD_8, FLEXCOM2 FLEXCOM2_IO_1, ICE TCK_, PIO P_123]
+- N4 : PD28,  of Type IO, alternates : [ICE TDI_, ADC AD_9, FLEXCOM2 FLEXCOM2_IO_2, PIO P_124, SPI1 SPI1_NPCS_0]
+- R2 : PD29,  of Type IO, alternates : [TWIHS0 TWD_0, PIO P_125, SPI1 SPI1_NPCS_1, FLEXCOM2 FLEXCOM2_IO_3, ICE TDO_, TC1 TIOA_3, ADC AD_10]
+- N10 : PD30,  of Type IO, alternates : [TWIHS0 TWCK_0, ICE TMS_, TC1 TIOB_3, FLEXCOM2 FLEXCOM2_IO_4, ADC AD_11, PIO P_126, SPI1 SPI1_NPCS_2]
+- P7 : PD31,  of Type IO, alternates : [AIC IRQ_, ADC ADTRG_, ICE NTRST_, PIO P_127, TC1 TCLK_3, PMC PCK_0]
+- M9 : ADVREF,  of Type PS
+- G1 : VDDANA,  of Type PP
+- H6 : VDDANA,  of Type PP
+- F1 : GNDANA,  of Type PS
+- G5 : GNDANA,  of Type PS
+- M12 : DDR_VREF,  of Type PS
+- J10 : DDR_VREF,  of Type PS
+- C19 : ZQ,  of Type IO
+- E11 : VDDIODDR,  of Type PP
+- E8 : VDDIODDR,  of Type PP
+- H10 : VDDIODDR,  of Type PP
+- J13 : VDDIODDR,  of Type PP
+- J8 : VDDIODDR,  of Type PP
+- L10 : VDDIODDR,  of Type PP
+- P12 : VDDIODDR,  of Type PP
+- E10 : GNDIODDR,  of Type PS
+- F8 : GNDIODDR,  of Type PS
+- G10 : GNDIODDR,  of Type PS
+- J9 : GNDIODDR,  of Type PS
+- L11 : GNDIODDR,  of Type PS
+- M13 : GNDIODDR,  of Type PS
+- N12 : GNDIODDR,  of Type PS
+- C3 : VDDCORE,  of Type PP
+- C9 : VDDCORE,  of Type PP
+- K3 : VDDCORE,  of Type PP
+- U9 : VDDCORE,  of Type PP
+- V5 : VDDCORE,  of Type PP
+- W6 : VDDCORE,  of Type PP
+- K8 : VDDCORE,  of Type PP
+- A1 : GNDCORE,  of Type PS
+- D9 : GNDCORE,  of Type PS
+- J11 : GNDCORE,  of Type PS
+- K4 : GNDCORE,  of Type PS
+- K7 : GNDCORE,  of Type PS
+- V9 : GNDCORE,  of Type PS
+- W1 : GNDCORE,  of Type PS
+- B4 : VDDIOP0,  of Type PP
+- D5 : VDDIOP1,  of Type PP
+- A5 : GNDIOP0,  of Type PS
+- D4 : GNDIOP0,  of Type PS
+- V13 : VDDIOP1,  of Type PP
+- V18 : VDDIOP1,  of Type PP
+- P13 : GNDIOP1,  of Type PS
+- R13 : GNDIOP2,  of Type PS
+- W13 : GNDIOP3,  of Type PS
+- W19 : GNDIOP4,  of Type PS
+- A8 : VDDIOP2,  of Type PP
+- B9 : GNDIOP2,  of Type PS
+- T7 : VDDSDMMC,  of Type PP
+- T8 : GNDSDMMC,  of Type PS
+- G3 : VDDISC,  of Type PP
+- H3 : GNDISC,  of Type PS
+- U15 : VDDFUSE,  of Type PP
+- P9 : VDDPLLA,  of Type PP
+- P10 : GNDPLLA,  of Type PS
+- R6 : VDDAUDIOPLL,  of Type PP
+- N9 : GNDDPLL,  of Type PS
+- P6 : GNDAUDIOPLL,  of Type PS
+- W2 : CLK_AUDIO,  of Type IO
+- W5 : XIN,  of Type PS
+- W4 : XOUT,  of Type PS
+- R10 : VDDOSC,  of Type PP
+- T11 : GNDOSC,  of Type PS
+- R8 : VDDUTMII,  of Type PP
+- U7 : VDDHSIC,  of Type PP
+- R7 : GNDUTMII,  of Type PS
+- W7 : HHSDPA,  of Type IO
+- V7 : HHSDMA,  of Type IO
+- W8 : HHSDPB,  of Type IO
+- V8 : HHSDMB,  of Type IO
+- W9 : HHSDPDATC,  of Type IO
+- W10 : HHSDMSTRC,  of Type IO
+- T6 : VDDUTMIC,  of Type PP
+- U6 : GNDUTMIC,  of Type PS
+- V6 : VBG,  of Type IO
+- T2 : TST,  of Type IO
+- W3 : NRST,  of Type IP
+- T3 : JTAGSEL,  of Type OP
+- U2 : WKUP,  of Type IP
+- R1 : RXD,  of Type IP
+- P4 : SHDN,  of Type IO
+- R4 : PIOBU0,  of Type IO
+- R5 : PIOBU1,  of Type IO
+- R3 : PIOBU2,  of Type IO
+- T4 : PIOBU3,  of Type IO
+- U3 : PIOBU4,  of Type IO
+- T5 : PIOBU5,  of Type IO
+- U5 : PIOBU6,  of Type IO
+- P5 : PIOBU7,  of Type IO
+- V3 : VDDBU,  of Type PP
+- U4 : GNDBU,  of Type PS
+- U1 : XIN32,  of Type PS
+- T1 : XOUT32,  of Type PS
+- V1 : COMPP,  of Type IO
+- V2 : COMPN,  of Type IO
+- A14 : DDRM_VSS,  of Type PS
+- A19 : DDRM_VSS,  of Type PS
+- B14 : DDRM_VSS,  of Type PS
+- B18 : DDRM_VSS,  of Type PS
+- C14 : DDRM_VSS,  of Type PS
+- C18 : DDRM_VSS,  of Type PS
+- D14 : DDRM_VSS,  of Type PS
+- D18 : DDRM_VSS,  of Type PS
+- E14 : DDRM_VSS,  of Type PS
+- E18 : DDRM_VSS,  of Type PS
+- F14 : DDRM_VSS,  of Type PS
+- F18 : DDRM_VSS,  of Type PS
+- G14 : DDRM_VSS,  of Type PS
+- G18 : DDRM_VSS,  of Type PS
+- H14 : DDRM_VSS,  of Type PS
+- H18 : DDRM_VSS,  of Type PS
+- N14 : DDRM_VSS,  of Type PS
+- N17 : DDRM_VSS,  of Type PS
+- N18 : DDRM_VSS,  of Type PS
+- P14 : DDRM_VSS,  of Type PS
+- P18 : DDRM_VSS,  of Type PS
+- R14 : DDRM_VSS,  of Type PS
+- R18 : DDRM_VSS,  of Type PS
+- T18 : DDRM_VSS,  of Type PS
+- B15 : DDRM_VDD12,  of Type PP
+- B17 : DDRM_VDD13,  of Type PP
+- B19 : DDRM_VDD14,  of Type PP
+- D15 : DDRM_VDD15,  of Type PP
+- D17 : DDRM_VDD16,  of Type PP
+- D19 : DDRM_VDD17,  of Type PP
+- F15 : DDRM_VDD18,  of Type PP
+- F17 : DDRM_VDD19,  of Type PP
+- F19 : DDRM_VDD20,  of Type PP
+- H15 : DDRM_VDD21,  of Type PP
+- H17 : DDRM_VDD22,  of Type PP
+- H19 : DDRM_VDD23,  of Type PP
+- K15 : DDRM_VDD24,  of Type PP
+- K17 : DDRM_VDD25,  of Type PP
+- K19 : DDRM_VDD26,  of Type PP
+- M15 : DDRM_VDD27,  of Type PP
+- M17 : DDRM_VDD28,  of Type PP
+- M19 : DDRM_VDD29,  of Type PP
+- P15 : DDRM_VDD30,  of Type PP
+- P17 : DDRM_VDD31,  of Type PP
+- P19 : DDRM_VDD32,  of Type PP
+- T17 : DDRM_VDD33,  of Type PP
+- T19 : DDRM_VDD34,  of Type PP
+- B11 : DDRM_VDD18,  of Type PP
+- B13 : DDRM_VDD19,  of Type PP
+- D11 : DDRM_VDD20,  of Type PP
+- D13 : DDRM_VDD21,  of Type PP
+- K13 : DDRM_VDD22,  of Type PP
+- K16 : DDRM_VDD23,  of Type PP
+- A13 : NC,  of Type NC
+- A15 : NC,  of Type NC
+- A16 : NC,  of Type NC
+- A17 : NC,  of Type NC
+- A18 : NC,  of Type NC
+- B10 : NC,  of Type NC
+- B12 : NC,  of Type NC
+- B16 : NC,  of Type NC
+- C10 : NC,  of Type NC
+- C11 : NC,  of Type NC
+- C12 : NC,  of Type NC
+- C13 : NC,  of Type NC
+- C15 : NC,  of Type NC
+- C16 : NC,  of Type NC
+- C17 : NC,  of Type NC
+- D10 : NC,  of Type NC
+- D12 : NC,  of Type NC
+- D16 : NC,  of Type NC
+- E12 : NC,  of Type NC
+- E13 : NC,  of Type NC
+- E15 : NC,  of Type NC
+- E16 : NC,  of Type NC
+- E17 : NC,  of Type NC
+- E19 : NC,  of Type NC
+- E5 : NC,  of Type NC
+- E6 : NC,  of Type NC
+- E9 : NC,  of Type NC
+- F10 : NC,  of Type NC
+- F11 : NC,  of Type NC
+- F12 : NC,  of Type NC
+- F13 : NC,  of Type NC
+- F16 : NC,  of Type NC
+- F5 : NC,  of Type NC
+- F6 : NC,  of Type NC
+- F7 : NC,  of Type NC
+- F9 : NC,  of Type NC
+- G11 : NC,  of Type NC
+- G12 : NC,  of Type NC
+- G13 : NC,  of Type NC
+- G15 : NC,  of Type NC
+- G16 : NC,  of Type NC
+- G17 : NC,  of Type NC
+- G19 : NC,  of Type NC
+- G7 : NC,  of Type NC
+- G8 : NC,  of Type NC
+- G9 : NC,  of Type NC
+- H11 : NC,  of Type NC
+- H12 : NC,  of Type NC
+- H13 : NC,  of Type NC
+- H16 : NC,  of Type NC
+- H7 : NC,  of Type NC
+- H8 : NC,  of Type NC
+- H9 : NC,  of Type NC
+- J12 : NC,  of Type NC
+- J14 : NC,  of Type NC
+- J15 : NC,  of Type NC
+- J16 : NC,  of Type NC
+- J17 : NC,  of Type NC
+- J18 : NC,  of Type NC
+- J19 : NC,  of Type NC
+- K10 : NC,  of Type NC
+- K11 : NC,  of Type NC
+- K12 : NC,  of Type NC
+- K14 : NC,  of Type NC
+- L12 : NC,  of Type NC
+- L13 : NC,  of Type NC
+- L14 : NC,  of Type NC
+- L15 : NC,  of Type NC
+- L16 : NC,  of Type NC
+- M10 : NC,  of Type NC
+- M11 : NC,  of Type NC
+- M14 : NC,  of Type NC
+- N11 : NC,  of Type NC
+- N13 : NC,  of Type NC
+- N16 : NC,  of Type NC
+- N7 : NC,  of Type NC
+- R11 : NC,  of Type NC
+- R12 : NC,  of Type NC
+- R17 : NC,  of Type NC
+- T12 : NC,  of Type NC
+- T9 : NC,  of Type NC
+- U10 : NC,  of Type NC
+- U11 : NC,  of Type NC
+- U8 : NC,  of Type NC
+- V4 : NC,  of Type NC

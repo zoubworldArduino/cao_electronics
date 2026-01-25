@@ -2,7 +2,7 @@ ACCEL_ASCII "C:\USERS\PUBLIC\SNAPEDA\ALTIUM.LIA"
 
 (asciiHeader
   (asciiVersion 5 0)
-  (fileAuthor "(c) 20251229 zoubata ")
+  (fileAuthor "(c) 20260125 zoubata ")
   (copyright "This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA) with Design Exception 1.0")
   (fileUnits mm)
 )
@@ -671,6 +671,7 @@ ACCEL_ASCII "C:\USERS\PUBLIC\SNAPEDA\ALTIUM.LIA"
     (attr "Architecture" "AVR8X" (pt -12.7 18.78) (justify LowerLeft) (isVisible True) (textStyleRef "(PinStyle)"))
     (attr "PINOUT" "QFN48" (pt -12.7 18.78) (justify LowerLeft) (isVisible True) (textStyleRef "(PinStyle)"))
     (attr "Reference" "U" (pt -12.7 18.78) (justify LowerLeft) (isVisible True) (textStyleRef "(PinStyle)"))
+    (attr "Documentation" "https://www.microchip.com/en-us/search?q=AVR32DA48" (pt -12.7 18.78) (justify LowerLeft) (isVisible True) (textStyleRef "(PinStyle)"))
     (attr "Value" "AVR32DA48" (pt -12.7 18.78) (justify LowerLeft) (isVisible True) (textStyleRef "(PinStyle)"))
     (attr "Family" "AVR DA" (pt -12.7 18.78) (justify LowerLeft) (isVisible True) (textStyleRef "(PinStyle)"))
     (attr "MF" "Microchip" (pt -12.7 18.78) (justify LowerLeft) (isVisible True) (textStyleRef "(PinStyle)"))
@@ -1281,6 +1282,7 @@ ACCEL_ASCII "C:\USERS\PUBLIC\SNAPEDA\ALTIUM.LIA"
     (attr "Architecture" "AVR8X" (pt -12.7 18.78) (justify LowerLeft) (isVisible True) (textStyleRef "(PinStyle)"))
     (attr "PINOUT" "SOIC28" (pt -12.7 18.78) (justify LowerLeft) (isVisible True) (textStyleRef "(PinStyle)"))
     (attr "Reference" "U" (pt -12.7 18.78) (justify LowerLeft) (isVisible True) (textStyleRef "(PinStyle)"))
+    (attr "Documentation" "https://www.microchip.com/en-us/search?q=AVR32DA28" (pt -12.7 18.78) (justify LowerLeft) (isVisible True) (textStyleRef "(PinStyle)"))
     (attr "Value" "AVR32DA28" (pt -12.7 18.78) (justify LowerLeft) (isVisible True) (textStyleRef "(PinStyle)"))
     (attr "Family" "AVR DA" (pt -12.7 18.78) (justify LowerLeft) (isVisible True) (textStyleRef "(PinStyle)"))
     (attr "MF" "Microchip" (pt -12.7 18.78) (justify LowerLeft) (isVisible True) (textStyleRef "(PinStyle)"))
@@ -1875,6 +1877,7 @@ ACCEL_ASCII "C:\USERS\PUBLIC\SNAPEDA\ALTIUM.LIA"
     (attr "Architecture" "AVR8X" (pt -12.7 18.78) (justify LowerLeft) (isVisible True) (textStyleRef "(PinStyle)"))
     (attr "PINOUT" "QFN32" (pt -12.7 18.78) (justify LowerLeft) (isVisible True) (textStyleRef "(PinStyle)"))
     (attr "Reference" "U" (pt -12.7 18.78) (justify LowerLeft) (isVisible True) (textStyleRef "(PinStyle)"))
+    (attr "Documentation" "https://www.microchip.com/en-us/search?q=AVR32DA32" (pt -12.7 18.78) (justify LowerLeft) (isVisible True) (textStyleRef "(PinStyle)"))
     (attr "Value" "AVR32DA32" (pt -12.7 18.78) (justify LowerLeft) (isVisible True) (textStyleRef "(PinStyle)"))
     (attr "Family" "AVR DA" (pt -12.7 18.78) (justify LowerLeft) (isVisible True) (textStyleRef "(PinStyle)"))
     (attr "MF" "Microchip" (pt -12.7 18.78) (justify LowerLeft) (isVisible True) (textStyleRef "(PinStyle)"))
