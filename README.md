@@ -15,7 +15,7 @@ I try to define all symbol, with input, output, and supply and other pins.
 the symbol description offer a good quality.
 
 ## footprint
-today foot print isn't supported because I haven't build that database forr that.
+today foot print isn't supported because I haven't build that database for that.
 
 
 # supported format
@@ -24,10 +24,15 @@ below you will see format supported :
 
 ## Kicad
 [see for supported list](part-list.md)
+I use kicad so I test some symbols. it works on kicad v6.
+
 ## Altium
 [see for supported list](part-list.md)
+I have no licence, I just try on 30 day eval period, once.
 ## Proteus
 [see for supported list](part-list.md)
+I have no licence, I just try on 30 day eval period, once.
+
 # road map
 Q4-2024 a first beta realease with a large list of symbol working with Kicad.(without footprint)
 xx-xxxx try to support last MCU introduced by microchip within the quarter that follow the support of MPlab.
