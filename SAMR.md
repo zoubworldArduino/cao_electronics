@@ -17,6 +17,13 @@
 
 ### Package : 
 
+- Package id : 	 [C04-21402A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 S8B
+- Package Type : 	 VQFN
+- Pin count : 	 32,00
+- Package Layout : 	 [C04-21402A](./mchp/packages/C04-21402A.pdf)
+- Package 3d model scad : 	 [C04-21402A](./Model3d/scad/C04-21402A.scad)
+please verify some data are inconsistante 	 
 Pin count : 50
 - 1 : XTAL2,  of Type PS
 - 2 : XTAL1,  of Type PS
@@ -86,6 +93,13 @@ Pin count : 50
 
 ### Package : 
 
+- Package id : 	 [C04-21402A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 S8B
+- Package Type : 	 VQFN
+- Pin count : 	 32,00
+- Package Layout : 	 [C04-21402A](./mchp/packages/C04-21402A.pdf)
+- Package 3d model scad : 	 [C04-21402A](./Model3d/scad/C04-21402A.scad)
+please verify some data are inconsistante 	 
 Pin count : 50
 - 1 : XTAL2,  of Type PS
 - 2 : XTAL1,  of Type PS
@@ -155,6 +169,13 @@ Pin count : 50
 
 ### Package : 
 
+- Package id : 	 [C04-21402A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 S8B
+- Package Type : 	 VQFN
+- Pin count : 	 32,00
+- Package Layout : 	 [C04-21402A](./mchp/packages/C04-21402A.pdf)
+- Package 3d model scad : 	 [C04-21402A](./Model3d/scad/C04-21402A.scad)
+please verify some data are inconsistante 	 
 Pin count : 50
 - 1 : XTAL2,  of Type PS
 - 2 : XTAL1,  of Type PS
@@ -224,6 +245,13 @@ Pin count : 50
 
 ### Package : 
 
+- Package id : 	 [C04-21402A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 S8B
+- Package Type : 	 VQFN
+- Pin count : 	 32,00
+- Package Layout : 	 [C04-21402A](./mchp/packages/C04-21402A.pdf)
+- Package 3d model scad : 	 [C04-21402A](./Model3d/scad/C04-21402A.scad)
+please verify some data are inconsistante 	 
 Pin count : 50
 - 1 : XTAL2,  of Type PS
 - 2 : XTAL1,  of Type PS
@@ -293,6 +321,13 @@ Pin count : 50
 
 ### Package : 
 
+- Package id : 	 [C04-21402A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 S8B
+- Package Type : 	 VQFN
+- Pin count : 	 32,00
+- Package Layout : 	 [C04-21402A](./mchp/packages/C04-21402A.pdf)
+- Package 3d model scad : 	 [C04-21402A](./Model3d/scad/C04-21402A.scad)
+please verify some data are inconsistante 	 
 Pin count : 50
 - 1 : XTAL2,  of Type PS
 - 2 : XTAL1,  of Type PS
@@ -362,6 +397,13 @@ Pin count : 50
 
 ### Package : 
 
+- Package id : 	 [C04-21402A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 S8B
+- Package Type : 	 VQFN
+- Pin count : 	 32,00
+- Package Layout : 	 [C04-21402A](./mchp/packages/C04-21402A.pdf)
+- Package 3d model scad : 	 [C04-21402A](./Model3d/scad/C04-21402A.scad)
+please verify some data are inconsistante 	 
 Pin count : 50
 - 1 : XTAL2,  of Type PS
 - 2 : XTAL1,  of Type PS
@@ -431,6 +473,13 @@ Pin count : 50
 
 ### Package : 
 
+- Package id : 	 [C04-21369A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 R2B
+- Package Type : 	 TQFN
+- Pin count : 	 32,00
+- Package Layout : 	 [C04-21369A](./mchp/packages/C04-21369A.pdf)
+- Package 3d model scad : 	 [C04-21369A](./Model3d/scad/C04-21369A.scad)
+please verify some data are inconsistante 	 
 Pin count : 56
 - 1 : XTAL2,  of Type PS
 - 2 : XTAL1,  of Type PS
@@ -506,6 +555,13 @@ Pin count : 56
 
 ### Package : 
 
+- Package id : 	 [C04-21424A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 T2B
+- Package Type : 	 VQFN
+- Pin count : 	 48,00
+- Package Layout : 	 [C04-21424A](./mchp/packages/C04-21424A.pdf)
+- Package 3d model scad : 	 [C04-21424A](./Model3d/scad/C04-21424A.scad)
+please verify some data are inconsistante 	 
 Pin count : 66
 - 1 : PA00,  of Type IO, alternates : [EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, TCC2 WO_0, SYSCTRL XIN32_]
 - 2 : PA01,  of Type IO, alternates : [EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, SYSCTRL XOUT32_, TCC2 WO_1]
@@ -591,6 +647,13 @@ Pin count : 66
 
 ### Package : 
 
+- Package id : 	 [C04-21424A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 T2B
+- Package Type : 	 VQFN
+- Pin count : 	 48,00
+- Package Layout : 	 [C04-21424A](./mchp/packages/C04-21424A.pdf)
+- Package 3d model scad : 	 [C04-21424A](./Model3d/scad/C04-21424A.scad)
+please verify some data are inconsistante 	 
 Pin count : 66
 - 1 : PA00,  of Type IO, alternates : [EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, TCC2 WO_0, SYSCTRL XIN32_]
 - 2 : PA01,  of Type IO, alternates : [EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, SYSCTRL XOUT32_, TCC2 WO_1]
@@ -676,6 +739,13 @@ Pin count : 66
 
 ### Package : 
 
+- Package id : 	 [C04-21424A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 T2B
+- Package Type : 	 VQFN
+- Pin count : 	 48,00
+- Package Layout : 	 [C04-21424A](./mchp/packages/C04-21424A.pdf)
+- Package 3d model scad : 	 [C04-21424A](./Model3d/scad/C04-21424A.scad)
+please verify some data are inconsistante 	 
 Pin count : 66
 - 1 : PA00,  of Type IO, alternates : [EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, TCC2 WO_0, SYSCTRL XIN32_]
 - 2 : PA01,  of Type IO, alternates : [EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, SYSCTRL XOUT32_, TCC2 WO_1]
@@ -761,6 +831,13 @@ Pin count : 66
 
 ### Package : 
 
+- Package id : 	 [C04-21424A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 T2B
+- Package Type : 	 VQFN
+- Pin count : 	 48,00
+- Package Layout : 	 [C04-21424A](./mchp/packages/C04-21424A.pdf)
+- Package 3d model scad : 	 [C04-21424A](./Model3d/scad/C04-21424A.scad)
+please verify some data are inconsistante 	 
 Pin count : 66
 - 1 : PA00,  of Type IO, alternates : [EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, TCC2 WO_0, SYSCTRL XIN32_]
 - 2 : PA01,  of Type IO, alternates : [EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, SYSCTRL XOUT32_, TCC2 WO_1]
@@ -846,6 +923,13 @@ Pin count : 66
 
 ### Package : 
 
+- Package id : 	 [C04-21424A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 T2B
+- Package Type : 	 VQFN
+- Pin count : 	 48,00
+- Package Layout : 	 [C04-21424A](./mchp/packages/C04-21424A.pdf)
+- Package 3d model scad : 	 [C04-21424A](./Model3d/scad/C04-21424A.scad)
+please verify some data are inconsistante 	 
 Pin count : 66
 - 1 : PA00,  of Type IO, alternates : [EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, TCC2 WO_0, SYSCTRL XIN32_]
 - 2 : PA01,  of Type IO, alternates : [EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, SYSCTRL XOUT32_, TCC2 WO_1]
@@ -931,6 +1015,13 @@ Pin count : 66
 
 ### Package : 
 
+- Package id : 	 [C04-21424A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 T2B
+- Package Type : 	 VQFN
+- Pin count : 	 48,00
+- Package Layout : 	 [C04-21424A](./mchp/packages/C04-21424A.pdf)
+- Package 3d model scad : 	 [C04-21424A](./Model3d/scad/C04-21424A.scad)
+please verify some data are inconsistante 	 
 Pin count : 66
 - 1 : PA00,  of Type IO, alternates : [EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, TCC2 WO_0, SYSCTRL XIN32_]
 - 2 : PA01,  of Type IO, alternates : [EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, SYSCTRL XOUT32_, TCC2 WO_1]
@@ -1016,6 +1107,13 @@ Pin count : 66
 
 ### Package : 
 
+- Package id : 	 [C04-21402A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 S8B
+- Package Type : 	 VQFN
+- Pin count : 	 32,00
+- Package Layout : 	 [C04-21402A](./mchp/packages/C04-21402A.pdf)
+- Package 3d model scad : 	 [C04-21402A](./Model3d/scad/C04-21402A.scad)
+please verify some data are inconsistante 	 
 Pin count : 52
 - 1 : XTAL2,  of Type PS
 - 2 : XTAL1,  of Type PS
@@ -1087,6 +1185,13 @@ Pin count : 52
 
 ### Package : 
 
+- Package id : 	 [C04-21424A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 T2B
+- Package Type : 	 VQFN
+- Pin count : 	 48,00
+- Package Layout : 	 [C04-21424A](./mchp/packages/C04-21424A.pdf)
+- Package 3d model scad : 	 [C04-21424A](./Model3d/scad/C04-21424A.scad)
+please verify some data are inconsistante 	 
 Pin count : 65
 - 1 : PA00,  of Type IO, alternates : [OSC32KCTRL XIN32_, EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, TCC2 WO_0, RSTC EXTWAKE_0]
 - 2 : PA01,  of Type IO, alternates : [EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, RSTC EXTWAKE_1, OSC32KCTRL XOUT32_, TCC2 WO_1]

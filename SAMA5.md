@@ -17,6 +17,14 @@
 
 ### Package : 
 
+- Package id : 	 [C04-21141A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 BAB
+- Package Type : 	 TFBGA
+- Pin count : 	 196,00
+- Package Layout : 	 [C04-21141A](./mchp/packages/C04-21141A.pdf)
+- Package 3d model wrl : 	 [C04-21141A](./Model3d/wrl/C04-21141A.wrl)
+- Package 3d model x3d : 	 [C04-21141A](./Model3d/x3d/C04-21141A.x3d)
+- Package 3d model scad : 	 [C04-21141A](./Model3d/scad/C04-21141A.scad)
 Pin count : 196
 - L9 : PA18,  of Type IO, alternates : [HSMC D_13, SSC1 RK_1, SPI0 SPI0_NPCS_1, I2SC1 I2SC1_DO_0, PIO P_18, QSPI0 QSPI0_IO_2, SDMMC1 SDMMC1_DAT_0]
 - N9 : PA19,  of Type IO, alternates : [SSC1 RF_1, SPI0 SPI0_NPCS_2, HSMC D_14, TC0 TIOA_0, QSPI0 QSPI0_IO_3, PIO P_19, SDMMC1 SDMMC1_DAT_1]
@@ -232,6 +240,14 @@ Pin count : 196
 
 ### Package : 
 
+- Package id : 	 [C04-21141A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 BAB
+- Package Type : 	 TFBGA
+- Pin count : 	 196,00
+- Package Layout : 	 [C04-21141A](./mchp/packages/C04-21141A.pdf)
+- Package 3d model wrl : 	 [C04-21141A](./Model3d/wrl/C04-21141A.wrl)
+- Package 3d model x3d : 	 [C04-21141A](./Model3d/x3d/C04-21141A.x3d)
+- Package 3d model scad : 	 [C04-21141A](./Model3d/scad/C04-21141A.scad)
 Pin count : 196
 - L9 : PA18,  of Type IO, alternates : [HSMC D_13, SSC1 RK_1, SPI0 SPI0_NPCS_1, I2SC1 I2SC1_DO_0, PIO P_18, QSPI0 QSPI0_IO_2, SDMMC1 SDMMC1_DAT_0]
 - N9 : PA19,  of Type IO, alternates : [SSC1 RF_1, SPI0 SPI0_NPCS_2, HSMC D_14, TC0 TIOA_0, QSPI0 QSPI0_IO_3, PIO P_19, SDMMC1 SDMMC1_DAT_1]
@@ -662,6 +678,14 @@ Pin count : 196
 
 ### Package : 
 
+- Package id : 	 [C04-21141A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 BAB
+- Package Type : 	 TFBGA
+- Pin count : 	 196,00
+- Package Layout : 	 [C04-21141A](./mchp/packages/C04-21141A.pdf)
+- Package 3d model wrl : 	 [C04-21141A](./Model3d/wrl/C04-21141A.wrl)
+- Package 3d model x3d : 	 [C04-21141A](./Model3d/x3d/C04-21141A.x3d)
+- Package 3d model scad : 	 [C04-21141A](./Model3d/scad/C04-21141A.scad)
 Pin count : 196
 - L9 : PA18,  of Type IO, alternates : [HSMC D_13, SSC1 RK_1, SPI0 SPI0_NPCS_1, I2SC1 I2SC1_DO_0, PIO P_18, QSPI0 QSPI0_IO_2, SDMMC1 SDMMC1_DAT_0]
 - N9 : PA19,  of Type IO, alternates : [SSC1 RF_1, SPI0 SPI0_NPCS_2, HSMC D_14, TC0 TIOA_0, QSPI0 QSPI0_IO_3, PIO P_19, SDMMC1 SDMMC1_DAT_1]
@@ -877,6 +901,14 @@ Pin count : 196
 
 ### Package : 
 
+- Package id : 	 [C04-21141A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 BAB
+- Package Type : 	 TFBGA
+- Pin count : 	 196,00
+- Package Layout : 	 [C04-21141A](./mchp/packages/C04-21141A.pdf)
+- Package 3d model wrl : 	 [C04-21141A](./Model3d/wrl/C04-21141A.wrl)
+- Package 3d model x3d : 	 [C04-21141A](./Model3d/x3d/C04-21141A.x3d)
+- Package 3d model scad : 	 [C04-21141A](./Model3d/scad/C04-21141A.scad)
 Pin count : 196
 - L9 : PA18,  of Type IO, alternates : [HSMC D_13, SSC1 RK_1, SPI0 SPI0_NPCS_1, I2SC1 I2SC1_DO_0, PIO P_18, QSPI0 QSPI0_IO_2, SDMMC1 SDMMC1_DAT_0]
 - N9 : PA19,  of Type IO, alternates : [SSC1 RF_1, SPI0 SPI0_NPCS_2, HSMC D_14, TC0 TIOA_0, QSPI0 QSPI0_IO_3, PIO P_19, SDMMC1 SDMMC1_DAT_1]
@@ -1092,6 +1124,14 @@ Pin count : 196
 
 ### Package : 
 
+- Package id : 	 [C04-21141A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 BAB
+- Package Type : 	 TFBGA
+- Pin count : 	 196,00
+- Package Layout : 	 [C04-21141A](./mchp/packages/C04-21141A.pdf)
+- Package 3d model wrl : 	 [C04-21141A](./Model3d/wrl/C04-21141A.wrl)
+- Package 3d model x3d : 	 [C04-21141A](./Model3d/x3d/C04-21141A.x3d)
+- Package 3d model scad : 	 [C04-21141A](./Model3d/scad/C04-21141A.scad)
 Pin count : 196
 - L9 : PA18,  of Type IO, alternates : [HSMC D_13, SSC1 RK_1, SPI0 SPI0_NPCS_1, I2SC1 I2SC1_DO_0, PIO P_18, QSPI0 QSPI0_IO_2, SDMMC1 SDMMC1_DAT_0]
 - N9 : PA19,  of Type IO, alternates : [SSC1 RF_1, SPI0 SPI0_NPCS_2, HSMC D_14, TC0 TIOA_0, QSPI0 QSPI0_IO_3, PIO P_19, SDMMC1 SDMMC1_DAT_1]
@@ -1307,6 +1347,14 @@ Pin count : 196
 
 ### Package : 
 
+- Package id : 	 [C04-21141A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 BAB
+- Package Type : 	 TFBGA
+- Pin count : 	 196,00
+- Package Layout : 	 [C04-21141A](./mchp/packages/C04-21141A.pdf)
+- Package 3d model wrl : 	 [C04-21141A](./Model3d/wrl/C04-21141A.wrl)
+- Package 3d model x3d : 	 [C04-21141A](./Model3d/x3d/C04-21141A.x3d)
+- Package 3d model scad : 	 [C04-21141A](./Model3d/scad/C04-21141A.scad)
 Pin count : 196
 - L9 : PA18,  of Type IO, alternates : [HSMC D_13, SSC1 RK_1, SPI0 SPI0_NPCS_1, I2SC1 I2SC1_DO_0, PIO P_18, QSPI0 QSPI0_IO_2, SDMMC1 SDMMC1_DAT_0]
 - N9 : PA19,  of Type IO, alternates : [SSC1 RF_1, SPI0 SPI0_NPCS_2, HSMC D_14, TC0 TIOA_0, QSPI0 QSPI0_IO_3, PIO P_19, SDMMC1 SDMMC1_DAT_1]
@@ -1522,6 +1570,14 @@ Pin count : 196
 
 ### Package : 
 
+- Package id : 	 [C04-21141A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 BAB
+- Package Type : 	 TFBGA
+- Pin count : 	 196,00
+- Package Layout : 	 [C04-21141A](./mchp/packages/C04-21141A.pdf)
+- Package 3d model wrl : 	 [C04-21141A](./Model3d/wrl/C04-21141A.wrl)
+- Package 3d model x3d : 	 [C04-21141A](./Model3d/x3d/C04-21141A.x3d)
+- Package 3d model scad : 	 [C04-21141A](./Model3d/scad/C04-21141A.scad)
 Pin count : 196
 - L9 : PA18,  of Type IO, alternates : [HSMC D_13, SSC1 RK_1, SPI0 SPI0_NPCS_1, I2SC1 I2SC1_DO_0, PIO P_18, QSPI0 QSPI0_IO_2, SDMMC1 SDMMC1_DAT_0]
 - N9 : PA19,  of Type IO, alternates : [SSC1 RF_1, SPI0 SPI0_NPCS_2, HSMC D_14, TC0 TIOA_0, QSPI0 QSPI0_IO_3, PIO P_19, SDMMC1 SDMMC1_DAT_1]
@@ -1737,6 +1793,14 @@ Pin count : 196
 
 ### Package : 
 
+- Package id : 	 [C04-21141A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 BAB
+- Package Type : 	 TFBGA
+- Pin count : 	 196,00
+- Package Layout : 	 [C04-21141A](./mchp/packages/C04-21141A.pdf)
+- Package 3d model wrl : 	 [C04-21141A](./Model3d/wrl/C04-21141A.wrl)
+- Package 3d model x3d : 	 [C04-21141A](./Model3d/x3d/C04-21141A.x3d)
+- Package 3d model scad : 	 [C04-21141A](./Model3d/scad/C04-21141A.scad)
 Pin count : 196
 - L9 : PA18,  of Type IO, alternates : [HSMC D_13, SSC1 RK_1, SPI0 SPI0_NPCS_1, I2SC1 I2SC1_DO_0, PIO P_18, QSPI0 QSPI0_IO_2, SDMMC1 SDMMC1_DAT_0]
 - N9 : PA19,  of Type IO, alternates : [SSC1 RF_1, SPI0 SPI0_NPCS_2, HSMC D_14, TC0 TIOA_0, QSPI0 QSPI0_IO_3, PIO P_19, SDMMC1 SDMMC1_DAT_1]
@@ -1952,6 +2016,14 @@ Pin count : 196
 
 ### Package : 
 
+- Package id : 	 [C04-21141A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 BAB
+- Package Type : 	 TFBGA
+- Pin count : 	 196,00
+- Package Layout : 	 [C04-21141A](./mchp/packages/C04-21141A.pdf)
+- Package 3d model wrl : 	 [C04-21141A](./Model3d/wrl/C04-21141A.wrl)
+- Package 3d model x3d : 	 [C04-21141A](./Model3d/x3d/C04-21141A.x3d)
+- Package 3d model scad : 	 [C04-21141A](./Model3d/scad/C04-21141A.scad)
 Pin count : 196
 - L9 : PA18,  of Type IO, alternates : [HSMC D_13, SSC1 RK_1, SPI0 SPI0_NPCS_1, I2SC1 I2SC1_DO_0, PIO P_18, QSPI0 QSPI0_IO_2, SDMMC1 SDMMC1_DAT_0]
 - N9 : PA19,  of Type IO, alternates : [SSC1 RF_1, SPI0 SPI0_NPCS_2, HSMC D_14, TC0 TIOA_0, QSPI0 QSPI0_IO_3, PIO P_19, SDMMC1 SDMMC1_DAT_1]
@@ -2167,6 +2239,14 @@ Pin count : 196
 
 ### Package : 
 
+- Package id : 	 [C04-21141A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 BAB
+- Package Type : 	 TFBGA
+- Pin count : 	 196,00
+- Package Layout : 	 [C04-21141A](./mchp/packages/C04-21141A.pdf)
+- Package 3d model wrl : 	 [C04-21141A](./Model3d/wrl/C04-21141A.wrl)
+- Package 3d model x3d : 	 [C04-21141A](./Model3d/x3d/C04-21141A.x3d)
+- Package 3d model scad : 	 [C04-21141A](./Model3d/scad/C04-21141A.scad)
 Pin count : 196
 - L9 : PA18,  of Type IO, alternates : [HSMC D_13, SSC1 RK_1, SPI0 SPI0_NPCS_1, I2SC1 I2SC1_DO_0, PIO P_18, QSPI0 QSPI0_IO_2, SDMMC1 SDMMC1_DAT_0]
 - N9 : PA19,  of Type IO, alternates : [SSC1 RF_1, SPI0 SPI0_NPCS_2, HSMC D_14, TC0 TIOA_0, QSPI0 QSPI0_IO_3, PIO P_19, SDMMC1 SDMMC1_DAT_1]
@@ -2382,6 +2462,14 @@ Pin count : 196
 
 ### Package : 
 
+- Package id : 	 [C04-21133A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 AYB
+- Package Type : 	 TFBGA
+- Pin count : 	 256,00
+- Package Layout : 	 [C04-21133A](./mchp/packages/C04-21133A.pdf)
+- Package 3d model wrl : 	 [C04-21133A](./Model3d/wrl/C04-21133A.wrl)
+- Package 3d model x3d : 	 [C04-21133A](./Model3d/x3d/C04-21133A.x3d)
+- Package 3d model scad : 	 [C04-21133A](./Model3d/scad/C04-21133A.scad)
 Pin count : 256
 - R10 : PA0,  of Type IO, alternates : [HSMC D_0, PIO P_0, SDMMC0 SDMMC0_CK_, QSPI0 QSPI0_SCK_]
 - R9 : PA1,  of Type IO, alternates : [SDMMC0 SDMMC0_CMD_, PIO P_1, QSPI0 QSPI0_CS_, HSMC D_1]
@@ -2657,6 +2745,14 @@ Pin count : 256
 
 ### Package : 
 
+- Package id : 	 [C04-21133A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 AYB
+- Package Type : 	 TFBGA
+- Pin count : 	 256,00
+- Package Layout : 	 [C04-21133A](./mchp/packages/C04-21133A.pdf)
+- Package 3d model wrl : 	 [C04-21133A](./Model3d/wrl/C04-21133A.wrl)
+- Package 3d model x3d : 	 [C04-21133A](./Model3d/x3d/C04-21133A.x3d)
+- Package 3d model scad : 	 [C04-21133A](./Model3d/scad/C04-21133A.scad)
 Pin count : 256
 - R10 : PA0,  of Type IO, alternates : [HSMC D_0, PIO P_0, SDMMC0 SDMMC0_CK_, QSPI0 QSPI0_SCK_]
 - R9 : PA1,  of Type IO, alternates : [SDMMC0 SDMMC0_CMD_, PIO P_1, QSPI0 QSPI0_CS_, HSMC D_1]
@@ -2932,6 +3028,14 @@ Pin count : 256
 
 ### Package : 
 
+- Package id : 	 [C04-21124A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 AMB
+- Package Type : 	 LFBGA
+- Pin count : 	 289,00
+- Package Layout : 	 [C04-21124A](./mchp/packages/C04-21124A.pdf)
+- Package 3d model wrl : 	 [C04-21124A](./Model3d/wrl/C04-21124A.wrl)
+- Package 3d model x3d : 	 [C04-21124A](./Model3d/x3d/C04-21124A.x3d)
+- Package 3d model scad : 	 [C04-21124A](./Model3d/scad/C04-21124A.scad)
 Pin count : 289
 - U11 : PA0,  of Type IO, alternates : [HSMC D_0, PIO P_0, SDMMC0 SDMMC0_CK_, QSPI0 QSPI0_SCK_]
 - P10 : PA1,  of Type IO, alternates : [SDMMC0 SDMMC0_CMD_, PIO P_1, QSPI0 QSPI0_CS_, HSMC D_1]
@@ -3240,6 +3344,14 @@ Pin count : 289
 
 ### Package : 
 
+- Package id : 	 [C04-21124A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 AMB
+- Package Type : 	 LFBGA
+- Pin count : 	 289,00
+- Package Layout : 	 [C04-21124A](./mchp/packages/C04-21124A.pdf)
+- Package 3d model wrl : 	 [C04-21124A](./Model3d/wrl/C04-21124A.wrl)
+- Package 3d model x3d : 	 [C04-21124A](./Model3d/x3d/C04-21124A.x3d)
+- Package 3d model scad : 	 [C04-21124A](./Model3d/scad/C04-21124A.scad)
 Pin count : 289
 - U11 : PA0,  of Type IO, alternates : [HSMC D_0, PIO P_0, SDMMC0 SDMMC0_CK_, QSPI0 QSPI0_SCK_]
 - P10 : PA1,  of Type IO, alternates : [SDMMC0 SDMMC0_CMD_, PIO P_1, QSPI0 QSPI0_CS_, HSMC D_1]
@@ -3548,6 +3660,14 @@ Pin count : 289
 
 ### Package : 
 
+- Package id : 	 [C04-21124A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 AMB
+- Package Type : 	 LFBGA
+- Pin count : 	 289,00
+- Package Layout : 	 [C04-21124A](./mchp/packages/C04-21124A.pdf)
+- Package 3d model wrl : 	 [C04-21124A](./Model3d/wrl/C04-21124A.wrl)
+- Package 3d model x3d : 	 [C04-21124A](./Model3d/x3d/C04-21124A.x3d)
+- Package 3d model scad : 	 [C04-21124A](./Model3d/scad/C04-21124A.scad)
 Pin count : 289
 - U11 : PA0,  of Type IO, alternates : [HSMC D_0, PIO P_0, SDMMC0 SDMMC0_CK_, QSPI0 QSPI0_SCK_]
 - P10 : PA1,  of Type IO, alternates : [SDMMC0 SDMMC0_CMD_, PIO P_1, QSPI0 QSPI0_CS_, HSMC D_1]
@@ -3856,6 +3976,14 @@ Pin count : 289
 
 ### Package : 
 
+- Package id : 	 [C04-21124A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 AMB
+- Package Type : 	 LFBGA
+- Pin count : 	 289,00
+- Package Layout : 	 [C04-21124A](./mchp/packages/C04-21124A.pdf)
+- Package 3d model wrl : 	 [C04-21124A](./Model3d/wrl/C04-21124A.wrl)
+- Package 3d model x3d : 	 [C04-21124A](./Model3d/x3d/C04-21124A.x3d)
+- Package 3d model scad : 	 [C04-21124A](./Model3d/scad/C04-21124A.scad)
 Pin count : 289
 - U11 : PA0,  of Type IO, alternates : [HSMC D_0, PIO P_0, SDMMC0 SDMMC0_CK_, QSPI0 QSPI0_SCK_]
 - P10 : PA1,  of Type IO, alternates : [SDMMC0 SDMMC0_CMD_, PIO P_1, QSPI0 QSPI0_CS_, HSMC D_1]
@@ -4164,6 +4292,14 @@ Pin count : 289
 
 ### Package : 
 
+- Package id : 	 [C04-21124A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 AMB
+- Package Type : 	 LFBGA
+- Pin count : 	 289,00
+- Package Layout : 	 [C04-21124A](./mchp/packages/C04-21124A.pdf)
+- Package 3d model wrl : 	 [C04-21124A](./Model3d/wrl/C04-21124A.wrl)
+- Package 3d model x3d : 	 [C04-21124A](./Model3d/x3d/C04-21124A.x3d)
+- Package 3d model scad : 	 [C04-21124A](./Model3d/scad/C04-21124A.scad)
 Pin count : 289
 - U11 : PA0,  of Type IO, alternates : [HSMC D_0, PIO P_0, SDMMC0 SDMMC0_CK_, QSPI0 QSPI0_SCK_]
 - P10 : PA1,  of Type IO, alternates : [SDMMC0 SDMMC0_CMD_, PIO P_1, QSPI0 QSPI0_CS_, HSMC D_1]
@@ -4472,6 +4608,14 @@ Pin count : 289
 
 ### Package : 
 
+- Package id : 	 [C04-21124A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 AMB
+- Package Type : 	 LFBGA
+- Pin count : 	 289,00
+- Package Layout : 	 [C04-21124A](./mchp/packages/C04-21124A.pdf)
+- Package 3d model wrl : 	 [C04-21124A](./Model3d/wrl/C04-21124A.wrl)
+- Package 3d model x3d : 	 [C04-21124A](./Model3d/x3d/C04-21124A.x3d)
+- Package 3d model scad : 	 [C04-21124A](./Model3d/scad/C04-21124A.scad)
 Pin count : 289
 - U11 : PA0,  of Type IO, alternates : [HSMC D_0, PIO P_0, SDMMC0 SDMMC0_CK_, QSPI0 QSPI0_SCK_]
 - P10 : PA1,  of Type IO, alternates : [SDMMC0 SDMMC0_CMD_, PIO P_1, QSPI0 QSPI0_CS_, HSMC D_1]
@@ -4780,6 +4924,14 @@ Pin count : 289
 
 ### Package : 
 
+- Package id : 	 [C04-21124A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 AMB
+- Package Type : 	 LFBGA
+- Pin count : 	 289,00
+- Package Layout : 	 [C04-21124A](./mchp/packages/C04-21124A.pdf)
+- Package 3d model wrl : 	 [C04-21124A](./Model3d/wrl/C04-21124A.wrl)
+- Package 3d model x3d : 	 [C04-21124A](./Model3d/x3d/C04-21124A.x3d)
+- Package 3d model scad : 	 [C04-21124A](./Model3d/scad/C04-21124A.scad)
 Pin count : 289
 - U11 : PA0,  of Type IO, alternates : [HSMC D_0, PIO P_0, SDMMC0 SDMMC0_CK_, QSPI0 QSPI0_SCK_]
 - P10 : PA1,  of Type IO, alternates : [SDMMC0 SDMMC0_CMD_, PIO P_1, QSPI0 QSPI0_CS_, HSMC D_1]
@@ -5088,6 +5240,14 @@ Pin count : 289
 
 ### Package : 
 
+- Package id : 	 [C04-21124A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 AMB
+- Package Type : 	 LFBGA
+- Pin count : 	 289,00
+- Package Layout : 	 [C04-21124A](./mchp/packages/C04-21124A.pdf)
+- Package 3d model wrl : 	 [C04-21124A](./Model3d/wrl/C04-21124A.wrl)
+- Package 3d model x3d : 	 [C04-21124A](./Model3d/x3d/C04-21124A.x3d)
+- Package 3d model scad : 	 [C04-21124A](./Model3d/scad/C04-21124A.scad)
 Pin count : 289
 - U11 : PA0,  of Type IO, alternates : [HSMC D_0, PIO P_0, SDMMC0 SDMMC0_CK_, QSPI0 QSPI0_SCK_]
 - P10 : PA1,  of Type IO, alternates : [SDMMC0 SDMMC0_CMD_, PIO P_1, QSPI0 QSPI0_CS_, HSMC D_1]
@@ -6772,6 +6932,14 @@ Pin count : 361
 
 ### Package : 
 
+- Package id : 	 [C04-21124A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 AMB
+- Package Type : 	 LFBGA
+- Pin count : 	 289,00
+- Package Layout : 	 [C04-21124A](./mchp/packages/C04-21124A.pdf)
+- Package 3d model wrl : 	 [C04-21124A](./Model3d/wrl/C04-21124A.wrl)
+- Package 3d model x3d : 	 [C04-21124A](./Model3d/x3d/C04-21124A.x3d)
+- Package 3d model scad : 	 [C04-21124A](./Model3d/scad/C04-21124A.scad)
 Pin count : 289
 - U11 : PA0,  of Type IO, alternates : [HSMC D_0, PIO P_0, SDMMC0 SDMMC0_CK_, QSPI0 QSPI0_SCK_]
 - P10 : PA1,  of Type IO, alternates : [SDMMC0 SDMMC0_CMD_, PIO P_1, QSPI0 QSPI0_CS_, HSMC D_1]
@@ -7080,6 +7248,14 @@ Pin count : 289
 
 ### Package : 
 
+- Package id : 	 [C04-21124A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 AMB
+- Package Type : 	 LFBGA
+- Pin count : 	 289,00
+- Package Layout : 	 [C04-21124A](./mchp/packages/C04-21124A.pdf)
+- Package 3d model wrl : 	 [C04-21124A](./Model3d/wrl/C04-21124A.wrl)
+- Package 3d model x3d : 	 [C04-21124A](./Model3d/x3d/C04-21124A.x3d)
+- Package 3d model scad : 	 [C04-21124A](./Model3d/scad/C04-21124A.scad)
 Pin count : 289
 - U11 : PA0,  of Type IO, alternates : [HSMC D_0, PIO P_0, SDMMC0 SDMMC0_CK_, QSPI0 QSPI0_SCK_]
 - P10 : PA1,  of Type IO, alternates : [SDMMC0 SDMMC0_CMD_, PIO P_1, QSPI0 QSPI0_CS_, HSMC D_1]
@@ -7388,6 +7564,14 @@ Pin count : 289
 
 ### Package : 
 
+- Package id : 	 [C04-21124A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 AMB
+- Package Type : 	 LFBGA
+- Pin count : 	 289,00
+- Package Layout : 	 [C04-21124A](./mchp/packages/C04-21124A.pdf)
+- Package 3d model wrl : 	 [C04-21124A](./Model3d/wrl/C04-21124A.wrl)
+- Package 3d model x3d : 	 [C04-21124A](./Model3d/x3d/C04-21124A.x3d)
+- Package 3d model scad : 	 [C04-21124A](./Model3d/scad/C04-21124A.scad)
 Pin count : 289
 - U11 : PA0,  of Type IO, alternates : [HSMC D_0, PIO P_0, SDMMC0 SDMMC0_CK_, QSPI0 QSPI0_SCK_]
 - P10 : PA1,  of Type IO, alternates : [SDMMC0 SDMMC0_CMD_, PIO P_1, QSPI0 QSPI0_CS_, HSMC D_1]
@@ -7696,6 +7880,14 @@ Pin count : 289
 
 ### Package : 
 
+- Package id : 	 [C04-21124A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 AMB
+- Package Type : 	 LFBGA
+- Pin count : 	 289,00
+- Package Layout : 	 [C04-21124A](./mchp/packages/C04-21124A.pdf)
+- Package 3d model wrl : 	 [C04-21124A](./Model3d/wrl/C04-21124A.wrl)
+- Package 3d model x3d : 	 [C04-21124A](./Model3d/x3d/C04-21124A.x3d)
+- Package 3d model scad : 	 [C04-21124A](./Model3d/scad/C04-21124A.scad)
 Pin count : 289
 - U11 : PA0,  of Type IO, alternates : [HSMC D_0, PIO P_0, SDMMC0 SDMMC0_CK_, QSPI0 QSPI0_SCK_]
 - P10 : PA1,  of Type IO, alternates : [SDMMC0 SDMMC0_CMD_, PIO P_1, QSPI0 QSPI0_CS_, HSMC D_1]

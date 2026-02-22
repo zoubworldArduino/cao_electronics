@@ -17,6 +17,12 @@
 
 ### Package : 
 
+- Package id : 	 [C04-00065D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 D3X
+- Package Type : 	 SOIC
+- Pin count : 	 14,00
+- Package Layout : 	 [C04-00065D](./mchp/packages/C04-00065D.pdf)
+please verify some data are inconsistante 	 
 Pin count : 14
 - 1 : PA05,  of Type IO, alternates : [EIC EXTINT_5, PORT P_5, PTC Y_3, SYSCTRL ULPVREG_BODIIEN_, TC1 WO_1, ADC AIN_3, SERCOM0 PAD_3, SERCOM0 PAD_1]
 - 2 : PA08,  of Type IO, alternates : [EIC EXTINT_6, SYSCTRL ULPVREG_FORCELDO_, SERCOM1 PAD_2, SYSCTRL XIN32_, SYSCTRL XIN_, PORT P_8, SERCOM0 PAD_2, GCLK IO_0]
@@ -50,6 +56,13 @@ Pin count : 14
 
 ### Package : 
 
+- Package id : 	 [C04-21386B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 RLB
+- Package Type : 	 VQFN
+- Pin count : 	 24,00
+- Package Layout : 	 [C04-21386B](./mchp/packages/C04-21386B.pdf)
+- Package 3d model scad : 	 [C04-21386B](./Model3d/scad/C04-21386B.scad)
+please verify some data are inconsistante 	 
 Pin count : 24
 - 1 : PA02,  of Type IO, alternates : [PTC Y_0, PORT P_2, ADC AIN_0, EIC EXTINT_2, SYSCTRL CAPLESS_VDDCORE_]
 - 2 : PA03,  of Type IO, alternates : [SYSCTRL ULPVREG_BODIEN_, PORT P_3, PTC Y_1, EIC EXTINT_3, ADC AIN_1]
@@ -93,6 +106,12 @@ Pin count : 24
 
 ### Package : 
 
+- Package id : 	 [C04-00065D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 D3X
+- Package Type : 	 SOIC
+- Pin count : 	 14,00
+- Package Layout : 	 [C04-00065D](./mchp/packages/C04-00065D.pdf)
+please verify some data are inconsistante 	 
 Pin count : 14
 - 1 : PA05,  of Type IO, alternates : [EIC EXTINT_5, PORT P_5, AC AIN_1, PTC Y_3, SYSCTRL ULPVREG_BODIIEN_, TC1 WO_1, TCC0 WO_1, ADC AIN_3, SERCOM0 PAD_3, SERCOM0 PAD_1]
 - 2 : PA08,  of Type IO, alternates : [EIC EXTINT_6, SYSCTRL ULPVREG_FORCELDO_, SERCOM1 PAD_2, TCC0 WO_2, TCC0 WO_4, SYSCTRL XIN32_, SYSCTRL XIN_, PORT P_8, SERCOM0 PAD_2, GCLK IO_0]
@@ -126,6 +145,12 @@ Pin count : 14
 
 ### Package : 
 
+- Package id : 	 [C04-00065D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 D3X
+- Package Type : 	 SOIC
+- Pin count : 	 14,00
+- Package Layout : 	 [C04-00065D](./mchp/packages/C04-00065D.pdf)
+please verify some data are inconsistante 	 
 Pin count : 14
 - 1 : PA05,  of Type IO, alternates : [EIC EXTINT_5, PORT P_5, AC AIN_1, PTC Y_3, SYSCTRL ULPVREG_BODIIEN_, TC1 WO_1, TCC0 WO_1, ADC AIN_3, SERCOM0 PAD_3, SERCOM0 PAD_1]
 - 2 : PA08,  of Type IO, alternates : [EIC EXTINT_6, SYSCTRL ULPVREG_FORCELDO_, SERCOM1 PAD_2, TCC0 WO_2, TCC0 WO_4, SYSCTRL XIN32_, SYSCTRL XIN_, PORT P_8, SERCOM0 PAD_2, GCLK IO_0]
@@ -159,6 +184,13 @@ Pin count : 14
 
 ### Package : 
 
+- Package id : 	 [C04-21386B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 RLB
+- Package Type : 	 VQFN
+- Pin count : 	 24,00
+- Package Layout : 	 [C04-21386B](./mchp/packages/C04-21386B.pdf)
+- Package 3d model scad : 	 [C04-21386B](./Model3d/scad/C04-21386B.scad)
+please verify some data are inconsistante 	 
 Pin count : 24
 - 1 : PA02,  of Type IO, alternates : [PTC Y_0, PORT P_2, ADC AIN_0, EIC EXTINT_2, DAC VOUT_, SYSCTRL CAPLESS_VDDCORE_]
 - 2 : PA03,  of Type IO, alternates : [SYSCTRL ULPVREG_BODIEN_, PORT P_3, PTC Y_1, EIC EXTINT_3, ADC AIN_1, DAC VREFP_]
@@ -241,6 +273,13 @@ Pin count : 20
 
 ### Package : 
 
+- Package id : 	 [C04-21386B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 RLB
+- Package Type : 	 VQFN
+- Pin count : 	 24,00
+- Package Layout : 	 [C04-21386B](./mchp/packages/C04-21386B.pdf)
+- Package 3d model scad : 	 [C04-21386B](./Model3d/scad/C04-21386B.scad)
+please verify some data are inconsistante 	 
 Pin count : 24
 - 1 : PA02,  of Type IO, alternates : [PTC Y_0, PORT P_2, ADC AIN_0, EIC EXTINT_2, DAC VOUT_, SYSCTRL CAPLESS_VDDCORE_]
 - 2 : PA03,  of Type IO, alternates : [SYSCTRL ULPVREG_BODIEN_, PORT P_3, PTC Y_1, EIC EXTINT_3, ADC AIN_1, DAC VREFP_]
@@ -362,6 +401,12 @@ Pin count : 20
 
 ### Package : 
 
+- Package id : 	 [C04-00065D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 D3X
+- Package Type : 	 SOIC
+- Pin count : 	 14,00
+- Package Layout : 	 [C04-00065D](./mchp/packages/C04-00065D.pdf)
+please verify some data are inconsistante 	 
 Pin count : 14
 - 1 : PA05,  of Type IO, alternates : [EIC EXTINT_5, PORT P_5, AC AIN_1, PTC Y_3, SYSCTRL ULPVREG_BODIIEN_, TC1 WO_1, TCC0 WO_1, ADC AIN_3, SERCOM0 PAD_3, SERCOM0 PAD_1]
 - 2 : PA08,  of Type IO, alternates : [EIC EXTINT_6, SYSCTRL ULPVREG_FORCELDO_, SERCOM1 PAD_2, TCC0 WO_2, TCC0 WO_4, SYSCTRL XIN32_, SYSCTRL XIN_, PORT P_8, SERCOM0 PAD_2, GCLK IO_0]
@@ -395,6 +440,13 @@ Pin count : 14
 
 ### Package : 
 
+- Package id : 	 [C04-21386B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 RLB
+- Package Type : 	 VQFN
+- Pin count : 	 24,00
+- Package Layout : 	 [C04-21386B](./mchp/packages/C04-21386B.pdf)
+- Package 3d model scad : 	 [C04-21386B](./Model3d/scad/C04-21386B.scad)
+please verify some data are inconsistante 	 
 Pin count : 24
 - 1 : PA02,  of Type IO, alternates : [PTC Y_0, PORT P_2, ADC AIN_0, EIC EXTINT_2, DAC VOUT_, SYSCTRL CAPLESS_VDDCORE_]
 - 2 : PA03,  of Type IO, alternates : [SYSCTRL ULPVREG_BODIEN_, PORT P_3, PTC Y_1, EIC EXTINT_3, ADC AIN_1, DAC VREFP_]
@@ -516,6 +568,13 @@ Pin count : 20
 
 ### Package : 
 
+- Package id : 	 [C04-00074D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 T5X
+- Package Type : 	 TQFP
+- Pin count : 	 32,00
+- Package Layout : 	 [C04-00074D](./mchp/packages/C04-00074D.pdf)
+- Package 3d model scad : 	 [C04-00074D](./Model3d/scad/C04-00074D.scad)
+please verify some data are inconsistante 	 
 Pin count : 32
 - 1 : PA00,  of Type IO, alternates : [TC2 WO_0, EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, SYSCTRL XIN32_]
 - 2 : PA01,  of Type IO, alternates : [EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, SYSCTRL XOUT32_, TC2 WO_1]
@@ -567,6 +626,13 @@ Pin count : 32
 
 ### Package : 
 
+- Package id : 	 [C04-00074D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 T5X
+- Package Type : 	 TQFP
+- Pin count : 	 32,00
+- Package Layout : 	 [C04-00074D](./mchp/packages/C04-00074D.pdf)
+- Package 3d model scad : 	 [C04-00074D](./Model3d/scad/C04-00074D.scad)
+please verify some data are inconsistante 	 
 Pin count : 32
 - 1 : PA00,  of Type IO, alternates : [TC2 WO_0, EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, SYSCTRL XIN32_]
 - 2 : PA01,  of Type IO, alternates : [EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, SYSCTRL XOUT32_, TC2 WO_1]
@@ -618,6 +684,13 @@ Pin count : 32
 
 ### Package : 
 
+- Package id : 	 [C04-21402A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 S8B
+- Package Type : 	 VQFN
+- Pin count : 	 32,00
+- Package Layout : 	 [C04-21402A](./mchp/packages/C04-21402A.pdf)
+- Package 3d model scad : 	 [C04-21402A](./Model3d/scad/C04-21402A.scad)
+please verify some data are inconsistante 	 
 Pin count : 32
 - 1 : PA00,  of Type IO, alternates : [TC2 WO_0, EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, SYSCTRL XIN32_]
 - 2 : PA01,  of Type IO, alternates : [EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, SYSCTRL XOUT32_, TC2 WO_1]
@@ -669,6 +742,13 @@ Pin count : 32
 
 ### Package : 
 
+- Package id : 	 [C04-21402A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 S8B
+- Package Type : 	 VQFN
+- Pin count : 	 32,00
+- Package Layout : 	 [C04-21402A](./mchp/packages/C04-21402A.pdf)
+- Package 3d model scad : 	 [C04-21402A](./Model3d/scad/C04-21402A.scad)
+please verify some data are inconsistante 	 
 Pin count : 32
 - 1 : PA00,  of Type IO, alternates : [TC2 WO_0, EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, SYSCTRL XIN32_]
 - 2 : PA01,  of Type IO, alternates : [EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, SYSCTRL XOUT32_, TC2 WO_1]
@@ -720,6 +800,13 @@ Pin count : 32
 
 ### Package : 
 
+- Package id : 	 [C04-00074D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 T5X
+- Package Type : 	 TQFP
+- Pin count : 	 32,00
+- Package Layout : 	 [C04-00074D](./mchp/packages/C04-00074D.pdf)
+- Package 3d model scad : 	 [C04-00074D](./Model3d/scad/C04-00074D.scad)
+please verify some data are inconsistante 	 
 Pin count : 32
 - 1 : PA00,  of Type IO, alternates : [TC2 WO_0, EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, SYSCTRL XIN32_]
 - 2 : PA01,  of Type IO, alternates : [EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, SYSCTRL XOUT32_, TC2 WO_1]
@@ -771,6 +858,13 @@ Pin count : 32
 
 ### Package : 
 
+- Package id : 	 [C04-00074D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 T5X
+- Package Type : 	 TQFP
+- Pin count : 	 32,00
+- Package Layout : 	 [C04-00074D](./mchp/packages/C04-00074D.pdf)
+- Package 3d model scad : 	 [C04-00074D](./Model3d/scad/C04-00074D.scad)
+please verify some data are inconsistante 	 
 Pin count : 32
 - 1 : PA00,  of Type IO, alternates : [TC2 WO_0, EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, SYSCTRL XIN32_]
 - 2 : PA01,  of Type IO, alternates : [EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, SYSCTRL XOUT32_, TC2 WO_1]
@@ -822,6 +916,13 @@ Pin count : 32
 
 ### Package : 
 
+- Package id : 	 [C04-21402A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 S8B
+- Package Type : 	 VQFN
+- Pin count : 	 32,00
+- Package Layout : 	 [C04-21402A](./mchp/packages/C04-21402A.pdf)
+- Package 3d model scad : 	 [C04-21402A](./Model3d/scad/C04-21402A.scad)
+please verify some data are inconsistante 	 
 Pin count : 32
 - 1 : PA00,  of Type IO, alternates : [TC2 WO_0, EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, SYSCTRL XIN32_]
 - 2 : PA01,  of Type IO, alternates : [EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, SYSCTRL XOUT32_, TC2 WO_1]
@@ -873,6 +974,13 @@ Pin count : 32
 
 ### Package : 
 
+- Package id : 	 [C04-21402A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 S8B
+- Package Type : 	 VQFN
+- Pin count : 	 32,00
+- Package Layout : 	 [C04-21402A](./mchp/packages/C04-21402A.pdf)
+- Package 3d model scad : 	 [C04-21402A](./Model3d/scad/C04-21402A.scad)
+please verify some data are inconsistante 	 
 Pin count : 32
 - 1 : PA00,  of Type IO, alternates : [TC2 WO_0, EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, SYSCTRL XIN32_]
 - 2 : PA01,  of Type IO, alternates : [EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, SYSCTRL XOUT32_, TC2 WO_1]
@@ -924,6 +1032,13 @@ Pin count : 32
 
 ### Package : 
 
+- Package id : 	 [C04-00074D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 T5X
+- Package Type : 	 TQFP
+- Pin count : 	 32,00
+- Package Layout : 	 [C04-00074D](./mchp/packages/C04-00074D.pdf)
+- Package 3d model scad : 	 [C04-00074D](./Model3d/scad/C04-00074D.scad)
+please verify some data are inconsistante 	 
 Pin count : 32
 - 1 : PA00,  of Type IO, alternates : [TC2 WO_0, EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, SYSCTRL XIN32_]
 - 2 : PA01,  of Type IO, alternates : [EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, SYSCTRL XOUT32_, TC2 WO_1]
@@ -975,6 +1090,13 @@ Pin count : 32
 
 ### Package : 
 
+- Package id : 	 [C04-00074D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 T5X
+- Package Type : 	 TQFP
+- Pin count : 	 32,00
+- Package Layout : 	 [C04-00074D](./mchp/packages/C04-00074D.pdf)
+- Package 3d model scad : 	 [C04-00074D](./Model3d/scad/C04-00074D.scad)
+please verify some data are inconsistante 	 
 Pin count : 32
 - 1 : PA00,  of Type IO, alternates : [TC2 WO_0, EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, SYSCTRL XIN32_]
 - 2 : PA01,  of Type IO, alternates : [EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, SYSCTRL XOUT32_, TC2 WO_1]
@@ -1026,6 +1148,13 @@ Pin count : 32
 
 ### Package : 
 
+- Package id : 	 [C04-21402A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 S8B
+- Package Type : 	 VQFN
+- Pin count : 	 32,00
+- Package Layout : 	 [C04-21402A](./mchp/packages/C04-21402A.pdf)
+- Package 3d model scad : 	 [C04-21402A](./Model3d/scad/C04-21402A.scad)
+please verify some data are inconsistante 	 
 Pin count : 32
 - 1 : PA00,  of Type IO, alternates : [TC2 WO_0, EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, SYSCTRL XIN32_]
 - 2 : PA01,  of Type IO, alternates : [EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, SYSCTRL XOUT32_, TC2 WO_1]
@@ -1077,6 +1206,13 @@ Pin count : 32
 
 ### Package : 
 
+- Package id : 	 [C04-21402A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 S8B
+- Package Type : 	 VQFN
+- Pin count : 	 32,00
+- Package Layout : 	 [C04-21402A](./mchp/packages/C04-21402A.pdf)
+- Package 3d model scad : 	 [C04-21402A](./Model3d/scad/C04-21402A.scad)
+please verify some data are inconsistante 	 
 Pin count : 32
 - 1 : PA00,  of Type IO, alternates : [TC2 WO_0, EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, SYSCTRL XIN32_]
 - 2 : PA01,  of Type IO, alternates : [EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, SYSCTRL XOUT32_, TC2 WO_1]
@@ -1128,6 +1264,13 @@ Pin count : 32
 
 ### Package : 
 
+- Package id : 	 [C04-00074D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 T5X
+- Package Type : 	 TQFP
+- Pin count : 	 32,00
+- Package Layout : 	 [C04-00074D](./mchp/packages/C04-00074D.pdf)
+- Package 3d model scad : 	 [C04-00074D](./Model3d/scad/C04-00074D.scad)
+please verify some data are inconsistante 	 
 Pin count : 32
 - 1 : PA00,  of Type IO, alternates : [TC2 WO_0, EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, SYSCTRL XIN32_]
 - 2 : PA01,  of Type IO, alternates : [EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, SYSCTRL XOUT32_, TC2 WO_1]
@@ -1179,6 +1322,13 @@ Pin count : 32
 
 ### Package : 
 
+- Package id : 	 [C04-00074D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 T5X
+- Package Type : 	 TQFP
+- Pin count : 	 32,00
+- Package Layout : 	 [C04-00074D](./mchp/packages/C04-00074D.pdf)
+- Package 3d model scad : 	 [C04-00074D](./Model3d/scad/C04-00074D.scad)
+please verify some data are inconsistante 	 
 Pin count : 32
 - 1 : PA00,  of Type IO, alternates : [TC2 WO_0, EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, SYSCTRL XIN32_]
 - 2 : PA01,  of Type IO, alternates : [EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, SYSCTRL XOUT32_, TC2 WO_1]
@@ -1230,6 +1380,13 @@ Pin count : 32
 
 ### Package : 
 
+- Package id : 	 [C04-21402A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 S8B
+- Package Type : 	 VQFN
+- Pin count : 	 32,00
+- Package Layout : 	 [C04-21402A](./mchp/packages/C04-21402A.pdf)
+- Package 3d model scad : 	 [C04-21402A](./Model3d/scad/C04-21402A.scad)
+please verify some data are inconsistante 	 
 Pin count : 32
 - 1 : PA00,  of Type IO, alternates : [TC2 WO_0, EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, SYSCTRL XIN32_]
 - 2 : PA01,  of Type IO, alternates : [EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, SYSCTRL XOUT32_, TC2 WO_1]
@@ -1281,6 +1438,13 @@ Pin count : 32
 
 ### Package : 
 
+- Package id : 	 [C04-21402A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 S8B
+- Package Type : 	 VQFN
+- Pin count : 	 32,00
+- Package Layout : 	 [C04-21402A](./mchp/packages/C04-21402A.pdf)
+- Package 3d model scad : 	 [C04-21402A](./Model3d/scad/C04-21402A.scad)
+please verify some data are inconsistante 	 
 Pin count : 32
 - 1 : PA00,  of Type IO, alternates : [TC2 WO_0, EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, SYSCTRL XIN32_]
 - 2 : PA01,  of Type IO, alternates : [EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, SYSCTRL XOUT32_, TC2 WO_1]
@@ -1424,6 +1588,13 @@ Pin count : 27
 
 ### Package : 
 
+- Package id : 	 [C04-00074D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 T5X
+- Package Type : 	 TQFP
+- Pin count : 	 32,00
+- Package Layout : 	 [C04-00074D](./mchp/packages/C04-00074D.pdf)
+- Package 3d model scad : 	 [C04-00074D](./Model3d/scad/C04-00074D.scad)
+please verify some data are inconsistante 	 
 Pin count : 32
 - 1 : PA00,  of Type IO, alternates : [TC2 WO_0, EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, SYSCTRL XIN32_]
 - 2 : PA01,  of Type IO, alternates : [EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, SYSCTRL XOUT32_, TC2 WO_1]
@@ -1475,6 +1646,13 @@ Pin count : 32
 
 ### Package : 
 
+- Package id : 	 [C04-00074D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 T5X
+- Package Type : 	 TQFP
+- Pin count : 	 32,00
+- Package Layout : 	 [C04-00074D](./mchp/packages/C04-00074D.pdf)
+- Package 3d model scad : 	 [C04-00074D](./Model3d/scad/C04-00074D.scad)
+please verify some data are inconsistante 	 
 Pin count : 32
 - 1 : PA00,  of Type IO, alternates : [TC2 WO_0, EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, SYSCTRL XIN32_]
 - 2 : PA01,  of Type IO, alternates : [EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, SYSCTRL XOUT32_, TC2 WO_1]
@@ -1526,6 +1704,13 @@ Pin count : 32
 
 ### Package : 
 
+- Package id : 	 [C04-21402A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 S8B
+- Package Type : 	 VQFN
+- Pin count : 	 32,00
+- Package Layout : 	 [C04-21402A](./mchp/packages/C04-21402A.pdf)
+- Package 3d model scad : 	 [C04-21402A](./Model3d/scad/C04-21402A.scad)
+please verify some data are inconsistante 	 
 Pin count : 32
 - 1 : PA00,  of Type IO, alternates : [TC2 WO_0, EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, SYSCTRL XIN32_]
 - 2 : PA01,  of Type IO, alternates : [EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, SYSCTRL XOUT32_, TC2 WO_1]
@@ -1577,6 +1762,13 @@ Pin count : 32
 
 ### Package : 
 
+- Package id : 	 [C04-21402A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 S8B
+- Package Type : 	 VQFN
+- Pin count : 	 32,00
+- Package Layout : 	 [C04-21402A](./mchp/packages/C04-21402A.pdf)
+- Package 3d model scad : 	 [C04-21402A](./Model3d/scad/C04-21402A.scad)
+please verify some data are inconsistante 	 
 Pin count : 32
 - 1 : PA00,  of Type IO, alternates : [TC2 WO_0, EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, SYSCTRL XIN32_]
 - 2 : PA01,  of Type IO, alternates : [EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, SYSCTRL XOUT32_, TC2 WO_1]
@@ -1628,6 +1820,13 @@ Pin count : 32
 
 ### Package : 
 
+- Package id : 	 [C04-00074D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 T5X
+- Package Type : 	 TQFP
+- Pin count : 	 32,00
+- Package Layout : 	 [C04-00074D](./mchp/packages/C04-00074D.pdf)
+- Package 3d model scad : 	 [C04-00074D](./Model3d/scad/C04-00074D.scad)
+please verify some data are inconsistante 	 
 Pin count : 32
 - 1 : PA00,  of Type IO, alternates : [TC2 WO_0, EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, SYSCTRL XIN32_]
 - 2 : PA01,  of Type IO, alternates : [EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, SYSCTRL XOUT32_, TC2 WO_1]
@@ -1679,6 +1878,13 @@ Pin count : 32
 
 ### Package : 
 
+- Package id : 	 [C04-00074D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 T5X
+- Package Type : 	 TQFP
+- Pin count : 	 32,00
+- Package Layout : 	 [C04-00074D](./mchp/packages/C04-00074D.pdf)
+- Package 3d model scad : 	 [C04-00074D](./Model3d/scad/C04-00074D.scad)
+please verify some data are inconsistante 	 
 Pin count : 32
 - 1 : PA00,  of Type IO, alternates : [TC2 WO_0, EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, SYSCTRL XIN32_]
 - 2 : PA01,  of Type IO, alternates : [EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, SYSCTRL XOUT32_, TC2 WO_1]
@@ -1730,6 +1936,13 @@ Pin count : 32
 
 ### Package : 
 
+- Package id : 	 [C04-21402A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 S8B
+- Package Type : 	 VQFN
+- Pin count : 	 32,00
+- Package Layout : 	 [C04-21402A](./mchp/packages/C04-21402A.pdf)
+- Package 3d model scad : 	 [C04-21402A](./Model3d/scad/C04-21402A.scad)
+please verify some data are inconsistante 	 
 Pin count : 32
 - 1 : PA00,  of Type IO, alternates : [TC2 WO_0, EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, SYSCTRL XIN32_]
 - 2 : PA01,  of Type IO, alternates : [EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, SYSCTRL XOUT32_, TC2 WO_1]
@@ -1781,6 +1994,13 @@ Pin count : 32
 
 ### Package : 
 
+- Package id : 	 [C04-21402A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 S8B
+- Package Type : 	 VQFN
+- Pin count : 	 32,00
+- Package Layout : 	 [C04-21402A](./mchp/packages/C04-21402A.pdf)
+- Package 3d model scad : 	 [C04-21402A](./Model3d/scad/C04-21402A.scad)
+please verify some data are inconsistante 	 
 Pin count : 32
 - 1 : PA00,  of Type IO, alternates : [TC2 WO_0, EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, SYSCTRL XIN32_]
 - 2 : PA01,  of Type IO, alternates : [EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, SYSCTRL XOUT32_, TC2 WO_1]
@@ -1924,6 +2144,13 @@ Pin count : 27
 
 ### Package : 
 
+- Package id : 	 [C04-00074D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 T5X
+- Package Type : 	 TQFP
+- Pin count : 	 32,00
+- Package Layout : 	 [C04-00074D](./mchp/packages/C04-00074D.pdf)
+- Package 3d model scad : 	 [C04-00074D](./Model3d/scad/C04-00074D.scad)
+please verify some data are inconsistante 	 
 Pin count : 32
 - 1 : PA00,  of Type IO, alternates : [TC2 WO_0, EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, SYSCTRL XIN32_]
 - 2 : PA01,  of Type IO, alternates : [EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, SYSCTRL XOUT32_, TC2 WO_1]
@@ -1975,6 +2202,13 @@ Pin count : 32
 
 ### Package : 
 
+- Package id : 	 [C04-00074D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 T5X
+- Package Type : 	 TQFP
+- Pin count : 	 32,00
+- Package Layout : 	 [C04-00074D](./mchp/packages/C04-00074D.pdf)
+- Package 3d model scad : 	 [C04-00074D](./Model3d/scad/C04-00074D.scad)
+please verify some data are inconsistante 	 
 Pin count : 32
 - 1 : PA00,  of Type IO, alternates : [TC2 WO_0, EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, SYSCTRL XIN32_]
 - 2 : PA01,  of Type IO, alternates : [EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, SYSCTRL XOUT32_, TC2 WO_1]
@@ -2026,6 +2260,13 @@ Pin count : 32
 
 ### Package : 
 
+- Package id : 	 [C04-21402A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 S8B
+- Package Type : 	 VQFN
+- Pin count : 	 32,00
+- Package Layout : 	 [C04-21402A](./mchp/packages/C04-21402A.pdf)
+- Package 3d model scad : 	 [C04-21402A](./Model3d/scad/C04-21402A.scad)
+please verify some data are inconsistante 	 
 Pin count : 32
 - 1 : PA00,  of Type IO, alternates : [TC2 WO_0, EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, SYSCTRL XIN32_]
 - 2 : PA01,  of Type IO, alternates : [EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, SYSCTRL XOUT32_, TC2 WO_1]
@@ -2077,6 +2318,13 @@ Pin count : 32
 
 ### Package : 
 
+- Package id : 	 [C04-21402A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 S8B
+- Package Type : 	 VQFN
+- Pin count : 	 32,00
+- Package Layout : 	 [C04-21402A](./mchp/packages/C04-21402A.pdf)
+- Package 3d model scad : 	 [C04-21402A](./Model3d/scad/C04-21402A.scad)
+please verify some data are inconsistante 	 
 Pin count : 32
 - 1 : PA00,  of Type IO, alternates : [TC2 WO_0, EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, SYSCTRL XIN32_]
 - 2 : PA01,  of Type IO, alternates : [EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, SYSCTRL XOUT32_, TC2 WO_1]
@@ -2128,6 +2376,13 @@ Pin count : 32
 
 ### Package : 
 
+- Package id : 	 [C04-00074D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 T5X
+- Package Type : 	 TQFP
+- Pin count : 	 32,00
+- Package Layout : 	 [C04-00074D](./mchp/packages/C04-00074D.pdf)
+- Package 3d model scad : 	 [C04-00074D](./Model3d/scad/C04-00074D.scad)
+please verify some data are inconsistante 	 
 Pin count : 32
 - 1 : PA00,  of Type IO, alternates : [TC2 WO_0, EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, SYSCTRL XIN32_]
 - 2 : PA01,  of Type IO, alternates : [EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, SYSCTRL XOUT32_, TC2 WO_1]
@@ -2179,6 +2434,13 @@ Pin count : 32
 
 ### Package : 
 
+- Package id : 	 [C04-00074D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 T5X
+- Package Type : 	 TQFP
+- Pin count : 	 32,00
+- Package Layout : 	 [C04-00074D](./mchp/packages/C04-00074D.pdf)
+- Package 3d model scad : 	 [C04-00074D](./Model3d/scad/C04-00074D.scad)
+please verify some data are inconsistante 	 
 Pin count : 32
 - 1 : PA00,  of Type IO, alternates : [TC2 WO_0, EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, SYSCTRL XIN32_]
 - 2 : PA01,  of Type IO, alternates : [EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, SYSCTRL XOUT32_, TC2 WO_1]
@@ -2230,6 +2492,13 @@ Pin count : 32
 
 ### Package : 
 
+- Package id : 	 [C04-21402A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 S8B
+- Package Type : 	 VQFN
+- Pin count : 	 32,00
+- Package Layout : 	 [C04-21402A](./mchp/packages/C04-21402A.pdf)
+- Package 3d model scad : 	 [C04-21402A](./Model3d/scad/C04-21402A.scad)
+please verify some data are inconsistante 	 
 Pin count : 32
 - 1 : PA00,  of Type IO, alternates : [TC2 WO_0, EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, SYSCTRL XIN32_]
 - 2 : PA01,  of Type IO, alternates : [EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, SYSCTRL XOUT32_, TC2 WO_1]
@@ -2281,6 +2550,13 @@ Pin count : 32
 
 ### Package : 
 
+- Package id : 	 [C04-21402A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 S8B
+- Package Type : 	 VQFN
+- Pin count : 	 32,00
+- Package Layout : 	 [C04-21402A](./mchp/packages/C04-21402A.pdf)
+- Package 3d model scad : 	 [C04-21402A](./Model3d/scad/C04-21402A.scad)
+please verify some data are inconsistante 	 
 Pin count : 32
 - 1 : PA00,  of Type IO, alternates : [TC2 WO_0, EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, SYSCTRL XIN32_]
 - 2 : PA01,  of Type IO, alternates : [EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, SYSCTRL XOUT32_, TC2 WO_1]
@@ -2332,6 +2608,15 @@ Pin count : 32
 
 ### Package : 
 
+- Package id : 	 [C04-00300D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 Y8X
+- Package Type : 	 TQFP
+- Pin count : 	 48,00
+- Package Layout : 	 [C04-00300D](./mchp/packages/C04-00300D.pdf)
+- Package 3d model wrl : 	 [C04-00300D](./Model3d/wrl/C04-00300D.wrl)
+- Package 3d model x3d : 	 [C04-00300D](./Model3d/x3d/C04-00300D.x3d)
+- Package 3d model scad : 	 [C04-00300D](./Model3d/scad/C04-00300D.scad)
+please verify some data are inconsistante 	 
 Pin count : 48
 - 1 : PA00,  of Type IO, alternates : [TC2 WO_0, EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, SYSCTRL XIN32_]
 - 2 : PA01,  of Type IO, alternates : [EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, SYSCTRL XOUT32_, TC2 WO_1]
@@ -2399,6 +2684,15 @@ Pin count : 48
 
 ### Package : 
 
+- Package id : 	 [C04-00300D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 Y8X
+- Package Type : 	 TQFP
+- Pin count : 	 48,00
+- Package Layout : 	 [C04-00300D](./mchp/packages/C04-00300D.pdf)
+- Package 3d model wrl : 	 [C04-00300D](./Model3d/wrl/C04-00300D.wrl)
+- Package 3d model x3d : 	 [C04-00300D](./Model3d/x3d/C04-00300D.x3d)
+- Package 3d model scad : 	 [C04-00300D](./Model3d/scad/C04-00300D.scad)
+please verify some data are inconsistante 	 
 Pin count : 48
 - 1 : PA00,  of Type IO, alternates : [TC2 WO_0, EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, SYSCTRL XIN32_]
 - 2 : PA01,  of Type IO, alternates : [EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, SYSCTRL XOUT32_, TC2 WO_1]
@@ -2466,6 +2760,13 @@ Pin count : 48
 
 ### Package : 
 
+- Package id : 	 [C04-21425A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 T3B
+- Package Type : 	 VQFN
+- Pin count : 	 48,00
+- Package Layout : 	 [C04-21425A](./mchp/packages/C04-21425A.pdf)
+- Package 3d model scad : 	 [C04-21425A](./Model3d/scad/C04-21425A.scad)
+please verify some data are inconsistante 	 
 Pin count : 48
 - 1 : PA00,  of Type IO, alternates : [TC2 WO_0, EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, SYSCTRL XIN32_]
 - 2 : PA01,  of Type IO, alternates : [EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, SYSCTRL XOUT32_, TC2 WO_1]
@@ -2533,6 +2834,13 @@ Pin count : 48
 
 ### Package : 
 
+- Package id : 	 [C04-21425A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 T3B
+- Package Type : 	 VQFN
+- Pin count : 	 48,00
+- Package Layout : 	 [C04-21425A](./mchp/packages/C04-21425A.pdf)
+- Package 3d model scad : 	 [C04-21425A](./Model3d/scad/C04-21425A.scad)
+please verify some data are inconsistante 	 
 Pin count : 48
 - 1 : PA00,  of Type IO, alternates : [TC2 WO_0, EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, SYSCTRL XIN32_]
 - 2 : PA01,  of Type IO, alternates : [EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, SYSCTRL XOUT32_, TC2 WO_1]
@@ -2600,6 +2908,15 @@ Pin count : 48
 
 ### Package : 
 
+- Package id : 	 [C04-00300D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 Y8X
+- Package Type : 	 TQFP
+- Pin count : 	 48,00
+- Package Layout : 	 [C04-00300D](./mchp/packages/C04-00300D.pdf)
+- Package 3d model wrl : 	 [C04-00300D](./Model3d/wrl/C04-00300D.wrl)
+- Package 3d model x3d : 	 [C04-00300D](./Model3d/x3d/C04-00300D.x3d)
+- Package 3d model scad : 	 [C04-00300D](./Model3d/scad/C04-00300D.scad)
+please verify some data are inconsistante 	 
 Pin count : 48
 - 1 : PA00,  of Type IO, alternates : [TC2 WO_0, EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, SYSCTRL XIN32_]
 - 2 : PA01,  of Type IO, alternates : [EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, SYSCTRL XOUT32_, TC2 WO_1]
@@ -2667,6 +2984,15 @@ Pin count : 48
 
 ### Package : 
 
+- Package id : 	 [C04-00300D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 Y8X
+- Package Type : 	 TQFP
+- Pin count : 	 48,00
+- Package Layout : 	 [C04-00300D](./mchp/packages/C04-00300D.pdf)
+- Package 3d model wrl : 	 [C04-00300D](./Model3d/wrl/C04-00300D.wrl)
+- Package 3d model x3d : 	 [C04-00300D](./Model3d/x3d/C04-00300D.x3d)
+- Package 3d model scad : 	 [C04-00300D](./Model3d/scad/C04-00300D.scad)
+please verify some data are inconsistante 	 
 Pin count : 48
 - 1 : PA00,  of Type IO, alternates : [TC2 WO_0, EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, SYSCTRL XIN32_]
 - 2 : PA01,  of Type IO, alternates : [EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, SYSCTRL XOUT32_, TC2 WO_1]
@@ -2734,6 +3060,13 @@ Pin count : 48
 
 ### Package : 
 
+- Package id : 	 [C04-21425A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 T3B
+- Package Type : 	 VQFN
+- Pin count : 	 48,00
+- Package Layout : 	 [C04-21425A](./mchp/packages/C04-21425A.pdf)
+- Package 3d model scad : 	 [C04-21425A](./Model3d/scad/C04-21425A.scad)
+please verify some data are inconsistante 	 
 Pin count : 48
 - 1 : PA00,  of Type IO, alternates : [TC2 WO_0, EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, SYSCTRL XIN32_]
 - 2 : PA01,  of Type IO, alternates : [EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, SYSCTRL XOUT32_, TC2 WO_1]
@@ -2801,6 +3134,13 @@ Pin count : 48
 
 ### Package : 
 
+- Package id : 	 [C04-21425A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 T3B
+- Package Type : 	 VQFN
+- Pin count : 	 48,00
+- Package Layout : 	 [C04-21425A](./mchp/packages/C04-21425A.pdf)
+- Package 3d model scad : 	 [C04-21425A](./Model3d/scad/C04-21425A.scad)
+please verify some data are inconsistante 	 
 Pin count : 48
 - 1 : PA00,  of Type IO, alternates : [TC2 WO_0, EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, SYSCTRL XIN32_]
 - 2 : PA01,  of Type IO, alternates : [EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, SYSCTRL XOUT32_, TC2 WO_1]
@@ -2868,6 +3208,15 @@ Pin count : 48
 
 ### Package : 
 
+- Package id : 	 [C04-00300D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 Y8X
+- Package Type : 	 TQFP
+- Pin count : 	 48,00
+- Package Layout : 	 [C04-00300D](./mchp/packages/C04-00300D.pdf)
+- Package 3d model wrl : 	 [C04-00300D](./Model3d/wrl/C04-00300D.wrl)
+- Package 3d model x3d : 	 [C04-00300D](./Model3d/x3d/C04-00300D.x3d)
+- Package 3d model scad : 	 [C04-00300D](./Model3d/scad/C04-00300D.scad)
+please verify some data are inconsistante 	 
 Pin count : 48
 - 1 : PA00,  of Type IO, alternates : [TC2 WO_0, EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, SYSCTRL XIN32_]
 - 2 : PA01,  of Type IO, alternates : [EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, SYSCTRL XOUT32_, TC2 WO_1]
@@ -2935,6 +3284,15 @@ Pin count : 48
 
 ### Package : 
 
+- Package id : 	 [C04-00300D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 Y8X
+- Package Type : 	 TQFP
+- Pin count : 	 48,00
+- Package Layout : 	 [C04-00300D](./mchp/packages/C04-00300D.pdf)
+- Package 3d model wrl : 	 [C04-00300D](./Model3d/wrl/C04-00300D.wrl)
+- Package 3d model x3d : 	 [C04-00300D](./Model3d/x3d/C04-00300D.x3d)
+- Package 3d model scad : 	 [C04-00300D](./Model3d/scad/C04-00300D.scad)
+please verify some data are inconsistante 	 
 Pin count : 48
 - 1 : PA00,  of Type IO, alternates : [TC2 WO_0, EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, SYSCTRL XIN32_]
 - 2 : PA01,  of Type IO, alternates : [EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, SYSCTRL XOUT32_, TC2 WO_1]
@@ -3002,6 +3360,13 @@ Pin count : 48
 
 ### Package : 
 
+- Package id : 	 [C04-21425A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 T3B
+- Package Type : 	 VQFN
+- Pin count : 	 48,00
+- Package Layout : 	 [C04-21425A](./mchp/packages/C04-21425A.pdf)
+- Package 3d model scad : 	 [C04-21425A](./Model3d/scad/C04-21425A.scad)
+please verify some data are inconsistante 	 
 Pin count : 48
 - 1 : PA00,  of Type IO, alternates : [TC2 WO_0, EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, SYSCTRL XIN32_]
 - 2 : PA01,  of Type IO, alternates : [EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, SYSCTRL XOUT32_, TC2 WO_1]
@@ -3069,6 +3434,13 @@ Pin count : 48
 
 ### Package : 
 
+- Package id : 	 [C04-21425A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 T3B
+- Package Type : 	 VQFN
+- Pin count : 	 48,00
+- Package Layout : 	 [C04-21425A](./mchp/packages/C04-21425A.pdf)
+- Package 3d model scad : 	 [C04-21425A](./Model3d/scad/C04-21425A.scad)
+please verify some data are inconsistante 	 
 Pin count : 48
 - 1 : PA00,  of Type IO, alternates : [TC2 WO_0, EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, SYSCTRL XIN32_]
 - 2 : PA01,  of Type IO, alternates : [EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, SYSCTRL XOUT32_, TC2 WO_1]
@@ -3136,6 +3508,15 @@ Pin count : 48
 
 ### Package : 
 
+- Package id : 	 [C04-00300D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 Y8X
+- Package Type : 	 TQFP
+- Pin count : 	 48,00
+- Package Layout : 	 [C04-00300D](./mchp/packages/C04-00300D.pdf)
+- Package 3d model wrl : 	 [C04-00300D](./Model3d/wrl/C04-00300D.wrl)
+- Package 3d model x3d : 	 [C04-00300D](./Model3d/x3d/C04-00300D.x3d)
+- Package 3d model scad : 	 [C04-00300D](./Model3d/scad/C04-00300D.scad)
+please verify some data are inconsistante 	 
 Pin count : 48
 - 1 : PA00,  of Type IO, alternates : [TC2 WO_0, EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, SYSCTRL XIN32_]
 - 2 : PA01,  of Type IO, alternates : [EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, SYSCTRL XOUT32_, TC2 WO_1]
@@ -3203,6 +3584,15 @@ Pin count : 48
 
 ### Package : 
 
+- Package id : 	 [C04-00300D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 Y8X
+- Package Type : 	 TQFP
+- Pin count : 	 48,00
+- Package Layout : 	 [C04-00300D](./mchp/packages/C04-00300D.pdf)
+- Package 3d model wrl : 	 [C04-00300D](./Model3d/wrl/C04-00300D.wrl)
+- Package 3d model x3d : 	 [C04-00300D](./Model3d/x3d/C04-00300D.x3d)
+- Package 3d model scad : 	 [C04-00300D](./Model3d/scad/C04-00300D.scad)
+please verify some data are inconsistante 	 
 Pin count : 48
 - 1 : PA00,  of Type IO, alternates : [TC2 WO_0, EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, SYSCTRL XIN32_]
 - 2 : PA01,  of Type IO, alternates : [EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, SYSCTRL XOUT32_, TC2 WO_1]
@@ -3270,6 +3660,13 @@ Pin count : 48
 
 ### Package : 
 
+- Package id : 	 [C04-21425A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 T3B
+- Package Type : 	 VQFN
+- Pin count : 	 48,00
+- Package Layout : 	 [C04-21425A](./mchp/packages/C04-21425A.pdf)
+- Package 3d model scad : 	 [C04-21425A](./Model3d/scad/C04-21425A.scad)
+please verify some data are inconsistante 	 
 Pin count : 48
 - 1 : PA00,  of Type IO, alternates : [TC2 WO_0, EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, SYSCTRL XIN32_]
 - 2 : PA01,  of Type IO, alternates : [EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, SYSCTRL XOUT32_, TC2 WO_1]
@@ -3337,6 +3734,13 @@ Pin count : 48
 
 ### Package : 
 
+- Package id : 	 [C04-21425A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 T3B
+- Package Type : 	 VQFN
+- Pin count : 	 48,00
+- Package Layout : 	 [C04-21425A](./mchp/packages/C04-21425A.pdf)
+- Package 3d model scad : 	 [C04-21425A](./Model3d/scad/C04-21425A.scad)
+please verify some data are inconsistante 	 
 Pin count : 48
 - 1 : PA00,  of Type IO, alternates : [TC2 WO_0, EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, SYSCTRL XIN32_]
 - 2 : PA01,  of Type IO, alternates : [EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, SYSCTRL XOUT32_, TC2 WO_1]
@@ -3404,6 +3808,15 @@ Pin count : 48
 
 ### Package : 
 
+- Package id : 	 [C04-00300D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 Y8X
+- Package Type : 	 TQFP
+- Pin count : 	 48,00
+- Package Layout : 	 [C04-00300D](./mchp/packages/C04-00300D.pdf)
+- Package 3d model wrl : 	 [C04-00300D](./Model3d/wrl/C04-00300D.wrl)
+- Package 3d model x3d : 	 [C04-00300D](./Model3d/x3d/C04-00300D.x3d)
+- Package 3d model scad : 	 [C04-00300D](./Model3d/scad/C04-00300D.scad)
+please verify some data are inconsistante 	 
 Pin count : 48
 - 1 : PA00,  of Type IO, alternates : [TC2 WO_0, EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, SYSCTRL XIN32_]
 - 2 : PA01,  of Type IO, alternates : [EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, SYSCTRL XOUT32_, TC2 WO_1]
@@ -3471,6 +3884,15 @@ Pin count : 48
 
 ### Package : 
 
+- Package id : 	 [C04-00300D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 Y8X
+- Package Type : 	 TQFP
+- Pin count : 	 48,00
+- Package Layout : 	 [C04-00300D](./mchp/packages/C04-00300D.pdf)
+- Package 3d model wrl : 	 [C04-00300D](./Model3d/wrl/C04-00300D.wrl)
+- Package 3d model x3d : 	 [C04-00300D](./Model3d/x3d/C04-00300D.x3d)
+- Package 3d model scad : 	 [C04-00300D](./Model3d/scad/C04-00300D.scad)
+please verify some data are inconsistante 	 
 Pin count : 48
 - 1 : PA00,  of Type IO, alternates : [TC2 WO_0, EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, SYSCTRL XIN32_]
 - 2 : PA01,  of Type IO, alternates : [EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, SYSCTRL XOUT32_, TC2 WO_1]
@@ -3538,6 +3960,13 @@ Pin count : 48
 
 ### Package : 
 
+- Package id : 	 [C04-21425A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 T3B
+- Package Type : 	 VQFN
+- Pin count : 	 48,00
+- Package Layout : 	 [C04-21425A](./mchp/packages/C04-21425A.pdf)
+- Package 3d model scad : 	 [C04-21425A](./Model3d/scad/C04-21425A.scad)
+please verify some data are inconsistante 	 
 Pin count : 48
 - 1 : PA00,  of Type IO, alternates : [TC2 WO_0, EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, SYSCTRL XIN32_]
 - 2 : PA01,  of Type IO, alternates : [EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, SYSCTRL XOUT32_, TC2 WO_1]
@@ -3605,6 +4034,13 @@ Pin count : 48
 
 ### Package : 
 
+- Package id : 	 [C04-21425A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 T3B
+- Package Type : 	 VQFN
+- Pin count : 	 48,00
+- Package Layout : 	 [C04-21425A](./mchp/packages/C04-21425A.pdf)
+- Package 3d model scad : 	 [C04-21425A](./Model3d/scad/C04-21425A.scad)
+please verify some data are inconsistante 	 
 Pin count : 48
 - 1 : PA00,  of Type IO, alternates : [TC2 WO_0, EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, SYSCTRL XIN32_]
 - 2 : PA01,  of Type IO, alternates : [EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, SYSCTRL XOUT32_, TC2 WO_1]
@@ -3672,6 +4108,15 @@ Pin count : 48
 
 ### Package : 
 
+- Package id : 	 [C04-00300D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 Y8X
+- Package Type : 	 TQFP
+- Pin count : 	 48,00
+- Package Layout : 	 [C04-00300D](./mchp/packages/C04-00300D.pdf)
+- Package 3d model wrl : 	 [C04-00300D](./Model3d/wrl/C04-00300D.wrl)
+- Package 3d model x3d : 	 [C04-00300D](./Model3d/x3d/C04-00300D.x3d)
+- Package 3d model scad : 	 [C04-00300D](./Model3d/scad/C04-00300D.scad)
+please verify some data are inconsistante 	 
 Pin count : 48
 - 1 : PA00,  of Type IO, alternates : [TC2 WO_0, EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, SYSCTRL XIN32_]
 - 2 : PA01,  of Type IO, alternates : [EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, SYSCTRL XOUT32_, TC2 WO_1]
@@ -3739,6 +4184,15 @@ Pin count : 48
 
 ### Package : 
 
+- Package id : 	 [C04-00300D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 Y8X
+- Package Type : 	 TQFP
+- Pin count : 	 48,00
+- Package Layout : 	 [C04-00300D](./mchp/packages/C04-00300D.pdf)
+- Package 3d model wrl : 	 [C04-00300D](./Model3d/wrl/C04-00300D.wrl)
+- Package 3d model x3d : 	 [C04-00300D](./Model3d/x3d/C04-00300D.x3d)
+- Package 3d model scad : 	 [C04-00300D](./Model3d/scad/C04-00300D.scad)
+please verify some data are inconsistante 	 
 Pin count : 48
 - 1 : PA00,  of Type IO, alternates : [TC2 WO_0, EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, SYSCTRL XIN32_]
 - 2 : PA01,  of Type IO, alternates : [EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, SYSCTRL XOUT32_, TC2 WO_1]
@@ -3806,6 +4260,13 @@ Pin count : 48
 
 ### Package : 
 
+- Package id : 	 [C04-21425A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 T3B
+- Package Type : 	 VQFN
+- Pin count : 	 48,00
+- Package Layout : 	 [C04-21425A](./mchp/packages/C04-21425A.pdf)
+- Package 3d model scad : 	 [C04-21425A](./Model3d/scad/C04-21425A.scad)
+please verify some data are inconsistante 	 
 Pin count : 48
 - 1 : PA00,  of Type IO, alternates : [TC2 WO_0, EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, SYSCTRL XIN32_]
 - 2 : PA01,  of Type IO, alternates : [EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, SYSCTRL XOUT32_, TC2 WO_1]
@@ -3873,6 +4334,13 @@ Pin count : 48
 
 ### Package : 
 
+- Package id : 	 [C04-21425A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 T3B
+- Package Type : 	 VQFN
+- Pin count : 	 48,00
+- Package Layout : 	 [C04-21425A](./mchp/packages/C04-21425A.pdf)
+- Package 3d model scad : 	 [C04-21425A](./Model3d/scad/C04-21425A.scad)
+please verify some data are inconsistante 	 
 Pin count : 48
 - 1 : PA00,  of Type IO, alternates : [TC2 WO_0, EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, SYSCTRL XIN32_]
 - 2 : PA01,  of Type IO, alternates : [EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, SYSCTRL XOUT32_, TC2 WO_1]
@@ -3940,6 +4408,15 @@ Pin count : 48
 
 ### Package : 
 
+- Package id : 	 [C04-00300D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 Y8X
+- Package Type : 	 TQFP
+- Pin count : 	 48,00
+- Package Layout : 	 [C04-00300D](./mchp/packages/C04-00300D.pdf)
+- Package 3d model wrl : 	 [C04-00300D](./Model3d/wrl/C04-00300D.wrl)
+- Package 3d model x3d : 	 [C04-00300D](./Model3d/x3d/C04-00300D.x3d)
+- Package 3d model scad : 	 [C04-00300D](./Model3d/scad/C04-00300D.scad)
+please verify some data are inconsistante 	 
 Pin count : 48
 - 1 : PA00,  of Type IO, alternates : [TC2 WO_0, EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, SYSCTRL XIN32_]
 - 2 : PA01,  of Type IO, alternates : [EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, SYSCTRL XOUT32_, TC2 WO_1]
@@ -4007,6 +4484,15 @@ Pin count : 48
 
 ### Package : 
 
+- Package id : 	 [C04-00300D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 Y8X
+- Package Type : 	 TQFP
+- Pin count : 	 48,00
+- Package Layout : 	 [C04-00300D](./mchp/packages/C04-00300D.pdf)
+- Package 3d model wrl : 	 [C04-00300D](./Model3d/wrl/C04-00300D.wrl)
+- Package 3d model x3d : 	 [C04-00300D](./Model3d/x3d/C04-00300D.x3d)
+- Package 3d model scad : 	 [C04-00300D](./Model3d/scad/C04-00300D.scad)
+please verify some data are inconsistante 	 
 Pin count : 48
 - 1 : PA00,  of Type IO, alternates : [TC2 WO_0, EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, SYSCTRL XIN32_]
 - 2 : PA01,  of Type IO, alternates : [EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, SYSCTRL XOUT32_, TC2 WO_1]
@@ -4074,6 +4560,13 @@ Pin count : 48
 
 ### Package : 
 
+- Package id : 	 [C04-21425A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 T3B
+- Package Type : 	 VQFN
+- Pin count : 	 48,00
+- Package Layout : 	 [C04-21425A](./mchp/packages/C04-21425A.pdf)
+- Package 3d model scad : 	 [C04-21425A](./Model3d/scad/C04-21425A.scad)
+please verify some data are inconsistante 	 
 Pin count : 48
 - 1 : PA00,  of Type IO, alternates : [TC2 WO_0, EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, SYSCTRL XIN32_]
 - 2 : PA01,  of Type IO, alternates : [EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, SYSCTRL XOUT32_, TC2 WO_1]
@@ -4141,6 +4634,13 @@ Pin count : 48
 
 ### Package : 
 
+- Package id : 	 [C04-21425A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 T3B
+- Package Type : 	 VQFN
+- Pin count : 	 48,00
+- Package Layout : 	 [C04-21425A](./mchp/packages/C04-21425A.pdf)
+- Package 3d model scad : 	 [C04-21425A](./Model3d/scad/C04-21425A.scad)
+please verify some data are inconsistante 	 
 Pin count : 48
 - 1 : PA00,  of Type IO, alternates : [TC2 WO_0, EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, SYSCTRL XIN32_]
 - 2 : PA01,  of Type IO, alternates : [EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, SYSCTRL XOUT32_, TC2 WO_1]
@@ -4272,6 +4772,13 @@ Pin count : 45
 
 ### Package : 
 
+- Package id : 	 [C04-21247A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 FSB
+- Package Type : 	 WLCSP
+- Pin count : 	 45,00
+- Package Layout : 	 [C04-21247A](./mchp/packages/C04-21247A.pdf)
+- Package 3d model scad : 	 [C04-21247A](./Model3d/scad/C04-21247A.scad)
+please verify some data are inconsistante 	 
 Pin count : 45
 - A2 : PA27,  of Type IO, alternates : [PORT P_27, EIC EXTINT_15, GCLK IO_0]
 - A4 : PA28,  of Type IO, alternates : [PORT P_28, EIC EXTINT_8, GCLK IO_0]
@@ -4336,6 +4843,15 @@ Pin count : 45
 
 ### Package : 
 
+- Package id : 	 [C04-00300D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 Y8X
+- Package Type : 	 TQFP
+- Pin count : 	 48,00
+- Package Layout : 	 [C04-00300D](./mchp/packages/C04-00300D.pdf)
+- Package 3d model wrl : 	 [C04-00300D](./Model3d/wrl/C04-00300D.wrl)
+- Package 3d model x3d : 	 [C04-00300D](./Model3d/x3d/C04-00300D.x3d)
+- Package 3d model scad : 	 [C04-00300D](./Model3d/scad/C04-00300D.scad)
+please verify some data are inconsistante 	 
 Pin count : 48
 - 1 : PA00,  of Type IO, alternates : [TC2 WO_0, EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, SYSCTRL XIN32_]
 - 2 : PA01,  of Type IO, alternates : [EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, SYSCTRL XOUT32_, TC2 WO_1]
@@ -4403,6 +4919,15 @@ Pin count : 48
 
 ### Package : 
 
+- Package id : 	 [C04-00300D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 Y8X
+- Package Type : 	 TQFP
+- Pin count : 	 48,00
+- Package Layout : 	 [C04-00300D](./mchp/packages/C04-00300D.pdf)
+- Package 3d model wrl : 	 [C04-00300D](./Model3d/wrl/C04-00300D.wrl)
+- Package 3d model x3d : 	 [C04-00300D](./Model3d/x3d/C04-00300D.x3d)
+- Package 3d model scad : 	 [C04-00300D](./Model3d/scad/C04-00300D.scad)
+please verify some data are inconsistante 	 
 Pin count : 48
 - 1 : PA00,  of Type IO, alternates : [TC2 WO_0, EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, SYSCTRL XIN32_]
 - 2 : PA01,  of Type IO, alternates : [EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, SYSCTRL XOUT32_, TC2 WO_1]
@@ -4470,6 +4995,13 @@ Pin count : 48
 
 ### Package : 
 
+- Package id : 	 [C04-21425A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 T3B
+- Package Type : 	 VQFN
+- Pin count : 	 48,00
+- Package Layout : 	 [C04-21425A](./mchp/packages/C04-21425A.pdf)
+- Package 3d model scad : 	 [C04-21425A](./Model3d/scad/C04-21425A.scad)
+please verify some data are inconsistante 	 
 Pin count : 48
 - 1 : PA00,  of Type IO, alternates : [TC2 WO_0, EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, SYSCTRL XIN32_]
 - 2 : PA01,  of Type IO, alternates : [EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, SYSCTRL XOUT32_, TC2 WO_1]
@@ -4537,6 +5069,13 @@ Pin count : 48
 
 ### Package : 
 
+- Package id : 	 [C04-21425A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 T3B
+- Package Type : 	 VQFN
+- Pin count : 	 48,00
+- Package Layout : 	 [C04-21425A](./mchp/packages/C04-21425A.pdf)
+- Package 3d model scad : 	 [C04-21425A](./Model3d/scad/C04-21425A.scad)
+please verify some data are inconsistante 	 
 Pin count : 48
 - 1 : PA00,  of Type IO, alternates : [TC2 WO_0, EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, SYSCTRL XIN32_]
 - 2 : PA01,  of Type IO, alternates : [EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, SYSCTRL XOUT32_, TC2 WO_1]
@@ -4604,6 +5143,13 @@ Pin count : 48
 
 ### Package : 
 
+- Package id : 	 [C04-21247A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 FSB
+- Package Type : 	 WLCSP
+- Pin count : 	 45,00
+- Package Layout : 	 [C04-21247A](./mchp/packages/C04-21247A.pdf)
+- Package 3d model scad : 	 [C04-21247A](./Model3d/scad/C04-21247A.scad)
+please verify some data are inconsistante 	 
 Pin count : 45
 - A2 : PA27,  of Type IO, alternates : [PORT P_27, EIC EXTINT_15, GCLK IO_0]
 - A4 : PA28,  of Type IO, alternates : [PORT P_28, EIC EXTINT_8, GCLK IO_0]
@@ -4668,6 +5214,13 @@ Pin count : 45
 
 ### Package : 
 
+- Package id : 	 [C04-21247A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 FSB
+- Package Type : 	 WLCSP
+- Pin count : 	 45,00
+- Package Layout : 	 [C04-21247A](./mchp/packages/C04-21247A.pdf)
+- Package 3d model scad : 	 [C04-21247A](./Model3d/scad/C04-21247A.scad)
+please verify some data are inconsistante 	 
 Pin count : 45
 - A2 : PA27,  of Type IO, alternates : [PORT P_27, EIC EXTINT_15, GCLK IO_0]
 - A4 : PA28,  of Type IO, alternates : [PORT P_28, EIC EXTINT_8, GCLK IO_0]
@@ -4898,6 +5451,13 @@ Pin count : 64
 
 ### Package : 
 
+- Package id : 	 [C04-21441A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 TMB
+- Package Type : 	 VQFN
+- Pin count : 	 64,00
+- Package Layout : 	 [C04-21441A](./mchp/packages/C04-21441A.pdf)
+- Package 3d model scad : 	 [C04-21441A](./Model3d/scad/C04-21441A.scad)
+please verify some data are inconsistante 	 
 Pin count : 64
 - 1 : PA00,  of Type IO, alternates : [TC2 WO_0, EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, SYSCTRL XIN32_]
 - 2 : PA01,  of Type IO, alternates : [EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, SYSCTRL XOUT32_, TC2 WO_1]
@@ -4981,6 +5541,13 @@ Pin count : 64
 
 ### Package : 
 
+- Package id : 	 [C04-21441A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 TMB
+- Package Type : 	 VQFN
+- Pin count : 	 64,00
+- Package Layout : 	 [C04-21441A](./mchp/packages/C04-21441A.pdf)
+- Package 3d model scad : 	 [C04-21441A](./Model3d/scad/C04-21441A.scad)
+please verify some data are inconsistante 	 
 Pin count : 64
 - 1 : PA00,  of Type IO, alternates : [TC2 WO_0, EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, SYSCTRL XIN32_]
 - 2 : PA01,  of Type IO, alternates : [EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, SYSCTRL XOUT32_, TC2 WO_1]
@@ -5230,6 +5797,13 @@ Pin count : 64
 
 ### Package : 
 
+- Package id : 	 [C04-21441A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 TMB
+- Package Type : 	 VQFN
+- Pin count : 	 64,00
+- Package Layout : 	 [C04-21441A](./mchp/packages/C04-21441A.pdf)
+- Package 3d model scad : 	 [C04-21441A](./Model3d/scad/C04-21441A.scad)
+please verify some data are inconsistante 	 
 Pin count : 64
 - 1 : PA00,  of Type IO, alternates : [TC2 WO_0, EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, SYSCTRL XIN32_]
 - 2 : PA01,  of Type IO, alternates : [EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, SYSCTRL XOUT32_, TC2 WO_1]
@@ -5313,6 +5887,13 @@ Pin count : 64
 
 ### Package : 
 
+- Package id : 	 [C04-21441A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 TMB
+- Package Type : 	 VQFN
+- Pin count : 	 64,00
+- Package Layout : 	 [C04-21441A](./mchp/packages/C04-21441A.pdf)
+- Package 3d model scad : 	 [C04-21441A](./Model3d/scad/C04-21441A.scad)
+please verify some data are inconsistante 	 
 Pin count : 64
 - 1 : PA00,  of Type IO, alternates : [TC2 WO_0, EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, SYSCTRL XIN32_]
 - 2 : PA01,  of Type IO, alternates : [EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, SYSCTRL XOUT32_, TC2 WO_1]
@@ -5562,6 +6143,13 @@ Pin count : 64
 
 ### Package : 
 
+- Package id : 	 [C04-21441A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 TMB
+- Package Type : 	 VQFN
+- Pin count : 	 64,00
+- Package Layout : 	 [C04-21441A](./mchp/packages/C04-21441A.pdf)
+- Package 3d model scad : 	 [C04-21441A](./Model3d/scad/C04-21441A.scad)
+please verify some data are inconsistante 	 
 Pin count : 64
 - 1 : PA00,  of Type IO, alternates : [TC2 WO_0, EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, SYSCTRL XIN32_]
 - 2 : PA01,  of Type IO, alternates : [EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, SYSCTRL XOUT32_, TC2 WO_1]
@@ -5645,6 +6233,13 @@ Pin count : 64
 
 ### Package : 
 
+- Package id : 	 [C04-21441A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 TMB
+- Package Type : 	 VQFN
+- Pin count : 	 64,00
+- Package Layout : 	 [C04-21441A](./mchp/packages/C04-21441A.pdf)
+- Package 3d model scad : 	 [C04-21441A](./Model3d/scad/C04-21441A.scad)
+please verify some data are inconsistante 	 
 Pin count : 64
 - 1 : PA00,  of Type IO, alternates : [TC2 WO_0, EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, SYSCTRL XIN32_]
 - 2 : PA01,  of Type IO, alternates : [EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, SYSCTRL XOUT32_, TC2 WO_1]
@@ -5894,6 +6489,13 @@ Pin count : 64
 
 ### Package : 
 
+- Package id : 	 [C04-21441A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 TMB
+- Package Type : 	 VQFN
+- Pin count : 	 64,00
+- Package Layout : 	 [C04-21441A](./mchp/packages/C04-21441A.pdf)
+- Package 3d model scad : 	 [C04-21441A](./Model3d/scad/C04-21441A.scad)
+please verify some data are inconsistante 	 
 Pin count : 64
 - 1 : PA00,  of Type IO, alternates : [TC2 WO_0, EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, SYSCTRL XIN32_]
 - 2 : PA01,  of Type IO, alternates : [EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, SYSCTRL XOUT32_, TC2 WO_1]
@@ -5977,6 +6579,13 @@ Pin count : 64
 
 ### Package : 
 
+- Package id : 	 [C04-21441A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 TMB
+- Package Type : 	 VQFN
+- Pin count : 	 64,00
+- Package Layout : 	 [C04-21441A](./mchp/packages/C04-21441A.pdf)
+- Package 3d model scad : 	 [C04-21441A](./Model3d/scad/C04-21441A.scad)
+please verify some data are inconsistante 	 
 Pin count : 64
 - 1 : PA00,  of Type IO, alternates : [TC2 WO_0, EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, SYSCTRL XIN32_]
 - 2 : PA01,  of Type IO, alternates : [EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, SYSCTRL XOUT32_, TC2 WO_1]
@@ -6226,6 +6835,13 @@ Pin count : 64
 
 ### Package : 
 
+- Package id : 	 [C04-21441A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 TMB
+- Package Type : 	 VQFN
+- Pin count : 	 64,00
+- Package Layout : 	 [C04-21441A](./mchp/packages/C04-21441A.pdf)
+- Package 3d model scad : 	 [C04-21441A](./Model3d/scad/C04-21441A.scad)
+please verify some data are inconsistante 	 
 Pin count : 64
 - 1 : PA00,  of Type IO, alternates : [TC2 WO_0, EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, SYSCTRL XIN32_]
 - 2 : PA01,  of Type IO, alternates : [EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, SYSCTRL XOUT32_, TC2 WO_1]
@@ -6309,6 +6925,13 @@ Pin count : 64
 
 ### Package : 
 
+- Package id : 	 [C04-21441A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 TMB
+- Package Type : 	 VQFN
+- Pin count : 	 64,00
+- Package Layout : 	 [C04-21441A](./mchp/packages/C04-21441A.pdf)
+- Package 3d model scad : 	 [C04-21441A](./Model3d/scad/C04-21441A.scad)
+please verify some data are inconsistante 	 
 Pin count : 64
 - 1 : PA00,  of Type IO, alternates : [TC2 WO_0, EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, SYSCTRL XIN32_]
 - 2 : PA01,  of Type IO, alternates : [EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, SYSCTRL XOUT32_, TC2 WO_1]
@@ -6558,6 +7181,13 @@ Pin count : 64
 
 ### Package : 
 
+- Package id : 	 [C04-21441A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 TMB
+- Package Type : 	 VQFN
+- Pin count : 	 64,00
+- Package Layout : 	 [C04-21441A](./mchp/packages/C04-21441A.pdf)
+- Package 3d model scad : 	 [C04-21441A](./Model3d/scad/C04-21441A.scad)
+please verify some data are inconsistante 	 
 Pin count : 64
 - 1 : PA00,  of Type IO, alternates : [TC2 WO_0, EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, SYSCTRL XIN32_]
 - 2 : PA01,  of Type IO, alternates : [EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, SYSCTRL XOUT32_, TC2 WO_1]
@@ -6641,6 +7271,13 @@ Pin count : 64
 
 ### Package : 
 
+- Package id : 	 [C04-21441A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 TMB
+- Package Type : 	 VQFN
+- Pin count : 	 64,00
+- Package Layout : 	 [C04-21441A](./mchp/packages/C04-21441A.pdf)
+- Package 3d model scad : 	 [C04-21441A](./Model3d/scad/C04-21441A.scad)
+please verify some data are inconsistante 	 
 Pin count : 64
 - 1 : PA00,  of Type IO, alternates : [TC2 WO_0, EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, SYSCTRL XIN32_]
 - 2 : PA01,  of Type IO, alternates : [EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, SYSCTRL XOUT32_, TC2 WO_1]
@@ -6890,6 +7527,13 @@ Pin count : 64
 
 ### Package : 
 
+- Package id : 	 [C04-21441A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 TMB
+- Package Type : 	 VQFN
+- Pin count : 	 64,00
+- Package Layout : 	 [C04-21441A](./mchp/packages/C04-21441A.pdf)
+- Package 3d model scad : 	 [C04-21441A](./Model3d/scad/C04-21441A.scad)
+please verify some data are inconsistante 	 
 Pin count : 64
 - 1 : PA00,  of Type IO, alternates : [TC2 WO_0, EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, SYSCTRL XIN32_]
 - 2 : PA01,  of Type IO, alternates : [EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, SYSCTRL XOUT32_, TC2 WO_1]
@@ -6973,6 +7617,13 @@ Pin count : 64
 
 ### Package : 
 
+- Package id : 	 [C04-21441A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 TMB
+- Package Type : 	 VQFN
+- Pin count : 	 64,00
+- Package Layout : 	 [C04-21441A](./mchp/packages/C04-21441A.pdf)
+- Package 3d model scad : 	 [C04-21441A](./Model3d/scad/C04-21441A.scad)
+please verify some data are inconsistante 	 
 Pin count : 64
 - 1 : PA00,  of Type IO, alternates : [TC2 WO_0, EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, SYSCTRL XIN32_]
 - 2 : PA01,  of Type IO, alternates : [EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, SYSCTRL XOUT32_, TC2 WO_1]
@@ -7222,6 +7873,15 @@ Pin count : 64
 
 ### Package : 
 
+- Package id : 	 [C04-21153B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 BQB
+- Package Type : 	 UFBGA
+- Pin count : 	 64,00
+- Package Layout : 	 [C04-21153B](./mchp/packages/C04-21153B.pdf)
+- Package 3d model wrl : 	 [C04-21153B](./Model3d/wrl/C04-21153B.wrl)
+- Package 3d model x3d : 	 [C04-21153B](./Model3d/x3d/C04-21153B.x3d)
+- Package 3d model scad : 	 [C04-21153B](./Model3d/scad/C04-21153B.scad)
+please verify some data are inconsistante 	 
 Pin count : 64
 - A1 : PB02,  of Type IO, alternates : [PORT P_34, SERCOM5 PAD_0, ADC AIN_10, EIC EXTINT_2, TC6 WO_0, PTC Y_8]
 - A2 : PB01,  of Type IO, alternates : [PORT P_33, SERCOM5 PAD_3, ADC AIN_9, EIC EXTINT_1, TC7 WO_1, PTC Y_7]
@@ -7305,6 +7965,15 @@ Pin count : 64
 
 ### Package : 
 
+- Package id : 	 [C04-21153B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 BQB
+- Package Type : 	 UFBGA
+- Pin count : 	 64,00
+- Package Layout : 	 [C04-21153B](./mchp/packages/C04-21153B.pdf)
+- Package 3d model wrl : 	 [C04-21153B](./Model3d/wrl/C04-21153B.wrl)
+- Package 3d model x3d : 	 [C04-21153B](./Model3d/x3d/C04-21153B.x3d)
+- Package 3d model scad : 	 [C04-21153B](./Model3d/scad/C04-21153B.scad)
+please verify some data are inconsistante 	 
 Pin count : 64
 - A1 : PB02,  of Type IO, alternates : [PORT P_34, SERCOM5 PAD_0, ADC AIN_10, EIC EXTINT_2, TC6 WO_0, PTC Y_8]
 - A2 : PB01,  of Type IO, alternates : [PORT P_33, SERCOM5 PAD_3, ADC AIN_9, EIC EXTINT_1, TC7 WO_1, PTC Y_7]
@@ -7388,6 +8057,13 @@ Pin count : 64
 
 ### Package : 
 
+- Package id : 	 [C04-21441A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 TMB
+- Package Type : 	 VQFN
+- Pin count : 	 64,00
+- Package Layout : 	 [C04-21441A](./mchp/packages/C04-21441A.pdf)
+- Package 3d model scad : 	 [C04-21441A](./Model3d/scad/C04-21441A.scad)
+please verify some data are inconsistante 	 
 Pin count : 64
 - 1 : PA00,  of Type IO, alternates : [TC2 WO_0, EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, SYSCTRL XIN32_]
 - 2 : PA01,  of Type IO, alternates : [EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, SYSCTRL XOUT32_, TC2 WO_1]
@@ -7471,6 +8147,13 @@ Pin count : 64
 
 ### Package : 
 
+- Package id : 	 [C04-21441A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 TMB
+- Package Type : 	 VQFN
+- Pin count : 	 64,00
+- Package Layout : 	 [C04-21441A](./mchp/packages/C04-21441A.pdf)
+- Package 3d model scad : 	 [C04-21441A](./Model3d/scad/C04-21441A.scad)
+please verify some data are inconsistante 	 
 Pin count : 64
 - 1 : PA00,  of Type IO, alternates : [TC2 WO_0, EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, SYSCTRL XIN32_]
 - 2 : PA01,  of Type IO, alternates : [EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, SYSCTRL XOUT32_, TC2 WO_1]
@@ -7707,6 +8390,13 @@ Pin count : 32
 
 ### Package : 
 
+- Package id : 	 [C04-21402A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 S8B
+- Package Type : 	 VQFN
+- Pin count : 	 32,00
+- Package Layout : 	 [C04-21402A](./mchp/packages/C04-21402A.pdf)
+- Package 3d model scad : 	 [C04-21402A](./Model3d/scad/C04-21402A.scad)
+please verify some data are inconsistante 	 
 Pin count : 33
 - 1 : PA00,  of Type IO, alternates : [EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, TCC2 WO_0, SYSCTRL XIN32_]
 - 2 : PA01,  of Type IO, alternates : [EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, SYSCTRL XOUT32_, TCC2 WO_1]
@@ -7863,6 +8553,13 @@ Pin count : 33
 
 ### Package : 
 
+- Package id : 	 [C04-00074D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 T5X
+- Package Type : 	 TQFP
+- Pin count : 	 32,00
+- Package Layout : 	 [C04-00074D](./mchp/packages/C04-00074D.pdf)
+- Package 3d model scad : 	 [C04-00074D](./Model3d/scad/C04-00074D.scad)
+please verify some data are inconsistante 	 
 Pin count : 32
 - 1 : PA00,  of Type IO, alternates : [EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, TCC2 WO_0, SYSCTRL XIN32_]
 - 2 : PA01,  of Type IO, alternates : [EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, SYSCTRL XOUT32_, TCC2 WO_1]
@@ -7914,6 +8611,13 @@ Pin count : 32
 
 ### Package : 
 
+- Package id : 	 [C04-00074D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 T5X
+- Package Type : 	 TQFP
+- Pin count : 	 32,00
+- Package Layout : 	 [C04-00074D](./mchp/packages/C04-00074D.pdf)
+- Package 3d model scad : 	 [C04-00074D](./Model3d/scad/C04-00074D.scad)
+please verify some data are inconsistante 	 
 Pin count : 32
 - 1 : PA00,  of Type IO, alternates : [EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, TCC2 WO_0, SYSCTRL XIN32_]
 - 2 : PA01,  of Type IO, alternates : [EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, SYSCTRL XOUT32_, TCC2 WO_1]
@@ -7965,6 +8669,13 @@ Pin count : 32
 
 ### Package : 
 
+- Package id : 	 [C04-00074D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 T5X
+- Package Type : 	 TQFP
+- Pin count : 	 32,00
+- Package Layout : 	 [C04-00074D](./mchp/packages/C04-00074D.pdf)
+- Package 3d model scad : 	 [C04-00074D](./Model3d/scad/C04-00074D.scad)
+please verify some data are inconsistante 	 
 Pin count : 32
 - 1 : PA00,  of Type IO, alternates : [EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, TCC2 WO_0, SYSCTRL XIN32_]
 - 2 : PA01,  of Type IO, alternates : [EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, SYSCTRL XOUT32_, TCC2 WO_1]
@@ -8016,6 +8727,13 @@ Pin count : 32
 
 ### Package : 
 
+- Package id : 	 [C04-21402A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 S8B
+- Package Type : 	 VQFN
+- Pin count : 	 32,00
+- Package Layout : 	 [C04-21402A](./mchp/packages/C04-21402A.pdf)
+- Package 3d model scad : 	 [C04-21402A](./Model3d/scad/C04-21402A.scad)
+please verify some data are inconsistante 	 
 Pin count : 32
 - 1 : PA00,  of Type IO, alternates : [EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, TCC2 WO_0, SYSCTRL XIN32_]
 - 2 : PA01,  of Type IO, alternates : [EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, SYSCTRL XOUT32_, TCC2 WO_1]
@@ -8067,6 +8785,13 @@ Pin count : 32
 
 ### Package : 
 
+- Package id : 	 [C04-21402A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 S8B
+- Package Type : 	 VQFN
+- Pin count : 	 32,00
+- Package Layout : 	 [C04-21402A](./mchp/packages/C04-21402A.pdf)
+- Package 3d model scad : 	 [C04-21402A](./Model3d/scad/C04-21402A.scad)
+please verify some data are inconsistante 	 
 Pin count : 32
 - 1 : PA00,  of Type IO, alternates : [EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, TCC2 WO_0, SYSCTRL XIN32_]
 - 2 : PA01,  of Type IO, alternates : [EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, SYSCTRL XOUT32_, TCC2 WO_1]
@@ -8223,6 +8948,13 @@ Pin count : 35
 
 ### Package : 
 
+- Package id : 	 [C04-21245A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 FQB
+- Package Type : 	 WLCSP
+- Pin count : 	 35,00
+- Package Layout : 	 [C04-21245A](./mchp/packages/C04-21245A.pdf)
+- Package 3d model scad : 	 [C04-21245A](./Model3d/scad/C04-21245A.scad)
+please verify some data are inconsistante 	 
 Pin count : 35
 - A1 : PA00,  of Type IO, alternates : [EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, TCC2 WO_0, SYSCTRL XIN32_]
 - A2 : PA01,  of Type IO, alternates : [EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, SYSCTRL XOUT32_, TCC2 WO_1]
@@ -8331,6 +9063,13 @@ Pin count : 35
 
 ### Package : 
 
+- Package id : 	 [C04-21492A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 GFB
+- Package Type : 	 WLCSP
+- Pin count : 	 35,00
+- Package Layout : 	 [C04-21492A](./mchp/packages/C04-21492A.pdf)
+- Package 3d model scad : 	 [C04-21492A](./Model3d/scad/C04-21492A.scad)
+please verify some data are inconsistante 	 
 Pin count : 35
 - A1 : PA00,  of Type IO, alternates : [EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, TCC2 WO_0, SYSCTRL XIN32_]
 - A2 : PA01,  of Type IO, alternates : [EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, SYSCTRL XOUT32_, TCC2 WO_1]
@@ -8385,6 +9124,13 @@ Pin count : 35
 
 ### Package : 
 
+- Package id : 	 [C04-00074D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 T5X
+- Package Type : 	 TQFP
+- Pin count : 	 32,00
+- Package Layout : 	 [C04-00074D](./mchp/packages/C04-00074D.pdf)
+- Package 3d model scad : 	 [C04-00074D](./Model3d/scad/C04-00074D.scad)
+please verify some data are inconsistante 	 
 Pin count : 32
 - 1 : PA02,  of Type IO, alternates : [PORT P_2, ADC AIN_0, EIC EXTINT_2, DAC VOUT_]
 - 2 : PA03,  of Type IO, alternates : [PORT P_3, EIC EXTINT_3, ADC AIN_1, DAC VREFP_]
@@ -8487,6 +9233,13 @@ Pin count : 32
 
 ### Package : 
 
+- Package id : 	 [C04-21402A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 S8B
+- Package Type : 	 VQFN
+- Pin count : 	 32,00
+- Package Layout : 	 [C04-21402A](./mchp/packages/C04-21402A.pdf)
+- Package 3d model scad : 	 [C04-21402A](./Model3d/scad/C04-21402A.scad)
+please verify some data are inconsistante 	 
 Pin count : 32
 - 1 : PA02,  of Type IO, alternates : [PORT P_2, ADC AIN_0, EIC EXTINT_2, DAC VOUT_]
 - 2 : PA03,  of Type IO, alternates : [PORT P_3, EIC EXTINT_3, ADC AIN_1, DAC VREFP_]
@@ -8538,6 +9291,13 @@ Pin count : 32
 
 ### Package : 
 
+- Package id : 	 [C04-21402A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 S8B
+- Package Type : 	 VQFN
+- Pin count : 	 32,00
+- Package Layout : 	 [C04-21402A](./mchp/packages/C04-21402A.pdf)
+- Package 3d model scad : 	 [C04-21402A](./Model3d/scad/C04-21402A.scad)
+please verify some data are inconsistante 	 
 Pin count : 32
 - 1 : PA02,  of Type IO, alternates : [PORT P_2, ADC AIN_0, EIC EXTINT_2, DAC VOUT_]
 - 2 : PA03,  of Type IO, alternates : [PORT P_3, EIC EXTINT_3, ADC AIN_1, DAC VREFP_]
@@ -8898,6 +9658,13 @@ Pin count : 33
 
 ### Package : 
 
+- Package id : 	 [C04-00074D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 T5X
+- Package Type : 	 TQFP
+- Pin count : 	 32,00
+- Package Layout : 	 [C04-00074D](./mchp/packages/C04-00074D.pdf)
+- Package 3d model scad : 	 [C04-00074D](./Model3d/scad/C04-00074D.scad)
+please verify some data are inconsistante 	 
 Pin count : 32
 - 1 : PA00,  of Type IO, alternates : [EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, TCC2 WO_0, SYSCTRL XIN32_]
 - 2 : PA01,  of Type IO, alternates : [EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, SYSCTRL XOUT32_, TCC2 WO_1]
@@ -8949,6 +9716,13 @@ Pin count : 32
 
 ### Package : 
 
+- Package id : 	 [C04-00074D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 T5X
+- Package Type : 	 TQFP
+- Pin count : 	 32,00
+- Package Layout : 	 [C04-00074D](./mchp/packages/C04-00074D.pdf)
+- Package 3d model scad : 	 [C04-00074D](./Model3d/scad/C04-00074D.scad)
+please verify some data are inconsistante 	 
 Pin count : 32
 - 1 : PA00,  of Type IO, alternates : [EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, TCC2 WO_0, SYSCTRL XIN32_]
 - 2 : PA01,  of Type IO, alternates : [EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, SYSCTRL XOUT32_, TCC2 WO_1]
@@ -9000,6 +9774,13 @@ Pin count : 32
 
 ### Package : 
 
+- Package id : 	 [C04-00074D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 T5X
+- Package Type : 	 TQFP
+- Pin count : 	 32,00
+- Package Layout : 	 [C04-00074D](./mchp/packages/C04-00074D.pdf)
+- Package 3d model scad : 	 [C04-00074D](./Model3d/scad/C04-00074D.scad)
+please verify some data are inconsistante 	 
 Pin count : 32
 - 1 : PA00,  of Type IO, alternates : [EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, TCC2 WO_0, SYSCTRL XIN32_]
 - 2 : PA01,  of Type IO, alternates : [EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, SYSCTRL XOUT32_, TCC2 WO_1]
@@ -9051,6 +9832,13 @@ Pin count : 32
 
 ### Package : 
 
+- Package id : 	 [C04-21402A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 S8B
+- Package Type : 	 VQFN
+- Pin count : 	 32,00
+- Package Layout : 	 [C04-21402A](./mchp/packages/C04-21402A.pdf)
+- Package 3d model scad : 	 [C04-21402A](./Model3d/scad/C04-21402A.scad)
+please verify some data are inconsistante 	 
 Pin count : 32
 - 1 : PA00,  of Type IO, alternates : [EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, TCC2 WO_0, SYSCTRL XIN32_]
 - 2 : PA01,  of Type IO, alternates : [EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, SYSCTRL XOUT32_, TCC2 WO_1]
@@ -9102,6 +9890,13 @@ Pin count : 32
 
 ### Package : 
 
+- Package id : 	 [C04-21402A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 S8B
+- Package Type : 	 VQFN
+- Pin count : 	 32,00
+- Package Layout : 	 [C04-21402A](./mchp/packages/C04-21402A.pdf)
+- Package 3d model scad : 	 [C04-21402A](./Model3d/scad/C04-21402A.scad)
+please verify some data are inconsistante 	 
 Pin count : 32
 - 1 : PA00,  of Type IO, alternates : [EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, TCC2 WO_0, SYSCTRL XIN32_]
 - 2 : PA01,  of Type IO, alternates : [EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, SYSCTRL XOUT32_, TCC2 WO_1]
@@ -9258,6 +10053,13 @@ Pin count : 35
 
 ### Package : 
 
+- Package id : 	 [C04-21245A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 FQB
+- Package Type : 	 WLCSP
+- Pin count : 	 35,00
+- Package Layout : 	 [C04-21245A](./mchp/packages/C04-21245A.pdf)
+- Package 3d model scad : 	 [C04-21245A](./Model3d/scad/C04-21245A.scad)
+please verify some data are inconsistante 	 
 Pin count : 35
 - A1 : PA00,  of Type IO, alternates : [EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, TCC2 WO_0, SYSCTRL XIN32_]
 - A2 : PA01,  of Type IO, alternates : [EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, SYSCTRL XOUT32_, TCC2 WO_1]
@@ -9366,6 +10168,13 @@ Pin count : 35
 
 ### Package : 
 
+- Package id : 	 [C04-21492A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 GFB
+- Package Type : 	 WLCSP
+- Pin count : 	 35,00
+- Package Layout : 	 [C04-21492A](./mchp/packages/C04-21492A.pdf)
+- Package 3d model scad : 	 [C04-21492A](./Model3d/scad/C04-21492A.scad)
+please verify some data are inconsistante 	 
 Pin count : 35
 - A1 : PA00,  of Type IO, alternates : [EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, TCC2 WO_0, SYSCTRL XIN32_]
 - A2 : PA01,  of Type IO, alternates : [EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, SYSCTRL XOUT32_, TCC2 WO_1]
@@ -9420,6 +10229,13 @@ Pin count : 35
 
 ### Package : 
 
+- Package id : 	 [C04-00074D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 T5X
+- Package Type : 	 TQFP
+- Pin count : 	 32,00
+- Package Layout : 	 [C04-00074D](./mchp/packages/C04-00074D.pdf)
+- Package 3d model scad : 	 [C04-00074D](./Model3d/scad/C04-00074D.scad)
+please verify some data are inconsistante 	 
 Pin count : 32
 - 1 : PA02,  of Type IO, alternates : [PORT P_2, ADC AIN_0, EIC EXTINT_2, DAC VOUT_]
 - 2 : PA03,  of Type IO, alternates : [PORT P_3, EIC EXTINT_3, ADC AIN_1, DAC VREFP_]
@@ -9522,6 +10338,13 @@ Pin count : 32
 
 ### Package : 
 
+- Package id : 	 [C04-21402A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 S8B
+- Package Type : 	 VQFN
+- Pin count : 	 32,00
+- Package Layout : 	 [C04-21402A](./mchp/packages/C04-21402A.pdf)
+- Package 3d model scad : 	 [C04-21402A](./Model3d/scad/C04-21402A.scad)
+please verify some data are inconsistante 	 
 Pin count : 32
 - 1 : PA02,  of Type IO, alternates : [PORT P_2, ADC AIN_0, EIC EXTINT_2, DAC VOUT_]
 - 2 : PA03,  of Type IO, alternates : [PORT P_3, EIC EXTINT_3, ADC AIN_1, DAC VREFP_]
@@ -9573,6 +10396,13 @@ Pin count : 32
 
 ### Package : 
 
+- Package id : 	 [C04-21402A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 S8B
+- Package Type : 	 VQFN
+- Pin count : 	 32,00
+- Package Layout : 	 [C04-21402A](./mchp/packages/C04-21402A.pdf)
+- Package 3d model scad : 	 [C04-21402A](./Model3d/scad/C04-21402A.scad)
+please verify some data are inconsistante 	 
 Pin count : 32
 - 1 : PA02,  of Type IO, alternates : [PORT P_2, ADC AIN_0, EIC EXTINT_2, DAC VOUT_]
 - 2 : PA03,  of Type IO, alternates : [PORT P_3, EIC EXTINT_3, ADC AIN_1, DAC VREFP_]
@@ -9624,6 +10454,13 @@ Pin count : 32
 
 ### Package : 
 
+- Package id : 	 [C04-00074D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 T5X
+- Package Type : 	 TQFP
+- Pin count : 	 32,00
+- Package Layout : 	 [C04-00074D](./mchp/packages/C04-00074D.pdf)
+- Package 3d model scad : 	 [C04-00074D](./Model3d/scad/C04-00074D.scad)
+please verify some data are inconsistante 	 
 Pin count : 32
 - 1 : PA00,  of Type IO, alternates : [EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, TCC2 WO_0, SYSCTRL XIN32_]
 - 2 : PA01,  of Type IO, alternates : [EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, SYSCTRL XOUT32_, TCC2 WO_1]
@@ -9675,6 +10512,13 @@ Pin count : 32
 
 ### Package : 
 
+- Package id : 	 [C04-00074D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 T5X
+- Package Type : 	 TQFP
+- Pin count : 	 32,00
+- Package Layout : 	 [C04-00074D](./mchp/packages/C04-00074D.pdf)
+- Package 3d model scad : 	 [C04-00074D](./Model3d/scad/C04-00074D.scad)
+please verify some data are inconsistante 	 
 Pin count : 32
 - 1 : PA00,  of Type IO, alternates : [EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, TCC2 WO_0, SYSCTRL XIN32_]
 - 2 : PA01,  of Type IO, alternates : [EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, SYSCTRL XOUT32_, TCC2 WO_1]
@@ -9726,6 +10570,13 @@ Pin count : 32
 
 ### Package : 
 
+- Package id : 	 [C04-00074D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 T5X
+- Package Type : 	 TQFP
+- Pin count : 	 32,00
+- Package Layout : 	 [C04-00074D](./mchp/packages/C04-00074D.pdf)
+- Package 3d model scad : 	 [C04-00074D](./Model3d/scad/C04-00074D.scad)
+please verify some data are inconsistante 	 
 Pin count : 32
 - 1 : PA00,  of Type IO, alternates : [EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, TCC2 WO_0, SYSCTRL XIN32_]
 - 2 : PA01,  of Type IO, alternates : [EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, SYSCTRL XOUT32_, TCC2 WO_1]
@@ -9777,6 +10628,13 @@ Pin count : 32
 
 ### Package : 
 
+- Package id : 	 [C04-21402A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 S8B
+- Package Type : 	 VQFN
+- Pin count : 	 32,00
+- Package Layout : 	 [C04-21402A](./mchp/packages/C04-21402A.pdf)
+- Package 3d model scad : 	 [C04-21402A](./Model3d/scad/C04-21402A.scad)
+please verify some data are inconsistante 	 
 Pin count : 33
 - 1 : PA00,  of Type IO, alternates : [EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, TCC2 WO_0, SYSCTRL XIN32_]
 - 2 : PA01,  of Type IO, alternates : [EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, SYSCTRL XOUT32_, TCC2 WO_1]
@@ -9829,6 +10687,13 @@ Pin count : 33
 
 ### Package : 
 
+- Package id : 	 [C04-21402A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 S8B
+- Package Type : 	 VQFN
+- Pin count : 	 32,00
+- Package Layout : 	 [C04-21402A](./mchp/packages/C04-21402A.pdf)
+- Package 3d model scad : 	 [C04-21402A](./Model3d/scad/C04-21402A.scad)
+please verify some data are inconsistante 	 
 Pin count : 33
 - 1 : PA00,  of Type IO, alternates : [EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, TCC2 WO_0, SYSCTRL XIN32_]
 - 2 : PA01,  of Type IO, alternates : [EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, SYSCTRL XOUT32_, TCC2 WO_1]
@@ -9933,6 +10798,13 @@ Pin count : 33
 
 ### Package : 
 
+- Package id : 	 [C04-00074D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 T5X
+- Package Type : 	 TQFP
+- Pin count : 	 32,00
+- Package Layout : 	 [C04-00074D](./mchp/packages/C04-00074D.pdf)
+- Package 3d model scad : 	 [C04-00074D](./Model3d/scad/C04-00074D.scad)
+please verify some data are inconsistante 	 
 Pin count : 32
 - 1 : PA00,  of Type IO, alternates : [EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, TCC2 WO_0, SYSCTRL XIN32_]
 - 2 : PA01,  of Type IO, alternates : [EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, SYSCTRL XOUT32_, TCC2 WO_1]
@@ -9984,6 +10856,13 @@ Pin count : 32
 
 ### Package : 
 
+- Package id : 	 [C04-00074D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 T5X
+- Package Type : 	 TQFP
+- Pin count : 	 32,00
+- Package Layout : 	 [C04-00074D](./mchp/packages/C04-00074D.pdf)
+- Package 3d model scad : 	 [C04-00074D](./Model3d/scad/C04-00074D.scad)
+please verify some data are inconsistante 	 
 Pin count : 32
 - 1 : PA00,  of Type IO, alternates : [EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, TCC2 WO_0, SYSCTRL XIN32_]
 - 2 : PA01,  of Type IO, alternates : [EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, SYSCTRL XOUT32_, TCC2 WO_1]
@@ -10035,6 +10914,13 @@ Pin count : 32
 
 ### Package : 
 
+- Package id : 	 [C04-00074D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 T5X
+- Package Type : 	 TQFP
+- Pin count : 	 32,00
+- Package Layout : 	 [C04-00074D](./mchp/packages/C04-00074D.pdf)
+- Package 3d model scad : 	 [C04-00074D](./Model3d/scad/C04-00074D.scad)
+please verify some data are inconsistante 	 
 Pin count : 32
 - 1 : PA00,  of Type IO, alternates : [EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, TCC2 WO_0, SYSCTRL XIN32_]
 - 2 : PA01,  of Type IO, alternates : [EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, SYSCTRL XOUT32_, TCC2 WO_1]
@@ -10086,6 +10972,13 @@ Pin count : 32
 
 ### Package : 
 
+- Package id : 	 [C04-21402A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 S8B
+- Package Type : 	 VQFN
+- Pin count : 	 32,00
+- Package Layout : 	 [C04-21402A](./mchp/packages/C04-21402A.pdf)
+- Package 3d model scad : 	 [C04-21402A](./Model3d/scad/C04-21402A.scad)
+please verify some data are inconsistante 	 
 Pin count : 32
 - 1 : PA00,  of Type IO, alternates : [EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, TCC2 WO_0, SYSCTRL XIN32_]
 - 2 : PA01,  of Type IO, alternates : [EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, SYSCTRL XOUT32_, TCC2 WO_1]
@@ -10137,6 +11030,13 @@ Pin count : 32
 
 ### Package : 
 
+- Package id : 	 [C04-21402A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 S8B
+- Package Type : 	 VQFN
+- Pin count : 	 32,00
+- Package Layout : 	 [C04-21402A](./mchp/packages/C04-21402A.pdf)
+- Package 3d model scad : 	 [C04-21402A](./Model3d/scad/C04-21402A.scad)
+please verify some data are inconsistante 	 
 Pin count : 32
 - 1 : PA00,  of Type IO, alternates : [EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, TCC2 WO_0, SYSCTRL XIN32_]
 - 2 : PA01,  of Type IO, alternates : [EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, SYSCTRL XOUT32_, TCC2 WO_1]
@@ -10293,6 +11193,13 @@ Pin count : 35
 
 ### Package : 
 
+- Package id : 	 [C04-00074D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 T5X
+- Package Type : 	 TQFP
+- Pin count : 	 32,00
+- Package Layout : 	 [C04-00074D](./mchp/packages/C04-00074D.pdf)
+- Package 3d model scad : 	 [C04-00074D](./Model3d/scad/C04-00074D.scad)
+please verify some data are inconsistante 	 
 Pin count : 32
 - 1 : PA02,  of Type IO, alternates : [PORT P_2, ADC AIN_0, EIC EXTINT_2, DAC VOUT_, TCC3 WO_0]
 - 2 : PA03,  of Type IO, alternates : [PORT P_3, EIC EXTINT_3, ADC AIN_1, DAC VREFP_, TCC3 WO_1]
@@ -10395,6 +11302,13 @@ Pin count : 32
 
 ### Package : 
 
+- Package id : 	 [C04-21402A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 S8B
+- Package Type : 	 VQFN
+- Pin count : 	 32,00
+- Package Layout : 	 [C04-21402A](./mchp/packages/C04-21402A.pdf)
+- Package 3d model scad : 	 [C04-21402A](./Model3d/scad/C04-21402A.scad)
+please verify some data are inconsistante 	 
 Pin count : 32
 - 1 : PA02,  of Type IO, alternates : [PORT P_2, ADC AIN_0, EIC EXTINT_2, DAC VOUT_, TCC3 WO_0]
 - 2 : PA03,  of Type IO, alternates : [PORT P_3, EIC EXTINT_3, ADC AIN_1, DAC VREFP_, TCC3 WO_1]
@@ -10446,6 +11360,13 @@ Pin count : 32
 
 ### Package : 
 
+- Package id : 	 [C04-21402A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 S8B
+- Package Type : 	 VQFN
+- Pin count : 	 32,00
+- Package Layout : 	 [C04-21402A](./mchp/packages/C04-21402A.pdf)
+- Package 3d model scad : 	 [C04-21402A](./Model3d/scad/C04-21402A.scad)
+please verify some data are inconsistante 	 
 Pin count : 32
 - 1 : PA02,  of Type IO, alternates : [PORT P_2, ADC AIN_0, EIC EXTINT_2, DAC VOUT_, TCC3 WO_0]
 - 2 : PA03,  of Type IO, alternates : [PORT P_3, EIC EXTINT_3, ADC AIN_1, DAC VREFP_, TCC3 WO_1]
@@ -10599,6 +11520,13 @@ Pin count : 32
 
 ### Package : 
 
+- Package id : 	 [C04-00074D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 T5X
+- Package Type : 	 TQFP
+- Pin count : 	 32,00
+- Package Layout : 	 [C04-00074D](./mchp/packages/C04-00074D.pdf)
+- Package 3d model scad : 	 [C04-00074D](./Model3d/scad/C04-00074D.scad)
+please verify some data are inconsistante 	 
 Pin count : 32
 - 1 : PA00,  of Type IO, alternates : [EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, TCC2 WO_0, SYSCTRL XIN32_]
 - 2 : PA01,  of Type IO, alternates : [EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, SYSCTRL XOUT32_, TCC2 WO_1]
@@ -10650,6 +11578,13 @@ Pin count : 32
 
 ### Package : 
 
+- Package id : 	 [C04-00074D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 T5X
+- Package Type : 	 TQFP
+- Pin count : 	 32,00
+- Package Layout : 	 [C04-00074D](./mchp/packages/C04-00074D.pdf)
+- Package 3d model scad : 	 [C04-00074D](./Model3d/scad/C04-00074D.scad)
+please verify some data are inconsistante 	 
 Pin count : 32
 - 1 : PA00,  of Type IO, alternates : [EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, TCC2 WO_0, SYSCTRL XIN32_]
 - 2 : PA01,  of Type IO, alternates : [EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, SYSCTRL XOUT32_, TCC2 WO_1]
@@ -10701,6 +11636,13 @@ Pin count : 32
 
 ### Package : 
 
+- Package id : 	 [C04-00074D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 T5X
+- Package Type : 	 TQFP
+- Pin count : 	 32,00
+- Package Layout : 	 [C04-00074D](./mchp/packages/C04-00074D.pdf)
+- Package 3d model scad : 	 [C04-00074D](./Model3d/scad/C04-00074D.scad)
+please verify some data are inconsistante 	 
 Pin count : 32
 - 1 : PA00,  of Type IO, alternates : [EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, TCC2 WO_0, SYSCTRL XIN32_]
 - 2 : PA01,  of Type IO, alternates : [EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, SYSCTRL XOUT32_, TCC2 WO_1]
@@ -10752,6 +11694,13 @@ Pin count : 32
 
 ### Package : 
 
+- Package id : 	 [C04-21402A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 S8B
+- Package Type : 	 VQFN
+- Pin count : 	 32,00
+- Package Layout : 	 [C04-21402A](./mchp/packages/C04-21402A.pdf)
+- Package 3d model scad : 	 [C04-21402A](./Model3d/scad/C04-21402A.scad)
+please verify some data are inconsistante 	 
 Pin count : 33
 - 1 : PA00,  of Type IO, alternates : [EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, TCC2 WO_0, SYSCTRL XIN32_]
 - 2 : PA01,  of Type IO, alternates : [EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, SYSCTRL XOUT32_, TCC2 WO_1]
@@ -10804,6 +11753,13 @@ Pin count : 33
 
 ### Package : 
 
+- Package id : 	 [C04-21402A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 S8B
+- Package Type : 	 VQFN
+- Pin count : 	 32,00
+- Package Layout : 	 [C04-21402A](./mchp/packages/C04-21402A.pdf)
+- Package 3d model scad : 	 [C04-21402A](./Model3d/scad/C04-21402A.scad)
+please verify some data are inconsistante 	 
 Pin count : 33
 - 1 : PA00,  of Type IO, alternates : [EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, TCC2 WO_0, SYSCTRL XIN32_]
 - 2 : PA01,  of Type IO, alternates : [EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, SYSCTRL XOUT32_, TCC2 WO_1]
@@ -11310,6 +12266,15 @@ Pin count : 48
 
 ### Package : 
 
+- Package id : 	 [C04-00300D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 Y8X
+- Package Type : 	 TQFP
+- Pin count : 	 48,00
+- Package Layout : 	 [C04-00300D](./mchp/packages/C04-00300D.pdf)
+- Package 3d model wrl : 	 [C04-00300D](./Model3d/wrl/C04-00300D.wrl)
+- Package 3d model x3d : 	 [C04-00300D](./Model3d/x3d/C04-00300D.x3d)
+- Package 3d model scad : 	 [C04-00300D](./Model3d/scad/C04-00300D.scad)
+please verify some data are inconsistante 	 
 Pin count : 48
 - 1 : PA00,  of Type IO, alternates : [EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, TCC2 WO_0, SYSCTRL XIN32_]
 - 2 : PA01,  of Type IO, alternates : [EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, SYSCTRL XOUT32_, TCC2 WO_1]
@@ -11377,6 +12342,15 @@ Pin count : 48
 
 ### Package : 
 
+- Package id : 	 [C04-00300D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 Y8X
+- Package Type : 	 TQFP
+- Pin count : 	 48,00
+- Package Layout : 	 [C04-00300D](./mchp/packages/C04-00300D.pdf)
+- Package 3d model wrl : 	 [C04-00300D](./Model3d/wrl/C04-00300D.wrl)
+- Package 3d model x3d : 	 [C04-00300D](./Model3d/x3d/C04-00300D.x3d)
+- Package 3d model scad : 	 [C04-00300D](./Model3d/scad/C04-00300D.scad)
+please verify some data are inconsistante 	 
 Pin count : 48
 - 1 : PA00,  of Type IO, alternates : [EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, TCC2 WO_0, SYSCTRL XIN32_]
 - 2 : PA01,  of Type IO, alternates : [EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, SYSCTRL XOUT32_, TCC2 WO_1]
@@ -11444,6 +12418,15 @@ Pin count : 48
 
 ### Package : 
 
+- Package id : 	 [C04-00300D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 Y8X
+- Package Type : 	 TQFP
+- Pin count : 	 48,00
+- Package Layout : 	 [C04-00300D](./mchp/packages/C04-00300D.pdf)
+- Package 3d model wrl : 	 [C04-00300D](./Model3d/wrl/C04-00300D.wrl)
+- Package 3d model x3d : 	 [C04-00300D](./Model3d/x3d/C04-00300D.x3d)
+- Package 3d model scad : 	 [C04-00300D](./Model3d/scad/C04-00300D.scad)
+please verify some data are inconsistante 	 
 Pin count : 48
 - 1 : PA00,  of Type IO, alternates : [EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, TCC2 WO_0, SYSCTRL XIN32_]
 - 2 : PA01,  of Type IO, alternates : [EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, SYSCTRL XOUT32_, TCC2 WO_1]
@@ -11511,6 +12494,13 @@ Pin count : 48
 
 ### Package : 
 
+- Package id : 	 [C04-21425A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 T3B
+- Package Type : 	 VQFN
+- Pin count : 	 48,00
+- Package Layout : 	 [C04-21425A](./mchp/packages/C04-21425A.pdf)
+- Package 3d model scad : 	 [C04-21425A](./Model3d/scad/C04-21425A.scad)
+please verify some data are inconsistante 	 
 Pin count : 48
 - 1 : PA00,  of Type IO, alternates : [EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, TCC2 WO_0, SYSCTRL XIN32_]
 - 2 : PA01,  of Type IO, alternates : [EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, SYSCTRL XOUT32_, TCC2 WO_1]
@@ -11578,6 +12568,13 @@ Pin count : 48
 
 ### Package : 
 
+- Package id : 	 [C04-21425A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 T3B
+- Package Type : 	 VQFN
+- Pin count : 	 48,00
+- Package Layout : 	 [C04-21425A](./mchp/packages/C04-21425A.pdf)
+- Package 3d model scad : 	 [C04-21425A](./Model3d/scad/C04-21425A.scad)
+please verify some data are inconsistante 	 
 Pin count : 48
 - 1 : PA00,  of Type IO, alternates : [EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, TCC2 WO_0, SYSCTRL XIN32_]
 - 2 : PA01,  of Type IO, alternates : [EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, SYSCTRL XOUT32_, TCC2 WO_1]
@@ -11645,6 +12642,13 @@ Pin count : 48
 
 ### Package : 
 
+- Package id : 	 [C04-21493A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 U5B
+- Package Type : 	 VQFN
+- Pin count : 	 48,00
+- Package Layout : 	 [C04-21493A](./mchp/packages/C04-21493A.pdf)
+- Package 3d model scad : 	 [C04-21493A](./Model3d/scad/C04-21493A.scad)
+please verify some data are inconsistante 	 
 Pin count : 48
 - 1 : PA00,  of Type IO, alternates : [EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, TCC2 WO_0, SYSCTRL XIN32_]
 - 2 : PA01,  of Type IO, alternates : [EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, SYSCTRL XOUT32_, TCC2 WO_1]
@@ -12248,6 +13252,15 @@ Pin count : 48
 
 ### Package : 
 
+- Package id : 	 [C04-00300D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 Y8X
+- Package Type : 	 TQFP
+- Pin count : 	 48,00
+- Package Layout : 	 [C04-00300D](./mchp/packages/C04-00300D.pdf)
+- Package 3d model wrl : 	 [C04-00300D](./Model3d/wrl/C04-00300D.wrl)
+- Package 3d model x3d : 	 [C04-00300D](./Model3d/x3d/C04-00300D.x3d)
+- Package 3d model scad : 	 [C04-00300D](./Model3d/scad/C04-00300D.scad)
+please verify some data are inconsistante 	 
 Pin count : 48
 - 1 : PA00,  of Type IO, alternates : [EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, TCC2 WO_0, SYSCTRL XIN32_]
 - 2 : PA01,  of Type IO, alternates : [EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, SYSCTRL XOUT32_, TCC2 WO_1]
@@ -12315,6 +13328,15 @@ Pin count : 48
 
 ### Package : 
 
+- Package id : 	 [C04-00300D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 Y8X
+- Package Type : 	 TQFP
+- Pin count : 	 48,00
+- Package Layout : 	 [C04-00300D](./mchp/packages/C04-00300D.pdf)
+- Package 3d model wrl : 	 [C04-00300D](./Model3d/wrl/C04-00300D.wrl)
+- Package 3d model x3d : 	 [C04-00300D](./Model3d/x3d/C04-00300D.x3d)
+- Package 3d model scad : 	 [C04-00300D](./Model3d/scad/C04-00300D.scad)
+please verify some data are inconsistante 	 
 Pin count : 48
 - 1 : PA00,  of Type IO, alternates : [EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, TCC2 WO_0, SYSCTRL XIN32_]
 - 2 : PA01,  of Type IO, alternates : [EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, SYSCTRL XOUT32_, TCC2 WO_1]
@@ -12382,6 +13404,15 @@ Pin count : 48
 
 ### Package : 
 
+- Package id : 	 [C04-00300D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 Y8X
+- Package Type : 	 TQFP
+- Pin count : 	 48,00
+- Package Layout : 	 [C04-00300D](./mchp/packages/C04-00300D.pdf)
+- Package 3d model wrl : 	 [C04-00300D](./Model3d/wrl/C04-00300D.wrl)
+- Package 3d model x3d : 	 [C04-00300D](./Model3d/x3d/C04-00300D.x3d)
+- Package 3d model scad : 	 [C04-00300D](./Model3d/scad/C04-00300D.scad)
+please verify some data are inconsistante 	 
 Pin count : 48
 - 1 : PA00,  of Type IO, alternates : [EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, TCC2 WO_0, SYSCTRL XIN32_]
 - 2 : PA01,  of Type IO, alternates : [EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, SYSCTRL XOUT32_, TCC2 WO_1]
@@ -12449,6 +13480,13 @@ Pin count : 48
 
 ### Package : 
 
+- Package id : 	 [C04-21425A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 T3B
+- Package Type : 	 VQFN
+- Pin count : 	 48,00
+- Package Layout : 	 [C04-21425A](./mchp/packages/C04-21425A.pdf)
+- Package 3d model scad : 	 [C04-21425A](./Model3d/scad/C04-21425A.scad)
+please verify some data are inconsistante 	 
 Pin count : 48
 - 1 : PA00,  of Type IO, alternates : [EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, TCC2 WO_0, SYSCTRL XIN32_]
 - 2 : PA01,  of Type IO, alternates : [EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, SYSCTRL XOUT32_, TCC2 WO_1]
@@ -12516,6 +13554,13 @@ Pin count : 48
 
 ### Package : 
 
+- Package id : 	 [C04-21425A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 T3B
+- Package Type : 	 VQFN
+- Pin count : 	 48,00
+- Package Layout : 	 [C04-21425A](./mchp/packages/C04-21425A.pdf)
+- Package 3d model scad : 	 [C04-21425A](./Model3d/scad/C04-21425A.scad)
+please verify some data are inconsistante 	 
 Pin count : 48
 - 1 : PA00,  of Type IO, alternates : [EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, TCC2 WO_0, SYSCTRL XIN32_]
 - 2 : PA01,  of Type IO, alternates : [EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, SYSCTRL XOUT32_, TCC2 WO_1]
@@ -12583,6 +13628,13 @@ Pin count : 48
 
 ### Package : 
 
+- Package id : 	 [C04-21493A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 U5B
+- Package Type : 	 VQFN
+- Pin count : 	 48,00
+- Package Layout : 	 [C04-21493A](./mchp/packages/C04-21493A.pdf)
+- Package 3d model scad : 	 [C04-21493A](./Model3d/scad/C04-21493A.scad)
+please verify some data are inconsistante 	 
 Pin count : 48
 - 1 : PA00,  of Type IO, alternates : [EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, TCC2 WO_0, SYSCTRL XIN32_]
 - 2 : PA01,  of Type IO, alternates : [EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, SYSCTRL XOUT32_, TCC2 WO_1]
@@ -12650,6 +13702,13 @@ Pin count : 48
 
 ### Package : 
 
+- Package id : 	 [C04-21425A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 T3B
+- Package Type : 	 VQFN
+- Pin count : 	 48,00
+- Package Layout : 	 [C04-21425A](./mchp/packages/C04-21425A.pdf)
+- Package 3d model scad : 	 [C04-21425A](./Model3d/scad/C04-21425A.scad)
+please verify some data are inconsistante 	 
 Pin count : 48
 - 1 : PA02,  of Type IO, alternates : [PORT P_2, ADC AIN_0, EIC EXTINT_2, DAC VOUT_]
 - 2 : PA03,  of Type IO, alternates : [PORT P_3, EIC EXTINT_3, ADC AIN_1, DAC VREFP_]
@@ -12717,6 +13776,13 @@ Pin count : 48
 
 ### Package : 
 
+- Package id : 	 [C04-21425A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 T3B
+- Package Type : 	 VQFN
+- Pin count : 	 48,00
+- Package Layout : 	 [C04-21425A](./mchp/packages/C04-21425A.pdf)
+- Package 3d model scad : 	 [C04-21425A](./Model3d/scad/C04-21425A.scad)
+please verify some data are inconsistante 	 
 Pin count : 48
 - 1 : PA02,  of Type IO, alternates : [PORT P_2, ADC AIN_0, EIC EXTINT_2, DAC VOUT_]
 - 2 : PA03,  of Type IO, alternates : [PORT P_3, EIC EXTINT_3, ADC AIN_1, DAC VREFP_]
@@ -12784,6 +13850,15 @@ Pin count : 48
 
 ### Package : 
 
+- Package id : 	 [C04-00300D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 Y8X
+- Package Type : 	 TQFP
+- Pin count : 	 48,00
+- Package Layout : 	 [C04-00300D](./mchp/packages/C04-00300D.pdf)
+- Package 3d model wrl : 	 [C04-00300D](./Model3d/wrl/C04-00300D.wrl)
+- Package 3d model x3d : 	 [C04-00300D](./Model3d/x3d/C04-00300D.x3d)
+- Package 3d model scad : 	 [C04-00300D](./Model3d/scad/C04-00300D.scad)
+please verify some data are inconsistante 	 
 Pin count : 48
 - 1 : PA00,  of Type IO, alternates : [EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, TCC2 WO_0, SYSCTRL XIN32_]
 - 2 : PA01,  of Type IO, alternates : [EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, SYSCTRL XOUT32_, TCC2 WO_1]
@@ -12851,6 +13926,15 @@ Pin count : 48
 
 ### Package : 
 
+- Package id : 	 [C04-00300D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 Y8X
+- Package Type : 	 TQFP
+- Pin count : 	 48,00
+- Package Layout : 	 [C04-00300D](./mchp/packages/C04-00300D.pdf)
+- Package 3d model wrl : 	 [C04-00300D](./Model3d/wrl/C04-00300D.wrl)
+- Package 3d model x3d : 	 [C04-00300D](./Model3d/x3d/C04-00300D.x3d)
+- Package 3d model scad : 	 [C04-00300D](./Model3d/scad/C04-00300D.scad)
+please verify some data are inconsistante 	 
 Pin count : 48
 - 1 : PA00,  of Type IO, alternates : [EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, TCC2 WO_0, SYSCTRL XIN32_]
 - 2 : PA01,  of Type IO, alternates : [EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, SYSCTRL XOUT32_, TCC2 WO_1]
@@ -12918,6 +14002,15 @@ Pin count : 48
 
 ### Package : 
 
+- Package id : 	 [C04-00300D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 Y8X
+- Package Type : 	 TQFP
+- Pin count : 	 48,00
+- Package Layout : 	 [C04-00300D](./mchp/packages/C04-00300D.pdf)
+- Package 3d model wrl : 	 [C04-00300D](./Model3d/wrl/C04-00300D.wrl)
+- Package 3d model x3d : 	 [C04-00300D](./Model3d/x3d/C04-00300D.x3d)
+- Package 3d model scad : 	 [C04-00300D](./Model3d/scad/C04-00300D.scad)
+please verify some data are inconsistante 	 
 Pin count : 48
 - 1 : PA00,  of Type IO, alternates : [EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, TCC2 WO_0, SYSCTRL XIN32_]
 - 2 : PA01,  of Type IO, alternates : [EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, SYSCTRL XOUT32_, TCC2 WO_1]
@@ -12985,6 +14078,13 @@ Pin count : 48
 
 ### Package : 
 
+- Package id : 	 [C04-21425A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 T3B
+- Package Type : 	 VQFN
+- Pin count : 	 48,00
+- Package Layout : 	 [C04-21425A](./mchp/packages/C04-21425A.pdf)
+- Package 3d model scad : 	 [C04-21425A](./Model3d/scad/C04-21425A.scad)
+please verify some data are inconsistante 	 
 Pin count : 48
 - 1 : PA00,  of Type IO, alternates : [EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, TCC2 WO_0, SYSCTRL XIN32_]
 - 2 : PA01,  of Type IO, alternates : [EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, SYSCTRL XOUT32_, TCC2 WO_1]
@@ -13052,6 +14152,13 @@ Pin count : 48
 
 ### Package : 
 
+- Package id : 	 [C04-21425A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 T3B
+- Package Type : 	 VQFN
+- Pin count : 	 48,00
+- Package Layout : 	 [C04-21425A](./mchp/packages/C04-21425A.pdf)
+- Package 3d model scad : 	 [C04-21425A](./Model3d/scad/C04-21425A.scad)
+please verify some data are inconsistante 	 
 Pin count : 48
 - 1 : PA00,  of Type IO, alternates : [EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, TCC2 WO_0, SYSCTRL XIN32_]
 - 2 : PA01,  of Type IO, alternates : [EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, SYSCTRL XOUT32_, TCC2 WO_1]
@@ -13119,6 +14226,13 @@ Pin count : 48
 
 ### Package : 
 
+- Package id : 	 [C04-21493A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 U5B
+- Package Type : 	 VQFN
+- Pin count : 	 48,00
+- Package Layout : 	 [C04-21493A](./mchp/packages/C04-21493A.pdf)
+- Package 3d model scad : 	 [C04-21493A](./Model3d/scad/C04-21493A.scad)
+please verify some data are inconsistante 	 
 Pin count : 48
 - 1 : PA00,  of Type IO, alternates : [EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, TCC2 WO_0, SYSCTRL XIN32_]
 - 2 : PA01,  of Type IO, alternates : [EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, SYSCTRL XOUT32_, TCC2 WO_1]
@@ -13186,6 +14300,15 @@ Pin count : 48
 
 ### Package : 
 
+- Package id : 	 [C04-21255A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 G2B
+- Package Type : 	 WLCSP
+- Pin count : 	 45,00
+- Package Layout : 	 [C04-21255A](./mchp/packages/C04-21255A.pdf)
+- Package 3d model wrl : 	 [C04-21255A](./Model3d/wrl/C04-21255A.wrl)
+- Package 3d model x3d : 	 [C04-21255A](./Model3d/x3d/C04-21255A.x3d)
+- Package 3d model scad : 	 [C04-21255A](./Model3d/scad/C04-21255A.scad)
+please verify some data are inconsistante 	 
 Pin count : 45
 - A2 : PA27,  of Type IO, alternates : [PORT P_27, EIC EXTINT_15, GCLK IO_0]
 - A4 : PA28,  of Type IO, alternates : [PORT P_28, EIC EXTINT_8, GCLK IO_0]
@@ -13250,6 +14373,15 @@ Pin count : 45
 
 ### Package : 
 
+- Package id : 	 [C04-00300D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 Y8X
+- Package Type : 	 TQFP
+- Pin count : 	 48,00
+- Package Layout : 	 [C04-00300D](./mchp/packages/C04-00300D.pdf)
+- Package 3d model wrl : 	 [C04-00300D](./Model3d/wrl/C04-00300D.wrl)
+- Package 3d model x3d : 	 [C04-00300D](./Model3d/x3d/C04-00300D.x3d)
+- Package 3d model scad : 	 [C04-00300D](./Model3d/scad/C04-00300D.scad)
+please verify some data are inconsistante 	 
 Pin count : 48
 - 1 : PA00,  of Type IO, alternates : [EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, TCC2 WO_0, SYSCTRL XIN32_]
 - 2 : PA01,  of Type IO, alternates : [EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, SYSCTRL XOUT32_, TCC2 WO_1]
@@ -13317,6 +14449,15 @@ Pin count : 48
 
 ### Package : 
 
+- Package id : 	 [C04-00300D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 Y8X
+- Package Type : 	 TQFP
+- Pin count : 	 48,00
+- Package Layout : 	 [C04-00300D](./mchp/packages/C04-00300D.pdf)
+- Package 3d model wrl : 	 [C04-00300D](./Model3d/wrl/C04-00300D.wrl)
+- Package 3d model x3d : 	 [C04-00300D](./Model3d/x3d/C04-00300D.x3d)
+- Package 3d model scad : 	 [C04-00300D](./Model3d/scad/C04-00300D.scad)
+please verify some data are inconsistante 	 
 Pin count : 48
 - 1 : PA00,  of Type IO, alternates : [EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, TCC2 WO_0, SYSCTRL XIN32_]
 - 2 : PA01,  of Type IO, alternates : [EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, SYSCTRL XOUT32_, TCC2 WO_1]
@@ -13384,6 +14525,15 @@ Pin count : 48
 
 ### Package : 
 
+- Package id : 	 [C04-00300D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 Y8X
+- Package Type : 	 TQFP
+- Pin count : 	 48,00
+- Package Layout : 	 [C04-00300D](./mchp/packages/C04-00300D.pdf)
+- Package 3d model wrl : 	 [C04-00300D](./Model3d/wrl/C04-00300D.wrl)
+- Package 3d model x3d : 	 [C04-00300D](./Model3d/x3d/C04-00300D.x3d)
+- Package 3d model scad : 	 [C04-00300D](./Model3d/scad/C04-00300D.scad)
+please verify some data are inconsistante 	 
 Pin count : 48
 - 1 : PA00,  of Type IO, alternates : [EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, TCC2 WO_0, SYSCTRL XIN32_]
 - 2 : PA01,  of Type IO, alternates : [EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, SYSCTRL XOUT32_, TCC2 WO_1]
@@ -13451,6 +14601,13 @@ Pin count : 48
 
 ### Package : 
 
+- Package id : 	 [C04-21425A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 T3B
+- Package Type : 	 VQFN
+- Pin count : 	 48,00
+- Package Layout : 	 [C04-21425A](./mchp/packages/C04-21425A.pdf)
+- Package 3d model scad : 	 [C04-21425A](./Model3d/scad/C04-21425A.scad)
+please verify some data are inconsistante 	 
 Pin count : 48
 - 1 : PA00,  of Type IO, alternates : [EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, TCC2 WO_0, SYSCTRL XIN32_]
 - 2 : PA01,  of Type IO, alternates : [EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, SYSCTRL XOUT32_, TCC2 WO_1]
@@ -13518,6 +14675,13 @@ Pin count : 48
 
 ### Package : 
 
+- Package id : 	 [C04-21425A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 T3B
+- Package Type : 	 VQFN
+- Pin count : 	 48,00
+- Package Layout : 	 [C04-21425A](./mchp/packages/C04-21425A.pdf)
+- Package 3d model scad : 	 [C04-21425A](./Model3d/scad/C04-21425A.scad)
+please verify some data are inconsistante 	 
 Pin count : 48
 - 1 : PA00,  of Type IO, alternates : [EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, TCC2 WO_0, SYSCTRL XIN32_]
 - 2 : PA01,  of Type IO, alternates : [EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, SYSCTRL XOUT32_, TCC2 WO_1]
@@ -13585,6 +14749,13 @@ Pin count : 48
 
 ### Package : 
 
+- Package id : 	 [C04-21493A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 U5B
+- Package Type : 	 VQFN
+- Pin count : 	 48,00
+- Package Layout : 	 [C04-21493A](./mchp/packages/C04-21493A.pdf)
+- Package 3d model scad : 	 [C04-21493A](./Model3d/scad/C04-21493A.scad)
+please verify some data are inconsistante 	 
 Pin count : 48
 - 1 : PA00,  of Type IO, alternates : [EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, TCC2 WO_0, SYSCTRL XIN32_]
 - 2 : PA01,  of Type IO, alternates : [EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, SYSCTRL XOUT32_, TCC2 WO_1]
@@ -13652,6 +14823,13 @@ Pin count : 48
 
 ### Package : 
 
+- Package id : 	 [C04-21425A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 T3B
+- Package Type : 	 VQFN
+- Pin count : 	 48,00
+- Package Layout : 	 [C04-21425A](./mchp/packages/C04-21425A.pdf)
+- Package 3d model scad : 	 [C04-21425A](./Model3d/scad/C04-21425A.scad)
+please verify some data are inconsistante 	 
 Pin count : 48
 - 1 : PA02,  of Type IO, alternates : [PORT P_2, ADC AIN_0, EIC EXTINT_2, DAC VOUT_, TCC3 WO_0]
 - 2 : PA03,  of Type IO, alternates : [PORT P_3, EIC EXTINT_3, ADC AIN_1, DAC VREFP_, TCC3 WO_1]
@@ -13719,6 +14897,13 @@ Pin count : 48
 
 ### Package : 
 
+- Package id : 	 [C04-21425A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 T3B
+- Package Type : 	 VQFN
+- Pin count : 	 48,00
+- Package Layout : 	 [C04-21425A](./mchp/packages/C04-21425A.pdf)
+- Package 3d model scad : 	 [C04-21425A](./Model3d/scad/C04-21425A.scad)
+please verify some data are inconsistante 	 
 Pin count : 48
 - 1 : PA02,  of Type IO, alternates : [PORT P_2, ADC AIN_0, EIC EXTINT_2, DAC VOUT_, TCC3 WO_0]
 - 2 : PA03,  of Type IO, alternates : [PORT P_3, EIC EXTINT_3, ADC AIN_1, DAC VREFP_, TCC3 WO_1]
@@ -13786,6 +14971,13 @@ Pin count : 48
 
 ### Package : 
 
+- Package id : 	 [C04-21425A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 T3B
+- Package Type : 	 VQFN
+- Pin count : 	 48,00
+- Package Layout : 	 [C04-21425A](./mchp/packages/C04-21425A.pdf)
+- Package 3d model scad : 	 [C04-21425A](./Model3d/scad/C04-21425A.scad)
+please verify some data are inconsistante 	 
 Pin count : 48
 - 1 : PA02,  of Type IO, alternates : [PORT P_2, ADC AIN_0, EIC EXTINT_2, DAC VOUT_, TCC3 WO_0]
 - 2 : PA03,  of Type IO, alternates : [PORT P_3, EIC EXTINT_3, ADC AIN_1, DAC VREFP_, TCC3 WO_1]
@@ -13853,6 +15045,15 @@ Pin count : 48
 
 ### Package : 
 
+- Package id : 	 [C04-00300D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 Y8X
+- Package Type : 	 TQFP
+- Pin count : 	 48,00
+- Package Layout : 	 [C04-00300D](./mchp/packages/C04-00300D.pdf)
+- Package 3d model wrl : 	 [C04-00300D](./Model3d/wrl/C04-00300D.wrl)
+- Package 3d model x3d : 	 [C04-00300D](./Model3d/x3d/C04-00300D.x3d)
+- Package 3d model scad : 	 [C04-00300D](./Model3d/scad/C04-00300D.scad)
+please verify some data are inconsistante 	 
 Pin count : 48
 - 1 : PA00,  of Type IO, alternates : [EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, TCC2 WO_0, SYSCTRL XIN32_]
 - 2 : PA01,  of Type IO, alternates : [EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, SYSCTRL XOUT32_, TCC2 WO_1]
@@ -13920,6 +15121,15 @@ Pin count : 48
 
 ### Package : 
 
+- Package id : 	 [C04-00300D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 Y8X
+- Package Type : 	 TQFP
+- Pin count : 	 48,00
+- Package Layout : 	 [C04-00300D](./mchp/packages/C04-00300D.pdf)
+- Package 3d model wrl : 	 [C04-00300D](./Model3d/wrl/C04-00300D.wrl)
+- Package 3d model x3d : 	 [C04-00300D](./Model3d/x3d/C04-00300D.x3d)
+- Package 3d model scad : 	 [C04-00300D](./Model3d/scad/C04-00300D.scad)
+please verify some data are inconsistante 	 
 Pin count : 48
 - 1 : PA00,  of Type IO, alternates : [EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, TCC2 WO_0, SYSCTRL XIN32_]
 - 2 : PA01,  of Type IO, alternates : [EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, SYSCTRL XOUT32_, TCC2 WO_1]
@@ -13987,6 +15197,15 @@ Pin count : 48
 
 ### Package : 
 
+- Package id : 	 [C04-00300D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 Y8X
+- Package Type : 	 TQFP
+- Pin count : 	 48,00
+- Package Layout : 	 [C04-00300D](./mchp/packages/C04-00300D.pdf)
+- Package 3d model wrl : 	 [C04-00300D](./Model3d/wrl/C04-00300D.wrl)
+- Package 3d model x3d : 	 [C04-00300D](./Model3d/x3d/C04-00300D.x3d)
+- Package 3d model scad : 	 [C04-00300D](./Model3d/scad/C04-00300D.scad)
+please verify some data are inconsistante 	 
 Pin count : 48
 - 1 : PA00,  of Type IO, alternates : [EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, TCC2 WO_0, SYSCTRL XIN32_]
 - 2 : PA01,  of Type IO, alternates : [EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, SYSCTRL XOUT32_, TCC2 WO_1]
@@ -14054,6 +15273,13 @@ Pin count : 48
 
 ### Package : 
 
+- Package id : 	 [C04-21425A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 T3B
+- Package Type : 	 VQFN
+- Pin count : 	 48,00
+- Package Layout : 	 [C04-21425A](./mchp/packages/C04-21425A.pdf)
+- Package 3d model scad : 	 [C04-21425A](./Model3d/scad/C04-21425A.scad)
+please verify some data are inconsistante 	 
 Pin count : 48
 - 1 : PA00,  of Type IO, alternates : [EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, TCC2 WO_0, SYSCTRL XIN32_]
 - 2 : PA01,  of Type IO, alternates : [EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, SYSCTRL XOUT32_, TCC2 WO_1]
@@ -14121,6 +15347,13 @@ Pin count : 48
 
 ### Package : 
 
+- Package id : 	 [C04-21425A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 T3B
+- Package Type : 	 VQFN
+- Pin count : 	 48,00
+- Package Layout : 	 [C04-21425A](./mchp/packages/C04-21425A.pdf)
+- Package 3d model scad : 	 [C04-21425A](./Model3d/scad/C04-21425A.scad)
+please verify some data are inconsistante 	 
 Pin count : 48
 - 1 : PA00,  of Type IO, alternates : [EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, TCC2 WO_0, SYSCTRL XIN32_]
 - 2 : PA01,  of Type IO, alternates : [EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, SYSCTRL XOUT32_, TCC2 WO_1]
@@ -14188,6 +15421,13 @@ Pin count : 48
 
 ### Package : 
 
+- Package id : 	 [C04-21493A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 U5B
+- Package Type : 	 VQFN
+- Pin count : 	 48,00
+- Package Layout : 	 [C04-21493A](./mchp/packages/C04-21493A.pdf)
+- Package 3d model scad : 	 [C04-21493A](./Model3d/scad/C04-21493A.scad)
+please verify some data are inconsistante 	 
 Pin count : 48
 - 1 : PA00,  of Type IO, alternates : [EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, TCC2 WO_0, SYSCTRL XIN32_]
 - 2 : PA01,  of Type IO, alternates : [EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, SYSCTRL XOUT32_, TCC2 WO_1]
@@ -14255,6 +15495,15 @@ Pin count : 48
 
 ### Package : 
 
+- Package id : 	 [C04-21255A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 G2B
+- Package Type : 	 WLCSP
+- Pin count : 	 45,00
+- Package Layout : 	 [C04-21255A](./mchp/packages/C04-21255A.pdf)
+- Package 3d model wrl : 	 [C04-21255A](./Model3d/wrl/C04-21255A.wrl)
+- Package 3d model x3d : 	 [C04-21255A](./Model3d/x3d/C04-21255A.x3d)
+- Package 3d model scad : 	 [C04-21255A](./Model3d/scad/C04-21255A.scad)
+please verify some data are inconsistante 	 
 Pin count : 45
 - A2 : PA27,  of Type IO, alternates : [PORT P_27, EIC EXTINT_15, GCLK IO_0]
 - A4 : PA28,  of Type IO, alternates : [PORT P_28, EIC EXTINT_8, GCLK IO_0]
@@ -15149,6 +16398,15 @@ Pin count : 64
 
 ### Package : 
 
+- Package id : 	 [C04-21153B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 BQB
+- Package Type : 	 UFBGA
+- Pin count : 	 64,00
+- Package Layout : 	 [C04-21153B](./mchp/packages/C04-21153B.pdf)
+- Package 3d model wrl : 	 [C04-21153B](./Model3d/wrl/C04-21153B.wrl)
+- Package 3d model x3d : 	 [C04-21153B](./Model3d/x3d/C04-21153B.x3d)
+- Package 3d model scad : 	 [C04-21153B](./Model3d/scad/C04-21153B.scad)
+please verify some data are inconsistante 	 
 Pin count : 64
 - A1 : PB02,  of Type IO, alternates : [PORT P_34, SERCOM5 PAD_0, ADC AIN_10, EIC EXTINT_2, TC6 WO_0, PTC Y_8]
 - A2 : PB01,  of Type IO, alternates : [PORT P_33, SERCOM5 PAD_3, ADC AIN_9, EIC EXTINT_1, TC7 WO_1, PTC Y_7]
@@ -15232,6 +16490,13 @@ Pin count : 64
 
 ### Package : 
 
+- Package id : 	 [C04-21441A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 TMB
+- Package Type : 	 VQFN
+- Pin count : 	 64,00
+- Package Layout : 	 [C04-21441A](./mchp/packages/C04-21441A.pdf)
+- Package 3d model scad : 	 [C04-21441A](./Model3d/scad/C04-21441A.scad)
+please verify some data are inconsistante 	 
 Pin count : 64
 - 1 : PA00,  of Type IO, alternates : [EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, TCC2 WO_0, SYSCTRL XIN32_]
 - 2 : PA01,  of Type IO, alternates : [EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, SYSCTRL XOUT32_, TCC2 WO_1]
@@ -15315,6 +16580,13 @@ Pin count : 64
 
 ### Package : 
 
+- Package id : 	 [C04-21441A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 TMB
+- Package Type : 	 VQFN
+- Pin count : 	 64,00
+- Package Layout : 	 [C04-21441A](./mchp/packages/C04-21441A.pdf)
+- Package 3d model scad : 	 [C04-21441A](./Model3d/scad/C04-21441A.scad)
+please verify some data are inconsistante 	 
 Pin count : 64
 - 1 : PA00,  of Type IO, alternates : [EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, TCC2 WO_0, SYSCTRL XIN32_]
 - 2 : PA01,  of Type IO, alternates : [EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, SYSCTRL XOUT32_, TCC2 WO_1]
@@ -15398,6 +16670,13 @@ Pin count : 64
 
 ### Package : 
 
+- Package id : 	 [C04-21497A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 U6B
+- Package Type : 	 VQFN
+- Pin count : 	 64,00
+- Package Layout : 	 [C04-21497A](./mchp/packages/C04-21497A.pdf)
+- Package 3d model scad : 	 [C04-21497A](./Model3d/scad/C04-21497A.scad)
+please verify some data are inconsistante 	 
 Pin count : 64
 - 1 : PA00,  of Type IO, alternates : [EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, TCC2 WO_0, SYSCTRL XIN32_]
 - 2 : PA01,  of Type IO, alternates : [EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, SYSCTRL XOUT32_, TCC2 WO_1]
@@ -16394,6 +17673,15 @@ Pin count : 64
 
 ### Package : 
 
+- Package id : 	 [C04-21153B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 BQB
+- Package Type : 	 UFBGA
+- Pin count : 	 64,00
+- Package Layout : 	 [C04-21153B](./mchp/packages/C04-21153B.pdf)
+- Package 3d model wrl : 	 [C04-21153B](./Model3d/wrl/C04-21153B.wrl)
+- Package 3d model x3d : 	 [C04-21153B](./Model3d/x3d/C04-21153B.x3d)
+- Package 3d model scad : 	 [C04-21153B](./Model3d/scad/C04-21153B.scad)
+please verify some data are inconsistante 	 
 Pin count : 64
 - A1 : PB02,  of Type IO, alternates : [PORT P_34, SERCOM5 PAD_0, ADC AIN_10, EIC EXTINT_2, TC6 WO_0, PTC Y_8]
 - A2 : PB01,  of Type IO, alternates : [PORT P_33, SERCOM5 PAD_3, ADC AIN_9, EIC EXTINT_1, TC7 WO_1, PTC Y_7]
@@ -16477,6 +17765,13 @@ Pin count : 64
 
 ### Package : 
 
+- Package id : 	 [C04-21441A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 TMB
+- Package Type : 	 VQFN
+- Pin count : 	 64,00
+- Package Layout : 	 [C04-21441A](./mchp/packages/C04-21441A.pdf)
+- Package 3d model scad : 	 [C04-21441A](./Model3d/scad/C04-21441A.scad)
+please verify some data are inconsistante 	 
 Pin count : 64
 - 1 : PA00,  of Type IO, alternates : [EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, TCC2 WO_0, SYSCTRL XIN32_]
 - 2 : PA01,  of Type IO, alternates : [EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, SYSCTRL XOUT32_, TCC2 WO_1]
@@ -16560,6 +17855,13 @@ Pin count : 64
 
 ### Package : 
 
+- Package id : 	 [C04-21441A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 TMB
+- Package Type : 	 VQFN
+- Pin count : 	 64,00
+- Package Layout : 	 [C04-21441A](./mchp/packages/C04-21441A.pdf)
+- Package 3d model scad : 	 [C04-21441A](./Model3d/scad/C04-21441A.scad)
+please verify some data are inconsistante 	 
 Pin count : 64
 - 1 : PA00,  of Type IO, alternates : [EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, TCC2 WO_0, SYSCTRL XIN32_]
 - 2 : PA01,  of Type IO, alternates : [EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, SYSCTRL XOUT32_, TCC2 WO_1]
@@ -16643,6 +17945,13 @@ Pin count : 64
 
 ### Package : 
 
+- Package id : 	 [C04-21497A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 U6B
+- Package Type : 	 VQFN
+- Pin count : 	 64,00
+- Package Layout : 	 [C04-21497A](./mchp/packages/C04-21497A.pdf)
+- Package 3d model scad : 	 [C04-21497A](./Model3d/scad/C04-21497A.scad)
+please verify some data are inconsistante 	 
 Pin count : 64
 - 1 : PA00,  of Type IO, alternates : [EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, TCC2 WO_0, SYSCTRL XIN32_]
 - 2 : PA01,  of Type IO, alternates : [EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, SYSCTRL XOUT32_, TCC2 WO_1]
@@ -16975,6 +18284,15 @@ Pin count : 64
 
 ### Package : 
 
+- Package id : 	 [C04-21153B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 BQB
+- Package Type : 	 UFBGA
+- Pin count : 	 64,00
+- Package Layout : 	 [C04-21153B](./mchp/packages/C04-21153B.pdf)
+- Package 3d model wrl : 	 [C04-21153B](./Model3d/wrl/C04-21153B.wrl)
+- Package 3d model x3d : 	 [C04-21153B](./Model3d/x3d/C04-21153B.x3d)
+- Package 3d model scad : 	 [C04-21153B](./Model3d/scad/C04-21153B.scad)
+please verify some data are inconsistante 	 
 Pin count : 64
 - A1 : PB02,  of Type IO, alternates : [PORT P_34, SERCOM5 PAD_0, ADC AIN_10, EIC EXTINT_2, TC6 WO_0, PTC Y_8]
 - A2 : PB01,  of Type IO, alternates : [PORT P_33, SERCOM5 PAD_3, ADC AIN_9, EIC EXTINT_1, TC7 WO_1, PTC Y_7]
@@ -17058,6 +18376,13 @@ Pin count : 64
 
 ### Package : 
 
+- Package id : 	 [C04-21441A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 TMB
+- Package Type : 	 VQFN
+- Pin count : 	 64,00
+- Package Layout : 	 [C04-21441A](./mchp/packages/C04-21441A.pdf)
+- Package 3d model scad : 	 [C04-21441A](./Model3d/scad/C04-21441A.scad)
+please verify some data are inconsistante 	 
 Pin count : 64
 - 1 : PA00,  of Type IO, alternates : [EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, TCC2 WO_0, SYSCTRL XIN32_]
 - 2 : PA01,  of Type IO, alternates : [EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, SYSCTRL XOUT32_, TCC2 WO_1]
@@ -17141,6 +18466,13 @@ Pin count : 64
 
 ### Package : 
 
+- Package id : 	 [C04-21441A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 TMB
+- Package Type : 	 VQFN
+- Pin count : 	 64,00
+- Package Layout : 	 [C04-21441A](./mchp/packages/C04-21441A.pdf)
+- Package 3d model scad : 	 [C04-21441A](./Model3d/scad/C04-21441A.scad)
+please verify some data are inconsistante 	 
 Pin count : 64
 - 1 : PA00,  of Type IO, alternates : [EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, TCC2 WO_0, SYSCTRL XIN32_]
 - 2 : PA01,  of Type IO, alternates : [EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, SYSCTRL XOUT32_, TCC2 WO_1]
@@ -17224,6 +18556,13 @@ Pin count : 64
 
 ### Package : 
 
+- Package id : 	 [C04-21497A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 U6B
+- Package Type : 	 VQFN
+- Pin count : 	 64,00
+- Package Layout : 	 [C04-21497A](./mchp/packages/C04-21497A.pdf)
+- Package 3d model scad : 	 [C04-21497A](./Model3d/scad/C04-21497A.scad)
+please verify some data are inconsistante 	 
 Pin count : 64
 - 1 : PA00,  of Type IO, alternates : [EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, TCC2 WO_0, SYSCTRL XIN32_]
 - 2 : PA01,  of Type IO, alternates : [EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, SYSCTRL XOUT32_, TCC2 WO_1]
@@ -17639,6 +18978,15 @@ Pin count : 64
 
 ### Package : 
 
+- Package id : 	 [C04-21153B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 BQB
+- Package Type : 	 UFBGA
+- Pin count : 	 64,00
+- Package Layout : 	 [C04-21153B](./mchp/packages/C04-21153B.pdf)
+- Package 3d model wrl : 	 [C04-21153B](./Model3d/wrl/C04-21153B.wrl)
+- Package 3d model x3d : 	 [C04-21153B](./Model3d/x3d/C04-21153B.x3d)
+- Package 3d model scad : 	 [C04-21153B](./Model3d/scad/C04-21153B.scad)
+please verify some data are inconsistante 	 
 Pin count : 64
 - A1 : PB02,  of Type IO, alternates : [PORT P_34, SERCOM5 PAD_0, ADC AIN_10, EIC EXTINT_2, TC6 WO_0, PTC Y_8, TCC3 WO_2]
 - A2 : PB01,  of Type IO, alternates : [PORT P_33, SERCOM5 PAD_3, ADC AIN_9, EIC EXTINT_1, TC7 WO_1, PTC Y_7]
@@ -17722,6 +19070,13 @@ Pin count : 64
 
 ### Package : 
 
+- Package id : 	 [C04-21441A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 TMB
+- Package Type : 	 VQFN
+- Pin count : 	 64,00
+- Package Layout : 	 [C04-21441A](./mchp/packages/C04-21441A.pdf)
+- Package 3d model scad : 	 [C04-21441A](./Model3d/scad/C04-21441A.scad)
+please verify some data are inconsistante 	 
 Pin count : 64
 - 1 : PA00,  of Type IO, alternates : [EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, TCC2 WO_0, SYSCTRL XIN32_]
 - 2 : PA01,  of Type IO, alternates : [EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, SYSCTRL XOUT32_, TCC2 WO_1]
@@ -17805,6 +19160,13 @@ Pin count : 64
 
 ### Package : 
 
+- Package id : 	 [C04-21441A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 TMB
+- Package Type : 	 VQFN
+- Pin count : 	 64,00
+- Package Layout : 	 [C04-21441A](./mchp/packages/C04-21441A.pdf)
+- Package 3d model scad : 	 [C04-21441A](./Model3d/scad/C04-21441A.scad)
+please verify some data are inconsistante 	 
 Pin count : 64
 - 1 : PA00,  of Type IO, alternates : [EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, TCC2 WO_0, SYSCTRL XIN32_]
 - 2 : PA01,  of Type IO, alternates : [EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, SYSCTRL XOUT32_, TCC2 WO_1]
@@ -17888,6 +19250,13 @@ Pin count : 64
 
 ### Package : 
 
+- Package id : 	 [C04-21497A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 U6B
+- Package Type : 	 VQFN
+- Pin count : 	 64,00
+- Package Layout : 	 [C04-21497A](./mchp/packages/C04-21497A.pdf)
+- Package 3d model scad : 	 [C04-21497A](./Model3d/scad/C04-21497A.scad)
+please verify some data are inconsistante 	 
 Pin count : 64
 - 1 : PA00,  of Type IO, alternates : [EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, TCC2 WO_0, SYSCTRL XIN32_]
 - 2 : PA01,  of Type IO, alternates : [EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, SYSCTRL XOUT32_, TCC2 WO_1]
@@ -18220,6 +19589,15 @@ Pin count : 64
 
 ### Package : 
 
+- Package id : 	 [C04-21153B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 BQB
+- Package Type : 	 UFBGA
+- Pin count : 	 64,00
+- Package Layout : 	 [C04-21153B](./mchp/packages/C04-21153B.pdf)
+- Package 3d model wrl : 	 [C04-21153B](./Model3d/wrl/C04-21153B.wrl)
+- Package 3d model x3d : 	 [C04-21153B](./Model3d/x3d/C04-21153B.x3d)
+- Package 3d model scad : 	 [C04-21153B](./Model3d/scad/C04-21153B.scad)
+please verify some data are inconsistante 	 
 Pin count : 64
 - A1 : PB02,  of Type IO, alternates : [PORT P_34, SERCOM5 PAD_0, ADC AIN_10, EIC EXTINT_2, TC6 WO_0, PTC Y_8]
 - A2 : PB01,  of Type IO, alternates : [PORT P_33, SERCOM5 PAD_3, ADC AIN_9, EIC EXTINT_1, TC7 WO_1, PTC Y_7]
@@ -18303,6 +19681,13 @@ Pin count : 64
 
 ### Package : 
 
+- Package id : 	 [C04-21441A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 TMB
+- Package Type : 	 VQFN
+- Pin count : 	 64,00
+- Package Layout : 	 [C04-21441A](./mchp/packages/C04-21441A.pdf)
+- Package 3d model scad : 	 [C04-21441A](./Model3d/scad/C04-21441A.scad)
+please verify some data are inconsistante 	 
 Pin count : 64
 - 1 : PA00,  of Type IO, alternates : [EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, TCC2 WO_0, SYSCTRL XIN32_]
 - 2 : PA01,  of Type IO, alternates : [EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, SYSCTRL XOUT32_, TCC2 WO_1]
@@ -18386,6 +19771,13 @@ Pin count : 64
 
 ### Package : 
 
+- Package id : 	 [C04-21441A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 TMB
+- Package Type : 	 VQFN
+- Pin count : 	 64,00
+- Package Layout : 	 [C04-21441A](./mchp/packages/C04-21441A.pdf)
+- Package 3d model scad : 	 [C04-21441A](./Model3d/scad/C04-21441A.scad)
+please verify some data are inconsistante 	 
 Pin count : 64
 - 1 : PA00,  of Type IO, alternates : [EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, TCC2 WO_0, SYSCTRL XIN32_]
 - 2 : PA01,  of Type IO, alternates : [EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, SYSCTRL XOUT32_, TCC2 WO_1]
@@ -18469,6 +19861,13 @@ Pin count : 64
 
 ### Package : 
 
+- Package id : 	 [C04-21497A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 U6B
+- Package Type : 	 VQFN
+- Pin count : 	 64,00
+- Package Layout : 	 [C04-21497A](./mchp/packages/C04-21497A.pdf)
+- Package 3d model scad : 	 [C04-21497A](./Model3d/scad/C04-21497A.scad)
+please verify some data are inconsistante 	 
 Pin count : 64
 - 1 : PA00,  of Type IO, alternates : [EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, TCC2 WO_0, SYSCTRL XIN32_]
 - 2 : PA01,  of Type IO, alternates : [EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, SYSCTRL XOUT32_, TCC2 WO_1]
@@ -18552,6 +19951,13 @@ Pin count : 64
 
 ### Package : 
 
+- Package id : 	 [C04-21425A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 T3B
+- Package Type : 	 VQFN
+- Pin count : 	 48,00
+- Package Layout : 	 [C04-21425A](./mchp/packages/C04-21425A.pdf)
+- Package 3d model scad : 	 [C04-21425A](./Model3d/scad/C04-21425A.scad)
+please verify some data are inconsistante 	 
 Pin count : 48
 - 1 : PA00,  of Type IO, alternates : [TC2:1 WO_0, OSC32KCTRL XIN32_, SERCOM1:4 PAD_0, EIC EXTINT_0, PORT P_0]
 - 2 : PA01,  of Type IO, alternates : [SERCOM1:4 PAD_1, EIC EXTINT_1, PORT P_1, OSC32KCTRL XOUT32_, TC2:1 WO_1]
@@ -18619,6 +20025,13 @@ Pin count : 48
 
 ### Package : 
 
+- Package id : 	 [C04-21425A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 T3B
+- Package Type : 	 VQFN
+- Pin count : 	 48,00
+- Package Layout : 	 [C04-21425A](./mchp/packages/C04-21425A.pdf)
+- Package 3d model scad : 	 [C04-21425A](./Model3d/scad/C04-21425A.scad)
+please verify some data are inconsistante 	 
 Pin count : 48
 - 1 : PA00,  of Type IO, alternates : [TC2:1 WO_0, OSC32KCTRL XIN32_, SERCOM1:4 PAD_0, EIC EXTINT_0, PORT P_0]
 - 2 : PA01,  of Type IO, alternates : [SERCOM1:4 PAD_1, EIC EXTINT_1, PORT P_1, OSC32KCTRL XOUT32_, TC2:1 WO_1]
@@ -18686,6 +20099,13 @@ Pin count : 48
 
 ### Package : 
 
+- Package id : 	 [C04-21493A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 U5B
+- Package Type : 	 VQFN
+- Pin count : 	 48,00
+- Package Layout : 	 [C04-21493A](./mchp/packages/C04-21493A.pdf)
+- Package 3d model scad : 	 [C04-21493A](./Model3d/scad/C04-21493A.scad)
+please verify some data are inconsistante 	 
 Pin count : 48
 - 1 : PA00,  of Type IO, alternates : [TC2:1 WO_0, OSC32KCTRL XIN32_, SERCOM1:4 PAD_0, EIC EXTINT_0, PORT P_0]
 - 2 : PA01,  of Type IO, alternates : [SERCOM1:4 PAD_1, EIC EXTINT_1, PORT P_1, OSC32KCTRL XOUT32_, TC2:1 WO_1]
@@ -18753,6 +20173,13 @@ Pin count : 48
 
 ### Package : 
 
+- Package id : 	 [C04-21425A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 T3B
+- Package Type : 	 VQFN
+- Pin count : 	 48,00
+- Package Layout : 	 [C04-21425A](./mchp/packages/C04-21425A.pdf)
+- Package 3d model scad : 	 [C04-21425A](./Model3d/scad/C04-21425A.scad)
+please verify some data are inconsistante 	 
 Pin count : 48
 - 1 : PA00,  of Type IO, alternates : [TC2:1 WO_0, OSC32KCTRL XIN32_, SERCOM1:4 PAD_0, EIC EXTINT_0, PORT P_0]
 - 2 : PA01,  of Type IO, alternates : [SERCOM1:4 PAD_1, EIC EXTINT_1, PORT P_1, OSC32KCTRL XOUT32_, TC2:1 WO_1]
@@ -18820,6 +20247,13 @@ Pin count : 48
 
 ### Package : 
 
+- Package id : 	 [C04-21425A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 T3B
+- Package Type : 	 VQFN
+- Pin count : 	 48,00
+- Package Layout : 	 [C04-21425A](./mchp/packages/C04-21425A.pdf)
+- Package 3d model scad : 	 [C04-21425A](./Model3d/scad/C04-21425A.scad)
+please verify some data are inconsistante 	 
 Pin count : 48
 - 1 : PA00,  of Type IO, alternates : [TC2:1 WO_0, OSC32KCTRL XIN32_, SERCOM1:4 PAD_0, EIC EXTINT_0, PORT P_0]
 - 2 : PA01,  of Type IO, alternates : [SERCOM1:4 PAD_1, EIC EXTINT_1, PORT P_1, OSC32KCTRL XOUT32_, TC2:1 WO_1]
@@ -18887,6 +20321,13 @@ Pin count : 48
 
 ### Package : 
 
+- Package id : 	 [C04-21493A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 U5B
+- Package Type : 	 VQFN
+- Pin count : 	 48,00
+- Package Layout : 	 [C04-21493A](./mchp/packages/C04-21493A.pdf)
+- Package 3d model scad : 	 [C04-21493A](./Model3d/scad/C04-21493A.scad)
+please verify some data are inconsistante 	 
 Pin count : 48
 - 1 : PA00,  of Type IO, alternates : [TC2:1 WO_0, OSC32KCTRL XIN32_, SERCOM1:4 PAD_0, EIC EXTINT_0, PORT P_0]
 - 2 : PA01,  of Type IO, alternates : [SERCOM1:4 PAD_1, EIC EXTINT_1, PORT P_1, OSC32KCTRL XOUT32_, TC2:1 WO_1]
@@ -19203,6 +20644,13 @@ Pin count : 64
 
 ### Package : 
 
+- Package id : 	 [C04-21441A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 TMB
+- Package Type : 	 VQFN
+- Pin count : 	 64,00
+- Package Layout : 	 [C04-21441A](./mchp/packages/C04-21441A.pdf)
+- Package 3d model scad : 	 [C04-21441A](./Model3d/scad/C04-21441A.scad)
+please verify some data are inconsistante 	 
 Pin count : 64
 - 1 : PA00,  of Type IO, alternates : [TC2:1 WO_0, OSC32KCTRL XIN32_, SERCOM1:4 PAD_0, EIC EXTINT_0, PORT P_0]
 - 2 : PA01,  of Type IO, alternates : [SERCOM1:4 PAD_1, EIC EXTINT_1, PORT P_1, OSC32KCTRL XOUT32_, TC2:1 WO_1]
@@ -19286,6 +20734,13 @@ Pin count : 64
 
 ### Package : 
 
+- Package id : 	 [C04-21441A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 TMB
+- Package Type : 	 VQFN
+- Pin count : 	 64,00
+- Package Layout : 	 [C04-21441A](./mchp/packages/C04-21441A.pdf)
+- Package 3d model scad : 	 [C04-21441A](./Model3d/scad/C04-21441A.scad)
+please verify some data are inconsistante 	 
 Pin count : 64
 - 1 : PA00,  of Type IO, alternates : [TC2:1 WO_0, OSC32KCTRL XIN32_, SERCOM1:4 PAD_0, EIC EXTINT_0, PORT P_0]
 - 2 : PA01,  of Type IO, alternates : [SERCOM1:4 PAD_1, EIC EXTINT_1, PORT P_1, OSC32KCTRL XOUT32_, TC2:1 WO_1]
@@ -19369,6 +20824,13 @@ Pin count : 64
 
 ### Package : 
 
+- Package id : 	 [C04-21497A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 U6B
+- Package Type : 	 VQFN
+- Pin count : 	 64,00
+- Package Layout : 	 [C04-21497A](./mchp/packages/C04-21497A.pdf)
+- Package 3d model scad : 	 [C04-21497A](./Model3d/scad/C04-21497A.scad)
+please verify some data are inconsistante 	 
 Pin count : 64
 - 1 : PA00,  of Type IO, alternates : [TC2:1 WO_0, OSC32KCTRL XIN32_, SERCOM1:4 PAD_0, EIC EXTINT_0, PORT P_0]
 - 2 : PA01,  of Type IO, alternates : [SERCOM1:4 PAD_1, EIC EXTINT_1, PORT P_1, OSC32KCTRL XOUT32_, TC2:1 WO_1]
@@ -19701,6 +21163,13 @@ Pin count : 64
 
 ### Package : 
 
+- Package id : 	 [C04-21441A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 TMB
+- Package Type : 	 VQFN
+- Pin count : 	 64,00
+- Package Layout : 	 [C04-21441A](./mchp/packages/C04-21441A.pdf)
+- Package 3d model scad : 	 [C04-21441A](./Model3d/scad/C04-21441A.scad)
+please verify some data are inconsistante 	 
 Pin count : 64
 - 1 : PA00,  of Type IO, alternates : [TC2:1 WO_0, OSC32KCTRL XIN32_, SERCOM1:4 PAD_0, EIC EXTINT_0, PORT P_0]
 - 2 : PA01,  of Type IO, alternates : [SERCOM1:4 PAD_1, EIC EXTINT_1, PORT P_1, OSC32KCTRL XOUT32_, TC2:1 WO_1]
@@ -19784,6 +21253,13 @@ Pin count : 64
 
 ### Package : 
 
+- Package id : 	 [C04-21441A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 TMB
+- Package Type : 	 VQFN
+- Pin count : 	 64,00
+- Package Layout : 	 [C04-21441A](./mchp/packages/C04-21441A.pdf)
+- Package 3d model scad : 	 [C04-21441A](./Model3d/scad/C04-21441A.scad)
+please verify some data are inconsistante 	 
 Pin count : 64
 - 1 : PA00,  of Type IO, alternates : [TC2:1 WO_0, OSC32KCTRL XIN32_, SERCOM1:4 PAD_0, EIC EXTINT_0, PORT P_0]
 - 2 : PA01,  of Type IO, alternates : [SERCOM1:4 PAD_1, EIC EXTINT_1, PORT P_1, OSC32KCTRL XOUT32_, TC2:1 WO_1]
@@ -19867,6 +21343,13 @@ Pin count : 64
 
 ### Package : 
 
+- Package id : 	 [C04-21497A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 U6B
+- Package Type : 	 VQFN
+- Pin count : 	 64,00
+- Package Layout : 	 [C04-21497A](./mchp/packages/C04-21497A.pdf)
+- Package 3d model scad : 	 [C04-21497A](./Model3d/scad/C04-21497A.scad)
+please verify some data are inconsistante 	 
 Pin count : 64
 - 1 : PA00,  of Type IO, alternates : [TC2:1 WO_0, OSC32KCTRL XIN32_, SERCOM1:4 PAD_0, EIC EXTINT_0, PORT P_0]
 - 2 : PA01,  of Type IO, alternates : [SERCOM1:4 PAD_1, EIC EXTINT_1, PORT P_1, OSC32KCTRL XOUT32_, TC2:1 WO_1]
@@ -19950,6 +21433,13 @@ Pin count : 64
 
 ### Package : 
 
+- Package id : 	 [C04-21531A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 GJB
+- Package Type : 	 WLCSP
+- Pin count : 	 64,00
+- Package Layout : 	 [C04-21531A](./mchp/packages/C04-21531A.pdf)
+- Package 3d model scad : 	 [C04-21531A](./Model3d/scad/C04-21531A.scad)
+please verify some data are inconsistante 	 
 Pin count : 64
 - A1 : PA25,  of Type IO, alternates : [CCL OUT_2, USB DP_, SERCOM3:1 PAD_3, TC5:3 WO_1, PDEC:3 QDI_1, EIC EXTINT_9, SERCOM5:3 PAD_3, PORT P_25]
 - A2 : PB22,  of Type IO, alternates : [EIC EXTINT_6, PORT P_54, OSCCTRL XIN_1, SERCOM1:3 PAD_2, SERCOM5:4 PAD_2, PDEC:3 QDI_2, CCL IN_0, GCLK IO_0, USB:2 SOF_1KHZ_]
@@ -20033,6 +21523,13 @@ Pin count : 64
 
 ### Package : 
 
+- Package id : 	 [C04-21531A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 GJB
+- Package Type : 	 WLCSP
+- Pin count : 	 64,00
+- Package Layout : 	 [C04-21531A](./mchp/packages/C04-21531A.pdf)
+- Package 3d model scad : 	 [C04-21531A](./Model3d/scad/C04-21531A.scad)
+please verify some data are inconsistante 	 
 Pin count : 64
 - A1 : PA25,  of Type IO, alternates : [CCL OUT_2, USB DP_, SERCOM3:1 PAD_3, TC5:3 WO_1, PDEC:3 QDI_1, EIC EXTINT_9, SERCOM5:3 PAD_3, PORT P_25]
 - A2 : PB22,  of Type IO, alternates : [EIC EXTINT_6, PORT P_54, OSCCTRL XIN_1, SERCOM1:3 PAD_2, SERCOM5:4 PAD_2, PDEC:3 QDI_2, CCL IN_0, GCLK IO_0, USB:2 SOF_1KHZ_]
@@ -20365,6 +21862,13 @@ Pin count : 64
 
 ### Package : 
 
+- Package id : 	 [C04-21441A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 TMB
+- Package Type : 	 VQFN
+- Pin count : 	 64,00
+- Package Layout : 	 [C04-21441A](./mchp/packages/C04-21441A.pdf)
+- Package 3d model scad : 	 [C04-21441A](./Model3d/scad/C04-21441A.scad)
+please verify some data are inconsistante 	 
 Pin count : 64
 - 1 : PA00,  of Type IO, alternates : [TC2:1 WO_0, OSC32KCTRL XIN32_, SERCOM1:4 PAD_0, EIC EXTINT_0, PORT P_0]
 - 2 : PA01,  of Type IO, alternates : [SERCOM1:4 PAD_1, EIC EXTINT_1, PORT P_1, OSC32KCTRL XOUT32_, TC2:1 WO_1]
@@ -20448,6 +21952,13 @@ Pin count : 64
 
 ### Package : 
 
+- Package id : 	 [C04-21441A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 TMB
+- Package Type : 	 VQFN
+- Pin count : 	 64,00
+- Package Layout : 	 [C04-21441A](./mchp/packages/C04-21441A.pdf)
+- Package 3d model scad : 	 [C04-21441A](./Model3d/scad/C04-21441A.scad)
+please verify some data are inconsistante 	 
 Pin count : 64
 - 1 : PA00,  of Type IO, alternates : [TC2:1 WO_0, OSC32KCTRL XIN32_, SERCOM1:4 PAD_0, EIC EXTINT_0, PORT P_0]
 - 2 : PA01,  of Type IO, alternates : [SERCOM1:4 PAD_1, EIC EXTINT_1, PORT P_1, OSC32KCTRL XOUT32_, TC2:1 WO_1]
@@ -20531,6 +22042,13 @@ Pin count : 64
 
 ### Package : 
 
+- Package id : 	 [C04-21497A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 U6B
+- Package Type : 	 VQFN
+- Pin count : 	 64,00
+- Package Layout : 	 [C04-21497A](./mchp/packages/C04-21497A.pdf)
+- Package 3d model scad : 	 [C04-21497A](./Model3d/scad/C04-21497A.scad)
+please verify some data are inconsistante 	 
 Pin count : 64
 - 1 : PA00,  of Type IO, alternates : [TC2:1 WO_0, OSC32KCTRL XIN32_, SERCOM1:4 PAD_0, EIC EXTINT_0, PORT P_0]
 - 2 : PA01,  of Type IO, alternates : [SERCOM1:4 PAD_1, EIC EXTINT_1, PORT P_1, OSC32KCTRL XOUT32_, TC2:1 WO_1]
@@ -20614,6 +22132,13 @@ Pin count : 64
 
 ### Package : 
 
+- Package id : 	 [C04-21531A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 GJB
+- Package Type : 	 WLCSP
+- Pin count : 	 64,00
+- Package Layout : 	 [C04-21531A](./mchp/packages/C04-21531A.pdf)
+- Package 3d model scad : 	 [C04-21531A](./Model3d/scad/C04-21531A.scad)
+please verify some data are inconsistante 	 
 Pin count : 64
 - A1 : PA25,  of Type IO, alternates : [CCL OUT_2, USB DP_, SERCOM3:1 PAD_3, TC5:3 WO_1, PDEC:3 QDI_1, EIC EXTINT_9, SERCOM5:3 PAD_3, PORT P_25]
 - A2 : PB22,  of Type IO, alternates : [EIC EXTINT_6, PORT P_54, OSCCTRL XIN_1, SERCOM1:3 PAD_2, SERCOM5:4 PAD_2, PDEC:3 QDI_2, CCL IN_0, GCLK IO_0, USB:2 SOF_1KHZ_]
@@ -20697,6 +22222,13 @@ Pin count : 64
 
 ### Package : 
 
+- Package id : 	 [C04-21531A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 GJB
+- Package Type : 	 WLCSP
+- Pin count : 	 64,00
+- Package Layout : 	 [C04-21531A](./mchp/packages/C04-21531A.pdf)
+- Package 3d model scad : 	 [C04-21531A](./Model3d/scad/C04-21531A.scad)
+please verify some data are inconsistante 	 
 Pin count : 64
 - A1 : PA25,  of Type IO, alternates : [CCL OUT_2, USB DP_, SERCOM3:1 PAD_3, TC5:3 WO_1, PDEC:3 QDI_1, EIC EXTINT_9, SERCOM5:3 PAD_3, PORT P_25]
 - A2 : PB22,  of Type IO, alternates : [EIC EXTINT_6, PORT P_54, OSCCTRL XIN_1, SERCOM1:3 PAD_2, SERCOM5:4 PAD_2, PDEC:3 QDI_2, CCL IN_0, GCLK IO_0, USB:2 SOF_1KHZ_]
@@ -20780,6 +22312,13 @@ Pin count : 64
 
 ### Package : 
 
+- Package id : 	 [C04-00110C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 E5X
+- Package Type : 	 TQFP
+- Pin count : 	 100,00
+- Package Layout : 	 [C04-00110C](./mchp/packages/C04-00110C.pdf)
+- Package 3d model scad : 	 [C04-00110C](./Model3d/scad/C04-00110C.scad)
+please verify some data are inconsistante 	 
 Pin count : 100
 - 1 : PA00,  of Type IO, alternates : [TC2:1 WO_0, OSC32KCTRL XIN32_, SERCOM1:4 PAD_0, EIC EXTINT_0, PORT P_0]
 - 2 : PA01,  of Type IO, alternates : [SERCOM1:4 PAD_1, EIC EXTINT_1, PORT P_1, OSC32KCTRL XOUT32_, TC2:1 WO_1]
@@ -20899,6 +22438,13 @@ Pin count : 100
 
 ### Package : 
 
+- Package id : 	 [C04-00110C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 E5X
+- Package Type : 	 TQFP
+- Pin count : 	 100,00
+- Package Layout : 	 [C04-00110C](./mchp/packages/C04-00110C.pdf)
+- Package 3d model scad : 	 [C04-00110C](./Model3d/scad/C04-00110C.scad)
+please verify some data are inconsistante 	 
 Pin count : 100
 - 1 : PA00,  of Type IO, alternates : [TC2:1 WO_0, OSC32KCTRL XIN32_, SERCOM1:4 PAD_0, EIC EXTINT_0, PORT P_0]
 - 2 : PA01,  of Type IO, alternates : [SERCOM1:4 PAD_1, EIC EXTINT_1, PORT P_1, OSC32KCTRL XOUT32_, TC2:1 WO_1]
@@ -21018,6 +22564,13 @@ Pin count : 100
 
 ### Package : 
 
+- Package id : 	 [C04-00110C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 E5X
+- Package Type : 	 TQFP
+- Pin count : 	 100,00
+- Package Layout : 	 [C04-00110C](./mchp/packages/C04-00110C.pdf)
+- Package 3d model scad : 	 [C04-00110C](./Model3d/scad/C04-00110C.scad)
+please verify some data are inconsistante 	 
 Pin count : 100
 - 1 : PA00,  of Type IO, alternates : [TC2:1 WO_0, OSC32KCTRL XIN32_, SERCOM1:4 PAD_0, EIC EXTINT_0, PORT P_0]
 - 2 : PA01,  of Type IO, alternates : [SERCOM1:4 PAD_1, EIC EXTINT_1, PORT P_1, OSC32KCTRL XOUT32_, TC2:1 WO_1]
@@ -21137,6 +22690,13 @@ Pin count : 100
 
 ### Package : 
 
+- Package id : 	 [C04-00110C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 E5X
+- Package Type : 	 TQFP
+- Pin count : 	 100,00
+- Package Layout : 	 [C04-00110C](./mchp/packages/C04-00110C.pdf)
+- Package 3d model scad : 	 [C04-00110C](./Model3d/scad/C04-00110C.scad)
+please verify some data are inconsistante 	 
 Pin count : 100
 - 1 : PA00,  of Type IO, alternates : [TC2:1 WO_0, OSC32KCTRL XIN32_, SERCOM1:4 PAD_0, EIC EXTINT_0, PORT P_0]
 - 2 : PA01,  of Type IO, alternates : [SERCOM1:4 PAD_1, EIC EXTINT_1, PORT P_1, OSC32KCTRL XOUT32_, TC2:1 WO_1]
@@ -21256,6 +22816,13 @@ Pin count : 100
 
 ### Package : 
 
+- Package id : 	 [C04-00110C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 E5X
+- Package Type : 	 TQFP
+- Pin count : 	 100,00
+- Package Layout : 	 [C04-00110C](./mchp/packages/C04-00110C.pdf)
+- Package 3d model scad : 	 [C04-00110C](./Model3d/scad/C04-00110C.scad)
+please verify some data are inconsistante 	 
 Pin count : 100
 - 1 : PA00,  of Type IO, alternates : [TC2:1 WO_0, OSC32KCTRL XIN32_, SERCOM1:4 PAD_0, EIC EXTINT_0, PORT P_0]
 - 2 : PA01,  of Type IO, alternates : [SERCOM1:4 PAD_1, EIC EXTINT_1, PORT P_1, OSC32KCTRL XOUT32_, TC2:1 WO_1]
@@ -21375,6 +22942,13 @@ Pin count : 100
 
 ### Package : 
 
+- Package id : 	 [C04-00110C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 E5X
+- Package Type : 	 TQFP
+- Pin count : 	 100,00
+- Package Layout : 	 [C04-00110C](./mchp/packages/C04-00110C.pdf)
+- Package 3d model scad : 	 [C04-00110C](./Model3d/scad/C04-00110C.scad)
+please verify some data are inconsistante 	 
 Pin count : 100
 - 1 : PA00,  of Type IO, alternates : [TC2:1 WO_0, OSC32KCTRL XIN32_, SERCOM1:4 PAD_0, EIC EXTINT_0, PORT P_0]
 - 2 : PA01,  of Type IO, alternates : [SERCOM1:4 PAD_1, EIC EXTINT_1, PORT P_1, OSC32KCTRL XOUT32_, TC2:1 WO_1]
@@ -21494,6 +23068,15 @@ Pin count : 100
 
 ### Package : 
 
+- Package id : 	 [C04-00181D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 Z2X
+- Package Type : 	 TQFP
+- Pin count : 	 128,00
+- Package Layout : 	 [C04-00181D](./mchp/packages/C04-00181D.pdf)
+- Package 3d model wrl : 	 [C04-00181D](./Model3d/wrl/C04-00181D.wrl)
+- Package 3d model x3d : 	 [C04-00181D](./Model3d/x3d/C04-00181D.x3d)
+- Package 3d model scad : 	 [C04-00181D](./Model3d/scad/C04-00181D.scad)
+please verify some data are inconsistante 	 
 Pin count : 128
 - 1 : PA00,  of Type IO, alternates : [TC2:1 WO_0, OSC32KCTRL XIN32_, SERCOM1:4 PAD_0, EIC EXTINT_0, PORT P_0]
 - 2 : PA01,  of Type IO, alternates : [SERCOM1:4 PAD_1, EIC EXTINT_1, PORT P_1, OSC32KCTRL XOUT32_, TC2:1 WO_1]
@@ -21641,6 +23224,15 @@ Pin count : 128
 
 ### Package : 
 
+- Package id : 	 [C04-00181D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 Z2X
+- Package Type : 	 TQFP
+- Pin count : 	 128,00
+- Package Layout : 	 [C04-00181D](./mchp/packages/C04-00181D.pdf)
+- Package 3d model wrl : 	 [C04-00181D](./Model3d/wrl/C04-00181D.wrl)
+- Package 3d model x3d : 	 [C04-00181D](./Model3d/x3d/C04-00181D.x3d)
+- Package 3d model scad : 	 [C04-00181D](./Model3d/scad/C04-00181D.scad)
+please verify some data are inconsistante 	 
 Pin count : 128
 - 1 : PA00,  of Type IO, alternates : [TC2:1 WO_0, OSC32KCTRL XIN32_, SERCOM1:4 PAD_0, EIC EXTINT_0, PORT P_0]
 - 2 : PA01,  of Type IO, alternates : [SERCOM1:4 PAD_1, EIC EXTINT_1, PORT P_1, OSC32KCTRL XOUT32_, TC2:1 WO_1]
@@ -21935,6 +23527,13 @@ Pin count : 128
 
 ### Package : 
 
+- Package id : 	 [C04-21465C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 DGB
+- Package Type : 	 TFBGA
+- Pin count : 	 120,00
+- Package Layout : 	 [C04-21465C](./mchp/packages/C04-21465C.pdf)
+- Package 3d model scad : 	 [C04-21465C](./Model3d/scad/C04-21465C.scad)
+please verify some data are inconsistante 	 
 Pin count : 120
 - A1 : PA00,  of Type IO, alternates : [TC2:1 WO_0, OSC32KCTRL XIN32_, SERCOM1:4 PAD_0, EIC EXTINT_0, PORT P_0]
 - A2 : PB02,  of Type IO, alternates : [PORT P_34, ADC0 X_20, ADC0 Y_20, RTC IN_1, TC6:3 WO_0, CCL OUT_0, EIC EXTINT_2, SERCOM5:6 PAD_0, SUPC:1 OUT_1, TCC2:2 WO_2, ADC0 AIN_14]
@@ -22074,6 +23673,13 @@ Pin count : 120
 
 ### Package : 
 
+- Package id : 	 [C04-21465C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 DGB
+- Package Type : 	 TFBGA
+- Pin count : 	 120,00
+- Package Layout : 	 [C04-21465C](./mchp/packages/C04-21465C.pdf)
+- Package 3d model scad : 	 [C04-21465C](./Model3d/scad/C04-21465C.scad)
+please verify some data are inconsistante 	 
 Pin count : 120
 - A1 : PA00,  of Type IO, alternates : [TC2:1 WO_0, OSC32KCTRL XIN32_, SERCOM1:4 PAD_0, EIC EXTINT_0, PORT P_0]
 - A2 : PB02,  of Type IO, alternates : [PORT P_34, ADC0 X_20, ADC0 Y_20, RTC IN_1, TC6:3 WO_0, CCL OUT_0, EIC EXTINT_2, SERCOM5:6 PAD_0, SUPC:1 OUT_1, TCC2:2 WO_2, ADC0 AIN_14]
@@ -22213,6 +23819,13 @@ Pin count : 120
 
 ### Package : 
 
+- Package id : 	 [C04-21465C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 HEB
+- Package Type : 	 TFBGA
+- Pin count : 	 120,00
+- Package Layout : 	 [C04-21465C](./mchp/packages/C04-21465C.pdf)
+- Package 3d model scad : 	 [C04-21465C](./Model3d/scad/C04-21465C.scad)
+please verify some data are inconsistante 	 
 Pin count : 120
 - A1 : PA00,  of Type IO, alternates : [TC2:1 WO_0, OSC32KCTRL XIN32_, SERCOM1:4 PAD_0, EIC EXTINT_0, PORT P_0]
 - A2 : PB02,  of Type IO, alternates : [PORT P_34, ADC0 X_20, ADC0 Y_20, RTC IN_1, TC6:3 WO_0, CCL OUT_0, EIC EXTINT_2, SERCOM5:6 PAD_0, SUPC:1 OUT_1, TCC2:2 WO_2, ADC0 AIN_14]
@@ -22352,6 +23965,15 @@ Pin count : 120
 
 ### Package : 
 
+- Package id : 	 [C04-00181D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 Z2X
+- Package Type : 	 TQFP
+- Pin count : 	 128,00
+- Package Layout : 	 [C04-00181D](./mchp/packages/C04-00181D.pdf)
+- Package 3d model wrl : 	 [C04-00181D](./Model3d/wrl/C04-00181D.wrl)
+- Package 3d model x3d : 	 [C04-00181D](./Model3d/x3d/C04-00181D.x3d)
+- Package 3d model scad : 	 [C04-00181D](./Model3d/scad/C04-00181D.scad)
+please verify some data are inconsistante 	 
 Pin count : 128
 - 1 : PA00,  of Type IO, alternates : [TC2:1 WO_0, OSC32KCTRL XIN32_, SERCOM1:4 PAD_0, EIC EXTINT_0, PORT P_0]
 - 2 : PA01,  of Type IO, alternates : [SERCOM1:4 PAD_1, EIC EXTINT_1, PORT P_1, OSC32KCTRL XOUT32_, TC2:1 WO_1]
@@ -22499,6 +24121,15 @@ Pin count : 128
 
 ### Package : 
 
+- Package id : 	 [C04-00181D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 Z2X
+- Package Type : 	 TQFP
+- Pin count : 	 128,00
+- Package Layout : 	 [C04-00181D](./mchp/packages/C04-00181D.pdf)
+- Package 3d model wrl : 	 [C04-00181D](./Model3d/wrl/C04-00181D.wrl)
+- Package 3d model x3d : 	 [C04-00181D](./Model3d/x3d/C04-00181D.x3d)
+- Package 3d model scad : 	 [C04-00181D](./Model3d/scad/C04-00181D.scad)
+please verify some data are inconsistante 	 
 Pin count : 128
 - 1 : PA00,  of Type IO, alternates : [TC2:1 WO_0, OSC32KCTRL XIN32_, SERCOM1:4 PAD_0, EIC EXTINT_0, PORT P_0]
 - 2 : PA01,  of Type IO, alternates : [SERCOM1:4 PAD_1, EIC EXTINT_1, PORT P_1, OSC32KCTRL XOUT32_, TC2:1 WO_1]
@@ -22646,6 +24277,15 @@ Pin count : 128
 
 ### Package : 
 
+- Package id : 	 [C04-00181D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 Z2X
+- Package Type : 	 TQFP
+- Pin count : 	 128,00
+- Package Layout : 	 [C04-00181D](./mchp/packages/C04-00181D.pdf)
+- Package 3d model wrl : 	 [C04-00181D](./Model3d/wrl/C04-00181D.wrl)
+- Package 3d model x3d : 	 [C04-00181D](./Model3d/x3d/C04-00181D.x3d)
+- Package 3d model scad : 	 [C04-00181D](./Model3d/scad/C04-00181D.scad)
+please verify some data are inconsistante 	 
 Pin count : 128
 - 1 : PA00,  of Type IO, alternates : [TC2:1 WO_0, OSC32KCTRL XIN32_, SERCOM1:4 PAD_0, EIC EXTINT_0, PORT P_0]
 - 2 : PA01,  of Type IO, alternates : [SERCOM1:4 PAD_1, EIC EXTINT_1, PORT P_1, OSC32KCTRL XOUT32_, TC2:1 WO_1]
@@ -22793,6 +24433,13 @@ Pin count : 128
 
 ### Package : 
 
+- Package id : 	 [C04-21465C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 DGB
+- Package Type : 	 TFBGA
+- Pin count : 	 120,00
+- Package Layout : 	 [C04-21465C](./mchp/packages/C04-21465C.pdf)
+- Package 3d model scad : 	 [C04-21465C](./Model3d/scad/C04-21465C.scad)
+please verify some data are inconsistante 	 
 Pin count : 120
 - A1 : PA00,  of Type IO, alternates : [TC2:1 WO_0, OSC32KCTRL XIN32_, SERCOM1:4 PAD_0, EIC EXTINT_0, PORT P_0]
 - A2 : PB02,  of Type IO, alternates : [PORT P_34, ADC0 X_20, ADC0 Y_20, RTC IN_1, TC6:3 WO_0, CCL OUT_0, EIC EXTINT_2, SERCOM5:6 PAD_0, SUPC:1 OUT_1, TCC2:2 WO_2, ADC0 AIN_14]
@@ -22932,6 +24579,13 @@ Pin count : 120
 
 ### Package : 
 
+- Package id : 	 [C04-21465C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 DGB
+- Package Type : 	 TFBGA
+- Pin count : 	 120,00
+- Package Layout : 	 [C04-21465C](./mchp/packages/C04-21465C.pdf)
+- Package 3d model scad : 	 [C04-21465C](./Model3d/scad/C04-21465C.scad)
+please verify some data are inconsistante 	 
 Pin count : 120
 - A1 : PA00,  of Type IO, alternates : [TC2:1 WO_0, OSC32KCTRL XIN32_, SERCOM1:4 PAD_0, EIC EXTINT_0, PORT P_0]
 - A2 : PB02,  of Type IO, alternates : [PORT P_34, ADC0 X_20, ADC0 Y_20, RTC IN_1, TC6:3 WO_0, CCL OUT_0, EIC EXTINT_2, SERCOM5:6 PAD_0, SUPC:1 OUT_1, TCC2:2 WO_2, ADC0 AIN_14]
@@ -23071,6 +24725,13 @@ Pin count : 120
 
 ### Package : 
 
+- Package id : 	 [C04-21465C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 HEB
+- Package Type : 	 TFBGA
+- Pin count : 	 120,00
+- Package Layout : 	 [C04-21465C](./mchp/packages/C04-21465C.pdf)
+- Package 3d model scad : 	 [C04-21465C](./Model3d/scad/C04-21465C.scad)
+please verify some data are inconsistante 	 
 Pin count : 120
 - A1 : PA00,  of Type IO, alternates : [TC2:1 WO_0, OSC32KCTRL XIN32_, SERCOM1:4 PAD_0, EIC EXTINT_0, PORT P_0]
 - A2 : PB02,  of Type IO, alternates : [PORT P_34, ADC0 X_20, ADC0 Y_20, RTC IN_1, TC6:3 WO_0, CCL OUT_0, EIC EXTINT_2, SERCOM5:6 PAD_0, SUPC:1 OUT_1, TCC2:2 WO_2, ADC0 AIN_14]
@@ -23210,6 +24871,13 @@ Pin count : 120
 
 ### Package : 
 
+- Package id : 	 [C04-00074D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 T5X
+- Package Type : 	 TQFP
+- Pin count : 	 32,00
+- Package Layout : 	 [C04-00074D](./mchp/packages/C04-00074D.pdf)
+- Package 3d model scad : 	 [C04-00074D](./Model3d/scad/C04-00074D.scad)
+please verify some data are inconsistante 	 
 Pin count : 32
 - 1 : PA00,  of Type IO, alternates : [EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, TCC2 WO_0, SYSCTRL XIN32_]
 - 2 : PA01,  of Type IO, alternates : [EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, SYSCTRL XOUT32_, TCC2 WO_1]
@@ -23312,6 +24980,13 @@ Pin count : 32
 
 ### Package : 
 
+- Package id : 	 [C04-00074D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 T5X
+- Package Type : 	 TQFP
+- Pin count : 	 32,00
+- Package Layout : 	 [C04-00074D](./mchp/packages/C04-00074D.pdf)
+- Package 3d model scad : 	 [C04-00074D](./Model3d/scad/C04-00074D.scad)
+please verify some data are inconsistante 	 
 Pin count : 32
 - 1 : PA00,  of Type IO, alternates : [EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, TCC2 WO_0, SYSCTRL XIN32_]
 - 2 : PA01,  of Type IO, alternates : [EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, SYSCTRL XOUT32_, TCC2 WO_1]
@@ -23414,6 +25089,13 @@ Pin count : 32
 
 ### Package : 
 
+- Package id : 	 [C04-00074D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 T5X
+- Package Type : 	 TQFP
+- Pin count : 	 32,00
+- Package Layout : 	 [C04-00074D](./mchp/packages/C04-00074D.pdf)
+- Package 3d model scad : 	 [C04-00074D](./Model3d/scad/C04-00074D.scad)
+please verify some data are inconsistante 	 
 Pin count : 32
 - 1 : PA00,  of Type IO, alternates : [EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, TCC2 WO_0, SYSCTRL XIN32_]
 - 2 : PA01,  of Type IO, alternates : [EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, SYSCTRL XOUT32_, TCC2 WO_1]
@@ -23516,6 +25198,15 @@ Pin count : 32
 
 ### Package : 
 
+- Package id : 	 [C04-00300D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 Y8X
+- Package Type : 	 TQFP
+- Pin count : 	 48,00
+- Package Layout : 	 [C04-00300D](./mchp/packages/C04-00300D.pdf)
+- Package 3d model wrl : 	 [C04-00300D](./Model3d/wrl/C04-00300D.wrl)
+- Package 3d model x3d : 	 [C04-00300D](./Model3d/x3d/C04-00300D.x3d)
+- Package 3d model scad : 	 [C04-00300D](./Model3d/scad/C04-00300D.scad)
+please verify some data are inconsistante 	 
 Pin count : 48
 - 1 : PA00,  of Type IO, alternates : [EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, TCC2 WO_0, SYSCTRL XIN32_]
 - 2 : PA01,  of Type IO, alternates : [EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, SYSCTRL XOUT32_, TCC2 WO_1]
@@ -23583,6 +25274,13 @@ Pin count : 48
 
 ### Package : 
 
+- Package id : 	 [C04-21493A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 U5B
+- Package Type : 	 VQFN
+- Pin count : 	 48,00
+- Package Layout : 	 [C04-21493A](./mchp/packages/C04-21493A.pdf)
+- Package 3d model scad : 	 [C04-21493A](./Model3d/scad/C04-21493A.scad)
+please verify some data are inconsistante 	 
 Pin count : 48
 - 1 : PA00,  of Type IO, alternates : [EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, TCC2 WO_0, SYSCTRL XIN32_]
 - 2 : PA01,  of Type IO, alternates : [EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, SYSCTRL XOUT32_, TCC2 WO_1]
@@ -23650,6 +25348,15 @@ Pin count : 48
 
 ### Package : 
 
+- Package id : 	 [C04-00300D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 Y8X
+- Package Type : 	 TQFP
+- Pin count : 	 48,00
+- Package Layout : 	 [C04-00300D](./mchp/packages/C04-00300D.pdf)
+- Package 3d model wrl : 	 [C04-00300D](./Model3d/wrl/C04-00300D.wrl)
+- Package 3d model x3d : 	 [C04-00300D](./Model3d/x3d/C04-00300D.x3d)
+- Package 3d model scad : 	 [C04-00300D](./Model3d/scad/C04-00300D.scad)
+please verify some data are inconsistante 	 
 Pin count : 48
 - 1 : PA00,  of Type IO, alternates : [EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, TCC2 WO_0, SYSCTRL XIN32_]
 - 2 : PA01,  of Type IO, alternates : [EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, SYSCTRL XOUT32_, TCC2 WO_1]
@@ -23717,6 +25424,13 @@ Pin count : 48
 
 ### Package : 
 
+- Package id : 	 [C04-21493A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 U5B
+- Package Type : 	 VQFN
+- Pin count : 	 48,00
+- Package Layout : 	 [C04-21493A](./mchp/packages/C04-21493A.pdf)
+- Package 3d model scad : 	 [C04-21493A](./Model3d/scad/C04-21493A.scad)
+please verify some data are inconsistante 	 
 Pin count : 48
 - 1 : PA00,  of Type IO, alternates : [EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, TCC2 WO_0, SYSCTRL XIN32_]
 - 2 : PA01,  of Type IO, alternates : [EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, SYSCTRL XOUT32_, TCC2 WO_1]
@@ -23784,6 +25498,15 @@ Pin count : 48
 
 ### Package : 
 
+- Package id : 	 [C04-00300D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 Y8X
+- Package Type : 	 TQFP
+- Pin count : 	 48,00
+- Package Layout : 	 [C04-00300D](./mchp/packages/C04-00300D.pdf)
+- Package 3d model wrl : 	 [C04-00300D](./Model3d/wrl/C04-00300D.wrl)
+- Package 3d model x3d : 	 [C04-00300D](./Model3d/x3d/C04-00300D.x3d)
+- Package 3d model scad : 	 [C04-00300D](./Model3d/scad/C04-00300D.scad)
+please verify some data are inconsistante 	 
 Pin count : 48
 - 1 : PA00,  of Type IO, alternates : [EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, TCC2 WO_0, SYSCTRL XIN32_]
 - 2 : PA01,  of Type IO, alternates : [EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, SYSCTRL XOUT32_, TCC2 WO_1]
@@ -23851,6 +25574,13 @@ Pin count : 48
 
 ### Package : 
 
+- Package id : 	 [C04-21493A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 U5B
+- Package Type : 	 VQFN
+- Pin count : 	 48,00
+- Package Layout : 	 [C04-21493A](./mchp/packages/C04-21493A.pdf)
+- Package 3d model scad : 	 [C04-21493A](./Model3d/scad/C04-21493A.scad)
+please verify some data are inconsistante 	 
 Pin count : 48
 - 1 : PA00,  of Type IO, alternates : [EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, TCC2 WO_0, SYSCTRL XIN32_]
 - 2 : PA01,  of Type IO, alternates : [EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, SYSCTRL XOUT32_, TCC2 WO_1]

@@ -17,6 +17,12 @@
 
 ### Package : 
 
+- Package id : 	 [C04-10053A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 ZTX
+- Package Type : 	 MODULE
+- Pin count : 	 41,00
+- Package Layout : 	 [C04-10053A](./mchp/packages/C04-10053A.pdf)
+- Package 3d model scad : 	 [C04-10053A](./Model3d/scad/C04-10053A.scad)
 Pin count : 75
 - DIO0 : PB16,  of Type IO, alternates : [CCL IN_11, SERCOM5 PAD_0, TC2 WO_0, EIC EXTINT_0, TCC0 WO_4, PORT P_48, GCLK IO_2]
 - DIO1 : PA11,  of Type IO, alternates : [PORT P_11, TCC1 WO_1, CCL OUT_1, GCLK IO_5, PTC X_3, TCC0 WO_3, EIC EXTINT_11, PTC Y_9, ADC AIN_19, SERCOM0 PAD_3, SERCOM2 PAD_3]

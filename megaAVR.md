@@ -100,6 +100,12 @@ Pin count : 64
 
 ### Package : 
 
+- Package id : 	 [C04-00066B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 V3X
+- Package Type : 	 TQFP
+- Pin count : 	 64,00
+- Package Layout : 	 [C04-00066B](./mchp/packages/C04-00066B.pdf)
+- Package 3d model scad : 	 [C04-00066B](./Model3d/scad/C04-00066B.scad)
 Pin count : 64
 - 1 : NC,  of Type NC
 - 2 : PE0,  of Type IO, alternates : [PORTE P_0, USART0 RXD_]
@@ -266,6 +272,12 @@ Pin count : 64
 
 ### Package : 
 
+- Package id : 	 [C04-21442A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 TPB
+- Package Type : 	 VQFN
+- Pin count : 	 64,00
+- Package Layout : 	 [C04-21442A](./mchp/packages/C04-21442A.pdf)
+- Package 3d model scad : 	 [C04-21442A](./Model3d/scad/C04-21442A.scad)
 Pin count : 64
 - 1 : NC,  of Type NC
 - 2 : PE0,  of Type IO, alternates : [PORTE P_0, USART0 RXD_]
@@ -432,6 +444,12 @@ Pin count : 64
 
 ### Package : 
 
+- Package id : 	 [C04-00066B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 V3X
+- Package Type : 	 TQFP
+- Pin count : 	 64,00
+- Package Layout : 	 [C04-00066B](./mchp/packages/C04-00066B.pdf)
+- Package 3d model scad : 	 [C04-00066B](./Model3d/scad/C04-00066B.scad)
 Pin count : 64
 - 1 : NC,  of Type NC
 - 2 : PE0,  of Type IO, alternates : [PORTE P_0, USART0 RXD_]
@@ -598,6 +616,12 @@ Pin count : 64
 
 ### Package : 
 
+- Package id : 	 [C04-21440A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 TLB
+- Package Type : 	 VQFN
+- Pin count : 	 64,00
+- Package Layout : 	 [C04-21440A](./mchp/packages/C04-21440A.pdf)
+- Package 3d model scad : 	 [C04-21440A](./Model3d/scad/C04-21440A.scad)
 Pin count : 64
 - 1 : NC,  of Type NC
 - 2 : PE0,  of Type IO, alternates : [PORTE P_0, USART0 RXD_]
@@ -764,6 +788,12 @@ Pin count : 64
 
 ### Package : 
 
+- Package id : 	 [C04-00066B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 V3X
+- Package Type : 	 TQFP
+- Pin count : 	 64,00
+- Package Layout : 	 [C04-00066B](./mchp/packages/C04-00066B.pdf)
+- Package 3d model scad : 	 [C04-00066B](./Model3d/scad/C04-00066B.scad)
 Pin count : 64
 - 1 : NC,  of Type NC
 - 2 : PE0,  of Type IO, alternates : [PORTE P_0, USART0 RXD_]
@@ -930,6 +960,12 @@ Pin count : 64
 
 ### Package : 
 
+- Package id : 	 [C04-21442A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 TPB
+- Package Type : 	 VQFN
+- Pin count : 	 64,00
+- Package Layout : 	 [C04-21442A](./mchp/packages/C04-21442A.pdf)
+- Package 3d model scad : 	 [C04-21442A](./Model3d/scad/C04-21442A.scad)
 Pin count : 64
 - 1 : NC,  of Type NC
 - 2 : PE0,  of Type IO, alternates : [PORTE P_0, USART0 RXD_]
@@ -1013,6 +1049,12 @@ Pin count : 64
 
 ### Package : 
 
+- Package id : 	 [C04-00074D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 T5X
+- Package Type : 	 TQFP
+- Pin count : 	 32,00
+- Package Layout : 	 [C04-00074D](./mchp/packages/C04-00074D.pdf)
+- Package 3d model scad : 	 [C04-00074D](./Model3d/scad/C04-00074D.scad)
 Pin count : 32
 - 1 : PD3,  of Type IO, alternates : [PORTD P_3, EXINT INT_1]
 - 2 : PD4,  of Type IO, alternates : [TC0 T_, USART XCK_, PORTD P_4]
@@ -1064,6 +1106,12 @@ Pin count : 32
 
 ### Package : 
 
+- Package id : 	 [C04-00074D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 T5X
+- Package Type : 	 TQFP
+- Pin count : 	 32,00
+- Package Layout : 	 [C04-00074D](./mchp/packages/C04-00074D.pdf)
+- Package 3d model scad : 	 [C04-00074D](./Model3d/scad/C04-00074D.scad)
 Pin count : 32
 - 1 : PD3,  of Type IO, alternates : [PORTD P_3, EXINT INT_1]
 - 2 : PD4,  of Type IO, alternates : [TC0 T_, USART XCK_, PORTD P_4]
@@ -1115,6 +1163,12 @@ Pin count : 32
 
 ### Package : 
 
+- Package id : 	 [C04-21395C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 RXB
+- Package Type : 	 VQFN
+- Pin count : 	 32,00
+- Package Layout : 	 [C04-21395C](./mchp/packages/C04-21395C.pdf)
+- Package 3d model scad : 	 [C04-21395C](./Model3d/scad/C04-21395C.scad)
 Pin count : 28
 - 1 : PC6,  of Type IO, alternates : [PORTC P_6]
 - 2 : PD0,  of Type IO, alternates : [USART RXD_, PORTD P_0]
@@ -1162,6 +1216,12 @@ Pin count : 28
 
 ### Package : 
 
+- Package id : 	 [C04-21395C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 RXB
+- Package Type : 	 VQFN
+- Pin count : 	 32,00
+- Package Layout : 	 [C04-21395C](./mchp/packages/C04-21395C.pdf)
+- Package 3d model scad : 	 [C04-21395C](./Model3d/scad/C04-21395C.scad)
 Pin count : 32
 - 1 : PD3,  of Type IO, alternates : [PORTD P_3, EXINT INT_1]
 - 2 : PD4,  of Type IO, alternates : [TC0 T_, USART XCK_, PORTD P_4]
@@ -1264,6 +1324,11 @@ Pin count : 32
 
 ### Package : 
 
+- Package id : 	 [C04-00070B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 M3X
+- Package Type : 	 SPDIP
+- Pin count : 	 28,00
+- Package Layout : 	 [C04-00070B](./mchp/packages/C04-00070B.pdf)
 Pin count : 28
 - 1 : PC6,  of Type IO, alternates : [PORTC P_6]
 - 2 : PD0,  of Type IO, alternates : [USART RXD_, PORTD P_0]

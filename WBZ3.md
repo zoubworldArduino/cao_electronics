@@ -17,6 +17,13 @@
 
 ### Package : 
 
+- Package id : 	 [C04-10055D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 3BW
+- Package Type : 	 MODULE
+- Pin count : 	 30,00
+- Package Layout : 	 [C04-10055D](./mchp/packages/C04-10055D.pdf)
+- Package 3d model scad : 	 [C04-10055D](./Model3d/scad/C04-10055D.scad)
+please verify some data are inconsistante 	 
 Pin count : 30
 - 1 : GND,  of Type PS
 - 2 : NMCLR,  of Type IO
@@ -66,6 +73,13 @@ Pin count : 30
 
 ### Package : 
 
+- Package id : 	 [C04-10054B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 2XW
+- Package Type : 	 MODULE
+- Pin count : 	 39,00
+- Package Layout : 	 [C04-10054B](./mchp/packages/C04-10054B.pdf)
+- Package 3d model scad : 	 [C04-10054B](./Model3d/scad/C04-10054B.scad)
+please verify some data are inconsistante 	 
 Pin count : 39
 - 1 : GND,  of Type PS
 - 2 : GND,  of Type PS

@@ -17,6 +17,13 @@
 
 ### Package : 
 
+- Package id : 	 [C04-10051B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 ZRX
+- Package Type : 	 MODULE
+- Pin count : 	 30,00
+- Package Layout : 	 [C04-10051B](./mchp/packages/C04-10051B.pdf)
+- Package 3d model scad : 	 [C04-10051B](./Model3d/scad/C04-10051B.scad)
+please verify some data are inconsistante 	 
 Pin count : 30
 - 1 : GND,  of Type PS
 - 2 : NMCLR,  of Type IO
@@ -66,6 +73,13 @@ Pin count : 30
 
 ### Package : 
 
+- Package id : 	 [C04-10052C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 ZSX
+- Package Type : 	 MODULE
+- Pin count : 	 39,00
+- Package Layout : 	 [C04-10052C](./mchp/packages/C04-10052C.pdf)
+- Package 3d model scad : 	 [C04-10052C](./Model3d/scad/C04-10052C.scad)
+please verify some data are inconsistante 	 
 Pin count : 39
 - 1 : GND,  of Type PS
 - 2 : GND,  of Type PS

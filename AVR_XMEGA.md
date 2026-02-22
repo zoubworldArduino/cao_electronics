@@ -17,6 +17,12 @@
 
 ### Package : 
 
+- Package id : 	 [C04-00110C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 E5X
+- Package Type : 	 TQFP
+- Pin count : 	 100,00
+- Package Layout : 	 [C04-00110C](./mchp/packages/C04-00110C.pdf)
+- Package 3d model scad : 	 [C04-00110C](./Model3d/scad/C04-00110C.scad)
 Pin count : 100
 - 1 : PA6,  of Type IO
 - 2 : PA7,  of Type IO
@@ -255,6 +261,12 @@ Pin count : 100
 
 ### Package : 
 
+- Package id : 	 [C04-00066B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 V3X
+- Package Type : 	 TQFP
+- Pin count : 	 64,00
+- Package Layout : 	 [C04-00066B](./mchp/packages/C04-00066B.pdf)
+- Package 3d model scad : 	 [C04-00066B](./Model3d/scad/C04-00066B.scad)
 Pin count : 64
 - 1 : PA3,  of Type IO
 - 2 : PA4,  of Type IO
@@ -421,6 +433,12 @@ Pin count : 64
 
 ### Package : 
 
+- Package id : 	 [C04-00076C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 T4X
+- Package Type : 	 TQFP
+- Pin count : 	 44,00
+- Package Layout : 	 [C04-00076C](./mchp/packages/C04-00076C.pdf)
+- Package 3d model scad : 	 [C04-00076C](./Model3d/scad/C04-00076C.scad)
 Pin count : 44
 - 1 : PA5,  of Type IO
 - 2 : PA6,  of Type IO
@@ -547,6 +565,12 @@ Pin count : 44
 
 ### Package : 
 
+- Package id : 	 [C04-00066B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 V3X
+- Package Type : 	 TQFP
+- Pin count : 	 64,00
+- Package Layout : 	 [C04-00066B](./mchp/packages/C04-00066B.pdf)
+- Package 3d model scad : 	 [C04-00066B](./Model3d/scad/C04-00066B.scad)
 Pin count : 64
 - 1 : PA3,  of Type IO
 - 2 : PA4,  of Type IO
@@ -713,6 +737,12 @@ Pin count : 64
 
 ### Package : 
 
+- Package id : 	 [C04-00066B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 V3X
+- Package Type : 	 TQFP
+- Pin count : 	 64,00
+- Package Layout : 	 [C04-00066B](./mchp/packages/C04-00066B.pdf)
+- Package 3d model scad : 	 [C04-00066B](./Model3d/scad/C04-00066B.scad)
 Pin count : 64
 - 1 : PA3,  of Type IO
 - 2 : PA4,  of Type IO
@@ -1045,6 +1075,12 @@ Pin count : 64
 
 ### Package : 
 
+- Package id : 	 [C04-00076C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 T4X
+- Package Type : 	 TQFP
+- Pin count : 	 44,00
+- Package Layout : 	 [C04-00076C](./mchp/packages/C04-00076C.pdf)
+- Package 3d model scad : 	 [C04-00076C](./Model3d/scad/C04-00076C.scad)
 Pin count : 44
 - 1 : PA5,  of Type IO
 - 2 : PA6,  of Type IO
@@ -1171,6 +1207,12 @@ Pin count : 44
 
 ### Package : 
 
+- Package id : 	 [C04-00110C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 E5X
+- Package Type : 	 TQFP
+- Pin count : 	 100,00
+- Package Layout : 	 [C04-00110C](./mchp/packages/C04-00110C.pdf)
+- Package 3d model scad : 	 [C04-00110C](./Model3d/scad/C04-00110C.scad)
 Pin count : 100
 - 1 : PA6,  of Type IO
 - 2 : PA7,  of Type IO
@@ -1409,6 +1451,12 @@ Pin count : 100
 
 ### Package : 
 
+- Package id : 	 [C04-00066B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 V3X
+- Package Type : 	 TQFP
+- Pin count : 	 64,00
+- Package Layout : 	 [C04-00066B](./mchp/packages/C04-00066B.pdf)
+- Package 3d model scad : 	 [C04-00066B](./Model3d/scad/C04-00066B.scad)
 Pin count : 64
 - 1 : PA3,  of Type IO
 - 2 : PA4,  of Type IO

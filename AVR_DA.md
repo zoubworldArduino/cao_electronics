@@ -17,6 +17,12 @@
 
 ### Package : 
 
+- Package id : 	 [C04-00070B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 M3X
+- Package Type : 	 SPDIP
+- Pin count : 	 28,00
+- Package Layout : 	 [C04-00070B](./mchp/packages/C04-00070B.pdf)
+please verify some data are inconsistante 	 
 Pin count : 28
 - 1 : PA7,  of Type IO, alternates : [PTC XY_7, USART0 XDIR_, AC1 OUT_0, PORTA PIN_7, CLKCTRL CLKOUT_, EVSYS EVOUT_0, SPI0 SS_, ZCD0 OUT_, AC0 OUT_0, TCD0 WOD_3, AC2 OUT_0]
 - 2 : PC0,  of Type IO, alternates : [USART1 TXD_, TCB2 WO_0, TCA0 WO_0, SPI1 MOSI_, CCL LUT1_IN_0, PORTC PIN_0]
@@ -64,6 +70,15 @@ Pin count : 28
 
 ### Package : 
 
+- Package id : 	 [C04-21511A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 QZB
+- Package Type : 	 VQFN
+- Pin count : 	 32,00
+- Package Layout : 	 [C04-21511A](./mchp/packages/C04-21511A.pdf)
+- Package 3d model wrl : 	 [C04-21511A](./Model3d/wrl/C04-21511A.wrl)
+- Package 3d model x3d : 	 [C04-21511A](./Model3d/x3d/C04-21511A.x3d)
+- Package 3d model scad : 	 [C04-21511A](./Model3d/scad/C04-21511A.scad)
+please verify some data are inconsistante 	 
 Pin count : 32
 - 1 : PA3,  of Type IO, alternates : [PORTA PIN_3, USART0 XDIR_, CCL LUT0_OUT_0, TCA0 WO_3, TWI0 SCL_, PTC XY_3, TCB1 WO_0]
 - 2 : PA4,  of Type IO, alternates : [PORTA PIN_4, TCA0 WO_4, TCD0 WOA_, USART0 TXD_, SPI0 MOSI_, PTC XY_4]
@@ -115,6 +130,15 @@ Pin count : 32
 
 ### Package : 
 
+- Package id : 	 [C04-00494B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 6LX
+- Package Type : 	 VQFN
+- Pin count : 	 48,00
+- Package Layout : 	 [C04-00494B](./mchp/packages/C04-00494B.pdf)
+- Package 3d model wrl : 	 [C04-00494B](./Model3d/wrl/C04-00494B.wrl)
+- Package 3d model x3d : 	 [C04-00494B](./Model3d/x3d/C04-00494B.x3d)
+- Package 3d model scad : 	 [C04-00494B](./Model3d/scad/C04-00494B.scad)
+please verify some data are inconsistante 	 
 Pin count : 48
 - 1 : PA5,  of Type IO, alternates : [TCD0 WOB_1, PORTA PIN_5, PTC XY_5, SPI0 MISO_, USART0 RXD_, TCA0 WO_5]
 - 2 : PA6,  of Type IO, alternates : [CCL LUT0_OUT_0, PTC XY_6, PORTA PIN_6, SPI0 SCK_, USART0 XCK_, TCD0 WOC_2]

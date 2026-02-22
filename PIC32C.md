@@ -255,6 +255,14 @@ Pin count : 100
 
 ### Package : 
 
+- Package id : 	 [C04-00509A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 7YX
+- Package Type : 	 TQFP
+- Pin count : 	 100,00
+- Package Layout : 	 [C04-00509A](./mchp/packages/C04-00509A.pdf)
+- Package 3d model wrl : 	 [C04-00509A](./Model3d/wrl/C04-00509A.wrl)
+- Package 3d model x3d : 	 [C04-00509A](./Model3d/x3d/C04-00509A.x3d)
+- Package 3d model scad : 	 [C04-00509A](./Model3d/scad/C04-00509A.scad)
 Pin count : 100
 - 1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
 - 2 : PA01,  of Type IO, alternates : [ETH TXD_0, EIC EXTINT_1, PORT P_1]
@@ -1220,6 +1228,14 @@ Pin count : 144
 
 ### Package : 
 
+- Package id : 	 [C04-00510A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 8YX
+- Package Type : 	 TQFP
+- Pin count : 	 144,00
+- Package Layout : 	 [C04-00510A](./mchp/packages/C04-00510A.pdf)
+- Package 3d model wrl : 	 [C04-00510A](./Model3d/wrl/C04-00510A.wrl)
+- Package 3d model x3d : 	 [C04-00510A](./Model3d/x3d/C04-00510A.x3d)
+- Package 3d model scad : 	 [C04-00510A](./Model3d/scad/C04-00510A.scad)
 Pin count : 144
 - 1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
 - 2 : PA01,  of Type IO, alternates : [ETH TXD_0, EIC EXTINT_1, PORT P_1]
@@ -1546,6 +1562,14 @@ Pin count : 144
 
 ### Package : 
 
+- Package id : 	 [C04-00511A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 LUX
+- Package Type : 	 TFBGA
+- Pin count : 	 144,00
+- Package Layout : 	 [C04-00511A](./mchp/packages/C04-00511A.pdf)
+- Package 3d model wrl : 	 [C04-00511A](./Model3d/wrl/C04-00511A.wrl)
+- Package 3d model x3d : 	 [C04-00511A](./Model3d/x3d/C04-00511A.x3d)
+- Package 3d model scad : 	 [C04-00511A](./Model3d/scad/C04-00511A.scad)
 Pin count : 144
 - A2 : PD11,  of Type IO, alternates : [PORT P_107, ETH RXD_0, SERCOM2:2 PAD_0, EIC EXTINT_11, TCC2:1 WO_1]
 - A3 : PD10,  of Type IO, alternates : [PORT P_106, EIC EXTINT_10, ETH RXD_1, TCC2:1 WO_0]
@@ -2783,6 +2807,13 @@ Pin count : 176
 
 ### Package : 
 
+- Package id : 	 [C04-00515A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 5MX
+- Package Type : 	 TFBGA
+- Pin count : 	 176,00
+- Package Layout : 	 [C04-00515A](./mchp/packages/C04-00515A.pdf)
+- Package 3d model x3d : 	 [C04-00515A](./Model3d/x3d/C04-00515A.x3d)
+- Package 3d model scad : 	 [C04-00515A](./Model3d/scad/C04-00515A.scad)
 Pin count : 176
 - A2 : PD10,  of Type IO, alternates : [PORT P_106, EIC EXTINT_10, ETH RXD_1, TCC2:1 WO_0]
 - A3 : PD09,  of Type IO, alternates : [PORT P_105, MLB MLBD_, CAN1:2 TX_, EIC EXTINT_9, ETH CRS_]
@@ -4872,6 +4903,14 @@ Pin count : 100
 
 ### Package : 
 
+- Package id : 	 [C04-00509A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 7YX
+- Package Type : 	 TQFP
+- Pin count : 	 100,00
+- Package Layout : 	 [C04-00509A](./mchp/packages/C04-00509A.pdf)
+- Package 3d model wrl : 	 [C04-00509A](./Model3d/wrl/C04-00509A.wrl)
+- Package 3d model x3d : 	 [C04-00509A](./Model3d/x3d/C04-00509A.x3d)
+- Package 3d model scad : 	 [C04-00509A](./Model3d/scad/C04-00509A.scad)
 Pin count : 100
 - 1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
 - 2 : PA01,  of Type IO, alternates : [ETH TXD_0, EIC EXTINT_1, PORT P_1]
@@ -5837,6 +5876,14 @@ Pin count : 144
 
 ### Package : 
 
+- Package id : 	 [C04-00510A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 8YX
+- Package Type : 	 TQFP
+- Pin count : 	 144,00
+- Package Layout : 	 [C04-00510A](./mchp/packages/C04-00510A.pdf)
+- Package 3d model wrl : 	 [C04-00510A](./Model3d/wrl/C04-00510A.wrl)
+- Package 3d model x3d : 	 [C04-00510A](./Model3d/x3d/C04-00510A.x3d)
+- Package 3d model scad : 	 [C04-00510A](./Model3d/scad/C04-00510A.scad)
 Pin count : 144
 - 1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
 - 2 : PA01,  of Type IO, alternates : [ETH TXD_0, EIC EXTINT_1, PORT P_1]
@@ -6163,6 +6210,14 @@ Pin count : 144
 
 ### Package : 
 
+- Package id : 	 [C04-00511A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 LUX
+- Package Type : 	 TFBGA
+- Pin count : 	 144,00
+- Package Layout : 	 [C04-00511A](./mchp/packages/C04-00511A.pdf)
+- Package 3d model wrl : 	 [C04-00511A](./Model3d/wrl/C04-00511A.wrl)
+- Package 3d model x3d : 	 [C04-00511A](./Model3d/x3d/C04-00511A.x3d)
+- Package 3d model scad : 	 [C04-00511A](./Model3d/scad/C04-00511A.scad)
 Pin count : 144
 - A2 : PD11,  of Type IO, alternates : [PORT P_107, ETH RXD_0, SERCOM2:2 PAD_0, EIC EXTINT_11, TCC2:1 WO_1]
 - A3 : PD10,  of Type IO, alternates : [PORT P_106, EIC EXTINT_10, ETH RXD_1, TCC2:1 WO_0]
@@ -7400,6 +7455,13 @@ Pin count : 176
 
 ### Package : 
 
+- Package id : 	 [C04-00515A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 5MX
+- Package Type : 	 TFBGA
+- Pin count : 	 176,00
+- Package Layout : 	 [C04-00515A](./mchp/packages/C04-00515A.pdf)
+- Package 3d model x3d : 	 [C04-00515A](./Model3d/x3d/C04-00515A.x3d)
+- Package 3d model scad : 	 [C04-00515A](./Model3d/scad/C04-00515A.scad)
 Pin count : 176
 - A2 : PD10,  of Type IO, alternates : [PORT P_106, EIC EXTINT_10, ETH RXD_1, TCC2:1 WO_0]
 - A3 : PD09,  of Type IO, alternates : [PORT P_105, MLB MLBD_, CAN1:2 TX_, EIC EXTINT_9, ETH CRS_]
@@ -9489,6 +9551,14 @@ Pin count : 100
 
 ### Package : 
 
+- Package id : 	 [C04-00509A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 7YX
+- Package Type : 	 TQFP
+- Pin count : 	 100,00
+- Package Layout : 	 [C04-00509A](./mchp/packages/C04-00509A.pdf)
+- Package 3d model wrl : 	 [C04-00509A](./Model3d/wrl/C04-00509A.wrl)
+- Package 3d model x3d : 	 [C04-00509A](./Model3d/x3d/C04-00509A.x3d)
+- Package 3d model scad : 	 [C04-00509A](./Model3d/scad/C04-00509A.scad)
 Pin count : 100
 - 1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
 - 2 : PA01,  of Type IO, alternates : [ETH TXD_0, EIC EXTINT_1, PORT P_1]
@@ -10454,6 +10524,14 @@ Pin count : 144
 
 ### Package : 
 
+- Package id : 	 [C04-00510A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 8YX
+- Package Type : 	 TQFP
+- Pin count : 	 144,00
+- Package Layout : 	 [C04-00510A](./mchp/packages/C04-00510A.pdf)
+- Package 3d model wrl : 	 [C04-00510A](./Model3d/wrl/C04-00510A.wrl)
+- Package 3d model x3d : 	 [C04-00510A](./Model3d/x3d/C04-00510A.x3d)
+- Package 3d model scad : 	 [C04-00510A](./Model3d/scad/C04-00510A.scad)
 Pin count : 144
 - 1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
 - 2 : PA01,  of Type IO, alternates : [ETH TXD_0, EIC EXTINT_1, PORT P_1]
@@ -10780,6 +10858,14 @@ Pin count : 144
 
 ### Package : 
 
+- Package id : 	 [C04-00511A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 LUX
+- Package Type : 	 TFBGA
+- Pin count : 	 144,00
+- Package Layout : 	 [C04-00511A](./mchp/packages/C04-00511A.pdf)
+- Package 3d model wrl : 	 [C04-00511A](./Model3d/wrl/C04-00511A.wrl)
+- Package 3d model x3d : 	 [C04-00511A](./Model3d/x3d/C04-00511A.x3d)
+- Package 3d model scad : 	 [C04-00511A](./Model3d/scad/C04-00511A.scad)
 Pin count : 144
 - A2 : PD11,  of Type IO, alternates : [PORT P_107, ETH RXD_0, SERCOM2:2 PAD_0, EIC EXTINT_11, TCC2:1 WO_1]
 - A3 : PD10,  of Type IO, alternates : [PORT P_106, EIC EXTINT_10, ETH RXD_1, TCC2:1 WO_0]
@@ -12017,6 +12103,13 @@ Pin count : 176
 
 ### Package : 
 
+- Package id : 	 [C04-00515A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 5MX
+- Package Type : 	 TFBGA
+- Pin count : 	 176,00
+- Package Layout : 	 [C04-00515A](./mchp/packages/C04-00515A.pdf)
+- Package 3d model x3d : 	 [C04-00515A](./Model3d/x3d/C04-00515A.x3d)
+- Package 3d model scad : 	 [C04-00515A](./Model3d/scad/C04-00515A.scad)
 Pin count : 176
 - A2 : PD10,  of Type IO, alternates : [PORT P_106, EIC EXTINT_10, ETH RXD_1, TCC2:1 WO_0]
 - A3 : PD09,  of Type IO, alternates : [PORT P_105, MLB MLBD_, CAN1:2 TX_, EIC EXTINT_9, ETH CRS_]
@@ -13187,6 +13280,14 @@ Pin count : 176
 
 ### Package : 
 
+- Package id : 	 [C04-00509A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 7YX
+- Package Type : 	 TQFP
+- Pin count : 	 100,00
+- Package Layout : 	 [C04-00509A](./mchp/packages/C04-00509A.pdf)
+- Package 3d model wrl : 	 [C04-00509A](./Model3d/wrl/C04-00509A.wrl)
+- Package 3d model x3d : 	 [C04-00509A](./Model3d/x3d/C04-00509A.x3d)
+- Package 3d model scad : 	 [C04-00509A](./Model3d/scad/C04-00509A.scad)
 Pin count : 100
 - 1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
 - 2 : PA01,  of Type IO, alternates : [ETH TXD_0, EIC EXTINT_1, PORT P_1]
@@ -13425,6 +13526,14 @@ Pin count : 100
 
 ### Package : 
 
+- Package id : 	 [C04-00509A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 7YX
+- Package Type : 	 TQFP
+- Pin count : 	 100,00
+- Package Layout : 	 [C04-00509A](./mchp/packages/C04-00509A.pdf)
+- Package 3d model wrl : 	 [C04-00509A](./Model3d/wrl/C04-00509A.wrl)
+- Package 3d model x3d : 	 [C04-00509A](./Model3d/x3d/C04-00509A.x3d)
+- Package 3d model scad : 	 [C04-00509A](./Model3d/scad/C04-00509A.scad)
 Pin count : 100
 - 1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
 - 2 : PA01,  of Type IO, alternates : [ETH TXD_0, EIC EXTINT_1, PORT P_1]
@@ -13663,6 +13772,14 @@ Pin count : 100
 
 ### Package : 
 
+- Package id : 	 [C04-00509A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 7YX
+- Package Type : 	 TQFP
+- Pin count : 	 100,00
+- Package Layout : 	 [C04-00509A](./mchp/packages/C04-00509A.pdf)
+- Package 3d model wrl : 	 [C04-00509A](./Model3d/wrl/C04-00509A.wrl)
+- Package 3d model x3d : 	 [C04-00509A](./Model3d/x3d/C04-00509A.x3d)
+- Package 3d model scad : 	 [C04-00509A](./Model3d/scad/C04-00509A.scad)
 Pin count : 100
 - 1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
 - 2 : PA01,  of Type IO, alternates : [ETH TXD_0, EIC EXTINT_1, PORT P_1]
@@ -13901,6 +14018,14 @@ Pin count : 100
 
 ### Package : 
 
+- Package id : 	 [C04-00510A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 8YX
+- Package Type : 	 TQFP
+- Pin count : 	 144,00
+- Package Layout : 	 [C04-00510A](./mchp/packages/C04-00510A.pdf)
+- Package 3d model wrl : 	 [C04-00510A](./Model3d/wrl/C04-00510A.wrl)
+- Package 3d model x3d : 	 [C04-00510A](./Model3d/x3d/C04-00510A.x3d)
+- Package 3d model scad : 	 [C04-00510A](./Model3d/scad/C04-00510A.scad)
 Pin count : 144
 - 1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
 - 2 : PA01,  of Type IO, alternates : [ETH TXD_0, EIC EXTINT_1, PORT P_1]
@@ -14227,6 +14352,14 @@ Pin count : 144
 
 ### Package : 
 
+- Package id : 	 [C04-00511A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 LUX
+- Package Type : 	 TFBGA
+- Pin count : 	 144,00
+- Package Layout : 	 [C04-00511A](./mchp/packages/C04-00511A.pdf)
+- Package 3d model wrl : 	 [C04-00511A](./Model3d/wrl/C04-00511A.wrl)
+- Package 3d model x3d : 	 [C04-00511A](./Model3d/x3d/C04-00511A.x3d)
+- Package 3d model scad : 	 [C04-00511A](./Model3d/scad/C04-00511A.scad)
 Pin count : 144
 - A2 : PD11,  of Type IO, alternates : [PORT P_107, ETH RXD_0, SERCOM2:2 PAD_0, EIC EXTINT_11, TCC2:1 WO_1]
 - A3 : PD10,  of Type IO, alternates : [PORT P_106, EIC EXTINT_10, ETH RXD_1, TCC2:1 WO_0]
@@ -14390,6 +14523,14 @@ Pin count : 144
 
 ### Package : 
 
+- Package id : 	 [C04-00510A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 8YX
+- Package Type : 	 TQFP
+- Pin count : 	 144,00
+- Package Layout : 	 [C04-00510A](./mchp/packages/C04-00510A.pdf)
+- Package 3d model wrl : 	 [C04-00510A](./Model3d/wrl/C04-00510A.wrl)
+- Package 3d model x3d : 	 [C04-00510A](./Model3d/x3d/C04-00510A.x3d)
+- Package 3d model scad : 	 [C04-00510A](./Model3d/scad/C04-00510A.scad)
 Pin count : 144
 - 1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
 - 2 : PA01,  of Type IO, alternates : [ETH TXD_0, EIC EXTINT_1, PORT P_1]
@@ -14716,6 +14857,14 @@ Pin count : 144
 
 ### Package : 
 
+- Package id : 	 [C04-00511A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 LUX
+- Package Type : 	 TFBGA
+- Pin count : 	 144,00
+- Package Layout : 	 [C04-00511A](./mchp/packages/C04-00511A.pdf)
+- Package 3d model wrl : 	 [C04-00511A](./Model3d/wrl/C04-00511A.wrl)
+- Package 3d model x3d : 	 [C04-00511A](./Model3d/x3d/C04-00511A.x3d)
+- Package 3d model scad : 	 [C04-00511A](./Model3d/scad/C04-00511A.scad)
 Pin count : 144
 - A2 : PD11,  of Type IO, alternates : [PORT P_107, ETH RXD_0, SERCOM2:2 PAD_0, EIC EXTINT_11, TCC2:1 WO_1]
 - A3 : PD10,  of Type IO, alternates : [PORT P_106, EIC EXTINT_10, ETH RXD_1, TCC2:1 WO_0]
@@ -14879,6 +15028,14 @@ Pin count : 144
 
 ### Package : 
 
+- Package id : 	 [C04-00510A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 8YX
+- Package Type : 	 TQFP
+- Pin count : 	 144,00
+- Package Layout : 	 [C04-00510A](./mchp/packages/C04-00510A.pdf)
+- Package 3d model wrl : 	 [C04-00510A](./Model3d/wrl/C04-00510A.wrl)
+- Package 3d model x3d : 	 [C04-00510A](./Model3d/x3d/C04-00510A.x3d)
+- Package 3d model scad : 	 [C04-00510A](./Model3d/scad/C04-00510A.scad)
 Pin count : 144
 - 1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
 - 2 : PA01,  of Type IO, alternates : [ETH TXD_0, EIC EXTINT_1, PORT P_1]
@@ -15205,6 +15362,14 @@ Pin count : 144
 
 ### Package : 
 
+- Package id : 	 [C04-00511A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 LUX
+- Package Type : 	 TFBGA
+- Pin count : 	 144,00
+- Package Layout : 	 [C04-00511A](./mchp/packages/C04-00511A.pdf)
+- Package 3d model wrl : 	 [C04-00511A](./Model3d/wrl/C04-00511A.wrl)
+- Package 3d model x3d : 	 [C04-00511A](./Model3d/x3d/C04-00511A.x3d)
+- Package 3d model scad : 	 [C04-00511A](./Model3d/scad/C04-00511A.scad)
 Pin count : 144
 - A2 : PD11,  of Type IO, alternates : [PORT P_107, ETH RXD_0, SERCOM2:2 PAD_0, EIC EXTINT_11, TCC2:1 WO_1]
 - A3 : PD10,  of Type IO, alternates : [PORT P_106, EIC EXTINT_10, ETH RXD_1, TCC2:1 WO_0]
@@ -15368,6 +15533,13 @@ Pin count : 144
 
 ### Package : 
 
+- Package id : 	 [C04-00515A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 5MX
+- Package Type : 	 TFBGA
+- Pin count : 	 176,00
+- Package Layout : 	 [C04-00515A](./mchp/packages/C04-00515A.pdf)
+- Package 3d model x3d : 	 [C04-00515A](./Model3d/x3d/C04-00515A.x3d)
+- Package 3d model scad : 	 [C04-00515A](./Model3d/scad/C04-00515A.scad)
 Pin count : 176
 - A2 : PD10,  of Type IO, alternates : [PORT P_106, EIC EXTINT_10, ETH RXD_1, TCC2:1 WO_0]
 - A3 : PD09,  of Type IO, alternates : [PORT P_105, MLB MLBD_, CAN1:2 TX_, EIC EXTINT_9, ETH CRS_]
@@ -15953,6 +16125,13 @@ Pin count : 176
 
 ### Package : 
 
+- Package id : 	 [C04-00515A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 5MX
+- Package Type : 	 TFBGA
+- Pin count : 	 176,00
+- Package Layout : 	 [C04-00515A](./mchp/packages/C04-00515A.pdf)
+- Package 3d model x3d : 	 [C04-00515A](./Model3d/x3d/C04-00515A.x3d)
+- Package 3d model scad : 	 [C04-00515A](./Model3d/scad/C04-00515A.scad)
 Pin count : 176
 - A2 : PD10,  of Type IO, alternates : [PORT P_106, EIC EXTINT_10, ETH RXD_1, TCC2:1 WO_0]
 - A3 : PD09,  of Type IO, alternates : [PORT P_105, MLB MLBD_, CAN1:2 TX_, EIC EXTINT_9, ETH CRS_]
@@ -16538,6 +16717,13 @@ Pin count : 176
 
 ### Package : 
 
+- Package id : 	 [C04-00515A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 5MX
+- Package Type : 	 TFBGA
+- Pin count : 	 176,00
+- Package Layout : 	 [C04-00515A](./mchp/packages/C04-00515A.pdf)
+- Package 3d model x3d : 	 [C04-00515A](./Model3d/x3d/C04-00515A.x3d)
+- Package 3d model scad : 	 [C04-00515A](./Model3d/scad/C04-00515A.scad)
 Pin count : 176
 - A2 : PD10,  of Type IO, alternates : [PORT P_106, EIC EXTINT_10, ETH RXD_1, TCC2:1 WO_0]
 - A3 : PD09,  of Type IO, alternates : [PORT P_105, MLB MLBD_, CAN1:2 TX_, EIC EXTINT_9, ETH CRS_]
@@ -18042,6 +18228,14 @@ Pin count : 100
 
 ### Package : 
 
+- Package id : 	 [C04-00509A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 7YX
+- Package Type : 	 TQFP
+- Pin count : 	 100,00
+- Package Layout : 	 [C04-00509A](./mchp/packages/C04-00509A.pdf)
+- Package 3d model wrl : 	 [C04-00509A](./Model3d/wrl/C04-00509A.wrl)
+- Package 3d model x3d : 	 [C04-00509A](./Model3d/x3d/C04-00509A.x3d)
+- Package 3d model scad : 	 [C04-00509A](./Model3d/scad/C04-00509A.scad)
 Pin count : 100
 - 1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
 - 2 : PA01,  of Type IO, alternates : [ETH TXD_0, EIC EXTINT_1, PORT P_1]
@@ -19007,6 +19201,14 @@ Pin count : 144
 
 ### Package : 
 
+- Package id : 	 [C04-00510A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 8YX
+- Package Type : 	 TQFP
+- Pin count : 	 144,00
+- Package Layout : 	 [C04-00510A](./mchp/packages/C04-00510A.pdf)
+- Package 3d model wrl : 	 [C04-00510A](./Model3d/wrl/C04-00510A.wrl)
+- Package 3d model x3d : 	 [C04-00510A](./Model3d/x3d/C04-00510A.x3d)
+- Package 3d model scad : 	 [C04-00510A](./Model3d/scad/C04-00510A.scad)
 Pin count : 144
 - 1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
 - 2 : PA01,  of Type IO, alternates : [ETH TXD_0, EIC EXTINT_1, PORT P_1]
@@ -19333,6 +19535,14 @@ Pin count : 144
 
 ### Package : 
 
+- Package id : 	 [C04-00511A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 LUX
+- Package Type : 	 TFBGA
+- Pin count : 	 144,00
+- Package Layout : 	 [C04-00511A](./mchp/packages/C04-00511A.pdf)
+- Package 3d model wrl : 	 [C04-00511A](./Model3d/wrl/C04-00511A.wrl)
+- Package 3d model x3d : 	 [C04-00511A](./Model3d/x3d/C04-00511A.x3d)
+- Package 3d model scad : 	 [C04-00511A](./Model3d/scad/C04-00511A.scad)
 Pin count : 144
 - A2 : PD11,  of Type IO, alternates : [PORT P_107, ETH RXD_0, SERCOM2:2 PAD_0, EIC EXTINT_11, TCC2:1 WO_1]
 - A3 : PD10,  of Type IO, alternates : [PORT P_106, EIC EXTINT_10, ETH RXD_1, TCC2:1 WO_0]
@@ -20570,6 +20780,13 @@ Pin count : 176
 
 ### Package : 
 
+- Package id : 	 [C04-00515A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 5MX
+- Package Type : 	 TFBGA
+- Pin count : 	 176,00
+- Package Layout : 	 [C04-00515A](./mchp/packages/C04-00515A.pdf)
+- Package 3d model x3d : 	 [C04-00515A](./Model3d/x3d/C04-00515A.x3d)
+- Package 3d model scad : 	 [C04-00515A](./Model3d/scad/C04-00515A.scad)
 Pin count : 176
 - A2 : PD10,  of Type IO, alternates : [PORT P_106, EIC EXTINT_10, ETH RXD_1, TCC2:1 WO_0]
 - A3 : PD09,  of Type IO, alternates : [PORT P_105, MLB MLBD_, CAN1:2 TX_, EIC EXTINT_9, ETH CRS_]
@@ -22421,6 +22638,14 @@ Pin count : 208
 
 ### Package : 
 
+- Package id : 	 [C04-00509A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 7YX
+- Package Type : 	 TQFP
+- Pin count : 	 100,00
+- Package Layout : 	 [C04-00509A](./mchp/packages/C04-00509A.pdf)
+- Package 3d model wrl : 	 [C04-00509A](./Model3d/wrl/C04-00509A.wrl)
+- Package 3d model x3d : 	 [C04-00509A](./Model3d/x3d/C04-00509A.x3d)
+- Package 3d model scad : 	 [C04-00509A](./Model3d/scad/C04-00509A.scad)
 Pin count : 100
 - 1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
 - 2 : PA01,  of Type IO, alternates : [ETH TXD_0, EIC EXTINT_1, PORT P_1]
@@ -22659,6 +22884,14 @@ Pin count : 100
 
 ### Package : 
 
+- Package id : 	 [C04-00509A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 7YX
+- Package Type : 	 TQFP
+- Pin count : 	 100,00
+- Package Layout : 	 [C04-00509A](./mchp/packages/C04-00509A.pdf)
+- Package 3d model wrl : 	 [C04-00509A](./Model3d/wrl/C04-00509A.wrl)
+- Package 3d model x3d : 	 [C04-00509A](./Model3d/x3d/C04-00509A.x3d)
+- Package 3d model scad : 	 [C04-00509A](./Model3d/scad/C04-00509A.scad)
 Pin count : 100
 - 1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
 - 2 : PA01,  of Type IO, alternates : [ETH TXD_0, EIC EXTINT_1, PORT P_1]
@@ -23135,6 +23368,14 @@ Pin count : 100
 
 ### Package : 
 
+- Package id : 	 [C04-00510A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 8YX
+- Package Type : 	 TQFP
+- Pin count : 	 144,00
+- Package Layout : 	 [C04-00510A](./mchp/packages/C04-00510A.pdf)
+- Package 3d model wrl : 	 [C04-00510A](./Model3d/wrl/C04-00510A.wrl)
+- Package 3d model x3d : 	 [C04-00510A](./Model3d/x3d/C04-00510A.x3d)
+- Package 3d model scad : 	 [C04-00510A](./Model3d/scad/C04-00510A.scad)
 Pin count : 144
 - 1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
 - 2 : PA01,  of Type IO, alternates : [ETH TXD_0, EIC EXTINT_1, PORT P_1]
@@ -23461,6 +23702,14 @@ Pin count : 144
 
 ### Package : 
 
+- Package id : 	 [C04-00511A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 LUX
+- Package Type : 	 TFBGA
+- Pin count : 	 144,00
+- Package Layout : 	 [C04-00511A](./mchp/packages/C04-00511A.pdf)
+- Package 3d model wrl : 	 [C04-00511A](./Model3d/wrl/C04-00511A.wrl)
+- Package 3d model x3d : 	 [C04-00511A](./Model3d/x3d/C04-00511A.x3d)
+- Package 3d model scad : 	 [C04-00511A](./Model3d/scad/C04-00511A.scad)
 Pin count : 144
 - A2 : PD11,  of Type IO, alternates : [PORT P_107, ETH RXD_0, SERCOM2:2 PAD_0, EIC EXTINT_11, TCC2:1 WO_1]
 - A3 : PD10,  of Type IO, alternates : [PORT P_106, EIC EXTINT_10, ETH RXD_1, TCC2:1 WO_0]
@@ -23624,6 +23873,14 @@ Pin count : 144
 
 ### Package : 
 
+- Package id : 	 [C04-00510A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 8YX
+- Package Type : 	 TQFP
+- Pin count : 	 144,00
+- Package Layout : 	 [C04-00510A](./mchp/packages/C04-00510A.pdf)
+- Package 3d model wrl : 	 [C04-00510A](./Model3d/wrl/C04-00510A.wrl)
+- Package 3d model x3d : 	 [C04-00510A](./Model3d/x3d/C04-00510A.x3d)
+- Package 3d model scad : 	 [C04-00510A](./Model3d/scad/C04-00510A.scad)
 Pin count : 144
 - 1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
 - 2 : PA01,  of Type IO, alternates : [ETH TXD_0, EIC EXTINT_1, PORT P_1]
@@ -23950,6 +24207,14 @@ Pin count : 144
 
 ### Package : 
 
+- Package id : 	 [C04-00511A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 LUX
+- Package Type : 	 TFBGA
+- Pin count : 	 144,00
+- Package Layout : 	 [C04-00511A](./mchp/packages/C04-00511A.pdf)
+- Package 3d model wrl : 	 [C04-00511A](./Model3d/wrl/C04-00511A.wrl)
+- Package 3d model x3d : 	 [C04-00511A](./Model3d/x3d/C04-00511A.x3d)
+- Package 3d model scad : 	 [C04-00511A](./Model3d/scad/C04-00511A.scad)
 Pin count : 144
 - A2 : PD11,  of Type IO, alternates : [PORT P_107, ETH RXD_0, SERCOM2:2 PAD_0, EIC EXTINT_11, TCC2:1 WO_1]
 - A3 : PD10,  of Type IO, alternates : [PORT P_106, EIC EXTINT_10, ETH RXD_1, TCC2:1 WO_0]
@@ -24113,6 +24378,14 @@ Pin count : 144
 
 ### Package : 
 
+- Package id : 	 [C04-00510A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 8YX
+- Package Type : 	 TQFP
+- Pin count : 	 144,00
+- Package Layout : 	 [C04-00510A](./mchp/packages/C04-00510A.pdf)
+- Package 3d model wrl : 	 [C04-00510A](./Model3d/wrl/C04-00510A.wrl)
+- Package 3d model x3d : 	 [C04-00510A](./Model3d/x3d/C04-00510A.x3d)
+- Package 3d model scad : 	 [C04-00510A](./Model3d/scad/C04-00510A.scad)
 Pin count : 144
 - 1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
 - 2 : PA01,  of Type IO, alternates : [ETH TXD_0, EIC EXTINT_1, PORT P_1]
@@ -24439,6 +24712,14 @@ Pin count : 144
 
 ### Package : 
 
+- Package id : 	 [C04-00511A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 LUX
+- Package Type : 	 TFBGA
+- Pin count : 	 144,00
+- Package Layout : 	 [C04-00511A](./mchp/packages/C04-00511A.pdf)
+- Package 3d model wrl : 	 [C04-00511A](./Model3d/wrl/C04-00511A.wrl)
+- Package 3d model x3d : 	 [C04-00511A](./Model3d/x3d/C04-00511A.x3d)
+- Package 3d model scad : 	 [C04-00511A](./Model3d/scad/C04-00511A.scad)
 Pin count : 144
 - A2 : PD11,  of Type IO, alternates : [PORT P_107, ETH RXD_0, SERCOM2:2 PAD_0, EIC EXTINT_11, TCC2:1 WO_1]
 - A3 : PD10,  of Type IO, alternates : [PORT P_106, EIC EXTINT_10, ETH RXD_1, TCC2:1 WO_0]
@@ -24602,6 +24883,13 @@ Pin count : 144
 
 ### Package : 
 
+- Package id : 	 [C04-00515A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 5MX
+- Package Type : 	 TFBGA
+- Pin count : 	 176,00
+- Package Layout : 	 [C04-00515A](./mchp/packages/C04-00515A.pdf)
+- Package 3d model x3d : 	 [C04-00515A](./Model3d/x3d/C04-00515A.x3d)
+- Package 3d model scad : 	 [C04-00515A](./Model3d/scad/C04-00515A.scad)
 Pin count : 176
 - A2 : PD10,  of Type IO, alternates : [PORT P_106, EIC EXTINT_10, ETH RXD_1, TCC2:1 WO_0]
 - A3 : PD09,  of Type IO, alternates : [PORT P_105, MLB MLBD_, CAN1:2 TX_, EIC EXTINT_9, ETH CRS_]
@@ -25187,6 +25475,13 @@ Pin count : 176
 
 ### Package : 
 
+- Package id : 	 [C04-00515A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 5MX
+- Package Type : 	 TFBGA
+- Pin count : 	 176,00
+- Package Layout : 	 [C04-00515A](./mchp/packages/C04-00515A.pdf)
+- Package 3d model x3d : 	 [C04-00515A](./Model3d/x3d/C04-00515A.x3d)
+- Package 3d model scad : 	 [C04-00515A](./Model3d/scad/C04-00515A.scad)
 Pin count : 176
 - A2 : PD10,  of Type IO, alternates : [PORT P_106, EIC EXTINT_10, ETH RXD_1, TCC2:1 WO_0]
 - A3 : PD09,  of Type IO, alternates : [PORT P_105, MLB MLBD_, CAN1:2 TX_, EIC EXTINT_9, ETH CRS_]
@@ -25772,6 +26067,13 @@ Pin count : 176
 
 ### Package : 
 
+- Package id : 	 [C04-00515A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 5MX
+- Package Type : 	 TFBGA
+- Pin count : 	 176,00
+- Package Layout : 	 [C04-00515A](./mchp/packages/C04-00515A.pdf)
+- Package 3d model x3d : 	 [C04-00515A](./Model3d/x3d/C04-00515A.x3d)
+- Package 3d model scad : 	 [C04-00515A](./Model3d/scad/C04-00515A.scad)
 Pin count : 176
 - A2 : PD10,  of Type IO, alternates : [PORT P_106, EIC EXTINT_10, ETH RXD_1, TCC2:1 WO_0]
 - A3 : PD09,  of Type IO, alternates : [PORT P_105, MLB MLBD_, CAN1:2 TX_, EIC EXTINT_9, ETH CRS_]
@@ -27276,6 +27578,14 @@ Pin count : 100
 
 ### Package : 
 
+- Package id : 	 [C04-00509A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 7YX
+- Package Type : 	 TQFP
+- Pin count : 	 100,00
+- Package Layout : 	 [C04-00509A](./mchp/packages/C04-00509A.pdf)
+- Package 3d model wrl : 	 [C04-00509A](./Model3d/wrl/C04-00509A.wrl)
+- Package 3d model x3d : 	 [C04-00509A](./Model3d/x3d/C04-00509A.x3d)
+- Package 3d model scad : 	 [C04-00509A](./Model3d/scad/C04-00509A.scad)
 Pin count : 100
 - 1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
 - 2 : PA01,  of Type IO, alternates : [ETH TXD_0, EIC EXTINT_1, PORT P_1]
@@ -27514,6 +27824,14 @@ Pin count : 100
 
 ### Package : 
 
+- Package id : 	 [C04-00509A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 7YX
+- Package Type : 	 TQFP
+- Pin count : 	 100,00
+- Package Layout : 	 [C04-00509A](./mchp/packages/C04-00509A.pdf)
+- Package 3d model wrl : 	 [C04-00509A](./Model3d/wrl/C04-00509A.wrl)
+- Package 3d model x3d : 	 [C04-00509A](./Model3d/x3d/C04-00509A.x3d)
+- Package 3d model scad : 	 [C04-00509A](./Model3d/scad/C04-00509A.scad)
 Pin count : 100
 - 1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
 - 2 : PA01,  of Type IO, alternates : [ETH TXD_0, EIC EXTINT_1, PORT P_1]
@@ -28241,6 +28559,14 @@ Pin count : 144
 
 ### Package : 
 
+- Package id : 	 [C04-00510A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 8YX
+- Package Type : 	 TQFP
+- Pin count : 	 144,00
+- Package Layout : 	 [C04-00510A](./mchp/packages/C04-00510A.pdf)
+- Package 3d model wrl : 	 [C04-00510A](./Model3d/wrl/C04-00510A.wrl)
+- Package 3d model x3d : 	 [C04-00510A](./Model3d/x3d/C04-00510A.x3d)
+- Package 3d model scad : 	 [C04-00510A](./Model3d/scad/C04-00510A.scad)
 Pin count : 144
 - 1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
 - 2 : PA01,  of Type IO, alternates : [ETH TXD_0, EIC EXTINT_1, PORT P_1]
@@ -28567,6 +28893,14 @@ Pin count : 144
 
 ### Package : 
 
+- Package id : 	 [C04-00511A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 LUX
+- Package Type : 	 TFBGA
+- Pin count : 	 144,00
+- Package Layout : 	 [C04-00511A](./mchp/packages/C04-00511A.pdf)
+- Package 3d model wrl : 	 [C04-00511A](./Model3d/wrl/C04-00511A.wrl)
+- Package 3d model x3d : 	 [C04-00511A](./Model3d/x3d/C04-00511A.x3d)
+- Package 3d model scad : 	 [C04-00511A](./Model3d/scad/C04-00511A.scad)
 Pin count : 144
 - A2 : PD11,  of Type IO, alternates : [PORT P_107, ETH RXD_0, SERCOM2:2 PAD_0, EIC EXTINT_11, TCC2:1 WO_1]
 - A3 : PD10,  of Type IO, alternates : [PORT P_106, EIC EXTINT_10, ETH RXD_1, TCC2:1 WO_0]
@@ -28730,6 +29064,14 @@ Pin count : 144
 
 ### Package : 
 
+- Package id : 	 [C04-00510A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 8YX
+- Package Type : 	 TQFP
+- Pin count : 	 144,00
+- Package Layout : 	 [C04-00510A](./mchp/packages/C04-00510A.pdf)
+- Package 3d model wrl : 	 [C04-00510A](./Model3d/wrl/C04-00510A.wrl)
+- Package 3d model x3d : 	 [C04-00510A](./Model3d/x3d/C04-00510A.x3d)
+- Package 3d model scad : 	 [C04-00510A](./Model3d/scad/C04-00510A.scad)
 Pin count : 144
 - 1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
 - 2 : PA01,  of Type IO, alternates : [ETH TXD_0, EIC EXTINT_1, PORT P_1]
@@ -29056,6 +29398,14 @@ Pin count : 144
 
 ### Package : 
 
+- Package id : 	 [C04-00511A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 LUX
+- Package Type : 	 TFBGA
+- Pin count : 	 144,00
+- Package Layout : 	 [C04-00511A](./mchp/packages/C04-00511A.pdf)
+- Package 3d model wrl : 	 [C04-00511A](./Model3d/wrl/C04-00511A.wrl)
+- Package 3d model x3d : 	 [C04-00511A](./Model3d/x3d/C04-00511A.x3d)
+- Package 3d model scad : 	 [C04-00511A](./Model3d/scad/C04-00511A.scad)
 Pin count : 144
 - A2 : PD11,  of Type IO, alternates : [PORT P_107, ETH RXD_0, SERCOM2:2 PAD_0, EIC EXTINT_11, TCC2:1 WO_1]
 - A3 : PD10,  of Type IO, alternates : [PORT P_106, EIC EXTINT_10, ETH RXD_1, TCC2:1 WO_0]
@@ -29804,6 +30154,13 @@ Pin count : 176
 
 ### Package : 
 
+- Package id : 	 [C04-00515A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 5MX
+- Package Type : 	 TFBGA
+- Pin count : 	 176,00
+- Package Layout : 	 [C04-00515A](./mchp/packages/C04-00515A.pdf)
+- Package 3d model x3d : 	 [C04-00515A](./Model3d/x3d/C04-00515A.x3d)
+- Package 3d model scad : 	 [C04-00515A](./Model3d/scad/C04-00515A.scad)
 Pin count : 176
 - A2 : PD10,  of Type IO, alternates : [PORT P_106, EIC EXTINT_10, ETH RXD_1, TCC2:1 WO_0]
 - A3 : PD09,  of Type IO, alternates : [PORT P_105, MLB MLBD_, CAN1:2 TX_, EIC EXTINT_9, ETH CRS_]
@@ -30389,6 +30746,13 @@ Pin count : 176
 
 ### Package : 
 
+- Package id : 	 [C04-00515A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 5MX
+- Package Type : 	 TFBGA
+- Pin count : 	 176,00
+- Package Layout : 	 [C04-00515A](./mchp/packages/C04-00515A.pdf)
+- Package 3d model x3d : 	 [C04-00515A](./Model3d/x3d/C04-00515A.x3d)
+- Package 3d model scad : 	 [C04-00515A](./Model3d/scad/C04-00515A.scad)
 Pin count : 176
 - A2 : PD10,  of Type IO, alternates : [PORT P_106, EIC EXTINT_10, ETH RXD_1, TCC2:1 WO_0]
 - A3 : PD09,  of Type IO, alternates : [PORT P_105, MLB MLBD_, CAN1:2 TX_, EIC EXTINT_9, ETH CRS_]
@@ -32501,6 +32865,14 @@ Pin count : 144
 
 ### Package : 
 
+- Package id : 	 [C04-00511A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 LUX
+- Package Type : 	 TFBGA
+- Pin count : 	 144,00
+- Package Layout : 	 [C04-00511A](./mchp/packages/C04-00511A.pdf)
+- Package 3d model wrl : 	 [C04-00511A](./Model3d/wrl/C04-00511A.wrl)
+- Package 3d model x3d : 	 [C04-00511A](./Model3d/x3d/C04-00511A.x3d)
+- Package 3d model scad : 	 [C04-00511A](./Model3d/scad/C04-00511A.scad)
 Pin count : 144
 - A2 : PD11,  of Type IO, alternates : [PORT P_107, ETH RXD_0, SERCOM2:2 PAD_0, EIC EXTINT_11, TCC2:1 WO_1]
 - A3 : PD10,  of Type IO, alternates : [PORT P_106, EIC EXTINT_10, ETH RXD_1, TCC2:1 WO_0]
@@ -32827,6 +33199,15 @@ Pin count : 144
 
 ### Package : 
 
+- Package id : 	 [C04-00511A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 LUX
+- Package Type : 	 TFBGA
+- Pin count : 	 144,00
+- Package Layout : 	 [C04-00511A](./mchp/packages/C04-00511A.pdf)
+- Package 3d model wrl : 	 [C04-00511A](./Model3d/wrl/C04-00511A.wrl)
+- Package 3d model x3d : 	 [C04-00511A](./Model3d/x3d/C04-00511A.x3d)
+- Package 3d model scad : 	 [C04-00511A](./Model3d/scad/C04-00511A.scad)
+please verify some data are inconsistante 	 
 Pin count : 144
 - A2 : PD11,  of Type IO, alternates : [PORT P_107, ETH RXD_0, SERCOM2:2 PAD_0, EIC EXTINT_11, TCC2:1 WO_1]
 - A3 : PD10,  of Type IO, alternates : [PORT P_106, EIC EXTINT_10, ETH RXD_1, TCC2:1 WO_0]
@@ -33380,6 +33761,13 @@ Pin count : 176
 
 ### Package : 
 
+- Package id : 	 [C04-00515A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 5MX
+- Package Type : 	 TFBGA
+- Pin count : 	 176,00
+- Package Layout : 	 [C04-00515A](./mchp/packages/C04-00515A.pdf)
+- Package 3d model x3d : 	 [C04-00515A](./Model3d/x3d/C04-00515A.x3d)
+- Package 3d model scad : 	 [C04-00515A](./Model3d/scad/C04-00515A.scad)
 Pin count : 176
 - A2 : PD10,  of Type IO, alternates : [PORT P_106, EIC EXTINT_10, ETH RXD_1, TCC2:1 WO_0]
 - A3 : PD09,  of Type IO, alternates : [PORT P_105, MLB MLBD_, CAN1:2 TX_, EIC EXTINT_9, ETH CRS_]
@@ -33770,6 +34158,14 @@ Pin count : 176
 
 ### Package : 
 
+- Package id : 	 [C04-00515A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 5MX
+- Package Type : 	 TFBGA
+- Pin count : 	 176,00
+- Package Layout : 	 [C04-00515A](./mchp/packages/C04-00515A.pdf)
+- Package 3d model x3d : 	 [C04-00515A](./Model3d/x3d/C04-00515A.x3d)
+- Package 3d model scad : 	 [C04-00515A](./Model3d/scad/C04-00515A.scad)
+please verify some data are inconsistante 	 
 Pin count : 176
 - A2 : PD10,  of Type IO, alternates : [PORT P_106, EIC EXTINT_10, ETH RXD_1, TCC2:1 WO_0]
 - A3 : PD09,  of Type IO, alternates : [PORT P_105, MLB MLBD_, CAN1:2 TX_, EIC EXTINT_9, ETH CRS_]

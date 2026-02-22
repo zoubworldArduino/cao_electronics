@@ -656,6 +656,12 @@ Pin count : 100
 
 ### Package : 
 
+- Package id : 	 [C04-21246A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 FRB
+- Package Type : 	 WLCSP
+- Pin count : 	 49,00
+- Package Layout : 	 [C04-21246A](./mchp/packages/C04-21246A.pdf)
+- Package 3d model scad : 	 [C04-21246A](./Model3d/scad/C04-21246A.scad)
 Pin count : 49
 - C7 : PA0,  of Type IO, alternates : [SUPC WKUP_0, TC0 TIOA_0, I2SC0 I2SCK_0, PIOA P_0]
 - D5 : PA1,  of Type IO, alternates : [SUPC WKUP_1, I2SC0 I2SWS_0, PIOA P_1, TC0 TIOB_0]
@@ -724,6 +730,12 @@ Pin count : 49
 
 ### Package : 
 
+- Package id : 	 [C04-00053A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 V6X
+- Package Type : 	 LQFP
+- Pin count : 	 64,00
+- Package Layout : 	 [C04-00053A](./mchp/packages/C04-00053A.pdf)
+- Package 3d model scad : 	 [C04-00053A](./Model3d/scad/C04-00053A.scad)
 Pin count : 64
 - 6 : PA0,  of Type IO, alternates : [SUPC WKUP_0, TC0 TIOA_0, I2SC0 I2SCK_0, PIOA P_0]
 - 7 : PA1,  of Type IO, alternates : [SUPC WKUP_1, I2SC0 I2SWS_0, PIOA P_1, TC0 TIOB_0]
@@ -807,6 +819,12 @@ Pin count : 64
 
 ### Package : 
 
+- Package id : 	 [C04-00053A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 V6X
+- Package Type : 	 LQFP
+- Pin count : 	 64,00
+- Package Layout : 	 [C04-00053A](./mchp/packages/C04-00053A.pdf)
+- Package 3d model scad : 	 [C04-00053A](./Model3d/scad/C04-00053A.scad)
 Pin count : 64
 - 6 : PA0,  of Type IO, alternates : [SUPC WKUP_0, TC0 TIOA_0, I2SC0 I2SCK_0, PIOA P_0]
 - 7 : PA1,  of Type IO, alternates : [SUPC WKUP_1, I2SC0 I2SWS_0, PIOA P_1, TC0 TIOB_0]
@@ -890,6 +908,12 @@ Pin count : 64
 
 ### Package : 
 
+- Package id : 	 [C04-21410A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 SHB
+- Package Type : 	 VQFN
+- Pin count : 	 64,00
+- Package Layout : 	 [C04-21410A](./mchp/packages/C04-21410A.pdf)
+- Package 3d model scad : 	 [C04-21410A](./Model3d/scad/C04-21410A.scad)
 Pin count : 64
 - 6 : PA0,  of Type IO, alternates : [SUPC WKUP_0, TC0 TIOA_0, I2SC0 I2SCK_0, PIOA P_0]
 - 7 : PA1,  of Type IO, alternates : [SUPC WKUP_1, I2SC0 I2SWS_0, PIOA P_1, TC0 TIOB_0]
@@ -973,6 +997,12 @@ Pin count : 64
 
 ### Package : 
 
+- Package id : 	 [C04-21410A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 SHB
+- Package Type : 	 VQFN
+- Pin count : 	 64,00
+- Package Layout : 	 [C04-21410A](./mchp/packages/C04-21410A.pdf)
+- Package 3d model scad : 	 [C04-21410A](./Model3d/scad/C04-21410A.scad)
 Pin count : 64
 - 6 : PA0,  of Type IO, alternates : [SUPC WKUP_0, TC0 TIOA_0, I2SC0 I2SCK_0, PIOA P_0]
 - 7 : PA1,  of Type IO, alternates : [SUPC WKUP_1, I2SC0 I2SWS_0, PIOA P_1, TC0 TIOB_0]

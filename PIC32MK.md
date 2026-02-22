@@ -17,6 +17,12 @@
 
 ### Package : 
 
+- Package id : 	 [C04-00073C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 N2X
+- Package Type : 	 SSOP
+- Pin count : 	 28,00
+- Package Layout : 	 [C04-00073C](./mchp/packages/C04-00073C.pdf)
+please verify some data are inconsistante 	 
 Pin count : 0
 ## PIC32MK0128MCA032
 
@@ -55,6 +61,15 @@ Pin count : 0
 
 ### Package : 
 
+- Package id : 	 [C04-00504B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 6MX
+- Package Type : 	 VQFN
+- Pin count : 	 48,00
+- Package Layout : 	 [C04-00504B](./mchp/packages/C04-00504B.pdf)
+- Package 3d model wrl : 	 [C04-00504B](./Model3d/wrl/C04-00504B.wrl)
+- Package 3d model x3d : 	 [C04-00504B](./Model3d/x3d/C04-00504B.x3d)
+- Package 3d model scad : 	 [C04-00504B](./Model3d/scad/C04-00504B.scad)
+please verify some data are inconsistante 	 
 Pin count : 0
 ## PIC32MK0128MCA048
 
@@ -74,6 +89,15 @@ Pin count : 0
 
 ### Package : 
 
+- Package id : 	 [C04-00504B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 6MX
+- Package Type : 	 VQFN
+- Pin count : 	 48,00
+- Package Layout : 	 [C04-00504B](./mchp/packages/C04-00504B.pdf)
+- Package 3d model wrl : 	 [C04-00504B](./Model3d/wrl/C04-00504B.wrl)
+- Package 3d model x3d : 	 [C04-00504B](./Model3d/x3d/C04-00504B.x3d)
+- Package 3d model scad : 	 [C04-00504B](./Model3d/scad/C04-00504B.scad)
+please verify some data are inconsistante 	 
 Pin count : 0
 ## PIC32MK0256GPG048
 
@@ -93,6 +117,15 @@ Pin count : 0
 
 ### Package : 
 
+- Package id : 	 [C04-00506A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 7MX
+- Package Type : 	 VQFN
+- Pin count : 	 48,00
+- Package Layout : 	 [C04-00506A](./mchp/packages/C04-00506A.pdf)
+- Package 3d model wrl : 	 [C04-00506A](./Model3d/wrl/C04-00506A.wrl)
+- Package 3d model x3d : 	 [C04-00506A](./Model3d/x3d/C04-00506A.x3d)
+- Package 3d model scad : 	 [C04-00506A](./Model3d/scad/C04-00506A.scad)
+please verify some data are inconsistante 	 
 Pin count : 0
 ## PIC32MK0256GPG048
 
@@ -112,6 +145,15 @@ Pin count : 0
 
 ### Package : 
 
+- Package id : 	 [C04-00506A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 7MX
+- Package Type : 	 VQFN
+- Pin count : 	 48,00
+- Package Layout : 	 [C04-00506A](./mchp/packages/C04-00506A.pdf)
+- Package 3d model wrl : 	 [C04-00506A](./Model3d/wrl/C04-00506A.wrl)
+- Package 3d model x3d : 	 [C04-00506A](./Model3d/x3d/C04-00506A.x3d)
+- Package 3d model scad : 	 [C04-00506A](./Model3d/scad/C04-00506A.scad)
+please verify some data are inconsistante 	 
 Pin count : 0
 ## PIC32MK0256GPG064
 
@@ -131,6 +173,15 @@ Pin count : 0
 
 ### Package : 
 
+- Package id : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 R4X
+- Package Type : 	 QFN
+- Pin count : 	 64,00
+- Package Layout : 	 [C04-00149E](./mchp/packages/C04-00149E.pdf)
+- Package 3d model wrl : 	 [C04-00149E](./Model3d/wrl/C04-00149E.wrl)
+- Package 3d model x3d : 	 [C04-00149E](./Model3d/x3d/C04-00149E.x3d)
+- Package 3d model scad : 	 [C04-00149E](./Model3d/scad/C04-00149E.scad)
+please verify some data are inconsistante 	 
 Pin count : 0
 ## PIC32MK0256GPG064
 
@@ -150,6 +201,15 @@ Pin count : 0
 
 ### Package : 
 
+- Package id : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 R4X
+- Package Type : 	 QFN
+- Pin count : 	 64,00
+- Package Layout : 	 [C04-00149E](./mchp/packages/C04-00149E.pdf)
+- Package 3d model wrl : 	 [C04-00149E](./Model3d/wrl/C04-00149E.wrl)
+- Package 3d model x3d : 	 [C04-00149E](./Model3d/x3d/C04-00149E.x3d)
+- Package 3d model scad : 	 [C04-00149E](./Model3d/scad/C04-00149E.scad)
+please verify some data are inconsistante 	 
 Pin count : 0
 ## PIC32MK0256MCJ048
 
@@ -169,6 +229,15 @@ Pin count : 0
 
 ### Package : 
 
+- Package id : 	 [C04-00506A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 7MX
+- Package Type : 	 VQFN
+- Pin count : 	 48,00
+- Package Layout : 	 [C04-00506A](./mchp/packages/C04-00506A.pdf)
+- Package 3d model wrl : 	 [C04-00506A](./Model3d/wrl/C04-00506A.wrl)
+- Package 3d model x3d : 	 [C04-00506A](./Model3d/x3d/C04-00506A.x3d)
+- Package 3d model scad : 	 [C04-00506A](./Model3d/scad/C04-00506A.scad)
+please verify some data are inconsistante 	 
 Pin count : 0
 ## PIC32MK0256MCJ048
 
@@ -188,6 +257,15 @@ Pin count : 0
 
 ### Package : 
 
+- Package id : 	 [C04-00506A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 7MX
+- Package Type : 	 VQFN
+- Pin count : 	 48,00
+- Package Layout : 	 [C04-00506A](./mchp/packages/C04-00506A.pdf)
+- Package 3d model wrl : 	 [C04-00506A](./Model3d/wrl/C04-00506A.wrl)
+- Package 3d model x3d : 	 [C04-00506A](./Model3d/x3d/C04-00506A.x3d)
+- Package 3d model scad : 	 [C04-00506A](./Model3d/scad/C04-00506A.scad)
+please verify some data are inconsistante 	 
 Pin count : 0
 ## PIC32MK0256MCJ064
 
@@ -207,6 +285,15 @@ Pin count : 0
 
 ### Package : 
 
+- Package id : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 R4X
+- Package Type : 	 QFN
+- Pin count : 	 64,00
+- Package Layout : 	 [C04-00149E](./mchp/packages/C04-00149E.pdf)
+- Package 3d model wrl : 	 [C04-00149E](./Model3d/wrl/C04-00149E.wrl)
+- Package 3d model x3d : 	 [C04-00149E](./Model3d/x3d/C04-00149E.x3d)
+- Package 3d model scad : 	 [C04-00149E](./Model3d/scad/C04-00149E.scad)
+please verify some data are inconsistante 	 
 Pin count : 0
 ## PIC32MK0256MCJ064
 
@@ -226,6 +313,15 @@ Pin count : 0
 
 ### Package : 
 
+- Package id : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 R4X
+- Package Type : 	 QFN
+- Pin count : 	 64,00
+- Package Layout : 	 [C04-00149E](./mchp/packages/C04-00149E.pdf)
+- Package 3d model wrl : 	 [C04-00149E](./Model3d/wrl/C04-00149E.wrl)
+- Package 3d model x3d : 	 [C04-00149E](./Model3d/x3d/C04-00149E.x3d)
+- Package 3d model scad : 	 [C04-00149E](./Model3d/scad/C04-00149E.scad)
+please verify some data are inconsistante 	 
 Pin count : 0
 ## PIC32MK0512GPD064
 
@@ -245,6 +341,15 @@ Pin count : 0
 
 ### Package : 
 
+- Package id : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 R4X
+- Package Type : 	 QFN
+- Pin count : 	 64,00
+- Package Layout : 	 [C04-00149E](./mchp/packages/C04-00149E.pdf)
+- Package 3d model wrl : 	 [C04-00149E](./Model3d/wrl/C04-00149E.wrl)
+- Package 3d model x3d : 	 [C04-00149E](./Model3d/x3d/C04-00149E.x3d)
+- Package 3d model scad : 	 [C04-00149E](./Model3d/scad/C04-00149E.scad)
+please verify some data are inconsistante 	 
 Pin count : 0
 ## PIC32MK0512GPD064
 
@@ -264,6 +369,15 @@ Pin count : 0
 
 ### Package : 
 
+- Package id : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 R4X
+- Package Type : 	 QFN
+- Pin count : 	 64,00
+- Package Layout : 	 [C04-00149E](./mchp/packages/C04-00149E.pdf)
+- Package 3d model wrl : 	 [C04-00149E](./Model3d/wrl/C04-00149E.wrl)
+- Package 3d model x3d : 	 [C04-00149E](./Model3d/x3d/C04-00149E.x3d)
+- Package 3d model scad : 	 [C04-00149E](./Model3d/scad/C04-00149E.scad)
+please verify some data are inconsistante 	 
 Pin count : 0
 ## PIC32MK0512GPD100
 
@@ -283,6 +397,13 @@ Pin count : 0
 
 ### Package : 
 
+- Package id : 	 [C04-00110C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 E5X
+- Package Type : 	 TQFP
+- Pin count : 	 100,00
+- Package Layout : 	 [C04-00110C](./mchp/packages/C04-00110C.pdf)
+- Package 3d model scad : 	 [C04-00110C](./Model3d/scad/C04-00110C.scad)
+please verify some data are inconsistante 	 
 Pin count : 0
 ## PIC32MK0512GPE064
 
@@ -302,6 +423,15 @@ Pin count : 0
 
 ### Package : 
 
+- Package id : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 R4X
+- Package Type : 	 QFN
+- Pin count : 	 64,00
+- Package Layout : 	 [C04-00149E](./mchp/packages/C04-00149E.pdf)
+- Package 3d model wrl : 	 [C04-00149E](./Model3d/wrl/C04-00149E.wrl)
+- Package 3d model x3d : 	 [C04-00149E](./Model3d/x3d/C04-00149E.x3d)
+- Package 3d model scad : 	 [C04-00149E](./Model3d/scad/C04-00149E.scad)
+please verify some data are inconsistante 	 
 Pin count : 0
 ## PIC32MK0512GPE064
 
@@ -321,6 +451,15 @@ Pin count : 0
 
 ### Package : 
 
+- Package id : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 R4X
+- Package Type : 	 QFN
+- Pin count : 	 64,00
+- Package Layout : 	 [C04-00149E](./mchp/packages/C04-00149E.pdf)
+- Package 3d model wrl : 	 [C04-00149E](./Model3d/wrl/C04-00149E.wrl)
+- Package 3d model x3d : 	 [C04-00149E](./Model3d/x3d/C04-00149E.x3d)
+- Package 3d model scad : 	 [C04-00149E](./Model3d/scad/C04-00149E.scad)
+please verify some data are inconsistante 	 
 Pin count : 0
 ## PIC32MK0512GPE100
 
@@ -340,6 +479,13 @@ Pin count : 0
 
 ### Package : 
 
+- Package id : 	 [C04-00110C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 E5X
+- Package Type : 	 TQFP
+- Pin count : 	 100,00
+- Package Layout : 	 [C04-00110C](./mchp/packages/C04-00110C.pdf)
+- Package 3d model scad : 	 [C04-00110C](./Model3d/scad/C04-00110C.scad)
+please verify some data are inconsistante 	 
 Pin count : 0
 ## PIC32MK0512GPG048
 
@@ -359,6 +505,15 @@ Pin count : 0
 
 ### Package : 
 
+- Package id : 	 [C04-00506A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 7MX
+- Package Type : 	 VQFN
+- Pin count : 	 48,00
+- Package Layout : 	 [C04-00506A](./mchp/packages/C04-00506A.pdf)
+- Package 3d model wrl : 	 [C04-00506A](./Model3d/wrl/C04-00506A.wrl)
+- Package 3d model x3d : 	 [C04-00506A](./Model3d/x3d/C04-00506A.x3d)
+- Package 3d model scad : 	 [C04-00506A](./Model3d/scad/C04-00506A.scad)
+please verify some data are inconsistante 	 
 Pin count : 0
 ## PIC32MK0512GPG048
 
@@ -378,6 +533,15 @@ Pin count : 0
 
 ### Package : 
 
+- Package id : 	 [C04-00506A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 7MX
+- Package Type : 	 VQFN
+- Pin count : 	 48,00
+- Package Layout : 	 [C04-00506A](./mchp/packages/C04-00506A.pdf)
+- Package 3d model wrl : 	 [C04-00506A](./Model3d/wrl/C04-00506A.wrl)
+- Package 3d model x3d : 	 [C04-00506A](./Model3d/x3d/C04-00506A.x3d)
+- Package 3d model scad : 	 [C04-00506A](./Model3d/scad/C04-00506A.scad)
+please verify some data are inconsistante 	 
 Pin count : 0
 ## PIC32MK0512GPG064
 
@@ -397,6 +561,15 @@ Pin count : 0
 
 ### Package : 
 
+- Package id : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 R4X
+- Package Type : 	 QFN
+- Pin count : 	 64,00
+- Package Layout : 	 [C04-00149E](./mchp/packages/C04-00149E.pdf)
+- Package 3d model wrl : 	 [C04-00149E](./Model3d/wrl/C04-00149E.wrl)
+- Package 3d model x3d : 	 [C04-00149E](./Model3d/x3d/C04-00149E.x3d)
+- Package 3d model scad : 	 [C04-00149E](./Model3d/scad/C04-00149E.scad)
+please verify some data are inconsistante 	 
 Pin count : 0
 ## PIC32MK0512GPG064
 
@@ -416,6 +589,15 @@ Pin count : 0
 
 ### Package : 
 
+- Package id : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 R4X
+- Package Type : 	 QFN
+- Pin count : 	 64,00
+- Package Layout : 	 [C04-00149E](./mchp/packages/C04-00149E.pdf)
+- Package 3d model wrl : 	 [C04-00149E](./Model3d/wrl/C04-00149E.wrl)
+- Package 3d model x3d : 	 [C04-00149E](./Model3d/x3d/C04-00149E.x3d)
+- Package 3d model scad : 	 [C04-00149E](./Model3d/scad/C04-00149E.scad)
+please verify some data are inconsistante 	 
 Pin count : 0
 ## PIC32MK0512GPK064
 
@@ -435,6 +617,15 @@ Pin count : 0
 
 ### Package : 
 
+- Package id : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 R4X
+- Package Type : 	 QFN
+- Pin count : 	 64,00
+- Package Layout : 	 [C04-00149E](./mchp/packages/C04-00149E.pdf)
+- Package 3d model wrl : 	 [C04-00149E](./Model3d/wrl/C04-00149E.wrl)
+- Package 3d model x3d : 	 [C04-00149E](./Model3d/x3d/C04-00149E.x3d)
+- Package 3d model scad : 	 [C04-00149E](./Model3d/scad/C04-00149E.scad)
+please verify some data are inconsistante 	 
 Pin count : 0
 ## PIC32MK0512GPK064
 
@@ -454,6 +645,15 @@ Pin count : 0
 
 ### Package : 
 
+- Package id : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 R4X
+- Package Type : 	 QFN
+- Pin count : 	 64,00
+- Package Layout : 	 [C04-00149E](./mchp/packages/C04-00149E.pdf)
+- Package 3d model wrl : 	 [C04-00149E](./Model3d/wrl/C04-00149E.wrl)
+- Package 3d model x3d : 	 [C04-00149E](./Model3d/x3d/C04-00149E.x3d)
+- Package 3d model scad : 	 [C04-00149E](./Model3d/scad/C04-00149E.scad)
+please verify some data are inconsistante 	 
 Pin count : 0
 ## PIC32MK0512GPK100
 
@@ -492,6 +692,15 @@ Pin count : 0
 
 ### Package : 
 
+- Package id : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 R4X
+- Package Type : 	 QFN
+- Pin count : 	 64,00
+- Package Layout : 	 [C04-00149E](./mchp/packages/C04-00149E.pdf)
+- Package 3d model wrl : 	 [C04-00149E](./Model3d/wrl/C04-00149E.wrl)
+- Package 3d model x3d : 	 [C04-00149E](./Model3d/x3d/C04-00149E.x3d)
+- Package 3d model scad : 	 [C04-00149E](./Model3d/scad/C04-00149E.scad)
+please verify some data are inconsistante 	 
 Pin count : 0
 ## PIC32MK0512MCF064
 
@@ -511,6 +720,15 @@ Pin count : 0
 
 ### Package : 
 
+- Package id : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 R4X
+- Package Type : 	 QFN
+- Pin count : 	 64,00
+- Package Layout : 	 [C04-00149E](./mchp/packages/C04-00149E.pdf)
+- Package 3d model wrl : 	 [C04-00149E](./Model3d/wrl/C04-00149E.wrl)
+- Package 3d model x3d : 	 [C04-00149E](./Model3d/x3d/C04-00149E.x3d)
+- Package 3d model scad : 	 [C04-00149E](./Model3d/scad/C04-00149E.scad)
+please verify some data are inconsistante 	 
 Pin count : 0
 ## PIC32MK0512MCF100
 
@@ -530,6 +748,13 @@ Pin count : 0
 
 ### Package : 
 
+- Package id : 	 [C04-00110C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 E5X
+- Package Type : 	 TQFP
+- Pin count : 	 100,00
+- Package Layout : 	 [C04-00110C](./mchp/packages/C04-00110C.pdf)
+- Package 3d model scad : 	 [C04-00110C](./Model3d/scad/C04-00110C.scad)
+please verify some data are inconsistante 	 
 Pin count : 0
 ## PIC32MK0512MCJ048
 
@@ -549,6 +774,15 @@ Pin count : 0
 
 ### Package : 
 
+- Package id : 	 [C04-00506A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 7MX
+- Package Type : 	 VQFN
+- Pin count : 	 48,00
+- Package Layout : 	 [C04-00506A](./mchp/packages/C04-00506A.pdf)
+- Package 3d model wrl : 	 [C04-00506A](./Model3d/wrl/C04-00506A.wrl)
+- Package 3d model x3d : 	 [C04-00506A](./Model3d/x3d/C04-00506A.x3d)
+- Package 3d model scad : 	 [C04-00506A](./Model3d/scad/C04-00506A.scad)
+please verify some data are inconsistante 	 
 Pin count : 0
 ## PIC32MK0512MCJ048
 
@@ -568,6 +802,15 @@ Pin count : 0
 
 ### Package : 
 
+- Package id : 	 [C04-00506A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 7MX
+- Package Type : 	 VQFN
+- Pin count : 	 48,00
+- Package Layout : 	 [C04-00506A](./mchp/packages/C04-00506A.pdf)
+- Package 3d model wrl : 	 [C04-00506A](./Model3d/wrl/C04-00506A.wrl)
+- Package 3d model x3d : 	 [C04-00506A](./Model3d/x3d/C04-00506A.x3d)
+- Package 3d model scad : 	 [C04-00506A](./Model3d/scad/C04-00506A.scad)
+please verify some data are inconsistante 	 
 Pin count : 0
 ## PIC32MK0512MCJ064
 
@@ -587,6 +830,15 @@ Pin count : 0
 
 ### Package : 
 
+- Package id : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 R4X
+- Package Type : 	 QFN
+- Pin count : 	 64,00
+- Package Layout : 	 [C04-00149E](./mchp/packages/C04-00149E.pdf)
+- Package 3d model wrl : 	 [C04-00149E](./Model3d/wrl/C04-00149E.wrl)
+- Package 3d model x3d : 	 [C04-00149E](./Model3d/x3d/C04-00149E.x3d)
+- Package 3d model scad : 	 [C04-00149E](./Model3d/scad/C04-00149E.scad)
+please verify some data are inconsistante 	 
 Pin count : 0
 ## PIC32MK0512MCJ064
 
@@ -606,6 +858,15 @@ Pin count : 0
 
 ### Package : 
 
+- Package id : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 R4X
+- Package Type : 	 QFN
+- Pin count : 	 64,00
+- Package Layout : 	 [C04-00149E](./mchp/packages/C04-00149E.pdf)
+- Package 3d model wrl : 	 [C04-00149E](./Model3d/wrl/C04-00149E.wrl)
+- Package 3d model x3d : 	 [C04-00149E](./Model3d/x3d/C04-00149E.x3d)
+- Package 3d model scad : 	 [C04-00149E](./Model3d/scad/C04-00149E.scad)
+please verify some data are inconsistante 	 
 Pin count : 0
 ## PIC32MK0512MCM064
 
@@ -625,6 +886,15 @@ Pin count : 0
 
 ### Package : 
 
+- Package id : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 R4X
+- Package Type : 	 QFN
+- Pin count : 	 64,00
+- Package Layout : 	 [C04-00149E](./mchp/packages/C04-00149E.pdf)
+- Package 3d model wrl : 	 [C04-00149E](./Model3d/wrl/C04-00149E.wrl)
+- Package 3d model x3d : 	 [C04-00149E](./Model3d/x3d/C04-00149E.x3d)
+- Package 3d model scad : 	 [C04-00149E](./Model3d/scad/C04-00149E.scad)
+please verify some data are inconsistante 	 
 Pin count : 0
 ## PIC32MK0512MCM064
 
@@ -644,6 +914,15 @@ Pin count : 0
 
 ### Package : 
 
+- Package id : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 R4X
+- Package Type : 	 QFN
+- Pin count : 	 64,00
+- Package Layout : 	 [C04-00149E](./mchp/packages/C04-00149E.pdf)
+- Package 3d model wrl : 	 [C04-00149E](./Model3d/wrl/C04-00149E.wrl)
+- Package 3d model x3d : 	 [C04-00149E](./Model3d/x3d/C04-00149E.x3d)
+- Package 3d model scad : 	 [C04-00149E](./Model3d/scad/C04-00149E.scad)
+please verify some data are inconsistante 	 
 Pin count : 0
 ## PIC32MK0512MCM100
 
@@ -682,6 +961,15 @@ Pin count : 0
 
 ### Package : 
 
+- Package id : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 R4X
+- Package Type : 	 QFN
+- Pin count : 	 64,00
+- Package Layout : 	 [C04-00149E](./mchp/packages/C04-00149E.pdf)
+- Package 3d model wrl : 	 [C04-00149E](./Model3d/wrl/C04-00149E.wrl)
+- Package 3d model x3d : 	 [C04-00149E](./Model3d/x3d/C04-00149E.x3d)
+- Package 3d model scad : 	 [C04-00149E](./Model3d/scad/C04-00149E.scad)
+please verify some data are inconsistante 	 
 Pin count : 0
 ## PIC32MK1024GPD064
 
@@ -701,6 +989,15 @@ Pin count : 0
 
 ### Package : 
 
+- Package id : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 R4X
+- Package Type : 	 QFN
+- Pin count : 	 64,00
+- Package Layout : 	 [C04-00149E](./mchp/packages/C04-00149E.pdf)
+- Package 3d model wrl : 	 [C04-00149E](./Model3d/wrl/C04-00149E.wrl)
+- Package 3d model x3d : 	 [C04-00149E](./Model3d/x3d/C04-00149E.x3d)
+- Package 3d model scad : 	 [C04-00149E](./Model3d/scad/C04-00149E.scad)
+please verify some data are inconsistante 	 
 Pin count : 0
 ## PIC32MK1024GPD100
 
@@ -720,6 +1017,13 @@ Pin count : 0
 
 ### Package : 
 
+- Package id : 	 [C04-00110C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 E5X
+- Package Type : 	 TQFP
+- Pin count : 	 100,00
+- Package Layout : 	 [C04-00110C](./mchp/packages/C04-00110C.pdf)
+- Package 3d model scad : 	 [C04-00110C](./Model3d/scad/C04-00110C.scad)
+please verify some data are inconsistante 	 
 Pin count : 0
 ## PIC32MK1024GPE064
 
@@ -739,6 +1043,15 @@ Pin count : 0
 
 ### Package : 
 
+- Package id : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 R4X
+- Package Type : 	 QFN
+- Pin count : 	 64,00
+- Package Layout : 	 [C04-00149E](./mchp/packages/C04-00149E.pdf)
+- Package 3d model wrl : 	 [C04-00149E](./Model3d/wrl/C04-00149E.wrl)
+- Package 3d model x3d : 	 [C04-00149E](./Model3d/x3d/C04-00149E.x3d)
+- Package 3d model scad : 	 [C04-00149E](./Model3d/scad/C04-00149E.scad)
+please verify some data are inconsistante 	 
 Pin count : 0
 ## PIC32MK1024GPE064
 
@@ -758,6 +1071,15 @@ Pin count : 0
 
 ### Package : 
 
+- Package id : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 R4X
+- Package Type : 	 QFN
+- Pin count : 	 64,00
+- Package Layout : 	 [C04-00149E](./mchp/packages/C04-00149E.pdf)
+- Package 3d model wrl : 	 [C04-00149E](./Model3d/wrl/C04-00149E.wrl)
+- Package 3d model x3d : 	 [C04-00149E](./Model3d/x3d/C04-00149E.x3d)
+- Package 3d model scad : 	 [C04-00149E](./Model3d/scad/C04-00149E.scad)
+please verify some data are inconsistante 	 
 Pin count : 0
 ## PIC32MK1024GPE100
 
@@ -777,6 +1099,13 @@ Pin count : 0
 
 ### Package : 
 
+- Package id : 	 [C04-00110C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 E5X
+- Package Type : 	 TQFP
+- Pin count : 	 100,00
+- Package Layout : 	 [C04-00110C](./mchp/packages/C04-00110C.pdf)
+- Package 3d model scad : 	 [C04-00110C](./Model3d/scad/C04-00110C.scad)
+please verify some data are inconsistante 	 
 Pin count : 0
 ## PIC32MK1024GPK064
 
@@ -796,6 +1125,15 @@ Pin count : 0
 
 ### Package : 
 
+- Package id : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 R4X
+- Package Type : 	 QFN
+- Pin count : 	 64,00
+- Package Layout : 	 [C04-00149E](./mchp/packages/C04-00149E.pdf)
+- Package 3d model wrl : 	 [C04-00149E](./Model3d/wrl/C04-00149E.wrl)
+- Package 3d model x3d : 	 [C04-00149E](./Model3d/x3d/C04-00149E.x3d)
+- Package 3d model scad : 	 [C04-00149E](./Model3d/scad/C04-00149E.scad)
+please verify some data are inconsistante 	 
 Pin count : 0
 ## PIC32MK1024GPK064
 
@@ -815,6 +1153,15 @@ Pin count : 0
 
 ### Package : 
 
+- Package id : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 R4X
+- Package Type : 	 QFN
+- Pin count : 	 64,00
+- Package Layout : 	 [C04-00149E](./mchp/packages/C04-00149E.pdf)
+- Package 3d model wrl : 	 [C04-00149E](./Model3d/wrl/C04-00149E.wrl)
+- Package 3d model x3d : 	 [C04-00149E](./Model3d/x3d/C04-00149E.x3d)
+- Package 3d model scad : 	 [C04-00149E](./Model3d/scad/C04-00149E.scad)
+please verify some data are inconsistante 	 
 Pin count : 0
 ## PIC32MK1024GPK100
 
@@ -853,6 +1200,15 @@ Pin count : 0
 
 ### Package : 
 
+- Package id : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 R4X
+- Package Type : 	 QFN
+- Pin count : 	 64,00
+- Package Layout : 	 [C04-00149E](./mchp/packages/C04-00149E.pdf)
+- Package 3d model wrl : 	 [C04-00149E](./Model3d/wrl/C04-00149E.wrl)
+- Package 3d model x3d : 	 [C04-00149E](./Model3d/x3d/C04-00149E.x3d)
+- Package 3d model scad : 	 [C04-00149E](./Model3d/scad/C04-00149E.scad)
+please verify some data are inconsistante 	 
 Pin count : 0
 ## PIC32MK1024MCF064
 
@@ -872,6 +1228,15 @@ Pin count : 0
 
 ### Package : 
 
+- Package id : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 R4X
+- Package Type : 	 QFN
+- Pin count : 	 64,00
+- Package Layout : 	 [C04-00149E](./mchp/packages/C04-00149E.pdf)
+- Package 3d model wrl : 	 [C04-00149E](./Model3d/wrl/C04-00149E.wrl)
+- Package 3d model x3d : 	 [C04-00149E](./Model3d/x3d/C04-00149E.x3d)
+- Package 3d model scad : 	 [C04-00149E](./Model3d/scad/C04-00149E.scad)
+please verify some data are inconsistante 	 
 Pin count : 0
 ## PIC32MK1024MCF100
 
@@ -891,6 +1256,13 @@ Pin count : 0
 
 ### Package : 
 
+- Package id : 	 [C04-00110C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 E5X
+- Package Type : 	 TQFP
+- Pin count : 	 100,00
+- Package Layout : 	 [C04-00110C](./mchp/packages/C04-00110C.pdf)
+- Package 3d model scad : 	 [C04-00110C](./Model3d/scad/C04-00110C.scad)
+please verify some data are inconsistante 	 
 Pin count : 0
 ## PIC32MK1024MCM064
 
@@ -910,6 +1282,15 @@ Pin count : 0
 
 ### Package : 
 
+- Package id : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 R4X
+- Package Type : 	 QFN
+- Pin count : 	 64,00
+- Package Layout : 	 [C04-00149E](./mchp/packages/C04-00149E.pdf)
+- Package 3d model wrl : 	 [C04-00149E](./Model3d/wrl/C04-00149E.wrl)
+- Package 3d model x3d : 	 [C04-00149E](./Model3d/x3d/C04-00149E.x3d)
+- Package 3d model scad : 	 [C04-00149E](./Model3d/scad/C04-00149E.scad)
+please verify some data are inconsistante 	 
 Pin count : 0
 ## PIC32MK1024MCM064
 
@@ -929,6 +1310,15 @@ Pin count : 0
 
 ### Package : 
 
+- Package id : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 R4X
+- Package Type : 	 QFN
+- Pin count : 	 64,00
+- Package Layout : 	 [C04-00149E](./mchp/packages/C04-00149E.pdf)
+- Package 3d model wrl : 	 [C04-00149E](./Model3d/wrl/C04-00149E.wrl)
+- Package 3d model x3d : 	 [C04-00149E](./Model3d/x3d/C04-00149E.x3d)
+- Package 3d model scad : 	 [C04-00149E](./Model3d/scad/C04-00149E.scad)
+please verify some data are inconsistante 	 
 Pin count : 0
 ## PIC32MK1024MCM100
 

@@ -17,6 +17,14 @@
 
 ### Package : 
 
+- Package id : 	 [C04-00543B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 2HW
+- Package Type : 	 VFBGA
+- Pin count : 	 64,00
+- Package Layout : 	 [C04-00543B](./mchp/packages/C04-00543B.pdf)
+- Package 3d model wrl : 	 [C04-00543B](./Model3d/wrl/C04-00543B.wrl)
+- Package 3d model x3d : 	 [C04-00543B](./Model3d/x3d/C04-00543B.x3d)
+- Package 3d model scad : 	 [C04-00543B](./Model3d/scad/C04-00543B.scad)
 Pin count : 64
 - E2 : GPIO000,  of Type IO, alternates : [SPI_MON0 SPI0_KILL_, SPI_MON0 SPI0_RESET_n_, GPIO GPIO000_]
 - F9 : GPIO002,  of Type IO, alternates : [QMSPI0 QSPI0_CS1_n_, SPI_MON0 SPIMON_QSPI0_CS1_n_, GPIO GPIO002_]
@@ -100,6 +108,14 @@ Pin count : 64
 
 ### Package : 
 
+- Package id : 	 [C04-00390C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 2ZW
+- Package Type : 	 WFBGA
+- Pin count : 	 84,00
+- Package Layout : 	 [C04-00390C](./mchp/packages/C04-00390C.pdf)
+- Package 3d model wrl : 	 [C04-00390C](./Model3d/wrl/C04-00390C.wrl)
+- Package 3d model x3d : 	 [C04-00390C](./Model3d/x3d/C04-00390C.x3d)
+- Package 3d model scad : 	 [C04-00390C](./Model3d/scad/C04-00390C.scad)
 Pin count : 84
 - A4 : GPIO000,  of Type IO, alternates : [SPI_MON0 SPI0_KILL_, SPI_MON0 SPI0_RESET_n_, GPIO GPIO000_]
 - J2 : GPIO002,  of Type IO, alternates : [QMSPI0 QSPI0_CS1_n_, SPI_MON0 SPIMON_QSPI0_CS1_n_, GPIO GPIO002_]
@@ -203,6 +219,14 @@ Pin count : 84
 
 ### Package : 
 
+- Package id : 	 [C04-00543B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 2HW
+- Package Type : 	 VFBGA
+- Pin count : 	 64,00
+- Package Layout : 	 [C04-00543B](./mchp/packages/C04-00543B.pdf)
+- Package 3d model wrl : 	 [C04-00543B](./Model3d/wrl/C04-00543B.wrl)
+- Package 3d model x3d : 	 [C04-00543B](./Model3d/x3d/C04-00543B.x3d)
+- Package 3d model scad : 	 [C04-00543B](./Model3d/scad/C04-00543B.scad)
 Pin count : 64
 - E2 : GPIO000,  of Type IO, alternates : [SPI_MON0 SPI0_KILL_, SPI_MON0 SPI0_RESET_n_, GPIO GPIO000_]
 - F9 : GPIO002,  of Type IO, alternates : [QMSPI0 QSPI0_CS1_n_, SPI_MON0 SPIMON_QSPI0_CS1_n_, GPIO GPIO002_]
@@ -286,6 +310,14 @@ Pin count : 64
 
 ### Package : 
 
+- Package id : 	 [C04-00390C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 2ZW
+- Package Type : 	 WFBGA
+- Pin count : 	 84,00
+- Package Layout : 	 [C04-00390C](./mchp/packages/C04-00390C.pdf)
+- Package 3d model wrl : 	 [C04-00390C](./Model3d/wrl/C04-00390C.wrl)
+- Package 3d model x3d : 	 [C04-00390C](./Model3d/x3d/C04-00390C.x3d)
+- Package 3d model scad : 	 [C04-00390C](./Model3d/scad/C04-00390C.scad)
 Pin count : 84
 - A4 : GPIO000,  of Type IO, alternates : [SPI_MON0 SPI0_KILL_, SPI_MON0 SPI0_RESET_n_, GPIO GPIO000_]
 - J2 : GPIO002,  of Type IO, alternates : [QMSPI0 QSPI0_CS1_n_, SPI_MON0 SPIMON_QSPI0_CS1_n_, GPIO GPIO002_]
