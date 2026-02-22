@@ -1,0 +1,36 @@
+group() {
+	group() {
+		color([0, 0, 0, 1]) {
+			multmatrix([[1, 0, 0, 0], [0, 1, 0, 0], [0, 0, 1, 0], [0, 0, 0, 1]]) {
+				cube(size = [29.3, 29.3, 4.4], center = false);
+			}
+		}
+		color([1, 1, 1, 1]) {
+			multmatrix([[1, 0, 0, 0], [0, 1, 0, 0], [0, 0, 0.1, 0], [0, 0, 0, 1]]) {
+				multmatrix([[1, 0, 0, 14.65], [0, 1, 0, 25.1143], [0, 0, 1, 44.5], [0, 0, 0, 1]]) {
+					linear_extrude(height = 3, center = true, $fn = 0, $fa = 12, $fs = 2, convexity = 10) {
+						multmatrix([[1, 0, 0, -14.35], [0, 1, 0, 0], [0, 0, 1, 0], [0, 0, 0, 1]]) {
+							text(text = ".", size = 12.5571, spacing = 1, font = "Liberation Serif", direction = "ltr", language = "en", halign = "left", valign = "left", $fn = 0, $fa = 12, $fs = 2);
+						}
+						multmatrix([[1, 0, 0, 0], [0, 1, 0, -4.18571], [0, 0, 1, 0], [0, 0, 0, 1]]) {
+							text(text = "M PIC32", size = 3.76714, spacing = 1, font = "Liberation Serif", direction = "ltr", language = "en", script = "Latn", halign = "center", valign = "left", $fn = 0, $fa = 12, $fs = 2);
+						}
+						multmatrix([[1, 0, 0, 0], [0, 1, 0, -8.37143], [0, 0, 1, 0], [0, 0, 0, 1]]) {
+							text(text = "CPNCPN", size = 2.09286, spacing = 1, font = "Liberation Serif", direction = "ltr", language = "en", script = "Latn", halign = "center", valign = "left", $fn = 0, $fa = 12, $fs = 2);
+						}
+						multmatrix([[1, 0, 0, 0], [0, 1, 0, -12.5571], [0, 0, 1, 0], [0, 0, 0, 1]]) {
+							text(text = "CPNCPN", size = 2.09286, spacing = 1, font = "Liberation Serif", direction = "ltr", language = "en", script = "Latn", halign = "center", valign = "left", $fn = 0, $fa = 12, $fs = 2);
+						}
+						multmatrix([[1, 0, 0, 0], [0, 1, 0, -16.7429], [0, 0, 1, 0], [0, 0, 0, 1]]) {
+							text(text = "ARM", size = 2.09286, spacing = 1, font = "Liberation Serif", direction = "ltr", language = "en", script = "Latn", halign = "center", valign = "left", $fn = 0, $fa = 12, $fs = 2);
+						}
+						multmatrix([[1, 0, 0, 0], [0, 1, 0, -20.9286], [0, 0, 1, 0], [0, 0, 0, 1]]) {
+							text(text = "YYWWNNN", size = 2.09286, spacing = 1, font = "Liberation Serif", direction = "ltr", language = "en", script = "Latn", halign = "center", valign = "left", $fn = 0, $fa = 12, $fs = 2);
+						}
+					}
+				}
+			}
+		}
+	}
+}
+
