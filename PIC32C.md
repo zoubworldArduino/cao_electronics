@@ -20,6 +20,21 @@
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00509A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 7YX
+- Package Type : 	 TQFP
+- Pin count : 	 100,00
+- Package Layout : 	 [C04-00509A.pdf](./mchp/packages/c04-00509a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00509A.wrl) : 	 [C04-00509A.wrl](./Model3d/wrl/C04-00509A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00509A.stl) : 	 [C04-00509A.stl](./Model3d/stl/C04-00509A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00509A.obj) : 	 [C04-00509A.obj](./Model3d/obj/C04-00509A.obj)
+- Package 3d model x3d : 	 [C04-00509A.x3d](./Model3d/x3d/C04-00509A.x3d)
+- Package 3d model scad : 	 [C04-00509A.scad](./Model3d/scad/C04-00509A.scad)
+- Package 3d model usd : 	 [C04-00509A.usd](./Model3d/usd/C04-00509A.usd)
+- Package 3d model glb : 	 [C04-00509A.glb](./Model3d/glb/C04-00509A.glb)
+
+please check that some data is inconsistent 	 
+
 Pin count : 100
 - 1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
 - 2 : PA01,  of Type IO, alternates : [ETH TXD_0, EIC EXTINT_1, PORT P_1]
@@ -141,6 +156,21 @@ Pin count : 100
 - Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
+
+- Package Outline Drawings : 	 [C04-00509A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 7YX
+- Package Type : 	 TQFP
+- Pin count : 	 100,00
+- Package Layout : 	 [C04-00509A.pdf](./mchp/packages/c04-00509a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00509A.wrl) : 	 [C04-00509A.wrl](./Model3d/wrl/C04-00509A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00509A.stl) : 	 [C04-00509A.stl](./Model3d/stl/C04-00509A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00509A.obj) : 	 [C04-00509A.obj](./Model3d/obj/C04-00509A.obj)
+- Package 3d model x3d : 	 [C04-00509A.x3d](./Model3d/x3d/C04-00509A.x3d)
+- Package 3d model scad : 	 [C04-00509A.scad](./Model3d/scad/C04-00509A.scad)
+- Package 3d model usd : 	 [C04-00509A.usd](./Model3d/usd/C04-00509A.usd)
+- Package 3d model glb : 	 [C04-00509A.glb](./Model3d/glb/C04-00509A.glb)
+
+please check that some data is inconsistent 	 
 
 Pin count : 100
 - 1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
@@ -270,8 +300,12 @@ Pin count : 100
 - Pin count : 	 100,00
 - Package Layout : 	 [C04-00509A.pdf](./mchp/packages/c04-00509a.pdf)
 - Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00509A.wrl) : 	 [C04-00509A.wrl](./Model3d/wrl/C04-00509A.wrl)
-- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00509A.x3d) : 	 [C04-00509A.x3d](./Model3d/x3d/C04-00509A.x3d)
-- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00509A.scad) : 	 [C04-00509A.scad](./Model3d/scad/C04-00509A.scad)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00509A.stl) : 	 [C04-00509A.stl](./Model3d/stl/C04-00509A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00509A.obj) : 	 [C04-00509A.obj](./Model3d/obj/C04-00509A.obj)
+- Package 3d model x3d : 	 [C04-00509A.x3d](./Model3d/x3d/C04-00509A.x3d)
+- Package 3d model scad : 	 [C04-00509A.scad](./Model3d/scad/C04-00509A.scad)
+- Package 3d model usd : 	 [C04-00509A.usd](./Model3d/usd/C04-00509A.usd)
+- Package 3d model glb : 	 [C04-00509A.glb](./Model3d/glb/C04-00509A.glb)
 Pin count : 100
 - 1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
 - 2 : PA01,  of Type IO, alternates : [ETH TXD_0, EIC EXTINT_1, PORT P_1]
@@ -393,6 +427,21 @@ Pin count : 100
 - Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
+
+- Package Outline Drawings : 	 [C04-00509A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 7YX
+- Package Type : 	 TQFP
+- Pin count : 	 100,00
+- Package Layout : 	 [C04-00509A.pdf](./mchp/packages/c04-00509a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00509A.wrl) : 	 [C04-00509A.wrl](./Model3d/wrl/C04-00509A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00509A.stl) : 	 [C04-00509A.stl](./Model3d/stl/C04-00509A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00509A.obj) : 	 [C04-00509A.obj](./Model3d/obj/C04-00509A.obj)
+- Package 3d model x3d : 	 [C04-00509A.x3d](./Model3d/x3d/C04-00509A.x3d)
+- Package 3d model scad : 	 [C04-00509A.scad](./Model3d/scad/C04-00509A.scad)
+- Package 3d model usd : 	 [C04-00509A.usd](./Model3d/usd/C04-00509A.usd)
+- Package 3d model glb : 	 [C04-00509A.glb](./Model3d/glb/C04-00509A.glb)
+
+please check that some data is inconsistent 	 
 
 Pin count : 100
 - 1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
@@ -516,6 +565,21 @@ Pin count : 100
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00509A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 7YX
+- Package Type : 	 TQFP
+- Pin count : 	 100,00
+- Package Layout : 	 [C04-00509A.pdf](./mchp/packages/c04-00509a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00509A.wrl) : 	 [C04-00509A.wrl](./Model3d/wrl/C04-00509A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00509A.stl) : 	 [C04-00509A.stl](./Model3d/stl/C04-00509A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00509A.obj) : 	 [C04-00509A.obj](./Model3d/obj/C04-00509A.obj)
+- Package 3d model x3d : 	 [C04-00509A.x3d](./Model3d/x3d/C04-00509A.x3d)
+- Package 3d model scad : 	 [C04-00509A.scad](./Model3d/scad/C04-00509A.scad)
+- Package 3d model usd : 	 [C04-00509A.usd](./Model3d/usd/C04-00509A.usd)
+- Package 3d model glb : 	 [C04-00509A.glb](./Model3d/glb/C04-00509A.glb)
+
+please check that some data is inconsistent 	 
+
 Pin count : 100
 - 1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
 - 2 : PA01,  of Type IO, alternates : [ETH TXD_0, EIC EXTINT_1, PORT P_1]
@@ -638,6 +702,21 @@ Pin count : 100
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00509A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 7YX
+- Package Type : 	 TQFP
+- Pin count : 	 100,00
+- Package Layout : 	 [C04-00509A.pdf](./mchp/packages/c04-00509a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00509A.wrl) : 	 [C04-00509A.wrl](./Model3d/wrl/C04-00509A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00509A.stl) : 	 [C04-00509A.stl](./Model3d/stl/C04-00509A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00509A.obj) : 	 [C04-00509A.obj](./Model3d/obj/C04-00509A.obj)
+- Package 3d model x3d : 	 [C04-00509A.x3d](./Model3d/x3d/C04-00509A.x3d)
+- Package 3d model scad : 	 [C04-00509A.scad](./Model3d/scad/C04-00509A.scad)
+- Package 3d model usd : 	 [C04-00509A.usd](./Model3d/usd/C04-00509A.usd)
+- Package 3d model glb : 	 [C04-00509A.glb](./Model3d/glb/C04-00509A.glb)
+
+please check that some data is inconsistent 	 
+
 Pin count : 100
 - 1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
 - 2 : PA01,  of Type IO, alternates : [ETH TXD_0, EIC EXTINT_1, PORT P_1]
@@ -759,6 +838,21 @@ Pin count : 100
 - Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
+
+- Package Outline Drawings : 	 [C04-00510A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 8YX
+- Package Type : 	 TQFP
+- Pin count : 	 144,00
+- Package Layout : 	 [C04-00510A.pdf](./mchp/packages/c04-00510a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00510A.wrl) : 	 [C04-00510A.wrl](./Model3d/wrl/C04-00510A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00510A.stl) : 	 [C04-00510A.stl](./Model3d/stl/C04-00510A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00510A.obj) : 	 [C04-00510A.obj](./Model3d/obj/C04-00510A.obj)
+- Package 3d model x3d : 	 [C04-00510A.x3d](./Model3d/x3d/C04-00510A.x3d)
+- Package 3d model scad : 	 [C04-00510A.scad](./Model3d/scad/C04-00510A.scad)
+- Package 3d model usd : 	 [C04-00510A.usd](./Model3d/usd/C04-00510A.usd)
+- Package 3d model glb : 	 [C04-00510A.glb](./Model3d/glb/C04-00510A.glb)
+
+please check that some data is inconsistent 	 
 
 Pin count : 144
 - 1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
@@ -926,6 +1020,21 @@ Pin count : 144
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00510A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 8YX
+- Package Type : 	 TQFP
+- Pin count : 	 144,00
+- Package Layout : 	 [C04-00510A.pdf](./mchp/packages/c04-00510a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00510A.wrl) : 	 [C04-00510A.wrl](./Model3d/wrl/C04-00510A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00510A.stl) : 	 [C04-00510A.stl](./Model3d/stl/C04-00510A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00510A.obj) : 	 [C04-00510A.obj](./Model3d/obj/C04-00510A.obj)
+- Package 3d model x3d : 	 [C04-00510A.x3d](./Model3d/x3d/C04-00510A.x3d)
+- Package 3d model scad : 	 [C04-00510A.scad](./Model3d/scad/C04-00510A.scad)
+- Package 3d model usd : 	 [C04-00510A.usd](./Model3d/usd/C04-00510A.usd)
+- Package 3d model glb : 	 [C04-00510A.glb](./Model3d/glb/C04-00510A.glb)
+
+please check that some data is inconsistent 	 
+
 Pin count : 144
 - A1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
 - A2 : PA02,  of Type IO, alternates : [TCC2:1 WO_5, ETH TXEN_, PORT P_2, EIC EXTINT_2, DSU PMSA_7]
@@ -1091,6 +1200,21 @@ Pin count : 144
 - Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
+
+- Package Outline Drawings : 	 [C04-00510A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 8YX
+- Package Type : 	 TQFP
+- Pin count : 	 144,00
+- Package Layout : 	 [C04-00510A.pdf](./mchp/packages/c04-00510a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00510A.wrl) : 	 [C04-00510A.wrl](./Model3d/wrl/C04-00510A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00510A.stl) : 	 [C04-00510A.stl](./Model3d/stl/C04-00510A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00510A.obj) : 	 [C04-00510A.obj](./Model3d/obj/C04-00510A.obj)
+- Package 3d model x3d : 	 [C04-00510A.x3d](./Model3d/x3d/C04-00510A.x3d)
+- Package 3d model scad : 	 [C04-00510A.scad](./Model3d/scad/C04-00510A.scad)
+- Package 3d model usd : 	 [C04-00510A.usd](./Model3d/usd/C04-00510A.usd)
+- Package 3d model glb : 	 [C04-00510A.glb](./Model3d/glb/C04-00510A.glb)
+
+please check that some data is inconsistent 	 
 
 Pin count : 144
 - A2 : PD11,  of Type IO, alternates : [PORT P_107, ETH RXD_0, SERCOM2:2 PAD_0, EIC EXTINT_11, TCC2:1 WO_1]
@@ -1264,8 +1388,12 @@ Pin count : 144
 - Pin count : 	 144,00
 - Package Layout : 	 [C04-00510A.pdf](./mchp/packages/c04-00510a.pdf)
 - Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00510A.wrl) : 	 [C04-00510A.wrl](./Model3d/wrl/C04-00510A.wrl)
-- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00510A.x3d) : 	 [C04-00510A.x3d](./Model3d/x3d/C04-00510A.x3d)
-- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00510A.scad) : 	 [C04-00510A.scad](./Model3d/scad/C04-00510A.scad)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00510A.stl) : 	 [C04-00510A.stl](./Model3d/stl/C04-00510A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00510A.obj) : 	 [C04-00510A.obj](./Model3d/obj/C04-00510A.obj)
+- Package 3d model x3d : 	 [C04-00510A.x3d](./Model3d/x3d/C04-00510A.x3d)
+- Package 3d model scad : 	 [C04-00510A.scad](./Model3d/scad/C04-00510A.scad)
+- Package 3d model usd : 	 [C04-00510A.usd](./Model3d/usd/C04-00510A.usd)
+- Package 3d model glb : 	 [C04-00510A.glb](./Model3d/glb/C04-00510A.glb)
 Pin count : 144
 - 1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
 - 2 : PA01,  of Type IO, alternates : [ETH TXD_0, EIC EXTINT_1, PORT P_1]
@@ -1431,6 +1559,21 @@ Pin count : 144
 - Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
+
+- Package Outline Drawings : 	 [C04-00510A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 8YX
+- Package Type : 	 TQFP
+- Pin count : 	 144,00
+- Package Layout : 	 [C04-00510A.pdf](./mchp/packages/c04-00510a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00510A.wrl) : 	 [C04-00510A.wrl](./Model3d/wrl/C04-00510A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00510A.stl) : 	 [C04-00510A.stl](./Model3d/stl/C04-00510A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00510A.obj) : 	 [C04-00510A.obj](./Model3d/obj/C04-00510A.obj)
+- Package 3d model x3d : 	 [C04-00510A.x3d](./Model3d/x3d/C04-00510A.x3d)
+- Package 3d model scad : 	 [C04-00510A.scad](./Model3d/scad/C04-00510A.scad)
+- Package 3d model usd : 	 [C04-00510A.usd](./Model3d/usd/C04-00510A.usd)
+- Package 3d model glb : 	 [C04-00510A.glb](./Model3d/glb/C04-00510A.glb)
+
+please check that some data is inconsistent 	 
 
 Pin count : 144
 - A1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
@@ -1604,8 +1747,12 @@ Pin count : 144
 - Pin count : 	 144,00
 - Package Layout : 	 [C04-00511A.pdf](./mchp/packages/c04-00511a.pdf)
 - Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00511A.wrl) : 	 [C04-00511A.wrl](./Model3d/wrl/C04-00511A.wrl)
-- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00511A.x3d) : 	 [C04-00511A.x3d](./Model3d/x3d/C04-00511A.x3d)
-- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00511A.scad) : 	 [C04-00511A.scad](./Model3d/scad/C04-00511A.scad)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00511A.stl) : 	 [C04-00511A.stl](./Model3d/stl/C04-00511A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00511A.obj) : 	 [C04-00511A.obj](./Model3d/obj/C04-00511A.obj)
+- Package 3d model x3d : 	 [C04-00511A.x3d](./Model3d/x3d/C04-00511A.x3d)
+- Package 3d model scad : 	 [C04-00511A.scad](./Model3d/scad/C04-00511A.scad)
+- Package 3d model usd : 	 [C04-00511A.usd](./Model3d/usd/C04-00511A.usd)
+- Package 3d model glb : 	 [C04-00511A.glb](./Model3d/glb/C04-00511A.glb)
 Pin count : 144
 - A2 : PD11,  of Type IO, alternates : [PORT P_107, ETH RXD_0, SERCOM2:2 PAD_0, EIC EXTINT_11, TCC2:1 WO_1]
 - A3 : PD10,  of Type IO, alternates : [PORT P_106, EIC EXTINT_10, ETH RXD_1, TCC2:1 WO_0]
@@ -1771,6 +1918,21 @@ Pin count : 144
 - Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
+
+- Package Outline Drawings : 	 [C04-00510A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 8YX
+- Package Type : 	 TQFP
+- Pin count : 	 144,00
+- Package Layout : 	 [C04-00510A.pdf](./mchp/packages/c04-00510a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00510A.wrl) : 	 [C04-00510A.wrl](./Model3d/wrl/C04-00510A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00510A.stl) : 	 [C04-00510A.stl](./Model3d/stl/C04-00510A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00510A.obj) : 	 [C04-00510A.obj](./Model3d/obj/C04-00510A.obj)
+- Package 3d model x3d : 	 [C04-00510A.x3d](./Model3d/x3d/C04-00510A.x3d)
+- Package 3d model scad : 	 [C04-00510A.scad](./Model3d/scad/C04-00510A.scad)
+- Package 3d model usd : 	 [C04-00510A.usd](./Model3d/usd/C04-00510A.usd)
+- Package 3d model glb : 	 [C04-00510A.glb](./Model3d/glb/C04-00510A.glb)
+
+please check that some data is inconsistent 	 
 
 Pin count : 144
 - 1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
@@ -1938,6 +2100,21 @@ Pin count : 144
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00510A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 8YX
+- Package Type : 	 TQFP
+- Pin count : 	 144,00
+- Package Layout : 	 [C04-00510A.pdf](./mchp/packages/c04-00510a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00510A.wrl) : 	 [C04-00510A.wrl](./Model3d/wrl/C04-00510A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00510A.stl) : 	 [C04-00510A.stl](./Model3d/stl/C04-00510A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00510A.obj) : 	 [C04-00510A.obj](./Model3d/obj/C04-00510A.obj)
+- Package 3d model x3d : 	 [C04-00510A.x3d](./Model3d/x3d/C04-00510A.x3d)
+- Package 3d model scad : 	 [C04-00510A.scad](./Model3d/scad/C04-00510A.scad)
+- Package 3d model usd : 	 [C04-00510A.usd](./Model3d/usd/C04-00510A.usd)
+- Package 3d model glb : 	 [C04-00510A.glb](./Model3d/glb/C04-00510A.glb)
+
+please check that some data is inconsistent 	 
+
 Pin count : 144
 - A1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
 - A2 : PA02,  of Type IO, alternates : [TCC2:1 WO_5, ETH TXEN_, PORT P_2, EIC EXTINT_2, DSU PMSA_7]
@@ -2104,6 +2281,21 @@ Pin count : 144
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00510A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 8YX
+- Package Type : 	 TQFP
+- Pin count : 	 144,00
+- Package Layout : 	 [C04-00510A.pdf](./mchp/packages/c04-00510a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00510A.wrl) : 	 [C04-00510A.wrl](./Model3d/wrl/C04-00510A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00510A.stl) : 	 [C04-00510A.stl](./Model3d/stl/C04-00510A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00510A.obj) : 	 [C04-00510A.obj](./Model3d/obj/C04-00510A.obj)
+- Package 3d model x3d : 	 [C04-00510A.x3d](./Model3d/x3d/C04-00510A.x3d)
+- Package 3d model scad : 	 [C04-00510A.scad](./Model3d/scad/C04-00510A.scad)
+- Package 3d model usd : 	 [C04-00510A.usd](./Model3d/usd/C04-00510A.usd)
+- Package 3d model glb : 	 [C04-00510A.glb](./Model3d/glb/C04-00510A.glb)
+
+please check that some data is inconsistent 	 
+
 Pin count : 144
 - A2 : PD11,  of Type IO, alternates : [PORT P_107, ETH RXD_0, SERCOM2:2 PAD_0, EIC EXTINT_11, TCC2:1 WO_1]
 - A3 : PD10,  of Type IO, alternates : [PORT P_106, EIC EXTINT_10, ETH RXD_1, TCC2:1 WO_0]
@@ -2269,6 +2461,20 @@ Pin count : 144
 - Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
+
+- Package Outline Drawings : 	 [C04-00515A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 5MX
+- Package Type : 	 TFBGA
+- Pin count : 	 176,00
+- Package Layout : 	 [C04-00515A.pdf](./mchp/packages/c04-00515a.pdf)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00515A.stl) : 	 [C04-00515A.stl](./Model3d/stl/C04-00515A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00515A.obj) : 	 [C04-00515A.obj](./Model3d/obj/C04-00515A.obj)
+- Package 3d model x3d : 	 [C04-00515A.x3d](./Model3d/x3d/C04-00515A.x3d)
+- Package 3d model scad : 	 [C04-00515A.scad](./Model3d/scad/C04-00515A.scad)
+- Package 3d model usd : 	 [C04-00515A.usd](./Model3d/usd/C04-00515A.usd)
+- Package 3d model glb : 	 [C04-00515A.glb](./Model3d/glb/C04-00515A.glb)
+
+please check that some data is inconsistent 	 
 
 Pin count : 176
 - A2 : PD10,  of Type IO, alternates : [PORT P_106, EIC EXTINT_10, ETH RXD_1, TCC2:1 WO_0]
@@ -2468,6 +2674,20 @@ Pin count : 176
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00515A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 5MX
+- Package Type : 	 TFBGA
+- Pin count : 	 176,00
+- Package Layout : 	 [C04-00515A.pdf](./mchp/packages/c04-00515a.pdf)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00515A.stl) : 	 [C04-00515A.stl](./Model3d/stl/C04-00515A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00515A.obj) : 	 [C04-00515A.obj](./Model3d/obj/C04-00515A.obj)
+- Package 3d model x3d : 	 [C04-00515A.x3d](./Model3d/x3d/C04-00515A.x3d)
+- Package 3d model scad : 	 [C04-00515A.scad](./Model3d/scad/C04-00515A.scad)
+- Package 3d model usd : 	 [C04-00515A.usd](./Model3d/usd/C04-00515A.usd)
+- Package 3d model glb : 	 [C04-00515A.glb](./Model3d/glb/C04-00515A.glb)
+
+please check that some data is inconsistent 	 
+
 Pin count : 176
 - A1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
 - A2 : PA02,  of Type IO, alternates : [TCC2:1 WO_5, ETH TXEN_, PORT P_2, EIC EXTINT_2, DSU PMSA_7]
@@ -2665,6 +2885,20 @@ Pin count : 176
 - Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
+
+- Package Outline Drawings : 	 [C04-00515A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 5MX
+- Package Type : 	 TFBGA
+- Pin count : 	 176,00
+- Package Layout : 	 [C04-00515A.pdf](./mchp/packages/c04-00515a.pdf)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00515A.stl) : 	 [C04-00515A.stl](./Model3d/stl/C04-00515A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00515A.obj) : 	 [C04-00515A.obj](./Model3d/obj/C04-00515A.obj)
+- Package 3d model x3d : 	 [C04-00515A.x3d](./Model3d/x3d/C04-00515A.x3d)
+- Package 3d model scad : 	 [C04-00515A.scad](./Model3d/scad/C04-00515A.scad)
+- Package 3d model usd : 	 [C04-00515A.usd](./Model3d/usd/C04-00515A.usd)
+- Package 3d model glb : 	 [C04-00515A.glb](./Model3d/glb/C04-00515A.glb)
+
+please check that some data is inconsistent 	 
 
 Pin count : 176
 - 1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
@@ -2869,8 +3103,12 @@ Pin count : 176
 - Package Type : 	 TFBGA
 - Pin count : 	 176,00
 - Package Layout : 	 [C04-00515A.pdf](./mchp/packages/c04-00515a.pdf)
-- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00515A.x3d) : 	 [C04-00515A.x3d](./Model3d/x3d/C04-00515A.x3d)
-- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00515A.scad) : 	 [C04-00515A.scad](./Model3d/scad/C04-00515A.scad)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00515A.stl) : 	 [C04-00515A.stl](./Model3d/stl/C04-00515A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00515A.obj) : 	 [C04-00515A.obj](./Model3d/obj/C04-00515A.obj)
+- Package 3d model x3d : 	 [C04-00515A.x3d](./Model3d/x3d/C04-00515A.x3d)
+- Package 3d model scad : 	 [C04-00515A.scad](./Model3d/scad/C04-00515A.scad)
+- Package 3d model usd : 	 [C04-00515A.usd](./Model3d/usd/C04-00515A.usd)
+- Package 3d model glb : 	 [C04-00515A.glb](./Model3d/glb/C04-00515A.glb)
 Pin count : 176
 - A2 : PD10,  of Type IO, alternates : [PORT P_106, EIC EXTINT_10, ETH RXD_1, TCC2:1 WO_0]
 - A3 : PD09,  of Type IO, alternates : [PORT P_105, MLB MLBD_, CAN1:2 TX_, EIC EXTINT_9, ETH CRS_]
@@ -3069,6 +3307,20 @@ Pin count : 176
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00515A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 5MX
+- Package Type : 	 TFBGA
+- Pin count : 	 176,00
+- Package Layout : 	 [C04-00515A.pdf](./mchp/packages/c04-00515a.pdf)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00515A.stl) : 	 [C04-00515A.stl](./Model3d/stl/C04-00515A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00515A.obj) : 	 [C04-00515A.obj](./Model3d/obj/C04-00515A.obj)
+- Package 3d model x3d : 	 [C04-00515A.x3d](./Model3d/x3d/C04-00515A.x3d)
+- Package 3d model scad : 	 [C04-00515A.scad](./Model3d/scad/C04-00515A.scad)
+- Package 3d model usd : 	 [C04-00515A.usd](./Model3d/usd/C04-00515A.usd)
+- Package 3d model glb : 	 [C04-00515A.glb](./Model3d/glb/C04-00515A.glb)
+
+please check that some data is inconsistent 	 
+
 Pin count : 176
 - A1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
 - A2 : PA02,  of Type IO, alternates : [TCC2:1 WO_5, ETH TXEN_, PORT P_2, EIC EXTINT_2, DSU PMSA_7]
@@ -3266,6 +3518,20 @@ Pin count : 176
 - Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
+
+- Package Outline Drawings : 	 [C04-00515A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 5MX
+- Package Type : 	 TFBGA
+- Pin count : 	 176,00
+- Package Layout : 	 [C04-00515A.pdf](./mchp/packages/c04-00515a.pdf)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00515A.stl) : 	 [C04-00515A.stl](./Model3d/stl/C04-00515A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00515A.obj) : 	 [C04-00515A.obj](./Model3d/obj/C04-00515A.obj)
+- Package 3d model x3d : 	 [C04-00515A.x3d](./Model3d/x3d/C04-00515A.x3d)
+- Package 3d model scad : 	 [C04-00515A.scad](./Model3d/scad/C04-00515A.scad)
+- Package 3d model usd : 	 [C04-00515A.usd](./Model3d/usd/C04-00515A.usd)
+- Package 3d model glb : 	 [C04-00515A.glb](./Model3d/glb/C04-00515A.glb)
+
+please check that some data is inconsistent 	 
 
 Pin count : 176
 - 1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
@@ -3465,6 +3731,20 @@ Pin count : 176
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00515A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 5MX
+- Package Type : 	 TFBGA
+- Pin count : 	 176,00
+- Package Layout : 	 [C04-00515A.pdf](./mchp/packages/c04-00515a.pdf)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00515A.stl) : 	 [C04-00515A.stl](./Model3d/stl/C04-00515A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00515A.obj) : 	 [C04-00515A.obj](./Model3d/obj/C04-00515A.obj)
+- Package 3d model x3d : 	 [C04-00515A.x3d](./Model3d/x3d/C04-00515A.x3d)
+- Package 3d model scad : 	 [C04-00515A.scad](./Model3d/scad/C04-00515A.scad)
+- Package 3d model usd : 	 [C04-00515A.usd](./Model3d/usd/C04-00515A.usd)
+- Package 3d model glb : 	 [C04-00515A.glb](./Model3d/glb/C04-00515A.glb)
+
+please check that some data is inconsistent 	 
+
 Pin count : 176
 - A2 : PD10,  of Type IO, alternates : [PORT P_106, EIC EXTINT_10, ETH RXD_1, TCC2:1 WO_0]
 - A3 : PD09,  of Type IO, alternates : [PORT P_105, MLB MLBD_, CAN1:2 TX_, EIC EXTINT_9, ETH CRS_]
@@ -3662,6 +3942,20 @@ Pin count : 176
 - Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
+
+- Package Outline Drawings : 	 [C04-00515A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 5MX
+- Package Type : 	 TFBGA
+- Pin count : 	 176,00
+- Package Layout : 	 [C04-00515A.pdf](./mchp/packages/c04-00515a.pdf)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00515A.stl) : 	 [C04-00515A.stl](./Model3d/stl/C04-00515A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00515A.obj) : 	 [C04-00515A.obj](./Model3d/obj/C04-00515A.obj)
+- Package 3d model x3d : 	 [C04-00515A.x3d](./Model3d/x3d/C04-00515A.x3d)
+- Package 3d model scad : 	 [C04-00515A.scad](./Model3d/scad/C04-00515A.scad)
+- Package 3d model usd : 	 [C04-00515A.usd](./Model3d/usd/C04-00515A.usd)
+- Package 3d model glb : 	 [C04-00515A.glb](./Model3d/glb/C04-00515A.glb)
+
+please check that some data is inconsistent 	 
 
 Pin count : 176
 - A1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
@@ -3861,6 +4155,20 @@ Pin count : 176
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00515A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 5MX
+- Package Type : 	 TFBGA
+- Pin count : 	 176,00
+- Package Layout : 	 [C04-00515A.pdf](./mchp/packages/c04-00515a.pdf)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00515A.stl) : 	 [C04-00515A.stl](./Model3d/stl/C04-00515A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00515A.obj) : 	 [C04-00515A.obj](./Model3d/obj/C04-00515A.obj)
+- Package 3d model x3d : 	 [C04-00515A.x3d](./Model3d/x3d/C04-00515A.x3d)
+- Package 3d model scad : 	 [C04-00515A.scad](./Model3d/scad/C04-00515A.scad)
+- Package 3d model usd : 	 [C04-00515A.usd](./Model3d/usd/C04-00515A.usd)
+- Package 3d model glb : 	 [C04-00515A.glb](./Model3d/glb/C04-00515A.glb)
+
+please check that some data is inconsistent 	 
+
 Pin count : 176
 - 1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
 - 2 : PA01,  of Type IO, alternates : [ETH TXD_0, EIC EXTINT_1, PORT P_1]
@@ -4058,6 +4366,21 @@ Pin count : 176
 - Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
+
+- Package Outline Drawings : 	 [C04-00516A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 8MX
+- Package Type : 	 TFBGA
+- Pin count : 	 208,00
+- Package Layout : 	 [C04-00516A.pdf](./mchp/packages/c04-00516a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00516A.wrl) : 	 [C04-00516A.wrl](./Model3d/wrl/C04-00516A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00516A.stl) : 	 [C04-00516A.stl](./Model3d/stl/C04-00516A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00516A.obj) : 	 [C04-00516A.obj](./Model3d/obj/C04-00516A.obj)
+- Package 3d model x3d : 	 [C04-00516A.x3d](./Model3d/x3d/C04-00516A.x3d)
+- Package 3d model scad : 	 [C04-00516A.scad](./Model3d/scad/C04-00516A.scad)
+- Package 3d model usd : 	 [C04-00516A.usd](./Model3d/usd/C04-00516A.usd)
+- Package 3d model glb : 	 [C04-00516A.glb](./Model3d/glb/C04-00516A.glb)
+
+please check that some data is inconsistent 	 
 
 Pin count : 208
 - 1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
@@ -4289,6 +4612,21 @@ Pin count : 208
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00516A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 8MX
+- Package Type : 	 TFBGA
+- Pin count : 	 208,00
+- Package Layout : 	 [C04-00516A.pdf](./mchp/packages/c04-00516a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00516A.wrl) : 	 [C04-00516A.wrl](./Model3d/wrl/C04-00516A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00516A.stl) : 	 [C04-00516A.stl](./Model3d/stl/C04-00516A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00516A.obj) : 	 [C04-00516A.obj](./Model3d/obj/C04-00516A.obj)
+- Package 3d model x3d : 	 [C04-00516A.x3d](./Model3d/x3d/C04-00516A.x3d)
+- Package 3d model scad : 	 [C04-00516A.scad](./Model3d/scad/C04-00516A.scad)
+- Package 3d model usd : 	 [C04-00516A.usd](./Model3d/usd/C04-00516A.usd)
+- Package 3d model glb : 	 [C04-00516A.glb](./Model3d/glb/C04-00516A.glb)
+
+please check that some data is inconsistent 	 
+
 Pin count : 208
 - 1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
 - 2 : PA01,  of Type IO, alternates : [ETH TXD_0, EIC EXTINT_1, PORT P_1]
@@ -4518,6 +4856,21 @@ Pin count : 208
 - Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
+
+- Package Outline Drawings : 	 [C04-00516A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 8MX
+- Package Type : 	 TFBGA
+- Pin count : 	 208,00
+- Package Layout : 	 [C04-00516A.pdf](./mchp/packages/c04-00516a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00516A.wrl) : 	 [C04-00516A.wrl](./Model3d/wrl/C04-00516A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00516A.stl) : 	 [C04-00516A.stl](./Model3d/stl/C04-00516A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00516A.obj) : 	 [C04-00516A.obj](./Model3d/obj/C04-00516A.obj)
+- Package 3d model x3d : 	 [C04-00516A.x3d](./Model3d/x3d/C04-00516A.x3d)
+- Package 3d model scad : 	 [C04-00516A.scad](./Model3d/scad/C04-00516A.scad)
+- Package 3d model usd : 	 [C04-00516A.usd](./Model3d/usd/C04-00516A.usd)
+- Package 3d model glb : 	 [C04-00516A.glb](./Model3d/glb/C04-00516A.glb)
+
+please check that some data is inconsistent 	 
 
 Pin count : 208
 - 1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
@@ -4749,6 +5102,21 @@ Pin count : 208
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00509A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 7YX
+- Package Type : 	 TQFP
+- Pin count : 	 100,00
+- Package Layout : 	 [C04-00509A.pdf](./mchp/packages/c04-00509a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00509A.wrl) : 	 [C04-00509A.wrl](./Model3d/wrl/C04-00509A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00509A.stl) : 	 [C04-00509A.stl](./Model3d/stl/C04-00509A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00509A.obj) : 	 [C04-00509A.obj](./Model3d/obj/C04-00509A.obj)
+- Package 3d model x3d : 	 [C04-00509A.x3d](./Model3d/x3d/C04-00509A.x3d)
+- Package 3d model scad : 	 [C04-00509A.scad](./Model3d/scad/C04-00509A.scad)
+- Package 3d model usd : 	 [C04-00509A.usd](./Model3d/usd/C04-00509A.usd)
+- Package 3d model glb : 	 [C04-00509A.glb](./Model3d/glb/C04-00509A.glb)
+
+please check that some data is inconsistent 	 
+
 Pin count : 100
 - 1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
 - 2 : PA01,  of Type IO, alternates : [ETH TXD_0, EIC EXTINT_1, PORT P_1]
@@ -4870,6 +5238,21 @@ Pin count : 100
 - Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
+
+- Package Outline Drawings : 	 [C04-00509A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 7YX
+- Package Type : 	 TQFP
+- Pin count : 	 100,00
+- Package Layout : 	 [C04-00509A.pdf](./mchp/packages/c04-00509a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00509A.wrl) : 	 [C04-00509A.wrl](./Model3d/wrl/C04-00509A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00509A.stl) : 	 [C04-00509A.stl](./Model3d/stl/C04-00509A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00509A.obj) : 	 [C04-00509A.obj](./Model3d/obj/C04-00509A.obj)
+- Package 3d model x3d : 	 [C04-00509A.x3d](./Model3d/x3d/C04-00509A.x3d)
+- Package 3d model scad : 	 [C04-00509A.scad](./Model3d/scad/C04-00509A.scad)
+- Package 3d model usd : 	 [C04-00509A.usd](./Model3d/usd/C04-00509A.usd)
+- Package 3d model glb : 	 [C04-00509A.glb](./Model3d/glb/C04-00509A.glb)
+
+please check that some data is inconsistent 	 
 
 Pin count : 100
 - 1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
@@ -4999,8 +5382,12 @@ Pin count : 100
 - Pin count : 	 100,00
 - Package Layout : 	 [C04-00509A.pdf](./mchp/packages/c04-00509a.pdf)
 - Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00509A.wrl) : 	 [C04-00509A.wrl](./Model3d/wrl/C04-00509A.wrl)
-- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00509A.x3d) : 	 [C04-00509A.x3d](./Model3d/x3d/C04-00509A.x3d)
-- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00509A.scad) : 	 [C04-00509A.scad](./Model3d/scad/C04-00509A.scad)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00509A.stl) : 	 [C04-00509A.stl](./Model3d/stl/C04-00509A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00509A.obj) : 	 [C04-00509A.obj](./Model3d/obj/C04-00509A.obj)
+- Package 3d model x3d : 	 [C04-00509A.x3d](./Model3d/x3d/C04-00509A.x3d)
+- Package 3d model scad : 	 [C04-00509A.scad](./Model3d/scad/C04-00509A.scad)
+- Package 3d model usd : 	 [C04-00509A.usd](./Model3d/usd/C04-00509A.usd)
+- Package 3d model glb : 	 [C04-00509A.glb](./Model3d/glb/C04-00509A.glb)
 Pin count : 100
 - 1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
 - 2 : PA01,  of Type IO, alternates : [ETH TXD_0, EIC EXTINT_1, PORT P_1]
@@ -5122,6 +5509,21 @@ Pin count : 100
 - Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
+
+- Package Outline Drawings : 	 [C04-00509A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 7YX
+- Package Type : 	 TQFP
+- Pin count : 	 100,00
+- Package Layout : 	 [C04-00509A.pdf](./mchp/packages/c04-00509a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00509A.wrl) : 	 [C04-00509A.wrl](./Model3d/wrl/C04-00509A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00509A.stl) : 	 [C04-00509A.stl](./Model3d/stl/C04-00509A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00509A.obj) : 	 [C04-00509A.obj](./Model3d/obj/C04-00509A.obj)
+- Package 3d model x3d : 	 [C04-00509A.x3d](./Model3d/x3d/C04-00509A.x3d)
+- Package 3d model scad : 	 [C04-00509A.scad](./Model3d/scad/C04-00509A.scad)
+- Package 3d model usd : 	 [C04-00509A.usd](./Model3d/usd/C04-00509A.usd)
+- Package 3d model glb : 	 [C04-00509A.glb](./Model3d/glb/C04-00509A.glb)
+
+please check that some data is inconsistent 	 
 
 Pin count : 100
 - 1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
@@ -5245,6 +5647,21 @@ Pin count : 100
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00509A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 7YX
+- Package Type : 	 TQFP
+- Pin count : 	 100,00
+- Package Layout : 	 [C04-00509A.pdf](./mchp/packages/c04-00509a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00509A.wrl) : 	 [C04-00509A.wrl](./Model3d/wrl/C04-00509A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00509A.stl) : 	 [C04-00509A.stl](./Model3d/stl/C04-00509A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00509A.obj) : 	 [C04-00509A.obj](./Model3d/obj/C04-00509A.obj)
+- Package 3d model x3d : 	 [C04-00509A.x3d](./Model3d/x3d/C04-00509A.x3d)
+- Package 3d model scad : 	 [C04-00509A.scad](./Model3d/scad/C04-00509A.scad)
+- Package 3d model usd : 	 [C04-00509A.usd](./Model3d/usd/C04-00509A.usd)
+- Package 3d model glb : 	 [C04-00509A.glb](./Model3d/glb/C04-00509A.glb)
+
+please check that some data is inconsistent 	 
+
 Pin count : 100
 - 1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
 - 2 : PA01,  of Type IO, alternates : [ETH TXD_0, EIC EXTINT_1, PORT P_1]
@@ -5367,6 +5784,21 @@ Pin count : 100
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00509A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 7YX
+- Package Type : 	 TQFP
+- Pin count : 	 100,00
+- Package Layout : 	 [C04-00509A.pdf](./mchp/packages/c04-00509a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00509A.wrl) : 	 [C04-00509A.wrl](./Model3d/wrl/C04-00509A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00509A.stl) : 	 [C04-00509A.stl](./Model3d/stl/C04-00509A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00509A.obj) : 	 [C04-00509A.obj](./Model3d/obj/C04-00509A.obj)
+- Package 3d model x3d : 	 [C04-00509A.x3d](./Model3d/x3d/C04-00509A.x3d)
+- Package 3d model scad : 	 [C04-00509A.scad](./Model3d/scad/C04-00509A.scad)
+- Package 3d model usd : 	 [C04-00509A.usd](./Model3d/usd/C04-00509A.usd)
+- Package 3d model glb : 	 [C04-00509A.glb](./Model3d/glb/C04-00509A.glb)
+
+please check that some data is inconsistent 	 
+
 Pin count : 100
 - 1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
 - 2 : PA01,  of Type IO, alternates : [ETH TXD_0, EIC EXTINT_1, PORT P_1]
@@ -5488,6 +5920,21 @@ Pin count : 100
 - Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
+
+- Package Outline Drawings : 	 [C04-00510A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 8YX
+- Package Type : 	 TQFP
+- Pin count : 	 144,00
+- Package Layout : 	 [C04-00510A.pdf](./mchp/packages/c04-00510a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00510A.wrl) : 	 [C04-00510A.wrl](./Model3d/wrl/C04-00510A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00510A.stl) : 	 [C04-00510A.stl](./Model3d/stl/C04-00510A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00510A.obj) : 	 [C04-00510A.obj](./Model3d/obj/C04-00510A.obj)
+- Package 3d model x3d : 	 [C04-00510A.x3d](./Model3d/x3d/C04-00510A.x3d)
+- Package 3d model scad : 	 [C04-00510A.scad](./Model3d/scad/C04-00510A.scad)
+- Package 3d model usd : 	 [C04-00510A.usd](./Model3d/usd/C04-00510A.usd)
+- Package 3d model glb : 	 [C04-00510A.glb](./Model3d/glb/C04-00510A.glb)
+
+please check that some data is inconsistent 	 
 
 Pin count : 144
 - 1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
@@ -5655,6 +6102,21 @@ Pin count : 144
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00510A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 8YX
+- Package Type : 	 TQFP
+- Pin count : 	 144,00
+- Package Layout : 	 [C04-00510A.pdf](./mchp/packages/c04-00510a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00510A.wrl) : 	 [C04-00510A.wrl](./Model3d/wrl/C04-00510A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00510A.stl) : 	 [C04-00510A.stl](./Model3d/stl/C04-00510A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00510A.obj) : 	 [C04-00510A.obj](./Model3d/obj/C04-00510A.obj)
+- Package 3d model x3d : 	 [C04-00510A.x3d](./Model3d/x3d/C04-00510A.x3d)
+- Package 3d model scad : 	 [C04-00510A.scad](./Model3d/scad/C04-00510A.scad)
+- Package 3d model usd : 	 [C04-00510A.usd](./Model3d/usd/C04-00510A.usd)
+- Package 3d model glb : 	 [C04-00510A.glb](./Model3d/glb/C04-00510A.glb)
+
+please check that some data is inconsistent 	 
+
 Pin count : 144
 - A1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
 - A2 : PA02,  of Type IO, alternates : [TCC2:1 WO_5, ETH TXEN_, PORT P_2, EIC EXTINT_2, DSU PMSA_7]
@@ -5820,6 +6282,21 @@ Pin count : 144
 - Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
+
+- Package Outline Drawings : 	 [C04-00510A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 8YX
+- Package Type : 	 TQFP
+- Pin count : 	 144,00
+- Package Layout : 	 [C04-00510A.pdf](./mchp/packages/c04-00510a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00510A.wrl) : 	 [C04-00510A.wrl](./Model3d/wrl/C04-00510A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00510A.stl) : 	 [C04-00510A.stl](./Model3d/stl/C04-00510A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00510A.obj) : 	 [C04-00510A.obj](./Model3d/obj/C04-00510A.obj)
+- Package 3d model x3d : 	 [C04-00510A.x3d](./Model3d/x3d/C04-00510A.x3d)
+- Package 3d model scad : 	 [C04-00510A.scad](./Model3d/scad/C04-00510A.scad)
+- Package 3d model usd : 	 [C04-00510A.usd](./Model3d/usd/C04-00510A.usd)
+- Package 3d model glb : 	 [C04-00510A.glb](./Model3d/glb/C04-00510A.glb)
+
+please check that some data is inconsistent 	 
 
 Pin count : 144
 - A2 : PD11,  of Type IO, alternates : [PORT P_107, ETH RXD_0, SERCOM2:2 PAD_0, EIC EXTINT_11, TCC2:1 WO_1]
@@ -5993,8 +6470,12 @@ Pin count : 144
 - Pin count : 	 144,00
 - Package Layout : 	 [C04-00510A.pdf](./mchp/packages/c04-00510a.pdf)
 - Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00510A.wrl) : 	 [C04-00510A.wrl](./Model3d/wrl/C04-00510A.wrl)
-- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00510A.x3d) : 	 [C04-00510A.x3d](./Model3d/x3d/C04-00510A.x3d)
-- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00510A.scad) : 	 [C04-00510A.scad](./Model3d/scad/C04-00510A.scad)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00510A.stl) : 	 [C04-00510A.stl](./Model3d/stl/C04-00510A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00510A.obj) : 	 [C04-00510A.obj](./Model3d/obj/C04-00510A.obj)
+- Package 3d model x3d : 	 [C04-00510A.x3d](./Model3d/x3d/C04-00510A.x3d)
+- Package 3d model scad : 	 [C04-00510A.scad](./Model3d/scad/C04-00510A.scad)
+- Package 3d model usd : 	 [C04-00510A.usd](./Model3d/usd/C04-00510A.usd)
+- Package 3d model glb : 	 [C04-00510A.glb](./Model3d/glb/C04-00510A.glb)
 Pin count : 144
 - 1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
 - 2 : PA01,  of Type IO, alternates : [ETH TXD_0, EIC EXTINT_1, PORT P_1]
@@ -6160,6 +6641,21 @@ Pin count : 144
 - Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
+
+- Package Outline Drawings : 	 [C04-00510A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 8YX
+- Package Type : 	 TQFP
+- Pin count : 	 144,00
+- Package Layout : 	 [C04-00510A.pdf](./mchp/packages/c04-00510a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00510A.wrl) : 	 [C04-00510A.wrl](./Model3d/wrl/C04-00510A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00510A.stl) : 	 [C04-00510A.stl](./Model3d/stl/C04-00510A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00510A.obj) : 	 [C04-00510A.obj](./Model3d/obj/C04-00510A.obj)
+- Package 3d model x3d : 	 [C04-00510A.x3d](./Model3d/x3d/C04-00510A.x3d)
+- Package 3d model scad : 	 [C04-00510A.scad](./Model3d/scad/C04-00510A.scad)
+- Package 3d model usd : 	 [C04-00510A.usd](./Model3d/usd/C04-00510A.usd)
+- Package 3d model glb : 	 [C04-00510A.glb](./Model3d/glb/C04-00510A.glb)
+
+please check that some data is inconsistent 	 
 
 Pin count : 144
 - A1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
@@ -6333,8 +6829,12 @@ Pin count : 144
 - Pin count : 	 144,00
 - Package Layout : 	 [C04-00511A.pdf](./mchp/packages/c04-00511a.pdf)
 - Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00511A.wrl) : 	 [C04-00511A.wrl](./Model3d/wrl/C04-00511A.wrl)
-- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00511A.x3d) : 	 [C04-00511A.x3d](./Model3d/x3d/C04-00511A.x3d)
-- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00511A.scad) : 	 [C04-00511A.scad](./Model3d/scad/C04-00511A.scad)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00511A.stl) : 	 [C04-00511A.stl](./Model3d/stl/C04-00511A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00511A.obj) : 	 [C04-00511A.obj](./Model3d/obj/C04-00511A.obj)
+- Package 3d model x3d : 	 [C04-00511A.x3d](./Model3d/x3d/C04-00511A.x3d)
+- Package 3d model scad : 	 [C04-00511A.scad](./Model3d/scad/C04-00511A.scad)
+- Package 3d model usd : 	 [C04-00511A.usd](./Model3d/usd/C04-00511A.usd)
+- Package 3d model glb : 	 [C04-00511A.glb](./Model3d/glb/C04-00511A.glb)
 Pin count : 144
 - A2 : PD11,  of Type IO, alternates : [PORT P_107, ETH RXD_0, SERCOM2:2 PAD_0, EIC EXTINT_11, TCC2:1 WO_1]
 - A3 : PD10,  of Type IO, alternates : [PORT P_106, EIC EXTINT_10, ETH RXD_1, TCC2:1 WO_0]
@@ -6500,6 +7000,21 @@ Pin count : 144
 - Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
+
+- Package Outline Drawings : 	 [C04-00510A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 8YX
+- Package Type : 	 TQFP
+- Pin count : 	 144,00
+- Package Layout : 	 [C04-00510A.pdf](./mchp/packages/c04-00510a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00510A.wrl) : 	 [C04-00510A.wrl](./Model3d/wrl/C04-00510A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00510A.stl) : 	 [C04-00510A.stl](./Model3d/stl/C04-00510A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00510A.obj) : 	 [C04-00510A.obj](./Model3d/obj/C04-00510A.obj)
+- Package 3d model x3d : 	 [C04-00510A.x3d](./Model3d/x3d/C04-00510A.x3d)
+- Package 3d model scad : 	 [C04-00510A.scad](./Model3d/scad/C04-00510A.scad)
+- Package 3d model usd : 	 [C04-00510A.usd](./Model3d/usd/C04-00510A.usd)
+- Package 3d model glb : 	 [C04-00510A.glb](./Model3d/glb/C04-00510A.glb)
+
+please check that some data is inconsistent 	 
 
 Pin count : 144
 - 1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
@@ -6667,6 +7182,21 @@ Pin count : 144
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00510A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 8YX
+- Package Type : 	 TQFP
+- Pin count : 	 144,00
+- Package Layout : 	 [C04-00510A.pdf](./mchp/packages/c04-00510a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00510A.wrl) : 	 [C04-00510A.wrl](./Model3d/wrl/C04-00510A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00510A.stl) : 	 [C04-00510A.stl](./Model3d/stl/C04-00510A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00510A.obj) : 	 [C04-00510A.obj](./Model3d/obj/C04-00510A.obj)
+- Package 3d model x3d : 	 [C04-00510A.x3d](./Model3d/x3d/C04-00510A.x3d)
+- Package 3d model scad : 	 [C04-00510A.scad](./Model3d/scad/C04-00510A.scad)
+- Package 3d model usd : 	 [C04-00510A.usd](./Model3d/usd/C04-00510A.usd)
+- Package 3d model glb : 	 [C04-00510A.glb](./Model3d/glb/C04-00510A.glb)
+
+please check that some data is inconsistent 	 
+
 Pin count : 144
 - A1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
 - A2 : PA02,  of Type IO, alternates : [TCC2:1 WO_5, ETH TXEN_, PORT P_2, EIC EXTINT_2, DSU PMSA_7]
@@ -6833,6 +7363,21 @@ Pin count : 144
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00510A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 8YX
+- Package Type : 	 TQFP
+- Pin count : 	 144,00
+- Package Layout : 	 [C04-00510A.pdf](./mchp/packages/c04-00510a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00510A.wrl) : 	 [C04-00510A.wrl](./Model3d/wrl/C04-00510A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00510A.stl) : 	 [C04-00510A.stl](./Model3d/stl/C04-00510A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00510A.obj) : 	 [C04-00510A.obj](./Model3d/obj/C04-00510A.obj)
+- Package 3d model x3d : 	 [C04-00510A.x3d](./Model3d/x3d/C04-00510A.x3d)
+- Package 3d model scad : 	 [C04-00510A.scad](./Model3d/scad/C04-00510A.scad)
+- Package 3d model usd : 	 [C04-00510A.usd](./Model3d/usd/C04-00510A.usd)
+- Package 3d model glb : 	 [C04-00510A.glb](./Model3d/glb/C04-00510A.glb)
+
+please check that some data is inconsistent 	 
+
 Pin count : 144
 - A2 : PD11,  of Type IO, alternates : [PORT P_107, ETH RXD_0, SERCOM2:2 PAD_0, EIC EXTINT_11, TCC2:1 WO_1]
 - A3 : PD10,  of Type IO, alternates : [PORT P_106, EIC EXTINT_10, ETH RXD_1, TCC2:1 WO_0]
@@ -6998,6 +7543,20 @@ Pin count : 144
 - Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
+
+- Package Outline Drawings : 	 [C04-00515A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 5MX
+- Package Type : 	 TFBGA
+- Pin count : 	 176,00
+- Package Layout : 	 [C04-00515A.pdf](./mchp/packages/c04-00515a.pdf)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00515A.stl) : 	 [C04-00515A.stl](./Model3d/stl/C04-00515A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00515A.obj) : 	 [C04-00515A.obj](./Model3d/obj/C04-00515A.obj)
+- Package 3d model x3d : 	 [C04-00515A.x3d](./Model3d/x3d/C04-00515A.x3d)
+- Package 3d model scad : 	 [C04-00515A.scad](./Model3d/scad/C04-00515A.scad)
+- Package 3d model usd : 	 [C04-00515A.usd](./Model3d/usd/C04-00515A.usd)
+- Package 3d model glb : 	 [C04-00515A.glb](./Model3d/glb/C04-00515A.glb)
+
+please check that some data is inconsistent 	 
 
 Pin count : 176
 - A2 : PD10,  of Type IO, alternates : [PORT P_106, EIC EXTINT_10, ETH RXD_1, TCC2:1 WO_0]
@@ -7197,6 +7756,20 @@ Pin count : 176
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00515A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 5MX
+- Package Type : 	 TFBGA
+- Pin count : 	 176,00
+- Package Layout : 	 [C04-00515A.pdf](./mchp/packages/c04-00515a.pdf)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00515A.stl) : 	 [C04-00515A.stl](./Model3d/stl/C04-00515A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00515A.obj) : 	 [C04-00515A.obj](./Model3d/obj/C04-00515A.obj)
+- Package 3d model x3d : 	 [C04-00515A.x3d](./Model3d/x3d/C04-00515A.x3d)
+- Package 3d model scad : 	 [C04-00515A.scad](./Model3d/scad/C04-00515A.scad)
+- Package 3d model usd : 	 [C04-00515A.usd](./Model3d/usd/C04-00515A.usd)
+- Package 3d model glb : 	 [C04-00515A.glb](./Model3d/glb/C04-00515A.glb)
+
+please check that some data is inconsistent 	 
+
 Pin count : 176
 - A1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
 - A2 : PA02,  of Type IO, alternates : [TCC2:1 WO_5, ETH TXEN_, PORT P_2, EIC EXTINT_2, DSU PMSA_7]
@@ -7394,6 +7967,20 @@ Pin count : 176
 - Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
+
+- Package Outline Drawings : 	 [C04-00515A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 5MX
+- Package Type : 	 TFBGA
+- Pin count : 	 176,00
+- Package Layout : 	 [C04-00515A.pdf](./mchp/packages/c04-00515a.pdf)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00515A.stl) : 	 [C04-00515A.stl](./Model3d/stl/C04-00515A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00515A.obj) : 	 [C04-00515A.obj](./Model3d/obj/C04-00515A.obj)
+- Package 3d model x3d : 	 [C04-00515A.x3d](./Model3d/x3d/C04-00515A.x3d)
+- Package 3d model scad : 	 [C04-00515A.scad](./Model3d/scad/C04-00515A.scad)
+- Package 3d model usd : 	 [C04-00515A.usd](./Model3d/usd/C04-00515A.usd)
+- Package 3d model glb : 	 [C04-00515A.glb](./Model3d/glb/C04-00515A.glb)
+
+please check that some data is inconsistent 	 
 
 Pin count : 176
 - 1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
@@ -7598,8 +8185,12 @@ Pin count : 176
 - Package Type : 	 TFBGA
 - Pin count : 	 176,00
 - Package Layout : 	 [C04-00515A.pdf](./mchp/packages/c04-00515a.pdf)
-- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00515A.x3d) : 	 [C04-00515A.x3d](./Model3d/x3d/C04-00515A.x3d)
-- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00515A.scad) : 	 [C04-00515A.scad](./Model3d/scad/C04-00515A.scad)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00515A.stl) : 	 [C04-00515A.stl](./Model3d/stl/C04-00515A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00515A.obj) : 	 [C04-00515A.obj](./Model3d/obj/C04-00515A.obj)
+- Package 3d model x3d : 	 [C04-00515A.x3d](./Model3d/x3d/C04-00515A.x3d)
+- Package 3d model scad : 	 [C04-00515A.scad](./Model3d/scad/C04-00515A.scad)
+- Package 3d model usd : 	 [C04-00515A.usd](./Model3d/usd/C04-00515A.usd)
+- Package 3d model glb : 	 [C04-00515A.glb](./Model3d/glb/C04-00515A.glb)
 Pin count : 176
 - A2 : PD10,  of Type IO, alternates : [PORT P_106, EIC EXTINT_10, ETH RXD_1, TCC2:1 WO_0]
 - A3 : PD09,  of Type IO, alternates : [PORT P_105, MLB MLBD_, CAN1:2 TX_, EIC EXTINT_9, ETH CRS_]
@@ -7798,6 +8389,20 @@ Pin count : 176
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00515A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 5MX
+- Package Type : 	 TFBGA
+- Pin count : 	 176,00
+- Package Layout : 	 [C04-00515A.pdf](./mchp/packages/c04-00515a.pdf)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00515A.stl) : 	 [C04-00515A.stl](./Model3d/stl/C04-00515A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00515A.obj) : 	 [C04-00515A.obj](./Model3d/obj/C04-00515A.obj)
+- Package 3d model x3d : 	 [C04-00515A.x3d](./Model3d/x3d/C04-00515A.x3d)
+- Package 3d model scad : 	 [C04-00515A.scad](./Model3d/scad/C04-00515A.scad)
+- Package 3d model usd : 	 [C04-00515A.usd](./Model3d/usd/C04-00515A.usd)
+- Package 3d model glb : 	 [C04-00515A.glb](./Model3d/glb/C04-00515A.glb)
+
+please check that some data is inconsistent 	 
+
 Pin count : 176
 - A1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
 - A2 : PA02,  of Type IO, alternates : [TCC2:1 WO_5, ETH TXEN_, PORT P_2, EIC EXTINT_2, DSU PMSA_7]
@@ -7995,6 +8600,20 @@ Pin count : 176
 - Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
+
+- Package Outline Drawings : 	 [C04-00515A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 5MX
+- Package Type : 	 TFBGA
+- Pin count : 	 176,00
+- Package Layout : 	 [C04-00515A.pdf](./mchp/packages/c04-00515a.pdf)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00515A.stl) : 	 [C04-00515A.stl](./Model3d/stl/C04-00515A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00515A.obj) : 	 [C04-00515A.obj](./Model3d/obj/C04-00515A.obj)
+- Package 3d model x3d : 	 [C04-00515A.x3d](./Model3d/x3d/C04-00515A.x3d)
+- Package 3d model scad : 	 [C04-00515A.scad](./Model3d/scad/C04-00515A.scad)
+- Package 3d model usd : 	 [C04-00515A.usd](./Model3d/usd/C04-00515A.usd)
+- Package 3d model glb : 	 [C04-00515A.glb](./Model3d/glb/C04-00515A.glb)
+
+please check that some data is inconsistent 	 
 
 Pin count : 176
 - 1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
@@ -8194,6 +8813,20 @@ Pin count : 176
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00515A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 5MX
+- Package Type : 	 TFBGA
+- Pin count : 	 176,00
+- Package Layout : 	 [C04-00515A.pdf](./mchp/packages/c04-00515a.pdf)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00515A.stl) : 	 [C04-00515A.stl](./Model3d/stl/C04-00515A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00515A.obj) : 	 [C04-00515A.obj](./Model3d/obj/C04-00515A.obj)
+- Package 3d model x3d : 	 [C04-00515A.x3d](./Model3d/x3d/C04-00515A.x3d)
+- Package 3d model scad : 	 [C04-00515A.scad](./Model3d/scad/C04-00515A.scad)
+- Package 3d model usd : 	 [C04-00515A.usd](./Model3d/usd/C04-00515A.usd)
+- Package 3d model glb : 	 [C04-00515A.glb](./Model3d/glb/C04-00515A.glb)
+
+please check that some data is inconsistent 	 
+
 Pin count : 176
 - A2 : PD10,  of Type IO, alternates : [PORT P_106, EIC EXTINT_10, ETH RXD_1, TCC2:1 WO_0]
 - A3 : PD09,  of Type IO, alternates : [PORT P_105, MLB MLBD_, CAN1:2 TX_, EIC EXTINT_9, ETH CRS_]
@@ -8391,6 +9024,20 @@ Pin count : 176
 - Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
+
+- Package Outline Drawings : 	 [C04-00515A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 5MX
+- Package Type : 	 TFBGA
+- Pin count : 	 176,00
+- Package Layout : 	 [C04-00515A.pdf](./mchp/packages/c04-00515a.pdf)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00515A.stl) : 	 [C04-00515A.stl](./Model3d/stl/C04-00515A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00515A.obj) : 	 [C04-00515A.obj](./Model3d/obj/C04-00515A.obj)
+- Package 3d model x3d : 	 [C04-00515A.x3d](./Model3d/x3d/C04-00515A.x3d)
+- Package 3d model scad : 	 [C04-00515A.scad](./Model3d/scad/C04-00515A.scad)
+- Package 3d model usd : 	 [C04-00515A.usd](./Model3d/usd/C04-00515A.usd)
+- Package 3d model glb : 	 [C04-00515A.glb](./Model3d/glb/C04-00515A.glb)
+
+please check that some data is inconsistent 	 
 
 Pin count : 176
 - A1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
@@ -8590,6 +9237,20 @@ Pin count : 176
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00515A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 5MX
+- Package Type : 	 TFBGA
+- Pin count : 	 176,00
+- Package Layout : 	 [C04-00515A.pdf](./mchp/packages/c04-00515a.pdf)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00515A.stl) : 	 [C04-00515A.stl](./Model3d/stl/C04-00515A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00515A.obj) : 	 [C04-00515A.obj](./Model3d/obj/C04-00515A.obj)
+- Package 3d model x3d : 	 [C04-00515A.x3d](./Model3d/x3d/C04-00515A.x3d)
+- Package 3d model scad : 	 [C04-00515A.scad](./Model3d/scad/C04-00515A.scad)
+- Package 3d model usd : 	 [C04-00515A.usd](./Model3d/usd/C04-00515A.usd)
+- Package 3d model glb : 	 [C04-00515A.glb](./Model3d/glb/C04-00515A.glb)
+
+please check that some data is inconsistent 	 
+
 Pin count : 176
 - 1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
 - 2 : PA01,  of Type IO, alternates : [ETH TXD_0, EIC EXTINT_1, PORT P_1]
@@ -8787,6 +9448,21 @@ Pin count : 176
 - Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
+
+- Package Outline Drawings : 	 [C04-00516A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 8MX
+- Package Type : 	 TFBGA
+- Pin count : 	 208,00
+- Package Layout : 	 [C04-00516A.pdf](./mchp/packages/c04-00516a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00516A.wrl) : 	 [C04-00516A.wrl](./Model3d/wrl/C04-00516A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00516A.stl) : 	 [C04-00516A.stl](./Model3d/stl/C04-00516A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00516A.obj) : 	 [C04-00516A.obj](./Model3d/obj/C04-00516A.obj)
+- Package 3d model x3d : 	 [C04-00516A.x3d](./Model3d/x3d/C04-00516A.x3d)
+- Package 3d model scad : 	 [C04-00516A.scad](./Model3d/scad/C04-00516A.scad)
+- Package 3d model usd : 	 [C04-00516A.usd](./Model3d/usd/C04-00516A.usd)
+- Package 3d model glb : 	 [C04-00516A.glb](./Model3d/glb/C04-00516A.glb)
+
+please check that some data is inconsistent 	 
 
 Pin count : 208
 - 1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
@@ -9018,6 +9694,21 @@ Pin count : 208
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00516A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 8MX
+- Package Type : 	 TFBGA
+- Pin count : 	 208,00
+- Package Layout : 	 [C04-00516A.pdf](./mchp/packages/c04-00516a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00516A.wrl) : 	 [C04-00516A.wrl](./Model3d/wrl/C04-00516A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00516A.stl) : 	 [C04-00516A.stl](./Model3d/stl/C04-00516A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00516A.obj) : 	 [C04-00516A.obj](./Model3d/obj/C04-00516A.obj)
+- Package 3d model x3d : 	 [C04-00516A.x3d](./Model3d/x3d/C04-00516A.x3d)
+- Package 3d model scad : 	 [C04-00516A.scad](./Model3d/scad/C04-00516A.scad)
+- Package 3d model usd : 	 [C04-00516A.usd](./Model3d/usd/C04-00516A.usd)
+- Package 3d model glb : 	 [C04-00516A.glb](./Model3d/glb/C04-00516A.glb)
+
+please check that some data is inconsistent 	 
+
 Pin count : 208
 - 1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
 - 2 : PA01,  of Type IO, alternates : [ETH TXD_0, EIC EXTINT_1, PORT P_1]
@@ -9247,6 +9938,21 @@ Pin count : 208
 - Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
+
+- Package Outline Drawings : 	 [C04-00516A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 8MX
+- Package Type : 	 TFBGA
+- Pin count : 	 208,00
+- Package Layout : 	 [C04-00516A.pdf](./mchp/packages/c04-00516a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00516A.wrl) : 	 [C04-00516A.wrl](./Model3d/wrl/C04-00516A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00516A.stl) : 	 [C04-00516A.stl](./Model3d/stl/C04-00516A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00516A.obj) : 	 [C04-00516A.obj](./Model3d/obj/C04-00516A.obj)
+- Package 3d model x3d : 	 [C04-00516A.x3d](./Model3d/x3d/C04-00516A.x3d)
+- Package 3d model scad : 	 [C04-00516A.scad](./Model3d/scad/C04-00516A.scad)
+- Package 3d model usd : 	 [C04-00516A.usd](./Model3d/usd/C04-00516A.usd)
+- Package 3d model glb : 	 [C04-00516A.glb](./Model3d/glb/C04-00516A.glb)
+
+please check that some data is inconsistent 	 
 
 Pin count : 208
 - 1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
@@ -9478,6 +10184,21 @@ Pin count : 208
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00509A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 7YX
+- Package Type : 	 TQFP
+- Pin count : 	 100,00
+- Package Layout : 	 [C04-00509A.pdf](./mchp/packages/c04-00509a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00509A.wrl) : 	 [C04-00509A.wrl](./Model3d/wrl/C04-00509A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00509A.stl) : 	 [C04-00509A.stl](./Model3d/stl/C04-00509A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00509A.obj) : 	 [C04-00509A.obj](./Model3d/obj/C04-00509A.obj)
+- Package 3d model x3d : 	 [C04-00509A.x3d](./Model3d/x3d/C04-00509A.x3d)
+- Package 3d model scad : 	 [C04-00509A.scad](./Model3d/scad/C04-00509A.scad)
+- Package 3d model usd : 	 [C04-00509A.usd](./Model3d/usd/C04-00509A.usd)
+- Package 3d model glb : 	 [C04-00509A.glb](./Model3d/glb/C04-00509A.glb)
+
+please check that some data is inconsistent 	 
+
 Pin count : 100
 - 1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
 - 2 : PA01,  of Type IO, alternates : [ETH TXD_0, EIC EXTINT_1, PORT P_1]
@@ -9599,6 +10320,21 @@ Pin count : 100
 - Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
+
+- Package Outline Drawings : 	 [C04-00509A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 7YX
+- Package Type : 	 TQFP
+- Pin count : 	 100,00
+- Package Layout : 	 [C04-00509A.pdf](./mchp/packages/c04-00509a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00509A.wrl) : 	 [C04-00509A.wrl](./Model3d/wrl/C04-00509A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00509A.stl) : 	 [C04-00509A.stl](./Model3d/stl/C04-00509A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00509A.obj) : 	 [C04-00509A.obj](./Model3d/obj/C04-00509A.obj)
+- Package 3d model x3d : 	 [C04-00509A.x3d](./Model3d/x3d/C04-00509A.x3d)
+- Package 3d model scad : 	 [C04-00509A.scad](./Model3d/scad/C04-00509A.scad)
+- Package 3d model usd : 	 [C04-00509A.usd](./Model3d/usd/C04-00509A.usd)
+- Package 3d model glb : 	 [C04-00509A.glb](./Model3d/glb/C04-00509A.glb)
+
+please check that some data is inconsistent 	 
 
 Pin count : 100
 - 1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
@@ -9728,8 +10464,12 @@ Pin count : 100
 - Pin count : 	 100,00
 - Package Layout : 	 [C04-00509A.pdf](./mchp/packages/c04-00509a.pdf)
 - Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00509A.wrl) : 	 [C04-00509A.wrl](./Model3d/wrl/C04-00509A.wrl)
-- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00509A.x3d) : 	 [C04-00509A.x3d](./Model3d/x3d/C04-00509A.x3d)
-- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00509A.scad) : 	 [C04-00509A.scad](./Model3d/scad/C04-00509A.scad)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00509A.stl) : 	 [C04-00509A.stl](./Model3d/stl/C04-00509A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00509A.obj) : 	 [C04-00509A.obj](./Model3d/obj/C04-00509A.obj)
+- Package 3d model x3d : 	 [C04-00509A.x3d](./Model3d/x3d/C04-00509A.x3d)
+- Package 3d model scad : 	 [C04-00509A.scad](./Model3d/scad/C04-00509A.scad)
+- Package 3d model usd : 	 [C04-00509A.usd](./Model3d/usd/C04-00509A.usd)
+- Package 3d model glb : 	 [C04-00509A.glb](./Model3d/glb/C04-00509A.glb)
 Pin count : 100
 - 1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
 - 2 : PA01,  of Type IO, alternates : [ETH TXD_0, EIC EXTINT_1, PORT P_1]
@@ -9851,6 +10591,21 @@ Pin count : 100
 - Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
+
+- Package Outline Drawings : 	 [C04-00509A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 7YX
+- Package Type : 	 TQFP
+- Pin count : 	 100,00
+- Package Layout : 	 [C04-00509A.pdf](./mchp/packages/c04-00509a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00509A.wrl) : 	 [C04-00509A.wrl](./Model3d/wrl/C04-00509A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00509A.stl) : 	 [C04-00509A.stl](./Model3d/stl/C04-00509A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00509A.obj) : 	 [C04-00509A.obj](./Model3d/obj/C04-00509A.obj)
+- Package 3d model x3d : 	 [C04-00509A.x3d](./Model3d/x3d/C04-00509A.x3d)
+- Package 3d model scad : 	 [C04-00509A.scad](./Model3d/scad/C04-00509A.scad)
+- Package 3d model usd : 	 [C04-00509A.usd](./Model3d/usd/C04-00509A.usd)
+- Package 3d model glb : 	 [C04-00509A.glb](./Model3d/glb/C04-00509A.glb)
+
+please check that some data is inconsistent 	 
 
 Pin count : 100
 - 1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
@@ -9974,6 +10729,21 @@ Pin count : 100
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00509A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 7YX
+- Package Type : 	 TQFP
+- Pin count : 	 100,00
+- Package Layout : 	 [C04-00509A.pdf](./mchp/packages/c04-00509a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00509A.wrl) : 	 [C04-00509A.wrl](./Model3d/wrl/C04-00509A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00509A.stl) : 	 [C04-00509A.stl](./Model3d/stl/C04-00509A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00509A.obj) : 	 [C04-00509A.obj](./Model3d/obj/C04-00509A.obj)
+- Package 3d model x3d : 	 [C04-00509A.x3d](./Model3d/x3d/C04-00509A.x3d)
+- Package 3d model scad : 	 [C04-00509A.scad](./Model3d/scad/C04-00509A.scad)
+- Package 3d model usd : 	 [C04-00509A.usd](./Model3d/usd/C04-00509A.usd)
+- Package 3d model glb : 	 [C04-00509A.glb](./Model3d/glb/C04-00509A.glb)
+
+please check that some data is inconsistent 	 
+
 Pin count : 100
 - 1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
 - 2 : PA01,  of Type IO, alternates : [ETH TXD_0, EIC EXTINT_1, PORT P_1]
@@ -10096,6 +10866,21 @@ Pin count : 100
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00509A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 7YX
+- Package Type : 	 TQFP
+- Pin count : 	 100,00
+- Package Layout : 	 [C04-00509A.pdf](./mchp/packages/c04-00509a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00509A.wrl) : 	 [C04-00509A.wrl](./Model3d/wrl/C04-00509A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00509A.stl) : 	 [C04-00509A.stl](./Model3d/stl/C04-00509A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00509A.obj) : 	 [C04-00509A.obj](./Model3d/obj/C04-00509A.obj)
+- Package 3d model x3d : 	 [C04-00509A.x3d](./Model3d/x3d/C04-00509A.x3d)
+- Package 3d model scad : 	 [C04-00509A.scad](./Model3d/scad/C04-00509A.scad)
+- Package 3d model usd : 	 [C04-00509A.usd](./Model3d/usd/C04-00509A.usd)
+- Package 3d model glb : 	 [C04-00509A.glb](./Model3d/glb/C04-00509A.glb)
+
+please check that some data is inconsistent 	 
+
 Pin count : 100
 - 1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
 - 2 : PA01,  of Type IO, alternates : [ETH TXD_0, EIC EXTINT_1, PORT P_1]
@@ -10217,6 +11002,21 @@ Pin count : 100
 - Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
+
+- Package Outline Drawings : 	 [C04-00510A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 8YX
+- Package Type : 	 TQFP
+- Pin count : 	 144,00
+- Package Layout : 	 [C04-00510A.pdf](./mchp/packages/c04-00510a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00510A.wrl) : 	 [C04-00510A.wrl](./Model3d/wrl/C04-00510A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00510A.stl) : 	 [C04-00510A.stl](./Model3d/stl/C04-00510A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00510A.obj) : 	 [C04-00510A.obj](./Model3d/obj/C04-00510A.obj)
+- Package 3d model x3d : 	 [C04-00510A.x3d](./Model3d/x3d/C04-00510A.x3d)
+- Package 3d model scad : 	 [C04-00510A.scad](./Model3d/scad/C04-00510A.scad)
+- Package 3d model usd : 	 [C04-00510A.usd](./Model3d/usd/C04-00510A.usd)
+- Package 3d model glb : 	 [C04-00510A.glb](./Model3d/glb/C04-00510A.glb)
+
+please check that some data is inconsistent 	 
 
 Pin count : 144
 - 1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
@@ -10384,6 +11184,21 @@ Pin count : 144
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00510A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 8YX
+- Package Type : 	 TQFP
+- Pin count : 	 144,00
+- Package Layout : 	 [C04-00510A.pdf](./mchp/packages/c04-00510a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00510A.wrl) : 	 [C04-00510A.wrl](./Model3d/wrl/C04-00510A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00510A.stl) : 	 [C04-00510A.stl](./Model3d/stl/C04-00510A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00510A.obj) : 	 [C04-00510A.obj](./Model3d/obj/C04-00510A.obj)
+- Package 3d model x3d : 	 [C04-00510A.x3d](./Model3d/x3d/C04-00510A.x3d)
+- Package 3d model scad : 	 [C04-00510A.scad](./Model3d/scad/C04-00510A.scad)
+- Package 3d model usd : 	 [C04-00510A.usd](./Model3d/usd/C04-00510A.usd)
+- Package 3d model glb : 	 [C04-00510A.glb](./Model3d/glb/C04-00510A.glb)
+
+please check that some data is inconsistent 	 
+
 Pin count : 144
 - A1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
 - A2 : PA02,  of Type IO, alternates : [TCC2:1 WO_5, ETH TXEN_, PORT P_2, EIC EXTINT_2, DSU PMSA_7]
@@ -10549,6 +11364,21 @@ Pin count : 144
 - Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
+
+- Package Outline Drawings : 	 [C04-00510A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 8YX
+- Package Type : 	 TQFP
+- Pin count : 	 144,00
+- Package Layout : 	 [C04-00510A.pdf](./mchp/packages/c04-00510a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00510A.wrl) : 	 [C04-00510A.wrl](./Model3d/wrl/C04-00510A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00510A.stl) : 	 [C04-00510A.stl](./Model3d/stl/C04-00510A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00510A.obj) : 	 [C04-00510A.obj](./Model3d/obj/C04-00510A.obj)
+- Package 3d model x3d : 	 [C04-00510A.x3d](./Model3d/x3d/C04-00510A.x3d)
+- Package 3d model scad : 	 [C04-00510A.scad](./Model3d/scad/C04-00510A.scad)
+- Package 3d model usd : 	 [C04-00510A.usd](./Model3d/usd/C04-00510A.usd)
+- Package 3d model glb : 	 [C04-00510A.glb](./Model3d/glb/C04-00510A.glb)
+
+please check that some data is inconsistent 	 
 
 Pin count : 144
 - A2 : PD11,  of Type IO, alternates : [PORT P_107, ETH RXD_0, SERCOM2:2 PAD_0, EIC EXTINT_11, TCC2:1 WO_1]
@@ -10722,8 +11552,12 @@ Pin count : 144
 - Pin count : 	 144,00
 - Package Layout : 	 [C04-00510A.pdf](./mchp/packages/c04-00510a.pdf)
 - Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00510A.wrl) : 	 [C04-00510A.wrl](./Model3d/wrl/C04-00510A.wrl)
-- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00510A.x3d) : 	 [C04-00510A.x3d](./Model3d/x3d/C04-00510A.x3d)
-- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00510A.scad) : 	 [C04-00510A.scad](./Model3d/scad/C04-00510A.scad)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00510A.stl) : 	 [C04-00510A.stl](./Model3d/stl/C04-00510A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00510A.obj) : 	 [C04-00510A.obj](./Model3d/obj/C04-00510A.obj)
+- Package 3d model x3d : 	 [C04-00510A.x3d](./Model3d/x3d/C04-00510A.x3d)
+- Package 3d model scad : 	 [C04-00510A.scad](./Model3d/scad/C04-00510A.scad)
+- Package 3d model usd : 	 [C04-00510A.usd](./Model3d/usd/C04-00510A.usd)
+- Package 3d model glb : 	 [C04-00510A.glb](./Model3d/glb/C04-00510A.glb)
 Pin count : 144
 - 1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
 - 2 : PA01,  of Type IO, alternates : [ETH TXD_0, EIC EXTINT_1, PORT P_1]
@@ -10889,6 +11723,21 @@ Pin count : 144
 - Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
+
+- Package Outline Drawings : 	 [C04-00510A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 8YX
+- Package Type : 	 TQFP
+- Pin count : 	 144,00
+- Package Layout : 	 [C04-00510A.pdf](./mchp/packages/c04-00510a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00510A.wrl) : 	 [C04-00510A.wrl](./Model3d/wrl/C04-00510A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00510A.stl) : 	 [C04-00510A.stl](./Model3d/stl/C04-00510A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00510A.obj) : 	 [C04-00510A.obj](./Model3d/obj/C04-00510A.obj)
+- Package 3d model x3d : 	 [C04-00510A.x3d](./Model3d/x3d/C04-00510A.x3d)
+- Package 3d model scad : 	 [C04-00510A.scad](./Model3d/scad/C04-00510A.scad)
+- Package 3d model usd : 	 [C04-00510A.usd](./Model3d/usd/C04-00510A.usd)
+- Package 3d model glb : 	 [C04-00510A.glb](./Model3d/glb/C04-00510A.glb)
+
+please check that some data is inconsistent 	 
 
 Pin count : 144
 - A1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
@@ -11062,8 +11911,12 @@ Pin count : 144
 - Pin count : 	 144,00
 - Package Layout : 	 [C04-00511A.pdf](./mchp/packages/c04-00511a.pdf)
 - Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00511A.wrl) : 	 [C04-00511A.wrl](./Model3d/wrl/C04-00511A.wrl)
-- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00511A.x3d) : 	 [C04-00511A.x3d](./Model3d/x3d/C04-00511A.x3d)
-- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00511A.scad) : 	 [C04-00511A.scad](./Model3d/scad/C04-00511A.scad)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00511A.stl) : 	 [C04-00511A.stl](./Model3d/stl/C04-00511A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00511A.obj) : 	 [C04-00511A.obj](./Model3d/obj/C04-00511A.obj)
+- Package 3d model x3d : 	 [C04-00511A.x3d](./Model3d/x3d/C04-00511A.x3d)
+- Package 3d model scad : 	 [C04-00511A.scad](./Model3d/scad/C04-00511A.scad)
+- Package 3d model usd : 	 [C04-00511A.usd](./Model3d/usd/C04-00511A.usd)
+- Package 3d model glb : 	 [C04-00511A.glb](./Model3d/glb/C04-00511A.glb)
 Pin count : 144
 - A2 : PD11,  of Type IO, alternates : [PORT P_107, ETH RXD_0, SERCOM2:2 PAD_0, EIC EXTINT_11, TCC2:1 WO_1]
 - A3 : PD10,  of Type IO, alternates : [PORT P_106, EIC EXTINT_10, ETH RXD_1, TCC2:1 WO_0]
@@ -11229,6 +12082,21 @@ Pin count : 144
 - Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
+
+- Package Outline Drawings : 	 [C04-00510A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 8YX
+- Package Type : 	 TQFP
+- Pin count : 	 144,00
+- Package Layout : 	 [C04-00510A.pdf](./mchp/packages/c04-00510a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00510A.wrl) : 	 [C04-00510A.wrl](./Model3d/wrl/C04-00510A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00510A.stl) : 	 [C04-00510A.stl](./Model3d/stl/C04-00510A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00510A.obj) : 	 [C04-00510A.obj](./Model3d/obj/C04-00510A.obj)
+- Package 3d model x3d : 	 [C04-00510A.x3d](./Model3d/x3d/C04-00510A.x3d)
+- Package 3d model scad : 	 [C04-00510A.scad](./Model3d/scad/C04-00510A.scad)
+- Package 3d model usd : 	 [C04-00510A.usd](./Model3d/usd/C04-00510A.usd)
+- Package 3d model glb : 	 [C04-00510A.glb](./Model3d/glb/C04-00510A.glb)
+
+please check that some data is inconsistent 	 
 
 Pin count : 144
 - 1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
@@ -11396,6 +12264,21 @@ Pin count : 144
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00510A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 8YX
+- Package Type : 	 TQFP
+- Pin count : 	 144,00
+- Package Layout : 	 [C04-00510A.pdf](./mchp/packages/c04-00510a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00510A.wrl) : 	 [C04-00510A.wrl](./Model3d/wrl/C04-00510A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00510A.stl) : 	 [C04-00510A.stl](./Model3d/stl/C04-00510A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00510A.obj) : 	 [C04-00510A.obj](./Model3d/obj/C04-00510A.obj)
+- Package 3d model x3d : 	 [C04-00510A.x3d](./Model3d/x3d/C04-00510A.x3d)
+- Package 3d model scad : 	 [C04-00510A.scad](./Model3d/scad/C04-00510A.scad)
+- Package 3d model usd : 	 [C04-00510A.usd](./Model3d/usd/C04-00510A.usd)
+- Package 3d model glb : 	 [C04-00510A.glb](./Model3d/glb/C04-00510A.glb)
+
+please check that some data is inconsistent 	 
+
 Pin count : 144
 - A1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
 - A2 : PA02,  of Type IO, alternates : [TCC2:1 WO_5, ETH TXEN_, PORT P_2, EIC EXTINT_2, DSU PMSA_7]
@@ -11562,6 +12445,21 @@ Pin count : 144
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00510A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 8YX
+- Package Type : 	 TQFP
+- Pin count : 	 144,00
+- Package Layout : 	 [C04-00510A.pdf](./mchp/packages/c04-00510a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00510A.wrl) : 	 [C04-00510A.wrl](./Model3d/wrl/C04-00510A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00510A.stl) : 	 [C04-00510A.stl](./Model3d/stl/C04-00510A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00510A.obj) : 	 [C04-00510A.obj](./Model3d/obj/C04-00510A.obj)
+- Package 3d model x3d : 	 [C04-00510A.x3d](./Model3d/x3d/C04-00510A.x3d)
+- Package 3d model scad : 	 [C04-00510A.scad](./Model3d/scad/C04-00510A.scad)
+- Package 3d model usd : 	 [C04-00510A.usd](./Model3d/usd/C04-00510A.usd)
+- Package 3d model glb : 	 [C04-00510A.glb](./Model3d/glb/C04-00510A.glb)
+
+please check that some data is inconsistent 	 
+
 Pin count : 144
 - A2 : PD11,  of Type IO, alternates : [PORT P_107, ETH RXD_0, SERCOM2:2 PAD_0, EIC EXTINT_11, TCC2:1 WO_1]
 - A3 : PD10,  of Type IO, alternates : [PORT P_106, EIC EXTINT_10, ETH RXD_1, TCC2:1 WO_0]
@@ -11727,6 +12625,20 @@ Pin count : 144
 - Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
+
+- Package Outline Drawings : 	 [C04-00515A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 5MX
+- Package Type : 	 TFBGA
+- Pin count : 	 176,00
+- Package Layout : 	 [C04-00515A.pdf](./mchp/packages/c04-00515a.pdf)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00515A.stl) : 	 [C04-00515A.stl](./Model3d/stl/C04-00515A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00515A.obj) : 	 [C04-00515A.obj](./Model3d/obj/C04-00515A.obj)
+- Package 3d model x3d : 	 [C04-00515A.x3d](./Model3d/x3d/C04-00515A.x3d)
+- Package 3d model scad : 	 [C04-00515A.scad](./Model3d/scad/C04-00515A.scad)
+- Package 3d model usd : 	 [C04-00515A.usd](./Model3d/usd/C04-00515A.usd)
+- Package 3d model glb : 	 [C04-00515A.glb](./Model3d/glb/C04-00515A.glb)
+
+please check that some data is inconsistent 	 
 
 Pin count : 176
 - A2 : PD10,  of Type IO, alternates : [PORT P_106, EIC EXTINT_10, ETH RXD_1, TCC2:1 WO_0]
@@ -11926,6 +12838,20 @@ Pin count : 176
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00515A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 5MX
+- Package Type : 	 TFBGA
+- Pin count : 	 176,00
+- Package Layout : 	 [C04-00515A.pdf](./mchp/packages/c04-00515a.pdf)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00515A.stl) : 	 [C04-00515A.stl](./Model3d/stl/C04-00515A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00515A.obj) : 	 [C04-00515A.obj](./Model3d/obj/C04-00515A.obj)
+- Package 3d model x3d : 	 [C04-00515A.x3d](./Model3d/x3d/C04-00515A.x3d)
+- Package 3d model scad : 	 [C04-00515A.scad](./Model3d/scad/C04-00515A.scad)
+- Package 3d model usd : 	 [C04-00515A.usd](./Model3d/usd/C04-00515A.usd)
+- Package 3d model glb : 	 [C04-00515A.glb](./Model3d/glb/C04-00515A.glb)
+
+please check that some data is inconsistent 	 
+
 Pin count : 176
 - A1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
 - A2 : PA02,  of Type IO, alternates : [TCC2:1 WO_5, ETH TXEN_, PORT P_2, EIC EXTINT_2, DSU PMSA_7]
@@ -12123,6 +13049,20 @@ Pin count : 176
 - Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
+
+- Package Outline Drawings : 	 [C04-00515A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 5MX
+- Package Type : 	 TFBGA
+- Pin count : 	 176,00
+- Package Layout : 	 [C04-00515A.pdf](./mchp/packages/c04-00515a.pdf)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00515A.stl) : 	 [C04-00515A.stl](./Model3d/stl/C04-00515A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00515A.obj) : 	 [C04-00515A.obj](./Model3d/obj/C04-00515A.obj)
+- Package 3d model x3d : 	 [C04-00515A.x3d](./Model3d/x3d/C04-00515A.x3d)
+- Package 3d model scad : 	 [C04-00515A.scad](./Model3d/scad/C04-00515A.scad)
+- Package 3d model usd : 	 [C04-00515A.usd](./Model3d/usd/C04-00515A.usd)
+- Package 3d model glb : 	 [C04-00515A.glb](./Model3d/glb/C04-00515A.glb)
+
+please check that some data is inconsistent 	 
 
 Pin count : 176
 - 1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
@@ -12327,8 +13267,12 @@ Pin count : 176
 - Package Type : 	 TFBGA
 - Pin count : 	 176,00
 - Package Layout : 	 [C04-00515A.pdf](./mchp/packages/c04-00515a.pdf)
-- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00515A.x3d) : 	 [C04-00515A.x3d](./Model3d/x3d/C04-00515A.x3d)
-- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00515A.scad) : 	 [C04-00515A.scad](./Model3d/scad/C04-00515A.scad)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00515A.stl) : 	 [C04-00515A.stl](./Model3d/stl/C04-00515A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00515A.obj) : 	 [C04-00515A.obj](./Model3d/obj/C04-00515A.obj)
+- Package 3d model x3d : 	 [C04-00515A.x3d](./Model3d/x3d/C04-00515A.x3d)
+- Package 3d model scad : 	 [C04-00515A.scad](./Model3d/scad/C04-00515A.scad)
+- Package 3d model usd : 	 [C04-00515A.usd](./Model3d/usd/C04-00515A.usd)
+- Package 3d model glb : 	 [C04-00515A.glb](./Model3d/glb/C04-00515A.glb)
 Pin count : 176
 - A2 : PD10,  of Type IO, alternates : [PORT P_106, EIC EXTINT_10, ETH RXD_1, TCC2:1 WO_0]
 - A3 : PD09,  of Type IO, alternates : [PORT P_105, MLB MLBD_, CAN1:2 TX_, EIC EXTINT_9, ETH CRS_]
@@ -12527,6 +13471,20 @@ Pin count : 176
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00515A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 5MX
+- Package Type : 	 TFBGA
+- Pin count : 	 176,00
+- Package Layout : 	 [C04-00515A.pdf](./mchp/packages/c04-00515a.pdf)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00515A.stl) : 	 [C04-00515A.stl](./Model3d/stl/C04-00515A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00515A.obj) : 	 [C04-00515A.obj](./Model3d/obj/C04-00515A.obj)
+- Package 3d model x3d : 	 [C04-00515A.x3d](./Model3d/x3d/C04-00515A.x3d)
+- Package 3d model scad : 	 [C04-00515A.scad](./Model3d/scad/C04-00515A.scad)
+- Package 3d model usd : 	 [C04-00515A.usd](./Model3d/usd/C04-00515A.usd)
+- Package 3d model glb : 	 [C04-00515A.glb](./Model3d/glb/C04-00515A.glb)
+
+please check that some data is inconsistent 	 
+
 Pin count : 176
 - A1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
 - A2 : PA02,  of Type IO, alternates : [TCC2:1 WO_5, ETH TXEN_, PORT P_2, EIC EXTINT_2, DSU PMSA_7]
@@ -12724,6 +13682,20 @@ Pin count : 176
 - Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
+
+- Package Outline Drawings : 	 [C04-00515A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 5MX
+- Package Type : 	 TFBGA
+- Pin count : 	 176,00
+- Package Layout : 	 [C04-00515A.pdf](./mchp/packages/c04-00515a.pdf)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00515A.stl) : 	 [C04-00515A.stl](./Model3d/stl/C04-00515A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00515A.obj) : 	 [C04-00515A.obj](./Model3d/obj/C04-00515A.obj)
+- Package 3d model x3d : 	 [C04-00515A.x3d](./Model3d/x3d/C04-00515A.x3d)
+- Package 3d model scad : 	 [C04-00515A.scad](./Model3d/scad/C04-00515A.scad)
+- Package 3d model usd : 	 [C04-00515A.usd](./Model3d/usd/C04-00515A.usd)
+- Package 3d model glb : 	 [C04-00515A.glb](./Model3d/glb/C04-00515A.glb)
+
+please check that some data is inconsistent 	 
 
 Pin count : 176
 - 1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
@@ -12923,6 +13895,20 @@ Pin count : 176
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00515A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 5MX
+- Package Type : 	 TFBGA
+- Pin count : 	 176,00
+- Package Layout : 	 [C04-00515A.pdf](./mchp/packages/c04-00515a.pdf)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00515A.stl) : 	 [C04-00515A.stl](./Model3d/stl/C04-00515A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00515A.obj) : 	 [C04-00515A.obj](./Model3d/obj/C04-00515A.obj)
+- Package 3d model x3d : 	 [C04-00515A.x3d](./Model3d/x3d/C04-00515A.x3d)
+- Package 3d model scad : 	 [C04-00515A.scad](./Model3d/scad/C04-00515A.scad)
+- Package 3d model usd : 	 [C04-00515A.usd](./Model3d/usd/C04-00515A.usd)
+- Package 3d model glb : 	 [C04-00515A.glb](./Model3d/glb/C04-00515A.glb)
+
+please check that some data is inconsistent 	 
+
 Pin count : 176
 - A2 : PD10,  of Type IO, alternates : [PORT P_106, EIC EXTINT_10, ETH RXD_1, TCC2:1 WO_0]
 - A3 : PD09,  of Type IO, alternates : [PORT P_105, MLB MLBD_, CAN1:2 TX_, EIC EXTINT_9, ETH CRS_]
@@ -13121,6 +14107,20 @@ Pin count : 176
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00515A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 5MX
+- Package Type : 	 TFBGA
+- Pin count : 	 176,00
+- Package Layout : 	 [C04-00515A.pdf](./mchp/packages/c04-00515a.pdf)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00515A.stl) : 	 [C04-00515A.stl](./Model3d/stl/C04-00515A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00515A.obj) : 	 [C04-00515A.obj](./Model3d/obj/C04-00515A.obj)
+- Package 3d model x3d : 	 [C04-00515A.x3d](./Model3d/x3d/C04-00515A.x3d)
+- Package 3d model scad : 	 [C04-00515A.scad](./Model3d/scad/C04-00515A.scad)
+- Package 3d model usd : 	 [C04-00515A.usd](./Model3d/usd/C04-00515A.usd)
+- Package 3d model glb : 	 [C04-00515A.glb](./Model3d/glb/C04-00515A.glb)
+
+please check that some data is inconsistent 	 
+
 Pin count : 176
 - A1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
 - A2 : PA02,  of Type IO, alternates : [TCC2:1 WO_5, ETH TXEN_, PORT P_2, EIC EXTINT_2, DSU PMSA_7]
@@ -13318,6 +14318,20 @@ Pin count : 176
 - Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
+
+- Package Outline Drawings : 	 [C04-00515A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 5MX
+- Package Type : 	 TFBGA
+- Pin count : 	 176,00
+- Package Layout : 	 [C04-00515A.pdf](./mchp/packages/c04-00515a.pdf)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00515A.stl) : 	 [C04-00515A.stl](./Model3d/stl/C04-00515A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00515A.obj) : 	 [C04-00515A.obj](./Model3d/obj/C04-00515A.obj)
+- Package 3d model x3d : 	 [C04-00515A.x3d](./Model3d/x3d/C04-00515A.x3d)
+- Package 3d model scad : 	 [C04-00515A.scad](./Model3d/scad/C04-00515A.scad)
+- Package 3d model usd : 	 [C04-00515A.usd](./Model3d/usd/C04-00515A.usd)
+- Package 3d model glb : 	 [C04-00515A.glb](./Model3d/glb/C04-00515A.glb)
+
+please check that some data is inconsistent 	 
 
 Pin count : 176
 - 1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
@@ -13523,8 +14537,12 @@ Pin count : 176
 - Pin count : 	 100,00
 - Package Layout : 	 [C04-00509A.pdf](./mchp/packages/c04-00509a.pdf)
 - Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00509A.wrl) : 	 [C04-00509A.wrl](./Model3d/wrl/C04-00509A.wrl)
-- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00509A.x3d) : 	 [C04-00509A.x3d](./Model3d/x3d/C04-00509A.x3d)
-- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00509A.scad) : 	 [C04-00509A.scad](./Model3d/scad/C04-00509A.scad)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00509A.stl) : 	 [C04-00509A.stl](./Model3d/stl/C04-00509A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00509A.obj) : 	 [C04-00509A.obj](./Model3d/obj/C04-00509A.obj)
+- Package 3d model x3d : 	 [C04-00509A.x3d](./Model3d/x3d/C04-00509A.x3d)
+- Package 3d model scad : 	 [C04-00509A.scad](./Model3d/scad/C04-00509A.scad)
+- Package 3d model usd : 	 [C04-00509A.usd](./Model3d/usd/C04-00509A.usd)
+- Package 3d model glb : 	 [C04-00509A.glb](./Model3d/glb/C04-00509A.glb)
 Pin count : 100
 - 1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
 - 2 : PA01,  of Type IO, alternates : [ETH TXD_0, EIC EXTINT_1, PORT P_1]
@@ -13646,6 +14664,21 @@ Pin count : 100
 - Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
+
+- Package Outline Drawings : 	 [C04-00509A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 7YX
+- Package Type : 	 TQFP
+- Pin count : 	 100,00
+- Package Layout : 	 [C04-00509A.pdf](./mchp/packages/c04-00509a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00509A.wrl) : 	 [C04-00509A.wrl](./Model3d/wrl/C04-00509A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00509A.stl) : 	 [C04-00509A.stl](./Model3d/stl/C04-00509A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00509A.obj) : 	 [C04-00509A.obj](./Model3d/obj/C04-00509A.obj)
+- Package 3d model x3d : 	 [C04-00509A.x3d](./Model3d/x3d/C04-00509A.x3d)
+- Package 3d model scad : 	 [C04-00509A.scad](./Model3d/scad/C04-00509A.scad)
+- Package 3d model usd : 	 [C04-00509A.usd](./Model3d/usd/C04-00509A.usd)
+- Package 3d model glb : 	 [C04-00509A.glb](./Model3d/glb/C04-00509A.glb)
+
+please check that some data is inconsistent 	 
 
 Pin count : 100
 - 1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
@@ -13775,8 +14808,12 @@ Pin count : 100
 - Pin count : 	 100,00
 - Package Layout : 	 [C04-00509A.pdf](./mchp/packages/c04-00509a.pdf)
 - Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00509A.wrl) : 	 [C04-00509A.wrl](./Model3d/wrl/C04-00509A.wrl)
-- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00509A.x3d) : 	 [C04-00509A.x3d](./Model3d/x3d/C04-00509A.x3d)
-- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00509A.scad) : 	 [C04-00509A.scad](./Model3d/scad/C04-00509A.scad)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00509A.stl) : 	 [C04-00509A.stl](./Model3d/stl/C04-00509A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00509A.obj) : 	 [C04-00509A.obj](./Model3d/obj/C04-00509A.obj)
+- Package 3d model x3d : 	 [C04-00509A.x3d](./Model3d/x3d/C04-00509A.x3d)
+- Package 3d model scad : 	 [C04-00509A.scad](./Model3d/scad/C04-00509A.scad)
+- Package 3d model usd : 	 [C04-00509A.usd](./Model3d/usd/C04-00509A.usd)
+- Package 3d model glb : 	 [C04-00509A.glb](./Model3d/glb/C04-00509A.glb)
 Pin count : 100
 - 1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
 - 2 : PA01,  of Type IO, alternates : [ETH TXD_0, EIC EXTINT_1, PORT P_1]
@@ -13898,6 +14935,21 @@ Pin count : 100
 - Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
+
+- Package Outline Drawings : 	 [C04-00509A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 7YX
+- Package Type : 	 TQFP
+- Pin count : 	 100,00
+- Package Layout : 	 [C04-00509A.pdf](./mchp/packages/c04-00509a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00509A.wrl) : 	 [C04-00509A.wrl](./Model3d/wrl/C04-00509A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00509A.stl) : 	 [C04-00509A.stl](./Model3d/stl/C04-00509A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00509A.obj) : 	 [C04-00509A.obj](./Model3d/obj/C04-00509A.obj)
+- Package 3d model x3d : 	 [C04-00509A.x3d](./Model3d/x3d/C04-00509A.x3d)
+- Package 3d model scad : 	 [C04-00509A.scad](./Model3d/scad/C04-00509A.scad)
+- Package 3d model usd : 	 [C04-00509A.usd](./Model3d/usd/C04-00509A.usd)
+- Package 3d model glb : 	 [C04-00509A.glb](./Model3d/glb/C04-00509A.glb)
+
+please check that some data is inconsistent 	 
 
 Pin count : 100
 - 1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
@@ -14027,8 +15079,12 @@ Pin count : 100
 - Pin count : 	 100,00
 - Package Layout : 	 [C04-00509A.pdf](./mchp/packages/c04-00509a.pdf)
 - Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00509A.wrl) : 	 [C04-00509A.wrl](./Model3d/wrl/C04-00509A.wrl)
-- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00509A.x3d) : 	 [C04-00509A.x3d](./Model3d/x3d/C04-00509A.x3d)
-- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00509A.scad) : 	 [C04-00509A.scad](./Model3d/scad/C04-00509A.scad)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00509A.stl) : 	 [C04-00509A.stl](./Model3d/stl/C04-00509A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00509A.obj) : 	 [C04-00509A.obj](./Model3d/obj/C04-00509A.obj)
+- Package 3d model x3d : 	 [C04-00509A.x3d](./Model3d/x3d/C04-00509A.x3d)
+- Package 3d model scad : 	 [C04-00509A.scad](./Model3d/scad/C04-00509A.scad)
+- Package 3d model usd : 	 [C04-00509A.usd](./Model3d/usd/C04-00509A.usd)
+- Package 3d model glb : 	 [C04-00509A.glb](./Model3d/glb/C04-00509A.glb)
 Pin count : 100
 - 1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
 - 2 : PA01,  of Type IO, alternates : [ETH TXD_0, EIC EXTINT_1, PORT P_1]
@@ -14150,6 +15206,21 @@ Pin count : 100
 - Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
+
+- Package Outline Drawings : 	 [C04-00509A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 7YX
+- Package Type : 	 TQFP
+- Pin count : 	 100,00
+- Package Layout : 	 [C04-00509A.pdf](./mchp/packages/c04-00509a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00509A.wrl) : 	 [C04-00509A.wrl](./Model3d/wrl/C04-00509A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00509A.stl) : 	 [C04-00509A.stl](./Model3d/stl/C04-00509A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00509A.obj) : 	 [C04-00509A.obj](./Model3d/obj/C04-00509A.obj)
+- Package 3d model x3d : 	 [C04-00509A.x3d](./Model3d/x3d/C04-00509A.x3d)
+- Package 3d model scad : 	 [C04-00509A.scad](./Model3d/scad/C04-00509A.scad)
+- Package 3d model usd : 	 [C04-00509A.usd](./Model3d/usd/C04-00509A.usd)
+- Package 3d model glb : 	 [C04-00509A.glb](./Model3d/glb/C04-00509A.glb)
+
+please check that some data is inconsistent 	 
 
 Pin count : 100
 - 1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
@@ -14279,8 +15350,12 @@ Pin count : 100
 - Pin count : 	 144,00
 - Package Layout : 	 [C04-00510A.pdf](./mchp/packages/c04-00510a.pdf)
 - Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00510A.wrl) : 	 [C04-00510A.wrl](./Model3d/wrl/C04-00510A.wrl)
-- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00510A.x3d) : 	 [C04-00510A.x3d](./Model3d/x3d/C04-00510A.x3d)
-- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00510A.scad) : 	 [C04-00510A.scad](./Model3d/scad/C04-00510A.scad)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00510A.stl) : 	 [C04-00510A.stl](./Model3d/stl/C04-00510A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00510A.obj) : 	 [C04-00510A.obj](./Model3d/obj/C04-00510A.obj)
+- Package 3d model x3d : 	 [C04-00510A.x3d](./Model3d/x3d/C04-00510A.x3d)
+- Package 3d model scad : 	 [C04-00510A.scad](./Model3d/scad/C04-00510A.scad)
+- Package 3d model usd : 	 [C04-00510A.usd](./Model3d/usd/C04-00510A.usd)
+- Package 3d model glb : 	 [C04-00510A.glb](./Model3d/glb/C04-00510A.glb)
 Pin count : 144
 - 1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
 - 2 : PA01,  of Type IO, alternates : [ETH TXD_0, EIC EXTINT_1, PORT P_1]
@@ -14446,6 +15521,21 @@ Pin count : 144
 - Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
+
+- Package Outline Drawings : 	 [C04-00510A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 8YX
+- Package Type : 	 TQFP
+- Pin count : 	 144,00
+- Package Layout : 	 [C04-00510A.pdf](./mchp/packages/c04-00510a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00510A.wrl) : 	 [C04-00510A.wrl](./Model3d/wrl/C04-00510A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00510A.stl) : 	 [C04-00510A.stl](./Model3d/stl/C04-00510A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00510A.obj) : 	 [C04-00510A.obj](./Model3d/obj/C04-00510A.obj)
+- Package 3d model x3d : 	 [C04-00510A.x3d](./Model3d/x3d/C04-00510A.x3d)
+- Package 3d model scad : 	 [C04-00510A.scad](./Model3d/scad/C04-00510A.scad)
+- Package 3d model usd : 	 [C04-00510A.usd](./Model3d/usd/C04-00510A.usd)
+- Package 3d model glb : 	 [C04-00510A.glb](./Model3d/glb/C04-00510A.glb)
+
+please check that some data is inconsistent 	 
 
 Pin count : 144
 - A1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
@@ -14619,8 +15709,12 @@ Pin count : 144
 - Pin count : 	 144,00
 - Package Layout : 	 [C04-00511A.pdf](./mchp/packages/c04-00511a.pdf)
 - Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00511A.wrl) : 	 [C04-00511A.wrl](./Model3d/wrl/C04-00511A.wrl)
-- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00511A.x3d) : 	 [C04-00511A.x3d](./Model3d/x3d/C04-00511A.x3d)
-- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00511A.scad) : 	 [C04-00511A.scad](./Model3d/scad/C04-00511A.scad)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00511A.stl) : 	 [C04-00511A.stl](./Model3d/stl/C04-00511A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00511A.obj) : 	 [C04-00511A.obj](./Model3d/obj/C04-00511A.obj)
+- Package 3d model x3d : 	 [C04-00511A.x3d](./Model3d/x3d/C04-00511A.x3d)
+- Package 3d model scad : 	 [C04-00511A.scad](./Model3d/scad/C04-00511A.scad)
+- Package 3d model usd : 	 [C04-00511A.usd](./Model3d/usd/C04-00511A.usd)
+- Package 3d model glb : 	 [C04-00511A.glb](./Model3d/glb/C04-00511A.glb)
 Pin count : 144
 - A2 : PD11,  of Type IO, alternates : [PORT P_107, ETH RXD_0, SERCOM2:2 PAD_0, EIC EXTINT_11, TCC2:1 WO_1]
 - A3 : PD10,  of Type IO, alternates : [PORT P_106, EIC EXTINT_10, ETH RXD_1, TCC2:1 WO_0]
@@ -14793,8 +15887,12 @@ Pin count : 144
 - Pin count : 	 144,00
 - Package Layout : 	 [C04-00510A.pdf](./mchp/packages/c04-00510a.pdf)
 - Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00510A.wrl) : 	 [C04-00510A.wrl](./Model3d/wrl/C04-00510A.wrl)
-- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00510A.x3d) : 	 [C04-00510A.x3d](./Model3d/x3d/C04-00510A.x3d)
-- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00510A.scad) : 	 [C04-00510A.scad](./Model3d/scad/C04-00510A.scad)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00510A.stl) : 	 [C04-00510A.stl](./Model3d/stl/C04-00510A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00510A.obj) : 	 [C04-00510A.obj](./Model3d/obj/C04-00510A.obj)
+- Package 3d model x3d : 	 [C04-00510A.x3d](./Model3d/x3d/C04-00510A.x3d)
+- Package 3d model scad : 	 [C04-00510A.scad](./Model3d/scad/C04-00510A.scad)
+- Package 3d model usd : 	 [C04-00510A.usd](./Model3d/usd/C04-00510A.usd)
+- Package 3d model glb : 	 [C04-00510A.glb](./Model3d/glb/C04-00510A.glb)
 Pin count : 144
 - 1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
 - 2 : PA01,  of Type IO, alternates : [ETH TXD_0, EIC EXTINT_1, PORT P_1]
@@ -14960,6 +16058,21 @@ Pin count : 144
 - Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
+
+- Package Outline Drawings : 	 [C04-00510A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 8YX
+- Package Type : 	 TQFP
+- Pin count : 	 144,00
+- Package Layout : 	 [C04-00510A.pdf](./mchp/packages/c04-00510a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00510A.wrl) : 	 [C04-00510A.wrl](./Model3d/wrl/C04-00510A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00510A.stl) : 	 [C04-00510A.stl](./Model3d/stl/C04-00510A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00510A.obj) : 	 [C04-00510A.obj](./Model3d/obj/C04-00510A.obj)
+- Package 3d model x3d : 	 [C04-00510A.x3d](./Model3d/x3d/C04-00510A.x3d)
+- Package 3d model scad : 	 [C04-00510A.scad](./Model3d/scad/C04-00510A.scad)
+- Package 3d model usd : 	 [C04-00510A.usd](./Model3d/usd/C04-00510A.usd)
+- Package 3d model glb : 	 [C04-00510A.glb](./Model3d/glb/C04-00510A.glb)
+
+please check that some data is inconsistent 	 
 
 Pin count : 144
 - A1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
@@ -15133,8 +16246,12 @@ Pin count : 144
 - Pin count : 	 144,00
 - Package Layout : 	 [C04-00511A.pdf](./mchp/packages/c04-00511a.pdf)
 - Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00511A.wrl) : 	 [C04-00511A.wrl](./Model3d/wrl/C04-00511A.wrl)
-- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00511A.x3d) : 	 [C04-00511A.x3d](./Model3d/x3d/C04-00511A.x3d)
-- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00511A.scad) : 	 [C04-00511A.scad](./Model3d/scad/C04-00511A.scad)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00511A.stl) : 	 [C04-00511A.stl](./Model3d/stl/C04-00511A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00511A.obj) : 	 [C04-00511A.obj](./Model3d/obj/C04-00511A.obj)
+- Package 3d model x3d : 	 [C04-00511A.x3d](./Model3d/x3d/C04-00511A.x3d)
+- Package 3d model scad : 	 [C04-00511A.scad](./Model3d/scad/C04-00511A.scad)
+- Package 3d model usd : 	 [C04-00511A.usd](./Model3d/usd/C04-00511A.usd)
+- Package 3d model glb : 	 [C04-00511A.glb](./Model3d/glb/C04-00511A.glb)
 Pin count : 144
 - A2 : PD11,  of Type IO, alternates : [PORT P_107, ETH RXD_0, SERCOM2:2 PAD_0, EIC EXTINT_11, TCC2:1 WO_1]
 - A3 : PD10,  of Type IO, alternates : [PORT P_106, EIC EXTINT_10, ETH RXD_1, TCC2:1 WO_0]
@@ -15307,8 +16424,12 @@ Pin count : 144
 - Pin count : 	 144,00
 - Package Layout : 	 [C04-00510A.pdf](./mchp/packages/c04-00510a.pdf)
 - Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00510A.wrl) : 	 [C04-00510A.wrl](./Model3d/wrl/C04-00510A.wrl)
-- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00510A.x3d) : 	 [C04-00510A.x3d](./Model3d/x3d/C04-00510A.x3d)
-- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00510A.scad) : 	 [C04-00510A.scad](./Model3d/scad/C04-00510A.scad)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00510A.stl) : 	 [C04-00510A.stl](./Model3d/stl/C04-00510A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00510A.obj) : 	 [C04-00510A.obj](./Model3d/obj/C04-00510A.obj)
+- Package 3d model x3d : 	 [C04-00510A.x3d](./Model3d/x3d/C04-00510A.x3d)
+- Package 3d model scad : 	 [C04-00510A.scad](./Model3d/scad/C04-00510A.scad)
+- Package 3d model usd : 	 [C04-00510A.usd](./Model3d/usd/C04-00510A.usd)
+- Package 3d model glb : 	 [C04-00510A.glb](./Model3d/glb/C04-00510A.glb)
 Pin count : 144
 - 1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
 - 2 : PA01,  of Type IO, alternates : [ETH TXD_0, EIC EXTINT_1, PORT P_1]
@@ -15474,6 +16595,21 @@ Pin count : 144
 - Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
+
+- Package Outline Drawings : 	 [C04-00510A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 8YX
+- Package Type : 	 TQFP
+- Pin count : 	 144,00
+- Package Layout : 	 [C04-00510A.pdf](./mchp/packages/c04-00510a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00510A.wrl) : 	 [C04-00510A.wrl](./Model3d/wrl/C04-00510A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00510A.stl) : 	 [C04-00510A.stl](./Model3d/stl/C04-00510A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00510A.obj) : 	 [C04-00510A.obj](./Model3d/obj/C04-00510A.obj)
+- Package 3d model x3d : 	 [C04-00510A.x3d](./Model3d/x3d/C04-00510A.x3d)
+- Package 3d model scad : 	 [C04-00510A.scad](./Model3d/scad/C04-00510A.scad)
+- Package 3d model usd : 	 [C04-00510A.usd](./Model3d/usd/C04-00510A.usd)
+- Package 3d model glb : 	 [C04-00510A.glb](./Model3d/glb/C04-00510A.glb)
+
+please check that some data is inconsistent 	 
 
 Pin count : 144
 - A1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
@@ -15647,8 +16783,12 @@ Pin count : 144
 - Pin count : 	 144,00
 - Package Layout : 	 [C04-00511A.pdf](./mchp/packages/c04-00511a.pdf)
 - Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00511A.wrl) : 	 [C04-00511A.wrl](./Model3d/wrl/C04-00511A.wrl)
-- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00511A.x3d) : 	 [C04-00511A.x3d](./Model3d/x3d/C04-00511A.x3d)
-- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00511A.scad) : 	 [C04-00511A.scad](./Model3d/scad/C04-00511A.scad)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00511A.stl) : 	 [C04-00511A.stl](./Model3d/stl/C04-00511A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00511A.obj) : 	 [C04-00511A.obj](./Model3d/obj/C04-00511A.obj)
+- Package 3d model x3d : 	 [C04-00511A.x3d](./Model3d/x3d/C04-00511A.x3d)
+- Package 3d model scad : 	 [C04-00511A.scad](./Model3d/scad/C04-00511A.scad)
+- Package 3d model usd : 	 [C04-00511A.usd](./Model3d/usd/C04-00511A.usd)
+- Package 3d model glb : 	 [C04-00511A.glb](./Model3d/glb/C04-00511A.glb)
 Pin count : 144
 - A2 : PD11,  of Type IO, alternates : [PORT P_107, ETH RXD_0, SERCOM2:2 PAD_0, EIC EXTINT_11, TCC2:1 WO_1]
 - A3 : PD10,  of Type IO, alternates : [PORT P_106, EIC EXTINT_10, ETH RXD_1, TCC2:1 WO_0]
@@ -15820,8 +16960,12 @@ Pin count : 144
 - Package Type : 	 TFBGA
 - Pin count : 	 176,00
 - Package Layout : 	 [C04-00515A.pdf](./mchp/packages/c04-00515a.pdf)
-- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00515A.x3d) : 	 [C04-00515A.x3d](./Model3d/x3d/C04-00515A.x3d)
-- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00515A.scad) : 	 [C04-00515A.scad](./Model3d/scad/C04-00515A.scad)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00515A.stl) : 	 [C04-00515A.stl](./Model3d/stl/C04-00515A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00515A.obj) : 	 [C04-00515A.obj](./Model3d/obj/C04-00515A.obj)
+- Package 3d model x3d : 	 [C04-00515A.x3d](./Model3d/x3d/C04-00515A.x3d)
+- Package 3d model scad : 	 [C04-00515A.scad](./Model3d/scad/C04-00515A.scad)
+- Package 3d model usd : 	 [C04-00515A.usd](./Model3d/usd/C04-00515A.usd)
+- Package 3d model glb : 	 [C04-00515A.glb](./Model3d/glb/C04-00515A.glb)
 Pin count : 176
 - A2 : PD10,  of Type IO, alternates : [PORT P_106, EIC EXTINT_10, ETH RXD_1, TCC2:1 WO_0]
 - A3 : PD09,  of Type IO, alternates : [PORT P_105, MLB MLBD_, CAN1:2 TX_, EIC EXTINT_9, ETH CRS_]
@@ -16020,6 +17164,20 @@ Pin count : 176
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00515A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 5MX
+- Package Type : 	 TFBGA
+- Pin count : 	 176,00
+- Package Layout : 	 [C04-00515A.pdf](./mchp/packages/c04-00515a.pdf)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00515A.stl) : 	 [C04-00515A.stl](./Model3d/stl/C04-00515A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00515A.obj) : 	 [C04-00515A.obj](./Model3d/obj/C04-00515A.obj)
+- Package 3d model x3d : 	 [C04-00515A.x3d](./Model3d/x3d/C04-00515A.x3d)
+- Package 3d model scad : 	 [C04-00515A.scad](./Model3d/scad/C04-00515A.scad)
+- Package 3d model usd : 	 [C04-00515A.usd](./Model3d/usd/C04-00515A.usd)
+- Package 3d model glb : 	 [C04-00515A.glb](./Model3d/glb/C04-00515A.glb)
+
+please check that some data is inconsistent 	 
+
 Pin count : 176
 - A1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
 - A2 : PA02,  of Type IO, alternates : [TCC2:1 WO_5, ETH TXEN_, PORT P_2, EIC EXTINT_2, DSU PMSA_7]
@@ -16217,6 +17375,20 @@ Pin count : 176
 - Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
+
+- Package Outline Drawings : 	 [C04-00515A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 5MX
+- Package Type : 	 TFBGA
+- Pin count : 	 176,00
+- Package Layout : 	 [C04-00515A.pdf](./mchp/packages/c04-00515a.pdf)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00515A.stl) : 	 [C04-00515A.stl](./Model3d/stl/C04-00515A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00515A.obj) : 	 [C04-00515A.obj](./Model3d/obj/C04-00515A.obj)
+- Package 3d model x3d : 	 [C04-00515A.x3d](./Model3d/x3d/C04-00515A.x3d)
+- Package 3d model scad : 	 [C04-00515A.scad](./Model3d/scad/C04-00515A.scad)
+- Package 3d model usd : 	 [C04-00515A.usd](./Model3d/usd/C04-00515A.usd)
+- Package 3d model glb : 	 [C04-00515A.glb](./Model3d/glb/C04-00515A.glb)
+
+please check that some data is inconsistent 	 
 
 Pin count : 176
 - 1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
@@ -16421,8 +17593,12 @@ Pin count : 176
 - Package Type : 	 TFBGA
 - Pin count : 	 176,00
 - Package Layout : 	 [C04-00515A.pdf](./mchp/packages/c04-00515a.pdf)
-- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00515A.x3d) : 	 [C04-00515A.x3d](./Model3d/x3d/C04-00515A.x3d)
-- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00515A.scad) : 	 [C04-00515A.scad](./Model3d/scad/C04-00515A.scad)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00515A.stl) : 	 [C04-00515A.stl](./Model3d/stl/C04-00515A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00515A.obj) : 	 [C04-00515A.obj](./Model3d/obj/C04-00515A.obj)
+- Package 3d model x3d : 	 [C04-00515A.x3d](./Model3d/x3d/C04-00515A.x3d)
+- Package 3d model scad : 	 [C04-00515A.scad](./Model3d/scad/C04-00515A.scad)
+- Package 3d model usd : 	 [C04-00515A.usd](./Model3d/usd/C04-00515A.usd)
+- Package 3d model glb : 	 [C04-00515A.glb](./Model3d/glb/C04-00515A.glb)
 Pin count : 176
 - A2 : PD10,  of Type IO, alternates : [PORT P_106, EIC EXTINT_10, ETH RXD_1, TCC2:1 WO_0]
 - A3 : PD09,  of Type IO, alternates : [PORT P_105, MLB MLBD_, CAN1:2 TX_, EIC EXTINT_9, ETH CRS_]
@@ -16621,6 +17797,20 @@ Pin count : 176
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00515A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 5MX
+- Package Type : 	 TFBGA
+- Pin count : 	 176,00
+- Package Layout : 	 [C04-00515A.pdf](./mchp/packages/c04-00515a.pdf)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00515A.stl) : 	 [C04-00515A.stl](./Model3d/stl/C04-00515A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00515A.obj) : 	 [C04-00515A.obj](./Model3d/obj/C04-00515A.obj)
+- Package 3d model x3d : 	 [C04-00515A.x3d](./Model3d/x3d/C04-00515A.x3d)
+- Package 3d model scad : 	 [C04-00515A.scad](./Model3d/scad/C04-00515A.scad)
+- Package 3d model usd : 	 [C04-00515A.usd](./Model3d/usd/C04-00515A.usd)
+- Package 3d model glb : 	 [C04-00515A.glb](./Model3d/glb/C04-00515A.glb)
+
+please check that some data is inconsistent 	 
+
 Pin count : 176
 - A1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
 - A2 : PA02,  of Type IO, alternates : [TCC2:1 WO_5, ETH TXEN_, PORT P_2, EIC EXTINT_2, DSU PMSA_7]
@@ -16818,6 +18008,20 @@ Pin count : 176
 - Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
+
+- Package Outline Drawings : 	 [C04-00515A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 5MX
+- Package Type : 	 TFBGA
+- Pin count : 	 176,00
+- Package Layout : 	 [C04-00515A.pdf](./mchp/packages/c04-00515a.pdf)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00515A.stl) : 	 [C04-00515A.stl](./Model3d/stl/C04-00515A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00515A.obj) : 	 [C04-00515A.obj](./Model3d/obj/C04-00515A.obj)
+- Package 3d model x3d : 	 [C04-00515A.x3d](./Model3d/x3d/C04-00515A.x3d)
+- Package 3d model scad : 	 [C04-00515A.scad](./Model3d/scad/C04-00515A.scad)
+- Package 3d model usd : 	 [C04-00515A.usd](./Model3d/usd/C04-00515A.usd)
+- Package 3d model glb : 	 [C04-00515A.glb](./Model3d/glb/C04-00515A.glb)
+
+please check that some data is inconsistent 	 
 
 Pin count : 176
 - 1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
@@ -17022,8 +18226,12 @@ Pin count : 176
 - Package Type : 	 TFBGA
 - Pin count : 	 176,00
 - Package Layout : 	 [C04-00515A.pdf](./mchp/packages/c04-00515a.pdf)
-- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00515A.x3d) : 	 [C04-00515A.x3d](./Model3d/x3d/C04-00515A.x3d)
-- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00515A.scad) : 	 [C04-00515A.scad](./Model3d/scad/C04-00515A.scad)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00515A.stl) : 	 [C04-00515A.stl](./Model3d/stl/C04-00515A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00515A.obj) : 	 [C04-00515A.obj](./Model3d/obj/C04-00515A.obj)
+- Package 3d model x3d : 	 [C04-00515A.x3d](./Model3d/x3d/C04-00515A.x3d)
+- Package 3d model scad : 	 [C04-00515A.scad](./Model3d/scad/C04-00515A.scad)
+- Package 3d model usd : 	 [C04-00515A.usd](./Model3d/usd/C04-00515A.usd)
+- Package 3d model glb : 	 [C04-00515A.glb](./Model3d/glb/C04-00515A.glb)
 Pin count : 176
 - A2 : PD10,  of Type IO, alternates : [PORT P_106, EIC EXTINT_10, ETH RXD_1, TCC2:1 WO_0]
 - A3 : PD09,  of Type IO, alternates : [PORT P_105, MLB MLBD_, CAN1:2 TX_, EIC EXTINT_9, ETH CRS_]
@@ -17221,6 +18429,20 @@ Pin count : 176
 - Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
+
+- Package Outline Drawings : 	 [C04-00515A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 5MX
+- Package Type : 	 TFBGA
+- Pin count : 	 176,00
+- Package Layout : 	 [C04-00515A.pdf](./mchp/packages/c04-00515a.pdf)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00515A.stl) : 	 [C04-00515A.stl](./Model3d/stl/C04-00515A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00515A.obj) : 	 [C04-00515A.obj](./Model3d/obj/C04-00515A.obj)
+- Package 3d model x3d : 	 [C04-00515A.x3d](./Model3d/x3d/C04-00515A.x3d)
+- Package 3d model scad : 	 [C04-00515A.scad](./Model3d/scad/C04-00515A.scad)
+- Package 3d model usd : 	 [C04-00515A.usd](./Model3d/usd/C04-00515A.usd)
+- Package 3d model glb : 	 [C04-00515A.glb](./Model3d/glb/C04-00515A.glb)
+
+please check that some data is inconsistent 	 
 
 Pin count : 176
 - A1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
@@ -17420,6 +18642,20 @@ Pin count : 176
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00515A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 5MX
+- Package Type : 	 TFBGA
+- Pin count : 	 176,00
+- Package Layout : 	 [C04-00515A.pdf](./mchp/packages/c04-00515a.pdf)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00515A.stl) : 	 [C04-00515A.stl](./Model3d/stl/C04-00515A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00515A.obj) : 	 [C04-00515A.obj](./Model3d/obj/C04-00515A.obj)
+- Package 3d model x3d : 	 [C04-00515A.x3d](./Model3d/x3d/C04-00515A.x3d)
+- Package 3d model scad : 	 [C04-00515A.scad](./Model3d/scad/C04-00515A.scad)
+- Package 3d model usd : 	 [C04-00515A.usd](./Model3d/usd/C04-00515A.usd)
+- Package 3d model glb : 	 [C04-00515A.glb](./Model3d/glb/C04-00515A.glb)
+
+please check that some data is inconsistent 	 
+
 Pin count : 176
 - 1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
 - 2 : PA01,  of Type IO, alternates : [ETH TXD_0, EIC EXTINT_1, PORT P_1]
@@ -17617,6 +18853,21 @@ Pin count : 176
 - Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
+
+- Package Outline Drawings : 	 [C04-00516A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 8MX
+- Package Type : 	 TFBGA
+- Pin count : 	 208,00
+- Package Layout : 	 [C04-00516A.pdf](./mchp/packages/c04-00516a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00516A.wrl) : 	 [C04-00516A.wrl](./Model3d/wrl/C04-00516A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00516A.stl) : 	 [C04-00516A.stl](./Model3d/stl/C04-00516A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00516A.obj) : 	 [C04-00516A.obj](./Model3d/obj/C04-00516A.obj)
+- Package 3d model x3d : 	 [C04-00516A.x3d](./Model3d/x3d/C04-00516A.x3d)
+- Package 3d model scad : 	 [C04-00516A.scad](./Model3d/scad/C04-00516A.scad)
+- Package 3d model usd : 	 [C04-00516A.usd](./Model3d/usd/C04-00516A.usd)
+- Package 3d model glb : 	 [C04-00516A.glb](./Model3d/glb/C04-00516A.glb)
+
+please check that some data is inconsistent 	 
 
 Pin count : 208
 - 1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
@@ -17848,6 +19099,21 @@ Pin count : 208
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00516A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 8MX
+- Package Type : 	 TFBGA
+- Pin count : 	 208,00
+- Package Layout : 	 [C04-00516A.pdf](./mchp/packages/c04-00516a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00516A.wrl) : 	 [C04-00516A.wrl](./Model3d/wrl/C04-00516A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00516A.stl) : 	 [C04-00516A.stl](./Model3d/stl/C04-00516A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00516A.obj) : 	 [C04-00516A.obj](./Model3d/obj/C04-00516A.obj)
+- Package 3d model x3d : 	 [C04-00516A.x3d](./Model3d/x3d/C04-00516A.x3d)
+- Package 3d model scad : 	 [C04-00516A.scad](./Model3d/scad/C04-00516A.scad)
+- Package 3d model usd : 	 [C04-00516A.usd](./Model3d/usd/C04-00516A.usd)
+- Package 3d model glb : 	 [C04-00516A.glb](./Model3d/glb/C04-00516A.glb)
+
+please check that some data is inconsistent 	 
+
 Pin count : 208
 - 1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
 - 2 : PA01,  of Type IO, alternates : [ETH TXD_0, EIC EXTINT_1, PORT P_1]
@@ -18077,6 +19343,21 @@ Pin count : 208
 - Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
+
+- Package Outline Drawings : 	 [C04-00516A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 8MX
+- Package Type : 	 TFBGA
+- Pin count : 	 208,00
+- Package Layout : 	 [C04-00516A.pdf](./mchp/packages/c04-00516a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00516A.wrl) : 	 [C04-00516A.wrl](./Model3d/wrl/C04-00516A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00516A.stl) : 	 [C04-00516A.stl](./Model3d/stl/C04-00516A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00516A.obj) : 	 [C04-00516A.obj](./Model3d/obj/C04-00516A.obj)
+- Package 3d model x3d : 	 [C04-00516A.x3d](./Model3d/x3d/C04-00516A.x3d)
+- Package 3d model scad : 	 [C04-00516A.scad](./Model3d/scad/C04-00516A.scad)
+- Package 3d model usd : 	 [C04-00516A.usd](./Model3d/usd/C04-00516A.usd)
+- Package 3d model glb : 	 [C04-00516A.glb](./Model3d/glb/C04-00516A.glb)
+
+please check that some data is inconsistent 	 
 
 Pin count : 208
 - 1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
@@ -18308,6 +19589,21 @@ Pin count : 208
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00509A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 7YX
+- Package Type : 	 TQFP
+- Pin count : 	 100,00
+- Package Layout : 	 [C04-00509A.pdf](./mchp/packages/c04-00509a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00509A.wrl) : 	 [C04-00509A.wrl](./Model3d/wrl/C04-00509A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00509A.stl) : 	 [C04-00509A.stl](./Model3d/stl/C04-00509A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00509A.obj) : 	 [C04-00509A.obj](./Model3d/obj/C04-00509A.obj)
+- Package 3d model x3d : 	 [C04-00509A.x3d](./Model3d/x3d/C04-00509A.x3d)
+- Package 3d model scad : 	 [C04-00509A.scad](./Model3d/scad/C04-00509A.scad)
+- Package 3d model usd : 	 [C04-00509A.usd](./Model3d/usd/C04-00509A.usd)
+- Package 3d model glb : 	 [C04-00509A.glb](./Model3d/glb/C04-00509A.glb)
+
+please check that some data is inconsistent 	 
+
 Pin count : 100
 - 1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
 - 2 : PA01,  of Type IO, alternates : [ETH TXD_0, EIC EXTINT_1, PORT P_1]
@@ -18429,6 +19725,21 @@ Pin count : 100
 - Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
+
+- Package Outline Drawings : 	 [C04-00509A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 7YX
+- Package Type : 	 TQFP
+- Pin count : 	 100,00
+- Package Layout : 	 [C04-00509A.pdf](./mchp/packages/c04-00509a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00509A.wrl) : 	 [C04-00509A.wrl](./Model3d/wrl/C04-00509A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00509A.stl) : 	 [C04-00509A.stl](./Model3d/stl/C04-00509A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00509A.obj) : 	 [C04-00509A.obj](./Model3d/obj/C04-00509A.obj)
+- Package 3d model x3d : 	 [C04-00509A.x3d](./Model3d/x3d/C04-00509A.x3d)
+- Package 3d model scad : 	 [C04-00509A.scad](./Model3d/scad/C04-00509A.scad)
+- Package 3d model usd : 	 [C04-00509A.usd](./Model3d/usd/C04-00509A.usd)
+- Package 3d model glb : 	 [C04-00509A.glb](./Model3d/glb/C04-00509A.glb)
+
+please check that some data is inconsistent 	 
 
 Pin count : 100
 - 1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
@@ -18558,8 +19869,12 @@ Pin count : 100
 - Pin count : 	 100,00
 - Package Layout : 	 [C04-00509A.pdf](./mchp/packages/c04-00509a.pdf)
 - Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00509A.wrl) : 	 [C04-00509A.wrl](./Model3d/wrl/C04-00509A.wrl)
-- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00509A.x3d) : 	 [C04-00509A.x3d](./Model3d/x3d/C04-00509A.x3d)
-- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00509A.scad) : 	 [C04-00509A.scad](./Model3d/scad/C04-00509A.scad)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00509A.stl) : 	 [C04-00509A.stl](./Model3d/stl/C04-00509A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00509A.obj) : 	 [C04-00509A.obj](./Model3d/obj/C04-00509A.obj)
+- Package 3d model x3d : 	 [C04-00509A.x3d](./Model3d/x3d/C04-00509A.x3d)
+- Package 3d model scad : 	 [C04-00509A.scad](./Model3d/scad/C04-00509A.scad)
+- Package 3d model usd : 	 [C04-00509A.usd](./Model3d/usd/C04-00509A.usd)
+- Package 3d model glb : 	 [C04-00509A.glb](./Model3d/glb/C04-00509A.glb)
 Pin count : 100
 - 1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
 - 2 : PA01,  of Type IO, alternates : [ETH TXD_0, EIC EXTINT_1, PORT P_1]
@@ -18681,6 +19996,21 @@ Pin count : 100
 - Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
+
+- Package Outline Drawings : 	 [C04-00509A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 7YX
+- Package Type : 	 TQFP
+- Pin count : 	 100,00
+- Package Layout : 	 [C04-00509A.pdf](./mchp/packages/c04-00509a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00509A.wrl) : 	 [C04-00509A.wrl](./Model3d/wrl/C04-00509A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00509A.stl) : 	 [C04-00509A.stl](./Model3d/stl/C04-00509A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00509A.obj) : 	 [C04-00509A.obj](./Model3d/obj/C04-00509A.obj)
+- Package 3d model x3d : 	 [C04-00509A.x3d](./Model3d/x3d/C04-00509A.x3d)
+- Package 3d model scad : 	 [C04-00509A.scad](./Model3d/scad/C04-00509A.scad)
+- Package 3d model usd : 	 [C04-00509A.usd](./Model3d/usd/C04-00509A.usd)
+- Package 3d model glb : 	 [C04-00509A.glb](./Model3d/glb/C04-00509A.glb)
+
+please check that some data is inconsistent 	 
 
 Pin count : 100
 - 1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
@@ -18804,6 +20134,21 @@ Pin count : 100
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00509A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 7YX
+- Package Type : 	 TQFP
+- Pin count : 	 100,00
+- Package Layout : 	 [C04-00509A.pdf](./mchp/packages/c04-00509a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00509A.wrl) : 	 [C04-00509A.wrl](./Model3d/wrl/C04-00509A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00509A.stl) : 	 [C04-00509A.stl](./Model3d/stl/C04-00509A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00509A.obj) : 	 [C04-00509A.obj](./Model3d/obj/C04-00509A.obj)
+- Package 3d model x3d : 	 [C04-00509A.x3d](./Model3d/x3d/C04-00509A.x3d)
+- Package 3d model scad : 	 [C04-00509A.scad](./Model3d/scad/C04-00509A.scad)
+- Package 3d model usd : 	 [C04-00509A.usd](./Model3d/usd/C04-00509A.usd)
+- Package 3d model glb : 	 [C04-00509A.glb](./Model3d/glb/C04-00509A.glb)
+
+please check that some data is inconsistent 	 
+
 Pin count : 100
 - 1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
 - 2 : PA01,  of Type IO, alternates : [ETH TXD_0, EIC EXTINT_1, PORT P_1]
@@ -18926,6 +20271,21 @@ Pin count : 100
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00509A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 7YX
+- Package Type : 	 TQFP
+- Pin count : 	 100,00
+- Package Layout : 	 [C04-00509A.pdf](./mchp/packages/c04-00509a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00509A.wrl) : 	 [C04-00509A.wrl](./Model3d/wrl/C04-00509A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00509A.stl) : 	 [C04-00509A.stl](./Model3d/stl/C04-00509A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00509A.obj) : 	 [C04-00509A.obj](./Model3d/obj/C04-00509A.obj)
+- Package 3d model x3d : 	 [C04-00509A.x3d](./Model3d/x3d/C04-00509A.x3d)
+- Package 3d model scad : 	 [C04-00509A.scad](./Model3d/scad/C04-00509A.scad)
+- Package 3d model usd : 	 [C04-00509A.usd](./Model3d/usd/C04-00509A.usd)
+- Package 3d model glb : 	 [C04-00509A.glb](./Model3d/glb/C04-00509A.glb)
+
+please check that some data is inconsistent 	 
+
 Pin count : 100
 - 1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
 - 2 : PA01,  of Type IO, alternates : [ETH TXD_0, EIC EXTINT_1, PORT P_1]
@@ -19047,6 +20407,21 @@ Pin count : 100
 - Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
+
+- Package Outline Drawings : 	 [C04-00510A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 8YX
+- Package Type : 	 TQFP
+- Pin count : 	 144,00
+- Package Layout : 	 [C04-00510A.pdf](./mchp/packages/c04-00510a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00510A.wrl) : 	 [C04-00510A.wrl](./Model3d/wrl/C04-00510A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00510A.stl) : 	 [C04-00510A.stl](./Model3d/stl/C04-00510A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00510A.obj) : 	 [C04-00510A.obj](./Model3d/obj/C04-00510A.obj)
+- Package 3d model x3d : 	 [C04-00510A.x3d](./Model3d/x3d/C04-00510A.x3d)
+- Package 3d model scad : 	 [C04-00510A.scad](./Model3d/scad/C04-00510A.scad)
+- Package 3d model usd : 	 [C04-00510A.usd](./Model3d/usd/C04-00510A.usd)
+- Package 3d model glb : 	 [C04-00510A.glb](./Model3d/glb/C04-00510A.glb)
+
+please check that some data is inconsistent 	 
 
 Pin count : 144
 - 1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
@@ -19214,6 +20589,21 @@ Pin count : 144
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00510A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 8YX
+- Package Type : 	 TQFP
+- Pin count : 	 144,00
+- Package Layout : 	 [C04-00510A.pdf](./mchp/packages/c04-00510a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00510A.wrl) : 	 [C04-00510A.wrl](./Model3d/wrl/C04-00510A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00510A.stl) : 	 [C04-00510A.stl](./Model3d/stl/C04-00510A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00510A.obj) : 	 [C04-00510A.obj](./Model3d/obj/C04-00510A.obj)
+- Package 3d model x3d : 	 [C04-00510A.x3d](./Model3d/x3d/C04-00510A.x3d)
+- Package 3d model scad : 	 [C04-00510A.scad](./Model3d/scad/C04-00510A.scad)
+- Package 3d model usd : 	 [C04-00510A.usd](./Model3d/usd/C04-00510A.usd)
+- Package 3d model glb : 	 [C04-00510A.glb](./Model3d/glb/C04-00510A.glb)
+
+please check that some data is inconsistent 	 
+
 Pin count : 144
 - A1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
 - A2 : PA02,  of Type IO, alternates : [TCC2:1 WO_5, ETH TXEN_, PORT P_2, EIC EXTINT_2, DSU PMSA_7]
@@ -19379,6 +20769,21 @@ Pin count : 144
 - Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
+
+- Package Outline Drawings : 	 [C04-00510A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 8YX
+- Package Type : 	 TQFP
+- Pin count : 	 144,00
+- Package Layout : 	 [C04-00510A.pdf](./mchp/packages/c04-00510a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00510A.wrl) : 	 [C04-00510A.wrl](./Model3d/wrl/C04-00510A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00510A.stl) : 	 [C04-00510A.stl](./Model3d/stl/C04-00510A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00510A.obj) : 	 [C04-00510A.obj](./Model3d/obj/C04-00510A.obj)
+- Package 3d model x3d : 	 [C04-00510A.x3d](./Model3d/x3d/C04-00510A.x3d)
+- Package 3d model scad : 	 [C04-00510A.scad](./Model3d/scad/C04-00510A.scad)
+- Package 3d model usd : 	 [C04-00510A.usd](./Model3d/usd/C04-00510A.usd)
+- Package 3d model glb : 	 [C04-00510A.glb](./Model3d/glb/C04-00510A.glb)
+
+please check that some data is inconsistent 	 
 
 Pin count : 144
 - A2 : PD11,  of Type IO, alternates : [PORT P_107, ETH RXD_0, SERCOM2:2 PAD_0, EIC EXTINT_11, TCC2:1 WO_1]
@@ -19552,8 +20957,12 @@ Pin count : 144
 - Pin count : 	 144,00
 - Package Layout : 	 [C04-00510A.pdf](./mchp/packages/c04-00510a.pdf)
 - Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00510A.wrl) : 	 [C04-00510A.wrl](./Model3d/wrl/C04-00510A.wrl)
-- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00510A.x3d) : 	 [C04-00510A.x3d](./Model3d/x3d/C04-00510A.x3d)
-- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00510A.scad) : 	 [C04-00510A.scad](./Model3d/scad/C04-00510A.scad)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00510A.stl) : 	 [C04-00510A.stl](./Model3d/stl/C04-00510A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00510A.obj) : 	 [C04-00510A.obj](./Model3d/obj/C04-00510A.obj)
+- Package 3d model x3d : 	 [C04-00510A.x3d](./Model3d/x3d/C04-00510A.x3d)
+- Package 3d model scad : 	 [C04-00510A.scad](./Model3d/scad/C04-00510A.scad)
+- Package 3d model usd : 	 [C04-00510A.usd](./Model3d/usd/C04-00510A.usd)
+- Package 3d model glb : 	 [C04-00510A.glb](./Model3d/glb/C04-00510A.glb)
 Pin count : 144
 - 1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
 - 2 : PA01,  of Type IO, alternates : [ETH TXD_0, EIC EXTINT_1, PORT P_1]
@@ -19719,6 +21128,21 @@ Pin count : 144
 - Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
+
+- Package Outline Drawings : 	 [C04-00510A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 8YX
+- Package Type : 	 TQFP
+- Pin count : 	 144,00
+- Package Layout : 	 [C04-00510A.pdf](./mchp/packages/c04-00510a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00510A.wrl) : 	 [C04-00510A.wrl](./Model3d/wrl/C04-00510A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00510A.stl) : 	 [C04-00510A.stl](./Model3d/stl/C04-00510A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00510A.obj) : 	 [C04-00510A.obj](./Model3d/obj/C04-00510A.obj)
+- Package 3d model x3d : 	 [C04-00510A.x3d](./Model3d/x3d/C04-00510A.x3d)
+- Package 3d model scad : 	 [C04-00510A.scad](./Model3d/scad/C04-00510A.scad)
+- Package 3d model usd : 	 [C04-00510A.usd](./Model3d/usd/C04-00510A.usd)
+- Package 3d model glb : 	 [C04-00510A.glb](./Model3d/glb/C04-00510A.glb)
+
+please check that some data is inconsistent 	 
 
 Pin count : 144
 - A1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
@@ -19892,8 +21316,12 @@ Pin count : 144
 - Pin count : 	 144,00
 - Package Layout : 	 [C04-00511A.pdf](./mchp/packages/c04-00511a.pdf)
 - Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00511A.wrl) : 	 [C04-00511A.wrl](./Model3d/wrl/C04-00511A.wrl)
-- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00511A.x3d) : 	 [C04-00511A.x3d](./Model3d/x3d/C04-00511A.x3d)
-- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00511A.scad) : 	 [C04-00511A.scad](./Model3d/scad/C04-00511A.scad)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00511A.stl) : 	 [C04-00511A.stl](./Model3d/stl/C04-00511A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00511A.obj) : 	 [C04-00511A.obj](./Model3d/obj/C04-00511A.obj)
+- Package 3d model x3d : 	 [C04-00511A.x3d](./Model3d/x3d/C04-00511A.x3d)
+- Package 3d model scad : 	 [C04-00511A.scad](./Model3d/scad/C04-00511A.scad)
+- Package 3d model usd : 	 [C04-00511A.usd](./Model3d/usd/C04-00511A.usd)
+- Package 3d model glb : 	 [C04-00511A.glb](./Model3d/glb/C04-00511A.glb)
 Pin count : 144
 - A2 : PD11,  of Type IO, alternates : [PORT P_107, ETH RXD_0, SERCOM2:2 PAD_0, EIC EXTINT_11, TCC2:1 WO_1]
 - A3 : PD10,  of Type IO, alternates : [PORT P_106, EIC EXTINT_10, ETH RXD_1, TCC2:1 WO_0]
@@ -20059,6 +21487,21 @@ Pin count : 144
 - Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
+
+- Package Outline Drawings : 	 [C04-00510A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 8YX
+- Package Type : 	 TQFP
+- Pin count : 	 144,00
+- Package Layout : 	 [C04-00510A.pdf](./mchp/packages/c04-00510a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00510A.wrl) : 	 [C04-00510A.wrl](./Model3d/wrl/C04-00510A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00510A.stl) : 	 [C04-00510A.stl](./Model3d/stl/C04-00510A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00510A.obj) : 	 [C04-00510A.obj](./Model3d/obj/C04-00510A.obj)
+- Package 3d model x3d : 	 [C04-00510A.x3d](./Model3d/x3d/C04-00510A.x3d)
+- Package 3d model scad : 	 [C04-00510A.scad](./Model3d/scad/C04-00510A.scad)
+- Package 3d model usd : 	 [C04-00510A.usd](./Model3d/usd/C04-00510A.usd)
+- Package 3d model glb : 	 [C04-00510A.glb](./Model3d/glb/C04-00510A.glb)
+
+please check that some data is inconsistent 	 
 
 Pin count : 144
 - 1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
@@ -20226,6 +21669,21 @@ Pin count : 144
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00510A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 8YX
+- Package Type : 	 TQFP
+- Pin count : 	 144,00
+- Package Layout : 	 [C04-00510A.pdf](./mchp/packages/c04-00510a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00510A.wrl) : 	 [C04-00510A.wrl](./Model3d/wrl/C04-00510A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00510A.stl) : 	 [C04-00510A.stl](./Model3d/stl/C04-00510A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00510A.obj) : 	 [C04-00510A.obj](./Model3d/obj/C04-00510A.obj)
+- Package 3d model x3d : 	 [C04-00510A.x3d](./Model3d/x3d/C04-00510A.x3d)
+- Package 3d model scad : 	 [C04-00510A.scad](./Model3d/scad/C04-00510A.scad)
+- Package 3d model usd : 	 [C04-00510A.usd](./Model3d/usd/C04-00510A.usd)
+- Package 3d model glb : 	 [C04-00510A.glb](./Model3d/glb/C04-00510A.glb)
+
+please check that some data is inconsistent 	 
+
 Pin count : 144
 - A1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
 - A2 : PA02,  of Type IO, alternates : [TCC2:1 WO_5, ETH TXEN_, PORT P_2, EIC EXTINT_2, DSU PMSA_7]
@@ -20392,6 +21850,21 @@ Pin count : 144
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00510A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 8YX
+- Package Type : 	 TQFP
+- Pin count : 	 144,00
+- Package Layout : 	 [C04-00510A.pdf](./mchp/packages/c04-00510a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00510A.wrl) : 	 [C04-00510A.wrl](./Model3d/wrl/C04-00510A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00510A.stl) : 	 [C04-00510A.stl](./Model3d/stl/C04-00510A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00510A.obj) : 	 [C04-00510A.obj](./Model3d/obj/C04-00510A.obj)
+- Package 3d model x3d : 	 [C04-00510A.x3d](./Model3d/x3d/C04-00510A.x3d)
+- Package 3d model scad : 	 [C04-00510A.scad](./Model3d/scad/C04-00510A.scad)
+- Package 3d model usd : 	 [C04-00510A.usd](./Model3d/usd/C04-00510A.usd)
+- Package 3d model glb : 	 [C04-00510A.glb](./Model3d/glb/C04-00510A.glb)
+
+please check that some data is inconsistent 	 
+
 Pin count : 144
 - A2 : PD11,  of Type IO, alternates : [PORT P_107, ETH RXD_0, SERCOM2:2 PAD_0, EIC EXTINT_11, TCC2:1 WO_1]
 - A3 : PD10,  of Type IO, alternates : [PORT P_106, EIC EXTINT_10, ETH RXD_1, TCC2:1 WO_0]
@@ -20557,6 +22030,20 @@ Pin count : 144
 - Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
+
+- Package Outline Drawings : 	 [C04-00515A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 5MX
+- Package Type : 	 TFBGA
+- Pin count : 	 176,00
+- Package Layout : 	 [C04-00515A.pdf](./mchp/packages/c04-00515a.pdf)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00515A.stl) : 	 [C04-00515A.stl](./Model3d/stl/C04-00515A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00515A.obj) : 	 [C04-00515A.obj](./Model3d/obj/C04-00515A.obj)
+- Package 3d model x3d : 	 [C04-00515A.x3d](./Model3d/x3d/C04-00515A.x3d)
+- Package 3d model scad : 	 [C04-00515A.scad](./Model3d/scad/C04-00515A.scad)
+- Package 3d model usd : 	 [C04-00515A.usd](./Model3d/usd/C04-00515A.usd)
+- Package 3d model glb : 	 [C04-00515A.glb](./Model3d/glb/C04-00515A.glb)
+
+please check that some data is inconsistent 	 
 
 Pin count : 176
 - A2 : PD10,  of Type IO, alternates : [PORT P_106, EIC EXTINT_10, ETH RXD_1, TCC2:1 WO_0]
@@ -20756,6 +22243,20 @@ Pin count : 176
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00515A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 5MX
+- Package Type : 	 TFBGA
+- Pin count : 	 176,00
+- Package Layout : 	 [C04-00515A.pdf](./mchp/packages/c04-00515a.pdf)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00515A.stl) : 	 [C04-00515A.stl](./Model3d/stl/C04-00515A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00515A.obj) : 	 [C04-00515A.obj](./Model3d/obj/C04-00515A.obj)
+- Package 3d model x3d : 	 [C04-00515A.x3d](./Model3d/x3d/C04-00515A.x3d)
+- Package 3d model scad : 	 [C04-00515A.scad](./Model3d/scad/C04-00515A.scad)
+- Package 3d model usd : 	 [C04-00515A.usd](./Model3d/usd/C04-00515A.usd)
+- Package 3d model glb : 	 [C04-00515A.glb](./Model3d/glb/C04-00515A.glb)
+
+please check that some data is inconsistent 	 
+
 Pin count : 176
 - A1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
 - A2 : PA02,  of Type IO, alternates : [TCC2:1 WO_5, ETH TXEN_, PORT P_2, EIC EXTINT_2, DSU PMSA_7]
@@ -20953,6 +22454,20 @@ Pin count : 176
 - Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
+
+- Package Outline Drawings : 	 [C04-00515A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 5MX
+- Package Type : 	 TFBGA
+- Pin count : 	 176,00
+- Package Layout : 	 [C04-00515A.pdf](./mchp/packages/c04-00515a.pdf)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00515A.stl) : 	 [C04-00515A.stl](./Model3d/stl/C04-00515A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00515A.obj) : 	 [C04-00515A.obj](./Model3d/obj/C04-00515A.obj)
+- Package 3d model x3d : 	 [C04-00515A.x3d](./Model3d/x3d/C04-00515A.x3d)
+- Package 3d model scad : 	 [C04-00515A.scad](./Model3d/scad/C04-00515A.scad)
+- Package 3d model usd : 	 [C04-00515A.usd](./Model3d/usd/C04-00515A.usd)
+- Package 3d model glb : 	 [C04-00515A.glb](./Model3d/glb/C04-00515A.glb)
+
+please check that some data is inconsistent 	 
 
 Pin count : 176
 - 1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
@@ -21157,8 +22672,12 @@ Pin count : 176
 - Package Type : 	 TFBGA
 - Pin count : 	 176,00
 - Package Layout : 	 [C04-00515A.pdf](./mchp/packages/c04-00515a.pdf)
-- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00515A.x3d) : 	 [C04-00515A.x3d](./Model3d/x3d/C04-00515A.x3d)
-- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00515A.scad) : 	 [C04-00515A.scad](./Model3d/scad/C04-00515A.scad)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00515A.stl) : 	 [C04-00515A.stl](./Model3d/stl/C04-00515A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00515A.obj) : 	 [C04-00515A.obj](./Model3d/obj/C04-00515A.obj)
+- Package 3d model x3d : 	 [C04-00515A.x3d](./Model3d/x3d/C04-00515A.x3d)
+- Package 3d model scad : 	 [C04-00515A.scad](./Model3d/scad/C04-00515A.scad)
+- Package 3d model usd : 	 [C04-00515A.usd](./Model3d/usd/C04-00515A.usd)
+- Package 3d model glb : 	 [C04-00515A.glb](./Model3d/glb/C04-00515A.glb)
 Pin count : 176
 - A2 : PD10,  of Type IO, alternates : [PORT P_106, EIC EXTINT_10, ETH RXD_1, TCC2:1 WO_0]
 - A3 : PD09,  of Type IO, alternates : [PORT P_105, MLB MLBD_, CAN1:2 TX_, EIC EXTINT_9, ETH CRS_]
@@ -21357,6 +22876,20 @@ Pin count : 176
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00515A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 5MX
+- Package Type : 	 TFBGA
+- Pin count : 	 176,00
+- Package Layout : 	 [C04-00515A.pdf](./mchp/packages/c04-00515a.pdf)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00515A.stl) : 	 [C04-00515A.stl](./Model3d/stl/C04-00515A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00515A.obj) : 	 [C04-00515A.obj](./Model3d/obj/C04-00515A.obj)
+- Package 3d model x3d : 	 [C04-00515A.x3d](./Model3d/x3d/C04-00515A.x3d)
+- Package 3d model scad : 	 [C04-00515A.scad](./Model3d/scad/C04-00515A.scad)
+- Package 3d model usd : 	 [C04-00515A.usd](./Model3d/usd/C04-00515A.usd)
+- Package 3d model glb : 	 [C04-00515A.glb](./Model3d/glb/C04-00515A.glb)
+
+please check that some data is inconsistent 	 
+
 Pin count : 176
 - A1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
 - A2 : PA02,  of Type IO, alternates : [TCC2:1 WO_5, ETH TXEN_, PORT P_2, EIC EXTINT_2, DSU PMSA_7]
@@ -21554,6 +23087,20 @@ Pin count : 176
 - Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
+
+- Package Outline Drawings : 	 [C04-00515A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 5MX
+- Package Type : 	 TFBGA
+- Pin count : 	 176,00
+- Package Layout : 	 [C04-00515A.pdf](./mchp/packages/c04-00515a.pdf)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00515A.stl) : 	 [C04-00515A.stl](./Model3d/stl/C04-00515A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00515A.obj) : 	 [C04-00515A.obj](./Model3d/obj/C04-00515A.obj)
+- Package 3d model x3d : 	 [C04-00515A.x3d](./Model3d/x3d/C04-00515A.x3d)
+- Package 3d model scad : 	 [C04-00515A.scad](./Model3d/scad/C04-00515A.scad)
+- Package 3d model usd : 	 [C04-00515A.usd](./Model3d/usd/C04-00515A.usd)
+- Package 3d model glb : 	 [C04-00515A.glb](./Model3d/glb/C04-00515A.glb)
+
+please check that some data is inconsistent 	 
 
 Pin count : 176
 - 1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
@@ -21753,6 +23300,20 @@ Pin count : 176
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00515A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 5MX
+- Package Type : 	 TFBGA
+- Pin count : 	 176,00
+- Package Layout : 	 [C04-00515A.pdf](./mchp/packages/c04-00515a.pdf)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00515A.stl) : 	 [C04-00515A.stl](./Model3d/stl/C04-00515A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00515A.obj) : 	 [C04-00515A.obj](./Model3d/obj/C04-00515A.obj)
+- Package 3d model x3d : 	 [C04-00515A.x3d](./Model3d/x3d/C04-00515A.x3d)
+- Package 3d model scad : 	 [C04-00515A.scad](./Model3d/scad/C04-00515A.scad)
+- Package 3d model usd : 	 [C04-00515A.usd](./Model3d/usd/C04-00515A.usd)
+- Package 3d model glb : 	 [C04-00515A.glb](./Model3d/glb/C04-00515A.glb)
+
+please check that some data is inconsistent 	 
+
 Pin count : 176
 - A2 : PD10,  of Type IO, alternates : [PORT P_106, EIC EXTINT_10, ETH RXD_1, TCC2:1 WO_0]
 - A3 : PD09,  of Type IO, alternates : [PORT P_105, MLB MLBD_, CAN1:2 TX_, EIC EXTINT_9, ETH CRS_]
@@ -21950,6 +23511,20 @@ Pin count : 176
 - Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
+
+- Package Outline Drawings : 	 [C04-00515A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 5MX
+- Package Type : 	 TFBGA
+- Pin count : 	 176,00
+- Package Layout : 	 [C04-00515A.pdf](./mchp/packages/c04-00515a.pdf)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00515A.stl) : 	 [C04-00515A.stl](./Model3d/stl/C04-00515A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00515A.obj) : 	 [C04-00515A.obj](./Model3d/obj/C04-00515A.obj)
+- Package 3d model x3d : 	 [C04-00515A.x3d](./Model3d/x3d/C04-00515A.x3d)
+- Package 3d model scad : 	 [C04-00515A.scad](./Model3d/scad/C04-00515A.scad)
+- Package 3d model usd : 	 [C04-00515A.usd](./Model3d/usd/C04-00515A.usd)
+- Package 3d model glb : 	 [C04-00515A.glb](./Model3d/glb/C04-00515A.glb)
+
+please check that some data is inconsistent 	 
 
 Pin count : 176
 - A1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
@@ -22149,6 +23724,20 @@ Pin count : 176
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00515A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 5MX
+- Package Type : 	 TFBGA
+- Pin count : 	 176,00
+- Package Layout : 	 [C04-00515A.pdf](./mchp/packages/c04-00515a.pdf)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00515A.stl) : 	 [C04-00515A.stl](./Model3d/stl/C04-00515A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00515A.obj) : 	 [C04-00515A.obj](./Model3d/obj/C04-00515A.obj)
+- Package 3d model x3d : 	 [C04-00515A.x3d](./Model3d/x3d/C04-00515A.x3d)
+- Package 3d model scad : 	 [C04-00515A.scad](./Model3d/scad/C04-00515A.scad)
+- Package 3d model usd : 	 [C04-00515A.usd](./Model3d/usd/C04-00515A.usd)
+- Package 3d model glb : 	 [C04-00515A.glb](./Model3d/glb/C04-00515A.glb)
+
+please check that some data is inconsistent 	 
+
 Pin count : 176
 - 1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
 - 2 : PA01,  of Type IO, alternates : [ETH TXD_0, EIC EXTINT_1, PORT P_1]
@@ -22346,6 +23935,21 @@ Pin count : 176
 - Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
+
+- Package Outline Drawings : 	 [C04-00516A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 8MX
+- Package Type : 	 TFBGA
+- Pin count : 	 208,00
+- Package Layout : 	 [C04-00516A.pdf](./mchp/packages/c04-00516a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00516A.wrl) : 	 [C04-00516A.wrl](./Model3d/wrl/C04-00516A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00516A.stl) : 	 [C04-00516A.stl](./Model3d/stl/C04-00516A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00516A.obj) : 	 [C04-00516A.obj](./Model3d/obj/C04-00516A.obj)
+- Package 3d model x3d : 	 [C04-00516A.x3d](./Model3d/x3d/C04-00516A.x3d)
+- Package 3d model scad : 	 [C04-00516A.scad](./Model3d/scad/C04-00516A.scad)
+- Package 3d model usd : 	 [C04-00516A.usd](./Model3d/usd/C04-00516A.usd)
+- Package 3d model glb : 	 [C04-00516A.glb](./Model3d/glb/C04-00516A.glb)
+
+please check that some data is inconsistent 	 
 
 Pin count : 208
 - 1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
@@ -22577,6 +24181,21 @@ Pin count : 208
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00516A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 8MX
+- Package Type : 	 TFBGA
+- Pin count : 	 208,00
+- Package Layout : 	 [C04-00516A.pdf](./mchp/packages/c04-00516a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00516A.wrl) : 	 [C04-00516A.wrl](./Model3d/wrl/C04-00516A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00516A.stl) : 	 [C04-00516A.stl](./Model3d/stl/C04-00516A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00516A.obj) : 	 [C04-00516A.obj](./Model3d/obj/C04-00516A.obj)
+- Package 3d model x3d : 	 [C04-00516A.x3d](./Model3d/x3d/C04-00516A.x3d)
+- Package 3d model scad : 	 [C04-00516A.scad](./Model3d/scad/C04-00516A.scad)
+- Package 3d model usd : 	 [C04-00516A.usd](./Model3d/usd/C04-00516A.usd)
+- Package 3d model glb : 	 [C04-00516A.glb](./Model3d/glb/C04-00516A.glb)
+
+please check that some data is inconsistent 	 
+
 Pin count : 208
 - 1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
 - 2 : PA01,  of Type IO, alternates : [ETH TXD_0, EIC EXTINT_1, PORT P_1]
@@ -22806,6 +24425,21 @@ Pin count : 208
 - Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
+
+- Package Outline Drawings : 	 [C04-00516A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 8MX
+- Package Type : 	 TFBGA
+- Pin count : 	 208,00
+- Package Layout : 	 [C04-00516A.pdf](./mchp/packages/c04-00516a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00516A.wrl) : 	 [C04-00516A.wrl](./Model3d/wrl/C04-00516A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00516A.stl) : 	 [C04-00516A.stl](./Model3d/stl/C04-00516A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00516A.obj) : 	 [C04-00516A.obj](./Model3d/obj/C04-00516A.obj)
+- Package 3d model x3d : 	 [C04-00516A.x3d](./Model3d/x3d/C04-00516A.x3d)
+- Package 3d model scad : 	 [C04-00516A.scad](./Model3d/scad/C04-00516A.scad)
+- Package 3d model usd : 	 [C04-00516A.usd](./Model3d/usd/C04-00516A.usd)
+- Package 3d model glb : 	 [C04-00516A.glb](./Model3d/glb/C04-00516A.glb)
+
+please check that some data is inconsistent 	 
 
 Pin count : 208
 - 1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
@@ -23043,8 +24677,12 @@ Pin count : 208
 - Pin count : 	 100,00
 - Package Layout : 	 [C04-00509A.pdf](./mchp/packages/c04-00509a.pdf)
 - Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00509A.wrl) : 	 [C04-00509A.wrl](./Model3d/wrl/C04-00509A.wrl)
-- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00509A.x3d) : 	 [C04-00509A.x3d](./Model3d/x3d/C04-00509A.x3d)
-- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00509A.scad) : 	 [C04-00509A.scad](./Model3d/scad/C04-00509A.scad)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00509A.stl) : 	 [C04-00509A.stl](./Model3d/stl/C04-00509A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00509A.obj) : 	 [C04-00509A.obj](./Model3d/obj/C04-00509A.obj)
+- Package 3d model x3d : 	 [C04-00509A.x3d](./Model3d/x3d/C04-00509A.x3d)
+- Package 3d model scad : 	 [C04-00509A.scad](./Model3d/scad/C04-00509A.scad)
+- Package 3d model usd : 	 [C04-00509A.usd](./Model3d/usd/C04-00509A.usd)
+- Package 3d model glb : 	 [C04-00509A.glb](./Model3d/glb/C04-00509A.glb)
 Pin count : 100
 - 1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
 - 2 : PA01,  of Type IO, alternates : [ETH TXD_0, EIC EXTINT_1, PORT P_1]
@@ -23166,6 +24804,21 @@ Pin count : 100
 - Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
+
+- Package Outline Drawings : 	 [C04-00509A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 7YX
+- Package Type : 	 TQFP
+- Pin count : 	 100,00
+- Package Layout : 	 [C04-00509A.pdf](./mchp/packages/c04-00509a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00509A.wrl) : 	 [C04-00509A.wrl](./Model3d/wrl/C04-00509A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00509A.stl) : 	 [C04-00509A.stl](./Model3d/stl/C04-00509A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00509A.obj) : 	 [C04-00509A.obj](./Model3d/obj/C04-00509A.obj)
+- Package 3d model x3d : 	 [C04-00509A.x3d](./Model3d/x3d/C04-00509A.x3d)
+- Package 3d model scad : 	 [C04-00509A.scad](./Model3d/scad/C04-00509A.scad)
+- Package 3d model usd : 	 [C04-00509A.usd](./Model3d/usd/C04-00509A.usd)
+- Package 3d model glb : 	 [C04-00509A.glb](./Model3d/glb/C04-00509A.glb)
+
+please check that some data is inconsistent 	 
 
 Pin count : 100
 - 1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
@@ -23295,8 +24948,12 @@ Pin count : 100
 - Pin count : 	 100,00
 - Package Layout : 	 [C04-00509A.pdf](./mchp/packages/c04-00509a.pdf)
 - Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00509A.wrl) : 	 [C04-00509A.wrl](./Model3d/wrl/C04-00509A.wrl)
-- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00509A.x3d) : 	 [C04-00509A.x3d](./Model3d/x3d/C04-00509A.x3d)
-- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00509A.scad) : 	 [C04-00509A.scad](./Model3d/scad/C04-00509A.scad)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00509A.stl) : 	 [C04-00509A.stl](./Model3d/stl/C04-00509A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00509A.obj) : 	 [C04-00509A.obj](./Model3d/obj/C04-00509A.obj)
+- Package 3d model x3d : 	 [C04-00509A.x3d](./Model3d/x3d/C04-00509A.x3d)
+- Package 3d model scad : 	 [C04-00509A.scad](./Model3d/scad/C04-00509A.scad)
+- Package 3d model usd : 	 [C04-00509A.usd](./Model3d/usd/C04-00509A.usd)
+- Package 3d model glb : 	 [C04-00509A.glb](./Model3d/glb/C04-00509A.glb)
 Pin count : 100
 - 1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
 - 2 : PA01,  of Type IO, alternates : [ETH TXD_0, EIC EXTINT_1, PORT P_1]
@@ -23418,6 +25075,21 @@ Pin count : 100
 - Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
+
+- Package Outline Drawings : 	 [C04-00509A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 7YX
+- Package Type : 	 TQFP
+- Pin count : 	 100,00
+- Package Layout : 	 [C04-00509A.pdf](./mchp/packages/c04-00509a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00509A.wrl) : 	 [C04-00509A.wrl](./Model3d/wrl/C04-00509A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00509A.stl) : 	 [C04-00509A.stl](./Model3d/stl/C04-00509A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00509A.obj) : 	 [C04-00509A.obj](./Model3d/obj/C04-00509A.obj)
+- Package 3d model x3d : 	 [C04-00509A.x3d](./Model3d/x3d/C04-00509A.x3d)
+- Package 3d model scad : 	 [C04-00509A.scad](./Model3d/scad/C04-00509A.scad)
+- Package 3d model usd : 	 [C04-00509A.usd](./Model3d/usd/C04-00509A.usd)
+- Package 3d model glb : 	 [C04-00509A.glb](./Model3d/glb/C04-00509A.glb)
+
+please check that some data is inconsistent 	 
 
 Pin count : 100
 - 1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
@@ -23663,6 +25335,21 @@ Pin count : 100
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00509A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 7YX
+- Package Type : 	 TQFP
+- Pin count : 	 100,00
+- Package Layout : 	 [C04-00509A.pdf](./mchp/packages/c04-00509a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00509A.wrl) : 	 [C04-00509A.wrl](./Model3d/wrl/C04-00509A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00509A.stl) : 	 [C04-00509A.stl](./Model3d/stl/C04-00509A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00509A.obj) : 	 [C04-00509A.obj](./Model3d/obj/C04-00509A.obj)
+- Package 3d model x3d : 	 [C04-00509A.x3d](./Model3d/x3d/C04-00509A.x3d)
+- Package 3d model scad : 	 [C04-00509A.scad](./Model3d/scad/C04-00509A.scad)
+- Package 3d model usd : 	 [C04-00509A.usd](./Model3d/usd/C04-00509A.usd)
+- Package 3d model glb : 	 [C04-00509A.glb](./Model3d/glb/C04-00509A.glb)
+
+please check that some data is inconsistent 	 
+
 Pin count : 100
 - 1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
 - 2 : PA01,  of Type IO, alternates : [ETH TXD_0, EIC EXTINT_1, PORT P_1]
@@ -23791,8 +25478,12 @@ Pin count : 100
 - Pin count : 	 144,00
 - Package Layout : 	 [C04-00510A.pdf](./mchp/packages/c04-00510a.pdf)
 - Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00510A.wrl) : 	 [C04-00510A.wrl](./Model3d/wrl/C04-00510A.wrl)
-- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00510A.x3d) : 	 [C04-00510A.x3d](./Model3d/x3d/C04-00510A.x3d)
-- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00510A.scad) : 	 [C04-00510A.scad](./Model3d/scad/C04-00510A.scad)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00510A.stl) : 	 [C04-00510A.stl](./Model3d/stl/C04-00510A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00510A.obj) : 	 [C04-00510A.obj](./Model3d/obj/C04-00510A.obj)
+- Package 3d model x3d : 	 [C04-00510A.x3d](./Model3d/x3d/C04-00510A.x3d)
+- Package 3d model scad : 	 [C04-00510A.scad](./Model3d/scad/C04-00510A.scad)
+- Package 3d model usd : 	 [C04-00510A.usd](./Model3d/usd/C04-00510A.usd)
+- Package 3d model glb : 	 [C04-00510A.glb](./Model3d/glb/C04-00510A.glb)
 Pin count : 144
 - 1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
 - 2 : PA01,  of Type IO, alternates : [ETH TXD_0, EIC EXTINT_1, PORT P_1]
@@ -23958,6 +25649,21 @@ Pin count : 144
 - Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
+
+- Package Outline Drawings : 	 [C04-00510A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 8YX
+- Package Type : 	 TQFP
+- Pin count : 	 144,00
+- Package Layout : 	 [C04-00510A.pdf](./mchp/packages/c04-00510a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00510A.wrl) : 	 [C04-00510A.wrl](./Model3d/wrl/C04-00510A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00510A.stl) : 	 [C04-00510A.stl](./Model3d/stl/C04-00510A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00510A.obj) : 	 [C04-00510A.obj](./Model3d/obj/C04-00510A.obj)
+- Package 3d model x3d : 	 [C04-00510A.x3d](./Model3d/x3d/C04-00510A.x3d)
+- Package 3d model scad : 	 [C04-00510A.scad](./Model3d/scad/C04-00510A.scad)
+- Package 3d model usd : 	 [C04-00510A.usd](./Model3d/usd/C04-00510A.usd)
+- Package 3d model glb : 	 [C04-00510A.glb](./Model3d/glb/C04-00510A.glb)
+
+please check that some data is inconsistent 	 
 
 Pin count : 144
 - A1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
@@ -24131,8 +25837,12 @@ Pin count : 144
 - Pin count : 	 144,00
 - Package Layout : 	 [C04-00511A.pdf](./mchp/packages/c04-00511a.pdf)
 - Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00511A.wrl) : 	 [C04-00511A.wrl](./Model3d/wrl/C04-00511A.wrl)
-- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00511A.x3d) : 	 [C04-00511A.x3d](./Model3d/x3d/C04-00511A.x3d)
-- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00511A.scad) : 	 [C04-00511A.scad](./Model3d/scad/C04-00511A.scad)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00511A.stl) : 	 [C04-00511A.stl](./Model3d/stl/C04-00511A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00511A.obj) : 	 [C04-00511A.obj](./Model3d/obj/C04-00511A.obj)
+- Package 3d model x3d : 	 [C04-00511A.x3d](./Model3d/x3d/C04-00511A.x3d)
+- Package 3d model scad : 	 [C04-00511A.scad](./Model3d/scad/C04-00511A.scad)
+- Package 3d model usd : 	 [C04-00511A.usd](./Model3d/usd/C04-00511A.usd)
+- Package 3d model glb : 	 [C04-00511A.glb](./Model3d/glb/C04-00511A.glb)
 Pin count : 144
 - A2 : PD11,  of Type IO, alternates : [PORT P_107, ETH RXD_0, SERCOM2:2 PAD_0, EIC EXTINT_11, TCC2:1 WO_1]
 - A3 : PD10,  of Type IO, alternates : [PORT P_106, EIC EXTINT_10, ETH RXD_1, TCC2:1 WO_0]
@@ -24305,8 +26015,12 @@ Pin count : 144
 - Pin count : 	 144,00
 - Package Layout : 	 [C04-00510A.pdf](./mchp/packages/c04-00510a.pdf)
 - Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00510A.wrl) : 	 [C04-00510A.wrl](./Model3d/wrl/C04-00510A.wrl)
-- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00510A.x3d) : 	 [C04-00510A.x3d](./Model3d/x3d/C04-00510A.x3d)
-- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00510A.scad) : 	 [C04-00510A.scad](./Model3d/scad/C04-00510A.scad)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00510A.stl) : 	 [C04-00510A.stl](./Model3d/stl/C04-00510A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00510A.obj) : 	 [C04-00510A.obj](./Model3d/obj/C04-00510A.obj)
+- Package 3d model x3d : 	 [C04-00510A.x3d](./Model3d/x3d/C04-00510A.x3d)
+- Package 3d model scad : 	 [C04-00510A.scad](./Model3d/scad/C04-00510A.scad)
+- Package 3d model usd : 	 [C04-00510A.usd](./Model3d/usd/C04-00510A.usd)
+- Package 3d model glb : 	 [C04-00510A.glb](./Model3d/glb/C04-00510A.glb)
 Pin count : 144
 - 1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
 - 2 : PA01,  of Type IO, alternates : [ETH TXD_0, EIC EXTINT_1, PORT P_1]
@@ -24472,6 +26186,21 @@ Pin count : 144
 - Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
+
+- Package Outline Drawings : 	 [C04-00510A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 8YX
+- Package Type : 	 TQFP
+- Pin count : 	 144,00
+- Package Layout : 	 [C04-00510A.pdf](./mchp/packages/c04-00510a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00510A.wrl) : 	 [C04-00510A.wrl](./Model3d/wrl/C04-00510A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00510A.stl) : 	 [C04-00510A.stl](./Model3d/stl/C04-00510A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00510A.obj) : 	 [C04-00510A.obj](./Model3d/obj/C04-00510A.obj)
+- Package 3d model x3d : 	 [C04-00510A.x3d](./Model3d/x3d/C04-00510A.x3d)
+- Package 3d model scad : 	 [C04-00510A.scad](./Model3d/scad/C04-00510A.scad)
+- Package 3d model usd : 	 [C04-00510A.usd](./Model3d/usd/C04-00510A.usd)
+- Package 3d model glb : 	 [C04-00510A.glb](./Model3d/glb/C04-00510A.glb)
+
+please check that some data is inconsistent 	 
 
 Pin count : 144
 - A1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
@@ -24645,8 +26374,12 @@ Pin count : 144
 - Pin count : 	 144,00
 - Package Layout : 	 [C04-00511A.pdf](./mchp/packages/c04-00511a.pdf)
 - Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00511A.wrl) : 	 [C04-00511A.wrl](./Model3d/wrl/C04-00511A.wrl)
-- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00511A.x3d) : 	 [C04-00511A.x3d](./Model3d/x3d/C04-00511A.x3d)
-- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00511A.scad) : 	 [C04-00511A.scad](./Model3d/scad/C04-00511A.scad)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00511A.stl) : 	 [C04-00511A.stl](./Model3d/stl/C04-00511A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00511A.obj) : 	 [C04-00511A.obj](./Model3d/obj/C04-00511A.obj)
+- Package 3d model x3d : 	 [C04-00511A.x3d](./Model3d/x3d/C04-00511A.x3d)
+- Package 3d model scad : 	 [C04-00511A.scad](./Model3d/scad/C04-00511A.scad)
+- Package 3d model usd : 	 [C04-00511A.usd](./Model3d/usd/C04-00511A.usd)
+- Package 3d model glb : 	 [C04-00511A.glb](./Model3d/glb/C04-00511A.glb)
 Pin count : 144
 - A2 : PD11,  of Type IO, alternates : [PORT P_107, ETH RXD_0, SERCOM2:2 PAD_0, EIC EXTINT_11, TCC2:1 WO_1]
 - A3 : PD10,  of Type IO, alternates : [PORT P_106, EIC EXTINT_10, ETH RXD_1, TCC2:1 WO_0]
@@ -24819,8 +26552,12 @@ Pin count : 144
 - Pin count : 	 144,00
 - Package Layout : 	 [C04-00510A.pdf](./mchp/packages/c04-00510a.pdf)
 - Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00510A.wrl) : 	 [C04-00510A.wrl](./Model3d/wrl/C04-00510A.wrl)
-- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00510A.x3d) : 	 [C04-00510A.x3d](./Model3d/x3d/C04-00510A.x3d)
-- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00510A.scad) : 	 [C04-00510A.scad](./Model3d/scad/C04-00510A.scad)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00510A.stl) : 	 [C04-00510A.stl](./Model3d/stl/C04-00510A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00510A.obj) : 	 [C04-00510A.obj](./Model3d/obj/C04-00510A.obj)
+- Package 3d model x3d : 	 [C04-00510A.x3d](./Model3d/x3d/C04-00510A.x3d)
+- Package 3d model scad : 	 [C04-00510A.scad](./Model3d/scad/C04-00510A.scad)
+- Package 3d model usd : 	 [C04-00510A.usd](./Model3d/usd/C04-00510A.usd)
+- Package 3d model glb : 	 [C04-00510A.glb](./Model3d/glb/C04-00510A.glb)
 Pin count : 144
 - 1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
 - 2 : PA01,  of Type IO, alternates : [ETH TXD_0, EIC EXTINT_1, PORT P_1]
@@ -24986,6 +26723,21 @@ Pin count : 144
 - Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
+
+- Package Outline Drawings : 	 [C04-00510A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 8YX
+- Package Type : 	 TQFP
+- Pin count : 	 144,00
+- Package Layout : 	 [C04-00510A.pdf](./mchp/packages/c04-00510a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00510A.wrl) : 	 [C04-00510A.wrl](./Model3d/wrl/C04-00510A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00510A.stl) : 	 [C04-00510A.stl](./Model3d/stl/C04-00510A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00510A.obj) : 	 [C04-00510A.obj](./Model3d/obj/C04-00510A.obj)
+- Package 3d model x3d : 	 [C04-00510A.x3d](./Model3d/x3d/C04-00510A.x3d)
+- Package 3d model scad : 	 [C04-00510A.scad](./Model3d/scad/C04-00510A.scad)
+- Package 3d model usd : 	 [C04-00510A.usd](./Model3d/usd/C04-00510A.usd)
+- Package 3d model glb : 	 [C04-00510A.glb](./Model3d/glb/C04-00510A.glb)
+
+please check that some data is inconsistent 	 
 
 Pin count : 144
 - A1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
@@ -25159,8 +26911,12 @@ Pin count : 144
 - Pin count : 	 144,00
 - Package Layout : 	 [C04-00511A.pdf](./mchp/packages/c04-00511a.pdf)
 - Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00511A.wrl) : 	 [C04-00511A.wrl](./Model3d/wrl/C04-00511A.wrl)
-- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00511A.x3d) : 	 [C04-00511A.x3d](./Model3d/x3d/C04-00511A.x3d)
-- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00511A.scad) : 	 [C04-00511A.scad](./Model3d/scad/C04-00511A.scad)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00511A.stl) : 	 [C04-00511A.stl](./Model3d/stl/C04-00511A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00511A.obj) : 	 [C04-00511A.obj](./Model3d/obj/C04-00511A.obj)
+- Package 3d model x3d : 	 [C04-00511A.x3d](./Model3d/x3d/C04-00511A.x3d)
+- Package 3d model scad : 	 [C04-00511A.scad](./Model3d/scad/C04-00511A.scad)
+- Package 3d model usd : 	 [C04-00511A.usd](./Model3d/usd/C04-00511A.usd)
+- Package 3d model glb : 	 [C04-00511A.glb](./Model3d/glb/C04-00511A.glb)
 Pin count : 144
 - A2 : PD11,  of Type IO, alternates : [PORT P_107, ETH RXD_0, SERCOM2:2 PAD_0, EIC EXTINT_11, TCC2:1 WO_1]
 - A3 : PD10,  of Type IO, alternates : [PORT P_106, EIC EXTINT_10, ETH RXD_1, TCC2:1 WO_0]
@@ -25332,8 +27088,12 @@ Pin count : 144
 - Package Type : 	 TFBGA
 - Pin count : 	 176,00
 - Package Layout : 	 [C04-00515A.pdf](./mchp/packages/c04-00515a.pdf)
-- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00515A.x3d) : 	 [C04-00515A.x3d](./Model3d/x3d/C04-00515A.x3d)
-- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00515A.scad) : 	 [C04-00515A.scad](./Model3d/scad/C04-00515A.scad)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00515A.stl) : 	 [C04-00515A.stl](./Model3d/stl/C04-00515A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00515A.obj) : 	 [C04-00515A.obj](./Model3d/obj/C04-00515A.obj)
+- Package 3d model x3d : 	 [C04-00515A.x3d](./Model3d/x3d/C04-00515A.x3d)
+- Package 3d model scad : 	 [C04-00515A.scad](./Model3d/scad/C04-00515A.scad)
+- Package 3d model usd : 	 [C04-00515A.usd](./Model3d/usd/C04-00515A.usd)
+- Package 3d model glb : 	 [C04-00515A.glb](./Model3d/glb/C04-00515A.glb)
 Pin count : 176
 - A2 : PD10,  of Type IO, alternates : [PORT P_106, EIC EXTINT_10, ETH RXD_1, TCC2:1 WO_0]
 - A3 : PD09,  of Type IO, alternates : [PORT P_105, MLB MLBD_, CAN1:2 TX_, EIC EXTINT_9, ETH CRS_]
@@ -25532,6 +27292,20 @@ Pin count : 176
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00515A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 5MX
+- Package Type : 	 TFBGA
+- Pin count : 	 176,00
+- Package Layout : 	 [C04-00515A.pdf](./mchp/packages/c04-00515a.pdf)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00515A.stl) : 	 [C04-00515A.stl](./Model3d/stl/C04-00515A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00515A.obj) : 	 [C04-00515A.obj](./Model3d/obj/C04-00515A.obj)
+- Package 3d model x3d : 	 [C04-00515A.x3d](./Model3d/x3d/C04-00515A.x3d)
+- Package 3d model scad : 	 [C04-00515A.scad](./Model3d/scad/C04-00515A.scad)
+- Package 3d model usd : 	 [C04-00515A.usd](./Model3d/usd/C04-00515A.usd)
+- Package 3d model glb : 	 [C04-00515A.glb](./Model3d/glb/C04-00515A.glb)
+
+please check that some data is inconsistent 	 
+
 Pin count : 176
 - A1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
 - A2 : PA02,  of Type IO, alternates : [TCC2:1 WO_5, ETH TXEN_, PORT P_2, EIC EXTINT_2, DSU PMSA_7]
@@ -25729,6 +27503,20 @@ Pin count : 176
 - Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
+
+- Package Outline Drawings : 	 [C04-00515A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 5MX
+- Package Type : 	 TFBGA
+- Pin count : 	 176,00
+- Package Layout : 	 [C04-00515A.pdf](./mchp/packages/c04-00515a.pdf)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00515A.stl) : 	 [C04-00515A.stl](./Model3d/stl/C04-00515A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00515A.obj) : 	 [C04-00515A.obj](./Model3d/obj/C04-00515A.obj)
+- Package 3d model x3d : 	 [C04-00515A.x3d](./Model3d/x3d/C04-00515A.x3d)
+- Package 3d model scad : 	 [C04-00515A.scad](./Model3d/scad/C04-00515A.scad)
+- Package 3d model usd : 	 [C04-00515A.usd](./Model3d/usd/C04-00515A.usd)
+- Package 3d model glb : 	 [C04-00515A.glb](./Model3d/glb/C04-00515A.glb)
+
+please check that some data is inconsistent 	 
 
 Pin count : 176
 - 1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
@@ -25933,8 +27721,12 @@ Pin count : 176
 - Package Type : 	 TFBGA
 - Pin count : 	 176,00
 - Package Layout : 	 [C04-00515A.pdf](./mchp/packages/c04-00515a.pdf)
-- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00515A.x3d) : 	 [C04-00515A.x3d](./Model3d/x3d/C04-00515A.x3d)
-- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00515A.scad) : 	 [C04-00515A.scad](./Model3d/scad/C04-00515A.scad)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00515A.stl) : 	 [C04-00515A.stl](./Model3d/stl/C04-00515A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00515A.obj) : 	 [C04-00515A.obj](./Model3d/obj/C04-00515A.obj)
+- Package 3d model x3d : 	 [C04-00515A.x3d](./Model3d/x3d/C04-00515A.x3d)
+- Package 3d model scad : 	 [C04-00515A.scad](./Model3d/scad/C04-00515A.scad)
+- Package 3d model usd : 	 [C04-00515A.usd](./Model3d/usd/C04-00515A.usd)
+- Package 3d model glb : 	 [C04-00515A.glb](./Model3d/glb/C04-00515A.glb)
 Pin count : 176
 - A2 : PD10,  of Type IO, alternates : [PORT P_106, EIC EXTINT_10, ETH RXD_1, TCC2:1 WO_0]
 - A3 : PD09,  of Type IO, alternates : [PORT P_105, MLB MLBD_, CAN1:2 TX_, EIC EXTINT_9, ETH CRS_]
@@ -26133,6 +27925,20 @@ Pin count : 176
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00515A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 5MX
+- Package Type : 	 TFBGA
+- Pin count : 	 176,00
+- Package Layout : 	 [C04-00515A.pdf](./mchp/packages/c04-00515a.pdf)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00515A.stl) : 	 [C04-00515A.stl](./Model3d/stl/C04-00515A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00515A.obj) : 	 [C04-00515A.obj](./Model3d/obj/C04-00515A.obj)
+- Package 3d model x3d : 	 [C04-00515A.x3d](./Model3d/x3d/C04-00515A.x3d)
+- Package 3d model scad : 	 [C04-00515A.scad](./Model3d/scad/C04-00515A.scad)
+- Package 3d model usd : 	 [C04-00515A.usd](./Model3d/usd/C04-00515A.usd)
+- Package 3d model glb : 	 [C04-00515A.glb](./Model3d/glb/C04-00515A.glb)
+
+please check that some data is inconsistent 	 
+
 Pin count : 176
 - A1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
 - A2 : PA02,  of Type IO, alternates : [TCC2:1 WO_5, ETH TXEN_, PORT P_2, EIC EXTINT_2, DSU PMSA_7]
@@ -26330,6 +28136,20 @@ Pin count : 176
 - Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
+
+- Package Outline Drawings : 	 [C04-00515A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 5MX
+- Package Type : 	 TFBGA
+- Pin count : 	 176,00
+- Package Layout : 	 [C04-00515A.pdf](./mchp/packages/c04-00515a.pdf)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00515A.stl) : 	 [C04-00515A.stl](./Model3d/stl/C04-00515A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00515A.obj) : 	 [C04-00515A.obj](./Model3d/obj/C04-00515A.obj)
+- Package 3d model x3d : 	 [C04-00515A.x3d](./Model3d/x3d/C04-00515A.x3d)
+- Package 3d model scad : 	 [C04-00515A.scad](./Model3d/scad/C04-00515A.scad)
+- Package 3d model usd : 	 [C04-00515A.usd](./Model3d/usd/C04-00515A.usd)
+- Package 3d model glb : 	 [C04-00515A.glb](./Model3d/glb/C04-00515A.glb)
+
+please check that some data is inconsistent 	 
 
 Pin count : 176
 - 1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
@@ -26534,8 +28354,12 @@ Pin count : 176
 - Package Type : 	 TFBGA
 - Pin count : 	 176,00
 - Package Layout : 	 [C04-00515A.pdf](./mchp/packages/c04-00515a.pdf)
-- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00515A.x3d) : 	 [C04-00515A.x3d](./Model3d/x3d/C04-00515A.x3d)
-- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00515A.scad) : 	 [C04-00515A.scad](./Model3d/scad/C04-00515A.scad)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00515A.stl) : 	 [C04-00515A.stl](./Model3d/stl/C04-00515A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00515A.obj) : 	 [C04-00515A.obj](./Model3d/obj/C04-00515A.obj)
+- Package 3d model x3d : 	 [C04-00515A.x3d](./Model3d/x3d/C04-00515A.x3d)
+- Package 3d model scad : 	 [C04-00515A.scad](./Model3d/scad/C04-00515A.scad)
+- Package 3d model usd : 	 [C04-00515A.usd](./Model3d/usd/C04-00515A.usd)
+- Package 3d model glb : 	 [C04-00515A.glb](./Model3d/glb/C04-00515A.glb)
 Pin count : 176
 - A2 : PD10,  of Type IO, alternates : [PORT P_106, EIC EXTINT_10, ETH RXD_1, TCC2:1 WO_0]
 - A3 : PD09,  of Type IO, alternates : [PORT P_105, MLB MLBD_, CAN1:2 TX_, EIC EXTINT_9, ETH CRS_]
@@ -26733,6 +28557,20 @@ Pin count : 176
 - Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
+
+- Package Outline Drawings : 	 [C04-00515A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 5MX
+- Package Type : 	 TFBGA
+- Pin count : 	 176,00
+- Package Layout : 	 [C04-00515A.pdf](./mchp/packages/c04-00515a.pdf)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00515A.stl) : 	 [C04-00515A.stl](./Model3d/stl/C04-00515A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00515A.obj) : 	 [C04-00515A.obj](./Model3d/obj/C04-00515A.obj)
+- Package 3d model x3d : 	 [C04-00515A.x3d](./Model3d/x3d/C04-00515A.x3d)
+- Package 3d model scad : 	 [C04-00515A.scad](./Model3d/scad/C04-00515A.scad)
+- Package 3d model usd : 	 [C04-00515A.usd](./Model3d/usd/C04-00515A.usd)
+- Package 3d model glb : 	 [C04-00515A.glb](./Model3d/glb/C04-00515A.glb)
+
+please check that some data is inconsistent 	 
 
 Pin count : 176
 - A1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
@@ -26932,6 +28770,20 @@ Pin count : 176
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00515A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 5MX
+- Package Type : 	 TFBGA
+- Pin count : 	 176,00
+- Package Layout : 	 [C04-00515A.pdf](./mchp/packages/c04-00515a.pdf)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00515A.stl) : 	 [C04-00515A.stl](./Model3d/stl/C04-00515A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00515A.obj) : 	 [C04-00515A.obj](./Model3d/obj/C04-00515A.obj)
+- Package 3d model x3d : 	 [C04-00515A.x3d](./Model3d/x3d/C04-00515A.x3d)
+- Package 3d model scad : 	 [C04-00515A.scad](./Model3d/scad/C04-00515A.scad)
+- Package 3d model usd : 	 [C04-00515A.usd](./Model3d/usd/C04-00515A.usd)
+- Package 3d model glb : 	 [C04-00515A.glb](./Model3d/glb/C04-00515A.glb)
+
+please check that some data is inconsistent 	 
+
 Pin count : 176
 - 1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
 - 2 : PA01,  of Type IO, alternates : [ETH TXD_0, EIC EXTINT_1, PORT P_1]
@@ -27129,6 +28981,21 @@ Pin count : 176
 - Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
+
+- Package Outline Drawings : 	 [C04-00516A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 8MX
+- Package Type : 	 TFBGA
+- Pin count : 	 208,00
+- Package Layout : 	 [C04-00516A.pdf](./mchp/packages/c04-00516a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00516A.wrl) : 	 [C04-00516A.wrl](./Model3d/wrl/C04-00516A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00516A.stl) : 	 [C04-00516A.stl](./Model3d/stl/C04-00516A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00516A.obj) : 	 [C04-00516A.obj](./Model3d/obj/C04-00516A.obj)
+- Package 3d model x3d : 	 [C04-00516A.x3d](./Model3d/x3d/C04-00516A.x3d)
+- Package 3d model scad : 	 [C04-00516A.scad](./Model3d/scad/C04-00516A.scad)
+- Package 3d model usd : 	 [C04-00516A.usd](./Model3d/usd/C04-00516A.usd)
+- Package 3d model glb : 	 [C04-00516A.glb](./Model3d/glb/C04-00516A.glb)
+
+please check that some data is inconsistent 	 
 
 Pin count : 208
 - 1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
@@ -27360,6 +29227,21 @@ Pin count : 208
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00516A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 8MX
+- Package Type : 	 TFBGA
+- Pin count : 	 208,00
+- Package Layout : 	 [C04-00516A.pdf](./mchp/packages/c04-00516a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00516A.wrl) : 	 [C04-00516A.wrl](./Model3d/wrl/C04-00516A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00516A.stl) : 	 [C04-00516A.stl](./Model3d/stl/C04-00516A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00516A.obj) : 	 [C04-00516A.obj](./Model3d/obj/C04-00516A.obj)
+- Package 3d model x3d : 	 [C04-00516A.x3d](./Model3d/x3d/C04-00516A.x3d)
+- Package 3d model scad : 	 [C04-00516A.scad](./Model3d/scad/C04-00516A.scad)
+- Package 3d model usd : 	 [C04-00516A.usd](./Model3d/usd/C04-00516A.usd)
+- Package 3d model glb : 	 [C04-00516A.glb](./Model3d/glb/C04-00516A.glb)
+
+please check that some data is inconsistent 	 
+
 Pin count : 208
 - 1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
 - 2 : PA01,  of Type IO, alternates : [ETH TXD_0, EIC EXTINT_1, PORT P_1]
@@ -27589,6 +29471,21 @@ Pin count : 208
 - Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
+
+- Package Outline Drawings : 	 [C04-00516A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 8MX
+- Package Type : 	 TFBGA
+- Pin count : 	 208,00
+- Package Layout : 	 [C04-00516A.pdf](./mchp/packages/c04-00516a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00516A.wrl) : 	 [C04-00516A.wrl](./Model3d/wrl/C04-00516A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00516A.stl) : 	 [C04-00516A.stl](./Model3d/stl/C04-00516A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00516A.obj) : 	 [C04-00516A.obj](./Model3d/obj/C04-00516A.obj)
+- Package 3d model x3d : 	 [C04-00516A.x3d](./Model3d/x3d/C04-00516A.x3d)
+- Package 3d model scad : 	 [C04-00516A.scad](./Model3d/scad/C04-00516A.scad)
+- Package 3d model usd : 	 [C04-00516A.usd](./Model3d/usd/C04-00516A.usd)
+- Package 3d model glb : 	 [C04-00516A.glb](./Model3d/glb/C04-00516A.glb)
+
+please check that some data is inconsistent 	 
 
 Pin count : 208
 - 1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
@@ -27820,6 +29717,21 @@ Pin count : 208
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00509A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 7YX
+- Package Type : 	 TQFP
+- Pin count : 	 100,00
+- Package Layout : 	 [C04-00509A.pdf](./mchp/packages/c04-00509a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00509A.wrl) : 	 [C04-00509A.wrl](./Model3d/wrl/C04-00509A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00509A.stl) : 	 [C04-00509A.stl](./Model3d/stl/C04-00509A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00509A.obj) : 	 [C04-00509A.obj](./Model3d/obj/C04-00509A.obj)
+- Package 3d model x3d : 	 [C04-00509A.x3d](./Model3d/x3d/C04-00509A.x3d)
+- Package 3d model scad : 	 [C04-00509A.scad](./Model3d/scad/C04-00509A.scad)
+- Package 3d model usd : 	 [C04-00509A.usd](./Model3d/usd/C04-00509A.usd)
+- Package 3d model glb : 	 [C04-00509A.glb](./Model3d/glb/C04-00509A.glb)
+
+please check that some data is inconsistent 	 
+
 Pin count : 100
 - 1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
 - 2 : PA01,  of Type IO, alternates : [ETH TXD_0, EIC EXTINT_1, PORT P_1]
@@ -27941,6 +29853,21 @@ Pin count : 100
 - Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
+
+- Package Outline Drawings : 	 [C04-00509A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 7YX
+- Package Type : 	 TQFP
+- Pin count : 	 100,00
+- Package Layout : 	 [C04-00509A.pdf](./mchp/packages/c04-00509a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00509A.wrl) : 	 [C04-00509A.wrl](./Model3d/wrl/C04-00509A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00509A.stl) : 	 [C04-00509A.stl](./Model3d/stl/C04-00509A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00509A.obj) : 	 [C04-00509A.obj](./Model3d/obj/C04-00509A.obj)
+- Package 3d model x3d : 	 [C04-00509A.x3d](./Model3d/x3d/C04-00509A.x3d)
+- Package 3d model scad : 	 [C04-00509A.scad](./Model3d/scad/C04-00509A.scad)
+- Package 3d model usd : 	 [C04-00509A.usd](./Model3d/usd/C04-00509A.usd)
+- Package 3d model glb : 	 [C04-00509A.glb](./Model3d/glb/C04-00509A.glb)
+
+please check that some data is inconsistent 	 
 
 Pin count : 100
 - 1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
@@ -28070,8 +29997,12 @@ Pin count : 100
 - Pin count : 	 100,00
 - Package Layout : 	 [C04-00509A.pdf](./mchp/packages/c04-00509a.pdf)
 - Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00509A.wrl) : 	 [C04-00509A.wrl](./Model3d/wrl/C04-00509A.wrl)
-- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00509A.x3d) : 	 [C04-00509A.x3d](./Model3d/x3d/C04-00509A.x3d)
-- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00509A.scad) : 	 [C04-00509A.scad](./Model3d/scad/C04-00509A.scad)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00509A.stl) : 	 [C04-00509A.stl](./Model3d/stl/C04-00509A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00509A.obj) : 	 [C04-00509A.obj](./Model3d/obj/C04-00509A.obj)
+- Package 3d model x3d : 	 [C04-00509A.x3d](./Model3d/x3d/C04-00509A.x3d)
+- Package 3d model scad : 	 [C04-00509A.scad](./Model3d/scad/C04-00509A.scad)
+- Package 3d model usd : 	 [C04-00509A.usd](./Model3d/usd/C04-00509A.usd)
+- Package 3d model glb : 	 [C04-00509A.glb](./Model3d/glb/C04-00509A.glb)
 Pin count : 100
 - 1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
 - 2 : PA01,  of Type IO, alternates : [ETH TXD_0, EIC EXTINT_1, PORT P_1]
@@ -28193,6 +30124,21 @@ Pin count : 100
 - Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
+
+- Package Outline Drawings : 	 [C04-00509A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 7YX
+- Package Type : 	 TQFP
+- Pin count : 	 100,00
+- Package Layout : 	 [C04-00509A.pdf](./mchp/packages/c04-00509a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00509A.wrl) : 	 [C04-00509A.wrl](./Model3d/wrl/C04-00509A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00509A.stl) : 	 [C04-00509A.stl](./Model3d/stl/C04-00509A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00509A.obj) : 	 [C04-00509A.obj](./Model3d/obj/C04-00509A.obj)
+- Package 3d model x3d : 	 [C04-00509A.x3d](./Model3d/x3d/C04-00509A.x3d)
+- Package 3d model scad : 	 [C04-00509A.scad](./Model3d/scad/C04-00509A.scad)
+- Package 3d model usd : 	 [C04-00509A.usd](./Model3d/usd/C04-00509A.usd)
+- Package 3d model glb : 	 [C04-00509A.glb](./Model3d/glb/C04-00509A.glb)
+
+please check that some data is inconsistent 	 
 
 Pin count : 100
 - 1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
@@ -28322,8 +30268,12 @@ Pin count : 100
 - Pin count : 	 100,00
 - Package Layout : 	 [C04-00509A.pdf](./mchp/packages/c04-00509a.pdf)
 - Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00509A.wrl) : 	 [C04-00509A.wrl](./Model3d/wrl/C04-00509A.wrl)
-- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00509A.x3d) : 	 [C04-00509A.x3d](./Model3d/x3d/C04-00509A.x3d)
-- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00509A.scad) : 	 [C04-00509A.scad](./Model3d/scad/C04-00509A.scad)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00509A.stl) : 	 [C04-00509A.stl](./Model3d/stl/C04-00509A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00509A.obj) : 	 [C04-00509A.obj](./Model3d/obj/C04-00509A.obj)
+- Package 3d model x3d : 	 [C04-00509A.x3d](./Model3d/x3d/C04-00509A.x3d)
+- Package 3d model scad : 	 [C04-00509A.scad](./Model3d/scad/C04-00509A.scad)
+- Package 3d model usd : 	 [C04-00509A.usd](./Model3d/usd/C04-00509A.usd)
+- Package 3d model glb : 	 [C04-00509A.glb](./Model3d/glb/C04-00509A.glb)
 Pin count : 100
 - 1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
 - 2 : PA01,  of Type IO, alternates : [ETH TXD_0, EIC EXTINT_1, PORT P_1]
@@ -28446,6 +30396,21 @@ Pin count : 100
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00509A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 7YX
+- Package Type : 	 TQFP
+- Pin count : 	 100,00
+- Package Layout : 	 [C04-00509A.pdf](./mchp/packages/c04-00509a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00509A.wrl) : 	 [C04-00509A.wrl](./Model3d/wrl/C04-00509A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00509A.stl) : 	 [C04-00509A.stl](./Model3d/stl/C04-00509A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00509A.obj) : 	 [C04-00509A.obj](./Model3d/obj/C04-00509A.obj)
+- Package 3d model x3d : 	 [C04-00509A.x3d](./Model3d/x3d/C04-00509A.x3d)
+- Package 3d model scad : 	 [C04-00509A.scad](./Model3d/scad/C04-00509A.scad)
+- Package 3d model usd : 	 [C04-00509A.usd](./Model3d/usd/C04-00509A.usd)
+- Package 3d model glb : 	 [C04-00509A.glb](./Model3d/glb/C04-00509A.glb)
+
+please check that some data is inconsistent 	 
+
 Pin count : 100
 - 1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
 - 2 : PA01,  of Type IO, alternates : [ETH TXD_0, EIC EXTINT_1, PORT P_1]
@@ -28567,6 +30532,21 @@ Pin count : 100
 - Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
+
+- Package Outline Drawings : 	 [C04-00510A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 8YX
+- Package Type : 	 TQFP
+- Pin count : 	 144,00
+- Package Layout : 	 [C04-00510A.pdf](./mchp/packages/c04-00510a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00510A.wrl) : 	 [C04-00510A.wrl](./Model3d/wrl/C04-00510A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00510A.stl) : 	 [C04-00510A.stl](./Model3d/stl/C04-00510A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00510A.obj) : 	 [C04-00510A.obj](./Model3d/obj/C04-00510A.obj)
+- Package 3d model x3d : 	 [C04-00510A.x3d](./Model3d/x3d/C04-00510A.x3d)
+- Package 3d model scad : 	 [C04-00510A.scad](./Model3d/scad/C04-00510A.scad)
+- Package 3d model usd : 	 [C04-00510A.usd](./Model3d/usd/C04-00510A.usd)
+- Package 3d model glb : 	 [C04-00510A.glb](./Model3d/glb/C04-00510A.glb)
+
+please check that some data is inconsistent 	 
 
 Pin count : 144
 - 1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
@@ -28734,6 +30714,21 @@ Pin count : 144
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00510A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 8YX
+- Package Type : 	 TQFP
+- Pin count : 	 144,00
+- Package Layout : 	 [C04-00510A.pdf](./mchp/packages/c04-00510a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00510A.wrl) : 	 [C04-00510A.wrl](./Model3d/wrl/C04-00510A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00510A.stl) : 	 [C04-00510A.stl](./Model3d/stl/C04-00510A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00510A.obj) : 	 [C04-00510A.obj](./Model3d/obj/C04-00510A.obj)
+- Package 3d model x3d : 	 [C04-00510A.x3d](./Model3d/x3d/C04-00510A.x3d)
+- Package 3d model scad : 	 [C04-00510A.scad](./Model3d/scad/C04-00510A.scad)
+- Package 3d model usd : 	 [C04-00510A.usd](./Model3d/usd/C04-00510A.usd)
+- Package 3d model glb : 	 [C04-00510A.glb](./Model3d/glb/C04-00510A.glb)
+
+please check that some data is inconsistent 	 
+
 Pin count : 144
 - A1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
 - A2 : PA02,  of Type IO, alternates : [TCC2:1 WO_5, ETH TXEN_, PORT P_2, EIC EXTINT_2, DSU PMSA_7]
@@ -28899,6 +30894,21 @@ Pin count : 144
 - Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
+
+- Package Outline Drawings : 	 [C04-00510A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 8YX
+- Package Type : 	 TQFP
+- Pin count : 	 144,00
+- Package Layout : 	 [C04-00510A.pdf](./mchp/packages/c04-00510a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00510A.wrl) : 	 [C04-00510A.wrl](./Model3d/wrl/C04-00510A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00510A.stl) : 	 [C04-00510A.stl](./Model3d/stl/C04-00510A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00510A.obj) : 	 [C04-00510A.obj](./Model3d/obj/C04-00510A.obj)
+- Package 3d model x3d : 	 [C04-00510A.x3d](./Model3d/x3d/C04-00510A.x3d)
+- Package 3d model scad : 	 [C04-00510A.scad](./Model3d/scad/C04-00510A.scad)
+- Package 3d model usd : 	 [C04-00510A.usd](./Model3d/usd/C04-00510A.usd)
+- Package 3d model glb : 	 [C04-00510A.glb](./Model3d/glb/C04-00510A.glb)
+
+please check that some data is inconsistent 	 
 
 Pin count : 144
 - A2 : PD11,  of Type IO, alternates : [PORT P_107, ETH RXD_0, SERCOM2:2 PAD_0, EIC EXTINT_11, TCC2:1 WO_1]
@@ -29072,8 +31082,12 @@ Pin count : 144
 - Pin count : 	 144,00
 - Package Layout : 	 [C04-00510A.pdf](./mchp/packages/c04-00510a.pdf)
 - Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00510A.wrl) : 	 [C04-00510A.wrl](./Model3d/wrl/C04-00510A.wrl)
-- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00510A.x3d) : 	 [C04-00510A.x3d](./Model3d/x3d/C04-00510A.x3d)
-- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00510A.scad) : 	 [C04-00510A.scad](./Model3d/scad/C04-00510A.scad)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00510A.stl) : 	 [C04-00510A.stl](./Model3d/stl/C04-00510A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00510A.obj) : 	 [C04-00510A.obj](./Model3d/obj/C04-00510A.obj)
+- Package 3d model x3d : 	 [C04-00510A.x3d](./Model3d/x3d/C04-00510A.x3d)
+- Package 3d model scad : 	 [C04-00510A.scad](./Model3d/scad/C04-00510A.scad)
+- Package 3d model usd : 	 [C04-00510A.usd](./Model3d/usd/C04-00510A.usd)
+- Package 3d model glb : 	 [C04-00510A.glb](./Model3d/glb/C04-00510A.glb)
 Pin count : 144
 - 1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
 - 2 : PA01,  of Type IO, alternates : [ETH TXD_0, EIC EXTINT_1, PORT P_1]
@@ -29239,6 +31253,21 @@ Pin count : 144
 - Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
+
+- Package Outline Drawings : 	 [C04-00510A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 8YX
+- Package Type : 	 TQFP
+- Pin count : 	 144,00
+- Package Layout : 	 [C04-00510A.pdf](./mchp/packages/c04-00510a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00510A.wrl) : 	 [C04-00510A.wrl](./Model3d/wrl/C04-00510A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00510A.stl) : 	 [C04-00510A.stl](./Model3d/stl/C04-00510A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00510A.obj) : 	 [C04-00510A.obj](./Model3d/obj/C04-00510A.obj)
+- Package 3d model x3d : 	 [C04-00510A.x3d](./Model3d/x3d/C04-00510A.x3d)
+- Package 3d model scad : 	 [C04-00510A.scad](./Model3d/scad/C04-00510A.scad)
+- Package 3d model usd : 	 [C04-00510A.usd](./Model3d/usd/C04-00510A.usd)
+- Package 3d model glb : 	 [C04-00510A.glb](./Model3d/glb/C04-00510A.glb)
+
+please check that some data is inconsistent 	 
 
 Pin count : 144
 - A1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
@@ -29412,8 +31441,12 @@ Pin count : 144
 - Pin count : 	 144,00
 - Package Layout : 	 [C04-00511A.pdf](./mchp/packages/c04-00511a.pdf)
 - Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00511A.wrl) : 	 [C04-00511A.wrl](./Model3d/wrl/C04-00511A.wrl)
-- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00511A.x3d) : 	 [C04-00511A.x3d](./Model3d/x3d/C04-00511A.x3d)
-- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00511A.scad) : 	 [C04-00511A.scad](./Model3d/scad/C04-00511A.scad)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00511A.stl) : 	 [C04-00511A.stl](./Model3d/stl/C04-00511A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00511A.obj) : 	 [C04-00511A.obj](./Model3d/obj/C04-00511A.obj)
+- Package 3d model x3d : 	 [C04-00511A.x3d](./Model3d/x3d/C04-00511A.x3d)
+- Package 3d model scad : 	 [C04-00511A.scad](./Model3d/scad/C04-00511A.scad)
+- Package 3d model usd : 	 [C04-00511A.usd](./Model3d/usd/C04-00511A.usd)
+- Package 3d model glb : 	 [C04-00511A.glb](./Model3d/glb/C04-00511A.glb)
 Pin count : 144
 - A2 : PD11,  of Type IO, alternates : [PORT P_107, ETH RXD_0, SERCOM2:2 PAD_0, EIC EXTINT_11, TCC2:1 WO_1]
 - A3 : PD10,  of Type IO, alternates : [PORT P_106, EIC EXTINT_10, ETH RXD_1, TCC2:1 WO_0]
@@ -29586,8 +31619,12 @@ Pin count : 144
 - Pin count : 	 144,00
 - Package Layout : 	 [C04-00510A.pdf](./mchp/packages/c04-00510a.pdf)
 - Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00510A.wrl) : 	 [C04-00510A.wrl](./Model3d/wrl/C04-00510A.wrl)
-- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00510A.x3d) : 	 [C04-00510A.x3d](./Model3d/x3d/C04-00510A.x3d)
-- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00510A.scad) : 	 [C04-00510A.scad](./Model3d/scad/C04-00510A.scad)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00510A.stl) : 	 [C04-00510A.stl](./Model3d/stl/C04-00510A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00510A.obj) : 	 [C04-00510A.obj](./Model3d/obj/C04-00510A.obj)
+- Package 3d model x3d : 	 [C04-00510A.x3d](./Model3d/x3d/C04-00510A.x3d)
+- Package 3d model scad : 	 [C04-00510A.scad](./Model3d/scad/C04-00510A.scad)
+- Package 3d model usd : 	 [C04-00510A.usd](./Model3d/usd/C04-00510A.usd)
+- Package 3d model glb : 	 [C04-00510A.glb](./Model3d/glb/C04-00510A.glb)
 Pin count : 144
 - 1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
 - 2 : PA01,  of Type IO, alternates : [ETH TXD_0, EIC EXTINT_1, PORT P_1]
@@ -29753,6 +31790,21 @@ Pin count : 144
 - Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
+
+- Package Outline Drawings : 	 [C04-00510A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 8YX
+- Package Type : 	 TQFP
+- Pin count : 	 144,00
+- Package Layout : 	 [C04-00510A.pdf](./mchp/packages/c04-00510a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00510A.wrl) : 	 [C04-00510A.wrl](./Model3d/wrl/C04-00510A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00510A.stl) : 	 [C04-00510A.stl](./Model3d/stl/C04-00510A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00510A.obj) : 	 [C04-00510A.obj](./Model3d/obj/C04-00510A.obj)
+- Package 3d model x3d : 	 [C04-00510A.x3d](./Model3d/x3d/C04-00510A.x3d)
+- Package 3d model scad : 	 [C04-00510A.scad](./Model3d/scad/C04-00510A.scad)
+- Package 3d model usd : 	 [C04-00510A.usd](./Model3d/usd/C04-00510A.usd)
+- Package 3d model glb : 	 [C04-00510A.glb](./Model3d/glb/C04-00510A.glb)
+
+please check that some data is inconsistent 	 
 
 Pin count : 144
 - A1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
@@ -29926,8 +31978,12 @@ Pin count : 144
 - Pin count : 	 144,00
 - Package Layout : 	 [C04-00511A.pdf](./mchp/packages/c04-00511a.pdf)
 - Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00511A.wrl) : 	 [C04-00511A.wrl](./Model3d/wrl/C04-00511A.wrl)
-- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00511A.x3d) : 	 [C04-00511A.x3d](./Model3d/x3d/C04-00511A.x3d)
-- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00511A.scad) : 	 [C04-00511A.scad](./Model3d/scad/C04-00511A.scad)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00511A.stl) : 	 [C04-00511A.stl](./Model3d/stl/C04-00511A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00511A.obj) : 	 [C04-00511A.obj](./Model3d/obj/C04-00511A.obj)
+- Package 3d model x3d : 	 [C04-00511A.x3d](./Model3d/x3d/C04-00511A.x3d)
+- Package 3d model scad : 	 [C04-00511A.scad](./Model3d/scad/C04-00511A.scad)
+- Package 3d model usd : 	 [C04-00511A.usd](./Model3d/usd/C04-00511A.usd)
+- Package 3d model glb : 	 [C04-00511A.glb](./Model3d/glb/C04-00511A.glb)
 Pin count : 144
 - A2 : PD11,  of Type IO, alternates : [PORT P_107, ETH RXD_0, SERCOM2:2 PAD_0, EIC EXTINT_11, TCC2:1 WO_1]
 - A3 : PD10,  of Type IO, alternates : [PORT P_106, EIC EXTINT_10, ETH RXD_1, TCC2:1 WO_0]
@@ -30093,6 +32149,20 @@ Pin count : 144
 - Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
+
+- Package Outline Drawings : 	 [C04-00515A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 5MX
+- Package Type : 	 TFBGA
+- Pin count : 	 176,00
+- Package Layout : 	 [C04-00515A.pdf](./mchp/packages/c04-00515a.pdf)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00515A.stl) : 	 [C04-00515A.stl](./Model3d/stl/C04-00515A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00515A.obj) : 	 [C04-00515A.obj](./Model3d/obj/C04-00515A.obj)
+- Package 3d model x3d : 	 [C04-00515A.x3d](./Model3d/x3d/C04-00515A.x3d)
+- Package 3d model scad : 	 [C04-00515A.scad](./Model3d/scad/C04-00515A.scad)
+- Package 3d model usd : 	 [C04-00515A.usd](./Model3d/usd/C04-00515A.usd)
+- Package 3d model glb : 	 [C04-00515A.glb](./Model3d/glb/C04-00515A.glb)
+
+please check that some data is inconsistent 	 
 
 Pin count : 176
 - A2 : PD10,  of Type IO, alternates : [PORT P_106, EIC EXTINT_10, ETH RXD_1, TCC2:1 WO_0]
@@ -30292,6 +32362,20 @@ Pin count : 176
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00515A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 5MX
+- Package Type : 	 TFBGA
+- Pin count : 	 176,00
+- Package Layout : 	 [C04-00515A.pdf](./mchp/packages/c04-00515a.pdf)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00515A.stl) : 	 [C04-00515A.stl](./Model3d/stl/C04-00515A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00515A.obj) : 	 [C04-00515A.obj](./Model3d/obj/C04-00515A.obj)
+- Package 3d model x3d : 	 [C04-00515A.x3d](./Model3d/x3d/C04-00515A.x3d)
+- Package 3d model scad : 	 [C04-00515A.scad](./Model3d/scad/C04-00515A.scad)
+- Package 3d model usd : 	 [C04-00515A.usd](./Model3d/usd/C04-00515A.usd)
+- Package 3d model glb : 	 [C04-00515A.glb](./Model3d/glb/C04-00515A.glb)
+
+please check that some data is inconsistent 	 
+
 Pin count : 176
 - A1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
 - A2 : PA02,  of Type IO, alternates : [TCC2:1 WO_5, ETH TXEN_, PORT P_2, EIC EXTINT_2, DSU PMSA_7]
@@ -30489,6 +32573,20 @@ Pin count : 176
 - Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
+
+- Package Outline Drawings : 	 [C04-00515A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 5MX
+- Package Type : 	 TFBGA
+- Pin count : 	 176,00
+- Package Layout : 	 [C04-00515A.pdf](./mchp/packages/c04-00515a.pdf)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00515A.stl) : 	 [C04-00515A.stl](./Model3d/stl/C04-00515A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00515A.obj) : 	 [C04-00515A.obj](./Model3d/obj/C04-00515A.obj)
+- Package 3d model x3d : 	 [C04-00515A.x3d](./Model3d/x3d/C04-00515A.x3d)
+- Package 3d model scad : 	 [C04-00515A.scad](./Model3d/scad/C04-00515A.scad)
+- Package 3d model usd : 	 [C04-00515A.usd](./Model3d/usd/C04-00515A.usd)
+- Package 3d model glb : 	 [C04-00515A.glb](./Model3d/glb/C04-00515A.glb)
+
+please check that some data is inconsistent 	 
 
 Pin count : 176
 - 1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
@@ -30693,8 +32791,12 @@ Pin count : 176
 - Package Type : 	 TFBGA
 - Pin count : 	 176,00
 - Package Layout : 	 [C04-00515A.pdf](./mchp/packages/c04-00515a.pdf)
-- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00515A.x3d) : 	 [C04-00515A.x3d](./Model3d/x3d/C04-00515A.x3d)
-- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00515A.scad) : 	 [C04-00515A.scad](./Model3d/scad/C04-00515A.scad)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00515A.stl) : 	 [C04-00515A.stl](./Model3d/stl/C04-00515A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00515A.obj) : 	 [C04-00515A.obj](./Model3d/obj/C04-00515A.obj)
+- Package 3d model x3d : 	 [C04-00515A.x3d](./Model3d/x3d/C04-00515A.x3d)
+- Package 3d model scad : 	 [C04-00515A.scad](./Model3d/scad/C04-00515A.scad)
+- Package 3d model usd : 	 [C04-00515A.usd](./Model3d/usd/C04-00515A.usd)
+- Package 3d model glb : 	 [C04-00515A.glb](./Model3d/glb/C04-00515A.glb)
 Pin count : 176
 - A2 : PD10,  of Type IO, alternates : [PORT P_106, EIC EXTINT_10, ETH RXD_1, TCC2:1 WO_0]
 - A3 : PD09,  of Type IO, alternates : [PORT P_105, MLB MLBD_, CAN1:2 TX_, EIC EXTINT_9, ETH CRS_]
@@ -30893,6 +32995,20 @@ Pin count : 176
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00515A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 5MX
+- Package Type : 	 TFBGA
+- Pin count : 	 176,00
+- Package Layout : 	 [C04-00515A.pdf](./mchp/packages/c04-00515a.pdf)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00515A.stl) : 	 [C04-00515A.stl](./Model3d/stl/C04-00515A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00515A.obj) : 	 [C04-00515A.obj](./Model3d/obj/C04-00515A.obj)
+- Package 3d model x3d : 	 [C04-00515A.x3d](./Model3d/x3d/C04-00515A.x3d)
+- Package 3d model scad : 	 [C04-00515A.scad](./Model3d/scad/C04-00515A.scad)
+- Package 3d model usd : 	 [C04-00515A.usd](./Model3d/usd/C04-00515A.usd)
+- Package 3d model glb : 	 [C04-00515A.glb](./Model3d/glb/C04-00515A.glb)
+
+please check that some data is inconsistent 	 
+
 Pin count : 176
 - A1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
 - A2 : PA02,  of Type IO, alternates : [TCC2:1 WO_5, ETH TXEN_, PORT P_2, EIC EXTINT_2, DSU PMSA_7]
@@ -31090,6 +33206,20 @@ Pin count : 176
 - Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
+
+- Package Outline Drawings : 	 [C04-00515A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 5MX
+- Package Type : 	 TFBGA
+- Pin count : 	 176,00
+- Package Layout : 	 [C04-00515A.pdf](./mchp/packages/c04-00515a.pdf)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00515A.stl) : 	 [C04-00515A.stl](./Model3d/stl/C04-00515A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00515A.obj) : 	 [C04-00515A.obj](./Model3d/obj/C04-00515A.obj)
+- Package 3d model x3d : 	 [C04-00515A.x3d](./Model3d/x3d/C04-00515A.x3d)
+- Package 3d model scad : 	 [C04-00515A.scad](./Model3d/scad/C04-00515A.scad)
+- Package 3d model usd : 	 [C04-00515A.usd](./Model3d/usd/C04-00515A.usd)
+- Package 3d model glb : 	 [C04-00515A.glb](./Model3d/glb/C04-00515A.glb)
+
+please check that some data is inconsistent 	 
 
 Pin count : 176
 - 1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
@@ -31294,8 +33424,12 @@ Pin count : 176
 - Package Type : 	 TFBGA
 - Pin count : 	 176,00
 - Package Layout : 	 [C04-00515A.pdf](./mchp/packages/c04-00515a.pdf)
-- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00515A.x3d) : 	 [C04-00515A.x3d](./Model3d/x3d/C04-00515A.x3d)
-- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00515A.scad) : 	 [C04-00515A.scad](./Model3d/scad/C04-00515A.scad)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00515A.stl) : 	 [C04-00515A.stl](./Model3d/stl/C04-00515A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00515A.obj) : 	 [C04-00515A.obj](./Model3d/obj/C04-00515A.obj)
+- Package 3d model x3d : 	 [C04-00515A.x3d](./Model3d/x3d/C04-00515A.x3d)
+- Package 3d model scad : 	 [C04-00515A.scad](./Model3d/scad/C04-00515A.scad)
+- Package 3d model usd : 	 [C04-00515A.usd](./Model3d/usd/C04-00515A.usd)
+- Package 3d model glb : 	 [C04-00515A.glb](./Model3d/glb/C04-00515A.glb)
 Pin count : 176
 - A2 : PD10,  of Type IO, alternates : [PORT P_106, EIC EXTINT_10, ETH RXD_1, TCC2:1 WO_0]
 - A3 : PD09,  of Type IO, alternates : [PORT P_105, MLB MLBD_, CAN1:2 TX_, EIC EXTINT_9, ETH CRS_]
@@ -31493,6 +33627,20 @@ Pin count : 176
 - Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
+
+- Package Outline Drawings : 	 [C04-00515A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 5MX
+- Package Type : 	 TFBGA
+- Pin count : 	 176,00
+- Package Layout : 	 [C04-00515A.pdf](./mchp/packages/c04-00515a.pdf)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00515A.stl) : 	 [C04-00515A.stl](./Model3d/stl/C04-00515A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00515A.obj) : 	 [C04-00515A.obj](./Model3d/obj/C04-00515A.obj)
+- Package 3d model x3d : 	 [C04-00515A.x3d](./Model3d/x3d/C04-00515A.x3d)
+- Package 3d model scad : 	 [C04-00515A.scad](./Model3d/scad/C04-00515A.scad)
+- Package 3d model usd : 	 [C04-00515A.usd](./Model3d/usd/C04-00515A.usd)
+- Package 3d model glb : 	 [C04-00515A.glb](./Model3d/glb/C04-00515A.glb)
+
+please check that some data is inconsistent 	 
 
 Pin count : 176
 - A1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
@@ -31692,6 +33840,20 @@ Pin count : 176
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00515A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 5MX
+- Package Type : 	 TFBGA
+- Pin count : 	 176,00
+- Package Layout : 	 [C04-00515A.pdf](./mchp/packages/c04-00515a.pdf)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00515A.stl) : 	 [C04-00515A.stl](./Model3d/stl/C04-00515A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00515A.obj) : 	 [C04-00515A.obj](./Model3d/obj/C04-00515A.obj)
+- Package 3d model x3d : 	 [C04-00515A.x3d](./Model3d/x3d/C04-00515A.x3d)
+- Package 3d model scad : 	 [C04-00515A.scad](./Model3d/scad/C04-00515A.scad)
+- Package 3d model usd : 	 [C04-00515A.usd](./Model3d/usd/C04-00515A.usd)
+- Package 3d model glb : 	 [C04-00515A.glb](./Model3d/glb/C04-00515A.glb)
+
+please check that some data is inconsistent 	 
+
 Pin count : 176
 - 1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
 - 2 : PA01,  of Type IO, alternates : [ETH TXD_0, EIC EXTINT_1, PORT P_1]
@@ -31889,6 +34051,21 @@ Pin count : 176
 - Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
+
+- Package Outline Drawings : 	 [C04-00516A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 8MX
+- Package Type : 	 TFBGA
+- Pin count : 	 208,00
+- Package Layout : 	 [C04-00516A.pdf](./mchp/packages/c04-00516a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00516A.wrl) : 	 [C04-00516A.wrl](./Model3d/wrl/C04-00516A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00516A.stl) : 	 [C04-00516A.stl](./Model3d/stl/C04-00516A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00516A.obj) : 	 [C04-00516A.obj](./Model3d/obj/C04-00516A.obj)
+- Package 3d model x3d : 	 [C04-00516A.x3d](./Model3d/x3d/C04-00516A.x3d)
+- Package 3d model scad : 	 [C04-00516A.scad](./Model3d/scad/C04-00516A.scad)
+- Package 3d model usd : 	 [C04-00516A.usd](./Model3d/usd/C04-00516A.usd)
+- Package 3d model glb : 	 [C04-00516A.glb](./Model3d/glb/C04-00516A.glb)
+
+please check that some data is inconsistent 	 
 
 Pin count : 208
 - 1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
@@ -32120,6 +34297,21 @@ Pin count : 208
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00516A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 8MX
+- Package Type : 	 TFBGA
+- Pin count : 	 208,00
+- Package Layout : 	 [C04-00516A.pdf](./mchp/packages/c04-00516a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00516A.wrl) : 	 [C04-00516A.wrl](./Model3d/wrl/C04-00516A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00516A.stl) : 	 [C04-00516A.stl](./Model3d/stl/C04-00516A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00516A.obj) : 	 [C04-00516A.obj](./Model3d/obj/C04-00516A.obj)
+- Package 3d model x3d : 	 [C04-00516A.x3d](./Model3d/x3d/C04-00516A.x3d)
+- Package 3d model scad : 	 [C04-00516A.scad](./Model3d/scad/C04-00516A.scad)
+- Package 3d model usd : 	 [C04-00516A.usd](./Model3d/usd/C04-00516A.usd)
+- Package 3d model glb : 	 [C04-00516A.glb](./Model3d/glb/C04-00516A.glb)
+
+please check that some data is inconsistent 	 
+
 Pin count : 208
 - 1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
 - 2 : PA01,  of Type IO, alternates : [ETH TXD_0, EIC EXTINT_1, PORT P_1]
@@ -32349,6 +34541,21 @@ Pin count : 208
 - Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
+
+- Package Outline Drawings : 	 [C04-00516A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 8MX
+- Package Type : 	 TFBGA
+- Pin count : 	 208,00
+- Package Layout : 	 [C04-00516A.pdf](./mchp/packages/c04-00516a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00516A.wrl) : 	 [C04-00516A.wrl](./Model3d/wrl/C04-00516A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00516A.stl) : 	 [C04-00516A.stl](./Model3d/stl/C04-00516A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00516A.obj) : 	 [C04-00516A.obj](./Model3d/obj/C04-00516A.obj)
+- Package 3d model x3d : 	 [C04-00516A.x3d](./Model3d/x3d/C04-00516A.x3d)
+- Package 3d model scad : 	 [C04-00516A.scad](./Model3d/scad/C04-00516A.scad)
+- Package 3d model usd : 	 [C04-00516A.usd](./Model3d/usd/C04-00516A.usd)
+- Package 3d model glb : 	 [C04-00516A.glb](./Model3d/glb/C04-00516A.glb)
+
+please check that some data is inconsistent 	 
 
 Pin count : 208
 - 1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
@@ -32580,6 +34787,21 @@ Pin count : 208
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00509A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 7YX
+- Package Type : 	 TQFP
+- Pin count : 	 100,00
+- Package Layout : 	 [C04-00509A.pdf](./mchp/packages/c04-00509a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00509A.wrl) : 	 [C04-00509A.wrl](./Model3d/wrl/C04-00509A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00509A.stl) : 	 [C04-00509A.stl](./Model3d/stl/C04-00509A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00509A.obj) : 	 [C04-00509A.obj](./Model3d/obj/C04-00509A.obj)
+- Package 3d model x3d : 	 [C04-00509A.x3d](./Model3d/x3d/C04-00509A.x3d)
+- Package 3d model scad : 	 [C04-00509A.scad](./Model3d/scad/C04-00509A.scad)
+- Package 3d model usd : 	 [C04-00509A.usd](./Model3d/usd/C04-00509A.usd)
+- Package 3d model glb : 	 [C04-00509A.glb](./Model3d/glb/C04-00509A.glb)
+
+please check that some data is inconsistent 	 
+
 Pin count : 100
 - 1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
 - 2 : PA01,  of Type IO, alternates : [ETH TXD_0, EIC EXTINT_1, PORT P_1]
@@ -32701,6 +34923,21 @@ Pin count : 100
 - Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
+
+- Package Outline Drawings : 	 [C04-00509A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 7YX
+- Package Type : 	 TQFP
+- Pin count : 	 100,00
+- Package Layout : 	 [C04-00509A.pdf](./mchp/packages/c04-00509a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00509A.wrl) : 	 [C04-00509A.wrl](./Model3d/wrl/C04-00509A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00509A.stl) : 	 [C04-00509A.stl](./Model3d/stl/C04-00509A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00509A.obj) : 	 [C04-00509A.obj](./Model3d/obj/C04-00509A.obj)
+- Package 3d model x3d : 	 [C04-00509A.x3d](./Model3d/x3d/C04-00509A.x3d)
+- Package 3d model scad : 	 [C04-00509A.scad](./Model3d/scad/C04-00509A.scad)
+- Package 3d model usd : 	 [C04-00509A.usd](./Model3d/usd/C04-00509A.usd)
+- Package 3d model glb : 	 [C04-00509A.glb](./Model3d/glb/C04-00509A.glb)
+
+please check that some data is inconsistent 	 
 
 Pin count : 100
 - 1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
@@ -32824,6 +35061,21 @@ Pin count : 100
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00509A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 7YX
+- Package Type : 	 TQFP
+- Pin count : 	 100,00
+- Package Layout : 	 [C04-00509A.pdf](./mchp/packages/c04-00509a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00509A.wrl) : 	 [C04-00509A.wrl](./Model3d/wrl/C04-00509A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00509A.stl) : 	 [C04-00509A.stl](./Model3d/stl/C04-00509A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00509A.obj) : 	 [C04-00509A.obj](./Model3d/obj/C04-00509A.obj)
+- Package 3d model x3d : 	 [C04-00509A.x3d](./Model3d/x3d/C04-00509A.x3d)
+- Package 3d model scad : 	 [C04-00509A.scad](./Model3d/scad/C04-00509A.scad)
+- Package 3d model usd : 	 [C04-00509A.usd](./Model3d/usd/C04-00509A.usd)
+- Package 3d model glb : 	 [C04-00509A.glb](./Model3d/glb/C04-00509A.glb)
+
+please check that some data is inconsistent 	 
+
 Pin count : 100
 - 1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
 - 2 : PA01,  of Type IO, alternates : [ETH TXD_0, EIC EXTINT_1, PORT P_1]
@@ -32945,6 +35197,21 @@ Pin count : 100
 - Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
+
+- Package Outline Drawings : 	 [C04-00510A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 8YX
+- Package Type : 	 TQFP
+- Pin count : 	 144,00
+- Package Layout : 	 [C04-00510A.pdf](./mchp/packages/c04-00510a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00510A.wrl) : 	 [C04-00510A.wrl](./Model3d/wrl/C04-00510A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00510A.stl) : 	 [C04-00510A.stl](./Model3d/stl/C04-00510A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00510A.obj) : 	 [C04-00510A.obj](./Model3d/obj/C04-00510A.obj)
+- Package 3d model x3d : 	 [C04-00510A.x3d](./Model3d/x3d/C04-00510A.x3d)
+- Package 3d model scad : 	 [C04-00510A.scad](./Model3d/scad/C04-00510A.scad)
+- Package 3d model usd : 	 [C04-00510A.usd](./Model3d/usd/C04-00510A.usd)
+- Package 3d model glb : 	 [C04-00510A.glb](./Model3d/glb/C04-00510A.glb)
+
+please check that some data is inconsistent 	 
 
 Pin count : 144
 - A1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
@@ -33112,6 +35379,21 @@ Pin count : 144
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00510A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 8YX
+- Package Type : 	 TQFP
+- Pin count : 	 144,00
+- Package Layout : 	 [C04-00510A.pdf](./mchp/packages/c04-00510a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00510A.wrl) : 	 [C04-00510A.wrl](./Model3d/wrl/C04-00510A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00510A.stl) : 	 [C04-00510A.stl](./Model3d/stl/C04-00510A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00510A.obj) : 	 [C04-00510A.obj](./Model3d/obj/C04-00510A.obj)
+- Package 3d model x3d : 	 [C04-00510A.x3d](./Model3d/x3d/C04-00510A.x3d)
+- Package 3d model scad : 	 [C04-00510A.scad](./Model3d/scad/C04-00510A.scad)
+- Package 3d model usd : 	 [C04-00510A.usd](./Model3d/usd/C04-00510A.usd)
+- Package 3d model glb : 	 [C04-00510A.glb](./Model3d/glb/C04-00510A.glb)
+
+please check that some data is inconsistent 	 
+
 Pin count : 144
 - A2 : PD11,  of Type IO, alternates : [PORT P_107, ETH RXD_0, SERCOM2:2 PAD_0, EIC EXTINT_11, TCC2:1 WO_1]
 - A3 : PD10,  of Type IO, alternates : [PORT P_106, EIC EXTINT_10, ETH RXD_1, TCC2:1 WO_0]
@@ -33277,6 +35559,21 @@ Pin count : 144
 - Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
+
+- Package Outline Drawings : 	 [C04-00510A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 8YX
+- Package Type : 	 TQFP
+- Pin count : 	 144,00
+- Package Layout : 	 [C04-00510A.pdf](./mchp/packages/c04-00510a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00510A.wrl) : 	 [C04-00510A.wrl](./Model3d/wrl/C04-00510A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00510A.stl) : 	 [C04-00510A.stl](./Model3d/stl/C04-00510A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00510A.obj) : 	 [C04-00510A.obj](./Model3d/obj/C04-00510A.obj)
+- Package 3d model x3d : 	 [C04-00510A.x3d](./Model3d/x3d/C04-00510A.x3d)
+- Package 3d model scad : 	 [C04-00510A.scad](./Model3d/scad/C04-00510A.scad)
+- Package 3d model usd : 	 [C04-00510A.usd](./Model3d/usd/C04-00510A.usd)
+- Package 3d model glb : 	 [C04-00510A.glb](./Model3d/glb/C04-00510A.glb)
+
+please check that some data is inconsistent 	 
 
 Pin count : 144
 - A1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
@@ -33450,8 +35747,12 @@ Pin count : 144
 - Pin count : 	 144,00
 - Package Layout : 	 [C04-00511A.pdf](./mchp/packages/c04-00511a.pdf)
 - Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00511A.wrl) : 	 [C04-00511A.wrl](./Model3d/wrl/C04-00511A.wrl)
-- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00511A.x3d) : 	 [C04-00511A.x3d](./Model3d/x3d/C04-00511A.x3d)
-- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00511A.scad) : 	 [C04-00511A.scad](./Model3d/scad/C04-00511A.scad)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00511A.stl) : 	 [C04-00511A.stl](./Model3d/stl/C04-00511A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00511A.obj) : 	 [C04-00511A.obj](./Model3d/obj/C04-00511A.obj)
+- Package 3d model x3d : 	 [C04-00511A.x3d](./Model3d/x3d/C04-00511A.x3d)
+- Package 3d model scad : 	 [C04-00511A.scad](./Model3d/scad/C04-00511A.scad)
+- Package 3d model usd : 	 [C04-00511A.usd](./Model3d/usd/C04-00511A.usd)
+- Package 3d model glb : 	 [C04-00511A.glb](./Model3d/glb/C04-00511A.glb)
 Pin count : 144
 - A2 : PD11,  of Type IO, alternates : [PORT P_107, ETH RXD_0, SERCOM2:2 PAD_0, EIC EXTINT_11, TCC2:1 WO_1]
 - A3 : PD10,  of Type IO, alternates : [PORT P_106, EIC EXTINT_10, ETH RXD_1, TCC2:1 WO_0]
@@ -33617,6 +35918,21 @@ Pin count : 144
 - Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
+
+- Package Outline Drawings : 	 [C04-00510A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 8YX
+- Package Type : 	 TQFP
+- Pin count : 	 144,00
+- Package Layout : 	 [C04-00510A.pdf](./mchp/packages/c04-00510a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00510A.wrl) : 	 [C04-00510A.wrl](./Model3d/wrl/C04-00510A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00510A.stl) : 	 [C04-00510A.stl](./Model3d/stl/C04-00510A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00510A.obj) : 	 [C04-00510A.obj](./Model3d/obj/C04-00510A.obj)
+- Package 3d model x3d : 	 [C04-00510A.x3d](./Model3d/x3d/C04-00510A.x3d)
+- Package 3d model scad : 	 [C04-00510A.scad](./Model3d/scad/C04-00510A.scad)
+- Package 3d model usd : 	 [C04-00510A.usd](./Model3d/usd/C04-00510A.usd)
+- Package 3d model glb : 	 [C04-00510A.glb](./Model3d/glb/C04-00510A.glb)
+
+please check that some data is inconsistent 	 
 
 Pin count : 144
 - A1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
@@ -33790,8 +36106,12 @@ Pin count : 144
 - Pin count : 	 144,00
 - Package Layout : 	 [C04-00511A.pdf](./mchp/packages/c04-00511a.pdf)
 - Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00511A.wrl) : 	 [C04-00511A.wrl](./Model3d/wrl/C04-00511A.wrl)
-- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00511A.x3d) : 	 [C04-00511A.x3d](./Model3d/x3d/C04-00511A.x3d)
-- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00511A.scad) : 	 [C04-00511A.scad](./Model3d/scad/C04-00511A.scad)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00511A.stl) : 	 [C04-00511A.stl](./Model3d/stl/C04-00511A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00511A.obj) : 	 [C04-00511A.obj](./Model3d/obj/C04-00511A.obj)
+- Package 3d model x3d : 	 [C04-00511A.x3d](./Model3d/x3d/C04-00511A.x3d)
+- Package 3d model scad : 	 [C04-00511A.scad](./Model3d/scad/C04-00511A.scad)
+- Package 3d model usd : 	 [C04-00511A.usd](./Model3d/usd/C04-00511A.usd)
+- Package 3d model glb : 	 [C04-00511A.glb](./Model3d/glb/C04-00511A.glb)
 
 please check that some data is inconsistent 	 
 
@@ -33960,6 +36280,20 @@ Pin count : 144
 - Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
+
+- Package Outline Drawings : 	 [C04-00515A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 5MX
+- Package Type : 	 TFBGA
+- Pin count : 	 176,00
+- Package Layout : 	 [C04-00515A.pdf](./mchp/packages/c04-00515a.pdf)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00515A.stl) : 	 [C04-00515A.stl](./Model3d/stl/C04-00515A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00515A.obj) : 	 [C04-00515A.obj](./Model3d/obj/C04-00515A.obj)
+- Package 3d model x3d : 	 [C04-00515A.x3d](./Model3d/x3d/C04-00515A.x3d)
+- Package 3d model scad : 	 [C04-00515A.scad](./Model3d/scad/C04-00515A.scad)
+- Package 3d model usd : 	 [C04-00515A.usd](./Model3d/usd/C04-00515A.usd)
+- Package 3d model glb : 	 [C04-00515A.glb](./Model3d/glb/C04-00515A.glb)
+
+please check that some data is inconsistent 	 
 
 Pin count : 176
 - A2 : PD10,  of Type IO, alternates : [PORT P_106, EIC EXTINT_10, ETH RXD_1, TCC2:1 WO_0]
@@ -34158,6 +36492,20 @@ Pin count : 176
 - Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
+
+- Package Outline Drawings : 	 [C04-00515A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 5MX
+- Package Type : 	 TFBGA
+- Pin count : 	 176,00
+- Package Layout : 	 [C04-00515A.pdf](./mchp/packages/c04-00515a.pdf)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00515A.stl) : 	 [C04-00515A.stl](./Model3d/stl/C04-00515A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00515A.obj) : 	 [C04-00515A.obj](./Model3d/obj/C04-00515A.obj)
+- Package 3d model x3d : 	 [C04-00515A.x3d](./Model3d/x3d/C04-00515A.x3d)
+- Package 3d model scad : 	 [C04-00515A.scad](./Model3d/scad/C04-00515A.scad)
+- Package 3d model usd : 	 [C04-00515A.usd](./Model3d/usd/C04-00515A.usd)
+- Package 3d model glb : 	 [C04-00515A.glb](./Model3d/glb/C04-00515A.glb)
+
+please check that some data is inconsistent 	 
 
 Pin count : 176
 - A1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
@@ -34362,8 +36710,12 @@ Pin count : 176
 - Package Type : 	 TFBGA
 - Pin count : 	 176,00
 - Package Layout : 	 [C04-00515A.pdf](./mchp/packages/c04-00515a.pdf)
-- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00515A.x3d) : 	 [C04-00515A.x3d](./Model3d/x3d/C04-00515A.x3d)
-- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00515A.scad) : 	 [C04-00515A.scad](./Model3d/scad/C04-00515A.scad)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00515A.stl) : 	 [C04-00515A.stl](./Model3d/stl/C04-00515A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00515A.obj) : 	 [C04-00515A.obj](./Model3d/obj/C04-00515A.obj)
+- Package 3d model x3d : 	 [C04-00515A.x3d](./Model3d/x3d/C04-00515A.x3d)
+- Package 3d model scad : 	 [C04-00515A.scad](./Model3d/scad/C04-00515A.scad)
+- Package 3d model usd : 	 [C04-00515A.usd](./Model3d/usd/C04-00515A.usd)
+- Package 3d model glb : 	 [C04-00515A.glb](./Model3d/glb/C04-00515A.glb)
 Pin count : 176
 - A2 : PD10,  of Type IO, alternates : [PORT P_106, EIC EXTINT_10, ETH RXD_1, TCC2:1 WO_0]
 - A3 : PD09,  of Type IO, alternates : [PORT P_105, MLB MLBD_, CAN1:2 TX_, EIC EXTINT_9, ETH CRS_]
@@ -34561,6 +36913,20 @@ Pin count : 176
 - Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
+
+- Package Outline Drawings : 	 [C04-00515A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 5MX
+- Package Type : 	 TFBGA
+- Pin count : 	 176,00
+- Package Layout : 	 [C04-00515A.pdf](./mchp/packages/c04-00515a.pdf)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00515A.stl) : 	 [C04-00515A.stl](./Model3d/stl/C04-00515A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00515A.obj) : 	 [C04-00515A.obj](./Model3d/obj/C04-00515A.obj)
+- Package 3d model x3d : 	 [C04-00515A.x3d](./Model3d/x3d/C04-00515A.x3d)
+- Package 3d model scad : 	 [C04-00515A.scad](./Model3d/scad/C04-00515A.scad)
+- Package 3d model usd : 	 [C04-00515A.usd](./Model3d/usd/C04-00515A.usd)
+- Package 3d model glb : 	 [C04-00515A.glb](./Model3d/glb/C04-00515A.glb)
+
+please check that some data is inconsistent 	 
 
 Pin count : 176
 - A1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
@@ -34765,8 +37131,12 @@ Pin count : 176
 - Package Type : 	 TFBGA
 - Pin count : 	 176,00
 - Package Layout : 	 [C04-00515A.pdf](./mchp/packages/c04-00515a.pdf)
-- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00515A.x3d) : 	 [C04-00515A.x3d](./Model3d/x3d/C04-00515A.x3d)
-- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00515A.scad) : 	 [C04-00515A.scad](./Model3d/scad/C04-00515A.scad)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00515A.stl) : 	 [C04-00515A.stl](./Model3d/stl/C04-00515A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00515A.obj) : 	 [C04-00515A.obj](./Model3d/obj/C04-00515A.obj)
+- Package 3d model x3d : 	 [C04-00515A.x3d](./Model3d/x3d/C04-00515A.x3d)
+- Package 3d model scad : 	 [C04-00515A.scad](./Model3d/scad/C04-00515A.scad)
+- Package 3d model usd : 	 [C04-00515A.usd](./Model3d/usd/C04-00515A.usd)
+- Package 3d model glb : 	 [C04-00515A.glb](./Model3d/glb/C04-00515A.glb)
 
 please check that some data is inconsistent 	 
 
@@ -34968,6 +37338,20 @@ Pin count : 176
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00515A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 5MX
+- Package Type : 	 TFBGA
+- Pin count : 	 176,00
+- Package Layout : 	 [C04-00515A.pdf](./mchp/packages/c04-00515a.pdf)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00515A.stl) : 	 [C04-00515A.stl](./Model3d/stl/C04-00515A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00515A.obj) : 	 [C04-00515A.obj](./Model3d/obj/C04-00515A.obj)
+- Package 3d model x3d : 	 [C04-00515A.x3d](./Model3d/x3d/C04-00515A.x3d)
+- Package 3d model scad : 	 [C04-00515A.scad](./Model3d/scad/C04-00515A.scad)
+- Package 3d model usd : 	 [C04-00515A.usd](./Model3d/usd/C04-00515A.usd)
+- Package 3d model glb : 	 [C04-00515A.glb](./Model3d/glb/C04-00515A.glb)
+
+please check that some data is inconsistent 	 
+
 Pin count : 176
 - A1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
 - A2 : PA02,  of Type IO, alternates : [TCC2:1 WO_5, ETH TXEN_, PORT P_2, EIC EXTINT_2, DSU PMSA_7]
@@ -35165,6 +37549,21 @@ Pin count : 176
 - Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
+
+- Package Outline Drawings : 	 [C04-00516A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 8MX
+- Package Type : 	 TFBGA
+- Pin count : 	 208,00
+- Package Layout : 	 [C04-00516A.pdf](./mchp/packages/c04-00516a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00516A.wrl) : 	 [C04-00516A.wrl](./Model3d/wrl/C04-00516A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00516A.stl) : 	 [C04-00516A.stl](./Model3d/stl/C04-00516A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00516A.obj) : 	 [C04-00516A.obj](./Model3d/obj/C04-00516A.obj)
+- Package 3d model x3d : 	 [C04-00516A.x3d](./Model3d/x3d/C04-00516A.x3d)
+- Package 3d model scad : 	 [C04-00516A.scad](./Model3d/scad/C04-00516A.scad)
+- Package 3d model usd : 	 [C04-00516A.usd](./Model3d/usd/C04-00516A.usd)
+- Package 3d model glb : 	 [C04-00516A.glb](./Model3d/glb/C04-00516A.glb)
+
+please check that some data is inconsistent 	 
 
 Pin count : 208
 - 1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
@@ -35396,6 +37795,21 @@ Pin count : 208
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00516A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 8MX
+- Package Type : 	 TFBGA
+- Pin count : 	 208,00
+- Package Layout : 	 [C04-00516A.pdf](./mchp/packages/c04-00516a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00516A.wrl) : 	 [C04-00516A.wrl](./Model3d/wrl/C04-00516A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00516A.stl) : 	 [C04-00516A.stl](./Model3d/stl/C04-00516A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00516A.obj) : 	 [C04-00516A.obj](./Model3d/obj/C04-00516A.obj)
+- Package 3d model x3d : 	 [C04-00516A.x3d](./Model3d/x3d/C04-00516A.x3d)
+- Package 3d model scad : 	 [C04-00516A.scad](./Model3d/scad/C04-00516A.scad)
+- Package 3d model usd : 	 [C04-00516A.usd](./Model3d/usd/C04-00516A.usd)
+- Package 3d model glb : 	 [C04-00516A.glb](./Model3d/glb/C04-00516A.glb)
+
+please check that some data is inconsistent 	 
+
 Pin count : 208
 - 1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
 - 2 : PA01,  of Type IO, alternates : [ETH TXD_0, EIC EXTINT_1, PORT P_1]
@@ -35625,6 +38039,21 @@ Pin count : 208
 - Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
+
+- Package Outline Drawings : 	 [C04-00516A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 8MX
+- Package Type : 	 TFBGA
+- Pin count : 	 208,00
+- Package Layout : 	 [C04-00516A.pdf](./mchp/packages/c04-00516a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00516A.wrl) : 	 [C04-00516A.wrl](./Model3d/wrl/C04-00516A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00516A.stl) : 	 [C04-00516A.stl](./Model3d/stl/C04-00516A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00516A.obj) : 	 [C04-00516A.obj](./Model3d/obj/C04-00516A.obj)
+- Package 3d model x3d : 	 [C04-00516A.x3d](./Model3d/x3d/C04-00516A.x3d)
+- Package 3d model scad : 	 [C04-00516A.scad](./Model3d/scad/C04-00516A.scad)
+- Package 3d model usd : 	 [C04-00516A.usd](./Model3d/usd/C04-00516A.usd)
+- Package 3d model glb : 	 [C04-00516A.glb](./Model3d/glb/C04-00516A.glb)
+
+please check that some data is inconsistent 	 
 
 Pin count : 208
 - 1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]

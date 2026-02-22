@@ -17,6 +17,11 @@
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00065D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 D3X
+- Package Type : 	 SOIC
+- Pin count : 	 14,00
+- Package Layout : 	 [C04-00065D.pdf](./mchp/packages/c04-00065d.pdf)
 Pin count : 14
 - 1 : VDD,  of Type PP
 - 2 : PA4,  of Type IO, alternates : [USART0 XDIR_, CCL LUT0_OUT_0, EVSYS EVSPA_4, PORTA PIN_4, TCA0 WO_4, ADC0 AIN_4, EVSYS EVAPA_4, SPI0 SS_]
@@ -50,6 +55,11 @@ Pin count : 14
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00065D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 D3X
+- Package Type : 	 SOIC
+- Pin count : 	 14,00
+- Package Layout : 	 [C04-00065D.pdf](./mchp/packages/c04-00065d.pdf)
 Pin count : 14
 - 1 : VDD,  of Type PP
 - 2 : PA4,  of Type IO, alternates : [USART0 XDIR_, CCL LUT0_OUT_0, EVSYS EVSPA_4, PORTA PIN_4, TCA0 WO_4, ADC0 AIN_4, EVSYS EVAPA_4, SPI0 SS_]
@@ -83,6 +93,18 @@ Pin count : 14
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-21380A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 REB
+- Package Type : 	 VQFN
+- Pin count : 	 20,00
+- Package Layout : 	 [C04-21380A.pdf](./mchp/packages/c04-21380a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21380A.wrl) : 	 [C04-21380A.wrl](./Model3d/wrl/C04-21380A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21380A.stl) : 	 [C04-21380A.stl](./Model3d/stl/C04-21380A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21380A.obj) : 	 [C04-21380A.obj](./Model3d/obj/C04-21380A.obj)
+- Package 3d model x3d : 	 [C04-21380A.x3d](./Model3d/x3d/C04-21380A.x3d)
+- Package 3d model scad : 	 [C04-21380A.scad](./Model3d/scad/C04-21380A.scad)
+- Package 3d model usd : 	 [C04-21380A.usd](./Model3d/usd/C04-21380A.usd)
+- Package 3d model glb : 	 [C04-21380A.glb](./Model3d/glb/C04-21380A.glb)
 Pin count : 20
 - 1 : PA2,  of Type IO, alternates : [PORTA PIN_2, EVSYS EVSPA_2, SPI0 MISO_, ADC0 AIN_2, EVSYS EVOUT_0, EVSYS EVAPA_2, USART0 RXD_, CCL LUT0_IN_2]
 - 2 : PA3,  of Type IO, alternates : [PORTA PIN_3, TCA0 WO_3, ADC0 AIN_3, EVSYS EVSPA_3, SPI0 SCK_, CLKCTRL CLKI_, EVSYS EVAPA_3, USART0 XCK_]
@@ -122,6 +144,18 @@ Pin count : 20
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-21380A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 REB
+- Package Type : 	 VQFN
+- Pin count : 	 20,00
+- Package Layout : 	 [C04-21380A.pdf](./mchp/packages/c04-21380a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21380A.wrl) : 	 [C04-21380A.wrl](./Model3d/wrl/C04-21380A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21380A.stl) : 	 [C04-21380A.stl](./Model3d/stl/C04-21380A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21380A.obj) : 	 [C04-21380A.obj](./Model3d/obj/C04-21380A.obj)
+- Package 3d model x3d : 	 [C04-21380A.x3d](./Model3d/x3d/C04-21380A.x3d)
+- Package 3d model scad : 	 [C04-21380A.scad](./Model3d/scad/C04-21380A.scad)
+- Package 3d model usd : 	 [C04-21380A.usd](./Model3d/usd/C04-21380A.usd)
+- Package 3d model glb : 	 [C04-21380A.glb](./Model3d/glb/C04-21380A.glb)
 Pin count : 20
 - 1 : PA2,  of Type IO, alternates : [PORTA PIN_2, EVSYS EVSPA_2, SPI0 MISO_, ADC0 AIN_2, EVSYS EVOUT_0, EVSYS EVAPA_2, USART0 RXD_, CCL LUT0_IN_2]
 - 2 : PA3,  of Type IO, alternates : [PORTA PIN_3, TCA0 WO_3, ADC0 AIN_3, EVSYS EVSPA_3, SPI0 SCK_, CLKCTRL CLKI_, EVSYS EVAPA_3, USART0 XCK_]
@@ -239,6 +273,18 @@ Pin count : 20
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-21386B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 RLB
+- Package Type : 	 VQFN
+- Pin count : 	 24,00
+- Package Layout : 	 [C04-21386B.pdf](./mchp/packages/c04-21386b.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21386B.wrl) : 	 [C04-21386B.wrl](./Model3d/wrl/C04-21386B.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21386B.stl) : 	 [C04-21386B.stl](./Model3d/stl/C04-21386B.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21386B.obj) : 	 [C04-21386B.obj](./Model3d/obj/C04-21386B.obj)
+- Package 3d model x3d : 	 [C04-21386B.x3d](./Model3d/x3d/C04-21386B.x3d)
+- Package 3d model scad : 	 [C04-21386B.scad](./Model3d/scad/C04-21386B.scad)
+- Package 3d model usd : 	 [C04-21386B.usd](./Model3d/usd/C04-21386B.usd)
+- Package 3d model glb : 	 [C04-21386B.glb](./Model3d/glb/C04-21386B.glb)
 Pin count : 24
 - 1 : PA2,  of Type IO, alternates : [PORTA PIN_2, EVSYS EVSPA_2, SPI0 MISO_, ADC0 AIN_2, EVSYS EVOUT_0, EVSYS EVAPA_2, USART0 RXD_, CCL LUT0_IN_2]
 - 2 : PA3,  of Type IO, alternates : [PORTA PIN_3, TCA0 WO_3, ADC0 AIN_3, EVSYS EVSPA_3, SPI0 SCK_, CLKCTRL CLKI_, EVSYS EVAPA_3, USART0 XCK_]
@@ -281,6 +327,21 @@ Pin count : 24
 - Name : ATtiny1607
 
 ### Package : 
+
+- Package Outline Drawings : 	 [C04-21386B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 RLB
+- Package Type : 	 VQFN
+- Pin count : 	 24,00
+- Package Layout : 	 [C04-21386B.pdf](./mchp/packages/c04-21386b.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21386B.wrl) : 	 [C04-21386B.wrl](./Model3d/wrl/C04-21386B.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21386B.stl) : 	 [C04-21386B.stl](./Model3d/stl/C04-21386B.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21386B.obj) : 	 [C04-21386B.obj](./Model3d/obj/C04-21386B.obj)
+- Package 3d model x3d : 	 [C04-21386B.x3d](./Model3d/x3d/C04-21386B.x3d)
+- Package 3d model scad : 	 [C04-21386B.scad](./Model3d/scad/C04-21386B.scad)
+- Package 3d model usd : 	 [C04-21386B.usd](./Model3d/usd/C04-21386B.usd)
+- Package 3d model glb : 	 [C04-21386B.glb](./Model3d/glb/C04-21386B.glb)
+
+please check that some data is inconsistent 	 
 
 Pin count : 24
 - 1 : PA2,  of Type IO, alternates : [PORTA PIN_2, EVSYS EVSPA_2, SPI0 MISO_, ADC0 AIN_2, EVSYS EVOUT_0, EVSYS EVAPA_2, USART0 RXD_, CCL LUT0_IN_2]
@@ -325,6 +386,11 @@ Pin count : 24
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00065D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 D3X
+- Package Type : 	 SOIC
+- Pin count : 	 14,00
+- Package Layout : 	 [C04-00065D.pdf](./mchp/packages/c04-00065d.pdf)
 Pin count : 14
 - 1 : VDD,  of Type PP
 - 2 : PA4,  of Type IO, alternates : [PTC Y_0, PTC X_0, USART0 XDIR_, CCL LUT0_OUT_0, EVSYS EVSPA_4, PORTA PIN_4, TCA0 WO_4, TCD0 WOA_, ADC0 AIN_4, EVSYS EVAPA_4, SPI0 SS_, ADC1 AIN_0]
@@ -358,6 +424,11 @@ Pin count : 14
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00065D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 D3X
+- Package Type : 	 SOIC
+- Pin count : 	 14,00
+- Package Layout : 	 [C04-00065D.pdf](./mchp/packages/c04-00065d.pdf)
 Pin count : 14
 - 1 : VDD,  of Type PP
 - 2 : PA4,  of Type IO, alternates : [PTC Y_0, PTC X_0, USART0 XDIR_, CCL LUT0_OUT_0, EVSYS EVSPA_4, PORTA PIN_4, TCA0 WO_4, TCD0 WOA_, ADC0 AIN_4, EVSYS EVAPA_4, SPI0 SS_, ADC1 AIN_0]
@@ -391,6 +462,18 @@ Pin count : 14
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-21380A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 REB
+- Package Type : 	 VQFN
+- Pin count : 	 20,00
+- Package Layout : 	 [C04-21380A.pdf](./mchp/packages/c04-21380a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21380A.wrl) : 	 [C04-21380A.wrl](./Model3d/wrl/C04-21380A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21380A.stl) : 	 [C04-21380A.stl](./Model3d/stl/C04-21380A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21380A.obj) : 	 [C04-21380A.obj](./Model3d/obj/C04-21380A.obj)
+- Package 3d model x3d : 	 [C04-21380A.x3d](./Model3d/x3d/C04-21380A.x3d)
+- Package 3d model scad : 	 [C04-21380A.scad](./Model3d/scad/C04-21380A.scad)
+- Package 3d model usd : 	 [C04-21380A.usd](./Model3d/usd/C04-21380A.usd)
+- Package 3d model glb : 	 [C04-21380A.glb](./Model3d/glb/C04-21380A.glb)
 Pin count : 20
 - 1 : PA2,  of Type IO, alternates : [PORTA PIN_2, EVSYS EVSPA_2, SPI0 MISO_, ADC0 AIN_2, EVSYS EVOUT_0, EVSYS EVAPA_2, TWI0 SCL_, USART0 RXD_, CCL LUT0_IN_2]
 - 2 : PA3,  of Type IO, alternates : [PORTA PIN_3, TCA0 WO_3, ADC0 AIN_3, EVSYS EVSPA_3, SPI0 SCK_, CLKCTRL CLKI_, EVSYS EVAPA_3, USART0 XCK_, TCB1 WO_0]
@@ -430,6 +513,18 @@ Pin count : 20
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-21380A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 REB
+- Package Type : 	 VQFN
+- Pin count : 	 20,00
+- Package Layout : 	 [C04-21380A.pdf](./mchp/packages/c04-21380a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21380A.wrl) : 	 [C04-21380A.wrl](./Model3d/wrl/C04-21380A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21380A.stl) : 	 [C04-21380A.stl](./Model3d/stl/C04-21380A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21380A.obj) : 	 [C04-21380A.obj](./Model3d/obj/C04-21380A.obj)
+- Package 3d model x3d : 	 [C04-21380A.x3d](./Model3d/x3d/C04-21380A.x3d)
+- Package 3d model scad : 	 [C04-21380A.scad](./Model3d/scad/C04-21380A.scad)
+- Package 3d model usd : 	 [C04-21380A.usd](./Model3d/usd/C04-21380A.usd)
+- Package 3d model glb : 	 [C04-21380A.glb](./Model3d/glb/C04-21380A.glb)
 Pin count : 20
 - 1 : PA2,  of Type IO, alternates : [PORTA PIN_2, EVSYS EVSPA_2, SPI0 MISO_, ADC0 AIN_2, EVSYS EVOUT_0, EVSYS EVAPA_2, TWI0 SCL_, USART0 RXD_, CCL LUT0_IN_2]
 - 2 : PA3,  of Type IO, alternates : [PORTA PIN_3, TCA0 WO_3, ADC0 AIN_3, EVSYS EVSPA_3, SPI0 SCK_, CLKCTRL CLKI_, EVSYS EVAPA_3, USART0 XCK_, TCB1 WO_0]
@@ -547,6 +642,18 @@ Pin count : 20
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-21386B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 RLB
+- Package Type : 	 VQFN
+- Pin count : 	 24,00
+- Package Layout : 	 [C04-21386B.pdf](./mchp/packages/c04-21386b.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21386B.wrl) : 	 [C04-21386B.wrl](./Model3d/wrl/C04-21386B.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21386B.stl) : 	 [C04-21386B.stl](./Model3d/stl/C04-21386B.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21386B.obj) : 	 [C04-21386B.obj](./Model3d/obj/C04-21386B.obj)
+- Package 3d model x3d : 	 [C04-21386B.x3d](./Model3d/x3d/C04-21386B.x3d)
+- Package 3d model scad : 	 [C04-21386B.scad](./Model3d/scad/C04-21386B.scad)
+- Package 3d model usd : 	 [C04-21386B.usd](./Model3d/usd/C04-21386B.usd)
+- Package 3d model glb : 	 [C04-21386B.glb](./Model3d/glb/C04-21386B.glb)
 Pin count : 24
 - 1 : PA2,  of Type IO, alternates : [PORTA PIN_2, EVSYS EVSPA_2, SPI0 MISO_, ADC0 AIN_2, EVSYS EVOUT_0, EVSYS EVAPA_2, TWI0 SCL_, USART0 RXD_, CCL LUT0_IN_2]
 - 2 : PA3,  of Type IO, alternates : [PORTA PIN_3, TCA0 WO_3, ADC0 AIN_3, EVSYS EVSPA_3, SPI0 SCK_, CLKCTRL CLKI_, EVSYS EVAPA_3, USART0 XCK_, TCB1 WO_0]
@@ -590,6 +697,18 @@ Pin count : 24
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-21386B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 RLB
+- Package Type : 	 VQFN
+- Pin count : 	 24,00
+- Package Layout : 	 [C04-21386B.pdf](./mchp/packages/c04-21386b.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21386B.wrl) : 	 [C04-21386B.wrl](./Model3d/wrl/C04-21386B.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21386B.stl) : 	 [C04-21386B.stl](./Model3d/stl/C04-21386B.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21386B.obj) : 	 [C04-21386B.obj](./Model3d/obj/C04-21386B.obj)
+- Package 3d model x3d : 	 [C04-21386B.x3d](./Model3d/x3d/C04-21386B.x3d)
+- Package 3d model scad : 	 [C04-21386B.scad](./Model3d/scad/C04-21386B.scad)
+- Package 3d model usd : 	 [C04-21386B.usd](./Model3d/usd/C04-21386B.usd)
+- Package 3d model glb : 	 [C04-21386B.glb](./Model3d/glb/C04-21386B.glb)
 Pin count : 24
 - 1 : PA2,  of Type IO, alternates : [PORTA PIN_2, EVSYS EVSPA_2, SPI0 MISO_, ADC0 AIN_2, EVSYS EVOUT_0, EVSYS EVAPA_2, TWI0 SCL_, USART0 RXD_, CCL LUT0_IN_2]
 - 2 : PA3,  of Type IO, alternates : [PORTA PIN_3, TCA0 WO_3, ADC0 AIN_3, EVSYS EVSPA_3, SPI0 SCK_, CLKCTRL CLKI_, EVSYS EVAPA_3, USART0 XCK_, TCB1 WO_0]
@@ -633,6 +752,11 @@ Pin count : 24
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00057L](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 C2X
+- Package Type : 	 SOIC
+- Pin count : 	 8,00
+- Package Layout : 	 [C04-00057L.pdf](./mchp/packages/c04-00057l.pdf)
 Pin count : 8
 - 1 : VDD,  of Type PP
 - 2 : PA6,  of Type IO, alternates : [AC0 N_0, EVSYS EVSPA_6, CCL LUT0_OUT_0, ADC0 AIN_6, PORTA PIN_6, USART0 TXD_, SPI0 MOSI_, TCB0 WO_, EVSYS EVAPA_6]
@@ -660,6 +784,11 @@ Pin count : 8
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00057L](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 C2X
+- Package Type : 	 SOIC
+- Pin count : 	 8,00
+- Package Layout : 	 [C04-00057L.pdf](./mchp/packages/c04-00057l.pdf)
 Pin count : 8
 - 1 : VDD,  of Type PP
 - 2 : PA6,  of Type IO, alternates : [AC0 N_0, EVSYS EVSPA_6, CCL LUT0_OUT_0, ADC0 AIN_6, PORTA PIN_6, USART0 TXD_, SPI0 MOSI_, TCB0 WO_, EVSYS EVAPA_6]
@@ -687,6 +816,11 @@ Pin count : 8
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00065D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 D3X
+- Package Type : 	 SOIC
+- Pin count : 	 14,00
+- Package Layout : 	 [C04-00065D.pdf](./mchp/packages/c04-00065d.pdf)
 Pin count : 14
 - 1 : VDD,  of Type PP
 - 2 : PA4,  of Type IO, alternates : [USART0 XDIR_, CCL LUT0_OUT_0, EVSYS EVSPA_4, PORTA PIN_4, TCA0 WO_4, ADC0 AIN_4, EVSYS EVAPA_4, SPI0 SS_]
@@ -720,6 +854,11 @@ Pin count : 14
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00065D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 D3X
+- Package Type : 	 SOIC
+- Pin count : 	 14,00
+- Package Layout : 	 [C04-00065D.pdf](./mchp/packages/c04-00065d.pdf)
 Pin count : 14
 - 1 : VDD,  of Type PP
 - 2 : PA4,  of Type IO, alternates : [USART0 XDIR_, CCL LUT0_OUT_0, EVSYS EVSPA_4, PORTA PIN_4, TCA0 WO_4, ADC0 AIN_4, EVSYS EVAPA_4, SPI0 SS_]
@@ -753,6 +892,11 @@ Pin count : 14
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00057L](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 C2X
+- Package Type : 	 SOIC
+- Pin count : 	 8,00
+- Package Layout : 	 [C04-00057L.pdf](./mchp/packages/c04-00057l.pdf)
 Pin count : 8
 - 1 : VDD,  of Type PP
 - 2 : PA6,  of Type IO, alternates : [AC0 N_0, DAC0 OUT_0, EVSYS EVSPA_6, CCL LUT0_OUT_0, ADC0 AIN_6, TCD0 WOA_, PORTA PIN_6, USART0 TXD_, SPI0 MOSI_, TCB0 WO_, EVSYS EVAPA_6]
@@ -780,6 +924,11 @@ Pin count : 8
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00057L](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 C2X
+- Package Type : 	 SOIC
+- Pin count : 	 8,00
+- Package Layout : 	 [C04-00057L.pdf](./mchp/packages/c04-00057l.pdf)
 Pin count : 8
 - 1 : VDD,  of Type PP
 - 2 : PA6,  of Type IO, alternates : [AC0 N_0, DAC0 OUT_0, EVSYS EVSPA_6, CCL LUT0_OUT_0, ADC0 AIN_6, TCD0 WOA_, PORTA PIN_6, USART0 TXD_, SPI0 MOSI_, TCB0 WO_, EVSYS EVAPA_6]
@@ -807,6 +956,11 @@ Pin count : 8
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00065D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 D3X
+- Package Type : 	 SOIC
+- Pin count : 	 14,00
+- Package Layout : 	 [C04-00065D.pdf](./mchp/packages/c04-00065d.pdf)
 Pin count : 14
 - 1 : VDD,  of Type PP
 - 2 : PA4,  of Type IO, alternates : [USART0 XDIR_, CCL LUT0_OUT_0, EVSYS EVSPA_4, PORTA PIN_4, TCA0 WO_4, TCD0 WOA_, ADC0 AIN_4, EVSYS EVAPA_4, SPI0 SS_]
@@ -840,6 +994,11 @@ Pin count : 14
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00065D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 D3X
+- Package Type : 	 SOIC
+- Pin count : 	 14,00
+- Package Layout : 	 [C04-00065D.pdf](./mchp/packages/c04-00065d.pdf)
 Pin count : 14
 - 1 : VDD,  of Type PP
 - 2 : PA4,  of Type IO, alternates : [USART0 XDIR_, CCL LUT0_OUT_0, EVSYS EVSPA_4, PORTA PIN_4, TCA0 WO_4, TCD0 WOA_, ADC0 AIN_4, EVSYS EVAPA_4, SPI0 SS_]
@@ -951,6 +1110,18 @@ Pin count : 20
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-21386B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 RLB
+- Package Type : 	 VQFN
+- Pin count : 	 24,00
+- Package Layout : 	 [C04-21386B.pdf](./mchp/packages/c04-21386b.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21386B.wrl) : 	 [C04-21386B.wrl](./Model3d/wrl/C04-21386B.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21386B.stl) : 	 [C04-21386B.stl](./Model3d/stl/C04-21386B.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21386B.obj) : 	 [C04-21386B.obj](./Model3d/obj/C04-21386B.obj)
+- Package 3d model x3d : 	 [C04-21386B.x3d](./Model3d/x3d/C04-21386B.x3d)
+- Package 3d model scad : 	 [C04-21386B.scad](./Model3d/scad/C04-21386B.scad)
+- Package 3d model usd : 	 [C04-21386B.usd](./Model3d/usd/C04-21386B.usd)
+- Package 3d model glb : 	 [C04-21386B.glb](./Model3d/glb/C04-21386B.glb)
 Pin count : 24
 - 1 : PA2,  of Type IO, alternates : [PORTA PIN_2, EVSYS EVSPA_2, SPI0 MISO_, ADC0 AIN_2, EVSYS EVOUT_0, EVSYS EVAPA_2, TWI0 SCL_, USART0 RXD_, CCL LUT0_IN_2]
 - 2 : PA3,  of Type IO, alternates : [PORTA PIN_3, TCA0 WO_3, ADC0 AIN_3, EVSYS EVSPA_3, SPI0 SCK_, CLKCTRL CLKI_, EVSYS EVAPA_3, USART0 XCK_, TCB1 WO_0]
@@ -994,6 +1165,18 @@ Pin count : 24
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-21386B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 RLB
+- Package Type : 	 VQFN
+- Pin count : 	 24,00
+- Package Layout : 	 [C04-21386B.pdf](./mchp/packages/c04-21386b.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21386B.wrl) : 	 [C04-21386B.wrl](./Model3d/wrl/C04-21386B.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21386B.stl) : 	 [C04-21386B.stl](./Model3d/stl/C04-21386B.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21386B.obj) : 	 [C04-21386B.obj](./Model3d/obj/C04-21386B.obj)
+- Package 3d model x3d : 	 [C04-21386B.x3d](./Model3d/x3d/C04-21386B.x3d)
+- Package 3d model scad : 	 [C04-21386B.scad](./Model3d/scad/C04-21386B.scad)
+- Package 3d model usd : 	 [C04-21386B.usd](./Model3d/usd/C04-21386B.usd)
+- Package 3d model glb : 	 [C04-21386B.glb](./Model3d/glb/C04-21386B.glb)
 Pin count : 24
 - 1 : PA2,  of Type IO, alternates : [PORTA PIN_2, EVSYS EVSPA_2, SPI0 MISO_, ADC0 AIN_2, EVSYS EVOUT_0, EVSYS EVAPA_2, TWI0 SCL_, USART0 RXD_, CCL LUT0_IN_2]
 - 2 : PA3,  of Type IO, alternates : [PORTA PIN_3, TCA0 WO_3, ADC0 AIN_3, EVSYS EVSPA_3, SPI0 SCK_, CLKCTRL CLKI_, EVSYS EVAPA_3, USART0 XCK_, TCB1 WO_0]
@@ -1037,6 +1220,11 @@ Pin count : 24
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00057L](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 C2X
+- Package Type : 	 SOIC
+- Pin count : 	 8,00
+- Package Layout : 	 [C04-00057L.pdf](./mchp/packages/c04-00057l.pdf)
 Pin count : 8
 - 1 : VDD,  of Type PP
 - 2 : PA6,  of Type IO, alternates : [AC0 N_0, EVSYS EVSPA_6, CCL LUT0_OUT_0, ADC0 AIN_6, PORTA PIN_6, USART0 TXD_, SPI0 MOSI_, TCB0 WO_, EVSYS EVAPA_6]
@@ -1064,6 +1252,11 @@ Pin count : 8
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00057L](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 C2X
+- Package Type : 	 SOIC
+- Pin count : 	 8,00
+- Package Layout : 	 [C04-00057L.pdf](./mchp/packages/c04-00057l.pdf)
 Pin count : 8
 - 1 : VDD,  of Type PP
 - 2 : PA6,  of Type IO, alternates : [AC0 N_0, EVSYS EVSPA_6, CCL LUT0_OUT_0, ADC0 AIN_6, PORTA PIN_6, USART0 TXD_, SPI0 MOSI_, TCB0 WO_, EVSYS EVAPA_6]
@@ -1091,6 +1284,11 @@ Pin count : 8
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00065D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 D3X
+- Package Type : 	 SOIC
+- Pin count : 	 14,00
+- Package Layout : 	 [C04-00065D.pdf](./mchp/packages/c04-00065d.pdf)
 Pin count : 14
 - 1 : VDD,  of Type PP
 - 2 : PA4,  of Type IO, alternates : [USART0 XDIR_, CCL LUT0_OUT_0, EVSYS EVSPA_4, PORTA PIN_4, TCA0 WO_4, ADC0 AIN_4, EVSYS EVAPA_4, SPI0 SS_]
@@ -1124,6 +1322,11 @@ Pin count : 14
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00065D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 D3X
+- Package Type : 	 SOIC
+- Pin count : 	 14,00
+- Package Layout : 	 [C04-00065D.pdf](./mchp/packages/c04-00065d.pdf)
 Pin count : 14
 - 1 : VDD,  of Type PP
 - 2 : PA4,  of Type IO, alternates : [USART0 XDIR_, CCL LUT0_OUT_0, EVSYS EVSPA_4, PORTA PIN_4, TCA0 WO_4, ADC0 AIN_4, EVSYS EVAPA_4, SPI0 SS_]
@@ -1157,6 +1360,18 @@ Pin count : 14
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-21380A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 REB
+- Package Type : 	 VQFN
+- Pin count : 	 20,00
+- Package Layout : 	 [C04-21380A.pdf](./mchp/packages/c04-21380a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21380A.wrl) : 	 [C04-21380A.wrl](./Model3d/wrl/C04-21380A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21380A.stl) : 	 [C04-21380A.stl](./Model3d/stl/C04-21380A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21380A.obj) : 	 [C04-21380A.obj](./Model3d/obj/C04-21380A.obj)
+- Package 3d model x3d : 	 [C04-21380A.x3d](./Model3d/x3d/C04-21380A.x3d)
+- Package 3d model scad : 	 [C04-21380A.scad](./Model3d/scad/C04-21380A.scad)
+- Package 3d model usd : 	 [C04-21380A.usd](./Model3d/usd/C04-21380A.usd)
+- Package 3d model glb : 	 [C04-21380A.glb](./Model3d/glb/C04-21380A.glb)
 Pin count : 20
 - 1 : PA2,  of Type IO, alternates : [PORTA PIN_2, EVSYS EVSPA_2, SPI0 MISO_, ADC0 AIN_2, EVSYS EVOUT_0, EVSYS EVAPA_2, USART0 RXD_, CCL LUT0_IN_2]
 - 2 : PA3,  of Type IO, alternates : [PORTA PIN_3, TCA0 WO_3, ADC0 AIN_3, EVSYS EVSPA_3, SPI0 SCK_, CLKCTRL CLKI_, EVSYS EVAPA_3, USART0 XCK_]
@@ -1196,6 +1411,18 @@ Pin count : 20
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-21380A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 REB
+- Package Type : 	 VQFN
+- Pin count : 	 20,00
+- Package Layout : 	 [C04-21380A.pdf](./mchp/packages/c04-21380a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21380A.wrl) : 	 [C04-21380A.wrl](./Model3d/wrl/C04-21380A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21380A.stl) : 	 [C04-21380A.stl](./Model3d/stl/C04-21380A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21380A.obj) : 	 [C04-21380A.obj](./Model3d/obj/C04-21380A.obj)
+- Package 3d model x3d : 	 [C04-21380A.x3d](./Model3d/x3d/C04-21380A.x3d)
+- Package 3d model scad : 	 [C04-21380A.scad](./Model3d/scad/C04-21380A.scad)
+- Package 3d model usd : 	 [C04-21380A.usd](./Model3d/usd/C04-21380A.usd)
+- Package 3d model glb : 	 [C04-21380A.glb](./Model3d/glb/C04-21380A.glb)
 Pin count : 20
 - 1 : PA2,  of Type IO, alternates : [PORTA PIN_2, EVSYS EVSPA_2, SPI0 MISO_, ADC0 AIN_2, EVSYS EVOUT_0, EVSYS EVAPA_2, USART0 RXD_, CCL LUT0_IN_2]
 - 2 : PA3,  of Type IO, alternates : [PORTA PIN_3, TCA0 WO_3, ADC0 AIN_3, EVSYS EVSPA_3, SPI0 SCK_, CLKCTRL CLKI_, EVSYS EVAPA_3, USART0 XCK_]
@@ -1313,6 +1540,11 @@ Pin count : 20
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00057L](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 C2X
+- Package Type : 	 SOIC
+- Pin count : 	 8,00
+- Package Layout : 	 [C04-00057L.pdf](./mchp/packages/c04-00057l.pdf)
 Pin count : 8
 - 1 : VDD,  of Type PP
 - 2 : PA6,  of Type IO, alternates : [AC0 N_0, DAC0 OUT_0, EVSYS EVSPA_6, CCL LUT0_OUT_0, ADC0 AIN_6, TCD0 WOA_, PORTA PIN_6, USART0 TXD_, SPI0 MOSI_, TCB0 WO_, EVSYS EVAPA_6]
@@ -1340,6 +1572,11 @@ Pin count : 8
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00057L](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 C2X
+- Package Type : 	 SOIC
+- Pin count : 	 8,00
+- Package Layout : 	 [C04-00057L.pdf](./mchp/packages/c04-00057l.pdf)
 Pin count : 8
 - 1 : VDD,  of Type PP
 - 2 : PA6,  of Type IO, alternates : [AC0 N_0, DAC0 OUT_0, EVSYS EVSPA_6, CCL LUT0_OUT_0, ADC0 AIN_6, TCD0 WOA_, PORTA PIN_6, USART0 TXD_, SPI0 MOSI_, TCB0 WO_, EVSYS EVAPA_6]
@@ -1367,6 +1604,11 @@ Pin count : 8
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00065D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 D3X
+- Package Type : 	 SOIC
+- Pin count : 	 14,00
+- Package Layout : 	 [C04-00065D.pdf](./mchp/packages/c04-00065d.pdf)
 Pin count : 14
 - 1 : VDD,  of Type PP
 - 2 : PA4,  of Type IO, alternates : [USART0 XDIR_, CCL LUT0_OUT_0, EVSYS EVSPA_4, PORTA PIN_4, TCA0 WO_4, TCD0 WOA_, ADC0 AIN_4, EVSYS EVAPA_4, SPI0 SS_]
@@ -1400,6 +1642,11 @@ Pin count : 14
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00065D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 D3X
+- Package Type : 	 SOIC
+- Pin count : 	 14,00
+- Package Layout : 	 [C04-00065D.pdf](./mchp/packages/c04-00065d.pdf)
 Pin count : 14
 - 1 : VDD,  of Type PP
 - 2 : PA4,  of Type IO, alternates : [USART0 XDIR_, CCL LUT0_OUT_0, EVSYS EVSPA_4, PORTA PIN_4, TCA0 WO_4, TCD0 WOA_, ADC0 AIN_4, EVSYS EVAPA_4, SPI0 SS_]
@@ -1432,6 +1679,21 @@ Pin count : 14
 - Name : ATtiny416auto
 
 ### Package : 
+
+- Package Outline Drawings : 	 [C04-00476C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 2LX
+- Package Type : 	 VQFN
+- Pin count : 	 20,00
+- Package Layout : 	 [C04-00476C.pdf](./mchp/packages/c04-00476c.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00476C.wrl) : 	 [C04-00476C.wrl](./Model3d/wrl/C04-00476C.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00476C.stl) : 	 [C04-00476C.stl](./Model3d/stl/C04-00476C.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00476C.obj) : 	 [C04-00476C.obj](./Model3d/obj/C04-00476C.obj)
+- Package 3d model x3d : 	 [C04-00476C.x3d](./Model3d/x3d/C04-00476C.x3d)
+- Package 3d model scad : 	 [C04-00476C.scad](./Model3d/scad/C04-00476C.scad)
+- Package 3d model usd : 	 [C04-00476C.usd](./Model3d/usd/C04-00476C.usd)
+- Package 3d model glb : 	 [C04-00476C.glb](./Model3d/glb/C04-00476C.glb)
+
+please check that some data is inconsistent 	 
 
 Pin count : 20
 - 1 : PA2,  of Type IO, alternates : [PORTA PIN_2, EVSYS EVSPA_2, SPI0 MISO_, ADC0 AIN_2, EVSYS EVOUT_0, EVSYS EVAPA_2, TWI0 SCL_, USART0 RXD_, CCL LUT0_IN_2]
@@ -1472,6 +1734,18 @@ Pin count : 20
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-21380A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 REB
+- Package Type : 	 VQFN
+- Pin count : 	 20,00
+- Package Layout : 	 [C04-21380A.pdf](./mchp/packages/c04-21380a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21380A.wrl) : 	 [C04-21380A.wrl](./Model3d/wrl/C04-21380A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21380A.stl) : 	 [C04-21380A.stl](./Model3d/stl/C04-21380A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21380A.obj) : 	 [C04-21380A.obj](./Model3d/obj/C04-21380A.obj)
+- Package 3d model x3d : 	 [C04-21380A.x3d](./Model3d/x3d/C04-21380A.x3d)
+- Package 3d model scad : 	 [C04-21380A.scad](./Model3d/scad/C04-21380A.scad)
+- Package 3d model usd : 	 [C04-21380A.usd](./Model3d/usd/C04-21380A.usd)
+- Package 3d model glb : 	 [C04-21380A.glb](./Model3d/glb/C04-21380A.glb)
 Pin count : 20
 - 1 : PA2,  of Type IO, alternates : [PORTA PIN_2, EVSYS EVSPA_2, SPI0 MISO_, ADC0 AIN_2, EVSYS EVOUT_0, EVSYS EVAPA_2, TWI0 SCL_, USART0 RXD_, CCL LUT0_IN_2]
 - 2 : PA3,  of Type IO, alternates : [PORTA PIN_3, TCA0 WO_3, ADC0 AIN_3, EVSYS EVSPA_3, SPI0 SCK_, CLKCTRL CLKI_, EVSYS EVAPA_3, USART0 XCK_]
@@ -1511,6 +1785,18 @@ Pin count : 20
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-21380A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 REB
+- Package Type : 	 VQFN
+- Pin count : 	 20,00
+- Package Layout : 	 [C04-21380A.pdf](./mchp/packages/c04-21380a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21380A.wrl) : 	 [C04-21380A.wrl](./Model3d/wrl/C04-21380A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21380A.stl) : 	 [C04-21380A.stl](./Model3d/stl/C04-21380A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21380A.obj) : 	 [C04-21380A.obj](./Model3d/obj/C04-21380A.obj)
+- Package 3d model x3d : 	 [C04-21380A.x3d](./Model3d/x3d/C04-21380A.x3d)
+- Package 3d model scad : 	 [C04-21380A.scad](./Model3d/scad/C04-21380A.scad)
+- Package 3d model usd : 	 [C04-21380A.usd](./Model3d/usd/C04-21380A.usd)
+- Package 3d model glb : 	 [C04-21380A.glb](./Model3d/glb/C04-21380A.glb)
 Pin count : 20
 - 1 : PA2,  of Type IO, alternates : [PORTA PIN_2, EVSYS EVSPA_2, SPI0 MISO_, ADC0 AIN_2, EVSYS EVOUT_0, EVSYS EVAPA_2, TWI0 SCL_, USART0 RXD_, CCL LUT0_IN_2]
 - 2 : PA3,  of Type IO, alternates : [PORTA PIN_3, TCA0 WO_3, ADC0 AIN_3, EVSYS EVSPA_3, SPI0 SCK_, CLKCTRL CLKI_, EVSYS EVAPA_3, USART0 XCK_]
@@ -1549,6 +1835,21 @@ Pin count : 20
 - Name : ATtiny416auto
 
 ### Package : 
+
+- Package Outline Drawings : 	 [C04-00476C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 2LX
+- Package Type : 	 VQFN
+- Pin count : 	 20,00
+- Package Layout : 	 [C04-00476C.pdf](./mchp/packages/c04-00476c.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00476C.wrl) : 	 [C04-00476C.wrl](./Model3d/wrl/C04-00476C.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00476C.stl) : 	 [C04-00476C.stl](./Model3d/stl/C04-00476C.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00476C.obj) : 	 [C04-00476C.obj](./Model3d/obj/C04-00476C.obj)
+- Package 3d model x3d : 	 [C04-00476C.x3d](./Model3d/x3d/C04-00476C.x3d)
+- Package 3d model scad : 	 [C04-00476C.scad](./Model3d/scad/C04-00476C.scad)
+- Package 3d model usd : 	 [C04-00476C.usd](./Model3d/usd/C04-00476C.usd)
+- Package 3d model glb : 	 [C04-00476C.glb](./Model3d/glb/C04-00476C.glb)
+
+please check that some data is inconsistent 	 
 
 Pin count : 20
 - 1 : PA2,  of Type IO, alternates : [PORTA PIN_2, EVSYS EVSPA_2, SPI0 MISO_, ADC0 AIN_2, EVSYS EVOUT_0, EVSYS EVAPA_2, TWI0 SCL_, USART0 RXD_, CCL LUT0_IN_2]
@@ -1667,6 +1968,18 @@ Pin count : 20
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-21386B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 RLB
+- Package Type : 	 VQFN
+- Pin count : 	 24,00
+- Package Layout : 	 [C04-21386B.pdf](./mchp/packages/c04-21386b.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21386B.wrl) : 	 [C04-21386B.wrl](./Model3d/wrl/C04-21386B.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21386B.stl) : 	 [C04-21386B.stl](./Model3d/stl/C04-21386B.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21386B.obj) : 	 [C04-21386B.obj](./Model3d/obj/C04-21386B.obj)
+- Package 3d model x3d : 	 [C04-21386B.x3d](./Model3d/x3d/C04-21386B.x3d)
+- Package 3d model scad : 	 [C04-21386B.scad](./Model3d/scad/C04-21386B.scad)
+- Package 3d model usd : 	 [C04-21386B.usd](./Model3d/usd/C04-21386B.usd)
+- Package 3d model glb : 	 [C04-21386B.glb](./Model3d/glb/C04-21386B.glb)
 Pin count : 24
 - 1 : PA2,  of Type IO, alternates : [PORTA PIN_2, EVSYS EVSPA_2, SPI0 MISO_, ADC0 AIN_2, EVSYS EVOUT_0, EVSYS EVAPA_2, TWI0 SCL_, USART0 RXD_, CCL LUT0_IN_2]
 - 2 : PA3,  of Type IO, alternates : [PORTA PIN_3, TCA0 WO_3, ADC0 AIN_3, EVSYS EVSPA_3, SPI0 SCK_, CLKCTRL CLKI_, EVSYS EVAPA_3, USART0 XCK_]
@@ -1710,6 +2023,18 @@ Pin count : 24
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-21386B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 RLB
+- Package Type : 	 VQFN
+- Pin count : 	 24,00
+- Package Layout : 	 [C04-21386B.pdf](./mchp/packages/c04-21386b.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21386B.wrl) : 	 [C04-21386B.wrl](./Model3d/wrl/C04-21386B.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21386B.stl) : 	 [C04-21386B.stl](./Model3d/stl/C04-21386B.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21386B.obj) : 	 [C04-21386B.obj](./Model3d/obj/C04-21386B.obj)
+- Package 3d model x3d : 	 [C04-21386B.x3d](./Model3d/x3d/C04-21386B.x3d)
+- Package 3d model scad : 	 [C04-21386B.scad](./Model3d/scad/C04-21386B.scad)
+- Package 3d model usd : 	 [C04-21386B.usd](./Model3d/usd/C04-21386B.usd)
+- Package 3d model glb : 	 [C04-21386B.glb](./Model3d/glb/C04-21386B.glb)
 Pin count : 24
 - 1 : PA2,  of Type IO, alternates : [PORTA PIN_2, EVSYS EVSPA_2, SPI0 MISO_, ADC0 AIN_2, EVSYS EVOUT_0, EVSYS EVAPA_2, TWI0 SCL_, USART0 RXD_, CCL LUT0_IN_2]
 - 2 : PA3,  of Type IO, alternates : [PORTA PIN_3, TCA0 WO_3, ADC0 AIN_3, EVSYS EVSPA_3, SPI0 SCK_, CLKCTRL CLKI_, EVSYS EVAPA_3, USART0 XCK_]
@@ -1753,6 +2078,11 @@ Pin count : 24
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00065D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 D3X
+- Package Type : 	 SOIC
+- Pin count : 	 14,00
+- Package Layout : 	 [C04-00065D.pdf](./mchp/packages/c04-00065d.pdf)
 Pin count : 14
 - 1 : VDD,  of Type PP
 - 2 : PA4,  of Type IO, alternates : [USART0 XDIR_, CCL LUT0_OUT_0, EVSYS EVSPA_4, PORTA PIN_4, TCA0 WO_4, ADC0 AIN_4, EVSYS EVAPA_4, SPI0 SS_]
@@ -1786,6 +2116,11 @@ Pin count : 14
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00065D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 D3X
+- Package Type : 	 SOIC
+- Pin count : 	 14,00
+- Package Layout : 	 [C04-00065D.pdf](./mchp/packages/c04-00065d.pdf)
 Pin count : 14
 - 1 : VDD,  of Type PP
 - 2 : PA4,  of Type IO, alternates : [USART0 XDIR_, CCL LUT0_OUT_0, EVSYS EVSPA_4, PORTA PIN_4, TCA0 WO_4, ADC0 AIN_4, EVSYS EVAPA_4, SPI0 SS_]
@@ -1819,6 +2154,18 @@ Pin count : 14
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-21380A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 REB
+- Package Type : 	 VQFN
+- Pin count : 	 20,00
+- Package Layout : 	 [C04-21380A.pdf](./mchp/packages/c04-21380a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21380A.wrl) : 	 [C04-21380A.wrl](./Model3d/wrl/C04-21380A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21380A.stl) : 	 [C04-21380A.stl](./Model3d/stl/C04-21380A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21380A.obj) : 	 [C04-21380A.obj](./Model3d/obj/C04-21380A.obj)
+- Package 3d model x3d : 	 [C04-21380A.x3d](./Model3d/x3d/C04-21380A.x3d)
+- Package 3d model scad : 	 [C04-21380A.scad](./Model3d/scad/C04-21380A.scad)
+- Package 3d model usd : 	 [C04-21380A.usd](./Model3d/usd/C04-21380A.usd)
+- Package 3d model glb : 	 [C04-21380A.glb](./Model3d/glb/C04-21380A.glb)
 Pin count : 20
 - 1 : PA2,  of Type IO, alternates : [PORTA PIN_2, EVSYS EVSPA_2, SPI0 MISO_, ADC0 AIN_2, EVSYS EVOUT_0, EVSYS EVAPA_2, USART0 RXD_, CCL LUT0_IN_2]
 - 2 : PA3,  of Type IO, alternates : [PORTA PIN_3, TCA0 WO_3, ADC0 AIN_3, EVSYS EVSPA_3, SPI0 SCK_, CLKCTRL CLKI_, EVSYS EVAPA_3, USART0 XCK_]
@@ -1858,6 +2205,18 @@ Pin count : 20
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-21380A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 REB
+- Package Type : 	 VQFN
+- Pin count : 	 20,00
+- Package Layout : 	 [C04-21380A.pdf](./mchp/packages/c04-21380a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21380A.wrl) : 	 [C04-21380A.wrl](./Model3d/wrl/C04-21380A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21380A.stl) : 	 [C04-21380A.stl](./Model3d/stl/C04-21380A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21380A.obj) : 	 [C04-21380A.obj](./Model3d/obj/C04-21380A.obj)
+- Package 3d model x3d : 	 [C04-21380A.x3d](./Model3d/x3d/C04-21380A.x3d)
+- Package 3d model scad : 	 [C04-21380A.scad](./Model3d/scad/C04-21380A.scad)
+- Package 3d model usd : 	 [C04-21380A.usd](./Model3d/usd/C04-21380A.usd)
+- Package 3d model glb : 	 [C04-21380A.glb](./Model3d/glb/C04-21380A.glb)
 Pin count : 20
 - 1 : PA2,  of Type IO, alternates : [PORTA PIN_2, EVSYS EVSPA_2, SPI0 MISO_, ADC0 AIN_2, EVSYS EVOUT_0, EVSYS EVAPA_2, USART0 RXD_, CCL LUT0_IN_2]
 - 2 : PA3,  of Type IO, alternates : [PORTA PIN_3, TCA0 WO_3, ADC0 AIN_3, EVSYS EVSPA_3, SPI0 SCK_, CLKCTRL CLKI_, EVSYS EVAPA_3, USART0 XCK_]
@@ -1975,6 +2334,18 @@ Pin count : 20
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-21386B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 RLB
+- Package Type : 	 VQFN
+- Pin count : 	 24,00
+- Package Layout : 	 [C04-21386B.pdf](./mchp/packages/c04-21386b.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21386B.wrl) : 	 [C04-21386B.wrl](./Model3d/wrl/C04-21386B.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21386B.stl) : 	 [C04-21386B.stl](./Model3d/stl/C04-21386B.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21386B.obj) : 	 [C04-21386B.obj](./Model3d/obj/C04-21386B.obj)
+- Package 3d model x3d : 	 [C04-21386B.x3d](./Model3d/x3d/C04-21386B.x3d)
+- Package 3d model scad : 	 [C04-21386B.scad](./Model3d/scad/C04-21386B.scad)
+- Package 3d model usd : 	 [C04-21386B.usd](./Model3d/usd/C04-21386B.usd)
+- Package 3d model glb : 	 [C04-21386B.glb](./Model3d/glb/C04-21386B.glb)
 Pin count : 24
 - 1 : PA2,  of Type IO, alternates : [PORTA PIN_2, EVSYS EVSPA_2, SPI0 MISO_, ADC0 AIN_2, EVSYS EVOUT_0, EVSYS EVAPA_2, USART0 RXD_, CCL LUT0_IN_2]
 - 2 : PA3,  of Type IO, alternates : [PORTA PIN_3, TCA0 WO_3, ADC0 AIN_3, EVSYS EVSPA_3, SPI0 SCK_, CLKCTRL CLKI_, EVSYS EVAPA_3, USART0 XCK_]
@@ -2017,6 +2388,21 @@ Pin count : 24
 - Name : ATtiny807
 
 ### Package : 
+
+- Package Outline Drawings : 	 [C04-21386B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 RLB
+- Package Type : 	 VQFN
+- Pin count : 	 24,00
+- Package Layout : 	 [C04-21386B.pdf](./mchp/packages/c04-21386b.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21386B.wrl) : 	 [C04-21386B.wrl](./Model3d/wrl/C04-21386B.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21386B.stl) : 	 [C04-21386B.stl](./Model3d/stl/C04-21386B.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21386B.obj) : 	 [C04-21386B.obj](./Model3d/obj/C04-21386B.obj)
+- Package 3d model x3d : 	 [C04-21386B.x3d](./Model3d/x3d/C04-21386B.x3d)
+- Package 3d model scad : 	 [C04-21386B.scad](./Model3d/scad/C04-21386B.scad)
+- Package 3d model usd : 	 [C04-21386B.usd](./Model3d/usd/C04-21386B.usd)
+- Package 3d model glb : 	 [C04-21386B.glb](./Model3d/glb/C04-21386B.glb)
+
+please check that some data is inconsistent 	 
 
 Pin count : 24
 - 1 : PA2,  of Type IO, alternates : [PORTA PIN_2, EVSYS EVSPA_2, SPI0 MISO_, ADC0 AIN_2, EVSYS EVOUT_0, EVSYS EVAPA_2, USART0 RXD_, CCL LUT0_IN_2]
@@ -2061,6 +2447,11 @@ Pin count : 24
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00065D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 D3X
+- Package Type : 	 SOIC
+- Pin count : 	 14,00
+- Package Layout : 	 [C04-00065D.pdf](./mchp/packages/c04-00065d.pdf)
 Pin count : 14
 - 1 : VDD,  of Type PP
 - 2 : PA4,  of Type IO, alternates : [PTC Y_0, PTC X_0, USART0 XDIR_, CCL LUT0_OUT_0, EVSYS EVSPA_4, PORTA PIN_4, TCA0 WO_4, TCD0 WOA_, ADC0 AIN_4, EVSYS EVAPA_4, SPI0 SS_]
@@ -2094,6 +2485,11 @@ Pin count : 14
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00065D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 D3X
+- Package Type : 	 SOIC
+- Pin count : 	 14,00
+- Package Layout : 	 [C04-00065D.pdf](./mchp/packages/c04-00065d.pdf)
 Pin count : 14
 - 1 : VDD,  of Type PP
 - 2 : PA4,  of Type IO, alternates : [PTC Y_0, PTC X_0, USART0 XDIR_, CCL LUT0_OUT_0, EVSYS EVSPA_4, PORTA PIN_4, TCA0 WO_4, TCD0 WOA_, ADC0 AIN_4, EVSYS EVAPA_4, SPI0 SS_]
@@ -2126,6 +2522,14 @@ Pin count : 14
 - Name : ATtiny814
 
 ### Package : 
+
+- Package Outline Drawings : 	 [C04-00065D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 D3X
+- Package Type : 	 SOIC
+- Pin count : 	 14,00
+- Package Layout : 	 [C04-00065D.pdf](./mchp/packages/c04-00065d.pdf)
+
+please check that some data is inconsistent 	 
 
 Pin count : 14
 - 1 : VDD,  of Type PP
@@ -2160,6 +2564,18 @@ Pin count : 14
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-21380A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 REB
+- Package Type : 	 VQFN
+- Pin count : 	 20,00
+- Package Layout : 	 [C04-21380A.pdf](./mchp/packages/c04-21380a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21380A.wrl) : 	 [C04-21380A.wrl](./Model3d/wrl/C04-21380A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21380A.stl) : 	 [C04-21380A.stl](./Model3d/stl/C04-21380A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21380A.obj) : 	 [C04-21380A.obj](./Model3d/obj/C04-21380A.obj)
+- Package 3d model x3d : 	 [C04-21380A.x3d](./Model3d/x3d/C04-21380A.x3d)
+- Package 3d model scad : 	 [C04-21380A.scad](./Model3d/scad/C04-21380A.scad)
+- Package 3d model usd : 	 [C04-21380A.usd](./Model3d/usd/C04-21380A.usd)
+- Package 3d model glb : 	 [C04-21380A.glb](./Model3d/glb/C04-21380A.glb)
 Pin count : 20
 - 1 : PA2,  of Type IO, alternates : [PORTA PIN_2, EVSYS EVSPA_2, SPI0 MISO_, ADC0 AIN_2, EVSYS EVOUT_0, EVSYS EVAPA_2, TWI0 SCL_, USART0 RXD_, CCL LUT0_IN_2]
 - 2 : PA3,  of Type IO, alternates : [PORTA PIN_3, TCA0 WO_3, ADC0 AIN_3, EVSYS EVSPA_3, SPI0 SCK_, CLKCTRL CLKI_, EVSYS EVAPA_3, USART0 XCK_]
@@ -2199,6 +2615,18 @@ Pin count : 20
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-21380A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 REB
+- Package Type : 	 VQFN
+- Pin count : 	 20,00
+- Package Layout : 	 [C04-21380A.pdf](./mchp/packages/c04-21380a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21380A.wrl) : 	 [C04-21380A.wrl](./Model3d/wrl/C04-21380A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21380A.stl) : 	 [C04-21380A.stl](./Model3d/stl/C04-21380A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21380A.obj) : 	 [C04-21380A.obj](./Model3d/obj/C04-21380A.obj)
+- Package 3d model x3d : 	 [C04-21380A.x3d](./Model3d/x3d/C04-21380A.x3d)
+- Package 3d model scad : 	 [C04-21380A.scad](./Model3d/scad/C04-21380A.scad)
+- Package 3d model usd : 	 [C04-21380A.usd](./Model3d/usd/C04-21380A.usd)
+- Package 3d model glb : 	 [C04-21380A.glb](./Model3d/glb/C04-21380A.glb)
 Pin count : 20
 - 1 : PA2,  of Type IO, alternates : [PORTA PIN_2, EVSYS EVSPA_2, SPI0 MISO_, ADC0 AIN_2, EVSYS EVOUT_0, EVSYS EVAPA_2, TWI0 SCL_, USART0 RXD_, CCL LUT0_IN_2]
 - 2 : PA3,  of Type IO, alternates : [PORTA PIN_3, TCA0 WO_3, ADC0 AIN_3, EVSYS EVSPA_3, SPI0 SCK_, CLKCTRL CLKI_, EVSYS EVAPA_3, USART0 XCK_]
@@ -2237,6 +2665,21 @@ Pin count : 20
 - Name : ATtiny816
 
 ### Package : 
+
+- Package Outline Drawings : 	 [C04-00476C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 2LX
+- Package Type : 	 VQFN
+- Pin count : 	 20,00
+- Package Layout : 	 [C04-00476C.pdf](./mchp/packages/c04-00476c.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00476C.wrl) : 	 [C04-00476C.wrl](./Model3d/wrl/C04-00476C.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00476C.stl) : 	 [C04-00476C.stl](./Model3d/stl/C04-00476C.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00476C.obj) : 	 [C04-00476C.obj](./Model3d/obj/C04-00476C.obj)
+- Package 3d model x3d : 	 [C04-00476C.x3d](./Model3d/x3d/C04-00476C.x3d)
+- Package 3d model scad : 	 [C04-00476C.scad](./Model3d/scad/C04-00476C.scad)
+- Package 3d model usd : 	 [C04-00476C.usd](./Model3d/usd/C04-00476C.usd)
+- Package 3d model glb : 	 [C04-00476C.glb](./Model3d/glb/C04-00476C.glb)
+
+please check that some data is inconsistent 	 
 
 Pin count : 20
 - 1 : PA2,  of Type IO, alternates : [PORTA PIN_2, EVSYS EVSPA_2, SPI0 MISO_, ADC0 AIN_2, EVSYS EVOUT_0, EVSYS EVAPA_2, TWI0 SCL_, USART0 RXD_, CCL LUT0_IN_2]
@@ -2355,6 +2798,18 @@ Pin count : 20
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-21386B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 RLB
+- Package Type : 	 VQFN
+- Pin count : 	 24,00
+- Package Layout : 	 [C04-21386B.pdf](./mchp/packages/c04-21386b.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21386B.wrl) : 	 [C04-21386B.wrl](./Model3d/wrl/C04-21386B.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21386B.stl) : 	 [C04-21386B.stl](./Model3d/stl/C04-21386B.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21386B.obj) : 	 [C04-21386B.obj](./Model3d/obj/C04-21386B.obj)
+- Package 3d model x3d : 	 [C04-21386B.x3d](./Model3d/x3d/C04-21386B.x3d)
+- Package 3d model scad : 	 [C04-21386B.scad](./Model3d/scad/C04-21386B.scad)
+- Package 3d model usd : 	 [C04-21386B.usd](./Model3d/usd/C04-21386B.usd)
+- Package 3d model glb : 	 [C04-21386B.glb](./Model3d/glb/C04-21386B.glb)
 Pin count : 24
 - 1 : PA2,  of Type IO, alternates : [PORTA PIN_2, EVSYS EVSPA_2, SPI0 MISO_, ADC0 AIN_2, EVSYS EVOUT_0, EVSYS EVAPA_2, TWI0 SCL_, USART0 RXD_, CCL LUT0_IN_2]
 - 2 : PA3,  of Type IO, alternates : [PORTA PIN_3, TCA0 WO_3, ADC0 AIN_3, EVSYS EVSPA_3, SPI0 SCK_, CLKCTRL CLKI_, EVSYS EVAPA_3, USART0 XCK_]
@@ -2398,6 +2853,18 @@ Pin count : 24
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-21386B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 RLB
+- Package Type : 	 VQFN
+- Pin count : 	 24,00
+- Package Layout : 	 [C04-21386B.pdf](./mchp/packages/c04-21386b.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21386B.wrl) : 	 [C04-21386B.wrl](./Model3d/wrl/C04-21386B.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21386B.stl) : 	 [C04-21386B.stl](./Model3d/stl/C04-21386B.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21386B.obj) : 	 [C04-21386B.obj](./Model3d/obj/C04-21386B.obj)
+- Package 3d model x3d : 	 [C04-21386B.x3d](./Model3d/x3d/C04-21386B.x3d)
+- Package 3d model scad : 	 [C04-21386B.scad](./Model3d/scad/C04-21386B.scad)
+- Package 3d model usd : 	 [C04-21386B.usd](./Model3d/usd/C04-21386B.usd)
+- Package 3d model glb : 	 [C04-21386B.glb](./Model3d/glb/C04-21386B.glb)
 Pin count : 24
 - 1 : PA2,  of Type IO, alternates : [PORTA PIN_2, EVSYS EVSPA_2, SPI0 MISO_, ADC0 AIN_2, EVSYS EVOUT_0, EVSYS EVAPA_2, TWI0 SCL_, USART0 RXD_, CCL LUT0_IN_2]
 - 2 : PA3,  of Type IO, alternates : [PORTA PIN_3, TCA0 WO_3, ADC0 AIN_3, EVSYS EVSPA_3, SPI0 SCK_, CLKCTRL CLKI_, EVSYS EVAPA_3, USART0 XCK_]
@@ -2440,6 +2907,21 @@ Pin count : 24
 - Name : ATtiny817
 
 ### Package : 
+
+- Package Outline Drawings : 	 [C04-21386B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 RLB
+- Package Type : 	 VQFN
+- Pin count : 	 24,00
+- Package Layout : 	 [C04-21386B.pdf](./mchp/packages/c04-21386b.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21386B.wrl) : 	 [C04-21386B.wrl](./Model3d/wrl/C04-21386B.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21386B.stl) : 	 [C04-21386B.stl](./Model3d/stl/C04-21386B.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21386B.obj) : 	 [C04-21386B.obj](./Model3d/obj/C04-21386B.obj)
+- Package 3d model x3d : 	 [C04-21386B.x3d](./Model3d/x3d/C04-21386B.x3d)
+- Package 3d model scad : 	 [C04-21386B.scad](./Model3d/scad/C04-21386B.scad)
+- Package 3d model usd : 	 [C04-21386B.usd](./Model3d/usd/C04-21386B.usd)
+- Package 3d model glb : 	 [C04-21386B.glb](./Model3d/glb/C04-21386B.glb)
+
+please check that some data is inconsistent 	 
 
 Pin count : 24
 - 1 : PA2,  of Type IO, alternates : [PORTA PIN_2, EVSYS EVSPA_2, SPI0 MISO_, ADC0 AIN_2, EVSYS EVOUT_0, EVSYS EVAPA_2, TWI0 SCL_, USART0 RXD_, CCL LUT0_IN_2]

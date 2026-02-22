@@ -2623,4 +2623,4 @@ List of supported device by Familly :
     - [ATtiny827](tinyAVR_2.md)
 
 
-Last Update : Sun Feb 22 13:28:52 CET 2026
+Last Update : Sun Feb 22 22:49:45 CET 2026

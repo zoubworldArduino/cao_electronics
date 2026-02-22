@@ -20,6 +20,21 @@
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-21246A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 FRB
+- Package Type : 	 WLCSP
+- Pin count : 	 49,00
+- Package Layout : 	 [C04-21246A.pdf](./mchp/packages/c04-21246a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21246A.wrl) : 	 [C04-21246A.wrl](./Model3d/wrl/C04-21246A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21246A.stl) : 	 [C04-21246A.stl](./Model3d/stl/C04-21246A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21246A.obj) : 	 [C04-21246A.obj](./Model3d/obj/C04-21246A.obj)
+- Package 3d model x3d : 	 [C04-21246A.x3d](./Model3d/x3d/C04-21246A.x3d)
+- Package 3d model scad : 	 [C04-21246A.scad](./Model3d/scad/C04-21246A.scad)
+- Package 3d model usd : 	 [C04-21246A.usd](./Model3d/usd/C04-21246A.usd)
+- Package 3d model glb : 	 [C04-21246A.glb](./Model3d/glb/C04-21246A.glb)
+
+please check that some data is inconsistent 	 
+
 Pin count : 49
 - C7 : PA0,  of Type IO, alternates : [SUPC WKUP_0, TC0 TIOA_0, PIOA P_0]
 - D5 : PA1,  of Type IO, alternates : [SUPC WKUP_1, PIOA P_1, TC0 TIOB_0]
@@ -685,7 +700,13 @@ Pin count : 100
 - Package Type : 	 WLCSP
 - Pin count : 	 49,00
 - Package Layout : 	 [C04-21246A.pdf](./mchp/packages/c04-21246a.pdf)
-- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-21246A.scad) : 	 [C04-21246A.scad](./Model3d/scad/C04-21246A.scad)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21246A.wrl) : 	 [C04-21246A.wrl](./Model3d/wrl/C04-21246A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21246A.stl) : 	 [C04-21246A.stl](./Model3d/stl/C04-21246A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21246A.obj) : 	 [C04-21246A.obj](./Model3d/obj/C04-21246A.obj)
+- Package 3d model x3d : 	 [C04-21246A.x3d](./Model3d/x3d/C04-21246A.x3d)
+- Package 3d model scad : 	 [C04-21246A.scad](./Model3d/scad/C04-21246A.scad)
+- Package 3d model usd : 	 [C04-21246A.usd](./Model3d/usd/C04-21246A.usd)
+- Package 3d model glb : 	 [C04-21246A.glb](./Model3d/glb/C04-21246A.glb)
 Pin count : 49
 - C7 : PA0,  of Type IO, alternates : [SUPC WKUP_0, TC0 TIOA_0, I2SC0 I2SCK_0, PIOA P_0]
 - D5 : PA1,  of Type IO, alternates : [SUPC WKUP_1, I2SC0 I2SWS_0, PIOA P_1, TC0 TIOB_0]
@@ -762,7 +783,13 @@ Pin count : 49
 - Package Type : 	 LQFP
 - Pin count : 	 64,00
 - Package Layout : 	 [C04-00053A.pdf](./mchp/packages/c04-00053a.pdf)
-- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00053A.scad) : 	 [C04-00053A.scad](./Model3d/scad/C04-00053A.scad)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00053A.wrl) : 	 [C04-00053A.wrl](./Model3d/wrl/C04-00053A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00053A.stl) : 	 [C04-00053A.stl](./Model3d/stl/C04-00053A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00053A.obj) : 	 [C04-00053A.obj](./Model3d/obj/C04-00053A.obj)
+- Package 3d model x3d : 	 [C04-00053A.x3d](./Model3d/x3d/C04-00053A.x3d)
+- Package 3d model scad : 	 [C04-00053A.scad](./Model3d/scad/C04-00053A.scad)
+- Package 3d model usd : 	 [C04-00053A.usd](./Model3d/usd/C04-00053A.usd)
+- Package 3d model glb : 	 [C04-00053A.glb](./Model3d/glb/C04-00053A.glb)
 Pin count : 64
 - 6 : PA0,  of Type IO, alternates : [SUPC WKUP_0, TC0 TIOA_0, I2SC0 I2SCK_0, PIOA P_0]
 - 7 : PA1,  of Type IO, alternates : [SUPC WKUP_1, I2SC0 I2SWS_0, PIOA P_1, TC0 TIOB_0]
@@ -854,7 +881,13 @@ Pin count : 64
 - Package Type : 	 LQFP
 - Pin count : 	 64,00
 - Package Layout : 	 [C04-00053A.pdf](./mchp/packages/c04-00053a.pdf)
-- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00053A.scad) : 	 [C04-00053A.scad](./Model3d/scad/C04-00053A.scad)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00053A.wrl) : 	 [C04-00053A.wrl](./Model3d/wrl/C04-00053A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00053A.stl) : 	 [C04-00053A.stl](./Model3d/stl/C04-00053A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00053A.obj) : 	 [C04-00053A.obj](./Model3d/obj/C04-00053A.obj)
+- Package 3d model x3d : 	 [C04-00053A.x3d](./Model3d/x3d/C04-00053A.x3d)
+- Package 3d model scad : 	 [C04-00053A.scad](./Model3d/scad/C04-00053A.scad)
+- Package 3d model usd : 	 [C04-00053A.usd](./Model3d/usd/C04-00053A.usd)
+- Package 3d model glb : 	 [C04-00053A.glb](./Model3d/glb/C04-00053A.glb)
 Pin count : 64
 - 6 : PA0,  of Type IO, alternates : [SUPC WKUP_0, TC0 TIOA_0, I2SC0 I2SCK_0, PIOA P_0]
 - 7 : PA1,  of Type IO, alternates : [SUPC WKUP_1, I2SC0 I2SWS_0, PIOA P_1, TC0 TIOB_0]
@@ -946,7 +979,13 @@ Pin count : 64
 - Package Type : 	 VQFN
 - Pin count : 	 64,00
 - Package Layout : 	 [C04-21410A.pdf](./mchp/packages/c04-21410a.pdf)
-- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-21410A.scad) : 	 [C04-21410A.scad](./Model3d/scad/C04-21410A.scad)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21410A.wrl) : 	 [C04-21410A.wrl](./Model3d/wrl/C04-21410A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21410A.stl) : 	 [C04-21410A.stl](./Model3d/stl/C04-21410A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21410A.obj) : 	 [C04-21410A.obj](./Model3d/obj/C04-21410A.obj)
+- Package 3d model x3d : 	 [C04-21410A.x3d](./Model3d/x3d/C04-21410A.x3d)
+- Package 3d model scad : 	 [C04-21410A.scad](./Model3d/scad/C04-21410A.scad)
+- Package 3d model usd : 	 [C04-21410A.usd](./Model3d/usd/C04-21410A.usd)
+- Package 3d model glb : 	 [C04-21410A.glb](./Model3d/glb/C04-21410A.glb)
 Pin count : 64
 - 6 : PA0,  of Type IO, alternates : [SUPC WKUP_0, TC0 TIOA_0, I2SC0 I2SCK_0, PIOA P_0]
 - 7 : PA1,  of Type IO, alternates : [SUPC WKUP_1, I2SC0 I2SWS_0, PIOA P_1, TC0 TIOB_0]
@@ -1038,7 +1077,13 @@ Pin count : 64
 - Package Type : 	 VQFN
 - Pin count : 	 64,00
 - Package Layout : 	 [C04-21410A.pdf](./mchp/packages/c04-21410a.pdf)
-- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-21410A.scad) : 	 [C04-21410A.scad](./Model3d/scad/C04-21410A.scad)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21410A.wrl) : 	 [C04-21410A.wrl](./Model3d/wrl/C04-21410A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21410A.stl) : 	 [C04-21410A.stl](./Model3d/stl/C04-21410A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21410A.obj) : 	 [C04-21410A.obj](./Model3d/obj/C04-21410A.obj)
+- Package 3d model x3d : 	 [C04-21410A.x3d](./Model3d/x3d/C04-21410A.x3d)
+- Package 3d model scad : 	 [C04-21410A.scad](./Model3d/scad/C04-21410A.scad)
+- Package 3d model usd : 	 [C04-21410A.usd](./Model3d/usd/C04-21410A.usd)
+- Package 3d model glb : 	 [C04-21410A.glb](./Model3d/glb/C04-21410A.glb)
 Pin count : 64
 - 6 : PA0,  of Type IO, alternates : [SUPC WKUP_0, TC0 TIOA_0, I2SC0 I2SCK_0, PIOA P_0]
 - 7 : PA1,  of Type IO, alternates : [SUPC WKUP_1, I2SC0 I2SWS_0, PIOA P_1, TC0 TIOB_0]

@@ -25,7 +25,13 @@
 - Package Type : 	 VQFN
 - Pin count : 	 32,00
 - Package Layout : 	 [C04-21402A.pdf](./mchp/packages/c04-21402a.pdf)
-- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-21402A.scad) : 	 [C04-21402A.scad](./Model3d/scad/C04-21402A.scad)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21402A.wrl) : 	 [C04-21402A.wrl](./Model3d/wrl/C04-21402A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21402A.stl) : 	 [C04-21402A.stl](./Model3d/stl/C04-21402A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21402A.obj) : 	 [C04-21402A.obj](./Model3d/obj/C04-21402A.obj)
+- Package 3d model x3d : 	 [C04-21402A.x3d](./Model3d/x3d/C04-21402A.x3d)
+- Package 3d model scad : 	 [C04-21402A.scad](./Model3d/scad/C04-21402A.scad)
+- Package 3d model usd : 	 [C04-21402A.usd](./Model3d/usd/C04-21402A.usd)
+- Package 3d model glb : 	 [C04-21402A.glb](./Model3d/glb/C04-21402A.glb)
 
 please check that some data is inconsistent 	 
 
@@ -89,8 +95,12 @@ Pin count : 32
 - Pin count : 	 48,00
 - Package Layout : 	 [C04-00507A.pdf](./mchp/packages/c04-00507a.pdf)
 - Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00507A.wrl) : 	 [C04-00507A.wrl](./Model3d/wrl/C04-00507A.wrl)
-- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00507A.x3d) : 	 [C04-00507A.x3d](./Model3d/x3d/C04-00507A.x3d)
-- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00507A.scad) : 	 [C04-00507A.scad](./Model3d/scad/C04-00507A.scad)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00507A.stl) : 	 [C04-00507A.stl](./Model3d/stl/C04-00507A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00507A.obj) : 	 [C04-00507A.obj](./Model3d/obj/C04-00507A.obj)
+- Package 3d model x3d : 	 [C04-00507A.x3d](./Model3d/x3d/C04-00507A.x3d)
+- Package 3d model scad : 	 [C04-00507A.scad](./Model3d/scad/C04-00507A.scad)
+- Package 3d model usd : 	 [C04-00507A.usd](./Model3d/usd/C04-00507A.usd)
+- Package 3d model glb : 	 [C04-00507A.glb](./Model3d/glb/C04-00507A.glb)
 
 please check that some data is inconsistent 	 
 
@@ -169,7 +179,13 @@ Pin count : 48
 - Package Type : 	 TQFP
 - Pin count : 	 100,00
 - Package Layout : 	 [C04-00110C.pdf](./mchp/packages/c04-00110c.pdf)
-- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00110C.scad) : 	 [C04-00110C.scad](./Model3d/scad/C04-00110C.scad)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00110C.wrl) : 	 [C04-00110C.wrl](./Model3d/wrl/C04-00110C.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00110C.stl) : 	 [C04-00110C.stl](./Model3d/stl/C04-00110C.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00110C.obj) : 	 [C04-00110C.obj](./Model3d/obj/C04-00110C.obj)
+- Package 3d model x3d : 	 [C04-00110C.x3d](./Model3d/x3d/C04-00110C.x3d)
+- Package 3d model scad : 	 [C04-00110C.scad](./Model3d/scad/C04-00110C.scad)
+- Package 3d model usd : 	 [C04-00110C.usd](./Model3d/usd/C04-00110C.usd)
+- Package 3d model glb : 	 [C04-00110C.glb](./Model3d/glb/C04-00110C.glb)
 Pin count : 100
 - 1 : PA00,  of Type IO, alternates : [TC2:1 WO_0, OSC32KCTRL XIN32_, SERCOM1:4 PAD_0, EIC EXTINT_0, PORT P_0]
 - 2 : PA01,  of Type IO, alternates : [SERCOM1:4 PAD_1, EIC EXTINT_1, PORT P_1, OSC32KCTRL XOUT32_, TC2:1 WO_1]
@@ -297,7 +313,13 @@ Pin count : 100
 - Package Type : 	 TQFP
 - Pin count : 	 100,00
 - Package Layout : 	 [C04-00110C.pdf](./mchp/packages/c04-00110c.pdf)
-- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00110C.scad) : 	 [C04-00110C.scad](./Model3d/scad/C04-00110C.scad)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00110C.wrl) : 	 [C04-00110C.wrl](./Model3d/wrl/C04-00110C.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00110C.stl) : 	 [C04-00110C.stl](./Model3d/stl/C04-00110C.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00110C.obj) : 	 [C04-00110C.obj](./Model3d/obj/C04-00110C.obj)
+- Package 3d model x3d : 	 [C04-00110C.x3d](./Model3d/x3d/C04-00110C.x3d)
+- Package 3d model scad : 	 [C04-00110C.scad](./Model3d/scad/C04-00110C.scad)
+- Package 3d model usd : 	 [C04-00110C.usd](./Model3d/usd/C04-00110C.usd)
+- Package 3d model glb : 	 [C04-00110C.glb](./Model3d/glb/C04-00110C.glb)
 Pin count : 100
 - 1 : PA00,  of Type IO, alternates : [TC2:1 WO_0, OSC32KCTRL XIN32_, SERCOM1:4 PAD_0, EIC EXTINT_0, PORT P_0]
 - 2 : PA01,  of Type IO, alternates : [SERCOM1:4 PAD_1, EIC EXTINT_1, PORT P_1, OSC32KCTRL XOUT32_, TC2:1 WO_1]
@@ -426,8 +448,12 @@ Pin count : 100
 - Pin count : 	 128,00
 - Package Layout : 	 [C04-00181D.pdf](./mchp/packages/c04-00181d.pdf)
 - Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00181D.wrl) : 	 [C04-00181D.wrl](./Model3d/wrl/C04-00181D.wrl)
-- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00181D.x3d) : 	 [C04-00181D.x3d](./Model3d/x3d/C04-00181D.x3d)
-- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00181D.scad) : 	 [C04-00181D.scad](./Model3d/scad/C04-00181D.scad)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00181D.stl) : 	 [C04-00181D.stl](./Model3d/stl/C04-00181D.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00181D.obj) : 	 [C04-00181D.obj](./Model3d/obj/C04-00181D.obj)
+- Package 3d model x3d : 	 [C04-00181D.x3d](./Model3d/x3d/C04-00181D.x3d)
+- Package 3d model scad : 	 [C04-00181D.scad](./Model3d/scad/C04-00181D.scad)
+- Package 3d model usd : 	 [C04-00181D.usd](./Model3d/usd/C04-00181D.usd)
+- Package 3d model glb : 	 [C04-00181D.glb](./Model3d/glb/C04-00181D.glb)
 Pin count : 128
 - 1 : PA00,  of Type IO, alternates : [TC2:1 WO_0, OSC32KCTRL XIN32_, SERCOM1:4 PAD_0, EIC EXTINT_0, PORT P_0]
 - 2 : PA01,  of Type IO, alternates : [SERCOM1:4 PAD_1, EIC EXTINT_1, PORT P_1, OSC32KCTRL XOUT32_, TC2:1 WO_1]
@@ -584,8 +610,12 @@ Pin count : 128
 - Pin count : 	 128,00
 - Package Layout : 	 [C04-00181D.pdf](./mchp/packages/c04-00181d.pdf)
 - Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00181D.wrl) : 	 [C04-00181D.wrl](./Model3d/wrl/C04-00181D.wrl)
-- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00181D.x3d) : 	 [C04-00181D.x3d](./Model3d/x3d/C04-00181D.x3d)
-- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00181D.scad) : 	 [C04-00181D.scad](./Model3d/scad/C04-00181D.scad)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00181D.stl) : 	 [C04-00181D.stl](./Model3d/stl/C04-00181D.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00181D.obj) : 	 [C04-00181D.obj](./Model3d/obj/C04-00181D.obj)
+- Package 3d model x3d : 	 [C04-00181D.x3d](./Model3d/x3d/C04-00181D.x3d)
+- Package 3d model scad : 	 [C04-00181D.scad](./Model3d/scad/C04-00181D.scad)
+- Package 3d model usd : 	 [C04-00181D.usd](./Model3d/usd/C04-00181D.usd)
+- Package 3d model glb : 	 [C04-00181D.glb](./Model3d/glb/C04-00181D.glb)
 Pin count : 128
 - 1 : PA00,  of Type IO, alternates : [TC2:1 WO_0, OSC32KCTRL XIN32_, SERCOM1:4 PAD_0, EIC EXTINT_0, PORT P_0]
 - 2 : PA01,  of Type IO, alternates : [SERCOM1:4 PAD_1, EIC EXTINT_1, PORT P_1, OSC32KCTRL XOUT32_, TC2:1 WO_1]
@@ -742,8 +772,12 @@ Pin count : 128
 - Pin count : 	 100,00
 - Package Layout : 	 [C04-21530A.pdf](./mchp/packages/c04-21530a.pdf)
 - Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21530A.wrl) : 	 [C04-21530A.wrl](./Model3d/wrl/C04-21530A.wrl)
-- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-21530A.x3d) : 	 [C04-21530A.x3d](./Model3d/x3d/C04-21530A.x3d)
-- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-21530A.scad) : 	 [C04-21530A.scad](./Model3d/scad/C04-21530A.scad)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21530A.stl) : 	 [C04-21530A.stl](./Model3d/stl/C04-21530A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21530A.obj) : 	 [C04-21530A.obj](./Model3d/obj/C04-21530A.obj)
+- Package 3d model x3d : 	 [C04-21530A.x3d](./Model3d/x3d/C04-21530A.x3d)
+- Package 3d model scad : 	 [C04-21530A.scad](./Model3d/scad/C04-21530A.scad)
+- Package 3d model usd : 	 [C04-21530A.usd](./Model3d/usd/C04-21530A.usd)
+- Package 3d model glb : 	 [C04-21530A.glb](./Model3d/glb/C04-21530A.glb)
 Pin count : 105
 - 1 : PA00,  of Type IO, alternates : [TC2:1 WO_0, OSC32KCTRL XIN32_, SERCOM1:4 PAD_0, EIC EXTINT_0, PORT P_0]
 - 2 : PA01,  of Type IO, alternates : [SERCOM1:4 PAD_1, EIC EXTINT_1, PORT P_1, OSC32KCTRL XOUT32_, TC2:1 WO_1]
@@ -876,8 +910,12 @@ Pin count : 105
 - Package Type : 	 TFBGA
 - Pin count : 	 100,00
 - Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21529D.wrl) : 	 [C04-21529D.wrl](./Model3d/wrl/C04-21529D.wrl)
-- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-21529D.x3d) : 	 [C04-21529D.x3d](./Model3d/x3d/C04-21529D.x3d)
-- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-21529D.scad) : 	 [C04-21529D.scad](./Model3d/scad/C04-21529D.scad)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21529D.stl) : 	 [C04-21529D.stl](./Model3d/stl/C04-21529D.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21529D.obj) : 	 [C04-21529D.obj](./Model3d/obj/C04-21529D.obj)
+- Package 3d model x3d : 	 [C04-21529D.x3d](./Model3d/x3d/C04-21529D.x3d)
+- Package 3d model scad : 	 [C04-21529D.scad](./Model3d/scad/C04-21529D.scad)
+- Package 3d model usd : 	 [C04-21529D.usd](./Model3d/usd/C04-21529D.usd)
+- Package 3d model glb : 	 [C04-21529D.glb](./Model3d/glb/C04-21529D.glb)
 Pin count : 105
 - A1 : PB30,  of Type IO, alternates : [SERCOM5:5 PAD_1, TCC4:2 WO_0, PORT P_62, EIC EXTINT_14, TC0:3 WO_0, SERCOM7:5 PAD_0, TCC0:4 WO_6]
 - A2 : VSS,  of Type PS
@@ -1011,8 +1049,12 @@ Pin count : 105
 - Pin count : 	 100,00
 - Package Layout : 	 [C04-21530A.pdf](./mchp/packages/c04-21530a.pdf)
 - Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21530A.wrl) : 	 [C04-21530A.wrl](./Model3d/wrl/C04-21530A.wrl)
-- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-21530A.x3d) : 	 [C04-21530A.x3d](./Model3d/x3d/C04-21530A.x3d)
-- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-21530A.scad) : 	 [C04-21530A.scad](./Model3d/scad/C04-21530A.scad)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21530A.stl) : 	 [C04-21530A.stl](./Model3d/stl/C04-21530A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21530A.obj) : 	 [C04-21530A.obj](./Model3d/obj/C04-21530A.obj)
+- Package 3d model x3d : 	 [C04-21530A.x3d](./Model3d/x3d/C04-21530A.x3d)
+- Package 3d model scad : 	 [C04-21530A.scad](./Model3d/scad/C04-21530A.scad)
+- Package 3d model usd : 	 [C04-21530A.usd](./Model3d/usd/C04-21530A.usd)
+- Package 3d model glb : 	 [C04-21530A.glb](./Model3d/glb/C04-21530A.glb)
 Pin count : 105
 - 1 : PA00,  of Type IO, alternates : [TC2:1 WO_0, OSC32KCTRL XIN32_, SERCOM1:4 PAD_0, EIC EXTINT_0, PORT P_0]
 - 2 : PA01,  of Type IO, alternates : [SERCOM1:4 PAD_1, EIC EXTINT_1, PORT P_1, OSC32KCTRL XOUT32_, TC2:1 WO_1]
@@ -1145,8 +1187,12 @@ Pin count : 105
 - Package Type : 	 TFBGA
 - Pin count : 	 100,00
 - Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21529D.wrl) : 	 [C04-21529D.wrl](./Model3d/wrl/C04-21529D.wrl)
-- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-21529D.x3d) : 	 [C04-21529D.x3d](./Model3d/x3d/C04-21529D.x3d)
-- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-21529D.scad) : 	 [C04-21529D.scad](./Model3d/scad/C04-21529D.scad)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21529D.stl) : 	 [C04-21529D.stl](./Model3d/stl/C04-21529D.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21529D.obj) : 	 [C04-21529D.obj](./Model3d/obj/C04-21529D.obj)
+- Package 3d model x3d : 	 [C04-21529D.x3d](./Model3d/x3d/C04-21529D.x3d)
+- Package 3d model scad : 	 [C04-21529D.scad](./Model3d/scad/C04-21529D.scad)
+- Package 3d model usd : 	 [C04-21529D.usd](./Model3d/usd/C04-21529D.usd)
+- Package 3d model glb : 	 [C04-21529D.glb](./Model3d/glb/C04-21529D.glb)
 Pin count : 105
 - A1 : PB30,  of Type IO, alternates : [SERCOM5:5 PAD_1, TCC4:2 WO_0, PORT P_62, EIC EXTINT_14, TC0:3 WO_0, SERCOM7:5 PAD_0, TCC0:4 WO_6]
 - A2 : VSS,  of Type PS
@@ -1279,7 +1325,13 @@ Pin count : 105
 - Package Type : 	 TQFP
 - Pin count : 	 128,00
 - Package Layout : 	 [C04-21547A.pdf](./mchp/packages/c04-21547a.pdf)
-- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-21547A.scad) : 	 [C04-21547A.scad](./Model3d/scad/C04-21547A.scad)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21547A.wrl) : 	 [C04-21547A.wrl](./Model3d/wrl/C04-21547A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21547A.stl) : 	 [C04-21547A.stl](./Model3d/stl/C04-21547A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21547A.obj) : 	 [C04-21547A.obj](./Model3d/obj/C04-21547A.obj)
+- Package 3d model x3d : 	 [C04-21547A.x3d](./Model3d/x3d/C04-21547A.x3d)
+- Package 3d model scad : 	 [C04-21547A.scad](./Model3d/scad/C04-21547A.scad)
+- Package 3d model usd : 	 [C04-21547A.usd](./Model3d/usd/C04-21547A.usd)
+- Package 3d model glb : 	 [C04-21547A.glb](./Model3d/glb/C04-21547A.glb)
 Pin count : 133
 - 1 : PA00,  of Type IO, alternates : [TC2:1 WO_0, OSC32KCTRL XIN32_, SERCOM1:4 PAD_0, EIC EXTINT_0, PORT P_0]
 - 2 : PA01,  of Type IO, alternates : [SERCOM1:4 PAD_1, EIC EXTINT_1, PORT P_1, OSC32KCTRL XOUT32_, TC2:1 WO_1]
@@ -1440,7 +1492,13 @@ Pin count : 133
 - Package Type : 	 TQFP
 - Pin count : 	 128,00
 - Package Layout : 	 [C04-21547A.pdf](./mchp/packages/c04-21547a.pdf)
-- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-21547A.scad) : 	 [C04-21547A.scad](./Model3d/scad/C04-21547A.scad)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21547A.wrl) : 	 [C04-21547A.wrl](./Model3d/wrl/C04-21547A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21547A.stl) : 	 [C04-21547A.stl](./Model3d/stl/C04-21547A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21547A.obj) : 	 [C04-21547A.obj](./Model3d/obj/C04-21547A.obj)
+- Package 3d model x3d : 	 [C04-21547A.x3d](./Model3d/x3d/C04-21547A.x3d)
+- Package 3d model scad : 	 [C04-21547A.scad](./Model3d/scad/C04-21547A.scad)
+- Package 3d model usd : 	 [C04-21547A.usd](./Model3d/usd/C04-21547A.usd)
+- Package 3d model glb : 	 [C04-21547A.glb](./Model3d/glb/C04-21547A.glb)
 Pin count : 133
 - 1 : PA00,  of Type IO, alternates : [TC2:1 WO_0, OSC32KCTRL XIN32_, SERCOM1:4 PAD_0, EIC EXTINT_0, PORT P_0]
 - 2 : PA01,  of Type IO, alternates : [SERCOM1:4 PAD_1, EIC EXTINT_1, PORT P_1, OSC32KCTRL XOUT32_, TC2:1 WO_1]
@@ -1602,8 +1660,12 @@ Pin count : 133
 - Pin count : 	 100,00
 - Package Layout : 	 [C04-21530A.pdf](./mchp/packages/c04-21530a.pdf)
 - Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21530A.wrl) : 	 [C04-21530A.wrl](./Model3d/wrl/C04-21530A.wrl)
-- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-21530A.x3d) : 	 [C04-21530A.x3d](./Model3d/x3d/C04-21530A.x3d)
-- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-21530A.scad) : 	 [C04-21530A.scad](./Model3d/scad/C04-21530A.scad)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21530A.stl) : 	 [C04-21530A.stl](./Model3d/stl/C04-21530A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21530A.obj) : 	 [C04-21530A.obj](./Model3d/obj/C04-21530A.obj)
+- Package 3d model x3d : 	 [C04-21530A.x3d](./Model3d/x3d/C04-21530A.x3d)
+- Package 3d model scad : 	 [C04-21530A.scad](./Model3d/scad/C04-21530A.scad)
+- Package 3d model usd : 	 [C04-21530A.usd](./Model3d/usd/C04-21530A.usd)
+- Package 3d model glb : 	 [C04-21530A.glb](./Model3d/glb/C04-21530A.glb)
 Pin count : 105
 - 1 : PA00,  of Type IO, alternates : [TC2:1 WO_0, OSC32KCTRL XIN32_, SERCOM1:4 PAD_0, EIC EXTINT_0, PORT P_0]
 - 2 : PA01,  of Type IO, alternates : [SERCOM1:4 PAD_1, EIC EXTINT_1, PORT P_1, OSC32KCTRL XOUT32_, TC2:1 WO_1]
@@ -1736,8 +1798,12 @@ Pin count : 105
 - Package Type : 	 TFBGA
 - Pin count : 	 100,00
 - Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21529D.wrl) : 	 [C04-21529D.wrl](./Model3d/wrl/C04-21529D.wrl)
-- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-21529D.x3d) : 	 [C04-21529D.x3d](./Model3d/x3d/C04-21529D.x3d)
-- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-21529D.scad) : 	 [C04-21529D.scad](./Model3d/scad/C04-21529D.scad)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21529D.stl) : 	 [C04-21529D.stl](./Model3d/stl/C04-21529D.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21529D.obj) : 	 [C04-21529D.obj](./Model3d/obj/C04-21529D.obj)
+- Package 3d model x3d : 	 [C04-21529D.x3d](./Model3d/x3d/C04-21529D.x3d)
+- Package 3d model scad : 	 [C04-21529D.scad](./Model3d/scad/C04-21529D.scad)
+- Package 3d model usd : 	 [C04-21529D.usd](./Model3d/usd/C04-21529D.usd)
+- Package 3d model glb : 	 [C04-21529D.glb](./Model3d/glb/C04-21529D.glb)
 Pin count : 105
 - A1 : PB30,  of Type IO, alternates : [SERCOM5:5 PAD_1, TCC4:2 WO_0, PORT P_62, EIC EXTINT_14, TC0:3 WO_0, SERCOM7:5 PAD_0, TCC0:4 WO_6]
 - A2 : VSS,  of Type PS
@@ -1871,8 +1937,12 @@ Pin count : 105
 - Pin count : 	 100,00
 - Package Layout : 	 [C04-21530A.pdf](./mchp/packages/c04-21530a.pdf)
 - Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21530A.wrl) : 	 [C04-21530A.wrl](./Model3d/wrl/C04-21530A.wrl)
-- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-21530A.x3d) : 	 [C04-21530A.x3d](./Model3d/x3d/C04-21530A.x3d)
-- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-21530A.scad) : 	 [C04-21530A.scad](./Model3d/scad/C04-21530A.scad)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21530A.stl) : 	 [C04-21530A.stl](./Model3d/stl/C04-21530A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21530A.obj) : 	 [C04-21530A.obj](./Model3d/obj/C04-21530A.obj)
+- Package 3d model x3d : 	 [C04-21530A.x3d](./Model3d/x3d/C04-21530A.x3d)
+- Package 3d model scad : 	 [C04-21530A.scad](./Model3d/scad/C04-21530A.scad)
+- Package 3d model usd : 	 [C04-21530A.usd](./Model3d/usd/C04-21530A.usd)
+- Package 3d model glb : 	 [C04-21530A.glb](./Model3d/glb/C04-21530A.glb)
 Pin count : 105
 - 1 : PA00,  of Type IO, alternates : [TC2:1 WO_0, OSC32KCTRL XIN32_, SERCOM1:4 PAD_0, EIC EXTINT_0, PORT P_0]
 - 2 : PA01,  of Type IO, alternates : [SERCOM1:4 PAD_1, EIC EXTINT_1, PORT P_1, OSC32KCTRL XOUT32_, TC2:1 WO_1]
@@ -2005,8 +2075,12 @@ Pin count : 105
 - Package Type : 	 TFBGA
 - Pin count : 	 100,00
 - Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21529D.wrl) : 	 [C04-21529D.wrl](./Model3d/wrl/C04-21529D.wrl)
-- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-21529D.x3d) : 	 [C04-21529D.x3d](./Model3d/x3d/C04-21529D.x3d)
-- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-21529D.scad) : 	 [C04-21529D.scad](./Model3d/scad/C04-21529D.scad)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21529D.stl) : 	 [C04-21529D.stl](./Model3d/stl/C04-21529D.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21529D.obj) : 	 [C04-21529D.obj](./Model3d/obj/C04-21529D.obj)
+- Package 3d model x3d : 	 [C04-21529D.x3d](./Model3d/x3d/C04-21529D.x3d)
+- Package 3d model scad : 	 [C04-21529D.scad](./Model3d/scad/C04-21529D.scad)
+- Package 3d model usd : 	 [C04-21529D.usd](./Model3d/usd/C04-21529D.usd)
+- Package 3d model glb : 	 [C04-21529D.glb](./Model3d/glb/C04-21529D.glb)
 Pin count : 105
 - A1 : PB30,  of Type IO, alternates : [SERCOM5:5 PAD_1, TCC4:2 WO_0, PORT P_62, EIC EXTINT_14, TC0:3 WO_0, SERCOM7:5 PAD_0, TCC0:4 WO_6]
 - A2 : VSS,  of Type PS
@@ -2139,7 +2213,13 @@ Pin count : 105
 - Package Type : 	 TQFP
 - Pin count : 	 128,00
 - Package Layout : 	 [C04-21547A.pdf](./mchp/packages/c04-21547a.pdf)
-- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-21547A.scad) : 	 [C04-21547A.scad](./Model3d/scad/C04-21547A.scad)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21547A.wrl) : 	 [C04-21547A.wrl](./Model3d/wrl/C04-21547A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21547A.stl) : 	 [C04-21547A.stl](./Model3d/stl/C04-21547A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21547A.obj) : 	 [C04-21547A.obj](./Model3d/obj/C04-21547A.obj)
+- Package 3d model x3d : 	 [C04-21547A.x3d](./Model3d/x3d/C04-21547A.x3d)
+- Package 3d model scad : 	 [C04-21547A.scad](./Model3d/scad/C04-21547A.scad)
+- Package 3d model usd : 	 [C04-21547A.usd](./Model3d/usd/C04-21547A.usd)
+- Package 3d model glb : 	 [C04-21547A.glb](./Model3d/glb/C04-21547A.glb)
 Pin count : 133
 - 1 : PA00,  of Type IO, alternates : [TC2:1 WO_0, OSC32KCTRL XIN32_, SERCOM1:4 PAD_0, EIC EXTINT_0, PORT P_0]
 - 2 : PA01,  of Type IO, alternates : [SERCOM1:4 PAD_1, EIC EXTINT_1, PORT P_1, OSC32KCTRL XOUT32_, TC2:1 WO_1]
@@ -2300,7 +2380,13 @@ Pin count : 133
 - Package Type : 	 TQFP
 - Pin count : 	 128,00
 - Package Layout : 	 [C04-21547A.pdf](./mchp/packages/c04-21547a.pdf)
-- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-21547A.scad) : 	 [C04-21547A.scad](./Model3d/scad/C04-21547A.scad)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21547A.wrl) : 	 [C04-21547A.wrl](./Model3d/wrl/C04-21547A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21547A.stl) : 	 [C04-21547A.stl](./Model3d/stl/C04-21547A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21547A.obj) : 	 [C04-21547A.obj](./Model3d/obj/C04-21547A.obj)
+- Package 3d model x3d : 	 [C04-21547A.x3d](./Model3d/x3d/C04-21547A.x3d)
+- Package 3d model scad : 	 [C04-21547A.scad](./Model3d/scad/C04-21547A.scad)
+- Package 3d model usd : 	 [C04-21547A.usd](./Model3d/usd/C04-21547A.usd)
+- Package 3d model glb : 	 [C04-21547A.glb](./Model3d/glb/C04-21547A.glb)
 Pin count : 133
 - 1 : PA00,  of Type IO, alternates : [TC2:1 WO_0, OSC32KCTRL XIN32_, SERCOM1:4 PAD_0, EIC EXTINT_0, PORT P_0]
 - 2 : PA01,  of Type IO, alternates : [SERCOM1:4 PAD_1, EIC EXTINT_1, PORT P_1, OSC32KCTRL XOUT32_, TC2:1 WO_1]

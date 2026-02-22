@@ -1,24 +1,24 @@
-# cao_electronics
+# Cao_electronics
 # Overview
 Here you will find symbol and footprint all a large set of Microchip product, mainly microcontroller.
 This is done with a generator, and an input database that I have build.
 
 
-# content
+# Content
 I will try to provide symbols, on main CAD tool format
 if you would like that i support other format please contact me and give me te full description of the format and (if possible) a licence of the software used.
 
-# feature
+# Feature
 
-## symbols
+## Symbols
 I try to define all symbol, with input, output, and supply and other pins.
 the symbol description offer a good quality.
 
-## footprint
+## Footprint
 today foot print isn't supported because I haven't build that database for that.
 
 
-# supported format
+# Supported format
 
 below you will see format supported :
 
@@ -33,7 +33,7 @@ I have no licence, I just try on 30 day eval period, once.
 [see for supported list](part-list.md)
 I have no licence, I just try on 30 day eval period, once.
 
-# road map
+# Road map
 Q4-2024 a first beta realease with a large list of symbol working with Kicad.(without footprint)
 xx-xxxx try to support last MCU introduced by microchip within the quarter that follow the support of MPlab.
 
@@ -42,17 +42,18 @@ Q2-2025 Extend the number of chip supported, staying on microchip catalog. Q1-20
 If manfacturer would like that I support their product, they can contact me for bussiness.
 
 
-## fooprint
-Q1-2025 start to support some footprint
-Q3-2025 provide footprint for 75%
+## Fooprint
+Q2-2025 start to support some footprint
+Q4-2025 provide footprint for 75%
 ## 3d model
-Qx-2026 at short term this isn't an objectif.
- the 3d model are started.
+Q1-2026 at short term this isn't an objectif.
+ The 3d model are started.
  Here is a concise description of each format, including examples of software 
  and whether they are compatible with electronic CAD (ECAD) tools such as KiCad, 
- Altium Designer, Autodesk Fusion (Electronics), and SOLIDWORKS PCB.
+ Altium Designer, Autodesk Fusion (Electronics), and SOLIDWORKS PCB, PADS, FreeCAD, Catia.
  
 - [3mf](./Model3d/3mf/)
+
 Modern 3D printing format developed by the 3MF Consortium. Supports geometry, colors, materials, and metadata.
 Used in: Autodesk Fusion, SOLIDWORKS
 ECAD compatibility:  Yes (for mechanical enclosure models and component bodies)
@@ -65,22 +66,25 @@ Used in: Blender, Maya
 - [stl](./Model3d/stl/)
 
 Widely used 3D printing format. Stores triangulated mesh geometry only (no colors or materials).
-Used in: KiCad, Altium Designer, Autodesk Fusion
+Used in: KiCad, Altium Designer, Autodesk Fusion, FreeCAD, SolidWorks
 ECAD compatibility: Yes (very common for enclosures and 3D component models
 
 - [amf](./Model3d/amf/)
+
 XML-based format intended to replace STL, supporting materials and colors.
 Used in: Cura
 ECAD compatibility:  Rarely supported
+
 - [obj](./Model3d/obj/)
+
 Popular geometry format that may include material definitions (.mtl).
-Used in: Blender, Autodesk Fusion
+Used in: Blender, Autodesk Fusion,Altium, PADS
 ECAD compatibility:  Yes (sometimes supported for 3D component visualization)
 
 - [usd](./Model3d/usd/)
 
 Universal Scene Description format developed by Pixar. Designed for complex scene exchange and collaboration.
-Used in: Blender, NVIDIA Omniverse
+Used in: Blender, NVIDIA Omniverse,PADS, industrial AR workflows
 
 
 - [off](./Model3d/off/)
@@ -89,11 +93,13 @@ Universal Scene Description format developed by Pixar. Designed for complex scen
 Used in: Blender, NVIDIA Omniverse
 
 - [csg](./Model3d/csg/)
+
 Constructive Solid Geometry format describing boolean operations between primitives.
 Used in: OpenSCAD
 ECAD compatibility:  Indirect (concept used in MCAD, not standard in ECAD)
 
 - [fbx](./Model3d/fbx/)
+
 Proprietary format developed by Autodesk. Common in game development and animation.
 Used in: Maya, Unity
 
@@ -104,33 +110,53 @@ Used in: MeshLab
 ECAD compatibility:  Rarely
 
 - [wrl](./Model3d/wrl/)
+
 Virtual Reality Modeling Language format for interactive 3D scenes.
-Used in: KiCad (legacy component models), Altium Designer
+Used in: KiCad (legacy component models), Altium Designer, PADS, FreeCAD
 ECAD compatibility:  Yes (legacy component libraries)
 
 - [pov](./Model3d/pov/)
+
 Scene description format for the ray-tracing engine POV-Ray.
 
 - [x3d](./Model3d/x3d/)
+
 Modern successor to VRML, designed for web-based 3D.
-Used in: Web 3D applications
+Used in: Web 3D applications, KiCad, FreeCAD, Blender
+
 - [glb](./Model3d/glb/)
+
 Binary version of glTF, optimized for real-time and web visualization.
-Used in: Blender, Unity
+Used in: Blender, Unity, PADS pipeline, web viewers
+
 - [scad](./Model3d/scad/)
+
 The original file from all other derivate.
 Script-based parametric modeling format used by OpenSCAD.
-ECAD compatibility: ⚠️ Possible for mechanical enclosure design, but not native to PCB tools
+ECAD compatibility:  Possible for mechanical enclosure design, but not native to PCB tools
 
-# supported chips
+- IGES (.igs/.iges) (not supported)
+
+ECAD compatibility: KiCad, Altium, PADS, SolidWorks, Catia
+
+- IDF (.emn/.emp)(not supported)
+
+ECAD compatibility: KiCad, Mentor, PADS, Altium
+
+- BRep / solid (STEP/IGES inside MCAD)(not supported)
+
+ECAD compatibility: SolidWorks, Catia, FreeCAD
+
+# Supported chips
 please refers to the file part-list.rm
 
-# quality
+# Quality
 
 The quality of the delivery isn't warranty or garanty.
 You must do your own check to be sure that the material here is correct and usable on your context.
-the responsability of the author can't be engaged.
+The responsability of the author can't be engaged.
+I do it with my best but error can exist.
 
-# licencing
+# Micencing
 copyleft with GNU GPL @2024
 

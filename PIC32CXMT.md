@@ -13,12 +13,27 @@
 - Value : PIC32CX1025MTC128-AU
 - Family : PIC32CXMT
 - MF : Microchip
-- Name : PIC32CX1025MTC128
+- Name : PIC32CX1025MTC128S1
 - Library Kicad : [PIC32CXMT.kicad_sym](./KiCad/PIC32CXMT.kicad_sym) 
 - Library Altium : [PIC32CXMT.lia](./Altium/PIC32CXMT.lia) 
 - Library Proteus : [PIC32CXMT.pdif](./Proteus/PIC32CXMT.pdif) 
 
 ### Package : 
+
+- Package Outline Drawings : 	 [C04-21321A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 X9B
+- Package Type : 	 TQFP
+- Pin count : 	 128,00
+- Package Layout : 	 [C04-21321A.pdf](./mchp/packages/c04-21321a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21321A.wrl) : 	 [C04-21321A.wrl](./Model3d/wrl/C04-21321A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21321A.stl) : 	 [C04-21321A.stl](./Model3d/stl/C04-21321A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21321A.obj) : 	 [C04-21321A.obj](./Model3d/obj/C04-21321A.obj)
+- Package 3d model x3d : 	 [C04-21321A.x3d](./Model3d/x3d/C04-21321A.x3d)
+- Package 3d model scad : 	 [C04-21321A.scad](./Model3d/scad/C04-21321A.scad)
+- Package 3d model usd : 	 [C04-21321A.usd](./Model3d/usd/C04-21321A.usd)
+- Package 3d model glb : 	 [C04-21321A.glb](./Model3d/glb/C04-21321A.glb)
+
+please check that some data is inconsistent 	 
 
 Pin count : 128
 - 16 : PA0,  of Type IO, alternates : [FLEXCOM6 FLEXCOM6_IO_0, PIO0 P_0]
@@ -163,12 +178,27 @@ Pin count : 128
 - Value : PIC32CX1025MTC128-AU
 - Family : PIC32CXMT
 - MF : Microchip
-- Name : PIC32CX1025MTC128S1
+- Name : PIC32CX1025MTC128
 - Library Kicad : [PIC32CXMT.kicad_sym](./KiCad/PIC32CXMT.kicad_sym) 
 - Library Altium : [PIC32CXMT.lia](./Altium/PIC32CXMT.lia) 
 - Library Proteus : [PIC32CXMT.pdif](./Proteus/PIC32CXMT.pdif) 
 
 ### Package : 
+
+- Package Outline Drawings : 	 [C04-21321A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 X9B
+- Package Type : 	 TQFP
+- Pin count : 	 128,00
+- Package Layout : 	 [C04-21321A.pdf](./mchp/packages/c04-21321a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21321A.wrl) : 	 [C04-21321A.wrl](./Model3d/wrl/C04-21321A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21321A.stl) : 	 [C04-21321A.stl](./Model3d/stl/C04-21321A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21321A.obj) : 	 [C04-21321A.obj](./Model3d/obj/C04-21321A.obj)
+- Package 3d model x3d : 	 [C04-21321A.x3d](./Model3d/x3d/C04-21321A.x3d)
+- Package 3d model scad : 	 [C04-21321A.scad](./Model3d/scad/C04-21321A.scad)
+- Package 3d model usd : 	 [C04-21321A.usd](./Model3d/usd/C04-21321A.usd)
+- Package 3d model glb : 	 [C04-21321A.glb](./Model3d/glb/C04-21321A.glb)
+
+please check that some data is inconsistent 	 
 
 Pin count : 128
 - 16 : PA0,  of Type IO, alternates : [FLEXCOM6 FLEXCOM6_IO_0, PIO0 P_0]
@@ -320,6 +350,21 @@ Pin count : 128
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-21321A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 X9B
+- Package Type : 	 TQFP
+- Pin count : 	 128,00
+- Package Layout : 	 [C04-21321A.pdf](./mchp/packages/c04-21321a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21321A.wrl) : 	 [C04-21321A.wrl](./Model3d/wrl/C04-21321A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21321A.stl) : 	 [C04-21321A.stl](./Model3d/stl/C04-21321A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21321A.obj) : 	 [C04-21321A.obj](./Model3d/obj/C04-21321A.obj)
+- Package 3d model x3d : 	 [C04-21321A.x3d](./Model3d/x3d/C04-21321A.x3d)
+- Package 3d model scad : 	 [C04-21321A.scad](./Model3d/scad/C04-21321A.scad)
+- Package 3d model usd : 	 [C04-21321A.usd](./Model3d/usd/C04-21321A.usd)
+- Package 3d model glb : 	 [C04-21321A.glb](./Model3d/glb/C04-21321A.glb)
+
+please check that some data is inconsistent 	 
+
 Pin count : 128
 - 16 : PA0,  of Type IO, alternates : [FLEXCOM6 FLEXCOM6_IO_0, PIO0 P_0]
 - 17 : PA1,  of Type IO, alternates : [FLEXCOM6 FLEXCOM6_IO_1, PIO0 P_1]
@@ -470,6 +515,21 @@ Pin count : 128
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-21410A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 SHB
+- Package Type : 	 VQFN
+- Pin count : 	 64,00
+- Package Layout : 	 [C04-21410A.pdf](./mchp/packages/c04-21410a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21410A.wrl) : 	 [C04-21410A.wrl](./Model3d/wrl/C04-21410A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21410A.stl) : 	 [C04-21410A.stl](./Model3d/stl/C04-21410A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21410A.obj) : 	 [C04-21410A.obj](./Model3d/obj/C04-21410A.obj)
+- Package 3d model x3d : 	 [C04-21410A.x3d](./Model3d/x3d/C04-21410A.x3d)
+- Package 3d model scad : 	 [C04-21410A.scad](./Model3d/scad/C04-21410A.scad)
+- Package 3d model usd : 	 [C04-21410A.usd](./Model3d/usd/C04-21410A.usd)
+- Package 3d model glb : 	 [C04-21410A.glb](./Model3d/glb/C04-21410A.glb)
+
+please check that some data is inconsistent 	 
+
 Pin count : 64
 - 13 : PA4,  of Type IO, alternates : [FLEXCOM0 FLEXCOM0_IO_0, PIO0 P_4]
 - 14 : PA5,  of Type IO, alternates : [FLEXCOM0 FLEXCOM0_IO_1, PIO0 P_5, SUPC WKUP_5]
@@ -555,6 +615,21 @@ Pin count : 64
 - Library Proteus : [PIC32CXMT.pdif](./Proteus/PIC32CXMT.pdif) 
 
 ### Package : 
+
+- Package Outline Drawings : 	 [C04-21321A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 X9B
+- Package Type : 	 TQFP
+- Pin count : 	 128,00
+- Package Layout : 	 [C04-21321A.pdf](./mchp/packages/c04-21321a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21321A.wrl) : 	 [C04-21321A.wrl](./Model3d/wrl/C04-21321A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21321A.stl) : 	 [C04-21321A.stl](./Model3d/stl/C04-21321A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21321A.obj) : 	 [C04-21321A.obj](./Model3d/obj/C04-21321A.obj)
+- Package 3d model x3d : 	 [C04-21321A.x3d](./Model3d/x3d/C04-21321A.x3d)
+- Package 3d model scad : 	 [C04-21321A.scad](./Model3d/scad/C04-21321A.scad)
+- Package 3d model usd : 	 [C04-21321A.usd](./Model3d/usd/C04-21321A.usd)
+- Package 3d model glb : 	 [C04-21321A.glb](./Model3d/glb/C04-21321A.glb)
+
+please check that some data is inconsistent 	 
 
 Pin count : 139
 - 16 : IN2,  of Type IO
@@ -717,6 +792,21 @@ Pin count : 139
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-21321A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 X9B
+- Package Type : 	 TQFP
+- Pin count : 	 128,00
+- Package Layout : 	 [C04-21321A.pdf](./mchp/packages/c04-21321a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21321A.wrl) : 	 [C04-21321A.wrl](./Model3d/wrl/C04-21321A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21321A.stl) : 	 [C04-21321A.stl](./Model3d/stl/C04-21321A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21321A.obj) : 	 [C04-21321A.obj](./Model3d/obj/C04-21321A.obj)
+- Package 3d model x3d : 	 [C04-21321A.x3d](./Model3d/x3d/C04-21321A.x3d)
+- Package 3d model scad : 	 [C04-21321A.scad](./Model3d/scad/C04-21321A.scad)
+- Package 3d model usd : 	 [C04-21321A.usd](./Model3d/usd/C04-21321A.usd)
+- Package 3d model glb : 	 [C04-21321A.glb](./Model3d/glb/C04-21321A.glb)
+
+please check that some data is inconsistent 	 
+
 Pin count : 139
 - 16 : IN2,  of Type IO
 - 17 : IP2,  of Type IO
@@ -878,6 +968,21 @@ Pin count : 139
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-21321A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 X9B
+- Package Type : 	 TQFP
+- Pin count : 	 128,00
+- Package Layout : 	 [C04-21321A.pdf](./mchp/packages/c04-21321a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21321A.wrl) : 	 [C04-21321A.wrl](./Model3d/wrl/C04-21321A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21321A.stl) : 	 [C04-21321A.stl](./Model3d/stl/C04-21321A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21321A.obj) : 	 [C04-21321A.obj](./Model3d/obj/C04-21321A.obj)
+- Package 3d model x3d : 	 [C04-21321A.x3d](./Model3d/x3d/C04-21321A.x3d)
+- Package 3d model scad : 	 [C04-21321A.scad](./Model3d/scad/C04-21321A.scad)
+- Package 3d model usd : 	 [C04-21321A.usd](./Model3d/usd/C04-21321A.usd)
+- Package 3d model glb : 	 [C04-21321A.glb](./Model3d/glb/C04-21321A.glb)
+
+please check that some data is inconsistent 	 
+
 Pin count : 128
 - 16 : PA0,  of Type IO, alternates : [FLEXCOM6 FLEXCOM6_IO_0, PIO0 P_0]
 - 17 : PA1,  of Type IO, alternates : [FLEXCOM6 FLEXCOM6_IO_1, PIO0 P_1]
@@ -1027,6 +1132,21 @@ Pin count : 128
 - Library Proteus : [PIC32CXMT.pdif](./Proteus/PIC32CXMT.pdif) 
 
 ### Package : 
+
+- Package Outline Drawings : 	 [C04-21321A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 X9B
+- Package Type : 	 TQFP
+- Pin count : 	 128,00
+- Package Layout : 	 [C04-21321A.pdf](./mchp/packages/c04-21321a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21321A.wrl) : 	 [C04-21321A.wrl](./Model3d/wrl/C04-21321A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21321A.stl) : 	 [C04-21321A.stl](./Model3d/stl/C04-21321A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21321A.obj) : 	 [C04-21321A.obj](./Model3d/obj/C04-21321A.obj)
+- Package 3d model x3d : 	 [C04-21321A.x3d](./Model3d/x3d/C04-21321A.x3d)
+- Package 3d model scad : 	 [C04-21321A.scad](./Model3d/scad/C04-21321A.scad)
+- Package 3d model usd : 	 [C04-21321A.usd](./Model3d/usd/C04-21321A.usd)
+- Package 3d model glb : 	 [C04-21321A.glb](./Model3d/glb/C04-21321A.glb)
+
+please check that some data is inconsistent 	 
 
 Pin count : 128
 - 16 : PA0,  of Type IO, alternates : [FLEXCOM6 FLEXCOM6_IO_0, PIO0 P_0]
@@ -1178,6 +1298,21 @@ Pin count : 128
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-21321A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 X9B
+- Package Type : 	 TQFP
+- Pin count : 	 128,00
+- Package Layout : 	 [C04-21321A.pdf](./mchp/packages/c04-21321a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21321A.wrl) : 	 [C04-21321A.wrl](./Model3d/wrl/C04-21321A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21321A.stl) : 	 [C04-21321A.stl](./Model3d/stl/C04-21321A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21321A.obj) : 	 [C04-21321A.obj](./Model3d/obj/C04-21321A.obj)
+- Package 3d model x3d : 	 [C04-21321A.x3d](./Model3d/x3d/C04-21321A.x3d)
+- Package 3d model scad : 	 [C04-21321A.scad](./Model3d/scad/C04-21321A.scad)
+- Package 3d model usd : 	 [C04-21321A.usd](./Model3d/usd/C04-21321A.usd)
+- Package 3d model glb : 	 [C04-21321A.glb](./Model3d/glb/C04-21321A.glb)
+
+please check that some data is inconsistent 	 
+
 Pin count : 128
 - 16 : PA0,  of Type IO, alternates : [FLEXCOM6 FLEXCOM6_IO_0, PIO0 P_0]
 - 17 : PA1,  of Type IO, alternates : [FLEXCOM6 FLEXCOM6_IO_1, PIO0 P_1]
@@ -1328,6 +1463,21 @@ Pin count : 128
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-21410A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 SHB
+- Package Type : 	 VQFN
+- Pin count : 	 64,00
+- Package Layout : 	 [C04-21410A.pdf](./mchp/packages/c04-21410a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21410A.wrl) : 	 [C04-21410A.wrl](./Model3d/wrl/C04-21410A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21410A.stl) : 	 [C04-21410A.stl](./Model3d/stl/C04-21410A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21410A.obj) : 	 [C04-21410A.obj](./Model3d/obj/C04-21410A.obj)
+- Package 3d model x3d : 	 [C04-21410A.x3d](./Model3d/x3d/C04-21410A.x3d)
+- Package 3d model scad : 	 [C04-21410A.scad](./Model3d/scad/C04-21410A.scad)
+- Package 3d model usd : 	 [C04-21410A.usd](./Model3d/usd/C04-21410A.usd)
+- Package 3d model glb : 	 [C04-21410A.glb](./Model3d/glb/C04-21410A.glb)
+
+please check that some data is inconsistent 	 
+
 Pin count : 64
 - 13 : PA4,  of Type IO, alternates : [FLEXCOM0 FLEXCOM0_IO_0, PIO0 P_4]
 - 14 : PA5,  of Type IO, alternates : [FLEXCOM0 FLEXCOM0_IO_1, PIO0 P_5, SUPC WKUP_5]
@@ -1413,6 +1563,21 @@ Pin count : 64
 - Library Proteus : [PIC32CXMT.pdif](./Proteus/PIC32CXMT.pdif) 
 
 ### Package : 
+
+- Package Outline Drawings : 	 [C04-21321A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 X9B
+- Package Type : 	 TQFP
+- Pin count : 	 128,00
+- Package Layout : 	 [C04-21321A.pdf](./mchp/packages/c04-21321a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21321A.wrl) : 	 [C04-21321A.wrl](./Model3d/wrl/C04-21321A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21321A.stl) : 	 [C04-21321A.stl](./Model3d/stl/C04-21321A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21321A.obj) : 	 [C04-21321A.obj](./Model3d/obj/C04-21321A.obj)
+- Package 3d model x3d : 	 [C04-21321A.x3d](./Model3d/x3d/C04-21321A.x3d)
+- Package 3d model scad : 	 [C04-21321A.scad](./Model3d/scad/C04-21321A.scad)
+- Package 3d model usd : 	 [C04-21321A.usd](./Model3d/usd/C04-21321A.usd)
+- Package 3d model glb : 	 [C04-21321A.glb](./Model3d/glb/C04-21321A.glb)
+
+please check that some data is inconsistent 	 
 
 Pin count : 139
 - 16 : IN2,  of Type IO
@@ -1575,6 +1740,21 @@ Pin count : 139
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-21321A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 X9B
+- Package Type : 	 TQFP
+- Pin count : 	 128,00
+- Package Layout : 	 [C04-21321A.pdf](./mchp/packages/c04-21321a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21321A.wrl) : 	 [C04-21321A.wrl](./Model3d/wrl/C04-21321A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21321A.stl) : 	 [C04-21321A.stl](./Model3d/stl/C04-21321A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21321A.obj) : 	 [C04-21321A.obj](./Model3d/obj/C04-21321A.obj)
+- Package 3d model x3d : 	 [C04-21321A.x3d](./Model3d/x3d/C04-21321A.x3d)
+- Package 3d model scad : 	 [C04-21321A.scad](./Model3d/scad/C04-21321A.scad)
+- Package 3d model usd : 	 [C04-21321A.usd](./Model3d/usd/C04-21321A.usd)
+- Package 3d model glb : 	 [C04-21321A.glb](./Model3d/glb/C04-21321A.glb)
+
+please check that some data is inconsistent 	 
+
 Pin count : 139
 - 16 : IN2,  of Type IO
 - 17 : IP2,  of Type IO
@@ -1736,6 +1916,21 @@ Pin count : 139
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-21321A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 X9B
+- Package Type : 	 TQFP
+- Pin count : 	 128,00
+- Package Layout : 	 [C04-21321A.pdf](./mchp/packages/c04-21321a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21321A.wrl) : 	 [C04-21321A.wrl](./Model3d/wrl/C04-21321A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21321A.stl) : 	 [C04-21321A.stl](./Model3d/stl/C04-21321A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21321A.obj) : 	 [C04-21321A.obj](./Model3d/obj/C04-21321A.obj)
+- Package 3d model x3d : 	 [C04-21321A.x3d](./Model3d/x3d/C04-21321A.x3d)
+- Package 3d model scad : 	 [C04-21321A.scad](./Model3d/scad/C04-21321A.scad)
+- Package 3d model usd : 	 [C04-21321A.usd](./Model3d/usd/C04-21321A.usd)
+- Package 3d model glb : 	 [C04-21321A.glb](./Model3d/glb/C04-21321A.glb)
+
+please check that some data is inconsistent 	 
+
 Pin count : 128
 - 16 : PA0,  of Type IO, alternates : [FLEXCOM6 FLEXCOM6_IO_0, PIO0 P_0]
 - 17 : PA1,  of Type IO, alternates : [FLEXCOM6 FLEXCOM6_IO_1, PIO0 P_1]
@@ -1885,6 +2080,21 @@ Pin count : 128
 - Library Proteus : [PIC32CXMT.pdif](./Proteus/PIC32CXMT.pdif) 
 
 ### Package : 
+
+- Package Outline Drawings : 	 [C04-21321A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 X9B
+- Package Type : 	 TQFP
+- Pin count : 	 128,00
+- Package Layout : 	 [C04-21321A.pdf](./mchp/packages/c04-21321a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21321A.wrl) : 	 [C04-21321A.wrl](./Model3d/wrl/C04-21321A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21321A.stl) : 	 [C04-21321A.stl](./Model3d/stl/C04-21321A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21321A.obj) : 	 [C04-21321A.obj](./Model3d/obj/C04-21321A.obj)
+- Package 3d model x3d : 	 [C04-21321A.x3d](./Model3d/x3d/C04-21321A.x3d)
+- Package 3d model scad : 	 [C04-21321A.scad](./Model3d/scad/C04-21321A.scad)
+- Package 3d model usd : 	 [C04-21321A.usd](./Model3d/usd/C04-21321A.usd)
+- Package 3d model glb : 	 [C04-21321A.glb](./Model3d/glb/C04-21321A.glb)
+
+please check that some data is inconsistent 	 
 
 Pin count : 128
 - 16 : PA0,  of Type IO, alternates : [FLEXCOM6 FLEXCOM6_IO_0, PIO0 P_0]
@@ -2036,6 +2246,21 @@ Pin count : 128
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-21321A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 X9B
+- Package Type : 	 TQFP
+- Pin count : 	 128,00
+- Package Layout : 	 [C04-21321A.pdf](./mchp/packages/c04-21321a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21321A.wrl) : 	 [C04-21321A.wrl](./Model3d/wrl/C04-21321A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21321A.stl) : 	 [C04-21321A.stl](./Model3d/stl/C04-21321A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21321A.obj) : 	 [C04-21321A.obj](./Model3d/obj/C04-21321A.obj)
+- Package 3d model x3d : 	 [C04-21321A.x3d](./Model3d/x3d/C04-21321A.x3d)
+- Package 3d model scad : 	 [C04-21321A.scad](./Model3d/scad/C04-21321A.scad)
+- Package 3d model usd : 	 [C04-21321A.usd](./Model3d/usd/C04-21321A.usd)
+- Package 3d model glb : 	 [C04-21321A.glb](./Model3d/glb/C04-21321A.glb)
+
+please check that some data is inconsistent 	 
+
 Pin count : 128
 - 16 : PA0,  of Type IO, alternates : [FLEXCOM6 FLEXCOM6_IO_0, PIO0 P_0]
 - 17 : PA1,  of Type IO, alternates : [FLEXCOM6 FLEXCOM6_IO_1, PIO0 P_1]
@@ -2185,6 +2410,21 @@ Pin count : 128
 - Library Proteus : [PIC32CXMT.pdif](./Proteus/PIC32CXMT.pdif) 
 
 ### Package : 
+
+- Package Outline Drawings : 	 [C04-21321A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 X9B
+- Package Type : 	 TQFP
+- Pin count : 	 128,00
+- Package Layout : 	 [C04-21321A.pdf](./mchp/packages/c04-21321a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21321A.wrl) : 	 [C04-21321A.wrl](./Model3d/wrl/C04-21321A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21321A.stl) : 	 [C04-21321A.stl](./Model3d/stl/C04-21321A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21321A.obj) : 	 [C04-21321A.obj](./Model3d/obj/C04-21321A.obj)
+- Package 3d model x3d : 	 [C04-21321A.x3d](./Model3d/x3d/C04-21321A.x3d)
+- Package 3d model scad : 	 [C04-21321A.scad](./Model3d/scad/C04-21321A.scad)
+- Package 3d model usd : 	 [C04-21321A.usd](./Model3d/usd/C04-21321A.usd)
+- Package 3d model glb : 	 [C04-21321A.glb](./Model3d/glb/C04-21321A.glb)
+
+please check that some data is inconsistent 	 
 
 Pin count : 139
 - 16 : IN2,  of Type IO
@@ -2346,6 +2586,21 @@ Pin count : 139
 - Library Proteus : [PIC32CXMT.pdif](./Proteus/PIC32CXMT.pdif) 
 
 ### Package : 
+
+- Package Outline Drawings : 	 [C04-21321A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 X9B
+- Package Type : 	 TQFP
+- Pin count : 	 128,00
+- Package Layout : 	 [C04-21321A.pdf](./mchp/packages/c04-21321a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21321A.wrl) : 	 [C04-21321A.wrl](./Model3d/wrl/C04-21321A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21321A.stl) : 	 [C04-21321A.stl](./Model3d/stl/C04-21321A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21321A.obj) : 	 [C04-21321A.obj](./Model3d/obj/C04-21321A.obj)
+- Package 3d model x3d : 	 [C04-21321A.x3d](./Model3d/x3d/C04-21321A.x3d)
+- Package 3d model scad : 	 [C04-21321A.scad](./Model3d/scad/C04-21321A.scad)
+- Package 3d model usd : 	 [C04-21321A.usd](./Model3d/usd/C04-21321A.usd)
+- Package 3d model glb : 	 [C04-21321A.glb](./Model3d/glb/C04-21321A.glb)
+
+please check that some data is inconsistent 	 
 
 Pin count : 139
 - 16 : IN2,  of Type IO

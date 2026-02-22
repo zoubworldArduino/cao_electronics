@@ -26,8 +26,12 @@
 - Pin count : 	 64,00
 - Package Layout : 	 [C04-00543B.pdf](./mchp/packages/c04-00543b.pdf)
 - Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00543B.wrl) : 	 [C04-00543B.wrl](./Model3d/wrl/C04-00543B.wrl)
-- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00543B.x3d) : 	 [C04-00543B.x3d](./Model3d/x3d/C04-00543B.x3d)
-- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00543B.scad) : 	 [C04-00543B.scad](./Model3d/scad/C04-00543B.scad)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00543B.stl) : 	 [C04-00543B.stl](./Model3d/stl/C04-00543B.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00543B.obj) : 	 [C04-00543B.obj](./Model3d/obj/C04-00543B.obj)
+- Package 3d model x3d : 	 [C04-00543B.x3d](./Model3d/x3d/C04-00543B.x3d)
+- Package 3d model scad : 	 [C04-00543B.scad](./Model3d/scad/C04-00543B.scad)
+- Package 3d model usd : 	 [C04-00543B.usd](./Model3d/usd/C04-00543B.usd)
+- Package 3d model glb : 	 [C04-00543B.glb](./Model3d/glb/C04-00543B.glb)
 Pin count : 64
 - E2 : GPIO000,  of Type IO, alternates : [SPI_MON0 SPI0_KILL_, SPI_MON0 SPI0_RESET_n_, GPIO GPIO000_]
 - F9 : GPIO002,  of Type IO, alternates : [QMSPI0 QSPI0_CS1_n_, SPI_MON0 SPIMON_QSPI0_CS1_n_, GPIO GPIO002_]
@@ -120,8 +124,12 @@ Pin count : 64
 - Pin count : 	 84,00
 - Package Layout : 	 [C04-00390C.pdf](./mchp/packages/c04-00390c.pdf)
 - Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00390C.wrl) : 	 [C04-00390C.wrl](./Model3d/wrl/C04-00390C.wrl)
-- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00390C.x3d) : 	 [C04-00390C.x3d](./Model3d/x3d/C04-00390C.x3d)
-- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00390C.scad) : 	 [C04-00390C.scad](./Model3d/scad/C04-00390C.scad)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00390C.stl) : 	 [C04-00390C.stl](./Model3d/stl/C04-00390C.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00390C.obj) : 	 [C04-00390C.obj](./Model3d/obj/C04-00390C.obj)
+- Package 3d model x3d : 	 [C04-00390C.x3d](./Model3d/x3d/C04-00390C.x3d)
+- Package 3d model scad : 	 [C04-00390C.scad](./Model3d/scad/C04-00390C.scad)
+- Package 3d model usd : 	 [C04-00390C.usd](./Model3d/usd/C04-00390C.usd)
+- Package 3d model glb : 	 [C04-00390C.glb](./Model3d/glb/C04-00390C.glb)
 Pin count : 84
 - A4 : GPIO000,  of Type IO, alternates : [SPI_MON0 SPI0_KILL_, SPI_MON0 SPI0_RESET_n_, GPIO GPIO000_]
 - J2 : GPIO002,  of Type IO, alternates : [QMSPI0 QSPI0_CS1_n_, SPI_MON0 SPIMON_QSPI0_CS1_n_, GPIO GPIO002_]
@@ -234,8 +242,12 @@ Pin count : 84
 - Pin count : 	 64,00
 - Package Layout : 	 [C04-00543B.pdf](./mchp/packages/c04-00543b.pdf)
 - Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00543B.wrl) : 	 [C04-00543B.wrl](./Model3d/wrl/C04-00543B.wrl)
-- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00543B.x3d) : 	 [C04-00543B.x3d](./Model3d/x3d/C04-00543B.x3d)
-- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00543B.scad) : 	 [C04-00543B.scad](./Model3d/scad/C04-00543B.scad)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00543B.stl) : 	 [C04-00543B.stl](./Model3d/stl/C04-00543B.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00543B.obj) : 	 [C04-00543B.obj](./Model3d/obj/C04-00543B.obj)
+- Package 3d model x3d : 	 [C04-00543B.x3d](./Model3d/x3d/C04-00543B.x3d)
+- Package 3d model scad : 	 [C04-00543B.scad](./Model3d/scad/C04-00543B.scad)
+- Package 3d model usd : 	 [C04-00543B.usd](./Model3d/usd/C04-00543B.usd)
+- Package 3d model glb : 	 [C04-00543B.glb](./Model3d/glb/C04-00543B.glb)
 Pin count : 64
 - E2 : GPIO000,  of Type IO, alternates : [SPI_MON0 SPI0_KILL_, SPI_MON0 SPI0_RESET_n_, GPIO GPIO000_]
 - F9 : GPIO002,  of Type IO, alternates : [QMSPI0 QSPI0_CS1_n_, SPI_MON0 SPIMON_QSPI0_CS1_n_, GPIO GPIO002_]
@@ -328,8 +340,12 @@ Pin count : 64
 - Pin count : 	 84,00
 - Package Layout : 	 [C04-00390C.pdf](./mchp/packages/c04-00390c.pdf)
 - Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00390C.wrl) : 	 [C04-00390C.wrl](./Model3d/wrl/C04-00390C.wrl)
-- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00390C.x3d) : 	 [C04-00390C.x3d](./Model3d/x3d/C04-00390C.x3d)
-- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00390C.scad) : 	 [C04-00390C.scad](./Model3d/scad/C04-00390C.scad)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00390C.stl) : 	 [C04-00390C.stl](./Model3d/stl/C04-00390C.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00390C.obj) : 	 [C04-00390C.obj](./Model3d/obj/C04-00390C.obj)
+- Package 3d model x3d : 	 [C04-00390C.x3d](./Model3d/x3d/C04-00390C.x3d)
+- Package 3d model scad : 	 [C04-00390C.scad](./Model3d/scad/C04-00390C.scad)
+- Package 3d model usd : 	 [C04-00390C.usd](./Model3d/usd/C04-00390C.usd)
+- Package 3d model glb : 	 [C04-00390C.glb](./Model3d/glb/C04-00390C.glb)
 Pin count : 84
 - A4 : GPIO000,  of Type IO, alternates : [SPI_MON0 SPI0_KILL_, SPI_MON0 SPI0_RESET_n_, GPIO GPIO000_]
 - J2 : GPIO002,  of Type IO, alternates : [QMSPI0 QSPI0_CS1_n_, SPI_MON0 SPIMON_QSPI0_CS1_n_, GPIO GPIO002_]

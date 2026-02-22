@@ -26,8 +26,12 @@
 - Pin count : 	 289,00
 - Package Layout : 	 [C04-21124A.pdf](./mchp/packages/c04-21124a.pdf)
 - Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21124A.wrl) : 	 [C04-21124A.wrl](./Model3d/wrl/C04-21124A.wrl)
-- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-21124A.x3d) : 	 [C04-21124A.x3d](./Model3d/x3d/C04-21124A.x3d)
-- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-21124A.scad) : 	 [C04-21124A.scad](./Model3d/scad/C04-21124A.scad)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21124A.stl) : 	 [C04-21124A.stl](./Model3d/stl/C04-21124A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21124A.obj) : 	 [C04-21124A.obj](./Model3d/obj/C04-21124A.obj)
+- Package 3d model x3d : 	 [C04-21124A.x3d](./Model3d/x3d/C04-21124A.x3d)
+- Package 3d model scad : 	 [C04-21124A.scad](./Model3d/scad/C04-21124A.scad)
+- Package 3d model usd : 	 [C04-21124A.usd](./Model3d/usd/C04-21124A.usd)
+- Package 3d model glb : 	 [C04-21124A.glb](./Model3d/glb/C04-21124A.glb)
 Pin count : 289
 - U11 : PA0,  of Type IO, alternates : [HSMC D_0, PIO P_0, SDMMC0 SDMMC0_CK_, QSPI0 QSPI0_SCK_]
 - P10 : PA1,  of Type IO, alternates : [SDMMC0 SDMMC0_CMD_, PIO P_1, QSPI0 QSPI0_CS_, HSMC D_1]
@@ -345,8 +349,12 @@ Pin count : 289
 - Pin count : 	 289,00
 - Package Layout : 	 [C04-21124A.pdf](./mchp/packages/c04-21124a.pdf)
 - Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21124A.wrl) : 	 [C04-21124A.wrl](./Model3d/wrl/C04-21124A.wrl)
-- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-21124A.x3d) : 	 [C04-21124A.x3d](./Model3d/x3d/C04-21124A.x3d)
-- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-21124A.scad) : 	 [C04-21124A.scad](./Model3d/scad/C04-21124A.scad)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21124A.stl) : 	 [C04-21124A.stl](./Model3d/stl/C04-21124A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21124A.obj) : 	 [C04-21124A.obj](./Model3d/obj/C04-21124A.obj)
+- Package 3d model x3d : 	 [C04-21124A.x3d](./Model3d/x3d/C04-21124A.x3d)
+- Package 3d model scad : 	 [C04-21124A.scad](./Model3d/scad/C04-21124A.scad)
+- Package 3d model usd : 	 [C04-21124A.usd](./Model3d/usd/C04-21124A.usd)
+- Package 3d model glb : 	 [C04-21124A.glb](./Model3d/glb/C04-21124A.glb)
 Pin count : 289
 - U11 : PA0,  of Type IO, alternates : [HSMC D_0, PIO P_0, SDMMC0 SDMMC0_CK_, QSPI0 QSPI0_SCK_]
 - P10 : PA1,  of Type IO, alternates : [SDMMC0 SDMMC0_CMD_, PIO P_1, QSPI0 QSPI0_CS_, HSMC D_1]
@@ -664,8 +672,12 @@ Pin count : 289
 - Pin count : 	 289,00
 - Package Layout : 	 [C04-21124A.pdf](./mchp/packages/c04-21124a.pdf)
 - Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21124A.wrl) : 	 [C04-21124A.wrl](./Model3d/wrl/C04-21124A.wrl)
-- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-21124A.x3d) : 	 [C04-21124A.x3d](./Model3d/x3d/C04-21124A.x3d)
-- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-21124A.scad) : 	 [C04-21124A.scad](./Model3d/scad/C04-21124A.scad)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21124A.stl) : 	 [C04-21124A.stl](./Model3d/stl/C04-21124A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21124A.obj) : 	 [C04-21124A.obj](./Model3d/obj/C04-21124A.obj)
+- Package 3d model x3d : 	 [C04-21124A.x3d](./Model3d/x3d/C04-21124A.x3d)
+- Package 3d model scad : 	 [C04-21124A.scad](./Model3d/scad/C04-21124A.scad)
+- Package 3d model usd : 	 [C04-21124A.usd](./Model3d/usd/C04-21124A.usd)
+- Package 3d model glb : 	 [C04-21124A.glb](./Model3d/glb/C04-21124A.glb)
 Pin count : 289
 - U11 : PA0,  of Type IO, alternates : [HSMC D_0, PIO P_0, SDMMC0 SDMMC0_CK_, QSPI0 QSPI0_SCK_]
 - P10 : PA1,  of Type IO, alternates : [SDMMC0 SDMMC0_CMD_, PIO P_1, QSPI0 QSPI0_CS_, HSMC D_1]
@@ -983,8 +995,12 @@ Pin count : 289
 - Pin count : 	 289,00
 - Package Layout : 	 [C04-21124A.pdf](./mchp/packages/c04-21124a.pdf)
 - Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21124A.wrl) : 	 [C04-21124A.wrl](./Model3d/wrl/C04-21124A.wrl)
-- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-21124A.x3d) : 	 [C04-21124A.x3d](./Model3d/x3d/C04-21124A.x3d)
-- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-21124A.scad) : 	 [C04-21124A.scad](./Model3d/scad/C04-21124A.scad)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21124A.stl) : 	 [C04-21124A.stl](./Model3d/stl/C04-21124A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21124A.obj) : 	 [C04-21124A.obj](./Model3d/obj/C04-21124A.obj)
+- Package 3d model x3d : 	 [C04-21124A.x3d](./Model3d/x3d/C04-21124A.x3d)
+- Package 3d model scad : 	 [C04-21124A.scad](./Model3d/scad/C04-21124A.scad)
+- Package 3d model usd : 	 [C04-21124A.usd](./Model3d/usd/C04-21124A.usd)
+- Package 3d model glb : 	 [C04-21124A.glb](./Model3d/glb/C04-21124A.glb)
 Pin count : 289
 - U11 : PA0,  of Type IO, alternates : [HSMC D_0, PIO P_0, SDMMC0 SDMMC0_CK_, QSPI0 QSPI0_SCK_]
 - P10 : PA1,  of Type IO, alternates : [SDMMC0 SDMMC0_CMD_, PIO P_1, QSPI0 QSPI0_CS_, HSMC D_1]
@@ -1640,6 +1656,14 @@ Pin count : 322
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-21537A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 4UB
+- Package Type : 	 TFBGA
+- Pin count : 	 427,00
+- Package Layout : 	 [C04-21537A.pdf](./mchp/packages/c04-21537a.pdf)
+
+please check that some data is inconsistent 	 
+
 Pin count : 343
 - AA1 : GND,  of Type PS
 - AA11 : GND,  of Type PS
@@ -2004,6 +2028,14 @@ Pin count : 343
 - Library Proteus : [SAMA.pdif](./Proteus/SAMA.pdif) 
 
 ### Package : 
+
+- Package Outline Drawings : 	 [C04-21537A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 4UB
+- Package Type : 	 TFBGA
+- Pin count : 	 427,00
+- Package Layout : 	 [C04-21537A.pdf](./mchp/packages/c04-21537a.pdf)
+
+please check that some data is inconsistent 	 
 
 Pin count : 427
 - AA1 : GND,  of Type PS
@@ -2454,6 +2486,14 @@ Pin count : 427
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-21537A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 4UB
+- Package Type : 	 TFBGA
+- Pin count : 	 427,00
+- Package Layout : 	 [C04-21537A.pdf](./mchp/packages/c04-21537a.pdf)
+
+please check that some data is inconsistent 	 
+
 Pin count : 427
 - AA1 : GND,  of Type PS
 - AA10 : PA13,  of Type IO, alternates : [FLEXCOM3:1 FLEXCOM3_IO6_, PIO P_13, SDMMC0:1 SDMMC0_1V8SEL_, FLEXCOM1:1 FLEXCOM1_IO2_, FLEXCOM6:3 FLEXCOM6_IO1_, PWM:3 PWMH_2]
@@ -2902,6 +2942,14 @@ Pin count : 427
 - Library Proteus : [SAMA.pdif](./Proteus/SAMA.pdif) 
 
 ### Package : 
+
+- Package Outline Drawings : 	 [C04-21537A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 4UB
+- Package Type : 	 TFBGA
+- Pin count : 	 427,00
+- Package Layout : 	 [C04-21537A.pdf](./mchp/packages/c04-21537a.pdf)
+
+please check that some data is inconsistent 	 
 
 Pin count : 427
 - AA1 : GND,  of Type PS

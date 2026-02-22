@@ -188,6 +188,21 @@ Pin count : 34
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-21413C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 SLB
+- Package Type : 	 VQFN
+- Pin count : 	 48,00
+- Package Layout : 	 [C04-21413C.pdf](./mchp/packages/c04-21413c.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21413C.wrl) : 	 [C04-21413C.wrl](./Model3d/wrl/C04-21413C.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21413C.stl) : 	 [C04-21413C.stl](./Model3d/stl/C04-21413C.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21413C.obj) : 	 [C04-21413C.obj](./Model3d/obj/C04-21413C.obj)
+- Package 3d model x3d : 	 [C04-21413C.x3d](./Model3d/x3d/C04-21413C.x3d)
+- Package 3d model scad : 	 [C04-21413C.scad](./Model3d/scad/C04-21413C.scad)
+- Package 3d model usd : 	 [C04-21413C.usd](./Model3d/usd/C04-21413C.usd)
+- Package 3d model glb : 	 [C04-21413C.glb](./Model3d/glb/C04-21413C.glb)
+
+please check that some data is inconsistent 	 
+
 Pin count : 50
 - 1 : PA00,  of Type IO, alternates : [EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, TCC2 WO_0, SYSCTRL XIN32_]
 - 2 : PA01,  of Type IO, alternates : [EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, SYSCTRL XOUT32_, TCC2 WO_1]
@@ -259,6 +274,21 @@ Pin count : 50
 - Library Proteus : [SAMH.pdif](./Proteus/SAMH.pdif) 
 
 ### Package : 
+
+- Package Outline Drawings : 	 [C04-21413C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 SLB
+- Package Type : 	 VQFN
+- Pin count : 	 48,00
+- Package Layout : 	 [C04-21413C.pdf](./mchp/packages/c04-21413c.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21413C.wrl) : 	 [C04-21413C.wrl](./Model3d/wrl/C04-21413C.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21413C.stl) : 	 [C04-21413C.stl](./Model3d/stl/C04-21413C.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21413C.obj) : 	 [C04-21413C.obj](./Model3d/obj/C04-21413C.obj)
+- Package 3d model x3d : 	 [C04-21413C.x3d](./Model3d/x3d/C04-21413C.x3d)
+- Package 3d model scad : 	 [C04-21413C.scad](./Model3d/scad/C04-21413C.scad)
+- Package 3d model usd : 	 [C04-21413C.usd](./Model3d/usd/C04-21413C.usd)
+- Package 3d model glb : 	 [C04-21413C.glb](./Model3d/glb/C04-21413C.glb)
+
+please check that some data is inconsistent 	 
 
 Pin count : 50
 - 1 : PA00,  of Type IO, alternates : [EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, TCC2 WO_0, SYSCTRL XIN32_]
@@ -332,6 +362,21 @@ Pin count : 50
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-21413C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 SLB
+- Package Type : 	 VQFN
+- Pin count : 	 48,00
+- Package Layout : 	 [C04-21413C.pdf](./mchp/packages/c04-21413c.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21413C.wrl) : 	 [C04-21413C.wrl](./Model3d/wrl/C04-21413C.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21413C.stl) : 	 [C04-21413C.stl](./Model3d/stl/C04-21413C.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21413C.obj) : 	 [C04-21413C.obj](./Model3d/obj/C04-21413C.obj)
+- Package 3d model x3d : 	 [C04-21413C.x3d](./Model3d/x3d/C04-21413C.x3d)
+- Package 3d model scad : 	 [C04-21413C.scad](./Model3d/scad/C04-21413C.scad)
+- Package 3d model usd : 	 [C04-21413C.usd](./Model3d/usd/C04-21413C.usd)
+- Package 3d model glb : 	 [C04-21413C.glb](./Model3d/glb/C04-21413C.glb)
+
+please check that some data is inconsistent 	 
+
 Pin count : 50
 - 1 : PA00,  of Type IO, alternates : [EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, TCC2 WO_0, SYSCTRL XIN32_]
 - 2 : PA01,  of Type IO, alternates : [EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, SYSCTRL XOUT32_, TCC2 WO_1]
@@ -403,6 +448,21 @@ Pin count : 50
 - Library Proteus : [SAMH.pdif](./Proteus/SAMH.pdif) 
 
 ### Package : 
+
+- Package Outline Drawings : 	 [C04-21413C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 SLB
+- Package Type : 	 VQFN
+- Pin count : 	 48,00
+- Package Layout : 	 [C04-21413C.pdf](./mchp/packages/c04-21413c.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21413C.wrl) : 	 [C04-21413C.wrl](./Model3d/wrl/C04-21413C.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21413C.stl) : 	 [C04-21413C.stl](./Model3d/stl/C04-21413C.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21413C.obj) : 	 [C04-21413C.obj](./Model3d/obj/C04-21413C.obj)
+- Package 3d model x3d : 	 [C04-21413C.x3d](./Model3d/x3d/C04-21413C.x3d)
+- Package 3d model scad : 	 [C04-21413C.scad](./Model3d/scad/C04-21413C.scad)
+- Package 3d model usd : 	 [C04-21413C.usd](./Model3d/usd/C04-21413C.usd)
+- Package 3d model glb : 	 [C04-21413C.glb](./Model3d/glb/C04-21413C.glb)
+
+please check that some data is inconsistent 	 
 
 Pin count : 50
 - 1 : PA00,  of Type IO, alternates : [EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, TCC2 WO_0, SYSCTRL XIN32_]
@@ -649,7 +709,13 @@ Pin count : 34
 - Package Type : 	 VQFN
 - Pin count : 	 48,00
 - Package Layout : 	 [C04-21413C.pdf](./mchp/packages/c04-21413c.pdf)
-- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-21413C.scad) : 	 [C04-21413C.scad](./Model3d/scad/C04-21413C.scad)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21413C.wrl) : 	 [C04-21413C.wrl](./Model3d/wrl/C04-21413C.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21413C.stl) : 	 [C04-21413C.stl](./Model3d/stl/C04-21413C.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21413C.obj) : 	 [C04-21413C.obj](./Model3d/obj/C04-21413C.obj)
+- Package 3d model x3d : 	 [C04-21413C.x3d](./Model3d/x3d/C04-21413C.x3d)
+- Package 3d model scad : 	 [C04-21413C.scad](./Model3d/scad/C04-21413C.scad)
+- Package 3d model usd : 	 [C04-21413C.usd](./Model3d/usd/C04-21413C.usd)
+- Package 3d model glb : 	 [C04-21413C.glb](./Model3d/glb/C04-21413C.glb)
 
 please check that some data is inconsistent 	 
 
@@ -724,6 +790,21 @@ Pin count : 50
 - Library Proteus : [SAMH.pdif](./Proteus/SAMH.pdif) 
 
 ### Package : 
+
+- Package Outline Drawings : 	 [C04-21413C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 SLB
+- Package Type : 	 VQFN
+- Pin count : 	 48,00
+- Package Layout : 	 [C04-21413C.pdf](./mchp/packages/c04-21413c.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21413C.wrl) : 	 [C04-21413C.wrl](./Model3d/wrl/C04-21413C.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21413C.stl) : 	 [C04-21413C.stl](./Model3d/stl/C04-21413C.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21413C.obj) : 	 [C04-21413C.obj](./Model3d/obj/C04-21413C.obj)
+- Package 3d model x3d : 	 [C04-21413C.x3d](./Model3d/x3d/C04-21413C.x3d)
+- Package 3d model scad : 	 [C04-21413C.scad](./Model3d/scad/C04-21413C.scad)
+- Package 3d model usd : 	 [C04-21413C.usd](./Model3d/usd/C04-21413C.usd)
+- Package 3d model glb : 	 [C04-21413C.glb](./Model3d/glb/C04-21413C.glb)
+
+please check that some data is inconsistent 	 
 
 Pin count : 50
 - 1 : PA00,  of Type IO, alternates : [EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, TCC2 WO_0, SYSCTRL XIN32_]
@@ -802,7 +883,13 @@ Pin count : 50
 - Package Type : 	 VQFN
 - Pin count : 	 48,00
 - Package Layout : 	 [C04-21413C.pdf](./mchp/packages/c04-21413c.pdf)
-- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-21413C.scad) : 	 [C04-21413C.scad](./Model3d/scad/C04-21413C.scad)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21413C.wrl) : 	 [C04-21413C.wrl](./Model3d/wrl/C04-21413C.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21413C.stl) : 	 [C04-21413C.stl](./Model3d/stl/C04-21413C.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21413C.obj) : 	 [C04-21413C.obj](./Model3d/obj/C04-21413C.obj)
+- Package 3d model x3d : 	 [C04-21413C.x3d](./Model3d/x3d/C04-21413C.x3d)
+- Package 3d model scad : 	 [C04-21413C.scad](./Model3d/scad/C04-21413C.scad)
+- Package 3d model usd : 	 [C04-21413C.usd](./Model3d/usd/C04-21413C.usd)
+- Package 3d model glb : 	 [C04-21413C.glb](./Model3d/glb/C04-21413C.glb)
 
 please check that some data is inconsistent 	 
 
@@ -877,6 +964,21 @@ Pin count : 50
 - Library Proteus : [SAMH.pdif](./Proteus/SAMH.pdif) 
 
 ### Package : 
+
+- Package Outline Drawings : 	 [C04-21413C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 SLB
+- Package Type : 	 VQFN
+- Pin count : 	 48,00
+- Package Layout : 	 [C04-21413C.pdf](./mchp/packages/c04-21413c.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21413C.wrl) : 	 [C04-21413C.wrl](./Model3d/wrl/C04-21413C.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21413C.stl) : 	 [C04-21413C.stl](./Model3d/stl/C04-21413C.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21413C.obj) : 	 [C04-21413C.obj](./Model3d/obj/C04-21413C.obj)
+- Package 3d model x3d : 	 [C04-21413C.x3d](./Model3d/x3d/C04-21413C.x3d)
+- Package 3d model scad : 	 [C04-21413C.scad](./Model3d/scad/C04-21413C.scad)
+- Package 3d model usd : 	 [C04-21413C.usd](./Model3d/usd/C04-21413C.usd)
+- Package 3d model glb : 	 [C04-21413C.glb](./Model3d/glb/C04-21413C.glb)
+
+please check that some data is inconsistent 	 
 
 Pin count : 50
 - 1 : PA00,  of Type IO, alternates : [EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, TCC2 WO_0, SYSCTRL XIN32_]
@@ -955,7 +1057,13 @@ Pin count : 50
 - Package Type : 	 VQFN
 - Pin count : 	 48,00
 - Package Layout : 	 [C04-21413C.pdf](./mchp/packages/c04-21413c.pdf)
-- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-21413C.scad) : 	 [C04-21413C.scad](./Model3d/scad/C04-21413C.scad)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21413C.wrl) : 	 [C04-21413C.wrl](./Model3d/wrl/C04-21413C.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21413C.stl) : 	 [C04-21413C.stl](./Model3d/stl/C04-21413C.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21413C.obj) : 	 [C04-21413C.obj](./Model3d/obj/C04-21413C.obj)
+- Package 3d model x3d : 	 [C04-21413C.x3d](./Model3d/x3d/C04-21413C.x3d)
+- Package 3d model scad : 	 [C04-21413C.scad](./Model3d/scad/C04-21413C.scad)
+- Package 3d model usd : 	 [C04-21413C.usd](./Model3d/usd/C04-21413C.usd)
+- Package 3d model glb : 	 [C04-21413C.glb](./Model3d/glb/C04-21413C.glb)
 
 please check that some data is inconsistent 	 
 
@@ -1031,6 +1139,21 @@ Pin count : 50
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-21413C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 SLB
+- Package Type : 	 VQFN
+- Pin count : 	 48,00
+- Package Layout : 	 [C04-21413C.pdf](./mchp/packages/c04-21413c.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21413C.wrl) : 	 [C04-21413C.wrl](./Model3d/wrl/C04-21413C.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21413C.stl) : 	 [C04-21413C.stl](./Model3d/stl/C04-21413C.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21413C.obj) : 	 [C04-21413C.obj](./Model3d/obj/C04-21413C.obj)
+- Package 3d model x3d : 	 [C04-21413C.x3d](./Model3d/x3d/C04-21413C.x3d)
+- Package 3d model scad : 	 [C04-21413C.scad](./Model3d/scad/C04-21413C.scad)
+- Package 3d model usd : 	 [C04-21413C.usd](./Model3d/usd/C04-21413C.usd)
+- Package 3d model glb : 	 [C04-21413C.glb](./Model3d/glb/C04-21413C.glb)
+
+please check that some data is inconsistent 	 
+
 Pin count : 50
 - 1 : PA00,  of Type IO, alternates : [EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, TCC2 WO_0, SYSCTRL XIN32_]
 - 2 : PA01,  of Type IO, alternates : [EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, SYSCTRL XOUT32_, TCC2 WO_1]
@@ -1102,6 +1225,21 @@ Pin count : 50
 - Library Proteus : [SAMH.pdif](./Proteus/SAMH.pdif) 
 
 ### Package : 
+
+- Package Outline Drawings : 	 [C04-21413C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 SLB
+- Package Type : 	 VQFN
+- Pin count : 	 48,00
+- Package Layout : 	 [C04-21413C.pdf](./mchp/packages/c04-21413c.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21413C.wrl) : 	 [C04-21413C.wrl](./Model3d/wrl/C04-21413C.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21413C.stl) : 	 [C04-21413C.stl](./Model3d/stl/C04-21413C.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21413C.obj) : 	 [C04-21413C.obj](./Model3d/obj/C04-21413C.obj)
+- Package 3d model x3d : 	 [C04-21413C.x3d](./Model3d/x3d/C04-21413C.x3d)
+- Package 3d model scad : 	 [C04-21413C.scad](./Model3d/scad/C04-21413C.scad)
+- Package 3d model usd : 	 [C04-21413C.usd](./Model3d/usd/C04-21413C.usd)
+- Package 3d model glb : 	 [C04-21413C.glb](./Model3d/glb/C04-21413C.glb)
+
+please check that some data is inconsistent 	 
 
 Pin count : 50
 - 1 : PA00,  of Type IO, alternates : [EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, TCC2 WO_0, SYSCTRL XIN32_]

@@ -1,0 +1,11 @@
+rm Model3d/step/*.fbx
+rm Model3d/usdz/*.fbx
+rm Model3d/vnf/*.fbx
+rm Model3d/xps/*.fbx
+rm Model3d/psa/*.fbx
+rm Model3d/bve/*.fbx
+rm Model3d/ftl/*.fbx
+rm Model3d/gltf/*.glb
+rm Model3d/gzm/*.fbx
+rm Model3d/mtl/*.fbx
+rm Model3d/owm/*.fbx

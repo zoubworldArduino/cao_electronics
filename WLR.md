@@ -25,7 +25,13 @@
 - Package Type : 	 MODULE
 - Pin count : 	 41,00
 - Package Layout : 	 [C04-10053A.pdf](./mchp/packages/c04-10053a.pdf)
-- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-10053A.scad) : 	 [C04-10053A.scad](./Model3d/scad/C04-10053A.scad)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-10053A.wrl) : 	 [C04-10053A.wrl](./Model3d/wrl/C04-10053A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-10053A.stl) : 	 [C04-10053A.stl](./Model3d/stl/C04-10053A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-10053A.obj) : 	 [C04-10053A.obj](./Model3d/obj/C04-10053A.obj)
+- Package 3d model x3d : 	 [C04-10053A.x3d](./Model3d/x3d/C04-10053A.x3d)
+- Package 3d model scad : 	 [C04-10053A.scad](./Model3d/scad/C04-10053A.scad)
+- Package 3d model usd : 	 [C04-10053A.usd](./Model3d/usd/C04-10053A.usd)
+- Package 3d model glb : 	 [C04-10053A.glb](./Model3d/glb/C04-10053A.glb)
 Pin count : 75
 - DIO0 : PB16,  of Type IO, alternates : [CCL IN_11, SERCOM5 PAD_0, TC2 WO_0, EIC EXTINT_0, TCC0 WO_4, PORT P_48, GCLK IO_2]
 - DIO1 : PA11,  of Type IO, alternates : [PORT P_11, TCC1 WO_1, CCL OUT_1, GCLK IO_5, PTC X_3, TCC0 WO_3, EIC EXTINT_11, PTC Y_9, ADC AIN_19, SERCOM0 PAD_3, SERCOM2 PAD_3]

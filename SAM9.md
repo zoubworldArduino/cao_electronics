@@ -20,6 +20,21 @@
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-21501A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 4FB
+- Package Type : 	 TFBGA
+- Pin count : 	 233,00
+- Package Layout : 	 [C04-21501A.pdf](./mchp/packages/c04-21501a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21501A.wrl) : 	 [C04-21501A.wrl](./Model3d/wrl/C04-21501A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21501A.stl) : 	 [C04-21501A.stl](./Model3d/stl/C04-21501A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21501A.obj) : 	 [C04-21501A.obj](./Model3d/obj/C04-21501A.obj)
+- Package 3d model x3d : 	 [C04-21501A.x3d](./Model3d/x3d/C04-21501A.x3d)
+- Package 3d model scad : 	 [C04-21501A.scad](./Model3d/scad/C04-21501A.scad)
+- Package 3d model usd : 	 [C04-21501A.usd](./Model3d/usd/C04-21501A.usd)
+- Package 3d model glb : 	 [C04-21501A.glb](./Model3d/glb/C04-21501A.glb)
+
+please check that some data is inconsistent 	 
+
 Pin count : 228
 - P2 : PA0,  of Type IO, alternates : [FLEXCOM0 FLEXCOM0_IO_0, FLEXCOM4 FLEXCOM4_IO_4, FLEXCOM5 FLEXCOM5_IO_4, PIOA P_0]
 - M3 : PA1,  of Type IO, alternates : [FLEXCOM0 FLEXCOM0_IO_1, FLEXCOM4 FLEXCOM4_IO_5, PIOA P_1]
@@ -269,6 +284,21 @@ Pin count : 228
 - Library Proteus : [SAM9.pdif](./Proteus/SAM9.pdif) 
 
 ### Package : 
+
+- Package Outline Drawings : 	 [C04-21501A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 4FB
+- Package Type : 	 TFBGA
+- Pin count : 	 233,00
+- Package Layout : 	 [C04-21501A.pdf](./mchp/packages/c04-21501a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21501A.wrl) : 	 [C04-21501A.wrl](./Model3d/wrl/C04-21501A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21501A.stl) : 	 [C04-21501A.stl](./Model3d/stl/C04-21501A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21501A.obj) : 	 [C04-21501A.obj](./Model3d/obj/C04-21501A.obj)
+- Package 3d model x3d : 	 [C04-21501A.x3d](./Model3d/x3d/C04-21501A.x3d)
+- Package 3d model scad : 	 [C04-21501A.scad](./Model3d/scad/C04-21501A.scad)
+- Package 3d model usd : 	 [C04-21501A.usd](./Model3d/usd/C04-21501A.usd)
+- Package 3d model glb : 	 [C04-21501A.glb](./Model3d/glb/C04-21501A.glb)
+
+please check that some data is inconsistent 	 
 
 Pin count : 233
 - L2 : PA0,  of Type IO, alternates : [FLEXCOM0 FLEXCOM0_IO_0, FLEXCOM4 FLEXCOM4_IO_4, FLEXCOM5 FLEXCOM5_IO_4, PIOA P_0]
@@ -525,6 +555,21 @@ Pin count : 233
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-21501A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 4FB
+- Package Type : 	 TFBGA
+- Pin count : 	 233,00
+- Package Layout : 	 [C04-21501A.pdf](./mchp/packages/c04-21501a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21501A.wrl) : 	 [C04-21501A.wrl](./Model3d/wrl/C04-21501A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21501A.stl) : 	 [C04-21501A.stl](./Model3d/stl/C04-21501A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21501A.obj) : 	 [C04-21501A.obj](./Model3d/obj/C04-21501A.obj)
+- Package 3d model x3d : 	 [C04-21501A.x3d](./Model3d/x3d/C04-21501A.x3d)
+- Package 3d model scad : 	 [C04-21501A.scad](./Model3d/scad/C04-21501A.scad)
+- Package 3d model usd : 	 [C04-21501A.usd](./Model3d/usd/C04-21501A.usd)
+- Package 3d model glb : 	 [C04-21501A.glb](./Model3d/glb/C04-21501A.glb)
+
+please check that some data is inconsistent 	 
+
 Pin count : 233
 - L2 : PA0,  of Type IO, alternates : [FLEXCOM0 FLEXCOM0_IO_0, FLEXCOM4 FLEXCOM4_IO_4, FLEXCOM5 FLEXCOM5_IO_4, PIOA P_0]
 - L3 : PA1,  of Type IO, alternates : [FLEXCOM0 FLEXCOM0_IO_1, FLEXCOM4 FLEXCOM4_IO_5, PIOA P_1]
@@ -780,6 +825,21 @@ Pin count : 233
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-21507B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 4GB
+- Package Type : 	 TFBGA
+- Pin count : 	 196,00
+- Package Layout : 	 [C04-21507B.pdf](./mchp/packages/c04-21507b.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21507B.wrl) : 	 [C04-21507B.wrl](./Model3d/wrl/C04-21507B.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21507B.stl) : 	 [C04-21507B.stl](./Model3d/stl/C04-21507B.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21507B.obj) : 	 [C04-21507B.obj](./Model3d/obj/C04-21507B.obj)
+- Package 3d model x3d : 	 [C04-21507B.x3d](./Model3d/x3d/C04-21507B.x3d)
+- Package 3d model scad : 	 [C04-21507B.scad](./Model3d/scad/C04-21507B.scad)
+- Package 3d model usd : 	 [C04-21507B.usd](./Model3d/usd/C04-21507B.usd)
+- Package 3d model glb : 	 [C04-21507B.glb](./Model3d/glb/C04-21507B.glb)
+
+please check that some data is inconsistent 	 
+
 Pin count : 196
 - R1 : PA0,  of Type IO, alternates : [FLEXCOM0 FLEXCOM0_IO_0, FLEXCOM4 FLEXCOM4_IO_4, FLEXCOM5 FLEXCOM5_IO_4, PIOA P_0]
 - M2 : PA1,  of Type IO, alternates : [FLEXCOM0 FLEXCOM0_IO_1, FLEXCOM4 FLEXCOM4_IO_5, PIOA P_1]
@@ -997,6 +1057,21 @@ Pin count : 196
 - Library Proteus : [SAM9.pdif](./Proteus/SAM9.pdif) 
 
 ### Package : 
+
+- Package Outline Drawings : 	 [C04-21532C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 4PB
+- Package Type : 	 TFBGA
+- Pin count : 	 240,00
+- Package Layout : 	 [C04-21532C.pdf](./mchp/packages/c04-21532c.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21532C.wrl) : 	 [C04-21532C.wrl](./Model3d/wrl/C04-21532C.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21532C.stl) : 	 [C04-21532C.stl](./Model3d/stl/C04-21532C.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21532C.obj) : 	 [C04-21532C.obj](./Model3d/obj/C04-21532C.obj)
+- Package 3d model x3d : 	 [C04-21532C.x3d](./Model3d/x3d/C04-21532C.x3d)
+- Package 3d model scad : 	 [C04-21532C.scad](./Model3d/scad/C04-21532C.scad)
+- Package 3d model usd : 	 [C04-21532C.usd](./Model3d/usd/C04-21532C.usd)
+- Package 3d model glb : 	 [C04-21532C.glb](./Model3d/glb/C04-21532C.glb)
+
+please check that some data is inconsistent 	 
 
 Pin count : 229
 - A1 : GND,  of Type PS
@@ -1249,6 +1324,21 @@ Pin count : 229
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-21532C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 4PB
+- Package Type : 	 TFBGA
+- Pin count : 	 240,00
+- Package Layout : 	 [C04-21532C.pdf](./mchp/packages/c04-21532c.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21532C.wrl) : 	 [C04-21532C.wrl](./Model3d/wrl/C04-21532C.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21532C.stl) : 	 [C04-21532C.stl](./Model3d/stl/C04-21532C.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21532C.obj) : 	 [C04-21532C.obj](./Model3d/obj/C04-21532C.obj)
+- Package 3d model x3d : 	 [C04-21532C.x3d](./Model3d/x3d/C04-21532C.x3d)
+- Package 3d model scad : 	 [C04-21532C.scad](./Model3d/scad/C04-21532C.scad)
+- Package 3d model usd : 	 [C04-21532C.usd](./Model3d/usd/C04-21532C.usd)
+- Package 3d model glb : 	 [C04-21532C.glb](./Model3d/glb/C04-21532C.glb)
+
+please check that some data is inconsistent 	 
+
 Pin count : 229
 - A1 : GND,  of Type PS
 - A2 : PC8,  of Type IO, alternates : [FLEXCOM9:1 FLEXCOM9_IO0_, ISC:1 ISC_D_8, PIOC P_72]
@@ -1499,6 +1589,21 @@ Pin count : 229
 - Library Proteus : [SAM9.pdif](./Proteus/SAM9.pdif) 
 
 ### Package : 
+
+- Package Outline Drawings : 	 [C04-21556B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 4TB
+- Package Type : 	 TFBGA
+- Pin count : 	 243,00
+- Package Layout : 	 [C04-21556B.pdf](./mchp/packages/c04-21556b.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21556B.wrl) : 	 [C04-21556B.wrl](./Model3d/wrl/C04-21556B.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21556B.stl) : 	 [C04-21556B.stl](./Model3d/stl/C04-21556B.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21556B.obj) : 	 [C04-21556B.obj](./Model3d/obj/C04-21556B.obj)
+- Package 3d model x3d : 	 [C04-21556B.x3d](./Model3d/x3d/C04-21556B.x3d)
+- Package 3d model scad : 	 [C04-21556B.scad](./Model3d/scad/C04-21556B.scad)
+- Package 3d model usd : 	 [C04-21556B.usd](./Model3d/usd/C04-21556B.usd)
+- Package 3d model glb : 	 [C04-21556B.glb](./Model3d/glb/C04-21556B.glb)
+
+please check that some data is inconsistent 	 
 
 Pin count : 240
 - A1 : GND,  of Type PS
@@ -1761,6 +1866,21 @@ Pin count : 240
 - Library Proteus : [SAM9.pdif](./Proteus/SAM9.pdif) 
 
 ### Package : 
+
+- Package Outline Drawings : 	 [C04-21556B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 4TB
+- Package Type : 	 TFBGA
+- Pin count : 	 243,00
+- Package Layout : 	 [C04-21556B.pdf](./mchp/packages/c04-21556b.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21556B.wrl) : 	 [C04-21556B.wrl](./Model3d/wrl/C04-21556B.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21556B.stl) : 	 [C04-21556B.stl](./Model3d/stl/C04-21556B.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21556B.obj) : 	 [C04-21556B.obj](./Model3d/obj/C04-21556B.obj)
+- Package 3d model x3d : 	 [C04-21556B.x3d](./Model3d/x3d/C04-21556B.x3d)
+- Package 3d model scad : 	 [C04-21556B.scad](./Model3d/scad/C04-21556B.scad)
+- Package 3d model usd : 	 [C04-21556B.usd](./Model3d/usd/C04-21556B.usd)
+- Package 3d model glb : 	 [C04-21556B.glb](./Model3d/glb/C04-21556B.glb)
+
+please check that some data is inconsistent 	 
 
 Pin count : 243
 - A1 : GND,  of Type PS
@@ -2027,6 +2147,21 @@ Pin count : 243
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-21556B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 4TB
+- Package Type : 	 TFBGA
+- Pin count : 	 243,00
+- Package Layout : 	 [C04-21556B.pdf](./mchp/packages/c04-21556b.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21556B.wrl) : 	 [C04-21556B.wrl](./Model3d/wrl/C04-21556B.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21556B.stl) : 	 [C04-21556B.stl](./Model3d/stl/C04-21556B.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21556B.obj) : 	 [C04-21556B.obj](./Model3d/obj/C04-21556B.obj)
+- Package 3d model x3d : 	 [C04-21556B.x3d](./Model3d/x3d/C04-21556B.x3d)
+- Package 3d model scad : 	 [C04-21556B.scad](./Model3d/scad/C04-21556B.scad)
+- Package 3d model usd : 	 [C04-21556B.usd](./Model3d/usd/C04-21556B.usd)
+- Package 3d model glb : 	 [C04-21556B.glb](./Model3d/glb/C04-21556B.glb)
+
+please check that some data is inconsistent 	 
+
 Pin count : 243
 - A1 : GND,  of Type PS
 - A2 : PC30,  of Type IO, alternates : [FLEXCOM3:1 FLEXCOM3_IO7_, PIOC P_94]
@@ -2291,6 +2426,21 @@ Pin count : 243
 - Library Proteus : [SAM9.pdif](./Proteus/SAM9.pdif) 
 
 ### Package : 
+
+- Package Outline Drawings : 	 [C04-21556B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 4TB
+- Package Type : 	 TFBGA
+- Pin count : 	 243,00
+- Package Layout : 	 [C04-21556B.pdf](./mchp/packages/c04-21556b.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21556B.wrl) : 	 [C04-21556B.wrl](./Model3d/wrl/C04-21556B.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21556B.stl) : 	 [C04-21556B.stl](./Model3d/stl/C04-21556B.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21556B.obj) : 	 [C04-21556B.obj](./Model3d/obj/C04-21556B.obj)
+- Package 3d model x3d : 	 [C04-21556B.x3d](./Model3d/x3d/C04-21556B.x3d)
+- Package 3d model scad : 	 [C04-21556B.scad](./Model3d/scad/C04-21556B.scad)
+- Package 3d model usd : 	 [C04-21556B.usd](./Model3d/usd/C04-21556B.usd)
+- Package 3d model glb : 	 [C04-21556B.glb](./Model3d/glb/C04-21556B.glb)
+
+please check that some data is inconsistent 	 
 
 Pin count : 243
 - A1 : GND,  of Type PS

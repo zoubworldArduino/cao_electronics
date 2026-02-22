@@ -20,6 +20,21 @@
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-21442A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 TPB
+- Package Type : 	 VQFN
+- Pin count : 	 64,00
+- Package Layout : 	 [C04-21442A.pdf](./mchp/packages/c04-21442a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21442A.wrl) : 	 [C04-21442A.wrl](./Model3d/wrl/C04-21442A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21442A.stl) : 	 [C04-21442A.stl](./Model3d/stl/C04-21442A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21442A.obj) : 	 [C04-21442A.obj](./Model3d/obj/C04-21442A.obj)
+- Package 3d model x3d : 	 [C04-21442A.x3d](./Model3d/x3d/C04-21442A.x3d)
+- Package 3d model scad : 	 [C04-21442A.scad](./Model3d/scad/C04-21442A.scad)
+- Package 3d model usd : 	 [C04-21442A.usd](./Model3d/usd/C04-21442A.usd)
+- Package 3d model glb : 	 [C04-21442A.glb](./Model3d/glb/C04-21442A.glb)
+
+please check that some data is inconsistent 	 
+
 Pin count : 64
 - 1 : NC,  of Type NC
 - 2 : PE0,  of Type IO, alternates : [PORTE P_0, USART0 RXD_]
@@ -111,7 +126,13 @@ Pin count : 64
 - Package Type : 	 TQFP
 - Pin count : 	 64,00
 - Package Layout : 	 [C04-00066B.pdf](./mchp/packages/c04-00066b.pdf)
-- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00066B.scad) : 	 [C04-00066B.scad](./Model3d/scad/C04-00066B.scad)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00066B.wrl) : 	 [C04-00066B.wrl](./Model3d/wrl/C04-00066B.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00066B.stl) : 	 [C04-00066B.stl](./Model3d/stl/C04-00066B.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00066B.obj) : 	 [C04-00066B.obj](./Model3d/obj/C04-00066B.obj)
+- Package 3d model x3d : 	 [C04-00066B.x3d](./Model3d/x3d/C04-00066B.x3d)
+- Package 3d model scad : 	 [C04-00066B.scad](./Model3d/scad/C04-00066B.scad)
+- Package 3d model usd : 	 [C04-00066B.usd](./Model3d/usd/C04-00066B.usd)
+- Package 3d model glb : 	 [C04-00066B.glb](./Model3d/glb/C04-00066B.glb)
 Pin count : 64
 - 1 : NC,  of Type NC
 - 2 : PE0,  of Type IO, alternates : [PORTE P_0, USART0 RXD_]
@@ -197,6 +218,21 @@ Pin count : 64
 - Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
+
+- Package Outline Drawings : 	 [C04-21442A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 TPB
+- Package Type : 	 VQFN
+- Pin count : 	 64,00
+- Package Layout : 	 [C04-21442A.pdf](./mchp/packages/c04-21442a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21442A.wrl) : 	 [C04-21442A.wrl](./Model3d/wrl/C04-21442A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21442A.stl) : 	 [C04-21442A.stl](./Model3d/stl/C04-21442A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21442A.obj) : 	 [C04-21442A.obj](./Model3d/obj/C04-21442A.obj)
+- Package 3d model x3d : 	 [C04-21442A.x3d](./Model3d/x3d/C04-21442A.x3d)
+- Package 3d model scad : 	 [C04-21442A.scad](./Model3d/scad/C04-21442A.scad)
+- Package 3d model usd : 	 [C04-21442A.usd](./Model3d/usd/C04-21442A.usd)
+- Package 3d model glb : 	 [C04-21442A.glb](./Model3d/glb/C04-21442A.glb)
+
+please check that some data is inconsistent 	 
 
 Pin count : 64
 - 1 : NC,  of Type NC
@@ -289,7 +325,13 @@ Pin count : 64
 - Package Type : 	 VQFN
 - Pin count : 	 64,00
 - Package Layout : 	 [C04-21442A.pdf](./mchp/packages/c04-21442a.pdf)
-- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-21442A.scad) : 	 [C04-21442A.scad](./Model3d/scad/C04-21442A.scad)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21442A.wrl) : 	 [C04-21442A.wrl](./Model3d/wrl/C04-21442A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21442A.stl) : 	 [C04-21442A.stl](./Model3d/stl/C04-21442A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21442A.obj) : 	 [C04-21442A.obj](./Model3d/obj/C04-21442A.obj)
+- Package 3d model x3d : 	 [C04-21442A.x3d](./Model3d/x3d/C04-21442A.x3d)
+- Package 3d model scad : 	 [C04-21442A.scad](./Model3d/scad/C04-21442A.scad)
+- Package 3d model usd : 	 [C04-21442A.usd](./Model3d/usd/C04-21442A.usd)
+- Package 3d model glb : 	 [C04-21442A.glb](./Model3d/glb/C04-21442A.glb)
 Pin count : 64
 - 1 : NC,  of Type NC
 - 2 : PE0,  of Type IO, alternates : [PORTE P_0, USART0 RXD_]
@@ -375,6 +417,21 @@ Pin count : 64
 - Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
+
+- Package Outline Drawings : 	 [C04-21440A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 TLB
+- Package Type : 	 VQFN
+- Pin count : 	 64,00
+- Package Layout : 	 [C04-21440A.pdf](./mchp/packages/c04-21440a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21440A.wrl) : 	 [C04-21440A.wrl](./Model3d/wrl/C04-21440A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21440A.stl) : 	 [C04-21440A.stl](./Model3d/stl/C04-21440A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21440A.obj) : 	 [C04-21440A.obj](./Model3d/obj/C04-21440A.obj)
+- Package 3d model x3d : 	 [C04-21440A.x3d](./Model3d/x3d/C04-21440A.x3d)
+- Package 3d model scad : 	 [C04-21440A.scad](./Model3d/scad/C04-21440A.scad)
+- Package 3d model usd : 	 [C04-21440A.usd](./Model3d/usd/C04-21440A.usd)
+- Package 3d model glb : 	 [C04-21440A.glb](./Model3d/glb/C04-21440A.glb)
+
+please check that some data is inconsistent 	 
 
 Pin count : 64
 - 1 : NC,  of Type NC
@@ -467,7 +524,13 @@ Pin count : 64
 - Package Type : 	 TQFP
 - Pin count : 	 64,00
 - Package Layout : 	 [C04-00066B.pdf](./mchp/packages/c04-00066b.pdf)
-- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00066B.scad) : 	 [C04-00066B.scad](./Model3d/scad/C04-00066B.scad)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00066B.wrl) : 	 [C04-00066B.wrl](./Model3d/wrl/C04-00066B.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00066B.stl) : 	 [C04-00066B.stl](./Model3d/stl/C04-00066B.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00066B.obj) : 	 [C04-00066B.obj](./Model3d/obj/C04-00066B.obj)
+- Package 3d model x3d : 	 [C04-00066B.x3d](./Model3d/x3d/C04-00066B.x3d)
+- Package 3d model scad : 	 [C04-00066B.scad](./Model3d/scad/C04-00066B.scad)
+- Package 3d model usd : 	 [C04-00066B.usd](./Model3d/usd/C04-00066B.usd)
+- Package 3d model glb : 	 [C04-00066B.glb](./Model3d/glb/C04-00066B.glb)
 Pin count : 64
 - 1 : NC,  of Type NC
 - 2 : PE0,  of Type IO, alternates : [PORTE P_0, USART0 RXD_]
@@ -553,6 +616,21 @@ Pin count : 64
 - Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
+
+- Package Outline Drawings : 	 [C04-21440A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 TLB
+- Package Type : 	 VQFN
+- Pin count : 	 64,00
+- Package Layout : 	 [C04-21440A.pdf](./mchp/packages/c04-21440a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21440A.wrl) : 	 [C04-21440A.wrl](./Model3d/wrl/C04-21440A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21440A.stl) : 	 [C04-21440A.stl](./Model3d/stl/C04-21440A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21440A.obj) : 	 [C04-21440A.obj](./Model3d/obj/C04-21440A.obj)
+- Package 3d model x3d : 	 [C04-21440A.x3d](./Model3d/x3d/C04-21440A.x3d)
+- Package 3d model scad : 	 [C04-21440A.scad](./Model3d/scad/C04-21440A.scad)
+- Package 3d model usd : 	 [C04-21440A.usd](./Model3d/usd/C04-21440A.usd)
+- Package 3d model glb : 	 [C04-21440A.glb](./Model3d/glb/C04-21440A.glb)
+
+please check that some data is inconsistent 	 
 
 Pin count : 64
 - 1 : NC,  of Type NC
@@ -645,7 +723,13 @@ Pin count : 64
 - Package Type : 	 VQFN
 - Pin count : 	 64,00
 - Package Layout : 	 [C04-21440A.pdf](./mchp/packages/c04-21440a.pdf)
-- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-21440A.scad) : 	 [C04-21440A.scad](./Model3d/scad/C04-21440A.scad)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21440A.wrl) : 	 [C04-21440A.wrl](./Model3d/wrl/C04-21440A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21440A.stl) : 	 [C04-21440A.stl](./Model3d/stl/C04-21440A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21440A.obj) : 	 [C04-21440A.obj](./Model3d/obj/C04-21440A.obj)
+- Package 3d model x3d : 	 [C04-21440A.x3d](./Model3d/x3d/C04-21440A.x3d)
+- Package 3d model scad : 	 [C04-21440A.scad](./Model3d/scad/C04-21440A.scad)
+- Package 3d model usd : 	 [C04-21440A.usd](./Model3d/usd/C04-21440A.usd)
+- Package 3d model glb : 	 [C04-21440A.glb](./Model3d/glb/C04-21440A.glb)
 Pin count : 64
 - 1 : NC,  of Type NC
 - 2 : PE0,  of Type IO, alternates : [PORTE P_0, USART0 RXD_]
@@ -731,6 +815,21 @@ Pin count : 64
 - Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
+
+- Package Outline Drawings : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 R4X
+- Package Type : 	 QFN
+- Pin count : 	 64,00
+- Package Layout : 	 [C04-00149E.pdf](./mchp/packages/c04-00149e.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00149E.wrl) : 	 [C04-00149E.wrl](./Model3d/wrl/C04-00149E.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00149E.stl) : 	 [C04-00149E.stl](./Model3d/stl/C04-00149E.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00149E.obj) : 	 [C04-00149E.obj](./Model3d/obj/C04-00149E.obj)
+- Package 3d model x3d : 	 [C04-00149E.x3d](./Model3d/x3d/C04-00149E.x3d)
+- Package 3d model scad : 	 [C04-00149E.scad](./Model3d/scad/C04-00149E.scad)
+- Package 3d model usd : 	 [C04-00149E.usd](./Model3d/usd/C04-00149E.usd)
+- Package 3d model glb : 	 [C04-00149E.glb](./Model3d/glb/C04-00149E.glb)
+
+please check that some data is inconsistent 	 
 
 Pin count : 64
 - 1 : NC,  of Type NC
@@ -823,7 +922,13 @@ Pin count : 64
 - Package Type : 	 TQFP
 - Pin count : 	 64,00
 - Package Layout : 	 [C04-00066B.pdf](./mchp/packages/c04-00066b.pdf)
-- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00066B.scad) : 	 [C04-00066B.scad](./Model3d/scad/C04-00066B.scad)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00066B.wrl) : 	 [C04-00066B.wrl](./Model3d/wrl/C04-00066B.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00066B.stl) : 	 [C04-00066B.stl](./Model3d/stl/C04-00066B.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00066B.obj) : 	 [C04-00066B.obj](./Model3d/obj/C04-00066B.obj)
+- Package 3d model x3d : 	 [C04-00066B.x3d](./Model3d/x3d/C04-00066B.x3d)
+- Package 3d model scad : 	 [C04-00066B.scad](./Model3d/scad/C04-00066B.scad)
+- Package 3d model usd : 	 [C04-00066B.usd](./Model3d/usd/C04-00066B.usd)
+- Package 3d model glb : 	 [C04-00066B.glb](./Model3d/glb/C04-00066B.glb)
 Pin count : 64
 - 1 : NC,  of Type NC
 - 2 : PE0,  of Type IO, alternates : [PORTE P_0, USART0 RXD_]
@@ -909,6 +1014,21 @@ Pin count : 64
 - Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
+
+- Package Outline Drawings : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 R4X
+- Package Type : 	 QFN
+- Pin count : 	 64,00
+- Package Layout : 	 [C04-00149E.pdf](./mchp/packages/c04-00149e.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00149E.wrl) : 	 [C04-00149E.wrl](./Model3d/wrl/C04-00149E.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00149E.stl) : 	 [C04-00149E.stl](./Model3d/stl/C04-00149E.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00149E.obj) : 	 [C04-00149E.obj](./Model3d/obj/C04-00149E.obj)
+- Package 3d model x3d : 	 [C04-00149E.x3d](./Model3d/x3d/C04-00149E.x3d)
+- Package 3d model scad : 	 [C04-00149E.scad](./Model3d/scad/C04-00149E.scad)
+- Package 3d model usd : 	 [C04-00149E.usd](./Model3d/usd/C04-00149E.usd)
+- Package 3d model glb : 	 [C04-00149E.glb](./Model3d/glb/C04-00149E.glb)
+
+please check that some data is inconsistent 	 
 
 Pin count : 64
 - 1 : NC,  of Type NC
@@ -1001,7 +1121,13 @@ Pin count : 64
 - Package Type : 	 VQFN
 - Pin count : 	 64,00
 - Package Layout : 	 [C04-21442A.pdf](./mchp/packages/c04-21442a.pdf)
-- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-21442A.scad) : 	 [C04-21442A.scad](./Model3d/scad/C04-21442A.scad)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21442A.wrl) : 	 [C04-21442A.wrl](./Model3d/wrl/C04-21442A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21442A.stl) : 	 [C04-21442A.stl](./Model3d/stl/C04-21442A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21442A.obj) : 	 [C04-21442A.obj](./Model3d/obj/C04-21442A.obj)
+- Package 3d model x3d : 	 [C04-21442A.x3d](./Model3d/x3d/C04-21442A.x3d)
+- Package 3d model scad : 	 [C04-21442A.scad](./Model3d/scad/C04-21442A.scad)
+- Package 3d model usd : 	 [C04-21442A.usd](./Model3d/usd/C04-21442A.usd)
+- Package 3d model glb : 	 [C04-21442A.glb](./Model3d/glb/C04-21442A.glb)
 Pin count : 64
 - 1 : NC,  of Type NC
 - 2 : PE0,  of Type IO, alternates : [PORTE P_0, USART0 RXD_]
@@ -1093,7 +1219,13 @@ Pin count : 64
 - Package Type : 	 TQFP
 - Pin count : 	 32,00
 - Package Layout : 	 [C04-00074D.pdf](./mchp/packages/c04-00074d.pdf)
-- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00074D.scad) : 	 [C04-00074D.scad](./Model3d/scad/C04-00074D.scad)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00074D.wrl) : 	 [C04-00074D.wrl](./Model3d/wrl/C04-00074D.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00074D.stl) : 	 [C04-00074D.stl](./Model3d/stl/C04-00074D.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00074D.obj) : 	 [C04-00074D.obj](./Model3d/obj/C04-00074D.obj)
+- Package 3d model x3d : 	 [C04-00074D.x3d](./Model3d/x3d/C04-00074D.x3d)
+- Package 3d model scad : 	 [C04-00074D.scad](./Model3d/scad/C04-00074D.scad)
+- Package 3d model usd : 	 [C04-00074D.usd](./Model3d/usd/C04-00074D.usd)
+- Package 3d model glb : 	 [C04-00074D.glb](./Model3d/glb/C04-00074D.glb)
 Pin count : 32
 - 1 : PD3,  of Type IO, alternates : [PORTD P_3, EXINT INT_1]
 - 2 : PD4,  of Type IO, alternates : [TC0 T_, USART XCK_, PORTD P_4]
@@ -1153,7 +1285,13 @@ Pin count : 32
 - Package Type : 	 TQFP
 - Pin count : 	 32,00
 - Package Layout : 	 [C04-00074D.pdf](./mchp/packages/c04-00074d.pdf)
-- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00074D.scad) : 	 [C04-00074D.scad](./Model3d/scad/C04-00074D.scad)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00074D.wrl) : 	 [C04-00074D.wrl](./Model3d/wrl/C04-00074D.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00074D.stl) : 	 [C04-00074D.stl](./Model3d/stl/C04-00074D.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00074D.obj) : 	 [C04-00074D.obj](./Model3d/obj/C04-00074D.obj)
+- Package 3d model x3d : 	 [C04-00074D.x3d](./Model3d/x3d/C04-00074D.x3d)
+- Package 3d model scad : 	 [C04-00074D.scad](./Model3d/scad/C04-00074D.scad)
+- Package 3d model usd : 	 [C04-00074D.usd](./Model3d/usd/C04-00074D.usd)
+- Package 3d model glb : 	 [C04-00074D.glb](./Model3d/glb/C04-00074D.glb)
 Pin count : 32
 - 1 : PD3,  of Type IO, alternates : [PORTD P_3, EXINT INT_1]
 - 2 : PD4,  of Type IO, alternates : [TC0 T_, USART XCK_, PORTD P_4]
@@ -1213,7 +1351,13 @@ Pin count : 32
 - Package Type : 	 VQFN
 - Pin count : 	 32,00
 - Package Layout : 	 [C04-21395C.pdf](./mchp/packages/c04-21395c.pdf)
-- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-21395C.scad) : 	 [C04-21395C.scad](./Model3d/scad/C04-21395C.scad)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21395C.wrl) : 	 [C04-21395C.wrl](./Model3d/wrl/C04-21395C.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21395C.stl) : 	 [C04-21395C.stl](./Model3d/stl/C04-21395C.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21395C.obj) : 	 [C04-21395C.obj](./Model3d/obj/C04-21395C.obj)
+- Package 3d model x3d : 	 [C04-21395C.x3d](./Model3d/x3d/C04-21395C.x3d)
+- Package 3d model scad : 	 [C04-21395C.scad](./Model3d/scad/C04-21395C.scad)
+- Package 3d model usd : 	 [C04-21395C.usd](./Model3d/usd/C04-21395C.usd)
+- Package 3d model glb : 	 [C04-21395C.glb](./Model3d/glb/C04-21395C.glb)
 Pin count : 28
 - 1 : PC6,  of Type IO, alternates : [PORTC P_6]
 - 2 : PD0,  of Type IO, alternates : [USART RXD_, PORTD P_0]
@@ -1269,7 +1413,13 @@ Pin count : 28
 - Package Type : 	 VQFN
 - Pin count : 	 32,00
 - Package Layout : 	 [C04-21395C.pdf](./mchp/packages/c04-21395c.pdf)
-- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-21395C.scad) : 	 [C04-21395C.scad](./Model3d/scad/C04-21395C.scad)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21395C.wrl) : 	 [C04-21395C.wrl](./Model3d/wrl/C04-21395C.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21395C.stl) : 	 [C04-21395C.stl](./Model3d/stl/C04-21395C.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21395C.obj) : 	 [C04-21395C.obj](./Model3d/obj/C04-21395C.obj)
+- Package 3d model x3d : 	 [C04-21395C.x3d](./Model3d/x3d/C04-21395C.x3d)
+- Package 3d model scad : 	 [C04-21395C.scad](./Model3d/scad/C04-21395C.scad)
+- Package 3d model usd : 	 [C04-21395C.usd](./Model3d/usd/C04-21395C.usd)
+- Package 3d model glb : 	 [C04-21395C.glb](./Model3d/glb/C04-21395C.glb)
 Pin count : 32
 - 1 : PD3,  of Type IO, alternates : [PORTD P_3, EXINT INT_1]
 - 2 : PD4,  of Type IO, alternates : [TC0 T_, USART XCK_, PORTD P_4]
@@ -1323,6 +1473,14 @@ Pin count : 32
 - Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
+
+- Package Outline Drawings : 	 [C04-00070B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 M3X
+- Package Type : 	 SPDIP
+- Pin count : 	 28,00
+- Package Layout : 	 [C04-00070B.pdf](./mchp/packages/c04-00070b.pdf)
+
+please check that some data is inconsistent 	 
 
 Pin count : 32
 - 1 : PD3,  of Type IO, alternates : [PORTD P_3, EXINT INT_1]
@@ -1433,6 +1591,18 @@ Pin count : 28
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00066B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 V3X
+- Package Type : 	 TQFP
+- Pin count : 	 64,00
+- Package Layout : 	 [C04-00066B.pdf](./mchp/packages/c04-00066b.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00066B.wrl) : 	 [C04-00066B.wrl](./Model3d/wrl/C04-00066B.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00066B.stl) : 	 [C04-00066B.stl](./Model3d/stl/C04-00066B.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00066B.obj) : 	 [C04-00066B.obj](./Model3d/obj/C04-00066B.obj)
+- Package 3d model x3d : 	 [C04-00066B.x3d](./Model3d/x3d/C04-00066B.x3d)
+- Package 3d model scad : 	 [C04-00066B.scad](./Model3d/scad/C04-00066B.scad)
+- Package 3d model usd : 	 [C04-00066B.usd](./Model3d/usd/C04-00066B.usd)
+- Package 3d model glb : 	 [C04-00066B.glb](./Model3d/glb/C04-00066B.glb)
 Pin count : 64
 - 1 : PEN,  of Type IO
 - 2 : PE0,  of Type IO, alternates : [MISC PDI_, PORTE P_0, USART0 RXD_]
@@ -1519,6 +1689,18 @@ Pin count : 64
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00066B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 V3X
+- Package Type : 	 TQFP
+- Pin count : 	 64,00
+- Package Layout : 	 [C04-00066B.pdf](./mchp/packages/c04-00066b.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00066B.wrl) : 	 [C04-00066B.wrl](./Model3d/wrl/C04-00066B.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00066B.stl) : 	 [C04-00066B.stl](./Model3d/stl/C04-00066B.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00066B.obj) : 	 [C04-00066B.obj](./Model3d/obj/C04-00066B.obj)
+- Package 3d model x3d : 	 [C04-00066B.x3d](./Model3d/x3d/C04-00066B.x3d)
+- Package 3d model scad : 	 [C04-00066B.scad](./Model3d/scad/C04-00066B.scad)
+- Package 3d model usd : 	 [C04-00066B.usd](./Model3d/usd/C04-00066B.usd)
+- Package 3d model glb : 	 [C04-00066B.glb](./Model3d/glb/C04-00066B.glb)
 Pin count : 64
 - 1 : PEN,  of Type IO
 - 2 : PE0,  of Type IO, alternates : [MISC PDI_, PORTE P_0, USART0 RXD_]
@@ -1605,6 +1787,18 @@ Pin count : 64
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-21435A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 TEB
+- Package Type : 	 VQFN
+- Pin count : 	 64,00
+- Package Layout : 	 [C04-21435A.pdf](./mchp/packages/c04-21435a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21435A.wrl) : 	 [C04-21435A.wrl](./Model3d/wrl/C04-21435A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21435A.stl) : 	 [C04-21435A.stl](./Model3d/stl/C04-21435A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21435A.obj) : 	 [C04-21435A.obj](./Model3d/obj/C04-21435A.obj)
+- Package 3d model x3d : 	 [C04-21435A.x3d](./Model3d/x3d/C04-21435A.x3d)
+- Package 3d model scad : 	 [C04-21435A.scad](./Model3d/scad/C04-21435A.scad)
+- Package 3d model usd : 	 [C04-21435A.usd](./Model3d/usd/C04-21435A.usd)
+- Package 3d model glb : 	 [C04-21435A.glb](./Model3d/glb/C04-21435A.glb)
 Pin count : 64
 - 1 : PEN,  of Type IO
 - 2 : PE0,  of Type IO, alternates : [MISC PDI_, PORTE P_0, USART0 RXD_]
@@ -1691,6 +1885,18 @@ Pin count : 64
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-21435A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 TEB
+- Package Type : 	 VQFN
+- Pin count : 	 64,00
+- Package Layout : 	 [C04-21435A.pdf](./mchp/packages/c04-21435a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21435A.wrl) : 	 [C04-21435A.wrl](./Model3d/wrl/C04-21435A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21435A.stl) : 	 [C04-21435A.stl](./Model3d/stl/C04-21435A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21435A.obj) : 	 [C04-21435A.obj](./Model3d/obj/C04-21435A.obj)
+- Package 3d model x3d : 	 [C04-21435A.x3d](./Model3d/x3d/C04-21435A.x3d)
+- Package 3d model scad : 	 [C04-21435A.scad](./Model3d/scad/C04-21435A.scad)
+- Package 3d model usd : 	 [C04-21435A.usd](./Model3d/usd/C04-21435A.usd)
+- Package 3d model glb : 	 [C04-21435A.glb](./Model3d/glb/C04-21435A.glb)
 Pin count : 64
 - 1 : PEN,  of Type IO
 - 2 : PE0,  of Type IO, alternates : [MISC PDI_, PORTE P_0, USART0 RXD_]
@@ -1777,6 +1983,18 @@ Pin count : 64
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00110C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 E5X
+- Package Type : 	 TQFP
+- Pin count : 	 100,00
+- Package Layout : 	 [C04-00110C.pdf](./mchp/packages/c04-00110c.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00110C.wrl) : 	 [C04-00110C.wrl](./Model3d/wrl/C04-00110C.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00110C.stl) : 	 [C04-00110C.stl](./Model3d/stl/C04-00110C.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00110C.obj) : 	 [C04-00110C.obj](./Model3d/obj/C04-00110C.obj)
+- Package 3d model x3d : 	 [C04-00110C.x3d](./Model3d/x3d/C04-00110C.x3d)
+- Package 3d model scad : 	 [C04-00110C.scad](./Model3d/scad/C04-00110C.scad)
+- Package 3d model usd : 	 [C04-00110C.usd](./Model3d/usd/C04-00110C.usd)
+- Package 3d model glb : 	 [C04-00110C.glb](./Model3d/glb/C04-00110C.glb)
 Pin count : 100
 - 1 : PG5,  of Type IO, alternates : [PORTG P_5, TC0 OCB_]
 - 2 : PE0,  of Type IO, alternates : [EXINT PCINT_8, PORTE P_0, USART0 RXD_]
@@ -1898,6 +2116,21 @@ Pin count : 100
 - Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
+
+- Package Outline Drawings : 	 [C04-00110C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 E5X
+- Package Type : 	 TQFP
+- Pin count : 	 100,00
+- Package Layout : 	 [C04-00110C.pdf](./mchp/packages/c04-00110c.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00110C.wrl) : 	 [C04-00110C.wrl](./Model3d/wrl/C04-00110C.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00110C.stl) : 	 [C04-00110C.stl](./Model3d/stl/C04-00110C.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00110C.obj) : 	 [C04-00110C.obj](./Model3d/obj/C04-00110C.obj)
+- Package 3d model x3d : 	 [C04-00110C.x3d](./Model3d/x3d/C04-00110C.x3d)
+- Package 3d model scad : 	 [C04-00110C.scad](./Model3d/scad/C04-00110C.scad)
+- Package 3d model usd : 	 [C04-00110C.usd](./Model3d/usd/C04-00110C.usd)
+- Package 3d model glb : 	 [C04-00110C.glb](./Model3d/glb/C04-00110C.glb)
+
+please check that some data is inconsistent 	 
 
 Pin count : 100
 - A1 : GND,  of Type PS
@@ -2021,6 +2254,18 @@ Pin count : 100
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00110C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 E5X
+- Package Type : 	 TQFP
+- Pin count : 	 100,00
+- Package Layout : 	 [C04-00110C.pdf](./mchp/packages/c04-00110c.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00110C.wrl) : 	 [C04-00110C.wrl](./Model3d/wrl/C04-00110C.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00110C.stl) : 	 [C04-00110C.stl](./Model3d/stl/C04-00110C.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00110C.obj) : 	 [C04-00110C.obj](./Model3d/obj/C04-00110C.obj)
+- Package 3d model x3d : 	 [C04-00110C.x3d](./Model3d/x3d/C04-00110C.x3d)
+- Package 3d model scad : 	 [C04-00110C.scad](./Model3d/scad/C04-00110C.scad)
+- Package 3d model usd : 	 [C04-00110C.usd](./Model3d/usd/C04-00110C.usd)
+- Package 3d model glb : 	 [C04-00110C.glb](./Model3d/glb/C04-00110C.glb)
 Pin count : 100
 - 1 : PG5,  of Type IO, alternates : [PORTG P_5, TC0 OCB_]
 - 2 : PE0,  of Type IO, alternates : [EXINT PCINT_8, PORTE P_0, USART0 RXD_]
@@ -2142,6 +2387,21 @@ Pin count : 100
 - Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
+
+- Package Outline Drawings : 	 [C04-00110C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 E5X
+- Package Type : 	 TQFP
+- Pin count : 	 100,00
+- Package Layout : 	 [C04-00110C.pdf](./mchp/packages/c04-00110c.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00110C.wrl) : 	 [C04-00110C.wrl](./Model3d/wrl/C04-00110C.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00110C.stl) : 	 [C04-00110C.stl](./Model3d/stl/C04-00110C.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00110C.obj) : 	 [C04-00110C.obj](./Model3d/obj/C04-00110C.obj)
+- Package 3d model x3d : 	 [C04-00110C.x3d](./Model3d/x3d/C04-00110C.x3d)
+- Package 3d model scad : 	 [C04-00110C.scad](./Model3d/scad/C04-00110C.scad)
+- Package 3d model usd : 	 [C04-00110C.usd](./Model3d/usd/C04-00110C.usd)
+- Package 3d model glb : 	 [C04-00110C.glb](./Model3d/glb/C04-00110C.glb)
+
+please check that some data is inconsistent 	 
 
 Pin count : 100
 - A1 : GND,  of Type PS
@@ -2265,6 +2525,18 @@ Pin count : 100
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00066B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 V3X
+- Package Type : 	 TQFP
+- Pin count : 	 64,00
+- Package Layout : 	 [C04-00066B.pdf](./mchp/packages/c04-00066b.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00066B.wrl) : 	 [C04-00066B.wrl](./Model3d/wrl/C04-00066B.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00066B.stl) : 	 [C04-00066B.stl](./Model3d/stl/C04-00066B.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00066B.obj) : 	 [C04-00066B.obj](./Model3d/obj/C04-00066B.obj)
+- Package 3d model x3d : 	 [C04-00066B.x3d](./Model3d/x3d/C04-00066B.x3d)
+- Package 3d model scad : 	 [C04-00066B.scad](./Model3d/scad/C04-00066B.scad)
+- Package 3d model usd : 	 [C04-00066B.usd](./Model3d/usd/C04-00066B.usd)
+- Package 3d model glb : 	 [C04-00066B.glb](./Model3d/glb/C04-00066B.glb)
 Pin count : 64
 - 1 : PG5,  of Type IO, alternates : [PORTG P_5, TC0 OCB_]
 - 2 : PE0,  of Type IO, alternates : [EXINT PCINT_8, PORTE P_0, USART0 RXD_]
@@ -2351,6 +2623,18 @@ Pin count : 64
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-21434A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 TCB
+- Package Type : 	 VQFN
+- Pin count : 	 64,00
+- Package Layout : 	 [C04-21434A.pdf](./mchp/packages/c04-21434a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21434A.wrl) : 	 [C04-21434A.wrl](./Model3d/wrl/C04-21434A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21434A.stl) : 	 [C04-21434A.stl](./Model3d/stl/C04-21434A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21434A.obj) : 	 [C04-21434A.obj](./Model3d/obj/C04-21434A.obj)
+- Package 3d model x3d : 	 [C04-21434A.x3d](./Model3d/x3d/C04-21434A.x3d)
+- Package 3d model scad : 	 [C04-21434A.scad](./Model3d/scad/C04-21434A.scad)
+- Package 3d model usd : 	 [C04-21434A.usd](./Model3d/usd/C04-21434A.usd)
+- Package 3d model glb : 	 [C04-21434A.glb](./Model3d/glb/C04-21434A.glb)
 Pin count : 64
 - 1 : PG5,  of Type IO, alternates : [PORTG P_5, TC0 OCB_]
 - 2 : PE0,  of Type IO, alternates : [EXINT PCINT_8, PORTE P_0, USART0 RXD_]
@@ -2437,6 +2721,18 @@ Pin count : 64
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00066B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 V3X
+- Package Type : 	 TQFP
+- Pin count : 	 64,00
+- Package Layout : 	 [C04-00066B.pdf](./mchp/packages/c04-00066b.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00066B.wrl) : 	 [C04-00066B.wrl](./Model3d/wrl/C04-00066B.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00066B.stl) : 	 [C04-00066B.stl](./Model3d/stl/C04-00066B.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00066B.obj) : 	 [C04-00066B.obj](./Model3d/obj/C04-00066B.obj)
+- Package 3d model x3d : 	 [C04-00066B.x3d](./Model3d/x3d/C04-00066B.x3d)
+- Package 3d model scad : 	 [C04-00066B.scad](./Model3d/scad/C04-00066B.scad)
+- Package 3d model usd : 	 [C04-00066B.usd](./Model3d/usd/C04-00066B.usd)
+- Package 3d model glb : 	 [C04-00066B.glb](./Model3d/glb/C04-00066B.glb)
 Pin count : 64
 - 1 : PG5,  of Type IO, alternates : [PORTG P_5, TC0 OCB_]
 - 2 : PE0,  of Type IO, alternates : [EXINT PCINT_8, PORTE P_0, USART0 RXD_]
@@ -2523,6 +2819,18 @@ Pin count : 64
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-21434A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 TCB
+- Package Type : 	 VQFN
+- Pin count : 	 64,00
+- Package Layout : 	 [C04-21434A.pdf](./mchp/packages/c04-21434a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21434A.wrl) : 	 [C04-21434A.wrl](./Model3d/wrl/C04-21434A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21434A.stl) : 	 [C04-21434A.stl](./Model3d/stl/C04-21434A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21434A.obj) : 	 [C04-21434A.obj](./Model3d/obj/C04-21434A.obj)
+- Package 3d model x3d : 	 [C04-21434A.x3d](./Model3d/x3d/C04-21434A.x3d)
+- Package 3d model scad : 	 [C04-21434A.scad](./Model3d/scad/C04-21434A.scad)
+- Package 3d model usd : 	 [C04-21434A.usd](./Model3d/usd/C04-21434A.usd)
+- Package 3d model glb : 	 [C04-21434A.glb](./Model3d/glb/C04-21434A.glb)
 Pin count : 64
 - 1 : PG5,  of Type IO, alternates : [PORTG P_5, TC0 OCB_]
 - 2 : PE0,  of Type IO, alternates : [EXINT PCINT_8, PORTE P_0, USART0 RXD_]
@@ -2609,6 +2917,18 @@ Pin count : 64
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00076C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 T4X
+- Package Type : 	 TQFP
+- Pin count : 	 44,00
+- Package Layout : 	 [C04-00076C.pdf](./mchp/packages/c04-00076c.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00076C.wrl) : 	 [C04-00076C.wrl](./Model3d/wrl/C04-00076C.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00076C.stl) : 	 [C04-00076C.stl](./Model3d/stl/C04-00076C.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00076C.obj) : 	 [C04-00076C.obj](./Model3d/obj/C04-00076C.obj)
+- Package 3d model x3d : 	 [C04-00076C.x3d](./Model3d/x3d/C04-00076C.x3d)
+- Package 3d model scad : 	 [C04-00076C.scad](./Model3d/scad/C04-00076C.scad)
+- Package 3d model usd : 	 [C04-00076C.usd](./Model3d/usd/C04-00076C.usd)
+- Package 3d model glb : 	 [C04-00076C.glb](./Model3d/glb/C04-00076C.glb)
 Pin count : 44
 - 1 : PB5,  of Type IO, alternates : [PORTB P_5, SPI MOSI_, TC3 ICP_, EXINT PCINT_13]
 - 2 : PB6,  of Type IO, alternates : [EXINT PCINT_14, SPI MISO_, TC3 OCA_, PORTB P_6]
@@ -2675,6 +2995,18 @@ Pin count : 44
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-21419A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 SSB
+- Package Type : 	 VQFN
+- Pin count : 	 44,00
+- Package Layout : 	 [C04-21419A.pdf](./mchp/packages/c04-21419a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21419A.wrl) : 	 [C04-21419A.wrl](./Model3d/wrl/C04-21419A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21419A.stl) : 	 [C04-21419A.stl](./Model3d/stl/C04-21419A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21419A.obj) : 	 [C04-21419A.obj](./Model3d/obj/C04-21419A.obj)
+- Package 3d model x3d : 	 [C04-21419A.x3d](./Model3d/x3d/C04-21419A.x3d)
+- Package 3d model scad : 	 [C04-21419A.scad](./Model3d/scad/C04-21419A.scad)
+- Package 3d model usd : 	 [C04-21419A.usd](./Model3d/usd/C04-21419A.usd)
+- Package 3d model glb : 	 [C04-21419A.glb](./Model3d/glb/C04-21419A.glb)
 Pin count : 44
 - 1 : PB5,  of Type IO, alternates : [PORTB P_5, SPI MOSI_, TC3 ICP_, EXINT PCINT_13]
 - 2 : PB6,  of Type IO, alternates : [EXINT PCINT_14, SPI MISO_, TC3 OCA_, PORTB P_6]
@@ -2741,6 +3073,11 @@ Pin count : 44
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00016B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 S2X
+- Package Type : 	 PDIP
+- Pin count : 	 40,00
+- Package Layout : 	 [C04-00016B.pdf](./mchp/packages/c04-00016b.pdf)
 Pin count : 40
 - 1 : PB0,  of Type IO, alternates : [EXINT PCINT_8, PORTB P_0, TC0 T_, USART0 XCK_]
 - 2 : PB1,  of Type IO, alternates : [EXINT PCINT_9, PORTB P_1, TC1 T_, CPU CLKO_0]
@@ -2802,6 +3139,14 @@ Pin count : 40
 - Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
+
+- Package Outline Drawings : 	 [C04-00016B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 S2X
+- Package Type : 	 PDIP
+- Pin count : 	 40,00
+- Package Layout : 	 [C04-00016B.pdf](./mchp/packages/c04-00016b.pdf)
+
+please check that some data is inconsistent 	 
 
 Pin count : 44
 - 1 : PB5,  of Type IO, alternates : [PORTB P_5, SPI MOSI_, TC3 ICP_, EXINT PCINT_13]
@@ -2869,6 +3214,18 @@ Pin count : 44
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00076C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 T4X
+- Package Type : 	 TQFP
+- Pin count : 	 44,00
+- Package Layout : 	 [C04-00076C.pdf](./mchp/packages/c04-00076c.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00076C.wrl) : 	 [C04-00076C.wrl](./Model3d/wrl/C04-00076C.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00076C.stl) : 	 [C04-00076C.stl](./Model3d/stl/C04-00076C.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00076C.obj) : 	 [C04-00076C.obj](./Model3d/obj/C04-00076C.obj)
+- Package 3d model x3d : 	 [C04-00076C.x3d](./Model3d/x3d/C04-00076C.x3d)
+- Package 3d model scad : 	 [C04-00076C.scad](./Model3d/scad/C04-00076C.scad)
+- Package 3d model usd : 	 [C04-00076C.usd](./Model3d/usd/C04-00076C.usd)
+- Package 3d model glb : 	 [C04-00076C.glb](./Model3d/glb/C04-00076C.glb)
 Pin count : 44
 - 1 : PB5,  of Type IO, alternates : [PORTB P_5, SPI MOSI_, TC3 ICP_, EXINT PCINT_13]
 - 2 : PB6,  of Type IO, alternates : [EXINT PCINT_14, SPI MISO_, TC3 OCA_, PORTB P_6]
@@ -2934,6 +3291,14 @@ Pin count : 44
 - Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
+
+- Package Outline Drawings : 	 [C04-00016B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 S2X
+- Package Type : 	 PDIP
+- Pin count : 	 40,00
+- Package Layout : 	 [C04-00016B.pdf](./mchp/packages/c04-00016b.pdf)
+
+please check that some data is inconsistent 	 
 
 Pin count : 44
 - 1 : PB5,  of Type IO, alternates : [PORTB P_5, SPI MOSI_, TC3 ICP_, EXINT PCINT_13]
@@ -3001,6 +3366,18 @@ Pin count : 44
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-21419A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 SSB
+- Package Type : 	 VQFN
+- Pin count : 	 44,00
+- Package Layout : 	 [C04-21419A.pdf](./mchp/packages/c04-21419a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21419A.wrl) : 	 [C04-21419A.wrl](./Model3d/wrl/C04-21419A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21419A.stl) : 	 [C04-21419A.stl](./Model3d/stl/C04-21419A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21419A.obj) : 	 [C04-21419A.obj](./Model3d/obj/C04-21419A.obj)
+- Package 3d model x3d : 	 [C04-21419A.x3d](./Model3d/x3d/C04-21419A.x3d)
+- Package 3d model scad : 	 [C04-21419A.scad](./Model3d/scad/C04-21419A.scad)
+- Package 3d model usd : 	 [C04-21419A.usd](./Model3d/usd/C04-21419A.usd)
+- Package 3d model glb : 	 [C04-21419A.glb](./Model3d/glb/C04-21419A.glb)
 Pin count : 44
 - 1 : PB5,  of Type IO, alternates : [PORTB P_5, SPI MOSI_, TC3 ICP_, EXINT PCINT_13]
 - 2 : PB6,  of Type IO, alternates : [EXINT PCINT_14, SPI MISO_, TC3 OCA_, PORTB P_6]
@@ -3067,6 +3444,14 @@ Pin count : 44
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00016B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 S2X
+- Package Type : 	 PDIP
+- Pin count : 	 40,00
+- Package Layout : 	 [C04-00016B.pdf](./mchp/packages/c04-00016b.pdf)
+
+please check that some data is inconsistent 	 
+
 Pin count : 40
 - 1 : PB0,  of Type IO, alternates : [EXINT PCINT_8, PORTB P_0, TC0 T_, USART0 XCK_]
 - 2 : PB1,  of Type IO, alternates : [EXINT PCINT_9, PORTB P_1, TC1 T_, CPU CLKO_0]
@@ -3129,6 +3514,11 @@ Pin count : 40
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00016B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 S2X
+- Package Type : 	 PDIP
+- Pin count : 	 40,00
+- Package Layout : 	 [C04-00016B.pdf](./mchp/packages/c04-00016b.pdf)
 Pin count : 40
 - 1 : PB0,  of Type IO, alternates : [EXINT PCINT_8, PORTB P_0, TC0 T_, USART0 XCK_]
 - 2 : PB1,  of Type IO, alternates : [EXINT PCINT_9, PORTB P_1, TC1 T_, CPU CLKO_0]
@@ -3191,6 +3581,18 @@ Pin count : 40
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00066B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 V3X
+- Package Type : 	 TQFP
+- Pin count : 	 64,00
+- Package Layout : 	 [C04-00066B.pdf](./mchp/packages/c04-00066b.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00066B.wrl) : 	 [C04-00066B.wrl](./Model3d/wrl/C04-00066B.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00066B.stl) : 	 [C04-00066B.stl](./Model3d/stl/C04-00066B.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00066B.obj) : 	 [C04-00066B.obj](./Model3d/obj/C04-00066B.obj)
+- Package 3d model x3d : 	 [C04-00066B.x3d](./Model3d/x3d/C04-00066B.x3d)
+- Package 3d model scad : 	 [C04-00066B.scad](./Model3d/scad/C04-00066B.scad)
+- Package 3d model usd : 	 [C04-00066B.usd](./Model3d/usd/C04-00066B.usd)
+- Package 3d model glb : 	 [C04-00066B.glb](./Model3d/glb/C04-00066B.glb)
 Pin count : 64
 - 1 : PEN,  of Type IO
 - 2 : PE0,  of Type IO, alternates : [MISC PDI_, PORTE P_0, USART0 RXD_]
@@ -3277,6 +3679,18 @@ Pin count : 64
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-21435A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 TEB
+- Package Type : 	 VQFN
+- Pin count : 	 64,00
+- Package Layout : 	 [C04-21435A.pdf](./mchp/packages/c04-21435a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21435A.wrl) : 	 [C04-21435A.wrl](./Model3d/wrl/C04-21435A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21435A.stl) : 	 [C04-21435A.stl](./Model3d/stl/C04-21435A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21435A.obj) : 	 [C04-21435A.obj](./Model3d/obj/C04-21435A.obj)
+- Package 3d model x3d : 	 [C04-21435A.x3d](./Model3d/x3d/C04-21435A.x3d)
+- Package 3d model scad : 	 [C04-21435A.scad](./Model3d/scad/C04-21435A.scad)
+- Package 3d model usd : 	 [C04-21435A.usd](./Model3d/usd/C04-21435A.usd)
+- Package 3d model glb : 	 [C04-21435A.glb](./Model3d/glb/C04-21435A.glb)
 Pin count : 64
 - 1 : PEN,  of Type IO
 - 2 : PE0,  of Type IO, alternates : [MISC PDI_, PORTE P_0, USART0 RXD_]
@@ -3363,6 +3777,18 @@ Pin count : 64
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00066B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 V3X
+- Package Type : 	 TQFP
+- Pin count : 	 64,00
+- Package Layout : 	 [C04-00066B.pdf](./mchp/packages/c04-00066b.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00066B.wrl) : 	 [C04-00066B.wrl](./Model3d/wrl/C04-00066B.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00066B.stl) : 	 [C04-00066B.stl](./Model3d/stl/C04-00066B.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00066B.obj) : 	 [C04-00066B.obj](./Model3d/obj/C04-00066B.obj)
+- Package 3d model x3d : 	 [C04-00066B.x3d](./Model3d/x3d/C04-00066B.x3d)
+- Package 3d model scad : 	 [C04-00066B.scad](./Model3d/scad/C04-00066B.scad)
+- Package 3d model usd : 	 [C04-00066B.usd](./Model3d/usd/C04-00066B.usd)
+- Package 3d model glb : 	 [C04-00066B.glb](./Model3d/glb/C04-00066B.glb)
 Pin count : 64
 - 1 : PEN,  of Type IO
 - 2 : PE0,  of Type IO, alternates : [MISC PDI_, PORTE P_0, USART0 RXD_]
@@ -3449,6 +3875,18 @@ Pin count : 64
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00066B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 V3X
+- Package Type : 	 TQFP
+- Pin count : 	 64,00
+- Package Layout : 	 [C04-00066B.pdf](./mchp/packages/c04-00066b.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00066B.wrl) : 	 [C04-00066B.wrl](./Model3d/wrl/C04-00066B.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00066B.stl) : 	 [C04-00066B.stl](./Model3d/stl/C04-00066B.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00066B.obj) : 	 [C04-00066B.obj](./Model3d/obj/C04-00066B.obj)
+- Package 3d model x3d : 	 [C04-00066B.x3d](./Model3d/x3d/C04-00066B.x3d)
+- Package 3d model scad : 	 [C04-00066B.scad](./Model3d/scad/C04-00066B.scad)
+- Package 3d model usd : 	 [C04-00066B.usd](./Model3d/usd/C04-00066B.usd)
+- Package 3d model glb : 	 [C04-00066B.glb](./Model3d/glb/C04-00066B.glb)
 Pin count : 64
 - 1 : PEN,  of Type IO
 - 2 : PE0,  of Type IO, alternates : [MISC PDI_, PORTE P_0, USART0 RXD_]
@@ -3535,6 +3973,18 @@ Pin count : 64
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-21435A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 TEB
+- Package Type : 	 VQFN
+- Pin count : 	 64,00
+- Package Layout : 	 [C04-21435A.pdf](./mchp/packages/c04-21435a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21435A.wrl) : 	 [C04-21435A.wrl](./Model3d/wrl/C04-21435A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21435A.stl) : 	 [C04-21435A.stl](./Model3d/stl/C04-21435A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21435A.obj) : 	 [C04-21435A.obj](./Model3d/obj/C04-21435A.obj)
+- Package 3d model x3d : 	 [C04-21435A.x3d](./Model3d/x3d/C04-21435A.x3d)
+- Package 3d model scad : 	 [C04-21435A.scad](./Model3d/scad/C04-21435A.scad)
+- Package 3d model usd : 	 [C04-21435A.usd](./Model3d/usd/C04-21435A.usd)
+- Package 3d model glb : 	 [C04-21435A.glb](./Model3d/glb/C04-21435A.glb)
 Pin count : 64
 - 1 : PEN,  of Type IO
 - 2 : PE0,  of Type IO, alternates : [MISC PDI_, PORTE P_0, USART0 RXD_]
@@ -3621,6 +4071,18 @@ Pin count : 64
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-21435A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 TEB
+- Package Type : 	 VQFN
+- Pin count : 	 64,00
+- Package Layout : 	 [C04-21435A.pdf](./mchp/packages/c04-21435a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21435A.wrl) : 	 [C04-21435A.wrl](./Model3d/wrl/C04-21435A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21435A.stl) : 	 [C04-21435A.stl](./Model3d/stl/C04-21435A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21435A.obj) : 	 [C04-21435A.obj](./Model3d/obj/C04-21435A.obj)
+- Package 3d model x3d : 	 [C04-21435A.x3d](./Model3d/x3d/C04-21435A.x3d)
+- Package 3d model scad : 	 [C04-21435A.scad](./Model3d/scad/C04-21435A.scad)
+- Package 3d model usd : 	 [C04-21435A.usd](./Model3d/usd/C04-21435A.usd)
+- Package 3d model glb : 	 [C04-21435A.glb](./Model3d/glb/C04-21435A.glb)
 Pin count : 64
 - 1 : PEN,  of Type IO
 - 2 : PE0,  of Type IO, alternates : [MISC PDI_, PORTE P_0, USART0 RXD_]
@@ -3707,6 +4169,18 @@ Pin count : 64
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00076C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 T4X
+- Package Type : 	 TQFP
+- Pin count : 	 44,00
+- Package Layout : 	 [C04-00076C.pdf](./mchp/packages/c04-00076c.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00076C.wrl) : 	 [C04-00076C.wrl](./Model3d/wrl/C04-00076C.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00076C.stl) : 	 [C04-00076C.stl](./Model3d/stl/C04-00076C.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00076C.obj) : 	 [C04-00076C.obj](./Model3d/obj/C04-00076C.obj)
+- Package 3d model x3d : 	 [C04-00076C.x3d](./Model3d/x3d/C04-00076C.x3d)
+- Package 3d model scad : 	 [C04-00076C.scad](./Model3d/scad/C04-00076C.scad)
+- Package 3d model usd : 	 [C04-00076C.usd](./Model3d/usd/C04-00076C.usd)
+- Package 3d model glb : 	 [C04-00076C.glb](./Model3d/glb/C04-00076C.glb)
 Pin count : 44
 - 1 : PB5,  of Type IO, alternates : [PORTB P_5, SPI MOSI_]
 - 2 : PB6,  of Type IO, alternates : [SPI MISO_, PORTB P_6]
@@ -3773,6 +4247,18 @@ Pin count : 44
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-21419A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 SSB
+- Package Type : 	 VQFN
+- Pin count : 	 44,00
+- Package Layout : 	 [C04-21419A.pdf](./mchp/packages/c04-21419a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21419A.wrl) : 	 [C04-21419A.wrl](./Model3d/wrl/C04-21419A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21419A.stl) : 	 [C04-21419A.stl](./Model3d/stl/C04-21419A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21419A.obj) : 	 [C04-21419A.obj](./Model3d/obj/C04-21419A.obj)
+- Package 3d model x3d : 	 [C04-21419A.x3d](./Model3d/x3d/C04-21419A.x3d)
+- Package 3d model scad : 	 [C04-21419A.scad](./Model3d/scad/C04-21419A.scad)
+- Package 3d model usd : 	 [C04-21419A.usd](./Model3d/usd/C04-21419A.usd)
+- Package 3d model glb : 	 [C04-21419A.glb](./Model3d/glb/C04-21419A.glb)
 Pin count : 44
 - 1 : PB5,  of Type IO, alternates : [PORTB P_5, SPI MOSI_]
 - 2 : PB6,  of Type IO, alternates : [SPI MISO_, PORTB P_6]
@@ -3839,6 +4325,11 @@ Pin count : 44
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00016B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 S2X
+- Package Type : 	 PDIP
+- Pin count : 	 40,00
+- Package Layout : 	 [C04-00016B.pdf](./mchp/packages/c04-00016b.pdf)
 Pin count : 40
 - 1 : PB0,  of Type IO, alternates : [PORTB P_0, TC0 T_, USART XCK_]
 - 2 : PB1,  of Type IO, alternates : [PORTB P_1, TC1 T_]
@@ -3901,6 +4392,18 @@ Pin count : 40
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00076C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 T4X
+- Package Type : 	 TQFP
+- Pin count : 	 44,00
+- Package Layout : 	 [C04-00076C.pdf](./mchp/packages/c04-00076c.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00076C.wrl) : 	 [C04-00076C.wrl](./Model3d/wrl/C04-00076C.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00076C.stl) : 	 [C04-00076C.stl](./Model3d/stl/C04-00076C.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00076C.obj) : 	 [C04-00076C.obj](./Model3d/obj/C04-00076C.obj)
+- Package 3d model x3d : 	 [C04-00076C.x3d](./Model3d/x3d/C04-00076C.x3d)
+- Package 3d model scad : 	 [C04-00076C.scad](./Model3d/scad/C04-00076C.scad)
+- Package 3d model usd : 	 [C04-00076C.usd](./Model3d/usd/C04-00076C.usd)
+- Package 3d model glb : 	 [C04-00076C.glb](./Model3d/glb/C04-00076C.glb)
 Pin count : 44
 - 1 : PB5,  of Type IO, alternates : [PORTB P_5, SPI MOSI_, EXINT PCINT_13]
 - 2 : PB6,  of Type IO, alternates : [EXINT PCINT_14, SPI MISO_, PORTB P_6]
@@ -3966,6 +4469,21 @@ Pin count : 44
 - Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
+
+- Package Outline Drawings : 	 [C04-21399A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 S3B
+- Package Type : 	 VQFN
+- Pin count : 	 44,00
+- Package Layout : 	 [C04-21399A.pdf](./mchp/packages/c04-21399a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21399A.wrl) : 	 [C04-21399A.wrl](./Model3d/wrl/C04-21399A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21399A.stl) : 	 [C04-21399A.stl](./Model3d/stl/C04-21399A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21399A.obj) : 	 [C04-21399A.obj](./Model3d/obj/C04-21399A.obj)
+- Package 3d model x3d : 	 [C04-21399A.x3d](./Model3d/x3d/C04-21399A.x3d)
+- Package 3d model scad : 	 [C04-21399A.scad](./Model3d/scad/C04-21399A.scad)
+- Package 3d model usd : 	 [C04-21399A.usd](./Model3d/usd/C04-21399A.usd)
+- Package 3d model glb : 	 [C04-21399A.glb](./Model3d/glb/C04-21399A.glb)
+
+please check that some data is inconsistent 	 
 
 Pin count : 49
 - A1 : GND,  of Type PS
@@ -4038,6 +4556,18 @@ Pin count : 49
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-21399A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 S3B
+- Package Type : 	 VQFN
+- Pin count : 	 44,00
+- Package Layout : 	 [C04-21399A.pdf](./mchp/packages/c04-21399a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21399A.wrl) : 	 [C04-21399A.wrl](./Model3d/wrl/C04-21399A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21399A.stl) : 	 [C04-21399A.stl](./Model3d/stl/C04-21399A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21399A.obj) : 	 [C04-21399A.obj](./Model3d/obj/C04-21399A.obj)
+- Package 3d model x3d : 	 [C04-21399A.x3d](./Model3d/x3d/C04-21399A.x3d)
+- Package 3d model scad : 	 [C04-21399A.scad](./Model3d/scad/C04-21399A.scad)
+- Package 3d model usd : 	 [C04-21399A.usd](./Model3d/usd/C04-21399A.usd)
+- Package 3d model glb : 	 [C04-21399A.glb](./Model3d/glb/C04-21399A.glb)
 Pin count : 44
 - A1 : PB5,  of Type IO, alternates : [PORTB P_5, SPI MOSI_, EXINT PCINT_13]
 - B1 : PB6,  of Type IO, alternates : [EXINT PCINT_14, SPI MISO_, PORTB P_6]
@@ -4104,6 +4634,18 @@ Pin count : 44
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-21419A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 SSB
+- Package Type : 	 VQFN
+- Pin count : 	 44,00
+- Package Layout : 	 [C04-21419A.pdf](./mchp/packages/c04-21419a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21419A.wrl) : 	 [C04-21419A.wrl](./Model3d/wrl/C04-21419A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21419A.stl) : 	 [C04-21419A.stl](./Model3d/stl/C04-21419A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21419A.obj) : 	 [C04-21419A.obj](./Model3d/obj/C04-21419A.obj)
+- Package 3d model x3d : 	 [C04-21419A.x3d](./Model3d/x3d/C04-21419A.x3d)
+- Package 3d model scad : 	 [C04-21419A.scad](./Model3d/scad/C04-21419A.scad)
+- Package 3d model usd : 	 [C04-21419A.usd](./Model3d/usd/C04-21419A.usd)
+- Package 3d model glb : 	 [C04-21419A.glb](./Model3d/glb/C04-21419A.glb)
 Pin count : 44
 - 1 : PB5,  of Type IO, alternates : [PORTB P_5, SPI MOSI_, EXINT PCINT_13]
 - 2 : PB6,  of Type IO, alternates : [EXINT PCINT_14, SPI MISO_, PORTB P_6]
@@ -4170,6 +4712,21 @@ Pin count : 44
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-21399A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 S3B
+- Package Type : 	 VQFN
+- Pin count : 	 44,00
+- Package Layout : 	 [C04-21399A.pdf](./mchp/packages/c04-21399a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21399A.wrl) : 	 [C04-21399A.wrl](./Model3d/wrl/C04-21399A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21399A.stl) : 	 [C04-21399A.stl](./Model3d/stl/C04-21399A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21399A.obj) : 	 [C04-21399A.obj](./Model3d/obj/C04-21399A.obj)
+- Package 3d model x3d : 	 [C04-21399A.x3d](./Model3d/x3d/C04-21399A.x3d)
+- Package 3d model scad : 	 [C04-21399A.scad](./Model3d/scad/C04-21399A.scad)
+- Package 3d model usd : 	 [C04-21399A.usd](./Model3d/usd/C04-21399A.usd)
+- Package 3d model glb : 	 [C04-21399A.glb](./Model3d/glb/C04-21399A.glb)
+
+please check that some data is inconsistent 	 
+
 Pin count : 40
 - 1 : PB0,  of Type IO, alternates : [EXINT PCINT_8, PORTB P_0, TC0 T_, USART0 XCK_]
 - 2 : PB1,  of Type IO, alternates : [EXINT PCINT_9, PORTB P_1, TC1 T_, CPU CLKO_0]
@@ -4231,6 +4788,21 @@ Pin count : 40
 - Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
+
+- Package Outline Drawings : 	 [C04-21399A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 S3B
+- Package Type : 	 VQFN
+- Pin count : 	 44,00
+- Package Layout : 	 [C04-21399A.pdf](./mchp/packages/c04-21399a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21399A.wrl) : 	 [C04-21399A.wrl](./Model3d/wrl/C04-21399A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21399A.stl) : 	 [C04-21399A.stl](./Model3d/stl/C04-21399A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21399A.obj) : 	 [C04-21399A.obj](./Model3d/obj/C04-21399A.obj)
+- Package 3d model x3d : 	 [C04-21399A.x3d](./Model3d/x3d/C04-21399A.x3d)
+- Package 3d model scad : 	 [C04-21399A.scad](./Model3d/scad/C04-21399A.scad)
+- Package 3d model usd : 	 [C04-21399A.usd](./Model3d/usd/C04-21399A.usd)
+- Package 3d model glb : 	 [C04-21399A.glb](./Model3d/glb/C04-21399A.glb)
+
+please check that some data is inconsistent 	 
 
 Pin count : 44
 - 1 : PB5,  of Type IO, alternates : [PORTB P_5, SPI MOSI_, EXINT PCINT_13]
@@ -4298,6 +4870,18 @@ Pin count : 44
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00076C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 T4X
+- Package Type : 	 TQFP
+- Pin count : 	 44,00
+- Package Layout : 	 [C04-00076C.pdf](./mchp/packages/c04-00076c.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00076C.wrl) : 	 [C04-00076C.wrl](./Model3d/wrl/C04-00076C.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00076C.stl) : 	 [C04-00076C.stl](./Model3d/stl/C04-00076C.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00076C.obj) : 	 [C04-00076C.obj](./Model3d/obj/C04-00076C.obj)
+- Package 3d model x3d : 	 [C04-00076C.x3d](./Model3d/x3d/C04-00076C.x3d)
+- Package 3d model scad : 	 [C04-00076C.scad](./Model3d/scad/C04-00076C.scad)
+- Package 3d model usd : 	 [C04-00076C.usd](./Model3d/usd/C04-00076C.usd)
+- Package 3d model glb : 	 [C04-00076C.glb](./Model3d/glb/C04-00076C.glb)
 Pin count : 44
 - 1 : PB5,  of Type IO, alternates : [PORTB P_5, SPI MOSI_, EXINT PCINT_13]
 - 2 : PB6,  of Type IO, alternates : [EXINT PCINT_14, SPI MISO_, PORTB P_6]
@@ -4363,6 +4947,21 @@ Pin count : 44
 - Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
+
+- Package Outline Drawings : 	 [C04-21399A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 S3B
+- Package Type : 	 VQFN
+- Pin count : 	 44,00
+- Package Layout : 	 [C04-21399A.pdf](./mchp/packages/c04-21399a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21399A.wrl) : 	 [C04-21399A.wrl](./Model3d/wrl/C04-21399A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21399A.stl) : 	 [C04-21399A.stl](./Model3d/stl/C04-21399A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21399A.obj) : 	 [C04-21399A.obj](./Model3d/obj/C04-21399A.obj)
+- Package 3d model x3d : 	 [C04-21399A.x3d](./Model3d/x3d/C04-21399A.x3d)
+- Package 3d model scad : 	 [C04-21399A.scad](./Model3d/scad/C04-21399A.scad)
+- Package 3d model usd : 	 [C04-21399A.usd](./Model3d/usd/C04-21399A.usd)
+- Package 3d model glb : 	 [C04-21399A.glb](./Model3d/glb/C04-21399A.glb)
+
+please check that some data is inconsistent 	 
 
 Pin count : 44
 - 1 : PB5,  of Type IO, alternates : [PORTB P_5, SPI MOSI_, EXINT PCINT_13]
@@ -4430,6 +5029,18 @@ Pin count : 44
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-21419A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 SSB
+- Package Type : 	 VQFN
+- Pin count : 	 44,00
+- Package Layout : 	 [C04-21419A.pdf](./mchp/packages/c04-21419a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21419A.wrl) : 	 [C04-21419A.wrl](./Model3d/wrl/C04-21419A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21419A.stl) : 	 [C04-21419A.stl](./Model3d/stl/C04-21419A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21419A.obj) : 	 [C04-21419A.obj](./Model3d/obj/C04-21419A.obj)
+- Package 3d model x3d : 	 [C04-21419A.x3d](./Model3d/x3d/C04-21419A.x3d)
+- Package 3d model scad : 	 [C04-21419A.scad](./Model3d/scad/C04-21419A.scad)
+- Package 3d model usd : 	 [C04-21419A.usd](./Model3d/usd/C04-21419A.usd)
+- Package 3d model glb : 	 [C04-21419A.glb](./Model3d/glb/C04-21419A.glb)
 Pin count : 44
 - 1 : PB5,  of Type IO, alternates : [PORTB P_5, SPI MOSI_, EXINT PCINT_13]
 - 2 : PB6,  of Type IO, alternates : [EXINT PCINT_14, SPI MISO_, PORTB P_6]
@@ -4496,6 +5107,21 @@ Pin count : 44
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-21399A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 S3B
+- Package Type : 	 VQFN
+- Pin count : 	 44,00
+- Package Layout : 	 [C04-21399A.pdf](./mchp/packages/c04-21399a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21399A.wrl) : 	 [C04-21399A.wrl](./Model3d/wrl/C04-21399A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21399A.stl) : 	 [C04-21399A.stl](./Model3d/stl/C04-21399A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21399A.obj) : 	 [C04-21399A.obj](./Model3d/obj/C04-21399A.obj)
+- Package 3d model x3d : 	 [C04-21399A.x3d](./Model3d/x3d/C04-21399A.x3d)
+- Package 3d model scad : 	 [C04-21399A.scad](./Model3d/scad/C04-21399A.scad)
+- Package 3d model usd : 	 [C04-21399A.usd](./Model3d/usd/C04-21399A.usd)
+- Package 3d model glb : 	 [C04-21399A.glb](./Model3d/glb/C04-21399A.glb)
+
+please check that some data is inconsistent 	 
+
 Pin count : 40
 - 1 : PB0,  of Type IO, alternates : [EXINT PCINT_8, PORTB P_0, TC0 T_, USART0 XCK_]
 - 2 : PB1,  of Type IO, alternates : [EXINT PCINT_9, PORTB P_1, TC1 T_, CPU CLKO_0]
@@ -4557,6 +5183,21 @@ Pin count : 40
 - Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
+
+- Package Outline Drawings : 	 [C04-21399A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 S3B
+- Package Type : 	 VQFN
+- Pin count : 	 44,00
+- Package Layout : 	 [C04-21399A.pdf](./mchp/packages/c04-21399a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21399A.wrl) : 	 [C04-21399A.wrl](./Model3d/wrl/C04-21399A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21399A.stl) : 	 [C04-21399A.stl](./Model3d/stl/C04-21399A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21399A.obj) : 	 [C04-21399A.obj](./Model3d/obj/C04-21399A.obj)
+- Package 3d model x3d : 	 [C04-21399A.x3d](./Model3d/x3d/C04-21399A.x3d)
+- Package 3d model scad : 	 [C04-21399A.scad](./Model3d/scad/C04-21399A.scad)
+- Package 3d model usd : 	 [C04-21399A.usd](./Model3d/usd/C04-21399A.usd)
+- Package 3d model glb : 	 [C04-21399A.glb](./Model3d/glb/C04-21399A.glb)
+
+please check that some data is inconsistent 	 
 
 Pin count : 40
 - 1 : PB0,  of Type IO, alternates : [EXINT PCINT_8, PORTB P_0, TC0 T_, USART0 XCK_]
@@ -4620,6 +5261,18 @@ Pin count : 40
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00076C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 T4X
+- Package Type : 	 TQFP
+- Pin count : 	 44,00
+- Package Layout : 	 [C04-00076C.pdf](./mchp/packages/c04-00076c.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00076C.wrl) : 	 [C04-00076C.wrl](./Model3d/wrl/C04-00076C.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00076C.stl) : 	 [C04-00076C.stl](./Model3d/stl/C04-00076C.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00076C.obj) : 	 [C04-00076C.obj](./Model3d/obj/C04-00076C.obj)
+- Package 3d model x3d : 	 [C04-00076C.x3d](./Model3d/x3d/C04-00076C.x3d)
+- Package 3d model scad : 	 [C04-00076C.scad](./Model3d/scad/C04-00076C.scad)
+- Package 3d model usd : 	 [C04-00076C.usd](./Model3d/usd/C04-00076C.usd)
+- Package 3d model glb : 	 [C04-00076C.glb](./Model3d/glb/C04-00076C.glb)
 Pin count : 44
 - 1 : PB5,  of Type IO, alternates : [PORTB P_5, SPI MOSI_, EXINT PCINT_13]
 - 2 : PB6,  of Type IO, alternates : [EXINT PCINT_14, SPI MISO_, PORTB P_6]
@@ -4686,6 +5339,18 @@ Pin count : 44
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00076C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 T4X
+- Package Type : 	 TQFP
+- Pin count : 	 44,00
+- Package Layout : 	 [C04-00076C.pdf](./mchp/packages/c04-00076c.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00076C.wrl) : 	 [C04-00076C.wrl](./Model3d/wrl/C04-00076C.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00076C.stl) : 	 [C04-00076C.stl](./Model3d/stl/C04-00076C.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00076C.obj) : 	 [C04-00076C.obj](./Model3d/obj/C04-00076C.obj)
+- Package 3d model x3d : 	 [C04-00076C.x3d](./Model3d/x3d/C04-00076C.x3d)
+- Package 3d model scad : 	 [C04-00076C.scad](./Model3d/scad/C04-00076C.scad)
+- Package 3d model usd : 	 [C04-00076C.usd](./Model3d/usd/C04-00076C.usd)
+- Package 3d model glb : 	 [C04-00076C.glb](./Model3d/glb/C04-00076C.glb)
 Pin count : 44
 - 1 : PB5,  of Type IO, alternates : [PORTB P_5, SPI MOSI_, EXINT PCINT_13]
 - 2 : PB6,  of Type IO, alternates : [EXINT PCINT_14, SPI MISO_, PORTB P_6]
@@ -4751,6 +5416,21 @@ Pin count : 44
 - Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
+
+- Package Outline Drawings : 	 [C04-21399A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 S3B
+- Package Type : 	 VQFN
+- Pin count : 	 44,00
+- Package Layout : 	 [C04-21399A.pdf](./mchp/packages/c04-21399a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21399A.wrl) : 	 [C04-21399A.wrl](./Model3d/wrl/C04-21399A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21399A.stl) : 	 [C04-21399A.stl](./Model3d/stl/C04-21399A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21399A.obj) : 	 [C04-21399A.obj](./Model3d/obj/C04-21399A.obj)
+- Package 3d model x3d : 	 [C04-21399A.x3d](./Model3d/x3d/C04-21399A.x3d)
+- Package 3d model scad : 	 [C04-21399A.scad](./Model3d/scad/C04-21399A.scad)
+- Package 3d model usd : 	 [C04-21399A.usd](./Model3d/usd/C04-21399A.usd)
+- Package 3d model glb : 	 [C04-21399A.glb](./Model3d/glb/C04-21399A.glb)
+
+please check that some data is inconsistent 	 
 
 Pin count : 49
 - A1 : GND,  of Type PS
@@ -4823,6 +5503,18 @@ Pin count : 49
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-21399A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 S3B
+- Package Type : 	 VQFN
+- Pin count : 	 44,00
+- Package Layout : 	 [C04-21399A.pdf](./mchp/packages/c04-21399a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21399A.wrl) : 	 [C04-21399A.wrl](./Model3d/wrl/C04-21399A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21399A.stl) : 	 [C04-21399A.stl](./Model3d/stl/C04-21399A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21399A.obj) : 	 [C04-21399A.obj](./Model3d/obj/C04-21399A.obj)
+- Package 3d model x3d : 	 [C04-21399A.x3d](./Model3d/x3d/C04-21399A.x3d)
+- Package 3d model scad : 	 [C04-21399A.scad](./Model3d/scad/C04-21399A.scad)
+- Package 3d model usd : 	 [C04-21399A.usd](./Model3d/usd/C04-21399A.usd)
+- Package 3d model glb : 	 [C04-21399A.glb](./Model3d/glb/C04-21399A.glb)
 Pin count : 44
 - A1 : PB5,  of Type IO, alternates : [PORTB P_5, SPI MOSI_, EXINT PCINT_13]
 - B1 : PB6,  of Type IO, alternates : [EXINT PCINT_14, SPI MISO_, PORTB P_6]
@@ -4889,6 +5581,18 @@ Pin count : 44
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-21419A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 SSB
+- Package Type : 	 VQFN
+- Pin count : 	 44,00
+- Package Layout : 	 [C04-21419A.pdf](./mchp/packages/c04-21419a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21419A.wrl) : 	 [C04-21419A.wrl](./Model3d/wrl/C04-21419A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21419A.stl) : 	 [C04-21419A.stl](./Model3d/stl/C04-21419A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21419A.obj) : 	 [C04-21419A.obj](./Model3d/obj/C04-21419A.obj)
+- Package 3d model x3d : 	 [C04-21419A.x3d](./Model3d/x3d/C04-21419A.x3d)
+- Package 3d model scad : 	 [C04-21419A.scad](./Model3d/scad/C04-21419A.scad)
+- Package 3d model usd : 	 [C04-21419A.usd](./Model3d/usd/C04-21419A.usd)
+- Package 3d model glb : 	 [C04-21419A.glb](./Model3d/glb/C04-21419A.glb)
 Pin count : 44
 - 1 : PB5,  of Type IO, alternates : [PORTB P_5, SPI MOSI_, EXINT PCINT_13]
 - 2 : PB6,  of Type IO, alternates : [EXINT PCINT_14, SPI MISO_, PORTB P_6]
@@ -4955,6 +5659,18 @@ Pin count : 44
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-21419A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 SSB
+- Package Type : 	 VQFN
+- Pin count : 	 44,00
+- Package Layout : 	 [C04-21419A.pdf](./mchp/packages/c04-21419a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21419A.wrl) : 	 [C04-21419A.wrl](./Model3d/wrl/C04-21419A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21419A.stl) : 	 [C04-21419A.stl](./Model3d/stl/C04-21419A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21419A.obj) : 	 [C04-21419A.obj](./Model3d/obj/C04-21419A.obj)
+- Package 3d model x3d : 	 [C04-21419A.x3d](./Model3d/x3d/C04-21419A.x3d)
+- Package 3d model scad : 	 [C04-21419A.scad](./Model3d/scad/C04-21419A.scad)
+- Package 3d model usd : 	 [C04-21419A.usd](./Model3d/usd/C04-21419A.usd)
+- Package 3d model glb : 	 [C04-21419A.glb](./Model3d/glb/C04-21419A.glb)
 Pin count : 44
 - 1 : PB5,  of Type IO, alternates : [PORTB P_5, SPI MOSI_, EXINT PCINT_13]
 - 2 : PB6,  of Type IO, alternates : [EXINT PCINT_14, SPI MISO_, PORTB P_6]
@@ -5021,6 +5737,21 @@ Pin count : 44
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-21399A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 S3B
+- Package Type : 	 VQFN
+- Pin count : 	 44,00
+- Package Layout : 	 [C04-21399A.pdf](./mchp/packages/c04-21399a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21399A.wrl) : 	 [C04-21399A.wrl](./Model3d/wrl/C04-21399A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21399A.stl) : 	 [C04-21399A.stl](./Model3d/stl/C04-21399A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21399A.obj) : 	 [C04-21399A.obj](./Model3d/obj/C04-21399A.obj)
+- Package 3d model x3d : 	 [C04-21399A.x3d](./Model3d/x3d/C04-21399A.x3d)
+- Package 3d model scad : 	 [C04-21399A.scad](./Model3d/scad/C04-21399A.scad)
+- Package 3d model usd : 	 [C04-21399A.usd](./Model3d/usd/C04-21399A.usd)
+- Package 3d model glb : 	 [C04-21399A.glb](./Model3d/glb/C04-21399A.glb)
+
+please check that some data is inconsistent 	 
+
 Pin count : 40
 - 1 : PB0,  of Type IO, alternates : [EXINT PCINT_8, PORTB P_0, TC0 T_, USART0 XCK_]
 - 2 : PB1,  of Type IO, alternates : [EXINT PCINT_9, PORTB P_1, TC1 T_, CPU CLKO_0]
@@ -5083,6 +5814,21 @@ Pin count : 40
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-21399A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 S3B
+- Package Type : 	 VQFN
+- Pin count : 	 44,00
+- Package Layout : 	 [C04-21399A.pdf](./mchp/packages/c04-21399a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21399A.wrl) : 	 [C04-21399A.wrl](./Model3d/wrl/C04-21399A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21399A.stl) : 	 [C04-21399A.stl](./Model3d/stl/C04-21399A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21399A.obj) : 	 [C04-21399A.obj](./Model3d/obj/C04-21399A.obj)
+- Package 3d model x3d : 	 [C04-21399A.x3d](./Model3d/x3d/C04-21399A.x3d)
+- Package 3d model scad : 	 [C04-21399A.scad](./Model3d/scad/C04-21399A.scad)
+- Package 3d model usd : 	 [C04-21399A.usd](./Model3d/usd/C04-21399A.usd)
+- Package 3d model glb : 	 [C04-21399A.glb](./Model3d/glb/C04-21399A.glb)
+
+please check that some data is inconsistent 	 
+
 Pin count : 40
 - 1 : PB0,  of Type IO, alternates : [EXINT PCINT_8, PORTB P_0, TC0 T_, USART0 XCK_]
 - 2 : PB1,  of Type IO, alternates : [EXINT PCINT_9, PORTB P_1, TC1 T_, CPU CLKO_0]
@@ -5144,6 +5890,21 @@ Pin count : 40
 - Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
+
+- Package Outline Drawings : 	 [C04-21419A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 SSB
+- Package Type : 	 VQFN
+- Pin count : 	 44,00
+- Package Layout : 	 [C04-21419A.pdf](./mchp/packages/c04-21419a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21419A.wrl) : 	 [C04-21419A.wrl](./Model3d/wrl/C04-21419A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21419A.stl) : 	 [C04-21419A.stl](./Model3d/stl/C04-21419A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21419A.obj) : 	 [C04-21419A.obj](./Model3d/obj/C04-21419A.obj)
+- Package 3d model x3d : 	 [C04-21419A.x3d](./Model3d/x3d/C04-21419A.x3d)
+- Package 3d model scad : 	 [C04-21419A.scad](./Model3d/scad/C04-21419A.scad)
+- Package 3d model usd : 	 [C04-21419A.usd](./Model3d/usd/C04-21419A.usd)
+- Package 3d model glb : 	 [C04-21419A.glb](./Model3d/glb/C04-21419A.glb)
+
+please check that some data is inconsistent 	 
 
 Pin count : 44
 - 1 : PB5,  of Type IO, alternates : [PORTB P_5, SPI MOSI_, EXINT PCINT_13]
@@ -5211,6 +5972,18 @@ Pin count : 44
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00076C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 T4X
+- Package Type : 	 TQFP
+- Pin count : 	 44,00
+- Package Layout : 	 [C04-00076C.pdf](./mchp/packages/c04-00076c.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00076C.wrl) : 	 [C04-00076C.wrl](./Model3d/wrl/C04-00076C.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00076C.stl) : 	 [C04-00076C.stl](./Model3d/stl/C04-00076C.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00076C.obj) : 	 [C04-00076C.obj](./Model3d/obj/C04-00076C.obj)
+- Package 3d model x3d : 	 [C04-00076C.x3d](./Model3d/x3d/C04-00076C.x3d)
+- Package 3d model scad : 	 [C04-00076C.scad](./Model3d/scad/C04-00076C.scad)
+- Package 3d model usd : 	 [C04-00076C.usd](./Model3d/usd/C04-00076C.usd)
+- Package 3d model glb : 	 [C04-00076C.glb](./Model3d/glb/C04-00076C.glb)
 Pin count : 44
 - 1 : PB5,  of Type IO, alternates : [PORTB P_5, SPI MOSI_, EXINT PCINT_13]
 - 2 : PB6,  of Type IO, alternates : [EXINT PCINT_14, SPI MISO_, PORTB P_6]
@@ -5277,6 +6050,18 @@ Pin count : 44
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-21419A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 SSB
+- Package Type : 	 VQFN
+- Pin count : 	 44,00
+- Package Layout : 	 [C04-21419A.pdf](./mchp/packages/c04-21419a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21419A.wrl) : 	 [C04-21419A.wrl](./Model3d/wrl/C04-21419A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21419A.stl) : 	 [C04-21419A.stl](./Model3d/stl/C04-21419A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21419A.obj) : 	 [C04-21419A.obj](./Model3d/obj/C04-21419A.obj)
+- Package 3d model x3d : 	 [C04-21419A.x3d](./Model3d/x3d/C04-21419A.x3d)
+- Package 3d model scad : 	 [C04-21419A.scad](./Model3d/scad/C04-21419A.scad)
+- Package 3d model usd : 	 [C04-21419A.usd](./Model3d/usd/C04-21419A.usd)
+- Package 3d model glb : 	 [C04-21419A.glb](./Model3d/glb/C04-21419A.glb)
 Pin count : 44
 - 1 : PB5,  of Type IO, alternates : [PORTB P_5, SPI MOSI_, EXINT PCINT_13]
 - 2 : PB6,  of Type IO, alternates : [EXINT PCINT_14, SPI MISO_, PORTB P_6]
@@ -5343,6 +6128,21 @@ Pin count : 44
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-21419A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 SSB
+- Package Type : 	 VQFN
+- Pin count : 	 44,00
+- Package Layout : 	 [C04-21419A.pdf](./mchp/packages/c04-21419a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21419A.wrl) : 	 [C04-21419A.wrl](./Model3d/wrl/C04-21419A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21419A.stl) : 	 [C04-21419A.stl](./Model3d/stl/C04-21419A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21419A.obj) : 	 [C04-21419A.obj](./Model3d/obj/C04-21419A.obj)
+- Package 3d model x3d : 	 [C04-21419A.x3d](./Model3d/x3d/C04-21419A.x3d)
+- Package 3d model scad : 	 [C04-21419A.scad](./Model3d/scad/C04-21419A.scad)
+- Package 3d model usd : 	 [C04-21419A.usd](./Model3d/usd/C04-21419A.usd)
+- Package 3d model glb : 	 [C04-21419A.glb](./Model3d/glb/C04-21419A.glb)
+
+please check that some data is inconsistent 	 
+
 Pin count : 40
 - 1 : PB0,  of Type IO, alternates : [EXINT PCINT_8, PORTB P_0, TC0 T_, USART0 XCK_]
 - 2 : PB1,  of Type IO, alternates : [EXINT PCINT_9, PORTB P_1, TC1 T_, CPU CLKO_0]
@@ -5404,6 +6204,21 @@ Pin count : 40
 - Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
+
+- Package Outline Drawings : 	 [C04-21419A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 SSB
+- Package Type : 	 VQFN
+- Pin count : 	 44,00
+- Package Layout : 	 [C04-21419A.pdf](./mchp/packages/c04-21419a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21419A.wrl) : 	 [C04-21419A.wrl](./Model3d/wrl/C04-21419A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21419A.stl) : 	 [C04-21419A.stl](./Model3d/stl/C04-21419A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21419A.obj) : 	 [C04-21419A.obj](./Model3d/obj/C04-21419A.obj)
+- Package 3d model x3d : 	 [C04-21419A.x3d](./Model3d/x3d/C04-21419A.x3d)
+- Package 3d model scad : 	 [C04-21419A.scad](./Model3d/scad/C04-21419A.scad)
+- Package 3d model usd : 	 [C04-21419A.usd](./Model3d/usd/C04-21419A.usd)
+- Package 3d model glb : 	 [C04-21419A.glb](./Model3d/glb/C04-21419A.glb)
+
+please check that some data is inconsistent 	 
 
 Pin count : 40
 - 1 : PB0,  of Type IO, alternates : [EXINT PCINT_8, PORTB P_0, TC0 T_, USART0 XCK_]
@@ -5467,6 +6282,18 @@ Pin count : 40
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00074D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 T5X
+- Package Type : 	 TQFP
+- Pin count : 	 32,00
+- Package Layout : 	 [C04-00074D.pdf](./mchp/packages/c04-00074d.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00074D.wrl) : 	 [C04-00074D.wrl](./Model3d/wrl/C04-00074D.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00074D.stl) : 	 [C04-00074D.stl](./Model3d/stl/C04-00074D.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00074D.obj) : 	 [C04-00074D.obj](./Model3d/obj/C04-00074D.obj)
+- Package 3d model x3d : 	 [C04-00074D.x3d](./Model3d/x3d/C04-00074D.x3d)
+- Package 3d model scad : 	 [C04-00074D.scad](./Model3d/scad/C04-00074D.scad)
+- Package 3d model usd : 	 [C04-00074D.usd](./Model3d/usd/C04-00074D.usd)
+- Package 3d model glb : 	 [C04-00074D.glb](./Model3d/glb/C04-00074D.glb)
 Pin count : 32
 - 1 : PD3,  of Type IO, alternates : [TC2 OCB_, PORTD P_3, EXINT PCINT_19, EXINT INT_1]
 - 2 : PD4,  of Type IO, alternates : [EXINT PCINT_20, TC0 T_, USART0 XCK_, PORTD P_4]
@@ -5521,6 +6348,18 @@ Pin count : 32
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-21395C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 RXB
+- Package Type : 	 VQFN
+- Pin count : 	 32,00
+- Package Layout : 	 [C04-21395C.pdf](./mchp/packages/c04-21395c.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21395C.wrl) : 	 [C04-21395C.wrl](./Model3d/wrl/C04-21395C.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21395C.stl) : 	 [C04-21395C.stl](./Model3d/stl/C04-21395C.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21395C.obj) : 	 [C04-21395C.obj](./Model3d/obj/C04-21395C.obj)
+- Package 3d model x3d : 	 [C04-21395C.x3d](./Model3d/x3d/C04-21395C.x3d)
+- Package 3d model scad : 	 [C04-21395C.scad](./Model3d/scad/C04-21395C.scad)
+- Package 3d model usd : 	 [C04-21395C.usd](./Model3d/usd/C04-21395C.usd)
+- Package 3d model glb : 	 [C04-21395C.glb](./Model3d/glb/C04-21395C.glb)
 Pin count : 32
 - 1 : PD3,  of Type IO, alternates : [TC2 OCB_, PORTD P_3, EXINT PCINT_19, EXINT INT_1]
 - 2 : PD4,  of Type IO, alternates : [EXINT PCINT_20, TC0 T_, USART0 XCK_, PORTD P_4]
@@ -5575,6 +6414,11 @@ Pin count : 32
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00070B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 M3X
+- Package Type : 	 SPDIP
+- Pin count : 	 28,00
+- Package Layout : 	 [C04-00070B.pdf](./mchp/packages/c04-00070b.pdf)
 Pin count : 28
 - 1 : PC6,  of Type IO, alternates : [EXINT PCINT_14, PORTC P_6]
 - 2 : PD0,  of Type IO, alternates : [PORTD P_0, USART0 RXD_, EXINT PCINT_16]
@@ -5625,6 +6469,18 @@ Pin count : 28
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00074D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 T5X
+- Package Type : 	 TQFP
+- Pin count : 	 32,00
+- Package Layout : 	 [C04-00074D.pdf](./mchp/packages/c04-00074d.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00074D.wrl) : 	 [C04-00074D.wrl](./Model3d/wrl/C04-00074D.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00074D.stl) : 	 [C04-00074D.stl](./Model3d/stl/C04-00074D.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00074D.obj) : 	 [C04-00074D.obj](./Model3d/obj/C04-00074D.obj)
+- Package 3d model x3d : 	 [C04-00074D.x3d](./Model3d/x3d/C04-00074D.x3d)
+- Package 3d model scad : 	 [C04-00074D.scad](./Model3d/scad/C04-00074D.scad)
+- Package 3d model usd : 	 [C04-00074D.usd](./Model3d/usd/C04-00074D.usd)
+- Package 3d model glb : 	 [C04-00074D.glb](./Model3d/glb/C04-00074D.glb)
 Pin count : 32
 - 1 : PD3,  of Type IO, alternates : [TC2 OCB_, PORTD P_3, EXINT PCINT_19, EXINT INT_1]
 - 2 : PD4,  of Type IO, alternates : [EXINT PCINT_20, TC0 T_, USART0 XCK_, PORTD P_4]
@@ -5679,6 +6535,14 @@ Pin count : 32
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00070B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 M3X
+- Package Type : 	 SPDIP
+- Pin count : 	 28,00
+- Package Layout : 	 [C04-00070B.pdf](./mchp/packages/c04-00070b.pdf)
+
+please check that some data is inconsistent 	 
+
 Pin count : 31
 - B1 : PD3,  of Type IO, alternates : [TC2 OCB_, PORTD P_3, EXINT PCINT_19, EXINT INT_1]
 - B2 : PD4,  of Type IO, alternates : [EXINT PCINT_20, TC0 T_, USART0 XCK_, PORTD P_4]
@@ -5732,6 +6596,18 @@ Pin count : 31
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-21388A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 RPB
+- Package Type : 	 VQFN
+- Pin count : 	 28,00
+- Package Layout : 	 [C04-21388A.pdf](./mchp/packages/c04-21388a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21388A.wrl) : 	 [C04-21388A.wrl](./Model3d/wrl/C04-21388A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21388A.stl) : 	 [C04-21388A.stl](./Model3d/stl/C04-21388A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21388A.obj) : 	 [C04-21388A.obj](./Model3d/obj/C04-21388A.obj)
+- Package 3d model x3d : 	 [C04-21388A.x3d](./Model3d/x3d/C04-21388A.x3d)
+- Package 3d model scad : 	 [C04-21388A.scad](./Model3d/scad/C04-21388A.scad)
+- Package 3d model usd : 	 [C04-21388A.usd](./Model3d/usd/C04-21388A.usd)
+- Package 3d model glb : 	 [C04-21388A.glb](./Model3d/glb/C04-21388A.glb)
 Pin count : 28
 - 1 : PD3,  of Type IO, alternates : [TC2 OCB_, PORTD P_3, EXINT PCINT_19, EXINT INT_1]
 - 2 : PD4,  of Type IO, alternates : [EXINT PCINT_20, TC0 T_, USART0 XCK_, PORTD P_4]
@@ -5782,6 +6658,18 @@ Pin count : 28
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-21395C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 RXB
+- Package Type : 	 VQFN
+- Pin count : 	 32,00
+- Package Layout : 	 [C04-21395C.pdf](./mchp/packages/c04-21395c.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21395C.wrl) : 	 [C04-21395C.wrl](./Model3d/wrl/C04-21395C.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21395C.stl) : 	 [C04-21395C.stl](./Model3d/stl/C04-21395C.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21395C.obj) : 	 [C04-21395C.obj](./Model3d/obj/C04-21395C.obj)
+- Package 3d model x3d : 	 [C04-21395C.x3d](./Model3d/x3d/C04-21395C.x3d)
+- Package 3d model scad : 	 [C04-21395C.scad](./Model3d/scad/C04-21395C.scad)
+- Package 3d model usd : 	 [C04-21395C.usd](./Model3d/usd/C04-21395C.usd)
+- Package 3d model glb : 	 [C04-21395C.glb](./Model3d/glb/C04-21395C.glb)
 Pin count : 32
 - 1 : PD3,  of Type IO, alternates : [TC2 OCB_, PORTD P_3, EXINT PCINT_19, EXINT INT_1]
 - 2 : PD4,  of Type IO, alternates : [EXINT PCINT_20, TC0 T_, USART0 XCK_, PORTD P_4]
@@ -5836,6 +6724,11 @@ Pin count : 32
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00070B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 M3X
+- Package Type : 	 SPDIP
+- Pin count : 	 28,00
+- Package Layout : 	 [C04-00070B.pdf](./mchp/packages/c04-00070b.pdf)
 Pin count : 28
 - 1 : PC6,  of Type IO, alternates : [EXINT PCINT_14, PORTC P_6]
 - 2 : PD0,  of Type IO, alternates : [PORTD P_0, USART0 RXD_, EXINT PCINT_16]
@@ -5886,6 +6779,18 @@ Pin count : 28
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00074D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 T5X
+- Package Type : 	 TQFP
+- Pin count : 	 32,00
+- Package Layout : 	 [C04-00074D.pdf](./mchp/packages/c04-00074d.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00074D.wrl) : 	 [C04-00074D.wrl](./Model3d/wrl/C04-00074D.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00074D.stl) : 	 [C04-00074D.stl](./Model3d/stl/C04-00074D.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00074D.obj) : 	 [C04-00074D.obj](./Model3d/obj/C04-00074D.obj)
+- Package 3d model x3d : 	 [C04-00074D.x3d](./Model3d/x3d/C04-00074D.x3d)
+- Package 3d model scad : 	 [C04-00074D.scad](./Model3d/scad/C04-00074D.scad)
+- Package 3d model usd : 	 [C04-00074D.usd](./Model3d/usd/C04-00074D.usd)
+- Package 3d model glb : 	 [C04-00074D.glb](./Model3d/glb/C04-00074D.glb)
 Pin count : 32
 - 1 : PD3,  of Type IO, alternates : [TC2 OCB_, PORTD P_3, EXINT PCINT_19, EXINT INT_1]
 - 2 : PD4,  of Type IO, alternates : [EXINT PCINT_20, TC0 T_, USART0 XCK_, PORTD P_4]
@@ -5940,6 +6845,18 @@ Pin count : 32
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-21395C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 RXB
+- Package Type : 	 VQFN
+- Pin count : 	 32,00
+- Package Layout : 	 [C04-21395C.pdf](./mchp/packages/c04-21395c.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21395C.wrl) : 	 [C04-21395C.wrl](./Model3d/wrl/C04-21395C.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21395C.stl) : 	 [C04-21395C.stl](./Model3d/stl/C04-21395C.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21395C.obj) : 	 [C04-21395C.obj](./Model3d/obj/C04-21395C.obj)
+- Package 3d model x3d : 	 [C04-21395C.x3d](./Model3d/x3d/C04-21395C.x3d)
+- Package 3d model scad : 	 [C04-21395C.scad](./Model3d/scad/C04-21395C.scad)
+- Package 3d model usd : 	 [C04-21395C.usd](./Model3d/usd/C04-21395C.usd)
+- Package 3d model glb : 	 [C04-21395C.glb](./Model3d/glb/C04-21395C.glb)
 Pin count : 32
 - 1 : PD3,  of Type IO, alternates : [TC2 OCB_, PORTD P_3, EXINT PCINT_19, EXINT INT_1]
 - 2 : PD4,  of Type IO, alternates : [EXINT PCINT_20, TC0 T_, USART0 XCK_, PORTD P_4]
@@ -5994,6 +6911,21 @@ Pin count : 32
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00074D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 T5X
+- Package Type : 	 TQFP
+- Pin count : 	 32,00
+- Package Layout : 	 [C04-00074D.pdf](./mchp/packages/c04-00074d.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00074D.wrl) : 	 [C04-00074D.wrl](./Model3d/wrl/C04-00074D.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00074D.stl) : 	 [C04-00074D.stl](./Model3d/stl/C04-00074D.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00074D.obj) : 	 [C04-00074D.obj](./Model3d/obj/C04-00074D.obj)
+- Package 3d model x3d : 	 [C04-00074D.x3d](./Model3d/x3d/C04-00074D.x3d)
+- Package 3d model scad : 	 [C04-00074D.scad](./Model3d/scad/C04-00074D.scad)
+- Package 3d model usd : 	 [C04-00074D.usd](./Model3d/usd/C04-00074D.usd)
+- Package 3d model glb : 	 [C04-00074D.glb](./Model3d/glb/C04-00074D.glb)
+
+please check that some data is inconsistent 	 
+
 Pin count : 28
 - 1 : PC6,  of Type IO, alternates : [EXINT PCINT_14, PORTC P_6]
 - 2 : PD0,  of Type IO, alternates : [PORTD P_0, USART0 RXD_, EXINT PCINT_16]
@@ -6044,6 +6976,18 @@ Pin count : 28
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00074D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 T5X
+- Package Type : 	 TQFP
+- Pin count : 	 32,00
+- Package Layout : 	 [C04-00074D.pdf](./mchp/packages/c04-00074d.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00074D.wrl) : 	 [C04-00074D.wrl](./Model3d/wrl/C04-00074D.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00074D.stl) : 	 [C04-00074D.stl](./Model3d/stl/C04-00074D.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00074D.obj) : 	 [C04-00074D.obj](./Model3d/obj/C04-00074D.obj)
+- Package 3d model x3d : 	 [C04-00074D.x3d](./Model3d/x3d/C04-00074D.x3d)
+- Package 3d model scad : 	 [C04-00074D.scad](./Model3d/scad/C04-00074D.scad)
+- Package 3d model usd : 	 [C04-00074D.usd](./Model3d/usd/C04-00074D.usd)
+- Package 3d model glb : 	 [C04-00074D.glb](./Model3d/glb/C04-00074D.glb)
 Pin count : 32
 - 1 : PD3,  of Type IO, alternates : [TC2 OCB_, PORTD P_3, EXINT PCINT_19, EXINT INT_1]
 - 2 : PD4,  of Type IO, alternates : [EXINT PCINT_20, TC0 T_, USART0 XCK_, PORTD P_4]
@@ -6098,6 +7042,18 @@ Pin count : 32
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00074D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 T5X
+- Package Type : 	 TQFP
+- Pin count : 	 32,00
+- Package Layout : 	 [C04-00074D.pdf](./mchp/packages/c04-00074d.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00074D.wrl) : 	 [C04-00074D.wrl](./Model3d/wrl/C04-00074D.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00074D.stl) : 	 [C04-00074D.stl](./Model3d/stl/C04-00074D.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00074D.obj) : 	 [C04-00074D.obj](./Model3d/obj/C04-00074D.obj)
+- Package 3d model x3d : 	 [C04-00074D.x3d](./Model3d/x3d/C04-00074D.x3d)
+- Package 3d model scad : 	 [C04-00074D.scad](./Model3d/scad/C04-00074D.scad)
+- Package 3d model usd : 	 [C04-00074D.usd](./Model3d/usd/C04-00074D.usd)
+- Package 3d model glb : 	 [C04-00074D.glb](./Model3d/glb/C04-00074D.glb)
 Pin count : 32
 - 1 : PD3,  of Type IO, alternates : [TC2 OCB_, PORTD P_3, EXINT PCINT_19, EXINT INT_1]
 - 2 : PD4,  of Type IO, alternates : [EXINT PCINT_20, TC0 T_, USART0 XCK_, PORTD P_4]
@@ -6152,6 +7108,21 @@ Pin count : 32
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00074D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 T5X
+- Package Type : 	 TQFP
+- Pin count : 	 32,00
+- Package Layout : 	 [C04-00074D.pdf](./mchp/packages/c04-00074d.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00074D.wrl) : 	 [C04-00074D.wrl](./Model3d/wrl/C04-00074D.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00074D.stl) : 	 [C04-00074D.stl](./Model3d/stl/C04-00074D.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00074D.obj) : 	 [C04-00074D.obj](./Model3d/obj/C04-00074D.obj)
+- Package 3d model x3d : 	 [C04-00074D.x3d](./Model3d/x3d/C04-00074D.x3d)
+- Package 3d model scad : 	 [C04-00074D.scad](./Model3d/scad/C04-00074D.scad)
+- Package 3d model usd : 	 [C04-00074D.usd](./Model3d/usd/C04-00074D.usd)
+- Package 3d model glb : 	 [C04-00074D.glb](./Model3d/glb/C04-00074D.glb)
+
+please check that some data is inconsistent 	 
+
 Pin count : 31
 - B1 : PD3,  of Type IO, alternates : [TC2 OCB_, PORTD P_3, EXINT PCINT_19, EXINT INT_1]
 - B2 : PD4,  of Type IO, alternates : [EXINT PCINT_20, TC0 T_, USART0 XCK_, PORTD P_4]
@@ -6205,6 +7176,18 @@ Pin count : 31
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-21388A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 RPB
+- Package Type : 	 VQFN
+- Pin count : 	 28,00
+- Package Layout : 	 [C04-21388A.pdf](./mchp/packages/c04-21388a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21388A.wrl) : 	 [C04-21388A.wrl](./Model3d/wrl/C04-21388A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21388A.stl) : 	 [C04-21388A.stl](./Model3d/stl/C04-21388A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21388A.obj) : 	 [C04-21388A.obj](./Model3d/obj/C04-21388A.obj)
+- Package 3d model x3d : 	 [C04-21388A.x3d](./Model3d/x3d/C04-21388A.x3d)
+- Package 3d model scad : 	 [C04-21388A.scad](./Model3d/scad/C04-21388A.scad)
+- Package 3d model usd : 	 [C04-21388A.usd](./Model3d/usd/C04-21388A.usd)
+- Package 3d model glb : 	 [C04-21388A.glb](./Model3d/glb/C04-21388A.glb)
 Pin count : 28
 - 1 : PD3,  of Type IO, alternates : [TC2 OCB_, PORTD P_3, EXINT PCINT_19, EXINT INT_1]
 - 2 : PD4,  of Type IO, alternates : [EXINT PCINT_20, TC0 T_, USART0 XCK_, PORTD P_4]
@@ -6255,6 +7238,18 @@ Pin count : 28
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-21395C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 RXB
+- Package Type : 	 VQFN
+- Pin count : 	 32,00
+- Package Layout : 	 [C04-21395C.pdf](./mchp/packages/c04-21395c.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21395C.wrl) : 	 [C04-21395C.wrl](./Model3d/wrl/C04-21395C.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21395C.stl) : 	 [C04-21395C.stl](./Model3d/stl/C04-21395C.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21395C.obj) : 	 [C04-21395C.obj](./Model3d/obj/C04-21395C.obj)
+- Package 3d model x3d : 	 [C04-21395C.x3d](./Model3d/x3d/C04-21395C.x3d)
+- Package 3d model scad : 	 [C04-21395C.scad](./Model3d/scad/C04-21395C.scad)
+- Package 3d model usd : 	 [C04-21395C.usd](./Model3d/usd/C04-21395C.usd)
+- Package 3d model glb : 	 [C04-21395C.glb](./Model3d/glb/C04-21395C.glb)
 Pin count : 32
 - 1 : PD3,  of Type IO, alternates : [TC2 OCB_, PORTD P_3, EXINT PCINT_19, EXINT INT_1]
 - 2 : PD4,  of Type IO, alternates : [EXINT PCINT_20, TC0 T_, USART0 XCK_, PORTD P_4]
@@ -6309,6 +7304,18 @@ Pin count : 32
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-21395C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 RXB
+- Package Type : 	 VQFN
+- Pin count : 	 32,00
+- Package Layout : 	 [C04-21395C.pdf](./mchp/packages/c04-21395c.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21395C.wrl) : 	 [C04-21395C.wrl](./Model3d/wrl/C04-21395C.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21395C.stl) : 	 [C04-21395C.stl](./Model3d/stl/C04-21395C.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21395C.obj) : 	 [C04-21395C.obj](./Model3d/obj/C04-21395C.obj)
+- Package 3d model x3d : 	 [C04-21395C.x3d](./Model3d/x3d/C04-21395C.x3d)
+- Package 3d model scad : 	 [C04-21395C.scad](./Model3d/scad/C04-21395C.scad)
+- Package 3d model usd : 	 [C04-21395C.usd](./Model3d/usd/C04-21395C.usd)
+- Package 3d model glb : 	 [C04-21395C.glb](./Model3d/glb/C04-21395C.glb)
 Pin count : 32
 - 1 : PD3,  of Type IO, alternates : [TC2 OCB_, PORTD P_3, EXINT PCINT_19, EXINT INT_1]
 - 2 : PD4,  of Type IO, alternates : [EXINT PCINT_20, TC0 T_, USART0 XCK_, PORTD P_4]
@@ -6363,6 +7370,21 @@ Pin count : 32
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00074D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 T5X
+- Package Type : 	 TQFP
+- Pin count : 	 32,00
+- Package Layout : 	 [C04-00074D.pdf](./mchp/packages/c04-00074d.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00074D.wrl) : 	 [C04-00074D.wrl](./Model3d/wrl/C04-00074D.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00074D.stl) : 	 [C04-00074D.stl](./Model3d/stl/C04-00074D.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00074D.obj) : 	 [C04-00074D.obj](./Model3d/obj/C04-00074D.obj)
+- Package 3d model x3d : 	 [C04-00074D.x3d](./Model3d/x3d/C04-00074D.x3d)
+- Package 3d model scad : 	 [C04-00074D.scad](./Model3d/scad/C04-00074D.scad)
+- Package 3d model usd : 	 [C04-00074D.usd](./Model3d/usd/C04-00074D.usd)
+- Package 3d model glb : 	 [C04-00074D.glb](./Model3d/glb/C04-00074D.glb)
+
+please check that some data is inconsistent 	 
+
 Pin count : 28
 - 1 : PC6,  of Type IO, alternates : [EXINT PCINT_14, PORTC P_6]
 - 2 : PD0,  of Type IO, alternates : [PORTD P_0, USART0 RXD_, EXINT PCINT_16]
@@ -6413,6 +7435,11 @@ Pin count : 28
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00070B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 M3X
+- Package Type : 	 SPDIP
+- Pin count : 	 28,00
+- Package Layout : 	 [C04-00070B.pdf](./mchp/packages/c04-00070b.pdf)
 Pin count : 28
 - 1 : PC6,  of Type IO, alternates : [EXINT PCINT_14, PORTC P_6]
 - 2 : PD0,  of Type IO, alternates : [PORTD P_0, USART0 RXD_, EXINT PCINT_16]
@@ -6463,6 +7490,18 @@ Pin count : 28
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00074D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 T5X
+- Package Type : 	 TQFP
+- Pin count : 	 32,00
+- Package Layout : 	 [C04-00074D.pdf](./mchp/packages/c04-00074d.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00074D.wrl) : 	 [C04-00074D.wrl](./Model3d/wrl/C04-00074D.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00074D.stl) : 	 [C04-00074D.stl](./Model3d/stl/C04-00074D.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00074D.obj) : 	 [C04-00074D.obj](./Model3d/obj/C04-00074D.obj)
+- Package 3d model x3d : 	 [C04-00074D.x3d](./Model3d/x3d/C04-00074D.x3d)
+- Package 3d model scad : 	 [C04-00074D.scad](./Model3d/scad/C04-00074D.scad)
+- Package 3d model usd : 	 [C04-00074D.usd](./Model3d/usd/C04-00074D.usd)
+- Package 3d model glb : 	 [C04-00074D.glb](./Model3d/glb/C04-00074D.glb)
 Pin count : 32
 - 1 : PD3,  of Type IO, alternates : [TC2 OCB_, PORTD P_3, EXINT PCINT_19, EXINT INT_1]
 - 2 : PD4,  of Type IO, alternates : [EXINT PCINT_20, TC0 T_, USART0 XCK_, PORTD P_4]
@@ -6517,6 +7556,18 @@ Pin count : 32
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00074D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 T5X
+- Package Type : 	 TQFP
+- Pin count : 	 32,00
+- Package Layout : 	 [C04-00074D.pdf](./mchp/packages/c04-00074d.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00074D.wrl) : 	 [C04-00074D.wrl](./Model3d/wrl/C04-00074D.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00074D.stl) : 	 [C04-00074D.stl](./Model3d/stl/C04-00074D.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00074D.obj) : 	 [C04-00074D.obj](./Model3d/obj/C04-00074D.obj)
+- Package 3d model x3d : 	 [C04-00074D.x3d](./Model3d/x3d/C04-00074D.x3d)
+- Package 3d model scad : 	 [C04-00074D.scad](./Model3d/scad/C04-00074D.scad)
+- Package 3d model usd : 	 [C04-00074D.usd](./Model3d/usd/C04-00074D.usd)
+- Package 3d model glb : 	 [C04-00074D.glb](./Model3d/glb/C04-00074D.glb)
 Pin count : 32
 - 1 : PD3,  of Type IO, alternates : [TC2 OCB_, PORTD P_3, EXINT PCINT_19, EXINT INT_1]
 - 2 : PD4,  of Type IO, alternates : [EXINT PCINT_20, TC0 T_, USART0 XCK_, PORTD P_4]
@@ -6571,6 +7622,18 @@ Pin count : 32
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-21395C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 RXB
+- Package Type : 	 VQFN
+- Pin count : 	 32,00
+- Package Layout : 	 [C04-21395C.pdf](./mchp/packages/c04-21395c.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21395C.wrl) : 	 [C04-21395C.wrl](./Model3d/wrl/C04-21395C.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21395C.stl) : 	 [C04-21395C.stl](./Model3d/stl/C04-21395C.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21395C.obj) : 	 [C04-21395C.obj](./Model3d/obj/C04-21395C.obj)
+- Package 3d model x3d : 	 [C04-21395C.x3d](./Model3d/x3d/C04-21395C.x3d)
+- Package 3d model scad : 	 [C04-21395C.scad](./Model3d/scad/C04-21395C.scad)
+- Package 3d model usd : 	 [C04-21395C.usd](./Model3d/usd/C04-21395C.usd)
+- Package 3d model glb : 	 [C04-21395C.glb](./Model3d/glb/C04-21395C.glb)
 Pin count : 32
 - 1 : PD3,  of Type IO, alternates : [TC2 OCB_, PORTD P_3, EXINT PCINT_19, EXINT INT_1]
 - 2 : PD4,  of Type IO, alternates : [EXINT PCINT_20, TC0 T_, USART0 XCK_, PORTD P_4]
@@ -6625,6 +7688,18 @@ Pin count : 32
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-21395C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 RXB
+- Package Type : 	 VQFN
+- Pin count : 	 32,00
+- Package Layout : 	 [C04-21395C.pdf](./mchp/packages/c04-21395c.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21395C.wrl) : 	 [C04-21395C.wrl](./Model3d/wrl/C04-21395C.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21395C.stl) : 	 [C04-21395C.stl](./Model3d/stl/C04-21395C.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21395C.obj) : 	 [C04-21395C.obj](./Model3d/obj/C04-21395C.obj)
+- Package 3d model x3d : 	 [C04-21395C.x3d](./Model3d/x3d/C04-21395C.x3d)
+- Package 3d model scad : 	 [C04-21395C.scad](./Model3d/scad/C04-21395C.scad)
+- Package 3d model usd : 	 [C04-21395C.usd](./Model3d/usd/C04-21395C.usd)
+- Package 3d model glb : 	 [C04-21395C.glb](./Model3d/glb/C04-21395C.glb)
 Pin count : 32
 - 1 : PD3,  of Type IO, alternates : [TC2 OCB_, PORTD P_3, EXINT PCINT_19, EXINT INT_1]
 - 2 : PD4,  of Type IO, alternates : [EXINT PCINT_20, TC0 T_, USART0 XCK_, PORTD P_4]
@@ -6679,6 +7754,18 @@ Pin count : 32
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00074D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 T5X
+- Package Type : 	 TQFP
+- Pin count : 	 32,00
+- Package Layout : 	 [C04-00074D.pdf](./mchp/packages/c04-00074d.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00074D.wrl) : 	 [C04-00074D.wrl](./Model3d/wrl/C04-00074D.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00074D.stl) : 	 [C04-00074D.stl](./Model3d/stl/C04-00074D.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00074D.obj) : 	 [C04-00074D.obj](./Model3d/obj/C04-00074D.obj)
+- Package 3d model x3d : 	 [C04-00074D.x3d](./Model3d/x3d/C04-00074D.x3d)
+- Package 3d model scad : 	 [C04-00074D.scad](./Model3d/scad/C04-00074D.scad)
+- Package 3d model usd : 	 [C04-00074D.usd](./Model3d/usd/C04-00074D.usd)
+- Package 3d model glb : 	 [C04-00074D.glb](./Model3d/glb/C04-00074D.glb)
 Pin count : 32
 - 1 : PD3,  of Type IO, alternates : [TC2 OCB_, PORTD P_3, EXINT PCINT_19, EXINT INT_1]
 - 2 : PD4,  of Type IO, alternates : [EXINT PCINT_20, TC0 T_, USART0 XCK_, PORTD P_4]
@@ -6733,6 +7820,18 @@ Pin count : 32
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-21395C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 RXB
+- Package Type : 	 VQFN
+- Pin count : 	 32,00
+- Package Layout : 	 [C04-21395C.pdf](./mchp/packages/c04-21395c.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21395C.wrl) : 	 [C04-21395C.wrl](./Model3d/wrl/C04-21395C.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21395C.stl) : 	 [C04-21395C.stl](./Model3d/stl/C04-21395C.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21395C.obj) : 	 [C04-21395C.obj](./Model3d/obj/C04-21395C.obj)
+- Package 3d model x3d : 	 [C04-21395C.x3d](./Model3d/x3d/C04-21395C.x3d)
+- Package 3d model scad : 	 [C04-21395C.scad](./Model3d/scad/C04-21395C.scad)
+- Package 3d model usd : 	 [C04-21395C.usd](./Model3d/usd/C04-21395C.usd)
+- Package 3d model glb : 	 [C04-21395C.glb](./Model3d/glb/C04-21395C.glb)
 Pin count : 32
 - 1 : PD3,  of Type IO, alternates : [TC2 OCB_, PORTD P_3, EXINT PCINT_19, EXINT INT_1]
 - 2 : PD4,  of Type IO, alternates : [EXINT PCINT_20, TC0 T_, USART0 XCK_, PORTD P_4]
@@ -6787,6 +7886,21 @@ Pin count : 32
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-21395C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 RXB
+- Package Type : 	 VQFN
+- Pin count : 	 32,00
+- Package Layout : 	 [C04-21395C.pdf](./mchp/packages/c04-21395c.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21395C.wrl) : 	 [C04-21395C.wrl](./Model3d/wrl/C04-21395C.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21395C.stl) : 	 [C04-21395C.stl](./Model3d/stl/C04-21395C.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21395C.obj) : 	 [C04-21395C.obj](./Model3d/obj/C04-21395C.obj)
+- Package 3d model x3d : 	 [C04-21395C.x3d](./Model3d/x3d/C04-21395C.x3d)
+- Package 3d model scad : 	 [C04-21395C.scad](./Model3d/scad/C04-21395C.scad)
+- Package 3d model usd : 	 [C04-21395C.usd](./Model3d/usd/C04-21395C.usd)
+- Package 3d model glb : 	 [C04-21395C.glb](./Model3d/glb/C04-21395C.glb)
+
+please check that some data is inconsistent 	 
+
 Pin count : 28
 - 1 : PC6,  of Type IO, alternates : [EXINT PCINT_14, PORTC P_6]
 - 2 : PD0,  of Type IO, alternates : [PORTD P_0, USART0 RXD_, EXINT PCINT_16]
@@ -6837,6 +7951,18 @@ Pin count : 28
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00074D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 T5X
+- Package Type : 	 TQFP
+- Pin count : 	 32,00
+- Package Layout : 	 [C04-00074D.pdf](./mchp/packages/c04-00074d.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00074D.wrl) : 	 [C04-00074D.wrl](./Model3d/wrl/C04-00074D.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00074D.stl) : 	 [C04-00074D.stl](./Model3d/stl/C04-00074D.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00074D.obj) : 	 [C04-00074D.obj](./Model3d/obj/C04-00074D.obj)
+- Package 3d model x3d : 	 [C04-00074D.x3d](./Model3d/x3d/C04-00074D.x3d)
+- Package 3d model scad : 	 [C04-00074D.scad](./Model3d/scad/C04-00074D.scad)
+- Package 3d model usd : 	 [C04-00074D.usd](./Model3d/usd/C04-00074D.usd)
+- Package 3d model glb : 	 [C04-00074D.glb](./Model3d/glb/C04-00074D.glb)
 Pin count : 32
 - 1 : PD3,  of Type IO, alternates : [TC2 OCB_, PORTD P_3, EXINT PCINT_19, EXINT INT_1]
 - 2 : PD4,  of Type IO, alternates : [EXINT PCINT_20, TC0 T_, USART0 XCK_, PORTD P_4]
@@ -6891,6 +8017,18 @@ Pin count : 32
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-21395C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 RXB
+- Package Type : 	 VQFN
+- Pin count : 	 32,00
+- Package Layout : 	 [C04-21395C.pdf](./mchp/packages/c04-21395c.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21395C.wrl) : 	 [C04-21395C.wrl](./Model3d/wrl/C04-21395C.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21395C.stl) : 	 [C04-21395C.stl](./Model3d/stl/C04-21395C.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21395C.obj) : 	 [C04-21395C.obj](./Model3d/obj/C04-21395C.obj)
+- Package 3d model x3d : 	 [C04-21395C.x3d](./Model3d/x3d/C04-21395C.x3d)
+- Package 3d model scad : 	 [C04-21395C.scad](./Model3d/scad/C04-21395C.scad)
+- Package 3d model usd : 	 [C04-21395C.usd](./Model3d/usd/C04-21395C.usd)
+- Package 3d model glb : 	 [C04-21395C.glb](./Model3d/glb/C04-21395C.glb)
 Pin count : 32
 - 1 : PD3,  of Type IO, alternates : [TC2 OCB_, PORTD P_3, EXINT PCINT_19, EXINT INT_1]
 - 2 : PD4,  of Type IO, alternates : [EXINT PCINT_20, TC0 T_, USART0 XCK_, PORTD P_4]
@@ -6945,6 +8083,21 @@ Pin count : 32
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-21395C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 RXB
+- Package Type : 	 VQFN
+- Pin count : 	 32,00
+- Package Layout : 	 [C04-21395C.pdf](./mchp/packages/c04-21395c.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21395C.wrl) : 	 [C04-21395C.wrl](./Model3d/wrl/C04-21395C.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21395C.stl) : 	 [C04-21395C.stl](./Model3d/stl/C04-21395C.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21395C.obj) : 	 [C04-21395C.obj](./Model3d/obj/C04-21395C.obj)
+- Package 3d model x3d : 	 [C04-21395C.x3d](./Model3d/x3d/C04-21395C.x3d)
+- Package 3d model scad : 	 [C04-21395C.scad](./Model3d/scad/C04-21395C.scad)
+- Package 3d model usd : 	 [C04-21395C.usd](./Model3d/usd/C04-21395C.usd)
+- Package 3d model glb : 	 [C04-21395C.glb](./Model3d/glb/C04-21395C.glb)
+
+please check that some data is inconsistent 	 
+
 Pin count : 28
 - 1 : PC6,  of Type IO, alternates : [EXINT PCINT_14, PORTC P_6]
 - 2 : PD0,  of Type IO, alternates : [PORTD P_0, USART0 RXD_, EXINT PCINT_16]
@@ -6994,6 +8147,21 @@ Pin count : 28
 - Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
+
+- Package Outline Drawings : 	 [C04-21435A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 TEB
+- Package Type : 	 VQFN
+- Pin count : 	 64,00
+- Package Layout : 	 [C04-21435A.pdf](./mchp/packages/c04-21435a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21435A.wrl) : 	 [C04-21435A.wrl](./Model3d/wrl/C04-21435A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21435A.stl) : 	 [C04-21435A.stl](./Model3d/stl/C04-21435A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21435A.obj) : 	 [C04-21435A.obj](./Model3d/obj/C04-21435A.obj)
+- Package 3d model x3d : 	 [C04-21435A.x3d](./Model3d/x3d/C04-21435A.x3d)
+- Package 3d model scad : 	 [C04-21435A.scad](./Model3d/scad/C04-21435A.scad)
+- Package 3d model usd : 	 [C04-21435A.usd](./Model3d/usd/C04-21435A.usd)
+- Package 3d model glb : 	 [C04-21435A.glb](./Model3d/glb/C04-21435A.glb)
+
+please check that some data is inconsistent 	 
 
 Pin count : 64
 - 1 : LCDCAP,  of Type PS
@@ -7081,6 +8249,18 @@ Pin count : 64
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00066B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 V3X
+- Package Type : 	 TQFP
+- Pin count : 	 64,00
+- Package Layout : 	 [C04-00066B.pdf](./mchp/packages/c04-00066b.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00066B.wrl) : 	 [C04-00066B.wrl](./Model3d/wrl/C04-00066B.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00066B.stl) : 	 [C04-00066B.stl](./Model3d/stl/C04-00066B.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00066B.obj) : 	 [C04-00066B.obj](./Model3d/obj/C04-00066B.obj)
+- Package 3d model x3d : 	 [C04-00066B.x3d](./Model3d/x3d/C04-00066B.x3d)
+- Package 3d model scad : 	 [C04-00066B.scad](./Model3d/scad/C04-00066B.scad)
+- Package 3d model usd : 	 [C04-00066B.usd](./Model3d/usd/C04-00066B.usd)
+- Package 3d model glb : 	 [C04-00066B.glb](./Model3d/glb/C04-00066B.glb)
 Pin count : 64
 - 1 : LCDCAP,  of Type PS
 - 2 : PE0,  of Type IO, alternates : [PORTE P_0, EXINT PCINT_0, USART0 RXD_]
@@ -7166,6 +8346,21 @@ Pin count : 64
 - Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
+
+- Package Outline Drawings : 	 [C04-21435A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 TEB
+- Package Type : 	 VQFN
+- Pin count : 	 64,00
+- Package Layout : 	 [C04-21435A.pdf](./mchp/packages/c04-21435a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21435A.wrl) : 	 [C04-21435A.wrl](./Model3d/wrl/C04-21435A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21435A.stl) : 	 [C04-21435A.stl](./Model3d/stl/C04-21435A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21435A.obj) : 	 [C04-21435A.obj](./Model3d/obj/C04-21435A.obj)
+- Package 3d model x3d : 	 [C04-21435A.x3d](./Model3d/x3d/C04-21435A.x3d)
+- Package 3d model scad : 	 [C04-21435A.scad](./Model3d/scad/C04-21435A.scad)
+- Package 3d model usd : 	 [C04-21435A.usd](./Model3d/usd/C04-21435A.usd)
+- Package 3d model glb : 	 [C04-21435A.glb](./Model3d/glb/C04-21435A.glb)
+
+please check that some data is inconsistent 	 
 
 Pin count : 64
 - B1 : LCDCAP,  of Type PS
@@ -7253,6 +8448,21 @@ Pin count : 64
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-21435A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 TEB
+- Package Type : 	 VQFN
+- Pin count : 	 64,00
+- Package Layout : 	 [C04-21435A.pdf](./mchp/packages/c04-21435a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21435A.wrl) : 	 [C04-21435A.wrl](./Model3d/wrl/C04-21435A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21435A.stl) : 	 [C04-21435A.stl](./Model3d/stl/C04-21435A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21435A.obj) : 	 [C04-21435A.obj](./Model3d/obj/C04-21435A.obj)
+- Package 3d model x3d : 	 [C04-21435A.x3d](./Model3d/x3d/C04-21435A.x3d)
+- Package 3d model scad : 	 [C04-21435A.scad](./Model3d/scad/C04-21435A.scad)
+- Package 3d model usd : 	 [C04-21435A.usd](./Model3d/usd/C04-21435A.usd)
+- Package 3d model glb : 	 [C04-21435A.glb](./Model3d/glb/C04-21435A.glb)
+
+please check that some data is inconsistent 	 
+
 Pin count : 64
 - 1 : LCDCAP,  of Type PS
 - 2 : PE0,  of Type IO, alternates : [PORTE P_0, EXINT PCINT_0, USART0 RXD_]
@@ -7339,6 +8549,18 @@ Pin count : 64
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-21435A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 TEB
+- Package Type : 	 VQFN
+- Pin count : 	 64,00
+- Package Layout : 	 [C04-21435A.pdf](./mchp/packages/c04-21435a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21435A.wrl) : 	 [C04-21435A.wrl](./Model3d/wrl/C04-21435A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21435A.stl) : 	 [C04-21435A.stl](./Model3d/stl/C04-21435A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21435A.obj) : 	 [C04-21435A.obj](./Model3d/obj/C04-21435A.obj)
+- Package 3d model x3d : 	 [C04-21435A.x3d](./Model3d/x3d/C04-21435A.x3d)
+- Package 3d model scad : 	 [C04-21435A.scad](./Model3d/scad/C04-21435A.scad)
+- Package 3d model usd : 	 [C04-21435A.usd](./Model3d/usd/C04-21435A.usd)
+- Package 3d model glb : 	 [C04-21435A.glb](./Model3d/glb/C04-21435A.glb)
 Pin count : 64
 - 1 : LCDCAP,  of Type PS
 - 2 : PE0,  of Type IO, alternates : [PORTE P_0, EXINT PCINT_0, USART0 RXD_]
@@ -7425,6 +8647,18 @@ Pin count : 64
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00066B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 V3X
+- Package Type : 	 TQFP
+- Pin count : 	 64,00
+- Package Layout : 	 [C04-00066B.pdf](./mchp/packages/c04-00066b.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00066B.wrl) : 	 [C04-00066B.wrl](./Model3d/wrl/C04-00066B.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00066B.stl) : 	 [C04-00066B.stl](./Model3d/stl/C04-00066B.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00066B.obj) : 	 [C04-00066B.obj](./Model3d/obj/C04-00066B.obj)
+- Package 3d model x3d : 	 [C04-00066B.x3d](./Model3d/x3d/C04-00066B.x3d)
+- Package 3d model scad : 	 [C04-00066B.scad](./Model3d/scad/C04-00066B.scad)
+- Package 3d model usd : 	 [C04-00066B.usd](./Model3d/usd/C04-00066B.usd)
+- Package 3d model glb : 	 [C04-00066B.glb](./Model3d/glb/C04-00066B.glb)
 Pin count : 64
 - 1 : LCDCAP,  of Type PS
 - 2 : PE0,  of Type IO, alternates : [PORTE P_0, EXINT PCINT_0, USART0 RXD_]
@@ -7510,6 +8744,21 @@ Pin count : 64
 - Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
+
+- Package Outline Drawings : 	 [C04-21420A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 SVB
+- Package Type : 	 VQFN
+- Pin count : 	 64,00
+- Package Layout : 	 [C04-21420A.pdf](./mchp/packages/c04-21420a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21420A.wrl) : 	 [C04-21420A.wrl](./Model3d/wrl/C04-21420A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21420A.stl) : 	 [C04-21420A.stl](./Model3d/stl/C04-21420A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21420A.obj) : 	 [C04-21420A.obj](./Model3d/obj/C04-21420A.obj)
+- Package 3d model x3d : 	 [C04-21420A.x3d](./Model3d/x3d/C04-21420A.x3d)
+- Package 3d model scad : 	 [C04-21420A.scad](./Model3d/scad/C04-21420A.scad)
+- Package 3d model usd : 	 [C04-21420A.usd](./Model3d/usd/C04-21420A.usd)
+- Package 3d model glb : 	 [C04-21420A.glb](./Model3d/glb/C04-21420A.glb)
+
+please check that some data is inconsistent 	 
 
 Pin count : 64
 - B1 : LCDCAP,  of Type PS
@@ -7597,6 +8846,18 @@ Pin count : 64
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-21435A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 TEB
+- Package Type : 	 VQFN
+- Pin count : 	 64,00
+- Package Layout : 	 [C04-21435A.pdf](./mchp/packages/c04-21435a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21435A.wrl) : 	 [C04-21435A.wrl](./Model3d/wrl/C04-21435A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21435A.stl) : 	 [C04-21435A.stl](./Model3d/stl/C04-21435A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21435A.obj) : 	 [C04-21435A.obj](./Model3d/obj/C04-21435A.obj)
+- Package 3d model x3d : 	 [C04-21435A.x3d](./Model3d/x3d/C04-21435A.x3d)
+- Package 3d model scad : 	 [C04-21435A.scad](./Model3d/scad/C04-21435A.scad)
+- Package 3d model usd : 	 [C04-21435A.usd](./Model3d/usd/C04-21435A.usd)
+- Package 3d model glb : 	 [C04-21435A.glb](./Model3d/glb/C04-21435A.glb)
 Pin count : 64
 - 1 : LCDCAP,  of Type PS
 - 2 : PE0,  of Type IO, alternates : [PORTE P_0, EXINT PCINT_0, USART0 RXD_]
@@ -7683,6 +8944,18 @@ Pin count : 64
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00066B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 V3X
+- Package Type : 	 TQFP
+- Pin count : 	 64,00
+- Package Layout : 	 [C04-00066B.pdf](./mchp/packages/c04-00066b.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00066B.wrl) : 	 [C04-00066B.wrl](./Model3d/wrl/C04-00066B.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00066B.stl) : 	 [C04-00066B.stl](./Model3d/stl/C04-00066B.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00066B.obj) : 	 [C04-00066B.obj](./Model3d/obj/C04-00066B.obj)
+- Package 3d model x3d : 	 [C04-00066B.x3d](./Model3d/x3d/C04-00066B.x3d)
+- Package 3d model scad : 	 [C04-00066B.scad](./Model3d/scad/C04-00066B.scad)
+- Package 3d model usd : 	 [C04-00066B.usd](./Model3d/usd/C04-00066B.usd)
+- Package 3d model glb : 	 [C04-00066B.glb](./Model3d/glb/C04-00066B.glb)
 Pin count : 64
 - 1 : LCDCAP,  of Type PS
 - 2 : PE0,  of Type IO, alternates : [PORTE P_0, EXINT PCINT_0, USART0 RXD_]
@@ -7769,6 +9042,18 @@ Pin count : 64
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00066B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 V3X
+- Package Type : 	 TQFP
+- Pin count : 	 64,00
+- Package Layout : 	 [C04-00066B.pdf](./mchp/packages/c04-00066b.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00066B.wrl) : 	 [C04-00066B.wrl](./Model3d/wrl/C04-00066B.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00066B.stl) : 	 [C04-00066B.stl](./Model3d/stl/C04-00066B.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00066B.obj) : 	 [C04-00066B.obj](./Model3d/obj/C04-00066B.obj)
+- Package 3d model x3d : 	 [C04-00066B.x3d](./Model3d/x3d/C04-00066B.x3d)
+- Package 3d model scad : 	 [C04-00066B.scad](./Model3d/scad/C04-00066B.scad)
+- Package 3d model usd : 	 [C04-00066B.usd](./Model3d/usd/C04-00066B.usd)
+- Package 3d model glb : 	 [C04-00066B.glb](./Model3d/glb/C04-00066B.glb)
 Pin count : 64
 - 1 : LCDCAP,  of Type PS
 - 2 : PE0,  of Type IO, alternates : [PORTE P_0, EXINT PCINT_0, USART0 RXD_]
@@ -7855,6 +9140,18 @@ Pin count : 64
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-21420A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 SVB
+- Package Type : 	 VQFN
+- Pin count : 	 64,00
+- Package Layout : 	 [C04-21420A.pdf](./mchp/packages/c04-21420a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21420A.wrl) : 	 [C04-21420A.wrl](./Model3d/wrl/C04-21420A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21420A.stl) : 	 [C04-21420A.stl](./Model3d/stl/C04-21420A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21420A.obj) : 	 [C04-21420A.obj](./Model3d/obj/C04-21420A.obj)
+- Package 3d model x3d : 	 [C04-21420A.x3d](./Model3d/x3d/C04-21420A.x3d)
+- Package 3d model scad : 	 [C04-21420A.scad](./Model3d/scad/C04-21420A.scad)
+- Package 3d model usd : 	 [C04-21420A.usd](./Model3d/usd/C04-21420A.usd)
+- Package 3d model glb : 	 [C04-21420A.glb](./Model3d/glb/C04-21420A.glb)
 Pin count : 64
 - B1 : LCDCAP,  of Type PS
 - A1 : PE0,  of Type IO, alternates : [PORTE P_0, EXINT PCINT_0, USART0 RXD_]
@@ -7941,6 +9238,18 @@ Pin count : 64
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-21435A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 TEB
+- Package Type : 	 VQFN
+- Pin count : 	 64,00
+- Package Layout : 	 [C04-21435A.pdf](./mchp/packages/c04-21435a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21435A.wrl) : 	 [C04-21435A.wrl](./Model3d/wrl/C04-21435A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21435A.stl) : 	 [C04-21435A.stl](./Model3d/stl/C04-21435A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21435A.obj) : 	 [C04-21435A.obj](./Model3d/obj/C04-21435A.obj)
+- Package 3d model x3d : 	 [C04-21435A.x3d](./Model3d/x3d/C04-21435A.x3d)
+- Package 3d model scad : 	 [C04-21435A.scad](./Model3d/scad/C04-21435A.scad)
+- Package 3d model usd : 	 [C04-21435A.usd](./Model3d/usd/C04-21435A.usd)
+- Package 3d model glb : 	 [C04-21435A.glb](./Model3d/glb/C04-21435A.glb)
 Pin count : 64
 - 1 : LCDCAP,  of Type PS
 - 2 : PE0,  of Type IO, alternates : [PORTE P_0, EXINT PCINT_0, USART0 RXD_]
@@ -8027,6 +9336,18 @@ Pin count : 64
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-21435A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 TEB
+- Package Type : 	 VQFN
+- Pin count : 	 64,00
+- Package Layout : 	 [C04-21435A.pdf](./mchp/packages/c04-21435a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21435A.wrl) : 	 [C04-21435A.wrl](./Model3d/wrl/C04-21435A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21435A.stl) : 	 [C04-21435A.stl](./Model3d/stl/C04-21435A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21435A.obj) : 	 [C04-21435A.obj](./Model3d/obj/C04-21435A.obj)
+- Package 3d model x3d : 	 [C04-21435A.x3d](./Model3d/x3d/C04-21435A.x3d)
+- Package 3d model scad : 	 [C04-21435A.scad](./Model3d/scad/C04-21435A.scad)
+- Package 3d model usd : 	 [C04-21435A.usd](./Model3d/usd/C04-21435A.usd)
+- Package 3d model glb : 	 [C04-21435A.glb](./Model3d/glb/C04-21435A.glb)
 Pin count : 64
 - 1 : LCDCAP,  of Type PS
 - 2 : PE0,  of Type IO, alternates : [PORTE P_0, EXINT PCINT_0, USART0 RXD_]
@@ -8113,6 +9434,18 @@ Pin count : 64
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00066B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 V3X
+- Package Type : 	 TQFP
+- Pin count : 	 64,00
+- Package Layout : 	 [C04-00066B.pdf](./mchp/packages/c04-00066b.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00066B.wrl) : 	 [C04-00066B.wrl](./Model3d/wrl/C04-00066B.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00066B.stl) : 	 [C04-00066B.stl](./Model3d/stl/C04-00066B.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00066B.obj) : 	 [C04-00066B.obj](./Model3d/obj/C04-00066B.obj)
+- Package 3d model x3d : 	 [C04-00066B.x3d](./Model3d/x3d/C04-00066B.x3d)
+- Package 3d model scad : 	 [C04-00066B.scad](./Model3d/scad/C04-00066B.scad)
+- Package 3d model usd : 	 [C04-00066B.usd](./Model3d/usd/C04-00066B.usd)
+- Package 3d model glb : 	 [C04-00066B.glb](./Model3d/glb/C04-00066B.glb)
 Pin count : 64
 - 1 : LCDCAP,  of Type PS
 - 2 : PE0,  of Type IO, alternates : [PORTE P_0, EXINT PCINT_0, USART0 RXD_]
@@ -8199,6 +9532,18 @@ Pin count : 64
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-21420A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 SVB
+- Package Type : 	 VQFN
+- Pin count : 	 64,00
+- Package Layout : 	 [C04-21420A.pdf](./mchp/packages/c04-21420a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21420A.wrl) : 	 [C04-21420A.wrl](./Model3d/wrl/C04-21420A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21420A.stl) : 	 [C04-21420A.stl](./Model3d/stl/C04-21420A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21420A.obj) : 	 [C04-21420A.obj](./Model3d/obj/C04-21420A.obj)
+- Package 3d model x3d : 	 [C04-21420A.x3d](./Model3d/x3d/C04-21420A.x3d)
+- Package 3d model scad : 	 [C04-21420A.scad](./Model3d/scad/C04-21420A.scad)
+- Package 3d model usd : 	 [C04-21420A.usd](./Model3d/usd/C04-21420A.usd)
+- Package 3d model glb : 	 [C04-21420A.glb](./Model3d/glb/C04-21420A.glb)
 Pin count : 64
 - B1 : LCDCAP,  of Type PS
 - A1 : PE0,  of Type IO, alternates : [PORTE P_0, EXINT PCINT_0, USART0 RXD_]
@@ -8285,6 +9630,18 @@ Pin count : 64
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-21435A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 TEB
+- Package Type : 	 VQFN
+- Pin count : 	 64,00
+- Package Layout : 	 [C04-21435A.pdf](./mchp/packages/c04-21435a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21435A.wrl) : 	 [C04-21435A.wrl](./Model3d/wrl/C04-21435A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21435A.stl) : 	 [C04-21435A.stl](./Model3d/stl/C04-21435A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21435A.obj) : 	 [C04-21435A.obj](./Model3d/obj/C04-21435A.obj)
+- Package 3d model x3d : 	 [C04-21435A.x3d](./Model3d/x3d/C04-21435A.x3d)
+- Package 3d model scad : 	 [C04-21435A.scad](./Model3d/scad/C04-21435A.scad)
+- Package 3d model usd : 	 [C04-21435A.usd](./Model3d/usd/C04-21435A.usd)
+- Package 3d model glb : 	 [C04-21435A.glb](./Model3d/glb/C04-21435A.glb)
 Pin count : 64
 - 1 : LCDCAP,  of Type PS
 - 2 : PE0,  of Type IO, alternates : [PORTE P_0, EXINT PCINT_0, USART0 RXD_]
@@ -8371,6 +9728,18 @@ Pin count : 64
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00076C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 T4X
+- Package Type : 	 TQFP
+- Pin count : 	 44,00
+- Package Layout : 	 [C04-00076C.pdf](./mchp/packages/c04-00076c.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00076C.wrl) : 	 [C04-00076C.wrl](./Model3d/wrl/C04-00076C.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00076C.stl) : 	 [C04-00076C.stl](./Model3d/stl/C04-00076C.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00076C.obj) : 	 [C04-00076C.obj](./Model3d/obj/C04-00076C.obj)
+- Package 3d model x3d : 	 [C04-00076C.x3d](./Model3d/x3d/C04-00076C.x3d)
+- Package 3d model scad : 	 [C04-00076C.scad](./Model3d/scad/C04-00076C.scad)
+- Package 3d model usd : 	 [C04-00076C.usd](./Model3d/usd/C04-00076C.usd)
+- Package 3d model glb : 	 [C04-00076C.glb](./Model3d/glb/C04-00076C.glb)
 Pin count : 44
 - 1 : PB5,  of Type IO, alternates : [PORTB P_5, SPI MOSI_]
 - 2 : PB6,  of Type IO, alternates : [SPI MISO_, PORTB P_6]
@@ -8437,6 +9806,18 @@ Pin count : 44
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-21419A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 SSB
+- Package Type : 	 VQFN
+- Pin count : 	 44,00
+- Package Layout : 	 [C04-21419A.pdf](./mchp/packages/c04-21419a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21419A.wrl) : 	 [C04-21419A.wrl](./Model3d/wrl/C04-21419A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21419A.stl) : 	 [C04-21419A.stl](./Model3d/stl/C04-21419A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21419A.obj) : 	 [C04-21419A.obj](./Model3d/obj/C04-21419A.obj)
+- Package 3d model x3d : 	 [C04-21419A.x3d](./Model3d/x3d/C04-21419A.x3d)
+- Package 3d model scad : 	 [C04-21419A.scad](./Model3d/scad/C04-21419A.scad)
+- Package 3d model usd : 	 [C04-21419A.usd](./Model3d/usd/C04-21419A.usd)
+- Package 3d model glb : 	 [C04-21419A.glb](./Model3d/glb/C04-21419A.glb)
 Pin count : 44
 - 1 : PB5,  of Type IO, alternates : [PORTB P_5, SPI MOSI_]
 - 2 : PB6,  of Type IO, alternates : [SPI MISO_, PORTB P_6]
@@ -8503,6 +9884,11 @@ Pin count : 44
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00016B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 S2X
+- Package Type : 	 PDIP
+- Pin count : 	 40,00
+- Package Layout : 	 [C04-00016B.pdf](./mchp/packages/c04-00016b.pdf)
 Pin count : 40
 - 1 : PB0,  of Type IO, alternates : [PORTB P_0, TC0 T_, USART XCK_]
 - 2 : PB1,  of Type IO, alternates : [PORTB P_1, TC1 T_]
@@ -8565,6 +9951,18 @@ Pin count : 40
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00076C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 T4X
+- Package Type : 	 TQFP
+- Pin count : 	 44,00
+- Package Layout : 	 [C04-00076C.pdf](./mchp/packages/c04-00076c.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00076C.wrl) : 	 [C04-00076C.wrl](./Model3d/wrl/C04-00076C.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00076C.stl) : 	 [C04-00076C.stl](./Model3d/stl/C04-00076C.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00076C.obj) : 	 [C04-00076C.obj](./Model3d/obj/C04-00076C.obj)
+- Package 3d model x3d : 	 [C04-00076C.x3d](./Model3d/x3d/C04-00076C.x3d)
+- Package 3d model scad : 	 [C04-00076C.scad](./Model3d/scad/C04-00076C.scad)
+- Package 3d model usd : 	 [C04-00076C.usd](./Model3d/usd/C04-00076C.usd)
+- Package 3d model glb : 	 [C04-00076C.glb](./Model3d/glb/C04-00076C.glb)
 Pin count : 44
 - 1 : PB5,  of Type IO, alternates : [PORTB P_5, SPI MOSI_]
 - 2 : PB6,  of Type IO, alternates : [SPI MISO_, PORTB P_6]
@@ -8631,6 +10029,18 @@ Pin count : 44
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-21419A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 SSB
+- Package Type : 	 VQFN
+- Pin count : 	 44,00
+- Package Layout : 	 [C04-21419A.pdf](./mchp/packages/c04-21419a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21419A.wrl) : 	 [C04-21419A.wrl](./Model3d/wrl/C04-21419A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21419A.stl) : 	 [C04-21419A.stl](./Model3d/stl/C04-21419A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21419A.obj) : 	 [C04-21419A.obj](./Model3d/obj/C04-21419A.obj)
+- Package 3d model x3d : 	 [C04-21419A.x3d](./Model3d/x3d/C04-21419A.x3d)
+- Package 3d model scad : 	 [C04-21419A.scad](./Model3d/scad/C04-21419A.scad)
+- Package 3d model usd : 	 [C04-21419A.usd](./Model3d/usd/C04-21419A.usd)
+- Package 3d model glb : 	 [C04-21419A.glb](./Model3d/glb/C04-21419A.glb)
 Pin count : 44
 - 1 : PB5,  of Type IO, alternates : [PORTB P_5, SPI MOSI_]
 - 2 : PB6,  of Type IO, alternates : [SPI MISO_, PORTB P_6]
@@ -8697,6 +10107,21 @@ Pin count : 44
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-21419A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 SSB
+- Package Type : 	 VQFN
+- Pin count : 	 44,00
+- Package Layout : 	 [C04-21419A.pdf](./mchp/packages/c04-21419a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21419A.wrl) : 	 [C04-21419A.wrl](./Model3d/wrl/C04-21419A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21419A.stl) : 	 [C04-21419A.stl](./Model3d/stl/C04-21419A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21419A.obj) : 	 [C04-21419A.obj](./Model3d/obj/C04-21419A.obj)
+- Package 3d model x3d : 	 [C04-21419A.x3d](./Model3d/x3d/C04-21419A.x3d)
+- Package 3d model scad : 	 [C04-21419A.scad](./Model3d/scad/C04-21419A.scad)
+- Package 3d model usd : 	 [C04-21419A.usd](./Model3d/usd/C04-21419A.usd)
+- Package 3d model glb : 	 [C04-21419A.glb](./Model3d/glb/C04-21419A.glb)
+
+please check that some data is inconsistent 	 
+
 Pin count : 40
 - 1 : PB0,  of Type IO, alternates : [PORTB P_0, TC0 T_, USART XCK_]
 - 2 : PB1,  of Type IO, alternates : [PORTB P_1, TC1 T_]
@@ -8759,6 +10184,18 @@ Pin count : 40
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00074D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 T5X
+- Package Type : 	 TQFP
+- Pin count : 	 32,00
+- Package Layout : 	 [C04-00074D.pdf](./mchp/packages/c04-00074d.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00074D.wrl) : 	 [C04-00074D.wrl](./Model3d/wrl/C04-00074D.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00074D.stl) : 	 [C04-00074D.stl](./Model3d/stl/C04-00074D.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00074D.obj) : 	 [C04-00074D.obj](./Model3d/obj/C04-00074D.obj)
+- Package 3d model x3d : 	 [C04-00074D.x3d](./Model3d/x3d/C04-00074D.x3d)
+- Package 3d model scad : 	 [C04-00074D.scad](./Model3d/scad/C04-00074D.scad)
+- Package 3d model usd : 	 [C04-00074D.usd](./Model3d/usd/C04-00074D.usd)
+- Package 3d model glb : 	 [C04-00074D.glb](./Model3d/glb/C04-00074D.glb)
 Pin count : 32
 - 1 : PD2,  of Type IO, alternates : [TC1 OC1A_, PORTD PIN_2, SPI MISO_, EXINT PCINT_18, PSC PSCIN2_]
 - 2 : PD3,  of Type IO, alternates : [PORTD PIN_3, LINUART TXLIN_, SPI MOSI_, SPI SS_, TC0 OC0A_, EXINT PCINT_19]
@@ -8813,6 +10250,18 @@ Pin count : 32
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-21427A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 T5B
+- Package Type : 	 VQFN
+- Pin count : 	 32,00
+- Package Layout : 	 [C04-21427A.pdf](./mchp/packages/c04-21427a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21427A.wrl) : 	 [C04-21427A.wrl](./Model3d/wrl/C04-21427A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21427A.stl) : 	 [C04-21427A.stl](./Model3d/stl/C04-21427A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21427A.obj) : 	 [C04-21427A.obj](./Model3d/obj/C04-21427A.obj)
+- Package 3d model x3d : 	 [C04-21427A.x3d](./Model3d/x3d/C04-21427A.x3d)
+- Package 3d model scad : 	 [C04-21427A.scad](./Model3d/scad/C04-21427A.scad)
+- Package 3d model usd : 	 [C04-21427A.usd](./Model3d/usd/C04-21427A.usd)
+- Package 3d model glb : 	 [C04-21427A.glb](./Model3d/glb/C04-21427A.glb)
 Pin count : 32
 - 1 : PD2,  of Type IO, alternates : [TC1 OC1A_, PORTD PIN_2, SPI MISO_, EXINT PCINT_18, PSC PSCIN2_]
 - 2 : PD3,  of Type IO, alternates : [PORTD PIN_3, LINUART TXLIN_, SPI MOSI_, SPI SS_, TC0 OC0A_, EXINT PCINT_19]
@@ -8867,6 +10316,18 @@ Pin count : 32
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00074D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 T5X
+- Package Type : 	 TQFP
+- Pin count : 	 32,00
+- Package Layout : 	 [C04-00074D.pdf](./mchp/packages/c04-00074d.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00074D.wrl) : 	 [C04-00074D.wrl](./Model3d/wrl/C04-00074D.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00074D.stl) : 	 [C04-00074D.stl](./Model3d/stl/C04-00074D.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00074D.obj) : 	 [C04-00074D.obj](./Model3d/obj/C04-00074D.obj)
+- Package 3d model x3d : 	 [C04-00074D.x3d](./Model3d/x3d/C04-00074D.x3d)
+- Package 3d model scad : 	 [C04-00074D.scad](./Model3d/scad/C04-00074D.scad)
+- Package 3d model usd : 	 [C04-00074D.usd](./Model3d/usd/C04-00074D.usd)
+- Package 3d model glb : 	 [C04-00074D.glb](./Model3d/glb/C04-00074D.glb)
 Pin count : 32
 - 1 : XTAL1,  of Type PS
 - 2 : PC0,  of Type IO, alternates : [PORTC P_0]
@@ -8921,6 +10382,18 @@ Pin count : 32
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-21402A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 S8B
+- Package Type : 	 VQFN
+- Pin count : 	 32,00
+- Package Layout : 	 [C04-21402A.pdf](./mchp/packages/c04-21402a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21402A.wrl) : 	 [C04-21402A.wrl](./Model3d/wrl/C04-21402A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21402A.stl) : 	 [C04-21402A.stl](./Model3d/stl/C04-21402A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21402A.obj) : 	 [C04-21402A.obj](./Model3d/obj/C04-21402A.obj)
+- Package 3d model x3d : 	 [C04-21402A.x3d](./Model3d/x3d/C04-21402A.x3d)
+- Package 3d model scad : 	 [C04-21402A.scad](./Model3d/scad/C04-21402A.scad)
+- Package 3d model usd : 	 [C04-21402A.usd](./Model3d/usd/C04-21402A.usd)
+- Package 3d model glb : 	 [C04-21402A.glb](./Model3d/glb/C04-21402A.glb)
 Pin count : 32
 - 1 : XTAL1,  of Type PS
 - 2 : PC0,  of Type IO, alternates : [PORTC P_0]
@@ -8975,6 +10448,18 @@ Pin count : 32
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00076C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 T4X
+- Package Type : 	 TQFP
+- Pin count : 	 44,00
+- Package Layout : 	 [C04-00076C.pdf](./mchp/packages/c04-00076c.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00076C.wrl) : 	 [C04-00076C.wrl](./Model3d/wrl/C04-00076C.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00076C.stl) : 	 [C04-00076C.stl](./Model3d/stl/C04-00076C.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00076C.obj) : 	 [C04-00076C.obj](./Model3d/obj/C04-00076C.obj)
+- Package 3d model x3d : 	 [C04-00076C.x3d](./Model3d/x3d/C04-00076C.x3d)
+- Package 3d model scad : 	 [C04-00076C.scad](./Model3d/scad/C04-00076C.scad)
+- Package 3d model usd : 	 [C04-00076C.usd](./Model3d/usd/C04-00076C.usd)
+- Package 3d model glb : 	 [C04-00076C.glb](./Model3d/glb/C04-00076C.glb)
 Pin count : 44
 - 1 : PE6,  of Type IO, alternates : [EXINT INT_6, AC AIN_0, PORTE P_6]
 - 2 : UVCC,  of Type PP
@@ -9041,6 +10526,18 @@ Pin count : 44
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-21421A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 SWB
+- Package Type : 	 VQFN
+- Pin count : 	 44,00
+- Package Layout : 	 [C04-21421A.pdf](./mchp/packages/c04-21421a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21421A.wrl) : 	 [C04-21421A.wrl](./Model3d/wrl/C04-21421A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21421A.stl) : 	 [C04-21421A.stl](./Model3d/stl/C04-21421A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21421A.obj) : 	 [C04-21421A.obj](./Model3d/obj/C04-21421A.obj)
+- Package 3d model x3d : 	 [C04-21421A.x3d](./Model3d/x3d/C04-21421A.x3d)
+- Package 3d model scad : 	 [C04-21421A.scad](./Model3d/scad/C04-21421A.scad)
+- Package 3d model usd : 	 [C04-21421A.usd](./Model3d/usd/C04-21421A.usd)
+- Package 3d model glb : 	 [C04-21421A.glb](./Model3d/glb/C04-21421A.glb)
 Pin count : 44
 - 1 : PE6,  of Type IO, alternates : [EXINT INT_6, AC AIN_0, PORTE P_6]
 - 2 : UVCC,  of Type PP
@@ -9107,6 +10604,18 @@ Pin count : 44
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00076C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 T4X
+- Package Type : 	 TQFP
+- Pin count : 	 44,00
+- Package Layout : 	 [C04-00076C.pdf](./mchp/packages/c04-00076c.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00076C.wrl) : 	 [C04-00076C.wrl](./Model3d/wrl/C04-00076C.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00076C.stl) : 	 [C04-00076C.stl](./Model3d/stl/C04-00076C.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00076C.obj) : 	 [C04-00076C.obj](./Model3d/obj/C04-00076C.obj)
+- Package 3d model x3d : 	 [C04-00076C.x3d](./Model3d/x3d/C04-00076C.x3d)
+- Package 3d model scad : 	 [C04-00076C.scad](./Model3d/scad/C04-00076C.scad)
+- Package 3d model usd : 	 [C04-00076C.usd](./Model3d/usd/C04-00076C.usd)
+- Package 3d model glb : 	 [C04-00076C.glb](./Model3d/glb/C04-00076C.glb)
 Pin count : 44
 - 1 : PE6,  of Type IO, alternates : [EXINT INT_6, AC AIN_0, PORTE P_6]
 - 2 : UVCC,  of Type PP
@@ -9172,6 +10681,21 @@ Pin count : 44
 - Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
+
+- Package Outline Drawings : 	 [C04-00076C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 T4X
+- Package Type : 	 TQFP
+- Pin count : 	 44,00
+- Package Layout : 	 [C04-00076C.pdf](./mchp/packages/c04-00076c.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00076C.wrl) : 	 [C04-00076C.wrl](./Model3d/wrl/C04-00076C.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00076C.stl) : 	 [C04-00076C.stl](./Model3d/stl/C04-00076C.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00076C.obj) : 	 [C04-00076C.obj](./Model3d/obj/C04-00076C.obj)
+- Package 3d model x3d : 	 [C04-00076C.x3d](./Model3d/x3d/C04-00076C.x3d)
+- Package 3d model scad : 	 [C04-00076C.scad](./Model3d/scad/C04-00076C.scad)
+- Package 3d model usd : 	 [C04-00076C.usd](./Model3d/usd/C04-00076C.usd)
+- Package 3d model glb : 	 [C04-00076C.glb](./Model3d/glb/C04-00076C.glb)
+
+please check that some data is inconsistent 	 
 
 Pin count : 44
 - 1 : PE6,  of Type IO, alternates : [EXINT INT_6, AC AIN_0, PORTE P_6]
@@ -9239,6 +10763,18 @@ Pin count : 44
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00110C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 E5X
+- Package Type : 	 TQFP
+- Pin count : 	 100,00
+- Package Layout : 	 [C04-00110C.pdf](./mchp/packages/c04-00110c.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00110C.wrl) : 	 [C04-00110C.wrl](./Model3d/wrl/C04-00110C.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00110C.stl) : 	 [C04-00110C.stl](./Model3d/stl/C04-00110C.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00110C.obj) : 	 [C04-00110C.obj](./Model3d/obj/C04-00110C.obj)
+- Package 3d model x3d : 	 [C04-00110C.x3d](./Model3d/x3d/C04-00110C.x3d)
+- Package 3d model scad : 	 [C04-00110C.scad](./Model3d/scad/C04-00110C.scad)
+- Package 3d model usd : 	 [C04-00110C.usd](./Model3d/usd/C04-00110C.usd)
+- Package 3d model glb : 	 [C04-00110C.glb](./Model3d/glb/C04-00110C.glb)
 Pin count : 100
 - 1 : PG5,  of Type IO, alternates : [PORTG P_5, TC0 OCB_]
 - 2 : PE0,  of Type IO, alternates : [EXINT PCINT_8, PORTE P_0, USART0 RXD_]
@@ -9360,6 +10896,21 @@ Pin count : 100
 - Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
+
+- Package Outline Drawings : 	 [C04-00110C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 E5X
+- Package Type : 	 TQFP
+- Pin count : 	 100,00
+- Package Layout : 	 [C04-00110C.pdf](./mchp/packages/c04-00110c.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00110C.wrl) : 	 [C04-00110C.wrl](./Model3d/wrl/C04-00110C.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00110C.stl) : 	 [C04-00110C.stl](./Model3d/stl/C04-00110C.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00110C.obj) : 	 [C04-00110C.obj](./Model3d/obj/C04-00110C.obj)
+- Package 3d model x3d : 	 [C04-00110C.x3d](./Model3d/x3d/C04-00110C.x3d)
+- Package 3d model scad : 	 [C04-00110C.scad](./Model3d/scad/C04-00110C.scad)
+- Package 3d model usd : 	 [C04-00110C.usd](./Model3d/usd/C04-00110C.usd)
+- Package 3d model glb : 	 [C04-00110C.glb](./Model3d/glb/C04-00110C.glb)
+
+please check that some data is inconsistent 	 
 
 Pin count : 100
 - A1 : GND,  of Type PS
@@ -9483,6 +11034,18 @@ Pin count : 100
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00110C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 E5X
+- Package Type : 	 TQFP
+- Pin count : 	 100,00
+- Package Layout : 	 [C04-00110C.pdf](./mchp/packages/c04-00110c.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00110C.wrl) : 	 [C04-00110C.wrl](./Model3d/wrl/C04-00110C.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00110C.stl) : 	 [C04-00110C.stl](./Model3d/stl/C04-00110C.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00110C.obj) : 	 [C04-00110C.obj](./Model3d/obj/C04-00110C.obj)
+- Package 3d model x3d : 	 [C04-00110C.x3d](./Model3d/x3d/C04-00110C.x3d)
+- Package 3d model scad : 	 [C04-00110C.scad](./Model3d/scad/C04-00110C.scad)
+- Package 3d model usd : 	 [C04-00110C.usd](./Model3d/usd/C04-00110C.usd)
+- Package 3d model glb : 	 [C04-00110C.glb](./Model3d/glb/C04-00110C.glb)
 Pin count : 100
 - 1 : PG5,  of Type IO, alternates : [PORTG P_5, TC0 OCB_]
 - 2 : PE0,  of Type IO, alternates : [EXINT PCINT_8, PORTE P_0, USART0 RXD_]
@@ -9604,6 +11167,21 @@ Pin count : 100
 - Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
+
+- Package Outline Drawings : 	 [C04-00110C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 E5X
+- Package Type : 	 TQFP
+- Pin count : 	 100,00
+- Package Layout : 	 [C04-00110C.pdf](./mchp/packages/c04-00110c.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00110C.wrl) : 	 [C04-00110C.wrl](./Model3d/wrl/C04-00110C.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00110C.stl) : 	 [C04-00110C.stl](./Model3d/stl/C04-00110C.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00110C.obj) : 	 [C04-00110C.obj](./Model3d/obj/C04-00110C.obj)
+- Package 3d model x3d : 	 [C04-00110C.x3d](./Model3d/x3d/C04-00110C.x3d)
+- Package 3d model scad : 	 [C04-00110C.scad](./Model3d/scad/C04-00110C.scad)
+- Package 3d model usd : 	 [C04-00110C.usd](./Model3d/usd/C04-00110C.usd)
+- Package 3d model glb : 	 [C04-00110C.glb](./Model3d/glb/C04-00110C.glb)
+
+please check that some data is inconsistent 	 
 
 Pin count : 100
 - A1 : GND,  of Type PS
@@ -9727,6 +11305,18 @@ Pin count : 100
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00066B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 V3X
+- Package Type : 	 TQFP
+- Pin count : 	 64,00
+- Package Layout : 	 [C04-00066B.pdf](./mchp/packages/c04-00066b.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00066B.wrl) : 	 [C04-00066B.wrl](./Model3d/wrl/C04-00066B.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00066B.stl) : 	 [C04-00066B.stl](./Model3d/stl/C04-00066B.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00066B.obj) : 	 [C04-00066B.obj](./Model3d/obj/C04-00066B.obj)
+- Package 3d model x3d : 	 [C04-00066B.x3d](./Model3d/x3d/C04-00066B.x3d)
+- Package 3d model scad : 	 [C04-00066B.scad](./Model3d/scad/C04-00066B.scad)
+- Package 3d model usd : 	 [C04-00066B.usd](./Model3d/usd/C04-00066B.usd)
+- Package 3d model glb : 	 [C04-00066B.glb](./Model3d/glb/C04-00066B.glb)
 Pin count : 64
 - 1 : PG5,  of Type IO, alternates : [PORTG P_5, TC0 OCB_]
 - 2 : PE0,  of Type IO, alternates : [EXINT PCINT_8, PORTE P_0, USART0 RXD_]
@@ -9813,6 +11403,18 @@ Pin count : 64
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-21434A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 TCB
+- Package Type : 	 VQFN
+- Pin count : 	 64,00
+- Package Layout : 	 [C04-21434A.pdf](./mchp/packages/c04-21434a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21434A.wrl) : 	 [C04-21434A.wrl](./Model3d/wrl/C04-21434A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21434A.stl) : 	 [C04-21434A.stl](./Model3d/stl/C04-21434A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21434A.obj) : 	 [C04-21434A.obj](./Model3d/obj/C04-21434A.obj)
+- Package 3d model x3d : 	 [C04-21434A.x3d](./Model3d/x3d/C04-21434A.x3d)
+- Package 3d model scad : 	 [C04-21434A.scad](./Model3d/scad/C04-21434A.scad)
+- Package 3d model usd : 	 [C04-21434A.usd](./Model3d/usd/C04-21434A.usd)
+- Package 3d model glb : 	 [C04-21434A.glb](./Model3d/glb/C04-21434A.glb)
 Pin count : 64
 - 1 : PG5,  of Type IO, alternates : [PORTG P_5, TC0 OCB_]
 - 2 : PE0,  of Type IO, alternates : [EXINT PCINT_8, PORTE P_0, USART0 RXD_]
@@ -9899,6 +11501,18 @@ Pin count : 64
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00066B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 V3X
+- Package Type : 	 TQFP
+- Pin count : 	 64,00
+- Package Layout : 	 [C04-00066B.pdf](./mchp/packages/c04-00066b.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00066B.wrl) : 	 [C04-00066B.wrl](./Model3d/wrl/C04-00066B.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00066B.stl) : 	 [C04-00066B.stl](./Model3d/stl/C04-00066B.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00066B.obj) : 	 [C04-00066B.obj](./Model3d/obj/C04-00066B.obj)
+- Package 3d model x3d : 	 [C04-00066B.x3d](./Model3d/x3d/C04-00066B.x3d)
+- Package 3d model scad : 	 [C04-00066B.scad](./Model3d/scad/C04-00066B.scad)
+- Package 3d model usd : 	 [C04-00066B.usd](./Model3d/usd/C04-00066B.usd)
+- Package 3d model glb : 	 [C04-00066B.glb](./Model3d/glb/C04-00066B.glb)
 Pin count : 64
 - 1 : PG5,  of Type IO, alternates : [PORTG P_5, TC0 OCB_]
 - 2 : PE0,  of Type IO, alternates : [EXINT PCINT_8, PORTE P_0, USART0 RXD_]
@@ -9985,6 +11599,18 @@ Pin count : 64
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-21434A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 TCB
+- Package Type : 	 VQFN
+- Pin count : 	 64,00
+- Package Layout : 	 [C04-21434A.pdf](./mchp/packages/c04-21434a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21434A.wrl) : 	 [C04-21434A.wrl](./Model3d/wrl/C04-21434A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21434A.stl) : 	 [C04-21434A.stl](./Model3d/stl/C04-21434A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21434A.obj) : 	 [C04-21434A.obj](./Model3d/obj/C04-21434A.obj)
+- Package 3d model x3d : 	 [C04-21434A.x3d](./Model3d/x3d/C04-21434A.x3d)
+- Package 3d model scad : 	 [C04-21434A.scad](./Model3d/scad/C04-21434A.scad)
+- Package 3d model usd : 	 [C04-21434A.usd](./Model3d/usd/C04-21434A.usd)
+- Package 3d model glb : 	 [C04-21434A.glb](./Model3d/glb/C04-21434A.glb)
 Pin count : 64
 - 1 : PG5,  of Type IO, alternates : [PORTG P_5, TC0 OCB_]
 - 2 : PE0,  of Type IO, alternates : [EXINT PCINT_8, PORTE P_0, USART0 RXD_]
@@ -10071,6 +11697,18 @@ Pin count : 64
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00076C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 T4X
+- Package Type : 	 TQFP
+- Pin count : 	 44,00
+- Package Layout : 	 [C04-00076C.pdf](./mchp/packages/c04-00076c.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00076C.wrl) : 	 [C04-00076C.wrl](./Model3d/wrl/C04-00076C.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00076C.stl) : 	 [C04-00076C.stl](./Model3d/stl/C04-00076C.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00076C.obj) : 	 [C04-00076C.obj](./Model3d/obj/C04-00076C.obj)
+- Package 3d model x3d : 	 [C04-00076C.x3d](./Model3d/x3d/C04-00076C.x3d)
+- Package 3d model scad : 	 [C04-00076C.scad](./Model3d/scad/C04-00076C.scad)
+- Package 3d model usd : 	 [C04-00076C.usd](./Model3d/usd/C04-00076C.usd)
+- Package 3d model glb : 	 [C04-00076C.glb](./Model3d/glb/C04-00076C.glb)
 Pin count : 44
 - 1 : PB5,  of Type IO, alternates : [PORTB P_5, SPI MOSI_]
 - 2 : PB6,  of Type IO, alternates : [SPI MISO_, PORTB P_6]
@@ -10137,6 +11775,18 @@ Pin count : 44
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-21419A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 SSB
+- Package Type : 	 VQFN
+- Pin count : 	 44,00
+- Package Layout : 	 [C04-21419A.pdf](./mchp/packages/c04-21419a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21419A.wrl) : 	 [C04-21419A.wrl](./Model3d/wrl/C04-21419A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21419A.stl) : 	 [C04-21419A.stl](./Model3d/stl/C04-21419A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21419A.obj) : 	 [C04-21419A.obj](./Model3d/obj/C04-21419A.obj)
+- Package 3d model x3d : 	 [C04-21419A.x3d](./Model3d/x3d/C04-21419A.x3d)
+- Package 3d model scad : 	 [C04-21419A.scad](./Model3d/scad/C04-21419A.scad)
+- Package 3d model usd : 	 [C04-21419A.usd](./Model3d/usd/C04-21419A.usd)
+- Package 3d model glb : 	 [C04-21419A.glb](./Model3d/glb/C04-21419A.glb)
 Pin count : 44
 - 1 : PB5,  of Type IO, alternates : [PORTB P_5, SPI MOSI_]
 - 2 : PB6,  of Type IO, alternates : [SPI MISO_, PORTB P_6]
@@ -10203,6 +11853,11 @@ Pin count : 44
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00016B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 S2X
+- Package Type : 	 PDIP
+- Pin count : 	 40,00
+- Package Layout : 	 [C04-00016B.pdf](./mchp/packages/c04-00016b.pdf)
 Pin count : 40
 - 1 : PB0,  of Type IO, alternates : [PORTB P_0, TC0 T_, USART XCK_]
 - 2 : PB1,  of Type IO, alternates : [PORTB P_1, TC1 T_]
@@ -10265,6 +11920,18 @@ Pin count : 40
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00076C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 T4X
+- Package Type : 	 TQFP
+- Pin count : 	 44,00
+- Package Layout : 	 [C04-00076C.pdf](./mchp/packages/c04-00076c.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00076C.wrl) : 	 [C04-00076C.wrl](./Model3d/wrl/C04-00076C.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00076C.stl) : 	 [C04-00076C.stl](./Model3d/stl/C04-00076C.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00076C.obj) : 	 [C04-00076C.obj](./Model3d/obj/C04-00076C.obj)
+- Package 3d model x3d : 	 [C04-00076C.x3d](./Model3d/x3d/C04-00076C.x3d)
+- Package 3d model scad : 	 [C04-00076C.scad](./Model3d/scad/C04-00076C.scad)
+- Package 3d model usd : 	 [C04-00076C.usd](./Model3d/usd/C04-00076C.usd)
+- Package 3d model glb : 	 [C04-00076C.glb](./Model3d/glb/C04-00076C.glb)
 Pin count : 44
 - 1 : PB5,  of Type IO, alternates : [PORTB P_5, SPI MOSI_, EXINT PCINT_13]
 - 2 : PB6,  of Type IO, alternates : [EXINT PCINT_14, SPI MISO_, PORTB P_6]
@@ -10331,6 +11998,18 @@ Pin count : 44
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-21168B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 CTB
+- Package Type : 	 VFBGA
+- Pin count : 	 49,00
+- Package Layout : 	 [C04-21168B.pdf](./mchp/packages/c04-21168b.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21168B.wrl) : 	 [C04-21168B.wrl](./Model3d/wrl/C04-21168B.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21168B.stl) : 	 [C04-21168B.stl](./Model3d/stl/C04-21168B.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21168B.obj) : 	 [C04-21168B.obj](./Model3d/obj/C04-21168B.obj)
+- Package 3d model x3d : 	 [C04-21168B.x3d](./Model3d/x3d/C04-21168B.x3d)
+- Package 3d model scad : 	 [C04-21168B.scad](./Model3d/scad/C04-21168B.scad)
+- Package 3d model usd : 	 [C04-21168B.usd](./Model3d/usd/C04-21168B.usd)
+- Package 3d model glb : 	 [C04-21168B.glb](./Model3d/glb/C04-21168B.glb)
 Pin count : 49
 - A1 : GND,  of Type PS
 - A2 : PB4,  of Type IO, alternates : [PORTB P_4, TC0 OCB_, SPI SS_, EXINT PCINT_12]
@@ -10402,6 +12081,18 @@ Pin count : 49
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-21399A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 S3B
+- Package Type : 	 VQFN
+- Pin count : 	 44,00
+- Package Layout : 	 [C04-21399A.pdf](./mchp/packages/c04-21399a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21399A.wrl) : 	 [C04-21399A.wrl](./Model3d/wrl/C04-21399A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21399A.stl) : 	 [C04-21399A.stl](./Model3d/stl/C04-21399A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21399A.obj) : 	 [C04-21399A.obj](./Model3d/obj/C04-21399A.obj)
+- Package 3d model x3d : 	 [C04-21399A.x3d](./Model3d/x3d/C04-21399A.x3d)
+- Package 3d model scad : 	 [C04-21399A.scad](./Model3d/scad/C04-21399A.scad)
+- Package 3d model usd : 	 [C04-21399A.usd](./Model3d/usd/C04-21399A.usd)
+- Package 3d model glb : 	 [C04-21399A.glb](./Model3d/glb/C04-21399A.glb)
 Pin count : 44
 - A1 : PB5,  of Type IO, alternates : [PORTB P_5, SPI MOSI_, EXINT PCINT_13]
 - B1 : PB6,  of Type IO, alternates : [EXINT PCINT_14, SPI MISO_, PORTB P_6]
@@ -10468,6 +12159,18 @@ Pin count : 44
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-21419A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 SSB
+- Package Type : 	 VQFN
+- Pin count : 	 44,00
+- Package Layout : 	 [C04-21419A.pdf](./mchp/packages/c04-21419a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21419A.wrl) : 	 [C04-21419A.wrl](./Model3d/wrl/C04-21419A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21419A.stl) : 	 [C04-21419A.stl](./Model3d/stl/C04-21419A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21419A.obj) : 	 [C04-21419A.obj](./Model3d/obj/C04-21419A.obj)
+- Package 3d model x3d : 	 [C04-21419A.x3d](./Model3d/x3d/C04-21419A.x3d)
+- Package 3d model scad : 	 [C04-21419A.scad](./Model3d/scad/C04-21419A.scad)
+- Package 3d model usd : 	 [C04-21419A.usd](./Model3d/usd/C04-21419A.usd)
+- Package 3d model glb : 	 [C04-21419A.glb](./Model3d/glb/C04-21419A.glb)
 Pin count : 44
 - 1 : PB5,  of Type IO, alternates : [PORTB P_5, SPI MOSI_, EXINT PCINT_13]
 - 2 : PB6,  of Type IO, alternates : [EXINT PCINT_14, SPI MISO_, PORTB P_6]
@@ -10534,6 +12237,21 @@ Pin count : 44
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-21168B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 CTB
+- Package Type : 	 VFBGA
+- Pin count : 	 49,00
+- Package Layout : 	 [C04-21168B.pdf](./mchp/packages/c04-21168b.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21168B.wrl) : 	 [C04-21168B.wrl](./Model3d/wrl/C04-21168B.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21168B.stl) : 	 [C04-21168B.stl](./Model3d/stl/C04-21168B.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21168B.obj) : 	 [C04-21168B.obj](./Model3d/obj/C04-21168B.obj)
+- Package 3d model x3d : 	 [C04-21168B.x3d](./Model3d/x3d/C04-21168B.x3d)
+- Package 3d model scad : 	 [C04-21168B.scad](./Model3d/scad/C04-21168B.scad)
+- Package 3d model usd : 	 [C04-21168B.usd](./Model3d/usd/C04-21168B.usd)
+- Package 3d model glb : 	 [C04-21168B.glb](./Model3d/glb/C04-21168B.glb)
+
+please check that some data is inconsistent 	 
+
 Pin count : 40
 - 1 : PB0,  of Type IO, alternates : [EXINT PCINT_8, PORTB P_0, TC0 T_, USART0 XCK_]
 - 2 : PB1,  of Type IO, alternates : [EXINT PCINT_9, PORTB P_1, TC1 T_, CPU CLKO_0]
@@ -10595,6 +12313,21 @@ Pin count : 40
 - Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
+
+- Package Outline Drawings : 	 [C04-21399A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 S3B
+- Package Type : 	 VQFN
+- Pin count : 	 44,00
+- Package Layout : 	 [C04-21399A.pdf](./mchp/packages/c04-21399a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21399A.wrl) : 	 [C04-21399A.wrl](./Model3d/wrl/C04-21399A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21399A.stl) : 	 [C04-21399A.stl](./Model3d/stl/C04-21399A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21399A.obj) : 	 [C04-21399A.obj](./Model3d/obj/C04-21399A.obj)
+- Package 3d model x3d : 	 [C04-21399A.x3d](./Model3d/x3d/C04-21399A.x3d)
+- Package 3d model scad : 	 [C04-21399A.scad](./Model3d/scad/C04-21399A.scad)
+- Package 3d model usd : 	 [C04-21399A.usd](./Model3d/usd/C04-21399A.usd)
+- Package 3d model glb : 	 [C04-21399A.glb](./Model3d/glb/C04-21399A.glb)
+
+please check that some data is inconsistent 	 
 
 Pin count : 44
 - 1 : PB5,  of Type IO, alternates : [PORTB P_5, SPI MOSI_, EXINT PCINT_13]
@@ -10662,6 +12395,18 @@ Pin count : 44
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00076C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 T4X
+- Package Type : 	 TQFP
+- Pin count : 	 44,00
+- Package Layout : 	 [C04-00076C.pdf](./mchp/packages/c04-00076c.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00076C.wrl) : 	 [C04-00076C.wrl](./Model3d/wrl/C04-00076C.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00076C.stl) : 	 [C04-00076C.stl](./Model3d/stl/C04-00076C.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00076C.obj) : 	 [C04-00076C.obj](./Model3d/obj/C04-00076C.obj)
+- Package 3d model x3d : 	 [C04-00076C.x3d](./Model3d/x3d/C04-00076C.x3d)
+- Package 3d model scad : 	 [C04-00076C.scad](./Model3d/scad/C04-00076C.scad)
+- Package 3d model usd : 	 [C04-00076C.usd](./Model3d/usd/C04-00076C.usd)
+- Package 3d model glb : 	 [C04-00076C.glb](./Model3d/glb/C04-00076C.glb)
 Pin count : 44
 - 1 : PB5,  of Type IO, alternates : [PORTB P_5, SPI MOSI_, EXINT PCINT_13]
 - 2 : PB6,  of Type IO, alternates : [EXINT PCINT_14, SPI MISO_, PORTB P_6]
@@ -10727,6 +12472,21 @@ Pin count : 44
 - Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
+
+- Package Outline Drawings : 	 [C04-21399A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 S3B
+- Package Type : 	 VQFN
+- Pin count : 	 44,00
+- Package Layout : 	 [C04-21399A.pdf](./mchp/packages/c04-21399a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21399A.wrl) : 	 [C04-21399A.wrl](./Model3d/wrl/C04-21399A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21399A.stl) : 	 [C04-21399A.stl](./Model3d/stl/C04-21399A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21399A.obj) : 	 [C04-21399A.obj](./Model3d/obj/C04-21399A.obj)
+- Package 3d model x3d : 	 [C04-21399A.x3d](./Model3d/x3d/C04-21399A.x3d)
+- Package 3d model scad : 	 [C04-21399A.scad](./Model3d/scad/C04-21399A.scad)
+- Package 3d model usd : 	 [C04-21399A.usd](./Model3d/usd/C04-21399A.usd)
+- Package 3d model glb : 	 [C04-21399A.glb](./Model3d/glb/C04-21399A.glb)
+
+please check that some data is inconsistent 	 
 
 Pin count : 44
 - 1 : PB5,  of Type IO, alternates : [PORTB P_5, SPI MOSI_, EXINT PCINT_13]
@@ -10794,6 +12554,18 @@ Pin count : 44
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-21419A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 SSB
+- Package Type : 	 VQFN
+- Pin count : 	 44,00
+- Package Layout : 	 [C04-21419A.pdf](./mchp/packages/c04-21419a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21419A.wrl) : 	 [C04-21419A.wrl](./Model3d/wrl/C04-21419A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21419A.stl) : 	 [C04-21419A.stl](./Model3d/stl/C04-21419A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21419A.obj) : 	 [C04-21419A.obj](./Model3d/obj/C04-21419A.obj)
+- Package 3d model x3d : 	 [C04-21419A.x3d](./Model3d/x3d/C04-21419A.x3d)
+- Package 3d model scad : 	 [C04-21419A.scad](./Model3d/scad/C04-21419A.scad)
+- Package 3d model usd : 	 [C04-21419A.usd](./Model3d/usd/C04-21419A.usd)
+- Package 3d model glb : 	 [C04-21419A.glb](./Model3d/glb/C04-21419A.glb)
 Pin count : 44
 - 1 : PB5,  of Type IO, alternates : [PORTB P_5, SPI MOSI_, EXINT PCINT_13]
 - 2 : PB6,  of Type IO, alternates : [EXINT PCINT_14, SPI MISO_, PORTB P_6]
@@ -10860,6 +12632,21 @@ Pin count : 44
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-21399A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 S3B
+- Package Type : 	 VQFN
+- Pin count : 	 44,00
+- Package Layout : 	 [C04-21399A.pdf](./mchp/packages/c04-21399a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21399A.wrl) : 	 [C04-21399A.wrl](./Model3d/wrl/C04-21399A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21399A.stl) : 	 [C04-21399A.stl](./Model3d/stl/C04-21399A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21399A.obj) : 	 [C04-21399A.obj](./Model3d/obj/C04-21399A.obj)
+- Package 3d model x3d : 	 [C04-21399A.x3d](./Model3d/x3d/C04-21399A.x3d)
+- Package 3d model scad : 	 [C04-21399A.scad](./Model3d/scad/C04-21399A.scad)
+- Package 3d model usd : 	 [C04-21399A.usd](./Model3d/usd/C04-21399A.usd)
+- Package 3d model glb : 	 [C04-21399A.glb](./Model3d/glb/C04-21399A.glb)
+
+please check that some data is inconsistent 	 
+
 Pin count : 40
 - 1 : PB0,  of Type IO, alternates : [EXINT PCINT_8, PORTB P_0, TC0 T_, USART0 XCK_]
 - 2 : PB1,  of Type IO, alternates : [EXINT PCINT_9, PORTB P_1, TC1 T_, CPU CLKO_0]
@@ -10921,6 +12708,21 @@ Pin count : 40
 - Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
+
+- Package Outline Drawings : 	 [C04-21399A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 S3B
+- Package Type : 	 VQFN
+- Pin count : 	 44,00
+- Package Layout : 	 [C04-21399A.pdf](./mchp/packages/c04-21399a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21399A.wrl) : 	 [C04-21399A.wrl](./Model3d/wrl/C04-21399A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21399A.stl) : 	 [C04-21399A.stl](./Model3d/stl/C04-21399A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21399A.obj) : 	 [C04-21399A.obj](./Model3d/obj/C04-21399A.obj)
+- Package 3d model x3d : 	 [C04-21399A.x3d](./Model3d/x3d/C04-21399A.x3d)
+- Package 3d model scad : 	 [C04-21399A.scad](./Model3d/scad/C04-21399A.scad)
+- Package 3d model usd : 	 [C04-21399A.usd](./Model3d/usd/C04-21399A.usd)
+- Package 3d model glb : 	 [C04-21399A.glb](./Model3d/glb/C04-21399A.glb)
+
+please check that some data is inconsistent 	 
 
 Pin count : 40
 - 1 : PB0,  of Type IO, alternates : [EXINT PCINT_8, PORTB P_0, TC0 T_, USART0 XCK_]
@@ -10984,6 +12786,18 @@ Pin count : 40
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00076C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 T4X
+- Package Type : 	 TQFP
+- Pin count : 	 44,00
+- Package Layout : 	 [C04-00076C.pdf](./mchp/packages/c04-00076c.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00076C.wrl) : 	 [C04-00076C.wrl](./Model3d/wrl/C04-00076C.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00076C.stl) : 	 [C04-00076C.stl](./Model3d/stl/C04-00076C.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00076C.obj) : 	 [C04-00076C.obj](./Model3d/obj/C04-00076C.obj)
+- Package 3d model x3d : 	 [C04-00076C.x3d](./Model3d/x3d/C04-00076C.x3d)
+- Package 3d model scad : 	 [C04-00076C.scad](./Model3d/scad/C04-00076C.scad)
+- Package 3d model usd : 	 [C04-00076C.usd](./Model3d/usd/C04-00076C.usd)
+- Package 3d model glb : 	 [C04-00076C.glb](./Model3d/glb/C04-00076C.glb)
 Pin count : 44
 - 1 : PB5,  of Type IO, alternates : [PORTB P_5, SPI MOSI_, EXINT PCINT_13]
 - 2 : PB6,  of Type IO, alternates : [EXINT PCINT_14, SPI MISO_, PORTB P_6]
@@ -11049,6 +12863,21 @@ Pin count : 44
 - Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
+
+- Package Outline Drawings : 	 [C04-21399A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 S3B
+- Package Type : 	 VQFN
+- Pin count : 	 44,00
+- Package Layout : 	 [C04-21399A.pdf](./mchp/packages/c04-21399a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21399A.wrl) : 	 [C04-21399A.wrl](./Model3d/wrl/C04-21399A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21399A.stl) : 	 [C04-21399A.stl](./Model3d/stl/C04-21399A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21399A.obj) : 	 [C04-21399A.obj](./Model3d/obj/C04-21399A.obj)
+- Package 3d model x3d : 	 [C04-21399A.x3d](./Model3d/x3d/C04-21399A.x3d)
+- Package 3d model scad : 	 [C04-21399A.scad](./Model3d/scad/C04-21399A.scad)
+- Package 3d model usd : 	 [C04-21399A.usd](./Model3d/usd/C04-21399A.usd)
+- Package 3d model glb : 	 [C04-21399A.glb](./Model3d/glb/C04-21399A.glb)
+
+please check that some data is inconsistent 	 
 
 Pin count : 49
 - A1 : GND,  of Type PS
@@ -11121,6 +12950,18 @@ Pin count : 49
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-21399A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 S3B
+- Package Type : 	 VQFN
+- Pin count : 	 44,00
+- Package Layout : 	 [C04-21399A.pdf](./mchp/packages/c04-21399a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21399A.wrl) : 	 [C04-21399A.wrl](./Model3d/wrl/C04-21399A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21399A.stl) : 	 [C04-21399A.stl](./Model3d/stl/C04-21399A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21399A.obj) : 	 [C04-21399A.obj](./Model3d/obj/C04-21399A.obj)
+- Package 3d model x3d : 	 [C04-21399A.x3d](./Model3d/x3d/C04-21399A.x3d)
+- Package 3d model scad : 	 [C04-21399A.scad](./Model3d/scad/C04-21399A.scad)
+- Package 3d model usd : 	 [C04-21399A.usd](./Model3d/usd/C04-21399A.usd)
+- Package 3d model glb : 	 [C04-21399A.glb](./Model3d/glb/C04-21399A.glb)
 Pin count : 44
 - A1 : PB5,  of Type IO, alternates : [PORTB P_5, SPI MOSI_, EXINT PCINT_13]
 - B1 : PB6,  of Type IO, alternates : [EXINT PCINT_14, SPI MISO_, PORTB P_6]
@@ -11187,6 +13028,18 @@ Pin count : 44
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-21419A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 SSB
+- Package Type : 	 VQFN
+- Pin count : 	 44,00
+- Package Layout : 	 [C04-21419A.pdf](./mchp/packages/c04-21419a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21419A.wrl) : 	 [C04-21419A.wrl](./Model3d/wrl/C04-21419A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21419A.stl) : 	 [C04-21419A.stl](./Model3d/stl/C04-21419A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21419A.obj) : 	 [C04-21419A.obj](./Model3d/obj/C04-21419A.obj)
+- Package 3d model x3d : 	 [C04-21419A.x3d](./Model3d/x3d/C04-21419A.x3d)
+- Package 3d model scad : 	 [C04-21419A.scad](./Model3d/scad/C04-21419A.scad)
+- Package 3d model usd : 	 [C04-21419A.usd](./Model3d/usd/C04-21419A.usd)
+- Package 3d model glb : 	 [C04-21419A.glb](./Model3d/glb/C04-21419A.glb)
 Pin count : 44
 - 1 : PB5,  of Type IO, alternates : [PORTB P_5, SPI MOSI_, EXINT PCINT_13]
 - 2 : PB6,  of Type IO, alternates : [EXINT PCINT_14, SPI MISO_, PORTB P_6]
@@ -11253,6 +13106,21 @@ Pin count : 44
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-21399A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 S3B
+- Package Type : 	 VQFN
+- Pin count : 	 44,00
+- Package Layout : 	 [C04-21399A.pdf](./mchp/packages/c04-21399a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21399A.wrl) : 	 [C04-21399A.wrl](./Model3d/wrl/C04-21399A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21399A.stl) : 	 [C04-21399A.stl](./Model3d/stl/C04-21399A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21399A.obj) : 	 [C04-21399A.obj](./Model3d/obj/C04-21399A.obj)
+- Package 3d model x3d : 	 [C04-21399A.x3d](./Model3d/x3d/C04-21399A.x3d)
+- Package 3d model scad : 	 [C04-21399A.scad](./Model3d/scad/C04-21399A.scad)
+- Package 3d model usd : 	 [C04-21399A.usd](./Model3d/usd/C04-21399A.usd)
+- Package 3d model glb : 	 [C04-21399A.glb](./Model3d/glb/C04-21399A.glb)
+
+please check that some data is inconsistent 	 
+
 Pin count : 40
 - 1 : PB0,  of Type IO, alternates : [EXINT PCINT_8, PORTB P_0, TC0 T_, USART0 XCK_]
 - 2 : PB1,  of Type IO, alternates : [EXINT PCINT_9, PORTB P_1, TC1 T_, CPU CLKO_0]
@@ -11315,6 +13183,18 @@ Pin count : 40
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00076C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 T4X
+- Package Type : 	 TQFP
+- Pin count : 	 44,00
+- Package Layout : 	 [C04-00076C.pdf](./mchp/packages/c04-00076c.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00076C.wrl) : 	 [C04-00076C.wrl](./Model3d/wrl/C04-00076C.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00076C.stl) : 	 [C04-00076C.stl](./Model3d/stl/C04-00076C.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00076C.obj) : 	 [C04-00076C.obj](./Model3d/obj/C04-00076C.obj)
+- Package 3d model x3d : 	 [C04-00076C.x3d](./Model3d/x3d/C04-00076C.x3d)
+- Package 3d model scad : 	 [C04-00076C.scad](./Model3d/scad/C04-00076C.scad)
+- Package 3d model usd : 	 [C04-00076C.usd](./Model3d/usd/C04-00076C.usd)
+- Package 3d model glb : 	 [C04-00076C.glb](./Model3d/glb/C04-00076C.glb)
 Pin count : 44
 - 1 : PB5,  of Type IO, alternates : [PTC Y_29, TC3 ICP_, EXINT PCINT_13, SPI0 MOSI_, PORTB PORTB_5]
 - 2 : PB6,  of Type IO, alternates : [SPI0 MISO_, EXINT PCINT_14, PORTB PORTB_6, TC3 OCA_, PTC Y_30]
@@ -11381,6 +13261,18 @@ Pin count : 44
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00076C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 T4X
+- Package Type : 	 TQFP
+- Pin count : 	 44,00
+- Package Layout : 	 [C04-00076C.pdf](./mchp/packages/c04-00076c.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00076C.wrl) : 	 [C04-00076C.wrl](./Model3d/wrl/C04-00076C.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00076C.stl) : 	 [C04-00076C.stl](./Model3d/stl/C04-00076C.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00076C.obj) : 	 [C04-00076C.obj](./Model3d/obj/C04-00076C.obj)
+- Package 3d model x3d : 	 [C04-00076C.x3d](./Model3d/x3d/C04-00076C.x3d)
+- Package 3d model scad : 	 [C04-00076C.scad](./Model3d/scad/C04-00076C.scad)
+- Package 3d model usd : 	 [C04-00076C.usd](./Model3d/usd/C04-00076C.usd)
+- Package 3d model glb : 	 [C04-00076C.glb](./Model3d/glb/C04-00076C.glb)
 Pin count : 44
 - 1 : PB5,  of Type IO, alternates : [PTC Y_29, TC3 ICP_, EXINT PCINT_13, SPI0 MOSI_, PORTB PORTB_5]
 - 2 : PB6,  of Type IO, alternates : [SPI0 MISO_, EXINT PCINT_14, PORTB PORTB_6, TC3 OCA_, PTC Y_30]
@@ -11447,6 +13339,18 @@ Pin count : 44
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00076C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 T4X
+- Package Type : 	 TQFP
+- Pin count : 	 44,00
+- Package Layout : 	 [C04-00076C.pdf](./mchp/packages/c04-00076c.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00076C.wrl) : 	 [C04-00076C.wrl](./Model3d/wrl/C04-00076C.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00076C.stl) : 	 [C04-00076C.stl](./Model3d/stl/C04-00076C.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00076C.obj) : 	 [C04-00076C.obj](./Model3d/obj/C04-00076C.obj)
+- Package 3d model x3d : 	 [C04-00076C.x3d](./Model3d/x3d/C04-00076C.x3d)
+- Package 3d model scad : 	 [C04-00076C.scad](./Model3d/scad/C04-00076C.scad)
+- Package 3d model usd : 	 [C04-00076C.usd](./Model3d/usd/C04-00076C.usd)
+- Package 3d model glb : 	 [C04-00076C.glb](./Model3d/glb/C04-00076C.glb)
 Pin count : 44
 - 1 : PB5,  of Type IO, alternates : [PTC Y_29, TC3 ICP_, EXINT PCINT_13, SPI0 MOSI_, PORTB PORTB_5]
 - 2 : PB6,  of Type IO, alternates : [SPI0 MISO_, EXINT PCINT_14, PORTB PORTB_6, TC3 OCA_, PTC Y_30]
@@ -11513,6 +13417,18 @@ Pin count : 44
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00076C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 T4X
+- Package Type : 	 TQFP
+- Pin count : 	 44,00
+- Package Layout : 	 [C04-00076C.pdf](./mchp/packages/c04-00076c.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00076C.wrl) : 	 [C04-00076C.wrl](./Model3d/wrl/C04-00076C.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00076C.stl) : 	 [C04-00076C.stl](./Model3d/stl/C04-00076C.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00076C.obj) : 	 [C04-00076C.obj](./Model3d/obj/C04-00076C.obj)
+- Package 3d model x3d : 	 [C04-00076C.x3d](./Model3d/x3d/C04-00076C.x3d)
+- Package 3d model scad : 	 [C04-00076C.scad](./Model3d/scad/C04-00076C.scad)
+- Package 3d model usd : 	 [C04-00076C.usd](./Model3d/usd/C04-00076C.usd)
+- Package 3d model glb : 	 [C04-00076C.glb](./Model3d/glb/C04-00076C.glb)
 Pin count : 44
 - 1 : PB5,  of Type IO, alternates : [PTC Y_29, TC3 ICP_, EXINT PCINT_13, SPI0 MOSI_, PORTB PORTB_5]
 - 2 : PB6,  of Type IO, alternates : [SPI0 MISO_, EXINT PCINT_14, PORTB PORTB_6, TC3 OCA_, PTC Y_30]
@@ -11579,6 +13495,18 @@ Pin count : 44
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-21419A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 SSB
+- Package Type : 	 VQFN
+- Pin count : 	 44,00
+- Package Layout : 	 [C04-21419A.pdf](./mchp/packages/c04-21419a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21419A.wrl) : 	 [C04-21419A.wrl](./Model3d/wrl/C04-21419A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21419A.stl) : 	 [C04-21419A.stl](./Model3d/stl/C04-21419A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21419A.obj) : 	 [C04-21419A.obj](./Model3d/obj/C04-21419A.obj)
+- Package 3d model x3d : 	 [C04-21419A.x3d](./Model3d/x3d/C04-21419A.x3d)
+- Package 3d model scad : 	 [C04-21419A.scad](./Model3d/scad/C04-21419A.scad)
+- Package 3d model usd : 	 [C04-21419A.usd](./Model3d/usd/C04-21419A.usd)
+- Package 3d model glb : 	 [C04-21419A.glb](./Model3d/glb/C04-21419A.glb)
 Pin count : 44
 - 1 : PB5,  of Type IO, alternates : [PTC Y_29, TC3 ICP_, EXINT PCINT_13, SPI0 MOSI_, PORTB PORTB_5]
 - 2 : PB6,  of Type IO, alternates : [SPI0 MISO_, EXINT PCINT_14, PORTB PORTB_6, TC3 OCA_, PTC Y_30]
@@ -11645,6 +13573,18 @@ Pin count : 44
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-21419A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 SSB
+- Package Type : 	 VQFN
+- Pin count : 	 44,00
+- Package Layout : 	 [C04-21419A.pdf](./mchp/packages/c04-21419a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21419A.wrl) : 	 [C04-21419A.wrl](./Model3d/wrl/C04-21419A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21419A.stl) : 	 [C04-21419A.stl](./Model3d/stl/C04-21419A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21419A.obj) : 	 [C04-21419A.obj](./Model3d/obj/C04-21419A.obj)
+- Package 3d model x3d : 	 [C04-21419A.x3d](./Model3d/x3d/C04-21419A.x3d)
+- Package 3d model scad : 	 [C04-21419A.scad](./Model3d/scad/C04-21419A.scad)
+- Package 3d model usd : 	 [C04-21419A.usd](./Model3d/usd/C04-21419A.usd)
+- Package 3d model glb : 	 [C04-21419A.glb](./Model3d/glb/C04-21419A.glb)
 Pin count : 44
 - 1 : PB5,  of Type IO, alternates : [PTC Y_29, TC3 ICP_, EXINT PCINT_13, SPI0 MOSI_, PORTB PORTB_5]
 - 2 : PB6,  of Type IO, alternates : [SPI0 MISO_, EXINT PCINT_14, PORTB PORTB_6, TC3 OCA_, PTC Y_30]
@@ -11711,6 +13651,18 @@ Pin count : 44
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-21419A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 SSB
+- Package Type : 	 VQFN
+- Pin count : 	 44,00
+- Package Layout : 	 [C04-21419A.pdf](./mchp/packages/c04-21419a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21419A.wrl) : 	 [C04-21419A.wrl](./Model3d/wrl/C04-21419A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21419A.stl) : 	 [C04-21419A.stl](./Model3d/stl/C04-21419A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21419A.obj) : 	 [C04-21419A.obj](./Model3d/obj/C04-21419A.obj)
+- Package 3d model x3d : 	 [C04-21419A.x3d](./Model3d/x3d/C04-21419A.x3d)
+- Package 3d model scad : 	 [C04-21419A.scad](./Model3d/scad/C04-21419A.scad)
+- Package 3d model usd : 	 [C04-21419A.usd](./Model3d/usd/C04-21419A.usd)
+- Package 3d model glb : 	 [C04-21419A.glb](./Model3d/glb/C04-21419A.glb)
 Pin count : 44
 - 1 : PB5,  of Type IO, alternates : [PTC Y_29, TC3 ICP_, EXINT PCINT_13, SPI0 MOSI_, PORTB PORTB_5]
 - 2 : PB6,  of Type IO, alternates : [SPI0 MISO_, EXINT PCINT_14, PORTB PORTB_6, TC3 OCA_, PTC Y_30]
@@ -11777,6 +13729,18 @@ Pin count : 44
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-21419A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 SSB
+- Package Type : 	 VQFN
+- Pin count : 	 44,00
+- Package Layout : 	 [C04-21419A.pdf](./mchp/packages/c04-21419a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21419A.wrl) : 	 [C04-21419A.wrl](./Model3d/wrl/C04-21419A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21419A.stl) : 	 [C04-21419A.stl](./Model3d/stl/C04-21419A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21419A.obj) : 	 [C04-21419A.obj](./Model3d/obj/C04-21419A.obj)
+- Package 3d model x3d : 	 [C04-21419A.x3d](./Model3d/x3d/C04-21419A.x3d)
+- Package 3d model scad : 	 [C04-21419A.scad](./Model3d/scad/C04-21419A.scad)
+- Package 3d model usd : 	 [C04-21419A.usd](./Model3d/usd/C04-21419A.usd)
+- Package 3d model glb : 	 [C04-21419A.glb](./Model3d/glb/C04-21419A.glb)
 Pin count : 44
 - 1 : PB5,  of Type IO, alternates : [PTC Y_29, TC3 ICP_, EXINT PCINT_13, SPI0 MOSI_, PORTB PORTB_5]
 - 2 : PB6,  of Type IO, alternates : [SPI0 MISO_, EXINT PCINT_14, PORTB PORTB_6, TC3 OCA_, PTC Y_30]
@@ -11842,6 +13806,21 @@ Pin count : 44
 - Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
+
+- Package Outline Drawings : 	 [C04-21419A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 SSB
+- Package Type : 	 VQFN
+- Pin count : 	 44,00
+- Package Layout : 	 [C04-21419A.pdf](./mchp/packages/c04-21419a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21419A.wrl) : 	 [C04-21419A.wrl](./Model3d/wrl/C04-21419A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21419A.stl) : 	 [C04-21419A.stl](./Model3d/stl/C04-21419A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21419A.obj) : 	 [C04-21419A.obj](./Model3d/obj/C04-21419A.obj)
+- Package 3d model x3d : 	 [C04-21419A.x3d](./Model3d/x3d/C04-21419A.x3d)
+- Package 3d model scad : 	 [C04-21419A.scad](./Model3d/scad/C04-21419A.scad)
+- Package 3d model usd : 	 [C04-21419A.usd](./Model3d/usd/C04-21419A.usd)
+- Package 3d model glb : 	 [C04-21419A.glb](./Model3d/glb/C04-21419A.glb)
+
+please check that some data is inconsistent 	 
 
 Pin count : 44
 - 1 : PB5,  of Type IO, alternates : [PORTB P_5, SPI MOSI_, EXINT PCINT_13]
@@ -11909,6 +13888,18 @@ Pin count : 44
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00076C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 T4X
+- Package Type : 	 TQFP
+- Pin count : 	 44,00
+- Package Layout : 	 [C04-00076C.pdf](./mchp/packages/c04-00076c.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00076C.wrl) : 	 [C04-00076C.wrl](./Model3d/wrl/C04-00076C.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00076C.stl) : 	 [C04-00076C.stl](./Model3d/stl/C04-00076C.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00076C.obj) : 	 [C04-00076C.obj](./Model3d/obj/C04-00076C.obj)
+- Package 3d model x3d : 	 [C04-00076C.x3d](./Model3d/x3d/C04-00076C.x3d)
+- Package 3d model scad : 	 [C04-00076C.scad](./Model3d/scad/C04-00076C.scad)
+- Package 3d model usd : 	 [C04-00076C.usd](./Model3d/usd/C04-00076C.usd)
+- Package 3d model glb : 	 [C04-00076C.glb](./Model3d/glb/C04-00076C.glb)
 Pin count : 44
 - 1 : PB5,  of Type IO, alternates : [PORTB P_5, SPI MOSI_, EXINT PCINT_13]
 - 2 : PB6,  of Type IO, alternates : [EXINT PCINT_14, SPI MISO_, PORTB P_6]
@@ -11974,6 +13965,21 @@ Pin count : 44
 - Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
+
+- Package Outline Drawings : 	 [C04-21419A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 SSB
+- Package Type : 	 VQFN
+- Pin count : 	 44,00
+- Package Layout : 	 [C04-21419A.pdf](./mchp/packages/c04-21419a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21419A.wrl) : 	 [C04-21419A.wrl](./Model3d/wrl/C04-21419A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21419A.stl) : 	 [C04-21419A.stl](./Model3d/stl/C04-21419A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21419A.obj) : 	 [C04-21419A.obj](./Model3d/obj/C04-21419A.obj)
+- Package 3d model x3d : 	 [C04-21419A.x3d](./Model3d/x3d/C04-21419A.x3d)
+- Package 3d model scad : 	 [C04-21419A.scad](./Model3d/scad/C04-21419A.scad)
+- Package 3d model usd : 	 [C04-21419A.usd](./Model3d/usd/C04-21419A.usd)
+- Package 3d model glb : 	 [C04-21419A.glb](./Model3d/glb/C04-21419A.glb)
+
+please check that some data is inconsistent 	 
 
 Pin count : 44
 - 1 : PB5,  of Type IO, alternates : [PORTB P_5, SPI MOSI_, EXINT PCINT_13]
@@ -12041,6 +14047,18 @@ Pin count : 44
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-21419A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 SSB
+- Package Type : 	 VQFN
+- Pin count : 	 44,00
+- Package Layout : 	 [C04-21419A.pdf](./mchp/packages/c04-21419a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21419A.wrl) : 	 [C04-21419A.wrl](./Model3d/wrl/C04-21419A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21419A.stl) : 	 [C04-21419A.stl](./Model3d/stl/C04-21419A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21419A.obj) : 	 [C04-21419A.obj](./Model3d/obj/C04-21419A.obj)
+- Package 3d model x3d : 	 [C04-21419A.x3d](./Model3d/x3d/C04-21419A.x3d)
+- Package 3d model scad : 	 [C04-21419A.scad](./Model3d/scad/C04-21419A.scad)
+- Package 3d model usd : 	 [C04-21419A.usd](./Model3d/usd/C04-21419A.usd)
+- Package 3d model glb : 	 [C04-21419A.glb](./Model3d/glb/C04-21419A.glb)
 Pin count : 44
 - 1 : PB5,  of Type IO, alternates : [PORTB P_5, SPI MOSI_, EXINT PCINT_13]
 - 2 : PB6,  of Type IO, alternates : [EXINT PCINT_14, SPI MISO_, PORTB P_6]
@@ -12107,6 +14125,21 @@ Pin count : 44
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-21419A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 SSB
+- Package Type : 	 VQFN
+- Pin count : 	 44,00
+- Package Layout : 	 [C04-21419A.pdf](./mchp/packages/c04-21419a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21419A.wrl) : 	 [C04-21419A.wrl](./Model3d/wrl/C04-21419A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21419A.stl) : 	 [C04-21419A.stl](./Model3d/stl/C04-21419A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21419A.obj) : 	 [C04-21419A.obj](./Model3d/obj/C04-21419A.obj)
+- Package 3d model x3d : 	 [C04-21419A.x3d](./Model3d/x3d/C04-21419A.x3d)
+- Package 3d model scad : 	 [C04-21419A.scad](./Model3d/scad/C04-21419A.scad)
+- Package 3d model usd : 	 [C04-21419A.usd](./Model3d/usd/C04-21419A.usd)
+- Package 3d model glb : 	 [C04-21419A.glb](./Model3d/glb/C04-21419A.glb)
+
+please check that some data is inconsistent 	 
+
 Pin count : 40
 - 1 : PB0,  of Type IO, alternates : [EXINT PCINT_8, PORTB P_0, TC0 T_, USART0 XCK_]
 - 2 : PB1,  of Type IO, alternates : [EXINT PCINT_9, PORTB P_1, TC1 T_, CPU CLKO_0]
@@ -12168,6 +14201,21 @@ Pin count : 40
 - Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
+
+- Package Outline Drawings : 	 [C04-21419A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 SSB
+- Package Type : 	 VQFN
+- Pin count : 	 44,00
+- Package Layout : 	 [C04-21419A.pdf](./mchp/packages/c04-21419a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21419A.wrl) : 	 [C04-21419A.wrl](./Model3d/wrl/C04-21419A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21419A.stl) : 	 [C04-21419A.stl](./Model3d/stl/C04-21419A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21419A.obj) : 	 [C04-21419A.obj](./Model3d/obj/C04-21419A.obj)
+- Package 3d model x3d : 	 [C04-21419A.x3d](./Model3d/x3d/C04-21419A.x3d)
+- Package 3d model scad : 	 [C04-21419A.scad](./Model3d/scad/C04-21419A.scad)
+- Package 3d model usd : 	 [C04-21419A.usd](./Model3d/usd/C04-21419A.usd)
+- Package 3d model glb : 	 [C04-21419A.glb](./Model3d/glb/C04-21419A.glb)
+
+please check that some data is inconsistent 	 
 
 Pin count : 40
 - 1 : PB0,  of Type IO, alternates : [EXINT PCINT_8, PORTB P_0, TC0 T_, USART0 XCK_]
@@ -12231,6 +14279,18 @@ Pin count : 40
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00074D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 T5X
+- Package Type : 	 TQFP
+- Pin count : 	 32,00
+- Package Layout : 	 [C04-00074D.pdf](./mchp/packages/c04-00074d.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00074D.wrl) : 	 [C04-00074D.wrl](./Model3d/wrl/C04-00074D.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00074D.stl) : 	 [C04-00074D.stl](./Model3d/stl/C04-00074D.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00074D.obj) : 	 [C04-00074D.obj](./Model3d/obj/C04-00074D.obj)
+- Package 3d model x3d : 	 [C04-00074D.x3d](./Model3d/x3d/C04-00074D.x3d)
+- Package 3d model scad : 	 [C04-00074D.scad](./Model3d/scad/C04-00074D.scad)
+- Package 3d model usd : 	 [C04-00074D.usd](./Model3d/usd/C04-00074D.usd)
+- Package 3d model glb : 	 [C04-00074D.glb](./Model3d/glb/C04-00074D.glb)
 Pin count : 32
 - 1 : PD3,  of Type IO, alternates : [TC2 OCB_, PORTD P_3, EXINT PCINT_19, EXINT INT_1]
 - 2 : PD4,  of Type IO, alternates : [EXINT PCINT_20, TC0 T_, USART0 XCK_, PORTD P_4]
@@ -12285,6 +14345,18 @@ Pin count : 32
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-21388A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 RPB
+- Package Type : 	 VQFN
+- Pin count : 	 28,00
+- Package Layout : 	 [C04-21388A.pdf](./mchp/packages/c04-21388a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21388A.wrl) : 	 [C04-21388A.wrl](./Model3d/wrl/C04-21388A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21388A.stl) : 	 [C04-21388A.stl](./Model3d/stl/C04-21388A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21388A.obj) : 	 [C04-21388A.obj](./Model3d/obj/C04-21388A.obj)
+- Package 3d model x3d : 	 [C04-21388A.x3d](./Model3d/x3d/C04-21388A.x3d)
+- Package 3d model scad : 	 [C04-21388A.scad](./Model3d/scad/C04-21388A.scad)
+- Package 3d model usd : 	 [C04-21388A.usd](./Model3d/usd/C04-21388A.usd)
+- Package 3d model glb : 	 [C04-21388A.glb](./Model3d/glb/C04-21388A.glb)
 Pin count : 28
 - 1 : PD3,  of Type IO, alternates : [TC2 OCB_, PORTD P_3, EXINT PCINT_19, EXINT INT_1]
 - 2 : PD4,  of Type IO, alternates : [EXINT PCINT_20, TC0 T_, USART0 XCK_, PORTD P_4]
@@ -12335,6 +14407,18 @@ Pin count : 28
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-21395C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 RXB
+- Package Type : 	 VQFN
+- Pin count : 	 32,00
+- Package Layout : 	 [C04-21395C.pdf](./mchp/packages/c04-21395c.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21395C.wrl) : 	 [C04-21395C.wrl](./Model3d/wrl/C04-21395C.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21395C.stl) : 	 [C04-21395C.stl](./Model3d/stl/C04-21395C.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21395C.obj) : 	 [C04-21395C.obj](./Model3d/obj/C04-21395C.obj)
+- Package 3d model x3d : 	 [C04-21395C.x3d](./Model3d/x3d/C04-21395C.x3d)
+- Package 3d model scad : 	 [C04-21395C.scad](./Model3d/scad/C04-21395C.scad)
+- Package 3d model usd : 	 [C04-21395C.usd](./Model3d/usd/C04-21395C.usd)
+- Package 3d model glb : 	 [C04-21395C.glb](./Model3d/glb/C04-21395C.glb)
 Pin count : 32
 - 1 : PD3,  of Type IO, alternates : [TC2 OCB_, PORTD P_3, EXINT PCINT_19, EXINT INT_1]
 - 2 : PD4,  of Type IO, alternates : [EXINT PCINT_20, TC0 T_, USART0 XCK_, PORTD P_4]
@@ -12389,6 +14473,11 @@ Pin count : 32
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00070B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 M3X
+- Package Type : 	 SPDIP
+- Pin count : 	 28,00
+- Package Layout : 	 [C04-00070B.pdf](./mchp/packages/c04-00070b.pdf)
 Pin count : 28
 - 1 : PC6,  of Type IO, alternates : [EXINT PCINT_14, PORTC P_6]
 - 2 : PD0,  of Type IO, alternates : [PORTD P_0, USART0 RXD_, EXINT PCINT_16]
@@ -12439,6 +14528,18 @@ Pin count : 28
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00074D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 T5X
+- Package Type : 	 TQFP
+- Pin count : 	 32,00
+- Package Layout : 	 [C04-00074D.pdf](./mchp/packages/c04-00074d.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00074D.wrl) : 	 [C04-00074D.wrl](./Model3d/wrl/C04-00074D.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00074D.stl) : 	 [C04-00074D.stl](./Model3d/stl/C04-00074D.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00074D.obj) : 	 [C04-00074D.obj](./Model3d/obj/C04-00074D.obj)
+- Package 3d model x3d : 	 [C04-00074D.x3d](./Model3d/x3d/C04-00074D.x3d)
+- Package 3d model scad : 	 [C04-00074D.scad](./Model3d/scad/C04-00074D.scad)
+- Package 3d model usd : 	 [C04-00074D.usd](./Model3d/usd/C04-00074D.usd)
+- Package 3d model glb : 	 [C04-00074D.glb](./Model3d/glb/C04-00074D.glb)
 Pin count : 32
 - 1 : PD3,  of Type IO, alternates : [TC2 OCB_, PORTD P_3, EXINT PCINT_19, EXINT INT_1]
 - 2 : PD4,  of Type IO, alternates : [EXINT PCINT_20, TC0 T_, USART0 XCK_, PORTD P_4]
@@ -12493,6 +14594,18 @@ Pin count : 32
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00074D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 T5X
+- Package Type : 	 TQFP
+- Pin count : 	 32,00
+- Package Layout : 	 [C04-00074D.pdf](./mchp/packages/c04-00074d.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00074D.wrl) : 	 [C04-00074D.wrl](./Model3d/wrl/C04-00074D.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00074D.stl) : 	 [C04-00074D.stl](./Model3d/stl/C04-00074D.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00074D.obj) : 	 [C04-00074D.obj](./Model3d/obj/C04-00074D.obj)
+- Package 3d model x3d : 	 [C04-00074D.x3d](./Model3d/x3d/C04-00074D.x3d)
+- Package 3d model scad : 	 [C04-00074D.scad](./Model3d/scad/C04-00074D.scad)
+- Package 3d model usd : 	 [C04-00074D.usd](./Model3d/usd/C04-00074D.usd)
+- Package 3d model glb : 	 [C04-00074D.glb](./Model3d/glb/C04-00074D.glb)
 Pin count : 32
 - 1 : PD3,  of Type IO, alternates : [TC2 OCB_, PORTD P_3, EXINT PCINT_19, EXINT INT_1]
 - 2 : PD4,  of Type IO, alternates : [EXINT PCINT_20, TC0 T_, USART0 XCK_, PORTD P_4]
@@ -12547,6 +14660,18 @@ Pin count : 32
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-21388A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 RPB
+- Package Type : 	 VQFN
+- Pin count : 	 28,00
+- Package Layout : 	 [C04-21388A.pdf](./mchp/packages/c04-21388a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21388A.wrl) : 	 [C04-21388A.wrl](./Model3d/wrl/C04-21388A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21388A.stl) : 	 [C04-21388A.stl](./Model3d/stl/C04-21388A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21388A.obj) : 	 [C04-21388A.obj](./Model3d/obj/C04-21388A.obj)
+- Package 3d model x3d : 	 [C04-21388A.x3d](./Model3d/x3d/C04-21388A.x3d)
+- Package 3d model scad : 	 [C04-21388A.scad](./Model3d/scad/C04-21388A.scad)
+- Package 3d model usd : 	 [C04-21388A.usd](./Model3d/usd/C04-21388A.usd)
+- Package 3d model glb : 	 [C04-21388A.glb](./Model3d/glb/C04-21388A.glb)
 Pin count : 28
 - 1 : PD3,  of Type IO, alternates : [TC2 OCB_, PORTD P_3, EXINT PCINT_19, EXINT INT_1]
 - 2 : PD4,  of Type IO, alternates : [EXINT PCINT_20, TC0 T_, USART0 XCK_, PORTD P_4]
@@ -12597,6 +14722,18 @@ Pin count : 28
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-21395C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 RXB
+- Package Type : 	 VQFN
+- Pin count : 	 32,00
+- Package Layout : 	 [C04-21395C.pdf](./mchp/packages/c04-21395c.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21395C.wrl) : 	 [C04-21395C.wrl](./Model3d/wrl/C04-21395C.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21395C.stl) : 	 [C04-21395C.stl](./Model3d/stl/C04-21395C.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21395C.obj) : 	 [C04-21395C.obj](./Model3d/obj/C04-21395C.obj)
+- Package 3d model x3d : 	 [C04-21395C.x3d](./Model3d/x3d/C04-21395C.x3d)
+- Package 3d model scad : 	 [C04-21395C.scad](./Model3d/scad/C04-21395C.scad)
+- Package 3d model usd : 	 [C04-21395C.usd](./Model3d/usd/C04-21395C.usd)
+- Package 3d model glb : 	 [C04-21395C.glb](./Model3d/glb/C04-21395C.glb)
 Pin count : 32
 - 1 : PD3,  of Type IO, alternates : [TC2 OCB_, PORTD P_3, EXINT PCINT_19, EXINT INT_1]
 - 2 : PD4,  of Type IO, alternates : [EXINT PCINT_20, TC0 T_, USART0 XCK_, PORTD P_4]
@@ -12651,6 +14788,18 @@ Pin count : 32
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-21395C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 RXB
+- Package Type : 	 VQFN
+- Pin count : 	 32,00
+- Package Layout : 	 [C04-21395C.pdf](./mchp/packages/c04-21395c.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21395C.wrl) : 	 [C04-21395C.wrl](./Model3d/wrl/C04-21395C.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21395C.stl) : 	 [C04-21395C.stl](./Model3d/stl/C04-21395C.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21395C.obj) : 	 [C04-21395C.obj](./Model3d/obj/C04-21395C.obj)
+- Package 3d model x3d : 	 [C04-21395C.x3d](./Model3d/x3d/C04-21395C.x3d)
+- Package 3d model scad : 	 [C04-21395C.scad](./Model3d/scad/C04-21395C.scad)
+- Package 3d model usd : 	 [C04-21395C.usd](./Model3d/usd/C04-21395C.usd)
+- Package 3d model glb : 	 [C04-21395C.glb](./Model3d/glb/C04-21395C.glb)
 Pin count : 32
 - 1 : PD3,  of Type IO, alternates : [TC2 OCB_, PORTD P_3, EXINT PCINT_19, EXINT INT_1]
 - 2 : PD4,  of Type IO, alternates : [EXINT PCINT_20, TC0 T_, USART0 XCK_, PORTD P_4]
@@ -12705,6 +14854,11 @@ Pin count : 32
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00070B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 M3X
+- Package Type : 	 SPDIP
+- Pin count : 	 28,00
+- Package Layout : 	 [C04-00070B.pdf](./mchp/packages/c04-00070b.pdf)
 Pin count : 28
 - 1 : PC6,  of Type IO, alternates : [EXINT PCINT_14, PORTC P_6]
 - 2 : PD0,  of Type IO, alternates : [PORTD P_0, USART0 RXD_, EXINT PCINT_16]
@@ -12755,6 +14909,11 @@ Pin count : 28
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00070B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 M3X
+- Package Type : 	 SPDIP
+- Pin count : 	 28,00
+- Package Layout : 	 [C04-00070B.pdf](./mchp/packages/c04-00070b.pdf)
 Pin count : 28
 - 1 : PC6,  of Type IO, alternates : [EXINT PCINT_14, PORTC P_6]
 - 2 : PD0,  of Type IO, alternates : [PORTD P_0, USART0 RXD_, EXINT PCINT_16]
@@ -12805,6 +14964,18 @@ Pin count : 28
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00074D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 T5X
+- Package Type : 	 TQFP
+- Pin count : 	 32,00
+- Package Layout : 	 [C04-00074D.pdf](./mchp/packages/c04-00074d.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00074D.wrl) : 	 [C04-00074D.wrl](./Model3d/wrl/C04-00074D.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00074D.stl) : 	 [C04-00074D.stl](./Model3d/stl/C04-00074D.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00074D.obj) : 	 [C04-00074D.obj](./Model3d/obj/C04-00074D.obj)
+- Package 3d model x3d : 	 [C04-00074D.x3d](./Model3d/x3d/C04-00074D.x3d)
+- Package 3d model scad : 	 [C04-00074D.scad](./Model3d/scad/C04-00074D.scad)
+- Package 3d model usd : 	 [C04-00074D.usd](./Model3d/usd/C04-00074D.usd)
+- Package 3d model glb : 	 [C04-00074D.glb](./Model3d/glb/C04-00074D.glb)
 Pin count : 32
 - 1 : PD3,  of Type IO, alternates : [TC2 OCB_, PTC X_03, PORTD P_3, EXINT PCINT_19, PTC Y_11, EXINT INT_1]
 - 2 : PD4,  of Type IO, alternates : [PTC Y_12, EXINT PCINT_20, PTC X_04, TC0 T_, USART0 XCK_, PORTD P_4]
@@ -12859,6 +15030,18 @@ Pin count : 32
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00074D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 T5X
+- Package Type : 	 TQFP
+- Pin count : 	 32,00
+- Package Layout : 	 [C04-00074D.pdf](./mchp/packages/c04-00074d.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00074D.wrl) : 	 [C04-00074D.wrl](./Model3d/wrl/C04-00074D.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00074D.stl) : 	 [C04-00074D.stl](./Model3d/stl/C04-00074D.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00074D.obj) : 	 [C04-00074D.obj](./Model3d/obj/C04-00074D.obj)
+- Package 3d model x3d : 	 [C04-00074D.x3d](./Model3d/x3d/C04-00074D.x3d)
+- Package 3d model scad : 	 [C04-00074D.scad](./Model3d/scad/C04-00074D.scad)
+- Package 3d model usd : 	 [C04-00074D.usd](./Model3d/usd/C04-00074D.usd)
+- Package 3d model glb : 	 [C04-00074D.glb](./Model3d/glb/C04-00074D.glb)
 Pin count : 32
 - 1 : PD3,  of Type IO, alternates : [TC2 OCB_, PTC X_03, PORTD P_3, EXINT PCINT_19, PTC Y_11, EXINT INT_1]
 - 2 : PD4,  of Type IO, alternates : [PTC Y_12, EXINT PCINT_20, PTC X_04, TC0 T_, USART0 XCK_, PORTD P_4]
@@ -12913,6 +15096,18 @@ Pin count : 32
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-21395C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 RXB
+- Package Type : 	 VQFN
+- Pin count : 	 32,00
+- Package Layout : 	 [C04-21395C.pdf](./mchp/packages/c04-21395c.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21395C.wrl) : 	 [C04-21395C.wrl](./Model3d/wrl/C04-21395C.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21395C.stl) : 	 [C04-21395C.stl](./Model3d/stl/C04-21395C.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21395C.obj) : 	 [C04-21395C.obj](./Model3d/obj/C04-21395C.obj)
+- Package 3d model x3d : 	 [C04-21395C.x3d](./Model3d/x3d/C04-21395C.x3d)
+- Package 3d model scad : 	 [C04-21395C.scad](./Model3d/scad/C04-21395C.scad)
+- Package 3d model usd : 	 [C04-21395C.usd](./Model3d/usd/C04-21395C.usd)
+- Package 3d model glb : 	 [C04-21395C.glb](./Model3d/glb/C04-21395C.glb)
 Pin count : 32
 - 1 : PD3,  of Type IO, alternates : [TC2 OCB_, PTC X_03, PORTD P_3, EXINT PCINT_19, PTC Y_11, EXINT INT_1]
 - 2 : PD4,  of Type IO, alternates : [PTC Y_12, EXINT PCINT_20, PTC X_04, TC0 T_, USART0 XCK_, PORTD P_4]
@@ -12967,6 +15162,18 @@ Pin count : 32
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-21395C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 RXB
+- Package Type : 	 VQFN
+- Pin count : 	 32,00
+- Package Layout : 	 [C04-21395C.pdf](./mchp/packages/c04-21395c.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21395C.wrl) : 	 [C04-21395C.wrl](./Model3d/wrl/C04-21395C.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21395C.stl) : 	 [C04-21395C.stl](./Model3d/stl/C04-21395C.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21395C.obj) : 	 [C04-21395C.obj](./Model3d/obj/C04-21395C.obj)
+- Package 3d model x3d : 	 [C04-21395C.x3d](./Model3d/x3d/C04-21395C.x3d)
+- Package 3d model scad : 	 [C04-21395C.scad](./Model3d/scad/C04-21395C.scad)
+- Package 3d model usd : 	 [C04-21395C.usd](./Model3d/usd/C04-21395C.usd)
+- Package 3d model glb : 	 [C04-21395C.glb](./Model3d/glb/C04-21395C.glb)
 Pin count : 32
 - 1 : PD3,  of Type IO, alternates : [TC2 OCB_, PTC X_03, PORTD P_3, EXINT PCINT_19, PTC Y_11, EXINT INT_1]
 - 2 : PD4,  of Type IO, alternates : [PTC Y_12, EXINT PCINT_20, PTC X_04, TC0 T_, USART0 XCK_, PORTD P_4]
@@ -13021,6 +15228,18 @@ Pin count : 32
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00066B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 V3X
+- Package Type : 	 TQFP
+- Pin count : 	 64,00
+- Package Layout : 	 [C04-00066B.pdf](./mchp/packages/c04-00066b.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00066B.wrl) : 	 [C04-00066B.wrl](./Model3d/wrl/C04-00066B.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00066B.stl) : 	 [C04-00066B.stl](./Model3d/stl/C04-00066B.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00066B.obj) : 	 [C04-00066B.obj](./Model3d/obj/C04-00066B.obj)
+- Package 3d model x3d : 	 [C04-00066B.x3d](./Model3d/x3d/C04-00066B.x3d)
+- Package 3d model scad : 	 [C04-00066B.scad](./Model3d/scad/C04-00066B.scad)
+- Package 3d model usd : 	 [C04-00066B.usd](./Model3d/usd/C04-00066B.usd)
+- Package 3d model glb : 	 [C04-00066B.glb](./Model3d/glb/C04-00066B.glb)
 Pin count : 64
 - 1 : LCDCAP,  of Type PS
 - 2 : PE0,  of Type IO, alternates : [PORTE P_0, EXINT PCINT_0, USART0 RXD_]
@@ -13107,6 +15326,18 @@ Pin count : 64
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-21435A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 TEB
+- Package Type : 	 VQFN
+- Pin count : 	 64,00
+- Package Layout : 	 [C04-21435A.pdf](./mchp/packages/c04-21435a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21435A.wrl) : 	 [C04-21435A.wrl](./Model3d/wrl/C04-21435A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21435A.stl) : 	 [C04-21435A.stl](./Model3d/stl/C04-21435A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21435A.obj) : 	 [C04-21435A.obj](./Model3d/obj/C04-21435A.obj)
+- Package 3d model x3d : 	 [C04-21435A.x3d](./Model3d/x3d/C04-21435A.x3d)
+- Package 3d model scad : 	 [C04-21435A.scad](./Model3d/scad/C04-21435A.scad)
+- Package 3d model usd : 	 [C04-21435A.usd](./Model3d/usd/C04-21435A.usd)
+- Package 3d model glb : 	 [C04-21435A.glb](./Model3d/glb/C04-21435A.glb)
 Pin count : 64
 - 1 : LCDCAP,  of Type PS
 - 2 : PE0,  of Type IO, alternates : [PORTE P_0, EXINT PCINT_0, USART0 RXD_]
@@ -13192,6 +15423,21 @@ Pin count : 64
 - Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
+
+- Package Outline Drawings : 	 [C04-21435A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 TEB
+- Package Type : 	 VQFN
+- Pin count : 	 64,00
+- Package Layout : 	 [C04-21435A.pdf](./mchp/packages/c04-21435a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21435A.wrl) : 	 [C04-21435A.wrl](./Model3d/wrl/C04-21435A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21435A.stl) : 	 [C04-21435A.stl](./Model3d/stl/C04-21435A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21435A.obj) : 	 [C04-21435A.obj](./Model3d/obj/C04-21435A.obj)
+- Package 3d model x3d : 	 [C04-21435A.x3d](./Model3d/x3d/C04-21435A.x3d)
+- Package 3d model scad : 	 [C04-21435A.scad](./Model3d/scad/C04-21435A.scad)
+- Package 3d model usd : 	 [C04-21435A.usd](./Model3d/usd/C04-21435A.usd)
+- Package 3d model glb : 	 [C04-21435A.glb](./Model3d/glb/C04-21435A.glb)
+
+please check that some data is inconsistent 	 
 
 Pin count : 64
 - 1 : LCDCAP,  of Type PS
@@ -13279,6 +15525,18 @@ Pin count : 64
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00066B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 V3X
+- Package Type : 	 TQFP
+- Pin count : 	 64,00
+- Package Layout : 	 [C04-00066B.pdf](./mchp/packages/c04-00066b.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00066B.wrl) : 	 [C04-00066B.wrl](./Model3d/wrl/C04-00066B.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00066B.stl) : 	 [C04-00066B.stl](./Model3d/stl/C04-00066B.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00066B.obj) : 	 [C04-00066B.obj](./Model3d/obj/C04-00066B.obj)
+- Package 3d model x3d : 	 [C04-00066B.x3d](./Model3d/x3d/C04-00066B.x3d)
+- Package 3d model scad : 	 [C04-00066B.scad](./Model3d/scad/C04-00066B.scad)
+- Package 3d model usd : 	 [C04-00066B.usd](./Model3d/usd/C04-00066B.usd)
+- Package 3d model glb : 	 [C04-00066B.glb](./Model3d/glb/C04-00066B.glb)
 Pin count : 64
 - 1 : LCDCAP,  of Type PS
 - 2 : PE0,  of Type IO, alternates : [PORTE P_0, EXINT PCINT_0, USART0 RXD_]
@@ -13364,6 +15622,21 @@ Pin count : 64
 - Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
+
+- Package Outline Drawings : 	 [C04-21435A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 TEB
+- Package Type : 	 VQFN
+- Pin count : 	 64,00
+- Package Layout : 	 [C04-21435A.pdf](./mchp/packages/c04-21435a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21435A.wrl) : 	 [C04-21435A.wrl](./Model3d/wrl/C04-21435A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21435A.stl) : 	 [C04-21435A.stl](./Model3d/stl/C04-21435A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21435A.obj) : 	 [C04-21435A.obj](./Model3d/obj/C04-21435A.obj)
+- Package 3d model x3d : 	 [C04-21435A.x3d](./Model3d/x3d/C04-21435A.x3d)
+- Package 3d model scad : 	 [C04-21435A.scad](./Model3d/scad/C04-21435A.scad)
+- Package 3d model usd : 	 [C04-21435A.usd](./Model3d/usd/C04-21435A.usd)
+- Package 3d model glb : 	 [C04-21435A.glb](./Model3d/glb/C04-21435A.glb)
+
+please check that some data is inconsistent 	 
 
 Pin count : 64
 - 1 : LCDCAP,  of Type PS
@@ -13451,6 +15724,18 @@ Pin count : 64
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-21435A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 TEB
+- Package Type : 	 VQFN
+- Pin count : 	 64,00
+- Package Layout : 	 [C04-21435A.pdf](./mchp/packages/c04-21435a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21435A.wrl) : 	 [C04-21435A.wrl](./Model3d/wrl/C04-21435A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21435A.stl) : 	 [C04-21435A.stl](./Model3d/stl/C04-21435A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21435A.obj) : 	 [C04-21435A.obj](./Model3d/obj/C04-21435A.obj)
+- Package 3d model x3d : 	 [C04-21435A.x3d](./Model3d/x3d/C04-21435A.x3d)
+- Package 3d model scad : 	 [C04-21435A.scad](./Model3d/scad/C04-21435A.scad)
+- Package 3d model usd : 	 [C04-21435A.usd](./Model3d/usd/C04-21435A.usd)
+- Package 3d model glb : 	 [C04-21435A.glb](./Model3d/glb/C04-21435A.glb)
 Pin count : 64
 - 1 : LCDCAP,  of Type PS
 - 2 : PE0,  of Type IO, alternates : [PORTE P_0, EXINT PCINT_0, USART0 RXD_]
@@ -13536,6 +15821,21 @@ Pin count : 64
 - Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
+
+- Package Outline Drawings : 	 [C04-00066B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 V3X
+- Package Type : 	 TQFP
+- Pin count : 	 64,00
+- Package Layout : 	 [C04-00066B.pdf](./mchp/packages/c04-00066b.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00066B.wrl) : 	 [C04-00066B.wrl](./Model3d/wrl/C04-00066B.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00066B.stl) : 	 [C04-00066B.stl](./Model3d/stl/C04-00066B.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00066B.obj) : 	 [C04-00066B.obj](./Model3d/obj/C04-00066B.obj)
+- Package 3d model x3d : 	 [C04-00066B.x3d](./Model3d/x3d/C04-00066B.x3d)
+- Package 3d model scad : 	 [C04-00066B.scad](./Model3d/scad/C04-00066B.scad)
+- Package 3d model usd : 	 [C04-00066B.usd](./Model3d/usd/C04-00066B.usd)
+- Package 3d model glb : 	 [C04-00066B.glb](./Model3d/glb/C04-00066B.glb)
+
+please check that some data is inconsistent 	 
 
 Pin count : 64
 - 1 : LCDCAP,  of Type PS
@@ -13623,6 +15923,18 @@ Pin count : 64
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00066B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 V3X
+- Package Type : 	 TQFP
+- Pin count : 	 64,00
+- Package Layout : 	 [C04-00066B.pdf](./mchp/packages/c04-00066b.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00066B.wrl) : 	 [C04-00066B.wrl](./Model3d/wrl/C04-00066B.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00066B.stl) : 	 [C04-00066B.stl](./Model3d/stl/C04-00066B.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00066B.obj) : 	 [C04-00066B.obj](./Model3d/obj/C04-00066B.obj)
+- Package 3d model x3d : 	 [C04-00066B.x3d](./Model3d/x3d/C04-00066B.x3d)
+- Package 3d model scad : 	 [C04-00066B.scad](./Model3d/scad/C04-00066B.scad)
+- Package 3d model usd : 	 [C04-00066B.usd](./Model3d/usd/C04-00066B.usd)
+- Package 3d model glb : 	 [C04-00066B.glb](./Model3d/glb/C04-00066B.glb)
 Pin count : 64
 - 1 : LCDCAP,  of Type PS
 - 2 : PE0,  of Type IO, alternates : [PORTE P_0, EXINT PCINT_0, USART0 RXD_]
@@ -13709,6 +16021,18 @@ Pin count : 64
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-21435A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 TEB
+- Package Type : 	 VQFN
+- Pin count : 	 64,00
+- Package Layout : 	 [C04-21435A.pdf](./mchp/packages/c04-21435a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21435A.wrl) : 	 [C04-21435A.wrl](./Model3d/wrl/C04-21435A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21435A.stl) : 	 [C04-21435A.stl](./Model3d/stl/C04-21435A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21435A.obj) : 	 [C04-21435A.obj](./Model3d/obj/C04-21435A.obj)
+- Package 3d model x3d : 	 [C04-21435A.x3d](./Model3d/x3d/C04-21435A.x3d)
+- Package 3d model scad : 	 [C04-21435A.scad](./Model3d/scad/C04-21435A.scad)
+- Package 3d model usd : 	 [C04-21435A.usd](./Model3d/usd/C04-21435A.usd)
+- Package 3d model glb : 	 [C04-21435A.glb](./Model3d/glb/C04-21435A.glb)
 Pin count : 64
 - 1 : LCDCAP,  of Type PS
 - 2 : PE0,  of Type IO, alternates : [PORTE P_0, EXINT PCINT_0, USART0 RXD_]
@@ -13795,6 +16119,18 @@ Pin count : 64
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-21435A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 TEB
+- Package Type : 	 VQFN
+- Pin count : 	 64,00
+- Package Layout : 	 [C04-21435A.pdf](./mchp/packages/c04-21435a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21435A.wrl) : 	 [C04-21435A.wrl](./Model3d/wrl/C04-21435A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21435A.stl) : 	 [C04-21435A.stl](./Model3d/stl/C04-21435A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21435A.obj) : 	 [C04-21435A.obj](./Model3d/obj/C04-21435A.obj)
+- Package 3d model x3d : 	 [C04-21435A.x3d](./Model3d/x3d/C04-21435A.x3d)
+- Package 3d model scad : 	 [C04-21435A.scad](./Model3d/scad/C04-21435A.scad)
+- Package 3d model usd : 	 [C04-21435A.usd](./Model3d/usd/C04-21435A.usd)
+- Package 3d model glb : 	 [C04-21435A.glb](./Model3d/glb/C04-21435A.glb)
 Pin count : 64
 - 1 : LCDCAP,  of Type PS
 - 2 : PE0,  of Type IO, alternates : [PORTE P_0, EXINT PCINT_0, USART0 RXD_]
@@ -13880,6 +16216,21 @@ Pin count : 64
 - Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
+
+- Package Outline Drawings : 	 [C04-21435A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 TEB
+- Package Type : 	 VQFN
+- Pin count : 	 64,00
+- Package Layout : 	 [C04-21435A.pdf](./mchp/packages/c04-21435a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21435A.wrl) : 	 [C04-21435A.wrl](./Model3d/wrl/C04-21435A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21435A.stl) : 	 [C04-21435A.stl](./Model3d/stl/C04-21435A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21435A.obj) : 	 [C04-21435A.obj](./Model3d/obj/C04-21435A.obj)
+- Package 3d model x3d : 	 [C04-21435A.x3d](./Model3d/x3d/C04-21435A.x3d)
+- Package 3d model scad : 	 [C04-21435A.scad](./Model3d/scad/C04-21435A.scad)
+- Package 3d model usd : 	 [C04-21435A.usd](./Model3d/usd/C04-21435A.usd)
+- Package 3d model glb : 	 [C04-21435A.glb](./Model3d/glb/C04-21435A.glb)
+
+please check that some data is inconsistent 	 
 
 Pin count : 64
 - 1 : LCDCAP,  of Type PS
@@ -13967,6 +16318,18 @@ Pin count : 64
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00066B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 V3X
+- Package Type : 	 TQFP
+- Pin count : 	 64,00
+- Package Layout : 	 [C04-00066B.pdf](./mchp/packages/c04-00066b.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00066B.wrl) : 	 [C04-00066B.wrl](./Model3d/wrl/C04-00066B.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00066B.stl) : 	 [C04-00066B.stl](./Model3d/stl/C04-00066B.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00066B.obj) : 	 [C04-00066B.obj](./Model3d/obj/C04-00066B.obj)
+- Package 3d model x3d : 	 [C04-00066B.x3d](./Model3d/x3d/C04-00066B.x3d)
+- Package 3d model scad : 	 [C04-00066B.scad](./Model3d/scad/C04-00066B.scad)
+- Package 3d model usd : 	 [C04-00066B.usd](./Model3d/usd/C04-00066B.usd)
+- Package 3d model glb : 	 [C04-00066B.glb](./Model3d/glb/C04-00066B.glb)
 Pin count : 64
 - 1 : LCDCAP,  of Type PS
 - 2 : PE0,  of Type IO, alternates : [PORTE P_0, EXINT PCINT_0, USART0 RXD_]
@@ -14052,6 +16415,21 @@ Pin count : 64
 - Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
+
+- Package Outline Drawings : 	 [C04-21435A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 TEB
+- Package Type : 	 VQFN
+- Pin count : 	 64,00
+- Package Layout : 	 [C04-21435A.pdf](./mchp/packages/c04-21435a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21435A.wrl) : 	 [C04-21435A.wrl](./Model3d/wrl/C04-21435A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21435A.stl) : 	 [C04-21435A.stl](./Model3d/stl/C04-21435A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21435A.obj) : 	 [C04-21435A.obj](./Model3d/obj/C04-21435A.obj)
+- Package 3d model x3d : 	 [C04-21435A.x3d](./Model3d/x3d/C04-21435A.x3d)
+- Package 3d model scad : 	 [C04-21435A.scad](./Model3d/scad/C04-21435A.scad)
+- Package 3d model usd : 	 [C04-21435A.usd](./Model3d/usd/C04-21435A.usd)
+- Package 3d model glb : 	 [C04-21435A.glb](./Model3d/glb/C04-21435A.glb)
+
+please check that some data is inconsistent 	 
 
 Pin count : 64
 - 1 : LCDCAP,  of Type PS
@@ -14139,6 +16517,18 @@ Pin count : 64
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-21435A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 TEB
+- Package Type : 	 VQFN
+- Pin count : 	 64,00
+- Package Layout : 	 [C04-21435A.pdf](./mchp/packages/c04-21435a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21435A.wrl) : 	 [C04-21435A.wrl](./Model3d/wrl/C04-21435A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21435A.stl) : 	 [C04-21435A.stl](./Model3d/stl/C04-21435A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21435A.obj) : 	 [C04-21435A.obj](./Model3d/obj/C04-21435A.obj)
+- Package 3d model x3d : 	 [C04-21435A.x3d](./Model3d/x3d/C04-21435A.x3d)
+- Package 3d model scad : 	 [C04-21435A.scad](./Model3d/scad/C04-21435A.scad)
+- Package 3d model usd : 	 [C04-21435A.usd](./Model3d/usd/C04-21435A.usd)
+- Package 3d model glb : 	 [C04-21435A.glb](./Model3d/glb/C04-21435A.glb)
 Pin count : 64
 - 1 : LCDCAP,  of Type PS
 - 2 : PE0,  of Type IO, alternates : [PORTE P_0, EXINT PCINT_0, USART0 RXD_]
@@ -14225,6 +16615,18 @@ Pin count : 64
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00066B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 V3X
+- Package Type : 	 TQFP
+- Pin count : 	 64,00
+- Package Layout : 	 [C04-00066B.pdf](./mchp/packages/c04-00066b.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00066B.wrl) : 	 [C04-00066B.wrl](./Model3d/wrl/C04-00066B.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00066B.stl) : 	 [C04-00066B.stl](./Model3d/stl/C04-00066B.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00066B.obj) : 	 [C04-00066B.obj](./Model3d/obj/C04-00066B.obj)
+- Package 3d model x3d : 	 [C04-00066B.x3d](./Model3d/x3d/C04-00066B.x3d)
+- Package 3d model scad : 	 [C04-00066B.scad](./Model3d/scad/C04-00066B.scad)
+- Package 3d model usd : 	 [C04-00066B.usd](./Model3d/usd/C04-00066B.usd)
+- Package 3d model glb : 	 [C04-00066B.glb](./Model3d/glb/C04-00066B.glb)
 Pin count : 64
 - 1 : LCDCAP,  of Type PS
 - 2 : PE0,  of Type IO, alternates : [PORTE P_0, EXINT PCINT_0, USART0 RXD_]
@@ -14311,6 +16713,18 @@ Pin count : 64
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-21435A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 TEB
+- Package Type : 	 VQFN
+- Pin count : 	 64,00
+- Package Layout : 	 [C04-21435A.pdf](./mchp/packages/c04-21435a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21435A.wrl) : 	 [C04-21435A.wrl](./Model3d/wrl/C04-21435A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21435A.stl) : 	 [C04-21435A.stl](./Model3d/stl/C04-21435A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21435A.obj) : 	 [C04-21435A.obj](./Model3d/obj/C04-21435A.obj)
+- Package 3d model x3d : 	 [C04-21435A.x3d](./Model3d/x3d/C04-21435A.x3d)
+- Package 3d model scad : 	 [C04-21435A.scad](./Model3d/scad/C04-21435A.scad)
+- Package 3d model usd : 	 [C04-21435A.usd](./Model3d/usd/C04-21435A.usd)
+- Package 3d model glb : 	 [C04-21435A.glb](./Model3d/glb/C04-21435A.glb)
 Pin count : 64
 - 1 : LCDCAP,  of Type PS
 - 2 : PE0,  of Type IO, alternates : [PORTE P_0, EXINT PCINT_0, USART0 RXD_]
@@ -14397,6 +16811,18 @@ Pin count : 64
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00066B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 V3X
+- Package Type : 	 TQFP
+- Pin count : 	 64,00
+- Package Layout : 	 [C04-00066B.pdf](./mchp/packages/c04-00066b.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00066B.wrl) : 	 [C04-00066B.wrl](./Model3d/wrl/C04-00066B.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00066B.stl) : 	 [C04-00066B.stl](./Model3d/stl/C04-00066B.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00066B.obj) : 	 [C04-00066B.obj](./Model3d/obj/C04-00066B.obj)
+- Package 3d model x3d : 	 [C04-00066B.x3d](./Model3d/x3d/C04-00066B.x3d)
+- Package 3d model scad : 	 [C04-00066B.scad](./Model3d/scad/C04-00066B.scad)
+- Package 3d model usd : 	 [C04-00066B.usd](./Model3d/usd/C04-00066B.usd)
+- Package 3d model glb : 	 [C04-00066B.glb](./Model3d/glb/C04-00066B.glb)
 Pin count : 64
 - 1 : LCDCAP,  of Type PS
 - 2 : PE0,  of Type IO, alternates : [PORTE P_0, EXINT PCINT_0, USART0 RXD_]
@@ -14483,6 +16909,18 @@ Pin count : 64
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-21435A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 TEB
+- Package Type : 	 VQFN
+- Pin count : 	 64,00
+- Package Layout : 	 [C04-21435A.pdf](./mchp/packages/c04-21435a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21435A.wrl) : 	 [C04-21435A.wrl](./Model3d/wrl/C04-21435A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21435A.stl) : 	 [C04-21435A.stl](./Model3d/stl/C04-21435A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21435A.obj) : 	 [C04-21435A.obj](./Model3d/obj/C04-21435A.obj)
+- Package 3d model x3d : 	 [C04-21435A.x3d](./Model3d/x3d/C04-21435A.x3d)
+- Package 3d model scad : 	 [C04-21435A.scad](./Model3d/scad/C04-21435A.scad)
+- Package 3d model usd : 	 [C04-21435A.usd](./Model3d/usd/C04-21435A.usd)
+- Package 3d model glb : 	 [C04-21435A.glb](./Model3d/glb/C04-21435A.glb)
 Pin count : 64
 - 1 : LCDCAP,  of Type PS
 - 2 : PE0,  of Type IO, alternates : [PORTE P_0, EXINT PCINT_0, USART0 RXD_]
@@ -14569,6 +17007,18 @@ Pin count : 64
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00076C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 T4X
+- Package Type : 	 TQFP
+- Pin count : 	 44,00
+- Package Layout : 	 [C04-00076C.pdf](./mchp/packages/c04-00076c.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00076C.wrl) : 	 [C04-00076C.wrl](./Model3d/wrl/C04-00076C.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00076C.stl) : 	 [C04-00076C.stl](./Model3d/stl/C04-00076C.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00076C.obj) : 	 [C04-00076C.obj](./Model3d/obj/C04-00076C.obj)
+- Package 3d model x3d : 	 [C04-00076C.x3d](./Model3d/x3d/C04-00076C.x3d)
+- Package 3d model scad : 	 [C04-00076C.scad](./Model3d/scad/C04-00076C.scad)
+- Package 3d model usd : 	 [C04-00076C.usd](./Model3d/usd/C04-00076C.usd)
+- Package 3d model glb : 	 [C04-00076C.glb](./Model3d/glb/C04-00076C.glb)
 Pin count : 44
 - 1 : PB5,  of Type IO, alternates : [PORTB P_5, SPI MOSI_]
 - 2 : PB6,  of Type IO, alternates : [SPI MISO_, PORTB P_6]
@@ -14635,6 +17085,18 @@ Pin count : 44
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00076C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 T4X
+- Package Type : 	 TQFP
+- Pin count : 	 44,00
+- Package Layout : 	 [C04-00076C.pdf](./mchp/packages/c04-00076c.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00076C.wrl) : 	 [C04-00076C.wrl](./Model3d/wrl/C04-00076C.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00076C.stl) : 	 [C04-00076C.stl](./Model3d/stl/C04-00076C.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00076C.obj) : 	 [C04-00076C.obj](./Model3d/obj/C04-00076C.obj)
+- Package 3d model x3d : 	 [C04-00076C.x3d](./Model3d/x3d/C04-00076C.x3d)
+- Package 3d model scad : 	 [C04-00076C.scad](./Model3d/scad/C04-00076C.scad)
+- Package 3d model usd : 	 [C04-00076C.usd](./Model3d/usd/C04-00076C.usd)
+- Package 3d model glb : 	 [C04-00076C.glb](./Model3d/glb/C04-00076C.glb)
 Pin count : 44
 - 1 : PB5,  of Type IO, alternates : [PORTB P_5, SPI MOSI_]
 - 2 : PB6,  of Type IO, alternates : [SPI MISO_, PORTB P_6]
@@ -14701,6 +17163,18 @@ Pin count : 44
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-21419A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 SSB
+- Package Type : 	 VQFN
+- Pin count : 	 44,00
+- Package Layout : 	 [C04-21419A.pdf](./mchp/packages/c04-21419a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21419A.wrl) : 	 [C04-21419A.wrl](./Model3d/wrl/C04-21419A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21419A.stl) : 	 [C04-21419A.stl](./Model3d/stl/C04-21419A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21419A.obj) : 	 [C04-21419A.obj](./Model3d/obj/C04-21419A.obj)
+- Package 3d model x3d : 	 [C04-21419A.x3d](./Model3d/x3d/C04-21419A.x3d)
+- Package 3d model scad : 	 [C04-21419A.scad](./Model3d/scad/C04-21419A.scad)
+- Package 3d model usd : 	 [C04-21419A.usd](./Model3d/usd/C04-21419A.usd)
+- Package 3d model glb : 	 [C04-21419A.glb](./Model3d/glb/C04-21419A.glb)
 Pin count : 44
 - 1 : PB5,  of Type IO, alternates : [PORTB P_5, SPI MOSI_]
 - 2 : PB6,  of Type IO, alternates : [SPI MISO_, PORTB P_6]
@@ -14767,6 +17241,18 @@ Pin count : 44
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-21419A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 SSB
+- Package Type : 	 VQFN
+- Pin count : 	 44,00
+- Package Layout : 	 [C04-21419A.pdf](./mchp/packages/c04-21419a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21419A.wrl) : 	 [C04-21419A.wrl](./Model3d/wrl/C04-21419A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21419A.stl) : 	 [C04-21419A.stl](./Model3d/stl/C04-21419A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21419A.obj) : 	 [C04-21419A.obj](./Model3d/obj/C04-21419A.obj)
+- Package 3d model x3d : 	 [C04-21419A.x3d](./Model3d/x3d/C04-21419A.x3d)
+- Package 3d model scad : 	 [C04-21419A.scad](./Model3d/scad/C04-21419A.scad)
+- Package 3d model usd : 	 [C04-21419A.usd](./Model3d/usd/C04-21419A.usd)
+- Package 3d model glb : 	 [C04-21419A.glb](./Model3d/glb/C04-21419A.glb)
 Pin count : 44
 - 1 : PB5,  of Type IO, alternates : [PORTB P_5, SPI MOSI_]
 - 2 : PB6,  of Type IO, alternates : [SPI MISO_, PORTB P_6]
@@ -14833,6 +17319,11 @@ Pin count : 44
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00016B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 S2X
+- Package Type : 	 PDIP
+- Pin count : 	 40,00
+- Package Layout : 	 [C04-00016B.pdf](./mchp/packages/c04-00016b.pdf)
 Pin count : 40
 - 1 : PB0,  of Type IO, alternates : [PORTB P_0, TC0 T_, USART XCK_]
 - 2 : PB1,  of Type IO, alternates : [PORTB P_1, TC1 T_]
@@ -14895,6 +17386,21 @@ Pin count : 40
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-21427A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 T5B
+- Package Type : 	 VQFN
+- Pin count : 	 32,00
+- Package Layout : 	 [C04-21427A.pdf](./mchp/packages/c04-21427a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21427A.wrl) : 	 [C04-21427A.wrl](./Model3d/wrl/C04-21427A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21427A.stl) : 	 [C04-21427A.stl](./Model3d/stl/C04-21427A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21427A.obj) : 	 [C04-21427A.obj](./Model3d/obj/C04-21427A.obj)
+- Package 3d model x3d : 	 [C04-21427A.x3d](./Model3d/x3d/C04-21427A.x3d)
+- Package 3d model scad : 	 [C04-21427A.scad](./Model3d/scad/C04-21427A.scad)
+- Package 3d model usd : 	 [C04-21427A.usd](./Model3d/usd/C04-21427A.usd)
+- Package 3d model glb : 	 [C04-21427A.glb](./Model3d/glb/C04-21427A.glb)
+
+please check that some data is inconsistent 	 
+
 Pin count : 32
 - 1 : PD2,  of Type IO, alternates : [TC1 OC1A_, PORTD PIN_2, SPI MISO_, EXINT PCINT_18]
 - 2 : PD3,  of Type IO, alternates : [PORTD PIN_3, LINUART TXLIN_, SPI MOSI_, SPI SS_, TC0 OC0A_, EXINT PCINT_19]
@@ -14948,6 +17454,21 @@ Pin count : 32
 - Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
+
+- Package Outline Drawings : 	 [C04-21427A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 T5B
+- Package Type : 	 VQFN
+- Pin count : 	 32,00
+- Package Layout : 	 [C04-21427A.pdf](./mchp/packages/c04-21427a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21427A.wrl) : 	 [C04-21427A.wrl](./Model3d/wrl/C04-21427A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21427A.stl) : 	 [C04-21427A.stl](./Model3d/stl/C04-21427A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21427A.obj) : 	 [C04-21427A.obj](./Model3d/obj/C04-21427A.obj)
+- Package 3d model x3d : 	 [C04-21427A.x3d](./Model3d/x3d/C04-21427A.x3d)
+- Package 3d model scad : 	 [C04-21427A.scad](./Model3d/scad/C04-21427A.scad)
+- Package 3d model usd : 	 [C04-21427A.usd](./Model3d/usd/C04-21427A.usd)
+- Package 3d model glb : 	 [C04-21427A.glb](./Model3d/glb/C04-21427A.glb)
+
+please check that some data is inconsistent 	 
 
 Pin count : 32
 - 1 : PD2,  of Type IO, alternates : [TC1 OC1A_, PORTD PIN_2, SPI MISO_, EXINT PCINT_18]
@@ -15003,6 +17524,18 @@ Pin count : 32
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00076C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 T4X
+- Package Type : 	 TQFP
+- Pin count : 	 44,00
+- Package Layout : 	 [C04-00076C.pdf](./mchp/packages/c04-00076c.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00076C.wrl) : 	 [C04-00076C.wrl](./Model3d/wrl/C04-00076C.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00076C.stl) : 	 [C04-00076C.stl](./Model3d/stl/C04-00076C.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00076C.obj) : 	 [C04-00076C.obj](./Model3d/obj/C04-00076C.obj)
+- Package 3d model x3d : 	 [C04-00076C.x3d](./Model3d/x3d/C04-00076C.x3d)
+- Package 3d model scad : 	 [C04-00076C.scad](./Model3d/scad/C04-00076C.scad)
+- Package 3d model usd : 	 [C04-00076C.usd](./Model3d/usd/C04-00076C.usd)
+- Package 3d model glb : 	 [C04-00076C.glb](./Model3d/glb/C04-00076C.glb)
 Pin count : 44
 - 1 : PB5,  of Type IO, alternates : [PORTB P_5, SPI MOSI_]
 - 2 : PB6,  of Type IO, alternates : [SPI MISO_, PORTB P_6]
@@ -15069,6 +17602,18 @@ Pin count : 44
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-21419A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 SSB
+- Package Type : 	 VQFN
+- Pin count : 	 44,00
+- Package Layout : 	 [C04-21419A.pdf](./mchp/packages/c04-21419a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21419A.wrl) : 	 [C04-21419A.wrl](./Model3d/wrl/C04-21419A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21419A.stl) : 	 [C04-21419A.stl](./Model3d/stl/C04-21419A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21419A.obj) : 	 [C04-21419A.obj](./Model3d/obj/C04-21419A.obj)
+- Package 3d model x3d : 	 [C04-21419A.x3d](./Model3d/x3d/C04-21419A.x3d)
+- Package 3d model scad : 	 [C04-21419A.scad](./Model3d/scad/C04-21419A.scad)
+- Package 3d model usd : 	 [C04-21419A.usd](./Model3d/usd/C04-21419A.usd)
+- Package 3d model glb : 	 [C04-21419A.glb](./Model3d/glb/C04-21419A.glb)
 Pin count : 44
 - 1 : PB5,  of Type IO, alternates : [PORTB P_5, SPI MOSI_]
 - 2 : PB6,  of Type IO, alternates : [SPI MISO_, PORTB P_6]
@@ -15135,6 +17680,21 @@ Pin count : 44
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00076C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 T4X
+- Package Type : 	 TQFP
+- Pin count : 	 44,00
+- Package Layout : 	 [C04-00076C.pdf](./mchp/packages/c04-00076c.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00076C.wrl) : 	 [C04-00076C.wrl](./Model3d/wrl/C04-00076C.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00076C.stl) : 	 [C04-00076C.stl](./Model3d/stl/C04-00076C.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00076C.obj) : 	 [C04-00076C.obj](./Model3d/obj/C04-00076C.obj)
+- Package 3d model x3d : 	 [C04-00076C.x3d](./Model3d/x3d/C04-00076C.x3d)
+- Package 3d model scad : 	 [C04-00076C.scad](./Model3d/scad/C04-00076C.scad)
+- Package 3d model usd : 	 [C04-00076C.usd](./Model3d/usd/C04-00076C.usd)
+- Package 3d model glb : 	 [C04-00076C.glb](./Model3d/glb/C04-00076C.glb)
+
+please check that some data is inconsistent 	 
+
 Pin count : 40
 - 1 : PB0,  of Type IO, alternates : [PORTB P_0, TC0 T_, USART XCK_]
 - 2 : PB1,  of Type IO, alternates : [PORTB P_1, TC1 T_]
@@ -15197,6 +17757,18 @@ Pin count : 40
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00074D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 T5X
+- Package Type : 	 TQFP
+- Pin count : 	 32,00
+- Package Layout : 	 [C04-00074D.pdf](./mchp/packages/c04-00074d.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00074D.wrl) : 	 [C04-00074D.wrl](./Model3d/wrl/C04-00074D.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00074D.stl) : 	 [C04-00074D.stl](./Model3d/stl/C04-00074D.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00074D.obj) : 	 [C04-00074D.obj](./Model3d/obj/C04-00074D.obj)
+- Package 3d model x3d : 	 [C04-00074D.x3d](./Model3d/x3d/C04-00074D.x3d)
+- Package 3d model scad : 	 [C04-00074D.scad](./Model3d/scad/C04-00074D.scad)
+- Package 3d model usd : 	 [C04-00074D.usd](./Model3d/usd/C04-00074D.usd)
+- Package 3d model glb : 	 [C04-00074D.glb](./Model3d/glb/C04-00074D.glb)
 Pin count : 32
 - 1 : PD2,  of Type IO, alternates : [TC1 OC1A_, PORTD PIN_2, SPI MISO_, EXINT PCINT_18, PSC PSCIN2_]
 - 2 : PD3,  of Type IO, alternates : [PORTD PIN_3, LINUART TXLIN_, SPI MOSI_, SPI SS_, TC0 OC0A_, EXINT PCINT_19]
@@ -15251,6 +17823,18 @@ Pin count : 32
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-21427A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 T5B
+- Package Type : 	 VQFN
+- Pin count : 	 32,00
+- Package Layout : 	 [C04-21427A.pdf](./mchp/packages/c04-21427a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21427A.wrl) : 	 [C04-21427A.wrl](./Model3d/wrl/C04-21427A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21427A.stl) : 	 [C04-21427A.stl](./Model3d/stl/C04-21427A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21427A.obj) : 	 [C04-21427A.obj](./Model3d/obj/C04-21427A.obj)
+- Package 3d model x3d : 	 [C04-21427A.x3d](./Model3d/x3d/C04-21427A.x3d)
+- Package 3d model scad : 	 [C04-21427A.scad](./Model3d/scad/C04-21427A.scad)
+- Package 3d model usd : 	 [C04-21427A.usd](./Model3d/usd/C04-21427A.usd)
+- Package 3d model glb : 	 [C04-21427A.glb](./Model3d/glb/C04-21427A.glb)
 Pin count : 32
 - 1 : PD2,  of Type IO, alternates : [TC1 OC1A_, PORTD PIN_2, SPI MISO_, EXINT PCINT_18, PSC PSCIN2_]
 - 2 : PD3,  of Type IO, alternates : [PORTD PIN_3, LINUART TXLIN_, SPI MOSI_, SPI SS_, TC0 OC0A_, EXINT PCINT_19]
@@ -15305,6 +17889,18 @@ Pin count : 32
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00074D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 T5X
+- Package Type : 	 TQFP
+- Pin count : 	 32,00
+- Package Layout : 	 [C04-00074D.pdf](./mchp/packages/c04-00074d.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00074D.wrl) : 	 [C04-00074D.wrl](./Model3d/wrl/C04-00074D.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00074D.stl) : 	 [C04-00074D.stl](./Model3d/stl/C04-00074D.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00074D.obj) : 	 [C04-00074D.obj](./Model3d/obj/C04-00074D.obj)
+- Package 3d model x3d : 	 [C04-00074D.x3d](./Model3d/x3d/C04-00074D.x3d)
+- Package 3d model scad : 	 [C04-00074D.scad](./Model3d/scad/C04-00074D.scad)
+- Package 3d model usd : 	 [C04-00074D.usd](./Model3d/usd/C04-00074D.usd)
+- Package 3d model glb : 	 [C04-00074D.glb](./Model3d/glb/C04-00074D.glb)
 Pin count : 32
 - 1 : XTAL1,  of Type PS
 - 2 : PC0,  of Type IO, alternates : [PORTC P_0]
@@ -15359,6 +17955,18 @@ Pin count : 32
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-21402A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 S8B
+- Package Type : 	 VQFN
+- Pin count : 	 32,00
+- Package Layout : 	 [C04-21402A.pdf](./mchp/packages/c04-21402a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21402A.wrl) : 	 [C04-21402A.wrl](./Model3d/wrl/C04-21402A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21402A.stl) : 	 [C04-21402A.stl](./Model3d/stl/C04-21402A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21402A.obj) : 	 [C04-21402A.obj](./Model3d/obj/C04-21402A.obj)
+- Package 3d model x3d : 	 [C04-21402A.x3d](./Model3d/x3d/C04-21402A.x3d)
+- Package 3d model scad : 	 [C04-21402A.scad](./Model3d/scad/C04-21402A.scad)
+- Package 3d model usd : 	 [C04-21402A.usd](./Model3d/usd/C04-21402A.usd)
+- Package 3d model glb : 	 [C04-21402A.glb](./Model3d/glb/C04-21402A.glb)
 Pin count : 32
 - 1 : XTAL1,  of Type PS
 - 2 : PC0,  of Type IO, alternates : [PORTC P_0]
@@ -15413,6 +18021,18 @@ Pin count : 32
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00076C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 T4X
+- Package Type : 	 TQFP
+- Pin count : 	 44,00
+- Package Layout : 	 [C04-00076C.pdf](./mchp/packages/c04-00076c.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00076C.wrl) : 	 [C04-00076C.wrl](./Model3d/wrl/C04-00076C.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00076C.stl) : 	 [C04-00076C.stl](./Model3d/stl/C04-00076C.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00076C.obj) : 	 [C04-00076C.obj](./Model3d/obj/C04-00076C.obj)
+- Package 3d model x3d : 	 [C04-00076C.x3d](./Model3d/x3d/C04-00076C.x3d)
+- Package 3d model scad : 	 [C04-00076C.scad](./Model3d/scad/C04-00076C.scad)
+- Package 3d model usd : 	 [C04-00076C.usd](./Model3d/usd/C04-00076C.usd)
+- Package 3d model glb : 	 [C04-00076C.glb](./Model3d/glb/C04-00076C.glb)
 Pin count : 44
 - 1 : PE6,  of Type IO, alternates : [EXINT INT_6, AC AIN_0, PORTE P_6]
 - 2 : UVCC,  of Type PP
@@ -15479,6 +18099,18 @@ Pin count : 44
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-21421A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 SWB
+- Package Type : 	 VQFN
+- Pin count : 	 44,00
+- Package Layout : 	 [C04-21421A.pdf](./mchp/packages/c04-21421a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21421A.wrl) : 	 [C04-21421A.wrl](./Model3d/wrl/C04-21421A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21421A.stl) : 	 [C04-21421A.stl](./Model3d/stl/C04-21421A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21421A.obj) : 	 [C04-21421A.obj](./Model3d/obj/C04-21421A.obj)
+- Package 3d model x3d : 	 [C04-21421A.x3d](./Model3d/x3d/C04-21421A.x3d)
+- Package 3d model scad : 	 [C04-21421A.scad](./Model3d/scad/C04-21421A.scad)
+- Package 3d model usd : 	 [C04-21421A.usd](./Model3d/usd/C04-21421A.usd)
+- Package 3d model glb : 	 [C04-21421A.glb](./Model3d/glb/C04-21421A.glb)
 Pin count : 44
 - 1 : PE6,  of Type IO, alternates : [EXINT INT_6, AC AIN_0, PORTE P_6]
 - 2 : UVCC,  of Type PP
@@ -15545,6 +18177,18 @@ Pin count : 44
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00076C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 T4X
+- Package Type : 	 TQFP
+- Pin count : 	 44,00
+- Package Layout : 	 [C04-00076C.pdf](./mchp/packages/c04-00076c.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00076C.wrl) : 	 [C04-00076C.wrl](./Model3d/wrl/C04-00076C.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00076C.stl) : 	 [C04-00076C.stl](./Model3d/stl/C04-00076C.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00076C.obj) : 	 [C04-00076C.obj](./Model3d/obj/C04-00076C.obj)
+- Package 3d model x3d : 	 [C04-00076C.x3d](./Model3d/x3d/C04-00076C.x3d)
+- Package 3d model scad : 	 [C04-00076C.scad](./Model3d/scad/C04-00076C.scad)
+- Package 3d model usd : 	 [C04-00076C.usd](./Model3d/usd/C04-00076C.usd)
+- Package 3d model glb : 	 [C04-00076C.glb](./Model3d/glb/C04-00076C.glb)
 Pin count : 44
 - 1 : PE6,  of Type IO, alternates : [EXINT INT_6, AC AIN_0, PORTE P_6]
 - 2 : UVCC,  of Type PP
@@ -15611,6 +18255,18 @@ Pin count : 44
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-21421A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 SWB
+- Package Type : 	 VQFN
+- Pin count : 	 44,00
+- Package Layout : 	 [C04-21421A.pdf](./mchp/packages/c04-21421a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21421A.wrl) : 	 [C04-21421A.wrl](./Model3d/wrl/C04-21421A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21421A.stl) : 	 [C04-21421A.stl](./Model3d/stl/C04-21421A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21421A.obj) : 	 [C04-21421A.obj](./Model3d/obj/C04-21421A.obj)
+- Package 3d model x3d : 	 [C04-21421A.x3d](./Model3d/x3d/C04-21421A.x3d)
+- Package 3d model scad : 	 [C04-21421A.scad](./Model3d/scad/C04-21421A.scad)
+- Package 3d model usd : 	 [C04-21421A.usd](./Model3d/usd/C04-21421A.usd)
+- Package 3d model glb : 	 [C04-21421A.glb](./Model3d/glb/C04-21421A.glb)
 Pin count : 44
 - 1 : PE6,  of Type IO, alternates : [EXINT INT_6, AC AIN_0, PORTE P_6]
 - 2 : UVCC,  of Type PP
@@ -15677,6 +18333,18 @@ Pin count : 44
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00074D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 T5X
+- Package Type : 	 TQFP
+- Pin count : 	 32,00
+- Package Layout : 	 [C04-00074D.pdf](./mchp/packages/c04-00074d.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00074D.wrl) : 	 [C04-00074D.wrl](./Model3d/wrl/C04-00074D.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00074D.stl) : 	 [C04-00074D.stl](./Model3d/stl/C04-00074D.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00074D.obj) : 	 [C04-00074D.obj](./Model3d/obj/C04-00074D.obj)
+- Package 3d model x3d : 	 [C04-00074D.x3d](./Model3d/x3d/C04-00074D.x3d)
+- Package 3d model scad : 	 [C04-00074D.scad](./Model3d/scad/C04-00074D.scad)
+- Package 3d model usd : 	 [C04-00074D.usd](./Model3d/usd/C04-00074D.usd)
+- Package 3d model glb : 	 [C04-00074D.glb](./Model3d/glb/C04-00074D.glb)
 Pin count : 32
 - 1 : PD3,  of Type IO, alternates : [TC2 OCB_, PORTD P_3, EXINT PCINT_19, EXINT INT_1]
 - 2 : PD4,  of Type IO, alternates : [EXINT PCINT_20, TC0 T_, USART0 XCK_, PORTD P_4]
@@ -15731,6 +18399,18 @@ Pin count : 32
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-21388A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 RPB
+- Package Type : 	 VQFN
+- Pin count : 	 28,00
+- Package Layout : 	 [C04-21388A.pdf](./mchp/packages/c04-21388a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21388A.wrl) : 	 [C04-21388A.wrl](./Model3d/wrl/C04-21388A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21388A.stl) : 	 [C04-21388A.stl](./Model3d/stl/C04-21388A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21388A.obj) : 	 [C04-21388A.obj](./Model3d/obj/C04-21388A.obj)
+- Package 3d model x3d : 	 [C04-21388A.x3d](./Model3d/x3d/C04-21388A.x3d)
+- Package 3d model scad : 	 [C04-21388A.scad](./Model3d/scad/C04-21388A.scad)
+- Package 3d model usd : 	 [C04-21388A.usd](./Model3d/usd/C04-21388A.usd)
+- Package 3d model glb : 	 [C04-21388A.glb](./Model3d/glb/C04-21388A.glb)
 Pin count : 28
 - 1 : PD3,  of Type IO, alternates : [TC2 OCB_, PORTD P_3, EXINT PCINT_19, EXINT INT_1]
 - 2 : PD4,  of Type IO, alternates : [EXINT PCINT_20, TC0 T_, USART0 XCK_, PORTD P_4]
@@ -15781,6 +18461,18 @@ Pin count : 28
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-21388A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 RNB
+- Package Type : 	 VQFN
+- Pin count : 	 28,00
+- Package Layout : 	 [C04-21388A.pdf](./mchp/packages/c04-21388a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21388A.wrl) : 	 [C04-21388A.wrl](./Model3d/wrl/C04-21388A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21388A.stl) : 	 [C04-21388A.stl](./Model3d/stl/C04-21388A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21388A.obj) : 	 [C04-21388A.obj](./Model3d/obj/C04-21388A.obj)
+- Package 3d model x3d : 	 [C04-21388A.x3d](./Model3d/x3d/C04-21388A.x3d)
+- Package 3d model scad : 	 [C04-21388A.scad](./Model3d/scad/C04-21388A.scad)
+- Package 3d model usd : 	 [C04-21388A.usd](./Model3d/usd/C04-21388A.usd)
+- Package 3d model glb : 	 [C04-21388A.glb](./Model3d/glb/C04-21388A.glb)
 Pin count : 28
 - 1 : PD3,  of Type IO, alternates : [TC2 OCB_, PORTD P_3, EXINT PCINT_19, EXINT INT_1]
 - 2 : PD4,  of Type IO, alternates : [EXINT PCINT_20, TC0 T_, USART0 XCK_, PORTD P_4]
@@ -15831,6 +18523,18 @@ Pin count : 28
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-21395C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 RXB
+- Package Type : 	 VQFN
+- Pin count : 	 32,00
+- Package Layout : 	 [C04-21395C.pdf](./mchp/packages/c04-21395c.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21395C.wrl) : 	 [C04-21395C.wrl](./Model3d/wrl/C04-21395C.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21395C.stl) : 	 [C04-21395C.stl](./Model3d/stl/C04-21395C.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21395C.obj) : 	 [C04-21395C.obj](./Model3d/obj/C04-21395C.obj)
+- Package 3d model x3d : 	 [C04-21395C.x3d](./Model3d/x3d/C04-21395C.x3d)
+- Package 3d model scad : 	 [C04-21395C.scad](./Model3d/scad/C04-21395C.scad)
+- Package 3d model usd : 	 [C04-21395C.usd](./Model3d/usd/C04-21395C.usd)
+- Package 3d model glb : 	 [C04-21395C.glb](./Model3d/glb/C04-21395C.glb)
 Pin count : 32
 - 1 : PD3,  of Type IO, alternates : [TC2 OCB_, PORTD P_3, EXINT PCINT_19, EXINT INT_1]
 - 2 : PD4,  of Type IO, alternates : [EXINT PCINT_20, TC0 T_, USART0 XCK_, PORTD P_4]
@@ -15885,6 +18589,11 @@ Pin count : 32
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00070B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 M3X
+- Package Type : 	 SPDIP
+- Pin count : 	 28,00
+- Package Layout : 	 [C04-00070B.pdf](./mchp/packages/c04-00070b.pdf)
 Pin count : 28
 - 1 : PC6,  of Type IO, alternates : [EXINT PCINT_14, PORTC P_6]
 - 2 : PD0,  of Type IO, alternates : [PORTD P_0, USART0 RXD_, EXINT PCINT_16]
@@ -15935,6 +18644,18 @@ Pin count : 28
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00074D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 T5X
+- Package Type : 	 TQFP
+- Pin count : 	 32,00
+- Package Layout : 	 [C04-00074D.pdf](./mchp/packages/c04-00074d.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00074D.wrl) : 	 [C04-00074D.wrl](./Model3d/wrl/C04-00074D.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00074D.stl) : 	 [C04-00074D.stl](./Model3d/stl/C04-00074D.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00074D.obj) : 	 [C04-00074D.obj](./Model3d/obj/C04-00074D.obj)
+- Package 3d model x3d : 	 [C04-00074D.x3d](./Model3d/x3d/C04-00074D.x3d)
+- Package 3d model scad : 	 [C04-00074D.scad](./Model3d/scad/C04-00074D.scad)
+- Package 3d model usd : 	 [C04-00074D.usd](./Model3d/usd/C04-00074D.usd)
+- Package 3d model glb : 	 [C04-00074D.glb](./Model3d/glb/C04-00074D.glb)
 Pin count : 32
 - 1 : PD3,  of Type IO, alternates : [TC2 OCB_, PORTD P_3, EXINT PCINT_19, EXINT INT_1]
 - 2 : PD4,  of Type IO, alternates : [EXINT PCINT_20, TC0 T_, USART0 XCK_, PORTD P_4]
@@ -15989,6 +18710,21 @@ Pin count : 32
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-21388A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 RPB
+- Package Type : 	 VQFN
+- Pin count : 	 28,00
+- Package Layout : 	 [C04-21388A.pdf](./mchp/packages/c04-21388a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21388A.wrl) : 	 [C04-21388A.wrl](./Model3d/wrl/C04-21388A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21388A.stl) : 	 [C04-21388A.stl](./Model3d/stl/C04-21388A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21388A.obj) : 	 [C04-21388A.obj](./Model3d/obj/C04-21388A.obj)
+- Package 3d model x3d : 	 [C04-21388A.x3d](./Model3d/x3d/C04-21388A.x3d)
+- Package 3d model scad : 	 [C04-21388A.scad](./Model3d/scad/C04-21388A.scad)
+- Package 3d model usd : 	 [C04-21388A.usd](./Model3d/usd/C04-21388A.usd)
+- Package 3d model glb : 	 [C04-21388A.glb](./Model3d/glb/C04-21388A.glb)
+
+please check that some data is inconsistent 	 
+
 Pin count : 31
 - B1 : PD3,  of Type IO, alternates : [TC2 OCB_, PORTD P_3, EXINT PCINT_19, EXINT INT_1]
 - B2 : PD4,  of Type IO, alternates : [EXINT PCINT_20, TC0 T_, USART0 XCK_, PORTD P_4]
@@ -16042,6 +18778,18 @@ Pin count : 31
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-21388A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 RPB
+- Package Type : 	 VQFN
+- Pin count : 	 28,00
+- Package Layout : 	 [C04-21388A.pdf](./mchp/packages/c04-21388a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21388A.wrl) : 	 [C04-21388A.wrl](./Model3d/wrl/C04-21388A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21388A.stl) : 	 [C04-21388A.stl](./Model3d/stl/C04-21388A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21388A.obj) : 	 [C04-21388A.obj](./Model3d/obj/C04-21388A.obj)
+- Package 3d model x3d : 	 [C04-21388A.x3d](./Model3d/x3d/C04-21388A.x3d)
+- Package 3d model scad : 	 [C04-21388A.scad](./Model3d/scad/C04-21388A.scad)
+- Package 3d model usd : 	 [C04-21388A.usd](./Model3d/usd/C04-21388A.usd)
+- Package 3d model glb : 	 [C04-21388A.glb](./Model3d/glb/C04-21388A.glb)
 Pin count : 28
 - 1 : PD3,  of Type IO, alternates : [TC2 OCB_, PORTD P_3, EXINT PCINT_19, EXINT INT_1]
 - 2 : PD4,  of Type IO, alternates : [EXINT PCINT_20, TC0 T_, USART0 XCK_, PORTD P_4]
@@ -16092,6 +18840,18 @@ Pin count : 28
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-21395C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 RXB
+- Package Type : 	 VQFN
+- Pin count : 	 32,00
+- Package Layout : 	 [C04-21395C.pdf](./mchp/packages/c04-21395c.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21395C.wrl) : 	 [C04-21395C.wrl](./Model3d/wrl/C04-21395C.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21395C.stl) : 	 [C04-21395C.stl](./Model3d/stl/C04-21395C.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21395C.obj) : 	 [C04-21395C.obj](./Model3d/obj/C04-21395C.obj)
+- Package 3d model x3d : 	 [C04-21395C.x3d](./Model3d/x3d/C04-21395C.x3d)
+- Package 3d model scad : 	 [C04-21395C.scad](./Model3d/scad/C04-21395C.scad)
+- Package 3d model usd : 	 [C04-21395C.usd](./Model3d/usd/C04-21395C.usd)
+- Package 3d model glb : 	 [C04-21395C.glb](./Model3d/glb/C04-21395C.glb)
 Pin count : 32
 - 1 : PD3,  of Type IO, alternates : [TC2 OCB_, PORTD P_3, EXINT PCINT_19, EXINT INT_1]
 - 2 : PD4,  of Type IO, alternates : [EXINT PCINT_20, TC0 T_, USART0 XCK_, PORTD P_4]
@@ -16146,6 +18906,21 @@ Pin count : 32
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-21388A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 RPB
+- Package Type : 	 VQFN
+- Pin count : 	 28,00
+- Package Layout : 	 [C04-21388A.pdf](./mchp/packages/c04-21388a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21388A.wrl) : 	 [C04-21388A.wrl](./Model3d/wrl/C04-21388A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21388A.stl) : 	 [C04-21388A.stl](./Model3d/stl/C04-21388A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21388A.obj) : 	 [C04-21388A.obj](./Model3d/obj/C04-21388A.obj)
+- Package 3d model x3d : 	 [C04-21388A.x3d](./Model3d/x3d/C04-21388A.x3d)
+- Package 3d model scad : 	 [C04-21388A.scad](./Model3d/scad/C04-21388A.scad)
+- Package 3d model usd : 	 [C04-21388A.usd](./Model3d/usd/C04-21388A.usd)
+- Package 3d model glb : 	 [C04-21388A.glb](./Model3d/glb/C04-21388A.glb)
+
+please check that some data is inconsistent 	 
+
 Pin count : 28
 - 1 : PC6,  of Type IO, alternates : [EXINT PCINT_14, PORTC P_6]
 - 2 : PD0,  of Type IO, alternates : [PORTD P_0, USART0 RXD_, EXINT PCINT_16]
@@ -16196,6 +18971,18 @@ Pin count : 28
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00074D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 T5X
+- Package Type : 	 TQFP
+- Pin count : 	 32,00
+- Package Layout : 	 [C04-00074D.pdf](./mchp/packages/c04-00074d.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00074D.wrl) : 	 [C04-00074D.wrl](./Model3d/wrl/C04-00074D.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00074D.stl) : 	 [C04-00074D.stl](./Model3d/stl/C04-00074D.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00074D.obj) : 	 [C04-00074D.obj](./Model3d/obj/C04-00074D.obj)
+- Package 3d model x3d : 	 [C04-00074D.x3d](./Model3d/x3d/C04-00074D.x3d)
+- Package 3d model scad : 	 [C04-00074D.scad](./Model3d/scad/C04-00074D.scad)
+- Package 3d model usd : 	 [C04-00074D.usd](./Model3d/usd/C04-00074D.usd)
+- Package 3d model glb : 	 [C04-00074D.glb](./Model3d/glb/C04-00074D.glb)
 Pin count : 32
 - 1 : PD3,  of Type IO, alternates : [TC2 OCB_, PORTD P_3, EXINT PCINT_19, EXINT INT_1]
 - 2 : PD4,  of Type IO, alternates : [EXINT PCINT_20, TC0 T_, USART0 XCK_, PORTD P_4]
@@ -16250,6 +19037,18 @@ Pin count : 32
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-21388A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 RNB
+- Package Type : 	 VQFN
+- Pin count : 	 28,00
+- Package Layout : 	 [C04-21388A.pdf](./mchp/packages/c04-21388a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21388A.wrl) : 	 [C04-21388A.wrl](./Model3d/wrl/C04-21388A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21388A.stl) : 	 [C04-21388A.stl](./Model3d/stl/C04-21388A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21388A.obj) : 	 [C04-21388A.obj](./Model3d/obj/C04-21388A.obj)
+- Package 3d model x3d : 	 [C04-21388A.x3d](./Model3d/x3d/C04-21388A.x3d)
+- Package 3d model scad : 	 [C04-21388A.scad](./Model3d/scad/C04-21388A.scad)
+- Package 3d model usd : 	 [C04-21388A.usd](./Model3d/usd/C04-21388A.usd)
+- Package 3d model glb : 	 [C04-21388A.glb](./Model3d/glb/C04-21388A.glb)
 Pin count : 28
 - 1 : PD3,  of Type IO, alternates : [TC2 OCB_, PORTD P_3, EXINT PCINT_19, EXINT INT_1]
 - 2 : PD4,  of Type IO, alternates : [EXINT PCINT_20, TC0 T_, USART0 XCK_, PORTD P_4]
@@ -16300,6 +19099,18 @@ Pin count : 28
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-21395C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 RXB
+- Package Type : 	 VQFN
+- Pin count : 	 32,00
+- Package Layout : 	 [C04-21395C.pdf](./mchp/packages/c04-21395c.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21395C.wrl) : 	 [C04-21395C.wrl](./Model3d/wrl/C04-21395C.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21395C.stl) : 	 [C04-21395C.stl](./Model3d/stl/C04-21395C.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21395C.obj) : 	 [C04-21395C.obj](./Model3d/obj/C04-21395C.obj)
+- Package 3d model x3d : 	 [C04-21395C.x3d](./Model3d/x3d/C04-21395C.x3d)
+- Package 3d model scad : 	 [C04-21395C.scad](./Model3d/scad/C04-21395C.scad)
+- Package 3d model usd : 	 [C04-21395C.usd](./Model3d/usd/C04-21395C.usd)
+- Package 3d model glb : 	 [C04-21395C.glb](./Model3d/glb/C04-21395C.glb)
 Pin count : 32
 - 1 : PD3,  of Type IO, alternates : [TC2 OCB_, PORTD P_3, EXINT PCINT_19, EXINT INT_1]
 - 2 : PD4,  of Type IO, alternates : [EXINT PCINT_20, TC0 T_, USART0 XCK_, PORTD P_4]
@@ -16354,6 +19165,14 @@ Pin count : 32
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00070B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 M3X
+- Package Type : 	 SPDIP
+- Pin count : 	 28,00
+- Package Layout : 	 [C04-00070B.pdf](./mchp/packages/c04-00070b.pdf)
+
+please check that some data is inconsistent 	 
+
 Pin count : 28
 - 1 : PC6,  of Type IO, alternates : [EXINT PCINT_14, PORTC P_6]
 - 2 : PD0,  of Type IO, alternates : [PORTD P_0, USART0 RXD_, EXINT PCINT_16]
@@ -16404,6 +19223,18 @@ Pin count : 28
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00074D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 T5X
+- Package Type : 	 TQFP
+- Pin count : 	 32,00
+- Package Layout : 	 [C04-00074D.pdf](./mchp/packages/c04-00074d.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00074D.wrl) : 	 [C04-00074D.wrl](./Model3d/wrl/C04-00074D.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00074D.stl) : 	 [C04-00074D.stl](./Model3d/stl/C04-00074D.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00074D.obj) : 	 [C04-00074D.obj](./Model3d/obj/C04-00074D.obj)
+- Package 3d model x3d : 	 [C04-00074D.x3d](./Model3d/x3d/C04-00074D.x3d)
+- Package 3d model scad : 	 [C04-00074D.scad](./Model3d/scad/C04-00074D.scad)
+- Package 3d model usd : 	 [C04-00074D.usd](./Model3d/usd/C04-00074D.usd)
+- Package 3d model glb : 	 [C04-00074D.glb](./Model3d/glb/C04-00074D.glb)
 Pin count : 32
 - 1 : PD3,  of Type IO, alternates : [TC2 OCB_, PORTD P_3, EXINT PCINT_19, EXINT INT_1]
 - 2 : PD4,  of Type IO, alternates : [EXINT PCINT_20, TC0 T_, USART0 XCK_, PORTD P_4]
@@ -16458,6 +19289,18 @@ Pin count : 32
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00074D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 T5X
+- Package Type : 	 TQFP
+- Pin count : 	 32,00
+- Package Layout : 	 [C04-00074D.pdf](./mchp/packages/c04-00074d.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00074D.wrl) : 	 [C04-00074D.wrl](./Model3d/wrl/C04-00074D.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00074D.stl) : 	 [C04-00074D.stl](./Model3d/stl/C04-00074D.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00074D.obj) : 	 [C04-00074D.obj](./Model3d/obj/C04-00074D.obj)
+- Package 3d model x3d : 	 [C04-00074D.x3d](./Model3d/x3d/C04-00074D.x3d)
+- Package 3d model scad : 	 [C04-00074D.scad](./Model3d/scad/C04-00074D.scad)
+- Package 3d model usd : 	 [C04-00074D.usd](./Model3d/usd/C04-00074D.usd)
+- Package 3d model glb : 	 [C04-00074D.glb](./Model3d/glb/C04-00074D.glb)
 Pin count : 32
 - 1 : PD3,  of Type IO, alternates : [TC2 OCB_, PORTD P_3, EXINT PCINT_19, EXINT INT_1]
 - 2 : PD4,  of Type IO, alternates : [EXINT PCINT_20, TC0 T_, USART0 XCK_, PORTD P_4]
@@ -16512,6 +19355,14 @@ Pin count : 32
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00070B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 M3X
+- Package Type : 	 SPDIP
+- Pin count : 	 28,00
+- Package Layout : 	 [C04-00070B.pdf](./mchp/packages/c04-00070b.pdf)
+
+please check that some data is inconsistent 	 
+
 Pin count : 31
 - B1 : PD3,  of Type IO, alternates : [TC2 OCB_, PORTD P_3, EXINT PCINT_19, EXINT INT_1]
 - B2 : PD4,  of Type IO, alternates : [EXINT PCINT_20, TC0 T_, USART0 XCK_, PORTD P_4]
@@ -16565,6 +19416,18 @@ Pin count : 31
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-21388A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 RPB
+- Package Type : 	 VQFN
+- Pin count : 	 28,00
+- Package Layout : 	 [C04-21388A.pdf](./mchp/packages/c04-21388a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21388A.wrl) : 	 [C04-21388A.wrl](./Model3d/wrl/C04-21388A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21388A.stl) : 	 [C04-21388A.stl](./Model3d/stl/C04-21388A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21388A.obj) : 	 [C04-21388A.obj](./Model3d/obj/C04-21388A.obj)
+- Package 3d model x3d : 	 [C04-21388A.x3d](./Model3d/x3d/C04-21388A.x3d)
+- Package 3d model scad : 	 [C04-21388A.scad](./Model3d/scad/C04-21388A.scad)
+- Package 3d model usd : 	 [C04-21388A.usd](./Model3d/usd/C04-21388A.usd)
+- Package 3d model glb : 	 [C04-21388A.glb](./Model3d/glb/C04-21388A.glb)
 Pin count : 28
 - 1 : PD3,  of Type IO, alternates : [TC2 OCB_, PORTD P_3, EXINT PCINT_19, EXINT INT_1]
 - 2 : PD4,  of Type IO, alternates : [EXINT PCINT_20, TC0 T_, USART0 XCK_, PORTD P_4]
@@ -16615,6 +19478,18 @@ Pin count : 28
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-21388A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 RNB
+- Package Type : 	 VQFN
+- Pin count : 	 28,00
+- Package Layout : 	 [C04-21388A.pdf](./mchp/packages/c04-21388a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21388A.wrl) : 	 [C04-21388A.wrl](./Model3d/wrl/C04-21388A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21388A.stl) : 	 [C04-21388A.stl](./Model3d/stl/C04-21388A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21388A.obj) : 	 [C04-21388A.obj](./Model3d/obj/C04-21388A.obj)
+- Package 3d model x3d : 	 [C04-21388A.x3d](./Model3d/x3d/C04-21388A.x3d)
+- Package 3d model scad : 	 [C04-21388A.scad](./Model3d/scad/C04-21388A.scad)
+- Package 3d model usd : 	 [C04-21388A.usd](./Model3d/usd/C04-21388A.usd)
+- Package 3d model glb : 	 [C04-21388A.glb](./Model3d/glb/C04-21388A.glb)
 Pin count : 28
 - 1 : PD3,  of Type IO, alternates : [TC2 OCB_, PORTD P_3, EXINT PCINT_19, EXINT INT_1]
 - 2 : PD4,  of Type IO, alternates : [EXINT PCINT_20, TC0 T_, USART0 XCK_, PORTD P_4]
@@ -16665,6 +19540,18 @@ Pin count : 28
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-21395C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 RXB
+- Package Type : 	 VQFN
+- Pin count : 	 32,00
+- Package Layout : 	 [C04-21395C.pdf](./mchp/packages/c04-21395c.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21395C.wrl) : 	 [C04-21395C.wrl](./Model3d/wrl/C04-21395C.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21395C.stl) : 	 [C04-21395C.stl](./Model3d/stl/C04-21395C.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21395C.obj) : 	 [C04-21395C.obj](./Model3d/obj/C04-21395C.obj)
+- Package 3d model x3d : 	 [C04-21395C.x3d](./Model3d/x3d/C04-21395C.x3d)
+- Package 3d model scad : 	 [C04-21395C.scad](./Model3d/scad/C04-21395C.scad)
+- Package 3d model usd : 	 [C04-21395C.usd](./Model3d/usd/C04-21395C.usd)
+- Package 3d model glb : 	 [C04-21395C.glb](./Model3d/glb/C04-21395C.glb)
 Pin count : 32
 - 1 : PD3,  of Type IO, alternates : [TC2 OCB_, PORTD P_3, EXINT PCINT_19, EXINT INT_1]
 - 2 : PD4,  of Type IO, alternates : [EXINT PCINT_20, TC0 T_, USART0 XCK_, PORTD P_4]
@@ -16719,6 +19606,18 @@ Pin count : 32
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-21395C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 RXB
+- Package Type : 	 VQFN
+- Pin count : 	 32,00
+- Package Layout : 	 [C04-21395C.pdf](./mchp/packages/c04-21395c.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21395C.wrl) : 	 [C04-21395C.wrl](./Model3d/wrl/C04-21395C.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21395C.stl) : 	 [C04-21395C.stl](./Model3d/stl/C04-21395C.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21395C.obj) : 	 [C04-21395C.obj](./Model3d/obj/C04-21395C.obj)
+- Package 3d model x3d : 	 [C04-21395C.x3d](./Model3d/x3d/C04-21395C.x3d)
+- Package 3d model scad : 	 [C04-21395C.scad](./Model3d/scad/C04-21395C.scad)
+- Package 3d model usd : 	 [C04-21395C.usd](./Model3d/usd/C04-21395C.usd)
+- Package 3d model glb : 	 [C04-21395C.glb](./Model3d/glb/C04-21395C.glb)
 Pin count : 32
 - 1 : PD3,  of Type IO, alternates : [TC2 OCB_, PORTD P_3, EXINT PCINT_19, EXINT INT_1]
 - 2 : PD4,  of Type IO, alternates : [EXINT PCINT_20, TC0 T_, USART0 XCK_, PORTD P_4]
@@ -16773,6 +19672,14 @@ Pin count : 32
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00070B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 M3X
+- Package Type : 	 SPDIP
+- Pin count : 	 28,00
+- Package Layout : 	 [C04-00070B.pdf](./mchp/packages/c04-00070b.pdf)
+
+please check that some data is inconsistent 	 
+
 Pin count : 28
 - 1 : PC6,  of Type IO, alternates : [EXINT PCINT_14, PORTC P_6]
 - 2 : PD0,  of Type IO, alternates : [PORTD P_0, USART0 RXD_, EXINT PCINT_16]
@@ -16823,6 +19730,11 @@ Pin count : 28
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00070B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 M3X
+- Package Type : 	 SPDIP
+- Pin count : 	 28,00
+- Package Layout : 	 [C04-00070B.pdf](./mchp/packages/c04-00070b.pdf)
 Pin count : 28
 - 1 : PC6,  of Type IO, alternates : [EXINT PCINT_14, PORTC P_6]
 - 2 : PD0,  of Type IO, alternates : [PORTD P_0, USART0 RXD_, EXINT PCINT_16]
@@ -16873,6 +19785,18 @@ Pin count : 28
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00074D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 T5X
+- Package Type : 	 TQFP
+- Pin count : 	 32,00
+- Package Layout : 	 [C04-00074D.pdf](./mchp/packages/c04-00074d.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00074D.wrl) : 	 [C04-00074D.wrl](./Model3d/wrl/C04-00074D.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00074D.stl) : 	 [C04-00074D.stl](./Model3d/stl/C04-00074D.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00074D.obj) : 	 [C04-00074D.obj](./Model3d/obj/C04-00074D.obj)
+- Package 3d model x3d : 	 [C04-00074D.x3d](./Model3d/x3d/C04-00074D.x3d)
+- Package 3d model scad : 	 [C04-00074D.scad](./Model3d/scad/C04-00074D.scad)
+- Package 3d model usd : 	 [C04-00074D.usd](./Model3d/usd/C04-00074D.usd)
+- Package 3d model glb : 	 [C04-00074D.glb](./Model3d/glb/C04-00074D.glb)
 Pin count : 32
 - 1 : PD3,  of Type IO, alternates : [TC2 OCB_, PORTD P_3, EXINT PCINT_19, EXINT INT_1]
 - 2 : PD4,  of Type IO, alternates : [EXINT PCINT_20, TC0 T_, USART0 XCK_, PORTD P_4]
@@ -16927,6 +19851,18 @@ Pin count : 32
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00074D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 T5X
+- Package Type : 	 TQFP
+- Pin count : 	 32,00
+- Package Layout : 	 [C04-00074D.pdf](./mchp/packages/c04-00074d.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00074D.wrl) : 	 [C04-00074D.wrl](./Model3d/wrl/C04-00074D.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00074D.stl) : 	 [C04-00074D.stl](./Model3d/stl/C04-00074D.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00074D.obj) : 	 [C04-00074D.obj](./Model3d/obj/C04-00074D.obj)
+- Package 3d model x3d : 	 [C04-00074D.x3d](./Model3d/x3d/C04-00074D.x3d)
+- Package 3d model scad : 	 [C04-00074D.scad](./Model3d/scad/C04-00074D.scad)
+- Package 3d model usd : 	 [C04-00074D.usd](./Model3d/usd/C04-00074D.usd)
+- Package 3d model glb : 	 [C04-00074D.glb](./Model3d/glb/C04-00074D.glb)
 Pin count : 32
 - 1 : PD3,  of Type IO, alternates : [TC2 OCB_, PORTD P_3, EXINT PCINT_19, EXINT INT_1]
 - 2 : PD4,  of Type IO, alternates : [EXINT PCINT_20, TC0 T_, USART0 XCK_, PORTD P_4]
@@ -16981,6 +19917,18 @@ Pin count : 32
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-21395C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 RXB
+- Package Type : 	 VQFN
+- Pin count : 	 32,00
+- Package Layout : 	 [C04-21395C.pdf](./mchp/packages/c04-21395c.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21395C.wrl) : 	 [C04-21395C.wrl](./Model3d/wrl/C04-21395C.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21395C.stl) : 	 [C04-21395C.stl](./Model3d/stl/C04-21395C.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21395C.obj) : 	 [C04-21395C.obj](./Model3d/obj/C04-21395C.obj)
+- Package 3d model x3d : 	 [C04-21395C.x3d](./Model3d/x3d/C04-21395C.x3d)
+- Package 3d model scad : 	 [C04-21395C.scad](./Model3d/scad/C04-21395C.scad)
+- Package 3d model usd : 	 [C04-21395C.usd](./Model3d/usd/C04-21395C.usd)
+- Package 3d model glb : 	 [C04-21395C.glb](./Model3d/glb/C04-21395C.glb)
 Pin count : 32
 - 1 : PD3,  of Type IO, alternates : [TC2 OCB_, PORTD P_3, EXINT PCINT_19, EXINT INT_1]
 - 2 : PD4,  of Type IO, alternates : [EXINT PCINT_20, TC0 T_, USART0 XCK_, PORTD P_4]
@@ -17035,6 +19983,18 @@ Pin count : 32
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-21395C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 RXB
+- Package Type : 	 VQFN
+- Pin count : 	 32,00
+- Package Layout : 	 [C04-21395C.pdf](./mchp/packages/c04-21395c.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21395C.wrl) : 	 [C04-21395C.wrl](./Model3d/wrl/C04-21395C.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21395C.stl) : 	 [C04-21395C.stl](./Model3d/stl/C04-21395C.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21395C.obj) : 	 [C04-21395C.obj](./Model3d/obj/C04-21395C.obj)
+- Package 3d model x3d : 	 [C04-21395C.x3d](./Model3d/x3d/C04-21395C.x3d)
+- Package 3d model scad : 	 [C04-21395C.scad](./Model3d/scad/C04-21395C.scad)
+- Package 3d model usd : 	 [C04-21395C.usd](./Model3d/usd/C04-21395C.usd)
+- Package 3d model glb : 	 [C04-21395C.glb](./Model3d/glb/C04-21395C.glb)
 Pin count : 32
 - 1 : PD3,  of Type IO, alternates : [TC2 OCB_, PORTD P_3, EXINT PCINT_19, EXINT INT_1]
 - 2 : PD4,  of Type IO, alternates : [EXINT PCINT_20, TC0 T_, USART0 XCK_, PORTD P_4]
@@ -17089,6 +20049,18 @@ Pin count : 32
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00074D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 T5X
+- Package Type : 	 TQFP
+- Pin count : 	 32,00
+- Package Layout : 	 [C04-00074D.pdf](./mchp/packages/c04-00074d.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00074D.wrl) : 	 [C04-00074D.wrl](./Model3d/wrl/C04-00074D.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00074D.stl) : 	 [C04-00074D.stl](./Model3d/stl/C04-00074D.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00074D.obj) : 	 [C04-00074D.obj](./Model3d/obj/C04-00074D.obj)
+- Package 3d model x3d : 	 [C04-00074D.x3d](./Model3d/x3d/C04-00074D.x3d)
+- Package 3d model scad : 	 [C04-00074D.scad](./Model3d/scad/C04-00074D.scad)
+- Package 3d model usd : 	 [C04-00074D.usd](./Model3d/usd/C04-00074D.usd)
+- Package 3d model glb : 	 [C04-00074D.glb](./Model3d/glb/C04-00074D.glb)
 Pin count : 32
 - 1 : PD3,  of Type IO, alternates : [TC2 OCB_, PORTD P_3, EXINT PCINT_19, EXINT INT_1]
 - 2 : PD4,  of Type IO, alternates : [EXINT PCINT_20, TC0 T_, USART0 XCK_, PORTD P_4]
@@ -17143,6 +20115,18 @@ Pin count : 32
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-21388A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 RNB
+- Package Type : 	 VQFN
+- Pin count : 	 28,00
+- Package Layout : 	 [C04-21388A.pdf](./mchp/packages/c04-21388a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21388A.wrl) : 	 [C04-21388A.wrl](./Model3d/wrl/C04-21388A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21388A.stl) : 	 [C04-21388A.stl](./Model3d/stl/C04-21388A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21388A.obj) : 	 [C04-21388A.obj](./Model3d/obj/C04-21388A.obj)
+- Package 3d model x3d : 	 [C04-21388A.x3d](./Model3d/x3d/C04-21388A.x3d)
+- Package 3d model scad : 	 [C04-21388A.scad](./Model3d/scad/C04-21388A.scad)
+- Package 3d model usd : 	 [C04-21388A.usd](./Model3d/usd/C04-21388A.usd)
+- Package 3d model glb : 	 [C04-21388A.glb](./Model3d/glb/C04-21388A.glb)
 Pin count : 28
 - 1 : PD3,  of Type IO, alternates : [TC2 OCB_, PORTD P_3, EXINT PCINT_19, EXINT INT_1]
 - 2 : PD4,  of Type IO, alternates : [EXINT PCINT_20, TC0 T_, USART0 XCK_, PORTD P_4]
@@ -17193,6 +20177,18 @@ Pin count : 28
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-21395C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 RXB
+- Package Type : 	 VQFN
+- Pin count : 	 32,00
+- Package Layout : 	 [C04-21395C.pdf](./mchp/packages/c04-21395c.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21395C.wrl) : 	 [C04-21395C.wrl](./Model3d/wrl/C04-21395C.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21395C.stl) : 	 [C04-21395C.stl](./Model3d/stl/C04-21395C.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21395C.obj) : 	 [C04-21395C.obj](./Model3d/obj/C04-21395C.obj)
+- Package 3d model x3d : 	 [C04-21395C.x3d](./Model3d/x3d/C04-21395C.x3d)
+- Package 3d model scad : 	 [C04-21395C.scad](./Model3d/scad/C04-21395C.scad)
+- Package 3d model usd : 	 [C04-21395C.usd](./Model3d/usd/C04-21395C.usd)
+- Package 3d model glb : 	 [C04-21395C.glb](./Model3d/glb/C04-21395C.glb)
 Pin count : 32
 - 1 : PD3,  of Type IO, alternates : [TC2 OCB_, PORTD P_3, EXINT PCINT_19, EXINT INT_1]
 - 2 : PD4,  of Type IO, alternates : [EXINT PCINT_20, TC0 T_, USART0 XCK_, PORTD P_4]
@@ -17247,6 +20243,21 @@ Pin count : 32
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-21388A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 RNB
+- Package Type : 	 VQFN
+- Pin count : 	 28,00
+- Package Layout : 	 [C04-21388A.pdf](./mchp/packages/c04-21388a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21388A.wrl) : 	 [C04-21388A.wrl](./Model3d/wrl/C04-21388A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21388A.stl) : 	 [C04-21388A.stl](./Model3d/stl/C04-21388A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21388A.obj) : 	 [C04-21388A.obj](./Model3d/obj/C04-21388A.obj)
+- Package 3d model x3d : 	 [C04-21388A.x3d](./Model3d/x3d/C04-21388A.x3d)
+- Package 3d model scad : 	 [C04-21388A.scad](./Model3d/scad/C04-21388A.scad)
+- Package 3d model usd : 	 [C04-21388A.usd](./Model3d/usd/C04-21388A.usd)
+- Package 3d model glb : 	 [C04-21388A.glb](./Model3d/glb/C04-21388A.glb)
+
+please check that some data is inconsistent 	 
+
 Pin count : 28
 - 1 : PC6,  of Type IO, alternates : [EXINT PCINT_14, PORTC P_6]
 - 2 : PD0,  of Type IO, alternates : [PORTD P_0, USART0 RXD_, EXINT PCINT_16]
@@ -17297,6 +20308,18 @@ Pin count : 28
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00074D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 T5X
+- Package Type : 	 TQFP
+- Pin count : 	 32,00
+- Package Layout : 	 [C04-00074D.pdf](./mchp/packages/c04-00074d.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00074D.wrl) : 	 [C04-00074D.wrl](./Model3d/wrl/C04-00074D.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00074D.stl) : 	 [C04-00074D.stl](./Model3d/stl/C04-00074D.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00074D.obj) : 	 [C04-00074D.obj](./Model3d/obj/C04-00074D.obj)
+- Package 3d model x3d : 	 [C04-00074D.x3d](./Model3d/x3d/C04-00074D.x3d)
+- Package 3d model scad : 	 [C04-00074D.scad](./Model3d/scad/C04-00074D.scad)
+- Package 3d model usd : 	 [C04-00074D.usd](./Model3d/usd/C04-00074D.usd)
+- Package 3d model glb : 	 [C04-00074D.glb](./Model3d/glb/C04-00074D.glb)
 Pin count : 32
 - 1 : PD3,  of Type IO, alternates : [TC2 OCB_, PORTD P_3, EXINT PCINT_19, EXINT INT_1]
 - 2 : PD4,  of Type IO, alternates : [EXINT PCINT_20, TC0 T_, USART0 XCK_, PORTD P_4]
@@ -17351,6 +20374,18 @@ Pin count : 32
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-21388A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 RPB
+- Package Type : 	 VQFN
+- Pin count : 	 28,00
+- Package Layout : 	 [C04-21388A.pdf](./mchp/packages/c04-21388a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21388A.wrl) : 	 [C04-21388A.wrl](./Model3d/wrl/C04-21388A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21388A.stl) : 	 [C04-21388A.stl](./Model3d/stl/C04-21388A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21388A.obj) : 	 [C04-21388A.obj](./Model3d/obj/C04-21388A.obj)
+- Package 3d model x3d : 	 [C04-21388A.x3d](./Model3d/x3d/C04-21388A.x3d)
+- Package 3d model scad : 	 [C04-21388A.scad](./Model3d/scad/C04-21388A.scad)
+- Package 3d model usd : 	 [C04-21388A.usd](./Model3d/usd/C04-21388A.usd)
+- Package 3d model glb : 	 [C04-21388A.glb](./Model3d/glb/C04-21388A.glb)
 Pin count : 28
 - 1 : PD3,  of Type IO, alternates : [TC2 OCB_, PORTD P_3, EXINT PCINT_19, EXINT INT_1]
 - 2 : PD4,  of Type IO, alternates : [EXINT PCINT_20, TC0 T_, USART0 XCK_, PORTD P_4]
@@ -17401,6 +20436,18 @@ Pin count : 28
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-21388A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 RNB
+- Package Type : 	 VQFN
+- Pin count : 	 28,00
+- Package Layout : 	 [C04-21388A.pdf](./mchp/packages/c04-21388a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21388A.wrl) : 	 [C04-21388A.wrl](./Model3d/wrl/C04-21388A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21388A.stl) : 	 [C04-21388A.stl](./Model3d/stl/C04-21388A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21388A.obj) : 	 [C04-21388A.obj](./Model3d/obj/C04-21388A.obj)
+- Package 3d model x3d : 	 [C04-21388A.x3d](./Model3d/x3d/C04-21388A.x3d)
+- Package 3d model scad : 	 [C04-21388A.scad](./Model3d/scad/C04-21388A.scad)
+- Package 3d model usd : 	 [C04-21388A.usd](./Model3d/usd/C04-21388A.usd)
+- Package 3d model glb : 	 [C04-21388A.glb](./Model3d/glb/C04-21388A.glb)
 Pin count : 28
 - 1 : PD3,  of Type IO, alternates : [TC2 OCB_, PORTD P_3, EXINT PCINT_19, EXINT INT_1]
 - 2 : PD4,  of Type IO, alternates : [EXINT PCINT_20, TC0 T_, USART0 XCK_, PORTD P_4]
@@ -17451,6 +20498,18 @@ Pin count : 28
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-21395C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 RXB
+- Package Type : 	 VQFN
+- Pin count : 	 32,00
+- Package Layout : 	 [C04-21395C.pdf](./mchp/packages/c04-21395c.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21395C.wrl) : 	 [C04-21395C.wrl](./Model3d/wrl/C04-21395C.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21395C.stl) : 	 [C04-21395C.stl](./Model3d/stl/C04-21395C.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21395C.obj) : 	 [C04-21395C.obj](./Model3d/obj/C04-21395C.obj)
+- Package 3d model x3d : 	 [C04-21395C.x3d](./Model3d/x3d/C04-21395C.x3d)
+- Package 3d model scad : 	 [C04-21395C.scad](./Model3d/scad/C04-21395C.scad)
+- Package 3d model usd : 	 [C04-21395C.usd](./Model3d/usd/C04-21395C.usd)
+- Package 3d model glb : 	 [C04-21395C.glb](./Model3d/glb/C04-21395C.glb)
 Pin count : 32
 - 1 : PD3,  of Type IO, alternates : [TC2 OCB_, PORTD P_3, EXINT PCINT_19, EXINT INT_1]
 - 2 : PD4,  of Type IO, alternates : [EXINT PCINT_20, TC0 T_, USART0 XCK_, PORTD P_4]
@@ -17505,6 +20564,21 @@ Pin count : 32
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-21388A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 RNB
+- Package Type : 	 VQFN
+- Pin count : 	 28,00
+- Package Layout : 	 [C04-21388A.pdf](./mchp/packages/c04-21388a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21388A.wrl) : 	 [C04-21388A.wrl](./Model3d/wrl/C04-21388A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21388A.stl) : 	 [C04-21388A.stl](./Model3d/stl/C04-21388A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21388A.obj) : 	 [C04-21388A.obj](./Model3d/obj/C04-21388A.obj)
+- Package 3d model x3d : 	 [C04-21388A.x3d](./Model3d/x3d/C04-21388A.x3d)
+- Package 3d model scad : 	 [C04-21388A.scad](./Model3d/scad/C04-21388A.scad)
+- Package 3d model usd : 	 [C04-21388A.usd](./Model3d/usd/C04-21388A.usd)
+- Package 3d model glb : 	 [C04-21388A.glb](./Model3d/glb/C04-21388A.glb)
+
+please check that some data is inconsistent 	 
+
 Pin count : 28
 - 1 : PC6,  of Type IO, alternates : [EXINT PCINT_14, PORTC P_6]
 - 2 : PD0,  of Type IO, alternates : [PORTD P_0, USART0 RXD_, EXINT PCINT_16]
@@ -17554,6 +20628,21 @@ Pin count : 28
 - Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
+
+- Package Outline Drawings : 	 [C04-21435A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 TEB
+- Package Type : 	 VQFN
+- Pin count : 	 64,00
+- Package Layout : 	 [C04-21435A.pdf](./mchp/packages/c04-21435a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21435A.wrl) : 	 [C04-21435A.wrl](./Model3d/wrl/C04-21435A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21435A.stl) : 	 [C04-21435A.stl](./Model3d/stl/C04-21435A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21435A.obj) : 	 [C04-21435A.obj](./Model3d/obj/C04-21435A.obj)
+- Package 3d model x3d : 	 [C04-21435A.x3d](./Model3d/x3d/C04-21435A.x3d)
+- Package 3d model scad : 	 [C04-21435A.scad](./Model3d/scad/C04-21435A.scad)
+- Package 3d model usd : 	 [C04-21435A.usd](./Model3d/usd/C04-21435A.usd)
+- Package 3d model glb : 	 [C04-21435A.glb](./Model3d/glb/C04-21435A.glb)
+
+please check that some data is inconsistent 	 
 
 Pin count : 64
 - 1 : PEN,  of Type IO
@@ -17641,6 +20730,18 @@ Pin count : 64
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00066B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 V3X
+- Package Type : 	 TQFP
+- Pin count : 	 64,00
+- Package Layout : 	 [C04-00066B.pdf](./mchp/packages/c04-00066b.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00066B.wrl) : 	 [C04-00066B.wrl](./Model3d/wrl/C04-00066B.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00066B.stl) : 	 [C04-00066B.stl](./Model3d/stl/C04-00066B.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00066B.obj) : 	 [C04-00066B.obj](./Model3d/obj/C04-00066B.obj)
+- Package 3d model x3d : 	 [C04-00066B.x3d](./Model3d/x3d/C04-00066B.x3d)
+- Package 3d model scad : 	 [C04-00066B.scad](./Model3d/scad/C04-00066B.scad)
+- Package 3d model usd : 	 [C04-00066B.usd](./Model3d/usd/C04-00066B.usd)
+- Package 3d model glb : 	 [C04-00066B.glb](./Model3d/glb/C04-00066B.glb)
 Pin count : 64
 - 1 : PEN,  of Type IO
 - 2 : PE0,  of Type IO, alternates : [MISC PDI_, PORTE P_0, USART0 RXD_]
@@ -17726,6 +20827,21 @@ Pin count : 64
 - Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
+
+- Package Outline Drawings : 	 [C04-21435A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 TEB
+- Package Type : 	 VQFN
+- Pin count : 	 64,00
+- Package Layout : 	 [C04-21435A.pdf](./mchp/packages/c04-21435a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21435A.wrl) : 	 [C04-21435A.wrl](./Model3d/wrl/C04-21435A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21435A.stl) : 	 [C04-21435A.stl](./Model3d/stl/C04-21435A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21435A.obj) : 	 [C04-21435A.obj](./Model3d/obj/C04-21435A.obj)
+- Package 3d model x3d : 	 [C04-21435A.x3d](./Model3d/x3d/C04-21435A.x3d)
+- Package 3d model scad : 	 [C04-21435A.scad](./Model3d/scad/C04-21435A.scad)
+- Package 3d model usd : 	 [C04-21435A.usd](./Model3d/usd/C04-21435A.usd)
+- Package 3d model glb : 	 [C04-21435A.glb](./Model3d/glb/C04-21435A.glb)
+
+please check that some data is inconsistent 	 
 
 Pin count : 64
 - 1 : PEN,  of Type IO
@@ -17813,6 +20929,18 @@ Pin count : 64
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-21435A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 TEB
+- Package Type : 	 VQFN
+- Pin count : 	 64,00
+- Package Layout : 	 [C04-21435A.pdf](./mchp/packages/c04-21435a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21435A.wrl) : 	 [C04-21435A.wrl](./Model3d/wrl/C04-21435A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21435A.stl) : 	 [C04-21435A.stl](./Model3d/stl/C04-21435A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21435A.obj) : 	 [C04-21435A.obj](./Model3d/obj/C04-21435A.obj)
+- Package 3d model x3d : 	 [C04-21435A.x3d](./Model3d/x3d/C04-21435A.x3d)
+- Package 3d model scad : 	 [C04-21435A.scad](./Model3d/scad/C04-21435A.scad)
+- Package 3d model usd : 	 [C04-21435A.usd](./Model3d/usd/C04-21435A.usd)
+- Package 3d model glb : 	 [C04-21435A.glb](./Model3d/glb/C04-21435A.glb)
 Pin count : 64
 - 1 : PEN,  of Type IO
 - 2 : PE0,  of Type IO, alternates : [MISC PDI_, PORTE P_0, USART0 RXD_]
@@ -17899,6 +21027,18 @@ Pin count : 64
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00110C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 E5X
+- Package Type : 	 TQFP
+- Pin count : 	 100,00
+- Package Layout : 	 [C04-00110C.pdf](./mchp/packages/c04-00110c.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00110C.wrl) : 	 [C04-00110C.wrl](./Model3d/wrl/C04-00110C.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00110C.stl) : 	 [C04-00110C.stl](./Model3d/stl/C04-00110C.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00110C.obj) : 	 [C04-00110C.obj](./Model3d/obj/C04-00110C.obj)
+- Package 3d model x3d : 	 [C04-00110C.x3d](./Model3d/x3d/C04-00110C.x3d)
+- Package 3d model scad : 	 [C04-00110C.scad](./Model3d/scad/C04-00110C.scad)
+- Package 3d model usd : 	 [C04-00110C.usd](./Model3d/usd/C04-00110C.usd)
+- Package 3d model glb : 	 [C04-00110C.glb](./Model3d/glb/C04-00110C.glb)
 Pin count : 100
 - 1 : PG5,  of Type IO, alternates : [PORTG P_5, TC0 OCB_]
 - 2 : PE0,  of Type IO, alternates : [EXINT PCINT_8, PORTE P_0, USART0 RXD_]
@@ -18020,6 +21160,21 @@ Pin count : 100
 - Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
+
+- Package Outline Drawings : 	 [C04-00110C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 E5X
+- Package Type : 	 TQFP
+- Pin count : 	 100,00
+- Package Layout : 	 [C04-00110C.pdf](./mchp/packages/c04-00110c.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00110C.wrl) : 	 [C04-00110C.wrl](./Model3d/wrl/C04-00110C.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00110C.stl) : 	 [C04-00110C.stl](./Model3d/stl/C04-00110C.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00110C.obj) : 	 [C04-00110C.obj](./Model3d/obj/C04-00110C.obj)
+- Package 3d model x3d : 	 [C04-00110C.x3d](./Model3d/x3d/C04-00110C.x3d)
+- Package 3d model scad : 	 [C04-00110C.scad](./Model3d/scad/C04-00110C.scad)
+- Package 3d model usd : 	 [C04-00110C.usd](./Model3d/usd/C04-00110C.usd)
+- Package 3d model glb : 	 [C04-00110C.glb](./Model3d/glb/C04-00110C.glb)
+
+please check that some data is inconsistent 	 
 
 Pin count : 100
 - A1 : GND,  of Type PS
@@ -18143,6 +21298,18 @@ Pin count : 100
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00110C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 E5X
+- Package Type : 	 TQFP
+- Pin count : 	 100,00
+- Package Layout : 	 [C04-00110C.pdf](./mchp/packages/c04-00110c.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00110C.wrl) : 	 [C04-00110C.wrl](./Model3d/wrl/C04-00110C.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00110C.stl) : 	 [C04-00110C.stl](./Model3d/stl/C04-00110C.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00110C.obj) : 	 [C04-00110C.obj](./Model3d/obj/C04-00110C.obj)
+- Package 3d model x3d : 	 [C04-00110C.x3d](./Model3d/x3d/C04-00110C.x3d)
+- Package 3d model scad : 	 [C04-00110C.scad](./Model3d/scad/C04-00110C.scad)
+- Package 3d model usd : 	 [C04-00110C.usd](./Model3d/usd/C04-00110C.usd)
+- Package 3d model glb : 	 [C04-00110C.glb](./Model3d/glb/C04-00110C.glb)
 Pin count : 100
 - 1 : PG5,  of Type IO, alternates : [PORTG P_5, TC0 OCB_]
 - 2 : PE0,  of Type IO, alternates : [EXINT PCINT_8, PORTE P_0, USART0 RXD_]
@@ -18264,6 +21431,21 @@ Pin count : 100
 - Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
+
+- Package Outline Drawings : 	 [C04-00110C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 E5X
+- Package Type : 	 TQFP
+- Pin count : 	 100,00
+- Package Layout : 	 [C04-00110C.pdf](./mchp/packages/c04-00110c.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00110C.wrl) : 	 [C04-00110C.wrl](./Model3d/wrl/C04-00110C.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00110C.stl) : 	 [C04-00110C.stl](./Model3d/stl/C04-00110C.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00110C.obj) : 	 [C04-00110C.obj](./Model3d/obj/C04-00110C.obj)
+- Package 3d model x3d : 	 [C04-00110C.x3d](./Model3d/x3d/C04-00110C.x3d)
+- Package 3d model scad : 	 [C04-00110C.scad](./Model3d/scad/C04-00110C.scad)
+- Package 3d model usd : 	 [C04-00110C.usd](./Model3d/usd/C04-00110C.usd)
+- Package 3d model glb : 	 [C04-00110C.glb](./Model3d/glb/C04-00110C.glb)
+
+please check that some data is inconsistent 	 
 
 Pin count : 100
 - A1 : GND,  of Type PS
@@ -18387,6 +21569,18 @@ Pin count : 100
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00076C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 T4X
+- Package Type : 	 TQFP
+- Pin count : 	 44,00
+- Package Layout : 	 [C04-00076C.pdf](./mchp/packages/c04-00076c.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00076C.wrl) : 	 [C04-00076C.wrl](./Model3d/wrl/C04-00076C.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00076C.stl) : 	 [C04-00076C.stl](./Model3d/stl/C04-00076C.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00076C.obj) : 	 [C04-00076C.obj](./Model3d/obj/C04-00076C.obj)
+- Package 3d model x3d : 	 [C04-00076C.x3d](./Model3d/x3d/C04-00076C.x3d)
+- Package 3d model scad : 	 [C04-00076C.scad](./Model3d/scad/C04-00076C.scad)
+- Package 3d model usd : 	 [C04-00076C.usd](./Model3d/usd/C04-00076C.usd)
+- Package 3d model glb : 	 [C04-00076C.glb](./Model3d/glb/C04-00076C.glb)
 Pin count : 44
 - 1 : PB5,  of Type IO, alternates : [PORTB P_5, SPI MOSI_, EXINT PCINT_13]
 - 2 : PB6,  of Type IO, alternates : [EXINT PCINT_14, SPI MISO_, PORTB P_6]
@@ -18453,6 +21647,18 @@ Pin count : 44
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-21419A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 SSB
+- Package Type : 	 VQFN
+- Pin count : 	 44,00
+- Package Layout : 	 [C04-21419A.pdf](./mchp/packages/c04-21419a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21419A.wrl) : 	 [C04-21419A.wrl](./Model3d/wrl/C04-21419A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21419A.stl) : 	 [C04-21419A.stl](./Model3d/stl/C04-21419A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21419A.obj) : 	 [C04-21419A.obj](./Model3d/obj/C04-21419A.obj)
+- Package 3d model x3d : 	 [C04-21419A.x3d](./Model3d/x3d/C04-21419A.x3d)
+- Package 3d model scad : 	 [C04-21419A.scad](./Model3d/scad/C04-21419A.scad)
+- Package 3d model usd : 	 [C04-21419A.usd](./Model3d/usd/C04-21419A.usd)
+- Package 3d model glb : 	 [C04-21419A.glb](./Model3d/glb/C04-21419A.glb)
 Pin count : 44
 - 1 : PB5,  of Type IO, alternates : [PORTB P_5, SPI MOSI_, EXINT PCINT_13]
 - 2 : PB6,  of Type IO, alternates : [EXINT PCINT_14, SPI MISO_, PORTB P_6]
@@ -18519,6 +21725,11 @@ Pin count : 44
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00016B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 S2X
+- Package Type : 	 PDIP
+- Pin count : 	 40,00
+- Package Layout : 	 [C04-00016B.pdf](./mchp/packages/c04-00016b.pdf)
 Pin count : 40
 - 1 : PB0,  of Type IO, alternates : [EXINT PCINT_8, PORTB P_0, TC0 T_, USART0 XCK_0]
 - 2 : PB1,  of Type IO, alternates : [EXINT PCINT_9, PORTB P_1, TC1 T_, CPU CLKO_0]
@@ -18581,6 +21792,18 @@ Pin count : 40
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00076C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 T4X
+- Package Type : 	 TQFP
+- Pin count : 	 44,00
+- Package Layout : 	 [C04-00076C.pdf](./mchp/packages/c04-00076c.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00076C.wrl) : 	 [C04-00076C.wrl](./Model3d/wrl/C04-00076C.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00076C.stl) : 	 [C04-00076C.stl](./Model3d/stl/C04-00076C.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00076C.obj) : 	 [C04-00076C.obj](./Model3d/obj/C04-00076C.obj)
+- Package 3d model x3d : 	 [C04-00076C.x3d](./Model3d/x3d/C04-00076C.x3d)
+- Package 3d model scad : 	 [C04-00076C.scad](./Model3d/scad/C04-00076C.scad)
+- Package 3d model usd : 	 [C04-00076C.usd](./Model3d/usd/C04-00076C.usd)
+- Package 3d model glb : 	 [C04-00076C.glb](./Model3d/glb/C04-00076C.glb)
 Pin count : 44
 - 1 : PB5,  of Type IO, alternates : [PORTB P_5, SPI MOSI_, EXINT PCINT_13]
 - 2 : PB6,  of Type IO, alternates : [EXINT PCINT_14, SPI MISO_, PORTB P_6]
@@ -18647,6 +21870,18 @@ Pin count : 44
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-21419A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 SSB
+- Package Type : 	 VQFN
+- Pin count : 	 44,00
+- Package Layout : 	 [C04-21419A.pdf](./mchp/packages/c04-21419a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21419A.wrl) : 	 [C04-21419A.wrl](./Model3d/wrl/C04-21419A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21419A.stl) : 	 [C04-21419A.stl](./Model3d/stl/C04-21419A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21419A.obj) : 	 [C04-21419A.obj](./Model3d/obj/C04-21419A.obj)
+- Package 3d model x3d : 	 [C04-21419A.x3d](./Model3d/x3d/C04-21419A.x3d)
+- Package 3d model scad : 	 [C04-21419A.scad](./Model3d/scad/C04-21419A.scad)
+- Package 3d model usd : 	 [C04-21419A.usd](./Model3d/usd/C04-21419A.usd)
+- Package 3d model glb : 	 [C04-21419A.glb](./Model3d/glb/C04-21419A.glb)
 Pin count : 44
 - 1 : PB5,  of Type IO, alternates : [PORTB P_5, SPI MOSI_, EXINT PCINT_13]
 - 2 : PB6,  of Type IO, alternates : [EXINT PCINT_14, SPI MISO_, PORTB P_6]
@@ -18713,6 +21948,11 @@ Pin count : 44
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00016B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 S2X
+- Package Type : 	 PDIP
+- Pin count : 	 40,00
+- Package Layout : 	 [C04-00016B.pdf](./mchp/packages/c04-00016b.pdf)
 Pin count : 40
 - 1 : PB0,  of Type IO, alternates : [EXINT PCINT_8, PORTB P_0, TC0 T_, USART0 XCK_]
 - 2 : PB1,  of Type IO, alternates : [EXINT PCINT_9, PORTB P_1, TC1 T_, CPU CLKO_0]
@@ -18774,6 +22014,14 @@ Pin count : 40
 - Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
+
+- Package Outline Drawings : 	 [C04-00016B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 S2X
+- Package Type : 	 PDIP
+- Pin count : 	 40,00
+- Package Layout : 	 [C04-00016B.pdf](./mchp/packages/c04-00016b.pdf)
+
+please check that some data is inconsistent 	 
 
 Pin count : 44
 - 1 : PB5,  of Type IO, alternates : [PORTB P_5, SPI MOSI_, EXINT PCINT_13]
@@ -18841,6 +22089,18 @@ Pin count : 44
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00076C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 T4X
+- Package Type : 	 TQFP
+- Pin count : 	 44,00
+- Package Layout : 	 [C04-00076C.pdf](./mchp/packages/c04-00076c.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00076C.wrl) : 	 [C04-00076C.wrl](./Model3d/wrl/C04-00076C.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00076C.stl) : 	 [C04-00076C.stl](./Model3d/stl/C04-00076C.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00076C.obj) : 	 [C04-00076C.obj](./Model3d/obj/C04-00076C.obj)
+- Package 3d model x3d : 	 [C04-00076C.x3d](./Model3d/x3d/C04-00076C.x3d)
+- Package 3d model scad : 	 [C04-00076C.scad](./Model3d/scad/C04-00076C.scad)
+- Package 3d model usd : 	 [C04-00076C.usd](./Model3d/usd/C04-00076C.usd)
+- Package 3d model glb : 	 [C04-00076C.glb](./Model3d/glb/C04-00076C.glb)
 Pin count : 44
 - 1 : PB5,  of Type IO, alternates : [PORTB P_5, SPI MOSI_, EXINT PCINT_13]
 - 2 : PB6,  of Type IO, alternates : [EXINT PCINT_14, SPI MISO_, PORTB P_6]
@@ -18906,6 +22166,14 @@ Pin count : 44
 - Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
+
+- Package Outline Drawings : 	 [C04-00016B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 S2X
+- Package Type : 	 PDIP
+- Pin count : 	 40,00
+- Package Layout : 	 [C04-00016B.pdf](./mchp/packages/c04-00016b.pdf)
+
+please check that some data is inconsistent 	 
 
 Pin count : 44
 - 1 : PB5,  of Type IO, alternates : [PORTB P_5, SPI MOSI_, EXINT PCINT_13]
@@ -18973,6 +22241,18 @@ Pin count : 44
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-21419A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 SSB
+- Package Type : 	 VQFN
+- Pin count : 	 44,00
+- Package Layout : 	 [C04-21419A.pdf](./mchp/packages/c04-21419a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21419A.wrl) : 	 [C04-21419A.wrl](./Model3d/wrl/C04-21419A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21419A.stl) : 	 [C04-21419A.stl](./Model3d/stl/C04-21419A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21419A.obj) : 	 [C04-21419A.obj](./Model3d/obj/C04-21419A.obj)
+- Package 3d model x3d : 	 [C04-21419A.x3d](./Model3d/x3d/C04-21419A.x3d)
+- Package 3d model scad : 	 [C04-21419A.scad](./Model3d/scad/C04-21419A.scad)
+- Package 3d model usd : 	 [C04-21419A.usd](./Model3d/usd/C04-21419A.usd)
+- Package 3d model glb : 	 [C04-21419A.glb](./Model3d/glb/C04-21419A.glb)
 Pin count : 44
 - 1 : PB5,  of Type IO, alternates : [PORTB P_5, SPI MOSI_, EXINT PCINT_13]
 - 2 : PB6,  of Type IO, alternates : [EXINT PCINT_14, SPI MISO_, PORTB P_6]
@@ -19039,6 +22319,14 @@ Pin count : 44
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00016B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 S2X
+- Package Type : 	 PDIP
+- Pin count : 	 40,00
+- Package Layout : 	 [C04-00016B.pdf](./mchp/packages/c04-00016b.pdf)
+
+please check that some data is inconsistent 	 
+
 Pin count : 40
 - 1 : PB0,  of Type IO, alternates : [EXINT PCINT_8, PORTB P_0, TC0 T_, USART0 XCK_]
 - 2 : PB1,  of Type IO, alternates : [EXINT PCINT_9, PORTB P_1, TC1 T_, CPU CLKO_0]
@@ -19101,6 +22389,11 @@ Pin count : 40
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00016B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 S2X
+- Package Type : 	 PDIP
+- Pin count : 	 40,00
+- Package Layout : 	 [C04-00016B.pdf](./mchp/packages/c04-00016b.pdf)
 Pin count : 40
 - 1 : PB0,  of Type IO, alternates : [EXINT PCINT_8, PORTB P_0, TC0 T_, USART0 XCK_]
 - 2 : PB1,  of Type IO, alternates : [EXINT PCINT_9, PORTB P_1, TC1 T_, CPU CLKO_0]
@@ -19163,6 +22456,18 @@ Pin count : 40
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00076C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 T4X
+- Package Type : 	 TQFP
+- Pin count : 	 44,00
+- Package Layout : 	 [C04-00076C.pdf](./mchp/packages/c04-00076c.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00076C.wrl) : 	 [C04-00076C.wrl](./Model3d/wrl/C04-00076C.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00076C.stl) : 	 [C04-00076C.stl](./Model3d/stl/C04-00076C.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00076C.obj) : 	 [C04-00076C.obj](./Model3d/obj/C04-00076C.obj)
+- Package 3d model x3d : 	 [C04-00076C.x3d](./Model3d/x3d/C04-00076C.x3d)
+- Package 3d model scad : 	 [C04-00076C.scad](./Model3d/scad/C04-00076C.scad)
+- Package 3d model usd : 	 [C04-00076C.usd](./Model3d/usd/C04-00076C.usd)
+- Package 3d model glb : 	 [C04-00076C.glb](./Model3d/glb/C04-00076C.glb)
 Pin count : 44
 - 1 : PB5,  of Type IO, alternates : [PORTB P_5, SPI MOSI_, EXINT PCINT_13]
 - 2 : PB6,  of Type IO, alternates : [EXINT PCINT_14, SPI MISO_, PORTB P_6]
@@ -19229,6 +22534,18 @@ Pin count : 44
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00076C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 T4X
+- Package Type : 	 TQFP
+- Pin count : 	 44,00
+- Package Layout : 	 [C04-00076C.pdf](./mchp/packages/c04-00076c.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00076C.wrl) : 	 [C04-00076C.wrl](./Model3d/wrl/C04-00076C.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00076C.stl) : 	 [C04-00076C.stl](./Model3d/stl/C04-00076C.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00076C.obj) : 	 [C04-00076C.obj](./Model3d/obj/C04-00076C.obj)
+- Package 3d model x3d : 	 [C04-00076C.x3d](./Model3d/x3d/C04-00076C.x3d)
+- Package 3d model scad : 	 [C04-00076C.scad](./Model3d/scad/C04-00076C.scad)
+- Package 3d model usd : 	 [C04-00076C.usd](./Model3d/usd/C04-00076C.usd)
+- Package 3d model glb : 	 [C04-00076C.glb](./Model3d/glb/C04-00076C.glb)
 Pin count : 44
 - 1 : PB5,  of Type IO, alternates : [PORTB P_5, SPI MOSI_, EXINT PCINT_13]
 - 2 : PB6,  of Type IO, alternates : [EXINT PCINT_14, SPI MISO_, PORTB P_6]
@@ -19295,6 +22612,18 @@ Pin count : 44
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-21419A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 SSB
+- Package Type : 	 VQFN
+- Pin count : 	 44,00
+- Package Layout : 	 [C04-21419A.pdf](./mchp/packages/c04-21419a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21419A.wrl) : 	 [C04-21419A.wrl](./Model3d/wrl/C04-21419A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21419A.stl) : 	 [C04-21419A.stl](./Model3d/stl/C04-21419A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21419A.obj) : 	 [C04-21419A.obj](./Model3d/obj/C04-21419A.obj)
+- Package 3d model x3d : 	 [C04-21419A.x3d](./Model3d/x3d/C04-21419A.x3d)
+- Package 3d model scad : 	 [C04-21419A.scad](./Model3d/scad/C04-21419A.scad)
+- Package 3d model usd : 	 [C04-21419A.usd](./Model3d/usd/C04-21419A.usd)
+- Package 3d model glb : 	 [C04-21419A.glb](./Model3d/glb/C04-21419A.glb)
 Pin count : 44
 - 1 : PB5,  of Type IO, alternates : [PORTB P_5, SPI MOSI_, EXINT PCINT_13]
 - 2 : PB6,  of Type IO, alternates : [EXINT PCINT_14, SPI MISO_, PORTB P_6]
@@ -19361,6 +22690,18 @@ Pin count : 44
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-21419A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 SSB
+- Package Type : 	 VQFN
+- Pin count : 	 44,00
+- Package Layout : 	 [C04-21419A.pdf](./mchp/packages/c04-21419a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21419A.wrl) : 	 [C04-21419A.wrl](./Model3d/wrl/C04-21419A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21419A.stl) : 	 [C04-21419A.stl](./Model3d/stl/C04-21419A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21419A.obj) : 	 [C04-21419A.obj](./Model3d/obj/C04-21419A.obj)
+- Package 3d model x3d : 	 [C04-21419A.x3d](./Model3d/x3d/C04-21419A.x3d)
+- Package 3d model scad : 	 [C04-21419A.scad](./Model3d/scad/C04-21419A.scad)
+- Package 3d model usd : 	 [C04-21419A.usd](./Model3d/usd/C04-21419A.usd)
+- Package 3d model glb : 	 [C04-21419A.glb](./Model3d/glb/C04-21419A.glb)
 Pin count : 44
 - 1 : PB5,  of Type IO, alternates : [PORTB P_5, SPI MOSI_, EXINT PCINT_13]
 - 2 : PB6,  of Type IO, alternates : [EXINT PCINT_14, SPI MISO_, PORTB P_6]
@@ -19427,6 +22768,14 @@ Pin count : 44
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00016B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 S2X
+- Package Type : 	 PDIP
+- Pin count : 	 40,00
+- Package Layout : 	 [C04-00016B.pdf](./mchp/packages/c04-00016b.pdf)
+
+please check that some data is inconsistent 	 
+
 Pin count : 40
 - 1 : PB0,  of Type IO, alternates : [EXINT PCINT_8, PORTB P_0, TC0 T_, USART0 XCK_]
 - 2 : PB1,  of Type IO, alternates : [EXINT PCINT_9, PORTB P_1, TC1 T_, CPU CLKO_0]
@@ -19489,6 +22838,11 @@ Pin count : 40
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00016B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 S2X
+- Package Type : 	 PDIP
+- Pin count : 	 40,00
+- Package Layout : 	 [C04-00016B.pdf](./mchp/packages/c04-00016b.pdf)
 Pin count : 40
 - 1 : PB0,  of Type IO, alternates : [EXINT PCINT_8, PORTB P_0, TC0 T_, USART0 XCK_]
 - 2 : PB1,  of Type IO, alternates : [EXINT PCINT_9, PORTB P_1, TC1 T_, CPU CLKO_0]
@@ -19550,6 +22904,21 @@ Pin count : 40
 - Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
+
+- Package Outline Drawings : 	 [C04-21419A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 SSB
+- Package Type : 	 VQFN
+- Pin count : 	 44,00
+- Package Layout : 	 [C04-21419A.pdf](./mchp/packages/c04-21419a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21419A.wrl) : 	 [C04-21419A.wrl](./Model3d/wrl/C04-21419A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21419A.stl) : 	 [C04-21419A.stl](./Model3d/stl/C04-21419A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21419A.obj) : 	 [C04-21419A.obj](./Model3d/obj/C04-21419A.obj)
+- Package 3d model x3d : 	 [C04-21419A.x3d](./Model3d/x3d/C04-21419A.x3d)
+- Package 3d model scad : 	 [C04-21419A.scad](./Model3d/scad/C04-21419A.scad)
+- Package 3d model usd : 	 [C04-21419A.usd](./Model3d/usd/C04-21419A.usd)
+- Package 3d model glb : 	 [C04-21419A.glb](./Model3d/glb/C04-21419A.glb)
+
+please check that some data is inconsistent 	 
 
 Pin count : 44
 - 1 : PB5,  of Type IO, alternates : [PORTB P_5, SPI MOSI_, EXINT PCINT_13]
@@ -19617,6 +22986,18 @@ Pin count : 44
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00076C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 T4X
+- Package Type : 	 TQFP
+- Pin count : 	 44,00
+- Package Layout : 	 [C04-00076C.pdf](./mchp/packages/c04-00076c.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00076C.wrl) : 	 [C04-00076C.wrl](./Model3d/wrl/C04-00076C.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00076C.stl) : 	 [C04-00076C.stl](./Model3d/stl/C04-00076C.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00076C.obj) : 	 [C04-00076C.obj](./Model3d/obj/C04-00076C.obj)
+- Package 3d model x3d : 	 [C04-00076C.x3d](./Model3d/x3d/C04-00076C.x3d)
+- Package 3d model scad : 	 [C04-00076C.scad](./Model3d/scad/C04-00076C.scad)
+- Package 3d model usd : 	 [C04-00076C.usd](./Model3d/usd/C04-00076C.usd)
+- Package 3d model glb : 	 [C04-00076C.glb](./Model3d/glb/C04-00076C.glb)
 Pin count : 44
 - 1 : PB5,  of Type IO, alternates : [PORTB P_5, SPI MOSI_, EXINT PCINT_13]
 - 2 : PB6,  of Type IO, alternates : [EXINT PCINT_14, SPI MISO_, PORTB P_6]
@@ -19682,6 +23063,21 @@ Pin count : 44
 - Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
+
+- Package Outline Drawings : 	 [C04-21419A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 SSB
+- Package Type : 	 VQFN
+- Pin count : 	 44,00
+- Package Layout : 	 [C04-21419A.pdf](./mchp/packages/c04-21419a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21419A.wrl) : 	 [C04-21419A.wrl](./Model3d/wrl/C04-21419A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21419A.stl) : 	 [C04-21419A.stl](./Model3d/stl/C04-21419A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21419A.obj) : 	 [C04-21419A.obj](./Model3d/obj/C04-21419A.obj)
+- Package 3d model x3d : 	 [C04-21419A.x3d](./Model3d/x3d/C04-21419A.x3d)
+- Package 3d model scad : 	 [C04-21419A.scad](./Model3d/scad/C04-21419A.scad)
+- Package 3d model usd : 	 [C04-21419A.usd](./Model3d/usd/C04-21419A.usd)
+- Package 3d model glb : 	 [C04-21419A.glb](./Model3d/glb/C04-21419A.glb)
+
+please check that some data is inconsistent 	 
 
 Pin count : 44
 - 1 : PB5,  of Type IO, alternates : [PORTB P_5, SPI MOSI_, EXINT PCINT_13]
@@ -19749,6 +23145,18 @@ Pin count : 44
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-21419A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 SSB
+- Package Type : 	 VQFN
+- Pin count : 	 44,00
+- Package Layout : 	 [C04-21419A.pdf](./mchp/packages/c04-21419a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21419A.wrl) : 	 [C04-21419A.wrl](./Model3d/wrl/C04-21419A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21419A.stl) : 	 [C04-21419A.stl](./Model3d/stl/C04-21419A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21419A.obj) : 	 [C04-21419A.obj](./Model3d/obj/C04-21419A.obj)
+- Package 3d model x3d : 	 [C04-21419A.x3d](./Model3d/x3d/C04-21419A.x3d)
+- Package 3d model scad : 	 [C04-21419A.scad](./Model3d/scad/C04-21419A.scad)
+- Package 3d model usd : 	 [C04-21419A.usd](./Model3d/usd/C04-21419A.usd)
+- Package 3d model glb : 	 [C04-21419A.glb](./Model3d/glb/C04-21419A.glb)
 Pin count : 44
 - 1 : PB5,  of Type IO, alternates : [PORTB P_5, SPI MOSI_, EXINT PCINT_13]
 - 2 : PB6,  of Type IO, alternates : [EXINT PCINT_14, SPI MISO_, PORTB P_6]
@@ -19815,6 +23223,21 @@ Pin count : 44
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-21419A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 SSB
+- Package Type : 	 VQFN
+- Pin count : 	 44,00
+- Package Layout : 	 [C04-21419A.pdf](./mchp/packages/c04-21419a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21419A.wrl) : 	 [C04-21419A.wrl](./Model3d/wrl/C04-21419A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21419A.stl) : 	 [C04-21419A.stl](./Model3d/stl/C04-21419A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21419A.obj) : 	 [C04-21419A.obj](./Model3d/obj/C04-21419A.obj)
+- Package 3d model x3d : 	 [C04-21419A.x3d](./Model3d/x3d/C04-21419A.x3d)
+- Package 3d model scad : 	 [C04-21419A.scad](./Model3d/scad/C04-21419A.scad)
+- Package 3d model usd : 	 [C04-21419A.usd](./Model3d/usd/C04-21419A.usd)
+- Package 3d model glb : 	 [C04-21419A.glb](./Model3d/glb/C04-21419A.glb)
+
+please check that some data is inconsistent 	 
+
 Pin count : 40
 - 1 : PB0,  of Type IO, alternates : [EXINT PCINT_8, PORTB P_0, TC0 T_, USART0 XCK_]
 - 2 : PB1,  of Type IO, alternates : [EXINT PCINT_9, PORTB P_1, TC1 T_, CPU CLKO_0]
@@ -19876,6 +23299,21 @@ Pin count : 40
 - Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
+
+- Package Outline Drawings : 	 [C04-21419A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 SSB
+- Package Type : 	 VQFN
+- Pin count : 	 44,00
+- Package Layout : 	 [C04-21419A.pdf](./mchp/packages/c04-21419a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21419A.wrl) : 	 [C04-21419A.wrl](./Model3d/wrl/C04-21419A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21419A.stl) : 	 [C04-21419A.stl](./Model3d/stl/C04-21419A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21419A.obj) : 	 [C04-21419A.obj](./Model3d/obj/C04-21419A.obj)
+- Package 3d model x3d : 	 [C04-21419A.x3d](./Model3d/x3d/C04-21419A.x3d)
+- Package 3d model scad : 	 [C04-21419A.scad](./Model3d/scad/C04-21419A.scad)
+- Package 3d model usd : 	 [C04-21419A.usd](./Model3d/usd/C04-21419A.usd)
+- Package 3d model glb : 	 [C04-21419A.glb](./Model3d/glb/C04-21419A.glb)
+
+please check that some data is inconsistent 	 
 
 Pin count : 40
 - 1 : PB0,  of Type IO, alternates : [EXINT PCINT_8, PORTB P_0, TC0 T_, USART0 XCK_]
@@ -19939,6 +23377,18 @@ Pin count : 40
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00076C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 T4X
+- Package Type : 	 TQFP
+- Pin count : 	 44,00
+- Package Layout : 	 [C04-00076C.pdf](./mchp/packages/c04-00076c.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00076C.wrl) : 	 [C04-00076C.wrl](./Model3d/wrl/C04-00076C.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00076C.stl) : 	 [C04-00076C.stl](./Model3d/stl/C04-00076C.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00076C.obj) : 	 [C04-00076C.obj](./Model3d/obj/C04-00076C.obj)
+- Package 3d model x3d : 	 [C04-00076C.x3d](./Model3d/x3d/C04-00076C.x3d)
+- Package 3d model scad : 	 [C04-00076C.scad](./Model3d/scad/C04-00076C.scad)
+- Package 3d model usd : 	 [C04-00076C.usd](./Model3d/usd/C04-00076C.usd)
+- Package 3d model glb : 	 [C04-00076C.glb](./Model3d/glb/C04-00076C.glb)
 Pin count : 44
 - 1 : PB5,  of Type IO, alternates : [PORTB P_5, SPI MOSI_, EXINT PCINT_13]
 - 2 : PB6,  of Type IO, alternates : [EXINT PCINT_14, SPI MISO_, PORTB P_6]
@@ -20005,6 +23455,18 @@ Pin count : 44
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-21419A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 SSB
+- Package Type : 	 VQFN
+- Pin count : 	 44,00
+- Package Layout : 	 [C04-21419A.pdf](./mchp/packages/c04-21419a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21419A.wrl) : 	 [C04-21419A.wrl](./Model3d/wrl/C04-21419A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21419A.stl) : 	 [C04-21419A.stl](./Model3d/stl/C04-21419A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21419A.obj) : 	 [C04-21419A.obj](./Model3d/obj/C04-21419A.obj)
+- Package 3d model x3d : 	 [C04-21419A.x3d](./Model3d/x3d/C04-21419A.x3d)
+- Package 3d model scad : 	 [C04-21419A.scad](./Model3d/scad/C04-21419A.scad)
+- Package 3d model usd : 	 [C04-21419A.usd](./Model3d/usd/C04-21419A.usd)
+- Package 3d model glb : 	 [C04-21419A.glb](./Model3d/glb/C04-21419A.glb)
 Pin count : 44
 - 1 : PB5,  of Type IO, alternates : [PORTB P_5, SPI MOSI_, EXINT PCINT_13]
 - 2 : PB6,  of Type IO, alternates : [EXINT PCINT_14, SPI MISO_, PORTB P_6]
@@ -20071,6 +23533,21 @@ Pin count : 44
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-21419A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 SSB
+- Package Type : 	 VQFN
+- Pin count : 	 44,00
+- Package Layout : 	 [C04-21419A.pdf](./mchp/packages/c04-21419a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21419A.wrl) : 	 [C04-21419A.wrl](./Model3d/wrl/C04-21419A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21419A.stl) : 	 [C04-21419A.stl](./Model3d/stl/C04-21419A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21419A.obj) : 	 [C04-21419A.obj](./Model3d/obj/C04-21419A.obj)
+- Package 3d model x3d : 	 [C04-21419A.x3d](./Model3d/x3d/C04-21419A.x3d)
+- Package 3d model scad : 	 [C04-21419A.scad](./Model3d/scad/C04-21419A.scad)
+- Package 3d model usd : 	 [C04-21419A.usd](./Model3d/usd/C04-21419A.usd)
+- Package 3d model glb : 	 [C04-21419A.glb](./Model3d/glb/C04-21419A.glb)
+
+please check that some data is inconsistent 	 
+
 Pin count : 40
 - 1 : PB0,  of Type IO, alternates : [EXINT PCINT_8, PORTB P_0, TC0 T_, USART0 XCK_0]
 - 2 : PB1,  of Type IO, alternates : [EXINT PCINT_9, PORTB P_1, TC1 T_, CPU CLKO_0]
@@ -20133,6 +23610,18 @@ Pin count : 40
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00066B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 V3X
+- Package Type : 	 TQFP
+- Pin count : 	 64,00
+- Package Layout : 	 [C04-00066B.pdf](./mchp/packages/c04-00066b.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00066B.wrl) : 	 [C04-00066B.wrl](./Model3d/wrl/C04-00066B.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00066B.stl) : 	 [C04-00066B.stl](./Model3d/stl/C04-00066B.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00066B.obj) : 	 [C04-00066B.obj](./Model3d/obj/C04-00066B.obj)
+- Package 3d model x3d : 	 [C04-00066B.x3d](./Model3d/x3d/C04-00066B.x3d)
+- Package 3d model scad : 	 [C04-00066B.scad](./Model3d/scad/C04-00066B.scad)
+- Package 3d model usd : 	 [C04-00066B.usd](./Model3d/usd/C04-00066B.usd)
+- Package 3d model glb : 	 [C04-00066B.glb](./Model3d/glb/C04-00066B.glb)
 Pin count : 64
 - 1 : LCDCAP,  of Type PS
 - 2 : PE0,  of Type IO, alternates : [PORTE P_0, EXINT PCINT_0, USART0 RXD_]
@@ -20219,6 +23708,18 @@ Pin count : 64
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-21435A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 TEB
+- Package Type : 	 VQFN
+- Pin count : 	 64,00
+- Package Layout : 	 [C04-21435A.pdf](./mchp/packages/c04-21435a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21435A.wrl) : 	 [C04-21435A.wrl](./Model3d/wrl/C04-21435A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21435A.stl) : 	 [C04-21435A.stl](./Model3d/stl/C04-21435A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21435A.obj) : 	 [C04-21435A.obj](./Model3d/obj/C04-21435A.obj)
+- Package 3d model x3d : 	 [C04-21435A.x3d](./Model3d/x3d/C04-21435A.x3d)
+- Package 3d model scad : 	 [C04-21435A.scad](./Model3d/scad/C04-21435A.scad)
+- Package 3d model usd : 	 [C04-21435A.usd](./Model3d/usd/C04-21435A.usd)
+- Package 3d model glb : 	 [C04-21435A.glb](./Model3d/glb/C04-21435A.glb)
 Pin count : 64
 - 1 : LCDCAP,  of Type PS
 - 2 : PE0,  of Type IO, alternates : [PORTE P_0, EXINT PCINT_0, USART0 RXD_]
@@ -20305,6 +23806,18 @@ Pin count : 64
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00066B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 V3X
+- Package Type : 	 TQFP
+- Pin count : 	 64,00
+- Package Layout : 	 [C04-00066B.pdf](./mchp/packages/c04-00066b.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00066B.wrl) : 	 [C04-00066B.wrl](./Model3d/wrl/C04-00066B.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00066B.stl) : 	 [C04-00066B.stl](./Model3d/stl/C04-00066B.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00066B.obj) : 	 [C04-00066B.obj](./Model3d/obj/C04-00066B.obj)
+- Package 3d model x3d : 	 [C04-00066B.x3d](./Model3d/x3d/C04-00066B.x3d)
+- Package 3d model scad : 	 [C04-00066B.scad](./Model3d/scad/C04-00066B.scad)
+- Package 3d model usd : 	 [C04-00066B.usd](./Model3d/usd/C04-00066B.usd)
+- Package 3d model glb : 	 [C04-00066B.glb](./Model3d/glb/C04-00066B.glb)
 Pin count : 64
 - 1 : LCDCAP,  of Type PS
 - 2 : PE0,  of Type IO, alternates : [PORTE P_0, EXINT PCINT_0, USART0 RXD_]
@@ -20391,6 +23904,18 @@ Pin count : 64
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-21435A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 TEB
+- Package Type : 	 VQFN
+- Pin count : 	 64,00
+- Package Layout : 	 [C04-21435A.pdf](./mchp/packages/c04-21435a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21435A.wrl) : 	 [C04-21435A.wrl](./Model3d/wrl/C04-21435A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21435A.stl) : 	 [C04-21435A.stl](./Model3d/stl/C04-21435A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21435A.obj) : 	 [C04-21435A.obj](./Model3d/obj/C04-21435A.obj)
+- Package 3d model x3d : 	 [C04-21435A.x3d](./Model3d/x3d/C04-21435A.x3d)
+- Package 3d model scad : 	 [C04-21435A.scad](./Model3d/scad/C04-21435A.scad)
+- Package 3d model usd : 	 [C04-21435A.usd](./Model3d/usd/C04-21435A.usd)
+- Package 3d model glb : 	 [C04-21435A.glb](./Model3d/glb/C04-21435A.glb)
 Pin count : 64
 - 1 : LCDCAP,  of Type PS
 - 2 : PE0,  of Type IO, alternates : [PORTE P_0, EXINT PCINT_0, USART0 RXD_]
@@ -20477,6 +24002,18 @@ Pin count : 64
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00066B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 V3X
+- Package Type : 	 TQFP
+- Pin count : 	 64,00
+- Package Layout : 	 [C04-00066B.pdf](./mchp/packages/c04-00066b.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00066B.wrl) : 	 [C04-00066B.wrl](./Model3d/wrl/C04-00066B.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00066B.stl) : 	 [C04-00066B.stl](./Model3d/stl/C04-00066B.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00066B.obj) : 	 [C04-00066B.obj](./Model3d/obj/C04-00066B.obj)
+- Package 3d model x3d : 	 [C04-00066B.x3d](./Model3d/x3d/C04-00066B.x3d)
+- Package 3d model scad : 	 [C04-00066B.scad](./Model3d/scad/C04-00066B.scad)
+- Package 3d model usd : 	 [C04-00066B.usd](./Model3d/usd/C04-00066B.usd)
+- Package 3d model glb : 	 [C04-00066B.glb](./Model3d/glb/C04-00066B.glb)
 Pin count : 64
 - 1 : LCDCAP,  of Type PS
 - 2 : PE0,  of Type IO, alternates : [PORTE P_0, EXINT PCINT_0, USART0 RXD_]
@@ -20563,6 +24100,18 @@ Pin count : 64
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-21435A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 TEB
+- Package Type : 	 VQFN
+- Pin count : 	 64,00
+- Package Layout : 	 [C04-21435A.pdf](./mchp/packages/c04-21435a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21435A.wrl) : 	 [C04-21435A.wrl](./Model3d/wrl/C04-21435A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21435A.stl) : 	 [C04-21435A.stl](./Model3d/stl/C04-21435A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21435A.obj) : 	 [C04-21435A.obj](./Model3d/obj/C04-21435A.obj)
+- Package 3d model x3d : 	 [C04-21435A.x3d](./Model3d/x3d/C04-21435A.x3d)
+- Package 3d model scad : 	 [C04-21435A.scad](./Model3d/scad/C04-21435A.scad)
+- Package 3d model usd : 	 [C04-21435A.usd](./Model3d/usd/C04-21435A.usd)
+- Package 3d model glb : 	 [C04-21435A.glb](./Model3d/glb/C04-21435A.glb)
 Pin count : 64
 - 1 : LCDCAP,  of Type PS
 - 2 : PE0,  of Type IO, alternates : [PORTE P_0, EXINT PCINT_0, USART0 RXD_]
@@ -20649,6 +24198,18 @@ Pin count : 64
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00066B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 V3X
+- Package Type : 	 TQFP
+- Pin count : 	 64,00
+- Package Layout : 	 [C04-00066B.pdf](./mchp/packages/c04-00066b.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00066B.wrl) : 	 [C04-00066B.wrl](./Model3d/wrl/C04-00066B.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00066B.stl) : 	 [C04-00066B.stl](./Model3d/stl/C04-00066B.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00066B.obj) : 	 [C04-00066B.obj](./Model3d/obj/C04-00066B.obj)
+- Package 3d model x3d : 	 [C04-00066B.x3d](./Model3d/x3d/C04-00066B.x3d)
+- Package 3d model scad : 	 [C04-00066B.scad](./Model3d/scad/C04-00066B.scad)
+- Package 3d model usd : 	 [C04-00066B.usd](./Model3d/usd/C04-00066B.usd)
+- Package 3d model glb : 	 [C04-00066B.glb](./Model3d/glb/C04-00066B.glb)
 Pin count : 64
 - 1 : LCDCAP,  of Type PS
 - 2 : PE0,  of Type IO, alternates : [PORTE P_0, EXINT PCINT_0, USART0 RXD_]
@@ -20735,6 +24296,18 @@ Pin count : 64
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-21435A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 TEB
+- Package Type : 	 VQFN
+- Pin count : 	 64,00
+- Package Layout : 	 [C04-21435A.pdf](./mchp/packages/c04-21435a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21435A.wrl) : 	 [C04-21435A.wrl](./Model3d/wrl/C04-21435A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21435A.stl) : 	 [C04-21435A.stl](./Model3d/stl/C04-21435A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21435A.obj) : 	 [C04-21435A.obj](./Model3d/obj/C04-21435A.obj)
+- Package 3d model x3d : 	 [C04-21435A.x3d](./Model3d/x3d/C04-21435A.x3d)
+- Package 3d model scad : 	 [C04-21435A.scad](./Model3d/scad/C04-21435A.scad)
+- Package 3d model usd : 	 [C04-21435A.usd](./Model3d/usd/C04-21435A.usd)
+- Package 3d model glb : 	 [C04-21435A.glb](./Model3d/glb/C04-21435A.glb)
 Pin count : 64
 - 1 : LCDCAP,  of Type PS
 - 2 : PE0,  of Type IO, alternates : [PORTE P_0, EXINT PCINT_0, USART0 RXD_]
@@ -20821,6 +24394,18 @@ Pin count : 64
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00066B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 V3X
+- Package Type : 	 TQFP
+- Pin count : 	 64,00
+- Package Layout : 	 [C04-00066B.pdf](./mchp/packages/c04-00066b.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00066B.wrl) : 	 [C04-00066B.wrl](./Model3d/wrl/C04-00066B.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00066B.stl) : 	 [C04-00066B.stl](./Model3d/stl/C04-00066B.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00066B.obj) : 	 [C04-00066B.obj](./Model3d/obj/C04-00066B.obj)
+- Package 3d model x3d : 	 [C04-00066B.x3d](./Model3d/x3d/C04-00066B.x3d)
+- Package 3d model scad : 	 [C04-00066B.scad](./Model3d/scad/C04-00066B.scad)
+- Package 3d model usd : 	 [C04-00066B.usd](./Model3d/usd/C04-00066B.usd)
+- Package 3d model glb : 	 [C04-00066B.glb](./Model3d/glb/C04-00066B.glb)
 Pin count : 64
 - 1 : PEN,  of Type IO
 - 2 : PE0,  of Type IO, alternates : [MISC PDI_, PORTE P_0, USART0 RXD_]
@@ -20907,6 +24492,18 @@ Pin count : 64
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00066B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 V3X
+- Package Type : 	 TQFP
+- Pin count : 	 64,00
+- Package Layout : 	 [C04-00066B.pdf](./mchp/packages/c04-00066b.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00066B.wrl) : 	 [C04-00066B.wrl](./Model3d/wrl/C04-00066B.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00066B.stl) : 	 [C04-00066B.stl](./Model3d/stl/C04-00066B.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00066B.obj) : 	 [C04-00066B.obj](./Model3d/obj/C04-00066B.obj)
+- Package 3d model x3d : 	 [C04-00066B.x3d](./Model3d/x3d/C04-00066B.x3d)
+- Package 3d model scad : 	 [C04-00066B.scad](./Model3d/scad/C04-00066B.scad)
+- Package 3d model usd : 	 [C04-00066B.usd](./Model3d/usd/C04-00066B.usd)
+- Package 3d model glb : 	 [C04-00066B.glb](./Model3d/glb/C04-00066B.glb)
 Pin count : 64
 - 1 : PEN,  of Type IO
 - 2 : PE0,  of Type IO, alternates : [MISC PDI_, PORTE P_0, USART0 RXD_]
@@ -20993,6 +24590,18 @@ Pin count : 64
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-21435A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 TEB
+- Package Type : 	 VQFN
+- Pin count : 	 64,00
+- Package Layout : 	 [C04-21435A.pdf](./mchp/packages/c04-21435a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21435A.wrl) : 	 [C04-21435A.wrl](./Model3d/wrl/C04-21435A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21435A.stl) : 	 [C04-21435A.stl](./Model3d/stl/C04-21435A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21435A.obj) : 	 [C04-21435A.obj](./Model3d/obj/C04-21435A.obj)
+- Package 3d model x3d : 	 [C04-21435A.x3d](./Model3d/x3d/C04-21435A.x3d)
+- Package 3d model scad : 	 [C04-21435A.scad](./Model3d/scad/C04-21435A.scad)
+- Package 3d model usd : 	 [C04-21435A.usd](./Model3d/usd/C04-21435A.usd)
+- Package 3d model glb : 	 [C04-21435A.glb](./Model3d/glb/C04-21435A.glb)
 Pin count : 64
 - 1 : PEN,  of Type IO
 - 2 : PE0,  of Type IO, alternates : [MISC PDI_, PORTE P_0, USART0 RXD_]
@@ -21079,6 +24688,18 @@ Pin count : 64
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-21435A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 TEB
+- Package Type : 	 VQFN
+- Pin count : 	 64,00
+- Package Layout : 	 [C04-21435A.pdf](./mchp/packages/c04-21435a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21435A.wrl) : 	 [C04-21435A.wrl](./Model3d/wrl/C04-21435A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21435A.stl) : 	 [C04-21435A.stl](./Model3d/stl/C04-21435A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21435A.obj) : 	 [C04-21435A.obj](./Model3d/obj/C04-21435A.obj)
+- Package 3d model x3d : 	 [C04-21435A.x3d](./Model3d/x3d/C04-21435A.x3d)
+- Package 3d model scad : 	 [C04-21435A.scad](./Model3d/scad/C04-21435A.scad)
+- Package 3d model usd : 	 [C04-21435A.usd](./Model3d/usd/C04-21435A.usd)
+- Package 3d model glb : 	 [C04-21435A.glb](./Model3d/glb/C04-21435A.glb)
 Pin count : 64
 - 1 : PEN,  of Type IO
 - 2 : PE0,  of Type IO, alternates : [MISC PDI_, PORTE P_0, USART0 RXD_]
@@ -21165,6 +24786,21 @@ Pin count : 64
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-21427A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 T5B
+- Package Type : 	 VQFN
+- Pin count : 	 32,00
+- Package Layout : 	 [C04-21427A.pdf](./mchp/packages/c04-21427a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21427A.wrl) : 	 [C04-21427A.wrl](./Model3d/wrl/C04-21427A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21427A.stl) : 	 [C04-21427A.stl](./Model3d/stl/C04-21427A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21427A.obj) : 	 [C04-21427A.obj](./Model3d/obj/C04-21427A.obj)
+- Package 3d model x3d : 	 [C04-21427A.x3d](./Model3d/x3d/C04-21427A.x3d)
+- Package 3d model scad : 	 [C04-21427A.scad](./Model3d/scad/C04-21427A.scad)
+- Package 3d model usd : 	 [C04-21427A.usd](./Model3d/usd/C04-21427A.usd)
+- Package 3d model glb : 	 [C04-21427A.glb](./Model3d/glb/C04-21427A.glb)
+
+please check that some data is inconsistent 	 
+
 Pin count : 32
 - 1 : PD2,  of Type IO, alternates : [TC1 OC1A_, PORTD PIN_2, SPI MISO_, EXINT PCINT_18]
 - 2 : PD3,  of Type IO, alternates : [PORTD PIN_3, LINUART TXLIN_, SPI MOSI_, SPI SS_, TC0 OC0A_, EXINT PCINT_19]
@@ -21219,6 +24855,21 @@ Pin count : 32
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-21427A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 T5B
+- Package Type : 	 VQFN
+- Pin count : 	 32,00
+- Package Layout : 	 [C04-21427A.pdf](./mchp/packages/c04-21427a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21427A.wrl) : 	 [C04-21427A.wrl](./Model3d/wrl/C04-21427A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21427A.stl) : 	 [C04-21427A.stl](./Model3d/stl/C04-21427A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21427A.obj) : 	 [C04-21427A.obj](./Model3d/obj/C04-21427A.obj)
+- Package 3d model x3d : 	 [C04-21427A.x3d](./Model3d/x3d/C04-21427A.x3d)
+- Package 3d model scad : 	 [C04-21427A.scad](./Model3d/scad/C04-21427A.scad)
+- Package 3d model usd : 	 [C04-21427A.usd](./Model3d/usd/C04-21427A.usd)
+- Package 3d model glb : 	 [C04-21427A.glb](./Model3d/glb/C04-21427A.glb)
+
+please check that some data is inconsistent 	 
+
 Pin count : 32
 - 1 : PD2,  of Type IO, alternates : [TC1 OC1A_, PORTD PIN_2, SPI MISO_, EXINT PCINT_18]
 - 2 : PD3,  of Type IO, alternates : [PORTD PIN_3, LINUART TXLIN_, SPI MOSI_, SPI SS_, TC0 OC0A_, EXINT PCINT_19]
@@ -21272,6 +24923,21 @@ Pin count : 32
 - Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
+
+- Package Outline Drawings : 	 [C04-21435A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 TEB
+- Package Type : 	 VQFN
+- Pin count : 	 64,00
+- Package Layout : 	 [C04-21435A.pdf](./mchp/packages/c04-21435a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21435A.wrl) : 	 [C04-21435A.wrl](./Model3d/wrl/C04-21435A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21435A.stl) : 	 [C04-21435A.stl](./Model3d/stl/C04-21435A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21435A.obj) : 	 [C04-21435A.obj](./Model3d/obj/C04-21435A.obj)
+- Package 3d model x3d : 	 [C04-21435A.x3d](./Model3d/x3d/C04-21435A.x3d)
+- Package 3d model scad : 	 [C04-21435A.scad](./Model3d/scad/C04-21435A.scad)
+- Package 3d model usd : 	 [C04-21435A.usd](./Model3d/usd/C04-21435A.usd)
+- Package 3d model glb : 	 [C04-21435A.glb](./Model3d/glb/C04-21435A.glb)
+
+please check that some data is inconsistent 	 
 
 Pin count : 64
 - 1 : PEN,  of Type IO
@@ -21359,6 +25025,18 @@ Pin count : 64
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00066B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 V3X
+- Package Type : 	 TQFP
+- Pin count : 	 64,00
+- Package Layout : 	 [C04-00066B.pdf](./mchp/packages/c04-00066b.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00066B.wrl) : 	 [C04-00066B.wrl](./Model3d/wrl/C04-00066B.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00066B.stl) : 	 [C04-00066B.stl](./Model3d/stl/C04-00066B.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00066B.obj) : 	 [C04-00066B.obj](./Model3d/obj/C04-00066B.obj)
+- Package 3d model x3d : 	 [C04-00066B.x3d](./Model3d/x3d/C04-00066B.x3d)
+- Package 3d model scad : 	 [C04-00066B.scad](./Model3d/scad/C04-00066B.scad)
+- Package 3d model usd : 	 [C04-00066B.usd](./Model3d/usd/C04-00066B.usd)
+- Package 3d model glb : 	 [C04-00066B.glb](./Model3d/glb/C04-00066B.glb)
 Pin count : 64
 - 1 : PEN,  of Type IO
 - 2 : PE0,  of Type IO, alternates : [MISC PDI_, PORTE P_0, USART0 RXD_]
@@ -21444,6 +25122,21 @@ Pin count : 64
 - Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
+
+- Package Outline Drawings : 	 [C04-21435A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 TEB
+- Package Type : 	 VQFN
+- Pin count : 	 64,00
+- Package Layout : 	 [C04-21435A.pdf](./mchp/packages/c04-21435a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21435A.wrl) : 	 [C04-21435A.wrl](./Model3d/wrl/C04-21435A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21435A.stl) : 	 [C04-21435A.stl](./Model3d/stl/C04-21435A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21435A.obj) : 	 [C04-21435A.obj](./Model3d/obj/C04-21435A.obj)
+- Package 3d model x3d : 	 [C04-21435A.x3d](./Model3d/x3d/C04-21435A.x3d)
+- Package 3d model scad : 	 [C04-21435A.scad](./Model3d/scad/C04-21435A.scad)
+- Package 3d model usd : 	 [C04-21435A.usd](./Model3d/usd/C04-21435A.usd)
+- Package 3d model glb : 	 [C04-21435A.glb](./Model3d/glb/C04-21435A.glb)
+
+please check that some data is inconsistent 	 
 
 Pin count : 64
 - 1 : PEN,  of Type IO
@@ -21531,6 +25224,18 @@ Pin count : 64
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-21435A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 TEB
+- Package Type : 	 VQFN
+- Pin count : 	 64,00
+- Package Layout : 	 [C04-21435A.pdf](./mchp/packages/c04-21435a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21435A.wrl) : 	 [C04-21435A.wrl](./Model3d/wrl/C04-21435A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21435A.stl) : 	 [C04-21435A.stl](./Model3d/stl/C04-21435A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21435A.obj) : 	 [C04-21435A.obj](./Model3d/obj/C04-21435A.obj)
+- Package 3d model x3d : 	 [C04-21435A.x3d](./Model3d/x3d/C04-21435A.x3d)
+- Package 3d model scad : 	 [C04-21435A.scad](./Model3d/scad/C04-21435A.scad)
+- Package 3d model usd : 	 [C04-21435A.usd](./Model3d/usd/C04-21435A.usd)
+- Package 3d model glb : 	 [C04-21435A.glb](./Model3d/glb/C04-21435A.glb)
 Pin count : 64
 - 1 : PEN,  of Type IO
 - 2 : PE0,  of Type IO, alternates : [MISC PDI_, PORTE P_0, USART0 RXD_]
@@ -21617,6 +25322,18 @@ Pin count : 64
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00074D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 T5X
+- Package Type : 	 TQFP
+- Pin count : 	 32,00
+- Package Layout : 	 [C04-00074D.pdf](./mchp/packages/c04-00074d.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00074D.wrl) : 	 [C04-00074D.wrl](./Model3d/wrl/C04-00074D.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00074D.stl) : 	 [C04-00074D.stl](./Model3d/stl/C04-00074D.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00074D.obj) : 	 [C04-00074D.obj](./Model3d/obj/C04-00074D.obj)
+- Package 3d model x3d : 	 [C04-00074D.x3d](./Model3d/x3d/C04-00074D.x3d)
+- Package 3d model scad : 	 [C04-00074D.scad](./Model3d/scad/C04-00074D.scad)
+- Package 3d model usd : 	 [C04-00074D.usd](./Model3d/usd/C04-00074D.usd)
+- Package 3d model glb : 	 [C04-00074D.glb](./Model3d/glb/C04-00074D.glb)
 Pin count : 32
 - 1 : PD2,  of Type IO, alternates : [TC1 OC1A_, PORTD PIN_2, SPI MISO_, EXINT PCINT_18, PSC PSCIN2_]
 - 2 : PD3,  of Type IO, alternates : [PORTD PIN_3, LINUART TXLIN_, SPI MOSI_, SPI SS_, TC0 OC0A_, EXINT PCINT_19]
@@ -21671,6 +25388,18 @@ Pin count : 32
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-21427A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 T5B
+- Package Type : 	 VQFN
+- Pin count : 	 32,00
+- Package Layout : 	 [C04-21427A.pdf](./mchp/packages/c04-21427a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21427A.wrl) : 	 [C04-21427A.wrl](./Model3d/wrl/C04-21427A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21427A.stl) : 	 [C04-21427A.stl](./Model3d/stl/C04-21427A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21427A.obj) : 	 [C04-21427A.obj](./Model3d/obj/C04-21427A.obj)
+- Package 3d model x3d : 	 [C04-21427A.x3d](./Model3d/x3d/C04-21427A.x3d)
+- Package 3d model scad : 	 [C04-21427A.scad](./Model3d/scad/C04-21427A.scad)
+- Package 3d model usd : 	 [C04-21427A.usd](./Model3d/usd/C04-21427A.usd)
+- Package 3d model glb : 	 [C04-21427A.glb](./Model3d/glb/C04-21427A.glb)
 Pin count : 32
 - 1 : PD2,  of Type IO, alternates : [TC1 OC1A_, PORTD PIN_2, SPI MISO_, EXINT PCINT_18, PSC PSCIN2_]
 - 2 : PD3,  of Type IO, alternates : [PORTD PIN_3, LINUART TXLIN_, SPI MOSI_, SPI SS_, TC0 OC0A_, EXINT PCINT_19]
@@ -21724,6 +25453,21 @@ Pin count : 32
 - Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
+
+- Package Outline Drawings : 	 [C04-00074D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 T5X
+- Package Type : 	 TQFP
+- Pin count : 	 32,00
+- Package Layout : 	 [C04-00074D.pdf](./mchp/packages/c04-00074d.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00074D.wrl) : 	 [C04-00074D.wrl](./Model3d/wrl/C04-00074D.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00074D.stl) : 	 [C04-00074D.stl](./Model3d/stl/C04-00074D.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00074D.obj) : 	 [C04-00074D.obj](./Model3d/obj/C04-00074D.obj)
+- Package 3d model x3d : 	 [C04-00074D.x3d](./Model3d/x3d/C04-00074D.x3d)
+- Package 3d model scad : 	 [C04-00074D.scad](./Model3d/scad/C04-00074D.scad)
+- Package 3d model usd : 	 [C04-00074D.usd](./Model3d/usd/C04-00074D.usd)
+- Package 3d model glb : 	 [C04-00074D.glb](./Model3d/glb/C04-00074D.glb)
+
+please check that some data is inconsistent 	 
 
 Pin count : 32
 - 1 : PD3,  of Type IO, alternates : [PORTD P_3, EXINT INT_1]
@@ -21779,6 +25523,18 @@ Pin count : 32
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00074D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 T5X
+- Package Type : 	 TQFP
+- Pin count : 	 32,00
+- Package Layout : 	 [C04-00074D.pdf](./mchp/packages/c04-00074d.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00074D.wrl) : 	 [C04-00074D.wrl](./Model3d/wrl/C04-00074D.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00074D.stl) : 	 [C04-00074D.stl](./Model3d/stl/C04-00074D.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00074D.obj) : 	 [C04-00074D.obj](./Model3d/obj/C04-00074D.obj)
+- Package 3d model x3d : 	 [C04-00074D.x3d](./Model3d/x3d/C04-00074D.x3d)
+- Package 3d model scad : 	 [C04-00074D.scad](./Model3d/scad/C04-00074D.scad)
+- Package 3d model usd : 	 [C04-00074D.usd](./Model3d/usd/C04-00074D.usd)
+- Package 3d model glb : 	 [C04-00074D.glb](./Model3d/glb/C04-00074D.glb)
 Pin count : 32
 - 1 : PD3,  of Type IO, alternates : [PORTD P_3, EXINT INT_1]
 - 2 : PD4,  of Type IO, alternates : [TC0 T_, USART XCK_, PORTD P_4]
@@ -21832,6 +25588,21 @@ Pin count : 32
 - Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
+
+- Package Outline Drawings : 	 [C04-00074D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 T5X
+- Package Type : 	 TQFP
+- Pin count : 	 32,00
+- Package Layout : 	 [C04-00074D.pdf](./mchp/packages/c04-00074d.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00074D.wrl) : 	 [C04-00074D.wrl](./Model3d/wrl/C04-00074D.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00074D.stl) : 	 [C04-00074D.stl](./Model3d/stl/C04-00074D.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00074D.obj) : 	 [C04-00074D.obj](./Model3d/obj/C04-00074D.obj)
+- Package 3d model x3d : 	 [C04-00074D.x3d](./Model3d/x3d/C04-00074D.x3d)
+- Package 3d model scad : 	 [C04-00074D.scad](./Model3d/scad/C04-00074D.scad)
+- Package 3d model usd : 	 [C04-00074D.usd](./Model3d/usd/C04-00074D.usd)
+- Package 3d model glb : 	 [C04-00074D.glb](./Model3d/glb/C04-00074D.glb)
+
+please check that some data is inconsistent 	 
 
 Pin count : 32
 - 1 : PD3,  of Type IO, alternates : [PORTD P_3, EXINT INT_1]
@@ -21887,6 +25658,18 @@ Pin count : 32
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-21395C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 RXB
+- Package Type : 	 VQFN
+- Pin count : 	 32,00
+- Package Layout : 	 [C04-21395C.pdf](./mchp/packages/c04-21395c.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21395C.wrl) : 	 [C04-21395C.wrl](./Model3d/wrl/C04-21395C.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21395C.stl) : 	 [C04-21395C.stl](./Model3d/stl/C04-21395C.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21395C.obj) : 	 [C04-21395C.obj](./Model3d/obj/C04-21395C.obj)
+- Package 3d model x3d : 	 [C04-21395C.x3d](./Model3d/x3d/C04-21395C.x3d)
+- Package 3d model scad : 	 [C04-21395C.scad](./Model3d/scad/C04-21395C.scad)
+- Package 3d model usd : 	 [C04-21395C.usd](./Model3d/usd/C04-21395C.usd)
+- Package 3d model glb : 	 [C04-21395C.glb](./Model3d/glb/C04-21395C.glb)
 Pin count : 32
 - 1 : PD3,  of Type IO, alternates : [PORTD P_3, EXINT INT_1]
 - 2 : PD4,  of Type IO, alternates : [TC0 T_, USART XCK_, PORTD P_4]
@@ -21941,6 +25724,21 @@ Pin count : 32
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00074D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 T5X
+- Package Type : 	 TQFP
+- Pin count : 	 32,00
+- Package Layout : 	 [C04-00074D.pdf](./mchp/packages/c04-00074d.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00074D.wrl) : 	 [C04-00074D.wrl](./Model3d/wrl/C04-00074D.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00074D.stl) : 	 [C04-00074D.stl](./Model3d/stl/C04-00074D.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00074D.obj) : 	 [C04-00074D.obj](./Model3d/obj/C04-00074D.obj)
+- Package 3d model x3d : 	 [C04-00074D.x3d](./Model3d/x3d/C04-00074D.x3d)
+- Package 3d model scad : 	 [C04-00074D.scad](./Model3d/scad/C04-00074D.scad)
+- Package 3d model usd : 	 [C04-00074D.usd](./Model3d/usd/C04-00074D.usd)
+- Package 3d model glb : 	 [C04-00074D.glb](./Model3d/glb/C04-00074D.glb)
+
+please check that some data is inconsistent 	 
+
 Pin count : 28
 - 1 : PC6,  of Type IO, alternates : [PORTC P_6]
 - 2 : PD0,  of Type IO, alternates : [USART RXD_, PORTD P_0]
@@ -21991,6 +25789,11 @@ Pin count : 28
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00070B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 M3X
+- Package Type : 	 SPDIP
+- Pin count : 	 28,00
+- Package Layout : 	 [C04-00070B.pdf](./mchp/packages/c04-00070b.pdf)
 Pin count : 28
 - 1 : PC6,  of Type IO, alternates : [PORTC P_6]
 - 2 : PD0,  of Type IO, alternates : [USART RXD_, PORTD P_0]
@@ -22041,6 +25844,18 @@ Pin count : 28
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00074D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 T5X
+- Package Type : 	 TQFP
+- Pin count : 	 32,00
+- Package Layout : 	 [C04-00074D.pdf](./mchp/packages/c04-00074d.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00074D.wrl) : 	 [C04-00074D.wrl](./Model3d/wrl/C04-00074D.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00074D.stl) : 	 [C04-00074D.stl](./Model3d/stl/C04-00074D.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00074D.obj) : 	 [C04-00074D.obj](./Model3d/obj/C04-00074D.obj)
+- Package 3d model x3d : 	 [C04-00074D.x3d](./Model3d/x3d/C04-00074D.x3d)
+- Package 3d model scad : 	 [C04-00074D.scad](./Model3d/scad/C04-00074D.scad)
+- Package 3d model usd : 	 [C04-00074D.usd](./Model3d/usd/C04-00074D.usd)
+- Package 3d model glb : 	 [C04-00074D.glb](./Model3d/glb/C04-00074D.glb)
 Pin count : 32
 - 1 : PD3,  of Type IO, alternates : [TC2 OCB_, PORTD P_3, EXINT PCINT_19, EXINT INT_1]
 - 2 : PD4,  of Type IO, alternates : [EXINT PCINT_20, TC0 T_, USART0 XCK_, PORTD P_4]
@@ -22095,6 +25910,18 @@ Pin count : 32
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-21395C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 RXB
+- Package Type : 	 VQFN
+- Pin count : 	 32,00
+- Package Layout : 	 [C04-21395C.pdf](./mchp/packages/c04-21395c.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21395C.wrl) : 	 [C04-21395C.wrl](./Model3d/wrl/C04-21395C.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21395C.stl) : 	 [C04-21395C.stl](./Model3d/stl/C04-21395C.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21395C.obj) : 	 [C04-21395C.obj](./Model3d/obj/C04-21395C.obj)
+- Package 3d model x3d : 	 [C04-21395C.x3d](./Model3d/x3d/C04-21395C.x3d)
+- Package 3d model scad : 	 [C04-21395C.scad](./Model3d/scad/C04-21395C.scad)
+- Package 3d model usd : 	 [C04-21395C.usd](./Model3d/usd/C04-21395C.usd)
+- Package 3d model glb : 	 [C04-21395C.glb](./Model3d/glb/C04-21395C.glb)
 Pin count : 32
 - 1 : PD3,  of Type IO, alternates : [TC2 OCB_, PORTD P_3, EXINT PCINT_19, EXINT INT_1]
 - 2 : PD4,  of Type IO, alternates : [EXINT PCINT_20, TC0 T_, USART0 XCK_, PORTD P_4]
@@ -22149,6 +25976,21 @@ Pin count : 32
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00074D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 T5X
+- Package Type : 	 TQFP
+- Pin count : 	 32,00
+- Package Layout : 	 [C04-00074D.pdf](./mchp/packages/c04-00074d.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00074D.wrl) : 	 [C04-00074D.wrl](./Model3d/wrl/C04-00074D.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00074D.stl) : 	 [C04-00074D.stl](./Model3d/stl/C04-00074D.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00074D.obj) : 	 [C04-00074D.obj](./Model3d/obj/C04-00074D.obj)
+- Package 3d model x3d : 	 [C04-00074D.x3d](./Model3d/x3d/C04-00074D.x3d)
+- Package 3d model scad : 	 [C04-00074D.scad](./Model3d/scad/C04-00074D.scad)
+- Package 3d model usd : 	 [C04-00074D.usd](./Model3d/usd/C04-00074D.usd)
+- Package 3d model glb : 	 [C04-00074D.glb](./Model3d/glb/C04-00074D.glb)
+
+please check that some data is inconsistent 	 
+
 Pin count : 28
 - 1 : PC6,  of Type IO, alternates : [EXINT PCINT_14, PORTC P_6]
 - 2 : PD0,  of Type IO, alternates : [PORTD P_0, USART0 RXD_, EXINT PCINT_16]
@@ -22199,6 +26041,18 @@ Pin count : 28
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00074D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 T5X
+- Package Type : 	 TQFP
+- Pin count : 	 32,00
+- Package Layout : 	 [C04-00074D.pdf](./mchp/packages/c04-00074d.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00074D.wrl) : 	 [C04-00074D.wrl](./Model3d/wrl/C04-00074D.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00074D.stl) : 	 [C04-00074D.stl](./Model3d/stl/C04-00074D.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00074D.obj) : 	 [C04-00074D.obj](./Model3d/obj/C04-00074D.obj)
+- Package 3d model x3d : 	 [C04-00074D.x3d](./Model3d/x3d/C04-00074D.x3d)
+- Package 3d model scad : 	 [C04-00074D.scad](./Model3d/scad/C04-00074D.scad)
+- Package 3d model usd : 	 [C04-00074D.usd](./Model3d/usd/C04-00074D.usd)
+- Package 3d model glb : 	 [C04-00074D.glb](./Model3d/glb/C04-00074D.glb)
 Pin count : 32
 - 1 : PD3,  of Type IO, alternates : [TC2 OCB_, PORTD P_3, EXINT PCINT_19, EXINT INT_1]
 - 2 : PD4,  of Type IO, alternates : [EXINT PCINT_20, TC0 T_, USART0 XCK_, PORTD P_4]
@@ -22253,6 +26107,14 @@ Pin count : 32
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00070B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 M3X
+- Package Type : 	 SPDIP
+- Pin count : 	 28,00
+- Package Layout : 	 [C04-00070B.pdf](./mchp/packages/c04-00070b.pdf)
+
+please check that some data is inconsistent 	 
+
 Pin count : 31
 - B1 : PD3,  of Type IO, alternates : [TC2 OCB_, PORTD P_3, EXINT PCINT_19, EXINT INT_1]
 - B2 : PD4,  of Type IO, alternates : [EXINT PCINT_20, TC0 T_, USART0 XCK_, PORTD P_4]
@@ -22306,6 +26168,18 @@ Pin count : 31
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-21388A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 RPB
+- Package Type : 	 VQFN
+- Pin count : 	 28,00
+- Package Layout : 	 [C04-21388A.pdf](./mchp/packages/c04-21388a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21388A.wrl) : 	 [C04-21388A.wrl](./Model3d/wrl/C04-21388A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21388A.stl) : 	 [C04-21388A.stl](./Model3d/stl/C04-21388A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21388A.obj) : 	 [C04-21388A.obj](./Model3d/obj/C04-21388A.obj)
+- Package 3d model x3d : 	 [C04-21388A.x3d](./Model3d/x3d/C04-21388A.x3d)
+- Package 3d model scad : 	 [C04-21388A.scad](./Model3d/scad/C04-21388A.scad)
+- Package 3d model usd : 	 [C04-21388A.usd](./Model3d/usd/C04-21388A.usd)
+- Package 3d model glb : 	 [C04-21388A.glb](./Model3d/glb/C04-21388A.glb)
 Pin count : 28
 - 1 : PD3,  of Type IO, alternates : [TC2 OCB_, PORTD P_3, EXINT PCINT_19, EXINT INT_1]
 - 2 : PD4,  of Type IO, alternates : [EXINT PCINT_20, TC0 T_, USART0 XCK_, PORTD P_4]
@@ -22356,6 +26230,18 @@ Pin count : 28
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-21395C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 RXB
+- Package Type : 	 VQFN
+- Pin count : 	 32,00
+- Package Layout : 	 [C04-21395C.pdf](./mchp/packages/c04-21395c.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21395C.wrl) : 	 [C04-21395C.wrl](./Model3d/wrl/C04-21395C.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21395C.stl) : 	 [C04-21395C.stl](./Model3d/stl/C04-21395C.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21395C.obj) : 	 [C04-21395C.obj](./Model3d/obj/C04-21395C.obj)
+- Package 3d model x3d : 	 [C04-21395C.x3d](./Model3d/x3d/C04-21395C.x3d)
+- Package 3d model scad : 	 [C04-21395C.scad](./Model3d/scad/C04-21395C.scad)
+- Package 3d model usd : 	 [C04-21395C.usd](./Model3d/usd/C04-21395C.usd)
+- Package 3d model glb : 	 [C04-21395C.glb](./Model3d/glb/C04-21395C.glb)
 Pin count : 32
 - 1 : PD3,  of Type IO, alternates : [TC2 OCB_, PORTD P_3, EXINT PCINT_19, EXINT INT_1]
 - 2 : PD4,  of Type IO, alternates : [EXINT PCINT_20, TC0 T_, USART0 XCK_, PORTD P_4]
@@ -22410,6 +26296,11 @@ Pin count : 32
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00070B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 M3X
+- Package Type : 	 SPDIP
+- Pin count : 	 28,00
+- Package Layout : 	 [C04-00070B.pdf](./mchp/packages/c04-00070b.pdf)
 Pin count : 28
 - 1 : PC6,  of Type IO, alternates : [EXINT PCINT_14, PORTC P_6]
 - 2 : PD0,  of Type IO, alternates : [PORTD P_0, USART0 RXD_, EXINT PCINT_16]
@@ -22460,6 +26351,18 @@ Pin count : 28
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00074D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 T5X
+- Package Type : 	 TQFP
+- Pin count : 	 32,00
+- Package Layout : 	 [C04-00074D.pdf](./mchp/packages/c04-00074d.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00074D.wrl) : 	 [C04-00074D.wrl](./Model3d/wrl/C04-00074D.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00074D.stl) : 	 [C04-00074D.stl](./Model3d/stl/C04-00074D.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00074D.obj) : 	 [C04-00074D.obj](./Model3d/obj/C04-00074D.obj)
+- Package 3d model x3d : 	 [C04-00074D.x3d](./Model3d/x3d/C04-00074D.x3d)
+- Package 3d model scad : 	 [C04-00074D.scad](./Model3d/scad/C04-00074D.scad)
+- Package 3d model usd : 	 [C04-00074D.usd](./Model3d/usd/C04-00074D.usd)
+- Package 3d model glb : 	 [C04-00074D.glb](./Model3d/glb/C04-00074D.glb)
 Pin count : 32
 - 1 : PD3,  of Type IO, alternates : [TC2 OCB_, PORTD P_3, EXINT PCINT_19, EXINT INT_1]
 - 2 : PD4,  of Type IO, alternates : [EXINT PCINT_20, TC0 T_, USART0 XCK_, PORTD P_4]
@@ -22514,6 +26417,18 @@ Pin count : 32
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-21395C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 RXB
+- Package Type : 	 VQFN
+- Pin count : 	 32,00
+- Package Layout : 	 [C04-21395C.pdf](./mchp/packages/c04-21395c.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21395C.wrl) : 	 [C04-21395C.wrl](./Model3d/wrl/C04-21395C.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21395C.stl) : 	 [C04-21395C.stl](./Model3d/stl/C04-21395C.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21395C.obj) : 	 [C04-21395C.obj](./Model3d/obj/C04-21395C.obj)
+- Package 3d model x3d : 	 [C04-21395C.x3d](./Model3d/x3d/C04-21395C.x3d)
+- Package 3d model scad : 	 [C04-21395C.scad](./Model3d/scad/C04-21395C.scad)
+- Package 3d model usd : 	 [C04-21395C.usd](./Model3d/usd/C04-21395C.usd)
+- Package 3d model glb : 	 [C04-21395C.glb](./Model3d/glb/C04-21395C.glb)
 Pin count : 32
 - 1 : PD3,  of Type IO, alternates : [TC2 OCB_, PORTD P_3, EXINT PCINT_19, EXINT INT_1]
 - 2 : PD4,  of Type IO, alternates : [EXINT PCINT_20, TC0 T_, USART0 XCK_, PORTD P_4]
@@ -22568,6 +26483,21 @@ Pin count : 32
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00074D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 T5X
+- Package Type : 	 TQFP
+- Pin count : 	 32,00
+- Package Layout : 	 [C04-00074D.pdf](./mchp/packages/c04-00074d.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00074D.wrl) : 	 [C04-00074D.wrl](./Model3d/wrl/C04-00074D.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00074D.stl) : 	 [C04-00074D.stl](./Model3d/stl/C04-00074D.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00074D.obj) : 	 [C04-00074D.obj](./Model3d/obj/C04-00074D.obj)
+- Package 3d model x3d : 	 [C04-00074D.x3d](./Model3d/x3d/C04-00074D.x3d)
+- Package 3d model scad : 	 [C04-00074D.scad](./Model3d/scad/C04-00074D.scad)
+- Package 3d model usd : 	 [C04-00074D.usd](./Model3d/usd/C04-00074D.usd)
+- Package 3d model glb : 	 [C04-00074D.glb](./Model3d/glb/C04-00074D.glb)
+
+please check that some data is inconsistent 	 
+
 Pin count : 28
 - 1 : PC6,  of Type IO, alternates : [EXINT PCINT_14, PORTC P_6]
 - 2 : PD0,  of Type IO, alternates : [PORTD P_0, USART0 RXD_, EXINT PCINT_16]
@@ -22618,6 +26548,18 @@ Pin count : 28
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00074D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 T5X
+- Package Type : 	 TQFP
+- Pin count : 	 32,00
+- Package Layout : 	 [C04-00074D.pdf](./mchp/packages/c04-00074d.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00074D.wrl) : 	 [C04-00074D.wrl](./Model3d/wrl/C04-00074D.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00074D.stl) : 	 [C04-00074D.stl](./Model3d/stl/C04-00074D.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00074D.obj) : 	 [C04-00074D.obj](./Model3d/obj/C04-00074D.obj)
+- Package 3d model x3d : 	 [C04-00074D.x3d](./Model3d/x3d/C04-00074D.x3d)
+- Package 3d model scad : 	 [C04-00074D.scad](./Model3d/scad/C04-00074D.scad)
+- Package 3d model usd : 	 [C04-00074D.usd](./Model3d/usd/C04-00074D.usd)
+- Package 3d model glb : 	 [C04-00074D.glb](./Model3d/glb/C04-00074D.glb)
 Pin count : 32
 - 1 : PD3,  of Type IO, alternates : [TC2 OCB_, PORTD P_3, EXINT PCINT_19, EXINT INT_1]
 - 2 : PD4,  of Type IO, alternates : [EXINT PCINT_20, TC0 T_, USART0 XCK_, PORTD P_4]
@@ -22672,6 +26614,18 @@ Pin count : 32
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00074D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 T5X
+- Package Type : 	 TQFP
+- Pin count : 	 32,00
+- Package Layout : 	 [C04-00074D.pdf](./mchp/packages/c04-00074d.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00074D.wrl) : 	 [C04-00074D.wrl](./Model3d/wrl/C04-00074D.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00074D.stl) : 	 [C04-00074D.stl](./Model3d/stl/C04-00074D.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00074D.obj) : 	 [C04-00074D.obj](./Model3d/obj/C04-00074D.obj)
+- Package 3d model x3d : 	 [C04-00074D.x3d](./Model3d/x3d/C04-00074D.x3d)
+- Package 3d model scad : 	 [C04-00074D.scad](./Model3d/scad/C04-00074D.scad)
+- Package 3d model usd : 	 [C04-00074D.usd](./Model3d/usd/C04-00074D.usd)
+- Package 3d model glb : 	 [C04-00074D.glb](./Model3d/glb/C04-00074D.glb)
 Pin count : 32
 - 1 : PD3,  of Type IO, alternates : [TC2 OCB_, PORTD P_3, EXINT PCINT_19, EXINT INT_1]
 - 2 : PD4,  of Type IO, alternates : [EXINT PCINT_20, TC0 T_, USART0 XCK_, PORTD P_4]
@@ -22726,6 +26680,21 @@ Pin count : 32
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00074D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 T5X
+- Package Type : 	 TQFP
+- Pin count : 	 32,00
+- Package Layout : 	 [C04-00074D.pdf](./mchp/packages/c04-00074d.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00074D.wrl) : 	 [C04-00074D.wrl](./Model3d/wrl/C04-00074D.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00074D.stl) : 	 [C04-00074D.stl](./Model3d/stl/C04-00074D.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00074D.obj) : 	 [C04-00074D.obj](./Model3d/obj/C04-00074D.obj)
+- Package 3d model x3d : 	 [C04-00074D.x3d](./Model3d/x3d/C04-00074D.x3d)
+- Package 3d model scad : 	 [C04-00074D.scad](./Model3d/scad/C04-00074D.scad)
+- Package 3d model usd : 	 [C04-00074D.usd](./Model3d/usd/C04-00074D.usd)
+- Package 3d model glb : 	 [C04-00074D.glb](./Model3d/glb/C04-00074D.glb)
+
+please check that some data is inconsistent 	 
+
 Pin count : 31
 - B1 : PD3,  of Type IO, alternates : [TC2 OCB_, PORTD P_3, EXINT PCINT_19, EXINT INT_1]
 - B2 : PD4,  of Type IO, alternates : [EXINT PCINT_20, TC0 T_, USART0 XCK_, PORTD P_4]
@@ -22779,6 +26748,18 @@ Pin count : 31
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-21388A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 RPB
+- Package Type : 	 VQFN
+- Pin count : 	 28,00
+- Package Layout : 	 [C04-21388A.pdf](./mchp/packages/c04-21388a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21388A.wrl) : 	 [C04-21388A.wrl](./Model3d/wrl/C04-21388A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21388A.stl) : 	 [C04-21388A.stl](./Model3d/stl/C04-21388A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21388A.obj) : 	 [C04-21388A.obj](./Model3d/obj/C04-21388A.obj)
+- Package 3d model x3d : 	 [C04-21388A.x3d](./Model3d/x3d/C04-21388A.x3d)
+- Package 3d model scad : 	 [C04-21388A.scad](./Model3d/scad/C04-21388A.scad)
+- Package 3d model usd : 	 [C04-21388A.usd](./Model3d/usd/C04-21388A.usd)
+- Package 3d model glb : 	 [C04-21388A.glb](./Model3d/glb/C04-21388A.glb)
 Pin count : 28
 - 1 : PD3,  of Type IO, alternates : [TC2 OCB_, PORTD P_3, EXINT PCINT_19, EXINT INT_1]
 - 2 : PD4,  of Type IO, alternates : [EXINT PCINT_20, TC0 T_, USART0 XCK_, PORTD P_4]
@@ -22829,6 +26810,18 @@ Pin count : 28
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-21388A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 RNB
+- Package Type : 	 VQFN
+- Pin count : 	 28,00
+- Package Layout : 	 [C04-21388A.pdf](./mchp/packages/c04-21388a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21388A.wrl) : 	 [C04-21388A.wrl](./Model3d/wrl/C04-21388A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21388A.stl) : 	 [C04-21388A.stl](./Model3d/stl/C04-21388A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21388A.obj) : 	 [C04-21388A.obj](./Model3d/obj/C04-21388A.obj)
+- Package 3d model x3d : 	 [C04-21388A.x3d](./Model3d/x3d/C04-21388A.x3d)
+- Package 3d model scad : 	 [C04-21388A.scad](./Model3d/scad/C04-21388A.scad)
+- Package 3d model usd : 	 [C04-21388A.usd](./Model3d/usd/C04-21388A.usd)
+- Package 3d model glb : 	 [C04-21388A.glb](./Model3d/glb/C04-21388A.glb)
 Pin count : 28
 - 1 : PD3,  of Type IO, alternates : [TC2 OCB_, PORTD P_3, EXINT PCINT_19, EXINT INT_1]
 - 2 : PD4,  of Type IO, alternates : [EXINT PCINT_20, TC0 T_, USART0 XCK_, PORTD P_4]
@@ -22879,6 +26872,18 @@ Pin count : 28
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-21400B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 S4B
+- Package Type : 	 VQFN
+- Pin count : 	 32,00
+- Package Layout : 	 [C04-21400B.pdf](./mchp/packages/c04-21400b.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21400B.wrl) : 	 [C04-21400B.wrl](./Model3d/wrl/C04-21400B.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21400B.stl) : 	 [C04-21400B.stl](./Model3d/stl/C04-21400B.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21400B.obj) : 	 [C04-21400B.obj](./Model3d/obj/C04-21400B.obj)
+- Package 3d model x3d : 	 [C04-21400B.x3d](./Model3d/x3d/C04-21400B.x3d)
+- Package 3d model scad : 	 [C04-21400B.scad](./Model3d/scad/C04-21400B.scad)
+- Package 3d model usd : 	 [C04-21400B.usd](./Model3d/usd/C04-21400B.usd)
+- Package 3d model glb : 	 [C04-21400B.glb](./Model3d/glb/C04-21400B.glb)
 Pin count : 32
 - 1 : PD3,  of Type IO, alternates : [TC2 OCB_, PORTD P_3, EXINT PCINT_19, EXINT INT_1]
 - 2 : PD4,  of Type IO, alternates : [EXINT PCINT_20, TC0 T_, USART0 XCK_, PORTD P_4]
@@ -22933,6 +26938,18 @@ Pin count : 32
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-21395C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 RXB
+- Package Type : 	 VQFN
+- Pin count : 	 32,00
+- Package Layout : 	 [C04-21395C.pdf](./mchp/packages/c04-21395c.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21395C.wrl) : 	 [C04-21395C.wrl](./Model3d/wrl/C04-21395C.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21395C.stl) : 	 [C04-21395C.stl](./Model3d/stl/C04-21395C.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21395C.obj) : 	 [C04-21395C.obj](./Model3d/obj/C04-21395C.obj)
+- Package 3d model x3d : 	 [C04-21395C.x3d](./Model3d/x3d/C04-21395C.x3d)
+- Package 3d model scad : 	 [C04-21395C.scad](./Model3d/scad/C04-21395C.scad)
+- Package 3d model usd : 	 [C04-21395C.usd](./Model3d/usd/C04-21395C.usd)
+- Package 3d model glb : 	 [C04-21395C.glb](./Model3d/glb/C04-21395C.glb)
 Pin count : 32
 - 1 : PD3,  of Type IO, alternates : [TC2 OCB_, PORTD P_3, EXINT PCINT_19, EXINT INT_1]
 - 2 : PD4,  of Type IO, alternates : [EXINT PCINT_20, TC0 T_, USART0 XCK_, PORTD P_4]
@@ -22987,6 +27004,21 @@ Pin count : 32
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00074D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 T5X
+- Package Type : 	 TQFP
+- Pin count : 	 32,00
+- Package Layout : 	 [C04-00074D.pdf](./mchp/packages/c04-00074d.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00074D.wrl) : 	 [C04-00074D.wrl](./Model3d/wrl/C04-00074D.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00074D.stl) : 	 [C04-00074D.stl](./Model3d/stl/C04-00074D.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00074D.obj) : 	 [C04-00074D.obj](./Model3d/obj/C04-00074D.obj)
+- Package 3d model x3d : 	 [C04-00074D.x3d](./Model3d/x3d/C04-00074D.x3d)
+- Package 3d model scad : 	 [C04-00074D.scad](./Model3d/scad/C04-00074D.scad)
+- Package 3d model usd : 	 [C04-00074D.usd](./Model3d/usd/C04-00074D.usd)
+- Package 3d model glb : 	 [C04-00074D.glb](./Model3d/glb/C04-00074D.glb)
+
+please check that some data is inconsistent 	 
+
 Pin count : 28
 - 1 : PC6,  of Type IO, alternates : [EXINT PCINT_14, PORTC P_6]
 - 2 : PD0,  of Type IO, alternates : [PORTD P_0, USART0 RXD_, EXINT PCINT_16]
@@ -23037,6 +27069,11 @@ Pin count : 28
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00070B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 M3X
+- Package Type : 	 SPDIP
+- Pin count : 	 28,00
+- Package Layout : 	 [C04-00070B.pdf](./mchp/packages/c04-00070b.pdf)
 Pin count : 28
 - 1 : PC6,  of Type IO, alternates : [EXINT PCINT_14, PORTC P_6]
 - 2 : PD0,  of Type IO, alternates : [PORTD P_0, USART0 RXD_, EXINT PCINT_16]
@@ -23087,6 +27124,18 @@ Pin count : 28
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00074D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 T5X
+- Package Type : 	 TQFP
+- Pin count : 	 32,00
+- Package Layout : 	 [C04-00074D.pdf](./mchp/packages/c04-00074d.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00074D.wrl) : 	 [C04-00074D.wrl](./Model3d/wrl/C04-00074D.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00074D.stl) : 	 [C04-00074D.stl](./Model3d/stl/C04-00074D.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00074D.obj) : 	 [C04-00074D.obj](./Model3d/obj/C04-00074D.obj)
+- Package 3d model x3d : 	 [C04-00074D.x3d](./Model3d/x3d/C04-00074D.x3d)
+- Package 3d model scad : 	 [C04-00074D.scad](./Model3d/scad/C04-00074D.scad)
+- Package 3d model usd : 	 [C04-00074D.usd](./Model3d/usd/C04-00074D.usd)
+- Package 3d model glb : 	 [C04-00074D.glb](./Model3d/glb/C04-00074D.glb)
 Pin count : 32
 - 1 : PD3,  of Type IO, alternates : [TC2 OCB_, PORTD P_3, EXINT PCINT_19, EXINT INT_1]
 - 2 : PD4,  of Type IO, alternates : [EXINT PCINT_20, TC0 T_, USART0 XCK_, PORTD P_4]
@@ -23141,6 +27190,18 @@ Pin count : 32
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00074D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 T5X
+- Package Type : 	 TQFP
+- Pin count : 	 32,00
+- Package Layout : 	 [C04-00074D.pdf](./mchp/packages/c04-00074d.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00074D.wrl) : 	 [C04-00074D.wrl](./Model3d/wrl/C04-00074D.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00074D.stl) : 	 [C04-00074D.stl](./Model3d/stl/C04-00074D.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00074D.obj) : 	 [C04-00074D.obj](./Model3d/obj/C04-00074D.obj)
+- Package 3d model x3d : 	 [C04-00074D.x3d](./Model3d/x3d/C04-00074D.x3d)
+- Package 3d model scad : 	 [C04-00074D.scad](./Model3d/scad/C04-00074D.scad)
+- Package 3d model usd : 	 [C04-00074D.usd](./Model3d/usd/C04-00074D.usd)
+- Package 3d model glb : 	 [C04-00074D.glb](./Model3d/glb/C04-00074D.glb)
 Pin count : 32
 - 1 : PD3,  of Type IO, alternates : [TC2 OCB_, PORTD P_3, EXINT PCINT_19, EXINT INT_1]
 - 2 : PD4,  of Type IO, alternates : [EXINT PCINT_20, TC0 T_, USART0 XCK_, PORTD P_4]
@@ -23195,6 +27256,18 @@ Pin count : 32
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-21395C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 RXB
+- Package Type : 	 VQFN
+- Pin count : 	 32,00
+- Package Layout : 	 [C04-21395C.pdf](./mchp/packages/c04-21395c.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21395C.wrl) : 	 [C04-21395C.wrl](./Model3d/wrl/C04-21395C.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21395C.stl) : 	 [C04-21395C.stl](./Model3d/stl/C04-21395C.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21395C.obj) : 	 [C04-21395C.obj](./Model3d/obj/C04-21395C.obj)
+- Package 3d model x3d : 	 [C04-21395C.x3d](./Model3d/x3d/C04-21395C.x3d)
+- Package 3d model scad : 	 [C04-21395C.scad](./Model3d/scad/C04-21395C.scad)
+- Package 3d model usd : 	 [C04-21395C.usd](./Model3d/usd/C04-21395C.usd)
+- Package 3d model glb : 	 [C04-21395C.glb](./Model3d/glb/C04-21395C.glb)
 Pin count : 32
 - 1 : PD3,  of Type IO, alternates : [TC2 OCB_, PORTD P_3, EXINT PCINT_19, EXINT INT_1]
 - 2 : PD4,  of Type IO, alternates : [EXINT PCINT_20, TC0 T_, USART0 XCK_, PORTD P_4]
@@ -23249,6 +27322,18 @@ Pin count : 32
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-21395C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 RXB
+- Package Type : 	 VQFN
+- Pin count : 	 32,00
+- Package Layout : 	 [C04-21395C.pdf](./mchp/packages/c04-21395c.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21395C.wrl) : 	 [C04-21395C.wrl](./Model3d/wrl/C04-21395C.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21395C.stl) : 	 [C04-21395C.stl](./Model3d/stl/C04-21395C.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21395C.obj) : 	 [C04-21395C.obj](./Model3d/obj/C04-21395C.obj)
+- Package 3d model x3d : 	 [C04-21395C.x3d](./Model3d/x3d/C04-21395C.x3d)
+- Package 3d model scad : 	 [C04-21395C.scad](./Model3d/scad/C04-21395C.scad)
+- Package 3d model usd : 	 [C04-21395C.usd](./Model3d/usd/C04-21395C.usd)
+- Package 3d model glb : 	 [C04-21395C.glb](./Model3d/glb/C04-21395C.glb)
 Pin count : 32
 - 1 : PD3,  of Type IO, alternates : [TC2 OCB_, PORTD P_3, EXINT PCINT_19, EXINT INT_1]
 - 2 : PD4,  of Type IO, alternates : [EXINT PCINT_20, TC0 T_, USART0 XCK_, PORTD P_4]
@@ -23303,6 +27388,18 @@ Pin count : 32
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00074D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 T5X
+- Package Type : 	 TQFP
+- Pin count : 	 32,00
+- Package Layout : 	 [C04-00074D.pdf](./mchp/packages/c04-00074d.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00074D.wrl) : 	 [C04-00074D.wrl](./Model3d/wrl/C04-00074D.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00074D.stl) : 	 [C04-00074D.stl](./Model3d/stl/C04-00074D.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00074D.obj) : 	 [C04-00074D.obj](./Model3d/obj/C04-00074D.obj)
+- Package 3d model x3d : 	 [C04-00074D.x3d](./Model3d/x3d/C04-00074D.x3d)
+- Package 3d model scad : 	 [C04-00074D.scad](./Model3d/scad/C04-00074D.scad)
+- Package 3d model usd : 	 [C04-00074D.usd](./Model3d/usd/C04-00074D.usd)
+- Package 3d model glb : 	 [C04-00074D.glb](./Model3d/glb/C04-00074D.glb)
 Pin count : 32
 - 1 : PD3,  of Type IO, alternates : [TC2 OCB_, PORTD P_3, EXINT PCINT_19, EXINT INT_1]
 - 2 : PD4,  of Type IO, alternates : [EXINT PCINT_20, TC0 T_, USART0 XCK_, PORTD P_4]
@@ -23357,6 +27454,18 @@ Pin count : 32
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-21395C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 RXB
+- Package Type : 	 VQFN
+- Pin count : 	 32,00
+- Package Layout : 	 [C04-21395C.pdf](./mchp/packages/c04-21395c.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21395C.wrl) : 	 [C04-21395C.wrl](./Model3d/wrl/C04-21395C.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21395C.stl) : 	 [C04-21395C.stl](./Model3d/stl/C04-21395C.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21395C.obj) : 	 [C04-21395C.obj](./Model3d/obj/C04-21395C.obj)
+- Package 3d model x3d : 	 [C04-21395C.x3d](./Model3d/x3d/C04-21395C.x3d)
+- Package 3d model scad : 	 [C04-21395C.scad](./Model3d/scad/C04-21395C.scad)
+- Package 3d model usd : 	 [C04-21395C.usd](./Model3d/usd/C04-21395C.usd)
+- Package 3d model glb : 	 [C04-21395C.glb](./Model3d/glb/C04-21395C.glb)
 Pin count : 32
 - 1 : PD3,  of Type IO, alternates : [TC2 OCB_, PORTD P_3, EXINT PCINT_19, EXINT INT_1]
 - 2 : PD4,  of Type IO, alternates : [EXINT PCINT_20, TC0 T_, USART0 XCK_, PORTD P_4]
@@ -23411,6 +27520,21 @@ Pin count : 32
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-21395C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 RXB
+- Package Type : 	 VQFN
+- Pin count : 	 32,00
+- Package Layout : 	 [C04-21395C.pdf](./mchp/packages/c04-21395c.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21395C.wrl) : 	 [C04-21395C.wrl](./Model3d/wrl/C04-21395C.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21395C.stl) : 	 [C04-21395C.stl](./Model3d/stl/C04-21395C.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21395C.obj) : 	 [C04-21395C.obj](./Model3d/obj/C04-21395C.obj)
+- Package 3d model x3d : 	 [C04-21395C.x3d](./Model3d/x3d/C04-21395C.x3d)
+- Package 3d model scad : 	 [C04-21395C.scad](./Model3d/scad/C04-21395C.scad)
+- Package 3d model usd : 	 [C04-21395C.usd](./Model3d/usd/C04-21395C.usd)
+- Package 3d model glb : 	 [C04-21395C.glb](./Model3d/glb/C04-21395C.glb)
+
+please check that some data is inconsistent 	 
+
 Pin count : 28
 - 1 : PC6,  of Type IO, alternates : [EXINT PCINT_14, PORTC P_6]
 - 2 : PD0,  of Type IO, alternates : [PORTD P_0, USART0 RXD_, EXINT PCINT_16]
@@ -23461,6 +27585,18 @@ Pin count : 28
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00074D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 T5X
+- Package Type : 	 TQFP
+- Pin count : 	 32,00
+- Package Layout : 	 [C04-00074D.pdf](./mchp/packages/c04-00074d.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00074D.wrl) : 	 [C04-00074D.wrl](./Model3d/wrl/C04-00074D.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00074D.stl) : 	 [C04-00074D.stl](./Model3d/stl/C04-00074D.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00074D.obj) : 	 [C04-00074D.obj](./Model3d/obj/C04-00074D.obj)
+- Package 3d model x3d : 	 [C04-00074D.x3d](./Model3d/x3d/C04-00074D.x3d)
+- Package 3d model scad : 	 [C04-00074D.scad](./Model3d/scad/C04-00074D.scad)
+- Package 3d model usd : 	 [C04-00074D.usd](./Model3d/usd/C04-00074D.usd)
+- Package 3d model glb : 	 [C04-00074D.glb](./Model3d/glb/C04-00074D.glb)
 Pin count : 32
 - 1 : PD3,  of Type IO, alternates : [TC2 OCB_, PORTD P_3, EXINT PCINT_19, EXINT INT_1]
 - 2 : PD4,  of Type IO, alternates : [EXINT PCINT_20, TC0 T_, USART0 XCK_, PORTD P_4]
@@ -23515,6 +27651,18 @@ Pin count : 32
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-21395C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 RXB
+- Package Type : 	 VQFN
+- Pin count : 	 32,00
+- Package Layout : 	 [C04-21395C.pdf](./mchp/packages/c04-21395c.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21395C.wrl) : 	 [C04-21395C.wrl](./Model3d/wrl/C04-21395C.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21395C.stl) : 	 [C04-21395C.stl](./Model3d/stl/C04-21395C.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21395C.obj) : 	 [C04-21395C.obj](./Model3d/obj/C04-21395C.obj)
+- Package 3d model x3d : 	 [C04-21395C.x3d](./Model3d/x3d/C04-21395C.x3d)
+- Package 3d model scad : 	 [C04-21395C.scad](./Model3d/scad/C04-21395C.scad)
+- Package 3d model usd : 	 [C04-21395C.usd](./Model3d/usd/C04-21395C.usd)
+- Package 3d model glb : 	 [C04-21395C.glb](./Model3d/glb/C04-21395C.glb)
 Pin count : 32
 - 1 : PD3,  of Type IO, alternates : [TC2 OCB_, PORTD P_3, EXINT PCINT_19, EXINT INT_1]
 - 2 : PD4,  of Type IO, alternates : [EXINT PCINT_20, TC0 T_, USART0 XCK_, PORTD P_4]
@@ -23569,6 +27717,11 @@ Pin count : 32
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00070B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 M3X
+- Package Type : 	 SPDIP
+- Pin count : 	 28,00
+- Package Layout : 	 [C04-00070B.pdf](./mchp/packages/c04-00070b.pdf)
 Pin count : 28
 - 1 : PC6,  of Type IO, alternates : [EXINT PCINT_14, PORTC P_6]
 - 2 : PD0,  of Type IO, alternates : [PORTD P_0, USART0 RXD_, EXINT PCINT_16]
@@ -23618,6 +27771,14 @@ Pin count : 28
 - Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
+
+- Package Outline Drawings : 	 [C04-00070B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 M3X
+- Package Type : 	 SPDIP
+- Pin count : 	 28,00
+- Package Layout : 	 [C04-00070B.pdf](./mchp/packages/c04-00070b.pdf)
+
+please check that some data is inconsistent 	 
 
 Pin count : 32
 - 1 : PD3,  of Type IO, alternates : [PORTD P_3, EXINT INT_1]
@@ -23673,6 +27834,18 @@ Pin count : 32
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00074D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 T5X
+- Package Type : 	 TQFP
+- Pin count : 	 32,00
+- Package Layout : 	 [C04-00074D.pdf](./mchp/packages/c04-00074d.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00074D.wrl) : 	 [C04-00074D.wrl](./Model3d/wrl/C04-00074D.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00074D.stl) : 	 [C04-00074D.stl](./Model3d/stl/C04-00074D.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00074D.obj) : 	 [C04-00074D.obj](./Model3d/obj/C04-00074D.obj)
+- Package 3d model x3d : 	 [C04-00074D.x3d](./Model3d/x3d/C04-00074D.x3d)
+- Package 3d model scad : 	 [C04-00074D.scad](./Model3d/scad/C04-00074D.scad)
+- Package 3d model usd : 	 [C04-00074D.usd](./Model3d/usd/C04-00074D.usd)
+- Package 3d model glb : 	 [C04-00074D.glb](./Model3d/glb/C04-00074D.glb)
 Pin count : 32
 - 1 : PD3,  of Type IO, alternates : [PORTD P_3, EXINT INT_1]
 - 2 : PD4,  of Type IO, alternates : [TC0 T_, USART XCK_, PORTD P_4]
@@ -23726,6 +27899,14 @@ Pin count : 32
 - Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
+
+- Package Outline Drawings : 	 [C04-00070B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 M3X
+- Package Type : 	 SPDIP
+- Pin count : 	 28,00
+- Package Layout : 	 [C04-00070B.pdf](./mchp/packages/c04-00070b.pdf)
+
+please check that some data is inconsistent 	 
 
 Pin count : 32
 - 1 : PD3,  of Type IO, alternates : [PORTD P_3, EXINT INT_1]
@@ -23781,6 +27962,18 @@ Pin count : 32
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-21395C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 RXB
+- Package Type : 	 VQFN
+- Pin count : 	 32,00
+- Package Layout : 	 [C04-21395C.pdf](./mchp/packages/c04-21395c.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21395C.wrl) : 	 [C04-21395C.wrl](./Model3d/wrl/C04-21395C.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21395C.stl) : 	 [C04-21395C.stl](./Model3d/stl/C04-21395C.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21395C.obj) : 	 [C04-21395C.obj](./Model3d/obj/C04-21395C.obj)
+- Package 3d model x3d : 	 [C04-21395C.x3d](./Model3d/x3d/C04-21395C.x3d)
+- Package 3d model scad : 	 [C04-21395C.scad](./Model3d/scad/C04-21395C.scad)
+- Package 3d model usd : 	 [C04-21395C.usd](./Model3d/usd/C04-21395C.usd)
+- Package 3d model glb : 	 [C04-21395C.glb](./Model3d/glb/C04-21395C.glb)
 Pin count : 32
 - 1 : PD3,  of Type IO, alternates : [PORTD P_3, EXINT INT_1]
 - 2 : PD4,  of Type IO, alternates : [TC0 T_, USART XCK_, PORTD P_4]
@@ -23835,6 +28028,14 @@ Pin count : 32
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00070B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 M3X
+- Package Type : 	 SPDIP
+- Pin count : 	 28,00
+- Package Layout : 	 [C04-00070B.pdf](./mchp/packages/c04-00070b.pdf)
+
+please check that some data is inconsistent 	 
+
 Pin count : 28
 - 1 : PC6,  of Type IO, alternates : [PORTC P_6]
 - 2 : PD0,  of Type IO, alternates : [USART RXD_, PORTD P_0]
@@ -23885,6 +28086,11 @@ Pin count : 28
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00070B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 M3X
+- Package Type : 	 SPDIP
+- Pin count : 	 28,00
+- Package Layout : 	 [C04-00070B.pdf](./mchp/packages/c04-00070b.pdf)
 Pin count : 28
 - 1 : PC6,  of Type IO, alternates : [PORTC P_6]
 - 2 : PD0,  of Type IO, alternates : [USART RXD_, PORTD P_0]
@@ -23935,6 +28141,18 @@ Pin count : 28
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00074D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 T5X
+- Package Type : 	 TQFP
+- Pin count : 	 32,00
+- Package Layout : 	 [C04-00074D.pdf](./mchp/packages/c04-00074d.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00074D.wrl) : 	 [C04-00074D.wrl](./Model3d/wrl/C04-00074D.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00074D.stl) : 	 [C04-00074D.stl](./Model3d/stl/C04-00074D.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00074D.obj) : 	 [C04-00074D.obj](./Model3d/obj/C04-00074D.obj)
+- Package 3d model x3d : 	 [C04-00074D.x3d](./Model3d/x3d/C04-00074D.x3d)
+- Package 3d model scad : 	 [C04-00074D.scad](./Model3d/scad/C04-00074D.scad)
+- Package 3d model usd : 	 [C04-00074D.usd](./Model3d/usd/C04-00074D.usd)
+- Package 3d model glb : 	 [C04-00074D.glb](./Model3d/glb/C04-00074D.glb)
 Pin count : 32
 - 1 : XTAL1,  of Type PS
 - 2 : PC0,  of Type IO, alternates : [PORTC P_0]
@@ -23989,6 +28207,18 @@ Pin count : 32
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-21402A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 S8B
+- Package Type : 	 VQFN
+- Pin count : 	 32,00
+- Package Layout : 	 [C04-21402A.pdf](./mchp/packages/c04-21402a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21402A.wrl) : 	 [C04-21402A.wrl](./Model3d/wrl/C04-21402A.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21402A.stl) : 	 [C04-21402A.stl](./Model3d/stl/C04-21402A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21402A.obj) : 	 [C04-21402A.obj](./Model3d/obj/C04-21402A.obj)
+- Package 3d model x3d : 	 [C04-21402A.x3d](./Model3d/x3d/C04-21402A.x3d)
+- Package 3d model scad : 	 [C04-21402A.scad](./Model3d/scad/C04-21402A.scad)
+- Package 3d model usd : 	 [C04-21402A.usd](./Model3d/usd/C04-21402A.usd)
+- Package 3d model glb : 	 [C04-21402A.glb](./Model3d/glb/C04-21402A.glb)
 Pin count : 32
 - 1 : XTAL1,  of Type PS
 - 2 : PC0,  of Type IO, alternates : [PORTC P_0]

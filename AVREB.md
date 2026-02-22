@@ -20,6 +20,14 @@
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00065D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 D3X
+- Package Type : 	 SOIC
+- Pin count : 	 14,00
+- Package Layout : 	 [C04-00065D.pdf](./mchp/packages/c04-00065d.pdf)
+
+please check that some data is inconsistent 	 
+
 Pin count : 14
 - 1 : GND,  of Type PS
 - 2 : PF6,  of Type IO, alternates : [RSTCTRL RESET_, PORTF PIN_6, USART0 RXD_]
@@ -55,6 +63,14 @@ Pin count : 14
 - Library Proteus : [AVREB.pdif](./Proteus/AVREB.pdif) 
 
 ### Package : 
+
+- Package Outline Drawings : 	 [C04-00072C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 G3X
+- Package Type : 	 SSOP
+- Pin count : 	 20,00
+- Package Layout : 	 [C04-00072C.pdf](./mchp/packages/c04-00072c.pdf)
+
+please check that some data is inconsistent 	 
 
 Pin count : 20
 - 1 : GND,  of Type PS
@@ -98,6 +114,14 @@ Pin count : 20
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00072C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 G3X
+- Package Type : 	 SSOP
+- Pin count : 	 20,00
+- Package Layout : 	 [C04-00072C.pdf](./mchp/packages/c04-00072c.pdf)
+
+please check that some data is inconsistent 	 
+
 Pin count : 20
 - 1 : PA4,  of Type IO, alternates : [ADC0 AINP_24, PORTA PIN_4, TCE0 WO_2, TCE0 WO_4, USART0 TXD_, SPI0 MOSI_, ADC0 AINN_24]
 - 2 : PA5,  of Type IO, alternates : [TCE0 WO_5, PORTA PIN_5, SPI0 MISO_, TCE0 WO_3, USART0 RXD_, ADC0 AINP_25, ADC0 AINN_25]
@@ -139,6 +163,14 @@ Pin count : 20
 - Library Proteus : [AVREB.pdif](./Proteus/AVREB.pdif) 
 
 ### Package : 
+
+- Package Outline Drawings : 	 [C04-00070B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 M3X
+- Package Type : 	 SPDIP
+- Pin count : 	 28,00
+- Package Layout : 	 [C04-00070B.pdf](./mchp/packages/c04-00070b.pdf)
+
+please check that some data is inconsistent 	 
 
 Pin count : 28
 - 1 : PA7,  of Type IO, alternates : [USART0 XDIR_, PORTA PIN_7, CLKCTRL CLKOUT_, ADC0 AINN_27, ADC0 AINP_27, AC1 OUT_, TCE0 WO_5, TCE0 WO_7, AC1 AINP_6, EVSYS EVOUT_0, SPI0 SS_, TCF0 WO_1, AC0 OUT_]
@@ -190,6 +222,14 @@ Pin count : 28
 
 ### Package : 
 
+- Package Outline Drawings : 	 [C04-00070B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 M3X
+- Package Type : 	 SPDIP
+- Pin count : 	 28,00
+- Package Layout : 	 [C04-00070B.pdf](./mchp/packages/c04-00070b.pdf)
+
+please check that some data is inconsistent 	 
+
 Pin count : 28
 - 1 : PA3,  of Type IO, alternates : [PORTA PIN_3, USART0 XDIR_, CCL LUT0_OUT_, ADC0 AINP_23, TCE0 WO_1, TCE0 WO_3, TWI0 SCL_, USART0 RXD_, ADC0 AINN_23, TCB1 WO_0]
 - 2 : PA4,  of Type IO, alternates : [ADC0 AINP_24, PORTA PIN_4, TCE0 WO_2, TCE0 WO_4, USART0 TXD_, SPI0 MOSI_, ADC0 AINN_24]
@@ -239,6 +279,21 @@ Pin count : 28
 - Library Proteus : [AVREB.pdif](./Proteus/AVREB.pdif) 
 
 ### Package : 
+
+- Package Outline Drawings : 	 [C04-21395C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Code : 	 RXB
+- Package Type : 	 VQFN
+- Pin count : 	 32,00
+- Package Layout : 	 [C04-21395C.pdf](./mchp/packages/c04-21395c.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21395C.wrl) : 	 [C04-21395C.wrl](./Model3d/wrl/C04-21395C.wrl)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-21395C.stl) : 	 [C04-21395C.stl](./Model3d/stl/C04-21395C.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-21395C.obj) : 	 [C04-21395C.obj](./Model3d/obj/C04-21395C.obj)
+- Package 3d model x3d : 	 [C04-21395C.x3d](./Model3d/x3d/C04-21395C.x3d)
+- Package 3d model scad : 	 [C04-21395C.scad](./Model3d/scad/C04-21395C.scad)
+- Package 3d model usd : 	 [C04-21395C.usd](./Model3d/usd/C04-21395C.usd)
+- Package 3d model glb : 	 [C04-21395C.glb](./Model3d/glb/C04-21395C.glb)
+
+please check that some data is inconsistent 	 
 
 Pin count : 32
 - 1 : PA3,  of Type IO, alternates : [PORTA PIN_3, USART0 XDIR_, CCL LUT0_OUT_, ADC0 AINP_23, TCE0 WO_1, TCE0 WO_3, TWI0 SCL_, USART0 RXD_, ADC0 AINN_23, TCB1 WO_0]

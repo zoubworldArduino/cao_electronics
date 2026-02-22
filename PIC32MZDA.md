@@ -26,8 +26,12 @@
 - Pin count : 	 169,00
 - Package Layout : 	 [C04-00365B.pdf](./mchp/packages/c04-00365b.pdf)
 - Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00365B.wrl) : 	 [C04-00365B.wrl](./Model3d/wrl/C04-00365B.wrl)
-- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00365B.x3d) : 	 [C04-00365B.x3d](./Model3d/x3d/C04-00365B.x3d)
-- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00365B.scad) : 	 [C04-00365B.scad](./Model3d/scad/C04-00365B.scad)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00365B.stl) : 	 [C04-00365B.stl](./Model3d/stl/C04-00365B.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00365B.obj) : 	 [C04-00365B.obj](./Model3d/obj/C04-00365B.obj)
+- Package 3d model x3d : 	 [C04-00365B.x3d](./Model3d/x3d/C04-00365B.x3d)
+- Package 3d model scad : 	 [C04-00365B.scad](./Model3d/scad/C04-00365B.scad)
+- Package 3d model usd : 	 [C04-00365B.usd](./Model3d/usd/C04-00365B.usd)
+- Package 3d model glb : 	 [C04-00365B.glb](./Model3d/glb/C04-00365B.glb)
 
 please check that some data is inconsistent 	 
 
@@ -59,8 +63,12 @@ Pin count : 0
 - Pin count : 	 176,00
 - Package Layout : 	 [C04-00367A.pdf](./mchp/packages/c04-00367a.pdf)
 - Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00367A.wrl) : 	 [C04-00367A.wrl](./Model3d/wrl/C04-00367A.wrl)
-- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00367A.x3d) : 	 [C04-00367A.x3d](./Model3d/x3d/C04-00367A.x3d)
-- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00367A.scad) : 	 [C04-00367A.scad](./Model3d/scad/C04-00367A.scad)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00367A.stl) : 	 [C04-00367A.stl](./Model3d/stl/C04-00367A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00367A.obj) : 	 [C04-00367A.obj](./Model3d/obj/C04-00367A.obj)
+- Package 3d model x3d : 	 [C04-00367A.x3d](./Model3d/x3d/C04-00367A.x3d)
+- Package 3d model scad : 	 [C04-00367A.scad](./Model3d/scad/C04-00367A.scad)
+- Package 3d model usd : 	 [C04-00367A.usd](./Model3d/usd/C04-00367A.usd)
+- Package 3d model glb : 	 [C04-00367A.glb](./Model3d/glb/C04-00367A.glb)
 
 please check that some data is inconsistent 	 
 
@@ -92,8 +100,12 @@ Pin count : 0
 - Pin count : 	 288,00
 - Package Layout : 	 [C04-00366C.pdf](./mchp/packages/c04-00366c.pdf)
 - Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00366C.wrl) : 	 [C04-00366C.wrl](./Model3d/wrl/C04-00366C.wrl)
-- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00366C.x3d) : 	 [C04-00366C.x3d](./Model3d/x3d/C04-00366C.x3d)
-- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00366C.scad) : 	 [C04-00366C.scad](./Model3d/scad/C04-00366C.scad)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00366C.stl) : 	 [C04-00366C.stl](./Model3d/stl/C04-00366C.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00366C.obj) : 	 [C04-00366C.obj](./Model3d/obj/C04-00366C.obj)
+- Package 3d model x3d : 	 [C04-00366C.x3d](./Model3d/x3d/C04-00366C.x3d)
+- Package 3d model scad : 	 [C04-00366C.scad](./Model3d/scad/C04-00366C.scad)
+- Package 3d model usd : 	 [C04-00366C.usd](./Model3d/usd/C04-00366C.usd)
+- Package 3d model glb : 	 [C04-00366C.glb](./Model3d/glb/C04-00366C.glb)
 
 please check that some data is inconsistent 	 
 
@@ -125,8 +137,12 @@ Pin count : 0
 - Pin count : 	 169,00
 - Package Layout : 	 [C04-00365B.pdf](./mchp/packages/c04-00365b.pdf)
 - Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00365B.wrl) : 	 [C04-00365B.wrl](./Model3d/wrl/C04-00365B.wrl)
-- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00365B.x3d) : 	 [C04-00365B.x3d](./Model3d/x3d/C04-00365B.x3d)
-- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00365B.scad) : 	 [C04-00365B.scad](./Model3d/scad/C04-00365B.scad)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00365B.stl) : 	 [C04-00365B.stl](./Model3d/stl/C04-00365B.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00365B.obj) : 	 [C04-00365B.obj](./Model3d/obj/C04-00365B.obj)
+- Package 3d model x3d : 	 [C04-00365B.x3d](./Model3d/x3d/C04-00365B.x3d)
+- Package 3d model scad : 	 [C04-00365B.scad](./Model3d/scad/C04-00365B.scad)
+- Package 3d model usd : 	 [C04-00365B.usd](./Model3d/usd/C04-00365B.usd)
+- Package 3d model glb : 	 [C04-00365B.glb](./Model3d/glb/C04-00365B.glb)
 
 please check that some data is inconsistent 	 
 
@@ -158,8 +174,12 @@ Pin count : 0
 - Pin count : 	 176,00
 - Package Layout : 	 [C04-00367A.pdf](./mchp/packages/c04-00367a.pdf)
 - Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00367A.wrl) : 	 [C04-00367A.wrl](./Model3d/wrl/C04-00367A.wrl)
-- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00367A.x3d) : 	 [C04-00367A.x3d](./Model3d/x3d/C04-00367A.x3d)
-- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00367A.scad) : 	 [C04-00367A.scad](./Model3d/scad/C04-00367A.scad)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00367A.stl) : 	 [C04-00367A.stl](./Model3d/stl/C04-00367A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00367A.obj) : 	 [C04-00367A.obj](./Model3d/obj/C04-00367A.obj)
+- Package 3d model x3d : 	 [C04-00367A.x3d](./Model3d/x3d/C04-00367A.x3d)
+- Package 3d model scad : 	 [C04-00367A.scad](./Model3d/scad/C04-00367A.scad)
+- Package 3d model usd : 	 [C04-00367A.usd](./Model3d/usd/C04-00367A.usd)
+- Package 3d model glb : 	 [C04-00367A.glb](./Model3d/glb/C04-00367A.glb)
 
 please check that some data is inconsistent 	 
 
@@ -191,8 +211,12 @@ Pin count : 0
 - Pin count : 	 288,00
 - Package Layout : 	 [C04-00366C.pdf](./mchp/packages/c04-00366c.pdf)
 - Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00366C.wrl) : 	 [C04-00366C.wrl](./Model3d/wrl/C04-00366C.wrl)
-- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00366C.x3d) : 	 [C04-00366C.x3d](./Model3d/x3d/C04-00366C.x3d)
-- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00366C.scad) : 	 [C04-00366C.scad](./Model3d/scad/C04-00366C.scad)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00366C.stl) : 	 [C04-00366C.stl](./Model3d/stl/C04-00366C.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00366C.obj) : 	 [C04-00366C.obj](./Model3d/obj/C04-00366C.obj)
+- Package 3d model x3d : 	 [C04-00366C.x3d](./Model3d/x3d/C04-00366C.x3d)
+- Package 3d model scad : 	 [C04-00366C.scad](./Model3d/scad/C04-00366C.scad)
+- Package 3d model usd : 	 [C04-00366C.usd](./Model3d/usd/C04-00366C.usd)
+- Package 3d model glb : 	 [C04-00366C.glb](./Model3d/glb/C04-00366C.glb)
 
 please check that some data is inconsistent 	 
 
@@ -224,8 +248,12 @@ Pin count : 0
 - Pin count : 	 169,00
 - Package Layout : 	 [C04-00439C.pdf](./mchp/packages/c04-00439c.pdf)
 - Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00439C.wrl) : 	 [C04-00439C.wrl](./Model3d/wrl/C04-00439C.wrl)
-- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00439C.x3d) : 	 [C04-00439C.x3d](./Model3d/x3d/C04-00439C.x3d)
-- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00439C.scad) : 	 [C04-00439C.scad](./Model3d/scad/C04-00439C.scad)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00439C.stl) : 	 [C04-00439C.stl](./Model3d/stl/C04-00439C.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00439C.obj) : 	 [C04-00439C.obj](./Model3d/obj/C04-00439C.obj)
+- Package 3d model x3d : 	 [C04-00439C.x3d](./Model3d/x3d/C04-00439C.x3d)
+- Package 3d model scad : 	 [C04-00439C.scad](./Model3d/scad/C04-00439C.scad)
+- Package 3d model usd : 	 [C04-00439C.usd](./Model3d/usd/C04-00439C.usd)
+- Package 3d model glb : 	 [C04-00439C.glb](./Model3d/glb/C04-00439C.glb)
 
 please check that some data is inconsistent 	 
 
@@ -257,8 +285,12 @@ Pin count : 0
 - Pin count : 	 176,00
 - Package Layout : 	 [C04-00367A.pdf](./mchp/packages/c04-00367a.pdf)
 - Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00367A.wrl) : 	 [C04-00367A.wrl](./Model3d/wrl/C04-00367A.wrl)
-- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00367A.x3d) : 	 [C04-00367A.x3d](./Model3d/x3d/C04-00367A.x3d)
-- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00367A.scad) : 	 [C04-00367A.scad](./Model3d/scad/C04-00367A.scad)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00367A.stl) : 	 [C04-00367A.stl](./Model3d/stl/C04-00367A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00367A.obj) : 	 [C04-00367A.obj](./Model3d/obj/C04-00367A.obj)
+- Package 3d model x3d : 	 [C04-00367A.x3d](./Model3d/x3d/C04-00367A.x3d)
+- Package 3d model scad : 	 [C04-00367A.scad](./Model3d/scad/C04-00367A.scad)
+- Package 3d model usd : 	 [C04-00367A.usd](./Model3d/usd/C04-00367A.usd)
+- Package 3d model glb : 	 [C04-00367A.glb](./Model3d/glb/C04-00367A.glb)
 
 please check that some data is inconsistent 	 
 
@@ -290,8 +322,12 @@ Pin count : 0
 - Pin count : 	 169,00
 - Package Layout : 	 [C04-00439C.pdf](./mchp/packages/c04-00439c.pdf)
 - Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00439C.wrl) : 	 [C04-00439C.wrl](./Model3d/wrl/C04-00439C.wrl)
-- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00439C.x3d) : 	 [C04-00439C.x3d](./Model3d/x3d/C04-00439C.x3d)
-- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00439C.scad) : 	 [C04-00439C.scad](./Model3d/scad/C04-00439C.scad)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00439C.stl) : 	 [C04-00439C.stl](./Model3d/stl/C04-00439C.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00439C.obj) : 	 [C04-00439C.obj](./Model3d/obj/C04-00439C.obj)
+- Package 3d model x3d : 	 [C04-00439C.x3d](./Model3d/x3d/C04-00439C.x3d)
+- Package 3d model scad : 	 [C04-00439C.scad](./Model3d/scad/C04-00439C.scad)
+- Package 3d model usd : 	 [C04-00439C.usd](./Model3d/usd/C04-00439C.usd)
+- Package 3d model glb : 	 [C04-00439C.glb](./Model3d/glb/C04-00439C.glb)
 
 please check that some data is inconsistent 	 
 
@@ -323,8 +359,12 @@ Pin count : 0
 - Pin count : 	 176,00
 - Package Layout : 	 [C04-00367A.pdf](./mchp/packages/c04-00367a.pdf)
 - Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00367A.wrl) : 	 [C04-00367A.wrl](./Model3d/wrl/C04-00367A.wrl)
-- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00367A.x3d) : 	 [C04-00367A.x3d](./Model3d/x3d/C04-00367A.x3d)
-- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00367A.scad) : 	 [C04-00367A.scad](./Model3d/scad/C04-00367A.scad)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00367A.stl) : 	 [C04-00367A.stl](./Model3d/stl/C04-00367A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00367A.obj) : 	 [C04-00367A.obj](./Model3d/obj/C04-00367A.obj)
+- Package 3d model x3d : 	 [C04-00367A.x3d](./Model3d/x3d/C04-00367A.x3d)
+- Package 3d model scad : 	 [C04-00367A.scad](./Model3d/scad/C04-00367A.scad)
+- Package 3d model usd : 	 [C04-00367A.usd](./Model3d/usd/C04-00367A.usd)
+- Package 3d model glb : 	 [C04-00367A.glb](./Model3d/glb/C04-00367A.glb)
 
 please check that some data is inconsistent 	 
 
@@ -356,8 +396,12 @@ Pin count : 0
 - Pin count : 	 169,00
 - Package Layout : 	 [C04-00365B.pdf](./mchp/packages/c04-00365b.pdf)
 - Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00365B.wrl) : 	 [C04-00365B.wrl](./Model3d/wrl/C04-00365B.wrl)
-- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00365B.x3d) : 	 [C04-00365B.x3d](./Model3d/x3d/C04-00365B.x3d)
-- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00365B.scad) : 	 [C04-00365B.scad](./Model3d/scad/C04-00365B.scad)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00365B.stl) : 	 [C04-00365B.stl](./Model3d/stl/C04-00365B.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00365B.obj) : 	 [C04-00365B.obj](./Model3d/obj/C04-00365B.obj)
+- Package 3d model x3d : 	 [C04-00365B.x3d](./Model3d/x3d/C04-00365B.x3d)
+- Package 3d model scad : 	 [C04-00365B.scad](./Model3d/scad/C04-00365B.scad)
+- Package 3d model usd : 	 [C04-00365B.usd](./Model3d/usd/C04-00365B.usd)
+- Package 3d model glb : 	 [C04-00365B.glb](./Model3d/glb/C04-00365B.glb)
 
 please check that some data is inconsistent 	 
 
@@ -389,8 +433,12 @@ Pin count : 0
 - Pin count : 	 176,00
 - Package Layout : 	 [C04-00367A.pdf](./mchp/packages/c04-00367a.pdf)
 - Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00367A.wrl) : 	 [C04-00367A.wrl](./Model3d/wrl/C04-00367A.wrl)
-- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00367A.x3d) : 	 [C04-00367A.x3d](./Model3d/x3d/C04-00367A.x3d)
-- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00367A.scad) : 	 [C04-00367A.scad](./Model3d/scad/C04-00367A.scad)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00367A.stl) : 	 [C04-00367A.stl](./Model3d/stl/C04-00367A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00367A.obj) : 	 [C04-00367A.obj](./Model3d/obj/C04-00367A.obj)
+- Package 3d model x3d : 	 [C04-00367A.x3d](./Model3d/x3d/C04-00367A.x3d)
+- Package 3d model scad : 	 [C04-00367A.scad](./Model3d/scad/C04-00367A.scad)
+- Package 3d model usd : 	 [C04-00367A.usd](./Model3d/usd/C04-00367A.usd)
+- Package 3d model glb : 	 [C04-00367A.glb](./Model3d/glb/C04-00367A.glb)
 
 please check that some data is inconsistent 	 
 
@@ -422,8 +470,12 @@ Pin count : 0
 - Pin count : 	 169,00
 - Package Layout : 	 [C04-00365B.pdf](./mchp/packages/c04-00365b.pdf)
 - Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00365B.wrl) : 	 [C04-00365B.wrl](./Model3d/wrl/C04-00365B.wrl)
-- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00365B.x3d) : 	 [C04-00365B.x3d](./Model3d/x3d/C04-00365B.x3d)
-- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00365B.scad) : 	 [C04-00365B.scad](./Model3d/scad/C04-00365B.scad)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00365B.stl) : 	 [C04-00365B.stl](./Model3d/stl/C04-00365B.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00365B.obj) : 	 [C04-00365B.obj](./Model3d/obj/C04-00365B.obj)
+- Package 3d model x3d : 	 [C04-00365B.x3d](./Model3d/x3d/C04-00365B.x3d)
+- Package 3d model scad : 	 [C04-00365B.scad](./Model3d/scad/C04-00365B.scad)
+- Package 3d model usd : 	 [C04-00365B.usd](./Model3d/usd/C04-00365B.usd)
+- Package 3d model glb : 	 [C04-00365B.glb](./Model3d/glb/C04-00365B.glb)
 
 please check that some data is inconsistent 	 
 
@@ -455,8 +507,12 @@ Pin count : 0
 - Pin count : 	 176,00
 - Package Layout : 	 [C04-00367A.pdf](./mchp/packages/c04-00367a.pdf)
 - Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00367A.wrl) : 	 [C04-00367A.wrl](./Model3d/wrl/C04-00367A.wrl)
-- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00367A.x3d) : 	 [C04-00367A.x3d](./Model3d/x3d/C04-00367A.x3d)
-- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00367A.scad) : 	 [C04-00367A.scad](./Model3d/scad/C04-00367A.scad)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00367A.stl) : 	 [C04-00367A.stl](./Model3d/stl/C04-00367A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00367A.obj) : 	 [C04-00367A.obj](./Model3d/obj/C04-00367A.obj)
+- Package 3d model x3d : 	 [C04-00367A.x3d](./Model3d/x3d/C04-00367A.x3d)
+- Package 3d model scad : 	 [C04-00367A.scad](./Model3d/scad/C04-00367A.scad)
+- Package 3d model usd : 	 [C04-00367A.usd](./Model3d/usd/C04-00367A.usd)
+- Package 3d model glb : 	 [C04-00367A.glb](./Model3d/glb/C04-00367A.glb)
 
 please check that some data is inconsistent 	 
 
@@ -488,8 +544,12 @@ Pin count : 0
 - Pin count : 	 169,00
 - Package Layout : 	 [C04-00439C.pdf](./mchp/packages/c04-00439c.pdf)
 - Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00439C.wrl) : 	 [C04-00439C.wrl](./Model3d/wrl/C04-00439C.wrl)
-- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00439C.x3d) : 	 [C04-00439C.x3d](./Model3d/x3d/C04-00439C.x3d)
-- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00439C.scad) : 	 [C04-00439C.scad](./Model3d/scad/C04-00439C.scad)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00439C.stl) : 	 [C04-00439C.stl](./Model3d/stl/C04-00439C.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00439C.obj) : 	 [C04-00439C.obj](./Model3d/obj/C04-00439C.obj)
+- Package 3d model x3d : 	 [C04-00439C.x3d](./Model3d/x3d/C04-00439C.x3d)
+- Package 3d model scad : 	 [C04-00439C.scad](./Model3d/scad/C04-00439C.scad)
+- Package 3d model usd : 	 [C04-00439C.usd](./Model3d/usd/C04-00439C.usd)
+- Package 3d model glb : 	 [C04-00439C.glb](./Model3d/glb/C04-00439C.glb)
 
 please check that some data is inconsistent 	 
 
@@ -521,8 +581,12 @@ Pin count : 0
 - Pin count : 	 176,00
 - Package Layout : 	 [C04-00367A.pdf](./mchp/packages/c04-00367a.pdf)
 - Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00367A.wrl) : 	 [C04-00367A.wrl](./Model3d/wrl/C04-00367A.wrl)
-- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00367A.x3d) : 	 [C04-00367A.x3d](./Model3d/x3d/C04-00367A.x3d)
-- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00367A.scad) : 	 [C04-00367A.scad](./Model3d/scad/C04-00367A.scad)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00367A.stl) : 	 [C04-00367A.stl](./Model3d/stl/C04-00367A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00367A.obj) : 	 [C04-00367A.obj](./Model3d/obj/C04-00367A.obj)
+- Package 3d model x3d : 	 [C04-00367A.x3d](./Model3d/x3d/C04-00367A.x3d)
+- Package 3d model scad : 	 [C04-00367A.scad](./Model3d/scad/C04-00367A.scad)
+- Package 3d model usd : 	 [C04-00367A.usd](./Model3d/usd/C04-00367A.usd)
+- Package 3d model glb : 	 [C04-00367A.glb](./Model3d/glb/C04-00367A.glb)
 
 please check that some data is inconsistent 	 
 
@@ -554,8 +618,12 @@ Pin count : 0
 - Pin count : 	 169,00
 - Package Layout : 	 [C04-00439C.pdf](./mchp/packages/c04-00439c.pdf)
 - Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00439C.wrl) : 	 [C04-00439C.wrl](./Model3d/wrl/C04-00439C.wrl)
-- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00439C.x3d) : 	 [C04-00439C.x3d](./Model3d/x3d/C04-00439C.x3d)
-- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00439C.scad) : 	 [C04-00439C.scad](./Model3d/scad/C04-00439C.scad)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00439C.stl) : 	 [C04-00439C.stl](./Model3d/stl/C04-00439C.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00439C.obj) : 	 [C04-00439C.obj](./Model3d/obj/C04-00439C.obj)
+- Package 3d model x3d : 	 [C04-00439C.x3d](./Model3d/x3d/C04-00439C.x3d)
+- Package 3d model scad : 	 [C04-00439C.scad](./Model3d/scad/C04-00439C.scad)
+- Package 3d model usd : 	 [C04-00439C.usd](./Model3d/usd/C04-00439C.usd)
+- Package 3d model glb : 	 [C04-00439C.glb](./Model3d/glb/C04-00439C.glb)
 
 please check that some data is inconsistent 	 
 
@@ -587,8 +655,12 @@ Pin count : 0
 - Pin count : 	 176,00
 - Package Layout : 	 [C04-00367A.pdf](./mchp/packages/c04-00367a.pdf)
 - Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00367A.wrl) : 	 [C04-00367A.wrl](./Model3d/wrl/C04-00367A.wrl)
-- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00367A.x3d) : 	 [C04-00367A.x3d](./Model3d/x3d/C04-00367A.x3d)
-- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00367A.scad) : 	 [C04-00367A.scad](./Model3d/scad/C04-00367A.scad)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00367A.stl) : 	 [C04-00367A.stl](./Model3d/stl/C04-00367A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00367A.obj) : 	 [C04-00367A.obj](./Model3d/obj/C04-00367A.obj)
+- Package 3d model x3d : 	 [C04-00367A.x3d](./Model3d/x3d/C04-00367A.x3d)
+- Package 3d model scad : 	 [C04-00367A.scad](./Model3d/scad/C04-00367A.scad)
+- Package 3d model usd : 	 [C04-00367A.usd](./Model3d/usd/C04-00367A.usd)
+- Package 3d model glb : 	 [C04-00367A.glb](./Model3d/glb/C04-00367A.glb)
 
 please check that some data is inconsistent 	 
 
@@ -620,8 +692,12 @@ Pin count : 0
 - Pin count : 	 169,00
 - Package Layout : 	 [C04-00365B.pdf](./mchp/packages/c04-00365b.pdf)
 - Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00365B.wrl) : 	 [C04-00365B.wrl](./Model3d/wrl/C04-00365B.wrl)
-- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00365B.x3d) : 	 [C04-00365B.x3d](./Model3d/x3d/C04-00365B.x3d)
-- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00365B.scad) : 	 [C04-00365B.scad](./Model3d/scad/C04-00365B.scad)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00365B.stl) : 	 [C04-00365B.stl](./Model3d/stl/C04-00365B.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00365B.obj) : 	 [C04-00365B.obj](./Model3d/obj/C04-00365B.obj)
+- Package 3d model x3d : 	 [C04-00365B.x3d](./Model3d/x3d/C04-00365B.x3d)
+- Package 3d model scad : 	 [C04-00365B.scad](./Model3d/scad/C04-00365B.scad)
+- Package 3d model usd : 	 [C04-00365B.usd](./Model3d/usd/C04-00365B.usd)
+- Package 3d model glb : 	 [C04-00365B.glb](./Model3d/glb/C04-00365B.glb)
 
 please check that some data is inconsistent 	 
 
@@ -653,8 +729,12 @@ Pin count : 0
 - Pin count : 	 176,00
 - Package Layout : 	 [C04-00367A.pdf](./mchp/packages/c04-00367a.pdf)
 - Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00367A.wrl) : 	 [C04-00367A.wrl](./Model3d/wrl/C04-00367A.wrl)
-- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00367A.x3d) : 	 [C04-00367A.x3d](./Model3d/x3d/C04-00367A.x3d)
-- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00367A.scad) : 	 [C04-00367A.scad](./Model3d/scad/C04-00367A.scad)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00367A.stl) : 	 [C04-00367A.stl](./Model3d/stl/C04-00367A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00367A.obj) : 	 [C04-00367A.obj](./Model3d/obj/C04-00367A.obj)
+- Package 3d model x3d : 	 [C04-00367A.x3d](./Model3d/x3d/C04-00367A.x3d)
+- Package 3d model scad : 	 [C04-00367A.scad](./Model3d/scad/C04-00367A.scad)
+- Package 3d model usd : 	 [C04-00367A.usd](./Model3d/usd/C04-00367A.usd)
+- Package 3d model glb : 	 [C04-00367A.glb](./Model3d/glb/C04-00367A.glb)
 
 please check that some data is inconsistent 	 
 
@@ -686,8 +766,12 @@ Pin count : 0
 - Pin count : 	 288,00
 - Package Layout : 	 [C04-00366C.pdf](./mchp/packages/c04-00366c.pdf)
 - Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00366C.wrl) : 	 [C04-00366C.wrl](./Model3d/wrl/C04-00366C.wrl)
-- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00366C.x3d) : 	 [C04-00366C.x3d](./Model3d/x3d/C04-00366C.x3d)
-- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00366C.scad) : 	 [C04-00366C.scad](./Model3d/scad/C04-00366C.scad)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00366C.stl) : 	 [C04-00366C.stl](./Model3d/stl/C04-00366C.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00366C.obj) : 	 [C04-00366C.obj](./Model3d/obj/C04-00366C.obj)
+- Package 3d model x3d : 	 [C04-00366C.x3d](./Model3d/x3d/C04-00366C.x3d)
+- Package 3d model scad : 	 [C04-00366C.scad](./Model3d/scad/C04-00366C.scad)
+- Package 3d model usd : 	 [C04-00366C.usd](./Model3d/usd/C04-00366C.usd)
+- Package 3d model glb : 	 [C04-00366C.glb](./Model3d/glb/C04-00366C.glb)
 
 please check that some data is inconsistent 	 
 
@@ -719,8 +803,12 @@ Pin count : 0
 - Pin count : 	 169,00
 - Package Layout : 	 [C04-00365B.pdf](./mchp/packages/c04-00365b.pdf)
 - Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00365B.wrl) : 	 [C04-00365B.wrl](./Model3d/wrl/C04-00365B.wrl)
-- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00365B.x3d) : 	 [C04-00365B.x3d](./Model3d/x3d/C04-00365B.x3d)
-- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00365B.scad) : 	 [C04-00365B.scad](./Model3d/scad/C04-00365B.scad)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00365B.stl) : 	 [C04-00365B.stl](./Model3d/stl/C04-00365B.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00365B.obj) : 	 [C04-00365B.obj](./Model3d/obj/C04-00365B.obj)
+- Package 3d model x3d : 	 [C04-00365B.x3d](./Model3d/x3d/C04-00365B.x3d)
+- Package 3d model scad : 	 [C04-00365B.scad](./Model3d/scad/C04-00365B.scad)
+- Package 3d model usd : 	 [C04-00365B.usd](./Model3d/usd/C04-00365B.usd)
+- Package 3d model glb : 	 [C04-00365B.glb](./Model3d/glb/C04-00365B.glb)
 
 please check that some data is inconsistent 	 
 
@@ -752,8 +840,12 @@ Pin count : 0
 - Pin count : 	 176,00
 - Package Layout : 	 [C04-00367A.pdf](./mchp/packages/c04-00367a.pdf)
 - Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00367A.wrl) : 	 [C04-00367A.wrl](./Model3d/wrl/C04-00367A.wrl)
-- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00367A.x3d) : 	 [C04-00367A.x3d](./Model3d/x3d/C04-00367A.x3d)
-- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00367A.scad) : 	 [C04-00367A.scad](./Model3d/scad/C04-00367A.scad)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00367A.stl) : 	 [C04-00367A.stl](./Model3d/stl/C04-00367A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00367A.obj) : 	 [C04-00367A.obj](./Model3d/obj/C04-00367A.obj)
+- Package 3d model x3d : 	 [C04-00367A.x3d](./Model3d/x3d/C04-00367A.x3d)
+- Package 3d model scad : 	 [C04-00367A.scad](./Model3d/scad/C04-00367A.scad)
+- Package 3d model usd : 	 [C04-00367A.usd](./Model3d/usd/C04-00367A.usd)
+- Package 3d model glb : 	 [C04-00367A.glb](./Model3d/glb/C04-00367A.glb)
 
 please check that some data is inconsistent 	 
 
@@ -785,8 +877,12 @@ Pin count : 0
 - Pin count : 	 288,00
 - Package Layout : 	 [C04-00366C.pdf](./mchp/packages/c04-00366c.pdf)
 - Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00366C.wrl) : 	 [C04-00366C.wrl](./Model3d/wrl/C04-00366C.wrl)
-- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00366C.x3d) : 	 [C04-00366C.x3d](./Model3d/x3d/C04-00366C.x3d)
-- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00366C.scad) : 	 [C04-00366C.scad](./Model3d/scad/C04-00366C.scad)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00366C.stl) : 	 [C04-00366C.stl](./Model3d/stl/C04-00366C.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00366C.obj) : 	 [C04-00366C.obj](./Model3d/obj/C04-00366C.obj)
+- Package 3d model x3d : 	 [C04-00366C.x3d](./Model3d/x3d/C04-00366C.x3d)
+- Package 3d model scad : 	 [C04-00366C.scad](./Model3d/scad/C04-00366C.scad)
+- Package 3d model usd : 	 [C04-00366C.usd](./Model3d/usd/C04-00366C.usd)
+- Package 3d model glb : 	 [C04-00366C.glb](./Model3d/glb/C04-00366C.glb)
 
 please check that some data is inconsistent 	 
 
@@ -818,8 +914,12 @@ Pin count : 0
 - Pin count : 	 169,00
 - Package Layout : 	 [C04-00439C.pdf](./mchp/packages/c04-00439c.pdf)
 - Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00439C.wrl) : 	 [C04-00439C.wrl](./Model3d/wrl/C04-00439C.wrl)
-- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00439C.x3d) : 	 [C04-00439C.x3d](./Model3d/x3d/C04-00439C.x3d)
-- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00439C.scad) : 	 [C04-00439C.scad](./Model3d/scad/C04-00439C.scad)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00439C.stl) : 	 [C04-00439C.stl](./Model3d/stl/C04-00439C.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00439C.obj) : 	 [C04-00439C.obj](./Model3d/obj/C04-00439C.obj)
+- Package 3d model x3d : 	 [C04-00439C.x3d](./Model3d/x3d/C04-00439C.x3d)
+- Package 3d model scad : 	 [C04-00439C.scad](./Model3d/scad/C04-00439C.scad)
+- Package 3d model usd : 	 [C04-00439C.usd](./Model3d/usd/C04-00439C.usd)
+- Package 3d model glb : 	 [C04-00439C.glb](./Model3d/glb/C04-00439C.glb)
 
 please check that some data is inconsistent 	 
 
@@ -851,8 +951,12 @@ Pin count : 0
 - Pin count : 	 176,00
 - Package Layout : 	 [C04-00367A.pdf](./mchp/packages/c04-00367a.pdf)
 - Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00367A.wrl) : 	 [C04-00367A.wrl](./Model3d/wrl/C04-00367A.wrl)
-- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00367A.x3d) : 	 [C04-00367A.x3d](./Model3d/x3d/C04-00367A.x3d)
-- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00367A.scad) : 	 [C04-00367A.scad](./Model3d/scad/C04-00367A.scad)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00367A.stl) : 	 [C04-00367A.stl](./Model3d/stl/C04-00367A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00367A.obj) : 	 [C04-00367A.obj](./Model3d/obj/C04-00367A.obj)
+- Package 3d model x3d : 	 [C04-00367A.x3d](./Model3d/x3d/C04-00367A.x3d)
+- Package 3d model scad : 	 [C04-00367A.scad](./Model3d/scad/C04-00367A.scad)
+- Package 3d model usd : 	 [C04-00367A.usd](./Model3d/usd/C04-00367A.usd)
+- Package 3d model glb : 	 [C04-00367A.glb](./Model3d/glb/C04-00367A.glb)
 
 please check that some data is inconsistent 	 
 
@@ -884,8 +988,12 @@ Pin count : 0
 - Pin count : 	 169,00
 - Package Layout : 	 [C04-00439C.pdf](./mchp/packages/c04-00439c.pdf)
 - Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00439C.wrl) : 	 [C04-00439C.wrl](./Model3d/wrl/C04-00439C.wrl)
-- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00439C.x3d) : 	 [C04-00439C.x3d](./Model3d/x3d/C04-00439C.x3d)
-- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00439C.scad) : 	 [C04-00439C.scad](./Model3d/scad/C04-00439C.scad)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00439C.stl) : 	 [C04-00439C.stl](./Model3d/stl/C04-00439C.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00439C.obj) : 	 [C04-00439C.obj](./Model3d/obj/C04-00439C.obj)
+- Package 3d model x3d : 	 [C04-00439C.x3d](./Model3d/x3d/C04-00439C.x3d)
+- Package 3d model scad : 	 [C04-00439C.scad](./Model3d/scad/C04-00439C.scad)
+- Package 3d model usd : 	 [C04-00439C.usd](./Model3d/usd/C04-00439C.usd)
+- Package 3d model glb : 	 [C04-00439C.glb](./Model3d/glb/C04-00439C.glb)
 
 please check that some data is inconsistent 	 
 
@@ -917,8 +1025,12 @@ Pin count : 0
 - Pin count : 	 176,00
 - Package Layout : 	 [C04-00367A.pdf](./mchp/packages/c04-00367a.pdf)
 - Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00367A.wrl) : 	 [C04-00367A.wrl](./Model3d/wrl/C04-00367A.wrl)
-- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00367A.x3d) : 	 [C04-00367A.x3d](./Model3d/x3d/C04-00367A.x3d)
-- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00367A.scad) : 	 [C04-00367A.scad](./Model3d/scad/C04-00367A.scad)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00367A.stl) : 	 [C04-00367A.stl](./Model3d/stl/C04-00367A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00367A.obj) : 	 [C04-00367A.obj](./Model3d/obj/C04-00367A.obj)
+- Package 3d model x3d : 	 [C04-00367A.x3d](./Model3d/x3d/C04-00367A.x3d)
+- Package 3d model scad : 	 [C04-00367A.scad](./Model3d/scad/C04-00367A.scad)
+- Package 3d model usd : 	 [C04-00367A.usd](./Model3d/usd/C04-00367A.usd)
+- Package 3d model glb : 	 [C04-00367A.glb](./Model3d/glb/C04-00367A.glb)
 
 please check that some data is inconsistent 	 
 
@@ -950,8 +1062,12 @@ Pin count : 0
 - Pin count : 	 169,00
 - Package Layout : 	 [C04-00365B.pdf](./mchp/packages/c04-00365b.pdf)
 - Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00365B.wrl) : 	 [C04-00365B.wrl](./Model3d/wrl/C04-00365B.wrl)
-- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00365B.x3d) : 	 [C04-00365B.x3d](./Model3d/x3d/C04-00365B.x3d)
-- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00365B.scad) : 	 [C04-00365B.scad](./Model3d/scad/C04-00365B.scad)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00365B.stl) : 	 [C04-00365B.stl](./Model3d/stl/C04-00365B.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00365B.obj) : 	 [C04-00365B.obj](./Model3d/obj/C04-00365B.obj)
+- Package 3d model x3d : 	 [C04-00365B.x3d](./Model3d/x3d/C04-00365B.x3d)
+- Package 3d model scad : 	 [C04-00365B.scad](./Model3d/scad/C04-00365B.scad)
+- Package 3d model usd : 	 [C04-00365B.usd](./Model3d/usd/C04-00365B.usd)
+- Package 3d model glb : 	 [C04-00365B.glb](./Model3d/glb/C04-00365B.glb)
 
 please check that some data is inconsistent 	 
 
@@ -983,8 +1099,12 @@ Pin count : 0
 - Pin count : 	 176,00
 - Package Layout : 	 [C04-00367A.pdf](./mchp/packages/c04-00367a.pdf)
 - Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00367A.wrl) : 	 [C04-00367A.wrl](./Model3d/wrl/C04-00367A.wrl)
-- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00367A.x3d) : 	 [C04-00367A.x3d](./Model3d/x3d/C04-00367A.x3d)
-- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00367A.scad) : 	 [C04-00367A.scad](./Model3d/scad/C04-00367A.scad)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00367A.stl) : 	 [C04-00367A.stl](./Model3d/stl/C04-00367A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00367A.obj) : 	 [C04-00367A.obj](./Model3d/obj/C04-00367A.obj)
+- Package 3d model x3d : 	 [C04-00367A.x3d](./Model3d/x3d/C04-00367A.x3d)
+- Package 3d model scad : 	 [C04-00367A.scad](./Model3d/scad/C04-00367A.scad)
+- Package 3d model usd : 	 [C04-00367A.usd](./Model3d/usd/C04-00367A.usd)
+- Package 3d model glb : 	 [C04-00367A.glb](./Model3d/glb/C04-00367A.glb)
 
 please check that some data is inconsistent 	 
 
@@ -1016,8 +1136,12 @@ Pin count : 0
 - Pin count : 	 169,00
 - Package Layout : 	 [C04-00365B.pdf](./mchp/packages/c04-00365b.pdf)
 - Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00365B.wrl) : 	 [C04-00365B.wrl](./Model3d/wrl/C04-00365B.wrl)
-- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00365B.x3d) : 	 [C04-00365B.x3d](./Model3d/x3d/C04-00365B.x3d)
-- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00365B.scad) : 	 [C04-00365B.scad](./Model3d/scad/C04-00365B.scad)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00365B.stl) : 	 [C04-00365B.stl](./Model3d/stl/C04-00365B.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00365B.obj) : 	 [C04-00365B.obj](./Model3d/obj/C04-00365B.obj)
+- Package 3d model x3d : 	 [C04-00365B.x3d](./Model3d/x3d/C04-00365B.x3d)
+- Package 3d model scad : 	 [C04-00365B.scad](./Model3d/scad/C04-00365B.scad)
+- Package 3d model usd : 	 [C04-00365B.usd](./Model3d/usd/C04-00365B.usd)
+- Package 3d model glb : 	 [C04-00365B.glb](./Model3d/glb/C04-00365B.glb)
 
 please check that some data is inconsistent 	 
 
@@ -1049,8 +1173,12 @@ Pin count : 0
 - Pin count : 	 176,00
 - Package Layout : 	 [C04-00367A.pdf](./mchp/packages/c04-00367a.pdf)
 - Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00367A.wrl) : 	 [C04-00367A.wrl](./Model3d/wrl/C04-00367A.wrl)
-- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00367A.x3d) : 	 [C04-00367A.x3d](./Model3d/x3d/C04-00367A.x3d)
-- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00367A.scad) : 	 [C04-00367A.scad](./Model3d/scad/C04-00367A.scad)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00367A.stl) : 	 [C04-00367A.stl](./Model3d/stl/C04-00367A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00367A.obj) : 	 [C04-00367A.obj](./Model3d/obj/C04-00367A.obj)
+- Package 3d model x3d : 	 [C04-00367A.x3d](./Model3d/x3d/C04-00367A.x3d)
+- Package 3d model scad : 	 [C04-00367A.scad](./Model3d/scad/C04-00367A.scad)
+- Package 3d model usd : 	 [C04-00367A.usd](./Model3d/usd/C04-00367A.usd)
+- Package 3d model glb : 	 [C04-00367A.glb](./Model3d/glb/C04-00367A.glb)
 
 please check that some data is inconsistent 	 
 
@@ -1082,8 +1210,12 @@ Pin count : 0
 - Pin count : 	 169,00
 - Package Layout : 	 [C04-00439C.pdf](./mchp/packages/c04-00439c.pdf)
 - Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00439C.wrl) : 	 [C04-00439C.wrl](./Model3d/wrl/C04-00439C.wrl)
-- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00439C.x3d) : 	 [C04-00439C.x3d](./Model3d/x3d/C04-00439C.x3d)
-- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00439C.scad) : 	 [C04-00439C.scad](./Model3d/scad/C04-00439C.scad)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00439C.stl) : 	 [C04-00439C.stl](./Model3d/stl/C04-00439C.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00439C.obj) : 	 [C04-00439C.obj](./Model3d/obj/C04-00439C.obj)
+- Package 3d model x3d : 	 [C04-00439C.x3d](./Model3d/x3d/C04-00439C.x3d)
+- Package 3d model scad : 	 [C04-00439C.scad](./Model3d/scad/C04-00439C.scad)
+- Package 3d model usd : 	 [C04-00439C.usd](./Model3d/usd/C04-00439C.usd)
+- Package 3d model glb : 	 [C04-00439C.glb](./Model3d/glb/C04-00439C.glb)
 
 please check that some data is inconsistent 	 
 
@@ -1115,8 +1247,12 @@ Pin count : 0
 - Pin count : 	 176,00
 - Package Layout : 	 [C04-00367A.pdf](./mchp/packages/c04-00367a.pdf)
 - Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00367A.wrl) : 	 [C04-00367A.wrl](./Model3d/wrl/C04-00367A.wrl)
-- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00367A.x3d) : 	 [C04-00367A.x3d](./Model3d/x3d/C04-00367A.x3d)
-- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00367A.scad) : 	 [C04-00367A.scad](./Model3d/scad/C04-00367A.scad)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00367A.stl) : 	 [C04-00367A.stl](./Model3d/stl/C04-00367A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00367A.obj) : 	 [C04-00367A.obj](./Model3d/obj/C04-00367A.obj)
+- Package 3d model x3d : 	 [C04-00367A.x3d](./Model3d/x3d/C04-00367A.x3d)
+- Package 3d model scad : 	 [C04-00367A.scad](./Model3d/scad/C04-00367A.scad)
+- Package 3d model usd : 	 [C04-00367A.usd](./Model3d/usd/C04-00367A.usd)
+- Package 3d model glb : 	 [C04-00367A.glb](./Model3d/glb/C04-00367A.glb)
 
 please check that some data is inconsistent 	 
 
@@ -1148,8 +1284,12 @@ Pin count : 0
 - Pin count : 	 169,00
 - Package Layout : 	 [C04-00439C.pdf](./mchp/packages/c04-00439c.pdf)
 - Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00439C.wrl) : 	 [C04-00439C.wrl](./Model3d/wrl/C04-00439C.wrl)
-- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00439C.x3d) : 	 [C04-00439C.x3d](./Model3d/x3d/C04-00439C.x3d)
-- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00439C.scad) : 	 [C04-00439C.scad](./Model3d/scad/C04-00439C.scad)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00439C.stl) : 	 [C04-00439C.stl](./Model3d/stl/C04-00439C.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00439C.obj) : 	 [C04-00439C.obj](./Model3d/obj/C04-00439C.obj)
+- Package 3d model x3d : 	 [C04-00439C.x3d](./Model3d/x3d/C04-00439C.x3d)
+- Package 3d model scad : 	 [C04-00439C.scad](./Model3d/scad/C04-00439C.scad)
+- Package 3d model usd : 	 [C04-00439C.usd](./Model3d/usd/C04-00439C.usd)
+- Package 3d model glb : 	 [C04-00439C.glb](./Model3d/glb/C04-00439C.glb)
 
 please check that some data is inconsistent 	 
 
@@ -1181,8 +1321,12 @@ Pin count : 0
 - Pin count : 	 176,00
 - Package Layout : 	 [C04-00367A.pdf](./mchp/packages/c04-00367a.pdf)
 - Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00367A.wrl) : 	 [C04-00367A.wrl](./Model3d/wrl/C04-00367A.wrl)
-- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00367A.x3d) : 	 [C04-00367A.x3d](./Model3d/x3d/C04-00367A.x3d)
-- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00367A.scad) : 	 [C04-00367A.scad](./Model3d/scad/C04-00367A.scad)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00367A.stl) : 	 [C04-00367A.stl](./Model3d/stl/C04-00367A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00367A.obj) : 	 [C04-00367A.obj](./Model3d/obj/C04-00367A.obj)
+- Package 3d model x3d : 	 [C04-00367A.x3d](./Model3d/x3d/C04-00367A.x3d)
+- Package 3d model scad : 	 [C04-00367A.scad](./Model3d/scad/C04-00367A.scad)
+- Package 3d model usd : 	 [C04-00367A.usd](./Model3d/usd/C04-00367A.usd)
+- Package 3d model glb : 	 [C04-00367A.glb](./Model3d/glb/C04-00367A.glb)
 
 please check that some data is inconsistent 	 
 
@@ -1214,8 +1358,12 @@ Pin count : 0
 - Pin count : 	 169,00
 - Package Layout : 	 [C04-00365B.pdf](./mchp/packages/c04-00365b.pdf)
 - Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00365B.wrl) : 	 [C04-00365B.wrl](./Model3d/wrl/C04-00365B.wrl)
-- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00365B.x3d) : 	 [C04-00365B.x3d](./Model3d/x3d/C04-00365B.x3d)
-- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00365B.scad) : 	 [C04-00365B.scad](./Model3d/scad/C04-00365B.scad)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00365B.stl) : 	 [C04-00365B.stl](./Model3d/stl/C04-00365B.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00365B.obj) : 	 [C04-00365B.obj](./Model3d/obj/C04-00365B.obj)
+- Package 3d model x3d : 	 [C04-00365B.x3d](./Model3d/x3d/C04-00365B.x3d)
+- Package 3d model scad : 	 [C04-00365B.scad](./Model3d/scad/C04-00365B.scad)
+- Package 3d model usd : 	 [C04-00365B.usd](./Model3d/usd/C04-00365B.usd)
+- Package 3d model glb : 	 [C04-00365B.glb](./Model3d/glb/C04-00365B.glb)
 
 please check that some data is inconsistent 	 
 
@@ -1247,8 +1395,12 @@ Pin count : 0
 - Pin count : 	 176,00
 - Package Layout : 	 [C04-00367A.pdf](./mchp/packages/c04-00367a.pdf)
 - Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00367A.wrl) : 	 [C04-00367A.wrl](./Model3d/wrl/C04-00367A.wrl)
-- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00367A.x3d) : 	 [C04-00367A.x3d](./Model3d/x3d/C04-00367A.x3d)
-- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00367A.scad) : 	 [C04-00367A.scad](./Model3d/scad/C04-00367A.scad)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00367A.stl) : 	 [C04-00367A.stl](./Model3d/stl/C04-00367A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00367A.obj) : 	 [C04-00367A.obj](./Model3d/obj/C04-00367A.obj)
+- Package 3d model x3d : 	 [C04-00367A.x3d](./Model3d/x3d/C04-00367A.x3d)
+- Package 3d model scad : 	 [C04-00367A.scad](./Model3d/scad/C04-00367A.scad)
+- Package 3d model usd : 	 [C04-00367A.usd](./Model3d/usd/C04-00367A.usd)
+- Package 3d model glb : 	 [C04-00367A.glb](./Model3d/glb/C04-00367A.glb)
 
 please check that some data is inconsistent 	 
 
@@ -1280,8 +1432,12 @@ Pin count : 0
 - Pin count : 	 288,00
 - Package Layout : 	 [C04-00366C.pdf](./mchp/packages/c04-00366c.pdf)
 - Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00366C.wrl) : 	 [C04-00366C.wrl](./Model3d/wrl/C04-00366C.wrl)
-- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00366C.x3d) : 	 [C04-00366C.x3d](./Model3d/x3d/C04-00366C.x3d)
-- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00366C.scad) : 	 [C04-00366C.scad](./Model3d/scad/C04-00366C.scad)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00366C.stl) : 	 [C04-00366C.stl](./Model3d/stl/C04-00366C.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00366C.obj) : 	 [C04-00366C.obj](./Model3d/obj/C04-00366C.obj)
+- Package 3d model x3d : 	 [C04-00366C.x3d](./Model3d/x3d/C04-00366C.x3d)
+- Package 3d model scad : 	 [C04-00366C.scad](./Model3d/scad/C04-00366C.scad)
+- Package 3d model usd : 	 [C04-00366C.usd](./Model3d/usd/C04-00366C.usd)
+- Package 3d model glb : 	 [C04-00366C.glb](./Model3d/glb/C04-00366C.glb)
 
 please check that some data is inconsistent 	 
 
@@ -1313,8 +1469,12 @@ Pin count : 0
 - Pin count : 	 169,00
 - Package Layout : 	 [C04-00365B.pdf](./mchp/packages/c04-00365b.pdf)
 - Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00365B.wrl) : 	 [C04-00365B.wrl](./Model3d/wrl/C04-00365B.wrl)
-- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00365B.x3d) : 	 [C04-00365B.x3d](./Model3d/x3d/C04-00365B.x3d)
-- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00365B.scad) : 	 [C04-00365B.scad](./Model3d/scad/C04-00365B.scad)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00365B.stl) : 	 [C04-00365B.stl](./Model3d/stl/C04-00365B.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00365B.obj) : 	 [C04-00365B.obj](./Model3d/obj/C04-00365B.obj)
+- Package 3d model x3d : 	 [C04-00365B.x3d](./Model3d/x3d/C04-00365B.x3d)
+- Package 3d model scad : 	 [C04-00365B.scad](./Model3d/scad/C04-00365B.scad)
+- Package 3d model usd : 	 [C04-00365B.usd](./Model3d/usd/C04-00365B.usd)
+- Package 3d model glb : 	 [C04-00365B.glb](./Model3d/glb/C04-00365B.glb)
 
 please check that some data is inconsistent 	 
 
@@ -1346,8 +1506,12 @@ Pin count : 0
 - Pin count : 	 176,00
 - Package Layout : 	 [C04-00367A.pdf](./mchp/packages/c04-00367a.pdf)
 - Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00367A.wrl) : 	 [C04-00367A.wrl](./Model3d/wrl/C04-00367A.wrl)
-- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00367A.x3d) : 	 [C04-00367A.x3d](./Model3d/x3d/C04-00367A.x3d)
-- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00367A.scad) : 	 [C04-00367A.scad](./Model3d/scad/C04-00367A.scad)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00367A.stl) : 	 [C04-00367A.stl](./Model3d/stl/C04-00367A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00367A.obj) : 	 [C04-00367A.obj](./Model3d/obj/C04-00367A.obj)
+- Package 3d model x3d : 	 [C04-00367A.x3d](./Model3d/x3d/C04-00367A.x3d)
+- Package 3d model scad : 	 [C04-00367A.scad](./Model3d/scad/C04-00367A.scad)
+- Package 3d model usd : 	 [C04-00367A.usd](./Model3d/usd/C04-00367A.usd)
+- Package 3d model glb : 	 [C04-00367A.glb](./Model3d/glb/C04-00367A.glb)
 
 please check that some data is inconsistent 	 
 
@@ -1379,8 +1543,12 @@ Pin count : 0
 - Pin count : 	 288,00
 - Package Layout : 	 [C04-00366C.pdf](./mchp/packages/c04-00366c.pdf)
 - Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00366C.wrl) : 	 [C04-00366C.wrl](./Model3d/wrl/C04-00366C.wrl)
-- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00366C.x3d) : 	 [C04-00366C.x3d](./Model3d/x3d/C04-00366C.x3d)
-- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00366C.scad) : 	 [C04-00366C.scad](./Model3d/scad/C04-00366C.scad)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00366C.stl) : 	 [C04-00366C.stl](./Model3d/stl/C04-00366C.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00366C.obj) : 	 [C04-00366C.obj](./Model3d/obj/C04-00366C.obj)
+- Package 3d model x3d : 	 [C04-00366C.x3d](./Model3d/x3d/C04-00366C.x3d)
+- Package 3d model scad : 	 [C04-00366C.scad](./Model3d/scad/C04-00366C.scad)
+- Package 3d model usd : 	 [C04-00366C.usd](./Model3d/usd/C04-00366C.usd)
+- Package 3d model glb : 	 [C04-00366C.glb](./Model3d/glb/C04-00366C.glb)
 
 please check that some data is inconsistent 	 
 
@@ -1412,8 +1580,12 @@ Pin count : 0
 - Pin count : 	 169,00
 - Package Layout : 	 [C04-00439C.pdf](./mchp/packages/c04-00439c.pdf)
 - Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00439C.wrl) : 	 [C04-00439C.wrl](./Model3d/wrl/C04-00439C.wrl)
-- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00439C.x3d) : 	 [C04-00439C.x3d](./Model3d/x3d/C04-00439C.x3d)
-- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00439C.scad) : 	 [C04-00439C.scad](./Model3d/scad/C04-00439C.scad)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00439C.stl) : 	 [C04-00439C.stl](./Model3d/stl/C04-00439C.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00439C.obj) : 	 [C04-00439C.obj](./Model3d/obj/C04-00439C.obj)
+- Package 3d model x3d : 	 [C04-00439C.x3d](./Model3d/x3d/C04-00439C.x3d)
+- Package 3d model scad : 	 [C04-00439C.scad](./Model3d/scad/C04-00439C.scad)
+- Package 3d model usd : 	 [C04-00439C.usd](./Model3d/usd/C04-00439C.usd)
+- Package 3d model glb : 	 [C04-00439C.glb](./Model3d/glb/C04-00439C.glb)
 
 please check that some data is inconsistent 	 
 
@@ -1445,8 +1617,12 @@ Pin count : 0
 - Pin count : 	 176,00
 - Package Layout : 	 [C04-00367A.pdf](./mchp/packages/c04-00367a.pdf)
 - Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00367A.wrl) : 	 [C04-00367A.wrl](./Model3d/wrl/C04-00367A.wrl)
-- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00367A.x3d) : 	 [C04-00367A.x3d](./Model3d/x3d/C04-00367A.x3d)
-- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00367A.scad) : 	 [C04-00367A.scad](./Model3d/scad/C04-00367A.scad)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00367A.stl) : 	 [C04-00367A.stl](./Model3d/stl/C04-00367A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00367A.obj) : 	 [C04-00367A.obj](./Model3d/obj/C04-00367A.obj)
+- Package 3d model x3d : 	 [C04-00367A.x3d](./Model3d/x3d/C04-00367A.x3d)
+- Package 3d model scad : 	 [C04-00367A.scad](./Model3d/scad/C04-00367A.scad)
+- Package 3d model usd : 	 [C04-00367A.usd](./Model3d/usd/C04-00367A.usd)
+- Package 3d model glb : 	 [C04-00367A.glb](./Model3d/glb/C04-00367A.glb)
 
 please check that some data is inconsistent 	 
 
@@ -1478,8 +1654,12 @@ Pin count : 0
 - Pin count : 	 169,00
 - Package Layout : 	 [C04-00439C.pdf](./mchp/packages/c04-00439c.pdf)
 - Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00439C.wrl) : 	 [C04-00439C.wrl](./Model3d/wrl/C04-00439C.wrl)
-- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00439C.x3d) : 	 [C04-00439C.x3d](./Model3d/x3d/C04-00439C.x3d)
-- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00439C.scad) : 	 [C04-00439C.scad](./Model3d/scad/C04-00439C.scad)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00439C.stl) : 	 [C04-00439C.stl](./Model3d/stl/C04-00439C.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00439C.obj) : 	 [C04-00439C.obj](./Model3d/obj/C04-00439C.obj)
+- Package 3d model x3d : 	 [C04-00439C.x3d](./Model3d/x3d/C04-00439C.x3d)
+- Package 3d model scad : 	 [C04-00439C.scad](./Model3d/scad/C04-00439C.scad)
+- Package 3d model usd : 	 [C04-00439C.usd](./Model3d/usd/C04-00439C.usd)
+- Package 3d model glb : 	 [C04-00439C.glb](./Model3d/glb/C04-00439C.glb)
 
 please check that some data is inconsistent 	 
 
@@ -1511,8 +1691,12 @@ Pin count : 0
 - Pin count : 	 176,00
 - Package Layout : 	 [C04-00367A.pdf](./mchp/packages/c04-00367a.pdf)
 - Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00367A.wrl) : 	 [C04-00367A.wrl](./Model3d/wrl/C04-00367A.wrl)
-- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00367A.x3d) : 	 [C04-00367A.x3d](./Model3d/x3d/C04-00367A.x3d)
-- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00367A.scad) : 	 [C04-00367A.scad](./Model3d/scad/C04-00367A.scad)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00367A.stl) : 	 [C04-00367A.stl](./Model3d/stl/C04-00367A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00367A.obj) : 	 [C04-00367A.obj](./Model3d/obj/C04-00367A.obj)
+- Package 3d model x3d : 	 [C04-00367A.x3d](./Model3d/x3d/C04-00367A.x3d)
+- Package 3d model scad : 	 [C04-00367A.scad](./Model3d/scad/C04-00367A.scad)
+- Package 3d model usd : 	 [C04-00367A.usd](./Model3d/usd/C04-00367A.usd)
+- Package 3d model glb : 	 [C04-00367A.glb](./Model3d/glb/C04-00367A.glb)
 
 please check that some data is inconsistent 	 
 
@@ -1544,8 +1728,12 @@ Pin count : 0
 - Pin count : 	 169,00
 - Package Layout : 	 [C04-00365B.pdf](./mchp/packages/c04-00365b.pdf)
 - Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00365B.wrl) : 	 [C04-00365B.wrl](./Model3d/wrl/C04-00365B.wrl)
-- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00365B.x3d) : 	 [C04-00365B.x3d](./Model3d/x3d/C04-00365B.x3d)
-- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00365B.scad) : 	 [C04-00365B.scad](./Model3d/scad/C04-00365B.scad)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00365B.stl) : 	 [C04-00365B.stl](./Model3d/stl/C04-00365B.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00365B.obj) : 	 [C04-00365B.obj](./Model3d/obj/C04-00365B.obj)
+- Package 3d model x3d : 	 [C04-00365B.x3d](./Model3d/x3d/C04-00365B.x3d)
+- Package 3d model scad : 	 [C04-00365B.scad](./Model3d/scad/C04-00365B.scad)
+- Package 3d model usd : 	 [C04-00365B.usd](./Model3d/usd/C04-00365B.usd)
+- Package 3d model glb : 	 [C04-00365B.glb](./Model3d/glb/C04-00365B.glb)
 
 please check that some data is inconsistent 	 
 
@@ -1577,8 +1765,12 @@ Pin count : 0
 - Pin count : 	 176,00
 - Package Layout : 	 [C04-00367A.pdf](./mchp/packages/c04-00367a.pdf)
 - Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00367A.wrl) : 	 [C04-00367A.wrl](./Model3d/wrl/C04-00367A.wrl)
-- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00367A.x3d) : 	 [C04-00367A.x3d](./Model3d/x3d/C04-00367A.x3d)
-- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00367A.scad) : 	 [C04-00367A.scad](./Model3d/scad/C04-00367A.scad)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00367A.stl) : 	 [C04-00367A.stl](./Model3d/stl/C04-00367A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00367A.obj) : 	 [C04-00367A.obj](./Model3d/obj/C04-00367A.obj)
+- Package 3d model x3d : 	 [C04-00367A.x3d](./Model3d/x3d/C04-00367A.x3d)
+- Package 3d model scad : 	 [C04-00367A.scad](./Model3d/scad/C04-00367A.scad)
+- Package 3d model usd : 	 [C04-00367A.usd](./Model3d/usd/C04-00367A.usd)
+- Package 3d model glb : 	 [C04-00367A.glb](./Model3d/glb/C04-00367A.glb)
 
 please check that some data is inconsistent 	 
 
@@ -1610,8 +1802,12 @@ Pin count : 0
 - Pin count : 	 169,00
 - Package Layout : 	 [C04-00365B.pdf](./mchp/packages/c04-00365b.pdf)
 - Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00365B.wrl) : 	 [C04-00365B.wrl](./Model3d/wrl/C04-00365B.wrl)
-- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00365B.x3d) : 	 [C04-00365B.x3d](./Model3d/x3d/C04-00365B.x3d)
-- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00365B.scad) : 	 [C04-00365B.scad](./Model3d/scad/C04-00365B.scad)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00365B.stl) : 	 [C04-00365B.stl](./Model3d/stl/C04-00365B.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00365B.obj) : 	 [C04-00365B.obj](./Model3d/obj/C04-00365B.obj)
+- Package 3d model x3d : 	 [C04-00365B.x3d](./Model3d/x3d/C04-00365B.x3d)
+- Package 3d model scad : 	 [C04-00365B.scad](./Model3d/scad/C04-00365B.scad)
+- Package 3d model usd : 	 [C04-00365B.usd](./Model3d/usd/C04-00365B.usd)
+- Package 3d model glb : 	 [C04-00365B.glb](./Model3d/glb/C04-00365B.glb)
 
 please check that some data is inconsistent 	 
 
@@ -1643,8 +1839,12 @@ Pin count : 0
 - Pin count : 	 176,00
 - Package Layout : 	 [C04-00367A.pdf](./mchp/packages/c04-00367a.pdf)
 - Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00367A.wrl) : 	 [C04-00367A.wrl](./Model3d/wrl/C04-00367A.wrl)
-- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00367A.x3d) : 	 [C04-00367A.x3d](./Model3d/x3d/C04-00367A.x3d)
-- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00367A.scad) : 	 [C04-00367A.scad](./Model3d/scad/C04-00367A.scad)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00367A.stl) : 	 [C04-00367A.stl](./Model3d/stl/C04-00367A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00367A.obj) : 	 [C04-00367A.obj](./Model3d/obj/C04-00367A.obj)
+- Package 3d model x3d : 	 [C04-00367A.x3d](./Model3d/x3d/C04-00367A.x3d)
+- Package 3d model scad : 	 [C04-00367A.scad](./Model3d/scad/C04-00367A.scad)
+- Package 3d model usd : 	 [C04-00367A.usd](./Model3d/usd/C04-00367A.usd)
+- Package 3d model glb : 	 [C04-00367A.glb](./Model3d/glb/C04-00367A.glb)
 
 please check that some data is inconsistent 	 
 
@@ -1676,8 +1876,12 @@ Pin count : 0
 - Pin count : 	 169,00
 - Package Layout : 	 [C04-00439C.pdf](./mchp/packages/c04-00439c.pdf)
 - Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00439C.wrl) : 	 [C04-00439C.wrl](./Model3d/wrl/C04-00439C.wrl)
-- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00439C.x3d) : 	 [C04-00439C.x3d](./Model3d/x3d/C04-00439C.x3d)
-- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00439C.scad) : 	 [C04-00439C.scad](./Model3d/scad/C04-00439C.scad)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00439C.stl) : 	 [C04-00439C.stl](./Model3d/stl/C04-00439C.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00439C.obj) : 	 [C04-00439C.obj](./Model3d/obj/C04-00439C.obj)
+- Package 3d model x3d : 	 [C04-00439C.x3d](./Model3d/x3d/C04-00439C.x3d)
+- Package 3d model scad : 	 [C04-00439C.scad](./Model3d/scad/C04-00439C.scad)
+- Package 3d model usd : 	 [C04-00439C.usd](./Model3d/usd/C04-00439C.usd)
+- Package 3d model glb : 	 [C04-00439C.glb](./Model3d/glb/C04-00439C.glb)
 
 please check that some data is inconsistent 	 
 
@@ -1709,8 +1913,12 @@ Pin count : 0
 - Pin count : 	 176,00
 - Package Layout : 	 [C04-00367A.pdf](./mchp/packages/c04-00367a.pdf)
 - Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00367A.wrl) : 	 [C04-00367A.wrl](./Model3d/wrl/C04-00367A.wrl)
-- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00367A.x3d) : 	 [C04-00367A.x3d](./Model3d/x3d/C04-00367A.x3d)
-- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00367A.scad) : 	 [C04-00367A.scad](./Model3d/scad/C04-00367A.scad)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00367A.stl) : 	 [C04-00367A.stl](./Model3d/stl/C04-00367A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00367A.obj) : 	 [C04-00367A.obj](./Model3d/obj/C04-00367A.obj)
+- Package 3d model x3d : 	 [C04-00367A.x3d](./Model3d/x3d/C04-00367A.x3d)
+- Package 3d model scad : 	 [C04-00367A.scad](./Model3d/scad/C04-00367A.scad)
+- Package 3d model usd : 	 [C04-00367A.usd](./Model3d/usd/C04-00367A.usd)
+- Package 3d model glb : 	 [C04-00367A.glb](./Model3d/glb/C04-00367A.glb)
 
 please check that some data is inconsistent 	 
 
@@ -1742,8 +1950,12 @@ Pin count : 0
 - Pin count : 	 169,00
 - Package Layout : 	 [C04-00439C.pdf](./mchp/packages/c04-00439c.pdf)
 - Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00439C.wrl) : 	 [C04-00439C.wrl](./Model3d/wrl/C04-00439C.wrl)
-- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00439C.x3d) : 	 [C04-00439C.x3d](./Model3d/x3d/C04-00439C.x3d)
-- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00439C.scad) : 	 [C04-00439C.scad](./Model3d/scad/C04-00439C.scad)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00439C.stl) : 	 [C04-00439C.stl](./Model3d/stl/C04-00439C.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00439C.obj) : 	 [C04-00439C.obj](./Model3d/obj/C04-00439C.obj)
+- Package 3d model x3d : 	 [C04-00439C.x3d](./Model3d/x3d/C04-00439C.x3d)
+- Package 3d model scad : 	 [C04-00439C.scad](./Model3d/scad/C04-00439C.scad)
+- Package 3d model usd : 	 [C04-00439C.usd](./Model3d/usd/C04-00439C.usd)
+- Package 3d model glb : 	 [C04-00439C.glb](./Model3d/glb/C04-00439C.glb)
 
 please check that some data is inconsistent 	 
 
@@ -1775,8 +1987,12 @@ Pin count : 0
 - Pin count : 	 176,00
 - Package Layout : 	 [C04-00367A.pdf](./mchp/packages/c04-00367a.pdf)
 - Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00367A.wrl) : 	 [C04-00367A.wrl](./Model3d/wrl/C04-00367A.wrl)
-- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00367A.x3d) : 	 [C04-00367A.x3d](./Model3d/x3d/C04-00367A.x3d)
-- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00367A.scad) : 	 [C04-00367A.scad](./Model3d/scad/C04-00367A.scad)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00367A.stl) : 	 [C04-00367A.stl](./Model3d/stl/C04-00367A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00367A.obj) : 	 [C04-00367A.obj](./Model3d/obj/C04-00367A.obj)
+- Package 3d model x3d : 	 [C04-00367A.x3d](./Model3d/x3d/C04-00367A.x3d)
+- Package 3d model scad : 	 [C04-00367A.scad](./Model3d/scad/C04-00367A.scad)
+- Package 3d model usd : 	 [C04-00367A.usd](./Model3d/usd/C04-00367A.usd)
+- Package 3d model glb : 	 [C04-00367A.glb](./Model3d/glb/C04-00367A.glb)
 
 please check that some data is inconsistent 	 
 
@@ -1808,8 +2024,12 @@ Pin count : 0
 - Pin count : 	 169,00
 - Package Layout : 	 [C04-00365B.pdf](./mchp/packages/c04-00365b.pdf)
 - Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00365B.wrl) : 	 [C04-00365B.wrl](./Model3d/wrl/C04-00365B.wrl)
-- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00365B.x3d) : 	 [C04-00365B.x3d](./Model3d/x3d/C04-00365B.x3d)
-- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00365B.scad) : 	 [C04-00365B.scad](./Model3d/scad/C04-00365B.scad)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00365B.stl) : 	 [C04-00365B.stl](./Model3d/stl/C04-00365B.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00365B.obj) : 	 [C04-00365B.obj](./Model3d/obj/C04-00365B.obj)
+- Package 3d model x3d : 	 [C04-00365B.x3d](./Model3d/x3d/C04-00365B.x3d)
+- Package 3d model scad : 	 [C04-00365B.scad](./Model3d/scad/C04-00365B.scad)
+- Package 3d model usd : 	 [C04-00365B.usd](./Model3d/usd/C04-00365B.usd)
+- Package 3d model glb : 	 [C04-00365B.glb](./Model3d/glb/C04-00365B.glb)
 
 please check that some data is inconsistent 	 
 
@@ -1841,8 +2061,12 @@ Pin count : 0
 - Pin count : 	 176,00
 - Package Layout : 	 [C04-00367A.pdf](./mchp/packages/c04-00367a.pdf)
 - Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00367A.wrl) : 	 [C04-00367A.wrl](./Model3d/wrl/C04-00367A.wrl)
-- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00367A.x3d) : 	 [C04-00367A.x3d](./Model3d/x3d/C04-00367A.x3d)
-- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00367A.scad) : 	 [C04-00367A.scad](./Model3d/scad/C04-00367A.scad)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00367A.stl) : 	 [C04-00367A.stl](./Model3d/stl/C04-00367A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00367A.obj) : 	 [C04-00367A.obj](./Model3d/obj/C04-00367A.obj)
+- Package 3d model x3d : 	 [C04-00367A.x3d](./Model3d/x3d/C04-00367A.x3d)
+- Package 3d model scad : 	 [C04-00367A.scad](./Model3d/scad/C04-00367A.scad)
+- Package 3d model usd : 	 [C04-00367A.usd](./Model3d/usd/C04-00367A.usd)
+- Package 3d model glb : 	 [C04-00367A.glb](./Model3d/glb/C04-00367A.glb)
 
 please check that some data is inconsistent 	 
 
@@ -1874,8 +2098,12 @@ Pin count : 0
 - Pin count : 	 288,00
 - Package Layout : 	 [C04-00366C.pdf](./mchp/packages/c04-00366c.pdf)
 - Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00366C.wrl) : 	 [C04-00366C.wrl](./Model3d/wrl/C04-00366C.wrl)
-- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00366C.x3d) : 	 [C04-00366C.x3d](./Model3d/x3d/C04-00366C.x3d)
-- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00366C.scad) : 	 [C04-00366C.scad](./Model3d/scad/C04-00366C.scad)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00366C.stl) : 	 [C04-00366C.stl](./Model3d/stl/C04-00366C.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00366C.obj) : 	 [C04-00366C.obj](./Model3d/obj/C04-00366C.obj)
+- Package 3d model x3d : 	 [C04-00366C.x3d](./Model3d/x3d/C04-00366C.x3d)
+- Package 3d model scad : 	 [C04-00366C.scad](./Model3d/scad/C04-00366C.scad)
+- Package 3d model usd : 	 [C04-00366C.usd](./Model3d/usd/C04-00366C.usd)
+- Package 3d model glb : 	 [C04-00366C.glb](./Model3d/glb/C04-00366C.glb)
 
 please check that some data is inconsistent 	 
 
@@ -1907,8 +2135,12 @@ Pin count : 0
 - Pin count : 	 169,00
 - Package Layout : 	 [C04-00365B.pdf](./mchp/packages/c04-00365b.pdf)
 - Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00365B.wrl) : 	 [C04-00365B.wrl](./Model3d/wrl/C04-00365B.wrl)
-- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00365B.x3d) : 	 [C04-00365B.x3d](./Model3d/x3d/C04-00365B.x3d)
-- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00365B.scad) : 	 [C04-00365B.scad](./Model3d/scad/C04-00365B.scad)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00365B.stl) : 	 [C04-00365B.stl](./Model3d/stl/C04-00365B.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00365B.obj) : 	 [C04-00365B.obj](./Model3d/obj/C04-00365B.obj)
+- Package 3d model x3d : 	 [C04-00365B.x3d](./Model3d/x3d/C04-00365B.x3d)
+- Package 3d model scad : 	 [C04-00365B.scad](./Model3d/scad/C04-00365B.scad)
+- Package 3d model usd : 	 [C04-00365B.usd](./Model3d/usd/C04-00365B.usd)
+- Package 3d model glb : 	 [C04-00365B.glb](./Model3d/glb/C04-00365B.glb)
 
 please check that some data is inconsistent 	 
 
@@ -1940,8 +2172,12 @@ Pin count : 0
 - Pin count : 	 176,00
 - Package Layout : 	 [C04-00367A.pdf](./mchp/packages/c04-00367a.pdf)
 - Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00367A.wrl) : 	 [C04-00367A.wrl](./Model3d/wrl/C04-00367A.wrl)
-- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00367A.x3d) : 	 [C04-00367A.x3d](./Model3d/x3d/C04-00367A.x3d)
-- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00367A.scad) : 	 [C04-00367A.scad](./Model3d/scad/C04-00367A.scad)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00367A.stl) : 	 [C04-00367A.stl](./Model3d/stl/C04-00367A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00367A.obj) : 	 [C04-00367A.obj](./Model3d/obj/C04-00367A.obj)
+- Package 3d model x3d : 	 [C04-00367A.x3d](./Model3d/x3d/C04-00367A.x3d)
+- Package 3d model scad : 	 [C04-00367A.scad](./Model3d/scad/C04-00367A.scad)
+- Package 3d model usd : 	 [C04-00367A.usd](./Model3d/usd/C04-00367A.usd)
+- Package 3d model glb : 	 [C04-00367A.glb](./Model3d/glb/C04-00367A.glb)
 
 please check that some data is inconsistent 	 
 
@@ -1973,8 +2209,12 @@ Pin count : 0
 - Pin count : 	 288,00
 - Package Layout : 	 [C04-00366C.pdf](./mchp/packages/c04-00366c.pdf)
 - Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00366C.wrl) : 	 [C04-00366C.wrl](./Model3d/wrl/C04-00366C.wrl)
-- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00366C.x3d) : 	 [C04-00366C.x3d](./Model3d/x3d/C04-00366C.x3d)
-- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00366C.scad) : 	 [C04-00366C.scad](./Model3d/scad/C04-00366C.scad)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00366C.stl) : 	 [C04-00366C.stl](./Model3d/stl/C04-00366C.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00366C.obj) : 	 [C04-00366C.obj](./Model3d/obj/C04-00366C.obj)
+- Package 3d model x3d : 	 [C04-00366C.x3d](./Model3d/x3d/C04-00366C.x3d)
+- Package 3d model scad : 	 [C04-00366C.scad](./Model3d/scad/C04-00366C.scad)
+- Package 3d model usd : 	 [C04-00366C.usd](./Model3d/usd/C04-00366C.usd)
+- Package 3d model glb : 	 [C04-00366C.glb](./Model3d/glb/C04-00366C.glb)
 
 please check that some data is inconsistent 	 
 
@@ -2006,8 +2246,12 @@ Pin count : 0
 - Pin count : 	 169,00
 - Package Layout : 	 [C04-00439C.pdf](./mchp/packages/c04-00439c.pdf)
 - Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00439C.wrl) : 	 [C04-00439C.wrl](./Model3d/wrl/C04-00439C.wrl)
-- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00439C.x3d) : 	 [C04-00439C.x3d](./Model3d/x3d/C04-00439C.x3d)
-- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00439C.scad) : 	 [C04-00439C.scad](./Model3d/scad/C04-00439C.scad)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00439C.stl) : 	 [C04-00439C.stl](./Model3d/stl/C04-00439C.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00439C.obj) : 	 [C04-00439C.obj](./Model3d/obj/C04-00439C.obj)
+- Package 3d model x3d : 	 [C04-00439C.x3d](./Model3d/x3d/C04-00439C.x3d)
+- Package 3d model scad : 	 [C04-00439C.scad](./Model3d/scad/C04-00439C.scad)
+- Package 3d model usd : 	 [C04-00439C.usd](./Model3d/usd/C04-00439C.usd)
+- Package 3d model glb : 	 [C04-00439C.glb](./Model3d/glb/C04-00439C.glb)
 
 please check that some data is inconsistent 	 
 
@@ -2039,8 +2283,12 @@ Pin count : 0
 - Pin count : 	 176,00
 - Package Layout : 	 [C04-00367A.pdf](./mchp/packages/c04-00367a.pdf)
 - Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00367A.wrl) : 	 [C04-00367A.wrl](./Model3d/wrl/C04-00367A.wrl)
-- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00367A.x3d) : 	 [C04-00367A.x3d](./Model3d/x3d/C04-00367A.x3d)
-- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00367A.scad) : 	 [C04-00367A.scad](./Model3d/scad/C04-00367A.scad)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00367A.stl) : 	 [C04-00367A.stl](./Model3d/stl/C04-00367A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00367A.obj) : 	 [C04-00367A.obj](./Model3d/obj/C04-00367A.obj)
+- Package 3d model x3d : 	 [C04-00367A.x3d](./Model3d/x3d/C04-00367A.x3d)
+- Package 3d model scad : 	 [C04-00367A.scad](./Model3d/scad/C04-00367A.scad)
+- Package 3d model usd : 	 [C04-00367A.usd](./Model3d/usd/C04-00367A.usd)
+- Package 3d model glb : 	 [C04-00367A.glb](./Model3d/glb/C04-00367A.glb)
 
 please check that some data is inconsistent 	 
 
@@ -2072,8 +2320,12 @@ Pin count : 0
 - Pin count : 	 169,00
 - Package Layout : 	 [C04-00439C.pdf](./mchp/packages/c04-00439c.pdf)
 - Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00439C.wrl) : 	 [C04-00439C.wrl](./Model3d/wrl/C04-00439C.wrl)
-- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00439C.x3d) : 	 [C04-00439C.x3d](./Model3d/x3d/C04-00439C.x3d)
-- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00439C.scad) : 	 [C04-00439C.scad](./Model3d/scad/C04-00439C.scad)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00439C.stl) : 	 [C04-00439C.stl](./Model3d/stl/C04-00439C.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00439C.obj) : 	 [C04-00439C.obj](./Model3d/obj/C04-00439C.obj)
+- Package 3d model x3d : 	 [C04-00439C.x3d](./Model3d/x3d/C04-00439C.x3d)
+- Package 3d model scad : 	 [C04-00439C.scad](./Model3d/scad/C04-00439C.scad)
+- Package 3d model usd : 	 [C04-00439C.usd](./Model3d/usd/C04-00439C.usd)
+- Package 3d model glb : 	 [C04-00439C.glb](./Model3d/glb/C04-00439C.glb)
 
 please check that some data is inconsistent 	 
 
@@ -2105,8 +2357,12 @@ Pin count : 0
 - Pin count : 	 176,00
 - Package Layout : 	 [C04-00367A.pdf](./mchp/packages/c04-00367a.pdf)
 - Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00367A.wrl) : 	 [C04-00367A.wrl](./Model3d/wrl/C04-00367A.wrl)
-- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00367A.x3d) : 	 [C04-00367A.x3d](./Model3d/x3d/C04-00367A.x3d)
-- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00367A.scad) : 	 [C04-00367A.scad](./Model3d/scad/C04-00367A.scad)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00367A.stl) : 	 [C04-00367A.stl](./Model3d/stl/C04-00367A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00367A.obj) : 	 [C04-00367A.obj](./Model3d/obj/C04-00367A.obj)
+- Package 3d model x3d : 	 [C04-00367A.x3d](./Model3d/x3d/C04-00367A.x3d)
+- Package 3d model scad : 	 [C04-00367A.scad](./Model3d/scad/C04-00367A.scad)
+- Package 3d model usd : 	 [C04-00367A.usd](./Model3d/usd/C04-00367A.usd)
+- Package 3d model glb : 	 [C04-00367A.glb](./Model3d/glb/C04-00367A.glb)
 
 please check that some data is inconsistent 	 
 
@@ -2138,8 +2394,12 @@ Pin count : 0
 - Pin count : 	 169,00
 - Package Layout : 	 [C04-00365B.pdf](./mchp/packages/c04-00365b.pdf)
 - Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00365B.wrl) : 	 [C04-00365B.wrl](./Model3d/wrl/C04-00365B.wrl)
-- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00365B.x3d) : 	 [C04-00365B.x3d](./Model3d/x3d/C04-00365B.x3d)
-- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00365B.scad) : 	 [C04-00365B.scad](./Model3d/scad/C04-00365B.scad)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00365B.stl) : 	 [C04-00365B.stl](./Model3d/stl/C04-00365B.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00365B.obj) : 	 [C04-00365B.obj](./Model3d/obj/C04-00365B.obj)
+- Package 3d model x3d : 	 [C04-00365B.x3d](./Model3d/x3d/C04-00365B.x3d)
+- Package 3d model scad : 	 [C04-00365B.scad](./Model3d/scad/C04-00365B.scad)
+- Package 3d model usd : 	 [C04-00365B.usd](./Model3d/usd/C04-00365B.usd)
+- Package 3d model glb : 	 [C04-00365B.glb](./Model3d/glb/C04-00365B.glb)
 
 please check that some data is inconsistent 	 
 
@@ -2171,8 +2431,12 @@ Pin count : 0
 - Pin count : 	 176,00
 - Package Layout : 	 [C04-00367A.pdf](./mchp/packages/c04-00367a.pdf)
 - Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00367A.wrl) : 	 [C04-00367A.wrl](./Model3d/wrl/C04-00367A.wrl)
-- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00367A.x3d) : 	 [C04-00367A.x3d](./Model3d/x3d/C04-00367A.x3d)
-- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00367A.scad) : 	 [C04-00367A.scad](./Model3d/scad/C04-00367A.scad)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00367A.stl) : 	 [C04-00367A.stl](./Model3d/stl/C04-00367A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00367A.obj) : 	 [C04-00367A.obj](./Model3d/obj/C04-00367A.obj)
+- Package 3d model x3d : 	 [C04-00367A.x3d](./Model3d/x3d/C04-00367A.x3d)
+- Package 3d model scad : 	 [C04-00367A.scad](./Model3d/scad/C04-00367A.scad)
+- Package 3d model usd : 	 [C04-00367A.usd](./Model3d/usd/C04-00367A.usd)
+- Package 3d model glb : 	 [C04-00367A.glb](./Model3d/glb/C04-00367A.glb)
 
 please check that some data is inconsistent 	 
 
@@ -2204,8 +2468,12 @@ Pin count : 0
 - Pin count : 	 169,00
 - Package Layout : 	 [C04-00365B.pdf](./mchp/packages/c04-00365b.pdf)
 - Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00365B.wrl) : 	 [C04-00365B.wrl](./Model3d/wrl/C04-00365B.wrl)
-- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00365B.x3d) : 	 [C04-00365B.x3d](./Model3d/x3d/C04-00365B.x3d)
-- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00365B.scad) : 	 [C04-00365B.scad](./Model3d/scad/C04-00365B.scad)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00365B.stl) : 	 [C04-00365B.stl](./Model3d/stl/C04-00365B.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00365B.obj) : 	 [C04-00365B.obj](./Model3d/obj/C04-00365B.obj)
+- Package 3d model x3d : 	 [C04-00365B.x3d](./Model3d/x3d/C04-00365B.x3d)
+- Package 3d model scad : 	 [C04-00365B.scad](./Model3d/scad/C04-00365B.scad)
+- Package 3d model usd : 	 [C04-00365B.usd](./Model3d/usd/C04-00365B.usd)
+- Package 3d model glb : 	 [C04-00365B.glb](./Model3d/glb/C04-00365B.glb)
 
 please check that some data is inconsistent 	 
 
@@ -2237,8 +2505,12 @@ Pin count : 0
 - Pin count : 	 176,00
 - Package Layout : 	 [C04-00367A.pdf](./mchp/packages/c04-00367a.pdf)
 - Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00367A.wrl) : 	 [C04-00367A.wrl](./Model3d/wrl/C04-00367A.wrl)
-- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00367A.x3d) : 	 [C04-00367A.x3d](./Model3d/x3d/C04-00367A.x3d)
-- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00367A.scad) : 	 [C04-00367A.scad](./Model3d/scad/C04-00367A.scad)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00367A.stl) : 	 [C04-00367A.stl](./Model3d/stl/C04-00367A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00367A.obj) : 	 [C04-00367A.obj](./Model3d/obj/C04-00367A.obj)
+- Package 3d model x3d : 	 [C04-00367A.x3d](./Model3d/x3d/C04-00367A.x3d)
+- Package 3d model scad : 	 [C04-00367A.scad](./Model3d/scad/C04-00367A.scad)
+- Package 3d model usd : 	 [C04-00367A.usd](./Model3d/usd/C04-00367A.usd)
+- Package 3d model glb : 	 [C04-00367A.glb](./Model3d/glb/C04-00367A.glb)
 
 please check that some data is inconsistent 	 
 
@@ -2270,8 +2542,12 @@ Pin count : 0
 - Pin count : 	 169,00
 - Package Layout : 	 [C04-00439C.pdf](./mchp/packages/c04-00439c.pdf)
 - Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00439C.wrl) : 	 [C04-00439C.wrl](./Model3d/wrl/C04-00439C.wrl)
-- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00439C.x3d) : 	 [C04-00439C.x3d](./Model3d/x3d/C04-00439C.x3d)
-- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00439C.scad) : 	 [C04-00439C.scad](./Model3d/scad/C04-00439C.scad)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00439C.stl) : 	 [C04-00439C.stl](./Model3d/stl/C04-00439C.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00439C.obj) : 	 [C04-00439C.obj](./Model3d/obj/C04-00439C.obj)
+- Package 3d model x3d : 	 [C04-00439C.x3d](./Model3d/x3d/C04-00439C.x3d)
+- Package 3d model scad : 	 [C04-00439C.scad](./Model3d/scad/C04-00439C.scad)
+- Package 3d model usd : 	 [C04-00439C.usd](./Model3d/usd/C04-00439C.usd)
+- Package 3d model glb : 	 [C04-00439C.glb](./Model3d/glb/C04-00439C.glb)
 
 please check that some data is inconsistent 	 
 
@@ -2303,8 +2579,12 @@ Pin count : 0
 - Pin count : 	 176,00
 - Package Layout : 	 [C04-00367A.pdf](./mchp/packages/c04-00367a.pdf)
 - Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00367A.wrl) : 	 [C04-00367A.wrl](./Model3d/wrl/C04-00367A.wrl)
-- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00367A.x3d) : 	 [C04-00367A.x3d](./Model3d/x3d/C04-00367A.x3d)
-- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00367A.scad) : 	 [C04-00367A.scad](./Model3d/scad/C04-00367A.scad)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00367A.stl) : 	 [C04-00367A.stl](./Model3d/stl/C04-00367A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00367A.obj) : 	 [C04-00367A.obj](./Model3d/obj/C04-00367A.obj)
+- Package 3d model x3d : 	 [C04-00367A.x3d](./Model3d/x3d/C04-00367A.x3d)
+- Package 3d model scad : 	 [C04-00367A.scad](./Model3d/scad/C04-00367A.scad)
+- Package 3d model usd : 	 [C04-00367A.usd](./Model3d/usd/C04-00367A.usd)
+- Package 3d model glb : 	 [C04-00367A.glb](./Model3d/glb/C04-00367A.glb)
 
 please check that some data is inconsistent 	 
 
@@ -2336,8 +2616,12 @@ Pin count : 0
 - Pin count : 	 169,00
 - Package Layout : 	 [C04-00439C.pdf](./mchp/packages/c04-00439c.pdf)
 - Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00439C.wrl) : 	 [C04-00439C.wrl](./Model3d/wrl/C04-00439C.wrl)
-- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00439C.x3d) : 	 [C04-00439C.x3d](./Model3d/x3d/C04-00439C.x3d)
-- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00439C.scad) : 	 [C04-00439C.scad](./Model3d/scad/C04-00439C.scad)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00439C.stl) : 	 [C04-00439C.stl](./Model3d/stl/C04-00439C.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00439C.obj) : 	 [C04-00439C.obj](./Model3d/obj/C04-00439C.obj)
+- Package 3d model x3d : 	 [C04-00439C.x3d](./Model3d/x3d/C04-00439C.x3d)
+- Package 3d model scad : 	 [C04-00439C.scad](./Model3d/scad/C04-00439C.scad)
+- Package 3d model usd : 	 [C04-00439C.usd](./Model3d/usd/C04-00439C.usd)
+- Package 3d model glb : 	 [C04-00439C.glb](./Model3d/glb/C04-00439C.glb)
 
 please check that some data is inconsistent 	 
 
@@ -2369,8 +2653,12 @@ Pin count : 0
 - Pin count : 	 176,00
 - Package Layout : 	 [C04-00367A.pdf](./mchp/packages/c04-00367a.pdf)
 - Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00367A.wrl) : 	 [C04-00367A.wrl](./Model3d/wrl/C04-00367A.wrl)
-- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00367A.x3d) : 	 [C04-00367A.x3d](./Model3d/x3d/C04-00367A.x3d)
-- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00367A.scad) : 	 [C04-00367A.scad](./Model3d/scad/C04-00367A.scad)
+- Package [3d model stl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/stl/C04-00367A.stl) : 	 [C04-00367A.stl](./Model3d/stl/C04-00367A.stl)
+- Package [3d model obj](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/obj/C04-00367A.obj) : 	 [C04-00367A.obj](./Model3d/obj/C04-00367A.obj)
+- Package 3d model x3d : 	 [C04-00367A.x3d](./Model3d/x3d/C04-00367A.x3d)
+- Package 3d model scad : 	 [C04-00367A.scad](./Model3d/scad/C04-00367A.scad)
+- Package 3d model usd : 	 [C04-00367A.usd](./Model3d/usd/C04-00367A.usd)
+- Package 3d model glb : 	 [C04-00367A.glb](./Model3d/glb/C04-00367A.glb)
 
 please check that some data is inconsistent 	 
 
