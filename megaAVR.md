@@ -14,6 +14,9 @@
 - Family : megaAVR
 - MF : Microchip
 - Name : AT90CAN128
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -97,15 +100,18 @@ Pin count : 64
 - Family : megaAVR
 - MF : Microchip
 - Name : AT90CAN128
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00066B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00066B](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 V3X
 - Package Type : 	 TQFP
 - Pin count : 	 64,00
-- Package Layout : 	 [C04-00066B](./mchp/packages/C04-00066B.pdf)
-- Package 3d model scad : 	 [C04-00066B](./Model3d/scad/C04-00066B.scad)
+- Package Layout : 	 [C04-00066B.pdf](./mchp/packages/c04-00066b.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00066B.scad) : 	 [C04-00066B.scad](./Model3d/scad/C04-00066B.scad)
 Pin count : 64
 - 1 : NC,  of Type NC
 - 2 : PE0,  of Type IO, alternates : [PORTE P_0, USART0 RXD_]
@@ -186,6 +192,9 @@ Pin count : 64
 - Family : megaAVR
 - MF : Microchip
 - Name : AT90CAN128
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -269,15 +278,18 @@ Pin count : 64
 - Family : megaAVR
 - MF : Microchip
 - Name : AT90CAN128
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-21442A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-21442A](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 TPB
 - Package Type : 	 VQFN
 - Pin count : 	 64,00
-- Package Layout : 	 [C04-21442A](./mchp/packages/C04-21442A.pdf)
-- Package 3d model scad : 	 [C04-21442A](./Model3d/scad/C04-21442A.scad)
+- Package Layout : 	 [C04-21442A.pdf](./mchp/packages/c04-21442a.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-21442A.scad) : 	 [C04-21442A.scad](./Model3d/scad/C04-21442A.scad)
 Pin count : 64
 - 1 : NC,  of Type NC
 - 2 : PE0,  of Type IO, alternates : [PORTE P_0, USART0 RXD_]
@@ -358,6 +370,9 @@ Pin count : 64
 - Family : megaAVR
 - MF : Microchip
 - Name : AT90CAN32
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -441,15 +456,18 @@ Pin count : 64
 - Family : megaAVR
 - MF : Microchip
 - Name : AT90CAN32
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00066B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00066B](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 V3X
 - Package Type : 	 TQFP
 - Pin count : 	 64,00
-- Package Layout : 	 [C04-00066B](./mchp/packages/C04-00066B.pdf)
-- Package 3d model scad : 	 [C04-00066B](./Model3d/scad/C04-00066B.scad)
+- Package Layout : 	 [C04-00066B.pdf](./mchp/packages/c04-00066b.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00066B.scad) : 	 [C04-00066B.scad](./Model3d/scad/C04-00066B.scad)
 Pin count : 64
 - 1 : NC,  of Type NC
 - 2 : PE0,  of Type IO, alternates : [PORTE P_0, USART0 RXD_]
@@ -530,6 +548,9 @@ Pin count : 64
 - Family : megaAVR
 - MF : Microchip
 - Name : AT90CAN32
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -613,15 +634,18 @@ Pin count : 64
 - Family : megaAVR
 - MF : Microchip
 - Name : AT90CAN32
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-21440A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-21440A](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 TLB
 - Package Type : 	 VQFN
 - Pin count : 	 64,00
-- Package Layout : 	 [C04-21440A](./mchp/packages/C04-21440A.pdf)
-- Package 3d model scad : 	 [C04-21440A](./Model3d/scad/C04-21440A.scad)
+- Package Layout : 	 [C04-21440A.pdf](./mchp/packages/c04-21440a.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-21440A.scad) : 	 [C04-21440A.scad](./Model3d/scad/C04-21440A.scad)
 Pin count : 64
 - 1 : NC,  of Type NC
 - 2 : PE0,  of Type IO, alternates : [PORTE P_0, USART0 RXD_]
@@ -702,6 +726,9 @@ Pin count : 64
 - Family : megaAVR
 - MF : Microchip
 - Name : AT90CAN64
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -785,15 +812,18 @@ Pin count : 64
 - Family : megaAVR
 - MF : Microchip
 - Name : AT90CAN64
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00066B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00066B](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 V3X
 - Package Type : 	 TQFP
 - Pin count : 	 64,00
-- Package Layout : 	 [C04-00066B](./mchp/packages/C04-00066B.pdf)
-- Package 3d model scad : 	 [C04-00066B](./Model3d/scad/C04-00066B.scad)
+- Package Layout : 	 [C04-00066B.pdf](./mchp/packages/c04-00066b.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00066B.scad) : 	 [C04-00066B.scad](./Model3d/scad/C04-00066B.scad)
 Pin count : 64
 - 1 : NC,  of Type NC
 - 2 : PE0,  of Type IO, alternates : [PORTE P_0, USART0 RXD_]
@@ -874,6 +904,9 @@ Pin count : 64
 - Family : megaAVR
 - MF : Microchip
 - Name : AT90CAN64
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -957,15 +990,18 @@ Pin count : 64
 - Family : megaAVR
 - MF : Microchip
 - Name : AT90CAN64
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-21442A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-21442A](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 TPB
 - Package Type : 	 VQFN
 - Pin count : 	 64,00
-- Package Layout : 	 [C04-21442A](./mchp/packages/C04-21442A.pdf)
-- Package 3d model scad : 	 [C04-21442A](./Model3d/scad/C04-21442A.scad)
+- Package Layout : 	 [C04-21442A.pdf](./mchp/packages/c04-21442a.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-21442A.scad) : 	 [C04-21442A.scad](./Model3d/scad/C04-21442A.scad)
 Pin count : 64
 - 1 : NC,  of Type NC
 - 2 : PE0,  of Type IO, alternates : [PORTE P_0, USART0 RXD_]
@@ -1046,15 +1082,18 @@ Pin count : 64
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega8A
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00074D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00074D](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 T5X
 - Package Type : 	 TQFP
 - Pin count : 	 32,00
-- Package Layout : 	 [C04-00074D](./mchp/packages/C04-00074D.pdf)
-- Package 3d model scad : 	 [C04-00074D](./Model3d/scad/C04-00074D.scad)
+- Package Layout : 	 [C04-00074D.pdf](./mchp/packages/c04-00074d.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00074D.scad) : 	 [C04-00074D.scad](./Model3d/scad/C04-00074D.scad)
 Pin count : 32
 - 1 : PD3,  of Type IO, alternates : [PORTD P_3, EXINT INT_1]
 - 2 : PD4,  of Type IO, alternates : [TC0 T_, USART XCK_, PORTD P_4]
@@ -1103,15 +1142,18 @@ Pin count : 32
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega8A
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00074D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00074D](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 T5X
 - Package Type : 	 TQFP
 - Pin count : 	 32,00
-- Package Layout : 	 [C04-00074D](./mchp/packages/C04-00074D.pdf)
-- Package 3d model scad : 	 [C04-00074D](./Model3d/scad/C04-00074D.scad)
+- Package Layout : 	 [C04-00074D.pdf](./mchp/packages/c04-00074d.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00074D.scad) : 	 [C04-00074D.scad](./Model3d/scad/C04-00074D.scad)
 Pin count : 32
 - 1 : PD3,  of Type IO, alternates : [PORTD P_3, EXINT INT_1]
 - 2 : PD4,  of Type IO, alternates : [TC0 T_, USART XCK_, PORTD P_4]
@@ -1160,15 +1202,18 @@ Pin count : 32
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega8A
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-21395C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-21395C](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 RXB
 - Package Type : 	 VQFN
 - Pin count : 	 32,00
-- Package Layout : 	 [C04-21395C](./mchp/packages/C04-21395C.pdf)
-- Package 3d model scad : 	 [C04-21395C](./Model3d/scad/C04-21395C.scad)
+- Package Layout : 	 [C04-21395C.pdf](./mchp/packages/c04-21395c.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-21395C.scad) : 	 [C04-21395C.scad](./Model3d/scad/C04-21395C.scad)
 Pin count : 28
 - 1 : PC6,  of Type IO, alternates : [PORTC P_6]
 - 2 : PD0,  of Type IO, alternates : [USART RXD_, PORTD P_0]
@@ -1213,15 +1258,18 @@ Pin count : 28
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega8A
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-21395C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-21395C](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 RXB
 - Package Type : 	 VQFN
 - Pin count : 	 32,00
-- Package Layout : 	 [C04-21395C](./mchp/packages/C04-21395C.pdf)
-- Package 3d model scad : 	 [C04-21395C](./Model3d/scad/C04-21395C.scad)
+- Package Layout : 	 [C04-21395C.pdf](./mchp/packages/c04-21395c.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-21395C.scad) : 	 [C04-21395C.scad](./Model3d/scad/C04-21395C.scad)
 Pin count : 32
 - 1 : PD3,  of Type IO, alternates : [PORTD P_3, EXINT INT_1]
 - 2 : PD4,  of Type IO, alternates : [TC0 T_, USART XCK_, PORTD P_4]
@@ -1270,6 +1318,9 @@ Pin count : 32
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega8A
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -1321,14 +1372,17 @@ Pin count : 32
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega8A
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00070B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00070B](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 M3X
 - Package Type : 	 SPDIP
 - Pin count : 	 28,00
-- Package Layout : 	 [C04-00070B](./mchp/packages/C04-00070B.pdf)
+- Package Layout : 	 [C04-00070B.pdf](./mchp/packages/c04-00070b.pdf)
 Pin count : 28
 - 1 : PC6,  of Type IO, alternates : [PORTC P_6]
 - 2 : PD0,  of Type IO, alternates : [USART RXD_, PORTD P_0]
@@ -1373,6 +1427,9 @@ Pin count : 28
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega128
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -1456,6 +1513,9 @@ Pin count : 64
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega128
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -1539,6 +1599,9 @@ Pin count : 64
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega128
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -1622,6 +1685,9 @@ Pin count : 64
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega128
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -1705,6 +1771,9 @@ Pin count : 64
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega1280
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -1824,6 +1893,9 @@ Pin count : 100
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega1280
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -1943,6 +2015,9 @@ Pin count : 100
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega1280
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -2062,6 +2137,9 @@ Pin count : 100
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega1280
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -2181,6 +2259,9 @@ Pin count : 100
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega1281
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -2264,6 +2345,9 @@ Pin count : 64
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega1281
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -2347,6 +2431,9 @@ Pin count : 64
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega1281
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -2430,6 +2517,9 @@ Pin count : 64
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega1281
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -2513,6 +2603,9 @@ Pin count : 64
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega1284
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -2576,6 +2669,9 @@ Pin count : 44
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega1284
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -2639,6 +2735,9 @@ Pin count : 44
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega1284
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -2698,6 +2797,9 @@ Pin count : 40
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega1284P
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -2761,6 +2863,9 @@ Pin count : 44
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega1284P
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -2824,6 +2929,9 @@ Pin count : 44
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega1284P
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -2887,6 +2995,9 @@ Pin count : 44
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega1284P
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -2950,6 +3061,9 @@ Pin count : 44
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega1284P
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -3009,6 +3123,9 @@ Pin count : 40
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega1284P
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -3068,6 +3185,9 @@ Pin count : 40
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega128A
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -3151,6 +3271,9 @@ Pin count : 64
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega128A
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -3234,6 +3357,9 @@ Pin count : 64
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega128
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -3317,6 +3443,9 @@ Pin count : 64
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega128
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -3400,6 +3529,9 @@ Pin count : 64
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega128
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -3483,6 +3615,9 @@ Pin count : 64
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega128
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -3566,6 +3701,9 @@ Pin count : 64
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega16
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -3629,6 +3767,9 @@ Pin count : 44
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega16
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -3692,6 +3833,9 @@ Pin count : 44
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega16
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -3751,6 +3895,9 @@ Pin count : 40
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega164A
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -3814,6 +3961,9 @@ Pin count : 44
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega164A
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -3882,6 +4032,9 @@ Pin count : 49
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega164A
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -3945,6 +4098,9 @@ Pin count : 44
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega164A
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -4008,6 +4164,9 @@ Pin count : 44
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega164A
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -4067,6 +4226,9 @@ Pin count : 40
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega164P
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -4130,6 +4292,9 @@ Pin count : 44
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega164P
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -4193,6 +4358,9 @@ Pin count : 44
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega164P
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -4256,6 +4424,9 @@ Pin count : 44
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega164P
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -4319,6 +4490,9 @@ Pin count : 44
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega164P
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -4378,6 +4552,9 @@ Pin count : 40
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega164P
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -4437,6 +4614,9 @@ Pin count : 40
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega164PA
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -4500,6 +4680,9 @@ Pin count : 44
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega164PA
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -4563,6 +4746,9 @@ Pin count : 44
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega164PA
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -4631,6 +4817,9 @@ Pin count : 49
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega164PA
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -4694,6 +4883,9 @@ Pin count : 44
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega164PA
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -4757,6 +4949,9 @@ Pin count : 44
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega164PA
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -4820,6 +5015,9 @@ Pin count : 44
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega164PA
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -4879,6 +5077,9 @@ Pin count : 40
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega164PA
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -4938,6 +5139,9 @@ Pin count : 40
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega164P
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -5001,6 +5205,9 @@ Pin count : 44
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega164P
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -5064,6 +5271,9 @@ Pin count : 44
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega164P
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -5127,6 +5337,9 @@ Pin count : 44
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega164P
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -5186,6 +5399,9 @@ Pin count : 40
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega164P
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -5245,6 +5461,9 @@ Pin count : 40
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega168
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -5296,6 +5515,9 @@ Pin count : 32
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega168
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -5347,6 +5569,9 @@ Pin count : 32
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega168
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -5394,6 +5619,9 @@ Pin count : 28
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega168A
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -5445,6 +5673,9 @@ Pin count : 32
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega168A
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -5495,6 +5726,9 @@ Pin count : 31
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega168A
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -5542,6 +5776,9 @@ Pin count : 28
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega168A
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -5593,6 +5830,9 @@ Pin count : 32
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega168A
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -5640,6 +5880,9 @@ Pin count : 28
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega168P
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -5691,6 +5934,9 @@ Pin count : 32
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega168P
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -5742,6 +5988,9 @@ Pin count : 32
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega168P
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -5789,6 +6038,9 @@ Pin count : 28
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega168PA
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -5840,6 +6092,9 @@ Pin count : 32
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega168PA
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -5891,6 +6146,9 @@ Pin count : 32
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega168PA
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -5941,6 +6199,9 @@ Pin count : 31
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega168PA
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -5988,6 +6249,9 @@ Pin count : 28
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega168PA
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -6039,6 +6303,9 @@ Pin count : 32
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega168PA
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -6090,6 +6357,9 @@ Pin count : 32
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega168PA
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -6137,6 +6407,9 @@ Pin count : 28
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega168PA
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -6184,6 +6457,9 @@ Pin count : 28
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega168PB
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -6235,6 +6511,9 @@ Pin count : 32
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega168PB
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -6286,6 +6565,9 @@ Pin count : 32
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega168PB
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -6337,6 +6619,9 @@ Pin count : 32
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega168PB
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -6388,6 +6673,9 @@ Pin count : 32
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega168P
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -6439,6 +6727,9 @@ Pin count : 32
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega168P
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -6490,6 +6781,9 @@ Pin count : 32
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega168P
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -6537,6 +6831,9 @@ Pin count : 28
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega168
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -6588,6 +6885,9 @@ Pin count : 32
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega168
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -6639,6 +6939,9 @@ Pin count : 32
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega168
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -6686,6 +6989,9 @@ Pin count : 28
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega169A
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -6769,6 +7075,9 @@ Pin count : 64
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega169A
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -6852,6 +7161,9 @@ Pin count : 64
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega169A
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -6935,6 +7247,9 @@ Pin count : 64
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega169A
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -7018,6 +7333,9 @@ Pin count : 64
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega169A
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -7101,6 +7419,9 @@ Pin count : 64
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega169P
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -7184,6 +7505,9 @@ Pin count : 64
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega169P
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -7267,6 +7591,9 @@ Pin count : 64
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega169P
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -7350,6 +7677,9 @@ Pin count : 64
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega169PA
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -7433,6 +7763,9 @@ Pin count : 64
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega169PA
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -7516,6 +7849,9 @@ Pin count : 64
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega169PA
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -7599,6 +7935,9 @@ Pin count : 64
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega169PA
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -7682,6 +8021,9 @@ Pin count : 64
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega169PA
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -7765,6 +8107,9 @@ Pin count : 64
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega169P
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -7848,6 +8193,9 @@ Pin count : 64
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega169P
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -7931,6 +8279,9 @@ Pin count : 64
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega169P
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -8014,6 +8365,9 @@ Pin count : 64
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega16A
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -8077,6 +8431,9 @@ Pin count : 44
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega16A
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -8140,6 +8497,9 @@ Pin count : 44
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega16A
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -8199,6 +8559,9 @@ Pin count : 40
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega16
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -8262,6 +8625,9 @@ Pin count : 44
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega16
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -8325,6 +8691,9 @@ Pin count : 44
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega16
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -8384,6 +8753,9 @@ Pin count : 40
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega16M1
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -8435,6 +8807,9 @@ Pin count : 32
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega16M1
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -8486,6 +8861,9 @@ Pin count : 32
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega16U2
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -8537,6 +8915,9 @@ Pin count : 32
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega16U2
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -8588,6 +8969,9 @@ Pin count : 32
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega16U4
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -8651,6 +9035,9 @@ Pin count : 44
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega16U4
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -8714,6 +9101,9 @@ Pin count : 44
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega16U4
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -8777,6 +9167,9 @@ Pin count : 44
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega16U4
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -8840,6 +9233,9 @@ Pin count : 44
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega2560
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -8959,6 +9355,9 @@ Pin count : 100
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega2560
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -9078,6 +9477,9 @@ Pin count : 100
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega2560
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -9197,6 +9599,9 @@ Pin count : 100
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega2560
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -9316,6 +9721,9 @@ Pin count : 100
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega2561
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -9399,6 +9807,9 @@ Pin count : 64
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega2561
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -9482,6 +9893,9 @@ Pin count : 64
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega2561
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -9565,6 +9979,9 @@ Pin count : 64
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega2561
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -9648,6 +10065,9 @@ Pin count : 64
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega32
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -9711,6 +10131,9 @@ Pin count : 44
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega32
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -9774,6 +10197,9 @@ Pin count : 44
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega32
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -9833,6 +10259,9 @@ Pin count : 40
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega324A
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -9896,6 +10325,9 @@ Pin count : 44
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega324A
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -9964,6 +10396,9 @@ Pin count : 49
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega324A
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -10027,6 +10462,9 @@ Pin count : 44
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega324A
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -10090,6 +10528,9 @@ Pin count : 44
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega324A
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -10149,6 +10590,9 @@ Pin count : 40
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega324P
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -10212,6 +10656,9 @@ Pin count : 44
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega324P
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -10275,6 +10722,9 @@ Pin count : 44
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega324P
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -10338,6 +10788,9 @@ Pin count : 44
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega324P
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -10401,6 +10854,9 @@ Pin count : 44
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega324P
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -10460,6 +10916,9 @@ Pin count : 40
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega324P
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -10519,6 +10978,9 @@ Pin count : 40
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega324PA
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -10582,6 +11044,9 @@ Pin count : 44
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega324PA
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -10650,6 +11115,9 @@ Pin count : 49
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega324PA
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -10713,6 +11181,9 @@ Pin count : 44
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega324PA
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -10776,6 +11247,9 @@ Pin count : 44
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega324PA
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -10835,6 +11309,9 @@ Pin count : 40
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega324PB
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -10898,6 +11375,9 @@ Pin count : 44
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega324PB
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -10961,6 +11441,9 @@ Pin count : 44
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega324PB
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -11024,6 +11507,9 @@ Pin count : 44
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega324PB
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -11087,6 +11573,9 @@ Pin count : 44
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega324PB
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -11150,6 +11639,9 @@ Pin count : 44
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega324PB
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -11213,6 +11705,9 @@ Pin count : 44
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega324PB
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -11276,6 +11771,9 @@ Pin count : 44
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega324PB
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -11339,6 +11837,9 @@ Pin count : 44
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega324P
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -11402,6 +11903,9 @@ Pin count : 44
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega324P
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -11465,6 +11969,9 @@ Pin count : 44
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega324P
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -11528,6 +12035,9 @@ Pin count : 44
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega324P
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -11591,6 +12101,9 @@ Pin count : 44
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega324P
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -11650,6 +12163,9 @@ Pin count : 40
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega324P
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -11709,6 +12225,9 @@ Pin count : 40
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega328
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -11760,6 +12279,9 @@ Pin count : 32
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega328
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -11807,6 +12329,9 @@ Pin count : 28
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega328
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -11858,6 +12383,9 @@ Pin count : 32
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega328
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -11905,6 +12433,9 @@ Pin count : 28
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega328P
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -11956,6 +12487,9 @@ Pin count : 32
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega328P
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -12007,6 +12541,9 @@ Pin count : 32
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega328P
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -12054,6 +12591,9 @@ Pin count : 28
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega328P
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -12105,6 +12645,9 @@ Pin count : 32
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega328P
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -12156,6 +12699,9 @@ Pin count : 32
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega328P
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -12203,6 +12749,9 @@ Pin count : 28
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega328P
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -12250,6 +12799,9 @@ Pin count : 28
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega328PB
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -12301,6 +12853,9 @@ Pin count : 32
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega328PB
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -12352,6 +12907,9 @@ Pin count : 32
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega328PB
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -12403,6 +12961,9 @@ Pin count : 32
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega328PB
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -12454,6 +13015,9 @@ Pin count : 32
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega329
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -12537,6 +13101,9 @@ Pin count : 64
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega329
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -12620,6 +13187,9 @@ Pin count : 64
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega329A
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -12703,6 +13273,9 @@ Pin count : 64
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega329A
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -12786,6 +13359,9 @@ Pin count : 64
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega329A
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -12869,6 +13445,9 @@ Pin count : 64
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega329A
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -12952,6 +13531,9 @@ Pin count : 64
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega329P
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -13035,6 +13617,9 @@ Pin count : 64
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega329P
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -13118,6 +13703,9 @@ Pin count : 64
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega329P
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -13201,6 +13789,9 @@ Pin count : 64
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega329P
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -13284,6 +13875,9 @@ Pin count : 64
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega329PA
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -13367,6 +13961,9 @@ Pin count : 64
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega329PA
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -13450,6 +14047,9 @@ Pin count : 64
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega329PA
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -13533,6 +14133,9 @@ Pin count : 64
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega329PA
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -13616,6 +14219,9 @@ Pin count : 64
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega329P
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -13699,6 +14305,9 @@ Pin count : 64
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega329P
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -13782,6 +14391,9 @@ Pin count : 64
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega329
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -13865,6 +14477,9 @@ Pin count : 64
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega329
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -13948,6 +14563,9 @@ Pin count : 64
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega32A
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -14011,6 +14629,9 @@ Pin count : 44
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega32A
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -14074,6 +14695,9 @@ Pin count : 44
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega32A
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -14137,6 +14761,9 @@ Pin count : 44
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega32A
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -14200,6 +14827,9 @@ Pin count : 44
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega32A
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -14259,6 +14889,9 @@ Pin count : 40
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega32C1
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -14310,6 +14943,9 @@ Pin count : 32
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega32C1
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -14361,6 +14997,9 @@ Pin count : 32
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega32
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -14424,6 +15063,9 @@ Pin count : 44
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega32
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -14487,6 +15129,9 @@ Pin count : 44
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega32
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -14546,6 +15191,9 @@ Pin count : 40
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega32M1
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -14597,6 +15245,9 @@ Pin count : 32
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega32M1
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -14648,6 +15299,9 @@ Pin count : 32
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega32U2
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -14699,6 +15353,9 @@ Pin count : 32
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega32U2
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -14750,6 +15407,9 @@ Pin count : 32
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega32U4
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -14813,6 +15473,9 @@ Pin count : 44
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega32U4
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -14876,6 +15539,9 @@ Pin count : 44
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega32U4
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -14939,6 +15605,9 @@ Pin count : 44
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega32U4
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -15002,6 +15671,9 @@ Pin count : 44
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega48
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -15053,6 +15725,9 @@ Pin count : 32
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega48
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -15100,6 +15775,9 @@ Pin count : 28
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega48
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -15147,6 +15825,9 @@ Pin count : 28
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega48
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -15198,6 +15879,9 @@ Pin count : 32
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega48
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -15245,6 +15929,9 @@ Pin count : 28
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega48A
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -15296,6 +15983,9 @@ Pin count : 32
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega48A
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -15346,6 +16036,9 @@ Pin count : 31
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega48A
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -15393,6 +16086,9 @@ Pin count : 28
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega48A
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -15444,6 +16140,9 @@ Pin count : 32
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega48A
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -15491,6 +16190,9 @@ Pin count : 28
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega48P
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -15542,6 +16244,9 @@ Pin count : 32
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega48P
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -15589,6 +16294,9 @@ Pin count : 28
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega48P
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -15640,6 +16348,9 @@ Pin count : 32
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega48P
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -15687,6 +16398,9 @@ Pin count : 28
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega48PA
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -15738,6 +16452,9 @@ Pin count : 32
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega48PA
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -15789,6 +16506,9 @@ Pin count : 32
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega48PA
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -15839,6 +16559,9 @@ Pin count : 31
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega48PA
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -15886,6 +16609,9 @@ Pin count : 28
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega48PA
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -15933,6 +16659,9 @@ Pin count : 28
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega48PA
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -15984,6 +16713,9 @@ Pin count : 32
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega48PA
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -16035,6 +16767,9 @@ Pin count : 32
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega48PA
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -16082,6 +16817,9 @@ Pin count : 28
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega48PA
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -16129,6 +16867,9 @@ Pin count : 28
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega48PB
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -16180,6 +16921,9 @@ Pin count : 32
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega48PB
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -16231,6 +16975,9 @@ Pin count : 32
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega48PB
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -16282,6 +17029,9 @@ Pin count : 32
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega48PB
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -16333,6 +17083,9 @@ Pin count : 32
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega48P
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -16384,6 +17137,9 @@ Pin count : 32
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega48P
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -16431,6 +17187,9 @@ Pin count : 28
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega48P
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -16482,6 +17241,9 @@ Pin count : 32
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega48P
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -16529,6 +17291,9 @@ Pin count : 28
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega48
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -16580,6 +17345,9 @@ Pin count : 32
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega48
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -16627,6 +17395,9 @@ Pin count : 28
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega48
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -16674,6 +17445,9 @@ Pin count : 28
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega48
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -16725,6 +17499,9 @@ Pin count : 32
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega48
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -16772,6 +17549,9 @@ Pin count : 28
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega64
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -16855,6 +17635,9 @@ Pin count : 64
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega64
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -16938,6 +17721,9 @@ Pin count : 64
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega64
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -17021,6 +17807,9 @@ Pin count : 64
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega64
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -17104,6 +17893,9 @@ Pin count : 64
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega640
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -17223,6 +18015,9 @@ Pin count : 100
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega640
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -17342,6 +18137,9 @@ Pin count : 100
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega640
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -17461,6 +18259,9 @@ Pin count : 100
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega640
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -17580,6 +18381,9 @@ Pin count : 100
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega644
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -17643,6 +18447,9 @@ Pin count : 44
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega644
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -17706,6 +18513,9 @@ Pin count : 44
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega644
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -17765,6 +18575,9 @@ Pin count : 40
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega644A
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -17828,6 +18641,9 @@ Pin count : 44
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega644A
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -17891,6 +18707,9 @@ Pin count : 44
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega644A
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -17950,6 +18769,9 @@ Pin count : 40
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega644P
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -18013,6 +18835,9 @@ Pin count : 44
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega644P
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -18076,6 +18901,9 @@ Pin count : 44
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega644P
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -18139,6 +18967,9 @@ Pin count : 44
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega644P
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -18202,6 +19033,9 @@ Pin count : 44
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega644P
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -18261,6 +19095,9 @@ Pin count : 40
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega644P
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -18320,6 +19157,9 @@ Pin count : 40
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega644PA
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -18383,6 +19223,9 @@ Pin count : 44
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega644PA
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -18446,6 +19289,9 @@ Pin count : 44
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega644PA
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -18509,6 +19355,9 @@ Pin count : 44
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega644PA
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -18572,6 +19421,9 @@ Pin count : 44
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega644PA
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -18631,6 +19483,9 @@ Pin count : 40
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega644PA
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -18690,6 +19545,9 @@ Pin count : 40
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega644P
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -18753,6 +19611,9 @@ Pin count : 44
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega644P
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -18816,6 +19677,9 @@ Pin count : 44
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega644P
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -18879,6 +19743,9 @@ Pin count : 44
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega644P
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -18942,6 +19809,9 @@ Pin count : 44
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega644P
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -19001,6 +19871,9 @@ Pin count : 40
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega644P
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -19060,6 +19933,9 @@ Pin count : 40
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega644
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -19123,6 +19999,9 @@ Pin count : 44
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega644
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -19186,6 +20065,9 @@ Pin count : 44
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega644
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -19245,6 +20127,9 @@ Pin count : 40
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega649
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -19328,6 +20213,9 @@ Pin count : 64
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega649
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -19411,6 +20299,9 @@ Pin count : 64
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega649A
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -19494,6 +20385,9 @@ Pin count : 64
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega649A
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -19577,6 +20471,9 @@ Pin count : 64
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega649P
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -19660,6 +20557,9 @@ Pin count : 64
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega649P
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -19743,6 +20643,9 @@ Pin count : 64
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega649
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -19826,6 +20729,9 @@ Pin count : 64
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega649
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -19909,6 +20815,9 @@ Pin count : 64
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega64A
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -19992,6 +20901,9 @@ Pin count : 64
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega64A
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -20075,6 +20987,9 @@ Pin count : 64
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega64A
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -20158,6 +21073,9 @@ Pin count : 64
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega64A
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -20241,6 +21159,9 @@ Pin count : 64
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega64C1
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -20292,6 +21213,9 @@ Pin count : 32
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega64C1
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -20343,6 +21267,9 @@ Pin count : 32
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega64
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -20426,6 +21353,9 @@ Pin count : 64
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega64
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -20509,6 +21439,9 @@ Pin count : 64
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega64
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -20592,6 +21525,9 @@ Pin count : 64
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega64
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -20675,6 +21611,9 @@ Pin count : 64
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega64M1
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -20726,6 +21665,9 @@ Pin count : 32
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega64M1
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -20777,6 +21719,9 @@ Pin count : 32
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega8
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -20828,6 +21773,9 @@ Pin count : 32
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega8
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -20879,6 +21827,9 @@ Pin count : 32
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega8
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -20930,6 +21881,9 @@ Pin count : 32
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega8
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -20981,6 +21935,9 @@ Pin count : 32
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega8
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -21028,6 +21985,9 @@ Pin count : 28
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega8
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -21075,6 +22035,9 @@ Pin count : 28
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega88
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -21126,6 +22089,9 @@ Pin count : 32
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega88
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -21177,6 +22143,9 @@ Pin count : 32
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega88
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -21224,6 +22193,9 @@ Pin count : 28
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega88A
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -21275,6 +22247,9 @@ Pin count : 32
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega88A
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -21325,6 +22300,9 @@ Pin count : 31
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega88A
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -21372,6 +22350,9 @@ Pin count : 28
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega88A
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -21423,6 +22404,9 @@ Pin count : 32
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega88A
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -21470,6 +22454,9 @@ Pin count : 28
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega88P
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -21521,6 +22508,9 @@ Pin count : 32
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega88P
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -21572,6 +22562,9 @@ Pin count : 32
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega88P
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -21619,6 +22612,9 @@ Pin count : 28
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega88PA
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -21670,6 +22666,9 @@ Pin count : 32
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega88PA
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -21721,6 +22720,9 @@ Pin count : 32
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega88PA
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -21771,6 +22773,9 @@ Pin count : 31
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega88PA
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -21818,6 +22823,9 @@ Pin count : 28
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega88PA
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -21865,6 +22873,9 @@ Pin count : 28
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega88PA
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -21916,6 +22927,9 @@ Pin count : 32
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega88PA
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -21967,6 +22981,9 @@ Pin count : 32
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega88PA
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -22014,6 +23031,9 @@ Pin count : 28
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega88PA
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -22061,6 +23081,9 @@ Pin count : 28
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega88PB
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -22112,6 +23135,9 @@ Pin count : 32
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega88PB
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -22163,6 +23189,9 @@ Pin count : 32
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega88PB
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -22214,6 +23243,9 @@ Pin count : 32
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega88PB
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -22265,6 +23297,9 @@ Pin count : 32
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega88P
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -22316,6 +23351,9 @@ Pin count : 32
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega88P
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -22367,6 +23405,9 @@ Pin count : 32
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega88P
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -22414,6 +23455,9 @@ Pin count : 28
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega88
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -22465,6 +23509,9 @@ Pin count : 32
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega88
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -22516,6 +23563,9 @@ Pin count : 32
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega88
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -22563,6 +23613,9 @@ Pin count : 28
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega8
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -22614,6 +23667,9 @@ Pin count : 32
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega8
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -22665,6 +23721,9 @@ Pin count : 32
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega8
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -22716,6 +23775,9 @@ Pin count : 32
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega8
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -22767,6 +23829,9 @@ Pin count : 32
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega8
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -22814,6 +23879,9 @@ Pin count : 28
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega8
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -22861,6 +23929,9 @@ Pin count : 28
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega8U2
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 
@@ -22912,6 +23983,9 @@ Pin count : 32
 - Family : megaAVR
 - MF : Microchip
 - Name : ATmega8U2
+- Library Kicad : [megaAVR.kicad_sym](./KiCad/megaAVR.kicad_sym) 
+- Library Altium : [megaAVR.lia](./Altium/megaAVR.lia) 
+- Library Proteus : [megaAVR.pdif](./Proteus/megaAVR.pdif) 
 
 ### Package : 
 

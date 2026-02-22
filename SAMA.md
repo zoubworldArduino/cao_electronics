@@ -14,17 +14,20 @@
 - Family : SAMA
 - MF : Microchip
 - Name : ATSAMA5D29
+- Library Kicad : [SAMA.kicad_sym](./KiCad/SAMA.kicad_sym) 
+- Library Altium : [SAMA.lia](./Altium/SAMA.lia) 
+- Library Proteus : [SAMA.pdif](./Proteus/SAMA.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-21124A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-21124A](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 AMB
 - Package Type : 	 LFBGA
 - Pin count : 	 289,00
-- Package Layout : 	 [C04-21124A](./mchp/packages/C04-21124A.pdf)
-- Package 3d model wrl : 	 [C04-21124A](./Model3d/wrl/C04-21124A.wrl)
-- Package 3d model x3d : 	 [C04-21124A](./Model3d/x3d/C04-21124A.x3d)
-- Package 3d model scad : 	 [C04-21124A](./Model3d/scad/C04-21124A.scad)
+- Package Layout : 	 [C04-21124A.pdf](./mchp/packages/c04-21124a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21124A.wrl) : 	 [C04-21124A.wrl](./Model3d/wrl/C04-21124A.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-21124A.x3d) : 	 [C04-21124A.x3d](./Model3d/x3d/C04-21124A.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-21124A.scad) : 	 [C04-21124A.scad](./Model3d/scad/C04-21124A.scad)
 Pin count : 289
 - U11 : PA0,  of Type IO, alternates : [HSMC D_0, PIO P_0, SDMMC0 SDMMC0_CK_, QSPI0 QSPI0_SCK_]
 - P10 : PA1,  of Type IO, alternates : [SDMMC0 SDMMC0_CMD_, PIO P_1, QSPI0 QSPI0_CS_, HSMC D_1]
@@ -330,17 +333,20 @@ Pin count : 289
 - Family : SAMA
 - MF : Microchip
 - Name : ATSAMA5D29
+- Library Kicad : [SAMA.kicad_sym](./KiCad/SAMA.kicad_sym) 
+- Library Altium : [SAMA.lia](./Altium/SAMA.lia) 
+- Library Proteus : [SAMA.pdif](./Proteus/SAMA.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-21124A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-21124A](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 AMB
 - Package Type : 	 LFBGA
 - Pin count : 	 289,00
-- Package Layout : 	 [C04-21124A](./mchp/packages/C04-21124A.pdf)
-- Package 3d model wrl : 	 [C04-21124A](./Model3d/wrl/C04-21124A.wrl)
-- Package 3d model x3d : 	 [C04-21124A](./Model3d/x3d/C04-21124A.x3d)
-- Package 3d model scad : 	 [C04-21124A](./Model3d/scad/C04-21124A.scad)
+- Package Layout : 	 [C04-21124A.pdf](./mchp/packages/c04-21124a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21124A.wrl) : 	 [C04-21124A.wrl](./Model3d/wrl/C04-21124A.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-21124A.x3d) : 	 [C04-21124A.x3d](./Model3d/x3d/C04-21124A.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-21124A.scad) : 	 [C04-21124A.scad](./Model3d/scad/C04-21124A.scad)
 Pin count : 289
 - U11 : PA0,  of Type IO, alternates : [HSMC D_0, PIO P_0, SDMMC0 SDMMC0_CK_, QSPI0 QSPI0_SCK_]
 - P10 : PA1,  of Type IO, alternates : [SDMMC0 SDMMC0_CMD_, PIO P_1, QSPI0 QSPI0_CS_, HSMC D_1]
@@ -646,17 +652,20 @@ Pin count : 289
 - Family : SAMA
 - MF : Microchip
 - Name : ATSAMA5D29
+- Library Kicad : [SAMA.kicad_sym](./KiCad/SAMA.kicad_sym) 
+- Library Altium : [SAMA.lia](./Altium/SAMA.lia) 
+- Library Proteus : [SAMA.pdif](./Proteus/SAMA.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-21124A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-21124A](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 AMB
 - Package Type : 	 LFBGA
 - Pin count : 	 289,00
-- Package Layout : 	 [C04-21124A](./mchp/packages/C04-21124A.pdf)
-- Package 3d model wrl : 	 [C04-21124A](./Model3d/wrl/C04-21124A.wrl)
-- Package 3d model x3d : 	 [C04-21124A](./Model3d/x3d/C04-21124A.x3d)
-- Package 3d model scad : 	 [C04-21124A](./Model3d/scad/C04-21124A.scad)
+- Package Layout : 	 [C04-21124A.pdf](./mchp/packages/c04-21124a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21124A.wrl) : 	 [C04-21124A.wrl](./Model3d/wrl/C04-21124A.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-21124A.x3d) : 	 [C04-21124A.x3d](./Model3d/x3d/C04-21124A.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-21124A.scad) : 	 [C04-21124A.scad](./Model3d/scad/C04-21124A.scad)
 Pin count : 289
 - U11 : PA0,  of Type IO, alternates : [HSMC D_0, PIO P_0, SDMMC0 SDMMC0_CK_, QSPI0 QSPI0_SCK_]
 - P10 : PA1,  of Type IO, alternates : [SDMMC0 SDMMC0_CMD_, PIO P_1, QSPI0 QSPI0_CS_, HSMC D_1]
@@ -962,17 +971,20 @@ Pin count : 289
 - Family : SAMA
 - MF : Microchip
 - Name : ATSAMA5D29
+- Library Kicad : [SAMA.kicad_sym](./KiCad/SAMA.kicad_sym) 
+- Library Altium : [SAMA.lia](./Altium/SAMA.lia) 
+- Library Proteus : [SAMA.pdif](./Proteus/SAMA.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-21124A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-21124A](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 AMB
 - Package Type : 	 LFBGA
 - Pin count : 	 289,00
-- Package Layout : 	 [C04-21124A](./mchp/packages/C04-21124A.pdf)
-- Package 3d model wrl : 	 [C04-21124A](./Model3d/wrl/C04-21124A.wrl)
-- Package 3d model x3d : 	 [C04-21124A](./Model3d/x3d/C04-21124A.x3d)
-- Package 3d model scad : 	 [C04-21124A](./Model3d/scad/C04-21124A.scad)
+- Package Layout : 	 [C04-21124A.pdf](./mchp/packages/c04-21124a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21124A.wrl) : 	 [C04-21124A.wrl](./Model3d/wrl/C04-21124A.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-21124A.x3d) : 	 [C04-21124A.x3d](./Model3d/x3d/C04-21124A.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-21124A.scad) : 	 [C04-21124A.scad](./Model3d/scad/C04-21124A.scad)
 Pin count : 289
 - U11 : PA0,  of Type IO, alternates : [HSMC D_0, PIO P_0, SDMMC0 SDMMC0_CK_, QSPI0 QSPI0_SCK_]
 - P10 : PA1,  of Type IO, alternates : [SDMMC0 SDMMC0_CMD_, PIO P_1, QSPI0 QSPI0_CS_, HSMC D_1]
@@ -1278,6 +1290,9 @@ Pin count : 289
 - Family : SAMA
 - MF : Microchip
 - Name : SAMA5D29TA100
+- Library Kicad : [SAMA.kicad_sym](./KiCad/SAMA.kicad_sym) 
+- Library Altium : [SAMA.lia](./Altium/SAMA.lia) 
+- Library Proteus : [SAMA.pdif](./Proteus/SAMA.pdif) 
 
 ### Package : 
 
@@ -1619,6 +1634,9 @@ Pin count : 322
 - Family : SAMA
 - MF : Microchip
 - Name : SAMA7G54
+- Library Kicad : [SAMA.kicad_sym](./KiCad/SAMA.kicad_sym) 
+- Library Altium : [SAMA.lia](./Altium/SAMA.lia) 
+- Library Proteus : [SAMA.pdif](./Proteus/SAMA.pdif) 
 
 ### Package : 
 
@@ -1981,6 +1999,9 @@ Pin count : 343
 - Family : SAMA
 - MF : Microchip
 - Name : SAMA7G54D1G
+- Library Kicad : [SAMA.kicad_sym](./KiCad/SAMA.kicad_sym) 
+- Library Altium : [SAMA.lia](./Altium/SAMA.lia) 
+- Library Proteus : [SAMA.pdif](./Proteus/SAMA.pdif) 
 
 ### Package : 
 
@@ -2427,6 +2448,9 @@ Pin count : 427
 - Family : SAMA
 - MF : Microchip
 - Name : SAMA7G54D2G
+- Library Kicad : [SAMA.kicad_sym](./KiCad/SAMA.kicad_sym) 
+- Library Altium : [SAMA.lia](./Altium/SAMA.lia) 
+- Library Proteus : [SAMA.pdif](./Proteus/SAMA.pdif) 
 
 ### Package : 
 
@@ -2873,6 +2897,9 @@ Pin count : 427
 - Family : SAMA
 - MF : Microchip
 - Name : SAMA7G54D4G
+- Library Kicad : [SAMA.kicad_sym](./KiCad/SAMA.kicad_sym) 
+- Library Altium : [SAMA.lia](./Altium/SAMA.lia) 
+- Library Proteus : [SAMA.pdif](./Proteus/SAMA.pdif) 
 
 ### Package : 
 

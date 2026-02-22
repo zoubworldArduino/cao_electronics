@@ -14,6 +14,9 @@
 - Family : SAMRH
 - MF : Microchip
 - Name : ATSAMRH71F20C
+- Library Kicad : [SAMRH.kicad_sym](./KiCad/SAMRH.kicad_sym) 
+- Library Altium : [SAMRH.lia](./Altium/SAMRH.lia) 
+- Library Proteus : [SAMRH.pdif](./Proteus/SAMRH.pdif) 
 
 ### Package : 
 
@@ -289,6 +292,9 @@ Pin count : 256
 - Family : SAMRH
 - MF : Microchip
 - Name : ATSAMRH71F20C
+- Library Kicad : [SAMRH.kicad_sym](./KiCad/SAMRH.kicad_sym) 
+- Library Altium : [SAMRH.lia](./Altium/SAMRH.lia) 
+- Library Proteus : [SAMRH.pdif](./Proteus/SAMRH.pdif) 
 
 ### Package : 
 
@@ -564,6 +570,9 @@ Pin count : 256
 - Family : SAMRH
 - MF : Microchip
 - Name : ATSAMRH71F20C
+- Library Kicad : [SAMRH.kicad_sym](./KiCad/SAMRH.kicad_sym) 
+- Library Altium : [SAMRH.lia](./Altium/SAMRH.lia) 
+- Library Proteus : [SAMRH.pdif](./Proteus/SAMRH.pdif) 
 
 ### Package : 
 
@@ -839,6 +848,9 @@ Pin count : 256
 - Family : SAMRH
 - MF : Microchip
 - Name : ATSAMRH707F18A
+- Library Kicad : [SAMRH.kicad_sym](./KiCad/SAMRH.kicad_sym) 
+- Library Altium : [SAMRH.lia](./Altium/SAMRH.lia) 
+- Library Proteus : [SAMRH.pdif](./Proteus/SAMRH.pdif) 
 
 ### Package : 
 

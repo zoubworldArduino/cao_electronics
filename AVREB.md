@@ -14,6 +14,9 @@
 - Family : AVREB
 - MF : Microchip
 - Name : AVR16EB14
+- Library Kicad : [AVREB.kicad_sym](./KiCad/AVREB.kicad_sym) 
+- Library Altium : [AVREB.lia](./Altium/AVREB.lia) 
+- Library Proteus : [AVREB.pdif](./Proteus/AVREB.pdif) 
 
 ### Package : 
 
@@ -47,6 +50,9 @@ Pin count : 14
 - Family : AVREB
 - MF : Microchip
 - Name : AVR16EB20
+- Library Kicad : [AVREB.kicad_sym](./KiCad/AVREB.kicad_sym) 
+- Library Altium : [AVREB.lia](./Altium/AVREB.lia) 
+- Library Proteus : [AVREB.pdif](./Proteus/AVREB.pdif) 
 
 ### Package : 
 
@@ -86,6 +92,9 @@ Pin count : 20
 - Family : AVREB
 - MF : Microchip
 - Name : AVR16EB20
+- Library Kicad : [AVREB.kicad_sym](./KiCad/AVREB.kicad_sym) 
+- Library Altium : [AVREB.lia](./Altium/AVREB.lia) 
+- Library Proteus : [AVREB.pdif](./Proteus/AVREB.pdif) 
 
 ### Package : 
 
@@ -125,6 +134,9 @@ Pin count : 20
 - Family : AVREB
 - MF : Microchip
 - Name : AVR16EB28
+- Library Kicad : [AVREB.kicad_sym](./KiCad/AVREB.kicad_sym) 
+- Library Altium : [AVREB.lia](./Altium/AVREB.lia) 
+- Library Proteus : [AVREB.pdif](./Proteus/AVREB.pdif) 
 
 ### Package : 
 
@@ -172,6 +184,9 @@ Pin count : 28
 - Family : AVREB
 - MF : Microchip
 - Name : AVR16EB28
+- Library Kicad : [AVREB.kicad_sym](./KiCad/AVREB.kicad_sym) 
+- Library Altium : [AVREB.lia](./Altium/AVREB.lia) 
+- Library Proteus : [AVREB.pdif](./Proteus/AVREB.pdif) 
 
 ### Package : 
 
@@ -219,6 +234,9 @@ Pin count : 28
 - Family : AVREB
 - MF : Microchip
 - Name : AVR16EB32
+- Library Kicad : [AVREB.kicad_sym](./KiCad/AVREB.kicad_sym) 
+- Library Altium : [AVREB.lia](./Altium/AVREB.lia) 
+- Library Proteus : [AVREB.pdif](./Proteus/AVREB.pdif) 
 
 ### Package : 
 

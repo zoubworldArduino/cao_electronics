@@ -14,6 +14,9 @@
 - Family : PIC32CXMT
 - MF : Microchip
 - Name : PIC32CX1025MTC128
+- Library Kicad : [PIC32CXMT.kicad_sym](./KiCad/PIC32CXMT.kicad_sym) 
+- Library Altium : [PIC32CXMT.lia](./Altium/PIC32CXMT.lia) 
+- Library Proteus : [PIC32CXMT.pdif](./Proteus/PIC32CXMT.pdif) 
 
 ### Package : 
 
@@ -161,6 +164,9 @@ Pin count : 128
 - Family : PIC32CXMT
 - MF : Microchip
 - Name : PIC32CX1025MTC128S1
+- Library Kicad : [PIC32CXMT.kicad_sym](./KiCad/PIC32CXMT.kicad_sym) 
+- Library Altium : [PIC32CXMT.lia](./Altium/PIC32CXMT.lia) 
+- Library Proteus : [PIC32CXMT.pdif](./Proteus/PIC32CXMT.pdif) 
 
 ### Package : 
 
@@ -308,6 +314,9 @@ Pin count : 128
 - Family : PIC32CXMT
 - MF : Microchip
 - Name : PIC32CX1025MTG128
+- Library Kicad : [PIC32CXMT.kicad_sym](./KiCad/PIC32CXMT.kicad_sym) 
+- Library Altium : [PIC32CXMT.lia](./Altium/PIC32CXMT.lia) 
+- Library Proteus : [PIC32CXMT.pdif](./Proteus/PIC32CXMT.pdif) 
 
 ### Package : 
 
@@ -455,6 +464,9 @@ Pin count : 128
 - Family : PIC32CXMT
 - MF : Microchip
 - Name : PIC32CX1025MTG64
+- Library Kicad : [PIC32CXMT.kicad_sym](./KiCad/PIC32CXMT.kicad_sym) 
+- Library Altium : [PIC32CXMT.lia](./Altium/PIC32CXMT.lia) 
+- Library Proteus : [PIC32CXMT.pdif](./Proteus/PIC32CXMT.pdif) 
 
 ### Package : 
 
@@ -538,6 +550,9 @@ Pin count : 64
 - Family : PIC32CXMT
 - MF : Microchip
 - Name : PIC32CX1025MTSH128
+- Library Kicad : [PIC32CXMT.kicad_sym](./KiCad/PIC32CXMT.kicad_sym) 
+- Library Altium : [PIC32CXMT.lia](./Altium/PIC32CXMT.lia) 
+- Library Proteus : [PIC32CXMT.pdif](./Proteus/PIC32CXMT.pdif) 
 
 ### Package : 
 
@@ -696,6 +711,9 @@ Pin count : 139
 - Family : PIC32CXMT
 - MF : Microchip
 - Name : PIC32CX1025MTSH128S1
+- Library Kicad : [PIC32CXMT.kicad_sym](./KiCad/PIC32CXMT.kicad_sym) 
+- Library Altium : [PIC32CXMT.lia](./Altium/PIC32CXMT.lia) 
+- Library Proteus : [PIC32CXMT.pdif](./Proteus/PIC32CXMT.pdif) 
 
 ### Package : 
 
@@ -854,6 +872,9 @@ Pin count : 139
 - Family : PIC32CXMT
 - MF : Microchip
 - Name : PIC32CX2051MTC128
+- Library Kicad : [PIC32CXMT.kicad_sym](./KiCad/PIC32CXMT.kicad_sym) 
+- Library Altium : [PIC32CXMT.lia](./Altium/PIC32CXMT.lia) 
+- Library Proteus : [PIC32CXMT.pdif](./Proteus/PIC32CXMT.pdif) 
 
 ### Package : 
 
@@ -1001,6 +1022,9 @@ Pin count : 128
 - Family : PIC32CXMT
 - MF : Microchip
 - Name : PIC32CX2051MTC128S1
+- Library Kicad : [PIC32CXMT.kicad_sym](./KiCad/PIC32CXMT.kicad_sym) 
+- Library Altium : [PIC32CXMT.lia](./Altium/PIC32CXMT.lia) 
+- Library Proteus : [PIC32CXMT.pdif](./Proteus/PIC32CXMT.pdif) 
 
 ### Package : 
 
@@ -1148,6 +1172,9 @@ Pin count : 128
 - Family : PIC32CXMT
 - MF : Microchip
 - Name : PIC32CX2051MTG128
+- Library Kicad : [PIC32CXMT.kicad_sym](./KiCad/PIC32CXMT.kicad_sym) 
+- Library Altium : [PIC32CXMT.lia](./Altium/PIC32CXMT.lia) 
+- Library Proteus : [PIC32CXMT.pdif](./Proteus/PIC32CXMT.pdif) 
 
 ### Package : 
 
@@ -1295,6 +1322,9 @@ Pin count : 128
 - Family : PIC32CXMT
 - MF : Microchip
 - Name : PIC32CX2051MTG64
+- Library Kicad : [PIC32CXMT.kicad_sym](./KiCad/PIC32CXMT.kicad_sym) 
+- Library Altium : [PIC32CXMT.lia](./Altium/PIC32CXMT.lia) 
+- Library Proteus : [PIC32CXMT.pdif](./Proteus/PIC32CXMT.pdif) 
 
 ### Package : 
 
@@ -1377,7 +1407,10 @@ Pin count : 64
 - Value : PIC32CX2051MTSH128-AU
 - Family : PIC32CXMT
 - MF : Microchip
-- Name : PIC32CX2051MTSH128
+- Name : PIC32CX2051MTSH128S1
+- Library Kicad : [PIC32CXMT.kicad_sym](./KiCad/PIC32CXMT.kicad_sym) 
+- Library Altium : [PIC32CXMT.lia](./Altium/PIC32CXMT.lia) 
+- Library Proteus : [PIC32CXMT.pdif](./Proteus/PIC32CXMT.pdif) 
 
 ### Package : 
 
@@ -1535,7 +1568,10 @@ Pin count : 139
 - Value : PIC32CX2051MTSH128-AU
 - Family : PIC32CXMT
 - MF : Microchip
-- Name : PIC32CX2051MTSH128S1
+- Name : PIC32CX2051MTSH128
+- Library Kicad : [PIC32CXMT.kicad_sym](./KiCad/PIC32CXMT.kicad_sym) 
+- Library Altium : [PIC32CXMT.lia](./Altium/PIC32CXMT.lia) 
+- Library Proteus : [PIC32CXMT.pdif](./Proteus/PIC32CXMT.pdif) 
 
 ### Package : 
 
@@ -1693,7 +1729,10 @@ Pin count : 139
 - Value : PIC32CX5112MTC128-AU
 - Family : PIC32CXMT
 - MF : Microchip
-- Name : PIC32CX5112MTC128S1
+- Name : PIC32CX5112MTC128
+- Library Kicad : [PIC32CXMT.kicad_sym](./KiCad/PIC32CXMT.kicad_sym) 
+- Library Altium : [PIC32CXMT.lia](./Altium/PIC32CXMT.lia) 
+- Library Proteus : [PIC32CXMT.pdif](./Proteus/PIC32CXMT.pdif) 
 
 ### Package : 
 
@@ -1840,7 +1879,10 @@ Pin count : 128
 - Value : PIC32CX5112MTC128-AU
 - Family : PIC32CXMT
 - MF : Microchip
-- Name : PIC32CX5112MTC128
+- Name : PIC32CX5112MTC128S1
+- Library Kicad : [PIC32CXMT.kicad_sym](./KiCad/PIC32CXMT.kicad_sym) 
+- Library Altium : [PIC32CXMT.lia](./Altium/PIC32CXMT.lia) 
+- Library Proteus : [PIC32CXMT.pdif](./Proteus/PIC32CXMT.pdif) 
 
 ### Package : 
 
@@ -1988,6 +2030,9 @@ Pin count : 128
 - Family : PIC32CXMT
 - MF : Microchip
 - Name : PIC32CX5112MTG128
+- Library Kicad : [PIC32CXMT.kicad_sym](./KiCad/PIC32CXMT.kicad_sym) 
+- Library Altium : [PIC32CXMT.lia](./Altium/PIC32CXMT.lia) 
+- Library Proteus : [PIC32CXMT.pdif](./Proteus/PIC32CXMT.pdif) 
 
 ### Package : 
 
@@ -2135,6 +2180,9 @@ Pin count : 128
 - Family : PIC32CXMT
 - MF : Microchip
 - Name : PIC32CX5112MTSH128S1
+- Library Kicad : [PIC32CXMT.kicad_sym](./KiCad/PIC32CXMT.kicad_sym) 
+- Library Altium : [PIC32CXMT.lia](./Altium/PIC32CXMT.lia) 
+- Library Proteus : [PIC32CXMT.pdif](./Proteus/PIC32CXMT.pdif) 
 
 ### Package : 
 
@@ -2293,6 +2341,9 @@ Pin count : 139
 - Family : PIC32CXMT
 - MF : Microchip
 - Name : PIC32CX5112MTSH128
+- Library Kicad : [PIC32CXMT.kicad_sym](./KiCad/PIC32CXMT.kicad_sym) 
+- Library Altium : [PIC32CXMT.lia](./Altium/PIC32CXMT.lia) 
+- Library Proteus : [PIC32CXMT.pdif](./Proteus/PIC32CXMT.pdif) 
 
 ### Package : 
 

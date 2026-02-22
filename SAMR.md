@@ -14,16 +14,21 @@
 - Family : SAMR
 - MF : Microchip
 - Name : ATSAMR21E16A
+- Library Kicad : [SAMR.kicad_sym](./KiCad/SAMR.kicad_sym) 
+- Library Altium : [SAMR.lia](./Altium/SAMR.lia) 
+- Library Proteus : [SAMR.pdif](./Proteus/SAMR.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-21402A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-21402A](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 S8B
 - Package Type : 	 VQFN
 - Pin count : 	 32,00
-- Package Layout : 	 [C04-21402A](./mchp/packages/C04-21402A.pdf)
-- Package 3d model scad : 	 [C04-21402A](./Model3d/scad/C04-21402A.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-21402A.pdf](./mchp/packages/c04-21402a.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-21402A.scad) : 	 [C04-21402A.scad](./Model3d/scad/C04-21402A.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 50
 - 1 : XTAL2,  of Type PS
 - 2 : XTAL1,  of Type PS
@@ -90,16 +95,21 @@ Pin count : 50
 - Family : SAMR
 - MF : Microchip
 - Name : ATSAMR21E16A
+- Library Kicad : [SAMR.kicad_sym](./KiCad/SAMR.kicad_sym) 
+- Library Altium : [SAMR.lia](./Altium/SAMR.lia) 
+- Library Proteus : [SAMR.pdif](./Proteus/SAMR.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-21402A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-21402A](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 S8B
 - Package Type : 	 VQFN
 - Pin count : 	 32,00
-- Package Layout : 	 [C04-21402A](./mchp/packages/C04-21402A.pdf)
-- Package 3d model scad : 	 [C04-21402A](./Model3d/scad/C04-21402A.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-21402A.pdf](./mchp/packages/c04-21402a.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-21402A.scad) : 	 [C04-21402A.scad](./Model3d/scad/C04-21402A.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 50
 - 1 : XTAL2,  of Type PS
 - 2 : XTAL1,  of Type PS
@@ -166,16 +176,21 @@ Pin count : 50
 - Family : SAMR
 - MF : Microchip
 - Name : ATSAMR21E17A
+- Library Kicad : [SAMR.kicad_sym](./KiCad/SAMR.kicad_sym) 
+- Library Altium : [SAMR.lia](./Altium/SAMR.lia) 
+- Library Proteus : [SAMR.pdif](./Proteus/SAMR.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-21402A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-21402A](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 S8B
 - Package Type : 	 VQFN
 - Pin count : 	 32,00
-- Package Layout : 	 [C04-21402A](./mchp/packages/C04-21402A.pdf)
-- Package 3d model scad : 	 [C04-21402A](./Model3d/scad/C04-21402A.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-21402A.pdf](./mchp/packages/c04-21402a.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-21402A.scad) : 	 [C04-21402A.scad](./Model3d/scad/C04-21402A.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 50
 - 1 : XTAL2,  of Type PS
 - 2 : XTAL1,  of Type PS
@@ -242,16 +257,21 @@ Pin count : 50
 - Family : SAMR
 - MF : Microchip
 - Name : ATSAMR21E17A
+- Library Kicad : [SAMR.kicad_sym](./KiCad/SAMR.kicad_sym) 
+- Library Altium : [SAMR.lia](./Altium/SAMR.lia) 
+- Library Proteus : [SAMR.pdif](./Proteus/SAMR.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-21402A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-21402A](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 S8B
 - Package Type : 	 VQFN
 - Pin count : 	 32,00
-- Package Layout : 	 [C04-21402A](./mchp/packages/C04-21402A.pdf)
-- Package 3d model scad : 	 [C04-21402A](./Model3d/scad/C04-21402A.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-21402A.pdf](./mchp/packages/c04-21402a.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-21402A.scad) : 	 [C04-21402A.scad](./Model3d/scad/C04-21402A.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 50
 - 1 : XTAL2,  of Type PS
 - 2 : XTAL1,  of Type PS
@@ -318,16 +338,21 @@ Pin count : 50
 - Family : SAMR
 - MF : Microchip
 - Name : ATSAMR21E18A
+- Library Kicad : [SAMR.kicad_sym](./KiCad/SAMR.kicad_sym) 
+- Library Altium : [SAMR.lia](./Altium/SAMR.lia) 
+- Library Proteus : [SAMR.pdif](./Proteus/SAMR.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-21402A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-21402A](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 S8B
 - Package Type : 	 VQFN
 - Pin count : 	 32,00
-- Package Layout : 	 [C04-21402A](./mchp/packages/C04-21402A.pdf)
-- Package 3d model scad : 	 [C04-21402A](./Model3d/scad/C04-21402A.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-21402A.pdf](./mchp/packages/c04-21402a.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-21402A.scad) : 	 [C04-21402A.scad](./Model3d/scad/C04-21402A.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 50
 - 1 : XTAL2,  of Type PS
 - 2 : XTAL1,  of Type PS
@@ -394,16 +419,21 @@ Pin count : 50
 - Family : SAMR
 - MF : Microchip
 - Name : ATSAMR21E18A
+- Library Kicad : [SAMR.kicad_sym](./KiCad/SAMR.kicad_sym) 
+- Library Altium : [SAMR.lia](./Altium/SAMR.lia) 
+- Library Proteus : [SAMR.pdif](./Proteus/SAMR.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-21402A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-21402A](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 S8B
 - Package Type : 	 VQFN
 - Pin count : 	 32,00
-- Package Layout : 	 [C04-21402A](./mchp/packages/C04-21402A.pdf)
-- Package 3d model scad : 	 [C04-21402A](./Model3d/scad/C04-21402A.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-21402A.pdf](./mchp/packages/c04-21402a.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-21402A.scad) : 	 [C04-21402A.scad](./Model3d/scad/C04-21402A.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 50
 - 1 : XTAL2,  of Type PS
 - 2 : XTAL1,  of Type PS
@@ -470,16 +500,21 @@ Pin count : 50
 - Family : SAMR
 - MF : Microchip
 - Name : ATSAMR21E19A
+- Library Kicad : [SAMR.kicad_sym](./KiCad/SAMR.kicad_sym) 
+- Library Altium : [SAMR.lia](./Altium/SAMR.lia) 
+- Library Proteus : [SAMR.pdif](./Proteus/SAMR.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-21369A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-21369A](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 R2B
 - Package Type : 	 TQFN
 - Pin count : 	 32,00
-- Package Layout : 	 [C04-21369A](./mchp/packages/C04-21369A.pdf)
-- Package 3d model scad : 	 [C04-21369A](./Model3d/scad/C04-21369A.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-21369A.pdf](./mchp/packages/c04-21369a.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-21369A.scad) : 	 [C04-21369A.scad](./Model3d/scad/C04-21369A.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 56
 - 1 : XTAL2,  of Type PS
 - 2 : XTAL1,  of Type PS
@@ -552,16 +587,21 @@ Pin count : 56
 - Family : SAMR
 - MF : Microchip
 - Name : ATSAMR21G16A
+- Library Kicad : [SAMR.kicad_sym](./KiCad/SAMR.kicad_sym) 
+- Library Altium : [SAMR.lia](./Altium/SAMR.lia) 
+- Library Proteus : [SAMR.pdif](./Proteus/SAMR.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-21424A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-21424A](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 T2B
 - Package Type : 	 VQFN
 - Pin count : 	 48,00
-- Package Layout : 	 [C04-21424A](./mchp/packages/C04-21424A.pdf)
-- Package 3d model scad : 	 [C04-21424A](./Model3d/scad/C04-21424A.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-21424A.pdf](./mchp/packages/c04-21424a.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-21424A.scad) : 	 [C04-21424A.scad](./Model3d/scad/C04-21424A.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 66
 - 1 : PA00,  of Type IO, alternates : [EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, TCC2 WO_0, SYSCTRL XIN32_]
 - 2 : PA01,  of Type IO, alternates : [EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, SYSCTRL XOUT32_, TCC2 WO_1]
@@ -644,16 +684,21 @@ Pin count : 66
 - Family : SAMR
 - MF : Microchip
 - Name : ATSAMR21G16A
+- Library Kicad : [SAMR.kicad_sym](./KiCad/SAMR.kicad_sym) 
+- Library Altium : [SAMR.lia](./Altium/SAMR.lia) 
+- Library Proteus : [SAMR.pdif](./Proteus/SAMR.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-21424A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-21424A](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 T2B
 - Package Type : 	 VQFN
 - Pin count : 	 48,00
-- Package Layout : 	 [C04-21424A](./mchp/packages/C04-21424A.pdf)
-- Package 3d model scad : 	 [C04-21424A](./Model3d/scad/C04-21424A.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-21424A.pdf](./mchp/packages/c04-21424a.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-21424A.scad) : 	 [C04-21424A.scad](./Model3d/scad/C04-21424A.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 66
 - 1 : PA00,  of Type IO, alternates : [EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, TCC2 WO_0, SYSCTRL XIN32_]
 - 2 : PA01,  of Type IO, alternates : [EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, SYSCTRL XOUT32_, TCC2 WO_1]
@@ -736,16 +781,21 @@ Pin count : 66
 - Family : SAMR
 - MF : Microchip
 - Name : ATSAMR21G17A
+- Library Kicad : [SAMR.kicad_sym](./KiCad/SAMR.kicad_sym) 
+- Library Altium : [SAMR.lia](./Altium/SAMR.lia) 
+- Library Proteus : [SAMR.pdif](./Proteus/SAMR.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-21424A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-21424A](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 T2B
 - Package Type : 	 VQFN
 - Pin count : 	 48,00
-- Package Layout : 	 [C04-21424A](./mchp/packages/C04-21424A.pdf)
-- Package 3d model scad : 	 [C04-21424A](./Model3d/scad/C04-21424A.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-21424A.pdf](./mchp/packages/c04-21424a.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-21424A.scad) : 	 [C04-21424A.scad](./Model3d/scad/C04-21424A.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 66
 - 1 : PA00,  of Type IO, alternates : [EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, TCC2 WO_0, SYSCTRL XIN32_]
 - 2 : PA01,  of Type IO, alternates : [EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, SYSCTRL XOUT32_, TCC2 WO_1]
@@ -828,16 +878,21 @@ Pin count : 66
 - Family : SAMR
 - MF : Microchip
 - Name : ATSAMR21G17A
+- Library Kicad : [SAMR.kicad_sym](./KiCad/SAMR.kicad_sym) 
+- Library Altium : [SAMR.lia](./Altium/SAMR.lia) 
+- Library Proteus : [SAMR.pdif](./Proteus/SAMR.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-21424A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-21424A](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 T2B
 - Package Type : 	 VQFN
 - Pin count : 	 48,00
-- Package Layout : 	 [C04-21424A](./mchp/packages/C04-21424A.pdf)
-- Package 3d model scad : 	 [C04-21424A](./Model3d/scad/C04-21424A.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-21424A.pdf](./mchp/packages/c04-21424a.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-21424A.scad) : 	 [C04-21424A.scad](./Model3d/scad/C04-21424A.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 66
 - 1 : PA00,  of Type IO, alternates : [EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, TCC2 WO_0, SYSCTRL XIN32_]
 - 2 : PA01,  of Type IO, alternates : [EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, SYSCTRL XOUT32_, TCC2 WO_1]
@@ -920,16 +975,21 @@ Pin count : 66
 - Family : SAMR
 - MF : Microchip
 - Name : ATSAMR21G18A
+- Library Kicad : [SAMR.kicad_sym](./KiCad/SAMR.kicad_sym) 
+- Library Altium : [SAMR.lia](./Altium/SAMR.lia) 
+- Library Proteus : [SAMR.pdif](./Proteus/SAMR.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-21424A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-21424A](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 T2B
 - Package Type : 	 VQFN
 - Pin count : 	 48,00
-- Package Layout : 	 [C04-21424A](./mchp/packages/C04-21424A.pdf)
-- Package 3d model scad : 	 [C04-21424A](./Model3d/scad/C04-21424A.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-21424A.pdf](./mchp/packages/c04-21424a.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-21424A.scad) : 	 [C04-21424A.scad](./Model3d/scad/C04-21424A.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 66
 - 1 : PA00,  of Type IO, alternates : [EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, TCC2 WO_0, SYSCTRL XIN32_]
 - 2 : PA01,  of Type IO, alternates : [EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, SYSCTRL XOUT32_, TCC2 WO_1]
@@ -1012,16 +1072,21 @@ Pin count : 66
 - Family : SAMR
 - MF : Microchip
 - Name : ATSAMR21G18A
+- Library Kicad : [SAMR.kicad_sym](./KiCad/SAMR.kicad_sym) 
+- Library Altium : [SAMR.lia](./Altium/SAMR.lia) 
+- Library Proteus : [SAMR.pdif](./Proteus/SAMR.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-21424A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-21424A](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 T2B
 - Package Type : 	 VQFN
 - Pin count : 	 48,00
-- Package Layout : 	 [C04-21424A](./mchp/packages/C04-21424A.pdf)
-- Package 3d model scad : 	 [C04-21424A](./Model3d/scad/C04-21424A.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-21424A.pdf](./mchp/packages/c04-21424a.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-21424A.scad) : 	 [C04-21424A.scad](./Model3d/scad/C04-21424A.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 66
 - 1 : PA00,  of Type IO, alternates : [EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, TCC2 WO_0, SYSCTRL XIN32_]
 - 2 : PA01,  of Type IO, alternates : [EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, SYSCTRL XOUT32_, TCC2 WO_1]
@@ -1104,16 +1169,21 @@ Pin count : 66
 - Family : SAMR
 - MF : Microchip
 - Name : ATSAMR30E18A
+- Library Kicad : [SAMR.kicad_sym](./KiCad/SAMR.kicad_sym) 
+- Library Altium : [SAMR.lia](./Altium/SAMR.lia) 
+- Library Proteus : [SAMR.pdif](./Proteus/SAMR.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-21402A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-21402A](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 S8B
 - Package Type : 	 VQFN
 - Pin count : 	 32,00
-- Package Layout : 	 [C04-21402A](./mchp/packages/C04-21402A.pdf)
-- Package 3d model scad : 	 [C04-21402A](./Model3d/scad/C04-21402A.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-21402A.pdf](./mchp/packages/c04-21402a.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-21402A.scad) : 	 [C04-21402A.scad](./Model3d/scad/C04-21402A.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 52
 - 1 : XTAL2,  of Type PS
 - 2 : XTAL1,  of Type PS
@@ -1182,16 +1252,21 @@ Pin count : 52
 - Family : SAMR
 - MF : Microchip
 - Name : ATSAMR30G18A
+- Library Kicad : [SAMR.kicad_sym](./KiCad/SAMR.kicad_sym) 
+- Library Altium : [SAMR.lia](./Altium/SAMR.lia) 
+- Library Proteus : [SAMR.pdif](./Proteus/SAMR.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-21424A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-21424A](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 T2B
 - Package Type : 	 VQFN
 - Pin count : 	 48,00
-- Package Layout : 	 [C04-21424A](./mchp/packages/C04-21424A.pdf)
-- Package 3d model scad : 	 [C04-21424A](./Model3d/scad/C04-21424A.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-21424A.pdf](./mchp/packages/c04-21424a.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-21424A.scad) : 	 [C04-21424A.scad](./Model3d/scad/C04-21424A.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 65
 - 1 : PA00,  of Type IO, alternates : [OSC32KCTRL XIN32_, EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, TCC2 WO_0, RSTC EXTWAKE_0]
 - 2 : PA01,  of Type IO, alternates : [EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, RSTC EXTWAKE_1, OSC32KCTRL XOUT32_, TCC2 WO_1]
@@ -1273,6 +1348,9 @@ Pin count : 65
 - Family : SAMR
 - MF : Microchip
 - Name : ATSAMR34J16B
+- Library Kicad : [SAMR.kicad_sym](./KiCad/SAMR.kicad_sym) 
+- Library Altium : [SAMR.lia](./Altium/SAMR.lia) 
+- Library Proteus : [SAMR.pdif](./Proteus/SAMR.pdif) 
 
 ### Package : 
 
@@ -1367,6 +1445,9 @@ Pin count : 75
 - Family : SAMR
 - MF : Microchip
 - Name : ATSAMR34J17B
+- Library Kicad : [SAMR.kicad_sym](./KiCad/SAMR.kicad_sym) 
+- Library Altium : [SAMR.lia](./Altium/SAMR.lia) 
+- Library Proteus : [SAMR.pdif](./Proteus/SAMR.pdif) 
 
 ### Package : 
 
@@ -1461,6 +1542,9 @@ Pin count : 75
 - Family : SAMR
 - MF : Microchip
 - Name : ATSAMR34J18B
+- Library Kicad : [SAMR.kicad_sym](./KiCad/SAMR.kicad_sym) 
+- Library Altium : [SAMR.lia](./Altium/SAMR.lia) 
+- Library Proteus : [SAMR.pdif](./Proteus/SAMR.pdif) 
 
 ### Package : 
 
@@ -1555,6 +1639,9 @@ Pin count : 75
 - Family : SAMR
 - MF : Microchip
 - Name : ATSAMR35J16B
+- Library Kicad : [SAMR.kicad_sym](./KiCad/SAMR.kicad_sym) 
+- Library Altium : [SAMR.lia](./Altium/SAMR.lia) 
+- Library Proteus : [SAMR.pdif](./Proteus/SAMR.pdif) 
 
 ### Package : 
 
@@ -1649,6 +1736,9 @@ Pin count : 75
 - Family : SAMR
 - MF : Microchip
 - Name : ATSAMR35J17B
+- Library Kicad : [SAMR.kicad_sym](./KiCad/SAMR.kicad_sym) 
+- Library Altium : [SAMR.lia](./Altium/SAMR.lia) 
+- Library Proteus : [SAMR.pdif](./Proteus/SAMR.pdif) 
 
 ### Package : 
 
@@ -1743,6 +1833,9 @@ Pin count : 75
 - Family : SAMR
 - MF : Microchip
 - Name : ATSAMR35J18B
+- Library Kicad : [SAMR.kicad_sym](./KiCad/SAMR.kicad_sym) 
+- Library Altium : [SAMR.lia](./Altium/SAMR.lia) 
+- Library Proteus : [SAMR.pdif](./Proteus/SAMR.pdif) 
 
 ### Package : 
 

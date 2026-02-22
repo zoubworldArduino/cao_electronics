@@ -14,15 +14,18 @@
 - Family : PIC32CM
 - MF : Microchip
 - Name : PIC32CM1216LE00032
+- Library Kicad : [PIC32CM.kicad_sym](./KiCad/PIC32CM.kicad_sym) 
+- Library Altium : [PIC32CM.lia](./Altium/PIC32CM.lia) 
+- Library Proteus : [PIC32CM.pdif](./Proteus/PIC32CM.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00074D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00074D](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 T5X
 - Package Type : 	 TQFP
 - Pin count : 	 32,00
-- Package Layout : 	 [C04-00074D](./mchp/packages/C04-00074D.pdf)
-- Package 3d model scad : 	 [C04-00074D](./Model3d/scad/C04-00074D.scad)
+- Package Layout : 	 [C04-00074D.pdf](./mchp/packages/c04-00074d.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00074D.scad) : 	 [C04-00074D.scad](./Model3d/scad/C04-00074D.scad)
 Pin count : 32
 - 1 : PA00,  of Type IO, alternates : [PTC Y_0, PTC X_0, OSC32KCTRL XIN32_, EIC EXTINT_0, OPAMP OANEG_1, PORT P_0, SERCOM1:2 PAD_0, PTC DRV_0]
 - 2 : PA01,  of Type IO, alternates : [OPAMP OAPOS_1, PTC X_1, PTC Y_1, EIC EXTINT_1, PORT P_1, SERCOM1:2 PAD_1, OSC32KCTRL XOUT32_, PTC DRV_1]
@@ -71,6 +74,9 @@ Pin count : 32
 - Family : PIC32CM
 - MF : Microchip
 - Name : PIC32CM1216LE00032
+- Library Kicad : [PIC32CM.kicad_sym](./KiCad/PIC32CM.kicad_sym) 
+- Library Altium : [PIC32CM.lia](./Altium/PIC32CM.lia) 
+- Library Proteus : [PIC32CM.pdif](./Proteus/PIC32CM.pdif) 
 
 ### Package : 
 
@@ -122,15 +128,18 @@ Pin count : 32
 - Family : PIC32CM
 - MF : Microchip
 - Name : PIC32CM1216LE00048
+- Library Kicad : [PIC32CM.kicad_sym](./KiCad/PIC32CM.kicad_sym) 
+- Library Altium : [PIC32CM.lia](./Altium/PIC32CM.lia) 
+- Library Proteus : [PIC32CM.pdif](./Proteus/PIC32CM.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-21493A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-21493A](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 U5B
 - Package Type : 	 VQFN
 - Pin count : 	 48,00
-- Package Layout : 	 [C04-21493A](./mchp/packages/C04-21493A.pdf)
-- Package 3d model scad : 	 [C04-21493A](./Model3d/scad/C04-21493A.scad)
+- Package Layout : 	 [C04-21493A.pdf](./mchp/packages/c04-21493a.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-21493A.scad) : 	 [C04-21493A.scad](./Model3d/scad/C04-21493A.scad)
 Pin count : 48
 - 1 : PA00,  of Type IO, alternates : [PTC Y_0, PTC X_0, OSC32KCTRL XIN32_, EIC EXTINT_0, OPAMP OANEG_1, PORT P_0, SERCOM1:2 PAD_0, PTC DRV_0]
 - 2 : PA01,  of Type IO, alternates : [OPAMP OAPOS_1, PTC X_1, PTC Y_1, EIC EXTINT_1, PORT P_1, SERCOM1:2 PAD_1, OSC32KCTRL XOUT32_, PTC DRV_1]
@@ -195,17 +204,20 @@ Pin count : 48
 - Family : PIC32CM
 - MF : Microchip
 - Name : PIC32CM1216LE00048
+- Library Kicad : [PIC32CM.kicad_sym](./KiCad/PIC32CM.kicad_sym) 
+- Library Altium : [PIC32CM.lia](./Altium/PIC32CM.lia) 
+- Library Proteus : [PIC32CM.pdif](./Proteus/PIC32CM.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00300D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00300D](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 Y8X
 - Package Type : 	 TQFP
 - Pin count : 	 48,00
-- Package Layout : 	 [C04-00300D](./mchp/packages/C04-00300D.pdf)
-- Package 3d model wrl : 	 [C04-00300D](./Model3d/wrl/C04-00300D.wrl)
-- Package 3d model x3d : 	 [C04-00300D](./Model3d/x3d/C04-00300D.x3d)
-- Package 3d model scad : 	 [C04-00300D](./Model3d/scad/C04-00300D.scad)
+- Package Layout : 	 [C04-00300D.pdf](./mchp/packages/c04-00300d.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00300D.wrl) : 	 [C04-00300D.wrl](./Model3d/wrl/C04-00300D.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00300D.x3d) : 	 [C04-00300D.x3d](./Model3d/x3d/C04-00300D.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00300D.scad) : 	 [C04-00300D.scad](./Model3d/scad/C04-00300D.scad)
 Pin count : 48
 - 1 : PA00,  of Type IO, alternates : [PTC Y_0, PTC X_0, OSC32KCTRL XIN32_, EIC EXTINT_0, OPAMP OANEG_1, PORT P_0, SERCOM1:2 PAD_0, PTC DRV_0]
 - 2 : PA01,  of Type IO, alternates : [OPAMP OAPOS_1, PTC X_1, PTC Y_1, EIC EXTINT_1, PORT P_1, SERCOM1:2 PAD_1, OSC32KCTRL XOUT32_, PTC DRV_1]
@@ -270,15 +282,18 @@ Pin count : 48
 - Family : PIC32CM
 - MF : Microchip
 - Name : PIC32CM1216LS00032
+- Library Kicad : [PIC32CM.kicad_sym](./KiCad/PIC32CM.kicad_sym) 
+- Library Altium : [PIC32CM.lia](./Altium/PIC32CM.lia) 
+- Library Proteus : [PIC32CM.pdif](./Proteus/PIC32CM.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00074D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00074D](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 T5X
 - Package Type : 	 TQFP
 - Pin count : 	 32,00
-- Package Layout : 	 [C04-00074D](./mchp/packages/C04-00074D.pdf)
-- Package 3d model scad : 	 [C04-00074D](./Model3d/scad/C04-00074D.scad)
+- Package Layout : 	 [C04-00074D.pdf](./mchp/packages/c04-00074d.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00074D.scad) : 	 [C04-00074D.scad](./Model3d/scad/C04-00074D.scad)
 Pin count : 32
 - 1 : PA00,  of Type IO, alternates : [PTC Y_0, PTC X_0, OSC32KCTRL XIN32_, EIC EXTINT_0, OPAMP OANEG_1, PORT P_0, SERCOM1:2 PAD_0, PTC DRV_0]
 - 2 : PA01,  of Type IO, alternates : [OPAMP OAPOS_1, PTC X_1, PTC Y_1, EIC EXTINT_1, PORT P_1, SERCOM1:2 PAD_1, OSC32KCTRL XOUT32_, PTC DRV_1]
@@ -327,6 +342,9 @@ Pin count : 32
 - Family : PIC32CM
 - MF : Microchip
 - Name : PIC32CM1216LS00032
+- Library Kicad : [PIC32CM.kicad_sym](./KiCad/PIC32CM.kicad_sym) 
+- Library Altium : [PIC32CM.lia](./Altium/PIC32CM.lia) 
+- Library Proteus : [PIC32CM.pdif](./Proteus/PIC32CM.pdif) 
 
 ### Package : 
 
@@ -378,15 +396,18 @@ Pin count : 32
 - Family : PIC32CM
 - MF : Microchip
 - Name : PIC32CM1216LS00048
+- Library Kicad : [PIC32CM.kicad_sym](./KiCad/PIC32CM.kicad_sym) 
+- Library Altium : [PIC32CM.lia](./Altium/PIC32CM.lia) 
+- Library Proteus : [PIC32CM.pdif](./Proteus/PIC32CM.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-21493A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-21493A](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 U5B
 - Package Type : 	 VQFN
 - Pin count : 	 48,00
-- Package Layout : 	 [C04-21493A](./mchp/packages/C04-21493A.pdf)
-- Package 3d model scad : 	 [C04-21493A](./Model3d/scad/C04-21493A.scad)
+- Package Layout : 	 [C04-21493A.pdf](./mchp/packages/c04-21493a.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-21493A.scad) : 	 [C04-21493A.scad](./Model3d/scad/C04-21493A.scad)
 Pin count : 48
 - 1 : PA00,  of Type IO, alternates : [PTC Y_0, PTC X_0, OSC32KCTRL XIN32_, EIC EXTINT_0, OPAMP OANEG_1, PORT P_0, SERCOM1:2 PAD_0, PTC DRV_0]
 - 2 : PA01,  of Type IO, alternates : [OPAMP OAPOS_1, PTC X_1, PTC Y_1, EIC EXTINT_1, PORT P_1, SERCOM1:2 PAD_1, OSC32KCTRL XOUT32_, PTC DRV_1]
@@ -451,17 +472,20 @@ Pin count : 48
 - Family : PIC32CM
 - MF : Microchip
 - Name : PIC32CM1216LS00048
+- Library Kicad : [PIC32CM.kicad_sym](./KiCad/PIC32CM.kicad_sym) 
+- Library Altium : [PIC32CM.lia](./Altium/PIC32CM.lia) 
+- Library Proteus : [PIC32CM.pdif](./Proteus/PIC32CM.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00300D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00300D](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 Y8X
 - Package Type : 	 TQFP
 - Pin count : 	 48,00
-- Package Layout : 	 [C04-00300D](./mchp/packages/C04-00300D.pdf)
-- Package 3d model wrl : 	 [C04-00300D](./Model3d/wrl/C04-00300D.wrl)
-- Package 3d model x3d : 	 [C04-00300D](./Model3d/x3d/C04-00300D.x3d)
-- Package 3d model scad : 	 [C04-00300D](./Model3d/scad/C04-00300D.scad)
+- Package Layout : 	 [C04-00300D.pdf](./mchp/packages/c04-00300d.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00300D.wrl) : 	 [C04-00300D.wrl](./Model3d/wrl/C04-00300D.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00300D.x3d) : 	 [C04-00300D.x3d](./Model3d/x3d/C04-00300D.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00300D.scad) : 	 [C04-00300D.scad](./Model3d/scad/C04-00300D.scad)
 Pin count : 48
 - 1 : PA00,  of Type IO, alternates : [PTC Y_0, PTC X_0, OSC32KCTRL XIN32_, EIC EXTINT_0, OPAMP OANEG_1, PORT P_0, SERCOM1:2 PAD_0, PTC DRV_0]
 - 2 : PA01,  of Type IO, alternates : [OPAMP OAPOS_1, PTC X_1, PTC Y_1, EIC EXTINT_1, PORT P_1, SERCOM1:2 PAD_1, OSC32KCTRL XOUT32_, PTC DRV_1]
@@ -526,15 +550,18 @@ Pin count : 48
 - Family : PIC32CM
 - MF : Microchip
 - Name : PIC32CM2532JH00032
+- Library Kicad : [PIC32CM.kicad_sym](./KiCad/PIC32CM.kicad_sym) 
+- Library Altium : [PIC32CM.lia](./Altium/PIC32CM.lia) 
+- Library Proteus : [PIC32CM.pdif](./Proteus/PIC32CM.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00074D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00074D](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 T5X
 - Package Type : 	 TQFP
 - Pin count : 	 32,00
-- Package Layout : 	 [C04-00074D](./mchp/packages/C04-00074D.pdf)
-- Package 3d model scad : 	 [C04-00074D](./Model3d/scad/C04-00074D.scad)
+- Package Layout : 	 [C04-00074D.pdf](./mchp/packages/c04-00074d.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00074D.scad) : 	 [C04-00074D.scad](./Model3d/scad/C04-00074D.scad)
 Pin count : 32
 - 1 : PA00,  of Type IO, alternates : [OSC32KCTRL XIN32_, EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, AC CMP_2, TCC2 WO_0, TC7 WO_0, RSTC EXTWAKE_0]
 - 2 : PA01,  of Type IO, alternates : [AC CMP_3, EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, TC7 WO_1, RSTC EXTWAKE_1, OSC32KCTRL XOUT32_, TCC2 WO_1]
@@ -583,15 +610,18 @@ Pin count : 32
 - Family : PIC32CM
 - MF : Microchip
 - Name : PIC32CM2532JH00032
+- Library Kicad : [PIC32CM.kicad_sym](./KiCad/PIC32CM.kicad_sym) 
+- Library Altium : [PIC32CM.lia](./Altium/PIC32CM.lia) 
+- Library Proteus : [PIC32CM.pdif](./Proteus/PIC32CM.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00074D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00074D](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 T5X
 - Package Type : 	 TQFP
 - Pin count : 	 32,00
-- Package Layout : 	 [C04-00074D](./mchp/packages/C04-00074D.pdf)
-- Package 3d model scad : 	 [C04-00074D](./Model3d/scad/C04-00074D.scad)
+- Package Layout : 	 [C04-00074D.pdf](./mchp/packages/c04-00074d.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00074D.scad) : 	 [C04-00074D.scad](./Model3d/scad/C04-00074D.scad)
 Pin count : 32
 - 1 : PA00,  of Type IO, alternates : [OSC32KCTRL XIN32_, EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, AC CMP_2, TCC2 WO_0, TC7 WO_0, RSTC EXTWAKE_0]
 - 2 : PA01,  of Type IO, alternates : [AC CMP_3, EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, TC7 WO_1, RSTC EXTWAKE_1, OSC32KCTRL XOUT32_, TCC2 WO_1]
@@ -640,15 +670,18 @@ Pin count : 32
 - Family : PIC32CM
 - MF : Microchip
 - Name : PIC32CM2532JH00048
+- Library Kicad : [PIC32CM.kicad_sym](./KiCad/PIC32CM.kicad_sym) 
+- Library Altium : [PIC32CM.lia](./Altium/PIC32CM.lia) 
+- Library Proteus : [PIC32CM.pdif](./Proteus/PIC32CM.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-21493A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-21493A](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 U5B
 - Package Type : 	 VQFN
 - Pin count : 	 48,00
-- Package Layout : 	 [C04-21493A](./mchp/packages/C04-21493A.pdf)
-- Package 3d model scad : 	 [C04-21493A](./Model3d/scad/C04-21493A.scad)
+- Package Layout : 	 [C04-21493A.pdf](./mchp/packages/c04-21493a.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-21493A.scad) : 	 [C04-21493A.scad](./Model3d/scad/C04-21493A.scad)
 Pin count : 48
 - 1 : PA00,  of Type IO, alternates : [OSC32KCTRL XIN32_, EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, AC CMP_2, TCC2 WO_0, TC7 WO_0, RSTC EXTWAKE_0]
 - 2 : PA01,  of Type IO, alternates : [AC CMP_3, EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, TC7 WO_1, RSTC EXTWAKE_1, OSC32KCTRL XOUT32_, TCC2 WO_1]
@@ -713,17 +746,20 @@ Pin count : 48
 - Family : PIC32CM
 - MF : Microchip
 - Name : PIC32CM2532JH00048
+- Library Kicad : [PIC32CM.kicad_sym](./KiCad/PIC32CM.kicad_sym) 
+- Library Altium : [PIC32CM.lia](./Altium/PIC32CM.lia) 
+- Library Proteus : [PIC32CM.pdif](./Proteus/PIC32CM.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00300D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00300D](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 Y8X
 - Package Type : 	 TQFP
 - Pin count : 	 48,00
-- Package Layout : 	 [C04-00300D](./mchp/packages/C04-00300D.pdf)
-- Package 3d model wrl : 	 [C04-00300D](./Model3d/wrl/C04-00300D.wrl)
-- Package 3d model x3d : 	 [C04-00300D](./Model3d/x3d/C04-00300D.x3d)
-- Package 3d model scad : 	 [C04-00300D](./Model3d/scad/C04-00300D.scad)
+- Package Layout : 	 [C04-00300D.pdf](./mchp/packages/c04-00300d.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00300D.wrl) : 	 [C04-00300D.wrl](./Model3d/wrl/C04-00300D.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00300D.x3d) : 	 [C04-00300D.x3d](./Model3d/x3d/C04-00300D.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00300D.scad) : 	 [C04-00300D.scad](./Model3d/scad/C04-00300D.scad)
 Pin count : 48
 - 1 : PA00,  of Type IO, alternates : [OSC32KCTRL XIN32_, EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, AC CMP_2, TCC2 WO_0, TC7 WO_0, RSTC EXTWAKE_0]
 - 2 : PA01,  of Type IO, alternates : [AC CMP_3, EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, TC7 WO_1, RSTC EXTWAKE_1, OSC32KCTRL XOUT32_, TCC2 WO_1]
@@ -788,15 +824,18 @@ Pin count : 48
 - Family : PIC32CM
 - MF : Microchip
 - Name : PIC32CM2532JH00048
+- Library Kicad : [PIC32CM.kicad_sym](./KiCad/PIC32CM.kicad_sym) 
+- Library Altium : [PIC32CM.lia](./Altium/PIC32CM.lia) 
+- Library Proteus : [PIC32CM.pdif](./Proteus/PIC32CM.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-21493A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-21493A](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 U5B
 - Package Type : 	 VQFN
 - Pin count : 	 48,00
-- Package Layout : 	 [C04-21493A](./mchp/packages/C04-21493A.pdf)
-- Package 3d model scad : 	 [C04-21493A](./Model3d/scad/C04-21493A.scad)
+- Package Layout : 	 [C04-21493A.pdf](./mchp/packages/c04-21493a.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-21493A.scad) : 	 [C04-21493A.scad](./Model3d/scad/C04-21493A.scad)
 Pin count : 48
 - 1 : PA00,  of Type IO, alternates : [OSC32KCTRL XIN32_, EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, AC CMP_2, TCC2 WO_0, TC7 WO_0, RSTC EXTWAKE_0]
 - 2 : PA01,  of Type IO, alternates : [AC CMP_3, EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, TC7 WO_1, RSTC EXTWAKE_1, OSC32KCTRL XOUT32_, TCC2 WO_1]
@@ -861,17 +900,20 @@ Pin count : 48
 - Family : PIC32CM
 - MF : Microchip
 - Name : PIC32CM2532JH00048
+- Library Kicad : [PIC32CM.kicad_sym](./KiCad/PIC32CM.kicad_sym) 
+- Library Altium : [PIC32CM.lia](./Altium/PIC32CM.lia) 
+- Library Proteus : [PIC32CM.pdif](./Proteus/PIC32CM.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00300D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00300D](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 Y8X
 - Package Type : 	 TQFP
 - Pin count : 	 48,00
-- Package Layout : 	 [C04-00300D](./mchp/packages/C04-00300D.pdf)
-- Package 3d model wrl : 	 [C04-00300D](./Model3d/wrl/C04-00300D.wrl)
-- Package 3d model x3d : 	 [C04-00300D](./Model3d/x3d/C04-00300D.x3d)
-- Package 3d model scad : 	 [C04-00300D](./Model3d/scad/C04-00300D.scad)
+- Package Layout : 	 [C04-00300D.pdf](./mchp/packages/c04-00300d.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00300D.wrl) : 	 [C04-00300D.wrl](./Model3d/wrl/C04-00300D.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00300D.x3d) : 	 [C04-00300D.x3d](./Model3d/x3d/C04-00300D.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00300D.scad) : 	 [C04-00300D.scad](./Model3d/scad/C04-00300D.scad)
 Pin count : 48
 - 1 : PA00,  of Type IO, alternates : [OSC32KCTRL XIN32_, EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, AC CMP_2, TCC2 WO_0, TC7 WO_0, RSTC EXTWAKE_0]
 - 2 : PA01,  of Type IO, alternates : [AC CMP_3, EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, TC7 WO_1, RSTC EXTWAKE_1, OSC32KCTRL XOUT32_, TCC2 WO_1]
@@ -936,17 +978,20 @@ Pin count : 48
 - Family : PIC32CM
 - MF : Microchip
 - Name : PIC32CM2532JH00064
+- Library Kicad : [PIC32CM.kicad_sym](./KiCad/PIC32CM.kicad_sym) 
+- Library Altium : [PIC32CM.lia](./Altium/PIC32CM.lia) 
+- Library Proteus : [PIC32CM.pdif](./Proteus/PIC32CM.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00483F](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00483F](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 5LX
 - Package Type : 	 VQFN
 - Pin count : 	 64,00
-- Package Layout : 	 [C04-00483F](./mchp/packages/C04-00483F.pdf)
-- Package 3d model wrl : 	 [C04-00483F](./Model3d/wrl/C04-00483F.wrl)
-- Package 3d model x3d : 	 [C04-00483F](./Model3d/x3d/C04-00483F.x3d)
-- Package 3d model scad : 	 [C04-00483F](./Model3d/scad/C04-00483F.scad)
+- Package Layout : 	 [C04-00483F.pdf](./mchp/packages/c04-00483f.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00483F.wrl) : 	 [C04-00483F.wrl](./Model3d/wrl/C04-00483F.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00483F.x3d) : 	 [C04-00483F.x3d](./Model3d/x3d/C04-00483F.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00483F.scad) : 	 [C04-00483F.scad](./Model3d/scad/C04-00483F.scad)
 Pin count : 64
 - 1 : PA00,  of Type IO, alternates : [OSC32KCTRL XIN32_, EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, AC CMP_2, TCC2 WO_0, TC7 WO_0, RSTC EXTWAKE_0]
 - 2 : PA01,  of Type IO, alternates : [AC CMP_3, EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, TC7 WO_1, RSTC EXTWAKE_1, OSC32KCTRL XOUT32_, TCC2 WO_1]
@@ -1027,6 +1072,9 @@ Pin count : 64
 - Family : PIC32CM
 - MF : Microchip
 - Name : PIC32CM2532JH00064
+- Library Kicad : [PIC32CM.kicad_sym](./KiCad/PIC32CM.kicad_sym) 
+- Library Altium : [PIC32CM.lia](./Altium/PIC32CM.lia) 
+- Library Proteus : [PIC32CM.pdif](./Proteus/PIC32CM.pdif) 
 
 ### Package : 
 
@@ -1110,17 +1158,20 @@ Pin count : 64
 - Family : PIC32CM
 - MF : Microchip
 - Name : PIC32CM2532JH00064
+- Library Kicad : [PIC32CM.kicad_sym](./KiCad/PIC32CM.kicad_sym) 
+- Library Altium : [PIC32CM.lia](./Altium/PIC32CM.lia) 
+- Library Proteus : [PIC32CM.pdif](./Proteus/PIC32CM.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00483F](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00483F](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 5LX
 - Package Type : 	 VQFN
 - Pin count : 	 64,00
-- Package Layout : 	 [C04-00483F](./mchp/packages/C04-00483F.pdf)
-- Package 3d model wrl : 	 [C04-00483F](./Model3d/wrl/C04-00483F.wrl)
-- Package 3d model x3d : 	 [C04-00483F](./Model3d/x3d/C04-00483F.x3d)
-- Package 3d model scad : 	 [C04-00483F](./Model3d/scad/C04-00483F.scad)
+- Package Layout : 	 [C04-00483F.pdf](./mchp/packages/c04-00483f.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00483F.wrl) : 	 [C04-00483F.wrl](./Model3d/wrl/C04-00483F.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00483F.x3d) : 	 [C04-00483F.x3d](./Model3d/x3d/C04-00483F.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00483F.scad) : 	 [C04-00483F.scad](./Model3d/scad/C04-00483F.scad)
 Pin count : 64
 - 1 : PA00,  of Type IO, alternates : [OSC32KCTRL XIN32_, EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, AC CMP_2, TCC2 WO_0, TC7 WO_0, RSTC EXTWAKE_0]
 - 2 : PA01,  of Type IO, alternates : [AC CMP_3, EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, TC7 WO_1, RSTC EXTWAKE_1, OSC32KCTRL XOUT32_, TCC2 WO_1]
@@ -1201,6 +1252,9 @@ Pin count : 64
 - Family : PIC32CM
 - MF : Microchip
 - Name : PIC32CM2532JH00064
+- Library Kicad : [PIC32CM.kicad_sym](./KiCad/PIC32CM.kicad_sym) 
+- Library Altium : [PIC32CM.lia](./Altium/PIC32CM.lia) 
+- Library Proteus : [PIC32CM.pdif](./Proteus/PIC32CM.pdif) 
 
 ### Package : 
 
@@ -1284,15 +1338,18 @@ Pin count : 64
 - Family : PIC32CM
 - MF : Microchip
 - Name : PIC32CM2532JH00100
+- Library Kicad : [PIC32CM.kicad_sym](./KiCad/PIC32CM.kicad_sym) 
+- Library Altium : [PIC32CM.lia](./Altium/PIC32CM.lia) 
+- Library Proteus : [PIC32CM.pdif](./Proteus/PIC32CM.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00110C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00110C](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 E5X
 - Package Type : 	 TQFP
 - Pin count : 	 100,00
-- Package Layout : 	 [C04-00110C](./mchp/packages/C04-00110C.pdf)
-- Package 3d model scad : 	 [C04-00110C](./Model3d/scad/C04-00110C.scad)
+- Package Layout : 	 [C04-00110C.pdf](./mchp/packages/c04-00110c.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00110C.scad) : 	 [C04-00110C.scad](./Model3d/scad/C04-00110C.scad)
 Pin count : 100
 - 1 : PA00,  of Type IO, alternates : [OSC32KCTRL XIN32_, EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, AC CMP_2, TCC2 WO_0, TC7 WO_0, RSTC EXTWAKE_0]
 - 2 : PA01,  of Type IO, alternates : [AC CMP_3, EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, TC7 WO_1, RSTC EXTWAKE_1, OSC32KCTRL XOUT32_, TCC2 WO_1]
@@ -1409,15 +1466,18 @@ Pin count : 100
 - Family : PIC32CM
 - MF : Microchip
 - Name : PIC32CM2532JH00100
+- Library Kicad : [PIC32CM.kicad_sym](./KiCad/PIC32CM.kicad_sym) 
+- Library Altium : [PIC32CM.lia](./Altium/PIC32CM.lia) 
+- Library Proteus : [PIC32CM.pdif](./Proteus/PIC32CM.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00110C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00110C](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 E5X
 - Package Type : 	 TQFP
 - Pin count : 	 100,00
-- Package Layout : 	 [C04-00110C](./mchp/packages/C04-00110C.pdf)
-- Package 3d model scad : 	 [C04-00110C](./Model3d/scad/C04-00110C.scad)
+- Package Layout : 	 [C04-00110C.pdf](./mchp/packages/c04-00110c.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00110C.scad) : 	 [C04-00110C.scad](./Model3d/scad/C04-00110C.scad)
 Pin count : 100
 - 1 : PA00,  of Type IO, alternates : [OSC32KCTRL XIN32_, EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, AC CMP_2, TCC2 WO_0, TC7 WO_0, RSTC EXTWAKE_0]
 - 2 : PA01,  of Type IO, alternates : [AC CMP_3, EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, TC7 WO_1, RSTC EXTWAKE_1, OSC32KCTRL XOUT32_, TCC2 WO_1]
@@ -1534,15 +1594,18 @@ Pin count : 100
 - Family : PIC32CM
 - MF : Microchip
 - Name : PIC32CM2532JH01032
+- Library Kicad : [PIC32CM.kicad_sym](./KiCad/PIC32CM.kicad_sym) 
+- Library Altium : [PIC32CM.lia](./Altium/PIC32CM.lia) 
+- Library Proteus : [PIC32CM.pdif](./Proteus/PIC32CM.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00074D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00074D](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 T5X
 - Package Type : 	 TQFP
 - Pin count : 	 32,00
-- Package Layout : 	 [C04-00074D](./mchp/packages/C04-00074D.pdf)
-- Package 3d model scad : 	 [C04-00074D](./Model3d/scad/C04-00074D.scad)
+- Package Layout : 	 [C04-00074D.pdf](./mchp/packages/c04-00074d.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00074D.scad) : 	 [C04-00074D.scad](./Model3d/scad/C04-00074D.scad)
 Pin count : 32
 - 1 : PA00,  of Type IO, alternates : [OSC32KCTRL XIN32_, EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, AC CMP_2, TCC2 WO_0, TC7 WO_0, RSTC EXTWAKE_0]
 - 2 : PA01,  of Type IO, alternates : [AC CMP_3, EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, TC7 WO_1, RSTC EXTWAKE_1, OSC32KCTRL XOUT32_, TCC2 WO_1]
@@ -1591,15 +1654,18 @@ Pin count : 32
 - Family : PIC32CM
 - MF : Microchip
 - Name : PIC32CM2532JH01032
+- Library Kicad : [PIC32CM.kicad_sym](./KiCad/PIC32CM.kicad_sym) 
+- Library Altium : [PIC32CM.lia](./Altium/PIC32CM.lia) 
+- Library Proteus : [PIC32CM.pdif](./Proteus/PIC32CM.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00074D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00074D](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 T5X
 - Package Type : 	 TQFP
 - Pin count : 	 32,00
-- Package Layout : 	 [C04-00074D](./mchp/packages/C04-00074D.pdf)
-- Package 3d model scad : 	 [C04-00074D](./Model3d/scad/C04-00074D.scad)
+- Package Layout : 	 [C04-00074D.pdf](./mchp/packages/c04-00074d.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00074D.scad) : 	 [C04-00074D.scad](./Model3d/scad/C04-00074D.scad)
 Pin count : 32
 - 1 : PA00,  of Type IO, alternates : [OSC32KCTRL XIN32_, EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, AC CMP_2, TCC2 WO_0, TC7 WO_0, RSTC EXTWAKE_0]
 - 2 : PA01,  of Type IO, alternates : [AC CMP_3, EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, TC7 WO_1, RSTC EXTWAKE_1, OSC32KCTRL XOUT32_, TCC2 WO_1]
@@ -1648,15 +1714,18 @@ Pin count : 32
 - Family : PIC32CM
 - MF : Microchip
 - Name : PIC32CM2532JH01048
+- Library Kicad : [PIC32CM.kicad_sym](./KiCad/PIC32CM.kicad_sym) 
+- Library Altium : [PIC32CM.lia](./Altium/PIC32CM.lia) 
+- Library Proteus : [PIC32CM.pdif](./Proteus/PIC32CM.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-21493A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-21493A](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 U5B
 - Package Type : 	 VQFN
 - Pin count : 	 48,00
-- Package Layout : 	 [C04-21493A](./mchp/packages/C04-21493A.pdf)
-- Package 3d model scad : 	 [C04-21493A](./Model3d/scad/C04-21493A.scad)
+- Package Layout : 	 [C04-21493A.pdf](./mchp/packages/c04-21493a.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-21493A.scad) : 	 [C04-21493A.scad](./Model3d/scad/C04-21493A.scad)
 Pin count : 48
 - 1 : PA00,  of Type IO, alternates : [OSC32KCTRL XIN32_, EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, AC CMP_2, TCC2 WO_0, TC7 WO_0, RSTC EXTWAKE_0]
 - 2 : PA01,  of Type IO, alternates : [AC CMP_3, EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, TC7 WO_1, RSTC EXTWAKE_1, OSC32KCTRL XOUT32_, TCC2 WO_1]
@@ -1721,17 +1790,20 @@ Pin count : 48
 - Family : PIC32CM
 - MF : Microchip
 - Name : PIC32CM2532JH01048
+- Library Kicad : [PIC32CM.kicad_sym](./KiCad/PIC32CM.kicad_sym) 
+- Library Altium : [PIC32CM.lia](./Altium/PIC32CM.lia) 
+- Library Proteus : [PIC32CM.pdif](./Proteus/PIC32CM.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00300D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00300D](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 Y8X
 - Package Type : 	 TQFP
 - Pin count : 	 48,00
-- Package Layout : 	 [C04-00300D](./mchp/packages/C04-00300D.pdf)
-- Package 3d model wrl : 	 [C04-00300D](./Model3d/wrl/C04-00300D.wrl)
-- Package 3d model x3d : 	 [C04-00300D](./Model3d/x3d/C04-00300D.x3d)
-- Package 3d model scad : 	 [C04-00300D](./Model3d/scad/C04-00300D.scad)
+- Package Layout : 	 [C04-00300D.pdf](./mchp/packages/c04-00300d.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00300D.wrl) : 	 [C04-00300D.wrl](./Model3d/wrl/C04-00300D.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00300D.x3d) : 	 [C04-00300D.x3d](./Model3d/x3d/C04-00300D.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00300D.scad) : 	 [C04-00300D.scad](./Model3d/scad/C04-00300D.scad)
 Pin count : 48
 - 1 : PA00,  of Type IO, alternates : [OSC32KCTRL XIN32_, EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, AC CMP_2, TCC2 WO_0, TC7 WO_0, RSTC EXTWAKE_0]
 - 2 : PA01,  of Type IO, alternates : [AC CMP_3, EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, TC7 WO_1, RSTC EXTWAKE_1, OSC32KCTRL XOUT32_, TCC2 WO_1]
@@ -1796,15 +1868,18 @@ Pin count : 48
 - Family : PIC32CM
 - MF : Microchip
 - Name : PIC32CM2532JH01048
+- Library Kicad : [PIC32CM.kicad_sym](./KiCad/PIC32CM.kicad_sym) 
+- Library Altium : [PIC32CM.lia](./Altium/PIC32CM.lia) 
+- Library Proteus : [PIC32CM.pdif](./Proteus/PIC32CM.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-21493A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-21493A](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 U5B
 - Package Type : 	 VQFN
 - Pin count : 	 48,00
-- Package Layout : 	 [C04-21493A](./mchp/packages/C04-21493A.pdf)
-- Package 3d model scad : 	 [C04-21493A](./Model3d/scad/C04-21493A.scad)
+- Package Layout : 	 [C04-21493A.pdf](./mchp/packages/c04-21493a.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-21493A.scad) : 	 [C04-21493A.scad](./Model3d/scad/C04-21493A.scad)
 Pin count : 48
 - 1 : PA00,  of Type IO, alternates : [OSC32KCTRL XIN32_, EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, AC CMP_2, TCC2 WO_0, TC7 WO_0, RSTC EXTWAKE_0]
 - 2 : PA01,  of Type IO, alternates : [AC CMP_3, EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, TC7 WO_1, RSTC EXTWAKE_1, OSC32KCTRL XOUT32_, TCC2 WO_1]
@@ -1869,17 +1944,20 @@ Pin count : 48
 - Family : PIC32CM
 - MF : Microchip
 - Name : PIC32CM2532JH01048
+- Library Kicad : [PIC32CM.kicad_sym](./KiCad/PIC32CM.kicad_sym) 
+- Library Altium : [PIC32CM.lia](./Altium/PIC32CM.lia) 
+- Library Proteus : [PIC32CM.pdif](./Proteus/PIC32CM.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00300D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00300D](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 Y8X
 - Package Type : 	 TQFP
 - Pin count : 	 48,00
-- Package Layout : 	 [C04-00300D](./mchp/packages/C04-00300D.pdf)
-- Package 3d model wrl : 	 [C04-00300D](./Model3d/wrl/C04-00300D.wrl)
-- Package 3d model x3d : 	 [C04-00300D](./Model3d/x3d/C04-00300D.x3d)
-- Package 3d model scad : 	 [C04-00300D](./Model3d/scad/C04-00300D.scad)
+- Package Layout : 	 [C04-00300D.pdf](./mchp/packages/c04-00300d.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00300D.wrl) : 	 [C04-00300D.wrl](./Model3d/wrl/C04-00300D.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00300D.x3d) : 	 [C04-00300D.x3d](./Model3d/x3d/C04-00300D.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00300D.scad) : 	 [C04-00300D.scad](./Model3d/scad/C04-00300D.scad)
 Pin count : 48
 - 1 : PA00,  of Type IO, alternates : [OSC32KCTRL XIN32_, EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, AC CMP_2, TCC2 WO_0, TC7 WO_0, RSTC EXTWAKE_0]
 - 2 : PA01,  of Type IO, alternates : [AC CMP_3, EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, TC7 WO_1, RSTC EXTWAKE_1, OSC32KCTRL XOUT32_, TCC2 WO_1]
@@ -1944,17 +2022,20 @@ Pin count : 48
 - Family : PIC32CM
 - MF : Microchip
 - Name : PIC32CM2532JH01064
+- Library Kicad : [PIC32CM.kicad_sym](./KiCad/PIC32CM.kicad_sym) 
+- Library Altium : [PIC32CM.lia](./Altium/PIC32CM.lia) 
+- Library Proteus : [PIC32CM.pdif](./Proteus/PIC32CM.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00483F](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00483F](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 5LX
 - Package Type : 	 VQFN
 - Pin count : 	 64,00
-- Package Layout : 	 [C04-00483F](./mchp/packages/C04-00483F.pdf)
-- Package 3d model wrl : 	 [C04-00483F](./Model3d/wrl/C04-00483F.wrl)
-- Package 3d model x3d : 	 [C04-00483F](./Model3d/x3d/C04-00483F.x3d)
-- Package 3d model scad : 	 [C04-00483F](./Model3d/scad/C04-00483F.scad)
+- Package Layout : 	 [C04-00483F.pdf](./mchp/packages/c04-00483f.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00483F.wrl) : 	 [C04-00483F.wrl](./Model3d/wrl/C04-00483F.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00483F.x3d) : 	 [C04-00483F.x3d](./Model3d/x3d/C04-00483F.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00483F.scad) : 	 [C04-00483F.scad](./Model3d/scad/C04-00483F.scad)
 Pin count : 64
 - 1 : PA00,  of Type IO, alternates : [OSC32KCTRL XIN32_, EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, AC CMP_2, TCC2 WO_0, TC7 WO_0, RSTC EXTWAKE_0]
 - 2 : PA01,  of Type IO, alternates : [AC CMP_3, EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, TC7 WO_1, RSTC EXTWAKE_1, OSC32KCTRL XOUT32_, TCC2 WO_1]
@@ -2035,6 +2116,9 @@ Pin count : 64
 - Family : PIC32CM
 - MF : Microchip
 - Name : PIC32CM2532JH01064
+- Library Kicad : [PIC32CM.kicad_sym](./KiCad/PIC32CM.kicad_sym) 
+- Library Altium : [PIC32CM.lia](./Altium/PIC32CM.lia) 
+- Library Proteus : [PIC32CM.pdif](./Proteus/PIC32CM.pdif) 
 
 ### Package : 
 
@@ -2118,17 +2202,20 @@ Pin count : 64
 - Family : PIC32CM
 - MF : Microchip
 - Name : PIC32CM2532JH01064
+- Library Kicad : [PIC32CM.kicad_sym](./KiCad/PIC32CM.kicad_sym) 
+- Library Altium : [PIC32CM.lia](./Altium/PIC32CM.lia) 
+- Library Proteus : [PIC32CM.pdif](./Proteus/PIC32CM.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00483F](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00483F](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 5LX
 - Package Type : 	 VQFN
 - Pin count : 	 64,00
-- Package Layout : 	 [C04-00483F](./mchp/packages/C04-00483F.pdf)
-- Package 3d model wrl : 	 [C04-00483F](./Model3d/wrl/C04-00483F.wrl)
-- Package 3d model x3d : 	 [C04-00483F](./Model3d/x3d/C04-00483F.x3d)
-- Package 3d model scad : 	 [C04-00483F](./Model3d/scad/C04-00483F.scad)
+- Package Layout : 	 [C04-00483F.pdf](./mchp/packages/c04-00483f.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00483F.wrl) : 	 [C04-00483F.wrl](./Model3d/wrl/C04-00483F.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00483F.x3d) : 	 [C04-00483F.x3d](./Model3d/x3d/C04-00483F.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00483F.scad) : 	 [C04-00483F.scad](./Model3d/scad/C04-00483F.scad)
 Pin count : 64
 - 1 : PA00,  of Type IO, alternates : [OSC32KCTRL XIN32_, EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, AC CMP_2, TCC2 WO_0, TC7 WO_0, RSTC EXTWAKE_0]
 - 2 : PA01,  of Type IO, alternates : [AC CMP_3, EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, TC7 WO_1, RSTC EXTWAKE_1, OSC32KCTRL XOUT32_, TCC2 WO_1]
@@ -2209,6 +2296,9 @@ Pin count : 64
 - Family : PIC32CM
 - MF : Microchip
 - Name : PIC32CM2532JH01064
+- Library Kicad : [PIC32CM.kicad_sym](./KiCad/PIC32CM.kicad_sym) 
+- Library Altium : [PIC32CM.lia](./Altium/PIC32CM.lia) 
+- Library Proteus : [PIC32CM.pdif](./Proteus/PIC32CM.pdif) 
 
 ### Package : 
 
@@ -2292,15 +2382,18 @@ Pin count : 64
 - Family : PIC32CM
 - MF : Microchip
 - Name : PIC32CM2532JH01100
+- Library Kicad : [PIC32CM.kicad_sym](./KiCad/PIC32CM.kicad_sym) 
+- Library Altium : [PIC32CM.lia](./Altium/PIC32CM.lia) 
+- Library Proteus : [PIC32CM.pdif](./Proteus/PIC32CM.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00110C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00110C](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 E5X
 - Package Type : 	 TQFP
 - Pin count : 	 100,00
-- Package Layout : 	 [C04-00110C](./mchp/packages/C04-00110C.pdf)
-- Package 3d model scad : 	 [C04-00110C](./Model3d/scad/C04-00110C.scad)
+- Package Layout : 	 [C04-00110C.pdf](./mchp/packages/c04-00110c.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00110C.scad) : 	 [C04-00110C.scad](./Model3d/scad/C04-00110C.scad)
 Pin count : 100
 - 1 : PA00,  of Type IO, alternates : [OSC32KCTRL XIN32_, EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, AC CMP_2, TCC2 WO_0, TC7 WO_0, RSTC EXTWAKE_0]
 - 2 : PA01,  of Type IO, alternates : [AC CMP_3, EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, TC7 WO_1, RSTC EXTWAKE_1, OSC32KCTRL XOUT32_, TCC2 WO_1]
@@ -2417,15 +2510,18 @@ Pin count : 100
 - Family : PIC32CM
 - MF : Microchip
 - Name : PIC32CM2532JH01100
+- Library Kicad : [PIC32CM.kicad_sym](./KiCad/PIC32CM.kicad_sym) 
+- Library Altium : [PIC32CM.lia](./Altium/PIC32CM.lia) 
+- Library Proteus : [PIC32CM.pdif](./Proteus/PIC32CM.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00110C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00110C](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 E5X
 - Package Type : 	 TQFP
 - Pin count : 	 100,00
-- Package Layout : 	 [C04-00110C](./mchp/packages/C04-00110C.pdf)
-- Package 3d model scad : 	 [C04-00110C](./Model3d/scad/C04-00110C.scad)
+- Package Layout : 	 [C04-00110C.pdf](./mchp/packages/c04-00110c.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00110C.scad) : 	 [C04-00110C.scad](./Model3d/scad/C04-00110C.scad)
 Pin count : 100
 - 1 : PA00,  of Type IO, alternates : [OSC32KCTRL XIN32_, EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, AC CMP_2, TCC2 WO_0, TC7 WO_0, RSTC EXTWAKE_0]
 - 2 : PA01,  of Type IO, alternates : [AC CMP_3, EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, TC7 WO_1, RSTC EXTWAKE_1, OSC32KCTRL XOUT32_, TCC2 WO_1]
@@ -2542,15 +2638,18 @@ Pin count : 100
 - Family : PIC32CM
 - MF : Microchip
 - Name : PIC32CM2532LE00048
+- Library Kicad : [PIC32CM.kicad_sym](./KiCad/PIC32CM.kicad_sym) 
+- Library Altium : [PIC32CM.lia](./Altium/PIC32CM.lia) 
+- Library Proteus : [PIC32CM.pdif](./Proteus/PIC32CM.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-21493A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-21493A](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 U5B
 - Package Type : 	 VQFN
 - Pin count : 	 48,00
-- Package Layout : 	 [C04-21493A](./mchp/packages/C04-21493A.pdf)
-- Package 3d model scad : 	 [C04-21493A](./Model3d/scad/C04-21493A.scad)
+- Package Layout : 	 [C04-21493A.pdf](./mchp/packages/c04-21493a.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-21493A.scad) : 	 [C04-21493A.scad](./Model3d/scad/C04-21493A.scad)
 Pin count : 48
 - 1 : PA00,  of Type IO, alternates : [PTC Y_0, PTC X_0, OSC32KCTRL XIN32_, EIC EXTINT_0, OPAMP OANEG_1, PORT P_0, TCC2 WO_0, SERCOM1:6 PAD_0, PTC DRV_0]
 - 2 : PA01,  of Type IO, alternates : [OPAMP OAPOS_1, PTC X_1, PTC Y_1, EIC EXTINT_1, PORT P_1, SERCOM1:6 PAD_1, OSC32KCTRL XOUT32_, TCC2 WO_1, PTC DRV_1]
@@ -2615,17 +2714,20 @@ Pin count : 48
 - Family : PIC32CM
 - MF : Microchip
 - Name : PIC32CM2532LE00048
+- Library Kicad : [PIC32CM.kicad_sym](./KiCad/PIC32CM.kicad_sym) 
+- Library Altium : [PIC32CM.lia](./Altium/PIC32CM.lia) 
+- Library Proteus : [PIC32CM.pdif](./Proteus/PIC32CM.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00300D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00300D](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 Y8X
 - Package Type : 	 TQFP
 - Pin count : 	 48,00
-- Package Layout : 	 [C04-00300D](./mchp/packages/C04-00300D.pdf)
-- Package 3d model wrl : 	 [C04-00300D](./Model3d/wrl/C04-00300D.wrl)
-- Package 3d model x3d : 	 [C04-00300D](./Model3d/x3d/C04-00300D.x3d)
-- Package 3d model scad : 	 [C04-00300D](./Model3d/scad/C04-00300D.scad)
+- Package Layout : 	 [C04-00300D.pdf](./mchp/packages/c04-00300d.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00300D.wrl) : 	 [C04-00300D.wrl](./Model3d/wrl/C04-00300D.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00300D.x3d) : 	 [C04-00300D.x3d](./Model3d/x3d/C04-00300D.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00300D.scad) : 	 [C04-00300D.scad](./Model3d/scad/C04-00300D.scad)
 Pin count : 48
 - 1 : PA00,  of Type IO, alternates : [PTC Y_0, PTC X_0, OSC32KCTRL XIN32_, EIC EXTINT_0, OPAMP OANEG_1, PORT P_0, TCC2 WO_0, SERCOM1:6 PAD_0, PTC DRV_0]
 - 2 : PA01,  of Type IO, alternates : [OPAMP OAPOS_1, PTC X_1, PTC Y_1, EIC EXTINT_1, PORT P_1, SERCOM1:6 PAD_1, OSC32KCTRL XOUT32_, TCC2 WO_1, PTC DRV_1]
@@ -2690,17 +2792,20 @@ Pin count : 48
 - Family : PIC32CM
 - MF : Microchip
 - Name : PIC32CM2532LE00064
+- Library Kicad : [PIC32CM.kicad_sym](./KiCad/PIC32CM.kicad_sym) 
+- Library Altium : [PIC32CM.lia](./Altium/PIC32CM.lia) 
+- Library Proteus : [PIC32CM.pdif](./Proteus/PIC32CM.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00483F](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00483F](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 5LX
 - Package Type : 	 VQFN
 - Pin count : 	 64,00
-- Package Layout : 	 [C04-00483F](./mchp/packages/C04-00483F.pdf)
-- Package 3d model wrl : 	 [C04-00483F](./Model3d/wrl/C04-00483F.wrl)
-- Package 3d model x3d : 	 [C04-00483F](./Model3d/x3d/C04-00483F.x3d)
-- Package 3d model scad : 	 [C04-00483F](./Model3d/scad/C04-00483F.scad)
+- Package Layout : 	 [C04-00483F.pdf](./mchp/packages/c04-00483f.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00483F.wrl) : 	 [C04-00483F.wrl](./Model3d/wrl/C04-00483F.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00483F.x3d) : 	 [C04-00483F.x3d](./Model3d/x3d/C04-00483F.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00483F.scad) : 	 [C04-00483F.scad](./Model3d/scad/C04-00483F.scad)
 Pin count : 64
 - 1 : PA00,  of Type IO, alternates : [PTC Y_0, PTC X_0, OSC32KCTRL XIN32_, EIC EXTINT_0, OPAMP OANEG_1, PORT P_0, TCC2 WO_0, SERCOM1:6 PAD_0, PTC DRV_0]
 - 2 : PA01,  of Type IO, alternates : [OPAMP OAPOS_1, PTC X_1, PTC Y_1, EIC EXTINT_1, PORT P_1, SERCOM1:6 PAD_1, OSC32KCTRL XOUT32_, TCC2 WO_1, PTC DRV_1]
@@ -2781,6 +2886,9 @@ Pin count : 64
 - Family : PIC32CM
 - MF : Microchip
 - Name : PIC32CM2532LE00064
+- Library Kicad : [PIC32CM.kicad_sym](./KiCad/PIC32CM.kicad_sym) 
+- Library Altium : [PIC32CM.lia](./Altium/PIC32CM.lia) 
+- Library Proteus : [PIC32CM.pdif](./Proteus/PIC32CM.pdif) 
 
 ### Package : 
 
@@ -2864,15 +2972,18 @@ Pin count : 64
 - Family : PIC32CM
 - MF : Microchip
 - Name : PIC32CM2532LE00100
+- Library Kicad : [PIC32CM.kicad_sym](./KiCad/PIC32CM.kicad_sym) 
+- Library Altium : [PIC32CM.lia](./Altium/PIC32CM.lia) 
+- Library Proteus : [PIC32CM.pdif](./Proteus/PIC32CM.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00110C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00110C](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 E5X
 - Package Type : 	 TQFP
 - Pin count : 	 100,00
-- Package Layout : 	 [C04-00110C](./mchp/packages/C04-00110C.pdf)
-- Package 3d model scad : 	 [C04-00110C](./Model3d/scad/C04-00110C.scad)
+- Package Layout : 	 [C04-00110C.pdf](./mchp/packages/c04-00110c.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00110C.scad) : 	 [C04-00110C.scad](./Model3d/scad/C04-00110C.scad)
 Pin count : 100
 - 1 : PA00,  of Type IO, alternates : [PTC Y_0, PTC X_0, OSC32KCTRL XIN32_, EIC EXTINT_0, OPAMP OANEG_1, PORT P_0, TCC2 WO_0, SERCOM1:6 PAD_0, PTC DRV_0]
 - 2 : PA01,  of Type IO, alternates : [OPAMP OAPOS_1, PTC X_1, PTC Y_1, EIC EXTINT_1, PORT P_1, SERCOM1:6 PAD_1, OSC32KCTRL XOUT32_, TCC2 WO_1, PTC DRV_1]
@@ -2989,15 +3100,18 @@ Pin count : 100
 - Family : PIC32CM
 - MF : Microchip
 - Name : PIC32CM2532LS00048
+- Library Kicad : [PIC32CM.kicad_sym](./KiCad/PIC32CM.kicad_sym) 
+- Library Altium : [PIC32CM.lia](./Altium/PIC32CM.lia) 
+- Library Proteus : [PIC32CM.pdif](./Proteus/PIC32CM.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-21493A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-21493A](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 U5B
 - Package Type : 	 VQFN
 - Pin count : 	 48,00
-- Package Layout : 	 [C04-21493A](./mchp/packages/C04-21493A.pdf)
-- Package 3d model scad : 	 [C04-21493A](./Model3d/scad/C04-21493A.scad)
+- Package Layout : 	 [C04-21493A.pdf](./mchp/packages/c04-21493a.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-21493A.scad) : 	 [C04-21493A.scad](./Model3d/scad/C04-21493A.scad)
 Pin count : 48
 - 1 : PA00,  of Type IO, alternates : [PTC Y_0, PTC X_0, OSC32KCTRL XIN32_, EIC EXTINT_0, OPAMP OANEG_1, PORT P_0, TCC2 WO_0, SERCOM1:6 PAD_0, PTC DRV_0]
 - 2 : PA01,  of Type IO, alternates : [OPAMP OAPOS_1, PTC X_1, PTC Y_1, EIC EXTINT_1, PORT P_1, SERCOM1:6 PAD_1, OSC32KCTRL XOUT32_, TCC2 WO_1, PTC DRV_1]
@@ -3062,17 +3176,20 @@ Pin count : 48
 - Family : PIC32CM
 - MF : Microchip
 - Name : PIC32CM2532LS00048
+- Library Kicad : [PIC32CM.kicad_sym](./KiCad/PIC32CM.kicad_sym) 
+- Library Altium : [PIC32CM.lia](./Altium/PIC32CM.lia) 
+- Library Proteus : [PIC32CM.pdif](./Proteus/PIC32CM.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00300D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00300D](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 Y8X
 - Package Type : 	 TQFP
 - Pin count : 	 48,00
-- Package Layout : 	 [C04-00300D](./mchp/packages/C04-00300D.pdf)
-- Package 3d model wrl : 	 [C04-00300D](./Model3d/wrl/C04-00300D.wrl)
-- Package 3d model x3d : 	 [C04-00300D](./Model3d/x3d/C04-00300D.x3d)
-- Package 3d model scad : 	 [C04-00300D](./Model3d/scad/C04-00300D.scad)
+- Package Layout : 	 [C04-00300D.pdf](./mchp/packages/c04-00300d.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00300D.wrl) : 	 [C04-00300D.wrl](./Model3d/wrl/C04-00300D.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00300D.x3d) : 	 [C04-00300D.x3d](./Model3d/x3d/C04-00300D.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00300D.scad) : 	 [C04-00300D.scad](./Model3d/scad/C04-00300D.scad)
 Pin count : 48
 - 1 : PA00,  of Type IO, alternates : [PTC Y_0, PTC X_0, OSC32KCTRL XIN32_, EIC EXTINT_0, OPAMP OANEG_1, PORT P_0, TCC2 WO_0, SERCOM1:6 PAD_0, PTC DRV_0]
 - 2 : PA01,  of Type IO, alternates : [OPAMP OAPOS_1, PTC X_1, PTC Y_1, EIC EXTINT_1, PORT P_1, SERCOM1:6 PAD_1, OSC32KCTRL XOUT32_, TCC2 WO_1, PTC DRV_1]
@@ -3137,17 +3254,20 @@ Pin count : 48
 - Family : PIC32CM
 - MF : Microchip
 - Name : PIC32CM2532LS00064
+- Library Kicad : [PIC32CM.kicad_sym](./KiCad/PIC32CM.kicad_sym) 
+- Library Altium : [PIC32CM.lia](./Altium/PIC32CM.lia) 
+- Library Proteus : [PIC32CM.pdif](./Proteus/PIC32CM.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00483F](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00483F](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 5LX
 - Package Type : 	 VQFN
 - Pin count : 	 64,00
-- Package Layout : 	 [C04-00483F](./mchp/packages/C04-00483F.pdf)
-- Package 3d model wrl : 	 [C04-00483F](./Model3d/wrl/C04-00483F.wrl)
-- Package 3d model x3d : 	 [C04-00483F](./Model3d/x3d/C04-00483F.x3d)
-- Package 3d model scad : 	 [C04-00483F](./Model3d/scad/C04-00483F.scad)
+- Package Layout : 	 [C04-00483F.pdf](./mchp/packages/c04-00483f.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00483F.wrl) : 	 [C04-00483F.wrl](./Model3d/wrl/C04-00483F.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00483F.x3d) : 	 [C04-00483F.x3d](./Model3d/x3d/C04-00483F.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00483F.scad) : 	 [C04-00483F.scad](./Model3d/scad/C04-00483F.scad)
 Pin count : 64
 - 1 : PA00,  of Type IO, alternates : [PTC Y_0, PTC X_0, OSC32KCTRL XIN32_, EIC EXTINT_0, OPAMP OANEG_1, PORT P_0, TCC2 WO_0, SERCOM1:6 PAD_0, PTC DRV_0]
 - 2 : PA01,  of Type IO, alternates : [OPAMP OAPOS_1, PTC X_1, PTC Y_1, EIC EXTINT_1, PORT P_1, SERCOM1:6 PAD_1, OSC32KCTRL XOUT32_, TCC2 WO_1, PTC DRV_1]
@@ -3228,6 +3348,9 @@ Pin count : 64
 - Family : PIC32CM
 - MF : Microchip
 - Name : PIC32CM2532LS00064
+- Library Kicad : [PIC32CM.kicad_sym](./KiCad/PIC32CM.kicad_sym) 
+- Library Altium : [PIC32CM.lia](./Altium/PIC32CM.lia) 
+- Library Proteus : [PIC32CM.pdif](./Proteus/PIC32CM.pdif) 
 
 ### Package : 
 
@@ -3311,15 +3434,18 @@ Pin count : 64
 - Family : PIC32CM
 - MF : Microchip
 - Name : PIC32CM2532LS00100
+- Library Kicad : [PIC32CM.kicad_sym](./KiCad/PIC32CM.kicad_sym) 
+- Library Altium : [PIC32CM.lia](./Altium/PIC32CM.lia) 
+- Library Proteus : [PIC32CM.pdif](./Proteus/PIC32CM.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00110C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00110C](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 E5X
 - Package Type : 	 TQFP
 - Pin count : 	 100,00
-- Package Layout : 	 [C04-00110C](./mchp/packages/C04-00110C.pdf)
-- Package 3d model scad : 	 [C04-00110C](./Model3d/scad/C04-00110C.scad)
+- Package Layout : 	 [C04-00110C.pdf](./mchp/packages/c04-00110c.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00110C.scad) : 	 [C04-00110C.scad](./Model3d/scad/C04-00110C.scad)
 Pin count : 100
 - 1 : PA00,  of Type IO, alternates : [PTC Y_0, PTC X_0, OSC32KCTRL XIN32_, EIC EXTINT_0, OPAMP OANEG_1, PORT P_0, TCC2 WO_0, SERCOM1:6 PAD_0, PTC DRV_0]
 - 2 : PA01,  of Type IO, alternates : [OPAMP OAPOS_1, PTC X_1, PTC Y_1, EIC EXTINT_1, PORT P_1, SERCOM1:6 PAD_1, OSC32KCTRL XOUT32_, TCC2 WO_1, PTC DRV_1]
@@ -3436,15 +3562,18 @@ Pin count : 100
 - Family : PIC32CM
 - MF : Microchip
 - Name : PIC32CM5164JH00032
+- Library Kicad : [PIC32CM.kicad_sym](./KiCad/PIC32CM.kicad_sym) 
+- Library Altium : [PIC32CM.lia](./Altium/PIC32CM.lia) 
+- Library Proteus : [PIC32CM.pdif](./Proteus/PIC32CM.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00074D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00074D](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 T5X
 - Package Type : 	 TQFP
 - Pin count : 	 32,00
-- Package Layout : 	 [C04-00074D](./mchp/packages/C04-00074D.pdf)
-- Package 3d model scad : 	 [C04-00074D](./Model3d/scad/C04-00074D.scad)
+- Package Layout : 	 [C04-00074D.pdf](./mchp/packages/c04-00074d.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00074D.scad) : 	 [C04-00074D.scad](./Model3d/scad/C04-00074D.scad)
 Pin count : 32
 - 1 : PA00,  of Type IO, alternates : [OSC32KCTRL XIN32_, EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, AC CMP_2, TCC2 WO_0, TC7 WO_0, RSTC EXTWAKE_0]
 - 2 : PA01,  of Type IO, alternates : [AC CMP_3, EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, TC7 WO_1, RSTC EXTWAKE_1, OSC32KCTRL XOUT32_, TCC2 WO_1]
@@ -3493,15 +3622,18 @@ Pin count : 32
 - Family : PIC32CM
 - MF : Microchip
 - Name : PIC32CM5164JH00032
+- Library Kicad : [PIC32CM.kicad_sym](./KiCad/PIC32CM.kicad_sym) 
+- Library Altium : [PIC32CM.lia](./Altium/PIC32CM.lia) 
+- Library Proteus : [PIC32CM.pdif](./Proteus/PIC32CM.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00074D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00074D](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 T5X
 - Package Type : 	 TQFP
 - Pin count : 	 32,00
-- Package Layout : 	 [C04-00074D](./mchp/packages/C04-00074D.pdf)
-- Package 3d model scad : 	 [C04-00074D](./Model3d/scad/C04-00074D.scad)
+- Package Layout : 	 [C04-00074D.pdf](./mchp/packages/c04-00074d.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00074D.scad) : 	 [C04-00074D.scad](./Model3d/scad/C04-00074D.scad)
 Pin count : 32
 - 1 : PA00,  of Type IO, alternates : [OSC32KCTRL XIN32_, EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, AC CMP_2, TCC2 WO_0, TC7 WO_0, RSTC EXTWAKE_0]
 - 2 : PA01,  of Type IO, alternates : [AC CMP_3, EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, TC7 WO_1, RSTC EXTWAKE_1, OSC32KCTRL XOUT32_, TCC2 WO_1]
@@ -3550,15 +3682,18 @@ Pin count : 32
 - Family : PIC32CM
 - MF : Microchip
 - Name : PIC32CM5164JH00048
+- Library Kicad : [PIC32CM.kicad_sym](./KiCad/PIC32CM.kicad_sym) 
+- Library Altium : [PIC32CM.lia](./Altium/PIC32CM.lia) 
+- Library Proteus : [PIC32CM.pdif](./Proteus/PIC32CM.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-21493A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-21493A](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 U5B
 - Package Type : 	 VQFN
 - Pin count : 	 48,00
-- Package Layout : 	 [C04-21493A](./mchp/packages/C04-21493A.pdf)
-- Package 3d model scad : 	 [C04-21493A](./Model3d/scad/C04-21493A.scad)
+- Package Layout : 	 [C04-21493A.pdf](./mchp/packages/c04-21493a.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-21493A.scad) : 	 [C04-21493A.scad](./Model3d/scad/C04-21493A.scad)
 Pin count : 48
 - 1 : PA00,  of Type IO, alternates : [OSC32KCTRL XIN32_, EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, AC CMP_2, TCC2 WO_0, TC7 WO_0, RSTC EXTWAKE_0]
 - 2 : PA01,  of Type IO, alternates : [AC CMP_3, EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, TC7 WO_1, RSTC EXTWAKE_1, OSC32KCTRL XOUT32_, TCC2 WO_1]
@@ -3623,17 +3758,20 @@ Pin count : 48
 - Family : PIC32CM
 - MF : Microchip
 - Name : PIC32CM5164JH00048
+- Library Kicad : [PIC32CM.kicad_sym](./KiCad/PIC32CM.kicad_sym) 
+- Library Altium : [PIC32CM.lia](./Altium/PIC32CM.lia) 
+- Library Proteus : [PIC32CM.pdif](./Proteus/PIC32CM.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00300D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00300D](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 Y8X
 - Package Type : 	 TQFP
 - Pin count : 	 48,00
-- Package Layout : 	 [C04-00300D](./mchp/packages/C04-00300D.pdf)
-- Package 3d model wrl : 	 [C04-00300D](./Model3d/wrl/C04-00300D.wrl)
-- Package 3d model x3d : 	 [C04-00300D](./Model3d/x3d/C04-00300D.x3d)
-- Package 3d model scad : 	 [C04-00300D](./Model3d/scad/C04-00300D.scad)
+- Package Layout : 	 [C04-00300D.pdf](./mchp/packages/c04-00300d.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00300D.wrl) : 	 [C04-00300D.wrl](./Model3d/wrl/C04-00300D.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00300D.x3d) : 	 [C04-00300D.x3d](./Model3d/x3d/C04-00300D.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00300D.scad) : 	 [C04-00300D.scad](./Model3d/scad/C04-00300D.scad)
 Pin count : 48
 - 1 : PA00,  of Type IO, alternates : [OSC32KCTRL XIN32_, EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, AC CMP_2, TCC2 WO_0, TC7 WO_0, RSTC EXTWAKE_0]
 - 2 : PA01,  of Type IO, alternates : [AC CMP_3, EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, TC7 WO_1, RSTC EXTWAKE_1, OSC32KCTRL XOUT32_, TCC2 WO_1]
@@ -3698,15 +3836,18 @@ Pin count : 48
 - Family : PIC32CM
 - MF : Microchip
 - Name : PIC32CM5164JH00048
+- Library Kicad : [PIC32CM.kicad_sym](./KiCad/PIC32CM.kicad_sym) 
+- Library Altium : [PIC32CM.lia](./Altium/PIC32CM.lia) 
+- Library Proteus : [PIC32CM.pdif](./Proteus/PIC32CM.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-21493A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-21493A](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 U5B
 - Package Type : 	 VQFN
 - Pin count : 	 48,00
-- Package Layout : 	 [C04-21493A](./mchp/packages/C04-21493A.pdf)
-- Package 3d model scad : 	 [C04-21493A](./Model3d/scad/C04-21493A.scad)
+- Package Layout : 	 [C04-21493A.pdf](./mchp/packages/c04-21493a.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-21493A.scad) : 	 [C04-21493A.scad](./Model3d/scad/C04-21493A.scad)
 Pin count : 48
 - 1 : PA00,  of Type IO, alternates : [OSC32KCTRL XIN32_, EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, AC CMP_2, TCC2 WO_0, TC7 WO_0, RSTC EXTWAKE_0]
 - 2 : PA01,  of Type IO, alternates : [AC CMP_3, EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, TC7 WO_1, RSTC EXTWAKE_1, OSC32KCTRL XOUT32_, TCC2 WO_1]
@@ -3771,17 +3912,20 @@ Pin count : 48
 - Family : PIC32CM
 - MF : Microchip
 - Name : PIC32CM5164JH00048
+- Library Kicad : [PIC32CM.kicad_sym](./KiCad/PIC32CM.kicad_sym) 
+- Library Altium : [PIC32CM.lia](./Altium/PIC32CM.lia) 
+- Library Proteus : [PIC32CM.pdif](./Proteus/PIC32CM.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00300D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00300D](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 Y8X
 - Package Type : 	 TQFP
 - Pin count : 	 48,00
-- Package Layout : 	 [C04-00300D](./mchp/packages/C04-00300D.pdf)
-- Package 3d model wrl : 	 [C04-00300D](./Model3d/wrl/C04-00300D.wrl)
-- Package 3d model x3d : 	 [C04-00300D](./Model3d/x3d/C04-00300D.x3d)
-- Package 3d model scad : 	 [C04-00300D](./Model3d/scad/C04-00300D.scad)
+- Package Layout : 	 [C04-00300D.pdf](./mchp/packages/c04-00300d.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00300D.wrl) : 	 [C04-00300D.wrl](./Model3d/wrl/C04-00300D.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00300D.x3d) : 	 [C04-00300D.x3d](./Model3d/x3d/C04-00300D.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00300D.scad) : 	 [C04-00300D.scad](./Model3d/scad/C04-00300D.scad)
 Pin count : 48
 - 1 : PA00,  of Type IO, alternates : [OSC32KCTRL XIN32_, EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, AC CMP_2, TCC2 WO_0, TC7 WO_0, RSTC EXTWAKE_0]
 - 2 : PA01,  of Type IO, alternates : [AC CMP_3, EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, TC7 WO_1, RSTC EXTWAKE_1, OSC32KCTRL XOUT32_, TCC2 WO_1]
@@ -3846,17 +3990,20 @@ Pin count : 48
 - Family : PIC32CM
 - MF : Microchip
 - Name : PIC32CM5164JH00064
+- Library Kicad : [PIC32CM.kicad_sym](./KiCad/PIC32CM.kicad_sym) 
+- Library Altium : [PIC32CM.lia](./Altium/PIC32CM.lia) 
+- Library Proteus : [PIC32CM.pdif](./Proteus/PIC32CM.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00483F](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00483F](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 5LX
 - Package Type : 	 VQFN
 - Pin count : 	 64,00
-- Package Layout : 	 [C04-00483F](./mchp/packages/C04-00483F.pdf)
-- Package 3d model wrl : 	 [C04-00483F](./Model3d/wrl/C04-00483F.wrl)
-- Package 3d model x3d : 	 [C04-00483F](./Model3d/x3d/C04-00483F.x3d)
-- Package 3d model scad : 	 [C04-00483F](./Model3d/scad/C04-00483F.scad)
+- Package Layout : 	 [C04-00483F.pdf](./mchp/packages/c04-00483f.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00483F.wrl) : 	 [C04-00483F.wrl](./Model3d/wrl/C04-00483F.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00483F.x3d) : 	 [C04-00483F.x3d](./Model3d/x3d/C04-00483F.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00483F.scad) : 	 [C04-00483F.scad](./Model3d/scad/C04-00483F.scad)
 Pin count : 64
 - 1 : PA00,  of Type IO, alternates : [OSC32KCTRL XIN32_, EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, AC CMP_2, TCC2 WO_0, TC7 WO_0, RSTC EXTWAKE_0]
 - 2 : PA01,  of Type IO, alternates : [AC CMP_3, EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, TC7 WO_1, RSTC EXTWAKE_1, OSC32KCTRL XOUT32_, TCC2 WO_1]
@@ -3937,6 +4084,9 @@ Pin count : 64
 - Family : PIC32CM
 - MF : Microchip
 - Name : PIC32CM5164JH00064
+- Library Kicad : [PIC32CM.kicad_sym](./KiCad/PIC32CM.kicad_sym) 
+- Library Altium : [PIC32CM.lia](./Altium/PIC32CM.lia) 
+- Library Proteus : [PIC32CM.pdif](./Proteus/PIC32CM.pdif) 
 
 ### Package : 
 
@@ -4020,17 +4170,20 @@ Pin count : 64
 - Family : PIC32CM
 - MF : Microchip
 - Name : PIC32CM5164JH00064
+- Library Kicad : [PIC32CM.kicad_sym](./KiCad/PIC32CM.kicad_sym) 
+- Library Altium : [PIC32CM.lia](./Altium/PIC32CM.lia) 
+- Library Proteus : [PIC32CM.pdif](./Proteus/PIC32CM.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00483F](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00483F](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 5LX
 - Package Type : 	 VQFN
 - Pin count : 	 64,00
-- Package Layout : 	 [C04-00483F](./mchp/packages/C04-00483F.pdf)
-- Package 3d model wrl : 	 [C04-00483F](./Model3d/wrl/C04-00483F.wrl)
-- Package 3d model x3d : 	 [C04-00483F](./Model3d/x3d/C04-00483F.x3d)
-- Package 3d model scad : 	 [C04-00483F](./Model3d/scad/C04-00483F.scad)
+- Package Layout : 	 [C04-00483F.pdf](./mchp/packages/c04-00483f.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00483F.wrl) : 	 [C04-00483F.wrl](./Model3d/wrl/C04-00483F.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00483F.x3d) : 	 [C04-00483F.x3d](./Model3d/x3d/C04-00483F.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00483F.scad) : 	 [C04-00483F.scad](./Model3d/scad/C04-00483F.scad)
 Pin count : 64
 - 1 : PA00,  of Type IO, alternates : [OSC32KCTRL XIN32_, EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, AC CMP_2, TCC2 WO_0, TC7 WO_0, RSTC EXTWAKE_0]
 - 2 : PA01,  of Type IO, alternates : [AC CMP_3, EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, TC7 WO_1, RSTC EXTWAKE_1, OSC32KCTRL XOUT32_, TCC2 WO_1]
@@ -4111,6 +4264,9 @@ Pin count : 64
 - Family : PIC32CM
 - MF : Microchip
 - Name : PIC32CM5164JH00064
+- Library Kicad : [PIC32CM.kicad_sym](./KiCad/PIC32CM.kicad_sym) 
+- Library Altium : [PIC32CM.lia](./Altium/PIC32CM.lia) 
+- Library Proteus : [PIC32CM.pdif](./Proteus/PIC32CM.pdif) 
 
 ### Package : 
 
@@ -4194,15 +4350,18 @@ Pin count : 64
 - Family : PIC32CM
 - MF : Microchip
 - Name : PIC32CM5164JH00100
+- Library Kicad : [PIC32CM.kicad_sym](./KiCad/PIC32CM.kicad_sym) 
+- Library Altium : [PIC32CM.lia](./Altium/PIC32CM.lia) 
+- Library Proteus : [PIC32CM.pdif](./Proteus/PIC32CM.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00110C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00110C](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 E5X
 - Package Type : 	 TQFP
 - Pin count : 	 100,00
-- Package Layout : 	 [C04-00110C](./mchp/packages/C04-00110C.pdf)
-- Package 3d model scad : 	 [C04-00110C](./Model3d/scad/C04-00110C.scad)
+- Package Layout : 	 [C04-00110C.pdf](./mchp/packages/c04-00110c.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00110C.scad) : 	 [C04-00110C.scad](./Model3d/scad/C04-00110C.scad)
 Pin count : 100
 - 1 : PA00,  of Type IO, alternates : [OSC32KCTRL XIN32_, EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, AC CMP_2, TCC2 WO_0, TC7 WO_0, RSTC EXTWAKE_0]
 - 2 : PA01,  of Type IO, alternates : [AC CMP_3, EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, TC7 WO_1, RSTC EXTWAKE_1, OSC32KCTRL XOUT32_, TCC2 WO_1]
@@ -4319,15 +4478,18 @@ Pin count : 100
 - Family : PIC32CM
 - MF : Microchip
 - Name : PIC32CM5164JH00100
+- Library Kicad : [PIC32CM.kicad_sym](./KiCad/PIC32CM.kicad_sym) 
+- Library Altium : [PIC32CM.lia](./Altium/PIC32CM.lia) 
+- Library Proteus : [PIC32CM.pdif](./Proteus/PIC32CM.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00110C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00110C](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 E5X
 - Package Type : 	 TQFP
 - Pin count : 	 100,00
-- Package Layout : 	 [C04-00110C](./mchp/packages/C04-00110C.pdf)
-- Package 3d model scad : 	 [C04-00110C](./Model3d/scad/C04-00110C.scad)
+- Package Layout : 	 [C04-00110C.pdf](./mchp/packages/c04-00110c.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00110C.scad) : 	 [C04-00110C.scad](./Model3d/scad/C04-00110C.scad)
 Pin count : 100
 - 1 : PA00,  of Type IO, alternates : [OSC32KCTRL XIN32_, EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, AC CMP_2, TCC2 WO_0, TC7 WO_0, RSTC EXTWAKE_0]
 - 2 : PA01,  of Type IO, alternates : [AC CMP_3, EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, TC7 WO_1, RSTC EXTWAKE_1, OSC32KCTRL XOUT32_, TCC2 WO_1]
@@ -4444,15 +4606,18 @@ Pin count : 100
 - Family : PIC32CM
 - MF : Microchip
 - Name : PIC32CM5164JH01032
+- Library Kicad : [PIC32CM.kicad_sym](./KiCad/PIC32CM.kicad_sym) 
+- Library Altium : [PIC32CM.lia](./Altium/PIC32CM.lia) 
+- Library Proteus : [PIC32CM.pdif](./Proteus/PIC32CM.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00074D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00074D](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 T5X
 - Package Type : 	 TQFP
 - Pin count : 	 32,00
-- Package Layout : 	 [C04-00074D](./mchp/packages/C04-00074D.pdf)
-- Package 3d model scad : 	 [C04-00074D](./Model3d/scad/C04-00074D.scad)
+- Package Layout : 	 [C04-00074D.pdf](./mchp/packages/c04-00074d.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00074D.scad) : 	 [C04-00074D.scad](./Model3d/scad/C04-00074D.scad)
 Pin count : 32
 - 1 : PA00,  of Type IO, alternates : [OSC32KCTRL XIN32_, EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, AC CMP_2, TCC2 WO_0, TC7 WO_0, RSTC EXTWAKE_0]
 - 2 : PA01,  of Type IO, alternates : [AC CMP_3, EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, TC7 WO_1, RSTC EXTWAKE_1, OSC32KCTRL XOUT32_, TCC2 WO_1]
@@ -4501,15 +4666,18 @@ Pin count : 32
 - Family : PIC32CM
 - MF : Microchip
 - Name : PIC32CM5164JH01032
+- Library Kicad : [PIC32CM.kicad_sym](./KiCad/PIC32CM.kicad_sym) 
+- Library Altium : [PIC32CM.lia](./Altium/PIC32CM.lia) 
+- Library Proteus : [PIC32CM.pdif](./Proteus/PIC32CM.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00074D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00074D](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 T5X
 - Package Type : 	 TQFP
 - Pin count : 	 32,00
-- Package Layout : 	 [C04-00074D](./mchp/packages/C04-00074D.pdf)
-- Package 3d model scad : 	 [C04-00074D](./Model3d/scad/C04-00074D.scad)
+- Package Layout : 	 [C04-00074D.pdf](./mchp/packages/c04-00074d.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00074D.scad) : 	 [C04-00074D.scad](./Model3d/scad/C04-00074D.scad)
 Pin count : 32
 - 1 : PA00,  of Type IO, alternates : [OSC32KCTRL XIN32_, EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, AC CMP_2, TCC2 WO_0, TC7 WO_0, RSTC EXTWAKE_0]
 - 2 : PA01,  of Type IO, alternates : [AC CMP_3, EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, TC7 WO_1, RSTC EXTWAKE_1, OSC32KCTRL XOUT32_, TCC2 WO_1]
@@ -4558,15 +4726,18 @@ Pin count : 32
 - Family : PIC32CM
 - MF : Microchip
 - Name : PIC32CM5164JH01048
+- Library Kicad : [PIC32CM.kicad_sym](./KiCad/PIC32CM.kicad_sym) 
+- Library Altium : [PIC32CM.lia](./Altium/PIC32CM.lia) 
+- Library Proteus : [PIC32CM.pdif](./Proteus/PIC32CM.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-21493A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-21493A](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 U5B
 - Package Type : 	 VQFN
 - Pin count : 	 48,00
-- Package Layout : 	 [C04-21493A](./mchp/packages/C04-21493A.pdf)
-- Package 3d model scad : 	 [C04-21493A](./Model3d/scad/C04-21493A.scad)
+- Package Layout : 	 [C04-21493A.pdf](./mchp/packages/c04-21493a.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-21493A.scad) : 	 [C04-21493A.scad](./Model3d/scad/C04-21493A.scad)
 Pin count : 48
 - 1 : PA00,  of Type IO, alternates : [OSC32KCTRL XIN32_, EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, AC CMP_2, TCC2 WO_0, TC7 WO_0, RSTC EXTWAKE_0]
 - 2 : PA01,  of Type IO, alternates : [AC CMP_3, EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, TC7 WO_1, RSTC EXTWAKE_1, OSC32KCTRL XOUT32_, TCC2 WO_1]
@@ -4631,17 +4802,20 @@ Pin count : 48
 - Family : PIC32CM
 - MF : Microchip
 - Name : PIC32CM5164JH01048
+- Library Kicad : [PIC32CM.kicad_sym](./KiCad/PIC32CM.kicad_sym) 
+- Library Altium : [PIC32CM.lia](./Altium/PIC32CM.lia) 
+- Library Proteus : [PIC32CM.pdif](./Proteus/PIC32CM.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00300D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00300D](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 Y8X
 - Package Type : 	 TQFP
 - Pin count : 	 48,00
-- Package Layout : 	 [C04-00300D](./mchp/packages/C04-00300D.pdf)
-- Package 3d model wrl : 	 [C04-00300D](./Model3d/wrl/C04-00300D.wrl)
-- Package 3d model x3d : 	 [C04-00300D](./Model3d/x3d/C04-00300D.x3d)
-- Package 3d model scad : 	 [C04-00300D](./Model3d/scad/C04-00300D.scad)
+- Package Layout : 	 [C04-00300D.pdf](./mchp/packages/c04-00300d.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00300D.wrl) : 	 [C04-00300D.wrl](./Model3d/wrl/C04-00300D.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00300D.x3d) : 	 [C04-00300D.x3d](./Model3d/x3d/C04-00300D.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00300D.scad) : 	 [C04-00300D.scad](./Model3d/scad/C04-00300D.scad)
 Pin count : 48
 - 1 : PA00,  of Type IO, alternates : [OSC32KCTRL XIN32_, EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, AC CMP_2, TCC2 WO_0, TC7 WO_0, RSTC EXTWAKE_0]
 - 2 : PA01,  of Type IO, alternates : [AC CMP_3, EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, TC7 WO_1, RSTC EXTWAKE_1, OSC32KCTRL XOUT32_, TCC2 WO_1]
@@ -4706,15 +4880,18 @@ Pin count : 48
 - Family : PIC32CM
 - MF : Microchip
 - Name : PIC32CM5164JH01048
+- Library Kicad : [PIC32CM.kicad_sym](./KiCad/PIC32CM.kicad_sym) 
+- Library Altium : [PIC32CM.lia](./Altium/PIC32CM.lia) 
+- Library Proteus : [PIC32CM.pdif](./Proteus/PIC32CM.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-21493A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-21493A](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 U5B
 - Package Type : 	 VQFN
 - Pin count : 	 48,00
-- Package Layout : 	 [C04-21493A](./mchp/packages/C04-21493A.pdf)
-- Package 3d model scad : 	 [C04-21493A](./Model3d/scad/C04-21493A.scad)
+- Package Layout : 	 [C04-21493A.pdf](./mchp/packages/c04-21493a.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-21493A.scad) : 	 [C04-21493A.scad](./Model3d/scad/C04-21493A.scad)
 Pin count : 48
 - 1 : PA00,  of Type IO, alternates : [OSC32KCTRL XIN32_, EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, AC CMP_2, TCC2 WO_0, TC7 WO_0, RSTC EXTWAKE_0]
 - 2 : PA01,  of Type IO, alternates : [AC CMP_3, EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, TC7 WO_1, RSTC EXTWAKE_1, OSC32KCTRL XOUT32_, TCC2 WO_1]
@@ -4779,17 +4956,20 @@ Pin count : 48
 - Family : PIC32CM
 - MF : Microchip
 - Name : PIC32CM5164JH01048
+- Library Kicad : [PIC32CM.kicad_sym](./KiCad/PIC32CM.kicad_sym) 
+- Library Altium : [PIC32CM.lia](./Altium/PIC32CM.lia) 
+- Library Proteus : [PIC32CM.pdif](./Proteus/PIC32CM.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00300D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00300D](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 Y8X
 - Package Type : 	 TQFP
 - Pin count : 	 48,00
-- Package Layout : 	 [C04-00300D](./mchp/packages/C04-00300D.pdf)
-- Package 3d model wrl : 	 [C04-00300D](./Model3d/wrl/C04-00300D.wrl)
-- Package 3d model x3d : 	 [C04-00300D](./Model3d/x3d/C04-00300D.x3d)
-- Package 3d model scad : 	 [C04-00300D](./Model3d/scad/C04-00300D.scad)
+- Package Layout : 	 [C04-00300D.pdf](./mchp/packages/c04-00300d.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00300D.wrl) : 	 [C04-00300D.wrl](./Model3d/wrl/C04-00300D.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00300D.x3d) : 	 [C04-00300D.x3d](./Model3d/x3d/C04-00300D.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00300D.scad) : 	 [C04-00300D.scad](./Model3d/scad/C04-00300D.scad)
 Pin count : 48
 - 1 : PA00,  of Type IO, alternates : [OSC32KCTRL XIN32_, EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, AC CMP_2, TCC2 WO_0, TC7 WO_0, RSTC EXTWAKE_0]
 - 2 : PA01,  of Type IO, alternates : [AC CMP_3, EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, TC7 WO_1, RSTC EXTWAKE_1, OSC32KCTRL XOUT32_, TCC2 WO_1]
@@ -4854,17 +5034,20 @@ Pin count : 48
 - Family : PIC32CM
 - MF : Microchip
 - Name : PIC32CM5164JH01064
+- Library Kicad : [PIC32CM.kicad_sym](./KiCad/PIC32CM.kicad_sym) 
+- Library Altium : [PIC32CM.lia](./Altium/PIC32CM.lia) 
+- Library Proteus : [PIC32CM.pdif](./Proteus/PIC32CM.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00483F](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00483F](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 5LX
 - Package Type : 	 VQFN
 - Pin count : 	 64,00
-- Package Layout : 	 [C04-00483F](./mchp/packages/C04-00483F.pdf)
-- Package 3d model wrl : 	 [C04-00483F](./Model3d/wrl/C04-00483F.wrl)
-- Package 3d model x3d : 	 [C04-00483F](./Model3d/x3d/C04-00483F.x3d)
-- Package 3d model scad : 	 [C04-00483F](./Model3d/scad/C04-00483F.scad)
+- Package Layout : 	 [C04-00483F.pdf](./mchp/packages/c04-00483f.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00483F.wrl) : 	 [C04-00483F.wrl](./Model3d/wrl/C04-00483F.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00483F.x3d) : 	 [C04-00483F.x3d](./Model3d/x3d/C04-00483F.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00483F.scad) : 	 [C04-00483F.scad](./Model3d/scad/C04-00483F.scad)
 Pin count : 64
 - 1 : PA00,  of Type IO, alternates : [OSC32KCTRL XIN32_, EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, AC CMP_2, TCC2 WO_0, TC7 WO_0, RSTC EXTWAKE_0]
 - 2 : PA01,  of Type IO, alternates : [AC CMP_3, EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, TC7 WO_1, RSTC EXTWAKE_1, OSC32KCTRL XOUT32_, TCC2 WO_1]
@@ -4945,6 +5128,9 @@ Pin count : 64
 - Family : PIC32CM
 - MF : Microchip
 - Name : PIC32CM5164JH01064
+- Library Kicad : [PIC32CM.kicad_sym](./KiCad/PIC32CM.kicad_sym) 
+- Library Altium : [PIC32CM.lia](./Altium/PIC32CM.lia) 
+- Library Proteus : [PIC32CM.pdif](./Proteus/PIC32CM.pdif) 
 
 ### Package : 
 
@@ -5028,17 +5214,20 @@ Pin count : 64
 - Family : PIC32CM
 - MF : Microchip
 - Name : PIC32CM5164JH01064
+- Library Kicad : [PIC32CM.kicad_sym](./KiCad/PIC32CM.kicad_sym) 
+- Library Altium : [PIC32CM.lia](./Altium/PIC32CM.lia) 
+- Library Proteus : [PIC32CM.pdif](./Proteus/PIC32CM.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00483F](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00483F](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 5LX
 - Package Type : 	 VQFN
 - Pin count : 	 64,00
-- Package Layout : 	 [C04-00483F](./mchp/packages/C04-00483F.pdf)
-- Package 3d model wrl : 	 [C04-00483F](./Model3d/wrl/C04-00483F.wrl)
-- Package 3d model x3d : 	 [C04-00483F](./Model3d/x3d/C04-00483F.x3d)
-- Package 3d model scad : 	 [C04-00483F](./Model3d/scad/C04-00483F.scad)
+- Package Layout : 	 [C04-00483F.pdf](./mchp/packages/c04-00483f.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00483F.wrl) : 	 [C04-00483F.wrl](./Model3d/wrl/C04-00483F.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00483F.x3d) : 	 [C04-00483F.x3d](./Model3d/x3d/C04-00483F.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00483F.scad) : 	 [C04-00483F.scad](./Model3d/scad/C04-00483F.scad)
 Pin count : 64
 - 1 : PA00,  of Type IO, alternates : [OSC32KCTRL XIN32_, EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, AC CMP_2, TCC2 WO_0, TC7 WO_0, RSTC EXTWAKE_0]
 - 2 : PA01,  of Type IO, alternates : [AC CMP_3, EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, TC7 WO_1, RSTC EXTWAKE_1, OSC32KCTRL XOUT32_, TCC2 WO_1]
@@ -5119,6 +5308,9 @@ Pin count : 64
 - Family : PIC32CM
 - MF : Microchip
 - Name : PIC32CM5164JH01064
+- Library Kicad : [PIC32CM.kicad_sym](./KiCad/PIC32CM.kicad_sym) 
+- Library Altium : [PIC32CM.lia](./Altium/PIC32CM.lia) 
+- Library Proteus : [PIC32CM.pdif](./Proteus/PIC32CM.pdif) 
 
 ### Package : 
 
@@ -5202,15 +5394,18 @@ Pin count : 64
 - Family : PIC32CM
 - MF : Microchip
 - Name : PIC32CM5164JH01100
+- Library Kicad : [PIC32CM.kicad_sym](./KiCad/PIC32CM.kicad_sym) 
+- Library Altium : [PIC32CM.lia](./Altium/PIC32CM.lia) 
+- Library Proteus : [PIC32CM.pdif](./Proteus/PIC32CM.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00110C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00110C](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 E5X
 - Package Type : 	 TQFP
 - Pin count : 	 100,00
-- Package Layout : 	 [C04-00110C](./mchp/packages/C04-00110C.pdf)
-- Package 3d model scad : 	 [C04-00110C](./Model3d/scad/C04-00110C.scad)
+- Package Layout : 	 [C04-00110C.pdf](./mchp/packages/c04-00110c.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00110C.scad) : 	 [C04-00110C.scad](./Model3d/scad/C04-00110C.scad)
 Pin count : 100
 - 1 : PA00,  of Type IO, alternates : [OSC32KCTRL XIN32_, EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, AC CMP_2, TCC2 WO_0, TC7 WO_0, RSTC EXTWAKE_0]
 - 2 : PA01,  of Type IO, alternates : [AC CMP_3, EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, TC7 WO_1, RSTC EXTWAKE_1, OSC32KCTRL XOUT32_, TCC2 WO_1]
@@ -5327,15 +5522,18 @@ Pin count : 100
 - Family : PIC32CM
 - MF : Microchip
 - Name : PIC32CM5164JH01100
+- Library Kicad : [PIC32CM.kicad_sym](./KiCad/PIC32CM.kicad_sym) 
+- Library Altium : [PIC32CM.lia](./Altium/PIC32CM.lia) 
+- Library Proteus : [PIC32CM.pdif](./Proteus/PIC32CM.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00110C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00110C](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 E5X
 - Package Type : 	 TQFP
 - Pin count : 	 100,00
-- Package Layout : 	 [C04-00110C](./mchp/packages/C04-00110C.pdf)
-- Package 3d model scad : 	 [C04-00110C](./Model3d/scad/C04-00110C.scad)
+- Package Layout : 	 [C04-00110C.pdf](./mchp/packages/c04-00110c.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00110C.scad) : 	 [C04-00110C.scad](./Model3d/scad/C04-00110C.scad)
 Pin count : 100
 - 1 : PA00,  of Type IO, alternates : [OSC32KCTRL XIN32_, EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, AC CMP_2, TCC2 WO_0, TC7 WO_0, RSTC EXTWAKE_0]
 - 2 : PA01,  of Type IO, alternates : [AC CMP_3, EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, TC7 WO_1, RSTC EXTWAKE_1, OSC32KCTRL XOUT32_, TCC2 WO_1]
@@ -5452,15 +5650,18 @@ Pin count : 100
 - Family : PIC32CM
 - MF : Microchip
 - Name : PIC32CM5164LE00048
+- Library Kicad : [PIC32CM.kicad_sym](./KiCad/PIC32CM.kicad_sym) 
+- Library Altium : [PIC32CM.lia](./Altium/PIC32CM.lia) 
+- Library Proteus : [PIC32CM.pdif](./Proteus/PIC32CM.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-21493A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-21493A](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 U5B
 - Package Type : 	 VQFN
 - Pin count : 	 48,00
-- Package Layout : 	 [C04-21493A](./mchp/packages/C04-21493A.pdf)
-- Package 3d model scad : 	 [C04-21493A](./Model3d/scad/C04-21493A.scad)
+- Package Layout : 	 [C04-21493A.pdf](./mchp/packages/c04-21493a.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-21493A.scad) : 	 [C04-21493A.scad](./Model3d/scad/C04-21493A.scad)
 Pin count : 48
 - 1 : PA00,  of Type IO, alternates : [PTC Y_0, PTC X_0, OSC32KCTRL XIN32_, EIC EXTINT_0, OPAMP OANEG_1, PORT P_0, TCC2 WO_0, SERCOM1:6 PAD_0, PTC DRV_0]
 - 2 : PA01,  of Type IO, alternates : [OPAMP OAPOS_1, PTC X_1, PTC Y_1, EIC EXTINT_1, PORT P_1, SERCOM1:6 PAD_1, OSC32KCTRL XOUT32_, TCC2 WO_1, PTC DRV_1]
@@ -5525,17 +5726,20 @@ Pin count : 48
 - Family : PIC32CM
 - MF : Microchip
 - Name : PIC32CM5164LE00048
+- Library Kicad : [PIC32CM.kicad_sym](./KiCad/PIC32CM.kicad_sym) 
+- Library Altium : [PIC32CM.lia](./Altium/PIC32CM.lia) 
+- Library Proteus : [PIC32CM.pdif](./Proteus/PIC32CM.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00300D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00300D](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 Y8X
 - Package Type : 	 TQFP
 - Pin count : 	 48,00
-- Package Layout : 	 [C04-00300D](./mchp/packages/C04-00300D.pdf)
-- Package 3d model wrl : 	 [C04-00300D](./Model3d/wrl/C04-00300D.wrl)
-- Package 3d model x3d : 	 [C04-00300D](./Model3d/x3d/C04-00300D.x3d)
-- Package 3d model scad : 	 [C04-00300D](./Model3d/scad/C04-00300D.scad)
+- Package Layout : 	 [C04-00300D.pdf](./mchp/packages/c04-00300d.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00300D.wrl) : 	 [C04-00300D.wrl](./Model3d/wrl/C04-00300D.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00300D.x3d) : 	 [C04-00300D.x3d](./Model3d/x3d/C04-00300D.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00300D.scad) : 	 [C04-00300D.scad](./Model3d/scad/C04-00300D.scad)
 Pin count : 48
 - 1 : PA00,  of Type IO, alternates : [PTC Y_0, PTC X_0, OSC32KCTRL XIN32_, EIC EXTINT_0, OPAMP OANEG_1, PORT P_0, TCC2 WO_0, SERCOM1:6 PAD_0, PTC DRV_0]
 - 2 : PA01,  of Type IO, alternates : [OPAMP OAPOS_1, PTC X_1, PTC Y_1, EIC EXTINT_1, PORT P_1, SERCOM1:6 PAD_1, OSC32KCTRL XOUT32_, TCC2 WO_1, PTC DRV_1]
@@ -5600,17 +5804,20 @@ Pin count : 48
 - Family : PIC32CM
 - MF : Microchip
 - Name : PIC32CM5164LE00064
+- Library Kicad : [PIC32CM.kicad_sym](./KiCad/PIC32CM.kicad_sym) 
+- Library Altium : [PIC32CM.lia](./Altium/PIC32CM.lia) 
+- Library Proteus : [PIC32CM.pdif](./Proteus/PIC32CM.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00483F](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00483F](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 5LX
 - Package Type : 	 VQFN
 - Pin count : 	 64,00
-- Package Layout : 	 [C04-00483F](./mchp/packages/C04-00483F.pdf)
-- Package 3d model wrl : 	 [C04-00483F](./Model3d/wrl/C04-00483F.wrl)
-- Package 3d model x3d : 	 [C04-00483F](./Model3d/x3d/C04-00483F.x3d)
-- Package 3d model scad : 	 [C04-00483F](./Model3d/scad/C04-00483F.scad)
+- Package Layout : 	 [C04-00483F.pdf](./mchp/packages/c04-00483f.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00483F.wrl) : 	 [C04-00483F.wrl](./Model3d/wrl/C04-00483F.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00483F.x3d) : 	 [C04-00483F.x3d](./Model3d/x3d/C04-00483F.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00483F.scad) : 	 [C04-00483F.scad](./Model3d/scad/C04-00483F.scad)
 Pin count : 64
 - 1 : PA00,  of Type IO, alternates : [PTC Y_0, PTC X_0, OSC32KCTRL XIN32_, EIC EXTINT_0, OPAMP OANEG_1, PORT P_0, TCC2 WO_0, SERCOM1:6 PAD_0, PTC DRV_0]
 - 2 : PA01,  of Type IO, alternates : [OPAMP OAPOS_1, PTC X_1, PTC Y_1, EIC EXTINT_1, PORT P_1, SERCOM1:6 PAD_1, OSC32KCTRL XOUT32_, TCC2 WO_1, PTC DRV_1]
@@ -5691,6 +5898,9 @@ Pin count : 64
 - Family : PIC32CM
 - MF : Microchip
 - Name : PIC32CM5164LE00064
+- Library Kicad : [PIC32CM.kicad_sym](./KiCad/PIC32CM.kicad_sym) 
+- Library Altium : [PIC32CM.lia](./Altium/PIC32CM.lia) 
+- Library Proteus : [PIC32CM.pdif](./Proteus/PIC32CM.pdif) 
 
 ### Package : 
 
@@ -5774,15 +5984,18 @@ Pin count : 64
 - Family : PIC32CM
 - MF : Microchip
 - Name : PIC32CM5164LE00100
+- Library Kicad : [PIC32CM.kicad_sym](./KiCad/PIC32CM.kicad_sym) 
+- Library Altium : [PIC32CM.lia](./Altium/PIC32CM.lia) 
+- Library Proteus : [PIC32CM.pdif](./Proteus/PIC32CM.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00110C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00110C](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 E5X
 - Package Type : 	 TQFP
 - Pin count : 	 100,00
-- Package Layout : 	 [C04-00110C](./mchp/packages/C04-00110C.pdf)
-- Package 3d model scad : 	 [C04-00110C](./Model3d/scad/C04-00110C.scad)
+- Package Layout : 	 [C04-00110C.pdf](./mchp/packages/c04-00110c.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00110C.scad) : 	 [C04-00110C.scad](./Model3d/scad/C04-00110C.scad)
 Pin count : 100
 - 1 : PA00,  of Type IO, alternates : [PTC Y_0, PTC X_0, OSC32KCTRL XIN32_, EIC EXTINT_0, OPAMP OANEG_1, PORT P_0, TCC2 WO_0, SERCOM1:6 PAD_0, PTC DRV_0]
 - 2 : PA01,  of Type IO, alternates : [OPAMP OAPOS_1, PTC X_1, PTC Y_1, EIC EXTINT_1, PORT P_1, SERCOM1:6 PAD_1, OSC32KCTRL XOUT32_, TCC2 WO_1, PTC DRV_1]
@@ -5899,15 +6112,18 @@ Pin count : 100
 - Family : PIC32CM
 - MF : Microchip
 - Name : PIC32CM5164LS00048
+- Library Kicad : [PIC32CM.kicad_sym](./KiCad/PIC32CM.kicad_sym) 
+- Library Altium : [PIC32CM.lia](./Altium/PIC32CM.lia) 
+- Library Proteus : [PIC32CM.pdif](./Proteus/PIC32CM.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-21493A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-21493A](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 U5B
 - Package Type : 	 VQFN
 - Pin count : 	 48,00
-- Package Layout : 	 [C04-21493A](./mchp/packages/C04-21493A.pdf)
-- Package 3d model scad : 	 [C04-21493A](./Model3d/scad/C04-21493A.scad)
+- Package Layout : 	 [C04-21493A.pdf](./mchp/packages/c04-21493a.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-21493A.scad) : 	 [C04-21493A.scad](./Model3d/scad/C04-21493A.scad)
 Pin count : 48
 - 1 : PA00,  of Type IO, alternates : [PTC Y_0, PTC X_0, OSC32KCTRL XIN32_, EIC EXTINT_0, OPAMP OANEG_1, PORT P_0, TCC2 WO_0, SERCOM1:6 PAD_0, PTC DRV_0]
 - 2 : PA01,  of Type IO, alternates : [OPAMP OAPOS_1, PTC X_1, PTC Y_1, EIC EXTINT_1, PORT P_1, SERCOM1:6 PAD_1, OSC32KCTRL XOUT32_, TCC2 WO_1, PTC DRV_1]
@@ -5972,17 +6188,20 @@ Pin count : 48
 - Family : PIC32CM
 - MF : Microchip
 - Name : PIC32CM5164LS00048
+- Library Kicad : [PIC32CM.kicad_sym](./KiCad/PIC32CM.kicad_sym) 
+- Library Altium : [PIC32CM.lia](./Altium/PIC32CM.lia) 
+- Library Proteus : [PIC32CM.pdif](./Proteus/PIC32CM.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00300D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00300D](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 Y8X
 - Package Type : 	 TQFP
 - Pin count : 	 48,00
-- Package Layout : 	 [C04-00300D](./mchp/packages/C04-00300D.pdf)
-- Package 3d model wrl : 	 [C04-00300D](./Model3d/wrl/C04-00300D.wrl)
-- Package 3d model x3d : 	 [C04-00300D](./Model3d/x3d/C04-00300D.x3d)
-- Package 3d model scad : 	 [C04-00300D](./Model3d/scad/C04-00300D.scad)
+- Package Layout : 	 [C04-00300D.pdf](./mchp/packages/c04-00300d.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00300D.wrl) : 	 [C04-00300D.wrl](./Model3d/wrl/C04-00300D.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00300D.x3d) : 	 [C04-00300D.x3d](./Model3d/x3d/C04-00300D.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00300D.scad) : 	 [C04-00300D.scad](./Model3d/scad/C04-00300D.scad)
 Pin count : 48
 - 1 : PA00,  of Type IO, alternates : [PTC Y_0, PTC X_0, OSC32KCTRL XIN32_, EIC EXTINT_0, OPAMP OANEG_1, PORT P_0, TCC2 WO_0, SERCOM1:6 PAD_0, PTC DRV_0]
 - 2 : PA01,  of Type IO, alternates : [OPAMP OAPOS_1, PTC X_1, PTC Y_1, EIC EXTINT_1, PORT P_1, SERCOM1:6 PAD_1, OSC32KCTRL XOUT32_, TCC2 WO_1, PTC DRV_1]
@@ -6047,17 +6266,20 @@ Pin count : 48
 - Family : PIC32CM
 - MF : Microchip
 - Name : PIC32CM5164LS00064
+- Library Kicad : [PIC32CM.kicad_sym](./KiCad/PIC32CM.kicad_sym) 
+- Library Altium : [PIC32CM.lia](./Altium/PIC32CM.lia) 
+- Library Proteus : [PIC32CM.pdif](./Proteus/PIC32CM.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00483F](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00483F](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 5LX
 - Package Type : 	 VQFN
 - Pin count : 	 64,00
-- Package Layout : 	 [C04-00483F](./mchp/packages/C04-00483F.pdf)
-- Package 3d model wrl : 	 [C04-00483F](./Model3d/wrl/C04-00483F.wrl)
-- Package 3d model x3d : 	 [C04-00483F](./Model3d/x3d/C04-00483F.x3d)
-- Package 3d model scad : 	 [C04-00483F](./Model3d/scad/C04-00483F.scad)
+- Package Layout : 	 [C04-00483F.pdf](./mchp/packages/c04-00483f.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00483F.wrl) : 	 [C04-00483F.wrl](./Model3d/wrl/C04-00483F.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00483F.x3d) : 	 [C04-00483F.x3d](./Model3d/x3d/C04-00483F.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00483F.scad) : 	 [C04-00483F.scad](./Model3d/scad/C04-00483F.scad)
 Pin count : 64
 - 1 : PA00,  of Type IO, alternates : [PTC Y_0, PTC X_0, OSC32KCTRL XIN32_, EIC EXTINT_0, OPAMP OANEG_1, PORT P_0, TCC2 WO_0, SERCOM1:6 PAD_0, PTC DRV_0]
 - 2 : PA01,  of Type IO, alternates : [OPAMP OAPOS_1, PTC X_1, PTC Y_1, EIC EXTINT_1, PORT P_1, SERCOM1:6 PAD_1, OSC32KCTRL XOUT32_, TCC2 WO_1, PTC DRV_1]
@@ -6138,6 +6360,9 @@ Pin count : 64
 - Family : PIC32CM
 - MF : Microchip
 - Name : PIC32CM5164LS00064
+- Library Kicad : [PIC32CM.kicad_sym](./KiCad/PIC32CM.kicad_sym) 
+- Library Altium : [PIC32CM.lia](./Altium/PIC32CM.lia) 
+- Library Proteus : [PIC32CM.pdif](./Proteus/PIC32CM.pdif) 
 
 ### Package : 
 
@@ -6221,15 +6446,18 @@ Pin count : 64
 - Family : PIC32CM
 - MF : Microchip
 - Name : PIC32CM5164LS00100
+- Library Kicad : [PIC32CM.kicad_sym](./KiCad/PIC32CM.kicad_sym) 
+- Library Altium : [PIC32CM.lia](./Altium/PIC32CM.lia) 
+- Library Proteus : [PIC32CM.pdif](./Proteus/PIC32CM.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00110C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00110C](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 E5X
 - Package Type : 	 TQFP
 - Pin count : 	 100,00
-- Package Layout : 	 [C04-00110C](./mchp/packages/C04-00110C.pdf)
-- Package 3d model scad : 	 [C04-00110C](./Model3d/scad/C04-00110C.scad)
+- Package Layout : 	 [C04-00110C.pdf](./mchp/packages/c04-00110c.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00110C.scad) : 	 [C04-00110C.scad](./Model3d/scad/C04-00110C.scad)
 Pin count : 100
 - 1 : PA00,  of Type IO, alternates : [PTC Y_0, PTC X_0, OSC32KCTRL XIN32_, EIC EXTINT_0, OPAMP OANEG_1, PORT P_0, TCC2 WO_0, SERCOM1:6 PAD_0, PTC DRV_0]
 - 2 : PA01,  of Type IO, alternates : [OPAMP OAPOS_1, PTC X_1, PTC Y_1, EIC EXTINT_1, PORT P_1, SERCOM1:6 PAD_1, OSC32KCTRL XOUT32_, TCC2 WO_1, PTC DRV_1]
@@ -6346,16 +6574,21 @@ Pin count : 100
 - Family : PIC32CM
 - MF : Microchip
 - Name : PIC32CM5164LS60048
+- Library Kicad : [PIC32CM.kicad_sym](./KiCad/PIC32CM.kicad_sym) 
+- Library Altium : [PIC32CM.lia](./Altium/PIC32CM.lia) 
+- Library Proteus : [PIC32CM.pdif](./Proteus/PIC32CM.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-21493A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-21493A](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 U5B
 - Package Type : 	 VQFN
 - Pin count : 	 48,00
-- Package Layout : 	 [C04-21493A](./mchp/packages/C04-21493A.pdf)
-- Package 3d model scad : 	 [C04-21493A](./Model3d/scad/C04-21493A.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-21493A.pdf](./mchp/packages/c04-21493a.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-21493A.scad) : 	 [C04-21493A.scad](./Model3d/scad/C04-21493A.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 48
 - 1 : PA00,  of Type IO, alternates : [PTC Y_0, PTC X_0, OSC32KCTRL XIN32_, EIC EXTINT_0, OPAMP OANEG_1, PORT P_0, TCC2 WO_0, PTC DRV_0]
 - 2 : PA01,  of Type IO, alternates : [OPAMP OAPOS_1, PTC X_1, PTC Y_1, EIC EXTINT_1, PORT P_1, OSC32KCTRL XOUT32_, TCC2 WO_1, PTC DRV_1]
@@ -6420,18 +6653,23 @@ Pin count : 48
 - Family : PIC32CM
 - MF : Microchip
 - Name : PIC32CM5164LS60064
+- Library Kicad : [PIC32CM.kicad_sym](./KiCad/PIC32CM.kicad_sym) 
+- Library Altium : [PIC32CM.lia](./Altium/PIC32CM.lia) 
+- Library Proteus : [PIC32CM.pdif](./Proteus/PIC32CM.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00483F](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00483F](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 5LX
 - Package Type : 	 VQFN
 - Pin count : 	 64,00
-- Package Layout : 	 [C04-00483F](./mchp/packages/C04-00483F.pdf)
-- Package 3d model wrl : 	 [C04-00483F](./Model3d/wrl/C04-00483F.wrl)
-- Package 3d model x3d : 	 [C04-00483F](./Model3d/x3d/C04-00483F.x3d)
-- Package 3d model scad : 	 [C04-00483F](./Model3d/scad/C04-00483F.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00483F.pdf](./mchp/packages/c04-00483f.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00483F.wrl) : 	 [C04-00483F.wrl](./Model3d/wrl/C04-00483F.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00483F.x3d) : 	 [C04-00483F.x3d](./Model3d/x3d/C04-00483F.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00483F.scad) : 	 [C04-00483F.scad](./Model3d/scad/C04-00483F.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 64
 - 1 : PA00,  of Type IO, alternates : [PTC Y_0, PTC X_0, OSC32KCTRL XIN32_, EIC EXTINT_0, OPAMP OANEG_1, PORT P_0, TCC2 WO_0, PTC DRV_0]
 - 2 : PA01,  of Type IO, alternates : [OPAMP OAPOS_1, PTC X_1, PTC Y_1, EIC EXTINT_1, PORT P_1, OSC32KCTRL XOUT32_, TCC2 WO_1, PTC DRV_1]
@@ -6512,6 +6750,9 @@ Pin count : 64
 - Family : PIC32CM
 - MF : Microchip
 - Name : PIC32CM5164LS60064
+- Library Kicad : [PIC32CM.kicad_sym](./KiCad/PIC32CM.kicad_sym) 
+- Library Altium : [PIC32CM.lia](./Altium/PIC32CM.lia) 
+- Library Proteus : [PIC32CM.pdif](./Proteus/PIC32CM.pdif) 
 
 ### Package : 
 
@@ -6595,15 +6836,18 @@ Pin count : 64
 - Family : PIC32CM
 - MF : Microchip
 - Name : PIC32CM5164LS60100
+- Library Kicad : [PIC32CM.kicad_sym](./KiCad/PIC32CM.kicad_sym) 
+- Library Altium : [PIC32CM.lia](./Altium/PIC32CM.lia) 
+- Library Proteus : [PIC32CM.pdif](./Proteus/PIC32CM.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00110C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00110C](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 E5X
 - Package Type : 	 TQFP
 - Pin count : 	 100,00
-- Package Layout : 	 [C04-00110C](./mchp/packages/C04-00110C.pdf)
-- Package 3d model scad : 	 [C04-00110C](./Model3d/scad/C04-00110C.scad)
+- Package Layout : 	 [C04-00110C.pdf](./mchp/packages/c04-00110c.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00110C.scad) : 	 [C04-00110C.scad](./Model3d/scad/C04-00110C.scad)
 Pin count : 100
 - 1 : PA00,  of Type IO, alternates : [PTC Y_0, PTC X_0, OSC32KCTRL XIN32_, EIC EXTINT_0, OPAMP OANEG_1, PORT P_0, TCC2 WO_0, PTC DRV_0]
 - 2 : PA01,  of Type IO, alternates : [OPAMP OAPOS_1, PTC X_1, PTC Y_1, EIC EXTINT_1, PORT P_1, OSC32KCTRL XOUT32_, TCC2 WO_1, PTC DRV_1]

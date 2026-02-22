@@ -14,18 +14,23 @@
 - Family : PIC32MZEF
 - MF : Microchip
 - Name : PIC32MZ0512EFE064
+- Library Kicad : [PIC32MZEF.kicad_sym](./KiCad/PIC32MZEF.kicad_sym) 
+- Library Altium : [PIC32MZEF.lia](./Altium/PIC32MZEF.lia) 
+- Library Proteus : [PIC32MZEF.pdif](./Proteus/PIC32MZEF.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 R4X
 - Package Type : 	 QFN
 - Pin count : 	 64,00
-- Package Layout : 	 [C04-00149E](./mchp/packages/C04-00149E.pdf)
-- Package 3d model wrl : 	 [C04-00149E](./Model3d/wrl/C04-00149E.wrl)
-- Package 3d model x3d : 	 [C04-00149E](./Model3d/x3d/C04-00149E.x3d)
-- Package 3d model scad : 	 [C04-00149E](./Model3d/scad/C04-00149E.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00149E.pdf](./mchp/packages/c04-00149e.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00149E.wrl) : 	 [C04-00149E.wrl](./Model3d/wrl/C04-00149E.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00149E.x3d) : 	 [C04-00149E.x3d](./Model3d/x3d/C04-00149E.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00149E.scad) : 	 [C04-00149E.scad](./Model3d/scad/C04-00149E.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MZ0512EFE064
 
@@ -42,18 +47,23 @@ Pin count : 0
 - Family : PIC32MZEF
 - MF : Microchip
 - Name : PIC32MZ0512EFE064
+- Library Kicad : [PIC32MZEF.kicad_sym](./KiCad/PIC32MZEF.kicad_sym) 
+- Library Altium : [PIC32MZEF.lia](./Altium/PIC32MZEF.lia) 
+- Library Proteus : [PIC32MZEF.pdif](./Proteus/PIC32MZEF.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 R4X
 - Package Type : 	 QFN
 - Pin count : 	 64,00
-- Package Layout : 	 [C04-00149E](./mchp/packages/C04-00149E.pdf)
-- Package 3d model wrl : 	 [C04-00149E](./Model3d/wrl/C04-00149E.wrl)
-- Package 3d model x3d : 	 [C04-00149E](./Model3d/x3d/C04-00149E.x3d)
-- Package 3d model scad : 	 [C04-00149E](./Model3d/scad/C04-00149E.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00149E.pdf](./mchp/packages/c04-00149e.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00149E.wrl) : 	 [C04-00149E.wrl](./Model3d/wrl/C04-00149E.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00149E.x3d) : 	 [C04-00149E.x3d](./Model3d/x3d/C04-00149E.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00149E.scad) : 	 [C04-00149E.scad](./Model3d/scad/C04-00149E.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MZ0512EFE100
 
@@ -70,16 +80,21 @@ Pin count : 0
 - Family : PIC32MZEF
 - MF : Microchip
 - Name : PIC32MZ0512EFE100
+- Library Kicad : [PIC32MZEF.kicad_sym](./KiCad/PIC32MZEF.kicad_sym) 
+- Library Altium : [PIC32MZEF.lia](./Altium/PIC32MZEF.lia) 
+- Library Proteus : [PIC32MZEF.pdif](./Proteus/PIC32MZEF.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00110C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00110C](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 E5X
 - Package Type : 	 TQFP
 - Pin count : 	 100,00
-- Package Layout : 	 [C04-00110C](./mchp/packages/C04-00110C.pdf)
-- Package 3d model scad : 	 [C04-00110C](./Model3d/scad/C04-00110C.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00110C.pdf](./mchp/packages/c04-00110c.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00110C.scad) : 	 [C04-00110C.scad](./Model3d/scad/C04-00110C.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MZ0512EFE124
 
@@ -96,6 +111,9 @@ Pin count : 0
 - Family : PIC32MZEF
 - MF : Microchip
 - Name : PIC32MZ0512EFE124
+- Library Kicad : [PIC32MZEF.kicad_sym](./KiCad/PIC32MZEF.kicad_sym) 
+- Library Altium : [PIC32MZEF.lia](./Altium/PIC32MZEF.lia) 
+- Library Proteus : [PIC32MZEF.pdif](./Proteus/PIC32MZEF.pdif) 
 
 ### Package : 
 
@@ -115,16 +133,21 @@ Pin count : 0
 - Family : PIC32MZEF
 - MF : Microchip
 - Name : PIC32MZ0512EFE144
+- Library Kicad : [PIC32MZEF.kicad_sym](./KiCad/PIC32MZEF.kicad_sym) 
+- Library Altium : [PIC32MZEF.lia](./Altium/PIC32MZEF.lia) 
+- Library Proteus : [PIC32MZEF.pdif](./Proteus/PIC32MZEF.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00044D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00044D](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 H8X
 - Package Type : 	 LQFP
 - Pin count : 	 144,00
-- Package Layout : 	 [C04-00044D](./mchp/packages/C04-00044D.pdf)
-- Package 3d model scad : 	 [C04-00044D](./Model3d/scad/C04-00044D.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00044D.pdf](./mchp/packages/c04-00044d.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00044D.scad) : 	 [C04-00044D.scad](./Model3d/scad/C04-00044D.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MZ0512EFE144
 
@@ -141,16 +164,21 @@ Pin count : 0
 - Family : PIC32MZEF
 - MF : Microchip
 - Name : PIC32MZ0512EFE144
+- Library Kicad : [PIC32MZEF.kicad_sym](./KiCad/PIC32MZEF.kicad_sym) 
+- Library Altium : [PIC32MZEF.lia](./Altium/PIC32MZEF.lia) 
+- Library Proteus : [PIC32MZEF.pdif](./Proteus/PIC32MZEF.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00044D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00044D](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 H8X
 - Package Type : 	 LQFP
 - Pin count : 	 144,00
-- Package Layout : 	 [C04-00044D](./mchp/packages/C04-00044D.pdf)
-- Package 3d model scad : 	 [C04-00044D](./Model3d/scad/C04-00044D.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00044D.pdf](./mchp/packages/c04-00044d.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00044D.scad) : 	 [C04-00044D.scad](./Model3d/scad/C04-00044D.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MZ0512EFE144
 
@@ -167,16 +195,21 @@ Pin count : 0
 - Family : PIC32MZEF
 - MF : Microchip
 - Name : PIC32MZ0512EFE144
+- Library Kicad : [PIC32MZEF.kicad_sym](./KiCad/PIC32MZEF.kicad_sym) 
+- Library Altium : [PIC32MZEF.lia](./Altium/PIC32MZEF.lia) 
+- Library Proteus : [PIC32MZEF.pdif](./Proteus/PIC32MZEF.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00044D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00044D](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 H8X
 - Package Type : 	 LQFP
 - Pin count : 	 144,00
-- Package Layout : 	 [C04-00044D](./mchp/packages/C04-00044D.pdf)
-- Package 3d model scad : 	 [C04-00044D](./Model3d/scad/C04-00044D.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00044D.pdf](./mchp/packages/c04-00044d.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00044D.scad) : 	 [C04-00044D.scad](./Model3d/scad/C04-00044D.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MZ0512EFF064
 
@@ -193,18 +226,23 @@ Pin count : 0
 - Family : PIC32MZEF
 - MF : Microchip
 - Name : PIC32MZ0512EFF064
+- Library Kicad : [PIC32MZEF.kicad_sym](./KiCad/PIC32MZEF.kicad_sym) 
+- Library Altium : [PIC32MZEF.lia](./Altium/PIC32MZEF.lia) 
+- Library Proteus : [PIC32MZEF.pdif](./Proteus/PIC32MZEF.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 R4X
 - Package Type : 	 QFN
 - Pin count : 	 64,00
-- Package Layout : 	 [C04-00149E](./mchp/packages/C04-00149E.pdf)
-- Package 3d model wrl : 	 [C04-00149E](./Model3d/wrl/C04-00149E.wrl)
-- Package 3d model x3d : 	 [C04-00149E](./Model3d/x3d/C04-00149E.x3d)
-- Package 3d model scad : 	 [C04-00149E](./Model3d/scad/C04-00149E.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00149E.pdf](./mchp/packages/c04-00149e.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00149E.wrl) : 	 [C04-00149E.wrl](./Model3d/wrl/C04-00149E.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00149E.x3d) : 	 [C04-00149E.x3d](./Model3d/x3d/C04-00149E.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00149E.scad) : 	 [C04-00149E.scad](./Model3d/scad/C04-00149E.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MZ0512EFF064
 
@@ -221,18 +259,23 @@ Pin count : 0
 - Family : PIC32MZEF
 - MF : Microchip
 - Name : PIC32MZ0512EFF064
+- Library Kicad : [PIC32MZEF.kicad_sym](./KiCad/PIC32MZEF.kicad_sym) 
+- Library Altium : [PIC32MZEF.lia](./Altium/PIC32MZEF.lia) 
+- Library Proteus : [PIC32MZEF.pdif](./Proteus/PIC32MZEF.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 R4X
 - Package Type : 	 QFN
 - Pin count : 	 64,00
-- Package Layout : 	 [C04-00149E](./mchp/packages/C04-00149E.pdf)
-- Package 3d model wrl : 	 [C04-00149E](./Model3d/wrl/C04-00149E.wrl)
-- Package 3d model x3d : 	 [C04-00149E](./Model3d/x3d/C04-00149E.x3d)
-- Package 3d model scad : 	 [C04-00149E](./Model3d/scad/C04-00149E.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00149E.pdf](./mchp/packages/c04-00149e.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00149E.wrl) : 	 [C04-00149E.wrl](./Model3d/wrl/C04-00149E.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00149E.x3d) : 	 [C04-00149E.x3d](./Model3d/x3d/C04-00149E.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00149E.scad) : 	 [C04-00149E.scad](./Model3d/scad/C04-00149E.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MZ0512EFF100
 
@@ -249,16 +292,21 @@ Pin count : 0
 - Family : PIC32MZEF
 - MF : Microchip
 - Name : PIC32MZ0512EFF100
+- Library Kicad : [PIC32MZEF.kicad_sym](./KiCad/PIC32MZEF.kicad_sym) 
+- Library Altium : [PIC32MZEF.lia](./Altium/PIC32MZEF.lia) 
+- Library Proteus : [PIC32MZEF.pdif](./Proteus/PIC32MZEF.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00110C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00110C](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 E5X
 - Package Type : 	 TQFP
 - Pin count : 	 100,00
-- Package Layout : 	 [C04-00110C](./mchp/packages/C04-00110C.pdf)
-- Package 3d model scad : 	 [C04-00110C](./Model3d/scad/C04-00110C.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00110C.pdf](./mchp/packages/c04-00110c.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00110C.scad) : 	 [C04-00110C.scad](./Model3d/scad/C04-00110C.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MZ0512EFF124
 
@@ -275,16 +323,23 @@ Pin count : 0
 - Family : PIC32MZEF
 - MF : Microchip
 - Name : PIC32MZ0512EFF124
+- Library Kicad : [PIC32MZEF.kicad_sym](./KiCad/PIC32MZEF.kicad_sym) 
+- Library Altium : [PIC32MZEF.lia](./Altium/PIC32MZEF.lia) 
+- Library Proteus : [PIC32MZEF.pdif](./Proteus/PIC32MZEF.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00193A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00193A](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 8SX
 - Package Type : 	 VTLA
 - Pin count : 	 124,00
-- Package Layout : 	 [C04-00193A](./mchp/packages/C04-00193A.pdf)
-- Package 3d model scad : 	 [C04-00193A](./Model3d/scad/C04-00193A.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00193A.pdf](./mchp/packages/c04-00193a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00193A.wrl) : 	 [C04-00193A.wrl](./Model3d/wrl/C04-00193A.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00193A.x3d) : 	 [C04-00193A.x3d](./Model3d/x3d/C04-00193A.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00193A.scad) : 	 [C04-00193A.scad](./Model3d/scad/C04-00193A.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MZ0512EFF144
 
@@ -301,16 +356,21 @@ Pin count : 0
 - Family : PIC32MZEF
 - MF : Microchip
 - Name : PIC32MZ0512EFF144
+- Library Kicad : [PIC32MZEF.kicad_sym](./KiCad/PIC32MZEF.kicad_sym) 
+- Library Altium : [PIC32MZEF.lia](./Altium/PIC32MZEF.lia) 
+- Library Proteus : [PIC32MZEF.pdif](./Proteus/PIC32MZEF.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00044D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00044D](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 H8X
 - Package Type : 	 LQFP
 - Pin count : 	 144,00
-- Package Layout : 	 [C04-00044D](./mchp/packages/C04-00044D.pdf)
-- Package 3d model scad : 	 [C04-00044D](./Model3d/scad/C04-00044D.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00044D.pdf](./mchp/packages/c04-00044d.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00044D.scad) : 	 [C04-00044D.scad](./Model3d/scad/C04-00044D.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MZ0512EFF144
 
@@ -327,16 +387,21 @@ Pin count : 0
 - Family : PIC32MZEF
 - MF : Microchip
 - Name : PIC32MZ0512EFF144
+- Library Kicad : [PIC32MZEF.kicad_sym](./KiCad/PIC32MZEF.kicad_sym) 
+- Library Altium : [PIC32MZEF.lia](./Altium/PIC32MZEF.lia) 
+- Library Proteus : [PIC32MZEF.pdif](./Proteus/PIC32MZEF.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00044D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00044D](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 H8X
 - Package Type : 	 LQFP
 - Pin count : 	 144,00
-- Package Layout : 	 [C04-00044D](./mchp/packages/C04-00044D.pdf)
-- Package 3d model scad : 	 [C04-00044D](./Model3d/scad/C04-00044D.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00044D.pdf](./mchp/packages/c04-00044d.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00044D.scad) : 	 [C04-00044D.scad](./Model3d/scad/C04-00044D.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MZ0512EFF144
 
@@ -353,16 +418,21 @@ Pin count : 0
 - Family : PIC32MZEF
 - MF : Microchip
 - Name : PIC32MZ0512EFF144
+- Library Kicad : [PIC32MZEF.kicad_sym](./KiCad/PIC32MZEF.kicad_sym) 
+- Library Altium : [PIC32MZEF.lia](./Altium/PIC32MZEF.lia) 
+- Library Proteus : [PIC32MZEF.pdif](./Proteus/PIC32MZEF.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00044D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00044D](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 H8X
 - Package Type : 	 LQFP
 - Pin count : 	 144,00
-- Package Layout : 	 [C04-00044D](./mchp/packages/C04-00044D.pdf)
-- Package 3d model scad : 	 [C04-00044D](./Model3d/scad/C04-00044D.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00044D.pdf](./mchp/packages/c04-00044d.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00044D.scad) : 	 [C04-00044D.scad](./Model3d/scad/C04-00044D.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MZ0512EFK064
 
@@ -379,18 +449,23 @@ Pin count : 0
 - Family : PIC32MZEF
 - MF : Microchip
 - Name : PIC32MZ0512EFK064
+- Library Kicad : [PIC32MZEF.kicad_sym](./KiCad/PIC32MZEF.kicad_sym) 
+- Library Altium : [PIC32MZEF.lia](./Altium/PIC32MZEF.lia) 
+- Library Proteus : [PIC32MZEF.pdif](./Proteus/PIC32MZEF.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 R4X
 - Package Type : 	 QFN
 - Pin count : 	 64,00
-- Package Layout : 	 [C04-00149E](./mchp/packages/C04-00149E.pdf)
-- Package 3d model wrl : 	 [C04-00149E](./Model3d/wrl/C04-00149E.wrl)
-- Package 3d model x3d : 	 [C04-00149E](./Model3d/x3d/C04-00149E.x3d)
-- Package 3d model scad : 	 [C04-00149E](./Model3d/scad/C04-00149E.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00149E.pdf](./mchp/packages/c04-00149e.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00149E.wrl) : 	 [C04-00149E.wrl](./Model3d/wrl/C04-00149E.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00149E.x3d) : 	 [C04-00149E.x3d](./Model3d/x3d/C04-00149E.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00149E.scad) : 	 [C04-00149E.scad](./Model3d/scad/C04-00149E.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MZ0512EFK064
 
@@ -407,18 +482,23 @@ Pin count : 0
 - Family : PIC32MZEF
 - MF : Microchip
 - Name : PIC32MZ0512EFK064
+- Library Kicad : [PIC32MZEF.kicad_sym](./KiCad/PIC32MZEF.kicad_sym) 
+- Library Altium : [PIC32MZEF.lia](./Altium/PIC32MZEF.lia) 
+- Library Proteus : [PIC32MZEF.pdif](./Proteus/PIC32MZEF.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 R4X
 - Package Type : 	 QFN
 - Pin count : 	 64,00
-- Package Layout : 	 [C04-00149E](./mchp/packages/C04-00149E.pdf)
-- Package 3d model wrl : 	 [C04-00149E](./Model3d/wrl/C04-00149E.wrl)
-- Package 3d model x3d : 	 [C04-00149E](./Model3d/x3d/C04-00149E.x3d)
-- Package 3d model scad : 	 [C04-00149E](./Model3d/scad/C04-00149E.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00149E.pdf](./mchp/packages/c04-00149e.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00149E.wrl) : 	 [C04-00149E.wrl](./Model3d/wrl/C04-00149E.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00149E.x3d) : 	 [C04-00149E.x3d](./Model3d/x3d/C04-00149E.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00149E.scad) : 	 [C04-00149E.scad](./Model3d/scad/C04-00149E.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MZ0512EFK100
 
@@ -435,16 +515,21 @@ Pin count : 0
 - Family : PIC32MZEF
 - MF : Microchip
 - Name : PIC32MZ0512EFK100
+- Library Kicad : [PIC32MZEF.kicad_sym](./KiCad/PIC32MZEF.kicad_sym) 
+- Library Altium : [PIC32MZEF.lia](./Altium/PIC32MZEF.lia) 
+- Library Proteus : [PIC32MZEF.pdif](./Proteus/PIC32MZEF.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00110C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00110C](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 E5X
 - Package Type : 	 TQFP
 - Pin count : 	 100,00
-- Package Layout : 	 [C04-00110C](./mchp/packages/C04-00110C.pdf)
-- Package 3d model scad : 	 [C04-00110C](./Model3d/scad/C04-00110C.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00110C.pdf](./mchp/packages/c04-00110c.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00110C.scad) : 	 [C04-00110C.scad](./Model3d/scad/C04-00110C.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MZ0512EFK124
 
@@ -461,6 +546,9 @@ Pin count : 0
 - Family : PIC32MZEF
 - MF : Microchip
 - Name : PIC32MZ0512EFK124
+- Library Kicad : [PIC32MZEF.kicad_sym](./KiCad/PIC32MZEF.kicad_sym) 
+- Library Altium : [PIC32MZEF.lia](./Altium/PIC32MZEF.lia) 
+- Library Proteus : [PIC32MZEF.pdif](./Proteus/PIC32MZEF.pdif) 
 
 ### Package : 
 
@@ -480,16 +568,21 @@ Pin count : 0
 - Family : PIC32MZEF
 - MF : Microchip
 - Name : PIC32MZ0512EFK144
+- Library Kicad : [PIC32MZEF.kicad_sym](./KiCad/PIC32MZEF.kicad_sym) 
+- Library Altium : [PIC32MZEF.lia](./Altium/PIC32MZEF.lia) 
+- Library Proteus : [PIC32MZEF.pdif](./Proteus/PIC32MZEF.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00044D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00044D](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 H8X
 - Package Type : 	 LQFP
 - Pin count : 	 144,00
-- Package Layout : 	 [C04-00044D](./mchp/packages/C04-00044D.pdf)
-- Package 3d model scad : 	 [C04-00044D](./Model3d/scad/C04-00044D.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00044D.pdf](./mchp/packages/c04-00044d.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00044D.scad) : 	 [C04-00044D.scad](./Model3d/scad/C04-00044D.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MZ0512EFK144
 
@@ -506,16 +599,21 @@ Pin count : 0
 - Family : PIC32MZEF
 - MF : Microchip
 - Name : PIC32MZ0512EFK144
+- Library Kicad : [PIC32MZEF.kicad_sym](./KiCad/PIC32MZEF.kicad_sym) 
+- Library Altium : [PIC32MZEF.lia](./Altium/PIC32MZEF.lia) 
+- Library Proteus : [PIC32MZEF.pdif](./Proteus/PIC32MZEF.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00044D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00044D](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 H8X
 - Package Type : 	 LQFP
 - Pin count : 	 144,00
-- Package Layout : 	 [C04-00044D](./mchp/packages/C04-00044D.pdf)
-- Package 3d model scad : 	 [C04-00044D](./Model3d/scad/C04-00044D.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00044D.pdf](./mchp/packages/c04-00044d.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00044D.scad) : 	 [C04-00044D.scad](./Model3d/scad/C04-00044D.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MZ0512EFK144
 
@@ -532,16 +630,21 @@ Pin count : 0
 - Family : PIC32MZEF
 - MF : Microchip
 - Name : PIC32MZ0512EFK144
+- Library Kicad : [PIC32MZEF.kicad_sym](./KiCad/PIC32MZEF.kicad_sym) 
+- Library Altium : [PIC32MZEF.lia](./Altium/PIC32MZEF.lia) 
+- Library Proteus : [PIC32MZEF.pdif](./Proteus/PIC32MZEF.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00044D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00044D](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 H8X
 - Package Type : 	 LQFP
 - Pin count : 	 144,00
-- Package Layout : 	 [C04-00044D](./mchp/packages/C04-00044D.pdf)
-- Package 3d model scad : 	 [C04-00044D](./Model3d/scad/C04-00044D.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00044D.pdf](./mchp/packages/c04-00044d.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00044D.scad) : 	 [C04-00044D.scad](./Model3d/scad/C04-00044D.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MZ1024EFE064
 
@@ -558,18 +661,23 @@ Pin count : 0
 - Family : PIC32MZEF
 - MF : Microchip
 - Name : PIC32MZ1024EFE064
+- Library Kicad : [PIC32MZEF.kicad_sym](./KiCad/PIC32MZEF.kicad_sym) 
+- Library Altium : [PIC32MZEF.lia](./Altium/PIC32MZEF.lia) 
+- Library Proteus : [PIC32MZEF.pdif](./Proteus/PIC32MZEF.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 R4X
 - Package Type : 	 QFN
 - Pin count : 	 64,00
-- Package Layout : 	 [C04-00149E](./mchp/packages/C04-00149E.pdf)
-- Package 3d model wrl : 	 [C04-00149E](./Model3d/wrl/C04-00149E.wrl)
-- Package 3d model x3d : 	 [C04-00149E](./Model3d/x3d/C04-00149E.x3d)
-- Package 3d model scad : 	 [C04-00149E](./Model3d/scad/C04-00149E.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00149E.pdf](./mchp/packages/c04-00149e.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00149E.wrl) : 	 [C04-00149E.wrl](./Model3d/wrl/C04-00149E.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00149E.x3d) : 	 [C04-00149E.x3d](./Model3d/x3d/C04-00149E.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00149E.scad) : 	 [C04-00149E.scad](./Model3d/scad/C04-00149E.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MZ1024EFE064
 
@@ -586,18 +694,23 @@ Pin count : 0
 - Family : PIC32MZEF
 - MF : Microchip
 - Name : PIC32MZ1024EFE064
+- Library Kicad : [PIC32MZEF.kicad_sym](./KiCad/PIC32MZEF.kicad_sym) 
+- Library Altium : [PIC32MZEF.lia](./Altium/PIC32MZEF.lia) 
+- Library Proteus : [PIC32MZEF.pdif](./Proteus/PIC32MZEF.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 R4X
 - Package Type : 	 QFN
 - Pin count : 	 64,00
-- Package Layout : 	 [C04-00149E](./mchp/packages/C04-00149E.pdf)
-- Package 3d model wrl : 	 [C04-00149E](./Model3d/wrl/C04-00149E.wrl)
-- Package 3d model x3d : 	 [C04-00149E](./Model3d/x3d/C04-00149E.x3d)
-- Package 3d model scad : 	 [C04-00149E](./Model3d/scad/C04-00149E.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00149E.pdf](./mchp/packages/c04-00149e.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00149E.wrl) : 	 [C04-00149E.wrl](./Model3d/wrl/C04-00149E.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00149E.x3d) : 	 [C04-00149E.x3d](./Model3d/x3d/C04-00149E.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00149E.scad) : 	 [C04-00149E.scad](./Model3d/scad/C04-00149E.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MZ1024EFE100
 
@@ -614,16 +727,21 @@ Pin count : 0
 - Family : PIC32MZEF
 - MF : Microchip
 - Name : PIC32MZ1024EFE100
+- Library Kicad : [PIC32MZEF.kicad_sym](./KiCad/PIC32MZEF.kicad_sym) 
+- Library Altium : [PIC32MZEF.lia](./Altium/PIC32MZEF.lia) 
+- Library Proteus : [PIC32MZEF.pdif](./Proteus/PIC32MZEF.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00110C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00110C](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 E5X
 - Package Type : 	 TQFP
 - Pin count : 	 100,00
-- Package Layout : 	 [C04-00110C](./mchp/packages/C04-00110C.pdf)
-- Package 3d model scad : 	 [C04-00110C](./Model3d/scad/C04-00110C.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00110C.pdf](./mchp/packages/c04-00110c.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00110C.scad) : 	 [C04-00110C.scad](./Model3d/scad/C04-00110C.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MZ1024EFE124
 
@@ -640,16 +758,23 @@ Pin count : 0
 - Family : PIC32MZEF
 - MF : Microchip
 - Name : PIC32MZ1024EFE124
+- Library Kicad : [PIC32MZEF.kicad_sym](./KiCad/PIC32MZEF.kicad_sym) 
+- Library Altium : [PIC32MZEF.lia](./Altium/PIC32MZEF.lia) 
+- Library Proteus : [PIC32MZEF.pdif](./Proteus/PIC32MZEF.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00193A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00193A](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 8SX
 - Package Type : 	 VTLA
 - Pin count : 	 124,00
-- Package Layout : 	 [C04-00193A](./mchp/packages/C04-00193A.pdf)
-- Package 3d model scad : 	 [C04-00193A](./Model3d/scad/C04-00193A.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00193A.pdf](./mchp/packages/c04-00193a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00193A.wrl) : 	 [C04-00193A.wrl](./Model3d/wrl/C04-00193A.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00193A.x3d) : 	 [C04-00193A.x3d](./Model3d/x3d/C04-00193A.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00193A.scad) : 	 [C04-00193A.scad](./Model3d/scad/C04-00193A.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MZ1024EFE144
 
@@ -666,16 +791,21 @@ Pin count : 0
 - Family : PIC32MZEF
 - MF : Microchip
 - Name : PIC32MZ1024EFE144
+- Library Kicad : [PIC32MZEF.kicad_sym](./KiCad/PIC32MZEF.kicad_sym) 
+- Library Altium : [PIC32MZEF.lia](./Altium/PIC32MZEF.lia) 
+- Library Proteus : [PIC32MZEF.pdif](./Proteus/PIC32MZEF.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00044D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00044D](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 H8X
 - Package Type : 	 LQFP
 - Pin count : 	 144,00
-- Package Layout : 	 [C04-00044D](./mchp/packages/C04-00044D.pdf)
-- Package 3d model scad : 	 [C04-00044D](./Model3d/scad/C04-00044D.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00044D.pdf](./mchp/packages/c04-00044d.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00044D.scad) : 	 [C04-00044D.scad](./Model3d/scad/C04-00044D.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MZ1024EFE144
 
@@ -692,16 +822,21 @@ Pin count : 0
 - Family : PIC32MZEF
 - MF : Microchip
 - Name : PIC32MZ1024EFE144
+- Library Kicad : [PIC32MZEF.kicad_sym](./KiCad/PIC32MZEF.kicad_sym) 
+- Library Altium : [PIC32MZEF.lia](./Altium/PIC32MZEF.lia) 
+- Library Proteus : [PIC32MZEF.pdif](./Proteus/PIC32MZEF.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00044D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00044D](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 H8X
 - Package Type : 	 LQFP
 - Pin count : 	 144,00
-- Package Layout : 	 [C04-00044D](./mchp/packages/C04-00044D.pdf)
-- Package 3d model scad : 	 [C04-00044D](./Model3d/scad/C04-00044D.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00044D.pdf](./mchp/packages/c04-00044d.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00044D.scad) : 	 [C04-00044D.scad](./Model3d/scad/C04-00044D.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MZ1024EFE144
 
@@ -718,16 +853,21 @@ Pin count : 0
 - Family : PIC32MZEF
 - MF : Microchip
 - Name : PIC32MZ1024EFE144
+- Library Kicad : [PIC32MZEF.kicad_sym](./KiCad/PIC32MZEF.kicad_sym) 
+- Library Altium : [PIC32MZEF.lia](./Altium/PIC32MZEF.lia) 
+- Library Proteus : [PIC32MZEF.pdif](./Proteus/PIC32MZEF.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00044D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00044D](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 H8X
 - Package Type : 	 LQFP
 - Pin count : 	 144,00
-- Package Layout : 	 [C04-00044D](./mchp/packages/C04-00044D.pdf)
-- Package 3d model scad : 	 [C04-00044D](./Model3d/scad/C04-00044D.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00044D.pdf](./mchp/packages/c04-00044d.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00044D.scad) : 	 [C04-00044D.scad](./Model3d/scad/C04-00044D.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MZ1024EFF064
 
@@ -744,18 +884,23 @@ Pin count : 0
 - Family : PIC32MZEF
 - MF : Microchip
 - Name : PIC32MZ1024EFF064
+- Library Kicad : [PIC32MZEF.kicad_sym](./KiCad/PIC32MZEF.kicad_sym) 
+- Library Altium : [PIC32MZEF.lia](./Altium/PIC32MZEF.lia) 
+- Library Proteus : [PIC32MZEF.pdif](./Proteus/PIC32MZEF.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 R4X
 - Package Type : 	 QFN
 - Pin count : 	 64,00
-- Package Layout : 	 [C04-00149E](./mchp/packages/C04-00149E.pdf)
-- Package 3d model wrl : 	 [C04-00149E](./Model3d/wrl/C04-00149E.wrl)
-- Package 3d model x3d : 	 [C04-00149E](./Model3d/x3d/C04-00149E.x3d)
-- Package 3d model scad : 	 [C04-00149E](./Model3d/scad/C04-00149E.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00149E.pdf](./mchp/packages/c04-00149e.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00149E.wrl) : 	 [C04-00149E.wrl](./Model3d/wrl/C04-00149E.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00149E.x3d) : 	 [C04-00149E.x3d](./Model3d/x3d/C04-00149E.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00149E.scad) : 	 [C04-00149E.scad](./Model3d/scad/C04-00149E.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MZ1024EFF064
 
@@ -772,18 +917,23 @@ Pin count : 0
 - Family : PIC32MZEF
 - MF : Microchip
 - Name : PIC32MZ1024EFF064
+- Library Kicad : [PIC32MZEF.kicad_sym](./KiCad/PIC32MZEF.kicad_sym) 
+- Library Altium : [PIC32MZEF.lia](./Altium/PIC32MZEF.lia) 
+- Library Proteus : [PIC32MZEF.pdif](./Proteus/PIC32MZEF.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 R4X
 - Package Type : 	 QFN
 - Pin count : 	 64,00
-- Package Layout : 	 [C04-00149E](./mchp/packages/C04-00149E.pdf)
-- Package 3d model wrl : 	 [C04-00149E](./Model3d/wrl/C04-00149E.wrl)
-- Package 3d model x3d : 	 [C04-00149E](./Model3d/x3d/C04-00149E.x3d)
-- Package 3d model scad : 	 [C04-00149E](./Model3d/scad/C04-00149E.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00149E.pdf](./mchp/packages/c04-00149e.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00149E.wrl) : 	 [C04-00149E.wrl](./Model3d/wrl/C04-00149E.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00149E.x3d) : 	 [C04-00149E.x3d](./Model3d/x3d/C04-00149E.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00149E.scad) : 	 [C04-00149E.scad](./Model3d/scad/C04-00149E.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MZ1024EFF100
 
@@ -800,16 +950,21 @@ Pin count : 0
 - Family : PIC32MZEF
 - MF : Microchip
 - Name : PIC32MZ1024EFF100
+- Library Kicad : [PIC32MZEF.kicad_sym](./KiCad/PIC32MZEF.kicad_sym) 
+- Library Altium : [PIC32MZEF.lia](./Altium/PIC32MZEF.lia) 
+- Library Proteus : [PIC32MZEF.pdif](./Proteus/PIC32MZEF.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00110C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00110C](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 E5X
 - Package Type : 	 TQFP
 - Pin count : 	 100,00
-- Package Layout : 	 [C04-00110C](./mchp/packages/C04-00110C.pdf)
-- Package 3d model scad : 	 [C04-00110C](./Model3d/scad/C04-00110C.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00110C.pdf](./mchp/packages/c04-00110c.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00110C.scad) : 	 [C04-00110C.scad](./Model3d/scad/C04-00110C.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MZ1024EFF124
 
@@ -826,6 +981,9 @@ Pin count : 0
 - Family : PIC32MZEF
 - MF : Microchip
 - Name : PIC32MZ1024EFF124
+- Library Kicad : [PIC32MZEF.kicad_sym](./KiCad/PIC32MZEF.kicad_sym) 
+- Library Altium : [PIC32MZEF.lia](./Altium/PIC32MZEF.lia) 
+- Library Proteus : [PIC32MZEF.pdif](./Proteus/PIC32MZEF.pdif) 
 
 ### Package : 
 
@@ -845,16 +1003,21 @@ Pin count : 0
 - Family : PIC32MZEF
 - MF : Microchip
 - Name : PIC32MZ1024EFF144
+- Library Kicad : [PIC32MZEF.kicad_sym](./KiCad/PIC32MZEF.kicad_sym) 
+- Library Altium : [PIC32MZEF.lia](./Altium/PIC32MZEF.lia) 
+- Library Proteus : [PIC32MZEF.pdif](./Proteus/PIC32MZEF.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00044D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00044D](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 H8X
 - Package Type : 	 LQFP
 - Pin count : 	 144,00
-- Package Layout : 	 [C04-00044D](./mchp/packages/C04-00044D.pdf)
-- Package 3d model scad : 	 [C04-00044D](./Model3d/scad/C04-00044D.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00044D.pdf](./mchp/packages/c04-00044d.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00044D.scad) : 	 [C04-00044D.scad](./Model3d/scad/C04-00044D.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MZ1024EFF144
 
@@ -871,16 +1034,21 @@ Pin count : 0
 - Family : PIC32MZEF
 - MF : Microchip
 - Name : PIC32MZ1024EFF144
+- Library Kicad : [PIC32MZEF.kicad_sym](./KiCad/PIC32MZEF.kicad_sym) 
+- Library Altium : [PIC32MZEF.lia](./Altium/PIC32MZEF.lia) 
+- Library Proteus : [PIC32MZEF.pdif](./Proteus/PIC32MZEF.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00044D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00044D](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 H8X
 - Package Type : 	 LQFP
 - Pin count : 	 144,00
-- Package Layout : 	 [C04-00044D](./mchp/packages/C04-00044D.pdf)
-- Package 3d model scad : 	 [C04-00044D](./Model3d/scad/C04-00044D.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00044D.pdf](./mchp/packages/c04-00044d.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00044D.scad) : 	 [C04-00044D.scad](./Model3d/scad/C04-00044D.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MZ1024EFF144
 
@@ -897,16 +1065,21 @@ Pin count : 0
 - Family : PIC32MZEF
 - MF : Microchip
 - Name : PIC32MZ1024EFF144
+- Library Kicad : [PIC32MZEF.kicad_sym](./KiCad/PIC32MZEF.kicad_sym) 
+- Library Altium : [PIC32MZEF.lia](./Altium/PIC32MZEF.lia) 
+- Library Proteus : [PIC32MZEF.pdif](./Proteus/PIC32MZEF.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00044D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00044D](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 H8X
 - Package Type : 	 LQFP
 - Pin count : 	 144,00
-- Package Layout : 	 [C04-00044D](./mchp/packages/C04-00044D.pdf)
-- Package 3d model scad : 	 [C04-00044D](./Model3d/scad/C04-00044D.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00044D.pdf](./mchp/packages/c04-00044d.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00044D.scad) : 	 [C04-00044D.scad](./Model3d/scad/C04-00044D.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MZ1024EFG064
 
@@ -923,18 +1096,23 @@ Pin count : 0
 - Family : PIC32MZEF
 - MF : Microchip
 - Name : PIC32MZ1024EFG064
+- Library Kicad : [PIC32MZEF.kicad_sym](./KiCad/PIC32MZEF.kicad_sym) 
+- Library Altium : [PIC32MZEF.lia](./Altium/PIC32MZEF.lia) 
+- Library Proteus : [PIC32MZEF.pdif](./Proteus/PIC32MZEF.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 R4X
 - Package Type : 	 QFN
 - Pin count : 	 64,00
-- Package Layout : 	 [C04-00149E](./mchp/packages/C04-00149E.pdf)
-- Package 3d model wrl : 	 [C04-00149E](./Model3d/wrl/C04-00149E.wrl)
-- Package 3d model x3d : 	 [C04-00149E](./Model3d/x3d/C04-00149E.x3d)
-- Package 3d model scad : 	 [C04-00149E](./Model3d/scad/C04-00149E.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00149E.pdf](./mchp/packages/c04-00149e.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00149E.wrl) : 	 [C04-00149E.wrl](./Model3d/wrl/C04-00149E.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00149E.x3d) : 	 [C04-00149E.x3d](./Model3d/x3d/C04-00149E.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00149E.scad) : 	 [C04-00149E.scad](./Model3d/scad/C04-00149E.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MZ1024EFG064
 
@@ -951,18 +1129,23 @@ Pin count : 0
 - Family : PIC32MZEF
 - MF : Microchip
 - Name : PIC32MZ1024EFG064
+- Library Kicad : [PIC32MZEF.kicad_sym](./KiCad/PIC32MZEF.kicad_sym) 
+- Library Altium : [PIC32MZEF.lia](./Altium/PIC32MZEF.lia) 
+- Library Proteus : [PIC32MZEF.pdif](./Proteus/PIC32MZEF.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 R4X
 - Package Type : 	 QFN
 - Pin count : 	 64,00
-- Package Layout : 	 [C04-00149E](./mchp/packages/C04-00149E.pdf)
-- Package 3d model wrl : 	 [C04-00149E](./Model3d/wrl/C04-00149E.wrl)
-- Package 3d model x3d : 	 [C04-00149E](./Model3d/x3d/C04-00149E.x3d)
-- Package 3d model scad : 	 [C04-00149E](./Model3d/scad/C04-00149E.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00149E.pdf](./mchp/packages/c04-00149e.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00149E.wrl) : 	 [C04-00149E.wrl](./Model3d/wrl/C04-00149E.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00149E.x3d) : 	 [C04-00149E.x3d](./Model3d/x3d/C04-00149E.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00149E.scad) : 	 [C04-00149E.scad](./Model3d/scad/C04-00149E.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MZ1024EFG100
 
@@ -979,16 +1162,21 @@ Pin count : 0
 - Family : PIC32MZEF
 - MF : Microchip
 - Name : PIC32MZ1024EFG100
+- Library Kicad : [PIC32MZEF.kicad_sym](./KiCad/PIC32MZEF.kicad_sym) 
+- Library Altium : [PIC32MZEF.lia](./Altium/PIC32MZEF.lia) 
+- Library Proteus : [PIC32MZEF.pdif](./Proteus/PIC32MZEF.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00110C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00110C](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 E5X
 - Package Type : 	 TQFP
 - Pin count : 	 100,00
-- Package Layout : 	 [C04-00110C](./mchp/packages/C04-00110C.pdf)
-- Package 3d model scad : 	 [C04-00110C](./Model3d/scad/C04-00110C.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00110C.pdf](./mchp/packages/c04-00110c.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00110C.scad) : 	 [C04-00110C.scad](./Model3d/scad/C04-00110C.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MZ1024EFG124
 
@@ -1005,16 +1193,23 @@ Pin count : 0
 - Family : PIC32MZEF
 - MF : Microchip
 - Name : PIC32MZ1024EFG124
+- Library Kicad : [PIC32MZEF.kicad_sym](./KiCad/PIC32MZEF.kicad_sym) 
+- Library Altium : [PIC32MZEF.lia](./Altium/PIC32MZEF.lia) 
+- Library Proteus : [PIC32MZEF.pdif](./Proteus/PIC32MZEF.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00193A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00193A](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 8SX
 - Package Type : 	 VTLA
 - Pin count : 	 124,00
-- Package Layout : 	 [C04-00193A](./mchp/packages/C04-00193A.pdf)
-- Package 3d model scad : 	 [C04-00193A](./Model3d/scad/C04-00193A.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00193A.pdf](./mchp/packages/c04-00193a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00193A.wrl) : 	 [C04-00193A.wrl](./Model3d/wrl/C04-00193A.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00193A.x3d) : 	 [C04-00193A.x3d](./Model3d/x3d/C04-00193A.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00193A.scad) : 	 [C04-00193A.scad](./Model3d/scad/C04-00193A.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MZ1024EFG144
 
@@ -1031,16 +1226,21 @@ Pin count : 0
 - Family : PIC32MZEF
 - MF : Microchip
 - Name : PIC32MZ1024EFG144
+- Library Kicad : [PIC32MZEF.kicad_sym](./KiCad/PIC32MZEF.kicad_sym) 
+- Library Altium : [PIC32MZEF.lia](./Altium/PIC32MZEF.lia) 
+- Library Proteus : [PIC32MZEF.pdif](./Proteus/PIC32MZEF.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00044D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00044D](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 H8X
 - Package Type : 	 LQFP
 - Pin count : 	 144,00
-- Package Layout : 	 [C04-00044D](./mchp/packages/C04-00044D.pdf)
-- Package 3d model scad : 	 [C04-00044D](./Model3d/scad/C04-00044D.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00044D.pdf](./mchp/packages/c04-00044d.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00044D.scad) : 	 [C04-00044D.scad](./Model3d/scad/C04-00044D.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MZ1024EFG144
 
@@ -1057,16 +1257,21 @@ Pin count : 0
 - Family : PIC32MZEF
 - MF : Microchip
 - Name : PIC32MZ1024EFG144
+- Library Kicad : [PIC32MZEF.kicad_sym](./KiCad/PIC32MZEF.kicad_sym) 
+- Library Altium : [PIC32MZEF.lia](./Altium/PIC32MZEF.lia) 
+- Library Proteus : [PIC32MZEF.pdif](./Proteus/PIC32MZEF.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00044D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00044D](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 H8X
 - Package Type : 	 LQFP
 - Pin count : 	 144,00
-- Package Layout : 	 [C04-00044D](./mchp/packages/C04-00044D.pdf)
-- Package 3d model scad : 	 [C04-00044D](./Model3d/scad/C04-00044D.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00044D.pdf](./mchp/packages/c04-00044d.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00044D.scad) : 	 [C04-00044D.scad](./Model3d/scad/C04-00044D.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MZ1024EFG144
 
@@ -1083,16 +1288,21 @@ Pin count : 0
 - Family : PIC32MZEF
 - MF : Microchip
 - Name : PIC32MZ1024EFG144
+- Library Kicad : [PIC32MZEF.kicad_sym](./KiCad/PIC32MZEF.kicad_sym) 
+- Library Altium : [PIC32MZEF.lia](./Altium/PIC32MZEF.lia) 
+- Library Proteus : [PIC32MZEF.pdif](./Proteus/PIC32MZEF.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00044D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00044D](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 H8X
 - Package Type : 	 LQFP
 - Pin count : 	 144,00
-- Package Layout : 	 [C04-00044D](./mchp/packages/C04-00044D.pdf)
-- Package 3d model scad : 	 [C04-00044D](./Model3d/scad/C04-00044D.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00044D.pdf](./mchp/packages/c04-00044d.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00044D.scad) : 	 [C04-00044D.scad](./Model3d/scad/C04-00044D.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MZ1024EFH064
 
@@ -1109,18 +1319,23 @@ Pin count : 0
 - Family : PIC32MZEF
 - MF : Microchip
 - Name : PIC32MZ1024EFH064
+- Library Kicad : [PIC32MZEF.kicad_sym](./KiCad/PIC32MZEF.kicad_sym) 
+- Library Altium : [PIC32MZEF.lia](./Altium/PIC32MZEF.lia) 
+- Library Proteus : [PIC32MZEF.pdif](./Proteus/PIC32MZEF.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 R4X
 - Package Type : 	 QFN
 - Pin count : 	 64,00
-- Package Layout : 	 [C04-00149E](./mchp/packages/C04-00149E.pdf)
-- Package 3d model wrl : 	 [C04-00149E](./Model3d/wrl/C04-00149E.wrl)
-- Package 3d model x3d : 	 [C04-00149E](./Model3d/x3d/C04-00149E.x3d)
-- Package 3d model scad : 	 [C04-00149E](./Model3d/scad/C04-00149E.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00149E.pdf](./mchp/packages/c04-00149e.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00149E.wrl) : 	 [C04-00149E.wrl](./Model3d/wrl/C04-00149E.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00149E.x3d) : 	 [C04-00149E.x3d](./Model3d/x3d/C04-00149E.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00149E.scad) : 	 [C04-00149E.scad](./Model3d/scad/C04-00149E.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MZ1024EFH064
 
@@ -1137,18 +1352,23 @@ Pin count : 0
 - Family : PIC32MZEF
 - MF : Microchip
 - Name : PIC32MZ1024EFH064
+- Library Kicad : [PIC32MZEF.kicad_sym](./KiCad/PIC32MZEF.kicad_sym) 
+- Library Altium : [PIC32MZEF.lia](./Altium/PIC32MZEF.lia) 
+- Library Proteus : [PIC32MZEF.pdif](./Proteus/PIC32MZEF.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 R4X
 - Package Type : 	 QFN
 - Pin count : 	 64,00
-- Package Layout : 	 [C04-00149E](./mchp/packages/C04-00149E.pdf)
-- Package 3d model wrl : 	 [C04-00149E](./Model3d/wrl/C04-00149E.wrl)
-- Package 3d model x3d : 	 [C04-00149E](./Model3d/x3d/C04-00149E.x3d)
-- Package 3d model scad : 	 [C04-00149E](./Model3d/scad/C04-00149E.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00149E.pdf](./mchp/packages/c04-00149e.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00149E.wrl) : 	 [C04-00149E.wrl](./Model3d/wrl/C04-00149E.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00149E.x3d) : 	 [C04-00149E.x3d](./Model3d/x3d/C04-00149E.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00149E.scad) : 	 [C04-00149E.scad](./Model3d/scad/C04-00149E.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MZ1024EFH100
 
@@ -1165,16 +1385,21 @@ Pin count : 0
 - Family : PIC32MZEF
 - MF : Microchip
 - Name : PIC32MZ1024EFH100
+- Library Kicad : [PIC32MZEF.kicad_sym](./KiCad/PIC32MZEF.kicad_sym) 
+- Library Altium : [PIC32MZEF.lia](./Altium/PIC32MZEF.lia) 
+- Library Proteus : [PIC32MZEF.pdif](./Proteus/PIC32MZEF.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00110C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00110C](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 E5X
 - Package Type : 	 TQFP
 - Pin count : 	 100,00
-- Package Layout : 	 [C04-00110C](./mchp/packages/C04-00110C.pdf)
-- Package 3d model scad : 	 [C04-00110C](./Model3d/scad/C04-00110C.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00110C.pdf](./mchp/packages/c04-00110c.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00110C.scad) : 	 [C04-00110C.scad](./Model3d/scad/C04-00110C.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MZ1024EFH124
 
@@ -1191,6 +1416,9 @@ Pin count : 0
 - Family : PIC32MZEF
 - MF : Microchip
 - Name : PIC32MZ1024EFH124
+- Library Kicad : [PIC32MZEF.kicad_sym](./KiCad/PIC32MZEF.kicad_sym) 
+- Library Altium : [PIC32MZEF.lia](./Altium/PIC32MZEF.lia) 
+- Library Proteus : [PIC32MZEF.pdif](./Proteus/PIC32MZEF.pdif) 
 
 ### Package : 
 
@@ -1210,16 +1438,21 @@ Pin count : 0
 - Family : PIC32MZEF
 - MF : Microchip
 - Name : PIC32MZ1024EFH144
+- Library Kicad : [PIC32MZEF.kicad_sym](./KiCad/PIC32MZEF.kicad_sym) 
+- Library Altium : [PIC32MZEF.lia](./Altium/PIC32MZEF.lia) 
+- Library Proteus : [PIC32MZEF.pdif](./Proteus/PIC32MZEF.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00044D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00044D](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 H8X
 - Package Type : 	 LQFP
 - Pin count : 	 144,00
-- Package Layout : 	 [C04-00044D](./mchp/packages/C04-00044D.pdf)
-- Package 3d model scad : 	 [C04-00044D](./Model3d/scad/C04-00044D.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00044D.pdf](./mchp/packages/c04-00044d.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00044D.scad) : 	 [C04-00044D.scad](./Model3d/scad/C04-00044D.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MZ1024EFH144
 
@@ -1236,16 +1469,21 @@ Pin count : 0
 - Family : PIC32MZEF
 - MF : Microchip
 - Name : PIC32MZ1024EFH144
+- Library Kicad : [PIC32MZEF.kicad_sym](./KiCad/PIC32MZEF.kicad_sym) 
+- Library Altium : [PIC32MZEF.lia](./Altium/PIC32MZEF.lia) 
+- Library Proteus : [PIC32MZEF.pdif](./Proteus/PIC32MZEF.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00044D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00044D](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 H8X
 - Package Type : 	 LQFP
 - Pin count : 	 144,00
-- Package Layout : 	 [C04-00044D](./mchp/packages/C04-00044D.pdf)
-- Package 3d model scad : 	 [C04-00044D](./Model3d/scad/C04-00044D.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00044D.pdf](./mchp/packages/c04-00044d.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00044D.scad) : 	 [C04-00044D.scad](./Model3d/scad/C04-00044D.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MZ1024EFH144
 
@@ -1262,16 +1500,21 @@ Pin count : 0
 - Family : PIC32MZEF
 - MF : Microchip
 - Name : PIC32MZ1024EFH144
+- Library Kicad : [PIC32MZEF.kicad_sym](./KiCad/PIC32MZEF.kicad_sym) 
+- Library Altium : [PIC32MZEF.lia](./Altium/PIC32MZEF.lia) 
+- Library Proteus : [PIC32MZEF.pdif](./Proteus/PIC32MZEF.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00044D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00044D](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 H8X
 - Package Type : 	 LQFP
 - Pin count : 	 144,00
-- Package Layout : 	 [C04-00044D](./mchp/packages/C04-00044D.pdf)
-- Package 3d model scad : 	 [C04-00044D](./Model3d/scad/C04-00044D.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00044D.pdf](./mchp/packages/c04-00044d.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00044D.scad) : 	 [C04-00044D.scad](./Model3d/scad/C04-00044D.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MZ1024EFK064
 
@@ -1288,18 +1531,23 @@ Pin count : 0
 - Family : PIC32MZEF
 - MF : Microchip
 - Name : PIC32MZ1024EFK064
+- Library Kicad : [PIC32MZEF.kicad_sym](./KiCad/PIC32MZEF.kicad_sym) 
+- Library Altium : [PIC32MZEF.lia](./Altium/PIC32MZEF.lia) 
+- Library Proteus : [PIC32MZEF.pdif](./Proteus/PIC32MZEF.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 R4X
 - Package Type : 	 QFN
 - Pin count : 	 64,00
-- Package Layout : 	 [C04-00149E](./mchp/packages/C04-00149E.pdf)
-- Package 3d model wrl : 	 [C04-00149E](./Model3d/wrl/C04-00149E.wrl)
-- Package 3d model x3d : 	 [C04-00149E](./Model3d/x3d/C04-00149E.x3d)
-- Package 3d model scad : 	 [C04-00149E](./Model3d/scad/C04-00149E.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00149E.pdf](./mchp/packages/c04-00149e.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00149E.wrl) : 	 [C04-00149E.wrl](./Model3d/wrl/C04-00149E.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00149E.x3d) : 	 [C04-00149E.x3d](./Model3d/x3d/C04-00149E.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00149E.scad) : 	 [C04-00149E.scad](./Model3d/scad/C04-00149E.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MZ1024EFK064
 
@@ -1316,18 +1564,23 @@ Pin count : 0
 - Family : PIC32MZEF
 - MF : Microchip
 - Name : PIC32MZ1024EFK064
+- Library Kicad : [PIC32MZEF.kicad_sym](./KiCad/PIC32MZEF.kicad_sym) 
+- Library Altium : [PIC32MZEF.lia](./Altium/PIC32MZEF.lia) 
+- Library Proteus : [PIC32MZEF.pdif](./Proteus/PIC32MZEF.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 R4X
 - Package Type : 	 QFN
 - Pin count : 	 64,00
-- Package Layout : 	 [C04-00149E](./mchp/packages/C04-00149E.pdf)
-- Package 3d model wrl : 	 [C04-00149E](./Model3d/wrl/C04-00149E.wrl)
-- Package 3d model x3d : 	 [C04-00149E](./Model3d/x3d/C04-00149E.x3d)
-- Package 3d model scad : 	 [C04-00149E](./Model3d/scad/C04-00149E.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00149E.pdf](./mchp/packages/c04-00149e.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00149E.wrl) : 	 [C04-00149E.wrl](./Model3d/wrl/C04-00149E.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00149E.x3d) : 	 [C04-00149E.x3d](./Model3d/x3d/C04-00149E.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00149E.scad) : 	 [C04-00149E.scad](./Model3d/scad/C04-00149E.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MZ1024EFK100
 
@@ -1344,16 +1597,21 @@ Pin count : 0
 - Family : PIC32MZEF
 - MF : Microchip
 - Name : PIC32MZ1024EFK100
+- Library Kicad : [PIC32MZEF.kicad_sym](./KiCad/PIC32MZEF.kicad_sym) 
+- Library Altium : [PIC32MZEF.lia](./Altium/PIC32MZEF.lia) 
+- Library Proteus : [PIC32MZEF.pdif](./Proteus/PIC32MZEF.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00110C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00110C](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 E5X
 - Package Type : 	 TQFP
 - Pin count : 	 100,00
-- Package Layout : 	 [C04-00110C](./mchp/packages/C04-00110C.pdf)
-- Package 3d model scad : 	 [C04-00110C](./Model3d/scad/C04-00110C.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00110C.pdf](./mchp/packages/c04-00110c.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00110C.scad) : 	 [C04-00110C.scad](./Model3d/scad/C04-00110C.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MZ1024EFK124
 
@@ -1370,6 +1628,9 @@ Pin count : 0
 - Family : PIC32MZEF
 - MF : Microchip
 - Name : PIC32MZ1024EFK124
+- Library Kicad : [PIC32MZEF.kicad_sym](./KiCad/PIC32MZEF.kicad_sym) 
+- Library Altium : [PIC32MZEF.lia](./Altium/PIC32MZEF.lia) 
+- Library Proteus : [PIC32MZEF.pdif](./Proteus/PIC32MZEF.pdif) 
 
 ### Package : 
 
@@ -1389,16 +1650,21 @@ Pin count : 0
 - Family : PIC32MZEF
 - MF : Microchip
 - Name : PIC32MZ1024EFK144
+- Library Kicad : [PIC32MZEF.kicad_sym](./KiCad/PIC32MZEF.kicad_sym) 
+- Library Altium : [PIC32MZEF.lia](./Altium/PIC32MZEF.lia) 
+- Library Proteus : [PIC32MZEF.pdif](./Proteus/PIC32MZEF.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00044D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00044D](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 H8X
 - Package Type : 	 LQFP
 - Pin count : 	 144,00
-- Package Layout : 	 [C04-00044D](./mchp/packages/C04-00044D.pdf)
-- Package 3d model scad : 	 [C04-00044D](./Model3d/scad/C04-00044D.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00044D.pdf](./mchp/packages/c04-00044d.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00044D.scad) : 	 [C04-00044D.scad](./Model3d/scad/C04-00044D.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MZ1024EFK144
 
@@ -1415,16 +1681,21 @@ Pin count : 0
 - Family : PIC32MZEF
 - MF : Microchip
 - Name : PIC32MZ1024EFK144
+- Library Kicad : [PIC32MZEF.kicad_sym](./KiCad/PIC32MZEF.kicad_sym) 
+- Library Altium : [PIC32MZEF.lia](./Altium/PIC32MZEF.lia) 
+- Library Proteus : [PIC32MZEF.pdif](./Proteus/PIC32MZEF.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00044D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00044D](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 H8X
 - Package Type : 	 LQFP
 - Pin count : 	 144,00
-- Package Layout : 	 [C04-00044D](./mchp/packages/C04-00044D.pdf)
-- Package 3d model scad : 	 [C04-00044D](./Model3d/scad/C04-00044D.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00044D.pdf](./mchp/packages/c04-00044d.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00044D.scad) : 	 [C04-00044D.scad](./Model3d/scad/C04-00044D.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MZ1024EFK144
 
@@ -1441,16 +1712,21 @@ Pin count : 0
 - Family : PIC32MZEF
 - MF : Microchip
 - Name : PIC32MZ1024EFK144
+- Library Kicad : [PIC32MZEF.kicad_sym](./KiCad/PIC32MZEF.kicad_sym) 
+- Library Altium : [PIC32MZEF.lia](./Altium/PIC32MZEF.lia) 
+- Library Proteus : [PIC32MZEF.pdif](./Proteus/PIC32MZEF.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00044D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00044D](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 H8X
 - Package Type : 	 LQFP
 - Pin count : 	 144,00
-- Package Layout : 	 [C04-00044D](./mchp/packages/C04-00044D.pdf)
-- Package 3d model scad : 	 [C04-00044D](./Model3d/scad/C04-00044D.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00044D.pdf](./mchp/packages/c04-00044d.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00044D.scad) : 	 [C04-00044D.scad](./Model3d/scad/C04-00044D.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MZ1024EFM064
 
@@ -1467,18 +1743,23 @@ Pin count : 0
 - Family : PIC32MZEF
 - MF : Microchip
 - Name : PIC32MZ1024EFM064
+- Library Kicad : [PIC32MZEF.kicad_sym](./KiCad/PIC32MZEF.kicad_sym) 
+- Library Altium : [PIC32MZEF.lia](./Altium/PIC32MZEF.lia) 
+- Library Proteus : [PIC32MZEF.pdif](./Proteus/PIC32MZEF.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 R4X
 - Package Type : 	 QFN
 - Pin count : 	 64,00
-- Package Layout : 	 [C04-00149E](./mchp/packages/C04-00149E.pdf)
-- Package 3d model wrl : 	 [C04-00149E](./Model3d/wrl/C04-00149E.wrl)
-- Package 3d model x3d : 	 [C04-00149E](./Model3d/x3d/C04-00149E.x3d)
-- Package 3d model scad : 	 [C04-00149E](./Model3d/scad/C04-00149E.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00149E.pdf](./mchp/packages/c04-00149e.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00149E.wrl) : 	 [C04-00149E.wrl](./Model3d/wrl/C04-00149E.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00149E.x3d) : 	 [C04-00149E.x3d](./Model3d/x3d/C04-00149E.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00149E.scad) : 	 [C04-00149E.scad](./Model3d/scad/C04-00149E.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MZ1024EFM064
 
@@ -1495,18 +1776,23 @@ Pin count : 0
 - Family : PIC32MZEF
 - MF : Microchip
 - Name : PIC32MZ1024EFM064
+- Library Kicad : [PIC32MZEF.kicad_sym](./KiCad/PIC32MZEF.kicad_sym) 
+- Library Altium : [PIC32MZEF.lia](./Altium/PIC32MZEF.lia) 
+- Library Proteus : [PIC32MZEF.pdif](./Proteus/PIC32MZEF.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 R4X
 - Package Type : 	 QFN
 - Pin count : 	 64,00
-- Package Layout : 	 [C04-00149E](./mchp/packages/C04-00149E.pdf)
-- Package 3d model wrl : 	 [C04-00149E](./Model3d/wrl/C04-00149E.wrl)
-- Package 3d model x3d : 	 [C04-00149E](./Model3d/x3d/C04-00149E.x3d)
-- Package 3d model scad : 	 [C04-00149E](./Model3d/scad/C04-00149E.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00149E.pdf](./mchp/packages/c04-00149e.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00149E.wrl) : 	 [C04-00149E.wrl](./Model3d/wrl/C04-00149E.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00149E.x3d) : 	 [C04-00149E.x3d](./Model3d/x3d/C04-00149E.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00149E.scad) : 	 [C04-00149E.scad](./Model3d/scad/C04-00149E.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MZ1024EFM100
 
@@ -1523,16 +1809,21 @@ Pin count : 0
 - Family : PIC32MZEF
 - MF : Microchip
 - Name : PIC32MZ1024EFM100
+- Library Kicad : [PIC32MZEF.kicad_sym](./KiCad/PIC32MZEF.kicad_sym) 
+- Library Altium : [PIC32MZEF.lia](./Altium/PIC32MZEF.lia) 
+- Library Proteus : [PIC32MZEF.pdif](./Proteus/PIC32MZEF.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00110C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00110C](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 E5X
 - Package Type : 	 TQFP
 - Pin count : 	 100,00
-- Package Layout : 	 [C04-00110C](./mchp/packages/C04-00110C.pdf)
-- Package 3d model scad : 	 [C04-00110C](./Model3d/scad/C04-00110C.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00110C.pdf](./mchp/packages/c04-00110c.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00110C.scad) : 	 [C04-00110C.scad](./Model3d/scad/C04-00110C.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MZ1024EFM124
 
@@ -1549,6 +1840,9 @@ Pin count : 0
 - Family : PIC32MZEF
 - MF : Microchip
 - Name : PIC32MZ1024EFM124
+- Library Kicad : [PIC32MZEF.kicad_sym](./KiCad/PIC32MZEF.kicad_sym) 
+- Library Altium : [PIC32MZEF.lia](./Altium/PIC32MZEF.lia) 
+- Library Proteus : [PIC32MZEF.pdif](./Proteus/PIC32MZEF.pdif) 
 
 ### Package : 
 
@@ -1568,16 +1862,21 @@ Pin count : 0
 - Family : PIC32MZEF
 - MF : Microchip
 - Name : PIC32MZ1024EFM144
+- Library Kicad : [PIC32MZEF.kicad_sym](./KiCad/PIC32MZEF.kicad_sym) 
+- Library Altium : [PIC32MZEF.lia](./Altium/PIC32MZEF.lia) 
+- Library Proteus : [PIC32MZEF.pdif](./Proteus/PIC32MZEF.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00044D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00044D](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 H8X
 - Package Type : 	 LQFP
 - Pin count : 	 144,00
-- Package Layout : 	 [C04-00044D](./mchp/packages/C04-00044D.pdf)
-- Package 3d model scad : 	 [C04-00044D](./Model3d/scad/C04-00044D.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00044D.pdf](./mchp/packages/c04-00044d.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00044D.scad) : 	 [C04-00044D.scad](./Model3d/scad/C04-00044D.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MZ1024EFM144
 
@@ -1594,16 +1893,21 @@ Pin count : 0
 - Family : PIC32MZEF
 - MF : Microchip
 - Name : PIC32MZ1024EFM144
+- Library Kicad : [PIC32MZEF.kicad_sym](./KiCad/PIC32MZEF.kicad_sym) 
+- Library Altium : [PIC32MZEF.lia](./Altium/PIC32MZEF.lia) 
+- Library Proteus : [PIC32MZEF.pdif](./Proteus/PIC32MZEF.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00044D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00044D](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 H8X
 - Package Type : 	 LQFP
 - Pin count : 	 144,00
-- Package Layout : 	 [C04-00044D](./mchp/packages/C04-00044D.pdf)
-- Package 3d model scad : 	 [C04-00044D](./Model3d/scad/C04-00044D.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00044D.pdf](./mchp/packages/c04-00044d.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00044D.scad) : 	 [C04-00044D.scad](./Model3d/scad/C04-00044D.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MZ1024EFM144
 
@@ -1620,16 +1924,21 @@ Pin count : 0
 - Family : PIC32MZEF
 - MF : Microchip
 - Name : PIC32MZ1024EFM144
+- Library Kicad : [PIC32MZEF.kicad_sym](./KiCad/PIC32MZEF.kicad_sym) 
+- Library Altium : [PIC32MZEF.lia](./Altium/PIC32MZEF.lia) 
+- Library Proteus : [PIC32MZEF.pdif](./Proteus/PIC32MZEF.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00044D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00044D](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 H8X
 - Package Type : 	 LQFP
 - Pin count : 	 144,00
-- Package Layout : 	 [C04-00044D](./mchp/packages/C04-00044D.pdf)
-- Package 3d model scad : 	 [C04-00044D](./Model3d/scad/C04-00044D.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00044D.pdf](./mchp/packages/c04-00044d.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00044D.scad) : 	 [C04-00044D.scad](./Model3d/scad/C04-00044D.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MZ2048EFG064
 
@@ -1646,18 +1955,23 @@ Pin count : 0
 - Family : PIC32MZEF
 - MF : Microchip
 - Name : PIC32MZ2048EFG064
+- Library Kicad : [PIC32MZEF.kicad_sym](./KiCad/PIC32MZEF.kicad_sym) 
+- Library Altium : [PIC32MZEF.lia](./Altium/PIC32MZEF.lia) 
+- Library Proteus : [PIC32MZEF.pdif](./Proteus/PIC32MZEF.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 R4X
 - Package Type : 	 QFN
 - Pin count : 	 64,00
-- Package Layout : 	 [C04-00149E](./mchp/packages/C04-00149E.pdf)
-- Package 3d model wrl : 	 [C04-00149E](./Model3d/wrl/C04-00149E.wrl)
-- Package 3d model x3d : 	 [C04-00149E](./Model3d/x3d/C04-00149E.x3d)
-- Package 3d model scad : 	 [C04-00149E](./Model3d/scad/C04-00149E.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00149E.pdf](./mchp/packages/c04-00149e.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00149E.wrl) : 	 [C04-00149E.wrl](./Model3d/wrl/C04-00149E.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00149E.x3d) : 	 [C04-00149E.x3d](./Model3d/x3d/C04-00149E.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00149E.scad) : 	 [C04-00149E.scad](./Model3d/scad/C04-00149E.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MZ2048EFG064
 
@@ -1674,18 +1988,23 @@ Pin count : 0
 - Family : PIC32MZEF
 - MF : Microchip
 - Name : PIC32MZ2048EFG064
+- Library Kicad : [PIC32MZEF.kicad_sym](./KiCad/PIC32MZEF.kicad_sym) 
+- Library Altium : [PIC32MZEF.lia](./Altium/PIC32MZEF.lia) 
+- Library Proteus : [PIC32MZEF.pdif](./Proteus/PIC32MZEF.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 R4X
 - Package Type : 	 QFN
 - Pin count : 	 64,00
-- Package Layout : 	 [C04-00149E](./mchp/packages/C04-00149E.pdf)
-- Package 3d model wrl : 	 [C04-00149E](./Model3d/wrl/C04-00149E.wrl)
-- Package 3d model x3d : 	 [C04-00149E](./Model3d/x3d/C04-00149E.x3d)
-- Package 3d model scad : 	 [C04-00149E](./Model3d/scad/C04-00149E.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00149E.pdf](./mchp/packages/c04-00149e.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00149E.wrl) : 	 [C04-00149E.wrl](./Model3d/wrl/C04-00149E.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00149E.x3d) : 	 [C04-00149E.x3d](./Model3d/x3d/C04-00149E.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00149E.scad) : 	 [C04-00149E.scad](./Model3d/scad/C04-00149E.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MZ2048EFG100
 
@@ -1702,16 +2021,21 @@ Pin count : 0
 - Family : PIC32MZEF
 - MF : Microchip
 - Name : PIC32MZ2048EFG100
+- Library Kicad : [PIC32MZEF.kicad_sym](./KiCad/PIC32MZEF.kicad_sym) 
+- Library Altium : [PIC32MZEF.lia](./Altium/PIC32MZEF.lia) 
+- Library Proteus : [PIC32MZEF.pdif](./Proteus/PIC32MZEF.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00110C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00110C](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 E5X
 - Package Type : 	 TQFP
 - Pin count : 	 100,00
-- Package Layout : 	 [C04-00110C](./mchp/packages/C04-00110C.pdf)
-- Package 3d model scad : 	 [C04-00110C](./Model3d/scad/C04-00110C.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00110C.pdf](./mchp/packages/c04-00110c.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00110C.scad) : 	 [C04-00110C.scad](./Model3d/scad/C04-00110C.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MZ2048EFG124
 
@@ -1728,6 +2052,9 @@ Pin count : 0
 - Family : PIC32MZEF
 - MF : Microchip
 - Name : PIC32MZ2048EFG124
+- Library Kicad : [PIC32MZEF.kicad_sym](./KiCad/PIC32MZEF.kicad_sym) 
+- Library Altium : [PIC32MZEF.lia](./Altium/PIC32MZEF.lia) 
+- Library Proteus : [PIC32MZEF.pdif](./Proteus/PIC32MZEF.pdif) 
 
 ### Package : 
 
@@ -1747,16 +2074,21 @@ Pin count : 0
 - Family : PIC32MZEF
 - MF : Microchip
 - Name : PIC32MZ2048EFG144
+- Library Kicad : [PIC32MZEF.kicad_sym](./KiCad/PIC32MZEF.kicad_sym) 
+- Library Altium : [PIC32MZEF.lia](./Altium/PIC32MZEF.lia) 
+- Library Proteus : [PIC32MZEF.pdif](./Proteus/PIC32MZEF.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00044D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00044D](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 H8X
 - Package Type : 	 LQFP
 - Pin count : 	 144,00
-- Package Layout : 	 [C04-00044D](./mchp/packages/C04-00044D.pdf)
-- Package 3d model scad : 	 [C04-00044D](./Model3d/scad/C04-00044D.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00044D.pdf](./mchp/packages/c04-00044d.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00044D.scad) : 	 [C04-00044D.scad](./Model3d/scad/C04-00044D.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MZ2048EFG144
 
@@ -1773,16 +2105,21 @@ Pin count : 0
 - Family : PIC32MZEF
 - MF : Microchip
 - Name : PIC32MZ2048EFG144
+- Library Kicad : [PIC32MZEF.kicad_sym](./KiCad/PIC32MZEF.kicad_sym) 
+- Library Altium : [PIC32MZEF.lia](./Altium/PIC32MZEF.lia) 
+- Library Proteus : [PIC32MZEF.pdif](./Proteus/PIC32MZEF.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00044D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00044D](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 H8X
 - Package Type : 	 LQFP
 - Pin count : 	 144,00
-- Package Layout : 	 [C04-00044D](./mchp/packages/C04-00044D.pdf)
-- Package 3d model scad : 	 [C04-00044D](./Model3d/scad/C04-00044D.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00044D.pdf](./mchp/packages/c04-00044d.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00044D.scad) : 	 [C04-00044D.scad](./Model3d/scad/C04-00044D.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MZ2048EFG144
 
@@ -1799,16 +2136,21 @@ Pin count : 0
 - Family : PIC32MZEF
 - MF : Microchip
 - Name : PIC32MZ2048EFG144
+- Library Kicad : [PIC32MZEF.kicad_sym](./KiCad/PIC32MZEF.kicad_sym) 
+- Library Altium : [PIC32MZEF.lia](./Altium/PIC32MZEF.lia) 
+- Library Proteus : [PIC32MZEF.pdif](./Proteus/PIC32MZEF.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00044D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00044D](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 H8X
 - Package Type : 	 LQFP
 - Pin count : 	 144,00
-- Package Layout : 	 [C04-00044D](./mchp/packages/C04-00044D.pdf)
-- Package 3d model scad : 	 [C04-00044D](./Model3d/scad/C04-00044D.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00044D.pdf](./mchp/packages/c04-00044d.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00044D.scad) : 	 [C04-00044D.scad](./Model3d/scad/C04-00044D.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MZ2048EFH064
 
@@ -1825,18 +2167,23 @@ Pin count : 0
 - Family : PIC32MZEF
 - MF : Microchip
 - Name : PIC32MZ2048EFH064
+- Library Kicad : [PIC32MZEF.kicad_sym](./KiCad/PIC32MZEF.kicad_sym) 
+- Library Altium : [PIC32MZEF.lia](./Altium/PIC32MZEF.lia) 
+- Library Proteus : [PIC32MZEF.pdif](./Proteus/PIC32MZEF.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 R4X
 - Package Type : 	 QFN
 - Pin count : 	 64,00
-- Package Layout : 	 [C04-00149E](./mchp/packages/C04-00149E.pdf)
-- Package 3d model wrl : 	 [C04-00149E](./Model3d/wrl/C04-00149E.wrl)
-- Package 3d model x3d : 	 [C04-00149E](./Model3d/x3d/C04-00149E.x3d)
-- Package 3d model scad : 	 [C04-00149E](./Model3d/scad/C04-00149E.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00149E.pdf](./mchp/packages/c04-00149e.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00149E.wrl) : 	 [C04-00149E.wrl](./Model3d/wrl/C04-00149E.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00149E.x3d) : 	 [C04-00149E.x3d](./Model3d/x3d/C04-00149E.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00149E.scad) : 	 [C04-00149E.scad](./Model3d/scad/C04-00149E.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MZ2048EFH064
 
@@ -1853,18 +2200,23 @@ Pin count : 0
 - Family : PIC32MZEF
 - MF : Microchip
 - Name : PIC32MZ2048EFH064
+- Library Kicad : [PIC32MZEF.kicad_sym](./KiCad/PIC32MZEF.kicad_sym) 
+- Library Altium : [PIC32MZEF.lia](./Altium/PIC32MZEF.lia) 
+- Library Proteus : [PIC32MZEF.pdif](./Proteus/PIC32MZEF.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 R4X
 - Package Type : 	 QFN
 - Pin count : 	 64,00
-- Package Layout : 	 [C04-00149E](./mchp/packages/C04-00149E.pdf)
-- Package 3d model wrl : 	 [C04-00149E](./Model3d/wrl/C04-00149E.wrl)
-- Package 3d model x3d : 	 [C04-00149E](./Model3d/x3d/C04-00149E.x3d)
-- Package 3d model scad : 	 [C04-00149E](./Model3d/scad/C04-00149E.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00149E.pdf](./mchp/packages/c04-00149e.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00149E.wrl) : 	 [C04-00149E.wrl](./Model3d/wrl/C04-00149E.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00149E.x3d) : 	 [C04-00149E.x3d](./Model3d/x3d/C04-00149E.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00149E.scad) : 	 [C04-00149E.scad](./Model3d/scad/C04-00149E.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MZ2048EFH100
 
@@ -1881,16 +2233,21 @@ Pin count : 0
 - Family : PIC32MZEF
 - MF : Microchip
 - Name : PIC32MZ2048EFH100
+- Library Kicad : [PIC32MZEF.kicad_sym](./KiCad/PIC32MZEF.kicad_sym) 
+- Library Altium : [PIC32MZEF.lia](./Altium/PIC32MZEF.lia) 
+- Library Proteus : [PIC32MZEF.pdif](./Proteus/PIC32MZEF.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00110C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00110C](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 E5X
 - Package Type : 	 TQFP
 - Pin count : 	 100,00
-- Package Layout : 	 [C04-00110C](./mchp/packages/C04-00110C.pdf)
-- Package 3d model scad : 	 [C04-00110C](./Model3d/scad/C04-00110C.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00110C.pdf](./mchp/packages/c04-00110c.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00110C.scad) : 	 [C04-00110C.scad](./Model3d/scad/C04-00110C.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MZ2048EFH124
 
@@ -1907,6 +2264,9 @@ Pin count : 0
 - Family : PIC32MZEF
 - MF : Microchip
 - Name : PIC32MZ2048EFH124
+- Library Kicad : [PIC32MZEF.kicad_sym](./KiCad/PIC32MZEF.kicad_sym) 
+- Library Altium : [PIC32MZEF.lia](./Altium/PIC32MZEF.lia) 
+- Library Proteus : [PIC32MZEF.pdif](./Proteus/PIC32MZEF.pdif) 
 
 ### Package : 
 
@@ -1926,16 +2286,21 @@ Pin count : 0
 - Family : PIC32MZEF
 - MF : Microchip
 - Name : PIC32MZ2048EFH144
+- Library Kicad : [PIC32MZEF.kicad_sym](./KiCad/PIC32MZEF.kicad_sym) 
+- Library Altium : [PIC32MZEF.lia](./Altium/PIC32MZEF.lia) 
+- Library Proteus : [PIC32MZEF.pdif](./Proteus/PIC32MZEF.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00044D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00044D](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 H8X
 - Package Type : 	 LQFP
 - Pin count : 	 144,00
-- Package Layout : 	 [C04-00044D](./mchp/packages/C04-00044D.pdf)
-- Package 3d model scad : 	 [C04-00044D](./Model3d/scad/C04-00044D.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00044D.pdf](./mchp/packages/c04-00044d.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00044D.scad) : 	 [C04-00044D.scad](./Model3d/scad/C04-00044D.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MZ2048EFH144
 
@@ -1952,16 +2317,21 @@ Pin count : 0
 - Family : PIC32MZEF
 - MF : Microchip
 - Name : PIC32MZ2048EFH144
+- Library Kicad : [PIC32MZEF.kicad_sym](./KiCad/PIC32MZEF.kicad_sym) 
+- Library Altium : [PIC32MZEF.lia](./Altium/PIC32MZEF.lia) 
+- Library Proteus : [PIC32MZEF.pdif](./Proteus/PIC32MZEF.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00044D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00044D](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 H8X
 - Package Type : 	 LQFP
 - Pin count : 	 144,00
-- Package Layout : 	 [C04-00044D](./mchp/packages/C04-00044D.pdf)
-- Package 3d model scad : 	 [C04-00044D](./Model3d/scad/C04-00044D.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00044D.pdf](./mchp/packages/c04-00044d.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00044D.scad) : 	 [C04-00044D.scad](./Model3d/scad/C04-00044D.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MZ2048EFH144
 
@@ -1978,16 +2348,21 @@ Pin count : 0
 - Family : PIC32MZEF
 - MF : Microchip
 - Name : PIC32MZ2048EFH144
+- Library Kicad : [PIC32MZEF.kicad_sym](./KiCad/PIC32MZEF.kicad_sym) 
+- Library Altium : [PIC32MZEF.lia](./Altium/PIC32MZEF.lia) 
+- Library Proteus : [PIC32MZEF.pdif](./Proteus/PIC32MZEF.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00044D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00044D](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 H8X
 - Package Type : 	 LQFP
 - Pin count : 	 144,00
-- Package Layout : 	 [C04-00044D](./mchp/packages/C04-00044D.pdf)
-- Package 3d model scad : 	 [C04-00044D](./Model3d/scad/C04-00044D.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00044D.pdf](./mchp/packages/c04-00044d.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00044D.scad) : 	 [C04-00044D.scad](./Model3d/scad/C04-00044D.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MZ2048EFM064
 
@@ -2004,18 +2379,23 @@ Pin count : 0
 - Family : PIC32MZEF
 - MF : Microchip
 - Name : PIC32MZ2048EFM064
+- Library Kicad : [PIC32MZEF.kicad_sym](./KiCad/PIC32MZEF.kicad_sym) 
+- Library Altium : [PIC32MZEF.lia](./Altium/PIC32MZEF.lia) 
+- Library Proteus : [PIC32MZEF.pdif](./Proteus/PIC32MZEF.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 R4X
 - Package Type : 	 QFN
 - Pin count : 	 64,00
-- Package Layout : 	 [C04-00149E](./mchp/packages/C04-00149E.pdf)
-- Package 3d model wrl : 	 [C04-00149E](./Model3d/wrl/C04-00149E.wrl)
-- Package 3d model x3d : 	 [C04-00149E](./Model3d/x3d/C04-00149E.x3d)
-- Package 3d model scad : 	 [C04-00149E](./Model3d/scad/C04-00149E.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00149E.pdf](./mchp/packages/c04-00149e.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00149E.wrl) : 	 [C04-00149E.wrl](./Model3d/wrl/C04-00149E.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00149E.x3d) : 	 [C04-00149E.x3d](./Model3d/x3d/C04-00149E.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00149E.scad) : 	 [C04-00149E.scad](./Model3d/scad/C04-00149E.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MZ2048EFM064
 
@@ -2032,18 +2412,23 @@ Pin count : 0
 - Family : PIC32MZEF
 - MF : Microchip
 - Name : PIC32MZ2048EFM064
+- Library Kicad : [PIC32MZEF.kicad_sym](./KiCad/PIC32MZEF.kicad_sym) 
+- Library Altium : [PIC32MZEF.lia](./Altium/PIC32MZEF.lia) 
+- Library Proteus : [PIC32MZEF.pdif](./Proteus/PIC32MZEF.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 R4X
 - Package Type : 	 QFN
 - Pin count : 	 64,00
-- Package Layout : 	 [C04-00149E](./mchp/packages/C04-00149E.pdf)
-- Package 3d model wrl : 	 [C04-00149E](./Model3d/wrl/C04-00149E.wrl)
-- Package 3d model x3d : 	 [C04-00149E](./Model3d/x3d/C04-00149E.x3d)
-- Package 3d model scad : 	 [C04-00149E](./Model3d/scad/C04-00149E.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00149E.pdf](./mchp/packages/c04-00149e.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00149E.wrl) : 	 [C04-00149E.wrl](./Model3d/wrl/C04-00149E.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00149E.x3d) : 	 [C04-00149E.x3d](./Model3d/x3d/C04-00149E.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00149E.scad) : 	 [C04-00149E.scad](./Model3d/scad/C04-00149E.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MZ2048EFM100
 
@@ -2060,16 +2445,21 @@ Pin count : 0
 - Family : PIC32MZEF
 - MF : Microchip
 - Name : PIC32MZ2048EFM100
+- Library Kicad : [PIC32MZEF.kicad_sym](./KiCad/PIC32MZEF.kicad_sym) 
+- Library Altium : [PIC32MZEF.lia](./Altium/PIC32MZEF.lia) 
+- Library Proteus : [PIC32MZEF.pdif](./Proteus/PIC32MZEF.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00110C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00110C](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 E5X
 - Package Type : 	 TQFP
 - Pin count : 	 100,00
-- Package Layout : 	 [C04-00110C](./mchp/packages/C04-00110C.pdf)
-- Package 3d model scad : 	 [C04-00110C](./Model3d/scad/C04-00110C.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00110C.pdf](./mchp/packages/c04-00110c.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00110C.scad) : 	 [C04-00110C.scad](./Model3d/scad/C04-00110C.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MZ2048EFM124
 
@@ -2086,6 +2476,9 @@ Pin count : 0
 - Family : PIC32MZEF
 - MF : Microchip
 - Name : PIC32MZ2048EFM124
+- Library Kicad : [PIC32MZEF.kicad_sym](./KiCad/PIC32MZEF.kicad_sym) 
+- Library Altium : [PIC32MZEF.lia](./Altium/PIC32MZEF.lia) 
+- Library Proteus : [PIC32MZEF.pdif](./Proteus/PIC32MZEF.pdif) 
 
 ### Package : 
 
@@ -2105,16 +2498,21 @@ Pin count : 0
 - Family : PIC32MZEF
 - MF : Microchip
 - Name : PIC32MZ2048EFM144
+- Library Kicad : [PIC32MZEF.kicad_sym](./KiCad/PIC32MZEF.kicad_sym) 
+- Library Altium : [PIC32MZEF.lia](./Altium/PIC32MZEF.lia) 
+- Library Proteus : [PIC32MZEF.pdif](./Proteus/PIC32MZEF.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00044D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00044D](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 H8X
 - Package Type : 	 LQFP
 - Pin count : 	 144,00
-- Package Layout : 	 [C04-00044D](./mchp/packages/C04-00044D.pdf)
-- Package 3d model scad : 	 [C04-00044D](./Model3d/scad/C04-00044D.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00044D.pdf](./mchp/packages/c04-00044d.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00044D.scad) : 	 [C04-00044D.scad](./Model3d/scad/C04-00044D.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MZ2048EFM144
 
@@ -2131,16 +2529,21 @@ Pin count : 0
 - Family : PIC32MZEF
 - MF : Microchip
 - Name : PIC32MZ2048EFM144
+- Library Kicad : [PIC32MZEF.kicad_sym](./KiCad/PIC32MZEF.kicad_sym) 
+- Library Altium : [PIC32MZEF.lia](./Altium/PIC32MZEF.lia) 
+- Library Proteus : [PIC32MZEF.pdif](./Proteus/PIC32MZEF.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00044D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00044D](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 H8X
 - Package Type : 	 LQFP
 - Pin count : 	 144,00
-- Package Layout : 	 [C04-00044D](./mchp/packages/C04-00044D.pdf)
-- Package 3d model scad : 	 [C04-00044D](./Model3d/scad/C04-00044D.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00044D.pdf](./mchp/packages/c04-00044d.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00044D.scad) : 	 [C04-00044D.scad](./Model3d/scad/C04-00044D.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MZ2048EFM144
 
@@ -2157,14 +2560,19 @@ Pin count : 0
 - Family : PIC32MZEF
 - MF : Microchip
 - Name : PIC32MZ2048EFM144
+- Library Kicad : [PIC32MZEF.kicad_sym](./KiCad/PIC32MZEF.kicad_sym) 
+- Library Altium : [PIC32MZEF.lia](./Altium/PIC32MZEF.lia) 
+- Library Proteus : [PIC32MZEF.pdif](./Proteus/PIC32MZEF.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00044D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00044D](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 H8X
 - Package Type : 	 LQFP
 - Pin count : 	 144,00
-- Package Layout : 	 [C04-00044D](./mchp/packages/C04-00044D.pdf)
-- Package 3d model scad : 	 [C04-00044D](./Model3d/scad/C04-00044D.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00044D.pdf](./mchp/packages/c04-00044d.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00044D.scad) : 	 [C04-00044D.scad](./Model3d/scad/C04-00044D.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0

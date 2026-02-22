@@ -14,6 +14,9 @@
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ2051CA80100
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
@@ -133,6 +136,9 @@ Pin count : 100
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ2051CA80100
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
@@ -252,17 +258,20 @@ Pin count : 100
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ2051CA80100
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00509A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00509A](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 7YX
 - Package Type : 	 TQFP
 - Pin count : 	 100,00
-- Package Layout : 	 [C04-00509A](./mchp/packages/C04-00509A.pdf)
-- Package 3d model wrl : 	 [C04-00509A](./Model3d/wrl/C04-00509A.wrl)
-- Package 3d model x3d : 	 [C04-00509A](./Model3d/x3d/C04-00509A.x3d)
-- Package 3d model scad : 	 [C04-00509A](./Model3d/scad/C04-00509A.scad)
+- Package Layout : 	 [C04-00509A.pdf](./mchp/packages/c04-00509a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00509A.wrl) : 	 [C04-00509A.wrl](./Model3d/wrl/C04-00509A.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00509A.x3d) : 	 [C04-00509A.x3d](./Model3d/x3d/C04-00509A.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00509A.scad) : 	 [C04-00509A.scad](./Model3d/scad/C04-00509A.scad)
 Pin count : 100
 - 1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
 - 2 : PA01,  of Type IO, alternates : [ETH TXD_0, EIC EXTINT_1, PORT P_1]
@@ -379,6 +388,9 @@ Pin count : 100
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ2051CA80100
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
@@ -498,6 +510,9 @@ Pin count : 100
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ2051CA80100
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
@@ -617,6 +632,9 @@ Pin count : 100
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ2051CA80100
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
@@ -736,6 +754,9 @@ Pin count : 100
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ2051CA80144
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
@@ -899,6 +920,9 @@ Pin count : 144
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ2051CA80144
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
@@ -1062,6 +1086,9 @@ Pin count : 144
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ2051CA80144
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
@@ -1225,17 +1252,20 @@ Pin count : 144
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ2051CA80144
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00510A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00510A](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 8YX
 - Package Type : 	 TQFP
 - Pin count : 	 144,00
-- Package Layout : 	 [C04-00510A](./mchp/packages/C04-00510A.pdf)
-- Package 3d model wrl : 	 [C04-00510A](./Model3d/wrl/C04-00510A.wrl)
-- Package 3d model x3d : 	 [C04-00510A](./Model3d/x3d/C04-00510A.x3d)
-- Package 3d model scad : 	 [C04-00510A](./Model3d/scad/C04-00510A.scad)
+- Package Layout : 	 [C04-00510A.pdf](./mchp/packages/c04-00510a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00510A.wrl) : 	 [C04-00510A.wrl](./Model3d/wrl/C04-00510A.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00510A.x3d) : 	 [C04-00510A.x3d](./Model3d/x3d/C04-00510A.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00510A.scad) : 	 [C04-00510A.scad](./Model3d/scad/C04-00510A.scad)
 Pin count : 144
 - 1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
 - 2 : PA01,  of Type IO, alternates : [ETH TXD_0, EIC EXTINT_1, PORT P_1]
@@ -1396,6 +1426,9 @@ Pin count : 144
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ2051CA80144
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
@@ -1559,17 +1592,20 @@ Pin count : 144
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ2051CA80144
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00511A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00511A](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 LUX
 - Package Type : 	 TFBGA
 - Pin count : 	 144,00
-- Package Layout : 	 [C04-00511A](./mchp/packages/C04-00511A.pdf)
-- Package 3d model wrl : 	 [C04-00511A](./Model3d/wrl/C04-00511A.wrl)
-- Package 3d model x3d : 	 [C04-00511A](./Model3d/x3d/C04-00511A.x3d)
-- Package 3d model scad : 	 [C04-00511A](./Model3d/scad/C04-00511A.scad)
+- Package Layout : 	 [C04-00511A.pdf](./mchp/packages/c04-00511a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00511A.wrl) : 	 [C04-00511A.wrl](./Model3d/wrl/C04-00511A.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00511A.x3d) : 	 [C04-00511A.x3d](./Model3d/x3d/C04-00511A.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00511A.scad) : 	 [C04-00511A.scad](./Model3d/scad/C04-00511A.scad)
 Pin count : 144
 - A2 : PD11,  of Type IO, alternates : [PORT P_107, ETH RXD_0, SERCOM2:2 PAD_0, EIC EXTINT_11, TCC2:1 WO_1]
 - A3 : PD10,  of Type IO, alternates : [PORT P_106, EIC EXTINT_10, ETH RXD_1, TCC2:1 WO_0]
@@ -1730,6 +1766,9 @@ Pin count : 144
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ2051CA80144
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
@@ -1893,6 +1932,9 @@ Pin count : 144
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ2051CA80144
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
@@ -2056,6 +2098,9 @@ Pin count : 144
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ2051CA80144
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
@@ -2219,6 +2264,9 @@ Pin count : 144
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ2051CA80176
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
@@ -2414,6 +2462,9 @@ Pin count : 176
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ2051CA80176
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
@@ -2609,6 +2660,9 @@ Pin count : 176
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ2051CA80176
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
@@ -2804,16 +2858,19 @@ Pin count : 176
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ2051CA80176
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00515A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00515A](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 5MX
 - Package Type : 	 TFBGA
 - Pin count : 	 176,00
-- Package Layout : 	 [C04-00515A](./mchp/packages/C04-00515A.pdf)
-- Package 3d model x3d : 	 [C04-00515A](./Model3d/x3d/C04-00515A.x3d)
-- Package 3d model scad : 	 [C04-00515A](./Model3d/scad/C04-00515A.scad)
+- Package Layout : 	 [C04-00515A.pdf](./mchp/packages/c04-00515a.pdf)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00515A.x3d) : 	 [C04-00515A.x3d](./Model3d/x3d/C04-00515A.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00515A.scad) : 	 [C04-00515A.scad](./Model3d/scad/C04-00515A.scad)
 Pin count : 176
 - A2 : PD10,  of Type IO, alternates : [PORT P_106, EIC EXTINT_10, ETH RXD_1, TCC2:1 WO_0]
 - A3 : PD09,  of Type IO, alternates : [PORT P_105, MLB MLBD_, CAN1:2 TX_, EIC EXTINT_9, ETH CRS_]
@@ -3006,6 +3063,9 @@ Pin count : 176
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ2051CA80176
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
@@ -3201,6 +3261,9 @@ Pin count : 176
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ2051CA80176
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
@@ -3396,6 +3459,9 @@ Pin count : 176
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ2051CA80176
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
@@ -3591,6 +3657,9 @@ Pin count : 176
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ2051CA80176
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
@@ -3786,6 +3855,9 @@ Pin count : 176
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ2051CA80176
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
@@ -3981,6 +4053,9 @@ Pin count : 176
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ2051CA80208
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
@@ -4208,6 +4283,9 @@ Pin count : 208
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ2051CA80208
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
@@ -4435,6 +4513,9 @@ Pin count : 208
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ2051CA80208
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
@@ -4662,6 +4743,9 @@ Pin count : 208
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ2051CA90100
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
@@ -4781,6 +4865,9 @@ Pin count : 100
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ2051CA90100
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
@@ -4900,17 +4987,20 @@ Pin count : 100
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ2051CA90100
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00509A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00509A](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 7YX
 - Package Type : 	 TQFP
 - Pin count : 	 100,00
-- Package Layout : 	 [C04-00509A](./mchp/packages/C04-00509A.pdf)
-- Package 3d model wrl : 	 [C04-00509A](./Model3d/wrl/C04-00509A.wrl)
-- Package 3d model x3d : 	 [C04-00509A](./Model3d/x3d/C04-00509A.x3d)
-- Package 3d model scad : 	 [C04-00509A](./Model3d/scad/C04-00509A.scad)
+- Package Layout : 	 [C04-00509A.pdf](./mchp/packages/c04-00509a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00509A.wrl) : 	 [C04-00509A.wrl](./Model3d/wrl/C04-00509A.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00509A.x3d) : 	 [C04-00509A.x3d](./Model3d/x3d/C04-00509A.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00509A.scad) : 	 [C04-00509A.scad](./Model3d/scad/C04-00509A.scad)
 Pin count : 100
 - 1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
 - 2 : PA01,  of Type IO, alternates : [ETH TXD_0, EIC EXTINT_1, PORT P_1]
@@ -5027,6 +5117,9 @@ Pin count : 100
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ2051CA90100
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
@@ -5146,6 +5239,9 @@ Pin count : 100
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ2051CA90100
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
@@ -5265,6 +5361,9 @@ Pin count : 100
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ2051CA90100
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
@@ -5384,6 +5483,9 @@ Pin count : 100
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ2051CA90144
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
@@ -5547,6 +5649,9 @@ Pin count : 144
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ2051CA90144
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
@@ -5710,6 +5815,9 @@ Pin count : 144
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ2051CA90144
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
@@ -5873,17 +5981,20 @@ Pin count : 144
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ2051CA90144
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00510A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00510A](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 8YX
 - Package Type : 	 TQFP
 - Pin count : 	 144,00
-- Package Layout : 	 [C04-00510A](./mchp/packages/C04-00510A.pdf)
-- Package 3d model wrl : 	 [C04-00510A](./Model3d/wrl/C04-00510A.wrl)
-- Package 3d model x3d : 	 [C04-00510A](./Model3d/x3d/C04-00510A.x3d)
-- Package 3d model scad : 	 [C04-00510A](./Model3d/scad/C04-00510A.scad)
+- Package Layout : 	 [C04-00510A.pdf](./mchp/packages/c04-00510a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00510A.wrl) : 	 [C04-00510A.wrl](./Model3d/wrl/C04-00510A.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00510A.x3d) : 	 [C04-00510A.x3d](./Model3d/x3d/C04-00510A.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00510A.scad) : 	 [C04-00510A.scad](./Model3d/scad/C04-00510A.scad)
 Pin count : 144
 - 1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
 - 2 : PA01,  of Type IO, alternates : [ETH TXD_0, EIC EXTINT_1, PORT P_1]
@@ -6044,6 +6155,9 @@ Pin count : 144
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ2051CA90144
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
@@ -6207,17 +6321,20 @@ Pin count : 144
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ2051CA90144
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00511A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00511A](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 LUX
 - Package Type : 	 TFBGA
 - Pin count : 	 144,00
-- Package Layout : 	 [C04-00511A](./mchp/packages/C04-00511A.pdf)
-- Package 3d model wrl : 	 [C04-00511A](./Model3d/wrl/C04-00511A.wrl)
-- Package 3d model x3d : 	 [C04-00511A](./Model3d/x3d/C04-00511A.x3d)
-- Package 3d model scad : 	 [C04-00511A](./Model3d/scad/C04-00511A.scad)
+- Package Layout : 	 [C04-00511A.pdf](./mchp/packages/c04-00511a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00511A.wrl) : 	 [C04-00511A.wrl](./Model3d/wrl/C04-00511A.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00511A.x3d) : 	 [C04-00511A.x3d](./Model3d/x3d/C04-00511A.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00511A.scad) : 	 [C04-00511A.scad](./Model3d/scad/C04-00511A.scad)
 Pin count : 144
 - A2 : PD11,  of Type IO, alternates : [PORT P_107, ETH RXD_0, SERCOM2:2 PAD_0, EIC EXTINT_11, TCC2:1 WO_1]
 - A3 : PD10,  of Type IO, alternates : [PORT P_106, EIC EXTINT_10, ETH RXD_1, TCC2:1 WO_0]
@@ -6378,6 +6495,9 @@ Pin count : 144
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ2051CA90144
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
@@ -6541,6 +6661,9 @@ Pin count : 144
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ2051CA90144
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
@@ -6704,6 +6827,9 @@ Pin count : 144
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ2051CA90144
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
@@ -6867,6 +6993,9 @@ Pin count : 144
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ2051CA90176
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
@@ -7062,6 +7191,9 @@ Pin count : 176
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ2051CA90176
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
@@ -7257,6 +7389,9 @@ Pin count : 176
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ2051CA90176
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
@@ -7452,16 +7587,19 @@ Pin count : 176
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ2051CA90176
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00515A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00515A](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 5MX
 - Package Type : 	 TFBGA
 - Pin count : 	 176,00
-- Package Layout : 	 [C04-00515A](./mchp/packages/C04-00515A.pdf)
-- Package 3d model x3d : 	 [C04-00515A](./Model3d/x3d/C04-00515A.x3d)
-- Package 3d model scad : 	 [C04-00515A](./Model3d/scad/C04-00515A.scad)
+- Package Layout : 	 [C04-00515A.pdf](./mchp/packages/c04-00515a.pdf)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00515A.x3d) : 	 [C04-00515A.x3d](./Model3d/x3d/C04-00515A.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00515A.scad) : 	 [C04-00515A.scad](./Model3d/scad/C04-00515A.scad)
 Pin count : 176
 - A2 : PD10,  of Type IO, alternates : [PORT P_106, EIC EXTINT_10, ETH RXD_1, TCC2:1 WO_0]
 - A3 : PD09,  of Type IO, alternates : [PORT P_105, MLB MLBD_, CAN1:2 TX_, EIC EXTINT_9, ETH CRS_]
@@ -7654,6 +7792,9 @@ Pin count : 176
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ2051CA90176
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
@@ -7849,6 +7990,9 @@ Pin count : 176
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ2051CA90176
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
@@ -8044,6 +8188,9 @@ Pin count : 176
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ2051CA90176
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
@@ -8239,6 +8386,9 @@ Pin count : 176
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ2051CA90176
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
@@ -8434,6 +8584,9 @@ Pin count : 176
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ2051CA90176
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
@@ -8629,6 +8782,9 @@ Pin count : 176
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ2051CA90208
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
@@ -8856,6 +9012,9 @@ Pin count : 208
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ2051CA90208
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
@@ -9083,6 +9242,9 @@ Pin count : 208
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ2051CA90208
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
@@ -9310,6 +9472,9 @@ Pin count : 208
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ2051CA91100
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
@@ -9429,6 +9594,9 @@ Pin count : 100
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ2051CA91100
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
@@ -9548,17 +9716,20 @@ Pin count : 100
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ2051CA91100
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00509A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00509A](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 7YX
 - Package Type : 	 TQFP
 - Pin count : 	 100,00
-- Package Layout : 	 [C04-00509A](./mchp/packages/C04-00509A.pdf)
-- Package 3d model wrl : 	 [C04-00509A](./Model3d/wrl/C04-00509A.wrl)
-- Package 3d model x3d : 	 [C04-00509A](./Model3d/x3d/C04-00509A.x3d)
-- Package 3d model scad : 	 [C04-00509A](./Model3d/scad/C04-00509A.scad)
+- Package Layout : 	 [C04-00509A.pdf](./mchp/packages/c04-00509a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00509A.wrl) : 	 [C04-00509A.wrl](./Model3d/wrl/C04-00509A.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00509A.x3d) : 	 [C04-00509A.x3d](./Model3d/x3d/C04-00509A.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00509A.scad) : 	 [C04-00509A.scad](./Model3d/scad/C04-00509A.scad)
 Pin count : 100
 - 1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
 - 2 : PA01,  of Type IO, alternates : [ETH TXD_0, EIC EXTINT_1, PORT P_1]
@@ -9675,6 +9846,9 @@ Pin count : 100
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ2051CA91100
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
@@ -9794,6 +9968,9 @@ Pin count : 100
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ2051CA91100
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
@@ -9913,6 +10090,9 @@ Pin count : 100
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ2051CA91100
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
@@ -10032,6 +10212,9 @@ Pin count : 100
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ2051CA91144
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
@@ -10195,6 +10378,9 @@ Pin count : 144
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ2051CA91144
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
@@ -10358,6 +10544,9 @@ Pin count : 144
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ2051CA91144
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
@@ -10521,17 +10710,20 @@ Pin count : 144
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ2051CA91144
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00510A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00510A](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 8YX
 - Package Type : 	 TQFP
 - Pin count : 	 144,00
-- Package Layout : 	 [C04-00510A](./mchp/packages/C04-00510A.pdf)
-- Package 3d model wrl : 	 [C04-00510A](./Model3d/wrl/C04-00510A.wrl)
-- Package 3d model x3d : 	 [C04-00510A](./Model3d/x3d/C04-00510A.x3d)
-- Package 3d model scad : 	 [C04-00510A](./Model3d/scad/C04-00510A.scad)
+- Package Layout : 	 [C04-00510A.pdf](./mchp/packages/c04-00510a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00510A.wrl) : 	 [C04-00510A.wrl](./Model3d/wrl/C04-00510A.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00510A.x3d) : 	 [C04-00510A.x3d](./Model3d/x3d/C04-00510A.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00510A.scad) : 	 [C04-00510A.scad](./Model3d/scad/C04-00510A.scad)
 Pin count : 144
 - 1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
 - 2 : PA01,  of Type IO, alternates : [ETH TXD_0, EIC EXTINT_1, PORT P_1]
@@ -10692,6 +10884,9 @@ Pin count : 144
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ2051CA91144
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
@@ -10855,17 +11050,20 @@ Pin count : 144
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ2051CA91144
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00511A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00511A](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 LUX
 - Package Type : 	 TFBGA
 - Pin count : 	 144,00
-- Package Layout : 	 [C04-00511A](./mchp/packages/C04-00511A.pdf)
-- Package 3d model wrl : 	 [C04-00511A](./Model3d/wrl/C04-00511A.wrl)
-- Package 3d model x3d : 	 [C04-00511A](./Model3d/x3d/C04-00511A.x3d)
-- Package 3d model scad : 	 [C04-00511A](./Model3d/scad/C04-00511A.scad)
+- Package Layout : 	 [C04-00511A.pdf](./mchp/packages/c04-00511a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00511A.wrl) : 	 [C04-00511A.wrl](./Model3d/wrl/C04-00511A.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00511A.x3d) : 	 [C04-00511A.x3d](./Model3d/x3d/C04-00511A.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00511A.scad) : 	 [C04-00511A.scad](./Model3d/scad/C04-00511A.scad)
 Pin count : 144
 - A2 : PD11,  of Type IO, alternates : [PORT P_107, ETH RXD_0, SERCOM2:2 PAD_0, EIC EXTINT_11, TCC2:1 WO_1]
 - A3 : PD10,  of Type IO, alternates : [PORT P_106, EIC EXTINT_10, ETH RXD_1, TCC2:1 WO_0]
@@ -11026,6 +11224,9 @@ Pin count : 144
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ2051CA91144
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
@@ -11189,6 +11390,9 @@ Pin count : 144
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ2051CA91144
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
@@ -11352,6 +11556,9 @@ Pin count : 144
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ2051CA91144
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
@@ -11515,6 +11722,9 @@ Pin count : 144
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ2051CA91176
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
@@ -11710,6 +11920,9 @@ Pin count : 176
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ2051CA91176
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
@@ -11905,6 +12118,9 @@ Pin count : 176
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ2051CA91176
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
@@ -12100,16 +12316,19 @@ Pin count : 176
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ2051CA91176
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00515A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00515A](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 5MX
 - Package Type : 	 TFBGA
 - Pin count : 	 176,00
-- Package Layout : 	 [C04-00515A](./mchp/packages/C04-00515A.pdf)
-- Package 3d model x3d : 	 [C04-00515A](./Model3d/x3d/C04-00515A.x3d)
-- Package 3d model scad : 	 [C04-00515A](./Model3d/scad/C04-00515A.scad)
+- Package Layout : 	 [C04-00515A.pdf](./mchp/packages/c04-00515a.pdf)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00515A.x3d) : 	 [C04-00515A.x3d](./Model3d/x3d/C04-00515A.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00515A.scad) : 	 [C04-00515A.scad](./Model3d/scad/C04-00515A.scad)
 Pin count : 176
 - A2 : PD10,  of Type IO, alternates : [PORT P_106, EIC EXTINT_10, ETH RXD_1, TCC2:1 WO_0]
 - A3 : PD09,  of Type IO, alternates : [PORT P_105, MLB MLBD_, CAN1:2 TX_, EIC EXTINT_9, ETH CRS_]
@@ -12302,6 +12521,9 @@ Pin count : 176
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ2051CA91176
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
@@ -12497,6 +12719,9 @@ Pin count : 176
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ2051CA91176
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
@@ -12692,6 +12917,9 @@ Pin count : 176
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ2051CA91176
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
@@ -12887,6 +13115,9 @@ Pin count : 176
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ2051CA91176
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
@@ -13082,6 +13313,9 @@ Pin count : 176
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ2051CA91176
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
@@ -13277,17 +13511,20 @@ Pin count : 176
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ4010CA80100
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00509A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00509A](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 7YX
 - Package Type : 	 TQFP
 - Pin count : 	 100,00
-- Package Layout : 	 [C04-00509A](./mchp/packages/C04-00509A.pdf)
-- Package 3d model wrl : 	 [C04-00509A](./Model3d/wrl/C04-00509A.wrl)
-- Package 3d model x3d : 	 [C04-00509A](./Model3d/x3d/C04-00509A.x3d)
-- Package 3d model scad : 	 [C04-00509A](./Model3d/scad/C04-00509A.scad)
+- Package Layout : 	 [C04-00509A.pdf](./mchp/packages/c04-00509a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00509A.wrl) : 	 [C04-00509A.wrl](./Model3d/wrl/C04-00509A.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00509A.x3d) : 	 [C04-00509A.x3d](./Model3d/x3d/C04-00509A.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00509A.scad) : 	 [C04-00509A.scad](./Model3d/scad/C04-00509A.scad)
 Pin count : 100
 - 1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
 - 2 : PA01,  of Type IO, alternates : [ETH TXD_0, EIC EXTINT_1, PORT P_1]
@@ -13404,6 +13641,9 @@ Pin count : 100
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ4010CA80100
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
@@ -13523,17 +13763,20 @@ Pin count : 100
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ4010CA80100
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00509A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00509A](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 7YX
 - Package Type : 	 TQFP
 - Pin count : 	 100,00
-- Package Layout : 	 [C04-00509A](./mchp/packages/C04-00509A.pdf)
-- Package 3d model wrl : 	 [C04-00509A](./Model3d/wrl/C04-00509A.wrl)
-- Package 3d model x3d : 	 [C04-00509A](./Model3d/x3d/C04-00509A.x3d)
-- Package 3d model scad : 	 [C04-00509A](./Model3d/scad/C04-00509A.scad)
+- Package Layout : 	 [C04-00509A.pdf](./mchp/packages/c04-00509a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00509A.wrl) : 	 [C04-00509A.wrl](./Model3d/wrl/C04-00509A.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00509A.x3d) : 	 [C04-00509A.x3d](./Model3d/x3d/C04-00509A.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00509A.scad) : 	 [C04-00509A.scad](./Model3d/scad/C04-00509A.scad)
 Pin count : 100
 - 1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
 - 2 : PA01,  of Type IO, alternates : [ETH TXD_0, EIC EXTINT_1, PORT P_1]
@@ -13650,6 +13893,9 @@ Pin count : 100
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ4010CA80100
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
@@ -13769,17 +14015,20 @@ Pin count : 100
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ4010CA80100
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00509A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00509A](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 7YX
 - Package Type : 	 TQFP
 - Pin count : 	 100,00
-- Package Layout : 	 [C04-00509A](./mchp/packages/C04-00509A.pdf)
-- Package 3d model wrl : 	 [C04-00509A](./Model3d/wrl/C04-00509A.wrl)
-- Package 3d model x3d : 	 [C04-00509A](./Model3d/x3d/C04-00509A.x3d)
-- Package 3d model scad : 	 [C04-00509A](./Model3d/scad/C04-00509A.scad)
+- Package Layout : 	 [C04-00509A.pdf](./mchp/packages/c04-00509a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00509A.wrl) : 	 [C04-00509A.wrl](./Model3d/wrl/C04-00509A.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00509A.x3d) : 	 [C04-00509A.x3d](./Model3d/x3d/C04-00509A.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00509A.scad) : 	 [C04-00509A.scad](./Model3d/scad/C04-00509A.scad)
 Pin count : 100
 - 1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
 - 2 : PA01,  of Type IO, alternates : [ETH TXD_0, EIC EXTINT_1, PORT P_1]
@@ -13896,6 +14145,9 @@ Pin count : 100
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ4010CA80100
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
@@ -14015,17 +14267,20 @@ Pin count : 100
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ4010CA80144
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00510A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00510A](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 8YX
 - Package Type : 	 TQFP
 - Pin count : 	 144,00
-- Package Layout : 	 [C04-00510A](./mchp/packages/C04-00510A.pdf)
-- Package 3d model wrl : 	 [C04-00510A](./Model3d/wrl/C04-00510A.wrl)
-- Package 3d model x3d : 	 [C04-00510A](./Model3d/x3d/C04-00510A.x3d)
-- Package 3d model scad : 	 [C04-00510A](./Model3d/scad/C04-00510A.scad)
+- Package Layout : 	 [C04-00510A.pdf](./mchp/packages/c04-00510a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00510A.wrl) : 	 [C04-00510A.wrl](./Model3d/wrl/C04-00510A.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00510A.x3d) : 	 [C04-00510A.x3d](./Model3d/x3d/C04-00510A.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00510A.scad) : 	 [C04-00510A.scad](./Model3d/scad/C04-00510A.scad)
 Pin count : 144
 - 1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
 - 2 : PA01,  of Type IO, alternates : [ETH TXD_0, EIC EXTINT_1, PORT P_1]
@@ -14186,6 +14441,9 @@ Pin count : 144
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ4010CA80144
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
@@ -14349,17 +14607,20 @@ Pin count : 144
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ4010CA80144
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00511A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00511A](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 LUX
 - Package Type : 	 TFBGA
 - Pin count : 	 144,00
-- Package Layout : 	 [C04-00511A](./mchp/packages/C04-00511A.pdf)
-- Package 3d model wrl : 	 [C04-00511A](./Model3d/wrl/C04-00511A.wrl)
-- Package 3d model x3d : 	 [C04-00511A](./Model3d/x3d/C04-00511A.x3d)
-- Package 3d model scad : 	 [C04-00511A](./Model3d/scad/C04-00511A.scad)
+- Package Layout : 	 [C04-00511A.pdf](./mchp/packages/c04-00511a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00511A.wrl) : 	 [C04-00511A.wrl](./Model3d/wrl/C04-00511A.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00511A.x3d) : 	 [C04-00511A.x3d](./Model3d/x3d/C04-00511A.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00511A.scad) : 	 [C04-00511A.scad](./Model3d/scad/C04-00511A.scad)
 Pin count : 144
 - A2 : PD11,  of Type IO, alternates : [PORT P_107, ETH RXD_0, SERCOM2:2 PAD_0, EIC EXTINT_11, TCC2:1 WO_1]
 - A3 : PD10,  of Type IO, alternates : [PORT P_106, EIC EXTINT_10, ETH RXD_1, TCC2:1 WO_0]
@@ -14520,17 +14781,20 @@ Pin count : 144
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ4010CA80144
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00510A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00510A](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 8YX
 - Package Type : 	 TQFP
 - Pin count : 	 144,00
-- Package Layout : 	 [C04-00510A](./mchp/packages/C04-00510A.pdf)
-- Package 3d model wrl : 	 [C04-00510A](./Model3d/wrl/C04-00510A.wrl)
-- Package 3d model x3d : 	 [C04-00510A](./Model3d/x3d/C04-00510A.x3d)
-- Package 3d model scad : 	 [C04-00510A](./Model3d/scad/C04-00510A.scad)
+- Package Layout : 	 [C04-00510A.pdf](./mchp/packages/c04-00510a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00510A.wrl) : 	 [C04-00510A.wrl](./Model3d/wrl/C04-00510A.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00510A.x3d) : 	 [C04-00510A.x3d](./Model3d/x3d/C04-00510A.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00510A.scad) : 	 [C04-00510A.scad](./Model3d/scad/C04-00510A.scad)
 Pin count : 144
 - 1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
 - 2 : PA01,  of Type IO, alternates : [ETH TXD_0, EIC EXTINT_1, PORT P_1]
@@ -14691,6 +14955,9 @@ Pin count : 144
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ4010CA80144
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
@@ -14854,17 +15121,20 @@ Pin count : 144
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ4010CA80144
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00511A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00511A](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 LUX
 - Package Type : 	 TFBGA
 - Pin count : 	 144,00
-- Package Layout : 	 [C04-00511A](./mchp/packages/C04-00511A.pdf)
-- Package 3d model wrl : 	 [C04-00511A](./Model3d/wrl/C04-00511A.wrl)
-- Package 3d model x3d : 	 [C04-00511A](./Model3d/x3d/C04-00511A.x3d)
-- Package 3d model scad : 	 [C04-00511A](./Model3d/scad/C04-00511A.scad)
+- Package Layout : 	 [C04-00511A.pdf](./mchp/packages/c04-00511a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00511A.wrl) : 	 [C04-00511A.wrl](./Model3d/wrl/C04-00511A.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00511A.x3d) : 	 [C04-00511A.x3d](./Model3d/x3d/C04-00511A.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00511A.scad) : 	 [C04-00511A.scad](./Model3d/scad/C04-00511A.scad)
 Pin count : 144
 - A2 : PD11,  of Type IO, alternates : [PORT P_107, ETH RXD_0, SERCOM2:2 PAD_0, EIC EXTINT_11, TCC2:1 WO_1]
 - A3 : PD10,  of Type IO, alternates : [PORT P_106, EIC EXTINT_10, ETH RXD_1, TCC2:1 WO_0]
@@ -15025,17 +15295,20 @@ Pin count : 144
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ4010CA80144
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00510A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00510A](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 8YX
 - Package Type : 	 TQFP
 - Pin count : 	 144,00
-- Package Layout : 	 [C04-00510A](./mchp/packages/C04-00510A.pdf)
-- Package 3d model wrl : 	 [C04-00510A](./Model3d/wrl/C04-00510A.wrl)
-- Package 3d model x3d : 	 [C04-00510A](./Model3d/x3d/C04-00510A.x3d)
-- Package 3d model scad : 	 [C04-00510A](./Model3d/scad/C04-00510A.scad)
+- Package Layout : 	 [C04-00510A.pdf](./mchp/packages/c04-00510a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00510A.wrl) : 	 [C04-00510A.wrl](./Model3d/wrl/C04-00510A.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00510A.x3d) : 	 [C04-00510A.x3d](./Model3d/x3d/C04-00510A.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00510A.scad) : 	 [C04-00510A.scad](./Model3d/scad/C04-00510A.scad)
 Pin count : 144
 - 1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
 - 2 : PA01,  of Type IO, alternates : [ETH TXD_0, EIC EXTINT_1, PORT P_1]
@@ -15196,6 +15469,9 @@ Pin count : 144
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ4010CA80144
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
@@ -15359,17 +15635,20 @@ Pin count : 144
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ4010CA80144
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00511A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00511A](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 LUX
 - Package Type : 	 TFBGA
 - Pin count : 	 144,00
-- Package Layout : 	 [C04-00511A](./mchp/packages/C04-00511A.pdf)
-- Package 3d model wrl : 	 [C04-00511A](./Model3d/wrl/C04-00511A.wrl)
-- Package 3d model x3d : 	 [C04-00511A](./Model3d/x3d/C04-00511A.x3d)
-- Package 3d model scad : 	 [C04-00511A](./Model3d/scad/C04-00511A.scad)
+- Package Layout : 	 [C04-00511A.pdf](./mchp/packages/c04-00511a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00511A.wrl) : 	 [C04-00511A.wrl](./Model3d/wrl/C04-00511A.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00511A.x3d) : 	 [C04-00511A.x3d](./Model3d/x3d/C04-00511A.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00511A.scad) : 	 [C04-00511A.scad](./Model3d/scad/C04-00511A.scad)
 Pin count : 144
 - A2 : PD11,  of Type IO, alternates : [PORT P_107, ETH RXD_0, SERCOM2:2 PAD_0, EIC EXTINT_11, TCC2:1 WO_1]
 - A3 : PD10,  of Type IO, alternates : [PORT P_106, EIC EXTINT_10, ETH RXD_1, TCC2:1 WO_0]
@@ -15530,16 +15809,19 @@ Pin count : 144
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ4010CA80176
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00515A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00515A](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 5MX
 - Package Type : 	 TFBGA
 - Pin count : 	 176,00
-- Package Layout : 	 [C04-00515A](./mchp/packages/C04-00515A.pdf)
-- Package 3d model x3d : 	 [C04-00515A](./Model3d/x3d/C04-00515A.x3d)
-- Package 3d model scad : 	 [C04-00515A](./Model3d/scad/C04-00515A.scad)
+- Package Layout : 	 [C04-00515A.pdf](./mchp/packages/c04-00515a.pdf)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00515A.x3d) : 	 [C04-00515A.x3d](./Model3d/x3d/C04-00515A.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00515A.scad) : 	 [C04-00515A.scad](./Model3d/scad/C04-00515A.scad)
 Pin count : 176
 - A2 : PD10,  of Type IO, alternates : [PORT P_106, EIC EXTINT_10, ETH RXD_1, TCC2:1 WO_0]
 - A3 : PD09,  of Type IO, alternates : [PORT P_105, MLB MLBD_, CAN1:2 TX_, EIC EXTINT_9, ETH CRS_]
@@ -15732,6 +16014,9 @@ Pin count : 176
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ4010CA80176
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
@@ -15927,6 +16212,9 @@ Pin count : 176
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ4010CA80176
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
@@ -16122,16 +16410,19 @@ Pin count : 176
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ4010CA80176
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00515A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00515A](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 5MX
 - Package Type : 	 TFBGA
 - Pin count : 	 176,00
-- Package Layout : 	 [C04-00515A](./mchp/packages/C04-00515A.pdf)
-- Package 3d model x3d : 	 [C04-00515A](./Model3d/x3d/C04-00515A.x3d)
-- Package 3d model scad : 	 [C04-00515A](./Model3d/scad/C04-00515A.scad)
+- Package Layout : 	 [C04-00515A.pdf](./mchp/packages/c04-00515a.pdf)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00515A.x3d) : 	 [C04-00515A.x3d](./Model3d/x3d/C04-00515A.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00515A.scad) : 	 [C04-00515A.scad](./Model3d/scad/C04-00515A.scad)
 Pin count : 176
 - A2 : PD10,  of Type IO, alternates : [PORT P_106, EIC EXTINT_10, ETH RXD_1, TCC2:1 WO_0]
 - A3 : PD09,  of Type IO, alternates : [PORT P_105, MLB MLBD_, CAN1:2 TX_, EIC EXTINT_9, ETH CRS_]
@@ -16324,6 +16615,9 @@ Pin count : 176
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ4010CA80176
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
@@ -16519,6 +16813,9 @@ Pin count : 176
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ4010CA80176
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
@@ -16714,16 +17011,19 @@ Pin count : 176
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ4010CA80176
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00515A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00515A](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 5MX
 - Package Type : 	 TFBGA
 - Pin count : 	 176,00
-- Package Layout : 	 [C04-00515A](./mchp/packages/C04-00515A.pdf)
-- Package 3d model x3d : 	 [C04-00515A](./Model3d/x3d/C04-00515A.x3d)
-- Package 3d model scad : 	 [C04-00515A](./Model3d/scad/C04-00515A.scad)
+- Package Layout : 	 [C04-00515A.pdf](./mchp/packages/c04-00515a.pdf)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00515A.x3d) : 	 [C04-00515A.x3d](./Model3d/x3d/C04-00515A.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00515A.scad) : 	 [C04-00515A.scad](./Model3d/scad/C04-00515A.scad)
 Pin count : 176
 - A2 : PD10,  of Type IO, alternates : [PORT P_106, EIC EXTINT_10, ETH RXD_1, TCC2:1 WO_0]
 - A3 : PD09,  of Type IO, alternates : [PORT P_105, MLB MLBD_, CAN1:2 TX_, EIC EXTINT_9, ETH CRS_]
@@ -16916,6 +17216,9 @@ Pin count : 176
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ4010CA80176
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
@@ -17111,6 +17414,9 @@ Pin count : 176
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ4010CA80176
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
@@ -17306,6 +17612,9 @@ Pin count : 176
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ4010CA80208
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
@@ -17533,6 +17842,9 @@ Pin count : 208
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ4010CA80208
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
@@ -17760,6 +18072,9 @@ Pin count : 208
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ4010CA80208
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
@@ -17987,6 +18302,9 @@ Pin count : 208
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ4010CA90100
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
@@ -18106,6 +18424,9 @@ Pin count : 100
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ4010CA90100
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
@@ -18225,17 +18546,20 @@ Pin count : 100
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ4010CA90100
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00509A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00509A](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 7YX
 - Package Type : 	 TQFP
 - Pin count : 	 100,00
-- Package Layout : 	 [C04-00509A](./mchp/packages/C04-00509A.pdf)
-- Package 3d model wrl : 	 [C04-00509A](./Model3d/wrl/C04-00509A.wrl)
-- Package 3d model x3d : 	 [C04-00509A](./Model3d/x3d/C04-00509A.x3d)
-- Package 3d model scad : 	 [C04-00509A](./Model3d/scad/C04-00509A.scad)
+- Package Layout : 	 [C04-00509A.pdf](./mchp/packages/c04-00509a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00509A.wrl) : 	 [C04-00509A.wrl](./Model3d/wrl/C04-00509A.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00509A.x3d) : 	 [C04-00509A.x3d](./Model3d/x3d/C04-00509A.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00509A.scad) : 	 [C04-00509A.scad](./Model3d/scad/C04-00509A.scad)
 Pin count : 100
 - 1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
 - 2 : PA01,  of Type IO, alternates : [ETH TXD_0, EIC EXTINT_1, PORT P_1]
@@ -18352,6 +18676,9 @@ Pin count : 100
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ4010CA90100
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
@@ -18471,6 +18798,9 @@ Pin count : 100
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ4010CA90100
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
@@ -18590,6 +18920,9 @@ Pin count : 100
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ4010CA90100
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
@@ -18709,6 +19042,9 @@ Pin count : 100
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ4010CA90144
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
@@ -18872,6 +19208,9 @@ Pin count : 144
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ4010CA90144
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
@@ -19035,6 +19374,9 @@ Pin count : 144
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ4010CA90144
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
@@ -19198,17 +19540,20 @@ Pin count : 144
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ4010CA90144
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00510A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00510A](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 8YX
 - Package Type : 	 TQFP
 - Pin count : 	 144,00
-- Package Layout : 	 [C04-00510A](./mchp/packages/C04-00510A.pdf)
-- Package 3d model wrl : 	 [C04-00510A](./Model3d/wrl/C04-00510A.wrl)
-- Package 3d model x3d : 	 [C04-00510A](./Model3d/x3d/C04-00510A.x3d)
-- Package 3d model scad : 	 [C04-00510A](./Model3d/scad/C04-00510A.scad)
+- Package Layout : 	 [C04-00510A.pdf](./mchp/packages/c04-00510a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00510A.wrl) : 	 [C04-00510A.wrl](./Model3d/wrl/C04-00510A.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00510A.x3d) : 	 [C04-00510A.x3d](./Model3d/x3d/C04-00510A.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00510A.scad) : 	 [C04-00510A.scad](./Model3d/scad/C04-00510A.scad)
 Pin count : 144
 - 1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
 - 2 : PA01,  of Type IO, alternates : [ETH TXD_0, EIC EXTINT_1, PORT P_1]
@@ -19369,6 +19714,9 @@ Pin count : 144
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ4010CA90144
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
@@ -19532,17 +19880,20 @@ Pin count : 144
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ4010CA90144
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00511A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00511A](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 LUX
 - Package Type : 	 TFBGA
 - Pin count : 	 144,00
-- Package Layout : 	 [C04-00511A](./mchp/packages/C04-00511A.pdf)
-- Package 3d model wrl : 	 [C04-00511A](./Model3d/wrl/C04-00511A.wrl)
-- Package 3d model x3d : 	 [C04-00511A](./Model3d/x3d/C04-00511A.x3d)
-- Package 3d model scad : 	 [C04-00511A](./Model3d/scad/C04-00511A.scad)
+- Package Layout : 	 [C04-00511A.pdf](./mchp/packages/c04-00511a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00511A.wrl) : 	 [C04-00511A.wrl](./Model3d/wrl/C04-00511A.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00511A.x3d) : 	 [C04-00511A.x3d](./Model3d/x3d/C04-00511A.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00511A.scad) : 	 [C04-00511A.scad](./Model3d/scad/C04-00511A.scad)
 Pin count : 144
 - A2 : PD11,  of Type IO, alternates : [PORT P_107, ETH RXD_0, SERCOM2:2 PAD_0, EIC EXTINT_11, TCC2:1 WO_1]
 - A3 : PD10,  of Type IO, alternates : [PORT P_106, EIC EXTINT_10, ETH RXD_1, TCC2:1 WO_0]
@@ -19703,6 +20054,9 @@ Pin count : 144
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ4010CA90144
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
@@ -19866,6 +20220,9 @@ Pin count : 144
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ4010CA90144
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
@@ -20029,6 +20386,9 @@ Pin count : 144
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ4010CA90144
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
@@ -20192,6 +20552,9 @@ Pin count : 144
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ4010CA90176
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
@@ -20387,6 +20750,9 @@ Pin count : 176
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ4010CA90176
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
@@ -20582,6 +20948,9 @@ Pin count : 176
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ4010CA90176
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
@@ -20777,16 +21146,19 @@ Pin count : 176
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ4010CA90176
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00515A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00515A](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 5MX
 - Package Type : 	 TFBGA
 - Pin count : 	 176,00
-- Package Layout : 	 [C04-00515A](./mchp/packages/C04-00515A.pdf)
-- Package 3d model x3d : 	 [C04-00515A](./Model3d/x3d/C04-00515A.x3d)
-- Package 3d model scad : 	 [C04-00515A](./Model3d/scad/C04-00515A.scad)
+- Package Layout : 	 [C04-00515A.pdf](./mchp/packages/c04-00515a.pdf)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00515A.x3d) : 	 [C04-00515A.x3d](./Model3d/x3d/C04-00515A.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00515A.scad) : 	 [C04-00515A.scad](./Model3d/scad/C04-00515A.scad)
 Pin count : 176
 - A2 : PD10,  of Type IO, alternates : [PORT P_106, EIC EXTINT_10, ETH RXD_1, TCC2:1 WO_0]
 - A3 : PD09,  of Type IO, alternates : [PORT P_105, MLB MLBD_, CAN1:2 TX_, EIC EXTINT_9, ETH CRS_]
@@ -20979,6 +21351,9 @@ Pin count : 176
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ4010CA90176
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
@@ -21174,6 +21549,9 @@ Pin count : 176
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ4010CA90176
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
@@ -21369,6 +21747,9 @@ Pin count : 176
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ4010CA90176
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
@@ -21564,6 +21945,9 @@ Pin count : 176
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ4010CA90176
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
@@ -21759,6 +22143,9 @@ Pin count : 176
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ4010CA90176
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
@@ -21954,6 +22341,9 @@ Pin count : 176
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ4010CA90208
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
@@ -22181,6 +22571,9 @@ Pin count : 208
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ4010CA90208
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
@@ -22408,6 +22801,9 @@ Pin count : 208
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ4010CA90208
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
@@ -22635,17 +23031,20 @@ Pin count : 208
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ4010CA91100
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00509A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00509A](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 7YX
 - Package Type : 	 TQFP
 - Pin count : 	 100,00
-- Package Layout : 	 [C04-00509A](./mchp/packages/C04-00509A.pdf)
-- Package 3d model wrl : 	 [C04-00509A](./Model3d/wrl/C04-00509A.wrl)
-- Package 3d model x3d : 	 [C04-00509A](./Model3d/x3d/C04-00509A.x3d)
-- Package 3d model scad : 	 [C04-00509A](./Model3d/scad/C04-00509A.scad)
+- Package Layout : 	 [C04-00509A.pdf](./mchp/packages/c04-00509a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00509A.wrl) : 	 [C04-00509A.wrl](./Model3d/wrl/C04-00509A.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00509A.x3d) : 	 [C04-00509A.x3d](./Model3d/x3d/C04-00509A.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00509A.scad) : 	 [C04-00509A.scad](./Model3d/scad/C04-00509A.scad)
 Pin count : 100
 - 1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
 - 2 : PA01,  of Type IO, alternates : [ETH TXD_0, EIC EXTINT_1, PORT P_1]
@@ -22762,6 +23161,9 @@ Pin count : 100
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ4010CA91100
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
@@ -22881,17 +23283,20 @@ Pin count : 100
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ4010CA91100
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00509A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00509A](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 7YX
 - Package Type : 	 TQFP
 - Pin count : 	 100,00
-- Package Layout : 	 [C04-00509A](./mchp/packages/C04-00509A.pdf)
-- Package 3d model wrl : 	 [C04-00509A](./Model3d/wrl/C04-00509A.wrl)
-- Package 3d model x3d : 	 [C04-00509A](./Model3d/x3d/C04-00509A.x3d)
-- Package 3d model scad : 	 [C04-00509A](./Model3d/scad/C04-00509A.scad)
+- Package Layout : 	 [C04-00509A.pdf](./mchp/packages/c04-00509a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00509A.wrl) : 	 [C04-00509A.wrl](./Model3d/wrl/C04-00509A.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00509A.x3d) : 	 [C04-00509A.x3d](./Model3d/x3d/C04-00509A.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00509A.scad) : 	 [C04-00509A.scad](./Model3d/scad/C04-00509A.scad)
 Pin count : 100
 - 1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
 - 2 : PA01,  of Type IO, alternates : [ETH TXD_0, EIC EXTINT_1, PORT P_1]
@@ -23008,6 +23413,9 @@ Pin count : 100
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ4010CA91100
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
@@ -23127,6 +23535,9 @@ Pin count : 100
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ4010CA91100
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
@@ -23246,6 +23657,9 @@ Pin count : 100
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ4010CA91100
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
@@ -23365,17 +23779,20 @@ Pin count : 100
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ4010CA91144
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00510A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00510A](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 8YX
 - Package Type : 	 TQFP
 - Pin count : 	 144,00
-- Package Layout : 	 [C04-00510A](./mchp/packages/C04-00510A.pdf)
-- Package 3d model wrl : 	 [C04-00510A](./Model3d/wrl/C04-00510A.wrl)
-- Package 3d model x3d : 	 [C04-00510A](./Model3d/x3d/C04-00510A.x3d)
-- Package 3d model scad : 	 [C04-00510A](./Model3d/scad/C04-00510A.scad)
+- Package Layout : 	 [C04-00510A.pdf](./mchp/packages/c04-00510a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00510A.wrl) : 	 [C04-00510A.wrl](./Model3d/wrl/C04-00510A.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00510A.x3d) : 	 [C04-00510A.x3d](./Model3d/x3d/C04-00510A.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00510A.scad) : 	 [C04-00510A.scad](./Model3d/scad/C04-00510A.scad)
 Pin count : 144
 - 1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
 - 2 : PA01,  of Type IO, alternates : [ETH TXD_0, EIC EXTINT_1, PORT P_1]
@@ -23536,6 +23953,9 @@ Pin count : 144
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ4010CA91144
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
@@ -23699,17 +24119,20 @@ Pin count : 144
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ4010CA91144
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00511A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00511A](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 LUX
 - Package Type : 	 TFBGA
 - Pin count : 	 144,00
-- Package Layout : 	 [C04-00511A](./mchp/packages/C04-00511A.pdf)
-- Package 3d model wrl : 	 [C04-00511A](./Model3d/wrl/C04-00511A.wrl)
-- Package 3d model x3d : 	 [C04-00511A](./Model3d/x3d/C04-00511A.x3d)
-- Package 3d model scad : 	 [C04-00511A](./Model3d/scad/C04-00511A.scad)
+- Package Layout : 	 [C04-00511A.pdf](./mchp/packages/c04-00511a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00511A.wrl) : 	 [C04-00511A.wrl](./Model3d/wrl/C04-00511A.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00511A.x3d) : 	 [C04-00511A.x3d](./Model3d/x3d/C04-00511A.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00511A.scad) : 	 [C04-00511A.scad](./Model3d/scad/C04-00511A.scad)
 Pin count : 144
 - A2 : PD11,  of Type IO, alternates : [PORT P_107, ETH RXD_0, SERCOM2:2 PAD_0, EIC EXTINT_11, TCC2:1 WO_1]
 - A3 : PD10,  of Type IO, alternates : [PORT P_106, EIC EXTINT_10, ETH RXD_1, TCC2:1 WO_0]
@@ -23870,17 +24293,20 @@ Pin count : 144
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ4010CA91144
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00510A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00510A](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 8YX
 - Package Type : 	 TQFP
 - Pin count : 	 144,00
-- Package Layout : 	 [C04-00510A](./mchp/packages/C04-00510A.pdf)
-- Package 3d model wrl : 	 [C04-00510A](./Model3d/wrl/C04-00510A.wrl)
-- Package 3d model x3d : 	 [C04-00510A](./Model3d/x3d/C04-00510A.x3d)
-- Package 3d model scad : 	 [C04-00510A](./Model3d/scad/C04-00510A.scad)
+- Package Layout : 	 [C04-00510A.pdf](./mchp/packages/c04-00510a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00510A.wrl) : 	 [C04-00510A.wrl](./Model3d/wrl/C04-00510A.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00510A.x3d) : 	 [C04-00510A.x3d](./Model3d/x3d/C04-00510A.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00510A.scad) : 	 [C04-00510A.scad](./Model3d/scad/C04-00510A.scad)
 Pin count : 144
 - 1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
 - 2 : PA01,  of Type IO, alternates : [ETH TXD_0, EIC EXTINT_1, PORT P_1]
@@ -24041,6 +24467,9 @@ Pin count : 144
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ4010CA91144
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
@@ -24204,17 +24633,20 @@ Pin count : 144
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ4010CA91144
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00511A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00511A](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 LUX
 - Package Type : 	 TFBGA
 - Pin count : 	 144,00
-- Package Layout : 	 [C04-00511A](./mchp/packages/C04-00511A.pdf)
-- Package 3d model wrl : 	 [C04-00511A](./Model3d/wrl/C04-00511A.wrl)
-- Package 3d model x3d : 	 [C04-00511A](./Model3d/x3d/C04-00511A.x3d)
-- Package 3d model scad : 	 [C04-00511A](./Model3d/scad/C04-00511A.scad)
+- Package Layout : 	 [C04-00511A.pdf](./mchp/packages/c04-00511a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00511A.wrl) : 	 [C04-00511A.wrl](./Model3d/wrl/C04-00511A.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00511A.x3d) : 	 [C04-00511A.x3d](./Model3d/x3d/C04-00511A.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00511A.scad) : 	 [C04-00511A.scad](./Model3d/scad/C04-00511A.scad)
 Pin count : 144
 - A2 : PD11,  of Type IO, alternates : [PORT P_107, ETH RXD_0, SERCOM2:2 PAD_0, EIC EXTINT_11, TCC2:1 WO_1]
 - A3 : PD10,  of Type IO, alternates : [PORT P_106, EIC EXTINT_10, ETH RXD_1, TCC2:1 WO_0]
@@ -24375,17 +24807,20 @@ Pin count : 144
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ4010CA91144
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00510A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00510A](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 8YX
 - Package Type : 	 TQFP
 - Pin count : 	 144,00
-- Package Layout : 	 [C04-00510A](./mchp/packages/C04-00510A.pdf)
-- Package 3d model wrl : 	 [C04-00510A](./Model3d/wrl/C04-00510A.wrl)
-- Package 3d model x3d : 	 [C04-00510A](./Model3d/x3d/C04-00510A.x3d)
-- Package 3d model scad : 	 [C04-00510A](./Model3d/scad/C04-00510A.scad)
+- Package Layout : 	 [C04-00510A.pdf](./mchp/packages/c04-00510a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00510A.wrl) : 	 [C04-00510A.wrl](./Model3d/wrl/C04-00510A.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00510A.x3d) : 	 [C04-00510A.x3d](./Model3d/x3d/C04-00510A.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00510A.scad) : 	 [C04-00510A.scad](./Model3d/scad/C04-00510A.scad)
 Pin count : 144
 - 1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
 - 2 : PA01,  of Type IO, alternates : [ETH TXD_0, EIC EXTINT_1, PORT P_1]
@@ -24546,6 +24981,9 @@ Pin count : 144
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ4010CA91144
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
@@ -24709,17 +25147,20 @@ Pin count : 144
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ4010CA91144
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00511A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00511A](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 LUX
 - Package Type : 	 TFBGA
 - Pin count : 	 144,00
-- Package Layout : 	 [C04-00511A](./mchp/packages/C04-00511A.pdf)
-- Package 3d model wrl : 	 [C04-00511A](./Model3d/wrl/C04-00511A.wrl)
-- Package 3d model x3d : 	 [C04-00511A](./Model3d/x3d/C04-00511A.x3d)
-- Package 3d model scad : 	 [C04-00511A](./Model3d/scad/C04-00511A.scad)
+- Package Layout : 	 [C04-00511A.pdf](./mchp/packages/c04-00511a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00511A.wrl) : 	 [C04-00511A.wrl](./Model3d/wrl/C04-00511A.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00511A.x3d) : 	 [C04-00511A.x3d](./Model3d/x3d/C04-00511A.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00511A.scad) : 	 [C04-00511A.scad](./Model3d/scad/C04-00511A.scad)
 Pin count : 144
 - A2 : PD11,  of Type IO, alternates : [PORT P_107, ETH RXD_0, SERCOM2:2 PAD_0, EIC EXTINT_11, TCC2:1 WO_1]
 - A3 : PD10,  of Type IO, alternates : [PORT P_106, EIC EXTINT_10, ETH RXD_1, TCC2:1 WO_0]
@@ -24880,16 +25321,19 @@ Pin count : 144
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ4010CA91176
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00515A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00515A](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 5MX
 - Package Type : 	 TFBGA
 - Pin count : 	 176,00
-- Package Layout : 	 [C04-00515A](./mchp/packages/C04-00515A.pdf)
-- Package 3d model x3d : 	 [C04-00515A](./Model3d/x3d/C04-00515A.x3d)
-- Package 3d model scad : 	 [C04-00515A](./Model3d/scad/C04-00515A.scad)
+- Package Layout : 	 [C04-00515A.pdf](./mchp/packages/c04-00515a.pdf)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00515A.x3d) : 	 [C04-00515A.x3d](./Model3d/x3d/C04-00515A.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00515A.scad) : 	 [C04-00515A.scad](./Model3d/scad/C04-00515A.scad)
 Pin count : 176
 - A2 : PD10,  of Type IO, alternates : [PORT P_106, EIC EXTINT_10, ETH RXD_1, TCC2:1 WO_0]
 - A3 : PD09,  of Type IO, alternates : [PORT P_105, MLB MLBD_, CAN1:2 TX_, EIC EXTINT_9, ETH CRS_]
@@ -25082,6 +25526,9 @@ Pin count : 176
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ4010CA91176
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
@@ -25277,6 +25724,9 @@ Pin count : 176
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ4010CA91176
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
@@ -25472,16 +25922,19 @@ Pin count : 176
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ4010CA91176
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00515A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00515A](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 5MX
 - Package Type : 	 TFBGA
 - Pin count : 	 176,00
-- Package Layout : 	 [C04-00515A](./mchp/packages/C04-00515A.pdf)
-- Package 3d model x3d : 	 [C04-00515A](./Model3d/x3d/C04-00515A.x3d)
-- Package 3d model scad : 	 [C04-00515A](./Model3d/scad/C04-00515A.scad)
+- Package Layout : 	 [C04-00515A.pdf](./mchp/packages/c04-00515a.pdf)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00515A.x3d) : 	 [C04-00515A.x3d](./Model3d/x3d/C04-00515A.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00515A.scad) : 	 [C04-00515A.scad](./Model3d/scad/C04-00515A.scad)
 Pin count : 176
 - A2 : PD10,  of Type IO, alternates : [PORT P_106, EIC EXTINT_10, ETH RXD_1, TCC2:1 WO_0]
 - A3 : PD09,  of Type IO, alternates : [PORT P_105, MLB MLBD_, CAN1:2 TX_, EIC EXTINT_9, ETH CRS_]
@@ -25674,6 +26127,9 @@ Pin count : 176
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ4010CA91176
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
@@ -25869,6 +26325,9 @@ Pin count : 176
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ4010CA91176
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
@@ -26064,16 +26523,19 @@ Pin count : 176
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ4010CA91176
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00515A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00515A](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 5MX
 - Package Type : 	 TFBGA
 - Pin count : 	 176,00
-- Package Layout : 	 [C04-00515A](./mchp/packages/C04-00515A.pdf)
-- Package 3d model x3d : 	 [C04-00515A](./Model3d/x3d/C04-00515A.x3d)
-- Package 3d model scad : 	 [C04-00515A](./Model3d/scad/C04-00515A.scad)
+- Package Layout : 	 [C04-00515A.pdf](./mchp/packages/c04-00515a.pdf)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00515A.x3d) : 	 [C04-00515A.x3d](./Model3d/x3d/C04-00515A.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00515A.scad) : 	 [C04-00515A.scad](./Model3d/scad/C04-00515A.scad)
 Pin count : 176
 - A2 : PD10,  of Type IO, alternates : [PORT P_106, EIC EXTINT_10, ETH RXD_1, TCC2:1 WO_0]
 - A3 : PD09,  of Type IO, alternates : [PORT P_105, MLB MLBD_, CAN1:2 TX_, EIC EXTINT_9, ETH CRS_]
@@ -26266,6 +26728,9 @@ Pin count : 176
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ4010CA91176
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
@@ -26461,6 +26926,9 @@ Pin count : 176
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ4010CA91176
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
@@ -26656,6 +27124,9 @@ Pin count : 176
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ4010CA91208
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
@@ -26883,6 +27354,9 @@ Pin count : 208
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ4010CA91208
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
@@ -27110,6 +27584,9 @@ Pin count : 208
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ4010CA91208
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
@@ -27337,6 +27814,9 @@ Pin count : 208
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ8110CA80100
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
@@ -27456,6 +27936,9 @@ Pin count : 100
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ8110CA80100
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
@@ -27575,17 +28058,20 @@ Pin count : 100
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ8110CA80100
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00509A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00509A](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 7YX
 - Package Type : 	 TQFP
 - Pin count : 	 100,00
-- Package Layout : 	 [C04-00509A](./mchp/packages/C04-00509A.pdf)
-- Package 3d model wrl : 	 [C04-00509A](./Model3d/wrl/C04-00509A.wrl)
-- Package 3d model x3d : 	 [C04-00509A](./Model3d/x3d/C04-00509A.x3d)
-- Package 3d model scad : 	 [C04-00509A](./Model3d/scad/C04-00509A.scad)
+- Package Layout : 	 [C04-00509A.pdf](./mchp/packages/c04-00509a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00509A.wrl) : 	 [C04-00509A.wrl](./Model3d/wrl/C04-00509A.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00509A.x3d) : 	 [C04-00509A.x3d](./Model3d/x3d/C04-00509A.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00509A.scad) : 	 [C04-00509A.scad](./Model3d/scad/C04-00509A.scad)
 Pin count : 100
 - 1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
 - 2 : PA01,  of Type IO, alternates : [ETH TXD_0, EIC EXTINT_1, PORT P_1]
@@ -27702,6 +28188,9 @@ Pin count : 100
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ8110CA80100
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
@@ -27821,17 +28310,20 @@ Pin count : 100
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ8110CA80100
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00509A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00509A](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 7YX
 - Package Type : 	 TQFP
 - Pin count : 	 100,00
-- Package Layout : 	 [C04-00509A](./mchp/packages/C04-00509A.pdf)
-- Package 3d model wrl : 	 [C04-00509A](./Model3d/wrl/C04-00509A.wrl)
-- Package 3d model x3d : 	 [C04-00509A](./Model3d/x3d/C04-00509A.x3d)
-- Package 3d model scad : 	 [C04-00509A](./Model3d/scad/C04-00509A.scad)
+- Package Layout : 	 [C04-00509A.pdf](./mchp/packages/c04-00509a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00509A.wrl) : 	 [C04-00509A.wrl](./Model3d/wrl/C04-00509A.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00509A.x3d) : 	 [C04-00509A.x3d](./Model3d/x3d/C04-00509A.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00509A.scad) : 	 [C04-00509A.scad](./Model3d/scad/C04-00509A.scad)
 Pin count : 100
 - 1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
 - 2 : PA01,  of Type IO, alternates : [ETH TXD_0, EIC EXTINT_1, PORT P_1]
@@ -27948,6 +28440,9 @@ Pin count : 100
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ8110CA80100
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
@@ -28067,6 +28562,9 @@ Pin count : 100
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ8110CA80144
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
@@ -28230,6 +28728,9 @@ Pin count : 144
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ8110CA80144
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
@@ -28393,6 +28894,9 @@ Pin count : 144
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ8110CA80144
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
@@ -28556,17 +29060,20 @@ Pin count : 144
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ8110CA80144
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00510A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00510A](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 8YX
 - Package Type : 	 TQFP
 - Pin count : 	 144,00
-- Package Layout : 	 [C04-00510A](./mchp/packages/C04-00510A.pdf)
-- Package 3d model wrl : 	 [C04-00510A](./Model3d/wrl/C04-00510A.wrl)
-- Package 3d model x3d : 	 [C04-00510A](./Model3d/x3d/C04-00510A.x3d)
-- Package 3d model scad : 	 [C04-00510A](./Model3d/scad/C04-00510A.scad)
+- Package Layout : 	 [C04-00510A.pdf](./mchp/packages/c04-00510a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00510A.wrl) : 	 [C04-00510A.wrl](./Model3d/wrl/C04-00510A.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00510A.x3d) : 	 [C04-00510A.x3d](./Model3d/x3d/C04-00510A.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00510A.scad) : 	 [C04-00510A.scad](./Model3d/scad/C04-00510A.scad)
 Pin count : 144
 - 1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
 - 2 : PA01,  of Type IO, alternates : [ETH TXD_0, EIC EXTINT_1, PORT P_1]
@@ -28727,6 +29234,9 @@ Pin count : 144
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ8110CA80144
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
@@ -28890,17 +29400,20 @@ Pin count : 144
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ8110CA80144
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00511A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00511A](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 LUX
 - Package Type : 	 TFBGA
 - Pin count : 	 144,00
-- Package Layout : 	 [C04-00511A](./mchp/packages/C04-00511A.pdf)
-- Package 3d model wrl : 	 [C04-00511A](./Model3d/wrl/C04-00511A.wrl)
-- Package 3d model x3d : 	 [C04-00511A](./Model3d/x3d/C04-00511A.x3d)
-- Package 3d model scad : 	 [C04-00511A](./Model3d/scad/C04-00511A.scad)
+- Package Layout : 	 [C04-00511A.pdf](./mchp/packages/c04-00511a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00511A.wrl) : 	 [C04-00511A.wrl](./Model3d/wrl/C04-00511A.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00511A.x3d) : 	 [C04-00511A.x3d](./Model3d/x3d/C04-00511A.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00511A.scad) : 	 [C04-00511A.scad](./Model3d/scad/C04-00511A.scad)
 Pin count : 144
 - A2 : PD11,  of Type IO, alternates : [PORT P_107, ETH RXD_0, SERCOM2:2 PAD_0, EIC EXTINT_11, TCC2:1 WO_1]
 - A3 : PD10,  of Type IO, alternates : [PORT P_106, EIC EXTINT_10, ETH RXD_1, TCC2:1 WO_0]
@@ -29061,17 +29574,20 @@ Pin count : 144
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ8110CA80144
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00510A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00510A](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 8YX
 - Package Type : 	 TQFP
 - Pin count : 	 144,00
-- Package Layout : 	 [C04-00510A](./mchp/packages/C04-00510A.pdf)
-- Package 3d model wrl : 	 [C04-00510A](./Model3d/wrl/C04-00510A.wrl)
-- Package 3d model x3d : 	 [C04-00510A](./Model3d/x3d/C04-00510A.x3d)
-- Package 3d model scad : 	 [C04-00510A](./Model3d/scad/C04-00510A.scad)
+- Package Layout : 	 [C04-00510A.pdf](./mchp/packages/c04-00510a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00510A.wrl) : 	 [C04-00510A.wrl](./Model3d/wrl/C04-00510A.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00510A.x3d) : 	 [C04-00510A.x3d](./Model3d/x3d/C04-00510A.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00510A.scad) : 	 [C04-00510A.scad](./Model3d/scad/C04-00510A.scad)
 Pin count : 144
 - 1 : PA00,  of Type IO, alternates : [ETH TXD_1, EIC EXTINT_0, PORT P_0]
 - 2 : PA01,  of Type IO, alternates : [ETH TXD_0, EIC EXTINT_1, PORT P_1]
@@ -29232,6 +29748,9 @@ Pin count : 144
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ8110CA80144
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
@@ -29395,17 +29914,20 @@ Pin count : 144
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ8110CA80144
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00511A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00511A](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 LUX
 - Package Type : 	 TFBGA
 - Pin count : 	 144,00
-- Package Layout : 	 [C04-00511A](./mchp/packages/C04-00511A.pdf)
-- Package 3d model wrl : 	 [C04-00511A](./Model3d/wrl/C04-00511A.wrl)
-- Package 3d model x3d : 	 [C04-00511A](./Model3d/x3d/C04-00511A.x3d)
-- Package 3d model scad : 	 [C04-00511A](./Model3d/scad/C04-00511A.scad)
+- Package Layout : 	 [C04-00511A.pdf](./mchp/packages/c04-00511a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00511A.wrl) : 	 [C04-00511A.wrl](./Model3d/wrl/C04-00511A.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00511A.x3d) : 	 [C04-00511A.x3d](./Model3d/x3d/C04-00511A.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00511A.scad) : 	 [C04-00511A.scad](./Model3d/scad/C04-00511A.scad)
 Pin count : 144
 - A2 : PD11,  of Type IO, alternates : [PORT P_107, ETH RXD_0, SERCOM2:2 PAD_0, EIC EXTINT_11, TCC2:1 WO_1]
 - A3 : PD10,  of Type IO, alternates : [PORT P_106, EIC EXTINT_10, ETH RXD_1, TCC2:1 WO_0]
@@ -29566,6 +30088,9 @@ Pin count : 144
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ8110CA80176
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
@@ -29761,6 +30286,9 @@ Pin count : 176
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ8110CA80176
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
@@ -29956,6 +30484,9 @@ Pin count : 176
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ8110CA80176
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
@@ -30151,16 +30682,19 @@ Pin count : 176
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ8110CA80176
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00515A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00515A](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 5MX
 - Package Type : 	 TFBGA
 - Pin count : 	 176,00
-- Package Layout : 	 [C04-00515A](./mchp/packages/C04-00515A.pdf)
-- Package 3d model x3d : 	 [C04-00515A](./Model3d/x3d/C04-00515A.x3d)
-- Package 3d model scad : 	 [C04-00515A](./Model3d/scad/C04-00515A.scad)
+- Package Layout : 	 [C04-00515A.pdf](./mchp/packages/c04-00515a.pdf)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00515A.x3d) : 	 [C04-00515A.x3d](./Model3d/x3d/C04-00515A.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00515A.scad) : 	 [C04-00515A.scad](./Model3d/scad/C04-00515A.scad)
 Pin count : 176
 - A2 : PD10,  of Type IO, alternates : [PORT P_106, EIC EXTINT_10, ETH RXD_1, TCC2:1 WO_0]
 - A3 : PD09,  of Type IO, alternates : [PORT P_105, MLB MLBD_, CAN1:2 TX_, EIC EXTINT_9, ETH CRS_]
@@ -30353,6 +30887,9 @@ Pin count : 176
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ8110CA80176
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
@@ -30548,6 +31085,9 @@ Pin count : 176
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ8110CA80176
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
@@ -30743,16 +31283,19 @@ Pin count : 176
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ8110CA80176
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00515A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00515A](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 5MX
 - Package Type : 	 TFBGA
 - Pin count : 	 176,00
-- Package Layout : 	 [C04-00515A](./mchp/packages/C04-00515A.pdf)
-- Package 3d model x3d : 	 [C04-00515A](./Model3d/x3d/C04-00515A.x3d)
-- Package 3d model scad : 	 [C04-00515A](./Model3d/scad/C04-00515A.scad)
+- Package Layout : 	 [C04-00515A.pdf](./mchp/packages/c04-00515a.pdf)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00515A.x3d) : 	 [C04-00515A.x3d](./Model3d/x3d/C04-00515A.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00515A.scad) : 	 [C04-00515A.scad](./Model3d/scad/C04-00515A.scad)
 Pin count : 176
 - A2 : PD10,  of Type IO, alternates : [PORT P_106, EIC EXTINT_10, ETH RXD_1, TCC2:1 WO_0]
 - A3 : PD09,  of Type IO, alternates : [PORT P_105, MLB MLBD_, CAN1:2 TX_, EIC EXTINT_9, ETH CRS_]
@@ -30945,6 +31488,9 @@ Pin count : 176
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ8110CA80176
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
@@ -31140,6 +31686,9 @@ Pin count : 176
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ8110CA80176
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
@@ -31335,6 +31884,9 @@ Pin count : 176
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ8110CA80208
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
@@ -31562,6 +32114,9 @@ Pin count : 208
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ8110CA80208
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
@@ -31789,6 +32344,9 @@ Pin count : 208
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ8110CA80208
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
@@ -32016,6 +32574,9 @@ Pin count : 208
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ8110CA90100
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
@@ -32135,6 +32696,9 @@ Pin count : 100
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ8110CA90100
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
@@ -32254,6 +32818,9 @@ Pin count : 100
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ8110CA90100
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
@@ -32373,6 +32940,9 @@ Pin count : 100
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ8110CA90144
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
@@ -32536,6 +33106,9 @@ Pin count : 144
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ8110CA90144
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
@@ -32699,6 +33272,9 @@ Pin count : 144
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ8110CA90144
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
@@ -32862,17 +33438,20 @@ Pin count : 144
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ8110CA90144
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00511A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00511A](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 LUX
 - Package Type : 	 TFBGA
 - Pin count : 	 144,00
-- Package Layout : 	 [C04-00511A](./mchp/packages/C04-00511A.pdf)
-- Package 3d model wrl : 	 [C04-00511A](./Model3d/wrl/C04-00511A.wrl)
-- Package 3d model x3d : 	 [C04-00511A](./Model3d/x3d/C04-00511A.x3d)
-- Package 3d model scad : 	 [C04-00511A](./Model3d/scad/C04-00511A.scad)
+- Package Layout : 	 [C04-00511A.pdf](./mchp/packages/c04-00511a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00511A.wrl) : 	 [C04-00511A.wrl](./Model3d/wrl/C04-00511A.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00511A.x3d) : 	 [C04-00511A.x3d](./Model3d/x3d/C04-00511A.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00511A.scad) : 	 [C04-00511A.scad](./Model3d/scad/C04-00511A.scad)
 Pin count : 144
 - A2 : PD11,  of Type IO, alternates : [PORT P_107, ETH RXD_0, SERCOM2:2 PAD_0, EIC EXTINT_11, TCC2:1 WO_1]
 - A3 : PD10,  of Type IO, alternates : [PORT P_106, EIC EXTINT_10, ETH RXD_1, TCC2:1 WO_0]
@@ -33033,6 +33612,9 @@ Pin count : 144
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ8110CA90144
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
@@ -33196,18 +33778,23 @@ Pin count : 144
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ8110CA90144
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00511A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00511A](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 LUX
 - Package Type : 	 TFBGA
 - Pin count : 	 144,00
-- Package Layout : 	 [C04-00511A](./mchp/packages/C04-00511A.pdf)
-- Package 3d model wrl : 	 [C04-00511A](./Model3d/wrl/C04-00511A.wrl)
-- Package 3d model x3d : 	 [C04-00511A](./Model3d/x3d/C04-00511A.x3d)
-- Package 3d model scad : 	 [C04-00511A](./Model3d/scad/C04-00511A.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00511A.pdf](./mchp/packages/c04-00511a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00511A.wrl) : 	 [C04-00511A.wrl](./Model3d/wrl/C04-00511A.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00511A.x3d) : 	 [C04-00511A.x3d](./Model3d/x3d/C04-00511A.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00511A.scad) : 	 [C04-00511A.scad](./Model3d/scad/C04-00511A.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 144
 - A2 : PD11,  of Type IO, alternates : [PORT P_107, ETH RXD_0, SERCOM2:2 PAD_0, EIC EXTINT_11, TCC2:1 WO_1]
 - A3 : PD10,  of Type IO, alternates : [PORT P_106, EIC EXTINT_10, ETH RXD_1, TCC2:1 WO_0]
@@ -33368,6 +33955,9 @@ Pin count : 144
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ8110CA90176
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
@@ -33563,6 +34153,9 @@ Pin count : 176
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ8110CA90176
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
@@ -33758,16 +34351,19 @@ Pin count : 176
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ8110CA90176
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00515A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00515A](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 5MX
 - Package Type : 	 TFBGA
 - Pin count : 	 176,00
-- Package Layout : 	 [C04-00515A](./mchp/packages/C04-00515A.pdf)
-- Package 3d model x3d : 	 [C04-00515A](./Model3d/x3d/C04-00515A.x3d)
-- Package 3d model scad : 	 [C04-00515A](./Model3d/scad/C04-00515A.scad)
+- Package Layout : 	 [C04-00515A.pdf](./mchp/packages/c04-00515a.pdf)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00515A.x3d) : 	 [C04-00515A.x3d](./Model3d/x3d/C04-00515A.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00515A.scad) : 	 [C04-00515A.scad](./Model3d/scad/C04-00515A.scad)
 Pin count : 176
 - A2 : PD10,  of Type IO, alternates : [PORT P_106, EIC EXTINT_10, ETH RXD_1, TCC2:1 WO_0]
 - A3 : PD09,  of Type IO, alternates : [PORT P_105, MLB MLBD_, CAN1:2 TX_, EIC EXTINT_9, ETH CRS_]
@@ -33960,6 +34556,9 @@ Pin count : 176
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ8110CA90176
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
@@ -34155,17 +34754,22 @@ Pin count : 176
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ8110CA90176
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00515A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00515A](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 5MX
 - Package Type : 	 TFBGA
 - Pin count : 	 176,00
-- Package Layout : 	 [C04-00515A](./mchp/packages/C04-00515A.pdf)
-- Package 3d model x3d : 	 [C04-00515A](./Model3d/x3d/C04-00515A.x3d)
-- Package 3d model scad : 	 [C04-00515A](./Model3d/scad/C04-00515A.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00515A.pdf](./mchp/packages/c04-00515a.pdf)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00515A.x3d) : 	 [C04-00515A.x3d](./Model3d/x3d/C04-00515A.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00515A.scad) : 	 [C04-00515A.scad](./Model3d/scad/C04-00515A.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 176
 - A2 : PD10,  of Type IO, alternates : [PORT P_106, EIC EXTINT_10, ETH RXD_1, TCC2:1 WO_0]
 - A3 : PD09,  of Type IO, alternates : [PORT P_105, MLB MLBD_, CAN1:2 TX_, EIC EXTINT_9, ETH CRS_]
@@ -34358,6 +34962,9 @@ Pin count : 176
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ8110CA90176
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
@@ -34553,6 +35160,9 @@ Pin count : 176
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ8110CA90208
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
@@ -34780,6 +35390,9 @@ Pin count : 208
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ8110CA90208
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 
@@ -35007,6 +35620,9 @@ Pin count : 208
 - Family : PIC32C
 - MF : Microchip
 - Name : PIC32CZ8110CA90208
+- Library Kicad : [PIC32C.kicad_sym](./KiCad/PIC32C.kicad_sym) 
+- Library Altium : [PIC32C.lia](./Altium/PIC32C.lia) 
+- Library Proteus : [PIC32C.pdif](./Proteus/PIC32C.pdif) 
 
 ### Package : 
 

@@ -14,17 +14,20 @@
 - Family : CEC173X
 - MF : Microchip
 - Name : CEC1734_S0_2HW
+- Library Kicad : [CEC173X.kicad_sym](./KiCad/CEC173X.kicad_sym) 
+- Library Altium : [CEC173X.lia](./Altium/CEC173X.lia) 
+- Library Proteus : [CEC173X.pdif](./Proteus/CEC173X.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00543B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00543B](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 2HW
 - Package Type : 	 VFBGA
 - Pin count : 	 64,00
-- Package Layout : 	 [C04-00543B](./mchp/packages/C04-00543B.pdf)
-- Package 3d model wrl : 	 [C04-00543B](./Model3d/wrl/C04-00543B.wrl)
-- Package 3d model x3d : 	 [C04-00543B](./Model3d/x3d/C04-00543B.x3d)
-- Package 3d model scad : 	 [C04-00543B](./Model3d/scad/C04-00543B.scad)
+- Package Layout : 	 [C04-00543B.pdf](./mchp/packages/c04-00543b.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00543B.wrl) : 	 [C04-00543B.wrl](./Model3d/wrl/C04-00543B.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00543B.x3d) : 	 [C04-00543B.x3d](./Model3d/x3d/C04-00543B.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00543B.scad) : 	 [C04-00543B.scad](./Model3d/scad/C04-00543B.scad)
 Pin count : 64
 - E2 : GPIO000,  of Type IO, alternates : [SPI_MON0 SPI0_KILL_, SPI_MON0 SPI0_RESET_n_, GPIO GPIO000_]
 - F9 : GPIO002,  of Type IO, alternates : [QMSPI0 QSPI0_CS1_n_, SPI_MON0 SPIMON_QSPI0_CS1_n_, GPIO GPIO002_]
@@ -105,17 +108,20 @@ Pin count : 64
 - Family : CEC173X
 - MF : Microchip
 - Name : CEC1734_S0_2ZW
+- Library Kicad : [CEC173X.kicad_sym](./KiCad/CEC173X.kicad_sym) 
+- Library Altium : [CEC173X.lia](./Altium/CEC173X.lia) 
+- Library Proteus : [CEC173X.pdif](./Proteus/CEC173X.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00390C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00390C](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 2ZW
 - Package Type : 	 WFBGA
 - Pin count : 	 84,00
-- Package Layout : 	 [C04-00390C](./mchp/packages/C04-00390C.pdf)
-- Package 3d model wrl : 	 [C04-00390C](./Model3d/wrl/C04-00390C.wrl)
-- Package 3d model x3d : 	 [C04-00390C](./Model3d/x3d/C04-00390C.x3d)
-- Package 3d model scad : 	 [C04-00390C](./Model3d/scad/C04-00390C.scad)
+- Package Layout : 	 [C04-00390C.pdf](./mchp/packages/c04-00390c.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00390C.wrl) : 	 [C04-00390C.wrl](./Model3d/wrl/C04-00390C.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00390C.x3d) : 	 [C04-00390C.x3d](./Model3d/x3d/C04-00390C.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00390C.scad) : 	 [C04-00390C.scad](./Model3d/scad/C04-00390C.scad)
 Pin count : 84
 - A4 : GPIO000,  of Type IO, alternates : [SPI_MON0 SPI0_KILL_, SPI_MON0 SPI0_RESET_n_, GPIO GPIO000_]
 - J2 : GPIO002,  of Type IO, alternates : [QMSPI0 QSPI0_CS1_n_, SPI_MON0 SPIMON_QSPI0_CS1_n_, GPIO GPIO002_]
@@ -216,17 +222,20 @@ Pin count : 84
 - Family : CEC173X
 - MF : Microchip
 - Name : CEC1736_S0_2HW
+- Library Kicad : [CEC173X.kicad_sym](./KiCad/CEC173X.kicad_sym) 
+- Library Altium : [CEC173X.lia](./Altium/CEC173X.lia) 
+- Library Proteus : [CEC173X.pdif](./Proteus/CEC173X.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00543B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00543B](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 2HW
 - Package Type : 	 VFBGA
 - Pin count : 	 64,00
-- Package Layout : 	 [C04-00543B](./mchp/packages/C04-00543B.pdf)
-- Package 3d model wrl : 	 [C04-00543B](./Model3d/wrl/C04-00543B.wrl)
-- Package 3d model x3d : 	 [C04-00543B](./Model3d/x3d/C04-00543B.x3d)
-- Package 3d model scad : 	 [C04-00543B](./Model3d/scad/C04-00543B.scad)
+- Package Layout : 	 [C04-00543B.pdf](./mchp/packages/c04-00543b.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00543B.wrl) : 	 [C04-00543B.wrl](./Model3d/wrl/C04-00543B.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00543B.x3d) : 	 [C04-00543B.x3d](./Model3d/x3d/C04-00543B.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00543B.scad) : 	 [C04-00543B.scad](./Model3d/scad/C04-00543B.scad)
 Pin count : 64
 - E2 : GPIO000,  of Type IO, alternates : [SPI_MON0 SPI0_KILL_, SPI_MON0 SPI0_RESET_n_, GPIO GPIO000_]
 - F9 : GPIO002,  of Type IO, alternates : [QMSPI0 QSPI0_CS1_n_, SPI_MON0 SPIMON_QSPI0_CS1_n_, GPIO GPIO002_]
@@ -307,17 +316,20 @@ Pin count : 64
 - Family : CEC173X
 - MF : Microchip
 - Name : CEC1736_S0_2ZW
+- Library Kicad : [CEC173X.kicad_sym](./KiCad/CEC173X.kicad_sym) 
+- Library Altium : [CEC173X.lia](./Altium/CEC173X.lia) 
+- Library Proteus : [CEC173X.pdif](./Proteus/CEC173X.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00390C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00390C](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 2ZW
 - Package Type : 	 WFBGA
 - Pin count : 	 84,00
-- Package Layout : 	 [C04-00390C](./mchp/packages/C04-00390C.pdf)
-- Package 3d model wrl : 	 [C04-00390C](./Model3d/wrl/C04-00390C.wrl)
-- Package 3d model x3d : 	 [C04-00390C](./Model3d/x3d/C04-00390C.x3d)
-- Package 3d model scad : 	 [C04-00390C](./Model3d/scad/C04-00390C.scad)
+- Package Layout : 	 [C04-00390C.pdf](./mchp/packages/c04-00390c.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00390C.wrl) : 	 [C04-00390C.wrl](./Model3d/wrl/C04-00390C.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00390C.x3d) : 	 [C04-00390C.x3d](./Model3d/x3d/C04-00390C.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00390C.scad) : 	 [C04-00390C.scad](./Model3d/scad/C04-00390C.scad)
 Pin count : 84
 - A4 : GPIO000,  of Type IO, alternates : [SPI_MON0 SPI0_KILL_, SPI_MON0 SPI0_RESET_n_, GPIO GPIO000_]
 - J2 : GPIO002,  of Type IO, alternates : [QMSPI0 QSPI0_CS1_n_, SPI_MON0 SPIMON_QSPI0_CS1_n_, GPIO GPIO002_]

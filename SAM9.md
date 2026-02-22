@@ -14,6 +14,9 @@
 - Family : SAM9
 - MF : Microchip
 - Name : SAM9X60
+- Library Kicad : [SAM9.kicad_sym](./KiCad/SAM9.kicad_sym) 
+- Library Altium : [SAM9.lia](./Altium/SAM9.lia) 
+- Library Proteus : [SAM9.pdif](./Proteus/SAM9.pdif) 
 
 ### Package : 
 
@@ -261,6 +264,9 @@ Pin count : 228
 - Family : SAM9
 - MF : Microchip
 - Name : SAM9X60D1G
+- Library Kicad : [SAM9.kicad_sym](./KiCad/SAM9.kicad_sym) 
+- Library Altium : [SAM9.lia](./Altium/SAM9.lia) 
+- Library Proteus : [SAM9.pdif](./Proteus/SAM9.pdif) 
 
 ### Package : 
 
@@ -513,6 +519,9 @@ Pin count : 233
 - Family : SAM9
 - MF : Microchip
 - Name : SAM9X60D5M
+- Library Kicad : [SAM9.kicad_sym](./KiCad/SAM9.kicad_sym) 
+- Library Altium : [SAM9.lia](./Altium/SAM9.lia) 
+- Library Proteus : [SAM9.pdif](./Proteus/SAM9.pdif) 
 
 ### Package : 
 
@@ -765,6 +774,9 @@ Pin count : 233
 - Family : SAM9
 - MF : Microchip
 - Name : SAM9X60D6K
+- Library Kicad : [SAM9.kicad_sym](./KiCad/SAM9.kicad_sym) 
+- Library Altium : [SAM9.lia](./Altium/SAM9.lia) 
+- Library Proteus : [SAM9.pdif](./Proteus/SAM9.pdif) 
 
 ### Package : 
 
@@ -980,6 +992,9 @@ Pin count : 196
 - Family : SAM9
 - MF : Microchip
 - Name : SAM9X70
+- Library Kicad : [SAM9.kicad_sym](./KiCad/SAM9.kicad_sym) 
+- Library Altium : [SAM9.lia](./Altium/SAM9.lia) 
+- Library Proteus : [SAM9.pdif](./Proteus/SAM9.pdif) 
 
 ### Package : 
 
@@ -1228,6 +1243,9 @@ Pin count : 229
 - Family : SAM9
 - MF : Microchip
 - Name : SAM9X72
+- Library Kicad : [SAM9.kicad_sym](./KiCad/SAM9.kicad_sym) 
+- Library Altium : [SAM9.lia](./Altium/SAM9.lia) 
+- Library Proteus : [SAM9.pdif](./Proteus/SAM9.pdif) 
 
 ### Package : 
 
@@ -1476,6 +1494,9 @@ Pin count : 229
 - Family : SAM9
 - MF : Microchip
 - Name : SAM9X75
+- Library Kicad : [SAM9.kicad_sym](./KiCad/SAM9.kicad_sym) 
+- Library Altium : [SAM9.lia](./Altium/SAM9.lia) 
+- Library Proteus : [SAM9.pdif](./Proteus/SAM9.pdif) 
 
 ### Package : 
 
@@ -1735,6 +1756,9 @@ Pin count : 240
 - Family : SAM9
 - MF : Microchip
 - Name : SAM9X75D1G
+- Library Kicad : [SAM9.kicad_sym](./KiCad/SAM9.kicad_sym) 
+- Library Altium : [SAM9.lia](./Altium/SAM9.lia) 
+- Library Proteus : [SAM9.pdif](./Proteus/SAM9.pdif) 
 
 ### Package : 
 
@@ -1997,6 +2021,9 @@ Pin count : 243
 - Family : SAM9
 - MF : Microchip
 - Name : SAM9X75D2G
+- Library Kicad : [SAM9.kicad_sym](./KiCad/SAM9.kicad_sym) 
+- Library Altium : [SAM9.lia](./Altium/SAM9.lia) 
+- Library Proteus : [SAM9.pdif](./Proteus/SAM9.pdif) 
 
 ### Package : 
 
@@ -2259,6 +2286,9 @@ Pin count : 243
 - Family : SAM9
 - MF : Microchip
 - Name : SAM9X75D5M
+- Library Kicad : [SAM9.kicad_sym](./KiCad/SAM9.kicad_sym) 
+- Library Altium : [SAM9.lia](./Altium/SAM9.lia) 
+- Library Proteus : [SAM9.pdif](./Proteus/SAM9.pdif) 
 
 ### Package : 
 

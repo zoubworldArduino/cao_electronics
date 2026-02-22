@@ -14,6 +14,9 @@
 - Family : tinyAVR
 - MF : Microchip
 - Name : ATtiny10
+- Library Kicad : [tinyAVR.kicad_sym](./KiCad/tinyAVR.kicad_sym) 
+- Library Altium : [tinyAVR.lia](./Altium/tinyAVR.lia) 
+- Library Proteus : [tinyAVR.pdif](./Proteus/tinyAVR.pdif) 
 
 ### Package : 
 
@@ -39,6 +42,9 @@ Pin count : 6
 - Family : tinyAVR
 - MF : Microchip
 - Name : ATtiny10
+- Library Kicad : [tinyAVR.kicad_sym](./KiCad/tinyAVR.kicad_sym) 
+- Library Altium : [tinyAVR.lia](./Altium/tinyAVR.lia) 
+- Library Proteus : [tinyAVR.pdif](./Proteus/tinyAVR.pdif) 
 
 ### Package : 
 
@@ -64,6 +70,9 @@ Pin count : 6
 - Family : tinyAVR
 - MF : Microchip
 - Name : ATtiny10
+- Library Kicad : [tinyAVR.kicad_sym](./KiCad/tinyAVR.kicad_sym) 
+- Library Altium : [tinyAVR.lia](./Altium/tinyAVR.lia) 
+- Library Proteus : [tinyAVR.pdif](./Proteus/tinyAVR.pdif) 
 
 ### Package : 
 
@@ -89,6 +98,9 @@ Pin count : 6
 - Family : tinyAVR
 - MF : Microchip
 - Name : ATtiny102
+- Library Kicad : [tinyAVR.kicad_sym](./KiCad/tinyAVR.kicad_sym) 
+- Library Altium : [tinyAVR.lia](./Altium/tinyAVR.lia) 
+- Library Proteus : [tinyAVR.pdif](./Proteus/tinyAVR.pdif) 
 
 ### Package : 
 
@@ -116,6 +128,9 @@ Pin count : 8
 - Family : tinyAVR
 - MF : Microchip
 - Name : ATtiny102
+- Library Kicad : [tinyAVR.kicad_sym](./KiCad/tinyAVR.kicad_sym) 
+- Library Altium : [tinyAVR.lia](./Altium/tinyAVR.lia) 
+- Library Proteus : [tinyAVR.pdif](./Proteus/tinyAVR.pdif) 
 
 ### Package : 
 
@@ -143,6 +158,9 @@ Pin count : 8
 - Family : tinyAVR
 - MF : Microchip
 - Name : ATtiny102
+- Library Kicad : [tinyAVR.kicad_sym](./KiCad/tinyAVR.kicad_sym) 
+- Library Altium : [tinyAVR.lia](./Altium/tinyAVR.lia) 
+- Library Proteus : [tinyAVR.pdif](./Proteus/tinyAVR.pdif) 
 
 ### Package : 
 
@@ -170,6 +188,9 @@ Pin count : 8
 - Family : tinyAVR
 - MF : Microchip
 - Name : ATtiny102
+- Library Kicad : [tinyAVR.kicad_sym](./KiCad/tinyAVR.kicad_sym) 
+- Library Altium : [tinyAVR.lia](./Altium/tinyAVR.lia) 
+- Library Proteus : [tinyAVR.pdif](./Proteus/tinyAVR.pdif) 
 
 ### Package : 
 
@@ -197,6 +218,9 @@ Pin count : 8
 - Family : tinyAVR
 - MF : Microchip
 - Name : ATtiny102
+- Library Kicad : [tinyAVR.kicad_sym](./KiCad/tinyAVR.kicad_sym) 
+- Library Altium : [tinyAVR.lia](./Altium/tinyAVR.lia) 
+- Library Proteus : [tinyAVR.pdif](./Proteus/tinyAVR.pdif) 
 
 ### Package : 
 
@@ -224,6 +248,9 @@ Pin count : 8
 - Family : tinyAVR
 - MF : Microchip
 - Name : ATtiny102
+- Library Kicad : [tinyAVR.kicad_sym](./KiCad/tinyAVR.kicad_sym) 
+- Library Altium : [tinyAVR.lia](./Altium/tinyAVR.lia) 
+- Library Proteus : [tinyAVR.pdif](./Proteus/tinyAVR.pdif) 
 
 ### Package : 
 
@@ -251,6 +278,9 @@ Pin count : 8
 - Family : tinyAVR
 - MF : Microchip
 - Name : ATtiny102
+- Library Kicad : [tinyAVR.kicad_sym](./KiCad/tinyAVR.kicad_sym) 
+- Library Altium : [tinyAVR.lia](./Altium/tinyAVR.lia) 
+- Library Proteus : [tinyAVR.pdif](./Proteus/tinyAVR.pdif) 
 
 ### Package : 
 
@@ -278,6 +308,9 @@ Pin count : 8
 - Family : tinyAVR
 - MF : Microchip
 - Name : ATtiny102
+- Library Kicad : [tinyAVR.kicad_sym](./KiCad/tinyAVR.kicad_sym) 
+- Library Altium : [tinyAVR.lia](./Altium/tinyAVR.lia) 
+- Library Proteus : [tinyAVR.pdif](./Proteus/tinyAVR.pdif) 
 
 ### Package : 
 
@@ -305,6 +338,9 @@ Pin count : 8
 - Family : tinyAVR
 - MF : Microchip
 - Name : ATtiny104
+- Library Kicad : [tinyAVR.kicad_sym](./KiCad/tinyAVR.kicad_sym) 
+- Library Altium : [tinyAVR.lia](./Altium/tinyAVR.lia) 
+- Library Proteus : [tinyAVR.pdif](./Proteus/tinyAVR.pdif) 
 
 ### Package : 
 
@@ -338,6 +374,9 @@ Pin count : 14
 - Family : tinyAVR
 - MF : Microchip
 - Name : ATtiny104
+- Library Kicad : [tinyAVR.kicad_sym](./KiCad/tinyAVR.kicad_sym) 
+- Library Altium : [tinyAVR.lia](./Altium/tinyAVR.lia) 
+- Library Proteus : [tinyAVR.pdif](./Proteus/tinyAVR.pdif) 
 
 ### Package : 
 
@@ -371,6 +410,9 @@ Pin count : 14
 - Family : tinyAVR
 - MF : Microchip
 - Name : ATtiny104
+- Library Kicad : [tinyAVR.kicad_sym](./KiCad/tinyAVR.kicad_sym) 
+- Library Altium : [tinyAVR.lia](./Altium/tinyAVR.lia) 
+- Library Proteus : [tinyAVR.pdif](./Proteus/tinyAVR.pdif) 
 
 ### Package : 
 
@@ -404,6 +446,9 @@ Pin count : 14
 - Family : tinyAVR
 - MF : Microchip
 - Name : ATtiny104
+- Library Kicad : [tinyAVR.kicad_sym](./KiCad/tinyAVR.kicad_sym) 
+- Library Altium : [tinyAVR.lia](./Altium/tinyAVR.lia) 
+- Library Proteus : [tinyAVR.pdif](./Proteus/tinyAVR.pdif) 
 
 ### Package : 
 
@@ -437,6 +482,9 @@ Pin count : 14
 - Family : tinyAVR
 - MF : Microchip
 - Name : ATtiny13
+- Library Kicad : [tinyAVR.kicad_sym](./KiCad/tinyAVR.kicad_sym) 
+- Library Altium : [tinyAVR.lia](./Altium/tinyAVR.lia) 
+- Library Proteus : [tinyAVR.pdif](./Proteus/tinyAVR.pdif) 
 
 ### Package : 
 
@@ -464,6 +512,9 @@ Pin count : 8
 - Family : tinyAVR
 - MF : Microchip
 - Name : ATtiny13
+- Library Kicad : [tinyAVR.kicad_sym](./KiCad/tinyAVR.kicad_sym) 
+- Library Altium : [tinyAVR.lia](./Altium/tinyAVR.lia) 
+- Library Proteus : [tinyAVR.pdif](./Proteus/tinyAVR.pdif) 
 
 ### Package : 
 
@@ -491,6 +542,9 @@ Pin count : 8
 - Family : tinyAVR
 - MF : Microchip
 - Name : ATtiny13
+- Library Kicad : [tinyAVR.kicad_sym](./KiCad/tinyAVR.kicad_sym) 
+- Library Altium : [tinyAVR.lia](./Altium/tinyAVR.lia) 
+- Library Proteus : [tinyAVR.pdif](./Proteus/tinyAVR.pdif) 
 
 ### Package : 
 
@@ -518,6 +572,9 @@ Pin count : 8
 - Family : tinyAVR
 - MF : Microchip
 - Name : ATtiny13
+- Library Kicad : [tinyAVR.kicad_sym](./KiCad/tinyAVR.kicad_sym) 
+- Library Altium : [tinyAVR.lia](./Altium/tinyAVR.lia) 
+- Library Proteus : [tinyAVR.pdif](./Proteus/tinyAVR.pdif) 
 
 ### Package : 
 
@@ -545,6 +602,9 @@ Pin count : 8
 - Family : tinyAVR
 - MF : Microchip
 - Name : ATtiny13
+- Library Kicad : [tinyAVR.kicad_sym](./KiCad/tinyAVR.kicad_sym) 
+- Library Altium : [tinyAVR.lia](./Altium/tinyAVR.lia) 
+- Library Proteus : [tinyAVR.pdif](./Proteus/tinyAVR.pdif) 
 
 ### Package : 
 
@@ -572,6 +632,9 @@ Pin count : 8
 - Family : tinyAVR
 - MF : Microchip
 - Name : ATtiny13A
+- Library Kicad : [tinyAVR.kicad_sym](./KiCad/tinyAVR.kicad_sym) 
+- Library Altium : [tinyAVR.lia](./Altium/tinyAVR.lia) 
+- Library Proteus : [tinyAVR.pdif](./Proteus/tinyAVR.pdif) 
 
 ### Package : 
 
@@ -599,6 +662,9 @@ Pin count : 8
 - Family : tinyAVR
 - MF : Microchip
 - Name : ATtiny13A
+- Library Kicad : [tinyAVR.kicad_sym](./KiCad/tinyAVR.kicad_sym) 
+- Library Altium : [tinyAVR.lia](./Altium/tinyAVR.lia) 
+- Library Proteus : [tinyAVR.pdif](./Proteus/tinyAVR.pdif) 
 
 ### Package : 
 
@@ -626,6 +692,9 @@ Pin count : 8
 - Family : tinyAVR
 - MF : Microchip
 - Name : ATtiny13A
+- Library Kicad : [tinyAVR.kicad_sym](./KiCad/tinyAVR.kicad_sym) 
+- Library Altium : [tinyAVR.lia](./Altium/tinyAVR.lia) 
+- Library Proteus : [tinyAVR.pdif](./Proteus/tinyAVR.pdif) 
 
 ### Package : 
 
@@ -653,6 +722,9 @@ Pin count : 8
 - Family : tinyAVR
 - MF : Microchip
 - Name : ATtiny13A
+- Library Kicad : [tinyAVR.kicad_sym](./KiCad/tinyAVR.kicad_sym) 
+- Library Altium : [tinyAVR.lia](./Altium/tinyAVR.lia) 
+- Library Proteus : [tinyAVR.pdif](./Proteus/tinyAVR.pdif) 
 
 ### Package : 
 
@@ -680,6 +752,9 @@ Pin count : 8
 - Family : tinyAVR
 - MF : Microchip
 - Name : ATtiny13A
+- Library Kicad : [tinyAVR.kicad_sym](./KiCad/tinyAVR.kicad_sym) 
+- Library Altium : [tinyAVR.lia](./Altium/tinyAVR.lia) 
+- Library Proteus : [tinyAVR.pdif](./Proteus/tinyAVR.pdif) 
 
 ### Package : 
 
@@ -707,6 +782,9 @@ Pin count : 8
 - Family : tinyAVR
 - MF : Microchip
 - Name : ATtiny13A
+- Library Kicad : [tinyAVR.kicad_sym](./KiCad/tinyAVR.kicad_sym) 
+- Library Altium : [tinyAVR.lia](./Altium/tinyAVR.lia) 
+- Library Proteus : [tinyAVR.pdif](./Proteus/tinyAVR.pdif) 
 
 ### Package : 
 
@@ -734,6 +812,9 @@ Pin count : 8
 - Family : tinyAVR
 - MF : Microchip
 - Name : ATtiny13A
+- Library Kicad : [tinyAVR.kicad_sym](./KiCad/tinyAVR.kicad_sym) 
+- Library Altium : [tinyAVR.lia](./Altium/tinyAVR.lia) 
+- Library Proteus : [tinyAVR.pdif](./Proteus/tinyAVR.pdif) 
 
 ### Package : 
 
@@ -761,6 +842,9 @@ Pin count : 8
 - Family : tinyAVR
 - MF : Microchip
 - Name : ATtiny13A
+- Library Kicad : [tinyAVR.kicad_sym](./KiCad/tinyAVR.kicad_sym) 
+- Library Altium : [tinyAVR.lia](./Altium/tinyAVR.lia) 
+- Library Proteus : [tinyAVR.pdif](./Proteus/tinyAVR.pdif) 
 
 ### Package : 
 
@@ -788,6 +872,9 @@ Pin count : 8
 - Family : tinyAVR
 - MF : Microchip
 - Name : ATtiny13A
+- Library Kicad : [tinyAVR.kicad_sym](./KiCad/tinyAVR.kicad_sym) 
+- Library Altium : [tinyAVR.lia](./Altium/tinyAVR.lia) 
+- Library Proteus : [tinyAVR.pdif](./Proteus/tinyAVR.pdif) 
 
 ### Package : 
 
@@ -815,6 +902,9 @@ Pin count : 8
 - Family : tinyAVR
 - MF : Microchip
 - Name : ATtiny13A
+- Library Kicad : [tinyAVR.kicad_sym](./KiCad/tinyAVR.kicad_sym) 
+- Library Altium : [tinyAVR.lia](./Altium/tinyAVR.lia) 
+- Library Proteus : [tinyAVR.pdif](./Proteus/tinyAVR.pdif) 
 
 ### Package : 
 
@@ -842,6 +932,9 @@ Pin count : 8
 - Family : tinyAVR
 - MF : Microchip
 - Name : ATtiny13A
+- Library Kicad : [tinyAVR.kicad_sym](./KiCad/tinyAVR.kicad_sym) 
+- Library Altium : [tinyAVR.lia](./Altium/tinyAVR.lia) 
+- Library Proteus : [tinyAVR.pdif](./Proteus/tinyAVR.pdif) 
 
 ### Package : 
 
@@ -869,6 +962,9 @@ Pin count : 8
 - Family : tinyAVR
 - MF : Microchip
 - Name : ATtiny13
+- Library Kicad : [tinyAVR.kicad_sym](./KiCad/tinyAVR.kicad_sym) 
+- Library Altium : [tinyAVR.lia](./Altium/tinyAVR.lia) 
+- Library Proteus : [tinyAVR.pdif](./Proteus/tinyAVR.pdif) 
 
 ### Package : 
 
@@ -896,6 +992,9 @@ Pin count : 8
 - Family : tinyAVR
 - MF : Microchip
 - Name : ATtiny13
+- Library Kicad : [tinyAVR.kicad_sym](./KiCad/tinyAVR.kicad_sym) 
+- Library Altium : [tinyAVR.lia](./Altium/tinyAVR.lia) 
+- Library Proteus : [tinyAVR.pdif](./Proteus/tinyAVR.pdif) 
 
 ### Package : 
 
@@ -923,6 +1022,9 @@ Pin count : 8
 - Family : tinyAVR
 - MF : Microchip
 - Name : ATtiny13
+- Library Kicad : [tinyAVR.kicad_sym](./KiCad/tinyAVR.kicad_sym) 
+- Library Altium : [tinyAVR.lia](./Altium/tinyAVR.lia) 
+- Library Proteus : [tinyAVR.pdif](./Proteus/tinyAVR.pdif) 
 
 ### Package : 
 
@@ -950,6 +1052,9 @@ Pin count : 8
 - Family : tinyAVR
 - MF : Microchip
 - Name : ATtiny13
+- Library Kicad : [tinyAVR.kicad_sym](./KiCad/tinyAVR.kicad_sym) 
+- Library Altium : [tinyAVR.lia](./Altium/tinyAVR.lia) 
+- Library Proteus : [tinyAVR.pdif](./Proteus/tinyAVR.pdif) 
 
 ### Package : 
 
@@ -977,6 +1082,9 @@ Pin count : 8
 - Family : tinyAVR
 - MF : Microchip
 - Name : ATtiny13
+- Library Kicad : [tinyAVR.kicad_sym](./KiCad/tinyAVR.kicad_sym) 
+- Library Altium : [tinyAVR.lia](./Altium/tinyAVR.lia) 
+- Library Proteus : [tinyAVR.pdif](./Proteus/tinyAVR.pdif) 
 
 ### Package : 
 
@@ -1004,6 +1112,9 @@ Pin count : 8
 - Family : tinyAVR
 - MF : Microchip
 - Name : ATtiny20
+- Library Kicad : [tinyAVR.kicad_sym](./KiCad/tinyAVR.kicad_sym) 
+- Library Altium : [tinyAVR.lia](./Altium/tinyAVR.lia) 
+- Library Proteus : [tinyAVR.pdif](./Proteus/tinyAVR.pdif) 
 
 ### Package : 
 
@@ -1038,6 +1149,9 @@ Pin count : 15
 - Family : tinyAVR
 - MF : Microchip
 - Name : ATtiny20
+- Library Kicad : [tinyAVR.kicad_sym](./KiCad/tinyAVR.kicad_sym) 
+- Library Altium : [tinyAVR.lia](./Altium/tinyAVR.lia) 
+- Library Proteus : [tinyAVR.pdif](./Proteus/tinyAVR.pdif) 
 
 ### Package : 
 
@@ -1071,6 +1185,9 @@ Pin count : 14
 - Family : tinyAVR
 - MF : Microchip
 - Name : ATtiny20
+- Library Kicad : [tinyAVR.kicad_sym](./KiCad/tinyAVR.kicad_sym) 
+- Library Altium : [tinyAVR.lia](./Altium/tinyAVR.lia) 
+- Library Proteus : [tinyAVR.pdif](./Proteus/tinyAVR.pdif) 
 
 ### Package : 
 
@@ -1104,6 +1221,9 @@ Pin count : 14
 - Family : tinyAVR
 - MF : Microchip
 - Name : ATtiny20
+- Library Kicad : [tinyAVR.kicad_sym](./KiCad/tinyAVR.kicad_sym) 
+- Library Altium : [tinyAVR.lia](./Altium/tinyAVR.lia) 
+- Library Proteus : [tinyAVR.pdif](./Proteus/tinyAVR.pdif) 
 
 ### Package : 
 
@@ -1135,6 +1255,9 @@ Pin count : 12
 - Family : tinyAVR
 - MF : Microchip
 - Name : ATtiny20
+- Library Kicad : [tinyAVR.kicad_sym](./KiCad/tinyAVR.kicad_sym) 
+- Library Altium : [tinyAVR.lia](./Altium/tinyAVR.lia) 
+- Library Proteus : [tinyAVR.pdif](./Proteus/tinyAVR.pdif) 
 
 ### Package : 
 
@@ -1168,6 +1291,9 @@ Pin count : 14
 - Family : tinyAVR
 - MF : Microchip
 - Name : ATtiny24A
+- Library Kicad : [tinyAVR.kicad_sym](./KiCad/tinyAVR.kicad_sym) 
+- Library Altium : [tinyAVR.lia](./Altium/tinyAVR.lia) 
+- Library Proteus : [tinyAVR.pdif](./Proteus/tinyAVR.pdif) 
 
 ### Package : 
 
@@ -1202,6 +1328,9 @@ Pin count : 15
 - Family : tinyAVR
 - MF : Microchip
 - Name : ATtiny24A
+- Library Kicad : [tinyAVR.kicad_sym](./KiCad/tinyAVR.kicad_sym) 
+- Library Altium : [tinyAVR.lia](./Altium/tinyAVR.lia) 
+- Library Proteus : [tinyAVR.pdif](./Proteus/tinyAVR.pdif) 
 
 ### Package : 
 
@@ -1235,6 +1364,9 @@ Pin count : 14
 - Family : tinyAVR
 - MF : Microchip
 - Name : ATtiny24A
+- Library Kicad : [tinyAVR.kicad_sym](./KiCad/tinyAVR.kicad_sym) 
+- Library Altium : [tinyAVR.lia](./Altium/tinyAVR.lia) 
+- Library Proteus : [tinyAVR.pdif](./Proteus/tinyAVR.pdif) 
 
 ### Package : 
 
@@ -1268,6 +1400,9 @@ Pin count : 14
 - Family : tinyAVR
 - MF : Microchip
 - Name : ATtiny24A
+- Library Kicad : [tinyAVR.kicad_sym](./KiCad/tinyAVR.kicad_sym) 
+- Library Altium : [tinyAVR.lia](./Altium/tinyAVR.lia) 
+- Library Proteus : [tinyAVR.pdif](./Proteus/tinyAVR.pdif) 
 
 ### Package : 
 
@@ -1301,6 +1436,9 @@ Pin count : 14
 - Family : tinyAVR
 - MF : Microchip
 - Name : ATtiny24A
+- Library Kicad : [tinyAVR.kicad_sym](./KiCad/tinyAVR.kicad_sym) 
+- Library Altium : [tinyAVR.lia](./Altium/tinyAVR.lia) 
+- Library Proteus : [tinyAVR.pdif](./Proteus/tinyAVR.pdif) 
 
 ### Package : 
 
@@ -1334,6 +1472,9 @@ Pin count : 14
 - Family : tinyAVR
 - MF : Microchip
 - Name : ATtiny24A
+- Library Kicad : [tinyAVR.kicad_sym](./KiCad/tinyAVR.kicad_sym) 
+- Library Altium : [tinyAVR.lia](./Altium/tinyAVR.lia) 
+- Library Proteus : [tinyAVR.pdif](./Proteus/tinyAVR.pdif) 
 
 ### Package : 
 
@@ -1367,6 +1508,9 @@ Pin count : 14
 - Family : tinyAVR
 - MF : Microchip
 - Name : ATtiny24A
+- Library Kicad : [tinyAVR.kicad_sym](./KiCad/tinyAVR.kicad_sym) 
+- Library Altium : [tinyAVR.lia](./Altium/tinyAVR.lia) 
+- Library Proteus : [tinyAVR.pdif](./Proteus/tinyAVR.pdif) 
 
 ### Package : 
 
@@ -1400,6 +1544,9 @@ Pin count : 14
 - Family : tinyAVR
 - MF : Microchip
 - Name : ATtiny24A
+- Library Kicad : [tinyAVR.kicad_sym](./KiCad/tinyAVR.kicad_sym) 
+- Library Altium : [tinyAVR.lia](./Altium/tinyAVR.lia) 
+- Library Proteus : [tinyAVR.pdif](./Proteus/tinyAVR.pdif) 
 
 ### Package : 
 
@@ -1433,6 +1580,9 @@ Pin count : 14
 - Family : tinyAVR
 - MF : Microchip
 - Name : ATtiny24A
+- Library Kicad : [tinyAVR.kicad_sym](./KiCad/tinyAVR.kicad_sym) 
+- Library Altium : [tinyAVR.lia](./Altium/tinyAVR.lia) 
+- Library Proteus : [tinyAVR.pdif](./Proteus/tinyAVR.pdif) 
 
 ### Package : 
 
@@ -1466,6 +1616,9 @@ Pin count : 14
 - Family : tinyAVR
 - MF : Microchip
 - Name : ATtiny25
+- Library Kicad : [tinyAVR.kicad_sym](./KiCad/tinyAVR.kicad_sym) 
+- Library Altium : [tinyAVR.lia](./Altium/tinyAVR.lia) 
+- Library Proteus : [tinyAVR.pdif](./Proteus/tinyAVR.pdif) 
 
 ### Package : 
 
@@ -1493,6 +1646,9 @@ Pin count : 8
 - Family : tinyAVR
 - MF : Microchip
 - Name : ATtiny25
+- Library Kicad : [tinyAVR.kicad_sym](./KiCad/tinyAVR.kicad_sym) 
+- Library Altium : [tinyAVR.lia](./Altium/tinyAVR.lia) 
+- Library Proteus : [tinyAVR.pdif](./Proteus/tinyAVR.pdif) 
 
 ### Package : 
 
@@ -1520,6 +1676,9 @@ Pin count : 8
 - Family : tinyAVR
 - MF : Microchip
 - Name : ATtiny25
+- Library Kicad : [tinyAVR.kicad_sym](./KiCad/tinyAVR.kicad_sym) 
+- Library Altium : [tinyAVR.lia](./Altium/tinyAVR.lia) 
+- Library Proteus : [tinyAVR.pdif](./Proteus/tinyAVR.pdif) 
 
 ### Package : 
 
@@ -1547,6 +1706,9 @@ Pin count : 8
 - Family : tinyAVR
 - MF : Microchip
 - Name : ATtiny25
+- Library Kicad : [tinyAVR.kicad_sym](./KiCad/tinyAVR.kicad_sym) 
+- Library Altium : [tinyAVR.lia](./Altium/tinyAVR.lia) 
+- Library Proteus : [tinyAVR.pdif](./Proteus/tinyAVR.pdif) 
 
 ### Package : 
 
@@ -1574,6 +1736,9 @@ Pin count : 8
 - Family : tinyAVR
 - MF : Microchip
 - Name : ATtiny25
+- Library Kicad : [tinyAVR.kicad_sym](./KiCad/tinyAVR.kicad_sym) 
+- Library Altium : [tinyAVR.lia](./Altium/tinyAVR.lia) 
+- Library Proteus : [tinyAVR.pdif](./Proteus/tinyAVR.pdif) 
 
 ### Package : 
 
@@ -1601,6 +1766,9 @@ Pin count : 8
 - Family : tinyAVR
 - MF : Microchip
 - Name : ATtiny25
+- Library Kicad : [tinyAVR.kicad_sym](./KiCad/tinyAVR.kicad_sym) 
+- Library Altium : [tinyAVR.lia](./Altium/tinyAVR.lia) 
+- Library Proteus : [tinyAVR.pdif](./Proteus/tinyAVR.pdif) 
 
 ### Package : 
 
@@ -1628,6 +1796,9 @@ Pin count : 8
 - Family : tinyAVR
 - MF : Microchip
 - Name : ATtiny25
+- Library Kicad : [tinyAVR.kicad_sym](./KiCad/tinyAVR.kicad_sym) 
+- Library Altium : [tinyAVR.lia](./Altium/tinyAVR.lia) 
+- Library Proteus : [tinyAVR.pdif](./Proteus/tinyAVR.pdif) 
 
 ### Package : 
 
@@ -1655,6 +1826,9 @@ Pin count : 8
 - Family : tinyAVR
 - MF : Microchip
 - Name : ATtiny25
+- Library Kicad : [tinyAVR.kicad_sym](./KiCad/tinyAVR.kicad_sym) 
+- Library Altium : [tinyAVR.lia](./Altium/tinyAVR.lia) 
+- Library Proteus : [tinyAVR.pdif](./Proteus/tinyAVR.pdif) 
 
 ### Package : 
 
@@ -1682,6 +1856,9 @@ Pin count : 8
 - Family : tinyAVR
 - MF : Microchip
 - Name : ATtiny25
+- Library Kicad : [tinyAVR.kicad_sym](./KiCad/tinyAVR.kicad_sym) 
+- Library Altium : [tinyAVR.lia](./Altium/tinyAVR.lia) 
+- Library Proteus : [tinyAVR.pdif](./Proteus/tinyAVR.pdif) 
 
 ### Package : 
 
@@ -1709,6 +1886,9 @@ Pin count : 8
 - Family : tinyAVR
 - MF : Microchip
 - Name : ATtiny25
+- Library Kicad : [tinyAVR.kicad_sym](./KiCad/tinyAVR.kicad_sym) 
+- Library Altium : [tinyAVR.lia](./Altium/tinyAVR.lia) 
+- Library Proteus : [tinyAVR.pdif](./Proteus/tinyAVR.pdif) 
 
 ### Package : 
 
@@ -1736,6 +1916,9 @@ Pin count : 8
 - Family : tinyAVR
 - MF : Microchip
 - Name : ATtiny25
+- Library Kicad : [tinyAVR.kicad_sym](./KiCad/tinyAVR.kicad_sym) 
+- Library Altium : [tinyAVR.lia](./Altium/tinyAVR.lia) 
+- Library Proteus : [tinyAVR.pdif](./Proteus/tinyAVR.pdif) 
 
 ### Package : 
 
@@ -1763,6 +1946,9 @@ Pin count : 8
 - Family : tinyAVR
 - MF : Microchip
 - Name : ATtiny25
+- Library Kicad : [tinyAVR.kicad_sym](./KiCad/tinyAVR.kicad_sym) 
+- Library Altium : [tinyAVR.lia](./Altium/tinyAVR.lia) 
+- Library Proteus : [tinyAVR.pdif](./Proteus/tinyAVR.pdif) 
 
 ### Package : 
 
@@ -1790,6 +1976,9 @@ Pin count : 8
 - Family : tinyAVR
 - MF : Microchip
 - Name : ATtiny25
+- Library Kicad : [tinyAVR.kicad_sym](./KiCad/tinyAVR.kicad_sym) 
+- Library Altium : [tinyAVR.lia](./Altium/tinyAVR.lia) 
+- Library Proteus : [tinyAVR.pdif](./Proteus/tinyAVR.pdif) 
 
 ### Package : 
 
@@ -1817,6 +2006,9 @@ Pin count : 8
 - Family : tinyAVR
 - MF : Microchip
 - Name : ATtiny25
+- Library Kicad : [tinyAVR.kicad_sym](./KiCad/tinyAVR.kicad_sym) 
+- Library Altium : [tinyAVR.lia](./Altium/tinyAVR.lia) 
+- Library Proteus : [tinyAVR.pdif](./Proteus/tinyAVR.pdif) 
 
 ### Package : 
 
@@ -1844,6 +2036,9 @@ Pin count : 8
 - Family : tinyAVR
 - MF : Microchip
 - Name : ATtiny25
+- Library Kicad : [tinyAVR.kicad_sym](./KiCad/tinyAVR.kicad_sym) 
+- Library Altium : [tinyAVR.lia](./Altium/tinyAVR.lia) 
+- Library Proteus : [tinyAVR.pdif](./Proteus/tinyAVR.pdif) 
 
 ### Package : 
 
@@ -1871,6 +2066,9 @@ Pin count : 8
 - Family : tinyAVR
 - MF : Microchip
 - Name : ATtiny25
+- Library Kicad : [tinyAVR.kicad_sym](./KiCad/tinyAVR.kicad_sym) 
+- Library Altium : [tinyAVR.lia](./Altium/tinyAVR.lia) 
+- Library Proteus : [tinyAVR.pdif](./Proteus/tinyAVR.pdif) 
 
 ### Package : 
 
@@ -1898,6 +2096,9 @@ Pin count : 8
 - Family : tinyAVR
 - MF : Microchip
 - Name : ATtiny25
+- Library Kicad : [tinyAVR.kicad_sym](./KiCad/tinyAVR.kicad_sym) 
+- Library Altium : [tinyAVR.lia](./Altium/tinyAVR.lia) 
+- Library Proteus : [tinyAVR.pdif](./Proteus/tinyAVR.pdif) 
 
 ### Package : 
 
@@ -1925,6 +2126,9 @@ Pin count : 8
 - Family : tinyAVR
 - MF : Microchip
 - Name : ATtiny25
+- Library Kicad : [tinyAVR.kicad_sym](./KiCad/tinyAVR.kicad_sym) 
+- Library Altium : [tinyAVR.lia](./Altium/tinyAVR.lia) 
+- Library Proteus : [tinyAVR.pdif](./Proteus/tinyAVR.pdif) 
 
 ### Package : 
 
@@ -1952,6 +2156,9 @@ Pin count : 8
 - Family : tinyAVR
 - MF : Microchip
 - Name : ATtiny261
+- Library Kicad : [tinyAVR.kicad_sym](./KiCad/tinyAVR.kicad_sym) 
+- Library Altium : [tinyAVR.lia](./Altium/tinyAVR.lia) 
+- Library Proteus : [tinyAVR.pdif](./Proteus/tinyAVR.pdif) 
 
 ### Package : 
 
@@ -1991,6 +2198,9 @@ Pin count : 20
 - Family : tinyAVR
 - MF : Microchip
 - Name : ATtiny261
+- Library Kicad : [tinyAVR.kicad_sym](./KiCad/tinyAVR.kicad_sym) 
+- Library Altium : [tinyAVR.lia](./Altium/tinyAVR.lia) 
+- Library Proteus : [tinyAVR.pdif](./Proteus/tinyAVR.pdif) 
 
 ### Package : 
 
@@ -2030,6 +2240,9 @@ Pin count : 20
 - Family : tinyAVR
 - MF : Microchip
 - Name : ATtiny261
+- Library Kicad : [tinyAVR.kicad_sym](./KiCad/tinyAVR.kicad_sym) 
+- Library Altium : [tinyAVR.lia](./Altium/tinyAVR.lia) 
+- Library Proteus : [tinyAVR.pdif](./Proteus/tinyAVR.pdif) 
 
 ### Package : 
 
@@ -2069,6 +2282,9 @@ Pin count : 20
 - Family : tinyAVR
 - MF : Microchip
 - Name : ATtiny261
+- Library Kicad : [tinyAVR.kicad_sym](./KiCad/tinyAVR.kicad_sym) 
+- Library Altium : [tinyAVR.lia](./Altium/tinyAVR.lia) 
+- Library Proteus : [tinyAVR.pdif](./Proteus/tinyAVR.pdif) 
 
 ### Package : 
 
@@ -2108,6 +2324,9 @@ Pin count : 20
 - Family : tinyAVR
 - MF : Microchip
 - Name : ATtiny261
+- Library Kicad : [tinyAVR.kicad_sym](./KiCad/tinyAVR.kicad_sym) 
+- Library Altium : [tinyAVR.lia](./Altium/tinyAVR.lia) 
+- Library Proteus : [tinyAVR.pdif](./Proteus/tinyAVR.pdif) 
 
 ### Package : 
 
@@ -2147,6 +2366,9 @@ Pin count : 20
 - Family : tinyAVR
 - MF : Microchip
 - Name : ATtiny261
+- Library Kicad : [tinyAVR.kicad_sym](./KiCad/tinyAVR.kicad_sym) 
+- Library Altium : [tinyAVR.lia](./Altium/tinyAVR.lia) 
+- Library Proteus : [tinyAVR.pdif](./Proteus/tinyAVR.pdif) 
 
 ### Package : 
 
@@ -2186,6 +2408,9 @@ Pin count : 20
 - Family : tinyAVR
 - MF : Microchip
 - Name : ATtiny4
+- Library Kicad : [tinyAVR.kicad_sym](./KiCad/tinyAVR.kicad_sym) 
+- Library Altium : [tinyAVR.lia](./Altium/tinyAVR.lia) 
+- Library Proteus : [tinyAVR.pdif](./Proteus/tinyAVR.pdif) 
 
 ### Package : 
 
@@ -2211,6 +2436,9 @@ Pin count : 6
 - Family : tinyAVR
 - MF : Microchip
 - Name : ATtiny4
+- Library Kicad : [tinyAVR.kicad_sym](./KiCad/tinyAVR.kicad_sym) 
+- Library Altium : [tinyAVR.lia](./Altium/tinyAVR.lia) 
+- Library Proteus : [tinyAVR.pdif](./Proteus/tinyAVR.pdif) 
 
 ### Package : 
 
@@ -2236,6 +2464,9 @@ Pin count : 6
 - Family : tinyAVR
 - MF : Microchip
 - Name : ATtiny4
+- Library Kicad : [tinyAVR.kicad_sym](./KiCad/tinyAVR.kicad_sym) 
+- Library Altium : [tinyAVR.lia](./Altium/tinyAVR.lia) 
+- Library Proteus : [tinyAVR.pdif](./Proteus/tinyAVR.pdif) 
 
 ### Package : 
 
@@ -2261,6 +2492,9 @@ Pin count : 6
 - Family : tinyAVR
 - MF : Microchip
 - Name : ATtiny40
+- Library Kicad : [tinyAVR.kicad_sym](./KiCad/tinyAVR.kicad_sym) 
+- Library Altium : [tinyAVR.lia](./Altium/tinyAVR.lia) 
+- Library Proteus : [tinyAVR.pdif](./Proteus/tinyAVR.pdif) 
 
 ### Package : 
 
@@ -2300,6 +2534,9 @@ Pin count : 20
 - Family : tinyAVR
 - MF : Microchip
 - Name : ATtiny40
+- Library Kicad : [tinyAVR.kicad_sym](./KiCad/tinyAVR.kicad_sym) 
+- Library Altium : [tinyAVR.lia](./Altium/tinyAVR.lia) 
+- Library Proteus : [tinyAVR.pdif](./Proteus/tinyAVR.pdif) 
 
 ### Package : 
 
@@ -2339,6 +2576,9 @@ Pin count : 20
 - Family : tinyAVR
 - MF : Microchip
 - Name : ATtiny40
+- Library Kicad : [tinyAVR.kicad_sym](./KiCad/tinyAVR.kicad_sym) 
+- Library Altium : [tinyAVR.lia](./Altium/tinyAVR.lia) 
+- Library Proteus : [tinyAVR.pdif](./Proteus/tinyAVR.pdif) 
 
 ### Package : 
 
@@ -2378,6 +2618,9 @@ Pin count : 20
 - Family : tinyAVR
 - MF : Microchip
 - Name : ATtiny441
+- Library Kicad : [tinyAVR.kicad_sym](./KiCad/tinyAVR.kicad_sym) 
+- Library Altium : [tinyAVR.lia](./Altium/tinyAVR.lia) 
+- Library Proteus : [tinyAVR.pdif](./Proteus/tinyAVR.pdif) 
 
 ### Package : 
 
@@ -2411,6 +2654,9 @@ Pin count : 14
 - Family : tinyAVR
 - MF : Microchip
 - Name : ATtiny441
+- Library Kicad : [tinyAVR.kicad_sym](./KiCad/tinyAVR.kicad_sym) 
+- Library Altium : [tinyAVR.lia](./Altium/tinyAVR.lia) 
+- Library Proteus : [tinyAVR.pdif](./Proteus/tinyAVR.pdif) 
 
 ### Package : 
 
@@ -2444,6 +2690,9 @@ Pin count : 14
 - Family : tinyAVR
 - MF : Microchip
 - Name : ATtiny441
+- Library Kicad : [tinyAVR.kicad_sym](./KiCad/tinyAVR.kicad_sym) 
+- Library Altium : [tinyAVR.lia](./Altium/tinyAVR.lia) 
+- Library Proteus : [tinyAVR.pdif](./Proteus/tinyAVR.pdif) 
 
 ### Package : 
 
@@ -2477,6 +2726,9 @@ Pin count : 14
 - Family : tinyAVR
 - MF : Microchip
 - Name : ATtiny44A
+- Library Kicad : [tinyAVR.kicad_sym](./KiCad/tinyAVR.kicad_sym) 
+- Library Altium : [tinyAVR.lia](./Altium/tinyAVR.lia) 
+- Library Proteus : [tinyAVR.pdif](./Proteus/tinyAVR.pdif) 
 
 ### Package : 
 
@@ -2511,6 +2763,9 @@ Pin count : 15
 - Family : tinyAVR
 - MF : Microchip
 - Name : ATtiny44A
+- Library Kicad : [tinyAVR.kicad_sym](./KiCad/tinyAVR.kicad_sym) 
+- Library Altium : [tinyAVR.lia](./Altium/tinyAVR.lia) 
+- Library Proteus : [tinyAVR.pdif](./Proteus/tinyAVR.pdif) 
 
 ### Package : 
 
@@ -2544,6 +2799,9 @@ Pin count : 14
 - Family : tinyAVR
 - MF : Microchip
 - Name : ATtiny44A
+- Library Kicad : [tinyAVR.kicad_sym](./KiCad/tinyAVR.kicad_sym) 
+- Library Altium : [tinyAVR.lia](./Altium/tinyAVR.lia) 
+- Library Proteus : [tinyAVR.pdif](./Proteus/tinyAVR.pdif) 
 
 ### Package : 
 
@@ -2577,6 +2835,9 @@ Pin count : 14
 - Family : tinyAVR
 - MF : Microchip
 - Name : ATtiny44A
+- Library Kicad : [tinyAVR.kicad_sym](./KiCad/tinyAVR.kicad_sym) 
+- Library Altium : [tinyAVR.lia](./Altium/tinyAVR.lia) 
+- Library Proteus : [tinyAVR.pdif](./Proteus/tinyAVR.pdif) 
 
 ### Package : 
 
@@ -2610,6 +2871,9 @@ Pin count : 14
 - Family : tinyAVR
 - MF : Microchip
 - Name : ATtiny44A
+- Library Kicad : [tinyAVR.kicad_sym](./KiCad/tinyAVR.kicad_sym) 
+- Library Altium : [tinyAVR.lia](./Altium/tinyAVR.lia) 
+- Library Proteus : [tinyAVR.pdif](./Proteus/tinyAVR.pdif) 
 
 ### Package : 
 
@@ -2643,6 +2907,9 @@ Pin count : 14
 - Family : tinyAVR
 - MF : Microchip
 - Name : ATtiny44A
+- Library Kicad : [tinyAVR.kicad_sym](./KiCad/tinyAVR.kicad_sym) 
+- Library Altium : [tinyAVR.lia](./Altium/tinyAVR.lia) 
+- Library Proteus : [tinyAVR.pdif](./Proteus/tinyAVR.pdif) 
 
 ### Package : 
 
@@ -2676,6 +2943,9 @@ Pin count : 14
 - Family : tinyAVR
 - MF : Microchip
 - Name : ATtiny44A
+- Library Kicad : [tinyAVR.kicad_sym](./KiCad/tinyAVR.kicad_sym) 
+- Library Altium : [tinyAVR.lia](./Altium/tinyAVR.lia) 
+- Library Proteus : [tinyAVR.pdif](./Proteus/tinyAVR.pdif) 
 
 ### Package : 
 
@@ -2709,6 +2979,9 @@ Pin count : 14
 - Family : tinyAVR
 - MF : Microchip
 - Name : ATtiny44A
+- Library Kicad : [tinyAVR.kicad_sym](./KiCad/tinyAVR.kicad_sym) 
+- Library Altium : [tinyAVR.lia](./Altium/tinyAVR.lia) 
+- Library Proteus : [tinyAVR.pdif](./Proteus/tinyAVR.pdif) 
 
 ### Package : 
 
@@ -2742,6 +3015,9 @@ Pin count : 14
 - Family : tinyAVR
 - MF : Microchip
 - Name : ATtiny45
+- Library Kicad : [tinyAVR.kicad_sym](./KiCad/tinyAVR.kicad_sym) 
+- Library Altium : [tinyAVR.lia](./Altium/tinyAVR.lia) 
+- Library Proteus : [tinyAVR.pdif](./Proteus/tinyAVR.pdif) 
 
 ### Package : 
 
@@ -2769,6 +3045,9 @@ Pin count : 8
 - Family : tinyAVR
 - MF : Microchip
 - Name : ATtiny45
+- Library Kicad : [tinyAVR.kicad_sym](./KiCad/tinyAVR.kicad_sym) 
+- Library Altium : [tinyAVR.lia](./Altium/tinyAVR.lia) 
+- Library Proteus : [tinyAVR.pdif](./Proteus/tinyAVR.pdif) 
 
 ### Package : 
 
@@ -2796,6 +3075,9 @@ Pin count : 8
 - Family : tinyAVR
 - MF : Microchip
 - Name : ATtiny45
+- Library Kicad : [tinyAVR.kicad_sym](./KiCad/tinyAVR.kicad_sym) 
+- Library Altium : [tinyAVR.lia](./Altium/tinyAVR.lia) 
+- Library Proteus : [tinyAVR.pdif](./Proteus/tinyAVR.pdif) 
 
 ### Package : 
 
@@ -2823,6 +3105,9 @@ Pin count : 8
 - Family : tinyAVR
 - MF : Microchip
 - Name : ATtiny45
+- Library Kicad : [tinyAVR.kicad_sym](./KiCad/tinyAVR.kicad_sym) 
+- Library Altium : [tinyAVR.lia](./Altium/tinyAVR.lia) 
+- Library Proteus : [tinyAVR.pdif](./Proteus/tinyAVR.pdif) 
 
 ### Package : 
 
@@ -2850,6 +3135,9 @@ Pin count : 8
 - Family : tinyAVR
 - MF : Microchip
 - Name : ATtiny45
+- Library Kicad : [tinyAVR.kicad_sym](./KiCad/tinyAVR.kicad_sym) 
+- Library Altium : [tinyAVR.lia](./Altium/tinyAVR.lia) 
+- Library Proteus : [tinyAVR.pdif](./Proteus/tinyAVR.pdif) 
 
 ### Package : 
 
@@ -2877,6 +3165,9 @@ Pin count : 8
 - Family : tinyAVR
 - MF : Microchip
 - Name : ATtiny45
+- Library Kicad : [tinyAVR.kicad_sym](./KiCad/tinyAVR.kicad_sym) 
+- Library Altium : [tinyAVR.lia](./Altium/tinyAVR.lia) 
+- Library Proteus : [tinyAVR.pdif](./Proteus/tinyAVR.pdif) 
 
 ### Package : 
 
@@ -2904,6 +3195,9 @@ Pin count : 8
 - Family : tinyAVR
 - MF : Microchip
 - Name : ATtiny45
+- Library Kicad : [tinyAVR.kicad_sym](./KiCad/tinyAVR.kicad_sym) 
+- Library Altium : [tinyAVR.lia](./Altium/tinyAVR.lia) 
+- Library Proteus : [tinyAVR.pdif](./Proteus/tinyAVR.pdif) 
 
 ### Package : 
 
@@ -2931,6 +3225,9 @@ Pin count : 8
 - Family : tinyAVR
 - MF : Microchip
 - Name : ATtiny45
+- Library Kicad : [tinyAVR.kicad_sym](./KiCad/tinyAVR.kicad_sym) 
+- Library Altium : [tinyAVR.lia](./Altium/tinyAVR.lia) 
+- Library Proteus : [tinyAVR.pdif](./Proteus/tinyAVR.pdif) 
 
 ### Package : 
 
@@ -2958,6 +3255,9 @@ Pin count : 8
 - Family : tinyAVR
 - MF : Microchip
 - Name : ATtiny45
+- Library Kicad : [tinyAVR.kicad_sym](./KiCad/tinyAVR.kicad_sym) 
+- Library Altium : [tinyAVR.lia](./Altium/tinyAVR.lia) 
+- Library Proteus : [tinyAVR.pdif](./Proteus/tinyAVR.pdif) 
 
 ### Package : 
 
@@ -2985,6 +3285,9 @@ Pin count : 8
 - Family : tinyAVR
 - MF : Microchip
 - Name : ATtiny45
+- Library Kicad : [tinyAVR.kicad_sym](./KiCad/tinyAVR.kicad_sym) 
+- Library Altium : [tinyAVR.lia](./Altium/tinyAVR.lia) 
+- Library Proteus : [tinyAVR.pdif](./Proteus/tinyAVR.pdif) 
 
 ### Package : 
 
@@ -3012,6 +3315,9 @@ Pin count : 8
 - Family : tinyAVR
 - MF : Microchip
 - Name : ATtiny461
+- Library Kicad : [tinyAVR.kicad_sym](./KiCad/tinyAVR.kicad_sym) 
+- Library Altium : [tinyAVR.lia](./Altium/tinyAVR.lia) 
+- Library Proteus : [tinyAVR.pdif](./Proteus/tinyAVR.pdif) 
 
 ### Package : 
 
@@ -3051,6 +3357,9 @@ Pin count : 20
 - Family : tinyAVR
 - MF : Microchip
 - Name : ATtiny461
+- Library Kicad : [tinyAVR.kicad_sym](./KiCad/tinyAVR.kicad_sym) 
+- Library Altium : [tinyAVR.lia](./Altium/tinyAVR.lia) 
+- Library Proteus : [tinyAVR.pdif](./Proteus/tinyAVR.pdif) 
 
 ### Package : 
 
@@ -3090,6 +3399,9 @@ Pin count : 20
 - Family : tinyAVR
 - MF : Microchip
 - Name : ATtiny461
+- Library Kicad : [tinyAVR.kicad_sym](./KiCad/tinyAVR.kicad_sym) 
+- Library Altium : [tinyAVR.lia](./Altium/tinyAVR.lia) 
+- Library Proteus : [tinyAVR.pdif](./Proteus/tinyAVR.pdif) 
 
 ### Package : 
 
@@ -3129,6 +3441,9 @@ Pin count : 20
 - Family : tinyAVR
 - MF : Microchip
 - Name : ATtiny461
+- Library Kicad : [tinyAVR.kicad_sym](./KiCad/tinyAVR.kicad_sym) 
+- Library Altium : [tinyAVR.lia](./Altium/tinyAVR.lia) 
+- Library Proteus : [tinyAVR.pdif](./Proteus/tinyAVR.pdif) 
 
 ### Package : 
 
@@ -3168,6 +3483,9 @@ Pin count : 20
 - Family : tinyAVR
 - MF : Microchip
 - Name : ATtiny461
+- Library Kicad : [tinyAVR.kicad_sym](./KiCad/tinyAVR.kicad_sym) 
+- Library Altium : [tinyAVR.lia](./Altium/tinyAVR.lia) 
+- Library Proteus : [tinyAVR.pdif](./Proteus/tinyAVR.pdif) 
 
 ### Package : 
 
@@ -3207,6 +3525,9 @@ Pin count : 20
 - Family : tinyAVR
 - MF : Microchip
 - Name : ATtiny461
+- Library Kicad : [tinyAVR.kicad_sym](./KiCad/tinyAVR.kicad_sym) 
+- Library Altium : [tinyAVR.lia](./Altium/tinyAVR.lia) 
+- Library Proteus : [tinyAVR.pdif](./Proteus/tinyAVR.pdif) 
 
 ### Package : 
 
@@ -3246,6 +3567,9 @@ Pin count : 20
 - Family : tinyAVR
 - MF : Microchip
 - Name : ATtiny48
+- Library Kicad : [tinyAVR.kicad_sym](./KiCad/tinyAVR.kicad_sym) 
+- Library Altium : [tinyAVR.lia](./Altium/tinyAVR.lia) 
+- Library Proteus : [tinyAVR.pdif](./Proteus/tinyAVR.pdif) 
 
 ### Package : 
 
@@ -3297,6 +3621,9 @@ Pin count : 32
 - Family : tinyAVR
 - MF : Microchip
 - Name : ATtiny48
+- Library Kicad : [tinyAVR.kicad_sym](./KiCad/tinyAVR.kicad_sym) 
+- Library Altium : [tinyAVR.lia](./Altium/tinyAVR.lia) 
+- Library Proteus : [tinyAVR.pdif](./Proteus/tinyAVR.pdif) 
 
 ### Package : 
 
@@ -3348,6 +3675,9 @@ Pin count : 32
 - Family : tinyAVR
 - MF : Microchip
 - Name : ATtiny48
+- Library Kicad : [tinyAVR.kicad_sym](./KiCad/tinyAVR.kicad_sym) 
+- Library Altium : [tinyAVR.lia](./Altium/tinyAVR.lia) 
+- Library Proteus : [tinyAVR.pdif](./Proteus/tinyAVR.pdif) 
 
 ### Package : 
 
@@ -3395,6 +3725,9 @@ Pin count : 28
 - Family : tinyAVR
 - MF : Microchip
 - Name : ATtiny48
+- Library Kicad : [tinyAVR.kicad_sym](./KiCad/tinyAVR.kicad_sym) 
+- Library Altium : [tinyAVR.lia](./Altium/tinyAVR.lia) 
+- Library Proteus : [tinyAVR.pdif](./Proteus/tinyAVR.pdif) 
 
 ### Package : 
 
@@ -3442,6 +3775,9 @@ Pin count : 28
 - Family : tinyAVR
 - MF : Microchip
 - Name : ATtiny48
+- Library Kicad : [tinyAVR.kicad_sym](./KiCad/tinyAVR.kicad_sym) 
+- Library Altium : [tinyAVR.lia](./Altium/tinyAVR.lia) 
+- Library Proteus : [tinyAVR.pdif](./Proteus/tinyAVR.pdif) 
 
 ### Package : 
 
@@ -3493,6 +3829,9 @@ Pin count : 32
 - Family : tinyAVR
 - MF : Microchip
 - Name : ATtiny48
+- Library Kicad : [tinyAVR.kicad_sym](./KiCad/tinyAVR.kicad_sym) 
+- Library Altium : [tinyAVR.lia](./Altium/tinyAVR.lia) 
+- Library Proteus : [tinyAVR.pdif](./Proteus/tinyAVR.pdif) 
 
 ### Package : 
 
@@ -3540,6 +3879,9 @@ Pin count : 28
 - Family : tinyAVR
 - MF : Microchip
 - Name : ATtiny5
+- Library Kicad : [tinyAVR.kicad_sym](./KiCad/tinyAVR.kicad_sym) 
+- Library Altium : [tinyAVR.lia](./Altium/tinyAVR.lia) 
+- Library Proteus : [tinyAVR.pdif](./Proteus/tinyAVR.pdif) 
 
 ### Package : 
 
@@ -3565,6 +3907,9 @@ Pin count : 6
 - Family : tinyAVR
 - MF : Microchip
 - Name : ATtiny5
+- Library Kicad : [tinyAVR.kicad_sym](./KiCad/tinyAVR.kicad_sym) 
+- Library Altium : [tinyAVR.lia](./Altium/tinyAVR.lia) 
+- Library Proteus : [tinyAVR.pdif](./Proteus/tinyAVR.pdif) 
 
 ### Package : 
 
@@ -3590,6 +3935,9 @@ Pin count : 6
 - Family : tinyAVR
 - MF : Microchip
 - Name : ATtiny5
+- Library Kicad : [tinyAVR.kicad_sym](./KiCad/tinyAVR.kicad_sym) 
+- Library Altium : [tinyAVR.lia](./Altium/tinyAVR.lia) 
+- Library Proteus : [tinyAVR.pdif](./Proteus/tinyAVR.pdif) 
 
 ### Package : 
 
@@ -3615,6 +3963,9 @@ Pin count : 6
 - Family : tinyAVR
 - MF : Microchip
 - Name : ATtiny841
+- Library Kicad : [tinyAVR.kicad_sym](./KiCad/tinyAVR.kicad_sym) 
+- Library Altium : [tinyAVR.lia](./Altium/tinyAVR.lia) 
+- Library Proteus : [tinyAVR.pdif](./Proteus/tinyAVR.pdif) 
 
 ### Package : 
 
@@ -3648,6 +3999,9 @@ Pin count : 14
 - Family : tinyAVR
 - MF : Microchip
 - Name : ATtiny841
+- Library Kicad : [tinyAVR.kicad_sym](./KiCad/tinyAVR.kicad_sym) 
+- Library Altium : [tinyAVR.lia](./Altium/tinyAVR.lia) 
+- Library Proteus : [tinyAVR.pdif](./Proteus/tinyAVR.pdif) 
 
 ### Package : 
 
@@ -3681,6 +4035,9 @@ Pin count : 14
 - Family : tinyAVR
 - MF : Microchip
 - Name : ATtiny841
+- Library Kicad : [tinyAVR.kicad_sym](./KiCad/tinyAVR.kicad_sym) 
+- Library Altium : [tinyAVR.lia](./Altium/tinyAVR.lia) 
+- Library Proteus : [tinyAVR.pdif](./Proteus/tinyAVR.pdif) 
 
 ### Package : 
 
@@ -3714,6 +4071,9 @@ Pin count : 14
 - Family : tinyAVR
 - MF : Microchip
 - Name : ATtiny84A
+- Library Kicad : [tinyAVR.kicad_sym](./KiCad/tinyAVR.kicad_sym) 
+- Library Altium : [tinyAVR.lia](./Altium/tinyAVR.lia) 
+- Library Proteus : [tinyAVR.pdif](./Proteus/tinyAVR.pdif) 
 
 ### Package : 
 
@@ -3748,6 +4108,9 @@ Pin count : 15
 - Family : tinyAVR
 - MF : Microchip
 - Name : ATtiny84A
+- Library Kicad : [tinyAVR.kicad_sym](./KiCad/tinyAVR.kicad_sym) 
+- Library Altium : [tinyAVR.lia](./Altium/tinyAVR.lia) 
+- Library Proteus : [tinyAVR.pdif](./Proteus/tinyAVR.pdif) 
 
 ### Package : 
 
@@ -3781,6 +4144,9 @@ Pin count : 14
 - Family : tinyAVR
 - MF : Microchip
 - Name : ATtiny84A
+- Library Kicad : [tinyAVR.kicad_sym](./KiCad/tinyAVR.kicad_sym) 
+- Library Altium : [tinyAVR.lia](./Altium/tinyAVR.lia) 
+- Library Proteus : [tinyAVR.pdif](./Proteus/tinyAVR.pdif) 
 
 ### Package : 
 
@@ -3814,6 +4180,9 @@ Pin count : 14
 - Family : tinyAVR
 - MF : Microchip
 - Name : ATtiny84A
+- Library Kicad : [tinyAVR.kicad_sym](./KiCad/tinyAVR.kicad_sym) 
+- Library Altium : [tinyAVR.lia](./Altium/tinyAVR.lia) 
+- Library Proteus : [tinyAVR.pdif](./Proteus/tinyAVR.pdif) 
 
 ### Package : 
 
@@ -3847,6 +4216,9 @@ Pin count : 14
 - Family : tinyAVR
 - MF : Microchip
 - Name : ATtiny84A
+- Library Kicad : [tinyAVR.kicad_sym](./KiCad/tinyAVR.kicad_sym) 
+- Library Altium : [tinyAVR.lia](./Altium/tinyAVR.lia) 
+- Library Proteus : [tinyAVR.pdif](./Proteus/tinyAVR.pdif) 
 
 ### Package : 
 
@@ -3880,6 +4252,9 @@ Pin count : 14
 - Family : tinyAVR
 - MF : Microchip
 - Name : ATtiny84A
+- Library Kicad : [tinyAVR.kicad_sym](./KiCad/tinyAVR.kicad_sym) 
+- Library Altium : [tinyAVR.lia](./Altium/tinyAVR.lia) 
+- Library Proteus : [tinyAVR.pdif](./Proteus/tinyAVR.pdif) 
 
 ### Package : 
 
@@ -3913,6 +4288,9 @@ Pin count : 14
 - Family : tinyAVR
 - MF : Microchip
 - Name : ATtiny85
+- Library Kicad : [tinyAVR.kicad_sym](./KiCad/tinyAVR.kicad_sym) 
+- Library Altium : [tinyAVR.lia](./Altium/tinyAVR.lia) 
+- Library Proteus : [tinyAVR.pdif](./Proteus/tinyAVR.pdif) 
 
 ### Package : 
 
@@ -3940,6 +4318,9 @@ Pin count : 8
 - Family : tinyAVR
 - MF : Microchip
 - Name : ATtiny85
+- Library Kicad : [tinyAVR.kicad_sym](./KiCad/tinyAVR.kicad_sym) 
+- Library Altium : [tinyAVR.lia](./Altium/tinyAVR.lia) 
+- Library Proteus : [tinyAVR.pdif](./Proteus/tinyAVR.pdif) 
 
 ### Package : 
 
@@ -3967,6 +4348,9 @@ Pin count : 8
 - Family : tinyAVR
 - MF : Microchip
 - Name : ATtiny85
+- Library Kicad : [tinyAVR.kicad_sym](./KiCad/tinyAVR.kicad_sym) 
+- Library Altium : [tinyAVR.lia](./Altium/tinyAVR.lia) 
+- Library Proteus : [tinyAVR.pdif](./Proteus/tinyAVR.pdif) 
 
 ### Package : 
 
@@ -3994,6 +4378,9 @@ Pin count : 8
 - Family : tinyAVR
 - MF : Microchip
 - Name : ATtiny85
+- Library Kicad : [tinyAVR.kicad_sym](./KiCad/tinyAVR.kicad_sym) 
+- Library Altium : [tinyAVR.lia](./Altium/tinyAVR.lia) 
+- Library Proteus : [tinyAVR.pdif](./Proteus/tinyAVR.pdif) 
 
 ### Package : 
 
@@ -4021,6 +4408,9 @@ Pin count : 8
 - Family : tinyAVR
 - MF : Microchip
 - Name : ATtiny85
+- Library Kicad : [tinyAVR.kicad_sym](./KiCad/tinyAVR.kicad_sym) 
+- Library Altium : [tinyAVR.lia](./Altium/tinyAVR.lia) 
+- Library Proteus : [tinyAVR.pdif](./Proteus/tinyAVR.pdif) 
 
 ### Package : 
 
@@ -4048,6 +4438,9 @@ Pin count : 8
 - Family : tinyAVR
 - MF : Microchip
 - Name : ATtiny85
+- Library Kicad : [tinyAVR.kicad_sym](./KiCad/tinyAVR.kicad_sym) 
+- Library Altium : [tinyAVR.lia](./Altium/tinyAVR.lia) 
+- Library Proteus : [tinyAVR.pdif](./Proteus/tinyAVR.pdif) 
 
 ### Package : 
 
@@ -4075,6 +4468,9 @@ Pin count : 8
 - Family : tinyAVR
 - MF : Microchip
 - Name : ATtiny85
+- Library Kicad : [tinyAVR.kicad_sym](./KiCad/tinyAVR.kicad_sym) 
+- Library Altium : [tinyAVR.lia](./Altium/tinyAVR.lia) 
+- Library Proteus : [tinyAVR.pdif](./Proteus/tinyAVR.pdif) 
 
 ### Package : 
 
@@ -4102,6 +4498,9 @@ Pin count : 8
 - Family : tinyAVR
 - MF : Microchip
 - Name : ATtiny85
+- Library Kicad : [tinyAVR.kicad_sym](./KiCad/tinyAVR.kicad_sym) 
+- Library Altium : [tinyAVR.lia](./Altium/tinyAVR.lia) 
+- Library Proteus : [tinyAVR.pdif](./Proteus/tinyAVR.pdif) 
 
 ### Package : 
 
@@ -4129,6 +4528,9 @@ Pin count : 8
 - Family : tinyAVR
 - MF : Microchip
 - Name : ATtiny861
+- Library Kicad : [tinyAVR.kicad_sym](./KiCad/tinyAVR.kicad_sym) 
+- Library Altium : [tinyAVR.lia](./Altium/tinyAVR.lia) 
+- Library Proteus : [tinyAVR.pdif](./Proteus/tinyAVR.pdif) 
 
 ### Package : 
 
@@ -4168,6 +4570,9 @@ Pin count : 20
 - Family : tinyAVR
 - MF : Microchip
 - Name : ATtiny861
+- Library Kicad : [tinyAVR.kicad_sym](./KiCad/tinyAVR.kicad_sym) 
+- Library Altium : [tinyAVR.lia](./Altium/tinyAVR.lia) 
+- Library Proteus : [tinyAVR.pdif](./Proteus/tinyAVR.pdif) 
 
 ### Package : 
 
@@ -4207,6 +4612,9 @@ Pin count : 20
 - Family : tinyAVR
 - MF : Microchip
 - Name : ATtiny861
+- Library Kicad : [tinyAVR.kicad_sym](./KiCad/tinyAVR.kicad_sym) 
+- Library Altium : [tinyAVR.lia](./Altium/tinyAVR.lia) 
+- Library Proteus : [tinyAVR.pdif](./Proteus/tinyAVR.pdif) 
 
 ### Package : 
 
@@ -4246,6 +4654,9 @@ Pin count : 20
 - Family : tinyAVR
 - MF : Microchip
 - Name : ATtiny861
+- Library Kicad : [tinyAVR.kicad_sym](./KiCad/tinyAVR.kicad_sym) 
+- Library Altium : [tinyAVR.lia](./Altium/tinyAVR.lia) 
+- Library Proteus : [tinyAVR.pdif](./Proteus/tinyAVR.pdif) 
 
 ### Package : 
 
@@ -4285,6 +4696,9 @@ Pin count : 20
 - Family : tinyAVR
 - MF : Microchip
 - Name : ATtiny861
+- Library Kicad : [tinyAVR.kicad_sym](./KiCad/tinyAVR.kicad_sym) 
+- Library Altium : [tinyAVR.lia](./Altium/tinyAVR.lia) 
+- Library Proteus : [tinyAVR.pdif](./Proteus/tinyAVR.pdif) 
 
 ### Package : 
 
@@ -4324,6 +4738,9 @@ Pin count : 20
 - Family : tinyAVR
 - MF : Microchip
 - Name : ATtiny861
+- Library Kicad : [tinyAVR.kicad_sym](./KiCad/tinyAVR.kicad_sym) 
+- Library Altium : [tinyAVR.lia](./Altium/tinyAVR.lia) 
+- Library Proteus : [tinyAVR.pdif](./Proteus/tinyAVR.pdif) 
 
 ### Package : 
 
@@ -4363,6 +4780,9 @@ Pin count : 20
 - Family : tinyAVR
 - MF : Microchip
 - Name : ATtiny88
+- Library Kicad : [tinyAVR.kicad_sym](./KiCad/tinyAVR.kicad_sym) 
+- Library Altium : [tinyAVR.lia](./Altium/tinyAVR.lia) 
+- Library Proteus : [tinyAVR.pdif](./Proteus/tinyAVR.pdif) 
 
 ### Package : 
 
@@ -4414,6 +4834,9 @@ Pin count : 32
 - Family : tinyAVR
 - MF : Microchip
 - Name : ATtiny88
+- Library Kicad : [tinyAVR.kicad_sym](./KiCad/tinyAVR.kicad_sym) 
+- Library Altium : [tinyAVR.lia](./Altium/tinyAVR.lia) 
+- Library Proteus : [tinyAVR.pdif](./Proteus/tinyAVR.pdif) 
 
 ### Package : 
 
@@ -4465,6 +4888,9 @@ Pin count : 32
 - Family : tinyAVR
 - MF : Microchip
 - Name : ATtiny88
+- Library Kicad : [tinyAVR.kicad_sym](./KiCad/tinyAVR.kicad_sym) 
+- Library Altium : [tinyAVR.lia](./Altium/tinyAVR.lia) 
+- Library Proteus : [tinyAVR.pdif](./Proteus/tinyAVR.pdif) 
 
 ### Package : 
 
@@ -4512,6 +4938,9 @@ Pin count : 28
 - Family : tinyAVR
 - MF : Microchip
 - Name : ATtiny88
+- Library Kicad : [tinyAVR.kicad_sym](./KiCad/tinyAVR.kicad_sym) 
+- Library Altium : [tinyAVR.lia](./Altium/tinyAVR.lia) 
+- Library Proteus : [tinyAVR.pdif](./Proteus/tinyAVR.pdif) 
 
 ### Package : 
 
@@ -4559,6 +4988,9 @@ Pin count : 28
 - Family : tinyAVR
 - MF : Microchip
 - Name : ATtiny88
+- Library Kicad : [tinyAVR.kicad_sym](./KiCad/tinyAVR.kicad_sym) 
+- Library Altium : [tinyAVR.lia](./Altium/tinyAVR.lia) 
+- Library Proteus : [tinyAVR.pdif](./Proteus/tinyAVR.pdif) 
 
 ### Package : 
 
@@ -4610,6 +5042,9 @@ Pin count : 32
 - Family : tinyAVR
 - MF : Microchip
 - Name : ATtiny88
+- Library Kicad : [tinyAVR.kicad_sym](./KiCad/tinyAVR.kicad_sym) 
+- Library Altium : [tinyAVR.lia](./Altium/tinyAVR.lia) 
+- Library Proteus : [tinyAVR.pdif](./Proteus/tinyAVR.pdif) 
 
 ### Package : 
 
@@ -4657,6 +5092,9 @@ Pin count : 28
 - Family : tinyAVR
 - MF : Microchip
 - Name : ATtiny9
+- Library Kicad : [tinyAVR.kicad_sym](./KiCad/tinyAVR.kicad_sym) 
+- Library Altium : [tinyAVR.lia](./Altium/tinyAVR.lia) 
+- Library Proteus : [tinyAVR.pdif](./Proteus/tinyAVR.pdif) 
 
 ### Package : 
 
@@ -4682,6 +5120,9 @@ Pin count : 6
 - Family : tinyAVR
 - MF : Microchip
 - Name : ATtiny9
+- Library Kicad : [tinyAVR.kicad_sym](./KiCad/tinyAVR.kicad_sym) 
+- Library Altium : [tinyAVR.lia](./Altium/tinyAVR.lia) 
+- Library Proteus : [tinyAVR.pdif](./Proteus/tinyAVR.pdif) 
 
 ### Package : 
 
@@ -4707,6 +5148,9 @@ Pin count : 6
 - Family : tinyAVR
 - MF : Microchip
 - Name : ATtiny9
+- Library Kicad : [tinyAVR.kicad_sym](./KiCad/tinyAVR.kicad_sym) 
+- Library Altium : [tinyAVR.lia](./Altium/tinyAVR.lia) 
+- Library Proteus : [tinyAVR.pdif](./Proteus/tinyAVR.pdif) 
 
 ### Package : 
 

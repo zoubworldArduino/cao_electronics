@@ -14,16 +14,21 @@
 - Family : PIC32CX
 - MF : Microchip
 - Name : PIC32CX1012BZ24032
+- Library Kicad : [PIC32CX.kicad_sym](./KiCad/PIC32CX.kicad_sym) 
+- Library Altium : [PIC32CX.lia](./Altium/PIC32CX.lia) 
+- Library Proteus : [PIC32CX.pdif](./Proteus/PIC32CX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-21402A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-21402A](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 S8B
 - Package Type : 	 VQFN
 - Pin count : 	 32,00
-- Package Layout : 	 [C04-21402A](./mchp/packages/C04-21402A.pdf)
-- Package 3d model scad : 	 [C04-21402A](./Model3d/scad/C04-21402A.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-21402A.pdf](./mchp/packages/c04-21402a.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-21402A.scad) : 	 [C04-21402A.scad](./Model3d/scad/C04-21402A.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 32
 - 1 : PMU_VDD,  of Type PP
 - 2 : PMU_MDLO_OUT,  of Type IO
@@ -72,18 +77,23 @@ Pin count : 32
 - Family : PIC32CX
 - MF : Microchip
 - Name : PIC32CX1012BZ25048
+- Library Kicad : [PIC32CX.kicad_sym](./KiCad/PIC32CX.kicad_sym) 
+- Library Altium : [PIC32CX.lia](./Altium/PIC32CX.lia) 
+- Library Proteus : [PIC32CX.pdif](./Proteus/PIC32CX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00507A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00507A](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 MYX
 - Package Type : 	 VQFN
 - Pin count : 	 48,00
-- Package Layout : 	 [C04-00507A](./mchp/packages/C04-00507A.pdf)
-- Package 3d model wrl : 	 [C04-00507A](./Model3d/wrl/C04-00507A.wrl)
-- Package 3d model x3d : 	 [C04-00507A](./Model3d/x3d/C04-00507A.x3d)
-- Package 3d model scad : 	 [C04-00507A](./Model3d/scad/C04-00507A.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00507A.pdf](./mchp/packages/c04-00507a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00507A.wrl) : 	 [C04-00507A.wrl](./Model3d/wrl/C04-00507A.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00507A.x3d) : 	 [C04-00507A.x3d](./Model3d/x3d/C04-00507A.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00507A.scad) : 	 [C04-00507A.scad](./Model3d/scad/C04-00507A.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 48
 - 1 : PMU_BK_LX,  of Type IO
 - 2 : VPMU_VDD,  of Type PP
@@ -148,15 +158,18 @@ Pin count : 48
 - Family : PIC32CX
 - MF : Microchip
 - Name : PIC32CX1025SG41100
+- Library Kicad : [PIC32CX.kicad_sym](./KiCad/PIC32CX.kicad_sym) 
+- Library Altium : [PIC32CX.lia](./Altium/PIC32CX.lia) 
+- Library Proteus : [PIC32CX.pdif](./Proteus/PIC32CX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00110C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00110C](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 E5X
 - Package Type : 	 TQFP
 - Pin count : 	 100,00
-- Package Layout : 	 [C04-00110C](./mchp/packages/C04-00110C.pdf)
-- Package 3d model scad : 	 [C04-00110C](./Model3d/scad/C04-00110C.scad)
+- Package Layout : 	 [C04-00110C.pdf](./mchp/packages/c04-00110c.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00110C.scad) : 	 [C04-00110C.scad](./Model3d/scad/C04-00110C.scad)
 Pin count : 100
 - 1 : PA00,  of Type IO, alternates : [TC2:1 WO_0, OSC32KCTRL XIN32_, SERCOM1:4 PAD_0, EIC EXTINT_0, PORT P_0]
 - 2 : PA01,  of Type IO, alternates : [SERCOM1:4 PAD_1, EIC EXTINT_1, PORT P_1, OSC32KCTRL XOUT32_, TC2:1 WO_1]
@@ -273,15 +286,18 @@ Pin count : 100
 - Family : PIC32CX
 - MF : Microchip
 - Name : PIC32CX1025SG41100
+- Library Kicad : [PIC32CX.kicad_sym](./KiCad/PIC32CX.kicad_sym) 
+- Library Altium : [PIC32CX.lia](./Altium/PIC32CX.lia) 
+- Library Proteus : [PIC32CX.pdif](./Proteus/PIC32CX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00110C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00110C](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 E5X
 - Package Type : 	 TQFP
 - Pin count : 	 100,00
-- Package Layout : 	 [C04-00110C](./mchp/packages/C04-00110C.pdf)
-- Package 3d model scad : 	 [C04-00110C](./Model3d/scad/C04-00110C.scad)
+- Package Layout : 	 [C04-00110C.pdf](./mchp/packages/c04-00110c.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00110C.scad) : 	 [C04-00110C.scad](./Model3d/scad/C04-00110C.scad)
 Pin count : 100
 - 1 : PA00,  of Type IO, alternates : [TC2:1 WO_0, OSC32KCTRL XIN32_, SERCOM1:4 PAD_0, EIC EXTINT_0, PORT P_0]
 - 2 : PA01,  of Type IO, alternates : [SERCOM1:4 PAD_1, EIC EXTINT_1, PORT P_1, OSC32KCTRL XOUT32_, TC2:1 WO_1]
@@ -398,17 +414,20 @@ Pin count : 100
 - Family : PIC32CX
 - MF : Microchip
 - Name : PIC32CX1025SG41128
+- Library Kicad : [PIC32CX.kicad_sym](./KiCad/PIC32CX.kicad_sym) 
+- Library Altium : [PIC32CX.lia](./Altium/PIC32CX.lia) 
+- Library Proteus : [PIC32CX.pdif](./Proteus/PIC32CX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00181D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00181D](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 Z2X
 - Package Type : 	 TQFP
 - Pin count : 	 128,00
-- Package Layout : 	 [C04-00181D](./mchp/packages/C04-00181D.pdf)
-- Package 3d model wrl : 	 [C04-00181D](./Model3d/wrl/C04-00181D.wrl)
-- Package 3d model x3d : 	 [C04-00181D](./Model3d/x3d/C04-00181D.x3d)
-- Package 3d model scad : 	 [C04-00181D](./Model3d/scad/C04-00181D.scad)
+- Package Layout : 	 [C04-00181D.pdf](./mchp/packages/c04-00181d.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00181D.wrl) : 	 [C04-00181D.wrl](./Model3d/wrl/C04-00181D.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00181D.x3d) : 	 [C04-00181D.x3d](./Model3d/x3d/C04-00181D.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00181D.scad) : 	 [C04-00181D.scad](./Model3d/scad/C04-00181D.scad)
 Pin count : 128
 - 1 : PA00,  of Type IO, alternates : [TC2:1 WO_0, OSC32KCTRL XIN32_, SERCOM1:4 PAD_0, EIC EXTINT_0, PORT P_0]
 - 2 : PA01,  of Type IO, alternates : [SERCOM1:4 PAD_1, EIC EXTINT_1, PORT P_1, OSC32KCTRL XOUT32_, TC2:1 WO_1]
@@ -553,17 +572,20 @@ Pin count : 128
 - Family : PIC32CX
 - MF : Microchip
 - Name : PIC32CX1025SG41128
+- Library Kicad : [PIC32CX.kicad_sym](./KiCad/PIC32CX.kicad_sym) 
+- Library Altium : [PIC32CX.lia](./Altium/PIC32CX.lia) 
+- Library Proteus : [PIC32CX.pdif](./Proteus/PIC32CX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00181D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00181D](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 Z2X
 - Package Type : 	 TQFP
 - Pin count : 	 128,00
-- Package Layout : 	 [C04-00181D](./mchp/packages/C04-00181D.pdf)
-- Package 3d model wrl : 	 [C04-00181D](./Model3d/wrl/C04-00181D.wrl)
-- Package 3d model x3d : 	 [C04-00181D](./Model3d/x3d/C04-00181D.x3d)
-- Package 3d model scad : 	 [C04-00181D](./Model3d/scad/C04-00181D.scad)
+- Package Layout : 	 [C04-00181D.pdf](./mchp/packages/c04-00181d.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00181D.wrl) : 	 [C04-00181D.wrl](./Model3d/wrl/C04-00181D.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00181D.x3d) : 	 [C04-00181D.x3d](./Model3d/x3d/C04-00181D.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00181D.scad) : 	 [C04-00181D.scad](./Model3d/scad/C04-00181D.scad)
 Pin count : 128
 - 1 : PA00,  of Type IO, alternates : [TC2:1 WO_0, OSC32KCTRL XIN32_, SERCOM1:4 PAD_0, EIC EXTINT_0, PORT P_0]
 - 2 : PA01,  of Type IO, alternates : [SERCOM1:4 PAD_1, EIC EXTINT_1, PORT P_1, OSC32KCTRL XOUT32_, TC2:1 WO_1]
@@ -708,15 +730,20 @@ Pin count : 128
 - Family : PIC32CX
 - MF : Microchip
 - Name : PIC32CX1025SG60100
+- Library Kicad : [PIC32CX.kicad_sym](./KiCad/PIC32CX.kicad_sym) 
+- Library Altium : [PIC32CX.lia](./Altium/PIC32CX.lia) 
+- Library Proteus : [PIC32CX.pdif](./Proteus/PIC32CX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-21530A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-21530A](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 4NB
 - Package Type : 	 TQFP
 - Pin count : 	 100,00
-- Package Layout : 	 [C04-21530A](./mchp/packages/C04-21530A.pdf)
-- Package 3d model scad : 	 [C04-21530A](./Model3d/scad/C04-21530A.scad)
+- Package Layout : 	 [C04-21530A.pdf](./mchp/packages/c04-21530a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21530A.wrl) : 	 [C04-21530A.wrl](./Model3d/wrl/C04-21530A.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-21530A.x3d) : 	 [C04-21530A.x3d](./Model3d/x3d/C04-21530A.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-21530A.scad) : 	 [C04-21530A.scad](./Model3d/scad/C04-21530A.scad)
 Pin count : 105
 - 1 : PA00,  of Type IO, alternates : [TC2:1 WO_0, OSC32KCTRL XIN32_, SERCOM1:4 PAD_0, EIC EXTINT_0, PORT P_0]
 - 2 : PA01,  of Type IO, alternates : [SERCOM1:4 PAD_1, EIC EXTINT_1, PORT P_1, OSC32KCTRL XOUT32_, TC2:1 WO_1]
@@ -838,16 +865,19 @@ Pin count : 105
 - Family : PIC32CX
 - MF : Microchip
 - Name : PIC32CX1025SG60100
+- Library Kicad : [PIC32CX.kicad_sym](./KiCad/PIC32CX.kicad_sym) 
+- Library Altium : [PIC32CX.lia](./Altium/PIC32CX.lia) 
+- Library Proteus : [PIC32CX.pdif](./Proteus/PIC32CX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-21529D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-21529D](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 HJB
 - Package Type : 	 TFBGA
 - Pin count : 	 100,00
-- Package 3d model wrl : 	 [C04-21529D](./Model3d/wrl/C04-21529D.wrl)
-- Package 3d model x3d : 	 [C04-21529D](./Model3d/x3d/C04-21529D.x3d)
-- Package 3d model scad : 	 [C04-21529D](./Model3d/scad/C04-21529D.scad)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21529D.wrl) : 	 [C04-21529D.wrl](./Model3d/wrl/C04-21529D.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-21529D.x3d) : 	 [C04-21529D.x3d](./Model3d/x3d/C04-21529D.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-21529D.scad) : 	 [C04-21529D.scad](./Model3d/scad/C04-21529D.scad)
 Pin count : 105
 - A1 : PB30,  of Type IO, alternates : [SERCOM5:5 PAD_1, TCC4:2 WO_0, PORT P_62, EIC EXTINT_14, TC0:3 WO_0, SERCOM7:5 PAD_0, TCC0:4 WO_6]
 - A2 : VSS,  of Type PS
@@ -969,15 +999,20 @@ Pin count : 105
 - Family : PIC32CX
 - MF : Microchip
 - Name : PIC32CX1025SG60100
+- Library Kicad : [PIC32CX.kicad_sym](./KiCad/PIC32CX.kicad_sym) 
+- Library Altium : [PIC32CX.lia](./Altium/PIC32CX.lia) 
+- Library Proteus : [PIC32CX.pdif](./Proteus/PIC32CX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-21530A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-21530A](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 4NB
 - Package Type : 	 TQFP
 - Pin count : 	 100,00
-- Package Layout : 	 [C04-21530A](./mchp/packages/C04-21530A.pdf)
-- Package 3d model scad : 	 [C04-21530A](./Model3d/scad/C04-21530A.scad)
+- Package Layout : 	 [C04-21530A.pdf](./mchp/packages/c04-21530a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21530A.wrl) : 	 [C04-21530A.wrl](./Model3d/wrl/C04-21530A.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-21530A.x3d) : 	 [C04-21530A.x3d](./Model3d/x3d/C04-21530A.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-21530A.scad) : 	 [C04-21530A.scad](./Model3d/scad/C04-21530A.scad)
 Pin count : 105
 - 1 : PA00,  of Type IO, alternates : [TC2:1 WO_0, OSC32KCTRL XIN32_, SERCOM1:4 PAD_0, EIC EXTINT_0, PORT P_0]
 - 2 : PA01,  of Type IO, alternates : [SERCOM1:4 PAD_1, EIC EXTINT_1, PORT P_1, OSC32KCTRL XOUT32_, TC2:1 WO_1]
@@ -1099,16 +1134,19 @@ Pin count : 105
 - Family : PIC32CX
 - MF : Microchip
 - Name : PIC32CX1025SG60100
+- Library Kicad : [PIC32CX.kicad_sym](./KiCad/PIC32CX.kicad_sym) 
+- Library Altium : [PIC32CX.lia](./Altium/PIC32CX.lia) 
+- Library Proteus : [PIC32CX.pdif](./Proteus/PIC32CX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-21529D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-21529D](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 HJB
 - Package Type : 	 TFBGA
 - Pin count : 	 100,00
-- Package 3d model wrl : 	 [C04-21529D](./Model3d/wrl/C04-21529D.wrl)
-- Package 3d model x3d : 	 [C04-21529D](./Model3d/x3d/C04-21529D.x3d)
-- Package 3d model scad : 	 [C04-21529D](./Model3d/scad/C04-21529D.scad)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21529D.wrl) : 	 [C04-21529D.wrl](./Model3d/wrl/C04-21529D.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-21529D.x3d) : 	 [C04-21529D.x3d](./Model3d/x3d/C04-21529D.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-21529D.scad) : 	 [C04-21529D.scad](./Model3d/scad/C04-21529D.scad)
 Pin count : 105
 - A1 : PB30,  of Type IO, alternates : [SERCOM5:5 PAD_1, TCC4:2 WO_0, PORT P_62, EIC EXTINT_14, TC0:3 WO_0, SERCOM7:5 PAD_0, TCC0:4 WO_6]
 - A2 : VSS,  of Type PS
@@ -1230,15 +1268,18 @@ Pin count : 105
 - Family : PIC32CX
 - MF : Microchip
 - Name : PIC32CX1025SG60128
+- Library Kicad : [PIC32CX.kicad_sym](./KiCad/PIC32CX.kicad_sym) 
+- Library Altium : [PIC32CX.lia](./Altium/PIC32CX.lia) 
+- Library Proteus : [PIC32CX.pdif](./Proteus/PIC32CX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-21547A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-21547A](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 XCB
 - Package Type : 	 TQFP
 - Pin count : 	 128,00
-- Package Layout : 	 [C04-21547A](./mchp/packages/C04-21547A.pdf)
-- Package 3d model scad : 	 [C04-21547A](./Model3d/scad/C04-21547A.scad)
+- Package Layout : 	 [C04-21547A.pdf](./mchp/packages/c04-21547a.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-21547A.scad) : 	 [C04-21547A.scad](./Model3d/scad/C04-21547A.scad)
 Pin count : 133
 - 1 : PA00,  of Type IO, alternates : [TC2:1 WO_0, OSC32KCTRL XIN32_, SERCOM1:4 PAD_0, EIC EXTINT_0, PORT P_0]
 - 2 : PA01,  of Type IO, alternates : [SERCOM1:4 PAD_1, EIC EXTINT_1, PORT P_1, OSC32KCTRL XOUT32_, TC2:1 WO_1]
@@ -1388,15 +1429,18 @@ Pin count : 133
 - Family : PIC32CX
 - MF : Microchip
 - Name : PIC32CX1025SG60128
+- Library Kicad : [PIC32CX.kicad_sym](./KiCad/PIC32CX.kicad_sym) 
+- Library Altium : [PIC32CX.lia](./Altium/PIC32CX.lia) 
+- Library Proteus : [PIC32CX.pdif](./Proteus/PIC32CX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-21547A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-21547A](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 XCB
 - Package Type : 	 TQFP
 - Pin count : 	 128,00
-- Package Layout : 	 [C04-21547A](./mchp/packages/C04-21547A.pdf)
-- Package 3d model scad : 	 [C04-21547A](./Model3d/scad/C04-21547A.scad)
+- Package Layout : 	 [C04-21547A.pdf](./mchp/packages/c04-21547a.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-21547A.scad) : 	 [C04-21547A.scad](./Model3d/scad/C04-21547A.scad)
 Pin count : 133
 - 1 : PA00,  of Type IO, alternates : [TC2:1 WO_0, OSC32KCTRL XIN32_, SERCOM1:4 PAD_0, EIC EXTINT_0, PORT P_0]
 - 2 : PA01,  of Type IO, alternates : [SERCOM1:4 PAD_1, EIC EXTINT_1, PORT P_1, OSC32KCTRL XOUT32_, TC2:1 WO_1]
@@ -1546,15 +1590,20 @@ Pin count : 133
 - Family : PIC32CX
 - MF : Microchip
 - Name : PIC32CX1025SG61100
+- Library Kicad : [PIC32CX.kicad_sym](./KiCad/PIC32CX.kicad_sym) 
+- Library Altium : [PIC32CX.lia](./Altium/PIC32CX.lia) 
+- Library Proteus : [PIC32CX.pdif](./Proteus/PIC32CX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-21530A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-21530A](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 4NB
 - Package Type : 	 TQFP
 - Pin count : 	 100,00
-- Package Layout : 	 [C04-21530A](./mchp/packages/C04-21530A.pdf)
-- Package 3d model scad : 	 [C04-21530A](./Model3d/scad/C04-21530A.scad)
+- Package Layout : 	 [C04-21530A.pdf](./mchp/packages/c04-21530a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21530A.wrl) : 	 [C04-21530A.wrl](./Model3d/wrl/C04-21530A.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-21530A.x3d) : 	 [C04-21530A.x3d](./Model3d/x3d/C04-21530A.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-21530A.scad) : 	 [C04-21530A.scad](./Model3d/scad/C04-21530A.scad)
 Pin count : 105
 - 1 : PA00,  of Type IO, alternates : [TC2:1 WO_0, OSC32KCTRL XIN32_, SERCOM1:4 PAD_0, EIC EXTINT_0, PORT P_0]
 - 2 : PA01,  of Type IO, alternates : [SERCOM1:4 PAD_1, EIC EXTINT_1, PORT P_1, OSC32KCTRL XOUT32_, TC2:1 WO_1]
@@ -1676,16 +1725,19 @@ Pin count : 105
 - Family : PIC32CX
 - MF : Microchip
 - Name : PIC32CX1025SG61100
+- Library Kicad : [PIC32CX.kicad_sym](./KiCad/PIC32CX.kicad_sym) 
+- Library Altium : [PIC32CX.lia](./Altium/PIC32CX.lia) 
+- Library Proteus : [PIC32CX.pdif](./Proteus/PIC32CX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-21529D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-21529D](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 HJB
 - Package Type : 	 TFBGA
 - Pin count : 	 100,00
-- Package 3d model wrl : 	 [C04-21529D](./Model3d/wrl/C04-21529D.wrl)
-- Package 3d model x3d : 	 [C04-21529D](./Model3d/x3d/C04-21529D.x3d)
-- Package 3d model scad : 	 [C04-21529D](./Model3d/scad/C04-21529D.scad)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21529D.wrl) : 	 [C04-21529D.wrl](./Model3d/wrl/C04-21529D.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-21529D.x3d) : 	 [C04-21529D.x3d](./Model3d/x3d/C04-21529D.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-21529D.scad) : 	 [C04-21529D.scad](./Model3d/scad/C04-21529D.scad)
 Pin count : 105
 - A1 : PB30,  of Type IO, alternates : [SERCOM5:5 PAD_1, TCC4:2 WO_0, PORT P_62, EIC EXTINT_14, TC0:3 WO_0, SERCOM7:5 PAD_0, TCC0:4 WO_6]
 - A2 : VSS,  of Type PS
@@ -1807,15 +1859,20 @@ Pin count : 105
 - Family : PIC32CX
 - MF : Microchip
 - Name : PIC32CX1025SG61100
+- Library Kicad : [PIC32CX.kicad_sym](./KiCad/PIC32CX.kicad_sym) 
+- Library Altium : [PIC32CX.lia](./Altium/PIC32CX.lia) 
+- Library Proteus : [PIC32CX.pdif](./Proteus/PIC32CX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-21530A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-21530A](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 4NB
 - Package Type : 	 TQFP
 - Pin count : 	 100,00
-- Package Layout : 	 [C04-21530A](./mchp/packages/C04-21530A.pdf)
-- Package 3d model scad : 	 [C04-21530A](./Model3d/scad/C04-21530A.scad)
+- Package Layout : 	 [C04-21530A.pdf](./mchp/packages/c04-21530a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21530A.wrl) : 	 [C04-21530A.wrl](./Model3d/wrl/C04-21530A.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-21530A.x3d) : 	 [C04-21530A.x3d](./Model3d/x3d/C04-21530A.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-21530A.scad) : 	 [C04-21530A.scad](./Model3d/scad/C04-21530A.scad)
 Pin count : 105
 - 1 : PA00,  of Type IO, alternates : [TC2:1 WO_0, OSC32KCTRL XIN32_, SERCOM1:4 PAD_0, EIC EXTINT_0, PORT P_0]
 - 2 : PA01,  of Type IO, alternates : [SERCOM1:4 PAD_1, EIC EXTINT_1, PORT P_1, OSC32KCTRL XOUT32_, TC2:1 WO_1]
@@ -1937,16 +1994,19 @@ Pin count : 105
 - Family : PIC32CX
 - MF : Microchip
 - Name : PIC32CX1025SG61100
+- Library Kicad : [PIC32CX.kicad_sym](./KiCad/PIC32CX.kicad_sym) 
+- Library Altium : [PIC32CX.lia](./Altium/PIC32CX.lia) 
+- Library Proteus : [PIC32CX.pdif](./Proteus/PIC32CX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-21529D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-21529D](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 HJB
 - Package Type : 	 TFBGA
 - Pin count : 	 100,00
-- Package 3d model wrl : 	 [C04-21529D](./Model3d/wrl/C04-21529D.wrl)
-- Package 3d model x3d : 	 [C04-21529D](./Model3d/x3d/C04-21529D.x3d)
-- Package 3d model scad : 	 [C04-21529D](./Model3d/scad/C04-21529D.scad)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21529D.wrl) : 	 [C04-21529D.wrl](./Model3d/wrl/C04-21529D.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-21529D.x3d) : 	 [C04-21529D.x3d](./Model3d/x3d/C04-21529D.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-21529D.scad) : 	 [C04-21529D.scad](./Model3d/scad/C04-21529D.scad)
 Pin count : 105
 - A1 : PB30,  of Type IO, alternates : [SERCOM5:5 PAD_1, TCC4:2 WO_0, PORT P_62, EIC EXTINT_14, TC0:3 WO_0, SERCOM7:5 PAD_0, TCC0:4 WO_6]
 - A2 : VSS,  of Type PS
@@ -2068,15 +2128,18 @@ Pin count : 105
 - Family : PIC32CX
 - MF : Microchip
 - Name : PIC32CX1025SG61128
+- Library Kicad : [PIC32CX.kicad_sym](./KiCad/PIC32CX.kicad_sym) 
+- Library Altium : [PIC32CX.lia](./Altium/PIC32CX.lia) 
+- Library Proteus : [PIC32CX.pdif](./Proteus/PIC32CX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-21547A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-21547A](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 XCB
 - Package Type : 	 TQFP
 - Pin count : 	 128,00
-- Package Layout : 	 [C04-21547A](./mchp/packages/C04-21547A.pdf)
-- Package 3d model scad : 	 [C04-21547A](./Model3d/scad/C04-21547A.scad)
+- Package Layout : 	 [C04-21547A.pdf](./mchp/packages/c04-21547a.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-21547A.scad) : 	 [C04-21547A.scad](./Model3d/scad/C04-21547A.scad)
 Pin count : 133
 - 1 : PA00,  of Type IO, alternates : [TC2:1 WO_0, OSC32KCTRL XIN32_, SERCOM1:4 PAD_0, EIC EXTINT_0, PORT P_0]
 - 2 : PA01,  of Type IO, alternates : [SERCOM1:4 PAD_1, EIC EXTINT_1, PORT P_1, OSC32KCTRL XOUT32_, TC2:1 WO_1]
@@ -2226,15 +2289,18 @@ Pin count : 133
 - Family : PIC32CX
 - MF : Microchip
 - Name : PIC32CX1025SG61128
+- Library Kicad : [PIC32CX.kicad_sym](./KiCad/PIC32CX.kicad_sym) 
+- Library Altium : [PIC32CX.lia](./Altium/PIC32CX.lia) 
+- Library Proteus : [PIC32CX.pdif](./Proteus/PIC32CX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-21547A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-21547A](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 XCB
 - Package Type : 	 TQFP
 - Pin count : 	 128,00
-- Package Layout : 	 [C04-21547A](./mchp/packages/C04-21547A.pdf)
-- Package 3d model scad : 	 [C04-21547A](./Model3d/scad/C04-21547A.scad)
+- Package Layout : 	 [C04-21547A.pdf](./mchp/packages/c04-21547a.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-21547A.scad) : 	 [C04-21547A.scad](./Model3d/scad/C04-21547A.scad)
 Pin count : 133
 - 1 : PA00,  of Type IO, alternates : [TC2:1 WO_0, OSC32KCTRL XIN32_, SERCOM1:4 PAD_0, EIC EXTINT_0, PORT P_0]
 - 2 : PA01,  of Type IO, alternates : [SERCOM1:4 PAD_1, EIC EXTINT_1, PORT P_1, OSC32KCTRL XOUT32_, TC2:1 WO_1]
@@ -2384,6 +2450,9 @@ Pin count : 133
 - Family : PIC32CX
 - MF : Microchip
 - Name : PIC32CX5109BZ31032
+- Library Kicad : [PIC32CX.kicad_sym](./KiCad/PIC32CX.kicad_sym) 
+- Library Altium : [PIC32CX.lia](./Altium/PIC32CX.lia) 
+- Library Proteus : [PIC32CX.pdif](./Proteus/PIC32CX.pdif) 
 
 ### Package : 
 
@@ -2435,6 +2504,9 @@ Pin count : 32
 - Family : PIC32CX
 - MF : Microchip
 - Name : PIC32CX5109BZ31048
+- Library Kicad : [PIC32CX.kicad_sym](./KiCad/PIC32CX.kicad_sym) 
+- Library Altium : [PIC32CX.lia](./Altium/PIC32CX.lia) 
+- Library Proteus : [PIC32CX.pdif](./Proteus/PIC32CX.pdif) 
 
 ### Package : 
 

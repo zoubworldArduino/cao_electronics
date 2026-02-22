@@ -14,6 +14,9 @@
 - Family : SAMG
 - MF : Microchip
 - Name : ATSAMG51G18
+- Library Kicad : [SAMG.kicad_sym](./KiCad/SAMG.kicad_sym) 
+- Library Altium : [SAMG.lia](./Altium/SAMG.lia) 
+- Library Proteus : [SAMG.pdif](./Proteus/SAMG.pdif) 
 
 ### Package : 
 
@@ -82,6 +85,9 @@ Pin count : 49
 - Family : SAMG
 - MF : Microchip
 - Name : ATSAMG51N18
+- Library Kicad : [SAMG.kicad_sym](./KiCad/SAMG.kicad_sym) 
+- Library Altium : [SAMG.lia](./Altium/SAMG.lia) 
+- Library Proteus : [SAMG.pdif](./Proteus/SAMG.pdif) 
 
 ### Package : 
 
@@ -201,6 +207,9 @@ Pin count : 100
 - Family : SAMG
 - MF : Microchip
 - Name : ATSAMG53G19
+- Library Kicad : [SAMG.kicad_sym](./KiCad/SAMG.kicad_sym) 
+- Library Altium : [SAMG.lia](./Altium/SAMG.lia) 
+- Library Proteus : [SAMG.pdif](./Proteus/SAMG.pdif) 
 
 ### Package : 
 
@@ -269,6 +278,9 @@ Pin count : 49
 - Family : SAMG
 - MF : Microchip
 - Name : ATSAMG53N19
+- Library Kicad : [SAMG.kicad_sym](./KiCad/SAMG.kicad_sym) 
+- Library Altium : [SAMG.lia](./Altium/SAMG.lia) 
+- Library Proteus : [SAMG.pdif](./Proteus/SAMG.pdif) 
 
 ### Package : 
 
@@ -388,6 +400,9 @@ Pin count : 100
 - Family : SAMG
 - MF : Microchip
 - Name : ATSAMG54G19
+- Library Kicad : [SAMG.kicad_sym](./KiCad/SAMG.kicad_sym) 
+- Library Altium : [SAMG.lia](./Altium/SAMG.lia) 
+- Library Proteus : [SAMG.pdif](./Proteus/SAMG.pdif) 
 
 ### Package : 
 
@@ -456,6 +471,9 @@ Pin count : 49
 - Family : SAMG
 - MF : Microchip
 - Name : ATSAMG54J19
+- Library Kicad : [SAMG.kicad_sym](./KiCad/SAMG.kicad_sym) 
+- Library Altium : [SAMG.lia](./Altium/SAMG.lia) 
+- Library Proteus : [SAMG.pdif](./Proteus/SAMG.pdif) 
 
 ### Package : 
 
@@ -534,6 +552,9 @@ Pin count : 59
 - Family : SAMG
 - MF : Microchip
 - Name : ATSAMG54N19
+- Library Kicad : [SAMG.kicad_sym](./KiCad/SAMG.kicad_sym) 
+- Library Altium : [SAMG.lia](./Altium/SAMG.lia) 
+- Library Proteus : [SAMG.pdif](./Proteus/SAMG.pdif) 
 
 ### Package : 
 
@@ -653,15 +674,18 @@ Pin count : 100
 - Family : SAMG
 - MF : Microchip
 - Name : ATSAMG55G19
+- Library Kicad : [SAMG.kicad_sym](./KiCad/SAMG.kicad_sym) 
+- Library Altium : [SAMG.lia](./Altium/SAMG.lia) 
+- Library Proteus : [SAMG.pdif](./Proteus/SAMG.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-21246A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-21246A](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 FRB
 - Package Type : 	 WLCSP
 - Pin count : 	 49,00
-- Package Layout : 	 [C04-21246A](./mchp/packages/C04-21246A.pdf)
-- Package 3d model scad : 	 [C04-21246A](./Model3d/scad/C04-21246A.scad)
+- Package Layout : 	 [C04-21246A.pdf](./mchp/packages/c04-21246a.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-21246A.scad) : 	 [C04-21246A.scad](./Model3d/scad/C04-21246A.scad)
 Pin count : 49
 - C7 : PA0,  of Type IO, alternates : [SUPC WKUP_0, TC0 TIOA_0, I2SC0 I2SCK_0, PIOA P_0]
 - D5 : PA1,  of Type IO, alternates : [SUPC WKUP_1, I2SC0 I2SWS_0, PIOA P_1, TC0 TIOB_0]
@@ -727,15 +751,18 @@ Pin count : 49
 - Family : SAMG
 - MF : Microchip
 - Name : ATSAMG55J19
+- Library Kicad : [SAMG.kicad_sym](./KiCad/SAMG.kicad_sym) 
+- Library Altium : [SAMG.lia](./Altium/SAMG.lia) 
+- Library Proteus : [SAMG.pdif](./Proteus/SAMG.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00053A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00053A](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 V6X
 - Package Type : 	 LQFP
 - Pin count : 	 64,00
-- Package Layout : 	 [C04-00053A](./mchp/packages/C04-00053A.pdf)
-- Package 3d model scad : 	 [C04-00053A](./Model3d/scad/C04-00053A.scad)
+- Package Layout : 	 [C04-00053A.pdf](./mchp/packages/c04-00053a.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00053A.scad) : 	 [C04-00053A.scad](./Model3d/scad/C04-00053A.scad)
 Pin count : 64
 - 6 : PA0,  of Type IO, alternates : [SUPC WKUP_0, TC0 TIOA_0, I2SC0 I2SCK_0, PIOA P_0]
 - 7 : PA1,  of Type IO, alternates : [SUPC WKUP_1, I2SC0 I2SWS_0, PIOA P_1, TC0 TIOB_0]
@@ -816,15 +843,18 @@ Pin count : 64
 - Family : SAMG
 - MF : Microchip
 - Name : ATSAMG55J19
+- Library Kicad : [SAMG.kicad_sym](./KiCad/SAMG.kicad_sym) 
+- Library Altium : [SAMG.lia](./Altium/SAMG.lia) 
+- Library Proteus : [SAMG.pdif](./Proteus/SAMG.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00053A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00053A](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 V6X
 - Package Type : 	 LQFP
 - Pin count : 	 64,00
-- Package Layout : 	 [C04-00053A](./mchp/packages/C04-00053A.pdf)
-- Package 3d model scad : 	 [C04-00053A](./Model3d/scad/C04-00053A.scad)
+- Package Layout : 	 [C04-00053A.pdf](./mchp/packages/c04-00053a.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00053A.scad) : 	 [C04-00053A.scad](./Model3d/scad/C04-00053A.scad)
 Pin count : 64
 - 6 : PA0,  of Type IO, alternates : [SUPC WKUP_0, TC0 TIOA_0, I2SC0 I2SCK_0, PIOA P_0]
 - 7 : PA1,  of Type IO, alternates : [SUPC WKUP_1, I2SC0 I2SWS_0, PIOA P_1, TC0 TIOB_0]
@@ -905,15 +935,18 @@ Pin count : 64
 - Family : SAMG
 - MF : Microchip
 - Name : ATSAMG55J19
+- Library Kicad : [SAMG.kicad_sym](./KiCad/SAMG.kicad_sym) 
+- Library Altium : [SAMG.lia](./Altium/SAMG.lia) 
+- Library Proteus : [SAMG.pdif](./Proteus/SAMG.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-21410A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-21410A](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 SHB
 - Package Type : 	 VQFN
 - Pin count : 	 64,00
-- Package Layout : 	 [C04-21410A](./mchp/packages/C04-21410A.pdf)
-- Package 3d model scad : 	 [C04-21410A](./Model3d/scad/C04-21410A.scad)
+- Package Layout : 	 [C04-21410A.pdf](./mchp/packages/c04-21410a.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-21410A.scad) : 	 [C04-21410A.scad](./Model3d/scad/C04-21410A.scad)
 Pin count : 64
 - 6 : PA0,  of Type IO, alternates : [SUPC WKUP_0, TC0 TIOA_0, I2SC0 I2SCK_0, PIOA P_0]
 - 7 : PA1,  of Type IO, alternates : [SUPC WKUP_1, I2SC0 I2SWS_0, PIOA P_1, TC0 TIOB_0]
@@ -994,15 +1027,18 @@ Pin count : 64
 - Family : SAMG
 - MF : Microchip
 - Name : ATSAMG55J19
+- Library Kicad : [SAMG.kicad_sym](./KiCad/SAMG.kicad_sym) 
+- Library Altium : [SAMG.lia](./Altium/SAMG.lia) 
+- Library Proteus : [SAMG.pdif](./Proteus/SAMG.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-21410A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-21410A](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 SHB
 - Package Type : 	 VQFN
 - Pin count : 	 64,00
-- Package Layout : 	 [C04-21410A](./mchp/packages/C04-21410A.pdf)
-- Package 3d model scad : 	 [C04-21410A](./Model3d/scad/C04-21410A.scad)
+- Package Layout : 	 [C04-21410A.pdf](./mchp/packages/c04-21410a.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-21410A.scad) : 	 [C04-21410A.scad](./Model3d/scad/C04-21410A.scad)
 Pin count : 64
 - 6 : PA0,  of Type IO, alternates : [SUPC WKUP_0, TC0 TIOA_0, I2SC0 I2SCK_0, PIOA P_0]
 - 7 : PA1,  of Type IO, alternates : [SUPC WKUP_1, I2SC0 I2SWS_0, PIOA P_1, TC0 TIOB_0]

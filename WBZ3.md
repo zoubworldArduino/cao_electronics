@@ -14,16 +14,21 @@
 - Family : WBZ3
 - MF : Microchip
 - Name : WBZ350
+- Library Kicad : [WBZ3.kicad_sym](./KiCad/WBZ3.kicad_sym) 
+- Library Altium : [WBZ3.lia](./Altium/WBZ3.lia) 
+- Library Proteus : [WBZ3.pdif](./Proteus/WBZ3.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-10055D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-10055D](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 3BW
 - Package Type : 	 MODULE
 - Pin count : 	 30,00
-- Package Layout : 	 [C04-10055D](./mchp/packages/C04-10055D.pdf)
-- Package 3d model scad : 	 [C04-10055D](./Model3d/scad/C04-10055D.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-10055D.pdf](./mchp/packages/c04-10055d.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-10055D.scad) : 	 [C04-10055D.scad](./Model3d/scad/C04-10055D.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 30
 - 1 : GND,  of Type PS
 - 2 : NMCLR,  of Type IO
@@ -70,16 +75,21 @@ Pin count : 30
 - Family : WBZ3
 - MF : Microchip
 - Name : WBZ351
+- Library Kicad : [WBZ3.kicad_sym](./KiCad/WBZ3.kicad_sym) 
+- Library Altium : [WBZ3.lia](./Altium/WBZ3.lia) 
+- Library Proteus : [WBZ3.pdif](./Proteus/WBZ3.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-10054B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-10054B](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 2XW
 - Package Type : 	 MODULE
 - Pin count : 	 39,00
-- Package Layout : 	 [C04-10054B](./mchp/packages/C04-10054B.pdf)
-- Package 3d model scad : 	 [C04-10054B](./Model3d/scad/C04-10054B.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-10054B.pdf](./mchp/packages/c04-10054b.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-10054B.scad) : 	 [C04-10054B.scad](./Model3d/scad/C04-10054B.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 39
 - 1 : GND,  of Type PS
 - 2 : GND,  of Type PS

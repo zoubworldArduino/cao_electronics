@@ -14,6 +14,9 @@
 - Family : SAMH
 - MF : Microchip
 - Name : ATSAMHA0E14AB
+- Library Kicad : [SAMH.kicad_sym](./KiCad/SAMH.kicad_sym) 
+- Library Altium : [SAMH.lia](./Altium/SAMH.lia) 
+- Library Proteus : [SAMH.pdif](./Proteus/SAMH.pdif) 
 
 ### Package : 
 
@@ -67,6 +70,9 @@ Pin count : 34
 - Family : SAMH
 - MF : Microchip
 - Name : ATSAMHA0E15AB
+- Library Kicad : [SAMH.kicad_sym](./KiCad/SAMH.kicad_sym) 
+- Library Altium : [SAMH.lia](./Altium/SAMH.lia) 
+- Library Proteus : [SAMH.pdif](./Proteus/SAMH.pdif) 
 
 ### Package : 
 
@@ -120,6 +126,9 @@ Pin count : 34
 - Family : SAMH
 - MF : Microchip
 - Name : ATSAMHA0E16AB
+- Library Kicad : [SAMH.kicad_sym](./KiCad/SAMH.kicad_sym) 
+- Library Altium : [SAMH.lia](./Altium/SAMH.lia) 
+- Library Proteus : [SAMH.pdif](./Proteus/SAMH.pdif) 
 
 ### Package : 
 
@@ -173,6 +182,9 @@ Pin count : 34
 - Family : SAMH
 - MF : Microchip
 - Name : ATSAMHA0G14AB
+- Library Kicad : [SAMH.kicad_sym](./KiCad/SAMH.kicad_sym) 
+- Library Altium : [SAMH.lia](./Altium/SAMH.lia) 
+- Library Proteus : [SAMH.pdif](./Proteus/SAMH.pdif) 
 
 ### Package : 
 
@@ -242,6 +254,9 @@ Pin count : 50
 - Family : SAMH
 - MF : Microchip
 - Name : ATSAMHA0G15AB
+- Library Kicad : [SAMH.kicad_sym](./KiCad/SAMH.kicad_sym) 
+- Library Altium : [SAMH.lia](./Altium/SAMH.lia) 
+- Library Proteus : [SAMH.pdif](./Proteus/SAMH.pdif) 
 
 ### Package : 
 
@@ -311,6 +326,9 @@ Pin count : 50
 - Family : SAMH
 - MF : Microchip
 - Name : ATSAMHA0G16AB
+- Library Kicad : [SAMH.kicad_sym](./KiCad/SAMH.kicad_sym) 
+- Library Altium : [SAMH.lia](./Altium/SAMH.lia) 
+- Library Proteus : [SAMH.pdif](./Proteus/SAMH.pdif) 
 
 ### Package : 
 
@@ -380,6 +398,9 @@ Pin count : 50
 - Family : SAMH
 - MF : Microchip
 - Name : ATSAMHA0G17AB
+- Library Kicad : [SAMH.kicad_sym](./KiCad/SAMH.kicad_sym) 
+- Library Altium : [SAMH.lia](./Altium/SAMH.lia) 
+- Library Proteus : [SAMH.pdif](./Proteus/SAMH.pdif) 
 
 ### Package : 
 
@@ -449,6 +470,9 @@ Pin count : 50
 - Family : SAMH
 - MF : Microchip
 - Name : ATSAMHA1E14AB
+- Library Kicad : [SAMH.kicad_sym](./KiCad/SAMH.kicad_sym) 
+- Library Altium : [SAMH.lia](./Altium/SAMH.lia) 
+- Library Proteus : [SAMH.pdif](./Proteus/SAMH.pdif) 
 
 ### Package : 
 
@@ -502,6 +526,9 @@ Pin count : 34
 - Family : SAMH
 - MF : Microchip
 - Name : ATSAMHA1E15AB
+- Library Kicad : [SAMH.kicad_sym](./KiCad/SAMH.kicad_sym) 
+- Library Altium : [SAMH.lia](./Altium/SAMH.lia) 
+- Library Proteus : [SAMH.pdif](./Proteus/SAMH.pdif) 
 
 ### Package : 
 
@@ -555,6 +582,9 @@ Pin count : 34
 - Family : SAMH
 - MF : Microchip
 - Name : ATSAMHA1E16AB
+- Library Kicad : [SAMH.kicad_sym](./KiCad/SAMH.kicad_sym) 
+- Library Altium : [SAMH.lia](./Altium/SAMH.lia) 
+- Library Proteus : [SAMH.pdif](./Proteus/SAMH.pdif) 
 
 ### Package : 
 
@@ -608,16 +638,21 @@ Pin count : 34
 - Family : SAMH
 - MF : Microchip
 - Name : ATSAMHA1G14A
+- Library Kicad : [SAMH.kicad_sym](./KiCad/SAMH.kicad_sym) 
+- Library Altium : [SAMH.lia](./Altium/SAMH.lia) 
+- Library Proteus : [SAMH.pdif](./Proteus/SAMH.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-21413C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-21413C](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 SLB
 - Package Type : 	 VQFN
 - Pin count : 	 48,00
-- Package Layout : 	 [C04-21413C](./mchp/packages/C04-21413C.pdf)
-- Package 3d model scad : 	 [C04-21413C](./Model3d/scad/C04-21413C.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-21413C.pdf](./mchp/packages/c04-21413c.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-21413C.scad) : 	 [C04-21413C.scad](./Model3d/scad/C04-21413C.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 50
 - 1 : PA00,  of Type IO, alternates : [EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, TCC2 WO_0, SYSCTRL XIN32_]
 - 2 : PA01,  of Type IO, alternates : [EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, SYSCTRL XOUT32_, TCC2 WO_1]
@@ -684,6 +719,9 @@ Pin count : 50
 - Family : SAMH
 - MF : Microchip
 - Name : ATSAMHA1G14AB
+- Library Kicad : [SAMH.kicad_sym](./KiCad/SAMH.kicad_sym) 
+- Library Altium : [SAMH.lia](./Altium/SAMH.lia) 
+- Library Proteus : [SAMH.pdif](./Proteus/SAMH.pdif) 
 
 ### Package : 
 
@@ -753,16 +791,21 @@ Pin count : 50
 - Family : SAMH
 - MF : Microchip
 - Name : ATSAMHA1G15A
+- Library Kicad : [SAMH.kicad_sym](./KiCad/SAMH.kicad_sym) 
+- Library Altium : [SAMH.lia](./Altium/SAMH.lia) 
+- Library Proteus : [SAMH.pdif](./Proteus/SAMH.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-21413C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-21413C](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 SLB
 - Package Type : 	 VQFN
 - Pin count : 	 48,00
-- Package Layout : 	 [C04-21413C](./mchp/packages/C04-21413C.pdf)
-- Package 3d model scad : 	 [C04-21413C](./Model3d/scad/C04-21413C.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-21413C.pdf](./mchp/packages/c04-21413c.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-21413C.scad) : 	 [C04-21413C.scad](./Model3d/scad/C04-21413C.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 50
 - 1 : PA00,  of Type IO, alternates : [EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, TCC2 WO_0, SYSCTRL XIN32_]
 - 2 : PA01,  of Type IO, alternates : [EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, SYSCTRL XOUT32_, TCC2 WO_1]
@@ -829,6 +872,9 @@ Pin count : 50
 - Family : SAMH
 - MF : Microchip
 - Name : ATSAMHA1G15AB
+- Library Kicad : [SAMH.kicad_sym](./KiCad/SAMH.kicad_sym) 
+- Library Altium : [SAMH.lia](./Altium/SAMH.lia) 
+- Library Proteus : [SAMH.pdif](./Proteus/SAMH.pdif) 
 
 ### Package : 
 
@@ -898,16 +944,21 @@ Pin count : 50
 - Family : SAMH
 - MF : Microchip
 - Name : ATSAMHA1G16A
+- Library Kicad : [SAMH.kicad_sym](./KiCad/SAMH.kicad_sym) 
+- Library Altium : [SAMH.lia](./Altium/SAMH.lia) 
+- Library Proteus : [SAMH.pdif](./Proteus/SAMH.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-21413C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-21413C](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 SLB
 - Package Type : 	 VQFN
 - Pin count : 	 48,00
-- Package Layout : 	 [C04-21413C](./mchp/packages/C04-21413C.pdf)
-- Package 3d model scad : 	 [C04-21413C](./Model3d/scad/C04-21413C.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-21413C.pdf](./mchp/packages/c04-21413c.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-21413C.scad) : 	 [C04-21413C.scad](./Model3d/scad/C04-21413C.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 50
 - 1 : PA00,  of Type IO, alternates : [EIC EXTINT_0, PORT P_0, SERCOM1 PAD_0, TCC2 WO_0, SYSCTRL XIN32_]
 - 2 : PA01,  of Type IO, alternates : [EIC EXTINT_1, PORT P_1, SERCOM1 PAD_1, SYSCTRL XOUT32_, TCC2 WO_1]
@@ -974,6 +1025,9 @@ Pin count : 50
 - Family : SAMH
 - MF : Microchip
 - Name : ATSAMHA1G16AB
+- Library Kicad : [SAMH.kicad_sym](./KiCad/SAMH.kicad_sym) 
+- Library Altium : [SAMH.lia](./Altium/SAMH.lia) 
+- Library Proteus : [SAMH.pdif](./Proteus/SAMH.pdif) 
 
 ### Package : 
 
@@ -1043,6 +1097,9 @@ Pin count : 50
 - Family : SAMH
 - MF : Microchip
 - Name : ATSAMHA1G17AB
+- Library Kicad : [SAMH.kicad_sym](./KiCad/SAMH.kicad_sym) 
+- Library Altium : [SAMH.lia](./Altium/SAMH.lia) 
+- Library Proteus : [SAMH.pdif](./Proteus/SAMH.pdif) 
 
 ### Package : 
 

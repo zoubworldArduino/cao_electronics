@@ -14,15 +14,20 @@
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX110F016B
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00070B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00070B](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 M3X
 - Package Type : 	 SPDIP
 - Pin count : 	 28,00
-- Package Layout : 	 [C04-00070B](./mchp/packages/C04-00070B.pdf)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00070B.pdf](./mchp/packages/c04-00070b.pdf)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX110F016B
 
@@ -39,15 +44,20 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX110F016B
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00070B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00070B](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 M3X
 - Package Type : 	 SPDIP
 - Pin count : 	 28,00
-- Package Layout : 	 [C04-00070B](./mchp/packages/C04-00070B.pdf)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00070B.pdf](./mchp/packages/c04-00070b.pdf)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX110F016B
 
@@ -64,15 +74,20 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX110F016B
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00070B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00070B](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 M3X
 - Package Type : 	 SPDIP
 - Pin count : 	 28,00
-- Package Layout : 	 [C04-00070B](./mchp/packages/C04-00070B.pdf)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00070B.pdf](./mchp/packages/c04-00070b.pdf)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX110F016B
 
@@ -89,15 +104,20 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX110F016B
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00070B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00070B](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 M3X
 - Package Type : 	 SPDIP
 - Pin count : 	 28,00
-- Package Layout : 	 [C04-00070B](./mchp/packages/C04-00070B.pdf)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00070B.pdf](./mchp/packages/c04-00070b.pdf)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX110F016C
 
@@ -114,6 +134,9 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX110F016C
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
@@ -133,16 +156,21 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX110F016D
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00103D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00103D](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 T3X
 - Package Type : 	 QFN
 - Pin count : 	 44,00
-- Package Layout : 	 [C04-00103D](./mchp/packages/C04-00103D.pdf)
-- Package 3d model scad : 	 [C04-00103D](./Model3d/scad/C04-00103D.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00103D.pdf](./mchp/packages/c04-00103d.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00103D.scad) : 	 [C04-00103D.scad](./Model3d/scad/C04-00103D.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX110F016D
 
@@ -159,16 +187,21 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX110F016D
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00103D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00103D](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 T3X
 - Package Type : 	 QFN
 - Pin count : 	 44,00
-- Package Layout : 	 [C04-00103D](./mchp/packages/C04-00103D.pdf)
-- Package 3d model scad : 	 [C04-00103D](./Model3d/scad/C04-00103D.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00103D.pdf](./mchp/packages/c04-00103d.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00103D.scad) : 	 [C04-00103D.scad](./Model3d/scad/C04-00103D.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX110F016D
 
@@ -185,16 +218,21 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX110F016D
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00103D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00103D](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 T3X
 - Package Type : 	 QFN
 - Pin count : 	 44,00
-- Package Layout : 	 [C04-00103D](./mchp/packages/C04-00103D.pdf)
-- Package 3d model scad : 	 [C04-00103D](./Model3d/scad/C04-00103D.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00103D.pdf](./mchp/packages/c04-00103d.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00103D.scad) : 	 [C04-00103D.scad](./Model3d/scad/C04-00103D.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX120F032B
 
@@ -211,6 +249,9 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX120F032B
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
@@ -230,6 +271,9 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX120F032B
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
@@ -249,6 +293,9 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX120F032B
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
@@ -268,6 +315,9 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX120F032B
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
@@ -287,6 +337,9 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX120F032C
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
@@ -306,16 +359,21 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX120F032D
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00103D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00103D](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 T3X
 - Package Type : 	 QFN
 - Pin count : 	 44,00
-- Package Layout : 	 [C04-00103D](./mchp/packages/C04-00103D.pdf)
-- Package 3d model scad : 	 [C04-00103D](./Model3d/scad/C04-00103D.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00103D.pdf](./mchp/packages/c04-00103d.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00103D.scad) : 	 [C04-00103D.scad](./Model3d/scad/C04-00103D.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX120F032D
 
@@ -332,16 +390,21 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX120F032D
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00103D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00103D](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 T3X
 - Package Type : 	 QFN
 - Pin count : 	 44,00
-- Package Layout : 	 [C04-00103D](./mchp/packages/C04-00103D.pdf)
-- Package 3d model scad : 	 [C04-00103D](./Model3d/scad/C04-00103D.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00103D.pdf](./mchp/packages/c04-00103d.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00103D.scad) : 	 [C04-00103D.scad](./Model3d/scad/C04-00103D.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX120F032D
 
@@ -358,16 +421,21 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX120F032D
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00103D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00103D](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 T3X
 - Package Type : 	 QFN
 - Pin count : 	 44,00
-- Package Layout : 	 [C04-00103D](./mchp/packages/C04-00103D.pdf)
-- Package 3d model scad : 	 [C04-00103D](./Model3d/scad/C04-00103D.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00103D.pdf](./mchp/packages/c04-00103d.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00103D.scad) : 	 [C04-00103D.scad](./Model3d/scad/C04-00103D.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX120F064H
 
@@ -384,18 +452,23 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX120F064H
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 R4X
 - Package Type : 	 QFN
 - Pin count : 	 64,00
-- Package Layout : 	 [C04-00149E](./mchp/packages/C04-00149E.pdf)
-- Package 3d model wrl : 	 [C04-00149E](./Model3d/wrl/C04-00149E.wrl)
-- Package 3d model x3d : 	 [C04-00149E](./Model3d/x3d/C04-00149E.x3d)
-- Package 3d model scad : 	 [C04-00149E](./Model3d/scad/C04-00149E.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00149E.pdf](./mchp/packages/c04-00149e.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00149E.wrl) : 	 [C04-00149E.wrl](./Model3d/wrl/C04-00149E.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00149E.x3d) : 	 [C04-00149E.x3d](./Model3d/x3d/C04-00149E.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00149E.scad) : 	 [C04-00149E.scad](./Model3d/scad/C04-00149E.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX120F064H
 
@@ -412,18 +485,23 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX120F064H
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 R4X
 - Package Type : 	 QFN
 - Pin count : 	 64,00
-- Package Layout : 	 [C04-00149E](./mchp/packages/C04-00149E.pdf)
-- Package 3d model wrl : 	 [C04-00149E](./Model3d/wrl/C04-00149E.wrl)
-- Package 3d model x3d : 	 [C04-00149E](./Model3d/x3d/C04-00149E.x3d)
-- Package 3d model scad : 	 [C04-00149E](./Model3d/scad/C04-00149E.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00149E.pdf](./mchp/packages/c04-00149e.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00149E.wrl) : 	 [C04-00149E.wrl](./Model3d/wrl/C04-00149E.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00149E.x3d) : 	 [C04-00149E.x3d](./Model3d/x3d/C04-00149E.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00149E.scad) : 	 [C04-00149E.scad](./Model3d/scad/C04-00149E.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX130F064B
 
@@ -440,15 +518,20 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX130F064B
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00070B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00070B](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 M3X
 - Package Type : 	 SPDIP
 - Pin count : 	 28,00
-- Package Layout : 	 [C04-00070B](./mchp/packages/C04-00070B.pdf)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00070B.pdf](./mchp/packages/c04-00070b.pdf)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX130F064B
 
@@ -465,15 +548,20 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX130F064B
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00070B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00070B](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 M3X
 - Package Type : 	 SPDIP
 - Pin count : 	 28,00
-- Package Layout : 	 [C04-00070B](./mchp/packages/C04-00070B.pdf)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00070B.pdf](./mchp/packages/c04-00070b.pdf)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX130F064B
 
@@ -490,15 +578,20 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX130F064B
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00070B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00070B](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 M3X
 - Package Type : 	 SPDIP
 - Pin count : 	 28,00
-- Package Layout : 	 [C04-00070B](./mchp/packages/C04-00070B.pdf)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00070B.pdf](./mchp/packages/c04-00070b.pdf)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX130F064B
 
@@ -515,15 +608,20 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX130F064B
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00070B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00070B](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 M3X
 - Package Type : 	 SPDIP
 - Pin count : 	 28,00
-- Package Layout : 	 [C04-00070B](./mchp/packages/C04-00070B.pdf)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00070B.pdf](./mchp/packages/c04-00070b.pdf)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX130F064C
 
@@ -540,6 +638,9 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX130F064C
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
@@ -559,16 +660,21 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX130F064D
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00103D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00103D](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 T3X
 - Package Type : 	 QFN
 - Pin count : 	 44,00
-- Package Layout : 	 [C04-00103D](./mchp/packages/C04-00103D.pdf)
-- Package 3d model scad : 	 [C04-00103D](./Model3d/scad/C04-00103D.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00103D.pdf](./mchp/packages/c04-00103d.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00103D.scad) : 	 [C04-00103D.scad](./Model3d/scad/C04-00103D.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX130F064D
 
@@ -585,16 +691,21 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX130F064D
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00103D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00103D](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 T3X
 - Package Type : 	 QFN
 - Pin count : 	 44,00
-- Package Layout : 	 [C04-00103D](./mchp/packages/C04-00103D.pdf)
-- Package 3d model scad : 	 [C04-00103D](./Model3d/scad/C04-00103D.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00103D.pdf](./mchp/packages/c04-00103d.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00103D.scad) : 	 [C04-00103D.scad](./Model3d/scad/C04-00103D.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX130F064D
 
@@ -611,16 +722,21 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX130F064D
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00103D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00103D](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 T3X
 - Package Type : 	 QFN
 - Pin count : 	 44,00
-- Package Layout : 	 [C04-00103D](./mchp/packages/C04-00103D.pdf)
-- Package 3d model scad : 	 [C04-00103D](./Model3d/scad/C04-00103D.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00103D.pdf](./mchp/packages/c04-00103d.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00103D.scad) : 	 [C04-00103D.scad](./Model3d/scad/C04-00103D.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX130F128H
 
@@ -637,18 +753,23 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX130F128H
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 R4X
 - Package Type : 	 QFN
 - Pin count : 	 64,00
-- Package Layout : 	 [C04-00149E](./mchp/packages/C04-00149E.pdf)
-- Package 3d model wrl : 	 [C04-00149E](./Model3d/wrl/C04-00149E.wrl)
-- Package 3d model x3d : 	 [C04-00149E](./Model3d/x3d/C04-00149E.x3d)
-- Package 3d model scad : 	 [C04-00149E](./Model3d/scad/C04-00149E.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00149E.pdf](./mchp/packages/c04-00149e.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00149E.wrl) : 	 [C04-00149E.wrl](./Model3d/wrl/C04-00149E.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00149E.x3d) : 	 [C04-00149E.x3d](./Model3d/x3d/C04-00149E.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00149E.scad) : 	 [C04-00149E.scad](./Model3d/scad/C04-00149E.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX130F128H
 
@@ -665,18 +786,23 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX130F128H
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 R4X
 - Package Type : 	 QFN
 - Pin count : 	 64,00
-- Package Layout : 	 [C04-00149E](./mchp/packages/C04-00149E.pdf)
-- Package 3d model wrl : 	 [C04-00149E](./Model3d/wrl/C04-00149E.wrl)
-- Package 3d model x3d : 	 [C04-00149E](./Model3d/x3d/C04-00149E.x3d)
-- Package 3d model scad : 	 [C04-00149E](./Model3d/scad/C04-00149E.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00149E.pdf](./mchp/packages/c04-00149e.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00149E.wrl) : 	 [C04-00149E.wrl](./Model3d/wrl/C04-00149E.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00149E.x3d) : 	 [C04-00149E.x3d](./Model3d/x3d/C04-00149E.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00149E.scad) : 	 [C04-00149E.scad](./Model3d/scad/C04-00149E.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX130F128L
 
@@ -693,16 +819,21 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX130F128L
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00110C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00110C](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 E5X
 - Package Type : 	 TQFP
 - Pin count : 	 100,00
-- Package Layout : 	 [C04-00110C](./mchp/packages/C04-00110C.pdf)
-- Package 3d model scad : 	 [C04-00110C](./Model3d/scad/C04-00110C.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00110C.pdf](./mchp/packages/c04-00110c.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00110C.scad) : 	 [C04-00110C.scad](./Model3d/scad/C04-00110C.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX130F256B
 
@@ -719,15 +850,20 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX130F256B
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00070B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00070B](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 M3X
 - Package Type : 	 SPDIP
 - Pin count : 	 28,00
-- Package Layout : 	 [C04-00070B](./mchp/packages/C04-00070B.pdf)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00070B.pdf](./mchp/packages/c04-00070b.pdf)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX130F256B
 
@@ -744,15 +880,20 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX130F256B
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00070B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00070B](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 M3X
 - Package Type : 	 SPDIP
 - Pin count : 	 28,00
-- Package Layout : 	 [C04-00070B](./mchp/packages/C04-00070B.pdf)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00070B.pdf](./mchp/packages/c04-00070b.pdf)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX130F256B
 
@@ -769,15 +910,20 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX130F256B
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00070B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00070B](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 M3X
 - Package Type : 	 SPDIP
 - Pin count : 	 28,00
-- Package Layout : 	 [C04-00070B](./mchp/packages/C04-00070B.pdf)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00070B.pdf](./mchp/packages/c04-00070b.pdf)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX130F256D
 
@@ -794,18 +940,23 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX130F256D
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00157D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00157D](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 6SX
 - Package Type : 	 VTLA
 - Pin count : 	 44,00
-- Package Layout : 	 [C04-00157D](./mchp/packages/C04-00157D.pdf)
-- Package 3d model wrl : 	 [C04-00157D](./Model3d/wrl/C04-00157D.wrl)
-- Package 3d model x3d : 	 [C04-00157D](./Model3d/x3d/C04-00157D.x3d)
-- Package 3d model scad : 	 [C04-00157D](./Model3d/scad/C04-00157D.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00157D.pdf](./mchp/packages/c04-00157d.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00157D.wrl) : 	 [C04-00157D.wrl](./Model3d/wrl/C04-00157D.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00157D.x3d) : 	 [C04-00157D.x3d](./Model3d/x3d/C04-00157D.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00157D.scad) : 	 [C04-00157D.scad](./Model3d/scad/C04-00157D.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX130F256D
 
@@ -822,18 +973,23 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX130F256D
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00157D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00157D](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 6SX
 - Package Type : 	 VTLA
 - Pin count : 	 44,00
-- Package Layout : 	 [C04-00157D](./mchp/packages/C04-00157D.pdf)
-- Package 3d model wrl : 	 [C04-00157D](./Model3d/wrl/C04-00157D.wrl)
-- Package 3d model x3d : 	 [C04-00157D](./Model3d/x3d/C04-00157D.x3d)
-- Package 3d model scad : 	 [C04-00157D](./Model3d/scad/C04-00157D.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00157D.pdf](./mchp/packages/c04-00157d.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00157D.wrl) : 	 [C04-00157D.wrl](./Model3d/wrl/C04-00157D.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00157D.x3d) : 	 [C04-00157D.x3d](./Model3d/x3d/C04-00157D.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00157D.scad) : 	 [C04-00157D.scad](./Model3d/scad/C04-00157D.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX130F256D
 
@@ -850,18 +1006,23 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX130F256D
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00157D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00157D](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 6SX
 - Package Type : 	 VTLA
 - Pin count : 	 44,00
-- Package Layout : 	 [C04-00157D](./mchp/packages/C04-00157D.pdf)
-- Package 3d model wrl : 	 [C04-00157D](./Model3d/wrl/C04-00157D.wrl)
-- Package 3d model x3d : 	 [C04-00157D](./Model3d/x3d/C04-00157D.x3d)
-- Package 3d model scad : 	 [C04-00157D](./Model3d/scad/C04-00157D.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00157D.pdf](./mchp/packages/c04-00157d.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00157D.wrl) : 	 [C04-00157D.wrl](./Model3d/wrl/C04-00157D.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00157D.x3d) : 	 [C04-00157D.x3d](./Model3d/x3d/C04-00157D.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00157D.scad) : 	 [C04-00157D.scad](./Model3d/scad/C04-00157D.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX150F128B
 
@@ -878,15 +1039,20 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX150F128B
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00070B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00070B](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 M3X
 - Package Type : 	 SPDIP
 - Pin count : 	 28,00
-- Package Layout : 	 [C04-00070B](./mchp/packages/C04-00070B.pdf)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00070B.pdf](./mchp/packages/c04-00070b.pdf)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX150F128B
 
@@ -903,15 +1069,20 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX150F128B
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00070B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00070B](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 M3X
 - Package Type : 	 SPDIP
 - Pin count : 	 28,00
-- Package Layout : 	 [C04-00070B](./mchp/packages/C04-00070B.pdf)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00070B.pdf](./mchp/packages/c04-00070b.pdf)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX150F128B
 
@@ -928,15 +1099,20 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX150F128B
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00070B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00070B](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 M3X
 - Package Type : 	 SPDIP
 - Pin count : 	 28,00
-- Package Layout : 	 [C04-00070B](./mchp/packages/C04-00070B.pdf)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00070B.pdf](./mchp/packages/c04-00070b.pdf)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX150F128B
 
@@ -953,15 +1129,20 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX150F128B
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00070B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00070B](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 M3X
 - Package Type : 	 SPDIP
 - Pin count : 	 28,00
-- Package Layout : 	 [C04-00070B](./mchp/packages/C04-00070B.pdf)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00070B.pdf](./mchp/packages/c04-00070b.pdf)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX150F128C
 
@@ -978,6 +1159,9 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX150F128C
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
@@ -997,18 +1181,23 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX150F128D
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00157D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00157D](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 6SX
 - Package Type : 	 VTLA
 - Pin count : 	 44,00
-- Package Layout : 	 [C04-00157D](./mchp/packages/C04-00157D.pdf)
-- Package 3d model wrl : 	 [C04-00157D](./Model3d/wrl/C04-00157D.wrl)
-- Package 3d model x3d : 	 [C04-00157D](./Model3d/x3d/C04-00157D.x3d)
-- Package 3d model scad : 	 [C04-00157D](./Model3d/scad/C04-00157D.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00157D.pdf](./mchp/packages/c04-00157d.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00157D.wrl) : 	 [C04-00157D.wrl](./Model3d/wrl/C04-00157D.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00157D.x3d) : 	 [C04-00157D.x3d](./Model3d/x3d/C04-00157D.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00157D.scad) : 	 [C04-00157D.scad](./Model3d/scad/C04-00157D.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX150F128D
 
@@ -1025,18 +1214,23 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX150F128D
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00157D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00157D](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 6SX
 - Package Type : 	 VTLA
 - Pin count : 	 44,00
-- Package Layout : 	 [C04-00157D](./mchp/packages/C04-00157D.pdf)
-- Package 3d model wrl : 	 [C04-00157D](./Model3d/wrl/C04-00157D.wrl)
-- Package 3d model x3d : 	 [C04-00157D](./Model3d/x3d/C04-00157D.x3d)
-- Package 3d model scad : 	 [C04-00157D](./Model3d/scad/C04-00157D.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00157D.pdf](./mchp/packages/c04-00157d.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00157D.wrl) : 	 [C04-00157D.wrl](./Model3d/wrl/C04-00157D.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00157D.x3d) : 	 [C04-00157D.x3d](./Model3d/x3d/C04-00157D.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00157D.scad) : 	 [C04-00157D.scad](./Model3d/scad/C04-00157D.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX150F128D
 
@@ -1053,18 +1247,23 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX150F128D
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00157D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00157D](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 6SX
 - Package Type : 	 VTLA
 - Pin count : 	 44,00
-- Package Layout : 	 [C04-00157D](./mchp/packages/C04-00157D.pdf)
-- Package 3d model wrl : 	 [C04-00157D](./Model3d/wrl/C04-00157D.wrl)
-- Package 3d model x3d : 	 [C04-00157D](./Model3d/x3d/C04-00157D.x3d)
-- Package 3d model scad : 	 [C04-00157D](./Model3d/scad/C04-00157D.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00157D.pdf](./mchp/packages/c04-00157d.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00157D.wrl) : 	 [C04-00157D.wrl](./Model3d/wrl/C04-00157D.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00157D.x3d) : 	 [C04-00157D.x3d](./Model3d/x3d/C04-00157D.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00157D.scad) : 	 [C04-00157D.scad](./Model3d/scad/C04-00157D.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX150F256H
 
@@ -1081,18 +1280,23 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX150F256H
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 R4X
 - Package Type : 	 QFN
 - Pin count : 	 64,00
-- Package Layout : 	 [C04-00149E](./mchp/packages/C04-00149E.pdf)
-- Package 3d model wrl : 	 [C04-00149E](./Model3d/wrl/C04-00149E.wrl)
-- Package 3d model x3d : 	 [C04-00149E](./Model3d/x3d/C04-00149E.x3d)
-- Package 3d model scad : 	 [C04-00149E](./Model3d/scad/C04-00149E.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00149E.pdf](./mchp/packages/c04-00149e.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00149E.wrl) : 	 [C04-00149E.wrl](./Model3d/wrl/C04-00149E.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00149E.x3d) : 	 [C04-00149E.x3d](./Model3d/x3d/C04-00149E.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00149E.scad) : 	 [C04-00149E.scad](./Model3d/scad/C04-00149E.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX150F256H
 
@@ -1109,18 +1313,23 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX150F256H
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 R4X
 - Package Type : 	 QFN
 - Pin count : 	 64,00
-- Package Layout : 	 [C04-00149E](./mchp/packages/C04-00149E.pdf)
-- Package 3d model wrl : 	 [C04-00149E](./Model3d/wrl/C04-00149E.wrl)
-- Package 3d model x3d : 	 [C04-00149E](./Model3d/x3d/C04-00149E.x3d)
-- Package 3d model scad : 	 [C04-00149E](./Model3d/scad/C04-00149E.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00149E.pdf](./mchp/packages/c04-00149e.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00149E.wrl) : 	 [C04-00149E.wrl](./Model3d/wrl/C04-00149E.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00149E.x3d) : 	 [C04-00149E.x3d](./Model3d/x3d/C04-00149E.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00149E.scad) : 	 [C04-00149E.scad](./Model3d/scad/C04-00149E.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX150F256L
 
@@ -1137,16 +1346,21 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX150F256L
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00110C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00110C](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 E5X
 - Package Type : 	 TQFP
 - Pin count : 	 100,00
-- Package Layout : 	 [C04-00110C](./mchp/packages/C04-00110C.pdf)
-- Package 3d model scad : 	 [C04-00110C](./Model3d/scad/C04-00110C.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00110C.pdf](./mchp/packages/c04-00110c.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00110C.scad) : 	 [C04-00110C.scad](./Model3d/scad/C04-00110C.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX154F128B
 
@@ -1163,16 +1377,21 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX154F128B
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00124D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00124D](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 M2X
 - Package Type : 	 QFN-S
 - Pin count : 	 28,00
-- Package Layout : 	 [C04-00124D](./mchp/packages/C04-00124D.pdf)
-- Package 3d model scad : 	 [C04-00124D](./Model3d/scad/C04-00124D.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00124D.pdf](./mchp/packages/c04-00124d.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00124D.scad) : 	 [C04-00124D.scad](./Model3d/scad/C04-00124D.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX154F128B
 
@@ -1189,16 +1408,21 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX154F128B
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00124D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00124D](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 M2X
 - Package Type : 	 QFN-S
 - Pin count : 	 28,00
-- Package Layout : 	 [C04-00124D](./mchp/packages/C04-00124D.pdf)
-- Package 3d model scad : 	 [C04-00124D](./Model3d/scad/C04-00124D.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00124D.pdf](./mchp/packages/c04-00124d.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00124D.scad) : 	 [C04-00124D.scad](./Model3d/scad/C04-00124D.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX154F128D
 
@@ -1215,16 +1439,21 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX154F128D
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00103D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00103D](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 T3X
 - Package Type : 	 QFN
 - Pin count : 	 44,00
-- Package Layout : 	 [C04-00103D](./mchp/packages/C04-00103D.pdf)
-- Package 3d model scad : 	 [C04-00103D](./Model3d/scad/C04-00103D.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00103D.pdf](./mchp/packages/c04-00103d.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00103D.scad) : 	 [C04-00103D.scad](./Model3d/scad/C04-00103D.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX154F128D
 
@@ -1241,16 +1470,21 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX154F128D
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00103D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00103D](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 T3X
 - Package Type : 	 QFN
 - Pin count : 	 44,00
-- Package Layout : 	 [C04-00103D](./mchp/packages/C04-00103D.pdf)
-- Package 3d model scad : 	 [C04-00103D](./Model3d/scad/C04-00103D.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00103D.pdf](./mchp/packages/c04-00103d.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00103D.scad) : 	 [C04-00103D.scad](./Model3d/scad/C04-00103D.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX170F256B
 
@@ -1267,15 +1501,20 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX170F256B
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00070B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00070B](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 M3X
 - Package Type : 	 SPDIP
 - Pin count : 	 28,00
-- Package Layout : 	 [C04-00070B](./mchp/packages/C04-00070B.pdf)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00070B.pdf](./mchp/packages/c04-00070b.pdf)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX170F256B
 
@@ -1292,15 +1531,20 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX170F256B
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00070B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00070B](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 M3X
 - Package Type : 	 SPDIP
 - Pin count : 	 28,00
-- Package Layout : 	 [C04-00070B](./mchp/packages/C04-00070B.pdf)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00070B.pdf](./mchp/packages/c04-00070b.pdf)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX170F256B
 
@@ -1317,15 +1561,20 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX170F256B
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00070B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00070B](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 M3X
 - Package Type : 	 SPDIP
 - Pin count : 	 28,00
-- Package Layout : 	 [C04-00070B](./mchp/packages/C04-00070B.pdf)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00070B.pdf](./mchp/packages/c04-00070b.pdf)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX170F256B
 
@@ -1342,15 +1591,20 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX170F256B
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00070B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00070B](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 M3X
 - Package Type : 	 SPDIP
 - Pin count : 	 28,00
-- Package Layout : 	 [C04-00070B](./mchp/packages/C04-00070B.pdf)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00070B.pdf](./mchp/packages/c04-00070b.pdf)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX170F256D
 
@@ -1367,18 +1621,23 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX170F256D
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00157D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00157D](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 6SX
 - Package Type : 	 VTLA
 - Pin count : 	 44,00
-- Package Layout : 	 [C04-00157D](./mchp/packages/C04-00157D.pdf)
-- Package 3d model wrl : 	 [C04-00157D](./Model3d/wrl/C04-00157D.wrl)
-- Package 3d model x3d : 	 [C04-00157D](./Model3d/x3d/C04-00157D.x3d)
-- Package 3d model scad : 	 [C04-00157D](./Model3d/scad/C04-00157D.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00157D.pdf](./mchp/packages/c04-00157d.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00157D.wrl) : 	 [C04-00157D.wrl](./Model3d/wrl/C04-00157D.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00157D.x3d) : 	 [C04-00157D.x3d](./Model3d/x3d/C04-00157D.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00157D.scad) : 	 [C04-00157D.scad](./Model3d/scad/C04-00157D.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX170F256D
 
@@ -1395,18 +1654,23 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX170F256D
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00157D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00157D](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 6SX
 - Package Type : 	 VTLA
 - Pin count : 	 44,00
-- Package Layout : 	 [C04-00157D](./mchp/packages/C04-00157D.pdf)
-- Package 3d model wrl : 	 [C04-00157D](./Model3d/wrl/C04-00157D.wrl)
-- Package 3d model x3d : 	 [C04-00157D](./Model3d/x3d/C04-00157D.x3d)
-- Package 3d model scad : 	 [C04-00157D](./Model3d/scad/C04-00157D.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00157D.pdf](./mchp/packages/c04-00157d.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00157D.wrl) : 	 [C04-00157D.wrl](./Model3d/wrl/C04-00157D.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00157D.x3d) : 	 [C04-00157D.x3d](./Model3d/x3d/C04-00157D.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00157D.scad) : 	 [C04-00157D.scad](./Model3d/scad/C04-00157D.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX170F256D
 
@@ -1423,18 +1687,23 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX170F256D
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00157D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00157D](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 6SX
 - Package Type : 	 VTLA
 - Pin count : 	 44,00
-- Package Layout : 	 [C04-00157D](./mchp/packages/C04-00157D.pdf)
-- Package 3d model wrl : 	 [C04-00157D](./Model3d/wrl/C04-00157D.wrl)
-- Package 3d model x3d : 	 [C04-00157D](./Model3d/x3d/C04-00157D.x3d)
-- Package 3d model scad : 	 [C04-00157D](./Model3d/scad/C04-00157D.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00157D.pdf](./mchp/packages/c04-00157d.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00157D.wrl) : 	 [C04-00157D.wrl](./Model3d/wrl/C04-00157D.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00157D.x3d) : 	 [C04-00157D.x3d](./Model3d/x3d/C04-00157D.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00157D.scad) : 	 [C04-00157D.scad](./Model3d/scad/C04-00157D.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX170F512H
 
@@ -1451,18 +1720,23 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX170F512H
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 R4X
 - Package Type : 	 QFN
 - Pin count : 	 64,00
-- Package Layout : 	 [C04-00149E](./mchp/packages/C04-00149E.pdf)
-- Package 3d model wrl : 	 [C04-00149E](./Model3d/wrl/C04-00149E.wrl)
-- Package 3d model x3d : 	 [C04-00149E](./Model3d/x3d/C04-00149E.x3d)
-- Package 3d model scad : 	 [C04-00149E](./Model3d/scad/C04-00149E.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00149E.pdf](./mchp/packages/c04-00149e.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00149E.wrl) : 	 [C04-00149E.wrl](./Model3d/wrl/C04-00149E.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00149E.x3d) : 	 [C04-00149E.x3d](./Model3d/x3d/C04-00149E.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00149E.scad) : 	 [C04-00149E.scad](./Model3d/scad/C04-00149E.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX170F512H
 
@@ -1479,18 +1753,23 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX170F512H
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 R4X
 - Package Type : 	 QFN
 - Pin count : 	 64,00
-- Package Layout : 	 [C04-00149E](./mchp/packages/C04-00149E.pdf)
-- Package 3d model wrl : 	 [C04-00149E](./Model3d/wrl/C04-00149E.wrl)
-- Package 3d model x3d : 	 [C04-00149E](./Model3d/x3d/C04-00149E.x3d)
-- Package 3d model scad : 	 [C04-00149E](./Model3d/scad/C04-00149E.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00149E.pdf](./mchp/packages/c04-00149e.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00149E.wrl) : 	 [C04-00149E.wrl](./Model3d/wrl/C04-00149E.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00149E.x3d) : 	 [C04-00149E.x3d](./Model3d/x3d/C04-00149E.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00149E.scad) : 	 [C04-00149E.scad](./Model3d/scad/C04-00149E.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX170F512L
 
@@ -1507,16 +1786,21 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX170F512L
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00110C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00110C](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 E5X
 - Package Type : 	 TQFP
 - Pin count : 	 100,00
-- Package Layout : 	 [C04-00110C](./mchp/packages/C04-00110C.pdf)
-- Package 3d model scad : 	 [C04-00110C](./Model3d/scad/C04-00110C.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00110C.pdf](./mchp/packages/c04-00110c.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00110C.scad) : 	 [C04-00110C.scad](./Model3d/scad/C04-00110C.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX174F256B
 
@@ -1533,16 +1817,21 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX174F256B
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00124D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00124D](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 M2X
 - Package Type : 	 QFN-S
 - Pin count : 	 28,00
-- Package Layout : 	 [C04-00124D](./mchp/packages/C04-00124D.pdf)
-- Package 3d model scad : 	 [C04-00124D](./Model3d/scad/C04-00124D.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00124D.pdf](./mchp/packages/c04-00124d.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00124D.scad) : 	 [C04-00124D.scad](./Model3d/scad/C04-00124D.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX174F256B
 
@@ -1559,16 +1848,21 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX174F256B
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00124D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00124D](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 M2X
 - Package Type : 	 QFN-S
 - Pin count : 	 28,00
-- Package Layout : 	 [C04-00124D](./mchp/packages/C04-00124D.pdf)
-- Package 3d model scad : 	 [C04-00124D](./Model3d/scad/C04-00124D.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00124D.pdf](./mchp/packages/c04-00124d.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00124D.scad) : 	 [C04-00124D.scad](./Model3d/scad/C04-00124D.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX174F256D
 
@@ -1585,16 +1879,21 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX174F256D
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00103D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00103D](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 T3X
 - Package Type : 	 QFN
 - Pin count : 	 44,00
-- Package Layout : 	 [C04-00103D](./mchp/packages/C04-00103D.pdf)
-- Package 3d model scad : 	 [C04-00103D](./Model3d/scad/C04-00103D.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00103D.pdf](./mchp/packages/c04-00103d.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00103D.scad) : 	 [C04-00103D.scad](./Model3d/scad/C04-00103D.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX174F256D
 
@@ -1611,16 +1910,21 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX174F256D
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00103D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00103D](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 T3X
 - Package Type : 	 QFN
 - Pin count : 	 44,00
-- Package Layout : 	 [C04-00103D](./mchp/packages/C04-00103D.pdf)
-- Package 3d model scad : 	 [C04-00103D](./Model3d/scad/C04-00103D.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00103D.pdf](./mchp/packages/c04-00103d.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00103D.scad) : 	 [C04-00103D.scad](./Model3d/scad/C04-00103D.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX210F016B
 
@@ -1637,15 +1941,20 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX210F016B
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00070B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00070B](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 M3X
 - Package Type : 	 SPDIP
 - Pin count : 	 28,00
-- Package Layout : 	 [C04-00070B](./mchp/packages/C04-00070B.pdf)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00070B.pdf](./mchp/packages/c04-00070b.pdf)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX210F016B
 
@@ -1662,15 +1971,20 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX210F016B
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00070B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00070B](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 M3X
 - Package Type : 	 SPDIP
 - Pin count : 	 28,00
-- Package Layout : 	 [C04-00070B](./mchp/packages/C04-00070B.pdf)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00070B.pdf](./mchp/packages/c04-00070b.pdf)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX210F016B
 
@@ -1687,15 +2001,20 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX210F016B
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00070B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00070B](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 M3X
 - Package Type : 	 SPDIP
 - Pin count : 	 28,00
-- Package Layout : 	 [C04-00070B](./mchp/packages/C04-00070B.pdf)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00070B.pdf](./mchp/packages/c04-00070b.pdf)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX210F016B
 
@@ -1712,15 +2031,20 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX210F016B
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00070B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00070B](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 M3X
 - Package Type : 	 SPDIP
 - Pin count : 	 28,00
-- Package Layout : 	 [C04-00070B](./mchp/packages/C04-00070B.pdf)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00070B.pdf](./mchp/packages/c04-00070b.pdf)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX210F016C
 
@@ -1737,6 +2061,9 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX210F016C
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
@@ -1756,16 +2083,21 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX210F016D
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00103D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00103D](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 T3X
 - Package Type : 	 QFN
 - Pin count : 	 44,00
-- Package Layout : 	 [C04-00103D](./mchp/packages/C04-00103D.pdf)
-- Package 3d model scad : 	 [C04-00103D](./Model3d/scad/C04-00103D.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00103D.pdf](./mchp/packages/c04-00103d.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00103D.scad) : 	 [C04-00103D.scad](./Model3d/scad/C04-00103D.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX210F016D
 
@@ -1782,16 +2114,21 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX210F016D
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00103D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00103D](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 T3X
 - Package Type : 	 QFN
 - Pin count : 	 44,00
-- Package Layout : 	 [C04-00103D](./mchp/packages/C04-00103D.pdf)
-- Package 3d model scad : 	 [C04-00103D](./Model3d/scad/C04-00103D.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00103D.pdf](./mchp/packages/c04-00103d.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00103D.scad) : 	 [C04-00103D.scad](./Model3d/scad/C04-00103D.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX210F016D
 
@@ -1808,16 +2145,21 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX210F016D
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00103D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00103D](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 T3X
 - Package Type : 	 QFN
 - Pin count : 	 44,00
-- Package Layout : 	 [C04-00103D](./mchp/packages/C04-00103D.pdf)
-- Package 3d model scad : 	 [C04-00103D](./Model3d/scad/C04-00103D.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00103D.pdf](./mchp/packages/c04-00103d.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00103D.scad) : 	 [C04-00103D.scad](./Model3d/scad/C04-00103D.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX220F032B
 
@@ -1834,15 +2176,20 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX220F032B
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00070B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00070B](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 M3X
 - Package Type : 	 SPDIP
 - Pin count : 	 28,00
-- Package Layout : 	 [C04-00070B](./mchp/packages/C04-00070B.pdf)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00070B.pdf](./mchp/packages/c04-00070b.pdf)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX220F032B
 
@@ -1859,15 +2206,20 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX220F032B
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00070B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00070B](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 M3X
 - Package Type : 	 SPDIP
 - Pin count : 	 28,00
-- Package Layout : 	 [C04-00070B](./mchp/packages/C04-00070B.pdf)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00070B.pdf](./mchp/packages/c04-00070b.pdf)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX220F032B
 
@@ -1884,15 +2236,20 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX220F032B
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00070B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00070B](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 M3X
 - Package Type : 	 SPDIP
 - Pin count : 	 28,00
-- Package Layout : 	 [C04-00070B](./mchp/packages/C04-00070B.pdf)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00070B.pdf](./mchp/packages/c04-00070b.pdf)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX220F032B
 
@@ -1909,15 +2266,20 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX220F032B
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00070B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00070B](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 M3X
 - Package Type : 	 SPDIP
 - Pin count : 	 28,00
-- Package Layout : 	 [C04-00070B](./mchp/packages/C04-00070B.pdf)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00070B.pdf](./mchp/packages/c04-00070b.pdf)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX220F032C
 
@@ -1934,6 +2296,9 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX220F032C
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
@@ -1953,16 +2318,21 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX220F032D
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00103D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00103D](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 T3X
 - Package Type : 	 QFN
 - Pin count : 	 44,00
-- Package Layout : 	 [C04-00103D](./mchp/packages/C04-00103D.pdf)
-- Package 3d model scad : 	 [C04-00103D](./Model3d/scad/C04-00103D.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00103D.pdf](./mchp/packages/c04-00103d.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00103D.scad) : 	 [C04-00103D.scad](./Model3d/scad/C04-00103D.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX220F032D
 
@@ -1979,16 +2349,21 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX220F032D
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00103D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00103D](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 T3X
 - Package Type : 	 QFN
 - Pin count : 	 44,00
-- Package Layout : 	 [C04-00103D](./mchp/packages/C04-00103D.pdf)
-- Package 3d model scad : 	 [C04-00103D](./Model3d/scad/C04-00103D.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00103D.pdf](./mchp/packages/c04-00103d.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00103D.scad) : 	 [C04-00103D.scad](./Model3d/scad/C04-00103D.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX220F032D
 
@@ -2005,16 +2380,21 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX220F032D
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00103D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00103D](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 T3X
 - Package Type : 	 QFN
 - Pin count : 	 44,00
-- Package Layout : 	 [C04-00103D](./mchp/packages/C04-00103D.pdf)
-- Package 3d model scad : 	 [C04-00103D](./Model3d/scad/C04-00103D.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00103D.pdf](./mchp/packages/c04-00103d.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00103D.scad) : 	 [C04-00103D.scad](./Model3d/scad/C04-00103D.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX230F064B
 
@@ -2031,15 +2411,20 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX230F064B
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00070B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00070B](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 M3X
 - Package Type : 	 SPDIP
 - Pin count : 	 28,00
-- Package Layout : 	 [C04-00070B](./mchp/packages/C04-00070B.pdf)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00070B.pdf](./mchp/packages/c04-00070b.pdf)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX230F064B
 
@@ -2056,15 +2441,20 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX230F064B
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00070B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00070B](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 M3X
 - Package Type : 	 SPDIP
 - Pin count : 	 28,00
-- Package Layout : 	 [C04-00070B](./mchp/packages/C04-00070B.pdf)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00070B.pdf](./mchp/packages/c04-00070b.pdf)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX230F064B
 
@@ -2081,15 +2471,20 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX230F064B
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00070B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00070B](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 M3X
 - Package Type : 	 SPDIP
 - Pin count : 	 28,00
-- Package Layout : 	 [C04-00070B](./mchp/packages/C04-00070B.pdf)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00070B.pdf](./mchp/packages/c04-00070b.pdf)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX230F064B
 
@@ -2106,15 +2501,20 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX230F064B
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00070B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00070B](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 M3X
 - Package Type : 	 SPDIP
 - Pin count : 	 28,00
-- Package Layout : 	 [C04-00070B](./mchp/packages/C04-00070B.pdf)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00070B.pdf](./mchp/packages/c04-00070b.pdf)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX230F064C
 
@@ -2131,6 +2531,9 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX230F064C
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
@@ -2150,16 +2553,21 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX230F064D
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00103D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00103D](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 T3X
 - Package Type : 	 QFN
 - Pin count : 	 44,00
-- Package Layout : 	 [C04-00103D](./mchp/packages/C04-00103D.pdf)
-- Package 3d model scad : 	 [C04-00103D](./Model3d/scad/C04-00103D.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00103D.pdf](./mchp/packages/c04-00103d.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00103D.scad) : 	 [C04-00103D.scad](./Model3d/scad/C04-00103D.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX230F064D
 
@@ -2176,16 +2584,21 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX230F064D
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00103D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00103D](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 T3X
 - Package Type : 	 QFN
 - Pin count : 	 44,00
-- Package Layout : 	 [C04-00103D](./mchp/packages/C04-00103D.pdf)
-- Package 3d model scad : 	 [C04-00103D](./Model3d/scad/C04-00103D.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00103D.pdf](./mchp/packages/c04-00103d.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00103D.scad) : 	 [C04-00103D.scad](./Model3d/scad/C04-00103D.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX230F064D
 
@@ -2202,16 +2615,21 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX230F064D
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00103D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00103D](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 T3X
 - Package Type : 	 QFN
 - Pin count : 	 44,00
-- Package Layout : 	 [C04-00103D](./mchp/packages/C04-00103D.pdf)
-- Package 3d model scad : 	 [C04-00103D](./Model3d/scad/C04-00103D.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00103D.pdf](./mchp/packages/c04-00103d.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00103D.scad) : 	 [C04-00103D.scad](./Model3d/scad/C04-00103D.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX230F128H
 
@@ -2228,18 +2646,23 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX230F128H
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 R4X
 - Package Type : 	 QFN
 - Pin count : 	 64,00
-- Package Layout : 	 [C04-00149E](./mchp/packages/C04-00149E.pdf)
-- Package 3d model wrl : 	 [C04-00149E](./Model3d/wrl/C04-00149E.wrl)
-- Package 3d model x3d : 	 [C04-00149E](./Model3d/x3d/C04-00149E.x3d)
-- Package 3d model scad : 	 [C04-00149E](./Model3d/scad/C04-00149E.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00149E.pdf](./mchp/packages/c04-00149e.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00149E.wrl) : 	 [C04-00149E.wrl](./Model3d/wrl/C04-00149E.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00149E.x3d) : 	 [C04-00149E.x3d](./Model3d/x3d/C04-00149E.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00149E.scad) : 	 [C04-00149E.scad](./Model3d/scad/C04-00149E.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX230F128H
 
@@ -2256,18 +2679,23 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX230F128H
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 R4X
 - Package Type : 	 QFN
 - Pin count : 	 64,00
-- Package Layout : 	 [C04-00149E](./mchp/packages/C04-00149E.pdf)
-- Package 3d model wrl : 	 [C04-00149E](./Model3d/wrl/C04-00149E.wrl)
-- Package 3d model x3d : 	 [C04-00149E](./Model3d/x3d/C04-00149E.x3d)
-- Package 3d model scad : 	 [C04-00149E](./Model3d/scad/C04-00149E.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00149E.pdf](./mchp/packages/c04-00149e.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00149E.wrl) : 	 [C04-00149E.wrl](./Model3d/wrl/C04-00149E.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00149E.x3d) : 	 [C04-00149E.x3d](./Model3d/x3d/C04-00149E.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00149E.scad) : 	 [C04-00149E.scad](./Model3d/scad/C04-00149E.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX230F128L
 
@@ -2284,16 +2712,21 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX230F128L
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00110C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00110C](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 E5X
 - Package Type : 	 TQFP
 - Pin count : 	 100,00
-- Package Layout : 	 [C04-00110C](./mchp/packages/C04-00110C.pdf)
-- Package 3d model scad : 	 [C04-00110C](./Model3d/scad/C04-00110C.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00110C.pdf](./mchp/packages/c04-00110c.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00110C.scad) : 	 [C04-00110C.scad](./Model3d/scad/C04-00110C.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX230F256B
 
@@ -2310,15 +2743,20 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX230F256B
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00070B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00070B](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 M3X
 - Package Type : 	 SPDIP
 - Pin count : 	 28,00
-- Package Layout : 	 [C04-00070B](./mchp/packages/C04-00070B.pdf)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00070B.pdf](./mchp/packages/c04-00070b.pdf)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX230F256B
 
@@ -2335,15 +2773,20 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX230F256B
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00070B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00070B](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 M3X
 - Package Type : 	 SPDIP
 - Pin count : 	 28,00
-- Package Layout : 	 [C04-00070B](./mchp/packages/C04-00070B.pdf)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00070B.pdf](./mchp/packages/c04-00070b.pdf)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX230F256B
 
@@ -2360,15 +2803,20 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX230F256B
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00070B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00070B](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 M3X
 - Package Type : 	 SPDIP
 - Pin count : 	 28,00
-- Package Layout : 	 [C04-00070B](./mchp/packages/C04-00070B.pdf)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00070B.pdf](./mchp/packages/c04-00070b.pdf)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX230F256D
 
@@ -2385,18 +2833,23 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX230F256D
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00157D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00157D](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 6SX
 - Package Type : 	 VTLA
 - Pin count : 	 44,00
-- Package Layout : 	 [C04-00157D](./mchp/packages/C04-00157D.pdf)
-- Package 3d model wrl : 	 [C04-00157D](./Model3d/wrl/C04-00157D.wrl)
-- Package 3d model x3d : 	 [C04-00157D](./Model3d/x3d/C04-00157D.x3d)
-- Package 3d model scad : 	 [C04-00157D](./Model3d/scad/C04-00157D.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00157D.pdf](./mchp/packages/c04-00157d.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00157D.wrl) : 	 [C04-00157D.wrl](./Model3d/wrl/C04-00157D.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00157D.x3d) : 	 [C04-00157D.x3d](./Model3d/x3d/C04-00157D.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00157D.scad) : 	 [C04-00157D.scad](./Model3d/scad/C04-00157D.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX230F256D
 
@@ -2413,18 +2866,23 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX230F256D
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00157D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00157D](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 6SX
 - Package Type : 	 VTLA
 - Pin count : 	 44,00
-- Package Layout : 	 [C04-00157D](./mchp/packages/C04-00157D.pdf)
-- Package 3d model wrl : 	 [C04-00157D](./Model3d/wrl/C04-00157D.wrl)
-- Package 3d model x3d : 	 [C04-00157D](./Model3d/x3d/C04-00157D.x3d)
-- Package 3d model scad : 	 [C04-00157D](./Model3d/scad/C04-00157D.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00157D.pdf](./mchp/packages/c04-00157d.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00157D.wrl) : 	 [C04-00157D.wrl](./Model3d/wrl/C04-00157D.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00157D.x3d) : 	 [C04-00157D.x3d](./Model3d/x3d/C04-00157D.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00157D.scad) : 	 [C04-00157D.scad](./Model3d/scad/C04-00157D.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX230F256D
 
@@ -2441,18 +2899,23 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX230F256D
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00157D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00157D](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 6SX
 - Package Type : 	 VTLA
 - Pin count : 	 44,00
-- Package Layout : 	 [C04-00157D](./mchp/packages/C04-00157D.pdf)
-- Package 3d model wrl : 	 [C04-00157D](./Model3d/wrl/C04-00157D.wrl)
-- Package 3d model x3d : 	 [C04-00157D](./Model3d/x3d/C04-00157D.x3d)
-- Package 3d model scad : 	 [C04-00157D](./Model3d/scad/C04-00157D.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00157D.pdf](./mchp/packages/c04-00157d.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00157D.wrl) : 	 [C04-00157D.wrl](./Model3d/wrl/C04-00157D.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00157D.x3d) : 	 [C04-00157D.x3d](./Model3d/x3d/C04-00157D.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00157D.scad) : 	 [C04-00157D.scad](./Model3d/scad/C04-00157D.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX250F128B
 
@@ -2469,15 +2932,20 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX250F128B
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00070B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00070B](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 M3X
 - Package Type : 	 SPDIP
 - Pin count : 	 28,00
-- Package Layout : 	 [C04-00070B](./mchp/packages/C04-00070B.pdf)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00070B.pdf](./mchp/packages/c04-00070b.pdf)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX250F128B
 
@@ -2494,15 +2962,20 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX250F128B
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00070B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00070B](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 M3X
 - Package Type : 	 SPDIP
 - Pin count : 	 28,00
-- Package Layout : 	 [C04-00070B](./mchp/packages/C04-00070B.pdf)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00070B.pdf](./mchp/packages/c04-00070b.pdf)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX250F128B
 
@@ -2519,15 +2992,20 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX250F128B
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00070B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00070B](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 M3X
 - Package Type : 	 SPDIP
 - Pin count : 	 28,00
-- Package Layout : 	 [C04-00070B](./mchp/packages/C04-00070B.pdf)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00070B.pdf](./mchp/packages/c04-00070b.pdf)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX250F128B
 
@@ -2544,15 +3022,20 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX250F128B
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00070B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00070B](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 M3X
 - Package Type : 	 SPDIP
 - Pin count : 	 28,00
-- Package Layout : 	 [C04-00070B](./mchp/packages/C04-00070B.pdf)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00070B.pdf](./mchp/packages/c04-00070b.pdf)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX250F128C
 
@@ -2569,6 +3052,9 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX250F128C
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
@@ -2588,18 +3074,23 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX250F128D
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00157D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00157D](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 6SX
 - Package Type : 	 VTLA
 - Pin count : 	 44,00
-- Package Layout : 	 [C04-00157D](./mchp/packages/C04-00157D.pdf)
-- Package 3d model wrl : 	 [C04-00157D](./Model3d/wrl/C04-00157D.wrl)
-- Package 3d model x3d : 	 [C04-00157D](./Model3d/x3d/C04-00157D.x3d)
-- Package 3d model scad : 	 [C04-00157D](./Model3d/scad/C04-00157D.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00157D.pdf](./mchp/packages/c04-00157d.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00157D.wrl) : 	 [C04-00157D.wrl](./Model3d/wrl/C04-00157D.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00157D.x3d) : 	 [C04-00157D.x3d](./Model3d/x3d/C04-00157D.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00157D.scad) : 	 [C04-00157D.scad](./Model3d/scad/C04-00157D.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX250F128D
 
@@ -2616,18 +3107,23 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX250F128D
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00157D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00157D](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 6SX
 - Package Type : 	 VTLA
 - Pin count : 	 44,00
-- Package Layout : 	 [C04-00157D](./mchp/packages/C04-00157D.pdf)
-- Package 3d model wrl : 	 [C04-00157D](./Model3d/wrl/C04-00157D.wrl)
-- Package 3d model x3d : 	 [C04-00157D](./Model3d/x3d/C04-00157D.x3d)
-- Package 3d model scad : 	 [C04-00157D](./Model3d/scad/C04-00157D.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00157D.pdf](./mchp/packages/c04-00157d.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00157D.wrl) : 	 [C04-00157D.wrl](./Model3d/wrl/C04-00157D.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00157D.x3d) : 	 [C04-00157D.x3d](./Model3d/x3d/C04-00157D.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00157D.scad) : 	 [C04-00157D.scad](./Model3d/scad/C04-00157D.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX250F128D
 
@@ -2644,18 +3140,23 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX250F128D
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00157D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00157D](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 6SX
 - Package Type : 	 VTLA
 - Pin count : 	 44,00
-- Package Layout : 	 [C04-00157D](./mchp/packages/C04-00157D.pdf)
-- Package 3d model wrl : 	 [C04-00157D](./Model3d/wrl/C04-00157D.wrl)
-- Package 3d model x3d : 	 [C04-00157D](./Model3d/x3d/C04-00157D.x3d)
-- Package 3d model scad : 	 [C04-00157D](./Model3d/scad/C04-00157D.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00157D.pdf](./mchp/packages/c04-00157d.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00157D.wrl) : 	 [C04-00157D.wrl](./Model3d/wrl/C04-00157D.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00157D.x3d) : 	 [C04-00157D.x3d](./Model3d/x3d/C04-00157D.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00157D.scad) : 	 [C04-00157D.scad](./Model3d/scad/C04-00157D.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX250F256H
 
@@ -2672,18 +3173,23 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX250F256H
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 R4X
 - Package Type : 	 QFN
 - Pin count : 	 64,00
-- Package Layout : 	 [C04-00149E](./mchp/packages/C04-00149E.pdf)
-- Package 3d model wrl : 	 [C04-00149E](./Model3d/wrl/C04-00149E.wrl)
-- Package 3d model x3d : 	 [C04-00149E](./Model3d/x3d/C04-00149E.x3d)
-- Package 3d model scad : 	 [C04-00149E](./Model3d/scad/C04-00149E.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00149E.pdf](./mchp/packages/c04-00149e.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00149E.wrl) : 	 [C04-00149E.wrl](./Model3d/wrl/C04-00149E.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00149E.x3d) : 	 [C04-00149E.x3d](./Model3d/x3d/C04-00149E.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00149E.scad) : 	 [C04-00149E.scad](./Model3d/scad/C04-00149E.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX250F256H
 
@@ -2700,18 +3206,23 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX250F256H
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 R4X
 - Package Type : 	 QFN
 - Pin count : 	 64,00
-- Package Layout : 	 [C04-00149E](./mchp/packages/C04-00149E.pdf)
-- Package 3d model wrl : 	 [C04-00149E](./Model3d/wrl/C04-00149E.wrl)
-- Package 3d model x3d : 	 [C04-00149E](./Model3d/x3d/C04-00149E.x3d)
-- Package 3d model scad : 	 [C04-00149E](./Model3d/scad/C04-00149E.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00149E.pdf](./mchp/packages/c04-00149e.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00149E.wrl) : 	 [C04-00149E.wrl](./Model3d/wrl/C04-00149E.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00149E.x3d) : 	 [C04-00149E.x3d](./Model3d/x3d/C04-00149E.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00149E.scad) : 	 [C04-00149E.scad](./Model3d/scad/C04-00149E.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX250F256L
 
@@ -2728,16 +3239,21 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX250F256L
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00110C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00110C](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 E5X
 - Package Type : 	 TQFP
 - Pin count : 	 100,00
-- Package Layout : 	 [C04-00110C](./mchp/packages/C04-00110C.pdf)
-- Package 3d model scad : 	 [C04-00110C](./Model3d/scad/C04-00110C.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00110C.pdf](./mchp/packages/c04-00110c.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00110C.scad) : 	 [C04-00110C.scad](./Model3d/scad/C04-00110C.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX254F128B
 
@@ -2754,16 +3270,21 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX254F128B
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00124D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00124D](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 M2X
 - Package Type : 	 QFN-S
 - Pin count : 	 28,00
-- Package Layout : 	 [C04-00124D](./mchp/packages/C04-00124D.pdf)
-- Package 3d model scad : 	 [C04-00124D](./Model3d/scad/C04-00124D.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00124D.pdf](./mchp/packages/c04-00124d.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00124D.scad) : 	 [C04-00124D.scad](./Model3d/scad/C04-00124D.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX254F128B
 
@@ -2780,16 +3301,21 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX254F128B
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00124D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00124D](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 M2X
 - Package Type : 	 QFN-S
 - Pin count : 	 28,00
-- Package Layout : 	 [C04-00124D](./mchp/packages/C04-00124D.pdf)
-- Package 3d model scad : 	 [C04-00124D](./Model3d/scad/C04-00124D.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00124D.pdf](./mchp/packages/c04-00124d.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00124D.scad) : 	 [C04-00124D.scad](./Model3d/scad/C04-00124D.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX254F128D
 
@@ -2806,16 +3332,21 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX254F128D
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00103D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00103D](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 T3X
 - Package Type : 	 QFN
 - Pin count : 	 44,00
-- Package Layout : 	 [C04-00103D](./mchp/packages/C04-00103D.pdf)
-- Package 3d model scad : 	 [C04-00103D](./Model3d/scad/C04-00103D.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00103D.pdf](./mchp/packages/c04-00103d.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00103D.scad) : 	 [C04-00103D.scad](./Model3d/scad/C04-00103D.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX254F128D
 
@@ -2832,16 +3363,21 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX254F128D
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00103D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00103D](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 T3X
 - Package Type : 	 QFN
 - Pin count : 	 44,00
-- Package Layout : 	 [C04-00103D](./mchp/packages/C04-00103D.pdf)
-- Package 3d model scad : 	 [C04-00103D](./Model3d/scad/C04-00103D.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00103D.pdf](./mchp/packages/c04-00103d.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00103D.scad) : 	 [C04-00103D.scad](./Model3d/scad/C04-00103D.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX270F256B
 
@@ -2858,15 +3394,20 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX270F256B
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00070B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00070B](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 M3X
 - Package Type : 	 SPDIP
 - Pin count : 	 28,00
-- Package Layout : 	 [C04-00070B](./mchp/packages/C04-00070B.pdf)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00070B.pdf](./mchp/packages/c04-00070b.pdf)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX270F256B
 
@@ -2883,15 +3424,20 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX270F256B
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00070B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00070B](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 M3X
 - Package Type : 	 SPDIP
 - Pin count : 	 28,00
-- Package Layout : 	 [C04-00070B](./mchp/packages/C04-00070B.pdf)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00070B.pdf](./mchp/packages/c04-00070b.pdf)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX270F256B
 
@@ -2908,15 +3454,20 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX270F256B
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00070B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00070B](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 M3X
 - Package Type : 	 SPDIP
 - Pin count : 	 28,00
-- Package Layout : 	 [C04-00070B](./mchp/packages/C04-00070B.pdf)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00070B.pdf](./mchp/packages/c04-00070b.pdf)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX270F256B
 
@@ -2933,15 +3484,20 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX270F256B
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00070B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00070B](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 M3X
 - Package Type : 	 SPDIP
 - Pin count : 	 28,00
-- Package Layout : 	 [C04-00070B](./mchp/packages/C04-00070B.pdf)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00070B.pdf](./mchp/packages/c04-00070b.pdf)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX270F256D
 
@@ -2958,18 +3514,23 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX270F256D
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00157D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00157D](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 6SX
 - Package Type : 	 VTLA
 - Pin count : 	 44,00
-- Package Layout : 	 [C04-00157D](./mchp/packages/C04-00157D.pdf)
-- Package 3d model wrl : 	 [C04-00157D](./Model3d/wrl/C04-00157D.wrl)
-- Package 3d model x3d : 	 [C04-00157D](./Model3d/x3d/C04-00157D.x3d)
-- Package 3d model scad : 	 [C04-00157D](./Model3d/scad/C04-00157D.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00157D.pdf](./mchp/packages/c04-00157d.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00157D.wrl) : 	 [C04-00157D.wrl](./Model3d/wrl/C04-00157D.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00157D.x3d) : 	 [C04-00157D.x3d](./Model3d/x3d/C04-00157D.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00157D.scad) : 	 [C04-00157D.scad](./Model3d/scad/C04-00157D.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX270F256D
 
@@ -2986,18 +3547,23 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX270F256D
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00157D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00157D](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 6SX
 - Package Type : 	 VTLA
 - Pin count : 	 44,00
-- Package Layout : 	 [C04-00157D](./mchp/packages/C04-00157D.pdf)
-- Package 3d model wrl : 	 [C04-00157D](./Model3d/wrl/C04-00157D.wrl)
-- Package 3d model x3d : 	 [C04-00157D](./Model3d/x3d/C04-00157D.x3d)
-- Package 3d model scad : 	 [C04-00157D](./Model3d/scad/C04-00157D.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00157D.pdf](./mchp/packages/c04-00157d.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00157D.wrl) : 	 [C04-00157D.wrl](./Model3d/wrl/C04-00157D.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00157D.x3d) : 	 [C04-00157D.x3d](./Model3d/x3d/C04-00157D.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00157D.scad) : 	 [C04-00157D.scad](./Model3d/scad/C04-00157D.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX270F256D
 
@@ -3014,18 +3580,23 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX270F256D
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00157D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00157D](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 6SX
 - Package Type : 	 VTLA
 - Pin count : 	 44,00
-- Package Layout : 	 [C04-00157D](./mchp/packages/C04-00157D.pdf)
-- Package 3d model wrl : 	 [C04-00157D](./Model3d/wrl/C04-00157D.wrl)
-- Package 3d model x3d : 	 [C04-00157D](./Model3d/x3d/C04-00157D.x3d)
-- Package 3d model scad : 	 [C04-00157D](./Model3d/scad/C04-00157D.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00157D.pdf](./mchp/packages/c04-00157d.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00157D.wrl) : 	 [C04-00157D.wrl](./Model3d/wrl/C04-00157D.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00157D.x3d) : 	 [C04-00157D.x3d](./Model3d/x3d/C04-00157D.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00157D.scad) : 	 [C04-00157D.scad](./Model3d/scad/C04-00157D.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX270F512H
 
@@ -3042,18 +3613,23 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX270F512H
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 R4X
 - Package Type : 	 QFN
 - Pin count : 	 64,00
-- Package Layout : 	 [C04-00149E](./mchp/packages/C04-00149E.pdf)
-- Package 3d model wrl : 	 [C04-00149E](./Model3d/wrl/C04-00149E.wrl)
-- Package 3d model x3d : 	 [C04-00149E](./Model3d/x3d/C04-00149E.x3d)
-- Package 3d model scad : 	 [C04-00149E](./Model3d/scad/C04-00149E.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00149E.pdf](./mchp/packages/c04-00149e.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00149E.wrl) : 	 [C04-00149E.wrl](./Model3d/wrl/C04-00149E.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00149E.x3d) : 	 [C04-00149E.x3d](./Model3d/x3d/C04-00149E.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00149E.scad) : 	 [C04-00149E.scad](./Model3d/scad/C04-00149E.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX270F512H
 
@@ -3070,18 +3646,23 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX270F512H
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 R4X
 - Package Type : 	 QFN
 - Pin count : 	 64,00
-- Package Layout : 	 [C04-00149E](./mchp/packages/C04-00149E.pdf)
-- Package 3d model wrl : 	 [C04-00149E](./Model3d/wrl/C04-00149E.wrl)
-- Package 3d model x3d : 	 [C04-00149E](./Model3d/x3d/C04-00149E.x3d)
-- Package 3d model scad : 	 [C04-00149E](./Model3d/scad/C04-00149E.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00149E.pdf](./mchp/packages/c04-00149e.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00149E.wrl) : 	 [C04-00149E.wrl](./Model3d/wrl/C04-00149E.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00149E.x3d) : 	 [C04-00149E.x3d](./Model3d/x3d/C04-00149E.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00149E.scad) : 	 [C04-00149E.scad](./Model3d/scad/C04-00149E.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX270F512L
 
@@ -3098,16 +3679,21 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX270F512L
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00110C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00110C](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 E5X
 - Package Type : 	 TQFP
 - Pin count : 	 100,00
-- Package Layout : 	 [C04-00110C](./mchp/packages/C04-00110C.pdf)
-- Package 3d model scad : 	 [C04-00110C](./Model3d/scad/C04-00110C.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00110C.pdf](./mchp/packages/c04-00110c.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00110C.scad) : 	 [C04-00110C.scad](./Model3d/scad/C04-00110C.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX274F256B
 
@@ -3124,16 +3710,21 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX274F256B
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00124D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00124D](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 M2X
 - Package Type : 	 QFN-S
 - Pin count : 	 28,00
-- Package Layout : 	 [C04-00124D](./mchp/packages/C04-00124D.pdf)
-- Package 3d model scad : 	 [C04-00124D](./Model3d/scad/C04-00124D.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00124D.pdf](./mchp/packages/c04-00124d.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00124D.scad) : 	 [C04-00124D.scad](./Model3d/scad/C04-00124D.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX274F256B
 
@@ -3150,16 +3741,21 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX274F256B
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00124D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00124D](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 M2X
 - Package Type : 	 QFN-S
 - Pin count : 	 28,00
-- Package Layout : 	 [C04-00124D](./mchp/packages/C04-00124D.pdf)
-- Package 3d model scad : 	 [C04-00124D](./Model3d/scad/C04-00124D.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00124D.pdf](./mchp/packages/c04-00124d.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00124D.scad) : 	 [C04-00124D.scad](./Model3d/scad/C04-00124D.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX274F256D
 
@@ -3176,16 +3772,21 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX274F256D
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00103D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00103D](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 T3X
 - Package Type : 	 QFN
 - Pin count : 	 44,00
-- Package Layout : 	 [C04-00103D](./mchp/packages/C04-00103D.pdf)
-- Package 3d model scad : 	 [C04-00103D](./Model3d/scad/C04-00103D.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00103D.pdf](./mchp/packages/c04-00103d.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00103D.scad) : 	 [C04-00103D.scad](./Model3d/scad/C04-00103D.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX274F256D
 
@@ -3202,16 +3803,21 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX274F256D
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00103D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00103D](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 T3X
 - Package Type : 	 QFN
 - Pin count : 	 44,00
-- Package Layout : 	 [C04-00103D](./mchp/packages/C04-00103D.pdf)
-- Package 3d model scad : 	 [C04-00103D](./Model3d/scad/C04-00103D.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00103D.pdf](./mchp/packages/c04-00103d.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00103D.scad) : 	 [C04-00103D.scad](./Model3d/scad/C04-00103D.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX320F032H
 
@@ -3228,18 +3834,23 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX320F032H
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 R4X
 - Package Type : 	 QFN
 - Pin count : 	 64,00
-- Package Layout : 	 [C04-00149E](./mchp/packages/C04-00149E.pdf)
-- Package 3d model wrl : 	 [C04-00149E](./Model3d/wrl/C04-00149E.wrl)
-- Package 3d model x3d : 	 [C04-00149E](./Model3d/x3d/C04-00149E.x3d)
-- Package 3d model scad : 	 [C04-00149E](./Model3d/scad/C04-00149E.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00149E.pdf](./mchp/packages/c04-00149e.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00149E.wrl) : 	 [C04-00149E.wrl](./Model3d/wrl/C04-00149E.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00149E.x3d) : 	 [C04-00149E.x3d](./Model3d/x3d/C04-00149E.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00149E.scad) : 	 [C04-00149E.scad](./Model3d/scad/C04-00149E.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX320F032H
 
@@ -3256,18 +3867,23 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX320F032H
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 R4X
 - Package Type : 	 QFN
 - Pin count : 	 64,00
-- Package Layout : 	 [C04-00149E](./mchp/packages/C04-00149E.pdf)
-- Package 3d model wrl : 	 [C04-00149E](./Model3d/wrl/C04-00149E.wrl)
-- Package 3d model x3d : 	 [C04-00149E](./Model3d/x3d/C04-00149E.x3d)
-- Package 3d model scad : 	 [C04-00149E](./Model3d/scad/C04-00149E.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00149E.pdf](./mchp/packages/c04-00149e.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00149E.wrl) : 	 [C04-00149E.wrl](./Model3d/wrl/C04-00149E.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00149E.x3d) : 	 [C04-00149E.x3d](./Model3d/x3d/C04-00149E.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00149E.scad) : 	 [C04-00149E.scad](./Model3d/scad/C04-00149E.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX320F064H
 
@@ -3284,18 +3900,23 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX320F064H
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 R4X
 - Package Type : 	 QFN
 - Pin count : 	 64,00
-- Package Layout : 	 [C04-00149E](./mchp/packages/C04-00149E.pdf)
-- Package 3d model wrl : 	 [C04-00149E](./Model3d/wrl/C04-00149E.wrl)
-- Package 3d model x3d : 	 [C04-00149E](./Model3d/x3d/C04-00149E.x3d)
-- Package 3d model scad : 	 [C04-00149E](./Model3d/scad/C04-00149E.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00149E.pdf](./mchp/packages/c04-00149e.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00149E.wrl) : 	 [C04-00149E.wrl](./Model3d/wrl/C04-00149E.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00149E.x3d) : 	 [C04-00149E.x3d](./Model3d/x3d/C04-00149E.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00149E.scad) : 	 [C04-00149E.scad](./Model3d/scad/C04-00149E.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX320F064H
 
@@ -3312,18 +3933,23 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX320F064H
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 R4X
 - Package Type : 	 QFN
 - Pin count : 	 64,00
-- Package Layout : 	 [C04-00149E](./mchp/packages/C04-00149E.pdf)
-- Package 3d model wrl : 	 [C04-00149E](./Model3d/wrl/C04-00149E.wrl)
-- Package 3d model x3d : 	 [C04-00149E](./Model3d/x3d/C04-00149E.x3d)
-- Package 3d model scad : 	 [C04-00149E](./Model3d/scad/C04-00149E.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00149E.pdf](./mchp/packages/c04-00149e.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00149E.wrl) : 	 [C04-00149E.wrl](./Model3d/wrl/C04-00149E.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00149E.x3d) : 	 [C04-00149E.x3d](./Model3d/x3d/C04-00149E.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00149E.scad) : 	 [C04-00149E.scad](./Model3d/scad/C04-00149E.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX320F128H
 
@@ -3340,18 +3966,23 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX320F128H
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 R4X
 - Package Type : 	 QFN
 - Pin count : 	 64,00
-- Package Layout : 	 [C04-00149E](./mchp/packages/C04-00149E.pdf)
-- Package 3d model wrl : 	 [C04-00149E](./Model3d/wrl/C04-00149E.wrl)
-- Package 3d model x3d : 	 [C04-00149E](./Model3d/x3d/C04-00149E.x3d)
-- Package 3d model scad : 	 [C04-00149E](./Model3d/scad/C04-00149E.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00149E.pdf](./mchp/packages/c04-00149e.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00149E.wrl) : 	 [C04-00149E.wrl](./Model3d/wrl/C04-00149E.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00149E.x3d) : 	 [C04-00149E.x3d](./Model3d/x3d/C04-00149E.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00149E.scad) : 	 [C04-00149E.scad](./Model3d/scad/C04-00149E.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX320F128H
 
@@ -3368,18 +3999,23 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX320F128H
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 R4X
 - Package Type : 	 QFN
 - Pin count : 	 64,00
-- Package Layout : 	 [C04-00149E](./mchp/packages/C04-00149E.pdf)
-- Package 3d model wrl : 	 [C04-00149E](./Model3d/wrl/C04-00149E.wrl)
-- Package 3d model x3d : 	 [C04-00149E](./Model3d/x3d/C04-00149E.x3d)
-- Package 3d model scad : 	 [C04-00149E](./Model3d/scad/C04-00149E.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00149E.pdf](./mchp/packages/c04-00149e.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00149E.wrl) : 	 [C04-00149E.wrl](./Model3d/wrl/C04-00149E.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00149E.x3d) : 	 [C04-00149E.x3d](./Model3d/x3d/C04-00149E.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00149E.scad) : 	 [C04-00149E.scad](./Model3d/scad/C04-00149E.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX320F128L
 
@@ -3396,18 +4032,23 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX320F128L
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00148F](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00148F](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 2XX
 - Package Type : 	 TFBGA
 - Pin count : 	 121,00
-- Package Layout : 	 [C04-00148F](./mchp/packages/C04-00148F.pdf)
-- Package 3d model wrl : 	 [C04-00148F](./Model3d/wrl/C04-00148F.wrl)
-- Package 3d model x3d : 	 [C04-00148F](./Model3d/x3d/C04-00148F.x3d)
-- Package 3d model scad : 	 [C04-00148F](./Model3d/scad/C04-00148F.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00148F.pdf](./mchp/packages/c04-00148f.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00148F.wrl) : 	 [C04-00148F.wrl](./Model3d/wrl/C04-00148F.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00148F.x3d) : 	 [C04-00148F.x3d](./Model3d/x3d/C04-00148F.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00148F.scad) : 	 [C04-00148F.scad](./Model3d/scad/C04-00148F.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX320F128L
 
@@ -3424,18 +4065,23 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX320F128L
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00148F](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00148F](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 2XX
 - Package Type : 	 TFBGA
 - Pin count : 	 121,00
-- Package Layout : 	 [C04-00148F](./mchp/packages/C04-00148F.pdf)
-- Package 3d model wrl : 	 [C04-00148F](./Model3d/wrl/C04-00148F.wrl)
-- Package 3d model x3d : 	 [C04-00148F](./Model3d/x3d/C04-00148F.x3d)
-- Package 3d model scad : 	 [C04-00148F](./Model3d/scad/C04-00148F.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00148F.pdf](./mchp/packages/c04-00148f.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00148F.wrl) : 	 [C04-00148F.wrl](./Model3d/wrl/C04-00148F.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00148F.x3d) : 	 [C04-00148F.x3d](./Model3d/x3d/C04-00148F.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00148F.scad) : 	 [C04-00148F.scad](./Model3d/scad/C04-00148F.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX330F064H
 
@@ -3452,18 +4098,23 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX330F064H
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00260B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00260B](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 RGX
 - Package Type : 	 QFN
 - Pin count : 	 64,00
-- Package Layout : 	 [C04-00260B](./mchp/packages/C04-00260B.pdf)
-- Package 3d model wrl : 	 [C04-00260B](./Model3d/wrl/C04-00260B.wrl)
-- Package 3d model x3d : 	 [C04-00260B](./Model3d/x3d/C04-00260B.x3d)
-- Package 3d model scad : 	 [C04-00260B](./Model3d/scad/C04-00260B.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00260B.pdf](./mchp/packages/c04-00260b.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00260B.wrl) : 	 [C04-00260B.wrl](./Model3d/wrl/C04-00260B.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00260B.x3d) : 	 [C04-00260B.x3d](./Model3d/x3d/C04-00260B.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00260B.scad) : 	 [C04-00260B.scad](./Model3d/scad/C04-00260B.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX330F064H
 
@@ -3480,18 +4131,23 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX330F064H
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00260B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00260B](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 RGX
 - Package Type : 	 QFN
 - Pin count : 	 64,00
-- Package Layout : 	 [C04-00260B](./mchp/packages/C04-00260B.pdf)
-- Package 3d model wrl : 	 [C04-00260B](./Model3d/wrl/C04-00260B.wrl)
-- Package 3d model x3d : 	 [C04-00260B](./Model3d/x3d/C04-00260B.x3d)
-- Package 3d model scad : 	 [C04-00260B](./Model3d/scad/C04-00260B.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00260B.pdf](./mchp/packages/c04-00260b.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00260B.wrl) : 	 [C04-00260B.wrl](./Model3d/wrl/C04-00260B.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00260B.x3d) : 	 [C04-00260B.x3d](./Model3d/x3d/C04-00260B.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00260B.scad) : 	 [C04-00260B.scad](./Model3d/scad/C04-00260B.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX330F064L
 
@@ -3508,16 +4164,21 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX330F064L
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00110C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00110C](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 E5X
 - Package Type : 	 TQFP
 - Pin count : 	 100,00
-- Package Layout : 	 [C04-00110C](./mchp/packages/C04-00110C.pdf)
-- Package 3d model scad : 	 [C04-00110C](./Model3d/scad/C04-00110C.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00110C.pdf](./mchp/packages/c04-00110c.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00110C.scad) : 	 [C04-00110C.scad](./Model3d/scad/C04-00110C.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX330F064L
 
@@ -3534,16 +4195,21 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX330F064L
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00110C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00110C](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 E5X
 - Package Type : 	 TQFP
 - Pin count : 	 100,00
-- Package Layout : 	 [C04-00110C](./mchp/packages/C04-00110C.pdf)
-- Package 3d model scad : 	 [C04-00110C](./Model3d/scad/C04-00110C.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00110C.pdf](./mchp/packages/c04-00110c.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00110C.scad) : 	 [C04-00110C.scad](./Model3d/scad/C04-00110C.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX340F128H
 
@@ -3560,18 +4226,23 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX340F128H
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 R4X
 - Package Type : 	 QFN
 - Pin count : 	 64,00
-- Package Layout : 	 [C04-00149E](./mchp/packages/C04-00149E.pdf)
-- Package 3d model wrl : 	 [C04-00149E](./Model3d/wrl/C04-00149E.wrl)
-- Package 3d model x3d : 	 [C04-00149E](./Model3d/x3d/C04-00149E.x3d)
-- Package 3d model scad : 	 [C04-00149E](./Model3d/scad/C04-00149E.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00149E.pdf](./mchp/packages/c04-00149e.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00149E.wrl) : 	 [C04-00149E.wrl](./Model3d/wrl/C04-00149E.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00149E.x3d) : 	 [C04-00149E.x3d](./Model3d/x3d/C04-00149E.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00149E.scad) : 	 [C04-00149E.scad](./Model3d/scad/C04-00149E.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX340F128H
 
@@ -3588,18 +4259,23 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX340F128H
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 R4X
 - Package Type : 	 QFN
 - Pin count : 	 64,00
-- Package Layout : 	 [C04-00149E](./mchp/packages/C04-00149E.pdf)
-- Package 3d model wrl : 	 [C04-00149E](./Model3d/wrl/C04-00149E.wrl)
-- Package 3d model x3d : 	 [C04-00149E](./Model3d/x3d/C04-00149E.x3d)
-- Package 3d model scad : 	 [C04-00149E](./Model3d/scad/C04-00149E.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00149E.pdf](./mchp/packages/c04-00149e.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00149E.wrl) : 	 [C04-00149E.wrl](./Model3d/wrl/C04-00149E.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00149E.x3d) : 	 [C04-00149E.x3d](./Model3d/x3d/C04-00149E.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00149E.scad) : 	 [C04-00149E.scad](./Model3d/scad/C04-00149E.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX340F128L
 
@@ -3616,18 +4292,23 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX340F128L
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00148F](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00148F](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 2XX
 - Package Type : 	 TFBGA
 - Pin count : 	 121,00
-- Package Layout : 	 [C04-00148F](./mchp/packages/C04-00148F.pdf)
-- Package 3d model wrl : 	 [C04-00148F](./Model3d/wrl/C04-00148F.wrl)
-- Package 3d model x3d : 	 [C04-00148F](./Model3d/x3d/C04-00148F.x3d)
-- Package 3d model scad : 	 [C04-00148F](./Model3d/scad/C04-00148F.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00148F.pdf](./mchp/packages/c04-00148f.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00148F.wrl) : 	 [C04-00148F.wrl](./Model3d/wrl/C04-00148F.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00148F.x3d) : 	 [C04-00148F.x3d](./Model3d/x3d/C04-00148F.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00148F.scad) : 	 [C04-00148F.scad](./Model3d/scad/C04-00148F.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX340F128L
 
@@ -3644,18 +4325,23 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX340F128L
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00148F](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00148F](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 2XX
 - Package Type : 	 TFBGA
 - Pin count : 	 121,00
-- Package Layout : 	 [C04-00148F](./mchp/packages/C04-00148F.pdf)
-- Package 3d model wrl : 	 [C04-00148F](./Model3d/wrl/C04-00148F.wrl)
-- Package 3d model x3d : 	 [C04-00148F](./Model3d/x3d/C04-00148F.x3d)
-- Package 3d model scad : 	 [C04-00148F](./Model3d/scad/C04-00148F.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00148F.pdf](./mchp/packages/c04-00148f.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00148F.wrl) : 	 [C04-00148F.wrl](./Model3d/wrl/C04-00148F.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00148F.x3d) : 	 [C04-00148F.x3d](./Model3d/x3d/C04-00148F.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00148F.scad) : 	 [C04-00148F.scad](./Model3d/scad/C04-00148F.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX340F256H
 
@@ -3672,18 +4358,23 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX340F256H
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 R4X
 - Package Type : 	 QFN
 - Pin count : 	 64,00
-- Package Layout : 	 [C04-00149E](./mchp/packages/C04-00149E.pdf)
-- Package 3d model wrl : 	 [C04-00149E](./Model3d/wrl/C04-00149E.wrl)
-- Package 3d model x3d : 	 [C04-00149E](./Model3d/x3d/C04-00149E.x3d)
-- Package 3d model scad : 	 [C04-00149E](./Model3d/scad/C04-00149E.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00149E.pdf](./mchp/packages/c04-00149e.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00149E.wrl) : 	 [C04-00149E.wrl](./Model3d/wrl/C04-00149E.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00149E.x3d) : 	 [C04-00149E.x3d](./Model3d/x3d/C04-00149E.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00149E.scad) : 	 [C04-00149E.scad](./Model3d/scad/C04-00149E.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX340F256H
 
@@ -3700,18 +4391,23 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX340F256H
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 R4X
 - Package Type : 	 QFN
 - Pin count : 	 64,00
-- Package Layout : 	 [C04-00149E](./mchp/packages/C04-00149E.pdf)
-- Package 3d model wrl : 	 [C04-00149E](./Model3d/wrl/C04-00149E.wrl)
-- Package 3d model x3d : 	 [C04-00149E](./Model3d/x3d/C04-00149E.x3d)
-- Package 3d model scad : 	 [C04-00149E](./Model3d/scad/C04-00149E.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00149E.pdf](./mchp/packages/c04-00149e.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00149E.wrl) : 	 [C04-00149E.wrl](./Model3d/wrl/C04-00149E.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00149E.x3d) : 	 [C04-00149E.x3d](./Model3d/x3d/C04-00149E.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00149E.scad) : 	 [C04-00149E.scad](./Model3d/scad/C04-00149E.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX340F512H
 
@@ -3728,18 +4424,23 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX340F512H
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 R4X
 - Package Type : 	 QFN
 - Pin count : 	 64,00
-- Package Layout : 	 [C04-00149E](./mchp/packages/C04-00149E.pdf)
-- Package 3d model wrl : 	 [C04-00149E](./Model3d/wrl/C04-00149E.wrl)
-- Package 3d model x3d : 	 [C04-00149E](./Model3d/x3d/C04-00149E.x3d)
-- Package 3d model scad : 	 [C04-00149E](./Model3d/scad/C04-00149E.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00149E.pdf](./mchp/packages/c04-00149e.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00149E.wrl) : 	 [C04-00149E.wrl](./Model3d/wrl/C04-00149E.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00149E.x3d) : 	 [C04-00149E.x3d](./Model3d/x3d/C04-00149E.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00149E.scad) : 	 [C04-00149E.scad](./Model3d/scad/C04-00149E.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX340F512H
 
@@ -3756,18 +4457,23 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX340F512H
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 R4X
 - Package Type : 	 QFN
 - Pin count : 	 64,00
-- Package Layout : 	 [C04-00149E](./mchp/packages/C04-00149E.pdf)
-- Package 3d model wrl : 	 [C04-00149E](./Model3d/wrl/C04-00149E.wrl)
-- Package 3d model x3d : 	 [C04-00149E](./Model3d/x3d/C04-00149E.x3d)
-- Package 3d model scad : 	 [C04-00149E](./Model3d/scad/C04-00149E.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00149E.pdf](./mchp/packages/c04-00149e.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00149E.wrl) : 	 [C04-00149E.wrl](./Model3d/wrl/C04-00149E.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00149E.x3d) : 	 [C04-00149E.x3d](./Model3d/x3d/C04-00149E.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00149E.scad) : 	 [C04-00149E.scad](./Model3d/scad/C04-00149E.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX350F128H
 
@@ -3784,18 +4490,23 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX350F128H
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 R4X
 - Package Type : 	 QFN
 - Pin count : 	 64,00
-- Package Layout : 	 [C04-00149E](./mchp/packages/C04-00149E.pdf)
-- Package 3d model wrl : 	 [C04-00149E](./Model3d/wrl/C04-00149E.wrl)
-- Package 3d model x3d : 	 [C04-00149E](./Model3d/x3d/C04-00149E.x3d)
-- Package 3d model scad : 	 [C04-00149E](./Model3d/scad/C04-00149E.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00149E.pdf](./mchp/packages/c04-00149e.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00149E.wrl) : 	 [C04-00149E.wrl](./Model3d/wrl/C04-00149E.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00149E.x3d) : 	 [C04-00149E.x3d](./Model3d/x3d/C04-00149E.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00149E.scad) : 	 [C04-00149E.scad](./Model3d/scad/C04-00149E.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX350F128H
 
@@ -3812,18 +4523,23 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX350F128H
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 R4X
 - Package Type : 	 QFN
 - Pin count : 	 64,00
-- Package Layout : 	 [C04-00149E](./mchp/packages/C04-00149E.pdf)
-- Package 3d model wrl : 	 [C04-00149E](./Model3d/wrl/C04-00149E.wrl)
-- Package 3d model x3d : 	 [C04-00149E](./Model3d/x3d/C04-00149E.x3d)
-- Package 3d model scad : 	 [C04-00149E](./Model3d/scad/C04-00149E.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00149E.pdf](./mchp/packages/c04-00149e.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00149E.wrl) : 	 [C04-00149E.wrl](./Model3d/wrl/C04-00149E.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00149E.x3d) : 	 [C04-00149E.x3d](./Model3d/x3d/C04-00149E.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00149E.scad) : 	 [C04-00149E.scad](./Model3d/scad/C04-00149E.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX350F128L
 
@@ -3840,16 +4556,21 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX350F128L
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00110C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00110C](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 E5X
 - Package Type : 	 TQFP
 - Pin count : 	 100,00
-- Package Layout : 	 [C04-00110C](./mchp/packages/C04-00110C.pdf)
-- Package 3d model scad : 	 [C04-00110C](./Model3d/scad/C04-00110C.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00110C.pdf](./mchp/packages/c04-00110c.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00110C.scad) : 	 [C04-00110C.scad](./Model3d/scad/C04-00110C.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX350F128L
 
@@ -3866,16 +4587,21 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX350F128L
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00110C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00110C](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 E5X
 - Package Type : 	 TQFP
 - Pin count : 	 100,00
-- Package Layout : 	 [C04-00110C](./mchp/packages/C04-00110C.pdf)
-- Package 3d model scad : 	 [C04-00110C](./Model3d/scad/C04-00110C.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00110C.pdf](./mchp/packages/c04-00110c.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00110C.scad) : 	 [C04-00110C.scad](./Model3d/scad/C04-00110C.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX350F256H
 
@@ -3892,18 +4618,23 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX350F256H
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 R4X
 - Package Type : 	 QFN
 - Pin count : 	 64,00
-- Package Layout : 	 [C04-00149E](./mchp/packages/C04-00149E.pdf)
-- Package 3d model wrl : 	 [C04-00149E](./Model3d/wrl/C04-00149E.wrl)
-- Package 3d model x3d : 	 [C04-00149E](./Model3d/x3d/C04-00149E.x3d)
-- Package 3d model scad : 	 [C04-00149E](./Model3d/scad/C04-00149E.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00149E.pdf](./mchp/packages/c04-00149e.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00149E.wrl) : 	 [C04-00149E.wrl](./Model3d/wrl/C04-00149E.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00149E.x3d) : 	 [C04-00149E.x3d](./Model3d/x3d/C04-00149E.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00149E.scad) : 	 [C04-00149E.scad](./Model3d/scad/C04-00149E.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX350F256H
 
@@ -3920,18 +4651,23 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX350F256H
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 R4X
 - Package Type : 	 QFN
 - Pin count : 	 64,00
-- Package Layout : 	 [C04-00149E](./mchp/packages/C04-00149E.pdf)
-- Package 3d model wrl : 	 [C04-00149E](./Model3d/wrl/C04-00149E.wrl)
-- Package 3d model x3d : 	 [C04-00149E](./Model3d/x3d/C04-00149E.x3d)
-- Package 3d model scad : 	 [C04-00149E](./Model3d/scad/C04-00149E.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00149E.pdf](./mchp/packages/c04-00149e.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00149E.wrl) : 	 [C04-00149E.wrl](./Model3d/wrl/C04-00149E.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00149E.x3d) : 	 [C04-00149E.x3d](./Model3d/x3d/C04-00149E.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00149E.scad) : 	 [C04-00149E.scad](./Model3d/scad/C04-00149E.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX350F256L
 
@@ -3948,16 +4684,21 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX350F256L
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00110C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00110C](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 E5X
 - Package Type : 	 TQFP
 - Pin count : 	 100,00
-- Package Layout : 	 [C04-00110C](./mchp/packages/C04-00110C.pdf)
-- Package 3d model scad : 	 [C04-00110C](./Model3d/scad/C04-00110C.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00110C.pdf](./mchp/packages/c04-00110c.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00110C.scad) : 	 [C04-00110C.scad](./Model3d/scad/C04-00110C.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX350F256L
 
@@ -3974,16 +4715,21 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX350F256L
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00110C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00110C](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 E5X
 - Package Type : 	 TQFP
 - Pin count : 	 100,00
-- Package Layout : 	 [C04-00110C](./mchp/packages/C04-00110C.pdf)
-- Package 3d model scad : 	 [C04-00110C](./Model3d/scad/C04-00110C.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00110C.pdf](./mchp/packages/c04-00110c.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00110C.scad) : 	 [C04-00110C.scad](./Model3d/scad/C04-00110C.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX360F256L
 
@@ -4000,18 +4746,23 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX360F256L
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00148F](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00148F](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 2XX
 - Package Type : 	 TFBGA
 - Pin count : 	 121,00
-- Package Layout : 	 [C04-00148F](./mchp/packages/C04-00148F.pdf)
-- Package 3d model wrl : 	 [C04-00148F](./Model3d/wrl/C04-00148F.wrl)
-- Package 3d model x3d : 	 [C04-00148F](./Model3d/x3d/C04-00148F.x3d)
-- Package 3d model scad : 	 [C04-00148F](./Model3d/scad/C04-00148F.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00148F.pdf](./mchp/packages/c04-00148f.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00148F.wrl) : 	 [C04-00148F.wrl](./Model3d/wrl/C04-00148F.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00148F.x3d) : 	 [C04-00148F.x3d](./Model3d/x3d/C04-00148F.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00148F.scad) : 	 [C04-00148F.scad](./Model3d/scad/C04-00148F.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX360F256L
 
@@ -4028,18 +4779,23 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX360F256L
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00148F](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00148F](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 2XX
 - Package Type : 	 TFBGA
 - Pin count : 	 121,00
-- Package Layout : 	 [C04-00148F](./mchp/packages/C04-00148F.pdf)
-- Package 3d model wrl : 	 [C04-00148F](./Model3d/wrl/C04-00148F.wrl)
-- Package 3d model x3d : 	 [C04-00148F](./Model3d/x3d/C04-00148F.x3d)
-- Package 3d model scad : 	 [C04-00148F](./Model3d/scad/C04-00148F.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00148F.pdf](./mchp/packages/c04-00148f.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00148F.wrl) : 	 [C04-00148F.wrl](./Model3d/wrl/C04-00148F.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00148F.x3d) : 	 [C04-00148F.x3d](./Model3d/x3d/C04-00148F.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00148F.scad) : 	 [C04-00148F.scad](./Model3d/scad/C04-00148F.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX360F512L
 
@@ -4056,18 +4812,23 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX360F512L
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00148F](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00148F](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 2XX
 - Package Type : 	 TFBGA
 - Pin count : 	 121,00
-- Package Layout : 	 [C04-00148F](./mchp/packages/C04-00148F.pdf)
-- Package 3d model wrl : 	 [C04-00148F](./Model3d/wrl/C04-00148F.wrl)
-- Package 3d model x3d : 	 [C04-00148F](./Model3d/x3d/C04-00148F.x3d)
-- Package 3d model scad : 	 [C04-00148F](./Model3d/scad/C04-00148F.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00148F.pdf](./mchp/packages/c04-00148f.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00148F.wrl) : 	 [C04-00148F.wrl](./Model3d/wrl/C04-00148F.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00148F.x3d) : 	 [C04-00148F.x3d](./Model3d/x3d/C04-00148F.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00148F.scad) : 	 [C04-00148F.scad](./Model3d/scad/C04-00148F.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX360F512L
 
@@ -4084,18 +4845,23 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX360F512L
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00148F](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00148F](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 2XX
 - Package Type : 	 TFBGA
 - Pin count : 	 121,00
-- Package Layout : 	 [C04-00148F](./mchp/packages/C04-00148F.pdf)
-- Package 3d model wrl : 	 [C04-00148F](./Model3d/wrl/C04-00148F.wrl)
-- Package 3d model x3d : 	 [C04-00148F](./Model3d/x3d/C04-00148F.x3d)
-- Package 3d model scad : 	 [C04-00148F](./Model3d/scad/C04-00148F.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00148F.pdf](./mchp/packages/c04-00148f.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00148F.wrl) : 	 [C04-00148F.wrl](./Model3d/wrl/C04-00148F.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00148F.x3d) : 	 [C04-00148F.x3d](./Model3d/x3d/C04-00148F.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00148F.scad) : 	 [C04-00148F.scad](./Model3d/scad/C04-00148F.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX370F512H
 
@@ -4112,18 +4878,23 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX370F512H
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 R4X
 - Package Type : 	 QFN
 - Pin count : 	 64,00
-- Package Layout : 	 [C04-00149E](./mchp/packages/C04-00149E.pdf)
-- Package 3d model wrl : 	 [C04-00149E](./Model3d/wrl/C04-00149E.wrl)
-- Package 3d model x3d : 	 [C04-00149E](./Model3d/x3d/C04-00149E.x3d)
-- Package 3d model scad : 	 [C04-00149E](./Model3d/scad/C04-00149E.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00149E.pdf](./mchp/packages/c04-00149e.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00149E.wrl) : 	 [C04-00149E.wrl](./Model3d/wrl/C04-00149E.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00149E.x3d) : 	 [C04-00149E.x3d](./Model3d/x3d/C04-00149E.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00149E.scad) : 	 [C04-00149E.scad](./Model3d/scad/C04-00149E.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX370F512H
 
@@ -4140,18 +4911,23 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX370F512H
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 R4X
 - Package Type : 	 QFN
 - Pin count : 	 64,00
-- Package Layout : 	 [C04-00149E](./mchp/packages/C04-00149E.pdf)
-- Package 3d model wrl : 	 [C04-00149E](./Model3d/wrl/C04-00149E.wrl)
-- Package 3d model x3d : 	 [C04-00149E](./Model3d/x3d/C04-00149E.x3d)
-- Package 3d model scad : 	 [C04-00149E](./Model3d/scad/C04-00149E.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00149E.pdf](./mchp/packages/c04-00149e.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00149E.wrl) : 	 [C04-00149E.wrl](./Model3d/wrl/C04-00149E.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00149E.x3d) : 	 [C04-00149E.x3d](./Model3d/x3d/C04-00149E.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00149E.scad) : 	 [C04-00149E.scad](./Model3d/scad/C04-00149E.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX370F512L
 
@@ -4168,16 +4944,21 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX370F512L
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00110C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00110C](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 E5X
 - Package Type : 	 TQFP
 - Pin count : 	 100,00
-- Package Layout : 	 [C04-00110C](./mchp/packages/C04-00110C.pdf)
-- Package 3d model scad : 	 [C04-00110C](./Model3d/scad/C04-00110C.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00110C.pdf](./mchp/packages/c04-00110c.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00110C.scad) : 	 [C04-00110C.scad](./Model3d/scad/C04-00110C.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX370F512L
 
@@ -4194,16 +4975,21 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX370F512L
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00110C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00110C](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 E5X
 - Package Type : 	 TQFP
 - Pin count : 	 100,00
-- Package Layout : 	 [C04-00110C](./mchp/packages/C04-00110C.pdf)
-- Package 3d model scad : 	 [C04-00110C](./Model3d/scad/C04-00110C.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00110C.pdf](./mchp/packages/c04-00110c.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00110C.scad) : 	 [C04-00110C.scad](./Model3d/scad/C04-00110C.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX420F032H
 
@@ -4220,18 +5006,23 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX420F032H
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 R4X
 - Package Type : 	 QFN
 - Pin count : 	 64,00
-- Package Layout : 	 [C04-00149E](./mchp/packages/C04-00149E.pdf)
-- Package 3d model wrl : 	 [C04-00149E](./Model3d/wrl/C04-00149E.wrl)
-- Package 3d model x3d : 	 [C04-00149E](./Model3d/x3d/C04-00149E.x3d)
-- Package 3d model scad : 	 [C04-00149E](./Model3d/scad/C04-00149E.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00149E.pdf](./mchp/packages/c04-00149e.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00149E.wrl) : 	 [C04-00149E.wrl](./Model3d/wrl/C04-00149E.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00149E.x3d) : 	 [C04-00149E.x3d](./Model3d/x3d/C04-00149E.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00149E.scad) : 	 [C04-00149E.scad](./Model3d/scad/C04-00149E.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX420F032H
 
@@ -4248,18 +5039,23 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX420F032H
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 R4X
 - Package Type : 	 QFN
 - Pin count : 	 64,00
-- Package Layout : 	 [C04-00149E](./mchp/packages/C04-00149E.pdf)
-- Package 3d model wrl : 	 [C04-00149E](./Model3d/wrl/C04-00149E.wrl)
-- Package 3d model x3d : 	 [C04-00149E](./Model3d/x3d/C04-00149E.x3d)
-- Package 3d model scad : 	 [C04-00149E](./Model3d/scad/C04-00149E.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00149E.pdf](./mchp/packages/c04-00149e.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00149E.wrl) : 	 [C04-00149E.wrl](./Model3d/wrl/C04-00149E.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00149E.x3d) : 	 [C04-00149E.x3d](./Model3d/x3d/C04-00149E.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00149E.scad) : 	 [C04-00149E.scad](./Model3d/scad/C04-00149E.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX430F064H
 
@@ -4276,18 +5072,23 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX430F064H
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00260B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00260B](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 RGX
 - Package Type : 	 QFN
 - Pin count : 	 64,00
-- Package Layout : 	 [C04-00260B](./mchp/packages/C04-00260B.pdf)
-- Package 3d model wrl : 	 [C04-00260B](./Model3d/wrl/C04-00260B.wrl)
-- Package 3d model x3d : 	 [C04-00260B](./Model3d/x3d/C04-00260B.x3d)
-- Package 3d model scad : 	 [C04-00260B](./Model3d/scad/C04-00260B.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00260B.pdf](./mchp/packages/c04-00260b.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00260B.wrl) : 	 [C04-00260B.wrl](./Model3d/wrl/C04-00260B.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00260B.x3d) : 	 [C04-00260B.x3d](./Model3d/x3d/C04-00260B.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00260B.scad) : 	 [C04-00260B.scad](./Model3d/scad/C04-00260B.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX430F064H
 
@@ -4304,18 +5105,23 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX430F064H
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00260B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00260B](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 RGX
 - Package Type : 	 QFN
 - Pin count : 	 64,00
-- Package Layout : 	 [C04-00260B](./mchp/packages/C04-00260B.pdf)
-- Package 3d model wrl : 	 [C04-00260B](./Model3d/wrl/C04-00260B.wrl)
-- Package 3d model x3d : 	 [C04-00260B](./Model3d/x3d/C04-00260B.x3d)
-- Package 3d model scad : 	 [C04-00260B](./Model3d/scad/C04-00260B.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00260B.pdf](./mchp/packages/c04-00260b.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00260B.wrl) : 	 [C04-00260B.wrl](./Model3d/wrl/C04-00260B.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00260B.x3d) : 	 [C04-00260B.x3d](./Model3d/x3d/C04-00260B.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00260B.scad) : 	 [C04-00260B.scad](./Model3d/scad/C04-00260B.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX430F064L
 
@@ -4332,16 +5138,21 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX430F064L
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00110C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00110C](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 E5X
 - Package Type : 	 TQFP
 - Pin count : 	 100,00
-- Package Layout : 	 [C04-00110C](./mchp/packages/C04-00110C.pdf)
-- Package 3d model scad : 	 [C04-00110C](./Model3d/scad/C04-00110C.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00110C.pdf](./mchp/packages/c04-00110c.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00110C.scad) : 	 [C04-00110C.scad](./Model3d/scad/C04-00110C.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX430F064L
 
@@ -4358,16 +5169,21 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX430F064L
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00110C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00110C](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 E5X
 - Package Type : 	 TQFP
 - Pin count : 	 100,00
-- Package Layout : 	 [C04-00110C](./mchp/packages/C04-00110C.pdf)
-- Package 3d model scad : 	 [C04-00110C](./Model3d/scad/C04-00110C.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00110C.pdf](./mchp/packages/c04-00110c.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00110C.scad) : 	 [C04-00110C.scad](./Model3d/scad/C04-00110C.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX440F128H
 
@@ -4384,18 +5200,23 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX440F128H
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 R4X
 - Package Type : 	 QFN
 - Pin count : 	 64,00
-- Package Layout : 	 [C04-00149E](./mchp/packages/C04-00149E.pdf)
-- Package 3d model wrl : 	 [C04-00149E](./Model3d/wrl/C04-00149E.wrl)
-- Package 3d model x3d : 	 [C04-00149E](./Model3d/x3d/C04-00149E.x3d)
-- Package 3d model scad : 	 [C04-00149E](./Model3d/scad/C04-00149E.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00149E.pdf](./mchp/packages/c04-00149e.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00149E.wrl) : 	 [C04-00149E.wrl](./Model3d/wrl/C04-00149E.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00149E.x3d) : 	 [C04-00149E.x3d](./Model3d/x3d/C04-00149E.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00149E.scad) : 	 [C04-00149E.scad](./Model3d/scad/C04-00149E.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX440F128H
 
@@ -4412,18 +5233,23 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX440F128H
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 R4X
 - Package Type : 	 QFN
 - Pin count : 	 64,00
-- Package Layout : 	 [C04-00149E](./mchp/packages/C04-00149E.pdf)
-- Package 3d model wrl : 	 [C04-00149E](./Model3d/wrl/C04-00149E.wrl)
-- Package 3d model x3d : 	 [C04-00149E](./Model3d/x3d/C04-00149E.x3d)
-- Package 3d model scad : 	 [C04-00149E](./Model3d/scad/C04-00149E.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00149E.pdf](./mchp/packages/c04-00149e.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00149E.wrl) : 	 [C04-00149E.wrl](./Model3d/wrl/C04-00149E.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00149E.x3d) : 	 [C04-00149E.x3d](./Model3d/x3d/C04-00149E.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00149E.scad) : 	 [C04-00149E.scad](./Model3d/scad/C04-00149E.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX440F128L
 
@@ -4440,18 +5266,23 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX440F128L
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00148F](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00148F](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 2XX
 - Package Type : 	 TFBGA
 - Pin count : 	 121,00
-- Package Layout : 	 [C04-00148F](./mchp/packages/C04-00148F.pdf)
-- Package 3d model wrl : 	 [C04-00148F](./Model3d/wrl/C04-00148F.wrl)
-- Package 3d model x3d : 	 [C04-00148F](./Model3d/x3d/C04-00148F.x3d)
-- Package 3d model scad : 	 [C04-00148F](./Model3d/scad/C04-00148F.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00148F.pdf](./mchp/packages/c04-00148f.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00148F.wrl) : 	 [C04-00148F.wrl](./Model3d/wrl/C04-00148F.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00148F.x3d) : 	 [C04-00148F.x3d](./Model3d/x3d/C04-00148F.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00148F.scad) : 	 [C04-00148F.scad](./Model3d/scad/C04-00148F.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX440F128L
 
@@ -4468,18 +5299,23 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX440F128L
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00148F](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00148F](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 2XX
 - Package Type : 	 TFBGA
 - Pin count : 	 121,00
-- Package Layout : 	 [C04-00148F](./mchp/packages/C04-00148F.pdf)
-- Package 3d model wrl : 	 [C04-00148F](./Model3d/wrl/C04-00148F.wrl)
-- Package 3d model x3d : 	 [C04-00148F](./Model3d/x3d/C04-00148F.x3d)
-- Package 3d model scad : 	 [C04-00148F](./Model3d/scad/C04-00148F.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00148F.pdf](./mchp/packages/c04-00148f.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00148F.wrl) : 	 [C04-00148F.wrl](./Model3d/wrl/C04-00148F.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00148F.x3d) : 	 [C04-00148F.x3d](./Model3d/x3d/C04-00148F.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00148F.scad) : 	 [C04-00148F.scad](./Model3d/scad/C04-00148F.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX440F256H
 
@@ -4496,18 +5332,23 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX440F256H
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 R4X
 - Package Type : 	 QFN
 - Pin count : 	 64,00
-- Package Layout : 	 [C04-00149E](./mchp/packages/C04-00149E.pdf)
-- Package 3d model wrl : 	 [C04-00149E](./Model3d/wrl/C04-00149E.wrl)
-- Package 3d model x3d : 	 [C04-00149E](./Model3d/x3d/C04-00149E.x3d)
-- Package 3d model scad : 	 [C04-00149E](./Model3d/scad/C04-00149E.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00149E.pdf](./mchp/packages/c04-00149e.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00149E.wrl) : 	 [C04-00149E.wrl](./Model3d/wrl/C04-00149E.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00149E.x3d) : 	 [C04-00149E.x3d](./Model3d/x3d/C04-00149E.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00149E.scad) : 	 [C04-00149E.scad](./Model3d/scad/C04-00149E.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX440F256H
 
@@ -4524,18 +5365,23 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX440F256H
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 R4X
 - Package Type : 	 QFN
 - Pin count : 	 64,00
-- Package Layout : 	 [C04-00149E](./mchp/packages/C04-00149E.pdf)
-- Package 3d model wrl : 	 [C04-00149E](./Model3d/wrl/C04-00149E.wrl)
-- Package 3d model x3d : 	 [C04-00149E](./Model3d/x3d/C04-00149E.x3d)
-- Package 3d model scad : 	 [C04-00149E](./Model3d/scad/C04-00149E.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00149E.pdf](./mchp/packages/c04-00149e.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00149E.wrl) : 	 [C04-00149E.wrl](./Model3d/wrl/C04-00149E.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00149E.x3d) : 	 [C04-00149E.x3d](./Model3d/x3d/C04-00149E.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00149E.scad) : 	 [C04-00149E.scad](./Model3d/scad/C04-00149E.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX440F512H
 
@@ -4552,18 +5398,23 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX440F512H
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 R4X
 - Package Type : 	 QFN
 - Pin count : 	 64,00
-- Package Layout : 	 [C04-00149E](./mchp/packages/C04-00149E.pdf)
-- Package 3d model wrl : 	 [C04-00149E](./Model3d/wrl/C04-00149E.wrl)
-- Package 3d model x3d : 	 [C04-00149E](./Model3d/x3d/C04-00149E.x3d)
-- Package 3d model scad : 	 [C04-00149E](./Model3d/scad/C04-00149E.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00149E.pdf](./mchp/packages/c04-00149e.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00149E.wrl) : 	 [C04-00149E.wrl](./Model3d/wrl/C04-00149E.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00149E.x3d) : 	 [C04-00149E.x3d](./Model3d/x3d/C04-00149E.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00149E.scad) : 	 [C04-00149E.scad](./Model3d/scad/C04-00149E.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX440F512H
 
@@ -4580,18 +5431,23 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX440F512H
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 R4X
 - Package Type : 	 QFN
 - Pin count : 	 64,00
-- Package Layout : 	 [C04-00149E](./mchp/packages/C04-00149E.pdf)
-- Package 3d model wrl : 	 [C04-00149E](./Model3d/wrl/C04-00149E.wrl)
-- Package 3d model x3d : 	 [C04-00149E](./Model3d/x3d/C04-00149E.x3d)
-- Package 3d model scad : 	 [C04-00149E](./Model3d/scad/C04-00149E.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00149E.pdf](./mchp/packages/c04-00149e.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00149E.wrl) : 	 [C04-00149E.wrl](./Model3d/wrl/C04-00149E.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00149E.x3d) : 	 [C04-00149E.x3d](./Model3d/x3d/C04-00149E.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00149E.scad) : 	 [C04-00149E.scad](./Model3d/scad/C04-00149E.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX450F128H
 
@@ -4608,18 +5464,23 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX450F128H
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 R4X
 - Package Type : 	 QFN
 - Pin count : 	 64,00
-- Package Layout : 	 [C04-00149E](./mchp/packages/C04-00149E.pdf)
-- Package 3d model wrl : 	 [C04-00149E](./Model3d/wrl/C04-00149E.wrl)
-- Package 3d model x3d : 	 [C04-00149E](./Model3d/x3d/C04-00149E.x3d)
-- Package 3d model scad : 	 [C04-00149E](./Model3d/scad/C04-00149E.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00149E.pdf](./mchp/packages/c04-00149e.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00149E.wrl) : 	 [C04-00149E.wrl](./Model3d/wrl/C04-00149E.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00149E.x3d) : 	 [C04-00149E.x3d](./Model3d/x3d/C04-00149E.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00149E.scad) : 	 [C04-00149E.scad](./Model3d/scad/C04-00149E.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX450F128H
 
@@ -4636,18 +5497,23 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX450F128H
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 R4X
 - Package Type : 	 QFN
 - Pin count : 	 64,00
-- Package Layout : 	 [C04-00149E](./mchp/packages/C04-00149E.pdf)
-- Package 3d model wrl : 	 [C04-00149E](./Model3d/wrl/C04-00149E.wrl)
-- Package 3d model x3d : 	 [C04-00149E](./Model3d/x3d/C04-00149E.x3d)
-- Package 3d model scad : 	 [C04-00149E](./Model3d/scad/C04-00149E.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00149E.pdf](./mchp/packages/c04-00149e.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00149E.wrl) : 	 [C04-00149E.wrl](./Model3d/wrl/C04-00149E.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00149E.x3d) : 	 [C04-00149E.x3d](./Model3d/x3d/C04-00149E.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00149E.scad) : 	 [C04-00149E.scad](./Model3d/scad/C04-00149E.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX450F128L
 
@@ -4664,16 +5530,21 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX450F128L
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00110C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00110C](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 E5X
 - Package Type : 	 TQFP
 - Pin count : 	 100,00
-- Package Layout : 	 [C04-00110C](./mchp/packages/C04-00110C.pdf)
-- Package 3d model scad : 	 [C04-00110C](./Model3d/scad/C04-00110C.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00110C.pdf](./mchp/packages/c04-00110c.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00110C.scad) : 	 [C04-00110C.scad](./Model3d/scad/C04-00110C.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX450F128L
 
@@ -4690,16 +5561,21 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX450F128L
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00110C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00110C](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 E5X
 - Package Type : 	 TQFP
 - Pin count : 	 100,00
-- Package Layout : 	 [C04-00110C](./mchp/packages/C04-00110C.pdf)
-- Package 3d model scad : 	 [C04-00110C](./Model3d/scad/C04-00110C.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00110C.pdf](./mchp/packages/c04-00110c.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00110C.scad) : 	 [C04-00110C.scad](./Model3d/scad/C04-00110C.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX450F256H
 
@@ -4716,18 +5592,23 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX450F256H
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 R4X
 - Package Type : 	 QFN
 - Pin count : 	 64,00
-- Package Layout : 	 [C04-00149E](./mchp/packages/C04-00149E.pdf)
-- Package 3d model wrl : 	 [C04-00149E](./Model3d/wrl/C04-00149E.wrl)
-- Package 3d model x3d : 	 [C04-00149E](./Model3d/x3d/C04-00149E.x3d)
-- Package 3d model scad : 	 [C04-00149E](./Model3d/scad/C04-00149E.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00149E.pdf](./mchp/packages/c04-00149e.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00149E.wrl) : 	 [C04-00149E.wrl](./Model3d/wrl/C04-00149E.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00149E.x3d) : 	 [C04-00149E.x3d](./Model3d/x3d/C04-00149E.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00149E.scad) : 	 [C04-00149E.scad](./Model3d/scad/C04-00149E.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX450F256H
 
@@ -4744,18 +5625,23 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX450F256H
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 R4X
 - Package Type : 	 QFN
 - Pin count : 	 64,00
-- Package Layout : 	 [C04-00149E](./mchp/packages/C04-00149E.pdf)
-- Package 3d model wrl : 	 [C04-00149E](./Model3d/wrl/C04-00149E.wrl)
-- Package 3d model x3d : 	 [C04-00149E](./Model3d/x3d/C04-00149E.x3d)
-- Package 3d model scad : 	 [C04-00149E](./Model3d/scad/C04-00149E.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00149E.pdf](./mchp/packages/c04-00149e.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00149E.wrl) : 	 [C04-00149E.wrl](./Model3d/wrl/C04-00149E.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00149E.x3d) : 	 [C04-00149E.x3d](./Model3d/x3d/C04-00149E.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00149E.scad) : 	 [C04-00149E.scad](./Model3d/scad/C04-00149E.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX450F256L
 
@@ -4772,16 +5658,23 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX450F256L
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00193A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00193A](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 8SX
 - Package Type : 	 VTLA
 - Pin count : 	 124,00
-- Package Layout : 	 [C04-00193A](./mchp/packages/C04-00193A.pdf)
-- Package 3d model scad : 	 [C04-00193A](./Model3d/scad/C04-00193A.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00193A.pdf](./mchp/packages/c04-00193a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00193A.wrl) : 	 [C04-00193A.wrl](./Model3d/wrl/C04-00193A.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00193A.x3d) : 	 [C04-00193A.x3d](./Model3d/x3d/C04-00193A.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00193A.scad) : 	 [C04-00193A.scad](./Model3d/scad/C04-00193A.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX450F256L
 
@@ -4798,16 +5691,23 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX450F256L
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00193A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00193A](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 8SX
 - Package Type : 	 VTLA
 - Pin count : 	 124,00
-- Package Layout : 	 [C04-00193A](./mchp/packages/C04-00193A.pdf)
-- Package 3d model scad : 	 [C04-00193A](./Model3d/scad/C04-00193A.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00193A.pdf](./mchp/packages/c04-00193a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00193A.wrl) : 	 [C04-00193A.wrl](./Model3d/wrl/C04-00193A.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00193A.x3d) : 	 [C04-00193A.x3d](./Model3d/x3d/C04-00193A.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00193A.scad) : 	 [C04-00193A.scad](./Model3d/scad/C04-00193A.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX460F256L
 
@@ -4824,18 +5724,23 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX460F256L
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00148F](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00148F](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 2XX
 - Package Type : 	 TFBGA
 - Pin count : 	 121,00
-- Package Layout : 	 [C04-00148F](./mchp/packages/C04-00148F.pdf)
-- Package 3d model wrl : 	 [C04-00148F](./Model3d/wrl/C04-00148F.wrl)
-- Package 3d model x3d : 	 [C04-00148F](./Model3d/x3d/C04-00148F.x3d)
-- Package 3d model scad : 	 [C04-00148F](./Model3d/scad/C04-00148F.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00148F.pdf](./mchp/packages/c04-00148f.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00148F.wrl) : 	 [C04-00148F.wrl](./Model3d/wrl/C04-00148F.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00148F.x3d) : 	 [C04-00148F.x3d](./Model3d/x3d/C04-00148F.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00148F.scad) : 	 [C04-00148F.scad](./Model3d/scad/C04-00148F.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX460F256L
 
@@ -4852,18 +5757,23 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX460F256L
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00148F](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00148F](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 2XX
 - Package Type : 	 TFBGA
 - Pin count : 	 121,00
-- Package Layout : 	 [C04-00148F](./mchp/packages/C04-00148F.pdf)
-- Package 3d model wrl : 	 [C04-00148F](./Model3d/wrl/C04-00148F.wrl)
-- Package 3d model x3d : 	 [C04-00148F](./Model3d/x3d/C04-00148F.x3d)
-- Package 3d model scad : 	 [C04-00148F](./Model3d/scad/C04-00148F.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00148F.pdf](./mchp/packages/c04-00148f.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00148F.wrl) : 	 [C04-00148F.wrl](./Model3d/wrl/C04-00148F.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00148F.x3d) : 	 [C04-00148F.x3d](./Model3d/x3d/C04-00148F.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00148F.scad) : 	 [C04-00148F.scad](./Model3d/scad/C04-00148F.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX460F512L
 
@@ -4880,18 +5790,23 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX460F512L
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00148F](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00148F](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 2XX
 - Package Type : 	 TFBGA
 - Pin count : 	 121,00
-- Package Layout : 	 [C04-00148F](./mchp/packages/C04-00148F.pdf)
-- Package 3d model wrl : 	 [C04-00148F](./Model3d/wrl/C04-00148F.wrl)
-- Package 3d model x3d : 	 [C04-00148F](./Model3d/x3d/C04-00148F.x3d)
-- Package 3d model scad : 	 [C04-00148F](./Model3d/scad/C04-00148F.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00148F.pdf](./mchp/packages/c04-00148f.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00148F.wrl) : 	 [C04-00148F.wrl](./Model3d/wrl/C04-00148F.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00148F.x3d) : 	 [C04-00148F.x3d](./Model3d/x3d/C04-00148F.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00148F.scad) : 	 [C04-00148F.scad](./Model3d/scad/C04-00148F.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX460F512L
 
@@ -4908,18 +5823,23 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX460F512L
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00148F](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00148F](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 2XX
 - Package Type : 	 TFBGA
 - Pin count : 	 121,00
-- Package Layout : 	 [C04-00148F](./mchp/packages/C04-00148F.pdf)
-- Package 3d model wrl : 	 [C04-00148F](./Model3d/wrl/C04-00148F.wrl)
-- Package 3d model x3d : 	 [C04-00148F](./Model3d/x3d/C04-00148F.x3d)
-- Package 3d model scad : 	 [C04-00148F](./Model3d/scad/C04-00148F.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00148F.pdf](./mchp/packages/c04-00148f.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00148F.wrl) : 	 [C04-00148F.wrl](./Model3d/wrl/C04-00148F.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00148F.x3d) : 	 [C04-00148F.x3d](./Model3d/x3d/C04-00148F.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00148F.scad) : 	 [C04-00148F.scad](./Model3d/scad/C04-00148F.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX470F512H
 
@@ -4936,18 +5856,23 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX470F512H
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 R4X
 - Package Type : 	 QFN
 - Pin count : 	 64,00
-- Package Layout : 	 [C04-00149E](./mchp/packages/C04-00149E.pdf)
-- Package 3d model wrl : 	 [C04-00149E](./Model3d/wrl/C04-00149E.wrl)
-- Package 3d model x3d : 	 [C04-00149E](./Model3d/x3d/C04-00149E.x3d)
-- Package 3d model scad : 	 [C04-00149E](./Model3d/scad/C04-00149E.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00149E.pdf](./mchp/packages/c04-00149e.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00149E.wrl) : 	 [C04-00149E.wrl](./Model3d/wrl/C04-00149E.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00149E.x3d) : 	 [C04-00149E.x3d](./Model3d/x3d/C04-00149E.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00149E.scad) : 	 [C04-00149E.scad](./Model3d/scad/C04-00149E.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX470F512H
 
@@ -4964,18 +5889,23 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX470F512H
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 R4X
 - Package Type : 	 QFN
 - Pin count : 	 64,00
-- Package Layout : 	 [C04-00149E](./mchp/packages/C04-00149E.pdf)
-- Package 3d model wrl : 	 [C04-00149E](./Model3d/wrl/C04-00149E.wrl)
-- Package 3d model x3d : 	 [C04-00149E](./Model3d/x3d/C04-00149E.x3d)
-- Package 3d model scad : 	 [C04-00149E](./Model3d/scad/C04-00149E.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00149E.pdf](./mchp/packages/c04-00149e.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00149E.wrl) : 	 [C04-00149E.wrl](./Model3d/wrl/C04-00149E.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00149E.x3d) : 	 [C04-00149E.x3d](./Model3d/x3d/C04-00149E.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00149E.scad) : 	 [C04-00149E.scad](./Model3d/scad/C04-00149E.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX470F512L
 
@@ -4992,16 +5922,23 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX470F512L
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00193A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00193A](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 8SX
 - Package Type : 	 VTLA
 - Pin count : 	 124,00
-- Package Layout : 	 [C04-00193A](./mchp/packages/C04-00193A.pdf)
-- Package 3d model scad : 	 [C04-00193A](./Model3d/scad/C04-00193A.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00193A.pdf](./mchp/packages/c04-00193a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00193A.wrl) : 	 [C04-00193A.wrl](./Model3d/wrl/C04-00193A.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00193A.x3d) : 	 [C04-00193A.x3d](./Model3d/x3d/C04-00193A.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00193A.scad) : 	 [C04-00193A.scad](./Model3d/scad/C04-00193A.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX470F512L
 
@@ -5018,16 +5955,23 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX470F512L
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00193A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00193A](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 8SX
 - Package Type : 	 VTLA
 - Pin count : 	 124,00
-- Package Layout : 	 [C04-00193A](./mchp/packages/C04-00193A.pdf)
-- Package 3d model scad : 	 [C04-00193A](./Model3d/scad/C04-00193A.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00193A.pdf](./mchp/packages/c04-00193a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00193A.wrl) : 	 [C04-00193A.wrl](./Model3d/wrl/C04-00193A.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00193A.x3d) : 	 [C04-00193A.x3d](./Model3d/x3d/C04-00193A.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00193A.scad) : 	 [C04-00193A.scad](./Model3d/scad/C04-00193A.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX530F128H
 
@@ -5044,18 +5988,23 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX530F128H
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 R4X
 - Package Type : 	 QFN
 - Pin count : 	 64,00
-- Package Layout : 	 [C04-00149E](./mchp/packages/C04-00149E.pdf)
-- Package 3d model wrl : 	 [C04-00149E](./Model3d/wrl/C04-00149E.wrl)
-- Package 3d model x3d : 	 [C04-00149E](./Model3d/x3d/C04-00149E.x3d)
-- Package 3d model scad : 	 [C04-00149E](./Model3d/scad/C04-00149E.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00149E.pdf](./mchp/packages/c04-00149e.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00149E.wrl) : 	 [C04-00149E.wrl](./Model3d/wrl/C04-00149E.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00149E.x3d) : 	 [C04-00149E.x3d](./Model3d/x3d/C04-00149E.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00149E.scad) : 	 [C04-00149E.scad](./Model3d/scad/C04-00149E.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX530F128H
 
@@ -5072,18 +6021,23 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX530F128H
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 R4X
 - Package Type : 	 QFN
 - Pin count : 	 64,00
-- Package Layout : 	 [C04-00149E](./mchp/packages/C04-00149E.pdf)
-- Package 3d model wrl : 	 [C04-00149E](./Model3d/wrl/C04-00149E.wrl)
-- Package 3d model x3d : 	 [C04-00149E](./Model3d/x3d/C04-00149E.x3d)
-- Package 3d model scad : 	 [C04-00149E](./Model3d/scad/C04-00149E.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00149E.pdf](./mchp/packages/c04-00149e.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00149E.wrl) : 	 [C04-00149E.wrl](./Model3d/wrl/C04-00149E.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00149E.x3d) : 	 [C04-00149E.x3d](./Model3d/x3d/C04-00149E.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00149E.scad) : 	 [C04-00149E.scad](./Model3d/scad/C04-00149E.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX530F128L
 
@@ -5100,16 +6054,21 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX530F128L
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00110C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00110C](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 E5X
 - Package Type : 	 TQFP
 - Pin count : 	 100,00
-- Package Layout : 	 [C04-00110C](./mchp/packages/C04-00110C.pdf)
-- Package 3d model scad : 	 [C04-00110C](./Model3d/scad/C04-00110C.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00110C.pdf](./mchp/packages/c04-00110c.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00110C.scad) : 	 [C04-00110C.scad](./Model3d/scad/C04-00110C.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX534F064H
 
@@ -5126,18 +6085,23 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX534F064H
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 R4X
 - Package Type : 	 QFN
 - Pin count : 	 64,00
-- Package Layout : 	 [C04-00149E](./mchp/packages/C04-00149E.pdf)
-- Package 3d model wrl : 	 [C04-00149E](./Model3d/wrl/C04-00149E.wrl)
-- Package 3d model x3d : 	 [C04-00149E](./Model3d/x3d/C04-00149E.x3d)
-- Package 3d model scad : 	 [C04-00149E](./Model3d/scad/C04-00149E.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00149E.pdf](./mchp/packages/c04-00149e.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00149E.wrl) : 	 [C04-00149E.wrl](./Model3d/wrl/C04-00149E.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00149E.x3d) : 	 [C04-00149E.x3d](./Model3d/x3d/C04-00149E.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00149E.scad) : 	 [C04-00149E.scad](./Model3d/scad/C04-00149E.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX534F064H
 
@@ -5154,18 +6118,23 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX534F064H
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 R4X
 - Package Type : 	 QFN
 - Pin count : 	 64,00
-- Package Layout : 	 [C04-00149E](./mchp/packages/C04-00149E.pdf)
-- Package 3d model wrl : 	 [C04-00149E](./Model3d/wrl/C04-00149E.wrl)
-- Package 3d model x3d : 	 [C04-00149E](./Model3d/x3d/C04-00149E.x3d)
-- Package 3d model scad : 	 [C04-00149E](./Model3d/scad/C04-00149E.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00149E.pdf](./mchp/packages/c04-00149e.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00149E.wrl) : 	 [C04-00149E.wrl](./Model3d/wrl/C04-00149E.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00149E.x3d) : 	 [C04-00149E.x3d](./Model3d/x3d/C04-00149E.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00149E.scad) : 	 [C04-00149E.scad](./Model3d/scad/C04-00149E.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX534F064L
 
@@ -5182,18 +6151,23 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX534F064L
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00148F](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00148F](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 2XX
 - Package Type : 	 TFBGA
 - Pin count : 	 121,00
-- Package Layout : 	 [C04-00148F](./mchp/packages/C04-00148F.pdf)
-- Package 3d model wrl : 	 [C04-00148F](./Model3d/wrl/C04-00148F.wrl)
-- Package 3d model x3d : 	 [C04-00148F](./Model3d/x3d/C04-00148F.x3d)
-- Package 3d model scad : 	 [C04-00148F](./Model3d/scad/C04-00148F.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00148F.pdf](./mchp/packages/c04-00148f.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00148F.wrl) : 	 [C04-00148F.wrl](./Model3d/wrl/C04-00148F.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00148F.x3d) : 	 [C04-00148F.x3d](./Model3d/x3d/C04-00148F.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00148F.scad) : 	 [C04-00148F.scad](./Model3d/scad/C04-00148F.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX534F064L
 
@@ -5210,18 +6184,23 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX534F064L
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00148F](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00148F](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 2XX
 - Package Type : 	 TFBGA
 - Pin count : 	 121,00
-- Package Layout : 	 [C04-00148F](./mchp/packages/C04-00148F.pdf)
-- Package 3d model wrl : 	 [C04-00148F](./Model3d/wrl/C04-00148F.wrl)
-- Package 3d model x3d : 	 [C04-00148F](./Model3d/x3d/C04-00148F.x3d)
-- Package 3d model scad : 	 [C04-00148F](./Model3d/scad/C04-00148F.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00148F.pdf](./mchp/packages/c04-00148f.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00148F.wrl) : 	 [C04-00148F.wrl](./Model3d/wrl/C04-00148F.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00148F.x3d) : 	 [C04-00148F.x3d](./Model3d/x3d/C04-00148F.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00148F.scad) : 	 [C04-00148F.scad](./Model3d/scad/C04-00148F.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX550F256H
 
@@ -5238,18 +6217,23 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX550F256H
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 R4X
 - Package Type : 	 QFN
 - Pin count : 	 64,00
-- Package Layout : 	 [C04-00149E](./mchp/packages/C04-00149E.pdf)
-- Package 3d model wrl : 	 [C04-00149E](./Model3d/wrl/C04-00149E.wrl)
-- Package 3d model x3d : 	 [C04-00149E](./Model3d/x3d/C04-00149E.x3d)
-- Package 3d model scad : 	 [C04-00149E](./Model3d/scad/C04-00149E.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00149E.pdf](./mchp/packages/c04-00149e.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00149E.wrl) : 	 [C04-00149E.wrl](./Model3d/wrl/C04-00149E.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00149E.x3d) : 	 [C04-00149E.x3d](./Model3d/x3d/C04-00149E.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00149E.scad) : 	 [C04-00149E.scad](./Model3d/scad/C04-00149E.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX550F256H
 
@@ -5266,18 +6250,23 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX550F256H
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 R4X
 - Package Type : 	 QFN
 - Pin count : 	 64,00
-- Package Layout : 	 [C04-00149E](./mchp/packages/C04-00149E.pdf)
-- Package 3d model wrl : 	 [C04-00149E](./Model3d/wrl/C04-00149E.wrl)
-- Package 3d model x3d : 	 [C04-00149E](./Model3d/x3d/C04-00149E.x3d)
-- Package 3d model scad : 	 [C04-00149E](./Model3d/scad/C04-00149E.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00149E.pdf](./mchp/packages/c04-00149e.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00149E.wrl) : 	 [C04-00149E.wrl](./Model3d/wrl/C04-00149E.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00149E.x3d) : 	 [C04-00149E.x3d](./Model3d/x3d/C04-00149E.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00149E.scad) : 	 [C04-00149E.scad](./Model3d/scad/C04-00149E.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX550F256L
 
@@ -5294,16 +6283,21 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX550F256L
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00110C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00110C](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 E5X
 - Package Type : 	 TQFP
 - Pin count : 	 100,00
-- Package Layout : 	 [C04-00110C](./mchp/packages/C04-00110C.pdf)
-- Package 3d model scad : 	 [C04-00110C](./Model3d/scad/C04-00110C.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00110C.pdf](./mchp/packages/c04-00110c.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00110C.scad) : 	 [C04-00110C.scad](./Model3d/scad/C04-00110C.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX564F064H
 
@@ -5320,18 +6314,23 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX564F064H
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 R4X
 - Package Type : 	 QFN
 - Pin count : 	 64,00
-- Package Layout : 	 [C04-00149E](./mchp/packages/C04-00149E.pdf)
-- Package 3d model wrl : 	 [C04-00149E](./Model3d/wrl/C04-00149E.wrl)
-- Package 3d model x3d : 	 [C04-00149E](./Model3d/x3d/C04-00149E.x3d)
-- Package 3d model scad : 	 [C04-00149E](./Model3d/scad/C04-00149E.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00149E.pdf](./mchp/packages/c04-00149e.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00149E.wrl) : 	 [C04-00149E.wrl](./Model3d/wrl/C04-00149E.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00149E.x3d) : 	 [C04-00149E.x3d](./Model3d/x3d/C04-00149E.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00149E.scad) : 	 [C04-00149E.scad](./Model3d/scad/C04-00149E.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX564F064H
 
@@ -5348,18 +6347,23 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX564F064H
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 R4X
 - Package Type : 	 QFN
 - Pin count : 	 64,00
-- Package Layout : 	 [C04-00149E](./mchp/packages/C04-00149E.pdf)
-- Package 3d model wrl : 	 [C04-00149E](./Model3d/wrl/C04-00149E.wrl)
-- Package 3d model x3d : 	 [C04-00149E](./Model3d/x3d/C04-00149E.x3d)
-- Package 3d model scad : 	 [C04-00149E](./Model3d/scad/C04-00149E.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00149E.pdf](./mchp/packages/c04-00149e.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00149E.wrl) : 	 [C04-00149E.wrl](./Model3d/wrl/C04-00149E.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00149E.x3d) : 	 [C04-00149E.x3d](./Model3d/x3d/C04-00149E.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00149E.scad) : 	 [C04-00149E.scad](./Model3d/scad/C04-00149E.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX564F064L
 
@@ -5376,18 +6380,23 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX564F064L
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00148F](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00148F](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 2XX
 - Package Type : 	 TFBGA
 - Pin count : 	 121,00
-- Package Layout : 	 [C04-00148F](./mchp/packages/C04-00148F.pdf)
-- Package 3d model wrl : 	 [C04-00148F](./Model3d/wrl/C04-00148F.wrl)
-- Package 3d model x3d : 	 [C04-00148F](./Model3d/x3d/C04-00148F.x3d)
-- Package 3d model scad : 	 [C04-00148F](./Model3d/scad/C04-00148F.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00148F.pdf](./mchp/packages/c04-00148f.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00148F.wrl) : 	 [C04-00148F.wrl](./Model3d/wrl/C04-00148F.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00148F.x3d) : 	 [C04-00148F.x3d](./Model3d/x3d/C04-00148F.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00148F.scad) : 	 [C04-00148F.scad](./Model3d/scad/C04-00148F.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX564F064L
 
@@ -5404,18 +6413,23 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX564F064L
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00148F](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00148F](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 2XX
 - Package Type : 	 TFBGA
 - Pin count : 	 121,00
-- Package Layout : 	 [C04-00148F](./mchp/packages/C04-00148F.pdf)
-- Package 3d model wrl : 	 [C04-00148F](./Model3d/wrl/C04-00148F.wrl)
-- Package 3d model x3d : 	 [C04-00148F](./Model3d/x3d/C04-00148F.x3d)
-- Package 3d model scad : 	 [C04-00148F](./Model3d/scad/C04-00148F.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00148F.pdf](./mchp/packages/c04-00148f.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00148F.wrl) : 	 [C04-00148F.wrl](./Model3d/wrl/C04-00148F.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00148F.x3d) : 	 [C04-00148F.x3d](./Model3d/x3d/C04-00148F.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00148F.scad) : 	 [C04-00148F.scad](./Model3d/scad/C04-00148F.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX564F128H
 
@@ -5432,18 +6446,23 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX564F128H
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 R4X
 - Package Type : 	 QFN
 - Pin count : 	 64,00
-- Package Layout : 	 [C04-00149E](./mchp/packages/C04-00149E.pdf)
-- Package 3d model wrl : 	 [C04-00149E](./Model3d/wrl/C04-00149E.wrl)
-- Package 3d model x3d : 	 [C04-00149E](./Model3d/x3d/C04-00149E.x3d)
-- Package 3d model scad : 	 [C04-00149E](./Model3d/scad/C04-00149E.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00149E.pdf](./mchp/packages/c04-00149e.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00149E.wrl) : 	 [C04-00149E.wrl](./Model3d/wrl/C04-00149E.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00149E.x3d) : 	 [C04-00149E.x3d](./Model3d/x3d/C04-00149E.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00149E.scad) : 	 [C04-00149E.scad](./Model3d/scad/C04-00149E.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX564F128H
 
@@ -5460,18 +6479,23 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX564F128H
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 R4X
 - Package Type : 	 QFN
 - Pin count : 	 64,00
-- Package Layout : 	 [C04-00149E](./mchp/packages/C04-00149E.pdf)
-- Package 3d model wrl : 	 [C04-00149E](./Model3d/wrl/C04-00149E.wrl)
-- Package 3d model x3d : 	 [C04-00149E](./Model3d/x3d/C04-00149E.x3d)
-- Package 3d model scad : 	 [C04-00149E](./Model3d/scad/C04-00149E.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00149E.pdf](./mchp/packages/c04-00149e.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00149E.wrl) : 	 [C04-00149E.wrl](./Model3d/wrl/C04-00149E.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00149E.x3d) : 	 [C04-00149E.x3d](./Model3d/x3d/C04-00149E.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00149E.scad) : 	 [C04-00149E.scad](./Model3d/scad/C04-00149E.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX564F128L
 
@@ -5488,18 +6512,23 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX564F128L
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00148F](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00148F](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 2XX
 - Package Type : 	 TFBGA
 - Pin count : 	 121,00
-- Package Layout : 	 [C04-00148F](./mchp/packages/C04-00148F.pdf)
-- Package 3d model wrl : 	 [C04-00148F](./Model3d/wrl/C04-00148F.wrl)
-- Package 3d model x3d : 	 [C04-00148F](./Model3d/x3d/C04-00148F.x3d)
-- Package 3d model scad : 	 [C04-00148F](./Model3d/scad/C04-00148F.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00148F.pdf](./mchp/packages/c04-00148f.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00148F.wrl) : 	 [C04-00148F.wrl](./Model3d/wrl/C04-00148F.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00148F.x3d) : 	 [C04-00148F.x3d](./Model3d/x3d/C04-00148F.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00148F.scad) : 	 [C04-00148F.scad](./Model3d/scad/C04-00148F.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX564F128L
 
@@ -5516,18 +6545,23 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX564F128L
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00148F](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00148F](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 2XX
 - Package Type : 	 TFBGA
 - Pin count : 	 121,00
-- Package Layout : 	 [C04-00148F](./mchp/packages/C04-00148F.pdf)
-- Package 3d model wrl : 	 [C04-00148F](./Model3d/wrl/C04-00148F.wrl)
-- Package 3d model x3d : 	 [C04-00148F](./Model3d/x3d/C04-00148F.x3d)
-- Package 3d model scad : 	 [C04-00148F](./Model3d/scad/C04-00148F.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00148F.pdf](./mchp/packages/c04-00148f.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00148F.wrl) : 	 [C04-00148F.wrl](./Model3d/wrl/C04-00148F.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00148F.x3d) : 	 [C04-00148F.x3d](./Model3d/x3d/C04-00148F.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00148F.scad) : 	 [C04-00148F.scad](./Model3d/scad/C04-00148F.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX570F512H
 
@@ -5544,18 +6578,23 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX570F512H
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 R4X
 - Package Type : 	 QFN
 - Pin count : 	 64,00
-- Package Layout : 	 [C04-00149E](./mchp/packages/C04-00149E.pdf)
-- Package 3d model wrl : 	 [C04-00149E](./Model3d/wrl/C04-00149E.wrl)
-- Package 3d model x3d : 	 [C04-00149E](./Model3d/x3d/C04-00149E.x3d)
-- Package 3d model scad : 	 [C04-00149E](./Model3d/scad/C04-00149E.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00149E.pdf](./mchp/packages/c04-00149e.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00149E.wrl) : 	 [C04-00149E.wrl](./Model3d/wrl/C04-00149E.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00149E.x3d) : 	 [C04-00149E.x3d](./Model3d/x3d/C04-00149E.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00149E.scad) : 	 [C04-00149E.scad](./Model3d/scad/C04-00149E.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX570F512H
 
@@ -5572,18 +6611,23 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX570F512H
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 R4X
 - Package Type : 	 QFN
 - Pin count : 	 64,00
-- Package Layout : 	 [C04-00149E](./mchp/packages/C04-00149E.pdf)
-- Package 3d model wrl : 	 [C04-00149E](./Model3d/wrl/C04-00149E.wrl)
-- Package 3d model x3d : 	 [C04-00149E](./Model3d/x3d/C04-00149E.x3d)
-- Package 3d model scad : 	 [C04-00149E](./Model3d/scad/C04-00149E.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00149E.pdf](./mchp/packages/c04-00149e.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00149E.wrl) : 	 [C04-00149E.wrl](./Model3d/wrl/C04-00149E.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00149E.x3d) : 	 [C04-00149E.x3d](./Model3d/x3d/C04-00149E.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00149E.scad) : 	 [C04-00149E.scad](./Model3d/scad/C04-00149E.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX570F512L
 
@@ -5600,16 +6644,21 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX570F512L
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00110C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00110C](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 E5X
 - Package Type : 	 TQFP
 - Pin count : 	 100,00
-- Package Layout : 	 [C04-00110C](./mchp/packages/C04-00110C.pdf)
-- Package 3d model scad : 	 [C04-00110C](./Model3d/scad/C04-00110C.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00110C.pdf](./mchp/packages/c04-00110c.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00110C.scad) : 	 [C04-00110C.scad](./Model3d/scad/C04-00110C.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX575F256H
 
@@ -5626,18 +6675,23 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX575F256H
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 R4X
 - Package Type : 	 QFN
 - Pin count : 	 64,00
-- Package Layout : 	 [C04-00149E](./mchp/packages/C04-00149E.pdf)
-- Package 3d model wrl : 	 [C04-00149E](./Model3d/wrl/C04-00149E.wrl)
-- Package 3d model x3d : 	 [C04-00149E](./Model3d/x3d/C04-00149E.x3d)
-- Package 3d model scad : 	 [C04-00149E](./Model3d/scad/C04-00149E.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00149E.pdf](./mchp/packages/c04-00149e.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00149E.wrl) : 	 [C04-00149E.wrl](./Model3d/wrl/C04-00149E.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00149E.x3d) : 	 [C04-00149E.x3d](./Model3d/x3d/C04-00149E.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00149E.scad) : 	 [C04-00149E.scad](./Model3d/scad/C04-00149E.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX575F256H
 
@@ -5654,18 +6708,23 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX575F256H
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 R4X
 - Package Type : 	 QFN
 - Pin count : 	 64,00
-- Package Layout : 	 [C04-00149E](./mchp/packages/C04-00149E.pdf)
-- Package 3d model wrl : 	 [C04-00149E](./Model3d/wrl/C04-00149E.wrl)
-- Package 3d model x3d : 	 [C04-00149E](./Model3d/x3d/C04-00149E.x3d)
-- Package 3d model scad : 	 [C04-00149E](./Model3d/scad/C04-00149E.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00149E.pdf](./mchp/packages/c04-00149e.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00149E.wrl) : 	 [C04-00149E.wrl](./Model3d/wrl/C04-00149E.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00149E.x3d) : 	 [C04-00149E.x3d](./Model3d/x3d/C04-00149E.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00149E.scad) : 	 [C04-00149E.scad](./Model3d/scad/C04-00149E.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX575F256L
 
@@ -5682,18 +6741,23 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX575F256L
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00148F](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00148F](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 2XX
 - Package Type : 	 TFBGA
 - Pin count : 	 121,00
-- Package Layout : 	 [C04-00148F](./mchp/packages/C04-00148F.pdf)
-- Package 3d model wrl : 	 [C04-00148F](./Model3d/wrl/C04-00148F.wrl)
-- Package 3d model x3d : 	 [C04-00148F](./Model3d/x3d/C04-00148F.x3d)
-- Package 3d model scad : 	 [C04-00148F](./Model3d/scad/C04-00148F.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00148F.pdf](./mchp/packages/c04-00148f.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00148F.wrl) : 	 [C04-00148F.wrl](./Model3d/wrl/C04-00148F.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00148F.x3d) : 	 [C04-00148F.x3d](./Model3d/x3d/C04-00148F.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00148F.scad) : 	 [C04-00148F.scad](./Model3d/scad/C04-00148F.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX575F256L
 
@@ -5710,18 +6774,23 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX575F256L
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00148F](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00148F](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 2XX
 - Package Type : 	 TFBGA
 - Pin count : 	 121,00
-- Package Layout : 	 [C04-00148F](./mchp/packages/C04-00148F.pdf)
-- Package 3d model wrl : 	 [C04-00148F](./Model3d/wrl/C04-00148F.wrl)
-- Package 3d model x3d : 	 [C04-00148F](./Model3d/x3d/C04-00148F.x3d)
-- Package 3d model scad : 	 [C04-00148F](./Model3d/scad/C04-00148F.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00148F.pdf](./mchp/packages/c04-00148f.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00148F.wrl) : 	 [C04-00148F.wrl](./Model3d/wrl/C04-00148F.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00148F.x3d) : 	 [C04-00148F.x3d](./Model3d/x3d/C04-00148F.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00148F.scad) : 	 [C04-00148F.scad](./Model3d/scad/C04-00148F.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX575F512H
 
@@ -5738,18 +6807,23 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX575F512H
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 R4X
 - Package Type : 	 QFN
 - Pin count : 	 64,00
-- Package Layout : 	 [C04-00149E](./mchp/packages/C04-00149E.pdf)
-- Package 3d model wrl : 	 [C04-00149E](./Model3d/wrl/C04-00149E.wrl)
-- Package 3d model x3d : 	 [C04-00149E](./Model3d/x3d/C04-00149E.x3d)
-- Package 3d model scad : 	 [C04-00149E](./Model3d/scad/C04-00149E.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00149E.pdf](./mchp/packages/c04-00149e.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00149E.wrl) : 	 [C04-00149E.wrl](./Model3d/wrl/C04-00149E.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00149E.x3d) : 	 [C04-00149E.x3d](./Model3d/x3d/C04-00149E.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00149E.scad) : 	 [C04-00149E.scad](./Model3d/scad/C04-00149E.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX575F512H
 
@@ -5766,18 +6840,23 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX575F512H
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 R4X
 - Package Type : 	 QFN
 - Pin count : 	 64,00
-- Package Layout : 	 [C04-00149E](./mchp/packages/C04-00149E.pdf)
-- Package 3d model wrl : 	 [C04-00149E](./Model3d/wrl/C04-00149E.wrl)
-- Package 3d model x3d : 	 [C04-00149E](./Model3d/x3d/C04-00149E.x3d)
-- Package 3d model scad : 	 [C04-00149E](./Model3d/scad/C04-00149E.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00149E.pdf](./mchp/packages/c04-00149e.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00149E.wrl) : 	 [C04-00149E.wrl](./Model3d/wrl/C04-00149E.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00149E.x3d) : 	 [C04-00149E.x3d](./Model3d/x3d/C04-00149E.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00149E.scad) : 	 [C04-00149E.scad](./Model3d/scad/C04-00149E.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX575F512L
 
@@ -5794,18 +6873,23 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX575F512L
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00148F](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00148F](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 2XX
 - Package Type : 	 TFBGA
 - Pin count : 	 121,00
-- Package Layout : 	 [C04-00148F](./mchp/packages/C04-00148F.pdf)
-- Package 3d model wrl : 	 [C04-00148F](./Model3d/wrl/C04-00148F.wrl)
-- Package 3d model x3d : 	 [C04-00148F](./Model3d/x3d/C04-00148F.x3d)
-- Package 3d model scad : 	 [C04-00148F](./Model3d/scad/C04-00148F.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00148F.pdf](./mchp/packages/c04-00148f.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00148F.wrl) : 	 [C04-00148F.wrl](./Model3d/wrl/C04-00148F.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00148F.x3d) : 	 [C04-00148F.x3d](./Model3d/x3d/C04-00148F.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00148F.scad) : 	 [C04-00148F.scad](./Model3d/scad/C04-00148F.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX575F512L
 
@@ -5822,18 +6906,23 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX575F512L
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00148F](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00148F](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 2XX
 - Package Type : 	 TFBGA
 - Pin count : 	 121,00
-- Package Layout : 	 [C04-00148F](./mchp/packages/C04-00148F.pdf)
-- Package 3d model wrl : 	 [C04-00148F](./Model3d/wrl/C04-00148F.wrl)
-- Package 3d model x3d : 	 [C04-00148F](./Model3d/x3d/C04-00148F.x3d)
-- Package 3d model scad : 	 [C04-00148F](./Model3d/scad/C04-00148F.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00148F.pdf](./mchp/packages/c04-00148f.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00148F.wrl) : 	 [C04-00148F.wrl](./Model3d/wrl/C04-00148F.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00148F.x3d) : 	 [C04-00148F.x3d](./Model3d/x3d/C04-00148F.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00148F.scad) : 	 [C04-00148F.scad](./Model3d/scad/C04-00148F.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX664F064H
 
@@ -5850,18 +6939,23 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX664F064H
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 R4X
 - Package Type : 	 QFN
 - Pin count : 	 64,00
-- Package Layout : 	 [C04-00149E](./mchp/packages/C04-00149E.pdf)
-- Package 3d model wrl : 	 [C04-00149E](./Model3d/wrl/C04-00149E.wrl)
-- Package 3d model x3d : 	 [C04-00149E](./Model3d/x3d/C04-00149E.x3d)
-- Package 3d model scad : 	 [C04-00149E](./Model3d/scad/C04-00149E.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00149E.pdf](./mchp/packages/c04-00149e.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00149E.wrl) : 	 [C04-00149E.wrl](./Model3d/wrl/C04-00149E.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00149E.x3d) : 	 [C04-00149E.x3d](./Model3d/x3d/C04-00149E.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00149E.scad) : 	 [C04-00149E.scad](./Model3d/scad/C04-00149E.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX664F064H
 
@@ -5878,18 +6972,23 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX664F064H
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 R4X
 - Package Type : 	 QFN
 - Pin count : 	 64,00
-- Package Layout : 	 [C04-00149E](./mchp/packages/C04-00149E.pdf)
-- Package 3d model wrl : 	 [C04-00149E](./Model3d/wrl/C04-00149E.wrl)
-- Package 3d model x3d : 	 [C04-00149E](./Model3d/x3d/C04-00149E.x3d)
-- Package 3d model scad : 	 [C04-00149E](./Model3d/scad/C04-00149E.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00149E.pdf](./mchp/packages/c04-00149e.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00149E.wrl) : 	 [C04-00149E.wrl](./Model3d/wrl/C04-00149E.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00149E.x3d) : 	 [C04-00149E.x3d](./Model3d/x3d/C04-00149E.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00149E.scad) : 	 [C04-00149E.scad](./Model3d/scad/C04-00149E.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX664F064L
 
@@ -5906,18 +7005,23 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX664F064L
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00148F](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00148F](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 2XX
 - Package Type : 	 TFBGA
 - Pin count : 	 121,00
-- Package Layout : 	 [C04-00148F](./mchp/packages/C04-00148F.pdf)
-- Package 3d model wrl : 	 [C04-00148F](./Model3d/wrl/C04-00148F.wrl)
-- Package 3d model x3d : 	 [C04-00148F](./Model3d/x3d/C04-00148F.x3d)
-- Package 3d model scad : 	 [C04-00148F](./Model3d/scad/C04-00148F.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00148F.pdf](./mchp/packages/c04-00148f.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00148F.wrl) : 	 [C04-00148F.wrl](./Model3d/wrl/C04-00148F.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00148F.x3d) : 	 [C04-00148F.x3d](./Model3d/x3d/C04-00148F.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00148F.scad) : 	 [C04-00148F.scad](./Model3d/scad/C04-00148F.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX664F064L
 
@@ -5934,18 +7038,23 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX664F064L
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00148F](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00148F](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 2XX
 - Package Type : 	 TFBGA
 - Pin count : 	 121,00
-- Package Layout : 	 [C04-00148F](./mchp/packages/C04-00148F.pdf)
-- Package 3d model wrl : 	 [C04-00148F](./Model3d/wrl/C04-00148F.wrl)
-- Package 3d model x3d : 	 [C04-00148F](./Model3d/x3d/C04-00148F.x3d)
-- Package 3d model scad : 	 [C04-00148F](./Model3d/scad/C04-00148F.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00148F.pdf](./mchp/packages/c04-00148f.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00148F.wrl) : 	 [C04-00148F.wrl](./Model3d/wrl/C04-00148F.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00148F.x3d) : 	 [C04-00148F.x3d](./Model3d/x3d/C04-00148F.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00148F.scad) : 	 [C04-00148F.scad](./Model3d/scad/C04-00148F.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX664F128H
 
@@ -5962,18 +7071,23 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX664F128H
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 R4X
 - Package Type : 	 QFN
 - Pin count : 	 64,00
-- Package Layout : 	 [C04-00149E](./mchp/packages/C04-00149E.pdf)
-- Package 3d model wrl : 	 [C04-00149E](./Model3d/wrl/C04-00149E.wrl)
-- Package 3d model x3d : 	 [C04-00149E](./Model3d/x3d/C04-00149E.x3d)
-- Package 3d model scad : 	 [C04-00149E](./Model3d/scad/C04-00149E.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00149E.pdf](./mchp/packages/c04-00149e.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00149E.wrl) : 	 [C04-00149E.wrl](./Model3d/wrl/C04-00149E.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00149E.x3d) : 	 [C04-00149E.x3d](./Model3d/x3d/C04-00149E.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00149E.scad) : 	 [C04-00149E.scad](./Model3d/scad/C04-00149E.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX664F128H
 
@@ -5990,18 +7104,23 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX664F128H
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 R4X
 - Package Type : 	 QFN
 - Pin count : 	 64,00
-- Package Layout : 	 [C04-00149E](./mchp/packages/C04-00149E.pdf)
-- Package 3d model wrl : 	 [C04-00149E](./Model3d/wrl/C04-00149E.wrl)
-- Package 3d model x3d : 	 [C04-00149E](./Model3d/x3d/C04-00149E.x3d)
-- Package 3d model scad : 	 [C04-00149E](./Model3d/scad/C04-00149E.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00149E.pdf](./mchp/packages/c04-00149e.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00149E.wrl) : 	 [C04-00149E.wrl](./Model3d/wrl/C04-00149E.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00149E.x3d) : 	 [C04-00149E.x3d](./Model3d/x3d/C04-00149E.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00149E.scad) : 	 [C04-00149E.scad](./Model3d/scad/C04-00149E.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX664F128L
 
@@ -6018,18 +7137,23 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX664F128L
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00148F](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00148F](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 2XX
 - Package Type : 	 TFBGA
 - Pin count : 	 121,00
-- Package Layout : 	 [C04-00148F](./mchp/packages/C04-00148F.pdf)
-- Package 3d model wrl : 	 [C04-00148F](./Model3d/wrl/C04-00148F.wrl)
-- Package 3d model x3d : 	 [C04-00148F](./Model3d/x3d/C04-00148F.x3d)
-- Package 3d model scad : 	 [C04-00148F](./Model3d/scad/C04-00148F.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00148F.pdf](./mchp/packages/c04-00148f.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00148F.wrl) : 	 [C04-00148F.wrl](./Model3d/wrl/C04-00148F.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00148F.x3d) : 	 [C04-00148F.x3d](./Model3d/x3d/C04-00148F.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00148F.scad) : 	 [C04-00148F.scad](./Model3d/scad/C04-00148F.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX664F128L
 
@@ -6046,18 +7170,23 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX664F128L
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00148F](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00148F](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 2XX
 - Package Type : 	 TFBGA
 - Pin count : 	 121,00
-- Package Layout : 	 [C04-00148F](./mchp/packages/C04-00148F.pdf)
-- Package 3d model wrl : 	 [C04-00148F](./Model3d/wrl/C04-00148F.wrl)
-- Package 3d model x3d : 	 [C04-00148F](./Model3d/x3d/C04-00148F.x3d)
-- Package 3d model scad : 	 [C04-00148F](./Model3d/scad/C04-00148F.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00148F.pdf](./mchp/packages/c04-00148f.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00148F.wrl) : 	 [C04-00148F.wrl](./Model3d/wrl/C04-00148F.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00148F.x3d) : 	 [C04-00148F.x3d](./Model3d/x3d/C04-00148F.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00148F.scad) : 	 [C04-00148F.scad](./Model3d/scad/C04-00148F.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX675F256H
 
@@ -6074,18 +7203,23 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX675F256H
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 R4X
 - Package Type : 	 QFN
 - Pin count : 	 64,00
-- Package Layout : 	 [C04-00149E](./mchp/packages/C04-00149E.pdf)
-- Package 3d model wrl : 	 [C04-00149E](./Model3d/wrl/C04-00149E.wrl)
-- Package 3d model x3d : 	 [C04-00149E](./Model3d/x3d/C04-00149E.x3d)
-- Package 3d model scad : 	 [C04-00149E](./Model3d/scad/C04-00149E.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00149E.pdf](./mchp/packages/c04-00149e.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00149E.wrl) : 	 [C04-00149E.wrl](./Model3d/wrl/C04-00149E.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00149E.x3d) : 	 [C04-00149E.x3d](./Model3d/x3d/C04-00149E.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00149E.scad) : 	 [C04-00149E.scad](./Model3d/scad/C04-00149E.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX675F256H
 
@@ -6102,18 +7236,23 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX675F256H
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 R4X
 - Package Type : 	 QFN
 - Pin count : 	 64,00
-- Package Layout : 	 [C04-00149E](./mchp/packages/C04-00149E.pdf)
-- Package 3d model wrl : 	 [C04-00149E](./Model3d/wrl/C04-00149E.wrl)
-- Package 3d model x3d : 	 [C04-00149E](./Model3d/x3d/C04-00149E.x3d)
-- Package 3d model scad : 	 [C04-00149E](./Model3d/scad/C04-00149E.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00149E.pdf](./mchp/packages/c04-00149e.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00149E.wrl) : 	 [C04-00149E.wrl](./Model3d/wrl/C04-00149E.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00149E.x3d) : 	 [C04-00149E.x3d](./Model3d/x3d/C04-00149E.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00149E.scad) : 	 [C04-00149E.scad](./Model3d/scad/C04-00149E.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX675F256L
 
@@ -6130,18 +7269,23 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX675F256L
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00148F](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00148F](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 2XX
 - Package Type : 	 TFBGA
 - Pin count : 	 121,00
-- Package Layout : 	 [C04-00148F](./mchp/packages/C04-00148F.pdf)
-- Package 3d model wrl : 	 [C04-00148F](./Model3d/wrl/C04-00148F.wrl)
-- Package 3d model x3d : 	 [C04-00148F](./Model3d/x3d/C04-00148F.x3d)
-- Package 3d model scad : 	 [C04-00148F](./Model3d/scad/C04-00148F.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00148F.pdf](./mchp/packages/c04-00148f.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00148F.wrl) : 	 [C04-00148F.wrl](./Model3d/wrl/C04-00148F.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00148F.x3d) : 	 [C04-00148F.x3d](./Model3d/x3d/C04-00148F.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00148F.scad) : 	 [C04-00148F.scad](./Model3d/scad/C04-00148F.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX675F256L
 
@@ -6158,18 +7302,23 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX675F256L
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00148F](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00148F](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 2XX
 - Package Type : 	 TFBGA
 - Pin count : 	 121,00
-- Package Layout : 	 [C04-00148F](./mchp/packages/C04-00148F.pdf)
-- Package 3d model wrl : 	 [C04-00148F](./Model3d/wrl/C04-00148F.wrl)
-- Package 3d model x3d : 	 [C04-00148F](./Model3d/x3d/C04-00148F.x3d)
-- Package 3d model scad : 	 [C04-00148F](./Model3d/scad/C04-00148F.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00148F.pdf](./mchp/packages/c04-00148f.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00148F.wrl) : 	 [C04-00148F.wrl](./Model3d/wrl/C04-00148F.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00148F.x3d) : 	 [C04-00148F.x3d](./Model3d/x3d/C04-00148F.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00148F.scad) : 	 [C04-00148F.scad](./Model3d/scad/C04-00148F.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX675F512H
 
@@ -6186,18 +7335,23 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX675F512H
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 R4X
 - Package Type : 	 QFN
 - Pin count : 	 64,00
-- Package Layout : 	 [C04-00149E](./mchp/packages/C04-00149E.pdf)
-- Package 3d model wrl : 	 [C04-00149E](./Model3d/wrl/C04-00149E.wrl)
-- Package 3d model x3d : 	 [C04-00149E](./Model3d/x3d/C04-00149E.x3d)
-- Package 3d model scad : 	 [C04-00149E](./Model3d/scad/C04-00149E.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00149E.pdf](./mchp/packages/c04-00149e.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00149E.wrl) : 	 [C04-00149E.wrl](./Model3d/wrl/C04-00149E.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00149E.x3d) : 	 [C04-00149E.x3d](./Model3d/x3d/C04-00149E.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00149E.scad) : 	 [C04-00149E.scad](./Model3d/scad/C04-00149E.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX675F512H
 
@@ -6214,18 +7368,23 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX675F512H
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 R4X
 - Package Type : 	 QFN
 - Pin count : 	 64,00
-- Package Layout : 	 [C04-00149E](./mchp/packages/C04-00149E.pdf)
-- Package 3d model wrl : 	 [C04-00149E](./Model3d/wrl/C04-00149E.wrl)
-- Package 3d model x3d : 	 [C04-00149E](./Model3d/x3d/C04-00149E.x3d)
-- Package 3d model scad : 	 [C04-00149E](./Model3d/scad/C04-00149E.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00149E.pdf](./mchp/packages/c04-00149e.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00149E.wrl) : 	 [C04-00149E.wrl](./Model3d/wrl/C04-00149E.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00149E.x3d) : 	 [C04-00149E.x3d](./Model3d/x3d/C04-00149E.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00149E.scad) : 	 [C04-00149E.scad](./Model3d/scad/C04-00149E.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX675F512L
 
@@ -6242,18 +7401,23 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX675F512L
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00148F](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00148F](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 2XX
 - Package Type : 	 TFBGA
 - Pin count : 	 121,00
-- Package Layout : 	 [C04-00148F](./mchp/packages/C04-00148F.pdf)
-- Package 3d model wrl : 	 [C04-00148F](./Model3d/wrl/C04-00148F.wrl)
-- Package 3d model x3d : 	 [C04-00148F](./Model3d/x3d/C04-00148F.x3d)
-- Package 3d model scad : 	 [C04-00148F](./Model3d/scad/C04-00148F.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00148F.pdf](./mchp/packages/c04-00148f.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00148F.wrl) : 	 [C04-00148F.wrl](./Model3d/wrl/C04-00148F.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00148F.x3d) : 	 [C04-00148F.x3d](./Model3d/x3d/C04-00148F.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00148F.scad) : 	 [C04-00148F.scad](./Model3d/scad/C04-00148F.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX675F512L
 
@@ -6270,18 +7434,23 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX675F512L
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00148F](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00148F](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 2XX
 - Package Type : 	 TFBGA
 - Pin count : 	 121,00
-- Package Layout : 	 [C04-00148F](./mchp/packages/C04-00148F.pdf)
-- Package 3d model wrl : 	 [C04-00148F](./Model3d/wrl/C04-00148F.wrl)
-- Package 3d model x3d : 	 [C04-00148F](./Model3d/x3d/C04-00148F.x3d)
-- Package 3d model scad : 	 [C04-00148F](./Model3d/scad/C04-00148F.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00148F.pdf](./mchp/packages/c04-00148f.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00148F.wrl) : 	 [C04-00148F.wrl](./Model3d/wrl/C04-00148F.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00148F.x3d) : 	 [C04-00148F.x3d](./Model3d/x3d/C04-00148F.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00148F.scad) : 	 [C04-00148F.scad](./Model3d/scad/C04-00148F.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX675F512L
 
@@ -6298,18 +7467,23 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX675F512L
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00148F](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00148F](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 2XX
 - Package Type : 	 TFBGA
 - Pin count : 	 121,00
-- Package Layout : 	 [C04-00148F](./mchp/packages/C04-00148F.pdf)
-- Package 3d model wrl : 	 [C04-00148F](./Model3d/wrl/C04-00148F.wrl)
-- Package 3d model x3d : 	 [C04-00148F](./Model3d/x3d/C04-00148F.x3d)
-- Package 3d model scad : 	 [C04-00148F](./Model3d/scad/C04-00148F.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00148F.pdf](./mchp/packages/c04-00148f.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00148F.wrl) : 	 [C04-00148F.wrl](./Model3d/wrl/C04-00148F.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00148F.x3d) : 	 [C04-00148F.x3d](./Model3d/x3d/C04-00148F.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00148F.scad) : 	 [C04-00148F.scad](./Model3d/scad/C04-00148F.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX695F512H
 
@@ -6326,18 +7500,23 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX695F512H
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 R4X
 - Package Type : 	 QFN
 - Pin count : 	 64,00
-- Package Layout : 	 [C04-00149E](./mchp/packages/C04-00149E.pdf)
-- Package 3d model wrl : 	 [C04-00149E](./Model3d/wrl/C04-00149E.wrl)
-- Package 3d model x3d : 	 [C04-00149E](./Model3d/x3d/C04-00149E.x3d)
-- Package 3d model scad : 	 [C04-00149E](./Model3d/scad/C04-00149E.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00149E.pdf](./mchp/packages/c04-00149e.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00149E.wrl) : 	 [C04-00149E.wrl](./Model3d/wrl/C04-00149E.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00149E.x3d) : 	 [C04-00149E.x3d](./Model3d/x3d/C04-00149E.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00149E.scad) : 	 [C04-00149E.scad](./Model3d/scad/C04-00149E.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX695F512H
 
@@ -6354,18 +7533,23 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX695F512H
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 R4X
 - Package Type : 	 QFN
 - Pin count : 	 64,00
-- Package Layout : 	 [C04-00149E](./mchp/packages/C04-00149E.pdf)
-- Package 3d model wrl : 	 [C04-00149E](./Model3d/wrl/C04-00149E.wrl)
-- Package 3d model x3d : 	 [C04-00149E](./Model3d/x3d/C04-00149E.x3d)
-- Package 3d model scad : 	 [C04-00149E](./Model3d/scad/C04-00149E.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00149E.pdf](./mchp/packages/c04-00149e.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00149E.wrl) : 	 [C04-00149E.wrl](./Model3d/wrl/C04-00149E.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00149E.x3d) : 	 [C04-00149E.x3d](./Model3d/x3d/C04-00149E.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00149E.scad) : 	 [C04-00149E.scad](./Model3d/scad/C04-00149E.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX695F512L
 
@@ -6382,18 +7566,23 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX695F512L
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00148F](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00148F](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 2XX
 - Package Type : 	 TFBGA
 - Pin count : 	 121,00
-- Package Layout : 	 [C04-00148F](./mchp/packages/C04-00148F.pdf)
-- Package 3d model wrl : 	 [C04-00148F](./Model3d/wrl/C04-00148F.wrl)
-- Package 3d model x3d : 	 [C04-00148F](./Model3d/x3d/C04-00148F.x3d)
-- Package 3d model scad : 	 [C04-00148F](./Model3d/scad/C04-00148F.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00148F.pdf](./mchp/packages/c04-00148f.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00148F.wrl) : 	 [C04-00148F.wrl](./Model3d/wrl/C04-00148F.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00148F.x3d) : 	 [C04-00148F.x3d](./Model3d/x3d/C04-00148F.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00148F.scad) : 	 [C04-00148F.scad](./Model3d/scad/C04-00148F.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX695F512L
 
@@ -6410,18 +7599,23 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX695F512L
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00148F](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00148F](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 2XX
 - Package Type : 	 TFBGA
 - Pin count : 	 121,00
-- Package Layout : 	 [C04-00148F](./mchp/packages/C04-00148F.pdf)
-- Package 3d model wrl : 	 [C04-00148F](./Model3d/wrl/C04-00148F.wrl)
-- Package 3d model x3d : 	 [C04-00148F](./Model3d/x3d/C04-00148F.x3d)
-- Package 3d model scad : 	 [C04-00148F](./Model3d/scad/C04-00148F.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00148F.pdf](./mchp/packages/c04-00148f.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00148F.wrl) : 	 [C04-00148F.wrl](./Model3d/wrl/C04-00148F.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00148F.x3d) : 	 [C04-00148F.x3d](./Model3d/x3d/C04-00148F.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00148F.scad) : 	 [C04-00148F.scad](./Model3d/scad/C04-00148F.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX695F512L
 
@@ -6438,18 +7632,23 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX695F512L
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00148F](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00148F](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 2XX
 - Package Type : 	 TFBGA
 - Pin count : 	 121,00
-- Package Layout : 	 [C04-00148F](./mchp/packages/C04-00148F.pdf)
-- Package 3d model wrl : 	 [C04-00148F](./Model3d/wrl/C04-00148F.wrl)
-- Package 3d model x3d : 	 [C04-00148F](./Model3d/x3d/C04-00148F.x3d)
-- Package 3d model scad : 	 [C04-00148F](./Model3d/scad/C04-00148F.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00148F.pdf](./mchp/packages/c04-00148f.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00148F.wrl) : 	 [C04-00148F.wrl](./Model3d/wrl/C04-00148F.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00148F.x3d) : 	 [C04-00148F.x3d](./Model3d/x3d/C04-00148F.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00148F.scad) : 	 [C04-00148F.scad](./Model3d/scad/C04-00148F.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX764F128H
 
@@ -6466,18 +7665,23 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX764F128H
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 R4X
 - Package Type : 	 QFN
 - Pin count : 	 64,00
-- Package Layout : 	 [C04-00149E](./mchp/packages/C04-00149E.pdf)
-- Package 3d model wrl : 	 [C04-00149E](./Model3d/wrl/C04-00149E.wrl)
-- Package 3d model x3d : 	 [C04-00149E](./Model3d/x3d/C04-00149E.x3d)
-- Package 3d model scad : 	 [C04-00149E](./Model3d/scad/C04-00149E.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00149E.pdf](./mchp/packages/c04-00149e.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00149E.wrl) : 	 [C04-00149E.wrl](./Model3d/wrl/C04-00149E.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00149E.x3d) : 	 [C04-00149E.x3d](./Model3d/x3d/C04-00149E.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00149E.scad) : 	 [C04-00149E.scad](./Model3d/scad/C04-00149E.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX764F128H
 
@@ -6494,18 +7698,23 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX764F128H
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 R4X
 - Package Type : 	 QFN
 - Pin count : 	 64,00
-- Package Layout : 	 [C04-00149E](./mchp/packages/C04-00149E.pdf)
-- Package 3d model wrl : 	 [C04-00149E](./Model3d/wrl/C04-00149E.wrl)
-- Package 3d model x3d : 	 [C04-00149E](./Model3d/x3d/C04-00149E.x3d)
-- Package 3d model scad : 	 [C04-00149E](./Model3d/scad/C04-00149E.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00149E.pdf](./mchp/packages/c04-00149e.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00149E.wrl) : 	 [C04-00149E.wrl](./Model3d/wrl/C04-00149E.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00149E.x3d) : 	 [C04-00149E.x3d](./Model3d/x3d/C04-00149E.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00149E.scad) : 	 [C04-00149E.scad](./Model3d/scad/C04-00149E.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX764F128L
 
@@ -6522,18 +7731,23 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX764F128L
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00148F](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00148F](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 2XX
 - Package Type : 	 TFBGA
 - Pin count : 	 121,00
-- Package Layout : 	 [C04-00148F](./mchp/packages/C04-00148F.pdf)
-- Package 3d model wrl : 	 [C04-00148F](./Model3d/wrl/C04-00148F.wrl)
-- Package 3d model x3d : 	 [C04-00148F](./Model3d/x3d/C04-00148F.x3d)
-- Package 3d model scad : 	 [C04-00148F](./Model3d/scad/C04-00148F.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00148F.pdf](./mchp/packages/c04-00148f.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00148F.wrl) : 	 [C04-00148F.wrl](./Model3d/wrl/C04-00148F.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00148F.x3d) : 	 [C04-00148F.x3d](./Model3d/x3d/C04-00148F.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00148F.scad) : 	 [C04-00148F.scad](./Model3d/scad/C04-00148F.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX764F128L
 
@@ -6550,18 +7764,23 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX764F128L
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00148F](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00148F](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 2XX
 - Package Type : 	 TFBGA
 - Pin count : 	 121,00
-- Package Layout : 	 [C04-00148F](./mchp/packages/C04-00148F.pdf)
-- Package 3d model wrl : 	 [C04-00148F](./Model3d/wrl/C04-00148F.wrl)
-- Package 3d model x3d : 	 [C04-00148F](./Model3d/x3d/C04-00148F.x3d)
-- Package 3d model scad : 	 [C04-00148F](./Model3d/scad/C04-00148F.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00148F.pdf](./mchp/packages/c04-00148f.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00148F.wrl) : 	 [C04-00148F.wrl](./Model3d/wrl/C04-00148F.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00148F.x3d) : 	 [C04-00148F.x3d](./Model3d/x3d/C04-00148F.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00148F.scad) : 	 [C04-00148F.scad](./Model3d/scad/C04-00148F.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX775F256H
 
@@ -6578,18 +7797,23 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX775F256H
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 R4X
 - Package Type : 	 QFN
 - Pin count : 	 64,00
-- Package Layout : 	 [C04-00149E](./mchp/packages/C04-00149E.pdf)
-- Package 3d model wrl : 	 [C04-00149E](./Model3d/wrl/C04-00149E.wrl)
-- Package 3d model x3d : 	 [C04-00149E](./Model3d/x3d/C04-00149E.x3d)
-- Package 3d model scad : 	 [C04-00149E](./Model3d/scad/C04-00149E.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00149E.pdf](./mchp/packages/c04-00149e.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00149E.wrl) : 	 [C04-00149E.wrl](./Model3d/wrl/C04-00149E.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00149E.x3d) : 	 [C04-00149E.x3d](./Model3d/x3d/C04-00149E.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00149E.scad) : 	 [C04-00149E.scad](./Model3d/scad/C04-00149E.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX775F256H
 
@@ -6606,18 +7830,23 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX775F256H
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 R4X
 - Package Type : 	 QFN
 - Pin count : 	 64,00
-- Package Layout : 	 [C04-00149E](./mchp/packages/C04-00149E.pdf)
-- Package 3d model wrl : 	 [C04-00149E](./Model3d/wrl/C04-00149E.wrl)
-- Package 3d model x3d : 	 [C04-00149E](./Model3d/x3d/C04-00149E.x3d)
-- Package 3d model scad : 	 [C04-00149E](./Model3d/scad/C04-00149E.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00149E.pdf](./mchp/packages/c04-00149e.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00149E.wrl) : 	 [C04-00149E.wrl](./Model3d/wrl/C04-00149E.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00149E.x3d) : 	 [C04-00149E.x3d](./Model3d/x3d/C04-00149E.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00149E.scad) : 	 [C04-00149E.scad](./Model3d/scad/C04-00149E.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX775F256L
 
@@ -6634,18 +7863,23 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX775F256L
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00148F](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00148F](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 2XX
 - Package Type : 	 TFBGA
 - Pin count : 	 121,00
-- Package Layout : 	 [C04-00148F](./mchp/packages/C04-00148F.pdf)
-- Package 3d model wrl : 	 [C04-00148F](./Model3d/wrl/C04-00148F.wrl)
-- Package 3d model x3d : 	 [C04-00148F](./Model3d/x3d/C04-00148F.x3d)
-- Package 3d model scad : 	 [C04-00148F](./Model3d/scad/C04-00148F.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00148F.pdf](./mchp/packages/c04-00148f.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00148F.wrl) : 	 [C04-00148F.wrl](./Model3d/wrl/C04-00148F.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00148F.x3d) : 	 [C04-00148F.x3d](./Model3d/x3d/C04-00148F.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00148F.scad) : 	 [C04-00148F.scad](./Model3d/scad/C04-00148F.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX775F256L
 
@@ -6662,18 +7896,23 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX775F256L
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00148F](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00148F](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 2XX
 - Package Type : 	 TFBGA
 - Pin count : 	 121,00
-- Package Layout : 	 [C04-00148F](./mchp/packages/C04-00148F.pdf)
-- Package 3d model wrl : 	 [C04-00148F](./Model3d/wrl/C04-00148F.wrl)
-- Package 3d model x3d : 	 [C04-00148F](./Model3d/x3d/C04-00148F.x3d)
-- Package 3d model scad : 	 [C04-00148F](./Model3d/scad/C04-00148F.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00148F.pdf](./mchp/packages/c04-00148f.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00148F.wrl) : 	 [C04-00148F.wrl](./Model3d/wrl/C04-00148F.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00148F.x3d) : 	 [C04-00148F.x3d](./Model3d/x3d/C04-00148F.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00148F.scad) : 	 [C04-00148F.scad](./Model3d/scad/C04-00148F.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX775F512H
 
@@ -6690,18 +7929,23 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX775F512H
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 R4X
 - Package Type : 	 QFN
 - Pin count : 	 64,00
-- Package Layout : 	 [C04-00149E](./mchp/packages/C04-00149E.pdf)
-- Package 3d model wrl : 	 [C04-00149E](./Model3d/wrl/C04-00149E.wrl)
-- Package 3d model x3d : 	 [C04-00149E](./Model3d/x3d/C04-00149E.x3d)
-- Package 3d model scad : 	 [C04-00149E](./Model3d/scad/C04-00149E.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00149E.pdf](./mchp/packages/c04-00149e.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00149E.wrl) : 	 [C04-00149E.wrl](./Model3d/wrl/C04-00149E.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00149E.x3d) : 	 [C04-00149E.x3d](./Model3d/x3d/C04-00149E.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00149E.scad) : 	 [C04-00149E.scad](./Model3d/scad/C04-00149E.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX775F512H
 
@@ -6718,18 +7962,23 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX775F512H
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 R4X
 - Package Type : 	 QFN
 - Pin count : 	 64,00
-- Package Layout : 	 [C04-00149E](./mchp/packages/C04-00149E.pdf)
-- Package 3d model wrl : 	 [C04-00149E](./Model3d/wrl/C04-00149E.wrl)
-- Package 3d model x3d : 	 [C04-00149E](./Model3d/x3d/C04-00149E.x3d)
-- Package 3d model scad : 	 [C04-00149E](./Model3d/scad/C04-00149E.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00149E.pdf](./mchp/packages/c04-00149e.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00149E.wrl) : 	 [C04-00149E.wrl](./Model3d/wrl/C04-00149E.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00149E.x3d) : 	 [C04-00149E.x3d](./Model3d/x3d/C04-00149E.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00149E.scad) : 	 [C04-00149E.scad](./Model3d/scad/C04-00149E.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX775F512L
 
@@ -6746,18 +7995,23 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX775F512L
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00148F](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00148F](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 2XX
 - Package Type : 	 TFBGA
 - Pin count : 	 121,00
-- Package Layout : 	 [C04-00148F](./mchp/packages/C04-00148F.pdf)
-- Package 3d model wrl : 	 [C04-00148F](./Model3d/wrl/C04-00148F.wrl)
-- Package 3d model x3d : 	 [C04-00148F](./Model3d/x3d/C04-00148F.x3d)
-- Package 3d model scad : 	 [C04-00148F](./Model3d/scad/C04-00148F.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00148F.pdf](./mchp/packages/c04-00148f.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00148F.wrl) : 	 [C04-00148F.wrl](./Model3d/wrl/C04-00148F.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00148F.x3d) : 	 [C04-00148F.x3d](./Model3d/x3d/C04-00148F.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00148F.scad) : 	 [C04-00148F.scad](./Model3d/scad/C04-00148F.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX775F512L
 
@@ -6774,18 +8028,23 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX775F512L
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00148F](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00148F](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 2XX
 - Package Type : 	 TFBGA
 - Pin count : 	 121,00
-- Package Layout : 	 [C04-00148F](./mchp/packages/C04-00148F.pdf)
-- Package 3d model wrl : 	 [C04-00148F](./Model3d/wrl/C04-00148F.wrl)
-- Package 3d model x3d : 	 [C04-00148F](./Model3d/x3d/C04-00148F.x3d)
-- Package 3d model scad : 	 [C04-00148F](./Model3d/scad/C04-00148F.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00148F.pdf](./mchp/packages/c04-00148f.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00148F.wrl) : 	 [C04-00148F.wrl](./Model3d/wrl/C04-00148F.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00148F.x3d) : 	 [C04-00148F.x3d](./Model3d/x3d/C04-00148F.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00148F.scad) : 	 [C04-00148F.scad](./Model3d/scad/C04-00148F.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX795F512H
 
@@ -6802,18 +8061,23 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX795F512H
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 R4X
 - Package Type : 	 QFN
 - Pin count : 	 64,00
-- Package Layout : 	 [C04-00149E](./mchp/packages/C04-00149E.pdf)
-- Package 3d model wrl : 	 [C04-00149E](./Model3d/wrl/C04-00149E.wrl)
-- Package 3d model x3d : 	 [C04-00149E](./Model3d/x3d/C04-00149E.x3d)
-- Package 3d model scad : 	 [C04-00149E](./Model3d/scad/C04-00149E.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00149E.pdf](./mchp/packages/c04-00149e.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00149E.wrl) : 	 [C04-00149E.wrl](./Model3d/wrl/C04-00149E.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00149E.x3d) : 	 [C04-00149E.x3d](./Model3d/x3d/C04-00149E.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00149E.scad) : 	 [C04-00149E.scad](./Model3d/scad/C04-00149E.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX795F512H
 
@@ -6830,18 +8094,23 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX795F512H
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 R4X
 - Package Type : 	 QFN
 - Pin count : 	 64,00
-- Package Layout : 	 [C04-00149E](./mchp/packages/C04-00149E.pdf)
-- Package 3d model wrl : 	 [C04-00149E](./Model3d/wrl/C04-00149E.wrl)
-- Package 3d model x3d : 	 [C04-00149E](./Model3d/x3d/C04-00149E.x3d)
-- Package 3d model scad : 	 [C04-00149E](./Model3d/scad/C04-00149E.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00149E.pdf](./mchp/packages/c04-00149e.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00149E.wrl) : 	 [C04-00149E.wrl](./Model3d/wrl/C04-00149E.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00149E.x3d) : 	 [C04-00149E.x3d](./Model3d/x3d/C04-00149E.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00149E.scad) : 	 [C04-00149E.scad](./Model3d/scad/C04-00149E.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX795F512L
 
@@ -6858,18 +8127,23 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX795F512L
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00148F](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00148F](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 2XX
 - Package Type : 	 TFBGA
 - Pin count : 	 121,00
-- Package Layout : 	 [C04-00148F](./mchp/packages/C04-00148F.pdf)
-- Package 3d model wrl : 	 [C04-00148F](./Model3d/wrl/C04-00148F.wrl)
-- Package 3d model x3d : 	 [C04-00148F](./Model3d/x3d/C04-00148F.x3d)
-- Package 3d model scad : 	 [C04-00148F](./Model3d/scad/C04-00148F.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00148F.pdf](./mchp/packages/c04-00148f.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00148F.wrl) : 	 [C04-00148F.wrl](./Model3d/wrl/C04-00148F.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00148F.x3d) : 	 [C04-00148F.x3d](./Model3d/x3d/C04-00148F.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00148F.scad) : 	 [C04-00148F.scad](./Model3d/scad/C04-00148F.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX795F512L
 
@@ -6886,18 +8160,23 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX795F512L
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00148F](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00148F](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 2XX
 - Package Type : 	 TFBGA
 - Pin count : 	 121,00
-- Package Layout : 	 [C04-00148F](./mchp/packages/C04-00148F.pdf)
-- Package 3d model wrl : 	 [C04-00148F](./Model3d/wrl/C04-00148F.wrl)
-- Package 3d model x3d : 	 [C04-00148F](./Model3d/x3d/C04-00148F.x3d)
-- Package 3d model scad : 	 [C04-00148F](./Model3d/scad/C04-00148F.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00148F.pdf](./mchp/packages/c04-00148f.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00148F.wrl) : 	 [C04-00148F.wrl](./Model3d/wrl/C04-00148F.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00148F.x3d) : 	 [C04-00148F.x3d](./Model3d/x3d/C04-00148F.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00148F.scad) : 	 [C04-00148F.scad](./Model3d/scad/C04-00148F.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MX795F512L
 
@@ -6914,16 +8193,21 @@ Pin count : 0
 - Family : PIC32MX
 - MF : Microchip
 - Name : PIC32MX795F512L
+- Library Kicad : [PIC32MX.kicad_sym](./KiCad/PIC32MX.kicad_sym) 
+- Library Altium : [PIC32MX.lia](./Altium/PIC32MX.lia) 
+- Library Proteus : [PIC32MX.pdif](./Proteus/PIC32MX.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00148F](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00148F](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 2XX
 - Package Type : 	 TFBGA
 - Pin count : 	 121,00
-- Package Layout : 	 [C04-00148F](./mchp/packages/C04-00148F.pdf)
-- Package 3d model wrl : 	 [C04-00148F](./Model3d/wrl/C04-00148F.wrl)
-- Package 3d model x3d : 	 [C04-00148F](./Model3d/x3d/C04-00148F.x3d)
-- Package 3d model scad : 	 [C04-00148F](./Model3d/scad/C04-00148F.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00148F.pdf](./mchp/packages/c04-00148f.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00148F.wrl) : 	 [C04-00148F.wrl](./Model3d/wrl/C04-00148F.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00148F.x3d) : 	 [C04-00148F.x3d](./Model3d/x3d/C04-00148F.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00148F.scad) : 	 [C04-00148F.scad](./Model3d/scad/C04-00148F.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0

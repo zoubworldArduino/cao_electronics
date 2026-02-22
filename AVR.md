@@ -14,15 +14,20 @@
 - Family : AVR
 - MF : Microchip
 - Name : AVR128DA28
+- Library Kicad : [AVR.kicad_sym](./KiCad/AVR.kicad_sym) 
+- Library Altium : [AVR.lia](./Altium/AVR.lia) 
+- Library Proteus : [AVR.pdif](./Proteus/AVR.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00070B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00070B](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 M3X
 - Package Type : 	 SPDIP
 - Pin count : 	 28,00
-- Package Layout : 	 [C04-00070B](./mchp/packages/C04-00070B.pdf)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00070B.pdf](./mchp/packages/c04-00070b.pdf)
+
+please check that some data is inconsistent 	 
+
 Pin count : 28
 - 1 : PA7,  of Type IO, alternates : [PTC XY_7, USART0 XDIR_, AC1 OUT_0, PORTA PIN_7, CLKCTRL CLKOUT_, EVSYS EVOUT_0, SPI0 SS_, ZCD0 OUT_, AC0 OUT_0, TCD0 WOD_3, AC2 OUT_0]
 - 2 : PC0,  of Type IO, alternates : [USART1 TXD_, TCB2 WO_0, TCA0 WO_0, SPI1 MOSI_, CCL LUT1_IN_0, PORTC PIN_0]
@@ -67,18 +72,23 @@ Pin count : 28
 - Family : AVR
 - MF : Microchip
 - Name : AVR128DA32
+- Library Kicad : [AVR.kicad_sym](./KiCad/AVR.kicad_sym) 
+- Library Altium : [AVR.lia](./Altium/AVR.lia) 
+- Library Proteus : [AVR.pdif](./Proteus/AVR.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-21511A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-21511A](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 QZB
 - Package Type : 	 VQFN
 - Pin count : 	 32,00
-- Package Layout : 	 [C04-21511A](./mchp/packages/C04-21511A.pdf)
-- Package 3d model wrl : 	 [C04-21511A](./Model3d/wrl/C04-21511A.wrl)
-- Package 3d model x3d : 	 [C04-21511A](./Model3d/x3d/C04-21511A.x3d)
-- Package 3d model scad : 	 [C04-21511A](./Model3d/scad/C04-21511A.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-21511A.pdf](./mchp/packages/c04-21511a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21511A.wrl) : 	 [C04-21511A.wrl](./Model3d/wrl/C04-21511A.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-21511A.x3d) : 	 [C04-21511A.x3d](./Model3d/x3d/C04-21511A.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-21511A.scad) : 	 [C04-21511A.scad](./Model3d/scad/C04-21511A.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 32
 - 1 : PA3,  of Type IO, alternates : [PORTA PIN_3, USART0 XDIR_, CCL LUT0_OUT_0, TCA0 WO_3, TWI0 SCL_, PTC XY_3, TCB1 WO_0]
 - 2 : PA4,  of Type IO, alternates : [PORTA PIN_4, TCA0 WO_4, TCD0 WOA_, USART0 TXD_, SPI0 MOSI_, PTC XY_4]
@@ -127,18 +137,23 @@ Pin count : 32
 - Family : AVR
 - MF : Microchip
 - Name : AVR128DA48
+- Library Kicad : [AVR.kicad_sym](./KiCad/AVR.kicad_sym) 
+- Library Altium : [AVR.lia](./Altium/AVR.lia) 
+- Library Proteus : [AVR.pdif](./Proteus/AVR.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00494B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00494B](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 6LX
 - Package Type : 	 VQFN
 - Pin count : 	 48,00
-- Package Layout : 	 [C04-00494B](./mchp/packages/C04-00494B.pdf)
-- Package 3d model wrl : 	 [C04-00494B](./Model3d/wrl/C04-00494B.wrl)
-- Package 3d model x3d : 	 [C04-00494B](./Model3d/x3d/C04-00494B.x3d)
-- Package 3d model scad : 	 [C04-00494B](./Model3d/scad/C04-00494B.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00494B.pdf](./mchp/packages/c04-00494b.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00494B.wrl) : 	 [C04-00494B.wrl](./Model3d/wrl/C04-00494B.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00494B.x3d) : 	 [C04-00494B.x3d](./Model3d/x3d/C04-00494B.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00494B.scad) : 	 [C04-00494B.scad](./Model3d/scad/C04-00494B.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 48
 - 1 : PA5,  of Type IO, alternates : [TCD0 WOB_1, PORTA PIN_5, PTC XY_5, SPI0 MISO_, USART0 RXD_, TCA0 WO_5]
 - 2 : PA6,  of Type IO, alternates : [CCL LUT0_OUT_0, PTC XY_6, PORTA PIN_6, SPI0 SCK_, USART0 XCK_, TCD0 WOC_2]
@@ -203,18 +218,23 @@ Pin count : 48
 - Family : AVR
 - MF : Microchip
 - Name : AVR128DA64
+- Library Kicad : [AVR.kicad_sym](./KiCad/AVR.kicad_sym) 
+- Library Altium : [AVR.lia](./Altium/AVR.lia) 
+- Library Proteus : [AVR.pdif](./Proteus/AVR.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00483F](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00483F](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 5LX
 - Package Type : 	 VQFN
 - Pin count : 	 64,00
-- Package Layout : 	 [C04-00483F](./mchp/packages/C04-00483F.pdf)
-- Package 3d model wrl : 	 [C04-00483F](./Model3d/wrl/C04-00483F.wrl)
-- Package 3d model x3d : 	 [C04-00483F](./Model3d/x3d/C04-00483F.x3d)
-- Package 3d model scad : 	 [C04-00483F](./Model3d/scad/C04-00483F.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00483F.pdf](./mchp/packages/c04-00483f.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00483F.wrl) : 	 [C04-00483F.wrl](./Model3d/wrl/C04-00483F.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00483F.x3d) : 	 [C04-00483F.x3d](./Model3d/x3d/C04-00483F.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00483F.scad) : 	 [C04-00483F.scad](./Model3d/scad/C04-00483F.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 64
 - 1 : PA3,  of Type IO, alternates : [PORTA PIN_3, USART0 XDIR_, CCL LUT0_OUT_0, TCA0 WO_3, TWI0 SCL_, PTC XY_3, TCB1 WO_0]
 - 2 : PA4,  of Type IO, alternates : [PORTA PIN_4, TCA0 WO_4, TCD0 WOA_, USART0 TXD_, SPI0 MOSI_, PTC XY_4]
@@ -295,15 +315,20 @@ Pin count : 64
 - Family : AVR
 - MF : Microchip
 - Name : AVR128DB28
+- Library Kicad : [AVR.kicad_sym](./KiCad/AVR.kicad_sym) 
+- Library Altium : [AVR.lia](./Altium/AVR.lia) 
+- Library Proteus : [AVR.pdif](./Proteus/AVR.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00070B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00070B](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 M3X
 - Package Type : 	 SPDIP
 - Pin count : 	 28,00
-- Package Layout : 	 [C04-00070B](./mchp/packages/C04-00070B.pdf)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00070B.pdf](./mchp/packages/c04-00070b.pdf)
+
+please check that some data is inconsistent 	 
+
 Pin count : 28
 - 1 : PA7,  of Type IO, alternates : [USART0 XDIR_, AC1 OUT_0, PORTA PIN_7, CLKCTRL CLKOUT_, EVSYS EVOUT_0, SPI0 SS_, ZCD0 OUT_, AC0 OUT_0, TCD0 WOD_3, AC2 OUT_0]
 - 2 : PC0,  of Type IO, alternates : [USART1 TXD_, TCB2 WO_0, TCA0 WO_0, SPI1 MOSI_, CCL LUT1_IN_0, PORTC PIN_0]
@@ -348,16 +373,21 @@ Pin count : 28
 - Family : AVR
 - MF : Microchip
 - Name : AVR128DB32
+- Library Kicad : [AVR.kicad_sym](./KiCad/AVR.kicad_sym) 
+- Library Altium : [AVR.lia](./Altium/AVR.lia) 
+- Library Proteus : [AVR.pdif](./Proteus/AVR.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-21395C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-21395C](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 RXB
 - Package Type : 	 VQFN
 - Pin count : 	 32,00
-- Package Layout : 	 [C04-21395C](./mchp/packages/C04-21395C.pdf)
-- Package 3d model scad : 	 [C04-21395C](./Model3d/scad/C04-21395C.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-21395C.pdf](./mchp/packages/c04-21395c.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-21395C.scad) : 	 [C04-21395C.scad](./Model3d/scad/C04-21395C.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 32
 - 1 : PA3,  of Type IO, alternates : [PORTA PIN_3, USART0 XDIR_, CCL LUT0_OUT_0, TCA0 WO_3, TWI0 SCL_, TCB1 WO_0]
 - 2 : PA4,  of Type IO, alternates : [PORTA PIN_4, TCA0 WO_4, TCD0 WOA_, USART0 TXD_, SPI0 MOSI_]
@@ -406,18 +436,23 @@ Pin count : 32
 - Family : AVR
 - MF : Microchip
 - Name : AVR128DB48
+- Library Kicad : [AVR.kicad_sym](./KiCad/AVR.kicad_sym) 
+- Library Altium : [AVR.lia](./Altium/AVR.lia) 
+- Library Proteus : [AVR.pdif](./Proteus/AVR.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00494B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00494B](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 6LX
 - Package Type : 	 VQFN
 - Pin count : 	 48,00
-- Package Layout : 	 [C04-00494B](./mchp/packages/C04-00494B.pdf)
-- Package 3d model wrl : 	 [C04-00494B](./Model3d/wrl/C04-00494B.wrl)
-- Package 3d model x3d : 	 [C04-00494B](./Model3d/x3d/C04-00494B.x3d)
-- Package 3d model scad : 	 [C04-00494B](./Model3d/scad/C04-00494B.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00494B.pdf](./mchp/packages/c04-00494b.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00494B.wrl) : 	 [C04-00494B.wrl](./Model3d/wrl/C04-00494B.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00494B.x3d) : 	 [C04-00494B.x3d](./Model3d/x3d/C04-00494B.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00494B.scad) : 	 [C04-00494B.scad](./Model3d/scad/C04-00494B.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 47
 - 1 : PA5,  of Type IO, alternates : [TCD0 WOB_1, PORTA PIN_5, SPI0 MISO_, USART0 RXD_, TCA0 WO_5]
 - 2 : PA6,  of Type IO, alternates : [CCL LUT0_OUT_0, PORTA PIN_6, SPI0 SCK_, USART0 XCK_, TCD0 WOC_2]
@@ -481,18 +516,23 @@ Pin count : 47
 - Family : AVR
 - MF : Microchip
 - Name : AVR128DB64
+- Library Kicad : [AVR.kicad_sym](./KiCad/AVR.kicad_sym) 
+- Library Altium : [AVR.lia](./Altium/AVR.lia) 
+- Library Proteus : [AVR.pdif](./Proteus/AVR.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 R4X
 - Package Type : 	 QFN
 - Pin count : 	 64,00
-- Package Layout : 	 [C04-00149E](./mchp/packages/C04-00149E.pdf)
-- Package 3d model wrl : 	 [C04-00149E](./Model3d/wrl/C04-00149E.wrl)
-- Package 3d model x3d : 	 [C04-00149E](./Model3d/x3d/C04-00149E.x3d)
-- Package 3d model scad : 	 [C04-00149E](./Model3d/scad/C04-00149E.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00149E.pdf](./mchp/packages/c04-00149e.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00149E.wrl) : 	 [C04-00149E.wrl](./Model3d/wrl/C04-00149E.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00149E.x3d) : 	 [C04-00149E.x3d](./Model3d/x3d/C04-00149E.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00149E.scad) : 	 [C04-00149E.scad](./Model3d/scad/C04-00149E.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 64
 - 1 : PA3,  of Type IO, alternates : [PORTA PIN_3, USART0 XDIR_, CCL LUT0_OUT_0, TCA0 WO_3, TWI0 SCL_, TCB1 WO_0]
 - 2 : PA4,  of Type IO, alternates : [PORTA PIN_4, TCA0 WO_4, TCD0 WOA_, USART0 TXD_, SPI0 MOSI_]
@@ -573,15 +613,20 @@ Pin count : 64
 - Family : AVR
 - MF : Microchip
 - Name : AVR16DD14
+- Library Kicad : [AVR.kicad_sym](./KiCad/AVR.kicad_sym) 
+- Library Altium : [AVR.lia](./Altium/AVR.lia) 
+- Library Proteus : [AVR.pdif](./Proteus/AVR.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00065D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00065D](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 D3X
 - Package Type : 	 SOIC
 - Pin count : 	 14,00
-- Package Layout : 	 [C04-00065D](./mchp/packages/C04-00065D.pdf)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00065D.pdf](./mchp/packages/c04-00065d.pdf)
+
+please check that some data is inconsistent 	 
+
 Pin count : 14
 - 1 : AGND,  of Type PS
 - 2 : PF6,  of Type IO, alternates : [RSTCTRL RESET_, PORTF PIN_6]
@@ -612,6 +657,9 @@ Pin count : 14
 - Family : AVR
 - MF : Microchip
 - Name : AVR16DD20
+- Library Kicad : [AVR.kicad_sym](./KiCad/AVR.kicad_sym) 
+- Library Altium : [AVR.lia](./Altium/AVR.lia) 
+- Library Proteus : [AVR.pdif](./Proteus/AVR.pdif) 
 
 ### Package : 
 
@@ -651,15 +699,20 @@ Pin count : 20
 - Family : AVR
 - MF : Microchip
 - Name : AVR16DD28
+- Library Kicad : [AVR.kicad_sym](./KiCad/AVR.kicad_sym) 
+- Library Altium : [AVR.lia](./Altium/AVR.lia) 
+- Library Proteus : [AVR.pdif](./Proteus/AVR.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00070B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00070B](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 M3X
 - Package Type : 	 SPDIP
 - Pin count : 	 28,00
-- Package Layout : 	 [C04-00070B](./mchp/packages/C04-00070B.pdf)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00070B.pdf](./mchp/packages/c04-00070b.pdf)
+
+please check that some data is inconsistent 	 
+
 Pin count : 28
 - 1 : PA7,  of Type IO, alternates : [USART0 XDIR_, PORTA PIN_7, CLKCTRL CLKOUT_, EVSYS EVOUT_0, SPI0 SS_, AC0 OUT_0, TCD0 WOD_3, ZCD3 OUT_, ADC0 AIN_27]
 - 2 : PC0,  of Type IO, alternates : [USART1 TXD_, TCB2 WO_0, SPI0 SCK_, TCA0 WO_0, SPI0 MOSI_, CCL LUT1_IN_0, PORTC PIN_0, ADC0 AIN_28]
@@ -704,16 +757,21 @@ Pin count : 28
 - Family : AVR
 - MF : Microchip
 - Name : AVR16DD32
+- Library Kicad : [AVR.kicad_sym](./KiCad/AVR.kicad_sym) 
+- Library Altium : [AVR.lia](./Altium/AVR.lia) 
+- Library Proteus : [AVR.pdif](./Proteus/AVR.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-21395C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-21395C](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 RXB
 - Package Type : 	 VQFN
 - Pin count : 	 32,00
-- Package Layout : 	 [C04-21395C](./mchp/packages/C04-21395C.pdf)
-- Package 3d model scad : 	 [C04-21395C](./Model3d/scad/C04-21395C.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-21395C.pdf](./mchp/packages/c04-21395c.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-21395C.scad) : 	 [C04-21395C.scad](./Model3d/scad/C04-21395C.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 32
 - 1 : PA3,  of Type IO, alternates : [PORTA PIN_3, USART0 XDIR_, CCL LUT0_OUT_0, TCA0 WO_3, ADC0 AIN_23, TWI0 SCL_, USART0 RXD_, TCB1 WO_0]
 - 2 : PA4,  of Type IO, alternates : [PORTA PIN_4, TCA0 WO_4, TCD0 WOA_, USART0 TXD_, ADC0 AIN_24, SPI0 MOSI_]
@@ -762,15 +820,20 @@ Pin count : 32
 - Family : AVR
 - MF : Microchip
 - Name : AVR16EA28
+- Library Kicad : [AVR.kicad_sym](./KiCad/AVR.kicad_sym) 
+- Library Altium : [AVR.lia](./Altium/AVR.lia) 
+- Library Proteus : [AVR.pdif](./Proteus/AVR.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00070B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00070B](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 M3X
 - Package Type : 	 SPDIP
 - Pin count : 	 28,00
-- Package Layout : 	 [C04-00070B](./mchp/packages/C04-00070B.pdf)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00070B.pdf](./mchp/packages/c04-00070b.pdf)
+
+please check that some data is inconsistent 	 
+
 Pin count : 28
 - 1 : PA7,  of Type IO, alternates : [AC1 OUT_, PORTA PIN_7, CLKCTRL CLKOUT_, ADC0 AINN_27, EVSYS EVOUT_0, SPI0 SS_, USART0 XDIR_1, AC0 OUT_, ADC0 AINP_27]
 - 2 : PC0,  of Type IO, alternates : [USART1 TXD_, TCB2 WO_0, SPI0 SCK_, TCA0 WO_0, ADC0 AINN_28, SPI0 MOSI_, CCL LUT1_IN_0, ADC0 AINP_28, PORTC PIN_0]
@@ -815,16 +878,21 @@ Pin count : 28
 - Family : AVR
 - MF : Microchip
 - Name : AVR16EA32
+- Library Kicad : [AVR.kicad_sym](./KiCad/AVR.kicad_sym) 
+- Library Altium : [AVR.lia](./Altium/AVR.lia) 
+- Library Proteus : [AVR.pdif](./Proteus/AVR.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-21395C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-21395C](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 RXB
 - Package Type : 	 VQFN
 - Pin count : 	 32,00
-- Package Layout : 	 [C04-21395C](./mchp/packages/C04-21395C.pdf)
-- Package 3d model scad : 	 [C04-21395C](./Model3d/scad/C04-21395C.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-21395C.pdf](./mchp/packages/c04-21395c.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-21395C.scad) : 	 [C04-21395C.scad](./Model3d/scad/C04-21395C.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 32
 - 1 : PA3,  of Type IO, alternates : [PORTA PIN_3, USART0 XDIR_, CCL LUT0_OUT_, TCA0 WO_3, ADC0 AINP_23, USART0 RXD_2, TWI0 SCL_, ADC0 AINN_23, TCB1 WO_0]
 - 2 : PA4,  of Type IO, alternates : [ADC0 AINP_24, PORTA PIN_4, TCA0 WO_4, USART0 TXD_1, SPI0 MOSI_, ADC0 AINN_24]
@@ -873,18 +941,23 @@ Pin count : 32
 - Family : AVR
 - MF : Microchip
 - Name : AVR16EA48
+- Library Kicad : [AVR.kicad_sym](./KiCad/AVR.kicad_sym) 
+- Library Altium : [AVR.lia](./Altium/AVR.lia) 
+- Library Proteus : [AVR.pdif](./Proteus/AVR.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00494B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00494B](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 6LX
 - Package Type : 	 VQFN
 - Pin count : 	 48,00
-- Package Layout : 	 [C04-00494B](./mchp/packages/C04-00494B.pdf)
-- Package 3d model wrl : 	 [C04-00494B](./Model3d/wrl/C04-00494B.wrl)
-- Package 3d model x3d : 	 [C04-00494B](./Model3d/x3d/C04-00494B.x3d)
-- Package 3d model scad : 	 [C04-00494B](./Model3d/scad/C04-00494B.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00494B.pdf](./mchp/packages/c04-00494b.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00494B.wrl) : 	 [C04-00494B.wrl](./Model3d/wrl/C04-00494B.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00494B.x3d) : 	 [C04-00494B.x3d](./Model3d/x3d/C04-00494B.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00494B.scad) : 	 [C04-00494B.scad](./Model3d/scad/C04-00494B.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 48
 - 1 : PA5,  of Type IO, alternates : [PORTA PIN_5, USART0 RXD_1, SPI0 MISO_, TCA1 WO_1, TCA0 WO_5, ADC0 AINP_25, ADC0 AINN_25]
 - 2 : PA6,  of Type IO, alternates : [CCL LUT0_OUT_, PORTA PIN_6, SPI0 SCK_, ADC0 AINP_26, TCA1 WO_2, USART0 XCK_1, ADC0 AINN_26]
@@ -949,15 +1022,20 @@ Pin count : 48
 - Family : AVR
 - MF : Microchip
 - Name : AVR32DB28
+- Library Kicad : [AVR.kicad_sym](./KiCad/AVR.kicad_sym) 
+- Library Altium : [AVR.lia](./Altium/AVR.lia) 
+- Library Proteus : [AVR.pdif](./Proteus/AVR.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00070B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00070B](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 M3X
 - Package Type : 	 SPDIP
 - Pin count : 	 28,00
-- Package Layout : 	 [C04-00070B](./mchp/packages/C04-00070B.pdf)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00070B.pdf](./mchp/packages/c04-00070b.pdf)
+
+please check that some data is inconsistent 	 
+
 Pin count : 28
 - 1 : PA7,  of Type IO, alternates : [USART0 XDIR_, AC1 OUT_0, PORTA PIN_7, CLKCTRL CLKOUT_, EVSYS EVOUT_0, SPI0 SS_, ZCD0 OUT_, AC0 OUT_0, TCD0 WOD_3, AC2 OUT_0]
 - 2 : PC0,  of Type IO, alternates : [USART1 TXD_, TCB2 WO_0, TCA0 WO_0, SPI1 MOSI_, CCL LUT1_IN_0, PORTC PIN_0]
@@ -1002,16 +1080,21 @@ Pin count : 28
 - Family : AVR
 - MF : Microchip
 - Name : AVR32DB32
+- Library Kicad : [AVR.kicad_sym](./KiCad/AVR.kicad_sym) 
+- Library Altium : [AVR.lia](./Altium/AVR.lia) 
+- Library Proteus : [AVR.pdif](./Proteus/AVR.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-21395C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-21395C](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 RXB
 - Package Type : 	 VQFN
 - Pin count : 	 32,00
-- Package Layout : 	 [C04-21395C](./mchp/packages/C04-21395C.pdf)
-- Package 3d model scad : 	 [C04-21395C](./Model3d/scad/C04-21395C.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-21395C.pdf](./mchp/packages/c04-21395c.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-21395C.scad) : 	 [C04-21395C.scad](./Model3d/scad/C04-21395C.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 32
 - 1 : PA3,  of Type IO, alternates : [PORTA PIN_3, USART0 XDIR_, CCL LUT0_OUT_0, TCA0 WO_3, TWI0 SCL_, TCB1 WO_0]
 - 2 : PA4,  of Type IO, alternates : [PORTA PIN_4, TCA0 WO_4, TCD0 WOA_, USART0 TXD_, SPI0 MOSI_]
@@ -1060,18 +1143,23 @@ Pin count : 32
 - Family : AVR
 - MF : Microchip
 - Name : AVR32DB48
+- Library Kicad : [AVR.kicad_sym](./KiCad/AVR.kicad_sym) 
+- Library Altium : [AVR.lia](./Altium/AVR.lia) 
+- Library Proteus : [AVR.pdif](./Proteus/AVR.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00494B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00494B](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 6LX
 - Package Type : 	 VQFN
 - Pin count : 	 48,00
-- Package Layout : 	 [C04-00494B](./mchp/packages/C04-00494B.pdf)
-- Package 3d model wrl : 	 [C04-00494B](./Model3d/wrl/C04-00494B.wrl)
-- Package 3d model x3d : 	 [C04-00494B](./Model3d/x3d/C04-00494B.x3d)
-- Package 3d model scad : 	 [C04-00494B](./Model3d/scad/C04-00494B.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00494B.pdf](./mchp/packages/c04-00494b.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00494B.wrl) : 	 [C04-00494B.wrl](./Model3d/wrl/C04-00494B.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00494B.x3d) : 	 [C04-00494B.x3d](./Model3d/x3d/C04-00494B.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00494B.scad) : 	 [C04-00494B.scad](./Model3d/scad/C04-00494B.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 47
 - 1 : PA5,  of Type IO, alternates : [TCD0 WOB_1, PORTA PIN_5, SPI0 MISO_, USART0 RXD_, TCA0 WO_5]
 - 2 : PA6,  of Type IO, alternates : [CCL LUT0_OUT_0, PORTA PIN_6, SPI0 SCK_, USART0 XCK_, TCD0 WOC_2]
@@ -1135,15 +1223,20 @@ Pin count : 47
 - Family : AVR
 - MF : Microchip
 - Name : AVR32DD14
+- Library Kicad : [AVR.kicad_sym](./KiCad/AVR.kicad_sym) 
+- Library Altium : [AVR.lia](./Altium/AVR.lia) 
+- Library Proteus : [AVR.pdif](./Proteus/AVR.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00065D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00065D](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 D3X
 - Package Type : 	 SOIC
 - Pin count : 	 14,00
-- Package Layout : 	 [C04-00065D](./mchp/packages/C04-00065D.pdf)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00065D.pdf](./mchp/packages/c04-00065d.pdf)
+
+please check that some data is inconsistent 	 
+
 Pin count : 14
 - 1 : AGND,  of Type PS
 - 2 : PF6,  of Type IO, alternates : [RSTCTRL RESET_, PORTF PIN_6]
@@ -1174,18 +1267,23 @@ Pin count : 14
 - Family : AVR
 - MF : Microchip
 - Name : AVR32DD20
+- Library Kicad : [AVR.kicad_sym](./KiCad/AVR.kicad_sym) 
+- Library Altium : [AVR.lia](./Altium/AVR.lia) 
+- Library Proteus : [AVR.pdif](./Proteus/AVR.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00476C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00476C](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 2LX
 - Package Type : 	 VQFN
 - Pin count : 	 20,00
-- Package Layout : 	 [C04-00476C](./mchp/packages/C04-00476C.pdf)
-- Package 3d model wrl : 	 [C04-00476C](./Model3d/wrl/C04-00476C.wrl)
-- Package 3d model x3d : 	 [C04-00476C](./Model3d/x3d/C04-00476C.x3d)
-- Package 3d model scad : 	 [C04-00476C](./Model3d/scad/C04-00476C.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00476C.pdf](./mchp/packages/c04-00476c.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00476C.wrl) : 	 [C04-00476C.wrl](./Model3d/wrl/C04-00476C.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00476C.x3d) : 	 [C04-00476C.x3d](./Model3d/x3d/C04-00476C.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00476C.scad) : 	 [C04-00476C.scad](./Model3d/scad/C04-00476C.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 20
 - 1 : PA4,  of Type IO, alternates : [PORTA PIN_4, TCA0 WO_4, TCD0 WOA_, USART0 TXD_, ADC0 AIN_24, SPI0 MOSI_]
 - 2 : PA5,  of Type IO, alternates : [TCD0 WOB_1, PORTA PIN_5, SPI0 MISO_, USART0 RXD_, ADC0 AIN_25, TCA0 WO_5]
@@ -1222,15 +1320,20 @@ Pin count : 20
 - Family : AVR
 - MF : Microchip
 - Name : AVR32DD28
+- Library Kicad : [AVR.kicad_sym](./KiCad/AVR.kicad_sym) 
+- Library Altium : [AVR.lia](./Altium/AVR.lia) 
+- Library Proteus : [AVR.pdif](./Proteus/AVR.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00070B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00070B](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 M3X
 - Package Type : 	 SPDIP
 - Pin count : 	 28,00
-- Package Layout : 	 [C04-00070B](./mchp/packages/C04-00070B.pdf)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00070B.pdf](./mchp/packages/c04-00070b.pdf)
+
+please check that some data is inconsistent 	 
+
 Pin count : 28
 - 1 : PA7,  of Type IO, alternates : [USART0 XDIR_, PORTA PIN_7, CLKCTRL CLKOUT_, EVSYS EVOUT_0, SPI0 SS_, AC0 OUT_0, TCD0 WOD_3, ZCD3 OUT_, ADC0 AIN_27]
 - 2 : PC0,  of Type IO, alternates : [USART1 TXD_, TCB2 WO_0, SPI0 SCK_, TCA0 WO_0, SPI0 MOSI_, CCL LUT1_IN_0, PORTC PIN_0, ADC0 AIN_28]
@@ -1275,16 +1378,21 @@ Pin count : 28
 - Family : AVR
 - MF : Microchip
 - Name : AVR32DD32
+- Library Kicad : [AVR.kicad_sym](./KiCad/AVR.kicad_sym) 
+- Library Altium : [AVR.lia](./Altium/AVR.lia) 
+- Library Proteus : [AVR.pdif](./Proteus/AVR.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-21395C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-21395C](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 RXB
 - Package Type : 	 VQFN
 - Pin count : 	 32,00
-- Package Layout : 	 [C04-21395C](./mchp/packages/C04-21395C.pdf)
-- Package 3d model scad : 	 [C04-21395C](./Model3d/scad/C04-21395C.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-21395C.pdf](./mchp/packages/c04-21395c.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-21395C.scad) : 	 [C04-21395C.scad](./Model3d/scad/C04-21395C.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 32
 - 1 : PA3,  of Type IO, alternates : [PORTA PIN_3, USART0 XDIR_, CCL LUT0_OUT_0, TCA0 WO_3, ADC0 AIN_23, TWI0 SCL_, USART0 RXD_, TCB1 WO_0]
 - 2 : PA4,  of Type IO, alternates : [PORTA PIN_4, TCA0 WO_4, TCD0 WOA_, USART0 TXD_, ADC0 AIN_24, SPI0 MOSI_]
@@ -1333,15 +1441,20 @@ Pin count : 32
 - Family : AVR
 - MF : Microchip
 - Name : AVR32EA28
+- Library Kicad : [AVR.kicad_sym](./KiCad/AVR.kicad_sym) 
+- Library Altium : [AVR.lia](./Altium/AVR.lia) 
+- Library Proteus : [AVR.pdif](./Proteus/AVR.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00070B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00070B](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 M3X
 - Package Type : 	 SPDIP
 - Pin count : 	 28,00
-- Package Layout : 	 [C04-00070B](./mchp/packages/C04-00070B.pdf)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00070B.pdf](./mchp/packages/c04-00070b.pdf)
+
+please check that some data is inconsistent 	 
+
 Pin count : 28
 - 1 : PA7,  of Type IO, alternates : [AC1 OUT_, PORTA PIN_7, CLKCTRL CLKOUT_, ADC0 AINN_27, EVSYS EVOUT_0, SPI0 SS_, USART0 XDIR_1, AC0 OUT_, ADC0 AINP_27]
 - 2 : PC0,  of Type IO, alternates : [USART1 TXD_, TCB2 WO_0, SPI0 SCK_, TCA0 WO_0, ADC0 AINN_28, SPI0 MOSI_, CCL LUT1_IN_0, ADC0 AINP_28, PORTC PIN_0]
@@ -1386,16 +1499,21 @@ Pin count : 28
 - Family : AVR
 - MF : Microchip
 - Name : AVR32EA32
+- Library Kicad : [AVR.kicad_sym](./KiCad/AVR.kicad_sym) 
+- Library Altium : [AVR.lia](./Altium/AVR.lia) 
+- Library Proteus : [AVR.pdif](./Proteus/AVR.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-21395C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-21395C](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 RXB
 - Package Type : 	 VQFN
 - Pin count : 	 32,00
-- Package Layout : 	 [C04-21395C](./mchp/packages/C04-21395C.pdf)
-- Package 3d model scad : 	 [C04-21395C](./Model3d/scad/C04-21395C.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-21395C.pdf](./mchp/packages/c04-21395c.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-21395C.scad) : 	 [C04-21395C.scad](./Model3d/scad/C04-21395C.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 32
 - 1 : PA3,  of Type IO, alternates : [PORTA PIN_3, USART0 XDIR_, CCL LUT0_OUT_, TCA0 WO_3, ADC0 AINP_23, USART0 RXD_2, TWI0 SCL_, ADC0 AINN_23, TCB1 WO_0]
 - 2 : PA4,  of Type IO, alternates : [ADC0 AINP_24, PORTA PIN_4, TCA0 WO_4, USART0 TXD_1, SPI0 MOSI_, ADC0 AINN_24]
@@ -1444,18 +1562,23 @@ Pin count : 32
 - Family : AVR
 - MF : Microchip
 - Name : AVR32EA48
+- Library Kicad : [AVR.kicad_sym](./KiCad/AVR.kicad_sym) 
+- Library Altium : [AVR.lia](./Altium/AVR.lia) 
+- Library Proteus : [AVR.pdif](./Proteus/AVR.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00494B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00494B](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 6LX
 - Package Type : 	 VQFN
 - Pin count : 	 48,00
-- Package Layout : 	 [C04-00494B](./mchp/packages/C04-00494B.pdf)
-- Package 3d model wrl : 	 [C04-00494B](./Model3d/wrl/C04-00494B.wrl)
-- Package 3d model x3d : 	 [C04-00494B](./Model3d/x3d/C04-00494B.x3d)
-- Package 3d model scad : 	 [C04-00494B](./Model3d/scad/C04-00494B.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00494B.pdf](./mchp/packages/c04-00494b.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00494B.wrl) : 	 [C04-00494B.wrl](./Model3d/wrl/C04-00494B.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00494B.x3d) : 	 [C04-00494B.x3d](./Model3d/x3d/C04-00494B.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00494B.scad) : 	 [C04-00494B.scad](./Model3d/scad/C04-00494B.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 48
 - 1 : PA5,  of Type IO, alternates : [PORTA PIN_5, USART0 RXD_1, SPI0 MISO_, TCA1 WO_1, TCA0 WO_5, ADC0 AINP_25, ADC0 AINN_25]
 - 2 : PA6,  of Type IO, alternates : [CCL LUT0_OUT_, PORTA PIN_6, SPI0 SCK_, ADC0 AINP_26, TCA1 WO_2, USART0 XCK_1, ADC0 AINN_26]
@@ -1520,15 +1643,20 @@ Pin count : 48
 - Family : AVR
 - MF : Microchip
 - Name : AVR64DA28
+- Library Kicad : [AVR.kicad_sym](./KiCad/AVR.kicad_sym) 
+- Library Altium : [AVR.lia](./Altium/AVR.lia) 
+- Library Proteus : [AVR.pdif](./Proteus/AVR.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00070B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00070B](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 M3X
 - Package Type : 	 SPDIP
 - Pin count : 	 28,00
-- Package Layout : 	 [C04-00070B](./mchp/packages/C04-00070B.pdf)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00070B.pdf](./mchp/packages/c04-00070b.pdf)
+
+please check that some data is inconsistent 	 
+
 Pin count : 28
 - 1 : PA7,  of Type IO, alternates : [PTC XY_7, USART0 XDIR_, AC1 OUT_0, PORTA PIN_7, CLKCTRL CLKOUT_, EVSYS EVOUT_0, SPI0 SS_, ZCD0 OUT_, AC0 OUT_0, TCD0 WOD_3, AC2 OUT_0]
 - 2 : PC0,  of Type IO, alternates : [USART1 TXD_, TCB2 WO_0, TCA0 WO_0, SPI1 MOSI_, CCL LUT1_IN_0, PORTC PIN_0]
@@ -1573,18 +1701,23 @@ Pin count : 28
 - Family : AVR
 - MF : Microchip
 - Name : AVR64DA32
+- Library Kicad : [AVR.kicad_sym](./KiCad/AVR.kicad_sym) 
+- Library Altium : [AVR.lia](./Altium/AVR.lia) 
+- Library Proteus : [AVR.pdif](./Proteus/AVR.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-21511A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-21511A](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 QZB
 - Package Type : 	 VQFN
 - Pin count : 	 32,00
-- Package Layout : 	 [C04-21511A](./mchp/packages/C04-21511A.pdf)
-- Package 3d model wrl : 	 [C04-21511A](./Model3d/wrl/C04-21511A.wrl)
-- Package 3d model x3d : 	 [C04-21511A](./Model3d/x3d/C04-21511A.x3d)
-- Package 3d model scad : 	 [C04-21511A](./Model3d/scad/C04-21511A.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-21511A.pdf](./mchp/packages/c04-21511a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21511A.wrl) : 	 [C04-21511A.wrl](./Model3d/wrl/C04-21511A.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-21511A.x3d) : 	 [C04-21511A.x3d](./Model3d/x3d/C04-21511A.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-21511A.scad) : 	 [C04-21511A.scad](./Model3d/scad/C04-21511A.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 32
 - 1 : PA3,  of Type IO, alternates : [PORTA PIN_3, USART0 XDIR_, CCL LUT0_OUT_0, TCA0 WO_3, TWI0 SCL_, PTC XY_3, TCB1 WO_0]
 - 2 : PA4,  of Type IO, alternates : [PORTA PIN_4, TCA0 WO_4, TCD0 WOA_, USART0 TXD_, SPI0 MOSI_, PTC XY_4]
@@ -1633,18 +1766,23 @@ Pin count : 32
 - Family : AVR
 - MF : Microchip
 - Name : AVR64DA48
+- Library Kicad : [AVR.kicad_sym](./KiCad/AVR.kicad_sym) 
+- Library Altium : [AVR.lia](./Altium/AVR.lia) 
+- Library Proteus : [AVR.pdif](./Proteus/AVR.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00494B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00494B](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 6LX
 - Package Type : 	 VQFN
 - Pin count : 	 48,00
-- Package Layout : 	 [C04-00494B](./mchp/packages/C04-00494B.pdf)
-- Package 3d model wrl : 	 [C04-00494B](./Model3d/wrl/C04-00494B.wrl)
-- Package 3d model x3d : 	 [C04-00494B](./Model3d/x3d/C04-00494B.x3d)
-- Package 3d model scad : 	 [C04-00494B](./Model3d/scad/C04-00494B.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00494B.pdf](./mchp/packages/c04-00494b.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00494B.wrl) : 	 [C04-00494B.wrl](./Model3d/wrl/C04-00494B.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00494B.x3d) : 	 [C04-00494B.x3d](./Model3d/x3d/C04-00494B.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00494B.scad) : 	 [C04-00494B.scad](./Model3d/scad/C04-00494B.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 48
 - 1 : PA5,  of Type IO, alternates : [TCD0 WOB_1, PORTA PIN_5, PTC XY_5, SPI0 MISO_, USART0 RXD_, TCA0 WO_5]
 - 2 : PA6,  of Type IO, alternates : [CCL LUT0_OUT_0, PTC XY_6, PORTA PIN_6, SPI0 SCK_, USART0 XCK_, TCD0 WOC_2]
@@ -1709,18 +1847,23 @@ Pin count : 48
 - Family : AVR
 - MF : Microchip
 - Name : AVR64DA64
+- Library Kicad : [AVR.kicad_sym](./KiCad/AVR.kicad_sym) 
+- Library Altium : [AVR.lia](./Altium/AVR.lia) 
+- Library Proteus : [AVR.pdif](./Proteus/AVR.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00483F](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00483F](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 5LX
 - Package Type : 	 VQFN
 - Pin count : 	 64,00
-- Package Layout : 	 [C04-00483F](./mchp/packages/C04-00483F.pdf)
-- Package 3d model wrl : 	 [C04-00483F](./Model3d/wrl/C04-00483F.wrl)
-- Package 3d model x3d : 	 [C04-00483F](./Model3d/x3d/C04-00483F.x3d)
-- Package 3d model scad : 	 [C04-00483F](./Model3d/scad/C04-00483F.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00483F.pdf](./mchp/packages/c04-00483f.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00483F.wrl) : 	 [C04-00483F.wrl](./Model3d/wrl/C04-00483F.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00483F.x3d) : 	 [C04-00483F.x3d](./Model3d/x3d/C04-00483F.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00483F.scad) : 	 [C04-00483F.scad](./Model3d/scad/C04-00483F.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 64
 - 1 : PA3,  of Type IO, alternates : [PORTA PIN_3, USART0 XDIR_, CCL LUT0_OUT_0, TCA0 WO_3, TWI0 SCL_, PTC XY_3, TCB1 WO_0]
 - 2 : PA4,  of Type IO, alternates : [PORTA PIN_4, TCA0 WO_4, TCD0 WOA_, USART0 TXD_, SPI0 MOSI_, PTC XY_4]
@@ -1801,15 +1944,20 @@ Pin count : 64
 - Family : AVR
 - MF : Microchip
 - Name : AVR64DB28
+- Library Kicad : [AVR.kicad_sym](./KiCad/AVR.kicad_sym) 
+- Library Altium : [AVR.lia](./Altium/AVR.lia) 
+- Library Proteus : [AVR.pdif](./Proteus/AVR.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00070B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00070B](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 M3X
 - Package Type : 	 SPDIP
 - Pin count : 	 28,00
-- Package Layout : 	 [C04-00070B](./mchp/packages/C04-00070B.pdf)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00070B.pdf](./mchp/packages/c04-00070b.pdf)
+
+please check that some data is inconsistent 	 
+
 Pin count : 28
 - 1 : PA7,  of Type IO, alternates : [USART0 XDIR_, AC1 OUT_0, PORTA PIN_7, CLKCTRL CLKOUT_, EVSYS EVOUT_0, SPI0 SS_, ZCD0 OUT_, AC0 OUT_0, TCD0 WOD_3, AC2 OUT_0]
 - 2 : PC0,  of Type IO, alternates : [USART1 TXD_, TCB2 WO_0, TCA0 WO_0, SPI1 MOSI_, CCL LUT1_IN_0, PORTC PIN_0]
@@ -1854,16 +2002,21 @@ Pin count : 28
 - Family : AVR
 - MF : Microchip
 - Name : AVR64DB32
+- Library Kicad : [AVR.kicad_sym](./KiCad/AVR.kicad_sym) 
+- Library Altium : [AVR.lia](./Altium/AVR.lia) 
+- Library Proteus : [AVR.pdif](./Proteus/AVR.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-21395C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-21395C](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 RXB
 - Package Type : 	 VQFN
 - Pin count : 	 32,00
-- Package Layout : 	 [C04-21395C](./mchp/packages/C04-21395C.pdf)
-- Package 3d model scad : 	 [C04-21395C](./Model3d/scad/C04-21395C.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-21395C.pdf](./mchp/packages/c04-21395c.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-21395C.scad) : 	 [C04-21395C.scad](./Model3d/scad/C04-21395C.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 32
 - 1 : PA3,  of Type IO, alternates : [PORTA PIN_3, USART0 XDIR_, CCL LUT0_OUT_0, TCA0 WO_3, TWI0 SCL_, TCB1 WO_0]
 - 2 : PA4,  of Type IO, alternates : [PORTA PIN_4, TCA0 WO_4, TCD0 WOA_, USART0 TXD_, SPI0 MOSI_]
@@ -1912,18 +2065,23 @@ Pin count : 32
 - Family : AVR
 - MF : Microchip
 - Name : AVR64DB48
+- Library Kicad : [AVR.kicad_sym](./KiCad/AVR.kicad_sym) 
+- Library Altium : [AVR.lia](./Altium/AVR.lia) 
+- Library Proteus : [AVR.pdif](./Proteus/AVR.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00494B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00494B](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 6LX
 - Package Type : 	 VQFN
 - Pin count : 	 48,00
-- Package Layout : 	 [C04-00494B](./mchp/packages/C04-00494B.pdf)
-- Package 3d model wrl : 	 [C04-00494B](./Model3d/wrl/C04-00494B.wrl)
-- Package 3d model x3d : 	 [C04-00494B](./Model3d/x3d/C04-00494B.x3d)
-- Package 3d model scad : 	 [C04-00494B](./Model3d/scad/C04-00494B.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00494B.pdf](./mchp/packages/c04-00494b.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00494B.wrl) : 	 [C04-00494B.wrl](./Model3d/wrl/C04-00494B.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00494B.x3d) : 	 [C04-00494B.x3d](./Model3d/x3d/C04-00494B.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00494B.scad) : 	 [C04-00494B.scad](./Model3d/scad/C04-00494B.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 47
 - 1 : PA5,  of Type IO, alternates : [TCD0 WOB_1, PORTA PIN_5, SPI0 MISO_, USART0 RXD_, TCA0 WO_5]
 - 2 : PA6,  of Type IO, alternates : [CCL LUT0_OUT_0, PORTA PIN_6, SPI0 SCK_, USART0 XCK_, TCD0 WOC_2]
@@ -1987,18 +2145,23 @@ Pin count : 47
 - Family : AVR
 - MF : Microchip
 - Name : AVR64DB64
+- Library Kicad : [AVR.kicad_sym](./KiCad/AVR.kicad_sym) 
+- Library Altium : [AVR.lia](./Altium/AVR.lia) 
+- Library Proteus : [AVR.pdif](./Proteus/AVR.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00149E](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 R4X
 - Package Type : 	 QFN
 - Pin count : 	 64,00
-- Package Layout : 	 [C04-00149E](./mchp/packages/C04-00149E.pdf)
-- Package 3d model wrl : 	 [C04-00149E](./Model3d/wrl/C04-00149E.wrl)
-- Package 3d model x3d : 	 [C04-00149E](./Model3d/x3d/C04-00149E.x3d)
-- Package 3d model scad : 	 [C04-00149E](./Model3d/scad/C04-00149E.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00149E.pdf](./mchp/packages/c04-00149e.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00149E.wrl) : 	 [C04-00149E.wrl](./Model3d/wrl/C04-00149E.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00149E.x3d) : 	 [C04-00149E.x3d](./Model3d/x3d/C04-00149E.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00149E.scad) : 	 [C04-00149E.scad](./Model3d/scad/C04-00149E.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 64
 - 1 : PA3,  of Type IO, alternates : [PORTA PIN_3, USART0 XDIR_, CCL LUT0_OUT_0, TCA0 WO_3, TWI0 SCL_, TCB1 WO_0]
 - 2 : PA4,  of Type IO, alternates : [PORTA PIN_4, TCA0 WO_4, TCD0 WOA_, USART0 TXD_, SPI0 MOSI_]
@@ -2079,15 +2242,20 @@ Pin count : 64
 - Family : AVR
 - MF : Microchip
 - Name : AVR64DD14
+- Library Kicad : [AVR.kicad_sym](./KiCad/AVR.kicad_sym) 
+- Library Altium : [AVR.lia](./Altium/AVR.lia) 
+- Library Proteus : [AVR.pdif](./Proteus/AVR.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00065D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00065D](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 D3X
 - Package Type : 	 SOIC
 - Pin count : 	 14,00
-- Package Layout : 	 [C04-00065D](./mchp/packages/C04-00065D.pdf)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00065D.pdf](./mchp/packages/c04-00065d.pdf)
+
+please check that some data is inconsistent 	 
+
 Pin count : 14
 - 1 : AGND,  of Type PS
 - 2 : PF6,  of Type IO, alternates : [RSTCTRL RESET_, PORTF PIN_6]
@@ -2118,6 +2286,9 @@ Pin count : 14
 - Family : AVR
 - MF : Microchip
 - Name : AVR64DD20
+- Library Kicad : [AVR.kicad_sym](./KiCad/AVR.kicad_sym) 
+- Library Altium : [AVR.lia](./Altium/AVR.lia) 
+- Library Proteus : [AVR.pdif](./Proteus/AVR.pdif) 
 
 ### Package : 
 
@@ -2157,15 +2328,20 @@ Pin count : 20
 - Family : AVR
 - MF : Microchip
 - Name : AVR64DD28
+- Library Kicad : [AVR.kicad_sym](./KiCad/AVR.kicad_sym) 
+- Library Altium : [AVR.lia](./Altium/AVR.lia) 
+- Library Proteus : [AVR.pdif](./Proteus/AVR.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00070B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00070B](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 M3X
 - Package Type : 	 SPDIP
 - Pin count : 	 28,00
-- Package Layout : 	 [C04-00070B](./mchp/packages/C04-00070B.pdf)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00070B.pdf](./mchp/packages/c04-00070b.pdf)
+
+please check that some data is inconsistent 	 
+
 Pin count : 28
 - 1 : PA7,  of Type IO, alternates : [USART0 XDIR_, PORTA PIN_7, CLKCTRL CLKOUT_, EVSYS EVOUT_0, SPI0 SS_, AC0 OUT_0, TCD0 WOD_3, ZCD3 OUT_, ADC0 AIN_27]
 - 2 : PC0,  of Type IO, alternates : [USART1 TXD_, TCB2 WO_0, SPI0 SCK_, TCA0 WO_0, SPI0 MOSI_, CCL LUT1_IN_0, PORTC PIN_0, ADC0 AIN_28]
@@ -2210,16 +2386,21 @@ Pin count : 28
 - Family : AVR
 - MF : Microchip
 - Name : AVR64DD32
+- Library Kicad : [AVR.kicad_sym](./KiCad/AVR.kicad_sym) 
+- Library Altium : [AVR.lia](./Altium/AVR.lia) 
+- Library Proteus : [AVR.pdif](./Proteus/AVR.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-21395C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-21395C](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 RXB
 - Package Type : 	 VQFN
 - Pin count : 	 32,00
-- Package Layout : 	 [C04-21395C](./mchp/packages/C04-21395C.pdf)
-- Package 3d model scad : 	 [C04-21395C](./Model3d/scad/C04-21395C.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-21395C.pdf](./mchp/packages/c04-21395c.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-21395C.scad) : 	 [C04-21395C.scad](./Model3d/scad/C04-21395C.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 32
 - 1 : PA3,  of Type IO, alternates : [PORTA PIN_3, USART0 XDIR_, CCL LUT0_OUT_0, TCA0 WO_3, ADC0 AIN_23, TWI0 SCL_, USART0 RXD_, TCB1 WO_0]
 - 2 : PA4,  of Type IO, alternates : [PORTA PIN_4, TCA0 WO_4, TCD0 WOA_, USART0 TXD_, ADC0 AIN_24, SPI0 MOSI_]
@@ -2268,6 +2449,9 @@ Pin count : 32
 - Family : AVR
 - MF : Microchip
 - Name : AVR64DU28
+- Library Kicad : [AVR.kicad_sym](./KiCad/AVR.kicad_sym) 
+- Library Altium : [AVR.lia](./Altium/AVR.lia) 
+- Library Proteus : [AVR.pdif](./Proteus/AVR.pdif) 
 
 ### Package : 
 
@@ -2315,6 +2499,9 @@ Pin count : 28
 - Family : AVR
 - MF : Microchip
 - Name : AVR64DU28
+- Library Kicad : [AVR.kicad_sym](./KiCad/AVR.kicad_sym) 
+- Library Altium : [AVR.lia](./Altium/AVR.lia) 
+- Library Proteus : [AVR.pdif](./Proteus/AVR.pdif) 
 
 ### Package : 
 
@@ -2362,6 +2549,9 @@ Pin count : 28
 - Family : AVR
 - MF : Microchip
 - Name : AVR64DU32
+- Library Kicad : [AVR.kicad_sym](./KiCad/AVR.kicad_sym) 
+- Library Altium : [AVR.lia](./Altium/AVR.lia) 
+- Library Proteus : [AVR.pdif](./Proteus/AVR.pdif) 
 
 ### Package : 
 
@@ -2413,18 +2603,23 @@ Pin count : 32
 - Family : AVR
 - MF : Microchip
 - Name : AVR64EA28
+- Library Kicad : [AVR.kicad_sym](./KiCad/AVR.kicad_sym) 
+- Library Altium : [AVR.lia](./Altium/AVR.lia) 
+- Library Proteus : [AVR.pdif](./Proteus/AVR.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00565B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00565B](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 3LW
 - Package Type : 	 VQFN
 - Pin count : 	 28,00
-- Package Layout : 	 [C04-00565B](./mchp/packages/C04-00565B.pdf)
-- Package 3d model wrl : 	 [C04-00565B](./Model3d/wrl/C04-00565B.wrl)
-- Package 3d model x3d : 	 [C04-00565B](./Model3d/x3d/C04-00565B.x3d)
-- Package 3d model scad : 	 [C04-00565B](./Model3d/scad/C04-00565B.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00565B.pdf](./mchp/packages/c04-00565b.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00565B.wrl) : 	 [C04-00565B.wrl](./Model3d/wrl/C04-00565B.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00565B.x3d) : 	 [C04-00565B.x3d](./Model3d/x3d/C04-00565B.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00565B.scad) : 	 [C04-00565B.scad](./Model3d/scad/C04-00565B.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 28
 - 1 : PA7,  of Type IO, alternates : [AC1 OUT_, PORTA PIN_7, CLKCTRL CLKOUT_, ADC0 AINN_27, EVSYS EVOUT_0, SPI0 SS_, USART0 XDIR_1, AC0 OUT_, ADC0 AINP_27]
 - 2 : PC0,  of Type IO, alternates : [USART1 TXD_, TCB2 WO_0, SPI0 SCK_, TCA0 WO_0, ADC0 AINN_28, SPI0 MOSI_, CCL LUT1_IN_0, ADC0 AINP_28, PORTC PIN_0]
@@ -2469,16 +2664,21 @@ Pin count : 28
 - Family : AVR
 - MF : Microchip
 - Name : AVR64EA32
+- Library Kicad : [AVR.kicad_sym](./KiCad/AVR.kicad_sym) 
+- Library Altium : [AVR.lia](./Altium/AVR.lia) 
+- Library Proteus : [AVR.pdif](./Proteus/AVR.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-21395C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-21395C](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 RXB
 - Package Type : 	 VQFN
 - Pin count : 	 32,00
-- Package Layout : 	 [C04-21395C](./mchp/packages/C04-21395C.pdf)
-- Package 3d model scad : 	 [C04-21395C](./Model3d/scad/C04-21395C.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-21395C.pdf](./mchp/packages/c04-21395c.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-21395C.scad) : 	 [C04-21395C.scad](./Model3d/scad/C04-21395C.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 32
 - 1 : PA3,  of Type IO, alternates : [PORTA PIN_3, USART0 XDIR_, CCL LUT0_OUT_, TCA0 WO_3, ADC0 AINP_23, USART0 RXD_2, TWI0 SCL_, ADC0 AINN_23, TCB1 WO_0]
 - 2 : PA4,  of Type IO, alternates : [ADC0 AINP_24, PORTA PIN_4, TCA0 WO_4, USART0 TXD_1, SPI0 MOSI_, ADC0 AINN_24]
@@ -2527,18 +2727,23 @@ Pin count : 32
 - Family : AVR
 - MF : Microchip
 - Name : AVR64EA48
+- Library Kicad : [AVR.kicad_sym](./KiCad/AVR.kicad_sym) 
+- Library Altium : [AVR.lia](./Altium/AVR.lia) 
+- Library Proteus : [AVR.pdif](./Proteus/AVR.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00494B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00494B](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 6LX
 - Package Type : 	 VQFN
 - Pin count : 	 48,00
-- Package Layout : 	 [C04-00494B](./mchp/packages/C04-00494B.pdf)
-- Package 3d model wrl : 	 [C04-00494B](./Model3d/wrl/C04-00494B.wrl)
-- Package 3d model x3d : 	 [C04-00494B](./Model3d/x3d/C04-00494B.x3d)
-- Package 3d model scad : 	 [C04-00494B](./Model3d/scad/C04-00494B.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00494B.pdf](./mchp/packages/c04-00494b.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00494B.wrl) : 	 [C04-00494B.wrl](./Model3d/wrl/C04-00494B.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00494B.x3d) : 	 [C04-00494B.x3d](./Model3d/x3d/C04-00494B.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00494B.scad) : 	 [C04-00494B.scad](./Model3d/scad/C04-00494B.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 48
 - 1 : PA5,  of Type IO, alternates : [PORTA PIN_5, USART0 RXD_1, SPI0 MISO_, TCA1 WO_1, TCA0 WO_5, ADC0 AINP_25, ADC0 AINN_25]
 - 2 : PA6,  of Type IO, alternates : [CCL LUT0_OUT_, PORTA PIN_6, SPI0 SCK_, ADC0 AINP_26, TCA1 WO_2, USART0 XCK_1, ADC0 AINN_26]

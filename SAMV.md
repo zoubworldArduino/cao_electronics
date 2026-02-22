@@ -14,15 +14,18 @@
 - Family : SAMV
 - MF : Microchip
 - Name : ATSAMV70J19B
+- Library Kicad : [SAMV.kicad_sym](./KiCad/SAMV.kicad_sym) 
+- Library Altium : [SAMV.lia](./Altium/SAMV.lia) 
+- Library Proteus : [SAMV.pdif](./Proteus/SAMV.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00053A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00053A](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 V6X
 - Package Type : 	 LQFP
 - Pin count : 	 64,00
-- Package Layout : 	 [C04-00053A](./mchp/packages/C04-00053A.pdf)
-- Package 3d model scad : 	 [C04-00053A](./Model3d/scad/C04-00053A.scad)
+- Package Layout : 	 [C04-00053A.pdf](./mchp/packages/c04-00053a.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00053A.scad) : 	 [C04-00053A.scad](./Model3d/scad/C04-00053A.scad)
 Pin count : 64
 - 40 : PA3,  of Type IO, alternates : [PMC PCK_2, USART1 LONCOL_1, TWIHS0 TWD_0, PIOA PIODC_0, PIOA P_3]
 - 34 : PA4,  of Type IO, alternates : [SUPC WKUP_3, TWIHS0 TWCK_0, TC0 TCLK_0, PIOA PIODC_1, PIOA P_4, UART1 UTXD_1]
@@ -103,15 +106,18 @@ Pin count : 64
 - Family : SAMV
 - MF : Microchip
 - Name : ATSAMV70J20B
+- Library Kicad : [SAMV.kicad_sym](./KiCad/SAMV.kicad_sym) 
+- Library Altium : [SAMV.lia](./Altium/SAMV.lia) 
+- Library Proteus : [SAMV.pdif](./Proteus/SAMV.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00053A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00053A](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 V6X
 - Package Type : 	 LQFP
 - Pin count : 	 64,00
-- Package Layout : 	 [C04-00053A](./mchp/packages/C04-00053A.pdf)
-- Package 3d model scad : 	 [C04-00053A](./Model3d/scad/C04-00053A.scad)
+- Package Layout : 	 [C04-00053A.pdf](./mchp/packages/c04-00053a.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00053A.scad) : 	 [C04-00053A.scad](./Model3d/scad/C04-00053A.scad)
 Pin count : 64
 - 40 : PA3,  of Type IO, alternates : [PMC PCK_2, USART1 LONCOL_1, TWIHS0 TWD_0, PIOA PIODC_0, PIOA P_3]
 - 34 : PA4,  of Type IO, alternates : [SUPC WKUP_3, TWIHS0 TWCK_0, TC0 TCLK_0, PIOA PIODC_1, PIOA P_4, UART1 UTXD_1]
@@ -192,6 +198,9 @@ Pin count : 64
 - Family : SAMV
 - MF : Microchip
 - Name : ATSAMV70N19B
+- Library Kicad : [SAMV.kicad_sym](./KiCad/SAMV.kicad_sym) 
+- Library Altium : [SAMV.lia](./Altium/SAMV.lia) 
+- Library Proteus : [SAMV.pdif](./Proteus/SAMV.pdif) 
 
 ### Package : 
 
@@ -311,16 +320,19 @@ Pin count : 100
 - Family : SAMV
 - MF : Microchip
 - Name : ATSAMV70N19B
+- Library Kicad : [SAMV.kicad_sym](./KiCad/SAMV.kicad_sym) 
+- Library Altium : [SAMV.lia](./Altium/SAMV.lia) 
+- Library Proteus : [SAMV.pdif](./Proteus/SAMV.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-21529D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-21529D](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 CQB
 - Package Type : 	 TFBGA
 - Pin count : 	 100,00
-- Package 3d model wrl : 	 [C04-21529D](./Model3d/wrl/C04-21529D.wrl)
-- Package 3d model x3d : 	 [C04-21529D](./Model3d/x3d/C04-21529D.x3d)
-- Package 3d model scad : 	 [C04-21529D](./Model3d/scad/C04-21529D.scad)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21529D.wrl) : 	 [C04-21529D.wrl](./Model3d/wrl/C04-21529D.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-21529D.x3d) : 	 [C04-21529D.x3d](./Model3d/x3d/C04-21529D.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-21529D.scad) : 	 [C04-21529D.scad](./Model3d/scad/C04-21529D.scad)
 Pin count : 100
 - D8 : PA0,  of Type IO, alternates : [I2SC0 MCK_, SUPC WKUP_0, TC0 TIOA_0, PIOA P_0, PWM0 PWMH_0]
 - C10 : PA1,  of Type IO, alternates : [I2SC0 CK_, SUPC WKUP_1, PWM0 PWML_0, PIOA P_1, TC0 TIOB_0]
@@ -437,6 +449,9 @@ Pin count : 100
 - Family : SAMV
 - MF : Microchip
 - Name : ATSAMV70N20B
+- Library Kicad : [SAMV.kicad_sym](./KiCad/SAMV.kicad_sym) 
+- Library Altium : [SAMV.lia](./Altium/SAMV.lia) 
+- Library Proteus : [SAMV.pdif](./Proteus/SAMV.pdif) 
 
 ### Package : 
 
@@ -556,16 +571,19 @@ Pin count : 100
 - Family : SAMV
 - MF : Microchip
 - Name : ATSAMV70N20B
+- Library Kicad : [SAMV.kicad_sym](./KiCad/SAMV.kicad_sym) 
+- Library Altium : [SAMV.lia](./Altium/SAMV.lia) 
+- Library Proteus : [SAMV.pdif](./Proteus/SAMV.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-21529D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-21529D](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 CQB
 - Package Type : 	 TFBGA
 - Pin count : 	 100,00
-- Package 3d model wrl : 	 [C04-21529D](./Model3d/wrl/C04-21529D.wrl)
-- Package 3d model x3d : 	 [C04-21529D](./Model3d/x3d/C04-21529D.x3d)
-- Package 3d model scad : 	 [C04-21529D](./Model3d/scad/C04-21529D.scad)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21529D.wrl) : 	 [C04-21529D.wrl](./Model3d/wrl/C04-21529D.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-21529D.x3d) : 	 [C04-21529D.x3d](./Model3d/x3d/C04-21529D.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-21529D.scad) : 	 [C04-21529D.scad](./Model3d/scad/C04-21529D.scad)
 Pin count : 100
 - D8 : PA0,  of Type IO, alternates : [I2SC0 MCK_, SUPC WKUP_0, TC0 TIOA_0, PIOA P_0, PWM0 PWMH_0]
 - C10 : PA1,  of Type IO, alternates : [I2SC0 CK_, SUPC WKUP_1, PWM0 PWML_0, PIOA P_1, TC0 TIOB_0]
@@ -682,15 +700,18 @@ Pin count : 100
 - Family : SAMV
 - MF : Microchip
 - Name : ATSAMV70Q19B
+- Library Kicad : [SAMV.kicad_sym](./KiCad/SAMV.kicad_sym) 
+- Library Altium : [SAMV.lia](./Altium/SAMV.lia) 
+- Library Proteus : [SAMV.pdif](./Proteus/SAMV.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00044D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00044D](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 H8X
 - Package Type : 	 LQFP
 - Pin count : 	 144,00
-- Package Layout : 	 [C04-00044D](./mchp/packages/C04-00044D.pdf)
-- Package 3d model scad : 	 [C04-00044D](./Model3d/scad/C04-00044D.scad)
+- Package Layout : 	 [C04-00044D.pdf](./mchp/packages/c04-00044d.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00044D.scad) : 	 [C04-00044D.scad](./Model3d/scad/C04-00044D.scad)
 Pin count : 144
 - 102 : PA0,  of Type IO, alternates : [I2SC0 MCK_, SUPC WKUP_0, TC0 TIOA_0, EBI A_17, PIOA P_0, PWM0 PWMH_0]
 - 99 : PA1,  of Type IO, alternates : [I2SC0 CK_, SUPC WKUP_1, EBI A_18, PWM0 PWML_0, PIOA P_1, TC0 TIOB_0]
@@ -851,17 +872,20 @@ Pin count : 144
 - Family : SAMV
 - MF : Microchip
 - Name : ATSAMV70Q19B
+- Library Kicad : [SAMV.kicad_sym](./KiCad/SAMV.kicad_sym) 
+- Library Altium : [SAMV.lia](./Altium/SAMV.lia) 
+- Library Proteus : [SAMV.pdif](./Proteus/SAMV.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-21137A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-21137A](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 B4B
 - Package Type : 	 TFBGA
 - Pin count : 	 144,00
-- Package Layout : 	 [C04-21137A](./mchp/packages/C04-21137A.pdf)
-- Package 3d model wrl : 	 [C04-21137A](./Model3d/wrl/C04-21137A.wrl)
-- Package 3d model x3d : 	 [C04-21137A](./Model3d/x3d/C04-21137A.x3d)
-- Package 3d model scad : 	 [C04-21137A](./Model3d/scad/C04-21137A.scad)
+- Package Layout : 	 [C04-21137A.pdf](./mchp/packages/c04-21137a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21137A.wrl) : 	 [C04-21137A.wrl](./Model3d/wrl/C04-21137A.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-21137A.x3d) : 	 [C04-21137A.x3d](./Model3d/x3d/C04-21137A.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-21137A.scad) : 	 [C04-21137A.scad](./Model3d/scad/C04-21137A.scad)
 Pin count : 144
 - A1 : PE1,  of Type IO, alternates : [I2SC1 DO_0, EBI D_9, PIOE P_129, TC3 TIOB_9]
 - A2 : PB9,  of Type IO, alternates : [PMC XIN_, PIOB P_41]
@@ -1022,15 +1046,18 @@ Pin count : 144
 - Family : SAMV
 - MF : Microchip
 - Name : ATSAMV70Q20B
+- Library Kicad : [SAMV.kicad_sym](./KiCad/SAMV.kicad_sym) 
+- Library Altium : [SAMV.lia](./Altium/SAMV.lia) 
+- Library Proteus : [SAMV.pdif](./Proteus/SAMV.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00044D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00044D](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 H8X
 - Package Type : 	 LQFP
 - Pin count : 	 144,00
-- Package Layout : 	 [C04-00044D](./mchp/packages/C04-00044D.pdf)
-- Package 3d model scad : 	 [C04-00044D](./Model3d/scad/C04-00044D.scad)
+- Package Layout : 	 [C04-00044D.pdf](./mchp/packages/c04-00044d.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00044D.scad) : 	 [C04-00044D.scad](./Model3d/scad/C04-00044D.scad)
 Pin count : 144
 - 102 : PA0,  of Type IO, alternates : [I2SC0 MCK_, SUPC WKUP_0, TC0 TIOA_0, EBI A_17, PIOA P_0, PWM0 PWMH_0]
 - 99 : PA1,  of Type IO, alternates : [I2SC0 CK_, SUPC WKUP_1, EBI A_18, PWM0 PWML_0, PIOA P_1, TC0 TIOB_0]
@@ -1191,17 +1218,20 @@ Pin count : 144
 - Family : SAMV
 - MF : Microchip
 - Name : ATSAMV70Q20B
+- Library Kicad : [SAMV.kicad_sym](./KiCad/SAMV.kicad_sym) 
+- Library Altium : [SAMV.lia](./Altium/SAMV.lia) 
+- Library Proteus : [SAMV.pdif](./Proteus/SAMV.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-21137A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-21137A](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 B4B
 - Package Type : 	 TFBGA
 - Pin count : 	 144,00
-- Package Layout : 	 [C04-21137A](./mchp/packages/C04-21137A.pdf)
-- Package 3d model wrl : 	 [C04-21137A](./Model3d/wrl/C04-21137A.wrl)
-- Package 3d model x3d : 	 [C04-21137A](./Model3d/x3d/C04-21137A.x3d)
-- Package 3d model scad : 	 [C04-21137A](./Model3d/scad/C04-21137A.scad)
+- Package Layout : 	 [C04-21137A.pdf](./mchp/packages/c04-21137a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21137A.wrl) : 	 [C04-21137A.wrl](./Model3d/wrl/C04-21137A.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-21137A.x3d) : 	 [C04-21137A.x3d](./Model3d/x3d/C04-21137A.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-21137A.scad) : 	 [C04-21137A.scad](./Model3d/scad/C04-21137A.scad)
 Pin count : 144
 - A1 : PE1,  of Type IO, alternates : [I2SC1 DO_0, EBI D_9, PIOE P_129, TC3 TIOB_9]
 - A2 : PB9,  of Type IO, alternates : [PMC XIN_, PIOB P_41]
@@ -1362,15 +1392,18 @@ Pin count : 144
 - Family : SAMV
 - MF : Microchip
 - Name : ATSAMV71J19B
+- Library Kicad : [SAMV.kicad_sym](./KiCad/SAMV.kicad_sym) 
+- Library Altium : [SAMV.lia](./Altium/SAMV.lia) 
+- Library Proteus : [SAMV.pdif](./Proteus/SAMV.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00053A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00053A](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 V6X
 - Package Type : 	 LQFP
 - Pin count : 	 64,00
-- Package Layout : 	 [C04-00053A](./mchp/packages/C04-00053A.pdf)
-- Package 3d model scad : 	 [C04-00053A](./Model3d/scad/C04-00053A.scad)
+- Package Layout : 	 [C04-00053A.pdf](./mchp/packages/c04-00053a.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00053A.scad) : 	 [C04-00053A.scad](./Model3d/scad/C04-00053A.scad)
 Pin count : 64
 - 40 : PA3,  of Type IO, alternates : [PMC PCK_2, USART1 LONCOL_1, TWIHS0 TWD_0, PIOA PIODC_0, PIOA P_3]
 - 34 : PA4,  of Type IO, alternates : [SUPC WKUP_3, TWIHS0 TWCK_0, TC0 TCLK_0, PIOA PIODC_1, PIOA P_4, UART1 UTXD_1]
@@ -1451,15 +1484,18 @@ Pin count : 64
 - Family : SAMV
 - MF : Microchip
 - Name : ATSAMV71J20B
+- Library Kicad : [SAMV.kicad_sym](./KiCad/SAMV.kicad_sym) 
+- Library Altium : [SAMV.lia](./Altium/SAMV.lia) 
+- Library Proteus : [SAMV.pdif](./Proteus/SAMV.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00053A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00053A](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 V6X
 - Package Type : 	 LQFP
 - Pin count : 	 64,00
-- Package Layout : 	 [C04-00053A](./mchp/packages/C04-00053A.pdf)
-- Package 3d model scad : 	 [C04-00053A](./Model3d/scad/C04-00053A.scad)
+- Package Layout : 	 [C04-00053A.pdf](./mchp/packages/c04-00053a.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00053A.scad) : 	 [C04-00053A.scad](./Model3d/scad/C04-00053A.scad)
 Pin count : 64
 - 40 : PA3,  of Type IO, alternates : [PMC PCK_2, USART1 LONCOL_1, TWIHS0 TWD_0, PIOA PIODC_0, PIOA P_3]
 - 34 : PA4,  of Type IO, alternates : [SUPC WKUP_3, TWIHS0 TWCK_0, TC0 TCLK_0, PIOA PIODC_1, PIOA P_4, UART1 UTXD_1]
@@ -1540,15 +1576,18 @@ Pin count : 64
 - Family : SAMV
 - MF : Microchip
 - Name : ATSAMV71J21B
+- Library Kicad : [SAMV.kicad_sym](./KiCad/SAMV.kicad_sym) 
+- Library Altium : [SAMV.lia](./Altium/SAMV.lia) 
+- Library Proteus : [SAMV.pdif](./Proteus/SAMV.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00053A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00053A](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 V6X
 - Package Type : 	 LQFP
 - Pin count : 	 64,00
-- Package Layout : 	 [C04-00053A](./mchp/packages/C04-00053A.pdf)
-- Package 3d model scad : 	 [C04-00053A](./Model3d/scad/C04-00053A.scad)
+- Package Layout : 	 [C04-00053A.pdf](./mchp/packages/c04-00053a.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00053A.scad) : 	 [C04-00053A.scad](./Model3d/scad/C04-00053A.scad)
 Pin count : 64
 - 40 : PA3,  of Type IO, alternates : [PMC PCK_2, USART1 LONCOL_1, TWIHS0 TWD_0, PIOA PIODC_0, PIOA P_3]
 - 34 : PA4,  of Type IO, alternates : [SUPC WKUP_3, TWIHS0 TWCK_0, TC0 TCLK_0, PIOA PIODC_1, PIOA P_4, UART1 UTXD_1]
@@ -1629,6 +1668,9 @@ Pin count : 64
 - Family : SAMV
 - MF : Microchip
 - Name : ATSAMV71N19B
+- Library Kicad : [SAMV.kicad_sym](./KiCad/SAMV.kicad_sym) 
+- Library Altium : [SAMV.lia](./Altium/SAMV.lia) 
+- Library Proteus : [SAMV.pdif](./Proteus/SAMV.pdif) 
 
 ### Package : 
 
@@ -1748,16 +1790,19 @@ Pin count : 100
 - Family : SAMV
 - MF : Microchip
 - Name : ATSAMV71N19B
+- Library Kicad : [SAMV.kicad_sym](./KiCad/SAMV.kicad_sym) 
+- Library Altium : [SAMV.lia](./Altium/SAMV.lia) 
+- Library Proteus : [SAMV.pdif](./Proteus/SAMV.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-21529D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-21529D](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 CQB
 - Package Type : 	 TFBGA
 - Pin count : 	 100,00
-- Package 3d model wrl : 	 [C04-21529D](./Model3d/wrl/C04-21529D.wrl)
-- Package 3d model x3d : 	 [C04-21529D](./Model3d/x3d/C04-21529D.x3d)
-- Package 3d model scad : 	 [C04-21529D](./Model3d/scad/C04-21529D.scad)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21529D.wrl) : 	 [C04-21529D.wrl](./Model3d/wrl/C04-21529D.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-21529D.x3d) : 	 [C04-21529D.x3d](./Model3d/x3d/C04-21529D.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-21529D.scad) : 	 [C04-21529D.scad](./Model3d/scad/C04-21529D.scad)
 Pin count : 100
 - D8 : PA0,  of Type IO, alternates : [I2SC0 MCK_, SUPC WKUP_0, TC0 TIOA_0, PIOA P_0, PWM0 PWMH_0]
 - C10 : PA1,  of Type IO, alternates : [I2SC0 CK_, SUPC WKUP_1, PWM0 PWML_0, PIOA P_1, TC0 TIOB_0]
@@ -1874,6 +1919,9 @@ Pin count : 100
 - Family : SAMV
 - MF : Microchip
 - Name : ATSAMV71N20B
+- Library Kicad : [SAMV.kicad_sym](./KiCad/SAMV.kicad_sym) 
+- Library Altium : [SAMV.lia](./Altium/SAMV.lia) 
+- Library Proteus : [SAMV.pdif](./Proteus/SAMV.pdif) 
 
 ### Package : 
 
@@ -1993,16 +2041,19 @@ Pin count : 100
 - Family : SAMV
 - MF : Microchip
 - Name : ATSAMV71N20B
+- Library Kicad : [SAMV.kicad_sym](./KiCad/SAMV.kicad_sym) 
+- Library Altium : [SAMV.lia](./Altium/SAMV.lia) 
+- Library Proteus : [SAMV.pdif](./Proteus/SAMV.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-21529D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-21529D](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 CQB
 - Package Type : 	 TFBGA
 - Pin count : 	 100,00
-- Package 3d model wrl : 	 [C04-21529D](./Model3d/wrl/C04-21529D.wrl)
-- Package 3d model x3d : 	 [C04-21529D](./Model3d/x3d/C04-21529D.x3d)
-- Package 3d model scad : 	 [C04-21529D](./Model3d/scad/C04-21529D.scad)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21529D.wrl) : 	 [C04-21529D.wrl](./Model3d/wrl/C04-21529D.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-21529D.x3d) : 	 [C04-21529D.x3d](./Model3d/x3d/C04-21529D.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-21529D.scad) : 	 [C04-21529D.scad](./Model3d/scad/C04-21529D.scad)
 Pin count : 100
 - D8 : PA0,  of Type IO, alternates : [I2SC0 MCK_, SUPC WKUP_0, TC0 TIOA_0, PIOA P_0, PWM0 PWMH_0]
 - C10 : PA1,  of Type IO, alternates : [I2SC0 CK_, SUPC WKUP_1, PWM0 PWML_0, PIOA P_1, TC0 TIOB_0]
@@ -2119,6 +2170,9 @@ Pin count : 100
 - Family : SAMV
 - MF : Microchip
 - Name : ATSAMV71N21B
+- Library Kicad : [SAMV.kicad_sym](./KiCad/SAMV.kicad_sym) 
+- Library Altium : [SAMV.lia](./Altium/SAMV.lia) 
+- Library Proteus : [SAMV.pdif](./Proteus/SAMV.pdif) 
 
 ### Package : 
 
@@ -2238,16 +2292,19 @@ Pin count : 100
 - Family : SAMV
 - MF : Microchip
 - Name : ATSAMV71N21B
+- Library Kicad : [SAMV.kicad_sym](./KiCad/SAMV.kicad_sym) 
+- Library Altium : [SAMV.lia](./Altium/SAMV.lia) 
+- Library Proteus : [SAMV.pdif](./Proteus/SAMV.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-21529D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-21529D](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 CQB
 - Package Type : 	 TFBGA
 - Pin count : 	 100,00
-- Package 3d model wrl : 	 [C04-21529D](./Model3d/wrl/C04-21529D.wrl)
-- Package 3d model x3d : 	 [C04-21529D](./Model3d/x3d/C04-21529D.x3d)
-- Package 3d model scad : 	 [C04-21529D](./Model3d/scad/C04-21529D.scad)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21529D.wrl) : 	 [C04-21529D.wrl](./Model3d/wrl/C04-21529D.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-21529D.x3d) : 	 [C04-21529D.x3d](./Model3d/x3d/C04-21529D.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-21529D.scad) : 	 [C04-21529D.scad](./Model3d/scad/C04-21529D.scad)
 Pin count : 100
 - D8 : PA0,  of Type IO, alternates : [I2SC0 MCK_, SUPC WKUP_0, TC0 TIOA_0, PIOA P_0, PWM0 PWMH_0]
 - C10 : PA1,  of Type IO, alternates : [I2SC0 CK_, SUPC WKUP_1, PWM0 PWML_0, PIOA P_1, TC0 TIOB_0]
@@ -2364,15 +2421,18 @@ Pin count : 100
 - Family : SAMV
 - MF : Microchip
 - Name : ATSAMV71Q19B
+- Library Kicad : [SAMV.kicad_sym](./KiCad/SAMV.kicad_sym) 
+- Library Altium : [SAMV.lia](./Altium/SAMV.lia) 
+- Library Proteus : [SAMV.pdif](./Proteus/SAMV.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00044D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00044D](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 H8X
 - Package Type : 	 LQFP
 - Pin count : 	 144,00
-- Package Layout : 	 [C04-00044D](./mchp/packages/C04-00044D.pdf)
-- Package 3d model scad : 	 [C04-00044D](./Model3d/scad/C04-00044D.scad)
+- Package Layout : 	 [C04-00044D.pdf](./mchp/packages/c04-00044d.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00044D.scad) : 	 [C04-00044D.scad](./Model3d/scad/C04-00044D.scad)
 Pin count : 144
 - 102 : PA0,  of Type IO, alternates : [I2SC0 MCK_, SUPC WKUP_0, TC0 TIOA_0, EBI A_17, PIOA P_0, PWM0 PWMH_0]
 - 99 : PA1,  of Type IO, alternates : [I2SC0 CK_, SUPC WKUP_1, EBI A_18, PWM0 PWML_0, PIOA P_1, TC0 TIOB_0]
@@ -2533,17 +2593,20 @@ Pin count : 144
 - Family : SAMV
 - MF : Microchip
 - Name : ATSAMV71Q19B
+- Library Kicad : [SAMV.kicad_sym](./KiCad/SAMV.kicad_sym) 
+- Library Altium : [SAMV.lia](./Altium/SAMV.lia) 
+- Library Proteus : [SAMV.pdif](./Proteus/SAMV.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-21137A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-21137A](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 B4B
 - Package Type : 	 TFBGA
 - Pin count : 	 144,00
-- Package Layout : 	 [C04-21137A](./mchp/packages/C04-21137A.pdf)
-- Package 3d model wrl : 	 [C04-21137A](./Model3d/wrl/C04-21137A.wrl)
-- Package 3d model x3d : 	 [C04-21137A](./Model3d/x3d/C04-21137A.x3d)
-- Package 3d model scad : 	 [C04-21137A](./Model3d/scad/C04-21137A.scad)
+- Package Layout : 	 [C04-21137A.pdf](./mchp/packages/c04-21137a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21137A.wrl) : 	 [C04-21137A.wrl](./Model3d/wrl/C04-21137A.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-21137A.x3d) : 	 [C04-21137A.x3d](./Model3d/x3d/C04-21137A.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-21137A.scad) : 	 [C04-21137A.scad](./Model3d/scad/C04-21137A.scad)
 Pin count : 144
 - A1 : PE1,  of Type IO, alternates : [I2SC1 DO_0, EBI D_9, PIOE P_129, TC3 TIOB_9]
 - A2 : PB9,  of Type IO, alternates : [PMC XIN_, PIOB P_41]
@@ -2704,15 +2767,18 @@ Pin count : 144
 - Family : SAMV
 - MF : Microchip
 - Name : ATSAMV71Q20B
+- Library Kicad : [SAMV.kicad_sym](./KiCad/SAMV.kicad_sym) 
+- Library Altium : [SAMV.lia](./Altium/SAMV.lia) 
+- Library Proteus : [SAMV.pdif](./Proteus/SAMV.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00044D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00044D](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 H8X
 - Package Type : 	 LQFP
 - Pin count : 	 144,00
-- Package Layout : 	 [C04-00044D](./mchp/packages/C04-00044D.pdf)
-- Package 3d model scad : 	 [C04-00044D](./Model3d/scad/C04-00044D.scad)
+- Package Layout : 	 [C04-00044D.pdf](./mchp/packages/c04-00044d.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00044D.scad) : 	 [C04-00044D.scad](./Model3d/scad/C04-00044D.scad)
 Pin count : 144
 - 102 : PA0,  of Type IO, alternates : [I2SC0 MCK_, SUPC WKUP_0, TC0 TIOA_0, EBI A_17, PIOA P_0, PWM0 PWMH_0]
 - 99 : PA1,  of Type IO, alternates : [I2SC0 CK_, SUPC WKUP_1, EBI A_18, PWM0 PWML_0, PIOA P_1, TC0 TIOB_0]
@@ -2873,17 +2939,20 @@ Pin count : 144
 - Family : SAMV
 - MF : Microchip
 - Name : ATSAMV71Q20B
+- Library Kicad : [SAMV.kicad_sym](./KiCad/SAMV.kicad_sym) 
+- Library Altium : [SAMV.lia](./Altium/SAMV.lia) 
+- Library Proteus : [SAMV.pdif](./Proteus/SAMV.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-21137A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-21137A](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 B4B
 - Package Type : 	 TFBGA
 - Pin count : 	 144,00
-- Package Layout : 	 [C04-21137A](./mchp/packages/C04-21137A.pdf)
-- Package 3d model wrl : 	 [C04-21137A](./Model3d/wrl/C04-21137A.wrl)
-- Package 3d model x3d : 	 [C04-21137A](./Model3d/x3d/C04-21137A.x3d)
-- Package 3d model scad : 	 [C04-21137A](./Model3d/scad/C04-21137A.scad)
+- Package Layout : 	 [C04-21137A.pdf](./mchp/packages/c04-21137a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21137A.wrl) : 	 [C04-21137A.wrl](./Model3d/wrl/C04-21137A.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-21137A.x3d) : 	 [C04-21137A.x3d](./Model3d/x3d/C04-21137A.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-21137A.scad) : 	 [C04-21137A.scad](./Model3d/scad/C04-21137A.scad)
 Pin count : 144
 - A1 : PE1,  of Type IO, alternates : [I2SC1 DO_0, EBI D_9, PIOE P_129, TC3 TIOB_9]
 - A2 : PB9,  of Type IO, alternates : [PMC XIN_, PIOB P_41]
@@ -3044,15 +3113,18 @@ Pin count : 144
 - Family : SAMV
 - MF : Microchip
 - Name : ATSAMV71Q21B
+- Library Kicad : [SAMV.kicad_sym](./KiCad/SAMV.kicad_sym) 
+- Library Altium : [SAMV.lia](./Altium/SAMV.lia) 
+- Library Proteus : [SAMV.pdif](./Proteus/SAMV.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00044D](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00044D](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 H8X
 - Package Type : 	 LQFP
 - Pin count : 	 144,00
-- Package Layout : 	 [C04-00044D](./mchp/packages/C04-00044D.pdf)
-- Package 3d model scad : 	 [C04-00044D](./Model3d/scad/C04-00044D.scad)
+- Package Layout : 	 [C04-00044D.pdf](./mchp/packages/c04-00044d.pdf)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00044D.scad) : 	 [C04-00044D.scad](./Model3d/scad/C04-00044D.scad)
 Pin count : 144
 - 102 : PA0,  of Type IO, alternates : [I2SC0 MCK_, SUPC WKUP_0, TC0 TIOA_0, EBI A_17, PIOA P_0, PWM0 PWMH_0]
 - 99 : PA1,  of Type IO, alternates : [I2SC0 CK_, SUPC WKUP_1, EBI A_18, PWM0 PWML_0, PIOA P_1, TC0 TIOB_0]
@@ -3213,17 +3285,20 @@ Pin count : 144
 - Family : SAMV
 - MF : Microchip
 - Name : ATSAMV71Q21B
+- Library Kicad : [SAMV.kicad_sym](./KiCad/SAMV.kicad_sym) 
+- Library Altium : [SAMV.lia](./Altium/SAMV.lia) 
+- Library Proteus : [SAMV.pdif](./Proteus/SAMV.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-21137A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-21137A](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 B4B
 - Package Type : 	 TFBGA
 - Pin count : 	 144,00
-- Package Layout : 	 [C04-21137A](./mchp/packages/C04-21137A.pdf)
-- Package 3d model wrl : 	 [C04-21137A](./Model3d/wrl/C04-21137A.wrl)
-- Package 3d model x3d : 	 [C04-21137A](./Model3d/x3d/C04-21137A.x3d)
-- Package 3d model scad : 	 [C04-21137A](./Model3d/scad/C04-21137A.scad)
+- Package Layout : 	 [C04-21137A.pdf](./mchp/packages/c04-21137a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-21137A.wrl) : 	 [C04-21137A.wrl](./Model3d/wrl/C04-21137A.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-21137A.x3d) : 	 [C04-21137A.x3d](./Model3d/x3d/C04-21137A.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-21137A.scad) : 	 [C04-21137A.scad](./Model3d/scad/C04-21137A.scad)
 Pin count : 144
 - A1 : PE1,  of Type IO, alternates : [I2SC1 DO_0, EBI D_9, PIOE P_129, TC3 TIOB_9]
 - A2 : PB9,  of Type IO, alternates : [PMC XIN_, PIOB P_41]
@@ -3384,6 +3459,9 @@ Pin count : 144
 - Family : SAMV
 - MF : Microchip
 - Name : ATSAMV71Q21RT
+- Library Kicad : [SAMV.kicad_sym](./KiCad/SAMV.kicad_sym) 
+- Library Altium : [SAMV.lia](./Altium/SAMV.lia) 
+- Library Proteus : [SAMV.pdif](./Proteus/SAMV.pdif) 
 
 ### Package : 
 
@@ -3547,6 +3625,9 @@ Pin count : 144
 - Family : SAMV
 - MF : Microchip
 - Name : ATSAMV71Q21RT
+- Library Kicad : [SAMV.kicad_sym](./KiCad/SAMV.kicad_sym) 
+- Library Altium : [SAMV.lia](./Altium/SAMV.lia) 
+- Library Proteus : [SAMV.pdif](./Proteus/SAMV.pdif) 
 
 ### Package : 
 

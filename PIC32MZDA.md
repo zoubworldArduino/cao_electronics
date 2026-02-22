@@ -14,18 +14,23 @@
 - Family : PIC32MZDA
 - MF : Microchip
 - Name : PIC32MZ1025DAA169
+- Library Kicad : [PIC32MZDA.kicad_sym](./KiCad/PIC32MZDA.kicad_sym) 
+- Library Altium : [PIC32MZDA.lia](./Altium/PIC32MZDA.lia) 
+- Library Proteus : [PIC32MZDA.pdif](./Proteus/PIC32MZDA.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00365B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00365B](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 HFX
 - Package Type : 	 LFBGA
 - Pin count : 	 169,00
-- Package Layout : 	 [C04-00365B](./mchp/packages/C04-00365B.pdf)
-- Package 3d model wrl : 	 [C04-00365B](./Model3d/wrl/C04-00365B.wrl)
-- Package 3d model x3d : 	 [C04-00365B](./Model3d/x3d/C04-00365B.x3d)
-- Package 3d model scad : 	 [C04-00365B](./Model3d/scad/C04-00365B.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00365B.pdf](./mchp/packages/c04-00365b.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00365B.wrl) : 	 [C04-00365B.wrl](./Model3d/wrl/C04-00365B.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00365B.x3d) : 	 [C04-00365B.x3d](./Model3d/x3d/C04-00365B.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00365B.scad) : 	 [C04-00365B.scad](./Model3d/scad/C04-00365B.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MZ1025DAA176
 
@@ -42,18 +47,23 @@ Pin count : 0
 - Family : PIC32MZDA
 - MF : Microchip
 - Name : PIC32MZ1025DAA176
+- Library Kicad : [PIC32MZDA.kicad_sym](./KiCad/PIC32MZDA.kicad_sym) 
+- Library Altium : [PIC32MZDA.lia](./Altium/PIC32MZDA.lia) 
+- Library Proteus : [PIC32MZDA.pdif](./Proteus/PIC32MZDA.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00367A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00367A](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 2JX
 - Package Type : 	 LQFP
 - Pin count : 	 176,00
-- Package Layout : 	 [C04-00367A](./mchp/packages/C04-00367A.pdf)
-- Package 3d model wrl : 	 [C04-00367A](./Model3d/wrl/C04-00367A.wrl)
-- Package 3d model x3d : 	 [C04-00367A](./Model3d/x3d/C04-00367A.x3d)
-- Package 3d model scad : 	 [C04-00367A](./Model3d/scad/C04-00367A.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00367A.pdf](./mchp/packages/c04-00367a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00367A.wrl) : 	 [C04-00367A.wrl](./Model3d/wrl/C04-00367A.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00367A.x3d) : 	 [C04-00367A.x3d](./Model3d/x3d/C04-00367A.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00367A.scad) : 	 [C04-00367A.scad](./Model3d/scad/C04-00367A.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MZ1025DAA288
 
@@ -70,18 +80,23 @@ Pin count : 0
 - Family : PIC32MZDA
 - MF : Microchip
 - Name : PIC32MZ1025DAA288
+- Library Kicad : [PIC32MZDA.kicad_sym](./KiCad/PIC32MZDA.kicad_sym) 
+- Library Altium : [PIC32MZDA.lia](./Altium/PIC32MZDA.lia) 
+- Library Proteus : [PIC32MZDA.pdif](./Proteus/PIC32MZDA.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00366C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00366C](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 4JX
 - Package Type : 	 LFBGA
 - Pin count : 	 288,00
-- Package Layout : 	 [C04-00366C](./mchp/packages/C04-00366C.pdf)
-- Package 3d model wrl : 	 [C04-00366C](./Model3d/wrl/C04-00366C.wrl)
-- Package 3d model x3d : 	 [C04-00366C](./Model3d/x3d/C04-00366C.x3d)
-- Package 3d model scad : 	 [C04-00366C](./Model3d/scad/C04-00366C.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00366C.pdf](./mchp/packages/c04-00366c.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00366C.wrl) : 	 [C04-00366C.wrl](./Model3d/wrl/C04-00366C.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00366C.x3d) : 	 [C04-00366C.x3d](./Model3d/x3d/C04-00366C.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00366C.scad) : 	 [C04-00366C.scad](./Model3d/scad/C04-00366C.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MZ1025DAB169
 
@@ -98,18 +113,23 @@ Pin count : 0
 - Family : PIC32MZDA
 - MF : Microchip
 - Name : PIC32MZ1025DAB169
+- Library Kicad : [PIC32MZDA.kicad_sym](./KiCad/PIC32MZDA.kicad_sym) 
+- Library Altium : [PIC32MZDA.lia](./Altium/PIC32MZDA.lia) 
+- Library Proteus : [PIC32MZDA.pdif](./Proteus/PIC32MZDA.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00365B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00365B](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 HFX
 - Package Type : 	 LFBGA
 - Pin count : 	 169,00
-- Package Layout : 	 [C04-00365B](./mchp/packages/C04-00365B.pdf)
-- Package 3d model wrl : 	 [C04-00365B](./Model3d/wrl/C04-00365B.wrl)
-- Package 3d model x3d : 	 [C04-00365B](./Model3d/x3d/C04-00365B.x3d)
-- Package 3d model scad : 	 [C04-00365B](./Model3d/scad/C04-00365B.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00365B.pdf](./mchp/packages/c04-00365b.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00365B.wrl) : 	 [C04-00365B.wrl](./Model3d/wrl/C04-00365B.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00365B.x3d) : 	 [C04-00365B.x3d](./Model3d/x3d/C04-00365B.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00365B.scad) : 	 [C04-00365B.scad](./Model3d/scad/C04-00365B.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MZ1025DAB176
 
@@ -126,18 +146,23 @@ Pin count : 0
 - Family : PIC32MZDA
 - MF : Microchip
 - Name : PIC32MZ1025DAB176
+- Library Kicad : [PIC32MZDA.kicad_sym](./KiCad/PIC32MZDA.kicad_sym) 
+- Library Altium : [PIC32MZDA.lia](./Altium/PIC32MZDA.lia) 
+- Library Proteus : [PIC32MZDA.pdif](./Proteus/PIC32MZDA.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00367A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00367A](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 2JX
 - Package Type : 	 LQFP
 - Pin count : 	 176,00
-- Package Layout : 	 [C04-00367A](./mchp/packages/C04-00367A.pdf)
-- Package 3d model wrl : 	 [C04-00367A](./Model3d/wrl/C04-00367A.wrl)
-- Package 3d model x3d : 	 [C04-00367A](./Model3d/x3d/C04-00367A.x3d)
-- Package 3d model scad : 	 [C04-00367A](./Model3d/scad/C04-00367A.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00367A.pdf](./mchp/packages/c04-00367a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00367A.wrl) : 	 [C04-00367A.wrl](./Model3d/wrl/C04-00367A.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00367A.x3d) : 	 [C04-00367A.x3d](./Model3d/x3d/C04-00367A.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00367A.scad) : 	 [C04-00367A.scad](./Model3d/scad/C04-00367A.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MZ1025DAB288
 
@@ -154,18 +179,23 @@ Pin count : 0
 - Family : PIC32MZDA
 - MF : Microchip
 - Name : PIC32MZ1025DAB288
+- Library Kicad : [PIC32MZDA.kicad_sym](./KiCad/PIC32MZDA.kicad_sym) 
+- Library Altium : [PIC32MZDA.lia](./Altium/PIC32MZDA.lia) 
+- Library Proteus : [PIC32MZDA.pdif](./Proteus/PIC32MZDA.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00366C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00366C](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 4JX
 - Package Type : 	 LFBGA
 - Pin count : 	 288,00
-- Package Layout : 	 [C04-00366C](./mchp/packages/C04-00366C.pdf)
-- Package 3d model wrl : 	 [C04-00366C](./Model3d/wrl/C04-00366C.wrl)
-- Package 3d model x3d : 	 [C04-00366C](./Model3d/x3d/C04-00366C.x3d)
-- Package 3d model scad : 	 [C04-00366C](./Model3d/scad/C04-00366C.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00366C.pdf](./mchp/packages/c04-00366c.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00366C.wrl) : 	 [C04-00366C.wrl](./Model3d/wrl/C04-00366C.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00366C.x3d) : 	 [C04-00366C.x3d](./Model3d/x3d/C04-00366C.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00366C.scad) : 	 [C04-00366C.scad](./Model3d/scad/C04-00366C.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MZ1025DAG169
 
@@ -182,18 +212,23 @@ Pin count : 0
 - Family : PIC32MZDA
 - MF : Microchip
 - Name : PIC32MZ1025DAG169
+- Library Kicad : [PIC32MZDA.kicad_sym](./KiCad/PIC32MZDA.kicad_sym) 
+- Library Altium : [PIC32MZDA.lia](./Altium/PIC32MZDA.lia) 
+- Library Proteus : [PIC32MZDA.pdif](./Proteus/PIC32MZDA.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00439C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00439C](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 6JX
 - Package Type : 	 LFBGA
 - Pin count : 	 169,00
-- Package Layout : 	 [C04-00439C](./mchp/packages/C04-00439C.pdf)
-- Package 3d model wrl : 	 [C04-00439C](./Model3d/wrl/C04-00439C.wrl)
-- Package 3d model x3d : 	 [C04-00439C](./Model3d/x3d/C04-00439C.x3d)
-- Package 3d model scad : 	 [C04-00439C](./Model3d/scad/C04-00439C.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00439C.pdf](./mchp/packages/c04-00439c.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00439C.wrl) : 	 [C04-00439C.wrl](./Model3d/wrl/C04-00439C.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00439C.x3d) : 	 [C04-00439C.x3d](./Model3d/x3d/C04-00439C.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00439C.scad) : 	 [C04-00439C.scad](./Model3d/scad/C04-00439C.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MZ1025DAG176
 
@@ -210,18 +245,23 @@ Pin count : 0
 - Family : PIC32MZDA
 - MF : Microchip
 - Name : PIC32MZ1025DAG176
+- Library Kicad : [PIC32MZDA.kicad_sym](./KiCad/PIC32MZDA.kicad_sym) 
+- Library Altium : [PIC32MZDA.lia](./Altium/PIC32MZDA.lia) 
+- Library Proteus : [PIC32MZDA.pdif](./Proteus/PIC32MZDA.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00367A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00367A](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 2JX
 - Package Type : 	 LQFP
 - Pin count : 	 176,00
-- Package Layout : 	 [C04-00367A](./mchp/packages/C04-00367A.pdf)
-- Package 3d model wrl : 	 [C04-00367A](./Model3d/wrl/C04-00367A.wrl)
-- Package 3d model x3d : 	 [C04-00367A](./Model3d/x3d/C04-00367A.x3d)
-- Package 3d model scad : 	 [C04-00367A](./Model3d/scad/C04-00367A.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00367A.pdf](./mchp/packages/c04-00367a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00367A.wrl) : 	 [C04-00367A.wrl](./Model3d/wrl/C04-00367A.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00367A.x3d) : 	 [C04-00367A.x3d](./Model3d/x3d/C04-00367A.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00367A.scad) : 	 [C04-00367A.scad](./Model3d/scad/C04-00367A.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MZ1025DAH169
 
@@ -238,18 +278,23 @@ Pin count : 0
 - Family : PIC32MZDA
 - MF : Microchip
 - Name : PIC32MZ1025DAH169
+- Library Kicad : [PIC32MZDA.kicad_sym](./KiCad/PIC32MZDA.kicad_sym) 
+- Library Altium : [PIC32MZDA.lia](./Altium/PIC32MZDA.lia) 
+- Library Proteus : [PIC32MZDA.pdif](./Proteus/PIC32MZDA.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00439C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00439C](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 6JX
 - Package Type : 	 LFBGA
 - Pin count : 	 169,00
-- Package Layout : 	 [C04-00439C](./mchp/packages/C04-00439C.pdf)
-- Package 3d model wrl : 	 [C04-00439C](./Model3d/wrl/C04-00439C.wrl)
-- Package 3d model x3d : 	 [C04-00439C](./Model3d/x3d/C04-00439C.x3d)
-- Package 3d model scad : 	 [C04-00439C](./Model3d/scad/C04-00439C.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00439C.pdf](./mchp/packages/c04-00439c.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00439C.wrl) : 	 [C04-00439C.wrl](./Model3d/wrl/C04-00439C.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00439C.x3d) : 	 [C04-00439C.x3d](./Model3d/x3d/C04-00439C.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00439C.scad) : 	 [C04-00439C.scad](./Model3d/scad/C04-00439C.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MZ1025DAH176
 
@@ -266,18 +311,23 @@ Pin count : 0
 - Family : PIC32MZDA
 - MF : Microchip
 - Name : PIC32MZ1025DAH176
+- Library Kicad : [PIC32MZDA.kicad_sym](./KiCad/PIC32MZDA.kicad_sym) 
+- Library Altium : [PIC32MZDA.lia](./Altium/PIC32MZDA.lia) 
+- Library Proteus : [PIC32MZDA.pdif](./Proteus/PIC32MZDA.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00367A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00367A](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 2JX
 - Package Type : 	 LQFP
 - Pin count : 	 176,00
-- Package Layout : 	 [C04-00367A](./mchp/packages/C04-00367A.pdf)
-- Package 3d model wrl : 	 [C04-00367A](./Model3d/wrl/C04-00367A.wrl)
-- Package 3d model x3d : 	 [C04-00367A](./Model3d/x3d/C04-00367A.x3d)
-- Package 3d model scad : 	 [C04-00367A](./Model3d/scad/C04-00367A.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00367A.pdf](./mchp/packages/c04-00367a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00367A.wrl) : 	 [C04-00367A.wrl](./Model3d/wrl/C04-00367A.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00367A.x3d) : 	 [C04-00367A.x3d](./Model3d/x3d/C04-00367A.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00367A.scad) : 	 [C04-00367A.scad](./Model3d/scad/C04-00367A.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MZ1025DAK169
 
@@ -294,18 +344,23 @@ Pin count : 0
 - Family : PIC32MZDA
 - MF : Microchip
 - Name : PIC32MZ1025DAK169
+- Library Kicad : [PIC32MZDA.kicad_sym](./KiCad/PIC32MZDA.kicad_sym) 
+- Library Altium : [PIC32MZDA.lia](./Altium/PIC32MZDA.lia) 
+- Library Proteus : [PIC32MZDA.pdif](./Proteus/PIC32MZDA.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00365B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00365B](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 HFX
 - Package Type : 	 LFBGA
 - Pin count : 	 169,00
-- Package Layout : 	 [C04-00365B](./mchp/packages/C04-00365B.pdf)
-- Package 3d model wrl : 	 [C04-00365B](./Model3d/wrl/C04-00365B.wrl)
-- Package 3d model x3d : 	 [C04-00365B](./Model3d/x3d/C04-00365B.x3d)
-- Package 3d model scad : 	 [C04-00365B](./Model3d/scad/C04-00365B.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00365B.pdf](./mchp/packages/c04-00365b.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00365B.wrl) : 	 [C04-00365B.wrl](./Model3d/wrl/C04-00365B.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00365B.x3d) : 	 [C04-00365B.x3d](./Model3d/x3d/C04-00365B.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00365B.scad) : 	 [C04-00365B.scad](./Model3d/scad/C04-00365B.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MZ1025DAK176
 
@@ -322,18 +377,23 @@ Pin count : 0
 - Family : PIC32MZDA
 - MF : Microchip
 - Name : PIC32MZ1025DAK176
+- Library Kicad : [PIC32MZDA.kicad_sym](./KiCad/PIC32MZDA.kicad_sym) 
+- Library Altium : [PIC32MZDA.lia](./Altium/PIC32MZDA.lia) 
+- Library Proteus : [PIC32MZDA.pdif](./Proteus/PIC32MZDA.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00367A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00367A](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 2JX
 - Package Type : 	 LQFP
 - Pin count : 	 176,00
-- Package Layout : 	 [C04-00367A](./mchp/packages/C04-00367A.pdf)
-- Package 3d model wrl : 	 [C04-00367A](./Model3d/wrl/C04-00367A.wrl)
-- Package 3d model x3d : 	 [C04-00367A](./Model3d/x3d/C04-00367A.x3d)
-- Package 3d model scad : 	 [C04-00367A](./Model3d/scad/C04-00367A.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00367A.pdf](./mchp/packages/c04-00367a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00367A.wrl) : 	 [C04-00367A.wrl](./Model3d/wrl/C04-00367A.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00367A.x3d) : 	 [C04-00367A.x3d](./Model3d/x3d/C04-00367A.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00367A.scad) : 	 [C04-00367A.scad](./Model3d/scad/C04-00367A.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MZ1025DAL169
 
@@ -350,18 +410,23 @@ Pin count : 0
 - Family : PIC32MZDA
 - MF : Microchip
 - Name : PIC32MZ1025DAL169
+- Library Kicad : [PIC32MZDA.kicad_sym](./KiCad/PIC32MZDA.kicad_sym) 
+- Library Altium : [PIC32MZDA.lia](./Altium/PIC32MZDA.lia) 
+- Library Proteus : [PIC32MZDA.pdif](./Proteus/PIC32MZDA.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00365B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00365B](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 HFX
 - Package Type : 	 LFBGA
 - Pin count : 	 169,00
-- Package Layout : 	 [C04-00365B](./mchp/packages/C04-00365B.pdf)
-- Package 3d model wrl : 	 [C04-00365B](./Model3d/wrl/C04-00365B.wrl)
-- Package 3d model x3d : 	 [C04-00365B](./Model3d/x3d/C04-00365B.x3d)
-- Package 3d model scad : 	 [C04-00365B](./Model3d/scad/C04-00365B.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00365B.pdf](./mchp/packages/c04-00365b.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00365B.wrl) : 	 [C04-00365B.wrl](./Model3d/wrl/C04-00365B.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00365B.x3d) : 	 [C04-00365B.x3d](./Model3d/x3d/C04-00365B.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00365B.scad) : 	 [C04-00365B.scad](./Model3d/scad/C04-00365B.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MZ1025DAL176
 
@@ -378,18 +443,23 @@ Pin count : 0
 - Family : PIC32MZDA
 - MF : Microchip
 - Name : PIC32MZ1025DAL176
+- Library Kicad : [PIC32MZDA.kicad_sym](./KiCad/PIC32MZDA.kicad_sym) 
+- Library Altium : [PIC32MZDA.lia](./Altium/PIC32MZDA.lia) 
+- Library Proteus : [PIC32MZDA.pdif](./Proteus/PIC32MZDA.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00367A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00367A](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 2JX
 - Package Type : 	 LQFP
 - Pin count : 	 176,00
-- Package Layout : 	 [C04-00367A](./mchp/packages/C04-00367A.pdf)
-- Package 3d model wrl : 	 [C04-00367A](./Model3d/wrl/C04-00367A.wrl)
-- Package 3d model x3d : 	 [C04-00367A](./Model3d/x3d/C04-00367A.x3d)
-- Package 3d model scad : 	 [C04-00367A](./Model3d/scad/C04-00367A.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00367A.pdf](./mchp/packages/c04-00367a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00367A.wrl) : 	 [C04-00367A.wrl](./Model3d/wrl/C04-00367A.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00367A.x3d) : 	 [C04-00367A.x3d](./Model3d/x3d/C04-00367A.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00367A.scad) : 	 [C04-00367A.scad](./Model3d/scad/C04-00367A.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MZ1025DAR169
 
@@ -406,18 +476,23 @@ Pin count : 0
 - Family : PIC32MZDA
 - MF : Microchip
 - Name : PIC32MZ1025DAR169
+- Library Kicad : [PIC32MZDA.kicad_sym](./KiCad/PIC32MZDA.kicad_sym) 
+- Library Altium : [PIC32MZDA.lia](./Altium/PIC32MZDA.lia) 
+- Library Proteus : [PIC32MZDA.pdif](./Proteus/PIC32MZDA.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00439C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00439C](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 6JX
 - Package Type : 	 LFBGA
 - Pin count : 	 169,00
-- Package Layout : 	 [C04-00439C](./mchp/packages/C04-00439C.pdf)
-- Package 3d model wrl : 	 [C04-00439C](./Model3d/wrl/C04-00439C.wrl)
-- Package 3d model x3d : 	 [C04-00439C](./Model3d/x3d/C04-00439C.x3d)
-- Package 3d model scad : 	 [C04-00439C](./Model3d/scad/C04-00439C.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00439C.pdf](./mchp/packages/c04-00439c.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00439C.wrl) : 	 [C04-00439C.wrl](./Model3d/wrl/C04-00439C.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00439C.x3d) : 	 [C04-00439C.x3d](./Model3d/x3d/C04-00439C.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00439C.scad) : 	 [C04-00439C.scad](./Model3d/scad/C04-00439C.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MZ1025DAR176
 
@@ -434,18 +509,23 @@ Pin count : 0
 - Family : PIC32MZDA
 - MF : Microchip
 - Name : PIC32MZ1025DAR176
+- Library Kicad : [PIC32MZDA.kicad_sym](./KiCad/PIC32MZDA.kicad_sym) 
+- Library Altium : [PIC32MZDA.lia](./Altium/PIC32MZDA.lia) 
+- Library Proteus : [PIC32MZDA.pdif](./Proteus/PIC32MZDA.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00367A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00367A](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 2JX
 - Package Type : 	 LQFP
 - Pin count : 	 176,00
-- Package Layout : 	 [C04-00367A](./mchp/packages/C04-00367A.pdf)
-- Package 3d model wrl : 	 [C04-00367A](./Model3d/wrl/C04-00367A.wrl)
-- Package 3d model x3d : 	 [C04-00367A](./Model3d/x3d/C04-00367A.x3d)
-- Package 3d model scad : 	 [C04-00367A](./Model3d/scad/C04-00367A.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00367A.pdf](./mchp/packages/c04-00367a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00367A.wrl) : 	 [C04-00367A.wrl](./Model3d/wrl/C04-00367A.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00367A.x3d) : 	 [C04-00367A.x3d](./Model3d/x3d/C04-00367A.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00367A.scad) : 	 [C04-00367A.scad](./Model3d/scad/C04-00367A.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MZ1025DAS169
 
@@ -462,18 +542,23 @@ Pin count : 0
 - Family : PIC32MZDA
 - MF : Microchip
 - Name : PIC32MZ1025DAS169
+- Library Kicad : [PIC32MZDA.kicad_sym](./KiCad/PIC32MZDA.kicad_sym) 
+- Library Altium : [PIC32MZDA.lia](./Altium/PIC32MZDA.lia) 
+- Library Proteus : [PIC32MZDA.pdif](./Proteus/PIC32MZDA.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00439C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00439C](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 6JX
 - Package Type : 	 LFBGA
 - Pin count : 	 169,00
-- Package Layout : 	 [C04-00439C](./mchp/packages/C04-00439C.pdf)
-- Package 3d model wrl : 	 [C04-00439C](./Model3d/wrl/C04-00439C.wrl)
-- Package 3d model x3d : 	 [C04-00439C](./Model3d/x3d/C04-00439C.x3d)
-- Package 3d model scad : 	 [C04-00439C](./Model3d/scad/C04-00439C.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00439C.pdf](./mchp/packages/c04-00439c.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00439C.wrl) : 	 [C04-00439C.wrl](./Model3d/wrl/C04-00439C.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00439C.x3d) : 	 [C04-00439C.x3d](./Model3d/x3d/C04-00439C.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00439C.scad) : 	 [C04-00439C.scad](./Model3d/scad/C04-00439C.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MZ1025DAS176
 
@@ -490,18 +575,23 @@ Pin count : 0
 - Family : PIC32MZDA
 - MF : Microchip
 - Name : PIC32MZ1025DAS176
+- Library Kicad : [PIC32MZDA.kicad_sym](./KiCad/PIC32MZDA.kicad_sym) 
+- Library Altium : [PIC32MZDA.lia](./Altium/PIC32MZDA.lia) 
+- Library Proteus : [PIC32MZDA.pdif](./Proteus/PIC32MZDA.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00367A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00367A](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 2JX
 - Package Type : 	 LQFP
 - Pin count : 	 176,00
-- Package Layout : 	 [C04-00367A](./mchp/packages/C04-00367A.pdf)
-- Package 3d model wrl : 	 [C04-00367A](./Model3d/wrl/C04-00367A.wrl)
-- Package 3d model x3d : 	 [C04-00367A](./Model3d/x3d/C04-00367A.x3d)
-- Package 3d model scad : 	 [C04-00367A](./Model3d/scad/C04-00367A.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00367A.pdf](./mchp/packages/c04-00367a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00367A.wrl) : 	 [C04-00367A.wrl](./Model3d/wrl/C04-00367A.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00367A.x3d) : 	 [C04-00367A.x3d](./Model3d/x3d/C04-00367A.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00367A.scad) : 	 [C04-00367A.scad](./Model3d/scad/C04-00367A.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MZ1064DAA169
 
@@ -518,18 +608,23 @@ Pin count : 0
 - Family : PIC32MZDA
 - MF : Microchip
 - Name : PIC32MZ1064DAA169
+- Library Kicad : [PIC32MZDA.kicad_sym](./KiCad/PIC32MZDA.kicad_sym) 
+- Library Altium : [PIC32MZDA.lia](./Altium/PIC32MZDA.lia) 
+- Library Proteus : [PIC32MZDA.pdif](./Proteus/PIC32MZDA.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00365B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00365B](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 HFX
 - Package Type : 	 LFBGA
 - Pin count : 	 169,00
-- Package Layout : 	 [C04-00365B](./mchp/packages/C04-00365B.pdf)
-- Package 3d model wrl : 	 [C04-00365B](./Model3d/wrl/C04-00365B.wrl)
-- Package 3d model x3d : 	 [C04-00365B](./Model3d/x3d/C04-00365B.x3d)
-- Package 3d model scad : 	 [C04-00365B](./Model3d/scad/C04-00365B.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00365B.pdf](./mchp/packages/c04-00365b.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00365B.wrl) : 	 [C04-00365B.wrl](./Model3d/wrl/C04-00365B.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00365B.x3d) : 	 [C04-00365B.x3d](./Model3d/x3d/C04-00365B.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00365B.scad) : 	 [C04-00365B.scad](./Model3d/scad/C04-00365B.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MZ1064DAA176
 
@@ -546,18 +641,23 @@ Pin count : 0
 - Family : PIC32MZDA
 - MF : Microchip
 - Name : PIC32MZ1064DAA176
+- Library Kicad : [PIC32MZDA.kicad_sym](./KiCad/PIC32MZDA.kicad_sym) 
+- Library Altium : [PIC32MZDA.lia](./Altium/PIC32MZDA.lia) 
+- Library Proteus : [PIC32MZDA.pdif](./Proteus/PIC32MZDA.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00367A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00367A](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 2JX
 - Package Type : 	 LQFP
 - Pin count : 	 176,00
-- Package Layout : 	 [C04-00367A](./mchp/packages/C04-00367A.pdf)
-- Package 3d model wrl : 	 [C04-00367A](./Model3d/wrl/C04-00367A.wrl)
-- Package 3d model x3d : 	 [C04-00367A](./Model3d/x3d/C04-00367A.x3d)
-- Package 3d model scad : 	 [C04-00367A](./Model3d/scad/C04-00367A.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00367A.pdf](./mchp/packages/c04-00367a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00367A.wrl) : 	 [C04-00367A.wrl](./Model3d/wrl/C04-00367A.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00367A.x3d) : 	 [C04-00367A.x3d](./Model3d/x3d/C04-00367A.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00367A.scad) : 	 [C04-00367A.scad](./Model3d/scad/C04-00367A.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MZ1064DAA288
 
@@ -574,18 +674,23 @@ Pin count : 0
 - Family : PIC32MZDA
 - MF : Microchip
 - Name : PIC32MZ1064DAA288
+- Library Kicad : [PIC32MZDA.kicad_sym](./KiCad/PIC32MZDA.kicad_sym) 
+- Library Altium : [PIC32MZDA.lia](./Altium/PIC32MZDA.lia) 
+- Library Proteus : [PIC32MZDA.pdif](./Proteus/PIC32MZDA.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00366C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00366C](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 4JX
 - Package Type : 	 LFBGA
 - Pin count : 	 288,00
-- Package Layout : 	 [C04-00366C](./mchp/packages/C04-00366C.pdf)
-- Package 3d model wrl : 	 [C04-00366C](./Model3d/wrl/C04-00366C.wrl)
-- Package 3d model x3d : 	 [C04-00366C](./Model3d/x3d/C04-00366C.x3d)
-- Package 3d model scad : 	 [C04-00366C](./Model3d/scad/C04-00366C.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00366C.pdf](./mchp/packages/c04-00366c.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00366C.wrl) : 	 [C04-00366C.wrl](./Model3d/wrl/C04-00366C.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00366C.x3d) : 	 [C04-00366C.x3d](./Model3d/x3d/C04-00366C.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00366C.scad) : 	 [C04-00366C.scad](./Model3d/scad/C04-00366C.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MZ1064DAB169
 
@@ -602,18 +707,23 @@ Pin count : 0
 - Family : PIC32MZDA
 - MF : Microchip
 - Name : PIC32MZ1064DAB169
+- Library Kicad : [PIC32MZDA.kicad_sym](./KiCad/PIC32MZDA.kicad_sym) 
+- Library Altium : [PIC32MZDA.lia](./Altium/PIC32MZDA.lia) 
+- Library Proteus : [PIC32MZDA.pdif](./Proteus/PIC32MZDA.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00365B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00365B](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 HFX
 - Package Type : 	 LFBGA
 - Pin count : 	 169,00
-- Package Layout : 	 [C04-00365B](./mchp/packages/C04-00365B.pdf)
-- Package 3d model wrl : 	 [C04-00365B](./Model3d/wrl/C04-00365B.wrl)
-- Package 3d model x3d : 	 [C04-00365B](./Model3d/x3d/C04-00365B.x3d)
-- Package 3d model scad : 	 [C04-00365B](./Model3d/scad/C04-00365B.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00365B.pdf](./mchp/packages/c04-00365b.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00365B.wrl) : 	 [C04-00365B.wrl](./Model3d/wrl/C04-00365B.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00365B.x3d) : 	 [C04-00365B.x3d](./Model3d/x3d/C04-00365B.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00365B.scad) : 	 [C04-00365B.scad](./Model3d/scad/C04-00365B.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MZ1064DAB176
 
@@ -630,18 +740,23 @@ Pin count : 0
 - Family : PIC32MZDA
 - MF : Microchip
 - Name : PIC32MZ1064DAB176
+- Library Kicad : [PIC32MZDA.kicad_sym](./KiCad/PIC32MZDA.kicad_sym) 
+- Library Altium : [PIC32MZDA.lia](./Altium/PIC32MZDA.lia) 
+- Library Proteus : [PIC32MZDA.pdif](./Proteus/PIC32MZDA.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00367A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00367A](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 2JX
 - Package Type : 	 LQFP
 - Pin count : 	 176,00
-- Package Layout : 	 [C04-00367A](./mchp/packages/C04-00367A.pdf)
-- Package 3d model wrl : 	 [C04-00367A](./Model3d/wrl/C04-00367A.wrl)
-- Package 3d model x3d : 	 [C04-00367A](./Model3d/x3d/C04-00367A.x3d)
-- Package 3d model scad : 	 [C04-00367A](./Model3d/scad/C04-00367A.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00367A.pdf](./mchp/packages/c04-00367a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00367A.wrl) : 	 [C04-00367A.wrl](./Model3d/wrl/C04-00367A.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00367A.x3d) : 	 [C04-00367A.x3d](./Model3d/x3d/C04-00367A.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00367A.scad) : 	 [C04-00367A.scad](./Model3d/scad/C04-00367A.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MZ1064DAB288
 
@@ -658,18 +773,23 @@ Pin count : 0
 - Family : PIC32MZDA
 - MF : Microchip
 - Name : PIC32MZ1064DAB288
+- Library Kicad : [PIC32MZDA.kicad_sym](./KiCad/PIC32MZDA.kicad_sym) 
+- Library Altium : [PIC32MZDA.lia](./Altium/PIC32MZDA.lia) 
+- Library Proteus : [PIC32MZDA.pdif](./Proteus/PIC32MZDA.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00366C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00366C](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 4JX
 - Package Type : 	 LFBGA
 - Pin count : 	 288,00
-- Package Layout : 	 [C04-00366C](./mchp/packages/C04-00366C.pdf)
-- Package 3d model wrl : 	 [C04-00366C](./Model3d/wrl/C04-00366C.wrl)
-- Package 3d model x3d : 	 [C04-00366C](./Model3d/x3d/C04-00366C.x3d)
-- Package 3d model scad : 	 [C04-00366C](./Model3d/scad/C04-00366C.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00366C.pdf](./mchp/packages/c04-00366c.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00366C.wrl) : 	 [C04-00366C.wrl](./Model3d/wrl/C04-00366C.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00366C.x3d) : 	 [C04-00366C.x3d](./Model3d/x3d/C04-00366C.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00366C.scad) : 	 [C04-00366C.scad](./Model3d/scad/C04-00366C.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MZ1064DAG169
 
@@ -686,18 +806,23 @@ Pin count : 0
 - Family : PIC32MZDA
 - MF : Microchip
 - Name : PIC32MZ1064DAG169
+- Library Kicad : [PIC32MZDA.kicad_sym](./KiCad/PIC32MZDA.kicad_sym) 
+- Library Altium : [PIC32MZDA.lia](./Altium/PIC32MZDA.lia) 
+- Library Proteus : [PIC32MZDA.pdif](./Proteus/PIC32MZDA.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00439C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00439C](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 6JX
 - Package Type : 	 LFBGA
 - Pin count : 	 169,00
-- Package Layout : 	 [C04-00439C](./mchp/packages/C04-00439C.pdf)
-- Package 3d model wrl : 	 [C04-00439C](./Model3d/wrl/C04-00439C.wrl)
-- Package 3d model x3d : 	 [C04-00439C](./Model3d/x3d/C04-00439C.x3d)
-- Package 3d model scad : 	 [C04-00439C](./Model3d/scad/C04-00439C.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00439C.pdf](./mchp/packages/c04-00439c.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00439C.wrl) : 	 [C04-00439C.wrl](./Model3d/wrl/C04-00439C.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00439C.x3d) : 	 [C04-00439C.x3d](./Model3d/x3d/C04-00439C.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00439C.scad) : 	 [C04-00439C.scad](./Model3d/scad/C04-00439C.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MZ1064DAG176
 
@@ -714,18 +839,23 @@ Pin count : 0
 - Family : PIC32MZDA
 - MF : Microchip
 - Name : PIC32MZ1064DAG176
+- Library Kicad : [PIC32MZDA.kicad_sym](./KiCad/PIC32MZDA.kicad_sym) 
+- Library Altium : [PIC32MZDA.lia](./Altium/PIC32MZDA.lia) 
+- Library Proteus : [PIC32MZDA.pdif](./Proteus/PIC32MZDA.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00367A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00367A](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 2JX
 - Package Type : 	 LQFP
 - Pin count : 	 176,00
-- Package Layout : 	 [C04-00367A](./mchp/packages/C04-00367A.pdf)
-- Package 3d model wrl : 	 [C04-00367A](./Model3d/wrl/C04-00367A.wrl)
-- Package 3d model x3d : 	 [C04-00367A](./Model3d/x3d/C04-00367A.x3d)
-- Package 3d model scad : 	 [C04-00367A](./Model3d/scad/C04-00367A.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00367A.pdf](./mchp/packages/c04-00367a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00367A.wrl) : 	 [C04-00367A.wrl](./Model3d/wrl/C04-00367A.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00367A.x3d) : 	 [C04-00367A.x3d](./Model3d/x3d/C04-00367A.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00367A.scad) : 	 [C04-00367A.scad](./Model3d/scad/C04-00367A.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MZ1064DAH169
 
@@ -742,18 +872,23 @@ Pin count : 0
 - Family : PIC32MZDA
 - MF : Microchip
 - Name : PIC32MZ1064DAH169
+- Library Kicad : [PIC32MZDA.kicad_sym](./KiCad/PIC32MZDA.kicad_sym) 
+- Library Altium : [PIC32MZDA.lia](./Altium/PIC32MZDA.lia) 
+- Library Proteus : [PIC32MZDA.pdif](./Proteus/PIC32MZDA.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00439C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00439C](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 6JX
 - Package Type : 	 LFBGA
 - Pin count : 	 169,00
-- Package Layout : 	 [C04-00439C](./mchp/packages/C04-00439C.pdf)
-- Package 3d model wrl : 	 [C04-00439C](./Model3d/wrl/C04-00439C.wrl)
-- Package 3d model x3d : 	 [C04-00439C](./Model3d/x3d/C04-00439C.x3d)
-- Package 3d model scad : 	 [C04-00439C](./Model3d/scad/C04-00439C.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00439C.pdf](./mchp/packages/c04-00439c.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00439C.wrl) : 	 [C04-00439C.wrl](./Model3d/wrl/C04-00439C.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00439C.x3d) : 	 [C04-00439C.x3d](./Model3d/x3d/C04-00439C.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00439C.scad) : 	 [C04-00439C.scad](./Model3d/scad/C04-00439C.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MZ1064DAH176
 
@@ -770,18 +905,23 @@ Pin count : 0
 - Family : PIC32MZDA
 - MF : Microchip
 - Name : PIC32MZ1064DAH176
+- Library Kicad : [PIC32MZDA.kicad_sym](./KiCad/PIC32MZDA.kicad_sym) 
+- Library Altium : [PIC32MZDA.lia](./Altium/PIC32MZDA.lia) 
+- Library Proteus : [PIC32MZDA.pdif](./Proteus/PIC32MZDA.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00367A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00367A](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 2JX
 - Package Type : 	 LQFP
 - Pin count : 	 176,00
-- Package Layout : 	 [C04-00367A](./mchp/packages/C04-00367A.pdf)
-- Package 3d model wrl : 	 [C04-00367A](./Model3d/wrl/C04-00367A.wrl)
-- Package 3d model x3d : 	 [C04-00367A](./Model3d/x3d/C04-00367A.x3d)
-- Package 3d model scad : 	 [C04-00367A](./Model3d/scad/C04-00367A.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00367A.pdf](./mchp/packages/c04-00367a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00367A.wrl) : 	 [C04-00367A.wrl](./Model3d/wrl/C04-00367A.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00367A.x3d) : 	 [C04-00367A.x3d](./Model3d/x3d/C04-00367A.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00367A.scad) : 	 [C04-00367A.scad](./Model3d/scad/C04-00367A.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MZ1064DAK169
 
@@ -798,18 +938,23 @@ Pin count : 0
 - Family : PIC32MZDA
 - MF : Microchip
 - Name : PIC32MZ1064DAK169
+- Library Kicad : [PIC32MZDA.kicad_sym](./KiCad/PIC32MZDA.kicad_sym) 
+- Library Altium : [PIC32MZDA.lia](./Altium/PIC32MZDA.lia) 
+- Library Proteus : [PIC32MZDA.pdif](./Proteus/PIC32MZDA.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00365B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00365B](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 HFX
 - Package Type : 	 LFBGA
 - Pin count : 	 169,00
-- Package Layout : 	 [C04-00365B](./mchp/packages/C04-00365B.pdf)
-- Package 3d model wrl : 	 [C04-00365B](./Model3d/wrl/C04-00365B.wrl)
-- Package 3d model x3d : 	 [C04-00365B](./Model3d/x3d/C04-00365B.x3d)
-- Package 3d model scad : 	 [C04-00365B](./Model3d/scad/C04-00365B.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00365B.pdf](./mchp/packages/c04-00365b.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00365B.wrl) : 	 [C04-00365B.wrl](./Model3d/wrl/C04-00365B.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00365B.x3d) : 	 [C04-00365B.x3d](./Model3d/x3d/C04-00365B.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00365B.scad) : 	 [C04-00365B.scad](./Model3d/scad/C04-00365B.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MZ1064DAK176
 
@@ -826,18 +971,23 @@ Pin count : 0
 - Family : PIC32MZDA
 - MF : Microchip
 - Name : PIC32MZ1064DAK176
+- Library Kicad : [PIC32MZDA.kicad_sym](./KiCad/PIC32MZDA.kicad_sym) 
+- Library Altium : [PIC32MZDA.lia](./Altium/PIC32MZDA.lia) 
+- Library Proteus : [PIC32MZDA.pdif](./Proteus/PIC32MZDA.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00367A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00367A](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 2JX
 - Package Type : 	 LQFP
 - Pin count : 	 176,00
-- Package Layout : 	 [C04-00367A](./mchp/packages/C04-00367A.pdf)
-- Package 3d model wrl : 	 [C04-00367A](./Model3d/wrl/C04-00367A.wrl)
-- Package 3d model x3d : 	 [C04-00367A](./Model3d/x3d/C04-00367A.x3d)
-- Package 3d model scad : 	 [C04-00367A](./Model3d/scad/C04-00367A.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00367A.pdf](./mchp/packages/c04-00367a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00367A.wrl) : 	 [C04-00367A.wrl](./Model3d/wrl/C04-00367A.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00367A.x3d) : 	 [C04-00367A.x3d](./Model3d/x3d/C04-00367A.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00367A.scad) : 	 [C04-00367A.scad](./Model3d/scad/C04-00367A.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MZ1064DAL169
 
@@ -854,18 +1004,23 @@ Pin count : 0
 - Family : PIC32MZDA
 - MF : Microchip
 - Name : PIC32MZ1064DAL169
+- Library Kicad : [PIC32MZDA.kicad_sym](./KiCad/PIC32MZDA.kicad_sym) 
+- Library Altium : [PIC32MZDA.lia](./Altium/PIC32MZDA.lia) 
+- Library Proteus : [PIC32MZDA.pdif](./Proteus/PIC32MZDA.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00365B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00365B](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 HFX
 - Package Type : 	 LFBGA
 - Pin count : 	 169,00
-- Package Layout : 	 [C04-00365B](./mchp/packages/C04-00365B.pdf)
-- Package 3d model wrl : 	 [C04-00365B](./Model3d/wrl/C04-00365B.wrl)
-- Package 3d model x3d : 	 [C04-00365B](./Model3d/x3d/C04-00365B.x3d)
-- Package 3d model scad : 	 [C04-00365B](./Model3d/scad/C04-00365B.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00365B.pdf](./mchp/packages/c04-00365b.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00365B.wrl) : 	 [C04-00365B.wrl](./Model3d/wrl/C04-00365B.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00365B.x3d) : 	 [C04-00365B.x3d](./Model3d/x3d/C04-00365B.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00365B.scad) : 	 [C04-00365B.scad](./Model3d/scad/C04-00365B.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MZ1064DAL176
 
@@ -882,18 +1037,23 @@ Pin count : 0
 - Family : PIC32MZDA
 - MF : Microchip
 - Name : PIC32MZ1064DAL176
+- Library Kicad : [PIC32MZDA.kicad_sym](./KiCad/PIC32MZDA.kicad_sym) 
+- Library Altium : [PIC32MZDA.lia](./Altium/PIC32MZDA.lia) 
+- Library Proteus : [PIC32MZDA.pdif](./Proteus/PIC32MZDA.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00367A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00367A](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 2JX
 - Package Type : 	 LQFP
 - Pin count : 	 176,00
-- Package Layout : 	 [C04-00367A](./mchp/packages/C04-00367A.pdf)
-- Package 3d model wrl : 	 [C04-00367A](./Model3d/wrl/C04-00367A.wrl)
-- Package 3d model x3d : 	 [C04-00367A](./Model3d/x3d/C04-00367A.x3d)
-- Package 3d model scad : 	 [C04-00367A](./Model3d/scad/C04-00367A.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00367A.pdf](./mchp/packages/c04-00367a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00367A.wrl) : 	 [C04-00367A.wrl](./Model3d/wrl/C04-00367A.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00367A.x3d) : 	 [C04-00367A.x3d](./Model3d/x3d/C04-00367A.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00367A.scad) : 	 [C04-00367A.scad](./Model3d/scad/C04-00367A.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MZ1064DAR169
 
@@ -910,18 +1070,23 @@ Pin count : 0
 - Family : PIC32MZDA
 - MF : Microchip
 - Name : PIC32MZ1064DAR169
+- Library Kicad : [PIC32MZDA.kicad_sym](./KiCad/PIC32MZDA.kicad_sym) 
+- Library Altium : [PIC32MZDA.lia](./Altium/PIC32MZDA.lia) 
+- Library Proteus : [PIC32MZDA.pdif](./Proteus/PIC32MZDA.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00439C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00439C](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 6JX
 - Package Type : 	 LFBGA
 - Pin count : 	 169,00
-- Package Layout : 	 [C04-00439C](./mchp/packages/C04-00439C.pdf)
-- Package 3d model wrl : 	 [C04-00439C](./Model3d/wrl/C04-00439C.wrl)
-- Package 3d model x3d : 	 [C04-00439C](./Model3d/x3d/C04-00439C.x3d)
-- Package 3d model scad : 	 [C04-00439C](./Model3d/scad/C04-00439C.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00439C.pdf](./mchp/packages/c04-00439c.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00439C.wrl) : 	 [C04-00439C.wrl](./Model3d/wrl/C04-00439C.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00439C.x3d) : 	 [C04-00439C.x3d](./Model3d/x3d/C04-00439C.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00439C.scad) : 	 [C04-00439C.scad](./Model3d/scad/C04-00439C.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MZ1064DAR176
 
@@ -938,18 +1103,23 @@ Pin count : 0
 - Family : PIC32MZDA
 - MF : Microchip
 - Name : PIC32MZ1064DAR176
+- Library Kicad : [PIC32MZDA.kicad_sym](./KiCad/PIC32MZDA.kicad_sym) 
+- Library Altium : [PIC32MZDA.lia](./Altium/PIC32MZDA.lia) 
+- Library Proteus : [PIC32MZDA.pdif](./Proteus/PIC32MZDA.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00367A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00367A](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 2JX
 - Package Type : 	 LQFP
 - Pin count : 	 176,00
-- Package Layout : 	 [C04-00367A](./mchp/packages/C04-00367A.pdf)
-- Package 3d model wrl : 	 [C04-00367A](./Model3d/wrl/C04-00367A.wrl)
-- Package 3d model x3d : 	 [C04-00367A](./Model3d/x3d/C04-00367A.x3d)
-- Package 3d model scad : 	 [C04-00367A](./Model3d/scad/C04-00367A.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00367A.pdf](./mchp/packages/c04-00367a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00367A.wrl) : 	 [C04-00367A.wrl](./Model3d/wrl/C04-00367A.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00367A.x3d) : 	 [C04-00367A.x3d](./Model3d/x3d/C04-00367A.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00367A.scad) : 	 [C04-00367A.scad](./Model3d/scad/C04-00367A.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MZ1064DAS169
 
@@ -966,18 +1136,23 @@ Pin count : 0
 - Family : PIC32MZDA
 - MF : Microchip
 - Name : PIC32MZ1064DAS169
+- Library Kicad : [PIC32MZDA.kicad_sym](./KiCad/PIC32MZDA.kicad_sym) 
+- Library Altium : [PIC32MZDA.lia](./Altium/PIC32MZDA.lia) 
+- Library Proteus : [PIC32MZDA.pdif](./Proteus/PIC32MZDA.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00439C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00439C](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 6JX
 - Package Type : 	 LFBGA
 - Pin count : 	 169,00
-- Package Layout : 	 [C04-00439C](./mchp/packages/C04-00439C.pdf)
-- Package 3d model wrl : 	 [C04-00439C](./Model3d/wrl/C04-00439C.wrl)
-- Package 3d model x3d : 	 [C04-00439C](./Model3d/x3d/C04-00439C.x3d)
-- Package 3d model scad : 	 [C04-00439C](./Model3d/scad/C04-00439C.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00439C.pdf](./mchp/packages/c04-00439c.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00439C.wrl) : 	 [C04-00439C.wrl](./Model3d/wrl/C04-00439C.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00439C.x3d) : 	 [C04-00439C.x3d](./Model3d/x3d/C04-00439C.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00439C.scad) : 	 [C04-00439C.scad](./Model3d/scad/C04-00439C.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MZ1064DAS176
 
@@ -994,18 +1169,23 @@ Pin count : 0
 - Family : PIC32MZDA
 - MF : Microchip
 - Name : PIC32MZ1064DAS176
+- Library Kicad : [PIC32MZDA.kicad_sym](./KiCad/PIC32MZDA.kicad_sym) 
+- Library Altium : [PIC32MZDA.lia](./Altium/PIC32MZDA.lia) 
+- Library Proteus : [PIC32MZDA.pdif](./Proteus/PIC32MZDA.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00367A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00367A](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 2JX
 - Package Type : 	 LQFP
 - Pin count : 	 176,00
-- Package Layout : 	 [C04-00367A](./mchp/packages/C04-00367A.pdf)
-- Package 3d model wrl : 	 [C04-00367A](./Model3d/wrl/C04-00367A.wrl)
-- Package 3d model x3d : 	 [C04-00367A](./Model3d/x3d/C04-00367A.x3d)
-- Package 3d model scad : 	 [C04-00367A](./Model3d/scad/C04-00367A.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00367A.pdf](./mchp/packages/c04-00367a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00367A.wrl) : 	 [C04-00367A.wrl](./Model3d/wrl/C04-00367A.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00367A.x3d) : 	 [C04-00367A.x3d](./Model3d/x3d/C04-00367A.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00367A.scad) : 	 [C04-00367A.scad](./Model3d/scad/C04-00367A.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MZ2025DAA169
 
@@ -1022,18 +1202,23 @@ Pin count : 0
 - Family : PIC32MZDA
 - MF : Microchip
 - Name : PIC32MZ2025DAA169
+- Library Kicad : [PIC32MZDA.kicad_sym](./KiCad/PIC32MZDA.kicad_sym) 
+- Library Altium : [PIC32MZDA.lia](./Altium/PIC32MZDA.lia) 
+- Library Proteus : [PIC32MZDA.pdif](./Proteus/PIC32MZDA.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00365B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00365B](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 HFX
 - Package Type : 	 LFBGA
 - Pin count : 	 169,00
-- Package Layout : 	 [C04-00365B](./mchp/packages/C04-00365B.pdf)
-- Package 3d model wrl : 	 [C04-00365B](./Model3d/wrl/C04-00365B.wrl)
-- Package 3d model x3d : 	 [C04-00365B](./Model3d/x3d/C04-00365B.x3d)
-- Package 3d model scad : 	 [C04-00365B](./Model3d/scad/C04-00365B.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00365B.pdf](./mchp/packages/c04-00365b.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00365B.wrl) : 	 [C04-00365B.wrl](./Model3d/wrl/C04-00365B.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00365B.x3d) : 	 [C04-00365B.x3d](./Model3d/x3d/C04-00365B.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00365B.scad) : 	 [C04-00365B.scad](./Model3d/scad/C04-00365B.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MZ2025DAA176
 
@@ -1050,18 +1235,23 @@ Pin count : 0
 - Family : PIC32MZDA
 - MF : Microchip
 - Name : PIC32MZ2025DAA176
+- Library Kicad : [PIC32MZDA.kicad_sym](./KiCad/PIC32MZDA.kicad_sym) 
+- Library Altium : [PIC32MZDA.lia](./Altium/PIC32MZDA.lia) 
+- Library Proteus : [PIC32MZDA.pdif](./Proteus/PIC32MZDA.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00367A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00367A](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 2JX
 - Package Type : 	 LQFP
 - Pin count : 	 176,00
-- Package Layout : 	 [C04-00367A](./mchp/packages/C04-00367A.pdf)
-- Package 3d model wrl : 	 [C04-00367A](./Model3d/wrl/C04-00367A.wrl)
-- Package 3d model x3d : 	 [C04-00367A](./Model3d/x3d/C04-00367A.x3d)
-- Package 3d model scad : 	 [C04-00367A](./Model3d/scad/C04-00367A.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00367A.pdf](./mchp/packages/c04-00367a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00367A.wrl) : 	 [C04-00367A.wrl](./Model3d/wrl/C04-00367A.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00367A.x3d) : 	 [C04-00367A.x3d](./Model3d/x3d/C04-00367A.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00367A.scad) : 	 [C04-00367A.scad](./Model3d/scad/C04-00367A.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MZ2025DAA288
 
@@ -1078,18 +1268,23 @@ Pin count : 0
 - Family : PIC32MZDA
 - MF : Microchip
 - Name : PIC32MZ2025DAA288
+- Library Kicad : [PIC32MZDA.kicad_sym](./KiCad/PIC32MZDA.kicad_sym) 
+- Library Altium : [PIC32MZDA.lia](./Altium/PIC32MZDA.lia) 
+- Library Proteus : [PIC32MZDA.pdif](./Proteus/PIC32MZDA.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00366C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00366C](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 4JX
 - Package Type : 	 LFBGA
 - Pin count : 	 288,00
-- Package Layout : 	 [C04-00366C](./mchp/packages/C04-00366C.pdf)
-- Package 3d model wrl : 	 [C04-00366C](./Model3d/wrl/C04-00366C.wrl)
-- Package 3d model x3d : 	 [C04-00366C](./Model3d/x3d/C04-00366C.x3d)
-- Package 3d model scad : 	 [C04-00366C](./Model3d/scad/C04-00366C.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00366C.pdf](./mchp/packages/c04-00366c.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00366C.wrl) : 	 [C04-00366C.wrl](./Model3d/wrl/C04-00366C.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00366C.x3d) : 	 [C04-00366C.x3d](./Model3d/x3d/C04-00366C.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00366C.scad) : 	 [C04-00366C.scad](./Model3d/scad/C04-00366C.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MZ2025DAB169
 
@@ -1106,18 +1301,23 @@ Pin count : 0
 - Family : PIC32MZDA
 - MF : Microchip
 - Name : PIC32MZ2025DAB169
+- Library Kicad : [PIC32MZDA.kicad_sym](./KiCad/PIC32MZDA.kicad_sym) 
+- Library Altium : [PIC32MZDA.lia](./Altium/PIC32MZDA.lia) 
+- Library Proteus : [PIC32MZDA.pdif](./Proteus/PIC32MZDA.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00365B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00365B](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 HFX
 - Package Type : 	 LFBGA
 - Pin count : 	 169,00
-- Package Layout : 	 [C04-00365B](./mchp/packages/C04-00365B.pdf)
-- Package 3d model wrl : 	 [C04-00365B](./Model3d/wrl/C04-00365B.wrl)
-- Package 3d model x3d : 	 [C04-00365B](./Model3d/x3d/C04-00365B.x3d)
-- Package 3d model scad : 	 [C04-00365B](./Model3d/scad/C04-00365B.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00365B.pdf](./mchp/packages/c04-00365b.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00365B.wrl) : 	 [C04-00365B.wrl](./Model3d/wrl/C04-00365B.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00365B.x3d) : 	 [C04-00365B.x3d](./Model3d/x3d/C04-00365B.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00365B.scad) : 	 [C04-00365B.scad](./Model3d/scad/C04-00365B.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MZ2025DAB176
 
@@ -1134,18 +1334,23 @@ Pin count : 0
 - Family : PIC32MZDA
 - MF : Microchip
 - Name : PIC32MZ2025DAB176
+- Library Kicad : [PIC32MZDA.kicad_sym](./KiCad/PIC32MZDA.kicad_sym) 
+- Library Altium : [PIC32MZDA.lia](./Altium/PIC32MZDA.lia) 
+- Library Proteus : [PIC32MZDA.pdif](./Proteus/PIC32MZDA.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00367A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00367A](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 2JX
 - Package Type : 	 LQFP
 - Pin count : 	 176,00
-- Package Layout : 	 [C04-00367A](./mchp/packages/C04-00367A.pdf)
-- Package 3d model wrl : 	 [C04-00367A](./Model3d/wrl/C04-00367A.wrl)
-- Package 3d model x3d : 	 [C04-00367A](./Model3d/x3d/C04-00367A.x3d)
-- Package 3d model scad : 	 [C04-00367A](./Model3d/scad/C04-00367A.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00367A.pdf](./mchp/packages/c04-00367a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00367A.wrl) : 	 [C04-00367A.wrl](./Model3d/wrl/C04-00367A.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00367A.x3d) : 	 [C04-00367A.x3d](./Model3d/x3d/C04-00367A.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00367A.scad) : 	 [C04-00367A.scad](./Model3d/scad/C04-00367A.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MZ2025DAB288
 
@@ -1162,18 +1367,23 @@ Pin count : 0
 - Family : PIC32MZDA
 - MF : Microchip
 - Name : PIC32MZ2025DAB288
+- Library Kicad : [PIC32MZDA.kicad_sym](./KiCad/PIC32MZDA.kicad_sym) 
+- Library Altium : [PIC32MZDA.lia](./Altium/PIC32MZDA.lia) 
+- Library Proteus : [PIC32MZDA.pdif](./Proteus/PIC32MZDA.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00366C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00366C](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 4JX
 - Package Type : 	 LFBGA
 - Pin count : 	 288,00
-- Package Layout : 	 [C04-00366C](./mchp/packages/C04-00366C.pdf)
-- Package 3d model wrl : 	 [C04-00366C](./Model3d/wrl/C04-00366C.wrl)
-- Package 3d model x3d : 	 [C04-00366C](./Model3d/x3d/C04-00366C.x3d)
-- Package 3d model scad : 	 [C04-00366C](./Model3d/scad/C04-00366C.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00366C.pdf](./mchp/packages/c04-00366c.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00366C.wrl) : 	 [C04-00366C.wrl](./Model3d/wrl/C04-00366C.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00366C.x3d) : 	 [C04-00366C.x3d](./Model3d/x3d/C04-00366C.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00366C.scad) : 	 [C04-00366C.scad](./Model3d/scad/C04-00366C.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MZ2025DAG169
 
@@ -1190,18 +1400,23 @@ Pin count : 0
 - Family : PIC32MZDA
 - MF : Microchip
 - Name : PIC32MZ2025DAG169
+- Library Kicad : [PIC32MZDA.kicad_sym](./KiCad/PIC32MZDA.kicad_sym) 
+- Library Altium : [PIC32MZDA.lia](./Altium/PIC32MZDA.lia) 
+- Library Proteus : [PIC32MZDA.pdif](./Proteus/PIC32MZDA.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00439C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00439C](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 6JX
 - Package Type : 	 LFBGA
 - Pin count : 	 169,00
-- Package Layout : 	 [C04-00439C](./mchp/packages/C04-00439C.pdf)
-- Package 3d model wrl : 	 [C04-00439C](./Model3d/wrl/C04-00439C.wrl)
-- Package 3d model x3d : 	 [C04-00439C](./Model3d/x3d/C04-00439C.x3d)
-- Package 3d model scad : 	 [C04-00439C](./Model3d/scad/C04-00439C.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00439C.pdf](./mchp/packages/c04-00439c.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00439C.wrl) : 	 [C04-00439C.wrl](./Model3d/wrl/C04-00439C.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00439C.x3d) : 	 [C04-00439C.x3d](./Model3d/x3d/C04-00439C.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00439C.scad) : 	 [C04-00439C.scad](./Model3d/scad/C04-00439C.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MZ2025DAG176
 
@@ -1218,18 +1433,23 @@ Pin count : 0
 - Family : PIC32MZDA
 - MF : Microchip
 - Name : PIC32MZ2025DAG176
+- Library Kicad : [PIC32MZDA.kicad_sym](./KiCad/PIC32MZDA.kicad_sym) 
+- Library Altium : [PIC32MZDA.lia](./Altium/PIC32MZDA.lia) 
+- Library Proteus : [PIC32MZDA.pdif](./Proteus/PIC32MZDA.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00367A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00367A](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 2JX
 - Package Type : 	 LQFP
 - Pin count : 	 176,00
-- Package Layout : 	 [C04-00367A](./mchp/packages/C04-00367A.pdf)
-- Package 3d model wrl : 	 [C04-00367A](./Model3d/wrl/C04-00367A.wrl)
-- Package 3d model x3d : 	 [C04-00367A](./Model3d/x3d/C04-00367A.x3d)
-- Package 3d model scad : 	 [C04-00367A](./Model3d/scad/C04-00367A.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00367A.pdf](./mchp/packages/c04-00367a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00367A.wrl) : 	 [C04-00367A.wrl](./Model3d/wrl/C04-00367A.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00367A.x3d) : 	 [C04-00367A.x3d](./Model3d/x3d/C04-00367A.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00367A.scad) : 	 [C04-00367A.scad](./Model3d/scad/C04-00367A.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MZ2025DAH169
 
@@ -1246,18 +1466,23 @@ Pin count : 0
 - Family : PIC32MZDA
 - MF : Microchip
 - Name : PIC32MZ2025DAH169
+- Library Kicad : [PIC32MZDA.kicad_sym](./KiCad/PIC32MZDA.kicad_sym) 
+- Library Altium : [PIC32MZDA.lia](./Altium/PIC32MZDA.lia) 
+- Library Proteus : [PIC32MZDA.pdif](./Proteus/PIC32MZDA.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00439C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00439C](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 6JX
 - Package Type : 	 LFBGA
 - Pin count : 	 169,00
-- Package Layout : 	 [C04-00439C](./mchp/packages/C04-00439C.pdf)
-- Package 3d model wrl : 	 [C04-00439C](./Model3d/wrl/C04-00439C.wrl)
-- Package 3d model x3d : 	 [C04-00439C](./Model3d/x3d/C04-00439C.x3d)
-- Package 3d model scad : 	 [C04-00439C](./Model3d/scad/C04-00439C.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00439C.pdf](./mchp/packages/c04-00439c.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00439C.wrl) : 	 [C04-00439C.wrl](./Model3d/wrl/C04-00439C.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00439C.x3d) : 	 [C04-00439C.x3d](./Model3d/x3d/C04-00439C.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00439C.scad) : 	 [C04-00439C.scad](./Model3d/scad/C04-00439C.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MZ2025DAH176
 
@@ -1274,18 +1499,23 @@ Pin count : 0
 - Family : PIC32MZDA
 - MF : Microchip
 - Name : PIC32MZ2025DAH176
+- Library Kicad : [PIC32MZDA.kicad_sym](./KiCad/PIC32MZDA.kicad_sym) 
+- Library Altium : [PIC32MZDA.lia](./Altium/PIC32MZDA.lia) 
+- Library Proteus : [PIC32MZDA.pdif](./Proteus/PIC32MZDA.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00367A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00367A](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 2JX
 - Package Type : 	 LQFP
 - Pin count : 	 176,00
-- Package Layout : 	 [C04-00367A](./mchp/packages/C04-00367A.pdf)
-- Package 3d model wrl : 	 [C04-00367A](./Model3d/wrl/C04-00367A.wrl)
-- Package 3d model x3d : 	 [C04-00367A](./Model3d/x3d/C04-00367A.x3d)
-- Package 3d model scad : 	 [C04-00367A](./Model3d/scad/C04-00367A.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00367A.pdf](./mchp/packages/c04-00367a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00367A.wrl) : 	 [C04-00367A.wrl](./Model3d/wrl/C04-00367A.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00367A.x3d) : 	 [C04-00367A.x3d](./Model3d/x3d/C04-00367A.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00367A.scad) : 	 [C04-00367A.scad](./Model3d/scad/C04-00367A.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MZ2025DAK169
 
@@ -1302,18 +1532,23 @@ Pin count : 0
 - Family : PIC32MZDA
 - MF : Microchip
 - Name : PIC32MZ2025DAK169
+- Library Kicad : [PIC32MZDA.kicad_sym](./KiCad/PIC32MZDA.kicad_sym) 
+- Library Altium : [PIC32MZDA.lia](./Altium/PIC32MZDA.lia) 
+- Library Proteus : [PIC32MZDA.pdif](./Proteus/PIC32MZDA.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00365B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00365B](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 HFX
 - Package Type : 	 LFBGA
 - Pin count : 	 169,00
-- Package Layout : 	 [C04-00365B](./mchp/packages/C04-00365B.pdf)
-- Package 3d model wrl : 	 [C04-00365B](./Model3d/wrl/C04-00365B.wrl)
-- Package 3d model x3d : 	 [C04-00365B](./Model3d/x3d/C04-00365B.x3d)
-- Package 3d model scad : 	 [C04-00365B](./Model3d/scad/C04-00365B.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00365B.pdf](./mchp/packages/c04-00365b.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00365B.wrl) : 	 [C04-00365B.wrl](./Model3d/wrl/C04-00365B.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00365B.x3d) : 	 [C04-00365B.x3d](./Model3d/x3d/C04-00365B.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00365B.scad) : 	 [C04-00365B.scad](./Model3d/scad/C04-00365B.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MZ2025DAK176
 
@@ -1330,18 +1565,23 @@ Pin count : 0
 - Family : PIC32MZDA
 - MF : Microchip
 - Name : PIC32MZ2025DAK176
+- Library Kicad : [PIC32MZDA.kicad_sym](./KiCad/PIC32MZDA.kicad_sym) 
+- Library Altium : [PIC32MZDA.lia](./Altium/PIC32MZDA.lia) 
+- Library Proteus : [PIC32MZDA.pdif](./Proteus/PIC32MZDA.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00367A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00367A](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 2JX
 - Package Type : 	 LQFP
 - Pin count : 	 176,00
-- Package Layout : 	 [C04-00367A](./mchp/packages/C04-00367A.pdf)
-- Package 3d model wrl : 	 [C04-00367A](./Model3d/wrl/C04-00367A.wrl)
-- Package 3d model x3d : 	 [C04-00367A](./Model3d/x3d/C04-00367A.x3d)
-- Package 3d model scad : 	 [C04-00367A](./Model3d/scad/C04-00367A.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00367A.pdf](./mchp/packages/c04-00367a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00367A.wrl) : 	 [C04-00367A.wrl](./Model3d/wrl/C04-00367A.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00367A.x3d) : 	 [C04-00367A.x3d](./Model3d/x3d/C04-00367A.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00367A.scad) : 	 [C04-00367A.scad](./Model3d/scad/C04-00367A.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MZ2025DAL169
 
@@ -1358,18 +1598,23 @@ Pin count : 0
 - Family : PIC32MZDA
 - MF : Microchip
 - Name : PIC32MZ2025DAL169
+- Library Kicad : [PIC32MZDA.kicad_sym](./KiCad/PIC32MZDA.kicad_sym) 
+- Library Altium : [PIC32MZDA.lia](./Altium/PIC32MZDA.lia) 
+- Library Proteus : [PIC32MZDA.pdif](./Proteus/PIC32MZDA.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00365B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00365B](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 HFX
 - Package Type : 	 LFBGA
 - Pin count : 	 169,00
-- Package Layout : 	 [C04-00365B](./mchp/packages/C04-00365B.pdf)
-- Package 3d model wrl : 	 [C04-00365B](./Model3d/wrl/C04-00365B.wrl)
-- Package 3d model x3d : 	 [C04-00365B](./Model3d/x3d/C04-00365B.x3d)
-- Package 3d model scad : 	 [C04-00365B](./Model3d/scad/C04-00365B.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00365B.pdf](./mchp/packages/c04-00365b.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00365B.wrl) : 	 [C04-00365B.wrl](./Model3d/wrl/C04-00365B.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00365B.x3d) : 	 [C04-00365B.x3d](./Model3d/x3d/C04-00365B.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00365B.scad) : 	 [C04-00365B.scad](./Model3d/scad/C04-00365B.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MZ2025DAL176
 
@@ -1386,18 +1631,23 @@ Pin count : 0
 - Family : PIC32MZDA
 - MF : Microchip
 - Name : PIC32MZ2025DAL176
+- Library Kicad : [PIC32MZDA.kicad_sym](./KiCad/PIC32MZDA.kicad_sym) 
+- Library Altium : [PIC32MZDA.lia](./Altium/PIC32MZDA.lia) 
+- Library Proteus : [PIC32MZDA.pdif](./Proteus/PIC32MZDA.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00367A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00367A](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 2JX
 - Package Type : 	 LQFP
 - Pin count : 	 176,00
-- Package Layout : 	 [C04-00367A](./mchp/packages/C04-00367A.pdf)
-- Package 3d model wrl : 	 [C04-00367A](./Model3d/wrl/C04-00367A.wrl)
-- Package 3d model x3d : 	 [C04-00367A](./Model3d/x3d/C04-00367A.x3d)
-- Package 3d model scad : 	 [C04-00367A](./Model3d/scad/C04-00367A.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00367A.pdf](./mchp/packages/c04-00367a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00367A.wrl) : 	 [C04-00367A.wrl](./Model3d/wrl/C04-00367A.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00367A.x3d) : 	 [C04-00367A.x3d](./Model3d/x3d/C04-00367A.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00367A.scad) : 	 [C04-00367A.scad](./Model3d/scad/C04-00367A.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MZ2025DAR169
 
@@ -1414,18 +1664,23 @@ Pin count : 0
 - Family : PIC32MZDA
 - MF : Microchip
 - Name : PIC32MZ2025DAR169
+- Library Kicad : [PIC32MZDA.kicad_sym](./KiCad/PIC32MZDA.kicad_sym) 
+- Library Altium : [PIC32MZDA.lia](./Altium/PIC32MZDA.lia) 
+- Library Proteus : [PIC32MZDA.pdif](./Proteus/PIC32MZDA.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00439C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00439C](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 6JX
 - Package Type : 	 LFBGA
 - Pin count : 	 169,00
-- Package Layout : 	 [C04-00439C](./mchp/packages/C04-00439C.pdf)
-- Package 3d model wrl : 	 [C04-00439C](./Model3d/wrl/C04-00439C.wrl)
-- Package 3d model x3d : 	 [C04-00439C](./Model3d/x3d/C04-00439C.x3d)
-- Package 3d model scad : 	 [C04-00439C](./Model3d/scad/C04-00439C.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00439C.pdf](./mchp/packages/c04-00439c.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00439C.wrl) : 	 [C04-00439C.wrl](./Model3d/wrl/C04-00439C.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00439C.x3d) : 	 [C04-00439C.x3d](./Model3d/x3d/C04-00439C.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00439C.scad) : 	 [C04-00439C.scad](./Model3d/scad/C04-00439C.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MZ2025DAR176
 
@@ -1442,18 +1697,23 @@ Pin count : 0
 - Family : PIC32MZDA
 - MF : Microchip
 - Name : PIC32MZ2025DAR176
+- Library Kicad : [PIC32MZDA.kicad_sym](./KiCad/PIC32MZDA.kicad_sym) 
+- Library Altium : [PIC32MZDA.lia](./Altium/PIC32MZDA.lia) 
+- Library Proteus : [PIC32MZDA.pdif](./Proteus/PIC32MZDA.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00367A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00367A](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 2JX
 - Package Type : 	 LQFP
 - Pin count : 	 176,00
-- Package Layout : 	 [C04-00367A](./mchp/packages/C04-00367A.pdf)
-- Package 3d model wrl : 	 [C04-00367A](./Model3d/wrl/C04-00367A.wrl)
-- Package 3d model x3d : 	 [C04-00367A](./Model3d/x3d/C04-00367A.x3d)
-- Package 3d model scad : 	 [C04-00367A](./Model3d/scad/C04-00367A.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00367A.pdf](./mchp/packages/c04-00367a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00367A.wrl) : 	 [C04-00367A.wrl](./Model3d/wrl/C04-00367A.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00367A.x3d) : 	 [C04-00367A.x3d](./Model3d/x3d/C04-00367A.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00367A.scad) : 	 [C04-00367A.scad](./Model3d/scad/C04-00367A.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MZ2025DAS169
 
@@ -1470,18 +1730,23 @@ Pin count : 0
 - Family : PIC32MZDA
 - MF : Microchip
 - Name : PIC32MZ2025DAS169
+- Library Kicad : [PIC32MZDA.kicad_sym](./KiCad/PIC32MZDA.kicad_sym) 
+- Library Altium : [PIC32MZDA.lia](./Altium/PIC32MZDA.lia) 
+- Library Proteus : [PIC32MZDA.pdif](./Proteus/PIC32MZDA.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00439C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00439C](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 6JX
 - Package Type : 	 LFBGA
 - Pin count : 	 169,00
-- Package Layout : 	 [C04-00439C](./mchp/packages/C04-00439C.pdf)
-- Package 3d model wrl : 	 [C04-00439C](./Model3d/wrl/C04-00439C.wrl)
-- Package 3d model x3d : 	 [C04-00439C](./Model3d/x3d/C04-00439C.x3d)
-- Package 3d model scad : 	 [C04-00439C](./Model3d/scad/C04-00439C.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00439C.pdf](./mchp/packages/c04-00439c.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00439C.wrl) : 	 [C04-00439C.wrl](./Model3d/wrl/C04-00439C.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00439C.x3d) : 	 [C04-00439C.x3d](./Model3d/x3d/C04-00439C.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00439C.scad) : 	 [C04-00439C.scad](./Model3d/scad/C04-00439C.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MZ2025DAS176
 
@@ -1498,18 +1763,23 @@ Pin count : 0
 - Family : PIC32MZDA
 - MF : Microchip
 - Name : PIC32MZ2025DAS176
+- Library Kicad : [PIC32MZDA.kicad_sym](./KiCad/PIC32MZDA.kicad_sym) 
+- Library Altium : [PIC32MZDA.lia](./Altium/PIC32MZDA.lia) 
+- Library Proteus : [PIC32MZDA.pdif](./Proteus/PIC32MZDA.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00367A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00367A](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 2JX
 - Package Type : 	 LQFP
 - Pin count : 	 176,00
-- Package Layout : 	 [C04-00367A](./mchp/packages/C04-00367A.pdf)
-- Package 3d model wrl : 	 [C04-00367A](./Model3d/wrl/C04-00367A.wrl)
-- Package 3d model x3d : 	 [C04-00367A](./Model3d/x3d/C04-00367A.x3d)
-- Package 3d model scad : 	 [C04-00367A](./Model3d/scad/C04-00367A.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00367A.pdf](./mchp/packages/c04-00367a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00367A.wrl) : 	 [C04-00367A.wrl](./Model3d/wrl/C04-00367A.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00367A.x3d) : 	 [C04-00367A.x3d](./Model3d/x3d/C04-00367A.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00367A.scad) : 	 [C04-00367A.scad](./Model3d/scad/C04-00367A.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MZ2064DAA169
 
@@ -1526,18 +1796,23 @@ Pin count : 0
 - Family : PIC32MZDA
 - MF : Microchip
 - Name : PIC32MZ2064DAA169
+- Library Kicad : [PIC32MZDA.kicad_sym](./KiCad/PIC32MZDA.kicad_sym) 
+- Library Altium : [PIC32MZDA.lia](./Altium/PIC32MZDA.lia) 
+- Library Proteus : [PIC32MZDA.pdif](./Proteus/PIC32MZDA.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00365B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00365B](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 HFX
 - Package Type : 	 LFBGA
 - Pin count : 	 169,00
-- Package Layout : 	 [C04-00365B](./mchp/packages/C04-00365B.pdf)
-- Package 3d model wrl : 	 [C04-00365B](./Model3d/wrl/C04-00365B.wrl)
-- Package 3d model x3d : 	 [C04-00365B](./Model3d/x3d/C04-00365B.x3d)
-- Package 3d model scad : 	 [C04-00365B](./Model3d/scad/C04-00365B.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00365B.pdf](./mchp/packages/c04-00365b.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00365B.wrl) : 	 [C04-00365B.wrl](./Model3d/wrl/C04-00365B.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00365B.x3d) : 	 [C04-00365B.x3d](./Model3d/x3d/C04-00365B.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00365B.scad) : 	 [C04-00365B.scad](./Model3d/scad/C04-00365B.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MZ2064DAA176
 
@@ -1554,18 +1829,23 @@ Pin count : 0
 - Family : PIC32MZDA
 - MF : Microchip
 - Name : PIC32MZ2064DAA176
+- Library Kicad : [PIC32MZDA.kicad_sym](./KiCad/PIC32MZDA.kicad_sym) 
+- Library Altium : [PIC32MZDA.lia](./Altium/PIC32MZDA.lia) 
+- Library Proteus : [PIC32MZDA.pdif](./Proteus/PIC32MZDA.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00367A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00367A](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 2JX
 - Package Type : 	 LQFP
 - Pin count : 	 176,00
-- Package Layout : 	 [C04-00367A](./mchp/packages/C04-00367A.pdf)
-- Package 3d model wrl : 	 [C04-00367A](./Model3d/wrl/C04-00367A.wrl)
-- Package 3d model x3d : 	 [C04-00367A](./Model3d/x3d/C04-00367A.x3d)
-- Package 3d model scad : 	 [C04-00367A](./Model3d/scad/C04-00367A.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00367A.pdf](./mchp/packages/c04-00367a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00367A.wrl) : 	 [C04-00367A.wrl](./Model3d/wrl/C04-00367A.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00367A.x3d) : 	 [C04-00367A.x3d](./Model3d/x3d/C04-00367A.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00367A.scad) : 	 [C04-00367A.scad](./Model3d/scad/C04-00367A.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MZ2064DAA288
 
@@ -1582,18 +1862,23 @@ Pin count : 0
 - Family : PIC32MZDA
 - MF : Microchip
 - Name : PIC32MZ2064DAA288
+- Library Kicad : [PIC32MZDA.kicad_sym](./KiCad/PIC32MZDA.kicad_sym) 
+- Library Altium : [PIC32MZDA.lia](./Altium/PIC32MZDA.lia) 
+- Library Proteus : [PIC32MZDA.pdif](./Proteus/PIC32MZDA.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00366C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00366C](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 4JX
 - Package Type : 	 LFBGA
 - Pin count : 	 288,00
-- Package Layout : 	 [C04-00366C](./mchp/packages/C04-00366C.pdf)
-- Package 3d model wrl : 	 [C04-00366C](./Model3d/wrl/C04-00366C.wrl)
-- Package 3d model x3d : 	 [C04-00366C](./Model3d/x3d/C04-00366C.x3d)
-- Package 3d model scad : 	 [C04-00366C](./Model3d/scad/C04-00366C.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00366C.pdf](./mchp/packages/c04-00366c.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00366C.wrl) : 	 [C04-00366C.wrl](./Model3d/wrl/C04-00366C.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00366C.x3d) : 	 [C04-00366C.x3d](./Model3d/x3d/C04-00366C.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00366C.scad) : 	 [C04-00366C.scad](./Model3d/scad/C04-00366C.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MZ2064DAB169
 
@@ -1610,18 +1895,23 @@ Pin count : 0
 - Family : PIC32MZDA
 - MF : Microchip
 - Name : PIC32MZ2064DAB169
+- Library Kicad : [PIC32MZDA.kicad_sym](./KiCad/PIC32MZDA.kicad_sym) 
+- Library Altium : [PIC32MZDA.lia](./Altium/PIC32MZDA.lia) 
+- Library Proteus : [PIC32MZDA.pdif](./Proteus/PIC32MZDA.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00365B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00365B](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 HFX
 - Package Type : 	 LFBGA
 - Pin count : 	 169,00
-- Package Layout : 	 [C04-00365B](./mchp/packages/C04-00365B.pdf)
-- Package 3d model wrl : 	 [C04-00365B](./Model3d/wrl/C04-00365B.wrl)
-- Package 3d model x3d : 	 [C04-00365B](./Model3d/x3d/C04-00365B.x3d)
-- Package 3d model scad : 	 [C04-00365B](./Model3d/scad/C04-00365B.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00365B.pdf](./mchp/packages/c04-00365b.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00365B.wrl) : 	 [C04-00365B.wrl](./Model3d/wrl/C04-00365B.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00365B.x3d) : 	 [C04-00365B.x3d](./Model3d/x3d/C04-00365B.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00365B.scad) : 	 [C04-00365B.scad](./Model3d/scad/C04-00365B.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MZ2064DAB176
 
@@ -1638,18 +1928,23 @@ Pin count : 0
 - Family : PIC32MZDA
 - MF : Microchip
 - Name : PIC32MZ2064DAB176
+- Library Kicad : [PIC32MZDA.kicad_sym](./KiCad/PIC32MZDA.kicad_sym) 
+- Library Altium : [PIC32MZDA.lia](./Altium/PIC32MZDA.lia) 
+- Library Proteus : [PIC32MZDA.pdif](./Proteus/PIC32MZDA.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00367A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00367A](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 2JX
 - Package Type : 	 LQFP
 - Pin count : 	 176,00
-- Package Layout : 	 [C04-00367A](./mchp/packages/C04-00367A.pdf)
-- Package 3d model wrl : 	 [C04-00367A](./Model3d/wrl/C04-00367A.wrl)
-- Package 3d model x3d : 	 [C04-00367A](./Model3d/x3d/C04-00367A.x3d)
-- Package 3d model scad : 	 [C04-00367A](./Model3d/scad/C04-00367A.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00367A.pdf](./mchp/packages/c04-00367a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00367A.wrl) : 	 [C04-00367A.wrl](./Model3d/wrl/C04-00367A.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00367A.x3d) : 	 [C04-00367A.x3d](./Model3d/x3d/C04-00367A.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00367A.scad) : 	 [C04-00367A.scad](./Model3d/scad/C04-00367A.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MZ2064DAB288
 
@@ -1666,18 +1961,23 @@ Pin count : 0
 - Family : PIC32MZDA
 - MF : Microchip
 - Name : PIC32MZ2064DAB288
+- Library Kicad : [PIC32MZDA.kicad_sym](./KiCad/PIC32MZDA.kicad_sym) 
+- Library Altium : [PIC32MZDA.lia](./Altium/PIC32MZDA.lia) 
+- Library Proteus : [PIC32MZDA.pdif](./Proteus/PIC32MZDA.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00366C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00366C](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 4JX
 - Package Type : 	 LFBGA
 - Pin count : 	 288,00
-- Package Layout : 	 [C04-00366C](./mchp/packages/C04-00366C.pdf)
-- Package 3d model wrl : 	 [C04-00366C](./Model3d/wrl/C04-00366C.wrl)
-- Package 3d model x3d : 	 [C04-00366C](./Model3d/x3d/C04-00366C.x3d)
-- Package 3d model scad : 	 [C04-00366C](./Model3d/scad/C04-00366C.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00366C.pdf](./mchp/packages/c04-00366c.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00366C.wrl) : 	 [C04-00366C.wrl](./Model3d/wrl/C04-00366C.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00366C.x3d) : 	 [C04-00366C.x3d](./Model3d/x3d/C04-00366C.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00366C.scad) : 	 [C04-00366C.scad](./Model3d/scad/C04-00366C.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MZ2064DAG169
 
@@ -1694,18 +1994,23 @@ Pin count : 0
 - Family : PIC32MZDA
 - MF : Microchip
 - Name : PIC32MZ2064DAG169
+- Library Kicad : [PIC32MZDA.kicad_sym](./KiCad/PIC32MZDA.kicad_sym) 
+- Library Altium : [PIC32MZDA.lia](./Altium/PIC32MZDA.lia) 
+- Library Proteus : [PIC32MZDA.pdif](./Proteus/PIC32MZDA.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00439C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00439C](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 6JX
 - Package Type : 	 LFBGA
 - Pin count : 	 169,00
-- Package Layout : 	 [C04-00439C](./mchp/packages/C04-00439C.pdf)
-- Package 3d model wrl : 	 [C04-00439C](./Model3d/wrl/C04-00439C.wrl)
-- Package 3d model x3d : 	 [C04-00439C](./Model3d/x3d/C04-00439C.x3d)
-- Package 3d model scad : 	 [C04-00439C](./Model3d/scad/C04-00439C.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00439C.pdf](./mchp/packages/c04-00439c.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00439C.wrl) : 	 [C04-00439C.wrl](./Model3d/wrl/C04-00439C.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00439C.x3d) : 	 [C04-00439C.x3d](./Model3d/x3d/C04-00439C.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00439C.scad) : 	 [C04-00439C.scad](./Model3d/scad/C04-00439C.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MZ2064DAG176
 
@@ -1722,18 +2027,23 @@ Pin count : 0
 - Family : PIC32MZDA
 - MF : Microchip
 - Name : PIC32MZ2064DAG176
+- Library Kicad : [PIC32MZDA.kicad_sym](./KiCad/PIC32MZDA.kicad_sym) 
+- Library Altium : [PIC32MZDA.lia](./Altium/PIC32MZDA.lia) 
+- Library Proteus : [PIC32MZDA.pdif](./Proteus/PIC32MZDA.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00367A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00367A](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 2JX
 - Package Type : 	 LQFP
 - Pin count : 	 176,00
-- Package Layout : 	 [C04-00367A](./mchp/packages/C04-00367A.pdf)
-- Package 3d model wrl : 	 [C04-00367A](./Model3d/wrl/C04-00367A.wrl)
-- Package 3d model x3d : 	 [C04-00367A](./Model3d/x3d/C04-00367A.x3d)
-- Package 3d model scad : 	 [C04-00367A](./Model3d/scad/C04-00367A.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00367A.pdf](./mchp/packages/c04-00367a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00367A.wrl) : 	 [C04-00367A.wrl](./Model3d/wrl/C04-00367A.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00367A.x3d) : 	 [C04-00367A.x3d](./Model3d/x3d/C04-00367A.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00367A.scad) : 	 [C04-00367A.scad](./Model3d/scad/C04-00367A.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MZ2064DAH169
 
@@ -1750,18 +2060,23 @@ Pin count : 0
 - Family : PIC32MZDA
 - MF : Microchip
 - Name : PIC32MZ2064DAH169
+- Library Kicad : [PIC32MZDA.kicad_sym](./KiCad/PIC32MZDA.kicad_sym) 
+- Library Altium : [PIC32MZDA.lia](./Altium/PIC32MZDA.lia) 
+- Library Proteus : [PIC32MZDA.pdif](./Proteus/PIC32MZDA.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00439C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00439C](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 6JX
 - Package Type : 	 LFBGA
 - Pin count : 	 169,00
-- Package Layout : 	 [C04-00439C](./mchp/packages/C04-00439C.pdf)
-- Package 3d model wrl : 	 [C04-00439C](./Model3d/wrl/C04-00439C.wrl)
-- Package 3d model x3d : 	 [C04-00439C](./Model3d/x3d/C04-00439C.x3d)
-- Package 3d model scad : 	 [C04-00439C](./Model3d/scad/C04-00439C.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00439C.pdf](./mchp/packages/c04-00439c.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00439C.wrl) : 	 [C04-00439C.wrl](./Model3d/wrl/C04-00439C.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00439C.x3d) : 	 [C04-00439C.x3d](./Model3d/x3d/C04-00439C.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00439C.scad) : 	 [C04-00439C.scad](./Model3d/scad/C04-00439C.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MZ2064DAH176
 
@@ -1778,18 +2093,23 @@ Pin count : 0
 - Family : PIC32MZDA
 - MF : Microchip
 - Name : PIC32MZ2064DAH176
+- Library Kicad : [PIC32MZDA.kicad_sym](./KiCad/PIC32MZDA.kicad_sym) 
+- Library Altium : [PIC32MZDA.lia](./Altium/PIC32MZDA.lia) 
+- Library Proteus : [PIC32MZDA.pdif](./Proteus/PIC32MZDA.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00367A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00367A](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 2JX
 - Package Type : 	 LQFP
 - Pin count : 	 176,00
-- Package Layout : 	 [C04-00367A](./mchp/packages/C04-00367A.pdf)
-- Package 3d model wrl : 	 [C04-00367A](./Model3d/wrl/C04-00367A.wrl)
-- Package 3d model x3d : 	 [C04-00367A](./Model3d/x3d/C04-00367A.x3d)
-- Package 3d model scad : 	 [C04-00367A](./Model3d/scad/C04-00367A.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00367A.pdf](./mchp/packages/c04-00367a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00367A.wrl) : 	 [C04-00367A.wrl](./Model3d/wrl/C04-00367A.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00367A.x3d) : 	 [C04-00367A.x3d](./Model3d/x3d/C04-00367A.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00367A.scad) : 	 [C04-00367A.scad](./Model3d/scad/C04-00367A.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MZ2064DAK169
 
@@ -1806,18 +2126,23 @@ Pin count : 0
 - Family : PIC32MZDA
 - MF : Microchip
 - Name : PIC32MZ2064DAK169
+- Library Kicad : [PIC32MZDA.kicad_sym](./KiCad/PIC32MZDA.kicad_sym) 
+- Library Altium : [PIC32MZDA.lia](./Altium/PIC32MZDA.lia) 
+- Library Proteus : [PIC32MZDA.pdif](./Proteus/PIC32MZDA.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00365B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00365B](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 HFX
 - Package Type : 	 LFBGA
 - Pin count : 	 169,00
-- Package Layout : 	 [C04-00365B](./mchp/packages/C04-00365B.pdf)
-- Package 3d model wrl : 	 [C04-00365B](./Model3d/wrl/C04-00365B.wrl)
-- Package 3d model x3d : 	 [C04-00365B](./Model3d/x3d/C04-00365B.x3d)
-- Package 3d model scad : 	 [C04-00365B](./Model3d/scad/C04-00365B.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00365B.pdf](./mchp/packages/c04-00365b.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00365B.wrl) : 	 [C04-00365B.wrl](./Model3d/wrl/C04-00365B.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00365B.x3d) : 	 [C04-00365B.x3d](./Model3d/x3d/C04-00365B.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00365B.scad) : 	 [C04-00365B.scad](./Model3d/scad/C04-00365B.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MZ2064DAK176
 
@@ -1834,18 +2159,23 @@ Pin count : 0
 - Family : PIC32MZDA
 - MF : Microchip
 - Name : PIC32MZ2064DAK176
+- Library Kicad : [PIC32MZDA.kicad_sym](./KiCad/PIC32MZDA.kicad_sym) 
+- Library Altium : [PIC32MZDA.lia](./Altium/PIC32MZDA.lia) 
+- Library Proteus : [PIC32MZDA.pdif](./Proteus/PIC32MZDA.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00367A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00367A](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 2JX
 - Package Type : 	 LQFP
 - Pin count : 	 176,00
-- Package Layout : 	 [C04-00367A](./mchp/packages/C04-00367A.pdf)
-- Package 3d model wrl : 	 [C04-00367A](./Model3d/wrl/C04-00367A.wrl)
-- Package 3d model x3d : 	 [C04-00367A](./Model3d/x3d/C04-00367A.x3d)
-- Package 3d model scad : 	 [C04-00367A](./Model3d/scad/C04-00367A.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00367A.pdf](./mchp/packages/c04-00367a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00367A.wrl) : 	 [C04-00367A.wrl](./Model3d/wrl/C04-00367A.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00367A.x3d) : 	 [C04-00367A.x3d](./Model3d/x3d/C04-00367A.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00367A.scad) : 	 [C04-00367A.scad](./Model3d/scad/C04-00367A.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MZ2064DAL169
 
@@ -1862,18 +2192,23 @@ Pin count : 0
 - Family : PIC32MZDA
 - MF : Microchip
 - Name : PIC32MZ2064DAL169
+- Library Kicad : [PIC32MZDA.kicad_sym](./KiCad/PIC32MZDA.kicad_sym) 
+- Library Altium : [PIC32MZDA.lia](./Altium/PIC32MZDA.lia) 
+- Library Proteus : [PIC32MZDA.pdif](./Proteus/PIC32MZDA.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00365B](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00365B](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 HFX
 - Package Type : 	 LFBGA
 - Pin count : 	 169,00
-- Package Layout : 	 [C04-00365B](./mchp/packages/C04-00365B.pdf)
-- Package 3d model wrl : 	 [C04-00365B](./Model3d/wrl/C04-00365B.wrl)
-- Package 3d model x3d : 	 [C04-00365B](./Model3d/x3d/C04-00365B.x3d)
-- Package 3d model scad : 	 [C04-00365B](./Model3d/scad/C04-00365B.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00365B.pdf](./mchp/packages/c04-00365b.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00365B.wrl) : 	 [C04-00365B.wrl](./Model3d/wrl/C04-00365B.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00365B.x3d) : 	 [C04-00365B.x3d](./Model3d/x3d/C04-00365B.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00365B.scad) : 	 [C04-00365B.scad](./Model3d/scad/C04-00365B.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MZ2064DAL176
 
@@ -1890,18 +2225,23 @@ Pin count : 0
 - Family : PIC32MZDA
 - MF : Microchip
 - Name : PIC32MZ2064DAL176
+- Library Kicad : [PIC32MZDA.kicad_sym](./KiCad/PIC32MZDA.kicad_sym) 
+- Library Altium : [PIC32MZDA.lia](./Altium/PIC32MZDA.lia) 
+- Library Proteus : [PIC32MZDA.pdif](./Proteus/PIC32MZDA.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00367A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00367A](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 2JX
 - Package Type : 	 LQFP
 - Pin count : 	 176,00
-- Package Layout : 	 [C04-00367A](./mchp/packages/C04-00367A.pdf)
-- Package 3d model wrl : 	 [C04-00367A](./Model3d/wrl/C04-00367A.wrl)
-- Package 3d model x3d : 	 [C04-00367A](./Model3d/x3d/C04-00367A.x3d)
-- Package 3d model scad : 	 [C04-00367A](./Model3d/scad/C04-00367A.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00367A.pdf](./mchp/packages/c04-00367a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00367A.wrl) : 	 [C04-00367A.wrl](./Model3d/wrl/C04-00367A.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00367A.x3d) : 	 [C04-00367A.x3d](./Model3d/x3d/C04-00367A.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00367A.scad) : 	 [C04-00367A.scad](./Model3d/scad/C04-00367A.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MZ2064DAR169
 
@@ -1918,18 +2258,23 @@ Pin count : 0
 - Family : PIC32MZDA
 - MF : Microchip
 - Name : PIC32MZ2064DAR169
+- Library Kicad : [PIC32MZDA.kicad_sym](./KiCad/PIC32MZDA.kicad_sym) 
+- Library Altium : [PIC32MZDA.lia](./Altium/PIC32MZDA.lia) 
+- Library Proteus : [PIC32MZDA.pdif](./Proteus/PIC32MZDA.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00439C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00439C](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 6JX
 - Package Type : 	 LFBGA
 - Pin count : 	 169,00
-- Package Layout : 	 [C04-00439C](./mchp/packages/C04-00439C.pdf)
-- Package 3d model wrl : 	 [C04-00439C](./Model3d/wrl/C04-00439C.wrl)
-- Package 3d model x3d : 	 [C04-00439C](./Model3d/x3d/C04-00439C.x3d)
-- Package 3d model scad : 	 [C04-00439C](./Model3d/scad/C04-00439C.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00439C.pdf](./mchp/packages/c04-00439c.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00439C.wrl) : 	 [C04-00439C.wrl](./Model3d/wrl/C04-00439C.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00439C.x3d) : 	 [C04-00439C.x3d](./Model3d/x3d/C04-00439C.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00439C.scad) : 	 [C04-00439C.scad](./Model3d/scad/C04-00439C.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MZ2064DAR176
 
@@ -1946,18 +2291,23 @@ Pin count : 0
 - Family : PIC32MZDA
 - MF : Microchip
 - Name : PIC32MZ2064DAR176
+- Library Kicad : [PIC32MZDA.kicad_sym](./KiCad/PIC32MZDA.kicad_sym) 
+- Library Altium : [PIC32MZDA.lia](./Altium/PIC32MZDA.lia) 
+- Library Proteus : [PIC32MZDA.pdif](./Proteus/PIC32MZDA.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00367A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00367A](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 2JX
 - Package Type : 	 LQFP
 - Pin count : 	 176,00
-- Package Layout : 	 [C04-00367A](./mchp/packages/C04-00367A.pdf)
-- Package 3d model wrl : 	 [C04-00367A](./Model3d/wrl/C04-00367A.wrl)
-- Package 3d model x3d : 	 [C04-00367A](./Model3d/x3d/C04-00367A.x3d)
-- Package 3d model scad : 	 [C04-00367A](./Model3d/scad/C04-00367A.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00367A.pdf](./mchp/packages/c04-00367a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00367A.wrl) : 	 [C04-00367A.wrl](./Model3d/wrl/C04-00367A.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00367A.x3d) : 	 [C04-00367A.x3d](./Model3d/x3d/C04-00367A.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00367A.scad) : 	 [C04-00367A.scad](./Model3d/scad/C04-00367A.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MZ2064DAS169
 
@@ -1974,18 +2324,23 @@ Pin count : 0
 - Family : PIC32MZDA
 - MF : Microchip
 - Name : PIC32MZ2064DAS169
+- Library Kicad : [PIC32MZDA.kicad_sym](./KiCad/PIC32MZDA.kicad_sym) 
+- Library Altium : [PIC32MZDA.lia](./Altium/PIC32MZDA.lia) 
+- Library Proteus : [PIC32MZDA.pdif](./Proteus/PIC32MZDA.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00439C](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00439C](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 6JX
 - Package Type : 	 LFBGA
 - Pin count : 	 169,00
-- Package Layout : 	 [C04-00439C](./mchp/packages/C04-00439C.pdf)
-- Package 3d model wrl : 	 [C04-00439C](./Model3d/wrl/C04-00439C.wrl)
-- Package 3d model x3d : 	 [C04-00439C](./Model3d/x3d/C04-00439C.x3d)
-- Package 3d model scad : 	 [C04-00439C](./Model3d/scad/C04-00439C.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00439C.pdf](./mchp/packages/c04-00439c.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00439C.wrl) : 	 [C04-00439C.wrl](./Model3d/wrl/C04-00439C.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00439C.x3d) : 	 [C04-00439C.x3d](./Model3d/x3d/C04-00439C.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00439C.scad) : 	 [C04-00439C.scad](./Model3d/scad/C04-00439C.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
 ## PIC32MZ2064DAS176
 
@@ -2002,16 +2357,21 @@ Pin count : 0
 - Family : PIC32MZDA
 - MF : Microchip
 - Name : PIC32MZ2064DAS176
+- Library Kicad : [PIC32MZDA.kicad_sym](./KiCad/PIC32MZDA.kicad_sym) 
+- Library Altium : [PIC32MZDA.lia](./Altium/PIC32MZDA.lia) 
+- Library Proteus : [PIC32MZDA.pdif](./Proteus/PIC32MZDA.pdif) 
 
 ### Package : 
 
-- Package id : 	 [C04-00367A](https://www.microchip.com/en-us/support/package-drawings)
+- Package Outline Drawings : 	 [C04-00367A](https://www.microchip.com/en-us/support/package-drawings)
 - Package Code : 	 2JX
 - Package Type : 	 LQFP
 - Pin count : 	 176,00
-- Package Layout : 	 [C04-00367A](./mchp/packages/C04-00367A.pdf)
-- Package 3d model wrl : 	 [C04-00367A](./Model3d/wrl/C04-00367A.wrl)
-- Package 3d model x3d : 	 [C04-00367A](./Model3d/x3d/C04-00367A.x3d)
-- Package 3d model scad : 	 [C04-00367A](./Model3d/scad/C04-00367A.scad)
-please verify some data are inconsistante 	 
+- Package Layout : 	 [C04-00367A.pdf](./mchp/packages/c04-00367a.pdf)
+- Package [3d model wrl](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/wrl/C04-00367A.wrl) : 	 [C04-00367A.wrl](./Model3d/wrl/C04-00367A.wrl)
+- Package [3d model x3d](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/x3d/C04-00367A.x3d) : 	 [C04-00367A.x3d](./Model3d/x3d/C04-00367A.x3d)
+- Package [3d model scad](https://3dviewer.net/#model=https://github.com/zoubworldArduino/cao_electronics/blob/main/Model3d/scad/C04-00367A.scad) : 	 [C04-00367A.scad](./Model3d/scad/C04-00367A.scad)
+
+please check that some data is inconsistent 	 
+
 Pin count : 0
